@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2009-08-07,Ajaccio,Guingamp,0-1,0-0
+2009-08-07,Angers,Dijon,3-0,0-0
+2009-08-07,Brest,Laval,2-1,1-1
+2009-08-07,Clermont,Arles,1-2,1-1
+2009-08-07,Istres,Bastia,1-0,0-0
+2009-08-07,Sedan,Le Havre,1-1,0-1
+2009-08-07,Strasbourg,Chateauroux,1-2,1-1
+2009-08-07,Tours,Nimes,0-0,0-0
+2009-08-07,Vannes,Metz,3-0,1-0
+2009-08-10,Caen,Nantes,1-0,1-0
+2009-08-13,Laval,Strasbourg,3-2,1-1
+2009-08-14,Arles,Ajaccio,2-1,0-0
+2009-08-14,Bastia,Caen,1-2,0-1
+2009-08-14,Chateauroux,Sedan,1-0,1-0
+2009-08-14,Dijon,Tours,2-2,0-1
+2009-08-14,Guingamp,Angers,0-0,0-0
+2009-08-14,Le Havre,Brest,1-0,1-0
+2009-08-14,Metz,Istres,2-0,0-0
+2009-08-14,Nantes,Clermont,3-2,1-1
+2009-08-14,Nimes,Vannes,1-1,0-0
+2009-08-17,Brest,Metz,2-1,0-0
+2009-08-18,Angers,Chateauroux,0-3,0-2
+2009-08-18,Bastia,Nimes,6-1,2-1
+2009-08-18,Caen,Dijon,1-0,1-0
+2009-08-18,Clermont,Laval,0-0,0-0
+2009-08-18,Sedan,Ajaccio,1-3,1-1
+2009-08-18,Strasbourg,Arles,1-1,1-0
+2009-08-18,Tours,Le Havre,2-0,2-0
+2009-08-18,Vannes,Nantes,1-1,0-1
+2009-08-21,Ajaccio,Strasbourg,2-2,0-1
+2009-08-21,Arles,Brest,3-2,2-1
+2009-08-21,Chateauroux,Caen,1-1,0-1
+2009-08-21,Dijon,Nimes,1-0,1-0
+2009-08-21,Laval,Tours,1-0,0-0
+2009-08-21,Le Havre,Angers,3-2,1-2
+2009-08-21,Nantes,Istres,5-0,1-0
+2009-08-21,Sedan,Clermont,2-1,1-0
+2009-08-23,Guingamp,Vannes,4-1,3-0
+2009-08-24,Metz,Bastia,1-0,0-0
+2009-08-28,Bastia,Laval,0-1,0-1
+2009-08-28,Caen,Arles,1-0,0-0
+2009-08-28,Clermont,Chateauroux,0-0,0-0
+2009-08-28,Istres,Dijon,1-1,1-0
+2009-08-28,Strasbourg,Sedan,2-2,0-1
+2009-08-29,Angers,Ajaccio,2-1,1-1
+2009-08-30,Nimes,Metz,1-1,0-0
+2009-08-30,Tours,Guingamp,2-0,0-0
+2009-08-30,Vannes,Le Havre,1-1,0-1
+2009-08-31,Brest,Nantes,1-2,0-1
+2009-09-04,Istres,Guingamp,0-0,0-0
+2009-09-11,Ajaccio,Clermont,1-1,1-0
+2009-09-11,Arles,Angers,1-1,1-1
+2009-09-11,Chateauroux,Brest,1-1,0-0
+2009-09-11,Dijon,Bastia,1-0,1-0
+2009-09-11,Guingamp,Caen,0-0,0-0
+2009-09-11,Laval,Istres,2-2,1-1
+2009-09-11,Le Havre,Nimes,0-2,0-0
+2009-09-11,Metz,Tours,1-1,0-0
+2009-09-11,Sedan,Vannes,0-1,0-0
+2009-09-14,Nantes,Strasbourg,2-1,2-1
+2009-09-18,Angers,Sedan,1-1,1-1
+2009-09-18,Bastia,Nantes,1-1,1-1
+2009-09-18,Brest,Guingamp,2-0,0-0
+2009-09-18,Clermont,Strasbourg,3-0,0-0
+2009-09-18,Istres,Le Havre,0-1,0-1
+2009-09-18,Metz,Dijon,0-0,0-0
+2009-09-18,Nimes,Laval,1-1,0-0
+2009-09-18,Tours,Arles,4-2,2-1
+2009-09-18,Vannes,Chateauroux,3-2,1-1
+2009-09-21,Caen,Ajaccio,1-0,1-0
+2009-09-25,Ajaccio,Tours,2-2,1-0
+2009-09-25,Arles,Vannes,1-1,0-0
+2009-09-25,Chateauroux,Istres,0-2,0-1
+2009-09-25,Clermont,Angers,3-2,0-0
+2009-09-25,Guingamp,Bastia,1-1,0-1
+2009-09-25,Laval,Dijon,2-2,1-1
+2009-09-26,Le Havre,Metz,2-0,0-0
+2009-09-26,Nantes,Nimes,2-1,2-1
+2009-09-26,Sedan,Brest,0-0,0-0
+2009-09-28,Strasbourg,Caen,2-2,0-0
+2009-10-02,Angers,Strasbourg,0-0,0-0
+2009-10-02,Bastia,Chateauroux,0-1,0-1
+2009-10-02,Brest,Clermont,2-0,1-0
+2009-10-02,Caen,Sedan,3-1,0-1
+2009-10-02,Dijon,Le Havre,1-2,1-0
+2009-10-02,Istres,Arles,1-1,1-0
+2009-10-02,Metz,Laval,3-2,0-2
+2009-10-02,Nimes,Guingamp,2-0,0-0
+2009-10-02,Vannes,Ajaccio,0-3,0-2
+2009-10-05,Tours,Nantes,1-1,0-0
+2009-10-16,Ajaccio,Brest,0-0,0-0
+2009-10-16,Angers,Istres,1-0,1-0
+2009-10-16,Arles,Bastia,1-0,1-0
+2009-10-16,Chateauroux,Nimes,1-2,1-1
+2009-10-16,Clermont,Caen,1-3,0-0
+2009-10-16,Guingamp,Dijon,1-1,1-0
+2009-10-16,Le Havre,Laval,0-2,0-2
+2009-10-16,Sedan,Tours,2-0,2-0
+2009-10-16,Strasbourg,Vannes,1-0,1-0
+2009-10-19,Nantes,Metz,2-2,1-2
+2009-10-23,Bastia,Le Havre,1-1,1-1
+2009-10-23,Brest,Strasbourg,1-1,0-0
+2009-10-23,Caen,Angers,2-1,2-1
+2009-10-23,Dijon,Nantes,1-2,0-1
+2009-10-23,Istres,Ajaccio,0-2,0-1
+2009-10-23,Laval,Arles,0-1,0-0
+2009-10-23,Metz,Guingamp,2-0,0-0
+2009-10-23,Nimes,Sedan,3-0,1-0
+2009-10-23,Tours,Chateauroux,2-2,1-1
+2009-10-23,Vannes,Clermont,1-2,1-2
+2009-10-26,Guingamp,Le Havre,1-2,1-2
+2009-10-27,Ajaccio,Nimes,2-0,0-0
+2009-10-27,Angers,Brest,1-2,0-1
+2009-10-27,Arles,Dijon,0-0,0-0
+2009-10-27,Caen,Vannes,4-2,1-1
+2009-10-27,Chateauroux,Metz,1-2,0-1
+2009-10-27,Clermont,Istres,2-0,0-0
+2009-10-27,Nantes,Laval,0-0,0-0
+2009-10-27,Sedan,Bastia,1-0,1-0
+2009-10-27,Strasbourg,Tours,0-1,0-0
+2009-10-30,Bastia,Ajaccio,1-0,0-0
+2009-10-30,Brest,Caen,2-0,2-0
+2009-10-30,Dijon,Chateauroux,5-4,1-3
+2009-10-30,Istres,Sedan,3-1,2-0
+2009-10-30,Laval,Guingamp,3-0,1-0
+2009-10-30,Metz,Strasbourg,1-0,0-0
+2009-10-30,Nimes,Arles,1-1,0-0
+2009-10-30,Tours,Clermont,1-1,1-1
+2009-10-30,Vannes,Angers,1-0,1-0
+2009-11-02,Le Havre,Nantes,4-0,0-0
+2009-11-06,Ajaccio,Dijon,0-0,0-0
+2009-11-06,Angers,Bastia,2-0,1-0
+2009-11-06,Arles,Le Havre,1-0,1-0
+2009-11-06,Brest,Vannes,3-4,1-2
+2009-11-06,Caen,Tours,0-0,0-0
+2009-11-06,Chateauroux,Laval,2-1,0-0
+2009-11-06,Clermont,Nimes,0-1,0-0
+2009-11-06,Sedan,Metz,1-1,1-1
+2009-11-06,Strasbourg,Istres,2-0,1-0
+2009-11-09,Nantes,Guingamp,0-2,0-1
+2009-11-26,Metz,Clermont,2-1,0-0
+2009-11-27,Bastia,Brest,1-1,1-0
+2009-11-27,Dijon,Strasbourg,0-0,0-0
+2009-11-27,Guingamp,Arles,4-1,1-0
+2009-11-27,Istres,Vannes,1-1,0-0
+2009-11-27,Laval,Sedan,1-1,0-0
+2009-11-27,Le Havre,Ajaccio,1-0,0-0
+2009-11-27,Nantes,Chateauroux,2-2,0-1
+2009-11-27,Nimes,Caen,0-4,0-2
+2009-11-27,Tours,Angers,2-0,1-0
+2009-11-30,Caen,Le Havre,2-0,1-0
+2009-12-01,Ajaccio,Laval,1-1,0-1
+2009-12-01,Angers,Nimes,1-0,0-0
+2009-12-01,Arles,Metz,2-0,1-0
+2009-12-01,Brest,Istres,1-0,1-0
+2009-12-01,Chateauroux,Guingamp,0-1,0-0
+2009-12-01,Clermont,Dijon,0-2,0-0
+2009-12-01,Sedan,Nantes,3-0,0-0
+2009-12-01,Strasbourg,Bastia,2-1,0-0
+2009-12-01,Vannes,Tours,1-2,0-2
+2009-12-04,Bastia,Clermont,1-3,0-3
+2009-12-04,Dijon,Vannes,0-0,0-0
+2009-12-04,Guingamp,Sedan,2-2,0-1
+2009-12-04,Istres,Caen,2-1,2-0
+2009-12-04,Laval,Angers,2-2,0-0
+2009-12-04,Le Havre,Chateauroux,2-2,1-0
+2009-12-04,Metz,Ajaccio,2-0,1-0
+2009-12-04,Nimes,Strasbourg,2-1,2-1
+2009-12-04,Tours,Brest,0-1,0-1
+2009-12-07,Nantes,Arles,1-0,0-0
+2009-12-18,Ajaccio,Nantes,2-1,1-1
+2009-12-18,Arles,Chateauroux,3-0,1-0
+2009-12-18,Brest,Nimes,1-0,1-0
+2009-12-18,Caen,Laval,1-1,1-0
+2009-12-18,Clermont,Le Havre,1-0,1-0
+2009-12-18,Sedan,Dijon,2-1,2-0
+2009-12-18,Strasbourg,Guingamp,2-1,1-0
+2009-12-18,Vannes,Bastia,3-0,1-0
+2009-12-22,Bastia,Tours,3-1,2-0
+2009-12-22,Chateauroux,Ajaccio,1-2,1-2
+2009-12-22,Dijon,Brest,1-3,0-1
+2009-12-22,Guingamp,Clermont,1-1,0-0
+2009-12-22,Laval,Vannes,2-1,0-0
+2009-12-22,Le Havre,Strasbourg,3-0,0-0
+2009-12-22,Nantes,Angers,1-2,1-1
+2009-12-22,Nimes,Istres,2-1,1-0
+2010-01-14,Brest,Le Havre,2-1,1-1
+2010-01-15,Ajaccio,Arles,1-0,0-0
+2010-01-15,Caen,Bastia,1-0,0-0
+2010-01-15,Clermont,Nantes,2-0,1-0
+2010-01-15,Sedan,Chateauroux,1-1,0-1
+2010-01-15,Strasbourg,Laval,4-1,2-0
+2010-01-15,Tours,Dijon,1-4,0-2
+2010-01-15,Vannes,Nimes,0-2,0-2
+2010-01-16,Angers,Guingamp,1-0,0-0
+2010-01-16,Istres,Metz,2-2,0-1
+2010-01-18,Le Havre,Tours,1-1,1-0
+2010-01-19,Ajaccio,Sedan,2-0,2-0
+2010-01-19,Arles,Strasbourg,1-1,0-1
+2010-01-19,Chateauroux,Angers,2-0,1-0
+2010-01-19,Dijon,Caen,1-1,1-0
+2010-01-19,Guingamp,Istres,0-0,0-0
+2010-01-19,Laval,Clermont,0-0,0-0
+2010-01-19,Metz,Brest,0-0,0-0
+2010-01-19,Nantes,Vannes,0-0,0-0
+2010-01-19,Nimes,Bastia,2-1,1-1
+2010-01-23,Tours,Istres,4-0,0-0
+2010-01-25,Metz,Caen,1-3,1-1
+2010-01-29,Angers,Le Havre,0-0,0-0
+2010-01-29,Bastia,Metz,1-0,0-0
+2010-01-29,Caen,Chateauroux,1-1,0-0
+2010-01-29,Clermont,Sedan,0-3,0-2
+2010-01-29,Istres,Nantes,1-0,0-0
+2010-01-29,Nimes,Dijon,2-1,0-1
+2010-01-29,Strasbourg,Ajaccio,2-0,2-0
+2010-01-29,Tours,Laval,0-3,0-1
+2010-01-30,Vannes,Guingamp,2-2,2-0
+2010-02-01,Brest,Arles,3-1,1-1
+2010-02-05,Ajaccio,Angers,0-2,0-2
+2010-02-05,Chateauroux,Clermont,1-3,0-0
+2010-02-05,Dijon,Istres,1-1,1-0
+2010-02-05,Guingamp,Tours,2-2,2-1
+2010-02-05,Laval,Bastia,1-1,0-1
+2010-02-05,Le Havre,Vannes,0-1,0-1
+2010-02-05,Metz,Nimes,3-1,2-1
+2010-02-05,Nantes,Brest,1-4,1-2
+2010-02-05,Sedan,Strasbourg,3-3,2-1
+2010-02-08,Arles,Caen,0-0,0-0
+2010-02-09,Angers,Metz,0-1,0-0
+2010-02-12,Angers,Arles,3-1,2-0
+2010-02-12,Bastia,Dijon,3-4,2-1
+2010-02-12,Caen,Guingamp,2-0,1-0
+2010-02-12,Istres,Laval,0-2,0-0
+2010-02-12,Nimes,Le Havre,1-1,0-0
+2010-02-12,Tours,Metz,1-1,1-0
+2010-02-13,Brest,Chateauroux,2-1,0-1
+2010-02-13,Vannes,Sedan,0-2,0-1
+2010-02-15,Strasbourg,Nantes,1-0,0-0
+2010-02-19,Ajaccio,Caen,2-0,0-0
+2010-02-19,Arles,Tours,1-2,0-1
+2010-02-19,Chateauroux,Vannes,0-0,0-0
+2010-02-19,Dijon,Metz,0-1,0-1
+2010-02-19,Laval,Nimes,0-0,0-0
+2010-02-19,Le Havre,Istres,2-1,0-0
+2010-02-19,Nantes,Bastia,3-1,2-1
+2010-02-19,Sedan,Angers,2-2,1-1
+2010-02-19,Strasbourg,Clermont,1-1,0-1
+2010-02-21,Guingamp,Brest,0-0,0-0
+2010-02-26,Angers,Clermont,2-1,1-1
+2010-02-26,Bastia,Guingamp,0-0,0-0
+2010-02-26,Brest,Sedan,1-3,0-2
+2010-02-26,Caen,Strasbourg,0-0,0-0
+2010-02-26,Dijon,Laval,0-0,0-0
+2010-02-26,Istres,Chateauroux,2-0,1-0
+2010-02-26,Nimes,Nantes,2-1,0-1
+2010-02-26,Tours,Ajaccio,1-3,1-0
+2010-02-26,Vannes,Arles,0-0,0-0
+2010-03-01,Metz,Le Havre,2-0,1-0
+2010-03-02,Arles,Sedan,1-0,0-0
+2010-03-05,Ajaccio,Vannes,1-1,0-0
+2010-03-05,Arles,Istres,3-0,2-0
+2010-03-05,Chateauroux,Bastia,2-2,1-2
+2010-03-05,Clermont,Brest,0-1,0-0
+2010-03-05,Guingamp,Nimes,0-0,0-0
+2010-03-05,Le Havre,Dijon,1-1,1-0
+2010-03-05,Nantes,Tours,2-1,1-0
+2010-03-05,Sedan,Caen,0-0,0-0
+2010-03-05,Strasbourg,Angers,1-2,0-0
+2010-03-08,Laval,Metz,3-3,1-1
+2010-03-12,Bastia,Arles,3-0,1-0
+2010-03-12,Brest,Ajaccio,0-1,0-1
+2010-03-12,Caen,Clermont,2-1,1-1
+2010-03-12,Dijon,Guingamp,1-0,0-0
+2010-03-12,Istres,Angers,1-1,1-1
+2010-03-12,Laval,Le Havre,4-0,2-0
+2010-03-12,Nimes,Chateauroux,1-4,1-2
+2010-03-12,Tours,Sedan,1-3,0-2
+2010-03-12,Vannes,Strasbourg,1-1,1-0
+2010-03-15,Metz,Nantes,0-0,0-0
+2010-03-19,Ajaccio,Istres,1-2,0-1
+2010-03-19,Arles,Laval,2-0,2-0
+2010-03-19,Chateauroux,Tours,0-3,0-1
+2010-03-19,Clermont,Vannes,1-0,0-0
+2010-03-19,Guingamp,Metz,2-1,1-1
+2010-03-19,Le Havre,Bastia,3-1,2-0
+2010-03-19,Nantes,Dijon,0-1,0-1
+2010-03-19,Sedan,Nimes,0-0,0-0
+2010-03-19,Strasbourg,Brest,1-0,0-0
+2010-03-22,Angers,Caen,2-2,0-1
+2010-03-23,Clermont,Ajaccio,3-0,0-0
+2010-03-26,Bastia,Sedan,2-0,2-0
+2010-03-26,Brest,Angers,2-0,2-0
+2010-03-26,Dijon,Arles,1-1,0-0
+2010-03-26,Istres,Clermont,1-3,1-1
+2010-03-26,Laval,Nantes,0-1,0-1
+2010-03-26,Metz,Chateauroux,0-0,0-0
+2010-03-26,Nimes,Ajaccio,2-0,0-0
+2010-03-26,Tours,Strasbourg,2-0,0-0
+2010-03-26,Vannes,Caen,0-3,0-2
+2010-03-29,Le Havre,Guingamp,2-1,1-0
+2010-04-02,Ajaccio,Bastia,0-1,0-1
+2010-04-02,Angers,Vannes,2-0,0-0
+2010-04-02,Arles,Nimes,2-0,1-0
+2010-04-02,Caen,Brest,1-0,0-0
+2010-04-02,Chateauroux,Dijon,1-3,0-1
+2010-04-02,Clermont,Tours,0-0,0-0
+2010-04-02,Guingamp,Laval,0-0,0-0
+2010-04-02,Nantes,Le Havre,4-1,2-1
+2010-04-02,Sedan,Istres,1-1,1-0
+2010-04-05,Strasbourg,Metz,1-1,1-0
+2010-04-09,Bastia,Angers,3-1,1-1
+2010-04-09,Dijon,Ajaccio,3-0,2-0
+2010-04-09,Istres,Strasbourg,2-0,1-0
+2010-04-09,Laval,Chateauroux,0-0,0-0
+2010-04-09,Le Havre,Arles,1-2,1-0
+2010-04-09,Metz,Sedan,1-1,1-0
+2010-04-09,Nimes,Clermont,0-1,0-1
+2010-04-09,Tours,Caen,1-1,1-1
+2010-04-09,Vannes,Brest,0-2,0-1
+2010-04-12,Guingamp,Nantes,2-0,1-0
+2010-04-16,Angers,Tours,0-1,0-0
+2010-04-16,Arles,Guingamp,1-1,0-0
+2010-04-16,Brest,Bastia,4-0,1-0
+2010-04-16,Chateauroux,Nantes,2-2,2-0
+2010-04-16,Clermont,Metz,2-0,0-0
+2010-04-16,Sedan,Laval,0-0,0-0
+2010-04-16,Strasbourg,Dijon,3-1,3-0
+2010-04-16,Vannes,Istres,2-0,0-0
+2010-04-19,Caen,Nimes,0-0,0-0
+2010-04-23,Bastia,Strasbourg,1-0,0-0
+2010-04-23,Dijon,Clermont,2-3,1-1
+2010-04-23,Guingamp,Chateauroux,1-1,0-0
+2010-04-23,Istres,Brest,1-0,1-0
+2010-04-23,Laval,Ajaccio,2-2,0-1
+2010-04-23,Metz,Arles,1-2,1-1
+2010-04-23,Nantes,Sedan,1-3,1-2
+2010-04-23,Nimes,Angers,0-1,0-0
+2010-04-23,Tours,Vannes,1-1,0-1
+2010-04-26,Le Havre,Caen,1-1,1-1
+2010-04-30,Ajaccio,Metz,1-1,0-0
+2010-04-30,Angers,Laval,2-1,1-1
+2010-04-30,Arles,Nantes,1-0,0-0
+2010-04-30,Brest,Tours,2-0,1-0
+2010-04-30,Caen,Istres,1-1,1-0
+2010-04-30,Chateauroux,Le Havre,3-1,2-0
+2010-04-30,Clermont,Bastia,0-0,0-0
+2010-04-30,Sedan,Guingamp,1-0,1-0
+2010-04-30,Strasbourg,Nimes,1-1,1-1
+2010-04-30,Vannes,Dijon,1-0,1-0
+2010-05-03,Metz,Angers,1-0,0-0
+2010-05-04,Bastia,Vannes,1-2,1-0
+2010-05-04,Chateauroux,Arles,3-0,1-0
+2010-05-04,Dijon,Sedan,3-1,1-1
+2010-05-04,Guingamp,Strasbourg,2-0,1-0
+2010-05-04,Istres,Tours,2-1,1-1
+2010-05-04,Laval,Caen,2-1,1-1
+2010-05-04,Le Havre,Clermont,2-1,1-0
+2010-05-04,Nantes,Ajaccio,1-0,0-0
+2010-05-04,Nimes,Brest,1-0,0-0
+2010-05-07,Ajaccio,Chateauroux,1-0,1-0
+2010-05-07,Angers,Nantes,2-0,1-0
+2010-05-07,Brest,Dijon,1-4,0-1
+2010-05-07,Caen,Metz,0-2,0-0
+2010-05-07,Clermont,Guingamp,3-1,0-1
+2010-05-07,Istres,Nimes,2-1,1-1
+2010-05-07,Sedan,Arles,0-0,0-0
+2010-05-07,Strasbourg,Le Havre,1-1,0-0
+2010-05-07,Tours,Bastia,0-0,0-0
+2010-05-07,Vannes,Laval,2-3,1-3
+2010-05-11,Ajaccio,Le Havre,3-0,
+2010-05-14,Arles,Clermont,1-0,1-0
+2010-05-14,Bastia,Istres,2-0,1-0
+2010-05-14,Chateauroux,Strasbourg,2-1,2-1
+2010-05-14,Dijon,Angers,2-2,1-0
+2010-05-14,Guingamp,Ajaccio,2-1,2-0
+2010-05-14,Laval,Brest,1-2,0-1
+2010-05-14,Le Havre,Sedan,3-1,3-1
+2010-05-14,Metz,Vannes,0-1,0-1
+2010-05-14,Nantes,Caen,1-3,1-1
+2010-05-14,Nimes,Tours,1-1,0-0

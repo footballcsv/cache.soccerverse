@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2004-08-06,Brest,Nancy,3-2,1-2
+2004-08-06,Chateauroux,Angers,1-1,1-1
+2004-08-06,Grenoble,Guingamp,4-2,1-0
+2004-08-06,Gueugnon,Amiens,1-1,1-1
+2004-08-06,Laval,Dijon,2-1,1-0
+2004-08-06,Le Mans,Clermont,2-2,1-0
+2004-08-06,Reims,Creteil,2-1,0-1
+2004-08-06,Sedan,Lorient,3-2,2-2
+2004-08-08,Montpellier,Troyes,3-4,1-1
+2004-08-09,Le Havre,Niort,1-2,1-1
+2004-08-12,Guingamp,Brest,1-2,1-1
+2004-08-13,Amiens,Le Havre,1-2,1-0
+2004-08-13,Angers,Montpellier,0-1,0-1
+2004-08-13,Clermont,Gueugnon,0-2,0-0
+2004-08-13,Creteil,Le Mans,1-0,0-0
+2004-08-13,Lorient,Chateauroux,2-1,1-0
+2004-08-13,Nancy,Sedan,1-2,0-1
+2004-08-13,Niort,Grenoble,1-3,1-2
+2004-08-13,Reims,Laval,2-0,1-0
+2004-08-13,Troyes,Dijon,2-2,1-1
+2004-08-16,Sedan,Guingamp,3-0,2-0
+2004-08-17,Brest,Niort,1-0,1-0
+2004-08-17,Chateauroux,Nancy,0-0,0-0
+2004-08-17,Dijon,Angers,1-0,0-0
+2004-08-17,Grenoble,Amiens,1-1,0-0
+2004-08-17,Gueugnon,Creteil,1-0,1-0
+2004-08-17,Laval,Troyes,2-1,1-0
+2004-08-17,Le Havre,Clermont,0-0,0-0
+2004-08-17,Le Mans,Reims,0-0,0-0
+2004-08-17,Montpellier,Lorient,0-1,0-1
+2004-08-20,Amiens,Brest,1-0,1-0
+2004-08-20,Angers,Troyes,2-1,1-1
+2004-08-20,Clermont,Grenoble,5-0,1-0
+2004-08-20,Creteil,Le Havre,0-2,0-1
+2004-08-20,Guingamp,Chateauroux,2-0,1-0
+2004-08-20,Lorient,Dijon,0-2,0-1
+2004-08-20,Nancy,Montpellier,1-0,0-0
+2004-08-20,Niort,Sedan,3-0,2-0
+2004-08-20,Reims,Gueugnon,2-1,1-1
+2004-08-23,Le Mans,Laval,3-0,1-0
+2004-08-27,Brest,Clermont,1-2,1-2
+2004-08-27,Chateauroux,Niort,2-0,1-0
+2004-08-27,Dijon,Nancy,0-1,0-0
+2004-08-27,Grenoble,Creteil,1-1,0-0
+2004-08-27,Gueugnon,Le Mans,0-0,0-0
+2004-08-27,Laval,Angers,1-1,0-0
+2004-08-27,Le Havre,Reims,3-1,1-0
+2004-08-27,Montpellier,Guingamp,1-1,0-1
+2004-08-27,Sedan,Amiens,0-1,0-1
+2004-08-30,Troyes,Lorient,1-2,1-2
+2004-09-03,Clermont,Sedan,0-1,0-1
+2004-09-03,Creteil,Brest,2-3,1-2
+2004-09-03,Gueugnon,Laval,1-1,1-1
+2004-09-03,Guingamp,Dijon,0-1,0-1
+2004-09-03,Le Mans,Le Havre,1-0,0-0
+2004-09-03,Lorient,Angers,1-2,1-1
+2004-09-03,Niort,Montpellier,0-1,0-0
+2004-09-03,Reims,Grenoble,1-1,0-0
+2004-09-05,Amiens,Chateauroux,2-2,2-1
+2004-09-06,Nancy,Troyes,1-0,0-0
+2004-09-10,Angers,Nancy,1-1,0-0
+2004-09-10,Chateauroux,Clermont,1-1,1-0
+2004-09-10,Grenoble,Le Mans,2-1,1-1
+2004-09-10,Laval,Lorient,0-0,0-0
+2004-09-10,Le Havre,Gueugnon,0-1,0-1
+2004-09-10,Sedan,Creteil,1-0,0-0
+2004-09-10,Troyes,Guingamp,1-1,1-0
+2004-09-11,Dijon,Niort,2-1,1-0
+2004-09-12,Brest,Reims,4-2,1-1
+2004-09-13,Montpellier,Amiens,0-2,0-1
+2004-09-17,Amiens,Dijon,2-1,0-1
+2004-09-17,Clermont,Montpellier,0-0,0-0
+2004-09-17,Gueugnon,Grenoble,1-0,0-0
+2004-09-17,Guingamp,Angers,1-0,0-0
+2004-09-17,Le Havre,Laval,1-1,1-0
+2004-09-17,Le Mans,Brest,1-1,0-0
+2004-09-17,Nancy,Lorient,1-0,1-0
+2004-09-17,Reims,Sedan,0-0,0-0
+2004-09-19,Creteil,Chateauroux,3-1,1-1
+2004-09-19,Niort,Troyes,0-1,0-0
+2004-09-20,Lorient,Guingamp,1-1,0-1
+2004-09-21,Brest,Gueugnon,0-0,0-0
+2004-09-21,Dijon,Clermont,2-2,0-0
+2004-09-21,Grenoble,Le Havre,2-1,0-0
+2004-09-21,Laval,Nancy,1-2,1-1
+2004-09-21,Sedan,Le Mans,1-2,0-2
+2004-09-22,Angers,Niort,1-2,1-1
+2004-09-22,Chateauroux,Reims,1-1,0-1
+2004-09-22,Montpellier,Creteil,0-0,0-0
+2004-09-22,Troyes,Amiens,0-0,0-0
+2004-09-24,Grenoble,Laval,2-1,2-0
+2004-09-24,Guingamp,Nancy,3-2,1-1
+2004-09-24,Le Havre,Brest,0-0,0-0
+2004-09-25,Amiens,Angers,0-2,0-1
+2004-09-25,Clermont,Troyes,1-3,1-0
+2004-09-25,Le Mans,Chateauroux,0-2,0-1
+2004-09-25,Niort,Lorient,4-0,2-0
+2004-09-25,Reims,Montpellier,0-2,0-1
+2004-09-26,Creteil,Dijon,1-1,1-0
+2004-09-27,Gueugnon,Sedan,0-0,0-0
+2004-10-01,Angers,Clermont,1-1,0-1
+2004-10-01,Brest,Grenoble,1-1,1-1
+2004-10-01,Laval,Guingamp,1-0,1-0
+2004-10-01,Lorient,Amiens,1-2,0-0
+2004-10-01,Montpellier,Le Mans,2-0,0-0
+2004-10-01,Nancy,Niort,3-1,0-0
+2004-10-01,Sedan,Le Havre,1-0,1-0
+2004-10-01,Troyes,Creteil,2-1,0-0
+2004-10-03,Chateauroux,Gueugnon,0-0,0-0
+2004-10-04,Dijon,Reims,0-0,0-0
+2004-10-15,Amiens,Nancy,0-3,0-1
+2004-10-15,Brest,Laval,2-1,0-1
+2004-10-15,Clermont,Lorient,2-0,1-0
+2004-10-15,Creteil,Angers,2-0,2-0
+2004-10-15,Gueugnon,Montpellier,2-1,1-1
+2004-10-15,Le Havre,Chateauroux,0-1,0-1
+2004-10-15,Le Mans,Dijon,2-1,1-0
+2004-10-15,Niort,Guingamp,1-0,0-0
+2004-10-15,Reims,Troyes,2-0,1-0
+2004-10-18,Grenoble,Sedan,0-0,0-0
+2004-10-22,Angers,Reims,3-0,1-0
+2004-10-22,Chateauroux,Grenoble,1-1,0-1
+2004-10-22,Dijon,Gueugnon,0-0,0-0
+2004-10-22,Laval,Niort,1-0,1-0
+2004-10-22,Lorient,Creteil,3-1,0-0
+2004-10-22,Montpellier,Le Havre,3-0,1-0
+2004-10-22,Nancy,Clermont,2-1,1-1
+2004-10-22,Troyes,Le Mans,2-0,2-0
+2004-10-24,Sedan,Brest,0-0,0-0
+2004-10-25,Guingamp,Amiens,2-1,0-0
+2004-10-29,Amiens,Niort,4-1,1-0
+2004-10-29,Brest,Chateauroux,0-0,0-0
+2004-10-29,Creteil,Nancy,2-1,1-0
+2004-10-29,Grenoble,Montpellier,0-0,0-0
+2004-10-29,Le Havre,Dijon,1-0,1-0
+2004-10-29,Reims,Lorient,1-4,1-2
+2004-10-29,Sedan,Laval,0-3,0-1
+2004-10-31,Le Mans,Angers,3-0,2-0
+2004-11-01,Clermont,Guingamp,2-1,0-1
+2004-11-05,Chateauroux,Sedan,0-0,0-0
+2004-11-05,Dijon,Grenoble,2-1,1-1
+2004-11-05,Guingamp,Creteil,2-0,1-0
+2004-11-05,Laval,Amiens,1-0,0-0
+2004-11-05,Lorient,Le Mans,1-2,0-1
+2004-11-05,Montpellier,Brest,1-0,0-0
+2004-11-05,Nancy,Reims,3-1,2-1
+2004-11-05,Niort,Clermont,0-2,0-1
+2004-11-05,Troyes,Le Havre,2-1,0-1
+2004-11-08,Angers,Gueugnon,1-1,1-0
+2004-11-12,Clermont,Amiens,0-0,0-0
+2004-11-12,Creteil,Niort,0-1,0-0
+2004-11-12,Grenoble,Troyes,1-2,1-1
+2004-11-12,Gueugnon,Lorient,2-1,0-1
+2004-11-12,Le Havre,Angers,0-0,0-0
+2004-11-12,Le Mans,Nancy,1-2,0-0
+2004-11-12,Sedan,Montpellier,2-0,0-0
+2004-11-13,Chateauroux,Laval,1-0,1-0
+2004-11-13,Reims,Guingamp,3-2,0-1
+2004-11-15,Brest,Dijon,1-1,1-1
+2004-11-23,Gueugnon,Troyes,1-2,1-0
+2004-11-26,Amiens,Creteil,0-0,0-0
+2004-11-26,Angers,Grenoble,0-0,0-0
+2004-11-26,Dijon,Sedan,1-0,0-0
+2004-11-26,Guingamp,Le Mans,2-1,0-1
+2004-11-26,Laval,Clermont,4-3,2-1
+2004-11-26,Lorient,Le Havre,2-0,1-0
+2004-11-26,Niort,Reims,0-1,0-0
+2004-11-26,Troyes,Brest,2-0,1-0
+2004-11-28,Montpellier,Chateauroux,0-0,0-0
+2004-11-29,Nancy,Gueugnon,1-0,1-0
+2004-12-03,Brest,Angers,1-0,1-0
+2004-12-03,Creteil,Clermont,1-1,0-1
+2004-12-03,Grenoble,Lorient,1-2,0-1
+2004-12-03,Gueugnon,Guingamp,0-0,0-0
+2004-12-03,Le Havre,Nancy,0-0,0-0
+2004-12-03,Le Mans,Niort,1-0,0-0
+2004-12-03,Montpellier,Laval,3-1,1-0
+2004-12-03,Reims,Amiens,0-0,0-0
+2004-12-03,Sedan,Troyes,2-1,2-1
+2004-12-06,Chateauroux,Dijon,2-1,0-0
+2004-12-16,Lorient,Brest,3-0,0-0
+2004-12-17,Amiens,Le Mans,0-0,0-0
+2004-12-17,Angers,Sedan,2-2,0-2
+2004-12-17,Clermont,Reims,0-0,0-0
+2004-12-17,Dijon,Montpellier,1-0,1-0
+2004-12-17,Guingamp,Le Havre,1-0,1-0
+2004-12-17,Laval,Creteil,0-0,0-0
+2004-12-17,Nancy,Grenoble,2-0,1-0
+2004-12-17,Niort,Gueugnon,1-1,0-1
+2004-12-17,Troyes,Chateauroux,5-5,2-1
+2005-01-10,Sedan,Nancy,2-0,1-0
+2005-01-11,Brest,Guingamp,2-2,1-1
+2005-01-11,Chateauroux,Lorient,3-0,1-0
+2005-01-11,Dijon,Troyes,1-1,1-1
+2005-01-11,Grenoble,Niort,5-1,1-1
+2005-01-11,Gueugnon,Clermont,2-0,1-0
+2005-01-11,Laval,Reims,1-2,1-1
+2005-01-11,Le Havre,Amiens,1-0,0-0
+2005-01-11,Le Mans,Creteil,1-0,0-0
+2005-01-11,Montpellier,Angers,2-1,0-0
+2005-01-14,Angers,Dijon,2-2,2-0
+2005-01-14,Clermont,Le Havre,0-1,0-0
+2005-01-14,Creteil,Gueugnon,3-0,3-0
+2005-01-14,Guingamp,Sedan,4-0,1-0
+2005-01-14,Lorient,Montpellier,1-2,0-1
+2005-01-14,Niort,Brest,1-1,1-0
+2005-01-14,Reims,Le Mans,0-1,0-0
+2005-01-14,Troyes,Laval,0-2,0-1
+2005-01-16,Nancy,Chateauroux,1-1,1-0
+2005-01-17,Amiens,Grenoble,0-2,0-0
+2005-01-21,Brest,Amiens,1-1,1-1
+2005-01-21,Chateauroux,Guingamp,2-0,0-0
+2005-01-21,Dijon,Lorient,0-0,0-0
+2005-01-21,Gueugnon,Reims,1-1,1-0
+2005-01-21,Laval,Le Mans,1-2,1-2
+2005-01-21,Le Havre,Creteil,1-1,1-0
+2005-01-21,Sedan,Niort,0-0,0-0
+2005-01-21,Troyes,Angers,4-1,2-0
+2005-01-23,Montpellier,Nancy,1-1,1-1
+2005-01-24,Lorient,Troyes,1-2,1-2
+2005-01-25,Amiens,Sedan,1-2,0-1
+2005-01-25,Angers,Laval,0-1,0-0
+2005-01-25,Clermont,Brest,0-0,0-0
+2005-01-25,Creteil,Grenoble,0-0,0-0
+2005-01-25,Le Mans,Gueugnon,1-2,1-0
+2005-01-25,Niort,Chateauroux,0-0,0-0
+2005-01-25,Reims,Le Havre,3-0,1-0
+2005-01-26,Guingamp,Montpellier,3-1,0-0
+2005-01-28,Angers,Lorient,2-0,1-0
+2005-01-28,Brest,Creteil,1-0,0-0
+2005-01-28,Chateauroux,Amiens,1-0,1-0
+2005-01-28,Le Havre,Le Mans,0-1,0-1
+2005-01-28,Sedan,Clermont,2-0,2-0
+2005-01-29,Montpellier,Niort,2-0,1-0
+2005-01-31,Laval,Gueugnon,1-0,0-0
+2005-02-04,Amiens,Montpellier,2-0,1-0
+2005-02-04,Clermont,Chateauroux,2-0,0-0
+2005-02-04,Creteil,Sedan,2-0,0-0
+2005-02-04,Gueugnon,Le Havre,1-0,1-0
+2005-02-04,Guingamp,Troyes,0-1,0-0
+2005-02-04,Le Mans,Grenoble,1-0,1-0
+2005-02-04,Lorient,Laval,1-1,0-1
+2005-02-04,Nancy,Angers,3-1,1-0
+2005-02-04,Niort,Dijon,0-0,0-0
+2005-02-04,Reims,Brest,0-0,0-0
+2005-02-08,Grenoble,Clermont,1-0,0-0
+2005-02-11,Nancy,Dijon,2-0,1-0
+2005-02-15,Dijon,Guingamp,1-1,0-1
+2005-02-15,Troyes,Nancy,2-1,2-1
+2005-02-18,Angers,Guingamp,1-0,0-0
+2005-02-18,Chateauroux,Creteil,2-2,1-2
+2005-02-18,Dijon,Amiens,2-1,1-1
+2005-02-18,Grenoble,Gueugnon,2-1,1-1
+2005-02-18,Laval,Le Havre,0-1,0-0
+2005-02-18,Montpellier,Clermont,1-0,0-0
+2005-02-18,Sedan,Reims,2-0,0-0
+2005-02-18,Troyes,Niort,1-1,0-0
+2005-02-20,Lorient,Nancy,1-1,0-1
+2005-02-21,Brest,Le Mans,1-0,0-0
+2005-02-22,Grenoble,Reims,2-0,1-0
+2005-02-25,Amiens,Troyes,3-2,1-1
+2005-02-25,Clermont,Dijon,0-0,0-0
+2005-02-25,Gueugnon,Brest,1-0,1-0
+2005-02-25,Le Havre,Grenoble,2-1,0-1
+2005-02-25,Le Mans,Sedan,3-0,0-0
+2005-02-25,Nancy,Laval,0-1,0-1
+2005-02-25,Niort,Angers,0-0,0-0
+2005-02-25,Reims,Chateauroux,1-1,0-0
+2005-03-04,Angers,Amiens,3-2,2-1
+2005-03-04,Brest,Le Havre,1-0,0-0
+2005-03-04,Dijon,Creteil,1-0,0-0
+2005-03-04,Lorient,Niort,3-1,2-0
+2005-03-04,Montpellier,Reims,0-0,0-0
+2005-03-04,Nancy,Guingamp,2-1,1-0
+2005-03-04,Sedan,Gueugnon,3-0,2-0
+2005-03-05,Laval,Grenoble,3-1,1-0
+2005-03-07,Chateauroux,Le Mans,1-3,1-2
+2005-03-11,Amiens,Lorient,0-0,0-0
+2005-03-11,Clermont,Angers,0-0,0-0
+2005-03-11,Grenoble,Brest,0-2,0-1
+2005-03-11,Gueugnon,Chateauroux,1-3,0-1
+2005-03-11,Guingamp,Laval,2-1,0-1
+2005-03-11,Le Havre,Sedan,0-0,0-0
+2005-03-11,Le Mans,Montpellier,2-0,1-0
+2005-03-11,Niort,Nancy,1-2,1-1
+2005-03-11,Reims,Dijon,0-5,0-2
+2005-03-14,Creteil,Troyes,0-1,0-0
+2005-03-14,Guingamp,Lorient,1-1,0-0
+2005-03-18,Angers,Creteil,1-1,0-1
+2005-03-18,Chateauroux,Le Havre,4-1,2-0
+2005-03-18,Dijon,Le Mans,0-2,0-1
+2005-03-18,Guingamp,Niort,3-1,0-0
+2005-03-18,Laval,Brest,2-1,0-0
+2005-03-18,Lorient,Clermont,1-0,0-0
+2005-03-18,Montpellier,Gueugnon,1-1,0-1
+2005-03-18,Sedan,Grenoble,1-2,0-0
+2005-03-20,Nancy,Amiens,1-2,0-1
+2005-03-21,Troyes,Reims,2-0,1-0
+2005-03-25,Creteil,Montpellier,3-3,2-2
+2005-03-28,Troyes,Clermont,1-0,1-0
+2005-04-01,Amiens,Guingamp,1-1,1-1
+2005-04-01,Brest,Sedan,2-0,1-0
+2005-04-01,Clermont,Nancy,0-0,0-0
+2005-04-01,Creteil,Lorient,2-0,0-0
+2005-04-01,Grenoble,Chateauroux,2-0,1-0
+2005-04-01,Gueugnon,Dijon,0-1,0-1
+2005-04-01,Le Havre,Montpellier,0-1,0-0
+2005-04-01,Niort,Laval,2-0,1-0
+2005-04-01,Reims,Angers,1-1,1-0
+2005-04-04,Le Mans,Troyes,2-3,1-1
+2005-04-08,Angers,Le Mans,0-2,0-1
+2005-04-08,Chateauroux,Brest,1-2,1-1
+2005-04-08,Dijon,Le Havre,0-0,0-0
+2005-04-08,Guingamp,Clermont,3-1,2-0
+2005-04-08,Lorient,Reims,3-1,2-0
+2005-04-08,Montpellier,Grenoble,3-1,2-1
+2005-04-08,Nancy,Creteil,1-0,1-0
+2005-04-08,Niort,Amiens,3-1,2-0
+2005-04-08,Troyes,Gueugnon,1-0,0-0
+2005-04-11,Laval,Sedan,2-2,1-1
+2005-04-15,Amiens,Laval,2-1,1-0
+2005-04-15,Brest,Montpellier,1-1,0-1
+2005-04-15,Clermont,Niort,2-0,1-0
+2005-04-15,Creteil,Guingamp,1-1,1-1
+2005-04-15,Grenoble,Dijon,1-3,0-3
+2005-04-15,Gueugnon,Angers,1-0,0-0
+2005-04-15,Le Mans,Lorient,3-1,1-1
+2005-04-15,Reims,Nancy,0-4,0-1
+2005-04-15,Sedan,Chateauroux,2-1,1-0
+2005-04-18,Le Havre,Troyes,1-0,1-0
+2005-04-22,Amiens,Clermont,1-1,0-1
+2005-04-22,Angers,Le Havre,0-2,0-0
+2005-04-22,Dijon,Brest,2-2,0-2
+2005-04-22,Guingamp,Reims,2-0,0-0
+2005-04-22,Laval,Chateauroux,2-3,0-0
+2005-04-22,Lorient,Gueugnon,3-2,3-0
+2005-04-22,Nancy,Le Mans,1-3,1-1
+2005-04-22,Niort,Creteil,2-2,1-2
+2005-04-22,Troyes,Grenoble,2-2,1-1
+2005-04-25,Montpellier,Sedan,0-1,0-0
+2005-05-06,Chateauroux,Montpellier,2-0,0-0
+2005-05-06,Clermont,Laval,3-1,0-0
+2005-05-06,Creteil,Amiens,1-0,0-0
+2005-05-06,Grenoble,Angers,0-0,0-0
+2005-05-06,Gueugnon,Nancy,0-2,0-2
+2005-05-06,Le Havre,Lorient,3-1,0-1
+2005-05-06,Le Mans,Guingamp,0-0,0-0
+2005-05-06,Reims,Niort,2-0,0-0
+2005-05-06,Sedan,Dijon,0-1,0-1
+2005-05-09,Brest,Troyes,1-1,1-0
+2005-05-13,Amiens,Reims,1-1,0-0
+2005-05-13,Angers,Brest,1-0,1-0
+2005-05-13,Dijon,Chateauroux,3-0,1-0
+2005-05-13,Guingamp,Gueugnon,2-0,1-0
+2005-05-13,Laval,Montpellier,1-3,0-1
+2005-05-13,Lorient,Grenoble,2-0,1-0
+2005-05-13,Niort,Le Mans,0-3,0-0
+2005-05-14,Clermont,Creteil,0-1,0-1
+2005-05-14,Troyes,Sedan,2-1,0-0
+2005-05-16,Nancy,Le Havre,1-0,0-0
+2005-05-20,Brest,Lorient,0-0,0-0
+2005-05-20,Chateauroux,Troyes,3-1,3-0
+2005-05-20,Creteil,Laval,3-1,1-1
+2005-05-20,Grenoble,Nancy,1-1,0-0
+2005-05-20,Gueugnon,Niort,2-1,1-1
+2005-05-20,Le Havre,Guingamp,2-2,0-1
+2005-05-20,Le Mans,Amiens,1-1,0-0
+2005-05-20,Montpellier,Dijon,4-2,1-1
+2005-05-20,Reims,Clermont,3-0,2-0
+2005-05-20,Sedan,Angers,1-0,0-0
+2005-05-27,Amiens,Gueugnon,4-0,1-0
+2005-05-27,Angers,Chateauroux,1-2,1-2
+2005-05-27,Clermont,Le Mans,0-0,0-0
+2005-05-27,Creteil,Reims,4-0,2-0
+2005-05-27,Dijon,Laval,0-0,0-0
+2005-05-27,Guingamp,Grenoble,3-1,3-0
+2005-05-27,Lorient,Sedan,2-1,1-0
+2005-05-27,Nancy,Brest,1-0,1-0
+2005-05-27,Niort,Le Havre,6-1,5-0
+2005-05-27,Troyes,Montpellier,2-1,1-1

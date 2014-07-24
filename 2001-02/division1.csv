@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2001-07-27,Bordeaux,Nantes,2-0,2-0
+2001-07-28,Bastia,Sedan,1-1,0-0
+2001-07-28,Lens,Lyon,2-0,2-0
+2001-07-28,Lorient,Metz,1-0,0-0
+2001-07-28,Monaco,Sochaux,0-1,0-0
+2001-07-28,Montpellier,Marseille,1-1,0-1
+2001-07-28,Paris SG,Lille,0-0,0-0
+2001-07-28,Rennes,Auxerre,0-5,0-1
+2001-07-28,Troyes,Guingamp,3-0,1-0
+2001-08-03,Marseille,Bordeaux,0-0,0-0
+2001-08-04,Auxerre,Paris SG,1-1,0-1
+2001-08-04,Guingamp,Bastia,1-0,0-0
+2001-08-04,Lille,Lorient,3-1,0-0
+2001-08-04,Lyon,Sedan,2-0,1-0
+2001-08-04,Metz,Troyes,2-1,2-1
+2001-08-04,Monaco,Montpellier,0-0,0-0
+2001-08-04,Nantes,Lens,1-2,0-1
+2001-08-04,Sochaux,Rennes,4-3,3-2
+2001-08-11,Bordeaux,Lille,0-0,0-0
+2001-08-11,Lens,Marseille,2-0,0-0
+2001-08-11,Montpellier,Metz,3-0,1-0
+2001-08-11,Paris SG,Sochaux,1-0,0-0
+2001-08-11,Rennes,Monaco,3-0,2-0
+2001-08-11,Sedan,Guingamp,1-1,1-0
+2001-08-11,Troyes,Nantes,0-0,0-0
+2001-08-12,Bastia,Lyon,1-2,0-1
+2001-08-12,Lorient,Auxerre,0-1,0-1
+2001-08-18,Lille,Montpellier,2-1,0-0
+2001-08-18,Lyon,Guingamp,3-0,1-0
+2001-08-18,Marseille,Troyes,0-1,0-0
+2001-08-18,Metz,Lens,0-1,0-1
+2001-08-18,Monaco,Paris SG,2-2,2-1
+2001-08-18,Nantes,Bastia,1-2,1-2
+2001-08-18,Rennes,Bordeaux,1-0,0-0
+2001-08-18,Sochaux,Lorient,2-2,2-0
+2001-08-19,Auxerre,Sedan,2-1,1-0
+2001-08-25,Bastia,Marseille,1-0,1-0
+2001-08-25,Bordeaux,Auxerre,1-1,1-0
+2001-08-25,Guingamp,Nantes,1-0,1-0
+2001-08-25,Lorient,Monaco,2-0,2-0
+2001-08-25,Montpellier,Sochaux,0-0,0-0
+2001-08-25,Paris SG,Rennes,3-0,0-0
+2001-08-25,Sedan,Metz,2-0,0-0
+2001-08-25,Troyes,Lyon,0-2,0-1
+2001-08-26,Lens,Lille,1-1,0-0
+2001-09-08,Auxerre,Montpellier,1-0,0-0
+2001-09-08,Lille,Guingamp,1-0,0-0
+2001-09-08,Marseille,Lyon,0-0,0-0
+2001-09-08,Metz,Bastia,0-1,0-1
+2001-09-08,Monaco,Troyes,2-0,1-0
+2001-09-08,Nantes,Sedan,1-1,0-0
+2001-09-08,Paris SG,Lens,2-2,0-1
+2001-09-08,Rennes,Lorient,1-1,0-0
+2001-09-09,Sochaux,Bordeaux,2-0,1-0
+2001-09-15,Bastia,Auxerre,0-1,0-0
+2001-09-15,Guingamp,Metz,0-2,0-0
+2001-09-15,Lens,Sochaux,3-0,2-0
+2001-09-15,Lorient,Paris SG,1-1,0-0
+2001-09-15,Lyon,Nantes,4-1,2-1
+2001-09-15,Montpellier,Rennes,0-0,0-0
+2001-09-15,Troyes,Lille,0-1,0-0
+2001-09-16,Bordeaux,Monaco,0-0,0-0
+2001-09-16,Sedan,Marseille,1-1,1-1
+2001-09-21,Paris SG,Montpellier,0-0,0-0
+2001-09-22,Auxerre,Guingamp,2-2,0-0
+2001-09-22,Lille,Bastia,2-1,0-0
+2001-09-22,Marseille,Nantes,2-0,0-0
+2001-09-22,Metz,Lyon,2-0,1-0
+2001-09-22,Monaco,Lens,3-0,1-0
+2001-09-22,Rennes,Troyes,0-1,0-0
+2001-09-23,Lorient,Bordeaux,0-2,0-0
+2001-09-23,Sochaux,Sedan,3-0,1-0
+2001-09-29,Bastia,Monaco,1-0,1-0
+2001-09-29,Guingamp,Marseille,1-0,1-0
+2001-09-29,Lens,Auxerre,1-1,1-1
+2001-09-29,Lyon,Rennes,4-0,3-0
+2001-09-29,Montpellier,Lorient,1-3,0-2
+2001-09-29,Nantes,Metz,0-0,0-0
+2001-09-30,Bordeaux,Paris SG,1-0,1-0
+2001-09-30,Sedan,Lille,1-1,1-0
+2001-09-30,Troyes,Sochaux,2-2,0-2
+2001-10-13,Auxerre,Troyes,1-3,1-1
+2001-10-13,Lille,Nantes,1-0,0-0
+2001-10-13,Lorient,Lens,2-3,1-3
+2001-10-13,Metz,Marseille,0-2,0-1
+2001-10-13,Monaco,Sedan,2-0,0-0
+2001-10-13,Montpellier,Bordeaux,0-0,0-0
+2001-10-13,Rennes,Guingamp,2-1,1-0
+2001-10-13,Sochaux,Bastia,4-1,2-0
+2001-10-14,Paris SG,Lyon,2-2,1-2
+2001-10-20,Bastia,Rennes,1-2,0-0
+2001-10-20,Guingamp,Monaco,2-1,1-0
+2001-10-20,Lens,Montpellier,2-0,1-0
+2001-10-20,Lyon,Sochaux,1-1,0-1
+2001-10-20,Marseille,Lille,0-0,0-0
+2001-10-20,Nantes,Auxerre,2-2,0-0
+2001-10-21,Bordeaux,Metz,1-0,0-0
+2001-10-21,Sedan,Paris SG,1-2,0-0
+2001-10-21,Troyes,Lorient,4-2,1-2
+2001-10-26,Auxerre,Marseille,2-0,2-0
+2001-10-27,Bordeaux,Sedan,2-1,0-1
+2001-10-27,Lille,Metz,2-0,2-0
+2001-10-27,Lorient,Guingamp,6-2,2-1
+2001-10-27,Monaco,Lyon,2-1,0-0
+2001-10-27,Montpellier,Troyes,2-0,1-0
+2001-10-27,Paris SG,Bastia,1-0,1-0
+2001-10-27,Rennes,Lens,1-2,1-2
+2001-10-27,Sochaux,Nantes,0-1,0-0
+2001-11-03,Bastia,Lorient,3-1,0-1
+2001-11-03,Guingamp,Sochaux,0-0,0-0
+2001-11-03,Marseille,Rennes,2-1,1-0
+2001-11-03,Nantes,Monaco,2-1,2-0
+2001-11-03,Sedan,Montpellier,2-0,1-0
+2001-11-04,Lens,Bordeaux,0-0,0-0
+2001-11-04,Lyon,Lille,4-2,2-2
+2001-11-04,Metz,Auxerre,2-0,1-0
+2001-11-04,Troyes,Paris SG,1-0,0-0
+2001-11-16,Monaco,Marseille,1-1,0-0
+2001-11-17,Auxerre,Lille,2-1,1-0
+2001-11-17,Bordeaux,Troyes,2-3,1-1
+2001-11-17,Lens,Sedan,1-0,1-0
+2001-11-17,Lorient,Lyon,0-3,0-3
+2001-11-17,Montpellier,Bastia,2-1,1-0
+2001-11-17,Paris SG,Guingamp,1-1,0-0
+2001-11-17,Rennes,Nantes,2-0,0-0
+2001-11-17,Sochaux,Metz,2-0,1-0
+2001-11-24,Bastia,Bordeaux,1-2,0-1
+2001-11-24,Guingamp,Montpellier,2-2,1-1
+2001-11-24,Marseille,Sochaux,4-2,2-1
+2001-11-24,Metz,Monaco,1-0,0-0
+2001-11-24,Sedan,Lorient,5-0,4-0
+2001-11-24,Troyes,Lens,1-1,0-1
+2001-11-25,Lille,Rennes,1-0,0-0
+2001-11-25,Lyon,Auxerre,3-0,2-0
+2001-11-25,Nantes,Paris SG,1-2,1-0
+2001-11-28,Bordeaux,Guingamp,2-0,1-0
+2001-11-28,Lens,Bastia,7-0,3-0
+2001-11-28,Lorient,Nantes,1-2,1-0
+2001-11-28,Monaco,Lille,2-2,1-1
+2001-11-28,Montpellier,Lyon,3-0,1-0
+2001-11-28,Rennes,Metz,0-0,0-0
+2001-11-28,Sochaux,Auxerre,1-2,0-1
+2001-11-28,Troyes,Sedan,1-1,1-1
+2001-11-29,Paris SG,Marseille,0-0,0-0
+2001-12-08,Auxerre,Monaco,2-0,0-0
+2001-12-08,Bastia,Troyes,2-0,0-0
+2001-12-08,Guingamp,Lens,1-0,0-0
+2001-12-08,Marseille,Lorient,3-2,1-1
+2001-12-08,Nantes,Montpellier,1-2,0-0
+2001-12-08,Sedan,Rennes,0-0,0-0
+2001-12-09,Lille,Sochaux,1-2,1-1
+2001-12-09,Lyon,Bordeaux,1-0,0-0
+2001-12-09,Metz,Paris SG,0-2,0-0
+2001-12-18,Bordeaux,Marseille,0-0,0-0
+2001-12-18,Lens,Nantes,3-0,0-0
+2001-12-19,Bastia,Guingamp,3-0,0-0
+2001-12-19,Lorient,Lille,2-4,1-2
+2001-12-19,Paris SG,Auxerre,0-0,0-0
+2001-12-19,Rennes,Sochaux,1-1,1-0
+2001-12-19,Sedan,Lyon,2-1,1-1
+2001-12-21,Marseille,Lens,1-2,1-1
+2001-12-22,Guingamp,Sedan,1-2,1-0
+2001-12-22,Monaco,Rennes,3-1,1-0
+2001-12-22,Nantes,Troyes,1-0,0-0
+2001-12-22,Sochaux,Paris SG,0-2,0-2
+2002-01-05,Bastia,Nantes,0-2,0-1
+2002-01-05,Bordeaux,Rennes,2-1,1-1
+2002-01-05,Guingamp,Lyon,2-4,1-0
+2002-01-05,Lorient,Sochaux,1-1,0-0
+2002-01-05,Montpellier,Lille,2-0,1-0
+2002-01-05,Paris SG,Monaco,1-2,1-0
+2002-01-11,Lille,Lens,0-1,0-0
+2002-01-12,Marseille,Bastia,2-2,2-0
+2002-01-12,Monaco,Lorient,1-0,0-0
+2002-01-12,Nantes,Guingamp,2-0,0-0
+2002-01-12,Rennes,Paris SG,1-2,0-2
+2002-01-12,Sochaux,Montpellier,0-1,0-1
+2002-01-16,Auxerre,Lorient,2-2,1-0
+2002-01-16,Lille,Bordeaux,2-2,0-1
+2002-01-16,Lyon,Bastia,0-0,0-0
+2002-01-16,Montpellier,Monaco,1-1,0-1
+2002-01-16,Troyes,Metz,2-0,0-0
+2002-01-23,Bastia,Metz,1-2,0-2
+2002-01-23,Bordeaux,Sochaux,0-1,0-1
+2002-01-23,Guingamp,Lille,0-0,0-0
+2002-01-23,Lorient,Rennes,2-0,1-0
+2002-01-23,Lyon,Marseille,4-0,4-0
+2002-01-23,Montpellier,Auxerre,0-0,0-0
+2002-01-23,Sedan,Nantes,0-0,0-0
+2002-01-23,Troyes,Monaco,3-0,1-0
+2002-01-24,Lens,Paris SG,1-1,0-0
+2002-01-26,Troyes,Marseille,1-0,0-0
+2002-01-29,Nantes,Lyon,3-0,2-0
+2002-01-30,Auxerre,Bastia,1-0,0-0
+2002-01-30,Marseille,Sedan,2-1,1-0
+2002-01-30,Metz,Guingamp,2-4,1-0
+2002-01-30,Monaco,Bordeaux,3-1,3-1
+2002-01-30,Paris SG,Lorient,5-0,3-0
+2002-01-30,Rennes,Montpellier,2-0,2-0
+2002-01-30,Sochaux,Lens,0-2,0-2
+2002-02-02,Bastia,Lille,1-0,0-0
+2002-02-02,Bordeaux,Lorient,2-1,1-1
+2002-02-02,Guingamp,Auxerre,0-0,0-0
+2002-02-02,Lens,Monaco,1-0,1-0
+2002-02-02,Lyon,Metz,4-1,1-1
+2002-02-02,Montpellier,Paris SG,0-0,0-0
+2002-02-02,Sedan,Sochaux,2-1,1-1
+2002-02-02,Troyes,Rennes,1-1,1-1
+2002-02-03,Nantes,Marseille,3-1,3-1
+2002-02-06,Auxerre,Lens,1-0,0-0
+2002-02-06,Lille,Sedan,1-1,1-1
+2002-02-06,Lorient,Montpellier,1-0,0-0
+2002-02-06,Marseille,Guingamp,2-1,1-1
+2002-02-06,Metz,Nantes,2-0,1-0
+2002-02-06,Monaco,Bastia,1-1,0-1
+2002-02-06,Rennes,Lyon,2-2,2-1
+2002-02-06,Sochaux,Troyes,2-2,1-1
+2002-02-07,Paris SG,Bordeaux,1-0,0-0
+2002-02-09,Lyon,Troyes,3-1,1-1
+2002-02-09,Metz,Montpellier,0-0,0-0
+2002-02-16,Bastia,Sochaux,3-0,1-0
+2002-02-16,Bordeaux,Montpellier,3-1,2-0
+2002-02-16,Guingamp,Rennes,1-1,1-0
+2002-02-16,Lens,Lorient,1-1,1-1
+2002-02-16,Nantes,Lille,0-1,0-0
+2002-02-16,Sedan,Monaco,0-0,0-0
+2002-02-16,Troyes,Auxerre,1-2,0-1
+2002-02-17,Lyon,Paris SG,3-0,0-0
+2002-02-17,Marseille,Metz,1-0,1-0
+2002-02-23,Auxerre,Nantes,2-1,1-1
+2002-02-23,Lorient,Troyes,1-0,0-0
+2002-02-23,Metz,Bordeaux,1-2,1-0
+2002-02-23,Monaco,Guingamp,3-1,2-1
+2002-02-23,Montpellier,Lens,1-2,0-1
+2002-02-23,Paris SG,Sedan,3-0,1-0
+2002-02-23,Rennes,Bastia,2-1,1-1
+2002-02-24,Lille,Marseille,2-0,1-0
+2002-02-24,Sochaux,Lyon,2-1,1-0
+2002-03-02,Lens,Metz,2-2,0-1
+2002-03-03,Lille,Troyes,1-0,0-0
+2002-03-06,Bastia,Paris SG,0-1,0-0
+2002-03-06,Guingamp,Lorient,4-3,1-0
+2002-03-06,Lens,Rennes,2-0,1-0
+2002-03-06,Lyon,Monaco,1-0,0-0
+2002-03-06,Metz,Lille,0-1,0-1
+2002-03-06,Nantes,Sochaux,0-0,0-0
+2002-03-06,Sedan,Bordeaux,1-0,0-0
+2002-03-06,Troyes,Montpellier,2-0,1-0
+2002-03-10,Auxerre,Bordeaux,0-1,0-0
+2002-03-16,Auxerre,Metz,3-2,0-1
+2002-03-16,Lille,Lyon,2-0,1-0
+2002-03-16,Lorient,Bastia,0-0,0-0
+2002-03-16,Monaco,Nantes,1-2,1-1
+2002-03-16,Montpellier,Sedan,0-0,0-0
+2002-03-16,Paris SG,Troyes,3-1,0-1
+2002-03-16,Rennes,Marseille,2-1,0-0
+2002-03-16,Sochaux,Guingamp,1-0,1-0
+2002-03-17,Bordeaux,Lens,2-1,0-0
+2002-03-23,Bastia,Montpellier,3-0,2-0
+2002-03-23,Guingamp,Paris SG,0-1,0-1
+2002-03-23,Lille,Auxerre,2-3,1-2
+2002-03-23,Lyon,Lorient,2-0,0-0
+2002-03-23,Metz,Sochaux,2-0,1-0
+2002-03-23,Nantes,Rennes,3-1,2-1
+2002-03-23,Sedan,Lens,1-1,1-0
+2002-03-23,Troyes,Bordeaux,2-0,0-0
+2002-03-24,Marseille,Monaco,1-1,0-0
+2002-04-01,Marseille,Auxerre,3-0,1-0
+2002-04-06,Bordeaux,Bastia,2-1,2-0
+2002-04-06,Lens,Troyes,0-0,0-0
+2002-04-06,Lorient,Sedan,1-1,0-0
+2002-04-06,Monaco,Metz,2-2,1-1
+2002-04-06,Montpellier,Guingamp,2-1,1-1
+2002-04-06,Paris SG,Nantes,1-1,0-1
+2002-04-06,Rennes,Lille,4-0,1-0
+2002-04-06,Sochaux,Marseille,3-0,2-0
+2002-04-07,Auxerre,Lyon,0-1,0-0
+2002-04-09,Metz,Sedan,2-3,1-0
+2002-04-12,Marseille,Paris SG,1-0,0-0
+2002-04-13,Auxerre,Sochaux,2-0,0-0
+2002-04-13,Bastia,Lens,3-1,0-1
+2002-04-13,Guingamp,Bordeaux,2-1,1-0
+2002-04-13,Lille,Monaco,1-1,0-1
+2002-04-13,Lyon,Montpellier,0-0,0-0
+2002-04-13,Metz,Rennes,3-1,0-1
+2002-04-13,Nantes,Lorient,2-0,0-0
+2002-04-13,Sedan,Troyes,0-0,0-0
+2002-04-21,Sedan,Auxerre,3-3,2-2
+2002-04-27,Bordeaux,Lyon,0-1,0-0
+2002-04-27,Lens,Guingamp,4-1,2-0
+2002-04-27,Lorient,Marseille,2-2,0-1
+2002-04-27,Monaco,Auxerre,1-1,1-0
+2002-04-27,Montpellier,Nantes,3-0,0-0
+2002-04-27,Paris SG,Metz,2-0,0-0
+2002-04-27,Rennes,Sedan,1-0,0-0
+2002-04-27,Sochaux,Lille,0-0,0-0
+2002-04-27,Troyes,Bastia,3-0,0-0
+2002-05-04,Auxerre,Rennes,2-3,1-2
+2002-05-04,Guingamp,Troyes,1-0,0-0
+2002-05-04,Lille,Paris SG,1-0,0-0
+2002-05-04,Lyon,Lens,3-1,2-1
+2002-05-04,Marseille,Montpellier,1-0,0-0
+2002-05-04,Metz,Lorient,1-1,1-1
+2002-05-04,Nantes,Bordeaux,2-1,1-0
+2002-05-04,Sedan,Bastia,0-2,0-0
+2002-05-04,Sochaux,Monaco,3-0,2-0

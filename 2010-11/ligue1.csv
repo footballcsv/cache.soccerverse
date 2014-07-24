@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2010-08-07,Auxerre,Lorient,2-2,1-1
+2010-08-07,Lens,Nancy,1-2,0-1
+2010-08-07,Lyon,Monaco,0-0,0-0
+2010-08-07,Marseille,Caen,1-2,0-0
+2010-08-07,Nice,Valenciennes,0-0,0-0
+2010-08-07,Paris SG,St Etienne,3-1,2-1
+2010-08-07,Rennes,Lille,1-1,1-0
+2010-08-07,Sochaux,Arles,2-1,1-1
+2010-08-07,Toulouse,Brest,2-0,1-0
+2010-08-08,Montpellier,Bordeaux,1-0,0-0
+2010-08-14,Arles,Lens,0-1,0-0
+2010-08-15,Bordeaux,Toulouse,1-2,0-1
+2010-08-14,Brest,Auxerre,1-1,1-0
+2010-08-15,Caen,Lyon,3-2,2-2
+2010-08-15,Lille,Paris SG,0-0,0-0
+2010-08-14,Lorient,Nice,1-2,1-1
+2010-08-14,Nancy,Rennes,0-3,0-0
+2010-08-14,St Etienne,Sochaux,3-2,1-0
+2010-08-14,Valenciennes,Marseille,3-2,0-0
+2010-08-17,Monaco,Montpellier,0-0,0-0
+2010-08-21,Auxerre,Valenciennes,1-1,0-0
+2010-08-21,Lens,Monaco,2-2,0-1
+2010-08-21,Lyon,Brest,1-0,1-0
+2010-08-21,Marseille,Lorient,2-0,1-0
+2010-08-21,Nice,Nancy,1-1,1-0
+2010-08-21,Rennes,St Etienne,0-0,0-0
+2010-08-21,Toulouse,Arles,2-1,1-0
+2010-08-22,Montpellier,Caen,0-0,0-0
+2010-08-22,Paris SG,Bordeaux,1-2,0-0
+2010-08-22,Sochaux,Lille,0-0,0-0
+2010-08-28,Arles,Rennes,0-1,0-1
+2010-08-28,Caen,Brest,0-2,0-0
+2010-08-28,Lorient,Lyon,2-0,1-0
+2010-08-28,Nancy,Toulouse,0-2,0-0
+2010-08-28,St Etienne,Lens,3-1,1-0
+2010-08-28,Valenciennes,Montpellier,0-1,0-1
+2010-08-29,Bordeaux,Marseille,1-1,0-1
+2010-08-29,Lille,Nice,1-1,0-1
+2010-08-29,Monaco,Auxerre,2-0,0-0
+2010-08-29,Sochaux,Paris SG,3-1,3-0
+2010-09-11,Auxerre,Caen,1-1,1-0
+2010-09-11,Lens,Lille,1-4,0-1
+2010-09-11,Lyon,Valenciennes,1-1,1-0
+2010-09-11,Montpellier,Nancy,1-2,0-2
+2010-09-11,Paris SG,Arles,4-0,2-0
+2010-09-11,Rennes,Sochaux,2-1,1-1
+2010-09-11,Toulouse,St Etienne,0-1,0-1
+2010-09-12,Brest,Lorient,0-0,0-0
+2010-09-12,Marseille,Monaco,2-2,1-1
+2010-09-12,Nice,Bordeaux,2-1,1-0
+2010-09-18,Arles,Marseille,0-3,0-2
+2010-09-18,Lorient,Caen,0-1,0-1
+2010-09-18,Monaco,Toulouse,0-0,0-0
+2010-09-18,Nancy,Brest,0-2,0-0
+2010-09-18,Sochaux,Nice,4-0,1-0
+2010-09-18,St Etienne,Montpellier,3-0,2-0
+2010-09-18,Valenciennes,Lens,1-1,0-0
+2010-09-19,Bordeaux,Lyon,2-0,0-0
+2010-09-19,Lille,Auxerre,1-0,0-0
+2010-09-19,Paris SG,Rennes,0-0,0-0
+2010-09-25,Auxerre,Nancy,2-2,2-2
+2010-09-25,Caen,Bordeaux,0-0,0-0
+2010-09-25,Lorient,Monaco,2-1,1-1
+2010-09-25,Lyon,St Etienne,0-1,0-0
+2010-09-25,Marseille,Sochaux,2-1,1-0
+2010-09-25,Montpellier,Arles,3-1,1-0
+2010-09-25,Nice,Rennes,1-2,1-1
+2010-09-26,Brest,Valenciennes,1-0,0-0
+2010-09-26,Lens,Paris SG,0-2,0-0
+2010-09-26,Toulouse,Lille,1-1,0-1
+2010-10-02,Arles,Auxerre,0-4,0-2
+2010-10-02,Bordeaux,Lorient,1-0,1-0
+2010-10-02,Monaco,Brest,0-1,0-0
+2010-10-02,Nancy,Lyon,2-3,0-1
+2010-10-02,Sochaux,Lens,3-0,2-0
+2010-10-02,St Etienne,Marseille,1-1,0-1
+2010-10-02,Valenciennes,Caen,2-1,2-0
+2010-10-03,Lille,Montpellier,3-1,2-1
+2010-10-03,Paris SG,Nice,0-0,0-0
+2010-10-03,Rennes,Toulouse,3-1,1-0
+2010-10-16,Auxerre,Bordeaux,0-1,0-1
+2010-10-16,Brest,Arles,0-0,0-0
+2010-10-16,Caen,Monaco,0-0,0-0
+2010-10-16,Marseille,Nancy,1-0,1-0
+2010-10-16,Montpellier,Sochaux,2-0,2-0
+2010-10-16,Toulouse,Paris SG,0-2,0-1
+2010-10-17,Lens,Rennes,0-0,0-0
+2010-10-17,Lorient,Valenciennes,2-1,2-1
+2010-10-17,Lyon,Lille,3-1,2-0
+2010-10-17,Nice,St Etienne,2-1,0-1
+2010-10-23,Bordeaux,Brest,0-2,0-1
+2010-10-23,Lens,Nice,1-0,0-0
+2010-10-23,Monaco,Valenciennes,0-2,0-1
+2010-10-23,Nancy,Lorient,1-0,1-0
+2010-10-23,Rennes,Montpellier,0-1,0-1
+2010-10-23,Sochaux,Toulouse,1-3,0-0
+2010-10-23,St Etienne,Caen,1-1,0-1
+2010-10-24,Arles,Lyon,1-1,1-0
+2010-10-24,Lille,Marseille,1-3,1-0
+2010-10-24,Paris SG,Auxerre,2-3,1-3
+2010-10-30,Auxerre,Nice,2-0,1-0
+2010-10-30,Brest,St Etienne,2-0,0-0
+2010-10-30,Caen,Nancy,2-3,1-2
+2010-10-30,Lorient,Arles,2-0,0-0
+2010-10-30,Lyon,Sochaux,2-1,1-0
+2010-10-30,Toulouse,Lens,1-1,1-1
+2010-10-31,Montpellier,Paris SG,1-1,1-1
+2010-10-31,Valenciennes,Lille,1-1,0-0
+2010-11-02,Monaco,Bordeaux,2-2,0-1
+2010-11-06,Arles,Caen,3-2,2-1
+2010-11-06,Bordeaux,Valenciennes,1-1,0-1
+2010-11-06,Rennes,Lyon,1-1,1-0
+2010-11-06,Sochaux,Auxerre,1-1,0-1
+2010-11-06,St Etienne,Lorient,1-2,0-1
+2010-11-07,Lens,Montpellier,2-0,2-0
+2010-11-07,Lille,Brest,3-1,1-0
+2010-11-07,Nancy,Monaco,0-4,0-0
+2010-11-07,Nice,Toulouse,2-0,1-0
+2010-11-07,Paris SG,Marseille,2-1,2-1
+2010-11-13,Bordeaux,Nancy,2-1,1-0
+2010-11-13,Brest,Sochaux,1-1,1-1
+2010-11-13,Caen,Lille,2-5,1-3
+2010-11-13,Marseille,Lens,1-1,1-0
+2010-11-13,Monaco,Arles,0-0,0-0
+2010-11-13,Montpellier,Toulouse,1-0,1-0
+2010-11-14,Auxerre,Rennes,2-1,0-0
+2010-11-14,Lorient,Paris SG,1-1,1-0
+2010-11-14,Lyon,Nice,1-0,1-0
+2010-11-20,Nancy,Valenciennes,2-0,1-0
+2010-11-20,Nice,Montpellier,0-1,0-0
+2010-11-20,Paris SG,Caen,2-1,1-0
+2010-11-20,Rennes,Brest,2-1,1-0
+2010-11-20,Sochaux,Lorient,2-0,1-0
+2010-11-20,St Etienne,Auxerre,1-1,0-1
+2010-11-20,Toulouse,Marseille,0-1,0-0
+2010-11-21,Arles,Bordeaux,2-4,1-2
+2010-11-21,Lens,Lyon,1-3,1-0
+2010-11-21,Lille,Monaco,2-1,1-0
+2010-11-27,Bordeaux,Lille,1-1,0-1
+2010-11-27,Lorient,Rennes,2-0,0-0
+2010-11-27,Marseille,Montpellier,4-0,2-0
+2010-11-27,Monaco,Nice,1-1,0-0
+2010-11-27,Nancy,St Etienne,1-1,0-0
+2010-11-27,Valenciennes,Arles,3-0,1-0
+2010-11-28,Auxerre,Toulouse,1-2,0-2
+2010-11-28,Caen,Sochaux,0-3,0-1
+2010-11-28,Lyon,Paris SG,2-2,0-0
+2010-11-30,Brest,Lens,4-1,2-1
+2010-12-01,Marseille,Rennes,0-0,0-0
+2010-12-01,Valenciennes,St Etienne,1-1,0-1
+2010-12-04,Arles,Nancy,1-1,1-1
+2010-12-04,Lens,Auxerre,1-1,1-0
+2010-12-04,Lille,Lorient,6-3,2-2
+2010-12-04,Montpellier,Lyon,1-2,0-1
+2010-12-04,Rennes,Monaco,1-0,0-0
+2010-12-04,Sochaux,Valenciennes,2-1,1-0
+2010-12-04,Toulouse,Caen,1-0,0-0
+2010-12-05,Nice,Marseille,1-0,0-0
+2010-12-05,Paris SG,Brest,3-1,1-0
+2010-12-05,St Etienne,Bordeaux,2-2,0-1
+2010-12-11,Arles,Lille,0-1,0-0
+2010-12-11,Auxerre,Marseille,1-1,1-1
+2010-12-11,Brest,Montpellier,0-0,0-0
+2010-12-11,Caen,Nice,0-0,0-0
+2010-12-11,Lorient,Lens,3-0,0-0
+2010-12-11,Nancy,Sochaux,1-0,0-0
+2010-12-11,Valenciennes,Paris SG,1-2,0-0
+2010-12-12,Bordeaux,Rennes,0-0,0-0
+2010-12-12,Lyon,Toulouse,2-0,2-0
+2010-12-12,Monaco,St Etienne,0-2,0-1
+2010-12-18,Montpellier,Auxerre,1-1,0-0
+2010-12-18,Nice,Brest,1-1,1-1
+2010-12-18,Paris SG,Monaco,2-2,1-1
+2010-12-18,Rennes,Valenciennes,1-0,0-0
+2010-12-18,St Etienne,Arles,2-0,0-0
+2010-12-18,Toulouse,Lorient,3-0,1-0
+2010-12-19,Marseille,Lyon,1-1,0-1
+2010-12-19,Sochaux,Bordeaux,1-1,1-1
+2010-12-21,Lorient,Montpellier,0-0,0-0
+2010-12-22,Arles,Nice,0-0,0-0
+2010-12-22,Bordeaux,Lens,2-2,0-2
+2010-12-22,Brest,Marseille,0-0,0-0
+2010-12-22,Caen,Rennes,1-0,1-0
+2010-12-22,Lille,St Etienne,1-1,0-0
+2010-12-22,Lyon,Auxerre,1-1,1-0
+2010-12-22,Monaco,Sochaux,2-1,1-0
+2010-12-22,Nancy,Paris SG,2-0,0-0
+2010-12-22,Valenciennes,Toulouse,2-1,2-1
+2011-01-15,Auxerre,Monaco,1-1,1-0
+2011-01-15,Brest,Caen,1-3,1-1
+2011-01-15,Lens,St Etienne,2-1,0-0
+2011-01-15,Lyon,Lorient,3-0,1-0
+2011-01-15,Montpellier,Valenciennes,2-1,0-0
+2011-01-15,Nice,Lille,0-2,0-1
+2011-01-15,Paris SG,Sochaux,2-1,2-1
+2011-01-15,Rennes,Arles,4-0,2-0
+2011-01-15,Toulouse,Nancy,1-0,1-0
+2011-01-16,Marseille,Bordeaux,2-1,2-0
+2011-01-19,Lille,Nancy,3-0,0-0
+2011-01-22,Lens,Caen,2-0,1-0
+2011-01-29,Arles,Paris SG,1-2,0-1
+2011-01-29,Caen,Auxerre,2-0,0-0
+2011-01-29,Lille,Lens,1-0,0-0
+2011-01-29,Lorient,Brest,2-0,0-0
+2011-01-29,Sochaux,Rennes,5-1,2-0
+2011-01-29,St Etienne,Toulouse,2-1,2-0
+2011-01-29,Valenciennes,Lyon,2-1,0-0
+2011-01-30,Bordeaux,Nice,2-0,1-0
+2011-01-30,Monaco,Marseille,0-0,0-0
+2011-01-30,Nancy,Montpellier,1-2,1-1
+2011-02-05,Brest,Nancy,2-1,1-0
+2011-02-05,Caen,Lorient,0-2,0-1
+2011-02-05,Lens,Valenciennes,1-1,1-1
+2011-02-05,Marseille,Arles,1-0,0-0
+2011-02-05,Montpellier,St Etienne,1-2,0-2
+2011-02-05,Nice,Sochaux,1-0,1-0
+2011-02-05,Rennes,Paris SG,1-0,1-0
+2011-02-06,Auxerre,Lille,1-1,0-1
+2011-02-06,Lyon,Bordeaux,0-0,0-0
+2011-02-06,Toulouse,Monaco,2-0,0-0
+2011-02-12,Arles,Montpellier,0-0,0-0
+2011-02-12,Bordeaux,Caen,1-2,0-1
+2011-02-12,Monaco,Lorient,3-1,1-1
+2011-02-12,Nancy,Auxerre,3-1,2-0
+2011-02-12,Paris SG,Lens,0-0,0-0
+2011-02-12,Sochaux,Marseille,1-2,1-1
+2011-02-12,St Etienne,Lyon,1-4,1-2
+2011-02-13,Lille,Toulouse,2-0,1-0
+2011-02-13,Rennes,Nice,2-0,0-0
+2011-02-13,Valenciennes,Brest,3-0,2-0
+2011-02-18,Lyon,Nancy,4-0,1-0
+2011-02-19,Auxerre,Arles,1-1,0-0
+2011-02-19,Brest,Monaco,2-0,1-0
+2011-02-19,Caen,Valenciennes,2-2,0-0
+2011-02-19,Lens,Sochaux,2-3,1-2
+2011-02-19,Lorient,Bordeaux,5-1,3-1
+2011-02-19,Marseille,St Etienne,2-1,0-0
+2011-02-20,Montpellier,Lille,1-0,0-0
+2011-02-20,Nice,Paris SG,0-3,0-2
+2011-02-20,Toulouse,Rennes,1-2,0-1
+2011-02-26,Arles,Brest,1-1,1-0
+2011-02-26,Bordeaux,Auxerre,3-0,1-0
+2011-02-26,Monaco,Caen,2-2,1-0
+2011-02-26,Rennes,Lens,2-0,1-0
+2011-02-26,Sochaux,Montpellier,0-0,0-0
+2011-02-26,St Etienne,Nice,0-2,0-0
+2011-02-26,Valenciennes,Lorient,0-0,0-0
+2011-02-27,Lille,Lyon,1-1,1-1
+2011-02-27,Nancy,Marseille,1-2,1-1
+2011-02-27,Paris SG,Toulouse,2-1,2-0
+2011-03-05,Auxerre,Paris SG,1-0,0-0
+2011-03-05,Caen,St Etienne,1-0,0-0
+2011-03-05,Lorient,Nancy,0-0,0-0
+2011-03-05,Montpellier,Rennes,0-1,0-1
+2011-03-05,Nice,Lens,0-0,0-0
+2011-03-05,Toulouse,Sochaux,0-1,0-0
+2011-03-05,Valenciennes,Monaco,0-0,0-0
+2011-03-06,Brest,Bordeaux,1-3,0-0
+2011-03-06,Lyon,Arles,5-0,2-0
+2011-03-06,Marseille,Lille,1-2,0-1
+2011-03-11,Rennes,Marseille,0-2,0-1
+2011-03-12,Arles,Lorient,3-3,1-2
+2011-03-12,Lens,Toulouse,0-1,0-0
+2011-03-12,Nancy,Caen,2-0,1-0
+2011-03-12,Nice,Auxerre,1-0,0-0
+2011-03-12,Sochaux,Lyon,0-2,0-1
+2011-03-12,St Etienne,Brest,2-0,1-0
+2011-03-13,Bordeaux,Monaco,0-1,0-1
+2011-03-13,Lille,Valenciennes,2-1,1-0
+2011-03-13,Paris SG,Montpellier,2-2,2-0
+2011-03-19,Auxerre,Sochaux,2-0,1-0
+2011-03-19,Brest,Lille,1-2,1-1
+2011-03-19,Lorient,St Etienne,0-0,0-0
+2011-03-19,Lyon,Rennes,1-1,1-0
+2011-03-19,Montpellier,Lens,1-4,0-3
+2011-03-19,Toulouse,Nice,1-1,1-0
+2011-03-19,Valenciennes,Bordeaux,2-2,1-0
+2011-03-20,Caen,Arles,2-0,0-0
+2011-03-20,Marseille,Paris SG,2-1,2-1
+2011-03-20,Monaco,Nancy,0-1,0-1
+2011-04-02,Arles,Monaco,0-2,0-1
+2011-04-02,Lille,Caen,3-1,1-0
+2011-04-02,Nancy,Bordeaux,0-0,0-0
+2011-04-02,Paris SG,Lorient,0-0,0-0
+2011-04-02,Rennes,Auxerre,0-0,0-0
+2011-04-02,Sochaux,Brest,2-1,1-0
+2011-04-02,Toulouse,Montpellier,0-1,0-0
+2011-04-03,Lens,Marseille,0-1,0-0
+2011-04-03,Nice,Lyon,2-2,0-2
+2011-04-03,St Etienne,Valenciennes,1-1,0-0
+2011-04-09,Auxerre,St Etienne,2-2,1-1
+2011-04-09,Bordeaux,Arles,0-0,0-0
+2011-04-09,Brest,Rennes,2-0,1-0
+2011-04-09,Caen,Paris SG,1-2,0-1
+2011-04-09,Lorient,Sochaux,1-1,1-1
+2011-04-09,Monaco,Lille,1-0,1-0
+2011-04-09,Valenciennes,Nancy,1-1,1-0
+2011-04-10,Lyon,Lens,3-0,0-0
+2011-04-10,Marseille,Toulouse,2-2,1-1
+2011-04-10,Montpellier,Nice,1-1,1-0
+2011-04-16,Lens,Brest,1-1,1-0
+2011-04-16,Lille,Bordeaux,1-1,0-0
+2011-04-16,Nice,Monaco,3-2,1-1
+2011-04-16,Rennes,Lorient,1-2,1-0
+2011-04-16,Sochaux,Caen,3-2,1-1
+2011-04-16,St Etienne,Nancy,2-1,0-1
+2011-04-16,Toulouse,Auxerre,0-1,0-0
+2011-04-17,Arles,Valenciennes,0-1,0-0
+2011-04-17,Montpellier,Marseille,1-2,0-0
+2011-04-17,Paris SG,Lyon,1-0,0-0
+2011-04-24,Auxerre,Lens,1-1,1-0
+2011-04-24,Bordeaux,St Etienne,2-0,1-0
+2011-04-24,Brest,Paris SG,2-2,2-1
+2011-04-24,Caen,Toulouse,1-1,1-1
+2011-04-24,Lorient,Lille,1-1,0-1
+2011-04-24,Monaco,Rennes,1-0,0-0
+2011-04-24,Nancy,Arles,0-0,0-0
+2011-04-24,Valenciennes,Sochaux,1-1,1-1
+2011-04-27,Lyon,Montpellier,3-2,1-1
+2011-04-27,Marseille,Nice,4-2,1-1
+2011-04-30,Lens,Lorient,2-3,2-1
+2011-04-30,Lille,Arles,5-0,2-0
+2011-04-30,Paris SG,Valenciennes,3-1,2-1
+2011-04-30,Rennes,Bordeaux,0-0,0-0
+2011-04-30,Sochaux,Nancy,1-0,1-0
+2011-05-01,Marseille,Auxerre,1-1,0-0
+2011-05-01,Montpellier,Brest,0-0,0-0
+2011-05-01,Nice,Caen,0-4,0-2
+2011-05-01,St Etienne,Monaco,1-1,1-1
+2011-05-01,Toulouse,Lyon,2-0,1-0
+2011-05-07,Arles,St Etienne,0-1,0-1
+2011-05-07,Auxerre,Montpellier,1-0,0-0
+2011-05-07,Bordeaux,Sochaux,0-4,0-4
+2011-05-07,Brest,Nice,0-0,0-0
+2011-05-07,Caen,Lens,1-1,1-1
+2011-05-07,Lorient,Toulouse,0-0,0-0
+2011-05-07,Monaco,Paris SG,1-1,1-0
+2011-05-07,Nancy,Lille,0-1,0-1
+2011-05-08,Lyon,Marseille,3-2,1-0
+2011-05-08,Valenciennes,Rennes,2-0,1-0
+2011-05-10,Paris SG,Nancy,2-2,2-1
+2011-05-10,St Etienne,Lille,1-2,1-1
+2011-05-11,Auxerre,Lyon,4-0,2-0
+2011-05-11,Lens,Bordeaux,1-0,0-0
+2011-05-11,Marseille,Brest,3-0,1-0
+2011-05-11,Montpellier,Lorient,3-1,1-1
+2011-05-11,Nice,Arles,3-2,1-1
+2011-05-11,Rennes,Caen,1-1,1-0
+2011-05-11,Sochaux,Monaco,3-0,2-0
+2011-05-11,Toulouse,Valenciennes,0-0,0-0
+2011-05-15,Arles,Toulouse,1-0,1-0
+2011-05-15,Caen,Montpellier,2-0,1-0
+2011-05-15,Lorient,Marseille,2-2,0-1
+2011-05-15,Monaco,Lens,1-1,1-0
+2011-05-15,Nancy,Nice,3-0,1-0
+2011-05-15,St Etienne,Rennes,1-2,1-2
+2011-05-15,Valenciennes,Auxerre,1-1,0-0
+2011-05-16,Brest,Lyon,1-1,0-1
+2011-05-18,Bordeaux,Paris SG,1-0,1-0
+2011-05-18,Lille,Sochaux,1-0,0-0
+2011-05-21,Auxerre,Brest,0-1,0-0
+2011-05-21,Lens,Arles,0-1,0-1
+2011-05-21,Lyon,Caen,0-0,0-0
+2011-05-21,Marseille,Valenciennes,2-2,2-1
+2011-05-21,Montpellier,Monaco,0-1,0-0
+2011-05-21,Nice,Lorient,2-0,2-0
+2011-05-21,Paris SG,Lille,2-2,1-1
+2011-05-21,Rennes,Nancy,0-2,0-1
+2011-05-21,Sochaux,St Etienne,2-1,1-1
+2011-05-21,Toulouse,Bordeaux,2-0,1-0
+2011-05-29,Arles,Sochaux,1-3,1-1
+2011-05-29,Bordeaux,Montpellier,2-0,2-0
+2011-05-29,Brest,Toulouse,0-2,0-1
+2011-05-29,Caen,Marseille,2-2,2-0
+2011-05-29,Lille,Rennes,3-2,1-1
+2011-05-29,Lorient,Auxerre,1-2,1-1
+2011-05-29,Monaco,Lyon,0-2,0-0
+2011-05-29,Nancy,Lens,4-0,2-0
+2011-05-29,St Etienne,Paris SG,1-1,0-0
+2011-05-29,Valenciennes,Nice,2-1,0-0

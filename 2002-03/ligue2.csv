@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2002-08-02,Reims,Lorient,1-3,0-1
+2002-08-03,Amiens,Le Mans,0-1,0-1
+2002-08-03,Caen,Valence,3-1,0-0
+2002-08-03,Chateauroux,Beauvais,1-0,1-0
+2002-08-03,Clermont,Niort,1-1,1-0
+2002-08-03,Grenoble,St Etienne,1-0,1-0
+2002-08-03,Gueugnon,Metz,0-2,0-0
+2002-08-03,Istres,Toulouse,0-4,0-2
+2002-08-03,Laval,Wasquehal,1-0,1-0
+2002-08-03,Nancy,Creteil,2-3,1-3
+2002-08-10,Beauvais,Clermont,1-0,1-0
+2002-08-10,Caen,Chateauroux,4-1,3-1
+2002-08-10,Creteil,Laval,1-1,1-0
+2002-08-10,Le Mans,Gueugnon,3-1,2-0
+2002-08-10,Metz,Reims,0-0,0-0
+2002-08-10,Niort,Amiens,2-0,0-0
+2002-08-10,St Etienne,Istres,3-0,2-0
+2002-08-10,Valence,Nancy,2-0,1-0
+2002-08-10,Wasquehal,Grenoble,1-1,0-1
+2002-08-11,Lorient,Toulouse,1-0,0-0
+2002-08-16,Nancy,Caen,0-0,0-0
+2002-08-17,Amiens,St Etienne,1-0,1-0
+2002-08-17,Chateauroux,Creteil,2-0,1-0
+2002-08-17,Clermont,Valence,1-0,1-0
+2002-08-17,Grenoble,Niort,1-0,0-0
+2002-08-17,Gueugnon,Wasquehal,0-2,0-2
+2002-08-17,Istres,Lorient,1-1,1-1
+2002-08-17,Laval,Beauvais,2-0,1-0
+2002-08-17,Reims,Le Mans,1-2,0-0
+2002-08-17,Toulouse,Metz,3-0,1-0
+2002-08-24,Beauvais,Gueugnon,1-0,1-0
+2002-08-24,Caen,Laval,0-0,0-0
+2002-08-24,Creteil,Grenoble,0-0,0-0
+2002-08-24,Le Mans,Toulouse,2-1,2-1
+2002-08-24,Metz,Lorient,2-1,1-1
+2002-08-24,Niort,Istres,1-3,1-2
+2002-08-24,Valence,Chateauroux,4-0,1-0
+2002-08-24,Wasquehal,Clermont,2-0,1-0
+2002-08-25,Nancy,Amiens,1-0,0-0
+2002-08-25,St Etienne,Reims,0-0,0-0
+2002-08-30,Clermont,Creteil,1-2,1-1
+2002-08-30,Grenoble,Beauvais,0-2,0-1
+2002-08-31,Amiens,Wasquehal,1-2,1-1
+2002-08-31,Chateauroux,Nancy,1-0,0-0
+2002-08-31,Gueugnon,St Etienne,0-2,0-1
+2002-08-31,Istres,Metz,1-1,1-0
+2002-08-31,Laval,Valence,1-2,0-1
+2002-08-31,Reims,Niort,1-1,0-0
+2002-08-31,Toulouse,Caen,2-0,1-0
+2002-09-01,Lorient,Le Mans,3-4,1-3
+2002-09-04,Beauvais,Istres,2-0,1-0
+2002-09-04,Caen,Clermont,1-1,1-1
+2002-09-04,Chateauroux,Gueugnon,2-1,1-0
+2002-09-04,Creteil,Amiens,1-1,0-0
+2002-09-04,Nancy,Laval,2-1,0-0
+2002-09-04,Niort,Toulouse,2-0,0-0
+2002-09-04,St Etienne,Lorient,1-1,1-0
+2002-09-04,Valence,Grenoble,1-0,0-0
+2002-09-04,Wasquehal,Reims,1-1,0-1
+2002-09-05,Le Mans,Metz,1-0,1-0
+2002-09-10,Istres,Le Mans,1-0,1-0
+2002-09-11,Amiens,Valence,3-0,0-0
+2002-09-11,Clermont,Nancy,3-1,1-0
+2002-09-11,Grenoble,Caen,2-2,1-1
+2002-09-11,Gueugnon,Creteil,2-2,2-1
+2002-09-11,Laval,Chateauroux,1-0,1-0
+2002-09-11,Metz,Wasquehal,2-0,2-0
+2002-09-11,Reims,Beauvais,0-0,0-0
+2002-09-11,Toulouse,St Etienne,1-0,0-0
+2002-09-12,Lorient,Niort,1-0,1-0
+2002-09-14,Beauvais,Toulouse,0-0,0-0
+2002-09-14,Chateauroux,Clermont,1-0,0-0
+2002-09-14,Laval,Reims,1-0,0-0
+2002-09-14,Nancy,Grenoble,1-1,1-0
+2002-09-14,St Etienne,Le Mans,0-0,0-0
+2002-09-14,Valence,Gueugnon,0-1,0-0
+2002-09-14,Wasquehal,Istres,0-0,0-0
+2002-09-15,Caen,Amiens,2-0,2-0
+2002-09-15,Creteil,Lorient,3-1,0-1
+2002-09-15,Niort,Metz,2-0,2-0
+2002-09-20,Metz,St Etienne,1-1,1-0
+2002-09-20,Toulouse,Wasquehal,1-0,1-0
+2002-09-21,Amiens,Beauvais,2-0,1-0
+2002-09-21,Clermont,Laval,3-0,0-0
+2002-09-21,Grenoble,Chateauroux,0-0,0-0
+2002-09-21,Gueugnon,Caen,1-1,0-1
+2002-09-21,Istres,Valence,2-2,1-1
+2002-09-21,Le Mans,Niort,1-0,0-0
+2002-09-21,Reims,Creteil,0-0,0-0
+2002-09-22,Lorient,Nancy,1-0,0-0
+2002-09-28,Beauvais,Lorient,0-1,0-1
+2002-09-28,Caen,Reims,1-1,0-1
+2002-09-28,Chateauroux,Amiens,1-1,1-0
+2002-09-28,Creteil,Istres,5-0,4-0
+2002-09-28,Laval,Grenoble,1-1,1-0
+2002-09-28,Nancy,Gueugnon,1-1,0-0
+2002-09-28,Niort,St Etienne,3-0,1-0
+2002-09-28,Valence,Toulouse,0-1,0-0
+2002-09-28,Wasquehal,Le Mans,2-1,1-0
+2002-09-29,Clermont,Metz,2-1,1-1
+2002-10-04,Amiens,Laval,1-0,0-0
+2002-10-04,Le Mans,Nancy,3-0,0-0
+2002-10-05,Grenoble,Clermont,6-1,4-1
+2002-10-05,Gueugnon,Niort,1-0,1-0
+2002-10-05,Istres,Chateauroux,0-2,0-2
+2002-10-05,Metz,Beauvais,1-0,1-0
+2002-10-05,Reims,Valence,2-0,0-0
+2002-10-05,St Etienne,Wasquehal,2-0,1-0
+2002-10-05,Toulouse,Creteil,0-0,0-0
+2002-10-06,Lorient,Caen,2-0,0-0
+2002-10-18,Valence,Metz,3-1,0-0
+2002-10-19,Beauvais,St Etienne,3-0,1-0
+2002-10-19,Caen,Istres,1-0,0-0
+2002-10-19,Chateauroux,Reims,3-1,1-1
+2002-10-19,Clermont,Lorient,2-1,1-1
+2002-10-19,Creteil,Le Mans,2-2,1-1
+2002-10-19,Grenoble,Amiens,0-0,0-0
+2002-10-19,Laval,Gueugnon,2-0,1-0
+2002-10-19,Nancy,Toulouse,3-2,3-1
+2002-10-19,Wasquehal,Niort,1-1,0-0
+2002-10-26,Amiens,Clermont,1-0,1-0
+2002-10-26,Gueugnon,Grenoble,1-0,0-0
+2002-10-26,Istres,Laval,3-1,2-1
+2002-10-26,Le Mans,Valence,2-0,1-0
+2002-10-26,Lorient,Wasquehal,0-0,0-0
+2002-10-26,Metz,Creteil,1-0,0-0
+2002-10-26,Niort,Beauvais,0-1,0-1
+2002-10-26,Reims,Nancy,1-0,0-0
+2002-10-26,St Etienne,Caen,2-1,1-0
+2002-10-27,Toulouse,Chateauroux,1-0,0-0
+2002-11-01,Caen,Le Mans,1-1,0-0
+2002-11-02,Amiens,Reims,0-1,0-1
+2002-11-02,Beauvais,Wasquehal,0-0,0-0
+2002-11-02,Chateauroux,Lorient,3-1,1-0
+2002-11-02,Clermont,Gueugnon,0-0,0-0
+2002-11-02,Creteil,Niort,0-0,0-0
+2002-11-02,Grenoble,Istres,5-0,2-0
+2002-11-02,Laval,Toulouse,1-1,0-1
+2002-11-02,Valence,St Etienne,0-0,0-0
+2002-11-03,Nancy,Metz,1-2,1-1
+2002-11-08,Wasquehal,Caen,2-2,1-2
+2002-11-09,Gueugnon,Amiens,1-1,0-0
+2002-11-09,Istres,Nancy,2-0,1-0
+2002-11-09,Le Mans,Beauvais,1-0,0-0
+2002-11-09,Metz,Chateauroux,2-0,1-0
+2002-11-09,Niort,Valence,2-2,1-1
+2002-11-09,Reims,Grenoble,0-1,0-0
+2002-11-09,St Etienne,Creteil,1-1,0-1
+2002-11-09,Toulouse,Clermont,2-1,1-1
+2002-11-10,Lorient,Laval,2-1,1-1
+2002-11-15,Chateauroux,Le Mans,1-1,0-0
+2002-11-16,Amiens,Istres,1-1,0-0
+2002-11-16,Caen,Niort,0-1,0-0
+2002-11-16,Clermont,Reims,3-2,1-2
+2002-11-16,Creteil,Beauvais,1-0,1-0
+2002-11-16,Grenoble,Toulouse,1-1,0-0
+2002-11-16,Gueugnon,Lorient,1-0,0-0
+2002-11-16,Laval,Metz,1-1,0-0
+2002-11-17,Nancy,St Etienne,1-0,1-0
+2002-11-29,Metz,Caen,4-0,2-0
+2002-11-30,Istres,Clermont,1-1,0-1
+2002-11-30,Le Mans,Laval,1-1,0-0
+2002-11-30,Lorient,Grenoble,0-2,0-0
+2002-11-30,Niort,Nancy,3-2,0-1
+2002-11-30,Reims,Gueugnon,1-1,0-1
+2002-11-30,St Etienne,Chateauroux,0-0,0-0
+2002-11-30,Toulouse,Amiens,1-2,1-0
+2002-11-30,Wasquehal,Creteil,2-3,0-1
+2002-12-04,Caen,Beauvais,0-0,0-0
+2002-12-04,Chateauroux,Niort,4-0,3-0
+2002-12-04,Clermont,Le Mans,1-0,1-0
+2002-12-04,Grenoble,Metz,0-0,0-0
+2002-12-04,Gueugnon,Toulouse,0-1,0-1
+2002-12-04,Laval,St Etienne,1-0,0-0
+2002-12-04,Nancy,Wasquehal,0-0,0-0
+2002-12-04,Reims,Istres,2-2,1-0
+2002-12-04,Valence,Creteil,2-1,2-1
+2002-12-05,Amiens,Lorient,0-2,0-1
+2002-12-07,Valence,Wasquehal,0-1,0-0
+2002-12-11,Beauvais,Valence,0-0,0-0
+2002-12-18,Le Mans,Grenoble,1-0,0-0
+2002-12-18,Wasquehal,Chateauroux,0-0,0-0
+2002-12-19,Beauvais,Nancy,1-1,1-1
+2002-12-19,Creteil,Caen,1-1,0-0
+2002-12-19,Istres,Gueugnon,1-0,0-0
+2002-12-19,Lorient,Valence,1-0,1-0
+2002-12-19,Metz,Amiens,1-0,1-0
+2002-12-19,Niort,Laval,2-1,1-0
+2002-12-19,St Etienne,Clermont,3-1,2-0
+2002-12-19,Toulouse,Reims,2-0,0-0
+2003-01-11,Grenoble,Wasquehal,3-0,0-0
+2003-01-11,Toulouse,Lorient,3-1,0-1
+2003-01-15,Le Mans,Reims,1-1,1-0
+2003-01-15,Lorient,Istres,1-0,1-0
+2003-01-15,Niort,Grenoble,1-0,0-0
+2003-01-15,Valence,Clermont,4-1,2-1
+2003-01-16,Metz,Toulouse,0-0,0-0
+2003-01-18,Amiens,Niort,1-0,1-0
+2003-01-18,Chateauroux,Caen,2-1,1-1
+2003-01-22,Amiens,Nancy,0-0,0-0
+2003-01-22,Chateauroux,Valence,1-1,1-1
+2003-01-22,Clermont,Wasquehal,1-0,1-0
+2003-01-22,Grenoble,Creteil,3-0,1-0
+2003-01-22,Gueugnon,Beauvais,2-0,1-0
+2003-01-22,Istres,Niort,1-3,1-1
+2003-01-22,Laval,Caen,3-2,1-1
+2003-01-22,Lorient,Metz,2-0,0-0
+2003-01-22,Reims,St Etienne,1-0,1-0
+2003-01-21,Toulouse,Le Mans,2-0,0-0
+2003-01-28,Le Mans,Lorient,0-1,0-1
+2003-01-28,Metz,Istres,4-1,2-0
+2003-01-29,Beauvais,Grenoble,0-1,0-1
+2003-01-29,Creteil,Clermont,0-1,0-0
+2003-01-29,Nancy,Chateauroux,1-0,0-0
+2003-01-29,Niort,Reims,0-0,0-0
+2003-01-29,St Etienne,Gueugnon,0-3,0-2
+2003-01-29,Valence,Laval,1-0,0-0
+2003-01-29,Wasquehal,Amiens,0-0,0-0
+2003-01-30,Caen,Toulouse,0-2,0-1
+2003-01-31,Metz,Le Mans,4-0,2-0
+2003-02-01,Grenoble,Valence,1-2,0-2
+2003-02-01,Istres,Beauvais,0-0,0-0
+2003-02-01,Laval,Nancy,0-1,0-1
+2003-02-01,Lorient,St Etienne,1-1,1-1
+2003-02-02,Clermont,Caen,2-3,2-2
+2003-02-02,Toulouse,Niort,4-1,1-0
+2003-02-04,Beauvais,Reims,1-0,0-0
+2003-02-04,Chateauroux,Laval,0-2,0-0
+2003-02-05,Caen,Grenoble,0-0,0-0
+2003-02-05,Le Mans,Istres,1-0,0-0
+2003-02-05,Nancy,Clermont,1-0,0-0
+2003-02-05,Niort,Lorient,1-1,0-0
+2003-02-05,Valence,Amiens,0-1,0-1
+2003-02-05,Wasquehal,Metz,0-0,0-0
+2003-02-07,Reims,Laval,3-2,3-2
+2003-02-08,Amiens,Caen,1-0,0-0
+2003-02-08,Clermont,Chateauroux,1-3,0-0
+2003-02-08,Grenoble,Nancy,0-1,0-0
+2003-02-08,Gueugnon,Valence,2-0,1-0
+2003-02-08,Istres,Wasquehal,1-0,0-0
+2003-02-08,Lorient,Creteil,0-0,0-0
+2003-02-08,Metz,Niort,2-1,0-0
+2003-02-09,Le Mans,St Etienne,2-2,1-1
+2003-02-09,Toulouse,Beauvais,2-0,0-0
+2003-02-13,Creteil,Chateauroux,0-2,0-1
+2003-02-14,Clermont,Beauvais,1-0,0-0
+2003-02-14,Istres,St Etienne,0-0,0-0
+2003-02-18,Gueugnon,Le Mans,0-1,0-0
+2003-02-18,Nancy,Valence,2-2,0-0
+2003-02-22,Beauvais,Amiens,1-1,0-0
+2003-02-22,Caen,Gueugnon,3-0,1-0
+2003-02-22,Chateauroux,Grenoble,0-0,0-0
+2003-02-22,Creteil,Reims,1-1,1-0
+2003-02-22,Laval,Clermont,1-3,1-0
+2003-02-22,Niort,Le Mans,1-1,0-0
+2003-02-22,St Etienne,Metz,1-1,1-1
+2003-02-22,Valence,Istres,0-0,0-0
+2003-02-22,Wasquehal,Toulouse,0-0,0-0
+2003-02-28,Grenoble,Laval,0-1,0-0
+2003-02-28,St Etienne,Niort,2-0,0-0
+2003-03-01,Amiens,Chateauroux,0-2,0-1
+2003-03-01,Gueugnon,Nancy,2-2,0-0
+2003-03-01,Istres,Creteil,1-0,0-0
+2003-03-01,Le Mans,Wasquehal,0-0,0-0
+2003-03-01,Lorient,Beauvais,3-0,2-0
+2003-03-01,Metz,Clermont,2-1,0-1
+2003-03-01,Reims,Caen,1-2,0-1
+2003-03-01,Toulouse,Valence,3-1,1-1
+2003-03-04,Laval,Creteil,1-0,0-0
+2003-03-07,Creteil,Toulouse,2-2,1-2
+2003-03-08,Beauvais,Metz,1-2,0-1
+2003-03-08,Caen,Lorient,0-0,0-0
+2003-03-08,Chateauroux,Istres,1-0,0-0
+2003-03-08,Clermont,Grenoble,2-0,2-0
+2003-03-08,Laval,Amiens,1-0,1-0
+2003-03-08,Nancy,Le Mans,2-2,1-1
+2003-03-08,Niort,Gueugnon,0-1,0-1
+2003-03-08,Valence,Reims,0-0,0-0
+2003-03-08,Wasquehal,St Etienne,1-1,1-1
+2003-03-12,Caen,Nancy,2-0,0-0
+2003-03-13,Wasquehal,Gueugnon,0-0,0-0
+2003-03-14,Beauvais,Laval,1-2,0-1
+2003-03-14,St Etienne,Amiens,4-1,2-0
+2003-03-16,Reims,Metz,0-2,0-0
+2003-03-18,Amiens,Creteil,2-0,0-0
+2003-03-18,Gueugnon,Chateauroux,2-2,2-2
+2003-03-21,Le Mans,Creteil,2-1,1-0
+2003-03-22,Amiens,Grenoble,1-1,0-1
+2003-03-22,Gueugnon,Laval,2-1,2-1
+2003-03-22,Istres,Caen,0-4,0-1
+2003-03-22,Lorient,Clermont,0-0,0-0
+2003-03-22,Metz,Valence,1-2,0-2
+2003-03-22,Niort,Wasquehal,1-1,1-1
+2003-03-22,Reims,Chateauroux,0-1,0-0
+2003-03-22,St Etienne,Beauvais,1-0,0-0
+2003-03-22,Toulouse,Nancy,0-0,0-0
+2003-03-27,Chateauroux,Toulouse,0-0,0-0
+2003-03-28,Beauvais,Niort,0-2,0-0
+2003-03-28,Caen,St Etienne,0-0,0-0
+2003-03-28,Clermont,Amiens,1-1,1-1
+2003-03-28,Creteil,Metz,1-1,1-1
+2003-03-28,Grenoble,Gueugnon,2-0,1-0
+2003-03-28,Laval,Istres,3-1,2-0
+2003-03-28,Nancy,Reims,2-1,2-1
+2003-03-28,Valence,Le Mans,2-2,2-1
+2003-03-28,Wasquehal,Lorient,1-2,1-0
+2003-04-04,Le Mans,Caen,2-0,1-0
+2003-04-04,Metz,Nancy,4-0,1-0
+2003-04-04,Toulouse,Laval,2-1,1-1
+2003-04-05,Gueugnon,Clermont,2-0,1-0
+2003-04-05,Istres,Grenoble,3-1,0-0
+2003-04-05,Lorient,Chateauroux,2-0,2-0
+2003-04-05,Niort,Creteil,1-0,1-0
+2003-04-05,Reims,Amiens,1-1,1-1
+2003-04-05,St Etienne,Valence,2-0,1-0
+2003-04-05,Wasquehal,Beauvais,0-2,0-1
+2003-04-11,Nancy,Istres,0-2,0-0
+2003-04-12,Amiens,Gueugnon,0-0,0-0
+2003-04-12,Beauvais,Le Mans,0-2,0-1
+2003-04-12,Caen,Wasquehal,2-1,1-1
+2003-04-12,Chateauroux,Metz,0-0,0-0
+2003-04-12,Clermont,Toulouse,0-1,0-0
+2003-04-12,Creteil,St Etienne,0-0,0-0
+2003-04-12,Grenoble,Reims,4-1,2-1
+2003-04-12,Valence,Niort,2-2,0-0
+2003-04-13,Laval,Lorient,0-1,0-1
+2003-04-18,Toulouse,Grenoble,2-0,1-0
+2003-04-19,Beauvais,Creteil,0-0,0-0
+2003-04-19,Istres,Amiens,2-0,0-0
+2003-04-19,Le Mans,Chateauroux,1-0,1-0
+2003-04-19,Lorient,Gueugnon,0-1,0-0
+2003-04-19,Metz,Laval,2-1,1-0
+2003-04-19,Niort,Caen,1-1,0-1
+2003-04-19,Reims,Clermont,0-0,0-0
+2003-04-19,St Etienne,Nancy,0-1,0-1
+2003-04-19,Wasquehal,Valence,1-0,1-0
+2003-04-22,Nancy,Lorient,0-0,0-0
+2003-04-24,St Etienne,Toulouse,1-0,0-0
+2003-04-25,Creteil,Gueugnon,2-2,0-2
+2003-04-25,Reims,Wasquehal,4-1,0-1
+2003-05-02,Grenoble,Lorient,0-0,0-0
+2003-05-02,Laval,Le Mans,1-1,0-1
+2003-05-03,Amiens,Toulouse,3-1,2-0
+2003-05-03,Caen,Metz,1-0,0-0
+2003-05-03,Chateauroux,St Etienne,1-1,0-0
+2003-05-03,Clermont,Istres,1-1,1-1
+2003-05-03,Creteil,Wasquehal,2-1,0-0
+2003-05-03,Gueugnon,Reims,2-2,2-2
+2003-05-03,Nancy,Niort,0-0,0-0
+2003-05-03,Valence,Beauvais,0-0,0-0
+2003-05-09,Metz,Grenoble,1-0,0-0
+2003-05-09,Toulouse,Gueugnon,0-1,0-0
+2003-05-10,Beauvais,Caen,1-2,0-0
+2003-05-10,Creteil,Valence,0-1,0-0
+2003-05-10,Istres,Reims,0-0,0-0
+2003-05-10,Le Mans,Clermont,3-0,1-0
+2003-05-10,Lorient,Amiens,1-0,0-0
+2003-05-10,Niort,Chateauroux,4-0,1-0
+2003-05-10,St Etienne,Laval,1-0,1-0
+2003-05-10,Wasquehal,Nancy,1-1,0-0
+2003-05-16,Amiens,Metz,1-0,0-0
+2003-05-16,Caen,Creteil,2-2,1-0
+2003-05-16,Chateauroux,Wasquehal,2-2,1-0
+2003-05-16,Clermont,St Etienne,1-0,1-0
+2003-05-16,Grenoble,Le Mans,0-0,0-0
+2003-05-16,Gueugnon,Istres,1-1,1-0
+2003-05-16,Laval,Niort,2-1,0-1
+2003-05-16,Nancy,Beauvais,0-2,0-0
+2003-05-16,Reims,Toulouse,0-1,0-0
+2003-05-16,Valence,Lorient,1-1,1-0
+2003-05-23,Beauvais,Chateauroux,0-1,0-0
+2003-05-23,Creteil,Nancy,2-0,1-0
+2003-05-23,Le Mans,Amiens,1-1,1-1
+2003-05-23,Lorient,Reims,3-0,1-0
+2003-05-23,Metz,Gueugnon,4-0,2-0
+2003-05-23,Niort,Clermont,3-2,2-2
+2003-05-23,St Etienne,Grenoble,2-1,0-0
+2003-05-23,Toulouse,Istres,1-0,0-0
+2003-05-23,Valence,Caen,0-0,0-0
+2003-05-23,Wasquehal,Laval,0-1,0-0

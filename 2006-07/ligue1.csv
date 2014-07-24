@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2020-08-04,Nantes,Lyon,1-3,1-1
+2020-08-05,Auxerre,Valenciennes,1-1,0-1
+2020-08-05,Bordeaux,Toulouse,2-0,0-0
+2020-08-05,Le Mans,Nice,1-0,1-0
+2020-08-05,Lens,Troyes,1-0,1-0
+2020-08-05,Nancy,Monaco,1-0,0-0
+2020-08-05,Paris SG,Lorient,2-3,2-1
+2020-08-05,Rennes,Lille,1-2,0-2
+2020-08-05,St Etienne,Sochaux,1-2,1-1
+2020-08-06,Sedan,Marseille,0-0,0-0
+2020-08-13,Lille,Lens,4-0,2-0
+2020-08-12,Lorient,Bordeaux,0-1,0-1
+2020-08-12,Lyon,Toulouse,1-1,0-0
+2020-08-13,Marseille,Rennes,2-0,1-0
+2020-08-12,Monaco,St Etienne,1-2,0-1
+2020-08-12,Nancy,Sedan,3-1,0-1
+2020-08-12,Nice,Nantes,1-1,0-0
+2020-08-12,Sochaux,Auxerre,1-1,0-1
+2020-08-12,Troyes,Le Mans,2-2,0-2
+2020-08-12,Valenciennes,Paris SG,0-0,0-0
+2020-08-19,Auxerre,Marseille,0-3,0-1
+2020-08-19,Le Mans,Valenciennes,3-2,1-2
+2020-08-19,Lens,Lorient,1-1,1-0
+2020-08-19,Nantes,Troyes,1-1,1-0
+2020-08-19,Paris SG,Lille,1-0,0-0
+2020-08-19,Rennes,Monaco,1-1,0-1
+2020-08-19,Sedan,Sochaux,1-1,0-1
+2020-08-19,St Etienne,Nancy,1-0,0-0
+2020-08-20,Bordeaux,Lyon,1-2,1-1
+2020-08-20,Toulouse,Nice,1-0,1-0
+2020-08-26,Lille,Bordeaux,3-0,2-0
+2020-08-26,Lorient,Nantes,3-1,3-1
+2020-08-26,Nice,Lyon,1-4,1-0
+2020-08-26,Sochaux,Paris SG,3-2,2-0
+2020-08-26,Troyes,Toulouse,1-2,0-1
+2020-08-27,Marseille,Le Mans,2-0,0-0
+2020-08-27,Monaco,Sedan,2-1,2-0
+2020-08-27,Nancy,Auxerre,1-0,0-0
+2020-08-27,St Etienne,Lens,3-2,2-0
+2020-08-27,Valenciennes,Rennes,3-1,0-1
+2020-09-09,Auxerre,Monaco,2-1,1-0
+2020-09-09,Bordeaux,Nice,3-2,2-1
+2020-09-09,Le Mans,Lorient,1-1,0-0
+2020-09-09,Lens,Valenciennes,3-0,3-0
+2020-09-09,Lyon,Troyes,2-0,1-0
+2020-09-09,Nantes,Lille,1-1,0-1
+2020-09-09,Rennes,Sochaux,2-1,0-0
+2020-09-09,Sedan,St Etienne,2-2,1-1
+2020-09-10,Paris SG,Marseille,1-3,1-1
+2020-09-10,Toulouse,Nancy,2-2,1-0
+2020-09-16,Lille,Toulouse,1-3,1-3
+2020-09-16,Lorient,Lyon,1-3,0-1
+2020-09-16,Sedan,Le Mans,1-2,0-2
+2020-09-16,Troyes,Nice,2-0,0-0
+2020-09-16,Valenciennes,Nantes,1-0,1-0
+2020-09-17,Marseille,Bordeaux,2-1,0-0
+2020-09-17,Monaco,Paris SG,1-2,1-1
+2020-09-17,Nancy,Rennes,0-0,0-0
+2020-09-17,Sochaux,Lens,0-3,0-1
+2020-09-17,St Etienne,Auxerre,2-3,1-1
+2020-09-23,Auxerre,Sedan,2-2,1-1
+2020-09-23,Bordeaux,Troyes,2-1,0-1
+2020-09-23,Le Mans,Sochaux,2-2,1-1
+2020-09-23,Lyon,Lille,4-1,1-1
+2020-09-23,Nice,Valenciennes,2-0,0-0
+2020-09-23,Paris SG,Nancy,0-0,0-0
+2020-09-23,Rennes,St Etienne,0-0,0-0
+2020-09-23,Toulouse,Lorient,0-0,0-0
+2020-09-24,Lens,Monaco,1-0,1-0
+2020-09-24,Nantes,Marseille,2-1,1-0
+2020-09-30,Lille,Nice,1-0,0-0
+2020-09-30,Lorient,Troyes,0-0,0-0
+2020-09-30,Monaco,Le Mans,2-1,1-1
+2020-09-30,Sedan,Rennes,1-0,1-0
+2020-09-30,Sochaux,Lyon,0-1,0-0
+2020-09-30,Valenciennes,Bordeaux,2-0,0-0
+2020-10-01,Auxerre,Nantes,1-0,1-0
+2020-10-01,Marseille,Toulouse,3-0,2-0
+2020-10-01,Nancy,Lens,2-1,1-0
+2020-10-01,St Etienne,Paris SG,1-0,1-0
+2020-10-14,Bordeaux,Monaco,1-0,0-0
+2020-10-14,Lyon,St Etienne,2-1,0-0
+2020-10-14,Nantes,Sochaux,0-2,0-1
+2020-10-14,Nice,Lorient,3-0,1-0
+2020-10-14,Paris SG,Sedan,4-2,1-1
+2020-10-14,Rennes,Auxerre,3-1,2-0
+2020-10-14,Toulouse,Valenciennes,3-0,3-0
+2020-10-14,Troyes,Lille,1-1,1-0
+2020-10-15,Le Mans,Nancy,0-0,0-0
+2020-10-15,Lens,Marseille,1-1,0-0
+2020-10-21,Lille,Lorient,1-0,1-0
+2020-10-21,Monaco,Toulouse,1-3,1-1
+2020-10-21,Nancy,Nantes,1-0,0-0
+2020-10-21,Rennes,Nice,1-0,0-0
+2020-10-21,Sedan,Lens,2-2,0-2
+2020-10-21,Sochaux,Bordeaux,2-1,1-0
+2020-10-21,St Etienne,Le Mans,2-0,1-0
+2020-10-21,Valenciennes,Troyes,3-1,1-1
+2020-10-22,Auxerre,Paris SG,0-0,0-0
+2020-10-22,Marseille,Lyon,1-4,0-1
+2020-10-28,Bordeaux,Sedan,3-1,1-1
+2020-10-28,Le Mans,Lille,1-1,1-1
+2020-10-28,Lens,Auxerre,1-0,0-0
+2020-10-28,Lorient,Valenciennes,1-0,1-0
+2020-10-28,Nantes,Monaco,1-0,1-0
+2020-10-28,Paris SG,Rennes,1-0,1-0
+2020-10-28,Toulouse,Sochaux,1-2,1-1
+2020-10-28,Troyes,St Etienne,3-1,0-1
+2020-10-29,Lyon,Nancy,1-0,1-0
+2020-10-29,Nice,Marseille,2-1,1-0
+2020-11-04,Auxerre,Le Mans,2-3,0-1
+2020-11-04,Marseille,Lorient,0-1,0-0
+2020-11-04,Monaco,Nice,0-0,0-0
+2020-11-04,Rennes,Lyon,1-0,1-0
+2020-11-04,Sedan,Nantes,1-1,0-1
+2020-11-04,Sochaux,Troyes,1-0,0-0
+2020-11-04,St Etienne,Toulouse,3-0,2-0
+2020-11-04,Valenciennes,Lille,0-3,0-1
+2020-11-05,Nancy,Bordeaux,2-1,1-1
+2020-11-05,Paris SG,Lens,1-3,1-0
+2020-11-10,Lyon,Valenciennes,2-1,0-0
+2020-11-11,Bordeaux,Auxerre,0-0,0-0
+2020-11-11,Le Mans,Paris SG,1-1,1-1
+2020-11-11,Lens,Rennes,0-0,0-0
+2020-11-11,Lorient,Nancy,2-0,0-0
+2020-11-11,Nantes,St Etienne,2-2,1-1
+2020-11-11,Nice,Sochaux,0-0,0-0
+2020-11-11,Toulouse,Sedan,3-1,1-0
+2020-11-12,Lille,Marseille,1-0,1-0
+2020-11-12,Troyes,Monaco,0-4,0-1
+2020-11-18,Lens,Nantes,2-0,1-0
+2020-11-18,Monaco,Lorient,2-2,1-1
+2020-11-18,Nancy,Troyes,1-0,0-0
+2020-11-18,Paris SG,Bordeaux,0-2,0-1
+2020-11-18,Rennes,Le Mans,1-1,0-1
+2020-11-18,Sedan,Lyon,0-1,0-0
+2020-11-18,Sochaux,Lille,0-0,0-0
+2020-11-18,St Etienne,Nice,2-1,2-1
+2020-11-19,Auxerre,Toulouse,1-0,0-0
+2020-11-19,Marseille,Valenciennes,1-0,0-0
+2020-11-25,Bordeaux,St Etienne,1-0,0-0
+2020-11-25,Lille,Monaco,1-1,0-1
+2020-11-25,Lorient,Sochaux,1-3,1-3
+2020-11-25,Nice,Sedan,2-2,0-1
+2020-11-25,Toulouse,Rennes,1-0,0-0
+2020-11-25,Troyes,Marseille,1-1,1-0
+2020-11-26,Le Mans,Lens,1-1,1-1
+2020-11-26,Lyon,Auxerre,1-0,1-0
+2020-11-26,Nantes,Paris SG,1-1,0-1
+2020-11-26,Valenciennes,Nancy,1-0,1-0
+2020-12-02,Auxerre,Nice,0-0,0-0
+2020-12-02,Le Mans,Lyon,0-1,0-0
+2020-12-02,Lens,Bordeaux,3-0,1-0
+2020-12-02,Monaco,Valenciennes,3-0,1-0
+2020-12-02,Rennes,Nantes,2-0,1-0
+2020-12-02,Sedan,Troyes,1-2,0-1
+2020-12-02,St Etienne,Lorient,2-0,0-0
+2020-12-03,Nancy,Lille,1-3,0-0
+2020-12-03,Sochaux,Marseille,1-0,0-0
+2020-12-09,Bordeaux,Rennes,1-2,0-1
+2020-12-09,Lorient,Sedan,2-0,2-0
+2020-12-09,Marseille,Monaco,2-1,1-0
+2020-12-09,Nantes,Le Mans,0-0,0-0
+2020-12-09,Nice,Nancy,0-0,0-0
+2020-12-09,Toulouse,Lens,0-1,0-0
+2020-12-09,Troyes,Auxerre,3-3,2-0
+2020-12-09,Valenciennes,Sochaux,0-0,0-0
+2020-12-10,Lille,St Etienne,2-2,1-1
+2020-12-10,Lyon,Paris SG,3-1,1-0
+2020-12-16,Le Mans,Toulouse,2-0,1-0
+2020-12-16,Monaco,Sochaux,3-0,1-0
+2020-12-16,Nancy,Marseille,2-0,1-0
+2020-12-16,Nantes,Bordeaux,0-0,0-0
+2020-12-16,Rennes,Troyes,1-1,0-1
+2020-12-16,Sedan,Lille,2-0,2-0
+2020-12-16,St Etienne,Valenciennes,3-0,1-0
+2020-12-17,Auxerre,Lorient,2-1,1-1
+2020-12-17,Lens,Lyon,0-4,0-2
+2020-12-17,Paris SG,Nice,0-0,0-0
+2020-12-22,Marseille,St Etienne,2-1,1-1
+2020-12-23,Bordeaux,Le Mans,1-0,0-0
+2020-12-23,Lille,Auxerre,1-1,0-0
+2020-12-23,Lorient,Rennes,0-0,0-0
+2020-12-23,Lyon,Monaco,0-0,0-0
+2020-12-23,Nice,Lens,1-2,1-0
+2020-12-23,Sochaux,Nancy,2-1,0-1
+2020-12-23,Toulouse,Nantes,0-4,0-0
+2020-12-23,Troyes,Paris SG,1-1,0-0
+2020-12-23,Valenciennes,Sedan,2-1,2-0
+2020-01-13,Auxerre,Sochaux,1-0,0-0
+2020-01-13,Bordeaux,Lorient,1-1,0-1
+2020-01-13,Le Mans,Troyes,2-0,1-0
+2020-01-13,Lens,Lille,1-1,0-0
+2020-01-13,Nantes,Nice,1-0,0-0
+2020-01-13,Paris SG,Valenciennes,1-2,0-0
+2020-01-13,Sedan,Nancy,2-2,2-1
+2020-01-13,Toulouse,Lyon,2-0,0-0
+2020-01-14,Rennes,Marseille,0-2,0-0
+2020-01-14,St Etienne,Monaco,0-1,0-0
+2020-01-17,Paris SG,Toulouse,0-0,0-0
+2020-01-24,Lille,Paris SG,1-0,0-0
+2020-01-24,Lorient,Lens,1-0,0-0
+2020-01-24,Lyon,Bordeaux,1-2,0-2
+2020-01-24,Marseille,Auxerre,3-1,2-1
+2020-01-24,Monaco,Rennes,0-2,0-0
+2020-01-24,Nice,Toulouse,0-1,0-1
+2020-01-24,Sochaux,Sedan,1-1,0-1
+2020-01-24,Troyes,Nantes,1-0,0-0
+2020-01-24,Valenciennes,Le Mans,1-1,1-0
+2020-01-25,Nancy,St Etienne,0-2,0-0
+2020-01-27,Bordeaux,Lille,0-1,0-0
+2020-01-27,Le Mans,Marseille,2-0,1-0
+2020-01-27,Lyon,Nice,1-1,1-1
+2020-01-27,Nantes,Lorient,0-2,0-1
+2020-01-27,Paris SG,Sochaux,0-0,0-0
+2020-01-27,Rennes,Valenciennes,1-0,1-0
+2020-01-27,Sedan,Monaco,0-1,0-1
+2020-01-27,Toulouse,Troyes,1-1,1-1
+2020-01-28,Auxerre,Nancy,2-0,2-0
+2020-01-28,Lens,St Etienne,3-3,0-3
+2020-02-03,Lille,Nantes,0-0,0-0
+2020-02-03,Lorient,Le Mans,2-1,0-1
+2020-02-03,Monaco,Auxerre,2-1,1-0
+2020-02-03,Nancy,Toulouse,2-1,1-0
+2020-02-03,Nice,Bordeaux,2-1,2-1
+2020-02-03,Sochaux,Rennes,0-0,0-0
+2020-02-03,St Etienne,Sedan,1-2,1-0
+2020-02-03,Valenciennes,Lens,1-3,0-2
+2020-02-04,Marseille,Paris SG,1-1,0-0
+2020-02-04,Troyes,Lyon,1-0,0-0
+2020-02-10,Auxerre,St Etienne,1-1,1-0
+2020-02-10,Le Mans,Sedan,3-2,1-1
+2020-02-10,Lyon,Lorient,1-0,1-0
+2020-02-10,Nantes,Valenciennes,2-5,0-1
+2020-02-10,Nice,Troyes,3-0,1-0
+2020-02-10,Paris SG,Monaco,4-2,2-0
+2020-02-10,Rennes,Nancy,1-1,0-0
+2020-02-10,Toulouse,Lille,1-0,0-0
+2020-02-11,Bordeaux,Marseille,1-0,0-0
+2020-02-11,Lens,Sochaux,3-1,2-0
+2020-02-16,Lille,Lyon,1-2,0-0
+2020-02-17,Lorient,Toulouse,0-1,0-0
+2020-02-17,Nancy,Paris SG,0-3,0-0
+2020-02-17,Sedan,Auxerre,2-2,2-1
+2020-02-17,Sochaux,Le Mans,2-0,1-0
+2020-02-17,St Etienne,Rennes,1-3,1-1
+2020-02-17,Troyes,Bordeaux,1-0,0-0
+2020-02-17,Valenciennes,Nice,0-1,0-1
+2020-02-18,Marseille,Nantes,0-0,0-0
+2020-02-18,Monaco,Lens,0-0,0-0
+2020-02-24,Le Mans,Monaco,0-2,0-1
+2020-02-24,Lyon,Sochaux,3-3,1-2
+2020-02-24,Nantes,Auxerre,1-1,0-1
+2020-02-24,Nice,Lille,2-1,1-0
+2020-02-24,Rennes,Sedan,0-2,0-1
+2020-02-24,Toulouse,Marseille,3-0,1-0
+2020-02-24,Troyes,Lorient,3-0,2-0
+2020-02-25,Bordeaux,Valenciennes,2-1,2-0
+2020-02-25,Lens,Nancy,2-2,2-1
+2020-02-25,Paris SG,St Etienne,0-2,0-2
+2020-03-03,Auxerre,Rennes,1-0,0-0
+2020-03-03,Lille,Troyes,4-0,3-0
+2020-03-03,Lorient,Nice,0-0,0-0
+2020-03-03,Monaco,Bordeaux,0-0,0-0
+2020-03-03,Nancy,Le Mans,1-1,1-0
+2020-03-03,Sedan,Paris SG,2-0,1-0
+2020-03-03,St Etienne,Lyon,1-3,0-2
+2020-03-03,Valenciennes,Toulouse,0-0,0-0
+2020-03-04,Marseille,Lens,0-1,0-0
+2020-03-04,Sochaux,Nantes,1-2,1-1
+2020-03-10,Bordeaux,Sochaux,2-0,1-0
+2020-03-10,Le Mans,St Etienne,2-1,1-0
+2020-03-10,Lorient,Lille,0-0,0-0
+2020-03-10,Nantes,Nancy,2-1,1-1
+2020-03-10,Nice,Rennes,1-1,0-1
+2020-03-10,Toulouse,Monaco,1-1,1-0
+2020-03-10,Troyes,Valenciennes,1-3,0-1
+2020-03-11,Lens,Sedan,1-1,1-1
+2020-03-11,Lyon,Marseille,1-1,1-0
+2020-03-11,Paris SG,Auxerre,0-1,0-1
+2020-03-17,Lille,Le Mans,0-2,0-0
+2020-03-17,Marseille,Nice,3-0,3-0
+2020-03-17,Monaco,Nantes,2-1,2-1
+2020-03-17,Nancy,Lyon,0-3,0-1
+2020-03-17,Sedan,Bordeaux,1-1,0-1
+2020-03-17,Sochaux,Toulouse,4-2,2-0
+2020-03-17,St Etienne,Troyes,3-1,2-1
+2020-03-17,Valenciennes,Lorient,0-0,0-0
+2020-03-18,Auxerre,Lens,1-0,1-0
+2020-03-18,Rennes,Paris SG,1-0,0-0
+2020-03-31,Lorient,Marseille,2-1,0-0
+2020-04-01,Le Mans,Auxerre,2-2,0-0
+2020-04-01,Lens,Paris SG,1-2,0-1
+2020-04-01,Lille,Valenciennes,0-2,0-0
+2020-04-01,Nantes,Sedan,0-1,0-0
+2020-04-01,Nice,Monaco,1-1,1-0
+2020-04-01,Toulouse,St Etienne,1-0,0-0
+2020-04-01,Troyes,Sochaux,0-1,0-1
+2020-04-07,Auxerre,Bordeaux,0-0,0-0
+2020-04-07,Monaco,Troyes,0-0,0-0
+2020-04-07,Nancy,Lorient,0-1,0-0
+2020-04-07,Paris SG,Le Mans,2-1,0-1
+2020-04-07,Rennes,Lens,1-0,1-0
+2020-04-07,Sochaux,Nice,1-1,0-0
+2020-04-07,St Etienne,Nantes,2-1,2-1
+2020-04-07,Valenciennes,Lyon,0-0,0-0
+2020-04-08,Marseille,Lille,4-1,2-1
+2020-04-08,Sedan,Toulouse,0-2,0-0
+2020-04-14,Bordeaux,Paris SG,0-0,0-0
+2020-04-14,Le Mans,Rennes,0-0,0-0
+2020-04-14,Lille,Sochaux,2-0,0-0
+2020-04-14,Lorient,Monaco,0-0,0-0
+2020-04-14,Nantes,Lens,0-0,0-0
+2020-04-14,Toulouse,Auxerre,2-0,2-0
+2020-04-14,Troyes,Nancy,0-0,0-0
+2020-04-14,Valenciennes,Marseille,0-0,0-0
+2020-04-15,Lyon,Sedan,1-0,1-0
+2020-04-15,Nice,St Etienne,2-1,0-0
+2020-04-18,Bordeaux,Nancy,3-0,2-0
+2020-04-18,Lyon,Rennes,0-0,0-0
+2020-04-21,Lens,Le Mans,2-0,0-0
+2020-04-21,Marseille,Troyes,2-1,0-0
+2020-04-21,Monaco,Lille,3-1,1-0
+2020-04-21,Nancy,Valenciennes,1-0,1-0
+2020-04-21,Paris SG,Nantes,4-0,2-0
+2020-04-21,Rennes,Toulouse,3-2,0-1
+2020-04-21,Sedan,Nice,1-1,0-0
+2020-04-21,Sochaux,Lorient,1-1,0-0
+2020-04-22,Auxerre,Lyon,0-0,0-0
+2020-04-22,St Etienne,Bordeaux,0-2,0-0
+2020-04-28,Lille,Nancy,0-1,0-0
+2020-04-28,Lorient,St Etienne,0-0,0-0
+2020-04-28,Lyon,Le Mans,2-1,1-0
+2020-04-28,Nantes,Rennes,0-2,0-0
+2020-04-28,Nice,Auxerre,0-0,0-0
+2020-04-28,Toulouse,Paris SG,1-3,1-2
+2020-04-28,Troyes,Sedan,3-2,1-0
+2020-04-28,Valenciennes,Monaco,2-2,0-0
+2020-04-29,Bordeaux,Lens,1-0,1-0
+2020-04-29,Marseille,Sochaux,4-2,1-1
+2020-05-05,Auxerre,Troyes,1-0,0-0
+2020-05-05,Le Mans,Nantes,1-1,1-0
+2020-05-05,Lens,Toulouse,2-0,0-0
+2020-05-05,Nancy,Nice,3-0,3-0
+2020-05-05,Paris SG,Lyon,1-1,0-0
+2020-05-05,Rennes,Bordeaux,0-0,0-0
+2020-05-05,Sedan,Lorient,3-1,1-1
+2020-05-05,Sochaux,Valenciennes,1-0,0-0
+2020-05-06,Monaco,Marseille,1-2,1-1
+2020-05-06,St Etienne,Lille,2-1,1-0
+2020-05-09,Bordeaux,Nantes,0-1,0-0
+2020-05-09,Lille,Sedan,2-1,2-1
+2020-05-09,Lorient,Auxerre,2-1,1-1
+2020-05-09,Lyon,Lens,3-0,3-0
+2020-05-09,Marseille,Nancy,2-1,0-0
+2020-05-09,Nice,Paris SG,1-0,1-0
+2020-05-09,Sochaux,Monaco,2-1,1-1
+2020-05-09,Troyes,Rennes,2-2,2-2
+2020-05-09,Valenciennes,St Etienne,1-0,0-0
+2020-05-10,Toulouse,Le Mans,0-1,0-0
+2020-05-19,Auxerre,Lille,2-1,1-1
+2020-05-19,Le Mans,Bordeaux,1-1,0-0
+2020-05-19,Lens,Nice,0-0,0-0
+2020-05-19,Monaco,Lyon,1-0,0-0
+2020-05-19,Nancy,Sochaux,5-2,2-1
+2020-05-19,Nantes,Toulouse,0-0,0-0
+2020-05-19,Paris SG,Troyes,2-1,0-1
+2020-05-19,Rennes,Lorient,4-1,1-1
+2020-05-19,Sedan,Valenciennes,1-1,0-0
+2020-05-19,St Etienne,Marseille,1-2,0-0
+2020-05-26,Lille,Rennes,1-1,0-0
+2020-05-26,Lorient,Paris SG,0-1,0-0
+2020-05-26,Lyon,Nantes,3-1,1-0
+2020-05-26,Marseille,Sedan,1-0,0-0
+2020-05-26,Monaco,Nancy,2-0,1-0
+2020-05-26,Nice,Le Mans,3-3,2-1
+2020-05-26,Sochaux,St Etienne,1-0,1-0
+2020-05-26,Toulouse,Bordeaux,3-1,1-1
+2020-05-26,Troyes,Lens,3-0,1-0
+2020-05-26,Valenciennes,Auxerre,1-3,0-2

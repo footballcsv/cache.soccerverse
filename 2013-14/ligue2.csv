@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2013-08-02,Arles,Le Havre,2-0,2-0
+2013-08-02,Caen,Dijon,3-1,1-0
+2013-08-02,Chateauroux,Brest,3-3,0-1
+2013-08-02,Clermont,Tours,2-1,1-1
+2013-08-02,Istres,Angers,2-4,1-2
+2013-08-02,Metz,Laval,1-0,0-0
+2013-08-02,Nimes,Creteil,2-3,1-1
+2013-08-02,Niort,Troyes,1-1,0-0
+2013-08-03,Nancy,Auxerre,0-0,0-0
+2013-08-04,Lens,CA Bastia,1-0,0-0
+2013-08-09,Auxerre,Nimes,1-1,0-0
+2013-08-09,Creteil,Metz,3-2,1-1
+2013-08-09,Laval,Caen,1-2,1-1
+2013-08-09,Le Havre,Clermont,0-1,0-1
+2013-08-09,Tours,Niort,1-1,1-0
+2013-08-10,Angers,Chateauroux,1-0,1-0
+2013-08-10,CA Bastia,Nancy,1-2,0-1
+2013-08-10,Dijon,Lens,1-1,1-1
+2013-08-10,Troyes,Arles,1-0,0-0
+2013-08-12,Brest,Istres,3-1,1-0
+2013-08-16,Caen,Creteil,3-0,2-0
+2013-08-16,Chateauroux,Tours,0-4,0-2
+2013-08-16,Clermont,Laval,2-1,1-1
+2013-08-16,Dijon,Angers,1-3,1-1
+2013-08-16,Istres,CA Bastia,1-1,1-1
+2013-08-16,Metz,Arles,1-0,1-0
+2013-08-16,Nimes,Troyes,3-2,2-1
+2013-08-16,Niort,Le Havre,1-1,0-1
+2013-08-17,Lens,Auxerre,4-1,3-1
+2013-08-19,Nancy,Brest,0-1,0-1
+2013-08-23,Arles,Clermont,1-0,0-0
+2013-08-23,Auxerre,Chateauroux,2-0,1-0
+2013-08-23,CA Bastia,Angers,1-1,0-0
+2013-08-23,Creteil,Istres,2-2,2-1
+2013-08-23,Le Havre,Nancy,1-1,0-0
+2013-08-23,Metz,Niort,1-1,0-0
+2013-08-23,Tours,Nimes,3-1,3-0
+2013-08-23,Troyes,Caen,2-1,1-0
+2013-08-24,Brest,Dijon,0-0,0-0
+2013-08-24,Laval,Lens,0-2,0-0
+2013-08-30,Angers,Brest,2-1,0-0
+2013-08-30,Chateauroux,CA Bastia,2-0,1-0
+2013-08-30,Clermont,Creteil,0-0,0-0
+2013-08-30,Dijon,Laval,1-0,0-0
+2013-08-30,Istres,Auxerre,1-1,1-0
+2013-08-30,Lens,Troyes,1-0,0-0
+2013-08-30,Nancy,Tours,2-3,0-1
+2013-08-30,Nimes,Le Havre,0-0,0-0
+2013-08-30,Niort,Arles,1-0,0-0
+2013-09-02,Caen,Metz,0-2,0-0
+2013-09-13,Arles,Caen,3-2,0-2
+2013-09-13,CA Bastia,Dijon,0-0,0-0
+2013-09-13,Creteil,Nancy,1-1,0-1
+2013-09-13,Laval,Angers,4-1,2-1
+2013-09-13,Metz,Nimes,2-2,1-0
+2013-09-13,Niort,Clermont,0-0,0-0
+2013-09-13,Tours,Istres,2-2,2-1
+2013-09-13,Troyes,Chateauroux,3-0,3-0
+2013-09-14,Le Havre,Lens,6-2,4-1
+2013-09-16,Auxerre,Brest,0-0,0-0
+2013-09-20,Brest,CA Bastia,2-0,2-0
+2013-09-20,Caen,Niort,3-1,2-0
+2013-09-20,Chateauroux,Le Havre,2-2,1-1
+2013-09-20,Clermont,Metz,0-0,0-0
+2013-09-20,Dijon,Tours,2-0,1-0
+2013-09-20,Istres,Laval,3-0,1-0
+2013-09-20,Lens,Creteil,1-1,1-1
+2013-09-20,Nancy,Troyes,2-1,1-0
+2013-09-20,Nimes,Arles,1-2,1-1
+2013-09-21,Angers,Auxerre,2-0,1-0
+2013-09-23,Tours,Lens,3-1,2-0
+2013-09-24,Arles,Chateauroux,1-1,0-1
+2013-09-24,Auxerre,CA Bastia,1-0,1-0
+2013-09-24,Clermont,Caen,2-2,0-0
+2013-09-24,Creteil,Dijon,1-3,0-1
+2013-09-24,Laval,Brest,2-1,1-0
+2013-09-24,Le Havre,Istres,1-0,1-0
+2013-09-24,Metz,Nancy,3-0,1-0
+2013-09-24,Niort,Nimes,2-1,1-0
+2013-09-24,Troyes,Angers,3-3,0-2
+2013-09-27,Angers,Tours,1-1,0-1
+2013-09-27,Brest,Creteil,1-2,1-0
+2013-09-27,CA Bastia,Laval,1-1,0-1
+2013-09-27,Caen,Le Havre,1-0,0-0
+2013-09-27,Chateauroux,Niort,3-0,1-0
+2013-09-27,Dijon,Auxerre,1-0,1-0
+2013-09-27,Istres,Troyes,0-2,0-2
+2013-09-27,Nancy,Arles,0-0,0-0
+2013-09-27,Nimes,Clermont,1-1,0-1
+2013-09-30,Lens,Metz,3-2,1-1
+2013-10-04,Auxerre,Laval,2-0,0-0
+2013-10-04,Clermont,Istres,2-0,0-0
+2013-10-04,Le Havre,Dijon,0-0,0-0
+2013-10-04,Metz,Chateauroux,1-0,0-0
+2013-10-04,Niort,Nancy,2-2,2-2
+2013-10-04,Tours,Brest,1-1,1-1
+2013-10-04,Troyes,CA Bastia,6-1,1-0
+2013-10-05,Creteil,Angers,0-0,0-0
+2013-10-05,Nimes,Caen,2-1,2-1
+2013-10-07,Arles,Lens,1-1,0-0
+2013-10-18,Angers,Niort,2-0,0-0
+2013-10-18,Auxerre,Creteil,1-1,1-0
+2013-10-18,CA Bastia,Tours,1-2,0-1
+2013-10-18,Chateauroux,Caen,0-2,0-1
+2013-10-18,Dijon,Troyes,2-1,0-1
+2013-10-18,Istres,Arles,1-0,0-0
+2013-10-18,Laval,Le Havre,2-2,0-1
+2013-10-18,Nancy,Clermont,3-2,1-1
+2013-10-19,Lens,Nimes,1-0,0-0
+2013-10-21,Brest,Metz,0-3,0-2
+2013-10-25,Arles,Dijon,0-0,0-0
+2013-10-25,Creteil,CA Bastia,3-0,1-0
+2013-10-25,Le Havre,Brest,0-1,0-0
+2013-10-25,Metz,Angers,1-0,0-0
+2013-10-25,Nimes,Chateauroux,3-1,1-0
+2013-10-25,Niort,Istres,3-1,0-0
+2013-10-25,Tours,Laval,2-0,0-0
+2013-10-25,Troyes,Auxerre,2-0,1-0
+2013-10-26,Caen,Nancy,1-2,1-1
+2013-10-28,Clermont,Lens,0-0,0-0
+2013-11-01,Angers,Arles,1-0,1-0
+2013-11-01,Auxerre,Tours,4-0,1-0
+2013-11-01,CA Bastia,Le Havre,0-0,0-0
+2013-11-01,Chateauroux,Clermont,3-0,2-0
+2013-11-01,Dijon,Niort,2-2,0-2
+2013-11-01,Istres,Metz,1-2,0-1
+2013-11-01,Laval,Creteil,5-1,1-1
+2013-11-01,Nancy,Nimes,1-0,1-0
+2013-11-02,Lens,Caen,2-1,2-0
+2013-11-04,Brest,Troyes,1-1,0-1
+2013-11-08,Caen,Istres,4-0,2-0
+2013-11-08,Clermont,Auxerre,1-1,0-0
+2013-11-08,Creteil,Tours,2-1,1-0
+2013-11-08,Le Havre,Angers,1-2,0-0
+2013-11-08,Nancy,Chateauroux,2-0,2-0
+2013-11-08,Nimes,CA Bastia,0-1,0-1
+2013-11-08,Troyes,Laval,0-1,0-1
+2013-11-09,Arles,Brest,1-0,0-0
+2013-11-09,Metz,Dijon,2-0,2-0
+2013-11-11,Niort,Lens,2-2,1-0
+2013-11-22,Angers,Clermont,0-2,0-2
+2013-11-22,Brest,Niort,0-1,0-1
+2013-11-22,CA Bastia,Metz,0-2,0-0
+2013-11-22,Creteil,Troyes,0-3,0-0
+2013-11-22,Dijon,Nancy,1-0,0-0
+2013-11-22,Istres,Nimes,4-2,3-1
+2013-11-22,Laval,Arles,1-1,1-0
+2013-11-22,Tours,Le Havre,2-2,1-1
+2013-11-23,Lens,Chateauroux,2-0,0-0
+2013-11-25,Auxerre,Caen,3-2,2-2
+2013-11-29,Arles,CA Bastia,0-0,0-0
+2013-11-29,Caen,Angers,1-1,1-1
+2013-11-29,Chateauroux,Istres,2-0,1-0
+2013-11-29,Clermont,Brest,1-0,0-0
+2013-11-29,Le Havre,Creteil,3-1,2-0
+2013-11-29,Nimes,Dijon,1-1,1-0
+2013-11-29,Niort,Laval,0-1,0-1
+2013-11-29,Troyes,Tours,1-2,1-2
+2013-11-30,Nancy,Lens,1-0,1-0
+2013-12-02,Metz,Auxerre,3-0,0-0
+2013-12-13,Auxerre,Niort,2-0,0-0
+2013-12-13,Brest,Nimes,1-1,0-0
+2013-12-13,CA Bastia,Caen,1-5,0-2
+2013-12-13,Creteil,Arles,1-1,1-0
+2013-12-13,Istres,Nancy,0-0,0-0
+2013-12-13,Laval,Chateauroux,2-2,0-1
+2013-12-13,Tours,Metz,4-2,2-1
+2013-12-13,Troyes,Le Havre,0-1,0-0
+2013-12-14,Angers,Lens,1-2,0-1
+2013-12-16,Dijon,Clermont,1-0,0-0
+2013-12-19,Lens,Istres,1-2,0-0
+2013-12-20,Caen,Brest,0-0,0-0
+2013-12-20,Chateauroux,Dijon,3-1,1-0
+2013-12-20,Clermont,CA Bastia,2-0,1-0
+2013-12-20,Le Havre,Auxerre,2-0,2-0
+2013-12-20,Nancy,Laval,2-1,1-0
+2013-12-20,Nimes,Angers,0-2,0-2
+2013-12-20,Niort,Creteil,2-1,1-0
+2013-12-21,Arles,Tours,1-0,0-0
+2013-12-21,Metz,Troyes,1-0,1-0
+2014-01-10,Auxerre,Arles,1-1,1-1
+2014-01-10,CA Bastia,Niort,0-3,0-0
+2014-01-10,Dijon,Istres,4-1,2-0
+2014-01-10,Laval,Nimes,1-3,1-1
+2014-01-10,Le Havre,Metz,2-2,1-1
+2014-01-10,Tours,Caen,2-1,1-0
+2014-01-10,Troyes,Clermont,2-2,0-1
+2014-01-11,Angers,Nancy,1-1,1-0
+2014-01-11,Creteil,Chateauroux,3-2,1-2
+2014-01-13,Brest,Lens,0-1,0-1
+2014-01-17,Caen,Laval,2-1,1-1
+2014-01-17,Chateauroux,Angers,0-1,0-0
+2014-01-17,Clermont,Le Havre,0-1,0-1
+2014-01-17,Istres,Brest,3-1,1-0
+2014-01-17,Nancy,CA Bastia,0-1,0-0
+2014-01-17,Nimes,Auxerre,2-2,1-1
+2014-01-17,Niort,Tours,3-2,2-0
+2014-01-18,Arles,Troyes,3-0,1-0
+2014-01-18,Lens,Dijon,2-2,1-2
+2014-01-20,Metz,Creteil,1-1,0-0
+2014-01-24,Arles,Metz,1-0,0-0
+2014-01-24,Brest,Nancy,0-0,0-0
+2014-01-24,CA Bastia,Istres,2-2,1-1
+2014-01-24,Creteil,Caen,1-2,1-2
+2014-01-24,Laval,Clermont,0-0,0-0
+2014-01-24,Le Havre,Niort,1-2,0-1
+2014-01-24,Troyes,Nimes,2-1,1-0
+2014-01-25,Tours,Chateauroux,5-2,2-1
+2014-01-27,Angers,Dijon,0-0,0-0
+2014-01-27,Auxerre,Lens,1-2,1-1
+2014-01-31,Angers,CA Bastia,1-0,0-0
+2014-01-31,Caen,Troyes,1-1,0-1
+2014-01-31,Chateauroux,Auxerre,2-0,0-0
+2014-01-31,Clermont,Arles,1-1,0-0
+2014-01-31,Dijon,Brest,3-0,2-0
+2014-01-31,Istres,Creteil,3-2,1-1
+2014-01-31,Nimes,Tours,3-0,1-0
+2014-01-31,Niort,Metz,2-0,0-0
+2014-02-01,Lens,Laval,0-0,0-0
+2014-02-03,Nancy,Le Havre,3-2,2-1
+2014-02-07,Arles,Niort,0-0,0-0
+2014-02-07,Auxerre,Istres,1-0,0-0
+2014-02-07,CA Bastia,Chateauroux,1-4,1-0
+2014-02-07,Creteil,Clermont,2-0,2-0
+2014-02-07,Laval,Dijon,0-0,0-0
+2014-02-07,Le Havre,Nimes,0-1,0-0
+2014-02-07,Metz,Caen,2-1,1-1
+2014-02-08,Troyes,Lens,1-0,0-0
+2014-02-10,Tours,Nancy,1-3,1-0
+2014-02-14,Caen,Arles,1-0,1-0
+2014-02-14,Chateauroux,Troyes,2-1,1-0
+2014-02-14,Clermont,Niort,0-1,0-1
+2014-02-14,Dijon,CA Bastia,3-0,1-0
+2014-02-14,Istres,Tours,1-0,1-0
+2014-02-14,Nancy,Creteil,2-2,1-1
+2014-02-14,Nimes,Metz,0-0,0-0
+2014-02-15,Angers,Laval,1-1,1-1
+2014-02-15,Brest,Auxerre,1-0,1-0
+2014-02-17,Lens,Le Havre,1-1,0-1
+2014-02-21,Arles,Nimes,1-1,0-1
+2014-02-21,Auxerre,Angers,1-2,0-1
+2014-02-21,Laval,Istres,3-4,3-2
+2014-02-21,Le Havre,Chateauroux,0-0,0-0
+2014-02-21,Niort,Caen,0-0,0-0
+2014-02-21,Tours,Dijon,1-0,1-0
+2014-02-21,Troyes,Nancy,2-0,1-0
+2014-02-22,Metz,Clermont,1-0,0-0
+2014-02-24,CA Bastia,Brest,0-1,0-0
+2014-02-24,Creteil,Lens,2-3,1-1
+2014-02-28,Angers,Troyes,1-1,1-0
+2014-02-28,Brest,Laval,2-1,0-1
+2014-02-28,CA Bastia,Auxerre,0-0,0-0
+2014-02-28,Caen,Clermont,2-1,0-1
+2014-02-28,Chateauroux,Arles,2-0,1-0
+2014-02-28,Dijon,Creteil,2-2,1-2
+2014-02-28,Istres,Le Havre,0-1,0-1
+2014-02-28,Nimes,Niort,4-1,2-1
+2014-03-01,Nancy,Metz,0-1,0-1
+2014-03-03,Lens,Tours,2-2,0-2
+2014-03-07,Arles,Nancy,1-2,0-1
+2014-03-07,Auxerre,Dijon,2-2,0-1
+2014-03-07,Clermont,Nimes,1-0,1-0
+2014-03-07,Creteil,Brest,0-0,0-0
+2014-03-07,Laval,CA Bastia,2-0,2-0
+2014-03-07,Le Havre,Caen,1-1,1-1
+2014-03-07,Niort,Chateauroux,4-0,2-0
+2014-03-07,Troyes,Istres,4-1,2-1
+2014-03-08,Metz,Lens,0-1,0-0
+2014-03-10,Tours,Angers,2-0,0-0
+2014-03-14,Brest,Tours,2-0,1-0
+2014-03-14,CA Bastia,Troyes,1-0,1-0
+2014-03-14,Chateauroux,Metz,0-1,0-0
+2014-03-14,Dijon,Le Havre,1-2,1-2
+2014-03-14,Istres,Clermont,1-1,0-1
+2014-03-14,Laval,Auxerre,3-0,0-0
+2014-03-14,Nancy,Niort,1-1,1-0
+2014-03-15,Angers,Creteil,2-2,0-2
+2014-03-17,Lens,Arles,3-0,2-0
+2014-03-18,Brest,Angers,1-0,0-0
+2014-03-21,Arles,Istres,2-2,0-1
+2014-03-21,Caen,Chateauroux,1-1,1-0
+2014-03-21,Clermont,Nancy,1-0,1-0
+2014-03-21,Creteil,Auxerre,0-2,0-2
+2014-03-21,Le Havre,Laval,1-1,0-1
+2014-03-21,Niort,Angers,2-1,1-0
+2014-03-21,Tours,CA Bastia,1-0,1-0
+2014-03-21,Troyes,Dijon,2-0,0-0
+2014-03-22,Nimes,Lens,3-3,2-2
+2014-03-24,Metz,Brest,1-0,0-0
+2014-03-28,Auxerre,Troyes,0-0,0-0
+2014-03-28,Brest,Le Havre,1-1,0-0
+2014-03-28,CA Bastia,Creteil,3-1,2-1
+2014-03-28,Chateauroux,Nimes,2-0,2-0
+2014-03-28,Dijon,Arles,1-1,1-0
+2014-03-28,Istres,Niort,2-1,2-0
+2014-03-28,Laval,Tours,1-0,0-0
+2014-03-28,Nancy,Caen,1-1,1-0
+2014-03-29,Angers,Metz,2-2,1-2
+2014-03-31,Lens,Clermont,1-1,1-1
+2014-04-04,Arles,Angers,3-0,1-0
+2014-04-04,Clermont,Chateauroux,1-1,1-0
+2014-04-04,Creteil,Laval,4-0,4-0
+2014-04-04,Le Havre,CA Bastia,1-0,0-0
+2014-04-04,Nimes,Nancy,0-1,0-1
+2014-04-04,Niort,Dijon,2-0,2-0
+2014-04-04,Tours,Auxerre,2-2,1-1
+2014-04-04,Troyes,Brest,0-2,0-1
+2014-04-05,Caen,Lens,1-0,1-0
+2014-04-07,Metz,Istres,2-1,1-1
+2014-04-11,Angers,Le Havre,1-0,0-0
+2014-04-11,Auxerre,Clermont,0-2,0-1
+2014-04-11,Brest,Arles,2-0,0-0
+2014-04-11,CA Bastia,Nimes,0-0,0-0
+2014-04-11,Chateauroux,Nancy,0-3,0-1
+2014-04-11,Istres,Caen,2-3,2-1
+2014-04-11,Laval,Troyes,2-1,1-0
+2014-04-11,Tours,Creteil,1-2,0-1
+2014-04-12,Lens,Niort,2-0,0-0
+2014-04-14,Dijon,Metz,2-2,1-1
+2014-04-18,Arles,Laval,1-1,1-0
+2014-04-18,Clermont,Angers,1-1,0-1
+2014-04-18,Le Havre,Tours,2-2,2-0
+2014-04-18,Metz,CA Bastia,1-0,0-0
+2014-04-18,Nancy,Dijon,2-1,1-0
+2014-04-18,Nimes,Istres,1-0,0-0
+2014-04-18,Niort,Brest,1-2,0-0
+2014-04-18,Troyes,Creteil,0-3,0-2
+2014-04-19,Caen,Auxerre,1-0,0-0
+2014-04-21,Chateauroux,Lens,1-1,0-1
+2014-04-25,Brest,Clermont,2-0,1-0
+2014-04-25,CA Bastia,Arles,2-2,2-1
+2014-04-25,Creteil,Le Havre,2-0,1-0
+2014-04-25,Dijon,Nimes,5-1,2-0
+2014-04-25,Istres,Chateauroux,0-0,0-0
+2014-04-25,Laval,Niort,2-4,1-2
+2014-04-25,Lens,Nancy,1-1,0-0
+2014-04-25,Tours,Troyes,1-2,0-0
+2014-04-26,Auxerre,Metz,0-3,0-2
+2014-04-28,Angers,Caen,1-2,0-0
+2014-05-02,Arles,Creteil,2-1,1-0
+2014-05-02,Caen,CA Bastia,6-1,3-0
+2014-05-02,Chateauroux,Laval,1-1,1-0
+2014-05-02,Clermont,Dijon,0-1,0-1
+2014-05-02,Le Havre,Troyes,2-1,0-0
+2014-05-02,Metz,Tours,1-1,0-1
+2014-05-02,Nancy,Istres,3-1,3-1
+2014-05-02,Nimes,Brest,1-1,1-0
+2014-05-02,Niort,Auxerre,1-0,1-0
+2014-05-03,Lens,Angers,0-0,0-0
+2014-05-05,Brest,Caen,0-1,0-1
+2014-05-06,Angers,Nimes,2-3,1-2
+2014-05-06,Auxerre,Le Havre,2-1,0-0
+2014-05-06,CA Bastia,Clermont,1-1,0-1
+2014-05-06,Creteil,Niort,1-1,1-0
+2014-05-06,Dijon,Chateauroux,2-1,0-0
+2014-05-06,Istres,Lens,1-6,0-1
+2014-05-06,Laval,Nancy,1-0,0-0
+2014-05-06,Tours,Arles,2-2,1-2
+2014-05-06,Troyes,Metz,0-1,0-0
+2014-05-09,Arles,Auxerre,0-2,0-0
+2014-05-09,Caen,Tours,1-3,0-1
+2014-05-09,Chateauroux,Creteil,0-2,0-0
+2014-05-09,Clermont,Troyes,0-3,0-1
+2014-05-09,Istres,Dijon,2-4,0-3
+2014-05-09,Lens,Brest,0-1,0-0
+2014-05-09,Metz,Le Havre,3-0,3-0
+2014-05-09,Nancy,Angers,3-1,0-0
+2014-05-09,Nimes,Laval,2-1,1-1
+2014-05-09,Niort,CA Bastia,1-1,0-0
+2014-05-13,Caen,Nimes,1-1,1-1
+2014-05-16,Angers,Istres,1-0,0-0
+2014-05-16,Auxerre,Nancy,0-0,0-0
+2014-05-16,Brest,Chateauroux,3-0,1-0
+2014-05-16,CA Bastia,Lens,0-2,0-2
+2014-05-16,Creteil,Nimes,1-1,1-1
+2014-05-16,Dijon,Caen,2-2,1-1
+2014-05-16,Laval,Metz,0-0,0-0
+2014-05-16,Le Havre,Arles,2-1,0-0
+2014-05-16,Tours,Clermont,3-0,2-0
+2014-05-16,Troyes,Niort,4-1,3-0

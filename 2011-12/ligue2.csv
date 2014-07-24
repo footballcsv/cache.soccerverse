@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2011-07-29,Amiens,Troyes,1-1,1-1
+2011-07-29,Angers,Le Havre,1-2,0-2
+2011-07-29,Arles,Le Mans,1-0,0-0
+2011-07-29,Bastia,Istres,3-1,1-0
+2011-07-29,Guingamp,Chateauroux,1-1,0-0
+2011-07-29,Laval,Clermont,1-2,0-1
+2011-07-29,Sedan,Nantes,2-0,1-0
+2011-07-29,Tours,Metz,1-0,0-0
+2011-07-30,Lens,Reims,0-2,0-2
+2011-08-01,Monaco,Boulogne,0-0,0-0
+2011-08-05,Boulogne,Angers,3-3,1-2
+2011-08-05,Chateauroux,Sedan,0-1,0-1
+2011-08-05,Clermont,Guingamp,0-1,0-0
+2011-08-05,Istres,Lens,2-1,0-0
+2011-08-05,Le Havre,Laval,1-1,1-0
+2011-08-05,Le Mans,Tours,0-1,0-0
+2011-08-05,Nantes,Bastia,0-2,0-0
+2011-08-05,Reims,Amiens,1-0,0-0
+2011-08-06,Troyes,Monaco,1-1,0-1
+2011-08-08,Metz,Arles,0-0,0-0
+2011-08-12,Amiens,Le Havre,0-1,0-0
+2011-08-12,Angers,Istres,3-1,0-1
+2011-08-12,Arles,Nantes,0-0,0-0
+2011-08-12,Bastia,Le Mans,1-0,0-0
+2011-08-12,Guingamp,Metz,0-1,0-0
+2011-08-12,Laval,Boulogne,2-2,1-2
+2011-08-12,Sedan,Clermont,1-2,0-0
+2011-08-12,Tours,Chateauroux,1-2,1-1
+2011-08-13,Lens,Troyes,2-1,0-0
+2011-08-15,Monaco,Reims,1-2,0-1
+2011-08-19,Boulogne,Tours,0-0,0-0
+2011-08-19,Clermont,Lens,2-0,2-0
+2011-08-19,Istres,Laval,1-2,0-1
+2011-08-19,Le Havre,Bastia,2-0,0-0
+2011-08-19,Metz,Chateauroux,2-1,2-0
+2011-08-19,Monaco,Amiens,1-1,1-0
+2011-08-19,Reims,Arles,3-2,1-1
+2011-08-19,Troyes,Angers,2-1,1-1
+2011-08-20,Le Mans,Sedan,3-1,1-0
+2011-08-22,Nantes,Guingamp,4-0,2-0
+2011-08-26,Amiens,Boulogne,0-0,0-0
+2011-08-26,Angers,Reims,0-0,0-0
+2011-08-26,Arles,Le Havre,1-0,0-0
+2011-08-26,Bastia,Clermont,1-1,1-0
+2011-08-26,Chateauroux,Le Mans,1-0,0-0
+2011-08-26,Guingamp,Istres,1-0,1-0
+2011-08-26,Laval,Troyes,0-0,0-0
+2011-08-26,Sedan,Metz,1-1,1-1
+2011-08-27,Tours,Nantes,2-1,2-0
+2011-08-29,Lens,Monaco,2-2,0-1
+2011-09-09,Boulogne,Arles,1-1,0-1
+2011-09-09,Istres,Sedan,1-1,0-1
+2011-09-09,Le Havre,Tours,2-1,1-0
+2011-09-09,Metz,Laval,2-2,1-1
+2011-09-09,Monaco,Angers,1-3,0-2
+2011-09-09,Nantes,Le Mans,1-1,0-1
+2011-09-09,Reims,Guingamp,2-1,0-0
+2011-09-09,Troyes,Bastia,1-0,1-0
+2011-09-10,Clermont,Chateauroux,2-1,0-1
+2011-09-12,Amiens,Lens,1-2,1-1
+2011-09-16,Angers,Amiens,0-0,0-0
+2011-09-16,Arles,Clermont,0-2,0-1
+2011-09-16,Bastia,Monaco,1-1,1-0
+2011-09-16,Chateauroux,Nantes,2-2,2-2
+2011-09-16,Guingamp,Troyes,0-0,0-0
+2011-09-16,Laval,Reims,3-2,0-1
+2011-09-16,Lens,Boulogne,2-0,2-0
+2011-09-16,Sedan,Le Havre,3-0,1-0
+2011-09-16,Tours,Istres,1-2,1-0
+2011-09-17,Le Mans,Metz,0-1,0-0
+2011-09-19,Monaco,Arles,1-0,0-0
+2011-09-20,Amiens,Laval,1-0,1-0
+2011-09-20,Boulogne,Guingamp,2-0,2-0
+2011-09-20,Clermont,Tours,0-1,0-1
+2011-09-20,Istres,Chateauroux,3-1,0-0
+2011-09-20,Le Havre,Le Mans,1-1,1-0
+2011-09-20,Lens,Angers,0-0,0-0
+2011-09-20,Metz,Nantes,1-3,1-2
+2011-09-20,Reims,Bastia,1-0,1-0
+2011-09-20,Troyes,Sedan,1-1,1-1
+2011-09-23,Bastia,Angers,3-1,2-0
+2011-09-23,Chateauroux,Boulogne,2-1,0-0
+2011-09-23,Guingamp,Le Havre,1-0,0-0
+2011-09-23,Laval,Monaco,1-0,0-0
+2011-09-23,Metz,Istres,1-2,1-1
+2011-09-23,Tours,Amiens,1-1,1-1
+2011-09-24,Arles,Lens,3-0,0-0
+2011-09-25,Nantes,Clermont,1-0,1-0
+2011-09-26,Le Mans,Troyes,1-1,0-0
+2011-09-26,Sedan,Reims,1-0,1-0
+2011-09-30,Amiens,Guingamp,0-0,0-0
+2011-09-30,Angers,Arles,2-0,2-0
+2011-09-30,Clermont,Metz,1-0,1-0
+2011-09-30,Istres,Le Mans,1-2,0-0
+2011-09-30,Lens,Laval,0-0,0-0
+2011-09-30,Monaco,Sedan,2-2,2-0
+2011-09-30,Reims,Chateauroux,2-0,1-0
+2011-09-30,Troyes,Tours,2-1,0-1
+2011-10-01,Le Havre,Nantes,1-1,0-0
+2011-10-03,Boulogne,Bastia,1-3,1-1
+2011-10-14,Arles,Amiens,1-1,1-1
+2011-10-14,Chateauroux,Troyes,1-0,1-0
+2011-10-14,Laval,Angers,0-1,0-0
+2011-10-14,Le Mans,Clermont,0-2,0-0
+2011-10-14,Metz,Le Havre,0-2,0-1
+2011-10-14,Nantes,Istres,3-1,1-0
+2011-10-14,Sedan,Boulogne,1-4,1-0
+2011-10-14,Tours,Reims,1-1,0-0
+2011-10-15,Bastia,Lens,2-2,1-2
+2011-10-17,Guingamp,Monaco,4-0,3-0
+2011-10-21,Amiens,Bastia,1-1,1-1
+2011-10-21,Angers,Sedan,1-3,0-2
+2011-10-21,Laval,Arles,2-1,2-0
+2011-10-21,Le Havre,Chateauroux,3-0,2-0
+2011-10-21,Lens,Guingamp,0-2,0-1
+2011-10-21,Monaco,Tours,0-0,0-0
+2011-10-21,Reims,Le Mans,1-1,1-0
+2011-10-21,Troyes,Metz,1-0,0-0
+2011-10-22,Istres,Clermont,2-2,2-2
+2011-10-24,Boulogne,Nantes,2-1,0-1
+2011-10-28,Bastia,Arles,3-0,2-0
+2011-10-28,Chateauroux,Monaco,2-1,2-0
+2011-10-28,Clermont,Troyes,1-1,1-0
+2011-10-28,Guingamp,Angers,1-0,0-0
+2011-10-28,Istres,Le Havre,1-1,0-1
+2011-10-28,Metz,Reims,1-0,0-0
+2011-10-28,Tours,Laval,0-0,0-0
+2011-10-29,Le Mans,Boulogne,1-0,0-0
+2011-10-29,Sedan,Amiens,3-1,2-0
+2011-10-31,Nantes,Lens,1-0,0-0
+2011-11-05,Amiens,Chateauroux,4-0,2-0
+2011-11-05,Angers,Tours,1-0,0-0
+2011-11-05,Boulogne,Metz,0-1,0-0
+2011-11-05,Laval,Bastia,1-0,0-0
+2011-11-05,Le Havre,Clermont,0-2,0-2
+2011-11-05,Monaco,Le Mans,2-2,1-1
+2011-11-05,Reims,Istres,2-1,1-0
+2011-11-05,Troyes,Nantes,2-0,1-0
+2011-11-07,Lens,Sedan,4-2,1-1
+2011-11-22,Arles,Guingamp,1-2,0-0
+2011-11-25,Chateauroux,Angers,0-1,0-0
+2011-11-25,Guingamp,Bastia,1-1,1-1
+2011-11-25,Istres,Boulogne,0-0,0-0
+2011-11-25,Le Havre,Troyes,3-0,1-0
+2011-11-25,Metz,Amiens,1-0,1-0
+2011-11-25,Nantes,Monaco,3-0,1-0
+2011-11-25,Sedan,Laval,2-1,1-1
+2011-11-25,Tours,Arles,4-1,3-0
+2011-11-26,Le Mans,Lens,0-1,0-0
+2011-11-28,Clermont,Reims,1-0,1-0
+2011-12-02,Amiens,Le Mans,0-0,0-0
+2011-12-02,Angers,Clermont,0-1,0-0
+2011-12-02,Arles,Chateauroux,0-0,0-0
+2011-12-02,Bastia,Sedan,2-2,1-0
+2011-12-02,Laval,Guingamp,1-2,1-0
+2011-12-02,Lens,Tours,3-0,1-0
+2011-12-02,Monaco,Metz,0-2,0-1
+2011-12-02,Troyes,Istres,1-1,0-0
+2011-12-03,Boulogne,Le Havre,1-1,0-0
+2011-12-05,Reims,Nantes,3-1,1-0
+2011-12-16,Chateauroux,Bastia,0-2,0-0
+2011-12-16,Istres,Amiens,2-1,0-1
+2011-12-16,Le Mans,Angers,2-2,2-0
+2011-12-16,Metz,Lens,2-0,2-0
+2011-12-16,Nantes,Laval,2-3,0-1
+2011-12-16,Sedan,Arles,0-0,0-0
+2011-12-16,Tours,Guingamp,5-1,1-1
+2011-12-16,Troyes,Reims,1-0,0-0
+2011-12-17,Clermont,Boulogne,1-2,1-1
+2011-12-17,Le Havre,Monaco,2-2,1-2
+2011-12-19,Guingamp,Sedan,1-3,1-1
+2011-12-20,Amiens,Nantes,0-2,0-0
+2011-12-20,Angers,Metz,2-0,1-0
+2011-12-20,Arles,Istres,1-5,1-2
+2011-12-20,Bastia,Tours,4-1,2-0
+2011-12-20,Boulogne,Troyes,2-0,1-0
+2011-12-20,Laval,Le Mans,2-1,0-0
+2011-12-20,Lens,Chateauroux,2-3,1-1
+2011-12-20,Monaco,Clermont,0-0,0-0
+2011-12-20,Reims,Le Havre,2-1,2-1
+2012-01-13,Le Havre,Lens,0-0,0-0
+2012-01-13,Nantes,Angers,2-1,1-1
+2012-01-14,Boulogne,Reims,0-0,0-0
+2012-01-14,Chateauroux,Laval,3-1,1-1
+2012-01-14,Clermont,Amiens,2-1,1-1
+2012-01-14,Istres,Monaco,0-1,0-1
+2012-01-14,Le Mans,Guingamp,1-0,1-0
+2012-01-14,Metz,Bastia,0-1,0-0
+2012-01-14,Tours,Sedan,1-0,1-0
+2012-01-14,Troyes,Arles,0-1,0-0
+2012-01-17,Guingamp,Nantes,2-0,0-0
+2012-01-18,Amiens,Monaco,1-2,0-1
+2012-01-18,Angers,Troyes,2-3,0-3
+2012-01-18,Arles,Reims,2-2,0-1
+2012-01-18,Bastia,Le Havre,1-0,0-0
+2012-01-18,Chateauroux,Metz,1-1,0-0
+2012-01-18,Laval,Istres,2-1,1-0
+2012-01-18,Lens,Clermont,2-1,0-0
+2012-01-18,Sedan,Le Mans,0-2,0-0
+2012-01-18,Tours,Boulogne,3-1,3-1
+2012-01-27,Metz,Sedan,0-2,0-1
+2012-01-28,Boulogne,Amiens,0-1,0-0
+2012-01-28,Clermont,Bastia,2-1,1-1
+2012-01-28,Istres,Guingamp,2-1,1-1
+2012-01-28,Le Havre,Arles,1-1,1-1
+2012-01-28,Le Mans,Chateauroux,0-1,0-0
+2012-01-28,Nantes,Tours,1-0,0-0
+2012-01-28,Reims,Angers,3-0,2-0
+2012-01-28,Troyes,Laval,3-0,2-0
+2012-01-30,Monaco,Lens,2-2,0-0
+2012-02-04,Arles,Boulogne,2-1,1-0
+2012-02-04,Bastia,Troyes,5-1,2-1
+2012-02-04,Chateauroux,Clermont,2-1,0-1
+2012-02-04,Guingamp,Reims,2-3,1-1
+2012-02-04,Lens,Amiens,1-1,0-1
+2012-02-04,Sedan,Istres,1-1,1-0
+2012-02-11,Istres,Tours,1-0,0-0
+2012-02-11,Nantes,Chateauroux,3-0,2-0
+2012-02-13,Monaco,Bastia,0-1,0-0
+2012-02-17,Angers,Lens,1-1,0-0
+2012-02-17,Arles,Monaco,2-1,2-0
+2012-02-17,Bastia,Reims,1-0,0-0
+2012-02-17,Chateauroux,Istres,0-2,0-0
+2012-02-17,Guingamp,Boulogne,1-1,0-0
+2012-02-17,Laval,Amiens,3-1,1-0
+2012-02-17,Le Mans,Le Havre,3-1,1-0
+2012-02-17,Sedan,Troyes,1-2,0-0
+2012-02-17,Tours,Clermont,2-1,0-0
+2012-02-20,Nantes,Metz,0-0,0-0
+2012-02-21,Tours,Le Havre,0-0,0-0
+2012-02-24,Amiens,Tours,1-1,0-1
+2012-02-24,Angers,Bastia,1-1,0-0
+2012-02-24,Boulogne,Chateauroux,0-1,0-1
+2012-02-24,Clermont,Nantes,0-0,0-0
+2012-02-24,Istres,Metz,1-0,1-0
+2012-02-24,Le Havre,Guingamp,3-1,1-1
+2012-02-24,Lens,Arles,0-0,0-0
+2012-02-24,Monaco,Laval,2-1,1-1
+2012-02-24,Troyes,Le Mans,2-1,2-0
+2012-02-27,Reims,Sedan,1-2,1-2
+2012-03-02,Arles,Angers,2-2,0-1
+2012-03-02,Bastia,Boulogne,2-0,0-0
+2012-03-02,Chateauroux,Reims,1-1,0-1
+2012-03-02,Guingamp,Amiens,1-1,0-1
+2012-03-02,Laval,Lens,2-2,2-0
+2012-03-02,Le Mans,Istres,1-0,1-0
+2012-03-02,Metz,Clermont,2-2,1-2
+2012-03-02,Sedan,Monaco,2-2,2-0
+2012-03-02,Tours,Troyes,0-2,0-1
+2012-03-05,Nantes,Le Havre,1-0,1-0
+2012-03-06,Angers,Monaco,1-2,1-2
+2012-03-06,Boulogne,Lens,0-2,0-1
+2012-03-06,Clermont,Arles,0-0,0-0
+2012-03-06,Laval,Metz,0-0,0-0
+2012-03-06,Troyes,Guingamp,1-1,1-0
+2012-03-09,Amiens,Arles,0-3,0-2
+2012-03-09,Angers,Laval,0-0,0-0
+2012-03-09,Boulogne,Sedan,1-1,0-0
+2012-03-09,Clermont,Le Mans,1-1,0-0
+2012-03-09,Istres,Nantes,2-1,1-0
+2012-03-09,Le Havre,Metz,1-1,1-0
+2012-03-09,Monaco,Guingamp,1-0,0-0
+2012-03-09,Reims,Tours,2-3,0-2
+2012-03-09,Troyes,Chateauroux,0-1,0-1
+2012-03-12,Lens,Bastia,1-3,0-0
+2012-03-13,Amiens,Angers,2-0,1-0
+2012-03-13,Le Havre,Sedan,0-0,0-0
+2012-03-13,Le Mans,Nantes,0-0,0-0
+2012-03-13,Reims,Laval,1-1,1-0
+2012-03-16,Arles,Laval,1-0,0-0
+2012-03-16,Bastia,Amiens,2-1,2-1
+2012-03-16,Chateauroux,Le Havre,1-0,0-0
+2012-03-16,Clermont,Istres,2-2,1-1
+2012-03-16,Guingamp,Lens,3-0,3-0
+2012-03-16,Metz,Troyes,2-2,1-0
+2012-03-16,Nantes,Boulogne,3-3,2-2
+2012-03-16,Sedan,Angers,2-2,1-1
+2012-03-16,Tours,Monaco,0-0,0-0
+2012-03-19,Le Mans,Reims,0-1,0-0
+2012-03-23,Amiens,Sedan,0-3,0-1
+2012-03-23,Angers,Guingamp,1-0,1-0
+2012-03-23,Arles,Bastia,0-0,0-0
+2012-03-23,Boulogne,Le Mans,2-0,1-0
+2012-03-23,Laval,Tours,1-2,1-1
+2012-03-23,Le Havre,Istres,0-0,0-0
+2012-03-23,Monaco,Chateauroux,2-1,1-0
+2012-03-23,Reims,Metz,3-0,3-0
+2012-03-23,Troyes,Clermont,3-2,1-1
+2012-03-26,Lens,Nantes,1-0,1-0
+2012-03-27,Metz,Le Mans,0-1,0-1
+2012-03-30,Bastia,Laval,3-2,2-0
+2012-03-30,Chateauroux,Amiens,4-1,1-1
+2012-03-30,Clermont,Le Havre,2-1,0-1
+2012-03-30,Guingamp,Arles,1-1,0-0
+2012-03-30,Istres,Reims,1-1,1-1
+2012-03-30,Le Mans,Monaco,0-1,0-0
+2012-03-30,Metz,Boulogne,1-0,0-0
+2012-03-30,Sedan,Lens,1-1,0-1
+2012-03-30,Tours,Angers,1-0,0-0
+2012-04-02,Nantes,Troyes,1-1,1-0
+2012-04-06,Amiens,Metz,1-1,1-1
+2012-04-06,Angers,Chateauroux,2-0,1-0
+2012-04-06,Arles,Tours,2-2,1-1
+2012-04-06,Bastia,Guingamp,3-1,1-0
+2012-04-06,Boulogne,Istres,1-1,1-0
+2012-04-06,Laval,Sedan,5-1,1-1
+2012-04-06,Lens,Le Mans,1-3,0-0
+2012-04-06,Monaco,Nantes,2-1,1-0
+2012-04-06,Troyes,Le Havre,1-0,1-0
+2012-04-09,Reims,Clermont,2-2,1-1
+2012-04-13,Chateauroux,Arles,1-2,0-1
+2012-04-13,Clermont,Angers,1-2,1-0
+2012-04-13,Guingamp,Laval,1-0,0-0
+2012-04-13,Istres,Troyes,0-0,0-0
+2012-04-13,Le Havre,Boulogne,0-0,0-0
+2012-04-13,Le Mans,Amiens,3-2,2-1
+2012-04-13,Metz,Monaco,0-2,0-1
+2012-04-13,Sedan,Bastia,2-0,1-0
+2012-04-13,Tours,Lens,0-3,0-1
+2012-04-16,Nantes,Reims,2-0,1-0
+2012-04-20,Amiens,Istres,1-2,0-0
+2012-04-20,Angers,Le Mans,1-1,0-1
+2012-04-20,Arles,Sedan,0-0,0-0
+2012-04-20,Boulogne,Clermont,1-1,0-1
+2012-04-20,Guingamp,Tours,0-0,0-0
+2012-04-20,Laval,Nantes,2-0,2-0
+2012-04-20,Lens,Metz,0-2,0-1
+2012-04-20,Monaco,Le Havre,1-0,0-0
+2012-04-20,Reims,Troyes,1-0,0-0
+2012-04-23,Bastia,Chateauroux,2-1,2-1
+2012-04-27,Chateauroux,Lens,1-0,0-0
+2012-04-27,Clermont,Monaco,1-0,0-0
+2012-04-27,Istres,Arles,0-0,0-0
+2012-04-27,Le Havre,Reims,1-1,0-0
+2012-04-27,Le Mans,Laval,1-3,0-1
+2012-04-27,Metz,Angers,1-1,1-1
+2012-04-27,Nantes,Amiens,5-0,1-0
+2012-04-27,Sedan,Guingamp,0-1,0-1
+2012-04-27,Tours,Bastia,2-1,1-0
+2012-04-27,Troyes,Boulogne,2-1,0-0
+2012-04-30,Lens,Le Havre,2-0,0-0
+2012-05-01,Amiens,Clermont,1-1,1-1
+2012-05-01,Angers,Nantes,2-0,0-0
+2012-05-01,Arles,Troyes,0-0,0-0
+2012-05-01,Bastia,Metz,3-0,2-0
+2012-05-01,Guingamp,Le Mans,1-1,0-1
+2012-05-01,Laval,Chateauroux,1-1,0-0
+2012-05-01,Monaco,Istres,3-2,0-0
+2012-05-01,Reims,Boulogne,3-2,1-0
+2012-05-01,Sedan,Tours,3-0,2-0
+2012-05-04,Boulogne,Laval,3-0,2-0
+2012-05-04,Chateauroux,Tours,1-3,0-1
+2012-05-04,Clermont,Sedan,1-1,0-0
+2012-05-04,Istres,Angers,0-1,0-1
+2012-05-04,Le Havre,Amiens,2-0,1-0
+2012-05-04,Le Mans,Bastia,3-0,1-0
+2012-05-04,Metz,Guingamp,2-5,0-2
+2012-05-04,Nantes,Arles,3-0,1-0
+2012-05-04,Troyes,Lens,2-0,2-0
+2012-05-07,Reims,Monaco,2-0,1-0
+2012-05-11,Amiens,Reims,0-2,0-1
+2012-05-11,Angers,Boulogne,2-1,1-0
+2012-05-11,Arles,Metz,1-0,1-0
+2012-05-11,Bastia,Nantes,2-1,2-1
+2012-05-11,Guingamp,Clermont,3-1,1-0
+2012-05-11,Laval,Le Havre,0-2,0-1
+2012-05-11,Lens,Istres,1-0,0-0
+2012-05-11,Monaco,Troyes,0-2,0-1
+2012-05-11,Sedan,Chateauroux,2-0,0-0
+2012-05-11,Tours,Le Mans,2-1,1-0
+2012-05-18,Boulogne,Monaco,1-2,1-1
+2012-05-18,Chateauroux,Guingamp,0-2,0-1
+2012-05-18,Clermont,Laval,2-0,1-0
+2012-05-18,Istres,Bastia,1-0,1-0
+2012-05-18,Le Havre,Angers,3-0,0-0
+2012-05-18,Le Mans,Arles,1-1,1-1
+2012-05-18,Metz,Tours,1-1,1-0
+2012-05-18,Nantes,Sedan,1-2,0-0
+2012-05-18,Reims,Lens,1-1,0-0
+2012-05-18,Troyes,Amiens,2-0,0-0

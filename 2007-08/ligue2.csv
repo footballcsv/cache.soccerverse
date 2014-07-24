@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2007-07-27,Bastia,Le Havre,0-2,0-1
+2007-07-27,Brest,Angers,1-0,0-0
+2007-07-27,Clermont,Chateauroux,0-0,0-0
+2007-07-27,Dijon,Ajaccio,1-1,1-1
+2007-07-27,Grenoble,Sedan,0-0,0-0
+2007-07-27,Gueugnon,Amiens,1-2,0-1
+2007-07-27,Libourne,Montpellier,1-3,0-2
+2007-07-27,Niort,Boulogne,2-1,1-1
+2007-07-27,Troyes,Guingamp,1-0,0-0
+2007-07-30,Nantes,Reims,5-0,2-0
+2007-08-03,Ajaccio,Boulogne,2-2,1-1
+2007-08-03,Angers,Grenoble,0-2,0-1
+2007-08-03,Chateauroux,Nantes,1-2,1-1
+2007-08-03,Clermont,Bastia,2-3,1-0
+2007-08-03,Guingamp,Niort,0-0,0-0
+2007-08-03,Le Havre,Brest,1-1,1-0
+2007-08-03,Montpellier,Dijon,1-1,1-1
+2007-08-03,Reims,Libourne,2-1,2-1
+2007-08-03,Sedan,Gueugnon,3-1,0-0
+2007-08-06,Amiens,Troyes,0-0,0-0
+2007-08-10,Ajaccio,Guingamp,1-1,1-0
+2007-08-10,Boulogne,Montpellier,2-0,1-0
+2007-08-10,Dijon,Amiens,1-0,0-0
+2007-08-10,Grenoble,Reims,2-0,2-0
+2007-08-10,Gueugnon,Chateauroux,3-1,0-0
+2007-08-10,Libourne,Le Havre,3-1,1-0
+2007-08-10,Nantes,Clermont,2-2,2-1
+2007-08-10,Niort,Sedan,0-1,0-1
+2007-08-10,Troyes,Angers,2-2,2-2
+2007-08-13,Brest,Bastia,3-1,2-1
+2007-08-17,Amiens,Grenoble,1-2,1-1
+2007-08-17,Angers,Ajaccio,1-0,0-0
+2007-08-17,Bastia,Gueugnon,1-0,1-0
+2007-08-17,Chateauroux,Libourne,2-0,0-0
+2007-08-17,Clermont,Brest,1-0,1-0
+2007-08-17,Guingamp,Boulogne,4-2,2-0
+2007-08-17,Montpellier,Troyes,3-0,2-0
+2007-08-17,Reims,Niort,3-1,1-0
+2007-08-17,Sedan,Dijon,0-1,0-1
+2007-08-20,Le Havre,Nantes,1-0,1-0
+2007-08-24,Ajaccio,Sedan,2-1,1-0
+2007-08-24,Boulogne,Angers,1-0,0-0
+2007-08-24,Dijon,Chateauroux,0-0,0-0
+2007-08-24,Grenoble,Le Havre,0-2,0-2
+2007-08-24,Gueugnon,Reims,0-1,0-0
+2007-08-24,Guingamp,Amiens,1-0,0-0
+2007-08-24,Libourne,Clermont,1-1,1-1
+2007-08-24,Nantes,Brest,3-0,3-0
+2007-08-24,Niort,Montpellier,1-0,1-0
+2007-08-24,Troyes,Bastia,2-0,0-0
+2007-08-31,Amiens,Niort,0-2,0-2
+2007-08-31,Angers,Guingamp,2-1,1-0
+2007-08-31,Brest,Libourne,1-0,1-0
+2007-08-31,Chateauroux,Troyes,1-3,1-1
+2007-08-31,Clermont,Grenoble,0-0,0-0
+2007-08-31,Le Havre,Gueugnon,4-1,2-0
+2007-08-31,Montpellier,Ajaccio,1-0,1-0
+2007-08-31,Reims,Dijon,0-1,0-0
+2007-08-31,Sedan,Boulogne,1-1,0-1
+2007-09-03,Bastia,Nantes,0-1,0-1
+2007-09-14,Ajaccio,Amiens,1-0,1-0
+2007-09-14,Boulogne,Chateauroux,1-3,0-0
+2007-09-14,Dijon,Le Havre,2-3,1-0
+2007-09-14,Grenoble,Brest,3-1,2-1
+2007-09-14,Gueugnon,Clermont,1-1,0-1
+2007-09-14,Guingamp,Montpellier,0-2,0-0
+2007-09-14,Libourne,Bastia,2-4,0-0
+2007-09-14,Niort,Angers,0-1,0-0
+2007-09-14,Troyes,Reims,4-2,1-0
+2007-09-17,Nantes,Sedan,2-1,1-1
+2007-09-21,Amiens,Boulogne,2-1,2-0
+2007-09-21,Angers,Montpellier,1-1,1-0
+2007-09-21,Bastia,Grenoble,0-0,0-0
+2007-09-21,Brest,Gueugnon,2-1,2-0
+2007-09-21,Chateauroux,Niort,1-0,0-0
+2007-09-21,Clermont,Dijon,3-0,1-0
+2007-09-21,Le Havre,Troyes,0-0,0-0
+2007-09-21,Reims,Ajaccio,0-0,0-0
+2007-09-21,Sedan,Guingamp,1-0,0-0
+2007-09-24,Libourne,Nantes,2-3,0-2
+2007-09-28,Ajaccio,Le Havre,0-3,0-0
+2007-09-28,Boulogne,Reims,1-0,0-0
+2007-09-28,Dijon,Brest,2-2,0-0
+2007-09-28,Gueugnon,Libourne,2-2,1-0
+2007-09-28,Guingamp,Chateauroux,2-2,1-1
+2007-09-28,Niort,Bastia,1-3,1-2
+2007-09-29,Angers,Amiens,2-0,2-0
+2007-09-29,Troyes,Clermont,2-2,0-0
+2007-10-01,Grenoble,Nantes,0-3,0-2
+2007-10-02,Amiens,Montpellier,1-1,0-0
+2007-10-02,Bastia,Dijon,0-0,0-0
+2007-10-02,Brest,Troyes,0-0,0-0
+2007-10-02,Chateauroux,Ajaccio,0-0,0-0
+2007-10-02,Clermont,Boulogne,0-0,0-0
+2007-10-02,Le Havre,Niort,1-1,0-0
+2007-10-02,Reims,Guingamp,3-2,1-1
+2007-10-02,Sedan,Angers,2-2,1-0
+2007-10-04,Libourne,Grenoble,1-2,1-2
+2007-10-04,Nantes,Gueugnon,0-0,0-0
+2007-10-05,Ajaccio,Clermont,3-1,0-1
+2007-10-05,Amiens,Sedan,2-1,1-0
+2007-10-05,Angers,Reims,1-0,1-0
+2007-10-05,Boulogne,Le Havre,0-3,0-1
+2007-10-05,Guingamp,Bastia,0-1,0-0
+2007-10-05,Montpellier,Chateauroux,1-0,1-0
+2007-10-05,Niort,Brest,0-1,0-0
+2007-10-07,Grenoble,Gueugnon,3-1,1-1
+2007-10-07,Troyes,Libourne,2-0,1-0
+2007-10-08,Dijon,Nantes,0-0,0-0
+2007-10-19,Bastia,Boulogne,4-0,2-0
+2007-10-19,Brest,Ajaccio,0-1,0-1
+2007-10-19,Chateauroux,Sedan,1-1,1-0
+2007-10-19,Clermont,Angers,2-0,1-0
+2007-10-19,Grenoble,Guingamp,0-0,0-0
+2007-10-19,Gueugnon,Dijon,4-0,1-0
+2007-10-19,Libourne,Niort,0-2,0-1
+2007-10-19,Nantes,Troyes,2-0,1-0
+2007-10-19,Reims,Montpellier,2-1,2-0
+2007-10-22,Le Havre,Amiens,2-2,1-1
+2007-10-26,Ajaccio,Bastia,1-3,0-1
+2007-10-26,Amiens,Chateauroux,1-2,0-1
+2007-10-26,Angers,Le Havre,1-2,0-1
+2007-10-26,Boulogne,Gueugnon,0-0,0-0
+2007-10-26,Dijon,Libourne,3-1,1-0
+2007-10-26,Guingamp,Brest,1-0,0-0
+2007-10-26,Montpellier,Clermont,2-3,2-2
+2007-10-26,Sedan,Reims,2-1,1-1
+2007-10-26,Troyes,Grenoble,2-2,0-1
+2007-10-29,Niort,Nantes,0-1,0-0
+2007-11-02,Brest,Sedan,1-1,1-0
+2007-11-02,Chateauroux,Angers,2-2,1-1
+2007-11-02,Grenoble,Dijon,2-0,1-0
+2007-11-02,Gueugnon,Troyes,1-1,1-0
+2007-11-02,Libourne,Boulogne,2-2,0-1
+2007-11-02,Nantes,Ajaccio,2-1,0-1
+2007-11-02,Reims,Amiens,0-0,0-0
+2007-11-03,Bastia,Montpellier,1-1,0-1
+2007-11-03,Le Havre,Guingamp,2-1,2-1
+2007-11-04,Clermont,Niort,1-0,0-0
+2007-11-05,Boulogne,Nantes,4-0,2-0
+2007-11-06,Ajaccio,Libourne,2-3,0-2
+2007-11-06,Amiens,Bastia,1-1,0-0
+2007-11-06,Angers,Gueugnon,2-0,2-0
+2007-11-06,Chateauroux,Reims,0-1,0-0
+2007-11-06,Montpellier,Brest,2-1,1-0
+2007-11-06,Sedan,Le Havre,2-1,0-0
+2007-11-06,Troyes,Dijon,3-0,1-0
+2007-11-07,Guingamp,Clermont,0-0,0-0
+2007-11-07,Niort,Grenoble,2-1,1-1
+2007-11-09,Bastia,Sedan,3-1,2-1
+2007-11-09,Brest,Reims,1-0,1-0
+2007-11-09,Dijon,Boulogne,0-2,0-0
+2007-11-09,Gueugnon,Ajaccio,0-2,0-0
+2007-11-09,Le Havre,Chateauroux,2-0,1-0
+2007-11-09,Nantes,Angers,1-1,0-1
+2007-11-10,Clermont,Amiens,4-2,2-0
+2007-11-10,Libourne,Guingamp,2-1,2-1
+2007-11-10,Troyes,Niort,1-1,0-0
+2007-11-12,Grenoble,Montpellier,2-0,1-0
+2007-11-17,Montpellier,Sedan,0-0,0-0
+2007-11-30,Ajaccio,Grenoble,2-1,1-1
+2007-11-30,Amiens,Brest,1-1,1-0
+2007-11-30,Angers,Libourne,1-0,0-0
+2007-11-30,Boulogne,Troyes,1-2,0-0
+2007-11-30,Chateauroux,Bastia,1-1,0-1
+2007-11-30,Guingamp,Dijon,0-0,0-0
+2007-11-30,Niort,Gueugnon,2-2,2-2
+2007-11-30,Reims,Le Havre,3-3,2-1
+2007-11-30,Sedan,Clermont,2-2,1-1
+2007-12-03,Montpellier,Nantes,0-0,0-0
+2007-12-07,Bastia,Angers,0-1,0-1
+2007-12-07,Brest,Chateauroux,2-1,1-1
+2007-12-07,Clermont,Reims,4-1,0-0
+2007-12-07,Dijon,Niort,1-3,1-2
+2007-12-07,Grenoble,Boulogne,1-2,1-0
+2007-12-07,Gueugnon,Guingamp,0-1,0-1
+2007-12-07,Libourne,Sedan,1-1,1-1
+2007-12-07,Nantes,Amiens,3-1,0-1
+2007-12-07,Troyes,Ajaccio,0-1,0-0
+2007-12-10,Le Havre,Montpellier,0-0,0-0
+2007-12-21,Ajaccio,Niort,2-1,0-1
+2007-12-21,Angers,Dijon,0-0,0-0
+2007-12-21,Boulogne,Brest,2-0,2-0
+2007-12-21,Chateauroux,Grenoble,1-0,1-0
+2007-12-21,Montpellier,Gueugnon,0-0,0-0
+2007-12-22,Guingamp,Nantes,0-0,0-0
+2008-01-11,Bastia,Clermont,0-0,0-0
+2008-01-11,Boulogne,Ajaccio,0-0,0-0
+2008-01-11,Dijon,Montpellier,0-2,0-0
+2008-01-11,Grenoble,Angers,0-0,0-0
+2008-01-11,Gueugnon,Sedan,2-3,1-1
+2008-01-11,Libourne,Reims,1-1,1-1
+2008-01-11,Nantes,Chateauroux,2-1,1-0
+2008-01-11,Niort,Guingamp,1-3,0-1
+2008-01-11,Troyes,Amiens,1-0,1-0
+2008-01-14,Brest,Le Havre,0-2,0-0
+2008-01-18,Amiens,Dijon,2-2,0-2
+2008-01-18,Angers,Troyes,0-1,0-0
+2008-01-18,Bastia,Brest,4-0,1-0
+2008-01-18,Chateauroux,Gueugnon,1-1,0-0
+2008-01-18,Guingamp,Ajaccio,1-1,0-1
+2008-01-18,Le Havre,Libourne,1-1,0-1
+2008-01-18,Montpellier,Boulogne,3-0,0-0
+2008-01-18,Reims,Grenoble,3-4,2-3
+2008-01-18,Sedan,Niort,1-0,0-0
+2008-01-21,Clermont,Nantes,2-1,1-1
+2008-01-25,Ajaccio,Angers,1-1,0-0
+2008-01-25,Boulogne,Guingamp,0-2,0-1
+2008-01-25,Brest,Clermont,1-1,0-0
+2008-01-25,Dijon,Sedan,1-1,0-1
+2008-01-25,Grenoble,Amiens,2-2,2-2
+2008-01-25,Gueugnon,Bastia,0-1,0-0
+2008-01-25,Libourne,Chateauroux,1-0,0-0
+2008-01-25,Niort,Reims,0-1,0-1
+2008-01-25,Troyes,Montpellier,2-1,1-0
+2008-01-28,Nantes,Le Havre,0-1,0-0
+2008-01-29,Amiens,Libourne,1-0,1-0
+2008-01-29,Sedan,Troyes,0-1,0-1
+2008-02-01,Le Havre,Clermont,1-0,0-0
+2008-02-08,Amiens,Guingamp,3-1,1-1
+2008-02-08,Angers,Boulogne,2-1,1-0
+2008-02-08,Bastia,Troyes,1-0,1-0
+2008-02-08,Chateauroux,Dijon,2-0,0-0
+2008-02-08,Clermont,Libourne,1-1,1-0
+2008-02-08,Le Havre,Grenoble,0-0,0-0
+2008-02-08,Montpellier,Niort,1-0,0-0
+2008-02-08,Reims,Gueugnon,2-1,1-1
+2008-02-08,Sedan,Ajaccio,2-1,1-1
+2008-02-11,Brest,Nantes,1-2,0-1
+2008-02-15,Ajaccio,Montpellier,2-1,1-0
+2008-02-15,Boulogne,Sedan,0-1,0-0
+2008-02-15,Dijon,Reims,2-2,1-0
+2008-02-15,Grenoble,Clermont,2-0,2-0
+2008-02-15,Gueugnon,Le Havre,3-4,1-2
+2008-02-15,Guingamp,Angers,1-0,0-0
+2008-02-15,Libourne,Brest,0-0,0-0
+2008-02-15,Niort,Amiens,1-3,1-1
+2008-02-15,Troyes,Chateauroux,2-0,1-0
+2008-02-18,Nantes,Bastia,2-0,0-0
+2008-02-22,Amiens,Ajaccio,4-0,3-0
+2008-02-22,Angers,Niort,1-1,0-0
+2008-02-22,Bastia,Libourne,2-1,1-1
+2008-02-22,Brest,Grenoble,1-0,0-0
+2008-02-22,Chateauroux,Boulogne,1-0,0-0
+2008-02-22,Clermont,Gueugnon,1-0,0-0
+2008-02-22,Le Havre,Dijon,1-0,1-0
+2008-02-22,Montpellier,Guingamp,0-0,0-0
+2008-02-22,Reims,Troyes,0-1,0-0
+2008-02-25,Sedan,Nantes,1-2,0-0
+2008-02-29,Ajaccio,Reims,0-0,0-0
+2008-02-29,Boulogne,Amiens,2-1,0-1
+2008-02-29,Dijon,Clermont,3-1,1-0
+2008-02-29,Grenoble,Bastia,1-0,0-0
+2008-02-29,Gueugnon,Brest,0-1,0-1
+2008-02-29,Guingamp,Sedan,2-1,2-0
+2008-02-29,Montpellier,Angers,1-0,0-0
+2008-02-29,Nantes,Libourne,2-2,1-1
+2008-02-29,Niort,Chateauroux,2-1,0-0
+2008-03-03,Troyes,Le Havre,4-1,0-1
+2008-03-07,Amiens,Angers,2-0,0-0
+2008-03-07,Bastia,Niort,2-2,1-0
+2008-03-07,Brest,Dijon,0-0,0-0
+2008-03-07,Chateauroux,Guingamp,0-0,0-0
+2008-03-07,Clermont,Troyes,1-2,1-1
+2008-03-07,Le Havre,Ajaccio,2-0,0-0
+2008-03-07,Libourne,Gueugnon,2-0,1-0
+2008-03-07,Reims,Boulogne,4-1,3-0
+2008-03-07,Sedan,Montpellier,3-1,2-1
+2008-03-10,Nantes,Grenoble,1-0,1-0
+2008-03-14,Ajaccio,Chateauroux,0-1,0-1
+2008-03-14,Angers,Sedan,1-1,0-1
+2008-03-14,Boulogne,Clermont,1-2,1-1
+2008-03-14,Dijon,Bastia,2-1,0-0
+2008-03-14,Guingamp,Reims,2-1,1-0
+2008-03-14,Montpellier,Amiens,2-0,1-0
+2008-03-14,Niort,Le Havre,0-3,0-2
+2008-03-14,Troyes,Brest,1-3,0-1
+2008-03-15,Grenoble,Libourne,1-0,0-0
+2008-03-17,Gueugnon,Nantes,1-1,0-1
+2008-03-21,Bastia,Guingamp,0-1,0-1
+2008-03-21,Brest,Niort,4-2,3-1
+2008-03-21,Chateauroux,Montpellier,1-0,1-0
+2008-03-21,Clermont,Ajaccio,2-0,2-0
+2008-03-21,Gueugnon,Grenoble,1-1,0-0
+2008-03-21,Libourne,Troyes,2-0,0-0
+2008-03-21,Nantes,Dijon,2-1,1-1
+2008-03-21,Reims,Angers,0-1,0-0
+2008-03-22,Sedan,Amiens,1-1,1-0
+2008-03-24,Le Havre,Boulogne,2-0,1-0
+2008-03-28,Ajaccio,Brest,1-1,1-0
+2008-03-28,Amiens,Le Havre,1-3,1-1
+2008-03-28,Angers,Clermont,2-1,2-1
+2008-03-28,Boulogne,Bastia,2-0,0-0
+2008-03-28,Dijon,Gueugnon,2-1,1-0
+2008-03-28,Guingamp,Grenoble,1-2,0-0
+2008-03-28,Montpellier,Reims,0-0,0-0
+2008-03-28,Niort,Libourne,2-1,1-0
+2008-03-30,Sedan,Chateauroux,2-1,1-1
+2008-03-31,Troyes,Nantes,0-2,0-0
+2008-04-01,Reims,Bastia,1-2,1-2
+2008-04-04,Brest,Guingamp,1-1,0-1
+2008-04-04,Chateauroux,Amiens,1-1,0-1
+2008-04-04,Clermont,Montpellier,3-2,3-1
+2008-04-04,Gueugnon,Boulogne,0-1,0-0
+2008-04-04,Le Havre,Angers,3-2,1-1
+2008-04-04,Libourne,Dijon,2-0,2-0
+2008-04-04,Nantes,Niort,1-1,1-1
+2008-04-04,Reims,Sedan,3-1,2-1
+2008-04-05,Bastia,Ajaccio,0-1,0-0
+2008-04-07,Grenoble,Troyes,2-0,1-0
+2008-04-10,Montpellier,Bastia,2-1,1-1
+2008-04-11,Ajaccio,Nantes,2-1,1-1
+2008-04-11,Amiens,Reims,1-0,0-0
+2008-04-11,Angers,Chateauroux,3-0,1-0
+2008-04-11,Boulogne,Libourne,1-0,0-0
+2008-04-11,Dijon,Grenoble,0-0,0-0
+2008-04-11,Guingamp,Le Havre,1-1,1-0
+2008-04-11,Niort,Clermont,1-0,0-0
+2008-04-11,Sedan,Brest,2-0,1-0
+2008-04-11,Troyes,Gueugnon,2-2,2-0
+2008-04-14,Nantes,Boulogne,3-0,1-0
+2008-04-15,Brest,Montpellier,1-0,1-0
+2008-04-15,Clermont,Guingamp,3-3,1-1
+2008-04-15,Grenoble,Niort,3-1,1-0
+2008-04-15,Gueugnon,Angers,2-1,1-0
+2008-04-15,Libourne,Ajaccio,1-2,1-1
+2008-04-15,Reims,Chateauroux,2-0,0-0
+2008-04-18,Ajaccio,Gueugnon,2-0,0-0
+2008-04-18,Amiens,Clermont,0-0,0-0
+2008-04-18,Boulogne,Dijon,0-1,0-1
+2008-04-18,Chateauroux,Le Havre,0-0,0-0
+2008-04-18,Guingamp,Libourne,1-1,1-1
+2008-04-18,Montpellier,Grenoble,0-1,0-0
+2008-04-18,Niort,Troyes,0-0,0-0
+2008-04-18,Reims,Brest,0-0,0-0
+2008-04-19,Sedan,Bastia,0-0,0-0
+2008-04-21,Angers,Nantes,0-0,0-0
+2008-04-22,Bastia,Amiens,1-0,0-0
+2008-04-22,Dijon,Troyes,2-2,2-1
+2008-04-22,Le Havre,Sedan,0-0,0-0
+2008-04-25,Bastia,Chateauroux,2-3,0-2
+2008-04-25,Brest,Amiens,1-0,0-0
+2008-04-25,Clermont,Sedan,2-1,1-0
+2008-04-25,Dijon,Guingamp,1-0,1-0
+2008-04-25,Gueugnon,Niort,1-0,1-0
+2008-04-25,Le Havre,Reims,2-0,0-0
+2008-04-25,Libourne,Angers,1-1,1-1
+2008-04-25,Nantes,Montpellier,1-1,0-0
+2008-04-25,Troyes,Boulogne,2-2,2-1
+2008-04-28,Grenoble,Ajaccio,0-0,0-0
+2008-05-02,Ajaccio,Troyes,1-0,1-0
+2008-05-02,Amiens,Nantes,2-1,2-0
+2008-05-02,Angers,Bastia,1-1,1-1
+2008-05-02,Chateauroux,Brest,1-2,0-1
+2008-05-02,Guingamp,Gueugnon,0-1,0-1
+2008-05-02,Montpellier,Le Havre,0-0,0-0
+2008-05-02,Niort,Dijon,3-0,1-0
+2008-05-02,Reims,Clermont,0-0,0-0
+2008-05-02,Sedan,Libourne,1-0,0-0
+2008-05-05,Boulogne,Grenoble,0-1,0-1
+2008-05-12,Bastia,Reims,1-2,0-1
+2008-05-12,Brest,Boulogne,3-0,0-0
+2008-05-12,Clermont,Le Havre,1-0,0-0
+2008-05-12,Dijon,Angers,1-3,0-2
+2008-05-12,Grenoble,Chateauroux,0-0,0-0
+2008-05-12,Gueugnon,Montpellier,1-2,1-1
+2008-05-12,Libourne,Amiens,2-5,2-2
+2008-05-12,Nantes,Guingamp,1-1,0-1
+2008-05-12,Niort,Ajaccio,2-0,1-0
+2008-05-12,Troyes,Sedan,0-1,0-1
+2008-05-16,Ajaccio,Dijon,1-1,0-0
+2008-05-16,Amiens,Gueugnon,4-4,2-0
+2008-05-16,Angers,Brest,0-0,0-0
+2008-05-16,Boulogne,Niort,1-0,0-0
+2008-05-16,Chateauroux,Clermont,1-0,0-0
+2008-05-16,Guingamp,Troyes,5-0,3-0
+2008-05-16,Le Havre,Bastia,6-0,3-0
+2008-05-16,Montpellier,Libourne,5-0,3-0
+2008-05-16,Reims,Nantes,3-3,2-1
+2008-05-16,Sedan,Grenoble,2-1,2-1

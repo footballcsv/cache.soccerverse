@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2000-07-28,Wasquehal,Nancy,0-1,0-1
+2000-07-29,Ajaccio,Le Mans,1-0,1-0
+2000-07-29,Beauvais,Montpellier,1-3,0-1
+2000-07-29,Caen,Cannes,2-2,1-2
+2000-07-29,Chateauroux,Martigues,1-1,0-1
+2000-07-29,Creteil,Lorient,2-1,1-0
+2000-07-29,Laval,Gueugnon,2-1,2-0
+2000-07-29,Nice,Le Havre,0-0,0-0
+2000-07-29,Nimes,Sochaux,3-3,3-1
+2000-07-29,Niort,Angers,3-2,3-0
+2000-08-04,Lorient,Nimes,1-1,0-0
+2000-08-05,Angers,Ajaccio,1-1,0-0
+2000-08-05,Cannes,Niort,6-4,2-1
+2000-08-05,Gueugnon,Nice,1-2,0-2
+2000-08-05,Le Havre,Beauvais,1-0,1-0
+2000-08-05,Le Mans,Martigues,2-2,1-1
+2000-08-05,Montpellier,Caen,2-0,0-0
+2000-08-05,Sochaux,Chateauroux,5-0,2-0
+2000-08-05,Wasquehal,Creteil,1-1,1-1
+2000-08-06,Nancy,Laval,1-0,0-0
+2000-08-12,Ajaccio,Cannes,3-3,2-1
+2000-08-12,Beauvais,Gueugnon,0-0,0-0
+2000-08-12,Caen,Sochaux,1-3,0-1
+2000-08-12,Chateauroux,Le Mans,0-0,0-0
+2000-08-12,Creteil,Nancy,1-0,0-0
+2000-08-12,Laval,Wasquehal,1-0,1-0
+2000-08-12,Nice,Lorient,1-1,1-1
+2000-08-12,Nimes,Montpellier,0-2,0-1
+2000-08-12,Niort,Le Havre,1-1,1-0
+2000-08-13,Martigues,Angers,1-1,0-1
+2000-08-18,Nancy,Beauvais,3-1,2-1
+2000-08-19,Angers,Le Mans,1-3,0-1
+2000-08-19,Cannes,Martigues,0-0,0-0
+2000-08-19,Gueugnon,Creteil,2-0,1-0
+2000-08-19,Laval,Caen,2-1,0-0
+2000-08-19,Le Havre,Nimes,2-0,1-0
+2000-08-19,Lorient,Chateauroux,2-1,1-0
+2000-08-19,Montpellier,Niort,1-0,0-0
+2000-08-19,Sochaux,Ajaccio,2-0,2-0
+2000-08-19,Wasquehal,Nice,2-1,1-1
+2000-08-26,Ajaccio,Montpellier,0-2,0-0
+2000-08-26,Beauvais,Wasquehal,0-0,0-0
+2000-08-26,Caen,Lorient,1-2,1-1
+2000-08-26,Chateauroux,Angers,3-2,1-2
+2000-08-26,Creteil,Laval,4-0,1-0
+2000-08-26,Le Mans,Cannes,2-0,2-0
+2000-08-26,Martigues,Le Havre,2-3,1-1
+2000-08-26,Nice,Nancy,2-1,0-1
+2000-08-26,Nimes,Gueugnon,1-1,0-1
+2000-08-26,Niort,Sochaux,1-0,0-0
+2000-08-29,Cannes,Angers,3-0,1-0
+2000-08-29,Creteil,Chateauroux,1-2,0-0
+2000-08-29,Gueugnon,Caen,1-1,0-1
+2000-08-29,Laval,Nice,2-0,1-0
+2000-08-29,Le Havre,Ajaccio,4-0,2-0
+2000-08-29,Lorient,Beauvais,2-1,1-1
+2000-08-29,Montpellier,Martigues,2-0,1-0
+2000-08-29,Nancy,Nimes,3-1,0-0
+2000-08-29,Sochaux,Le Mans,2-0,1-0
+2000-08-29,Wasquehal,Niort,0-0,0-0
+2000-09-01,Ajaccio,Lorient,0-0,0-0
+2000-09-01,Angers,Le Havre,0-0,0-0
+2000-09-01,Beauvais,Laval,0-0,0-0
+2000-09-01,Caen,Nancy,0-3,0-1
+2000-09-01,Chateauroux,Cannes,2-0,1-0
+2000-09-01,Le Mans,Montpellier,1-1,1-1
+2000-09-01,Martigues,Sochaux,2-0,1-0
+2000-09-01,Nice,Creteil,2-0,1-0
+2000-09-01,Nimes,Wasquehal,1-0,0-0
+2000-09-01,Niort,Gueugnon,2-0,1-0
+2000-09-05,Nancy,Niort,0-0,0-0
+2000-09-06,Creteil,Beauvais,1-1,1-0
+2000-09-06,Gueugnon,Le Mans,0-0,0-0
+2000-09-06,Laval,Nimes,3-1,1-0
+2000-09-06,Le Havre,Chateauroux,0-0,0-0
+2000-09-06,Lorient,Martigues,0-1,0-1
+2000-09-06,Montpellier,Angers,1-1,0-1
+2000-09-06,Nice,Ajaccio,1-0,0-0
+2000-09-06,Sochaux,Cannes,1-0,0-0
+2000-09-06,Wasquehal,Caen,3-3,1-1
+2000-09-09,Ajaccio,Gueugnon,2-0,0-0
+2000-09-09,Angers,Sochaux,2-0,1-0
+2000-09-09,Beauvais,Nice,2-0,0-0
+2000-09-09,Caen,Le Havre,1-0,1-0
+2000-09-09,Cannes,Nancy,0-2,0-1
+2000-09-09,Chateauroux,Montpellier,0-0,0-0
+2000-09-09,Le Mans,Laval,2-2,2-1
+2000-09-09,Martigues,Wasquehal,1-0,0-0
+2000-09-09,Nimes,Creteil,2-1,1-1
+2000-09-09,Niort,Lorient,1-2,1-0
+2000-09-15,Nancy,Martigues,0-0,0-0
+2000-09-16,Beauvais,Le Mans,1-1,0-0
+2000-09-16,Creteil,Caen,0-1,0-1
+2000-09-16,Laval,Niort,0-1,0-0
+2000-09-16,Le Havre,Cannes,2-2,0-1
+2000-09-16,Lorient,Angers,3-0,1-0
+2000-09-16,Montpellier,Sochaux,0-2,0-0
+2000-09-16,Nice,Nimes,1-2,1-1
+2000-09-16,Wasquehal,Ajaccio,2-0,2-0
+2000-09-17,Gueugnon,Chateauroux,0-1,0-0
+2000-09-23,Ajaccio,Laval,1-2,0-1
+2000-09-23,Angers,Wasquehal,2-0,2-0
+2000-09-23,Caen,Nice,1-0,0-0
+2000-09-23,Cannes,Montpellier,1-2,0-0
+2000-09-23,Chateauroux,Nancy,0-0,0-0
+2000-09-23,Le Mans,Lorient,1-1,0-1
+2000-09-23,Martigues,Gueugnon,0-0,0-0
+2000-09-23,Nimes,Beauvais,2-1,1-1
+2000-09-23,Niort,Creteil,0-0,0-0
+2000-09-23,Sochaux,Le Havre,3-0,3-0
+2000-09-30,Beauvais,Chateauroux,2-1,0-0
+2000-09-30,Creteil,Ajaccio,1-0,1-0
+2000-09-30,Laval,Martigues,2-0,0-0
+2000-09-30,Le Havre,Montpellier,3-0,1-0
+2000-09-30,Lorient,Sochaux,1-1,1-1
+2000-09-30,Nancy,Angers,0-0,0-0
+2000-09-30,Nice,Niort,0-1,0-0
+2000-09-30,Nimes,Caen,1-2,0-0
+2000-09-30,Wasquehal,Le Mans,2-1,1-0
+2000-10-01,Gueugnon,Cannes,2-1,
+2000-10-06,Ajaccio,Nancy,1-0,0-0
+2000-10-06,Sochaux,Wasquehal,1-1,1-0
+2000-10-07,Angers,Gueugnon,1-2,1-0
+2000-10-07,Caen,Beauvais,1-1,1-0
+2000-10-07,Cannes,Laval,0-1,0-1
+2000-10-07,Chateauroux,Nice,7-2,3-1
+2000-10-07,Le Mans,Le Havre,1-1,0-1
+2000-10-07,Martigues,Creteil,0-0,0-0
+2000-10-07,Niort,Nimes,1-1,0-1
+2000-10-10,Nancy,Sochaux,1-2,0-1
+2000-10-11,Beauvais,Niort,1-4,1-1
+2000-10-11,Caen,Ajaccio,2-0,1-0
+2000-10-11,Creteil,Le Mans,1-0,0-0
+2000-10-11,Gueugnon,Montpellier,2-4,1-1
+2000-10-11,Laval,Angers,4-1,1-0
+2000-10-11,Lorient,Le Havre,1-0,1-0
+2000-10-11,Nice,Martigues,2-1,2-1
+2000-10-11,Nimes,Chateauroux,2-1,1-0
+2000-10-11,Wasquehal,Cannes,3-0,1-0
+2000-10-14,Angers,Creteil,1-1,1-0
+2000-10-14,Cannes,Lorient,1-2,0-1
+2000-10-14,Chateauroux,Laval,0-0,0-0
+2000-10-14,Le Havre,Wasquehal,1-1,0-0
+2000-10-14,Le Mans,Nice,1-0,1-0
+2000-10-14,Martigues,Beauvais,0-0,0-0
+2000-10-14,Niort,Caen,2-0,0-0
+2000-10-14,Sochaux,Gueugnon,3-0,1-0
+2000-10-15,Montpellier,Nancy,1-1,1-0
+2000-10-20,Laval,Sochaux,0-0,0-0
+2000-10-21,Beauvais,Ajaccio,0-0,0-0
+2000-10-21,Caen,Chateauroux,1-1,0-1
+2000-10-21,Creteil,Cannes,3-1,1-0
+2000-10-21,Gueugnon,Lorient,1-1,0-0
+2000-10-21,Nancy,Le Havre,2-3,0-1
+2000-10-21,Nice,Angers,2-0,1-0
+2000-10-21,Nimes,Martigues,2-0,0-0
+2000-10-21,Niort,Le Mans,2-0,2-0
+2000-10-21,Wasquehal,Montpellier,1-1,0-0
+2000-10-25,Montpellier,Lorient,2-2,2-1
+2000-10-27,Le Havre,Gueugnon,1-3,0-0
+2000-10-28,Ajaccio,Niort,0-1,0-1
+2000-10-28,Angers,Beauvais,1-1,0-0
+2000-10-28,Cannes,Nice,2-1,1-0
+2000-10-28,Chateauroux,Wasquehal,2-0,1-0
+2000-10-28,Le Mans,Nimes,1-1,0-1
+2000-10-28,Lorient,Nancy,2-0,2-0
+2000-10-28,Martigues,Caen,2-2,0-2
+2000-10-28,Sochaux,Creteil,3-0,2-0
+2000-10-29,Montpellier,Laval,1-0,1-0
+2000-11-04,Ajaccio,Chateauroux,0-2,0-2
+2000-11-04,Beauvais,Cannes,3-1,0-0
+2000-11-04,Caen,Le Mans,0-2,0-1
+2000-11-04,Creteil,Montpellier,1-1,1-0
+2000-11-04,Nancy,Gueugnon,4-0,2-0
+2000-11-04,Nice,Sochaux,2-2,0-0
+2000-11-04,Nimes,Angers,3-0,1-0
+2000-11-04,Niort,Martigues,6-1,3-0
+2000-11-04,Wasquehal,Lorient,0-1,0-1
+2000-11-05,Laval,Le Havre,1-0,1-0
+2000-11-10,Le Havre,Creteil,1-1,0-0
+2000-11-11,Angers,Caen,0-1,0-0
+2000-11-11,Cannes,Nimes,1-1,1-1
+2000-11-11,Chateauroux,Niort,1-0,0-0
+2000-11-11,Gueugnon,Wasquehal,2-1,1-1
+2000-11-11,Le Mans,Nancy,0-1,0-1
+2000-11-11,Martigues,Ajaccio,2-1,0-1
+2000-11-11,Montpellier,Nice,3-0,1-0
+2000-11-11,Sochaux,Beauvais,2-0,1-0
+2000-11-12,Lorient,Laval,2-1,2-0
+2000-11-14,Ajaccio,Nimes,1-0,0-0
+2000-11-17,Chateauroux,Sochaux,1-1,1-0
+2000-11-18,Ajaccio,Angers,3-1,0-1
+2000-11-18,Beauvais,Le Havre,1-1,0-1
+2000-11-18,Caen,Montpellier,0-0,0-0
+2000-11-18,Creteil,Wasquehal,2-0,1-0
+2000-11-18,Laval,Nancy,0-0,0-0
+2000-11-18,Martigues,Le Mans,3-3,2-1
+2000-11-18,Nice,Gueugnon,1-2,0-2
+2000-11-18,Nimes,Lorient,1-2,0-0
+2000-11-18,Niort,Cannes,4-1,3-1
+2000-11-29,Angers,Martigues,1-1,0-1
+2000-11-29,Cannes,Ajaccio,1-0,1-0
+2000-11-29,Gueugnon,Beauvais,2-0,2-0
+2000-11-29,Le Havre,Niort,2-2,1-1
+2000-11-29,Le Mans,Chateauroux,2-1,1-0
+2000-11-29,Lorient,Nice,3-0,1-0
+2000-11-29,Nancy,Creteil,2-0,0-0
+2000-11-29,Sochaux,Caen,3-0,2-0
+2000-11-29,Wasquehal,Laval,2-1,1-0
+2000-11-30,Montpellier,Nimes,3-1,2-1
+2000-12-02,Ajaccio,Sochaux,0-0,0-0
+2000-12-02,Caen,Laval,0-1,0-1
+2000-12-02,Creteil,Gueugnon,1-2,0-1
+2000-12-02,Le Mans,Angers,2-1,1-0
+2000-12-02,Martigues,Cannes,0-1,0-0
+2000-12-02,Nice,Wasquehal,1-0,0-0
+2000-12-03,Nimes,Le Havre,2-2,1-1
+2000-12-04,Niort,Montpellier,1-1,1-1
+2000-12-08,Sochaux,Niort,3-0,2-0
+2000-12-09,Angers,Chateauroux,2-1,0-0
+2000-12-09,Cannes,Le Mans,0-0,0-0
+2000-12-09,Gueugnon,Nimes,3-3,1-3
+2000-12-09,Laval,Creteil,3-2,1-0
+2000-12-09,Le Havre,Martigues,0-0,0-0
+2000-12-09,Lorient,Caen,1-1,0-0
+2000-12-09,Montpellier,Ajaccio,2-0,1-0
+2000-12-09,Nancy,Nice,3-1,2-1
+2000-12-09,Wasquehal,Beauvais,0-2,0-0
+2000-12-13,Chateauroux,Lorient,2-0,1-0
+2000-12-20,Le Mans,Sochaux,0-0,0-0
+2000-12-21,Ajaccio,Le Havre,3-0,3-0
+2000-12-21,Angers,Cannes,1-3,1-2
+2000-12-21,Beauvais,Lorient,1-3,1-3
+2000-12-21,Caen,Gueugnon,2-1,0-0
+2000-12-21,Chateauroux,Creteil,0-1,0-1
+2000-12-21,Martigues,Montpellier,0-1,0-0
+2000-12-21,Nice,Laval,3-0,1-0
+2000-12-21,Nimes,Nancy,1-2,1-0
+2000-12-21,Niort,Wasquehal,1-1,1-1
+2001-01-13,Cannes,Chateauroux,2-2,2-2
+2001-01-13,Creteil,Nice,0-1,0-0
+2001-01-13,Gueugnon,Niort,1-0,0-0
+2001-01-13,Laval,Beauvais,0-2,0-0
+2001-01-13,Le Havre,Angers,2-1,2-0
+2001-01-13,Lorient,Ajaccio,0-1,0-0
+2001-01-13,Montpellier,Le Mans,0-0,0-0
+2001-01-13,Sochaux,Martigues,1-0,1-0
+2001-01-13,Wasquehal,Nimes,1-1,1-1
+2001-01-14,Nancy,Caen,4-0,2-0
+2001-01-27,Ajaccio,Nice,2-1,1-0
+2001-01-27,Beauvais,Creteil,1-1,0-0
+2001-01-27,Caen,Wasquehal,1-2,0-2
+2001-01-27,Cannes,Sochaux,2-2,1-0
+2001-01-27,Le Mans,Gueugnon,2-1,1-1
+2001-01-27,Martigues,Lorient,1-1,0-0
+2001-01-27,Nimes,Laval,1-0,0-0
+2001-01-27,Niort,Nancy,3-2,2-2
+2001-01-28,Angers,Montpellier,0-0,0-0
+2001-02-03,Creteil,Nimes,1-2,1-1
+2001-02-03,Gueugnon,Ajaccio,0-0,0-0
+2001-02-03,Laval,Le Mans,2-1,0-1
+2001-02-03,Le Havre,Caen,2-1,1-0
+2001-02-03,Montpellier,Chateauroux,0-0,0-0
+2001-02-03,Nancy,Cannes,2-0,1-0
+2001-02-03,Nice,Beauvais,0-1,0-1
+2001-02-03,Sochaux,Angers,2-0,0-0
+2001-02-03,Wasquehal,Martigues,2-0,1-0
+2001-02-04,Lorient,Niort,0-0,0-0
+2001-02-07,Ajaccio,Wasquehal,2-0,1-0
+2001-02-07,Angers,Lorient,2-1,1-1
+2001-02-07,Caen,Creteil,1-0,0-0
+2001-02-07,Cannes,Le Havre,1-1,1-0
+2001-02-07,Le Mans,Beauvais,0-4,0-2
+2001-02-07,Martigues,Nancy,2-1,0-1
+2001-02-07,Nimes,Nice,2-0,1-0
+2001-02-07,Niort,Laval,2-2,2-1
+2001-02-08,Sochaux,Montpellier,1-0,1-0
+2001-02-16,Le Havre,Sochaux,2-3,0-2
+2001-02-16,Nice,Caen,2-0,0-0
+2001-02-17,Beauvais,Nimes,1-0,0-0
+2001-02-17,Creteil,Niort,1-1,1-1
+2001-02-17,Gueugnon,Martigues,0-1,0-1
+2001-02-17,Laval,Ajaccio,0-0,0-0
+2001-02-17,Lorient,Le Mans,3-1,0-1
+2001-02-17,Montpellier,Cannes,2-0,0-0
+2001-02-17,Nancy,Chateauroux,0-0,0-0
+2001-02-17,Wasquehal,Angers,3-1,1-1
+2001-03-02,Sochaux,Lorient,0-1,0-1
+2001-03-03,Ajaccio,Creteil,0-0,0-0
+2001-03-03,Angers,Nancy,1-2,1-1
+2001-03-03,Caen,Nimes,2-2,1-2
+2001-03-03,Cannes,Gueugnon,0-1,0-1
+2001-03-03,Chateauroux,Beauvais,3-0,2-0
+2001-03-03,Le Mans,Wasquehal,0-0,0-0
+2001-03-03,Martigues,Laval,1-3,1-1
+2001-03-03,Montpellier,Le Havre,1-0,0-0
+2001-03-03,Niort,Nice,2-2,1-0
+2001-03-09,Beauvais,Nancy,1-1,1-0
+2001-03-16,Lorient,Montpellier,2-1,2-1
+2001-03-16,Nancy,Ajaccio,2-0,1-0
+2001-03-16,Wasquehal,Sochaux,1-1,0-0
+2001-03-17,Beauvais,Caen,0-1,0-0
+2001-03-17,Creteil,Martigues,0-0,0-0
+2001-03-17,Gueugnon,Angers,2-0,1-0
+2001-03-17,Laval,Cannes,2-1,0-1
+2001-03-17,Le Havre,Le Mans,3-0,0-0
+2001-03-17,Nice,Chateauroux,1-4,0-3
+2001-03-17,Nimes,Niort,2-1,0-0
+2001-03-21,Sochaux,Nancy,1-1,0-0
+2001-03-23,Ajaccio,Caen,1-0,0-0
+2001-03-23,Angers,Laval,1-0,1-0
+2001-03-23,Cannes,Wasquehal,0-0,0-0
+2001-03-23,Chateauroux,Nimes,1-1,0-1
+2001-03-23,Le Mans,Creteil,2-1,2-1
+2001-03-23,Martigues,Nice,0-1,0-0
+2001-03-23,Montpellier,Gueugnon,5-0,1-0
+2001-03-23,Niort,Beauvais,1-1,1-0
+2001-03-27,Creteil,Angers,1-1,1-0
+2001-03-27,Gueugnon,Sochaux,1-1,1-1
+2001-03-27,Laval,Chateauroux,0-2,0-2
+2001-03-27,Lorient,Cannes,4-0,3-0
+2001-03-27,Nancy,Montpellier,0-3,0-2
+2001-03-27,Nice,Le Mans,1-1,0-0
+2001-03-27,Nimes,Ajaccio,1-0,0-0
+2001-03-27,Wasquehal,Le Havre,0-1,0-0
+2001-03-28,Caen,Niort,1-2,1-1
+2001-04-03,Chateauroux,Le Havre,3-1,3-1
+2001-04-07,Ajaccio,Beauvais,2-0,1-0
+2001-04-07,Angers,Nice,0-0,0-0
+2001-04-07,Cannes,Creteil,4-2,1-2
+2001-04-07,Chateauroux,Caen,0-1,0-1
+2001-04-07,Le Havre,Nancy,1-0,0-0
+2001-04-07,Le Mans,Niort,2-1,1-0
+2001-04-07,Lorient,Gueugnon,1-4,0-1
+2001-04-07,Martigues,Nimes,1-0,0-0
+2001-04-07,Montpellier,Wasquehal,2-1,0-0
+2001-04-08,Sochaux,Laval,2-0,1-0
+2001-04-13,Nancy,Lorient,0-1,0-1
+2001-04-14,Beauvais,Martigues,3-1,1-1
+2001-04-14,Creteil,Sochaux,1-0,0-0
+2001-04-14,Gueugnon,Le Havre,1-2,1-1
+2001-04-14,Laval,Montpellier,0-0,0-0
+2001-04-14,Nice,Cannes,2-0,0-0
+2001-04-14,Nimes,Le Mans,3-1,1-0
+2001-04-14,Niort,Ajaccio,4-3,2-2
+2001-04-14,Wasquehal,Chateauroux,3-1,3-1
+2001-04-20,Beauvais,Angers,1-1,1-1
+2001-04-20,Caen,Martigues,1-2,0-1
+2001-04-20,Chateauroux,Gueugnon,1-1,1-0
+2001-04-20,Le Havre,Lorient,1-1,1-1
+2001-04-27,Montpellier,Creteil,1-1,0-1
+2001-04-28,Angers,Nimes,3-0,0-0
+2001-04-28,Cannes,Beauvais,0-1,0-0
+2001-04-28,Chateauroux,Ajaccio,2-2,0-2
+2001-04-28,Gueugnon,Nancy,1-1,1-1
+2001-04-28,Le Havre,Laval,3-1,2-1
+2001-04-28,Le Mans,Caen,1-1,0-0
+2001-04-28,Lorient,Wasquehal,2-0,1-0
+2001-04-28,Martigues,Niort,1-1,0-0
+2001-04-28,Sochaux,Nice,5-1,2-0
+2001-05-11,Ajaccio,Martigues,1-0,0-0
+2001-05-11,Beauvais,Sochaux,1-2,0-1
+2001-05-11,Caen,Angers,4-0,1-0
+2001-05-11,Creteil,Le Havre,2-0,0-0
+2001-05-11,Laval,Lorient,1-2,1-1
+2001-05-11,Nancy,Le Mans,0-0,0-0
+2001-05-11,Nice,Montpellier,2-1,2-1
+2001-05-11,Nimes,Cannes,4-3,2-1
+2001-05-11,Niort,Chateauroux,2-0,1-0
+2001-05-11,Wasquehal,Gueugnon,2-1,0-1
+2001-05-18,Angers,Niort,2-0,1-0
+2001-05-18,Cannes,Caen,2-0,0-0
+2001-05-18,Gueugnon,Laval,2-0,1-0
+2001-05-18,Le Havre,Nice,1-0,1-0
+2001-05-18,Le Mans,Ajaccio,1-1,0-0
+2001-05-18,Lorient,Creteil,3-1,2-0
+2001-05-18,Martigues,Chateauroux,0-1,0-1
+2001-05-18,Montpellier,Beauvais,0-1,0-0
+2001-05-18,Nancy,Wasquehal,0-2,0-0
+2001-05-18,Sochaux,Nimes,4-1,4-0

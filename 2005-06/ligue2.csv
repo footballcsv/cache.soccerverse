@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2005-07-29,Amiens,Grenoble,3-0,1-0
+2005-07-29,Brest,Gueugnon,0-0,0-0
+2005-07-29,Chateauroux,Bastia,1-1,0-0
+2005-07-29,Clermont,Sete,0-0,0-0
+2005-07-29,Creteil,Caen,3-2,1-0
+2005-07-29,Laval,Istres,0-1,0-0
+2005-07-29,Montpellier,Le Havre,2-1,1-0
+2005-07-29,Reims,Lorient,1-2,0-1
+2005-07-29,Valenciennes,Dijon,2-1,2-1
+2005-08-01,Guingamp,Sedan,1-1,0-1
+2005-08-03,Lorient,Laval,2-1,1-1
+2005-08-05,Bastia,Creteil,1-1,1-0
+2005-08-05,Grenoble,Reims,1-0,0-0
+2005-08-05,Gueugnon,Valenciennes,2-0,1-0
+2005-08-05,Istres,Guingamp,0-0,0-0
+2005-08-05,Le Havre,Chateauroux,0-3,0-0
+2005-08-05,Montpellier,Brest,1-1,0-1
+2005-08-05,Sedan,Sete,2-1,0-1
+2005-08-08,Dijon,Clermont,1-1,0-0
+2005-08-12,Amiens,Bastia,1-2,0-1
+2005-08-12,Brest,Le Havre,2-2,1-1
+2005-08-12,Chateauroux,Montpellier,2-1,0-1
+2005-08-12,Clermont,Sedan,1-0,0-0
+2005-08-12,Creteil,Gueugnon,4-0,3-0
+2005-08-12,Guingamp,Lorient,1-1,0-0
+2005-08-12,Laval,Dijon,0-1,0-1
+2005-08-12,Reims,Caen,2-0,1-0
+2005-08-12,Sete,Istres,1-2,1-1
+2005-08-12,Valenciennes,Grenoble,2-0,2-0
+2005-08-15,Chateauroux,Reims,1-0,0-0
+2005-08-16,Bastia,Brest,4-1,1-1
+2005-08-16,Caen,Valenciennes,0-2,0-0
+2005-08-16,Dijon,Guingamp,1-2,1-1
+2005-08-16,Grenoble,Laval,2-1,0-1
+2005-08-16,Gueugnon,Clermont,2-0,2-0
+2005-08-16,Istres,Sedan,2-2,0-2
+2005-08-16,Le Havre,Creteil,1-1,0-1
+2005-08-16,Lorient,Sete,3-1,0-1
+2005-08-18,Montpellier,Amiens,2-1,2-1
+2005-08-19,Brest,Chateauroux,1-0,0-0
+2005-08-19,Clermont,Istres,1-0,0-0
+2005-08-19,Guingamp,Grenoble,0-1,0-1
+2005-08-19,Laval,Caen,1-0,0-0
+2005-08-19,Reims,Gueugnon,0-0,0-0
+2005-08-19,Sedan,Lorient,1-0,1-0
+2005-08-19,Sete,Dijon,0-0,0-0
+2005-08-21,Amiens,Le Havre,3-0,1-0
+2005-08-21,Creteil,Montpellier,3-0,1-0
+2005-08-22,Valenciennes,Bastia,0-1,0-1
+2005-08-26,Bastia,Reims,0-1,0-1
+2005-08-26,Brest,Clermont,2-0,2-0
+2005-08-26,Caen,Guingamp,0-0,0-0
+2005-08-26,Chateauroux,Creteil,0-2,0-1
+2005-08-26,Dijon,Sedan,0-1,0-1
+2005-08-26,Grenoble,Sete,0-0,0-0
+2005-08-26,Le Havre,Valenciennes,3-0,1-0
+2005-08-26,Lorient,Istres,1-1,0-1
+2005-08-26,Montpellier,Laval,1-2,0-1
+2005-08-29,Gueugnon,Amiens,0-0,0-0
+2005-09-02,Caen,Amiens,3-0,3-0
+2005-09-08,Amiens,Chateauroux,1-1,0-1
+2005-09-09,Clermont,Lorient,0-3,0-1
+2005-09-09,Creteil,Brest,0-0,0-0
+2005-09-09,Guingamp,Gueugnon,0-0,0-0
+2005-09-09,Istres,Dijon,1-1,1-0
+2005-09-09,Reims,Le Havre,0-2,0-1
+2005-09-09,Sedan,Grenoble,2-1,0-0
+2005-09-09,Sete,Caen,1-1,0-0
+2005-09-09,Valenciennes,Montpellier,2-1,0-0
+2005-09-12,Laval,Bastia,1-2,1-0
+2005-09-16,Bastia,Clermont,4-0,2-0
+2005-09-16,Brest,Amiens,0-1,0-1
+2005-09-16,Chateauroux,Valenciennes,1-1,0-1
+2005-09-16,Creteil,Guingamp,2-1,1-0
+2005-09-16,Dijon,Lorient,0-0,0-0
+2005-09-16,Grenoble,Istres,0-0,0-0
+2005-09-16,Gueugnon,Sete,3-3,1-2
+2005-09-16,Le Havre,Laval,4-0,2-0
+2005-09-16,Montpellier,Reims,0-0,0-0
+2005-09-19,Caen,Sedan,1-1,0-0
+2005-09-23,Amiens,Creteil,1-0,1-0
+2005-09-23,Clermont,Le Havre,2-2,1-1
+2005-09-23,Guingamp,Bastia,0-1,0-1
+2005-09-23,Laval,Chateauroux,1-1,1-0
+2005-09-23,Lorient,Grenoble,1-2,0-1
+2005-09-23,Reims,Dijon,0-1,0-0
+2005-09-25,Sedan,Gueugnon,2-0,2-0
+2005-09-25,Valenciennes,Brest,1-1,1-1
+2005-09-26,Sete,Montpellier,2-0,1-0
+2005-09-30,Amiens,Clermont,0-0,0-0
+2005-09-30,Brest,Reims,1-1,0-1
+2005-09-30,Caen,Lorient,1-0,0-0
+2005-09-30,Chateauroux,Istres,4-3,3-2
+2005-09-30,Creteil,Valenciennes,1-1,1-1
+2005-09-30,Grenoble,Dijon,1-2,0-2
+2005-09-30,Gueugnon,Laval,1-1,0-0
+2005-09-30,Le Havre,Sete,1-0,1-0
+2005-09-30,Montpellier,Guingamp,0-0,0-0
+2005-10-07,Clermont,Grenoble,1-0,0-0
+2005-10-07,Dijon,Caen,0-2,0-1
+2005-10-07,Guingamp,Le Havre,1-1,1-1
+2005-10-07,Istres,Gueugnon,0-1,0-0
+2005-10-07,Laval,Brest,1-0,1-0
+2005-10-07,Reims,Creteil,1-0,0-0
+2005-10-07,Sedan,Montpellier,2-0,0-0
+2005-10-07,Sete,Bastia,1-0,0-0
+2005-10-07,Valenciennes,Amiens,0-0,0-0
+2005-10-10,Lorient,Chateauroux,2-1,0-0
+2005-10-14,Amiens,Reims,0-0,0-0
+2005-10-14,Bastia,Lorient,1-1,0-1
+2005-10-14,Caen,Grenoble,1-1,1-1
+2005-10-14,Chateauroux,Sete,1-0,1-0
+2005-10-14,Creteil,Laval,3-1,1-1
+2005-10-14,Le Havre,Sedan,0-2,0-2
+2005-10-14,Montpellier,Istres,3-1,1-1
+2005-10-14,Valenciennes,Clermont,3-0,1-0
+2005-10-16,Gueugnon,Dijon,0-0,0-0
+2005-10-17,Brest,Guingamp,2-1,1-1
+2005-10-18,Istres,Caen,0-0,0-0
+2005-10-21,Clermont,Caen,0-3,0-0
+2005-10-21,Dijon,Montpellier,2-2,2-1
+2005-10-21,Grenoble,Gueugnon,3-0,1-0
+2005-10-21,Guingamp,Chateauroux,0-1,0-0
+2005-10-21,Laval,Amiens,2-1,1-0
+2005-10-21,Lorient,Le Havre,0-0,0-0
+2005-10-21,Reims,Valenciennes,0-0,0-0
+2005-10-21,Sedan,Creteil,2-1,1-1
+2005-10-21,Sete,Brest,1-1,1-1
+2005-10-24,Istres,Bastia,1-0,1-0
+2005-10-28,Amiens,Istres,2-1,2-0
+2005-10-29,Bastia,Grenoble,2-0,0-0
+2005-10-29,Chateauroux,Clermont,3-3,0-3
+2005-10-29,Creteil,Sete,3-0,1-0
+2005-10-29,Gueugnon,Caen,2-2,2-1
+2005-10-29,Le Havre,Dijon,1-2,1-0
+2005-10-29,Montpellier,Lorient,0-3,0-1
+2005-10-29,Reims,Guingamp,0-0,0-0
+2005-10-29,Valenciennes,Laval,2-1,2-1
+2005-10-31,Brest,Sedan,4-1,1-0
+2005-11-04,Clermont,Creteil,2-0,2-0
+2005-11-04,Dijon,Bastia,0-2,0-1
+2005-11-04,Grenoble,Le Havre,1-1,0-1
+2005-11-04,Guingamp,Valenciennes,0-2,0-1
+2005-11-04,Istres,Brest,1-0,0-0
+2005-11-04,Laval,Reims,2-2,2-1
+2005-11-04,Lorient,Gueugnon,2-0,0-0
+2005-11-04,Sedan,Chateauroux,1-1,0-0
+2005-11-04,Sete,Amiens,4-4,0-2
+2005-11-07,Caen,Montpellier,0-0,0-0
+2005-11-11,Amiens,Guingamp,0-2,0-1
+2005-11-11,Bastia,Gueugnon,2-0,0-0
+2005-11-11,Chateauroux,Dijon,1-1,0-0
+2005-11-11,Creteil,Istres,4-1,1-0
+2005-11-11,Laval,Sedan,0-2,0-0
+2005-11-11,Le Havre,Caen,2-0,0-0
+2005-11-11,Montpellier,Grenoble,1-1,1-1
+2005-11-11,Reims,Clermont,4-1,3-0
+2005-11-11,Valenciennes,Sete,2-1,1-1
+2005-11-14,Brest,Lorient,0-1,0-0
+2005-11-25,Caen,Bastia,4-1,2-0
+2005-11-25,Clermont,Montpellier,0-1,0-1
+2005-11-25,Dijon,Brest,1-2,0-1
+2005-11-25,Gueugnon,Le Havre,1-0,0-0
+2005-11-25,Guingamp,Laval,0-2,0-0
+2005-11-25,Istres,Valenciennes,1-4,0-0
+2005-11-25,Lorient,Creteil,0-0,0-0
+2005-11-25,Sete,Reims,1-1,0-0
+2005-11-27,Sedan,Amiens,1-1,1-0
+2005-11-28,Grenoble,Chateauroux,2-1,0-0
+2005-12-02,Amiens,Lorient,1-1,0-0
+2005-12-02,Brest,Grenoble,3-1,1-0
+2005-12-02,Chateauroux,Caen,1-1,0-1
+2005-12-02,Creteil,Dijon,1-2,1-1
+2005-12-02,Guingamp,Clermont,3-1,2-1
+2005-12-02,Laval,Sete,2-0,1-0
+2005-12-02,Montpellier,Gueugnon,3-1,1-0
+2005-12-02,Reims,Istres,0-0,0-0
+2005-12-04,Valenciennes,Sedan,1-1,1-1
+2005-12-05,Le Havre,Bastia,2-2,0-0
+2005-12-13,Bastia,Sedan,1-1,1-1
+2005-12-16,Caen,Brest,3-1,1-1
+2005-12-16,Clermont,Laval,1-0,1-0
+2005-12-16,Dijon,Amiens,2-1,0-1
+2005-12-16,Gueugnon,Chateauroux,2-1,1-0
+2005-12-16,Istres,Le Havre,1-1,1-0
+2005-12-16,Sedan,Reims,1-1,1-1
+2005-12-16,Sete,Guingamp,1-2,0-1
+2005-12-18,Bastia,Montpellier,0-0,0-0
+2005-12-18,Lorient,Valenciennes,1-1,1-0
+2005-12-19,Grenoble,Creteil,1-0,0-0
+2006-01-03,Amiens,Caen,1-1,0-1
+2006-01-03,Brest,Montpellier,0-1,0-0
+2006-01-03,Chateauroux,Le Havre,3-0,2-0
+2006-01-03,Clermont,Dijon,3-3,2-1
+2006-01-03,Creteil,Bastia,1-1,0-0
+2006-01-03,Guingamp,Istres,2-0,0-0
+2006-01-03,Laval,Lorient,0-2,0-0
+2006-01-03,Sete,Sedan,0-1,0-1
+2006-01-03,Valenciennes,Gueugnon,0-0,0-0
+2006-01-09,Sedan,Clermont,3-0,0-0
+2006-01-10,Bastia,Amiens,2-0,1-0
+2006-01-10,Caen,Reims,1-3,1-1
+2006-01-10,Gueugnon,Creteil,0-0,0-0
+2006-01-10,Istres,Sete,1-0,1-0
+2006-01-10,Lorient,Guingamp,2-1,0-0
+2006-01-10,Montpellier,Chateauroux,2-1,1-0
+2006-01-11,Grenoble,Valenciennes,2-3,0-0
+2006-01-11,Le Havre,Brest,2-0,1-0
+2006-01-13,Amiens,Montpellier,1-0,0-0
+2006-01-13,Clermont,Gueugnon,0-1,0-1
+2006-01-13,Guingamp,Dijon,0-0,0-0
+2006-01-13,Reims,Chateauroux,3-0,1-0
+2006-01-13,Sedan,Istres,3-1,2-1
+2006-01-13,Sete,Lorient,0-2,0-1
+2006-01-14,Creteil,Le Havre,1-1,0-0
+2006-01-14,Laval,Grenoble,0-0,0-0
+2006-01-15,Valenciennes,Caen,2-1,1-0
+2006-01-16,Brest,Bastia,0-2,0-1
+2006-01-20,Caen,Laval,2-1,1-0
+2006-01-20,Chateauroux,Brest,0-0,0-0
+2006-01-20,Dijon,Sete,3-0,0-0
+2006-01-20,Grenoble,Guingamp,0-0,0-0
+2006-01-20,Gueugnon,Reims,0-0,0-0
+2006-01-20,Istres,Clermont,1-1,0-1
+2006-01-20,Le Havre,Amiens,1-1,1-0
+2006-01-20,Lorient,Sedan,0-0,0-0
+2006-01-20,Montpellier,Creteil,0-0,0-0
+2006-01-23,Bastia,Valenciennes,1-0,0-0
+2006-01-24,Dijon,Laval,1-0,0-0
+2006-01-27,Reims,Grenoble,0-0,0-0
+2006-02-03,Amiens,Gueugnon,0-0,0-0
+2006-02-03,Clermont,Brest,0-1,0-0
+2006-02-03,Creteil,Chateauroux,1-1,0-0
+2006-02-03,Guingamp,Caen,0-0,0-0
+2006-02-03,Laval,Montpellier,0-2,0-0
+2006-02-03,Sedan,Dijon,0-2,0-0
+2006-02-03,Sete,Grenoble,1-3,1-2
+2006-02-05,Valenciennes,Le Havre,0-1,0-0
+2006-02-06,Istres,Lorient,2-1,2-0
+2006-02-09,Montpellier,Valenciennes,0-0,0-0
+2006-02-10,Bastia,Laval,3-0,0-0
+2006-02-10,Brest,Creteil,0-2,0-1
+2006-02-10,Caen,Sete,1-0,1-0
+2006-02-10,Chateauroux,Amiens,0-0,0-0
+2006-02-10,Dijon,Istres,2-0,1-0
+2006-02-10,Grenoble,Sedan,1-3,0-1
+2006-02-10,Gueugnon,Guingamp,1-0,1-0
+2006-02-10,Le Havre,Reims,1-1,1-0
+2006-02-10,Lorient,Clermont,0-2,0-0
+2006-02-17,Amiens,Brest,1-1,1-0
+2006-02-17,Clermont,Bastia,2-0,1-0
+2006-02-17,Guingamp,Creteil,0-0,0-0
+2006-02-17,Istres,Grenoble,2-1,0-0
+2006-02-17,Laval,Le Havre,0-0,0-0
+2006-02-17,Lorient,Dijon,1-0,0-0
+2006-02-17,Reims,Montpellier,0-1,0-0
+2006-02-17,Sedan,Caen,1-1,1-1
+2006-02-17,Sete,Gueugnon,2-0,0-0
+2006-02-17,Valenciennes,Chateauroux,2-0,2-0
+2006-02-24,Bastia,Guingamp,1-2,1-1
+2006-02-24,Brest,Valenciennes,1-1,0-0
+2006-02-24,Caen,Istres,1-0,1-0
+2006-02-24,Chateauroux,Laval,2-3,1-0
+2006-02-24,Creteil,Amiens,1-0,1-0
+2006-02-24,Dijon,Reims,2-0,0-0
+2006-02-24,Grenoble,Lorient,1-0,0-0
+2006-02-24,Gueugnon,Sedan,1-0,1-0
+2006-02-24,Le Havre,Clermont,2-1,1-1
+2006-02-27,Montpellier,Sete,2-1,1-0
+2006-03-03,Dijon,Grenoble,0-0,0-0
+2006-03-03,Guingamp,Montpellier,1-0,0-0
+2006-03-03,Istres,Chateauroux,2-1,1-0
+2006-03-03,Laval,Gueugnon,1-1,1-0
+2006-03-03,Reims,Brest,1-0,1-0
+2006-03-03,Sedan,Bastia,1-1,0-0
+2006-03-03,Sete,Le Havre,0-3,0-0
+2006-03-03,Valenciennes,Creteil,1-1,0-1
+2006-03-04,Clermont,Amiens,2-0,0-0
+2006-03-06,Lorient,Caen,1-3,0-0
+2006-03-07,Reims,Bastia,0-1,0-0
+2006-03-10,Bastia,Sete,1-0,0-0
+2006-03-10,Brest,Laval,2-2,0-0
+2006-03-10,Caen,Dijon,1-1,0-0
+2006-03-10,Chateauroux,Lorient,0-1,0-1
+2006-03-10,Grenoble,Clermont,2-0,1-0
+2006-03-10,Gueugnon,Istres,2-0,1-0
+2006-03-10,Le Havre,Guingamp,1-1,0-1
+2006-03-10,Montpellier,Sedan,0-1,0-1
+2006-03-12,Creteil,Reims,0-2,0-1
+2006-03-13,Amiens,Valenciennes,1-2,1-0
+2006-03-17,Clermont,Valenciennes,1-2,1-1
+2006-03-17,Dijon,Gueugnon,3-0,2-0
+2006-03-17,Grenoble,Caen,0-2,0-0
+2006-03-17,Guingamp,Brest,1-0,0-0
+2006-03-17,Istres,Montpellier,1-0,1-0
+2006-03-17,Lorient,Bastia,1-0,1-0
+2006-03-17,Reims,Amiens,0-0,0-0
+2006-03-17,Sete,Chateauroux,2-2,0-0
+2006-03-19,Laval,Creteil,2-1,1-1
+2006-03-20,Sedan,Le Havre,2-1,0-1
+2006-03-24,Amiens,Laval,3-2,1-0
+2006-03-24,Bastia,Istres,3-0,0-0
+2006-03-24,Caen,Clermont,2-1,1-0
+2006-03-24,Chateauroux,Guingamp,1-1,0-0
+2006-03-24,Creteil,Sedan,0-1,0-0
+2006-03-24,Gueugnon,Grenoble,1-1,0-1
+2006-03-24,Valenciennes,Reims,1-0,1-0
+2006-03-26,Le Havre,Lorient,0-0,0-0
+2006-03-27,Montpellier,Dijon,2-0,1-0
+2006-03-31,Caen,Gueugnon,1-0,0-0
+2006-03-31,Clermont,Chateauroux,0-2,0-1
+2006-03-31,Dijon,Le Havre,1-2,0-1
+2006-03-31,Guingamp,Reims,2-1,1-1
+2006-03-31,Istres,Amiens,1-0,1-0
+2006-03-31,Laval,Valenciennes,0-2,0-1
+2006-03-31,Lorient,Montpellier,3-0,1-0
+2006-03-31,Sedan,Brest,2-2,0-1
+2006-03-31,Sete,Creteil,1-1,1-0
+2006-04-03,Grenoble,Bastia,5-1,4-0
+2006-04-07,Amiens,Sete,1-0,1-0
+2006-04-07,Bastia,Dijon,0-2,0-0
+2006-04-07,Brest,Istres,0-0,0-0
+2006-04-07,Chateauroux,Sedan,0-1,0-1
+2006-04-07,Creteil,Clermont,3-1,2-0
+2006-04-07,Gueugnon,Lorient,0-1,0-0
+2006-04-07,Le Havre,Grenoble,4-1,2-1
+2006-04-07,Montpellier,Caen,1-3,0-1
+2006-04-07,Reims,Laval,3-1,1-0
+2006-04-10,Valenciennes,Guingamp,2-0,1-0
+2006-04-11,Brest,Sete,1-1,1-1
+2006-04-14,Caen,Le Havre,4-1,3-0
+2006-04-14,Clermont,Reims,0-0,0-0
+2006-04-14,Dijon,Chateauroux,2-1,2-0
+2006-04-14,Gueugnon,Bastia,2-0,1-0
+2006-04-14,Guingamp,Amiens,6-0,1-0
+2006-04-14,Istres,Creteil,0-1,0-0
+2006-04-14,Sedan,Laval,1-1,0-1
+2006-04-14,Sete,Valenciennes,1-2,1-1
+2006-04-15,Grenoble,Montpellier,2-2,1-2
+2006-04-17,Lorient,Brest,5-0,2-0
+2006-04-21,Bastia,Caen,0-2,0-0
+2006-04-21,Brest,Dijon,0-4,0-1
+2006-04-21,Chateauroux,Grenoble,3-1,2-0
+2006-04-21,Creteil,Lorient,1-1,0-1
+2006-04-21,Laval,Guingamp,1-2,1-2
+2006-04-21,Le Havre,Gueugnon,2-1,1-1
+2006-04-21,Montpellier,Clermont,1-0,0-0
+2006-04-21,Reims,Sete,2-0,2-0
+2006-04-21,Valenciennes,Istres,1-0,1-0
+2006-04-24,Amiens,Sedan,0-0,0-0
+2006-04-28,Bastia,Le Havre,1-1,0-0
+2006-04-28,Caen,Chateauroux,2-1,1-1
+2006-04-28,Clermont,Guingamp,3-2,0-1
+2006-04-28,Dijon,Creteil,1-1,0-0
+2006-04-28,Grenoble,Brest,1-1,0-0
+2006-04-28,Gueugnon,Montpellier,3-1,0-0
+2006-04-28,Istres,Reims,3-0,1-0
+2006-04-28,Sedan,Valenciennes,0-3,0-1
+2006-04-28,Sete,Laval,3-2,1-0
+2006-05-01,Lorient,Amiens,1-1,0-1
+2006-05-05,Amiens,Dijon,1-0,1-0
+2006-05-05,Brest,Caen,2-1,1-0
+2006-05-05,Chateauroux,Gueugnon,1-1,1-1
+2006-05-05,Creteil,Grenoble,1-0,0-0
+2006-05-05,Guingamp,Sete,1-0,0-0
+2006-05-05,Laval,Clermont,2-1,1-0
+2006-05-05,Le Havre,Istres,0-0,0-0
+2006-05-05,Montpellier,Bastia,1-1,0-0
+2006-05-05,Reims,Sedan,1-2,0-2
+2006-05-05,Valenciennes,Lorient,1-0,0-0
+2006-05-12,Bastia,Chateauroux,1-4,0-0
+2006-05-12,Caen,Creteil,3-1,3-1
+2006-05-12,Dijon,Valenciennes,2-0,0-0
+2006-05-12,Grenoble,Amiens,3-0,1-0
+2006-05-12,Gueugnon,Brest,0-1,0-0
+2006-05-12,Istres,Laval,2-1,0-1
+2006-05-12,Le Havre,Montpellier,1-0,1-0
+2006-05-12,Lorient,Reims,3-1,0-0
+2006-05-12,Sedan,Guingamp,2-0,0-0
+2006-05-12,Sete,Clermont,1-3,0-2

@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2003-08-01,Le Havre,Nancy,0-0,0-0
+2003-08-02,Angers,Valence,0-2,0-2
+2003-08-02,Chateauroux,St Etienne,2-0,1-0
+2003-08-02,Clermont,Rouen,0-0,0-0
+2003-08-02,Grenoble,Besancon,0-0,0-0
+2003-08-02,Gueugnon,Lorient,1-1,0-1
+2003-08-02,Istres,Sedan,2-0,1-0
+2003-08-02,Laval,Amiens,1-2,1-1
+2003-08-02,Niort,Creteil,3-0,1-0
+2003-08-02,Troyes,Caen,2-2,0-1
+2003-08-09,Amiens,Angers,1-0,0-0
+2003-08-09,Besancon,Istres,0-1,0-0
+2003-08-09,Caen,Clermont,1-2,0-0
+2003-08-09,Creteil,Gueugnon,1-1,0-0
+2003-08-09,Nancy,St Etienne,0-1,0-0
+2003-08-09,Rouen,Laval,1-1,0-0
+2003-08-09,Sedan,Niort,1-1,1-1
+2003-08-09,Troyes,Grenoble,3-2,1-1
+2003-08-09,Valence,Chateauroux,3-0,2-0
+2003-08-10,Lorient,Le Havre,2-0,0-0
+2003-08-15,St Etienne,Lorient,2-1,1-1
+2003-08-16,Angers,Sedan,0-0,0-0
+2003-08-16,Chateauroux,Nancy,0-0,0-0
+2003-08-16,Clermont,Troyes,0-0,0-0
+2003-08-16,Grenoble,Rouen,0-0,0-0
+2003-08-16,Gueugnon,Amiens,0-1,0-0
+2003-08-16,Istres,Caen,3-1,1-0
+2003-08-16,Laval,Besancon,1-3,0-3
+2003-08-16,Le Havre,Creteil,1-1,1-1
+2003-08-16,Niort,Valence,1-0,0-0
+2003-08-19,Amiens,Istres,0-0,0-0
+2003-08-19,Besancon,Gueugnon,1-1,1-0
+2003-08-19,Caen,Grenoble,0-0,0-0
+2003-08-19,Clermont,Niort,0-1,0-0
+2003-08-19,Creteil,St Etienne,1-0,0-0
+2003-08-19,Lorient,Nancy,2-0,0-0
+2003-08-19,Rouen,Angers,3-1,2-0
+2003-08-19,Sedan,Chateauroux,2-0,1-0
+2003-08-19,Troyes,Laval,0-0,0-0
+2003-08-19,Valence,Le Havre,1-2,0-1
+2003-08-22,Le Havre,Sedan,3-0,1-0
+2003-08-23,Angers,Besancon,2-1,1-0
+2003-08-23,Chateauroux,Lorient,2-2,2-1
+2003-08-23,Grenoble,Clermont,0-0,0-0
+2003-08-23,Gueugnon,Valence,2-0,1-0
+2003-08-23,Istres,Rouen,0-0,0-0
+2003-08-23,Laval,Caen,1-0,0-0
+2003-08-23,Nancy,Creteil,2-0,0-0
+2003-08-23,Niort,Amiens,0-0,0-0
+2003-08-23,St Etienne,Troyes,2-3,2-0
+2003-08-29,Besancon,Chateauroux,3-1,2-1
+2003-08-30,Amiens,Le Havre,2-0,1-0
+2003-08-30,Caen,Angers,1-0,1-0
+2003-08-30,Clermont,Laval,2-1,0-1
+2003-08-30,Creteil,Lorient,1-0,1-0
+2003-08-30,Grenoble,Gueugnon,2-2,1-0
+2003-08-30,Rouen,Niort,2-1,2-1
+2003-08-30,Troyes,Istres,0-2,0-0
+2003-08-30,Valence,Nancy,0-0,0-0
+2003-08-31,Sedan,St Etienne,1-2,1-1
+2003-09-04,Laval,Grenoble,2-0,0-0
+2003-09-05,Angers,Troyes,2-0,0-0
+2003-09-05,Chateauroux,Creteil,1-3,1-1
+2003-09-05,Gueugnon,Rouen,2-1,1-0
+2003-09-05,Istres,Clermont,2-0,0-0
+2003-09-05,Le Havre,Besancon,2-0,1-0
+2003-09-05,Lorient,Amiens,3-1,1-1
+2003-09-05,Nancy,Sedan,2-0,1-0
+2003-09-05,Niort,Caen,0-3,0-1
+2003-09-05,St Etienne,Valence,1-0,0-0
+2003-09-12,Troyes,Niort,1-0,0-0
+2003-09-13,Amiens,Chateauroux,0-0,0-0
+2003-09-13,Besancon,St Etienne,0-1,0-0
+2003-09-13,Caen,Gueugnon,2-1,0-1
+2003-09-13,Clermont,Angers,4-1,1-1
+2003-09-13,Grenoble,Istres,0-1,0-1
+2003-09-13,Laval,Le Havre,1-1,1-0
+2003-09-13,Rouen,Nancy,1-1,0-1
+2003-09-13,Sedan,Lorient,2-1,0-1
+2003-09-13,Valence,Creteil,2-2,2-1
+2003-09-20,Angers,Grenoble,1-1,0-1
+2003-09-20,Chateauroux,Caen,1-1,1-1
+2003-09-20,Creteil,Sedan,0-1,0-0
+2003-09-20,Gueugnon,Troyes,1-1,0-0
+2003-09-20,Istres,Laval,2-1,1-1
+2003-09-20,Le Havre,Rouen,2-0,0-0
+2003-09-20,Lorient,Valence,3-1,1-0
+2003-09-20,Nancy,Clermont,3-4,1-3
+2003-09-20,Niort,Besancon,3-0,1-0
+2003-09-21,St Etienne,Amiens,0-2,0-0
+2003-09-27,Amiens,Creteil,1-0,1-0
+2003-09-27,Besancon,Nancy,1-3,0-2
+2003-09-27,Caen,St Etienne,1-0,0-0
+2003-09-27,Clermont,Gueugnon,1-0,0-0
+2003-09-27,Grenoble,Niort,0-1,0-0
+2003-09-27,Laval,Angers,3-3,2-0
+2003-09-27,Rouen,Chateauroux,1-4,1-2
+2003-09-27,Sedan,Valence,0-0,0-0
+2003-09-27,Troyes,Le Havre,2-0,2-0
+2003-09-28,Istres,Lorient,1-0,0-0
+2003-10-03,St Etienne,Rouen,2-0,1-0
+2003-10-04,Angers,Istres,1-0,1-0
+2003-10-04,Chateauroux,Grenoble,0-0,0-0
+2003-10-04,Creteil,Clermont,5-1,3-1
+2003-10-04,Gueugnon,Sedan,0-0,0-0
+2003-10-04,Le Havre,Caen,1-1,0-0
+2003-10-04,Nancy,Troyes,3-0,1-0
+2003-10-04,Niort,Laval,4-0,1-0
+2003-10-04,Valence,Amiens,2-1,1-1
+2003-10-06,Lorient,Besancon,2-0,0-0
+2003-10-18,Angers,Niort,0-0,0-0
+2003-10-18,Besancon,Valence,1-1,1-0
+2003-10-18,Caen,Lorient,2-0,0-0
+2003-10-18,Grenoble,Le Havre,2-0,2-0
+2003-10-18,Istres,Nancy,2-0,0-0
+2003-10-18,Laval,Gueugnon,1-2,0-2
+2003-10-18,Rouen,Creteil,1-1,0-1
+2003-10-18,Troyes,Chateauroux,4-0,1-0
+2003-10-19,Clermont,St Etienne,0-3,0-1
+2003-10-20,Amiens,Sedan,1-1,0-1
+2003-10-25,Chateauroux,Laval,2-1,1-0
+2003-10-25,Creteil,Caen,0-0,0-0
+2003-10-25,Gueugnon,Angers,1-1,0-0
+2003-10-25,Le Havre,Clermont,1-1,0-0
+2003-10-25,Lorient,Rouen,4-1,2-1
+2003-10-25,Nancy,Amiens,0-0,0-0
+2003-10-25,Sedan,Besancon,2-0,1-0
+2003-10-25,St Etienne,Grenoble,1-0,1-0
+2003-10-25,Valence,Troyes,2-1,0-1
+2003-10-26,Niort,Istres,2-1,2-1
+2003-10-31,Clermont,Lorient,0-4,0-1
+2003-11-01,Angers,Chateauroux,2-0,2-0
+2003-11-01,Besancon,Amiens,0-2,0-1
+2003-11-01,Caen,Valence,4-1,1-0
+2003-11-01,Grenoble,Nancy,2-3,1-2
+2003-11-01,Istres,Gueugnon,2-1,1-1
+2003-11-01,Laval,St Etienne,2-0,0-0
+2003-11-01,Rouen,Sedan,0-1,0-1
+2003-11-01,Troyes,Creteil,0-0,0-0
+2003-11-03,Niort,Le Havre,0-0,0-0
+2003-11-07,St Etienne,Istres,0-0,0-0
+2003-11-08,Amiens,Troyes,1-1,1-0
+2003-11-08,Chateauroux,Clermont,2-2,1-0
+2003-11-08,Creteil,Besancon,1-1,0-1
+2003-11-08,Gueugnon,Niort,1-2,0-2
+2003-11-08,Le Havre,Angers,1-0,0-0
+2003-11-08,Lorient,Grenoble,2-1,2-1
+2003-11-08,Nancy,Laval,1-1,0-1
+2003-11-08,Sedan,Caen,0-0,0-0
+2003-11-08,Valence,Rouen,2-1,1-1
+2003-11-28,Laval,Lorient,2-2,0-2
+2003-11-28,Troyes,Sedan,0-0,0-0
+2003-11-29,Angers,St Etienne,1-1,0-0
+2003-11-29,Clermont,Valence,1-1,0-1
+2003-11-29,Grenoble,Creteil,1-1,0-0
+2003-11-29,Gueugnon,Nancy,0-0,0-0
+2003-11-29,Istres,Le Havre,2-0,1-0
+2003-11-29,Niort,Chateauroux,0-0,0-0
+2003-11-29,Rouen,Besancon,1-1,0-0
+2003-11-30,Caen,Amiens,2-1,1-1
+2003-12-03,Amiens,Rouen,2-1,2-0
+2003-12-03,Besancon,Caen,0-1,0-0
+2003-12-03,Chateauroux,Istres,1-0,0-0
+2003-12-03,Creteil,Laval,3-0,1-0
+2003-12-03,Le Havre,Gueugnon,5-0,4-0
+2003-12-03,Nancy,Angers,2-1,0-1
+2003-12-03,Sedan,Clermont,1-1,0-0
+2003-12-04,Lorient,Troyes,1-0,0-0
+2003-12-06,Clermont,Amiens,0-2,0-1
+2003-12-06,Grenoble,Sedan,0-0,0-0
+2003-12-06,Gueugnon,St Etienne,0-1,0-0
+2003-12-06,Laval,Valence,2-2,1-1
+2003-12-06,Niort,Nancy,2-2,0-1
+2003-12-07,Angers,Lorient,1-1,0-0
+2003-12-07,Caen,Rouen,1-1,0-0
+2003-12-07,Istres,Creteil,2-0,0-0
+2003-12-07,Troyes,Besancon,1-1,1-0
+2003-12-08,Le Havre,Chateauroux,3-2,1-2
+2003-12-10,St Etienne,Niort,2-1,0-0
+2003-12-17,Valence,Grenoble,1-2,1-1
+2003-12-20,Amiens,Grenoble,0-1,0-1
+2003-12-20,Besancon,Clermont,1-1,0-0
+2003-12-20,Chateauroux,Gueugnon,3-2,0-1
+2003-12-20,Creteil,Angers,1-1,0-1
+2003-12-20,Lorient,Niort,4-2,2-1
+2003-12-20,Nancy,Caen,0-2,0-1
+2003-12-20,Rouen,Troyes,0-1,0-0
+2003-12-20,Sedan,Laval,1-0,0-0
+2003-12-20,Valence,Istres,0-0,0-0
+2003-12-21,St Etienne,Le Havre,2-0,2-0
+2004-01-10,Chateauroux,Valence,3-0,1-0
+2004-01-10,Clermont,Caen,2-2,1-1
+2004-01-10,Grenoble,Troyes,1-2,0-1
+2004-01-10,Gueugnon,Creteil,1-1,1-0
+2004-01-10,Istres,Besancon,0-1,0-1
+2004-01-10,Laval,Rouen,0-0,0-0
+2004-01-10,Niort,Sedan,1-1,0-0
+2004-01-10,St Etienne,Nancy,0-0,0-0
+2004-01-11,Le Havre,Lorient,1-0,0-0
+2004-01-12,Angers,Amiens,1-2,1-1
+2004-01-17,Amiens,Gueugnon,1-0,0-0
+2004-01-17,Besancon,Laval,2-2,1-1
+2004-01-17,Caen,Istres,2-1,1-0
+2004-01-17,Creteil,Le Havre,2-3,2-2
+2004-01-17,Nancy,Chateauroux,2-0,1-0
+2004-01-17,Rouen,Grenoble,0-2,0-0
+2004-01-17,Sedan,Angers,1-0,0-0
+2004-01-17,Troyes,Clermont,2-0,0-0
+2004-01-17,Valence,Niort,1-1,1-0
+2004-01-18,Lorient,St Etienne,2-0,1-0
+2004-01-31,Angers,Rouen,0-1,0-0
+2004-01-31,Chateauroux,Sedan,2-0,1-0
+2004-01-31,Grenoble,Caen,2-1,1-1
+2004-01-31,Gueugnon,Besancon,1-0,0-0
+2004-01-31,Laval,Troyes,4-0,2-0
+2004-01-31,Le Havre,Valence,1-0,1-0
+2004-01-31,Niort,Clermont,3-1,2-0
+2004-01-31,St Etienne,Creteil,3-2,2-1
+2004-02-01,Istres,Amiens,1-0,1-0
+2004-02-02,Nancy,Lorient,1-1,0-0
+2004-02-07,Amiens,Niort,2-3,1-3
+2004-02-07,Besancon,Angers,2-0,2-0
+2004-02-07,Caen,Laval,1-2,1-2
+2004-02-07,Clermont,Grenoble,2-0,1-0
+2004-02-07,Creteil,Nancy,1-0,1-0
+2004-02-07,Lorient,Chateauroux,0-1,0-1
+2004-02-07,Rouen,Istres,1-3,0-2
+2004-02-07,Sedan,Le Havre,2-0,0-0
+2004-02-07,Valence,Gueugnon,3-1,2-0
+2004-02-08,Troyes,St Etienne,0-1,0-1
+2004-02-14,Angers,Caen,0-1,0-0
+2004-02-14,Chateauroux,Besancon,0-0,0-0
+2004-02-14,Gueugnon,Grenoble,0-2,0-1
+2004-02-14,Istres,Troyes,0-0,0-0
+2004-02-14,Laval,Clermont,2-3,0-2
+2004-02-14,Lorient,Creteil,0-3,0-2
+2004-02-14,Nancy,Valence,1-1,0-0
+2004-02-14,Niort,Rouen,2-1,1-0
+2004-02-14,St Etienne,Sedan,0-2,0-2
+2004-02-15,Le Havre,Amiens,0-1,0-1
+2004-02-21,Besancon,Le Havre,1-1,0-1
+2004-02-21,Clermont,Istres,1-1,0-1
+2004-02-21,Creteil,Chateauroux,1-0,0-0
+2004-02-21,Grenoble,Laval,1-1,0-1
+2004-02-21,Rouen,Gueugnon,0-0,0-0
+2004-02-21,Sedan,Nancy,0-4,0-1
+2004-02-21,Troyes,Angers,2-2,1-2
+2004-02-21,Valence,St Etienne,1-3,1-2
+2004-02-22,Amiens,Lorient,1-0,0-0
+2004-02-23,Caen,Niort,2-2,1-0
+2004-02-27,Chateauroux,Amiens,4-1,1-1
+2004-02-28,Angers,Clermont,0-0,0-0
+2004-02-28,Creteil,Valence,2-1,1-0
+2004-02-28,Gueugnon,Caen,0-0,0-0
+2004-02-28,Istres,Grenoble,2-0,1-0
+2004-02-28,Le Havre,Laval,3-2,1-2
+2004-02-28,Lorient,Sedan,1-1,0-1
+2004-02-28,Nancy,Rouen,2-1,0-0
+2004-03-05,Amiens,St Etienne,1-2,0-1
+2004-03-06,Besancon,Niort,4-0,2-0
+2004-03-06,Caen,Chateauroux,1-0,0-0
+2004-03-06,Clermont,Nancy,0-1,0-1
+2004-03-06,Grenoble,Angers,0-0,0-0
+2004-03-06,Rouen,Le Havre,4-0,2-0
+2004-03-06,Sedan,Creteil,4-0,1-0
+2004-03-06,Troyes,Gueugnon,2-1,1-0
+2004-03-06,Valence,Lorient,1-2,0-1
+2004-03-08,Laval,Istres,0-0,0-0
+2004-03-13,Angers,Laval,3-2,1-1
+2004-03-13,Chateauroux,Rouen,2-0,2-0
+2004-03-13,Creteil,Amiens,1-1,1-0
+2004-03-13,Gueugnon,Clermont,0-0,0-0
+2004-03-13,Le Havre,Troyes,3-0,1-0
+2004-03-13,Lorient,Istres,2-1,0-0
+2004-03-13,Nancy,Besancon,3-0,1-0
+2004-03-13,Niort,Grenoble,1-1,0-0
+2004-03-13,Valence,Sedan,2-2,2-1
+2004-03-14,St Etienne,Caen,1-0,1-0
+2004-03-20,Amiens,Valence,2-2,2-2
+2004-03-20,Besancon,Lorient,1-1,0-0
+2004-03-20,Clermont,Creteil,2-0,0-0
+2004-03-20,Grenoble,Chateauroux,4-1,3-1
+2004-03-20,Istres,Angers,1-0,0-0
+2004-03-20,Laval,Niort,0-1,0-1
+2004-03-20,Rouen,St Etienne,0-1,0-0
+2004-03-20,Sedan,Gueugnon,1-1,1-1
+2004-03-20,Troyes,Nancy,1-1,1-1
+2004-03-21,Caen,Le Havre,3-1,1-1
+2004-03-27,Chateauroux,Troyes,1-1,0-0
+2004-03-27,Creteil,Rouen,0-0,0-0
+2004-03-27,Gueugnon,Laval,1-1,1-0
+2004-03-27,Le Havre,Grenoble,1-0,0-0
+2004-03-27,Lorient,Caen,2-3,1-2
+2004-03-27,Niort,Angers,0-1,0-1
+2004-03-27,Sedan,Amiens,3-1,0-1
+2004-03-27,St Etienne,Clermont,0-0,0-0
+2004-03-27,Valence,Besancon,3-1,1-1
+2004-03-28,Nancy,Istres,2-1,1-1
+2004-04-02,Grenoble,St Etienne,2-2,0-1
+2004-04-03,Amiens,Nancy,2-1,1-1
+2004-04-03,Angers,Gueugnon,2-1,2-1
+2004-04-03,Besancon,Sedan,1-1,0-0
+2004-04-03,Caen,Creteil,1-2,0-0
+2004-04-03,Clermont,Le Havre,1-1,0-0
+2004-04-03,Laval,Chateauroux,2-0,1-0
+2004-04-03,Rouen,Lorient,0-1,0-0
+2004-04-03,Troyes,Valence,0-1,0-0
+2004-04-05,Istres,Niort,2-2,1-0
+2004-04-10,Amiens,Besancon,1-0,1-0
+2004-04-10,Chateauroux,Angers,4-1,2-0
+2004-04-10,Creteil,Troyes,1-2,1-2
+2004-04-10,Gueugnon,Istres,1-0,1-0
+2004-04-10,Le Havre,Niort,1-1,1-0
+2004-04-10,Lorient,Clermont,1-1,1-0
+2004-04-10,Nancy,Grenoble,0-0,0-0
+2004-04-10,Sedan,Rouen,0-0,0-0
+2004-04-10,Valence,Caen,0-2,0-0
+2004-04-11,St Etienne,Laval,2-0,2-0
+2004-04-16,Niort,Troyes,2-1,2-0
+2004-04-16,St Etienne,Besancon,2-1,1-1
+2004-04-23,Clermont,Chateauroux,0-1,0-0
+2004-04-23,Istres,St Etienne,0-2,0-1
+2004-04-24,Angers,Le Havre,3-1,0-1
+2004-04-24,Besancon,Creteil,0-0,0-0
+2004-04-24,Caen,Sedan,1-0,0-0
+2004-04-24,Grenoble,Lorient,1-1,0-1
+2004-04-24,Laval,Nancy,2-0,0-0
+2004-04-24,Niort,Gueugnon,1-3,0-1
+2004-04-24,Rouen,Valence,1-1,1-0
+2004-04-24,Troyes,Amiens,3-2,2-1
+2004-05-01,Besancon,Rouen,3-0,2-0
+2004-05-01,Chateauroux,Niort,0-0,0-0
+2004-05-01,Creteil,Grenoble,1-1,0-0
+2004-05-01,Le Havre,Istres,0-0,0-0
+2004-05-01,Lorient,Laval,1-0,1-0
+2004-05-01,Nancy,Gueugnon,0-2,0-0
+2004-05-01,Sedan,Troyes,3-0,2-0
+2004-05-01,St Etienne,Angers,0-0,0-0
+2004-05-01,Valence,Clermont,1-1,0-0
+2004-05-02,Amiens,Caen,0-3,0-1
+2004-05-07,Niort,St Etienne,0-1,0-0
+2004-05-08,Angers,Nancy,2-0,1-0
+2004-05-08,Caen,Besancon,1-1,1-1
+2004-05-08,Clermont,Sedan,0-1,0-1
+2004-05-08,Grenoble,Valence,4-3,1-2
+2004-05-08,Gueugnon,Le Havre,1-2,0-2
+2004-05-08,Istres,Chateauroux,2-1,0-0
+2004-05-08,Laval,Creteil,3-1,1-1
+2004-05-08,Rouen,Amiens,2-1,1-1
+2004-05-10,Troyes,Lorient,3-3,1-1
+2004-05-12,Amiens,Clermont,1-2,1-1
+2004-05-12,Chateauroux,Le Havre,2-1,1-0
+2004-05-12,Creteil,Istres,0-2,0-0
+2004-05-12,Nancy,Niort,1-0,0-0
+2004-05-12,Rouen,Caen,1-2,0-1
+2004-05-12,Sedan,Grenoble,4-1,1-1
+2004-05-12,Valence,Laval,2-1,1-0
+2004-05-13,Besancon,Troyes,0-1,0-0
+2004-05-13,Lorient,Angers,2-0,0-0
+2004-05-13,St Etienne,Gueugnon,1-1,1-0
+2004-05-16,Angers,Creteil,2-0,0-0
+2004-05-16,Caen,Nancy,2-0,0-0
+2004-05-16,Clermont,Besancon,0-2,0-1
+2004-05-16,Grenoble,Amiens,1-0,0-0
+2004-05-16,Gueugnon,Chateauroux,2-0,0-0
+2004-05-16,Istres,Valence,3-1,2-1
+2004-05-16,Laval,Sedan,2-0,1-0
+2004-05-16,Le Havre,St Etienne,1-0,0-0
+2004-05-16,Niort,Lorient,1-2,0-1
+2004-05-16,Troyes,Rouen,3-0,2-0
+2004-05-22,Amiens,Laval,3-4,1-2
+2004-05-22,Besancon,Grenoble,3-1,1-0
+2004-05-22,Caen,Troyes,3-0,1-0
+2004-05-22,Creteil,Niort,2-2,1-0
+2004-05-22,Lorient,Gueugnon,0-5,0-2
+2004-05-22,Nancy,Le Havre,4-1,3-1
+2004-05-22,Rouen,Clermont,0-0,0-0
+2004-05-22,Sedan,Istres,3-1,1-1
+2004-05-22,St Etienne,Chateauroux,2-1,1-0
+2004-05-22,Valence,Angers,0-1,0-0

@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2008-08-09,Auxerre,Nantes,2-1,1-0
+2008-08-09,Bordeaux,Caen,2-1,0-1
+2008-08-09,Le Havre,Nice,1-0,0-0
+2008-08-09,Le Mans,Lorient,0-1,0-0
+2008-08-09,Monaco,Paris SG,1-0,0-0
+2008-08-09,Nancy,Lille,0-0,0-0
+2008-08-09,Rennes,Marseille,4-4,1-3
+2008-08-09,Sochaux,Grenoble,1-2,0-0
+2008-08-09,Valenciennes,St Etienne,1-0,1-0
+2008-08-10,Lyon,Toulouse,3-0,1-0
+2008-08-16,Caen,Valenciennes,3-1,3-1
+2008-08-16,Lille,Le Mans,1-3,0-2
+2008-08-16,Nantes,Monaco,1-1,0-1
+2008-08-16,Nice,Nancy,2-1,1-1
+2008-08-16,Paris SG,Bordeaux,1-0,0-0
+2008-08-16,St Etienne,Sochaux,2-1,2-0
+2008-08-16,Toulouse,Le Havre,2-1,0-1
+2008-08-17,Grenoble,Rennes,1-0,1-0
+2008-08-17,Lorient,Lyon,0-0,0-0
+2008-08-17,Marseille,Auxerre,4-0,1-0
+2008-08-23,Le Havre,Marseille,0-1,0-0
+2008-08-23,Le Mans,St Etienne,1-0,1-0
+2008-08-23,Lyon,Grenoble,2-0,2-0
+2008-08-23,Monaco,Caen,1-1,0-0
+2008-08-23,Nancy,Toulouse,0-0,0-0
+2008-08-23,Sochaux,Paris SG,1-1,0-0
+2008-08-23,Valenciennes,Lorient,3-1,2-0
+2008-08-24,Auxerre,Nice,0-1,0-1
+2008-08-24,Bordeaux,Nantes,2-0,1-0
+2008-08-24,Rennes,Lille,2-1,0-1
+2008-08-30,Caen,Paris SG,0-1,0-1
+2008-08-30,Grenoble,Monaco,1-0,1-0
+2008-08-30,Lorient,Auxerre,0-2,0-1
+2008-08-30,Marseille,Sochaux,2-1,1-0
+2008-08-30,Nancy,Le Havre,2-1,0-1
+2008-08-30,Nantes,Le Mans,1-4,1-2
+2008-08-30,Nice,Valenciennes,2-0,0-0
+2008-08-31,Lille,Bordeaux,2-1,1-1
+2008-08-31,St Etienne,Lyon,0-1,0-0
+2008-08-31,Toulouse,Rennes,0-0,0-0
+2008-09-13,Auxerre,Nancy,1-1,0-0
+2008-09-13,Bordeaux,Marseille,1-1,1-1
+2008-09-13,Le Mans,Toulouse,1-2,1-2
+2008-09-13,Lyon,Nice,3-2,1-2
+2008-09-13,Monaco,Lorient,2-0,1-0
+2008-09-13,Rennes,Le Havre,1-1,1-1
+2008-09-13,Valenciennes,Grenoble,1-1,0-0
+2008-09-14,Caen,St Etienne,2-0,1-0
+2008-09-14,Paris SG,Nantes,1-0,1-0
+2008-09-14,Sochaux,Lille,1-1,0-0
+2008-09-20,Grenoble,Bordeaux,0-1,0-0
+2008-09-20,Le Havre,Lyon,0-1,0-1
+2008-09-20,Lille,Auxerre,3-2,1-0
+2008-09-20,Lorient,Caen,1-1,1-0
+2008-09-20,Nantes,Valenciennes,2-0,1-0
+2008-09-20,Nice,Le Mans,2-2,2-0
+2008-09-20,Toulouse,Sochaux,2-1,1-0
+2008-09-21,Marseille,Monaco,0-0,0-0
+2008-09-21,Nancy,Rennes,0-0,0-0
+2008-09-21,St Etienne,Paris SG,1-0,1-0
+2008-09-27,Auxerre,Le Havre,3-0,1-0
+2008-09-27,Caen,Nantes,3-0,3-0
+2008-09-27,Le Mans,Marseille,1-1,1-1
+2008-09-27,Lyon,Nancy,2-1,2-1
+2008-09-27,Paris SG,Grenoble,0-1,0-0
+2008-09-27,Rennes,Nice,1-0,0-0
+2008-09-27,Sochaux,Lorient,1-1,0-1
+2008-09-28,Bordeaux,St Etienne,1-1,0-1
+2008-09-28,Monaco,Lille,0-2,0-0
+2008-09-28,Valenciennes,Toulouse,0-1,0-0
+2008-10-04,Grenoble,Nantes,0-1,0-0
+2008-10-04,Le Havre,Le Mans,1-2,1-0
+2008-10-04,Lille,Valenciennes,1-0,0-0
+2008-10-04,Lorient,Bordeaux,1-2,0-0
+2008-10-04,Marseille,Caen,2-1,1-1
+2008-10-04,Nice,Sochaux,1-1,0-0
+2008-10-04,Toulouse,Auxerre,1-0,0-0
+2008-10-05,Nancy,Paris SG,1-1,1-1
+2008-10-05,Rennes,Lyon,3-0,1-0
+2008-10-05,St Etienne,Monaco,2-0,1-0
+2008-10-18,Bordeaux,Toulouse,2-1,2-0
+2008-10-18,Caen,Grenoble,2-2,1-1
+2008-10-18,Lyon,Lille,2-2,1-1
+2008-10-18,Monaco,Nice,1-2,1-1
+2008-10-18,Nantes,St Etienne,1-0,1-0
+2008-10-18,Paris SG,Lorient,3-2,1-2
+2008-10-18,Sochaux,Le Havre,1-1,0-1
+2008-10-19,Auxerre,Rennes,0-0,0-0
+2008-10-19,Le Mans,Nancy,2-0,1-0
+2008-10-19,Valenciennes,Marseille,1-3,0-1
+2008-10-25,Auxerre,Lyon,0-0,0-0
+2008-10-25,Le Havre,Valenciennes,2-1,1-1
+2008-10-25,Lille,Caen,2-2,2-0
+2008-10-25,Lorient,Nantes,3-0,1-0
+2008-10-25,Nice,Bordeaux,2-2,0-1
+2008-10-25,Rennes,Le Mans,2-2,1-2
+2008-10-25,Toulouse,Monaco,0-0,0-0
+2008-10-26,Marseille,Paris SG,2-4,2-1
+2008-10-26,Nancy,Sochaux,1-1,0-1
+2008-10-26,St Etienne,Grenoble,0-2,0-1
+2008-10-28,Bordeaux,Le Havre,4-0,1-0
+2008-10-29,Caen,Nice,1-1,0-0
+2008-10-29,Grenoble,Lille,0-0,0-0
+2008-10-29,Le Mans,Auxerre,0-2,0-2
+2008-10-29,Monaco,Nancy,3-1,1-0
+2008-10-29,Nantes,Marseille,1-1,1-0
+2008-10-29,Paris SG,Toulouse,0-1,0-0
+2008-10-29,Sochaux,Lyon,0-2,0-0
+2008-10-29,St Etienne,Lorient,1-4,1-1
+2008-10-29,Valenciennes,Rennes,0-0,0-0
+2008-11-01,Auxerre,Valenciennes,0-0,0-0
+2008-11-01,Lille,Nantes,2-0,1-0
+2008-11-01,Lorient,Grenoble,1-1,0-0
+2008-11-01,Marseille,St Etienne,3-1,2-1
+2008-11-01,Nancy,Bordeaux,1-0,0-0
+2008-11-01,Nice,Paris SG,1-0,1-0
+2008-11-01,Toulouse,Caen,0-1,0-0
+2008-11-02,Le Havre,Monaco,2-3,0-2
+2008-11-02,Lyon,Le Mans,2-0,1-0
+2008-11-02,Rennes,Sochaux,1-0,1-0
+2008-11-08,Bordeaux,Auxerre,2-0,0-0
+2008-11-08,Caen,Le Havre,0-1,0-0
+2008-11-08,Grenoble,Marseille,0-3,0-2
+2008-11-08,Lorient,Nice,0-1,0-1
+2008-11-08,Monaco,Lyon,0-1,0-0
+2008-11-08,Nantes,Toulouse,1-1,1-1
+2008-11-08,Sochaux,Le Mans,2-1,1-1
+2008-11-09,Paris SG,Lille,1-0,1-0
+2008-11-09,St Etienne,Rennes,0-3,0-1
+2008-11-09,Valenciennes,Nancy,0-1,0-1
+2008-11-15,Auxerre,Sochaux,1-0,1-0
+2008-11-15,Le Havre,Paris SG,1-3,0-2
+2008-11-15,Le Mans,Valenciennes,1-0,1-0
+2008-11-15,Lille,St Etienne,3-0,2-0
+2008-11-15,Marseille,Lorient,2-3,1-0
+2008-11-15,Nancy,Caen,1-1,0-0
+2008-11-15,Toulouse,Grenoble,2-0,2-0
+2008-11-16,Lyon,Bordeaux,2-1,2-0
+2008-11-16,Nice,Nantes,2-1,1-1
+2008-11-16,Rennes,Monaco,2-1,1-0
+2008-11-22,Bordeaux,Rennes,1-1,0-1
+2008-11-22,Caen,Auxerre,1-0,0-0
+2008-11-22,Grenoble,Le Havre,0-0,0-0
+2008-11-22,Lorient,Toulouse,1-0,0-0
+2008-11-22,Paris SG,Lyon,1-0,1-0
+2008-11-22,St Etienne,Nice,0-1,0-1
+2008-11-22,Valenciennes,Sochaux,2-2,0-1
+2008-11-23,Marseille,Lille,2-2,0-2
+2008-11-23,Monaco,Le Mans,3-0,0-0
+2008-11-23,Nantes,Nancy,0-1,0-0
+2008-11-29,Auxerre,Monaco,0-1,0-1
+2008-11-29,Le Havre,Nantes,0-2,0-0
+2008-11-29,Le Mans,Caen,2-0,0-0
+2008-11-29,Lille,Lorient,1-1,1-1
+2008-11-29,Lyon,Valenciennes,0-0,0-0
+2008-11-29,Sochaux,Bordeaux,0-0,0-0
+2008-11-30,Nancy,St Etienne,1-2,0-2
+2008-11-30,Rennes,Paris SG,1-0,1-0
+2008-11-30,Toulouse,Marseille,0-0,0-0
+2008-12-05,Bordeaux,Valenciennes,2-1,1-1
+2008-12-06,Caen,Rennes,1-1,1-0
+2008-12-06,Lille,Toulouse,1-1,0-0
+2008-12-06,Marseille,Nice,2-1,2-0
+2008-12-06,St Etienne,Le Havre,2-0,0-0
+2008-12-07,Grenoble,Auxerre,0-0,0-0
+2008-12-07,Lorient,Nancy,1-0,0-0
+2008-12-07,Monaco,Sochaux,1-1,1-1
+2008-12-07,Nantes,Lyon,2-1,0-1
+2008-12-07,Paris SG,Le Mans,3-1,2-1
+2008-12-10,Nice,Grenoble,0-0,0-0
+2008-12-13,Auxerre,Paris SG,1-2,0-2
+2008-12-13,Le Mans,Bordeaux,1-3,0-0
+2008-12-13,Nancy,Grenoble,2-0,1-0
+2008-12-13,Rennes,Nantes,0-0,0-0
+2008-12-13,Sochaux,Caen,2-2,0-1
+2008-12-13,Toulouse,St Etienne,3-1,2-1
+2008-12-13,Valenciennes,Monaco,3-1,2-1
+2008-12-14,Le Havre,Lorient,1-3,0-2
+2008-12-14,Lyon,Marseille,0-0,0-0
+2008-12-14,Nice,Lille,0-1,0-1
+2008-12-20,Caen,Lyon,0-1,0-1
+2008-12-20,Grenoble,Le Mans,2-1,1-0
+2008-12-20,Lille,Le Havre,3-1,1-0
+2008-12-20,Lorient,Rennes,1-2,1-0
+2008-12-20,Nantes,Sochaux,1-1,0-0
+2008-12-20,St Etienne,Auxerre,2-0,1-0
+2008-12-20,Toulouse,Nice,2-2,1-1
+2008-12-21,Marseille,Nancy,0-3,0-2
+2008-12-21,Monaco,Bordeaux,3-4,2-0
+2008-12-21,Paris SG,Valenciennes,2-2,1-0
+2009-01-10,Auxerre,Marseille,0-2,0-1
+2009-01-10,Le Havre,Toulouse,0-1,0-0
+2009-01-10,Lyon,Lorient,1-1,1-1
+2009-01-10,Monaco,Nantes,1-2,0-2
+2009-01-10,Rennes,Grenoble,1-0,0-0
+2009-01-10,Sochaux,St Etienne,1-0,0-0
+2009-01-11,Bordeaux,Paris SG,4-0,2-0
+2009-01-17,Grenoble,Lyon,0-2,0-1
+2009-01-17,Lorient,Valenciennes,1-1,1-1
+2009-01-17,Marseille,Le Havre,2-0,1-0
+2009-01-17,Nantes,Bordeaux,1-2,0-1
+2009-01-17,Nice,Auxerre,2-0,0-0
+2009-01-17,St Etienne,Le Mans,1-1,0-0
+2009-01-17,Toulouse,Nancy,3-0,1-0
+2009-01-18,Caen,Monaco,2-2,0-2
+2009-01-18,Lille,Rennes,1-0,0-0
+2009-01-18,Paris SG,Sochaux,2-1,1-0
+2009-01-31,Auxerre,Lorient,0-0,0-0
+2009-01-31,Le Havre,Nancy,2-3,1-2
+2009-01-31,Le Mans,Nantes,0-2,0-0
+2009-01-31,Monaco,Grenoble,1-0,0-0
+2009-01-31,Paris SG,Caen,2-0,0-0
+2009-01-31,Rennes,Toulouse,0-0,0-0
+2009-01-31,Valenciennes,Nice,1-0,0-0
+2009-02-01,Bordeaux,Lille,2-2,1-0
+2009-02-01,Lyon,St Etienne,1-1,0-0
+2009-02-01,Sochaux,Marseille,1-0,1-0
+2009-02-07,Le Havre,Rennes,1-0,0-0
+2009-02-07,Lille,Sochaux,3-2,0-2
+2009-02-07,Lorient,Monaco,1-1,0-1
+2009-02-07,Nancy,Auxerre,0-2,0-1
+2009-02-07,Nantes,Paris SG,1-4,1-2
+2009-02-07,St Etienne,Caen,3-2,0-1
+2009-02-07,Toulouse,Le Mans,2-0,1-0
+2009-02-08,Grenoble,Valenciennes,0-0,0-0
+2009-02-08,Marseille,Bordeaux,1-0,0-0
+2009-02-08,Nice,Lyon,1-3,1-2
+2009-02-14,Auxerre,Lille,2-0,2-0
+2009-02-14,Bordeaux,Grenoble,1-1,0-0
+2009-02-14,Caen,Lorient,1-1,1-0
+2009-02-14,Le Mans,Nice,1-2,0-0
+2009-02-14,Paris SG,St Etienne,2-1,2-1
+2009-02-14,Rennes,Nancy,1-1,0-0
+2009-02-14,Valenciennes,Nantes,1-1,1-0
+2009-02-15,Lyon,Le Havre,3-1,2-0
+2009-02-15,Monaco,Marseille,0-1,0-0
+2009-02-15,Sochaux,Toulouse,1-2,1-1
+2009-02-17,Le Mans,Lille,0-0,0-0
+2009-02-17,Nancy,Nice,1-2,0-0
+2009-02-17,Valenciennes,Caen,2-0,1-0
+2009-02-21,Grenoble,Paris SG,0-0,0-0
+2009-02-21,Le Havre,Auxerre,1-2,1-1
+2009-02-21,Lorient,Sochaux,1-2,1-0
+2009-02-21,Nancy,Lyon,0-2,0-1
+2009-02-21,Nantes,Caen,1-1,1-1
+2009-02-21,Nice,Rennes,0-1,0-0
+2009-02-21,Toulouse,Valenciennes,0-0,0-0
+2009-02-22,Lille,Monaco,2-1,1-0
+2009-02-22,Marseille,Le Mans,0-0,0-0
+2009-02-22,St Etienne,Bordeaux,1-1,0-0
+2009-02-28,Auxerre,Toulouse,1-1,1-0
+2009-02-28,Le Mans,Le Havre,2-0,0-0
+2009-02-28,Nantes,Grenoble,1-1,1-0
+2009-02-28,Sochaux,Nice,1-0,0-0
+2009-02-28,Valenciennes,Lille,2-0,2-0
+2009-03-01,Bordeaux,Lorient,1-0,0-0
+2009-03-01,Caen,Marseille,0-1,0-0
+2009-03-01,Lyon,Rennes,1-1,0-0
+2009-03-01,Monaco,St Etienne,2-2,1-1
+2009-03-01,Paris SG,Nancy,4-1,3-1
+2009-03-07,Grenoble,Caen,2-1,1-0
+2009-03-07,Lille,Lyon,2-0,0-0
+2009-03-07,Lorient,Paris SG,0-1,0-1
+2009-03-07,Marseille,Valenciennes,0-0,0-0
+2009-03-07,Nancy,Le Mans,2-2,1-1
+2009-03-07,Nice,Monaco,0-0,0-0
+2009-03-07,Toulouse,Bordeaux,3-0,2-0
+2009-03-08,Le Havre,Sochaux,2-1,1-1
+2009-03-08,Rennes,Auxerre,2-0,2-0
+2009-03-08,St Etienne,Nantes,2-1,2-1
+2009-03-14,Bordeaux,Nice,2-1,1-1
+2009-03-14,Caen,Lille,0-1,0-0
+2009-03-14,Le Mans,Rennes,2-2,2-0
+2009-03-14,Monaco,Toulouse,3-2,1-1
+2009-03-14,Nantes,Lorient,1-1,1-0
+2009-03-14,Sochaux,Nancy,2-1,1-1
+2009-03-14,Valenciennes,Le Havre,3-2,1-1
+2009-03-15,Grenoble,St Etienne,1-0,0-0
+2009-03-15,Lyon,Auxerre,0-2,0-1
+2009-03-15,Paris SG,Marseille,1-3,1-1
+2009-03-21,Auxerre,Le Mans,2-0,2-0
+2009-03-21,Le Havre,Bordeaux,0-3,0-1
+2009-03-21,Lille,Grenoble,2-1,2-0
+2009-03-21,Marseille,Nantes,2-0,0-0
+2009-03-21,Nancy,Monaco,0-1,0-0
+2009-03-21,Nice,Caen,2-2,1-0
+2009-03-21,Rennes,Valenciennes,0-0,0-0
+2009-03-22,Lorient,St Etienne,3-1,2-1
+2009-03-22,Lyon,Sochaux,2-0,1-0
+2009-03-22,Toulouse,Paris SG,4-1,3-0
+2009-04-04,Bordeaux,Nancy,1-0,0-0
+2009-04-04,Caen,Toulouse,0-0,0-0
+2009-04-04,Grenoble,Lorient,1-3,0-1
+2009-04-04,Le Mans,Lyon,1-3,0-2
+2009-04-04,Monaco,Le Havre,0-1,0-0
+2009-04-04,Nantes,Lille,0-2,0-1
+2009-04-04,Valenciennes,Auxerre,2-0,1-0
+2009-04-05,Paris SG,Nice,2-1,1-1
+2009-04-05,Sochaux,Rennes,3-0,2-0
+2009-04-05,St Etienne,Marseille,0-3,0-0
+2009-04-11,Auxerre,Bordeaux,0-2,0-1
+2009-04-11,Le Havre,Caen,1-2,1-1
+2009-04-11,Le Mans,Sochaux,2-0,1-0
+2009-04-11,Nancy,Valenciennes,2-0,0-0
+2009-04-11,Nice,Lorient,2-0,0-0
+2009-04-11,Rennes,St Etienne,1-0,0-0
+2009-04-11,Toulouse,Nantes,1-0,0-0
+2009-04-12,Lille,Paris SG,0-0,0-0
+2009-04-12,Lyon,Monaco,2-2,0-1
+2009-04-12,Marseille,Grenoble,4-1,0-0
+2009-04-18,Caen,Nancy,1-2,1-1
+2009-04-18,Grenoble,Toulouse,1-0,1-0
+2009-04-18,Monaco,Rennes,3-1,0-0
+2009-04-18,Nantes,Nice,2-0,1-0
+2009-04-18,Sochaux,Auxerre,0-1,0-0
+2009-04-18,St Etienne,Lille,2-1,0-0
+2009-04-18,Valenciennes,Le Mans,0-2,0-0
+2009-04-19,Bordeaux,Lyon,1-0,1-0
+2009-04-19,Lorient,Marseille,1-2,1-0
+2009-04-19,Paris SG,Le Havre,3-0,1-0
+2009-04-24,Lyon,Paris SG,0-0,0-0
+2009-04-26,Auxerre,Caen,2-1,0-0
+2009-04-26,Le Havre,Grenoble,0-1,0-1
+2009-04-26,Le Mans,Monaco,0-1,0-0
+2009-04-26,Lille,Marseille,1-2,0-0
+2009-04-26,Nancy,Nantes,2-0,0-0
+2009-04-26,Nice,St Etienne,3-1,2-0
+2009-04-26,Sochaux,Valenciennes,1-1,0-0
+2009-04-26,Toulouse,Lorient,1-1,0-0
+2009-04-29,Rennes,Bordeaux,2-3,1-0
+2009-05-02,Caen,Le Mans,3-1,1-1
+2009-05-02,Grenoble,Nice,0-0,0-0
+2009-05-02,Lorient,Lille,3-1,0-1
+2009-05-02,Marseille,Toulouse,2-2,0-0
+2009-05-02,Monaco,Auxerre,0-1,0-1
+2009-05-02,St Etienne,Nancy,0-0,0-0
+2009-05-02,Valenciennes,Lyon,2-0,2-0
+2009-05-03,Bordeaux,Sochaux,3-0,2-0
+2009-05-03,Nantes,Le Havre,1-2,1-1
+2009-05-03,Paris SG,Rennes,0-1,0-0
+2009-05-12,Lyon,Nantes,3-0,2-0
+2009-05-13,Auxerre,Grenoble,2-0,1-0
+2009-05-13,Le Havre,St Etienne,2-4,2-1
+2009-05-13,Le Mans,Paris SG,0-1,0-1
+2009-05-13,Nancy,Lorient,2-2,1-0
+2009-05-13,Nice,Marseille,0-2,0-1
+2009-05-13,Rennes,Caen,1-0,0-0
+2009-05-13,Sochaux,Monaco,3-0,1-0
+2009-05-13,Toulouse,Lille,0-0,0-0
+2009-05-13,Valenciennes,Bordeaux,1-2,1-1
+2009-05-16,Bordeaux,Le Mans,3-2,2-1
+2009-05-16,Caen,Sochaux,2-0,0-0
+2009-05-16,Grenoble,Nancy,0-0,0-0
+2009-05-16,Lorient,Le Havre,1-1,0-1
+2009-05-16,Monaco,Valenciennes,1-1,1-0
+2009-05-16,Paris SG,Auxerre,1-2,0-2
+2009-05-16,St Etienne,Toulouse,2-2,1-0
+2009-05-17,Lille,Nice,1-1,0-1
+2009-05-17,Marseille,Lyon,1-3,0-2
+2009-05-17,Nantes,Rennes,1-1,1-0
+2009-05-23,Auxerre,St Etienne,1-0,0-0
+2009-05-23,Bordeaux,Monaco,1-0,1-0
+2009-05-23,Le Havre,Lille,0-1,0-0
+2009-05-23,Le Mans,Grenoble,1-1,0-0
+2009-05-23,Lyon,Caen,3-1,1-0
+2009-05-23,Nancy,Marseille,1-2,0-1
+2009-05-23,Nice,Toulouse,0-2,0-2
+2009-05-23,Rennes,Lorient,3-1,2-0
+2009-05-23,Sochaux,Nantes,2-1,2-0
+2009-05-23,Valenciennes,Paris SG,2-1,0-1
+2009-05-30,Caen,Bordeaux,0-1,0-0
+2009-05-30,Grenoble,Sochaux,0-1,0-1
+2009-05-30,Lille,Nancy,3-2,2-1
+2009-05-30,Lorient,Le Mans,1-1,1-1
+2009-05-30,Marseille,Rennes,4-0,0-0
+2009-05-30,Nantes,Auxerre,2-1,1-0
+2009-05-30,Nice,Le Havre,0-0,0-0
+2009-05-30,Paris SG,Monaco,0-0,0-0
+2009-05-30,St Etienne,Valenciennes,4-0,1-0
+2009-05-30,Toulouse,Lyon,0-0,0-0
