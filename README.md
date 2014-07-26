@@ -9,7 +9,7 @@ Note: The French Division 1 and Division 2 changed
 to Ligue 1 and Ligue 2 starting with the 2002/03 season.
 
 
-Example - [`2013-14/ligue1.csv`](2013-14/ligue1.csv):
+Example - [`2013-14/ligue1.csv`](2013-14/1-ligue1.csv):
 
 ~~~
 2013-08-09,Montpellier,Paris SG,1-1,1-0
