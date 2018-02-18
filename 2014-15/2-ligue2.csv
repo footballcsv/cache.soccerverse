@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2014-08-01,Ajaccio GFCO,Valenciennes,2-0,1-0
+2014-08-01,Arles,Ajaccio,0-0,0-0
+2014-08-01,Auxerre,Le Havre,2-0,1-0
+2014-08-01,Chateauroux,Troyes,0-1,0-1
+2014-08-01,Laval,Niort,1-1,0-0
+2014-08-01,Nancy,Dijon,1-1,0-0
+2014-08-01,Nimes,Angers,3-2,3-1
+2014-08-01,Tours,Creteil,4-2,2-1
+2014-08-02,Sochaux,Orleans,0-1,0-0
+2014-08-04,Brest,Clermont,2-1,0-1
+2014-08-08,Angers,Arles,2-0,1-0
+2014-08-08,Clermont,Auxerre,1-1,1-1
+2014-08-08,Creteil,Chateauroux,3-0,0-0
+2014-08-08,Dijon,Laval,1-0,0-0
+2014-08-08,Le Havre,Ajaccio GFCO,1-1,0-0
+2014-08-08,Niort,Brest,0-0,0-0
+2014-08-08,Orleans,Nancy,0-1,0-1
+2014-08-08,Troyes,Tours,1-0,0-0
+2014-08-09,Ajaccio,Sochaux,0-2,0-2
+2014-08-09,Valenciennes,Nimes,2-2,1-0
+2014-08-15,Auxerre,Orleans,0-1,0-1
+2014-08-15,Chateauroux,Clermont,3-2,0-1
+2014-08-15,Laval,Creteil,1-1,0-0
+2014-08-15,Nancy,Arles,1-1,0-0
+2014-08-15,Nimes,Dijon,2-2,1-1
+2014-08-15,Niort,Le Havre,1-0,1-0
+2014-08-15,Tours,Valenciennes,1-0,1-0
+2014-08-16,Brest,Angers,0-0,0-0
+2014-08-18,Ajaccio GFCO,Ajaccio,0-2,0-2
+2014-08-18,Sochaux,Troyes,0-2,0-1
+2014-08-22,Ajaccio,Tours,1-0,0-0
+2014-08-22,Angers,Chateauroux,1-1,0-1
+2014-08-22,Arles,Sochaux,2-2,0-0
+2014-08-22,Clermont,Ajaccio GFCO,3-4,0-0
+2014-08-22,Creteil,Niort,1-1,1-0
+2014-08-22,Nancy,Nimes,0-0,0-0
+2014-08-22,Orleans,Brest,1-0,1-0
+2014-08-22,Troyes,Laval,0-0,0-0
+2014-08-22,Valenciennes,Le Havre,0-4,0-3
+2014-08-23,Dijon,Auxerre,1-0,1-0
+2014-08-29,Ajaccio GFCO,Troyes,0-4,0-3
+2014-08-29,Auxerre,Valenciennes,1-2,0-1
+2014-08-29,Chateauroux,Orleans,0-0,0-0
+2014-08-29,Laval,Ajaccio,0-0,0-0
+2014-08-29,Le Havre,Creteil,1-1,1-1
+2014-08-29,Nimes,Arles,2-2,1-1
+2014-08-29,Niort,Clermont,0-0,0-0
+2014-08-29,Sochaux,Dijon,0-1,0-0
+2014-08-30,Tours,Angers,1-2,1-0
+2014-09-01,Brest,Nancy,2-0,1-0
+2014-09-12,Ajaccio,Chateauroux,1-1,0-1
+2014-09-12,Angers,Ajaccio GFCO,2-0,2-0
+2014-09-12,Arles,Tours,1-0,1-0
+2014-09-12,Clermont,Le Havre,1-0,0-0
+2014-09-12,Dijon,Niort,1-0,0-0
+2014-09-12,Nimes,Brest,0-0,0-0
+2014-09-12,Orleans,Laval,1-1,0-1
+2014-09-12,Valenciennes,Creteil,1-1,1-1
+2014-09-13,Nancy,Sochaux,1-1,1-0
+2014-09-15,Troyes,Auxerre,1-2,0-1
+2014-09-19,Ajaccio GFCO,Dijon,2-0,2-0
+2014-09-19,Auxerre,Ajaccio,1-1,1-1
+2014-09-19,Brest,Arles,1-0,1-0
+2014-09-19,Chateauroux,Nancy,2-5,0-2
+2014-09-19,Creteil,Clermont,2-2,0-1
+2014-09-19,Laval,Angers,3-2,1-1
+2014-09-19,Niort,Valenciennes,3-0,1-0
+2014-09-19,Sochaux,Nimes,2-0,1-0
+2014-09-19,Tours,Orleans,4-3,3-2
+2014-09-20,Le Havre,Troyes,3-2,1-1
+2014-09-22,Valenciennes,Clermont,2-1,0-0
+2014-09-23,Ajaccio,Le Havre,0-1,0-1
+2014-09-23,Angers,Auxerre,0-0,0-0
+2014-09-23,Arles,Laval,2-3,0-3
+2014-09-23,Dijon,Creteil,2-1,1-0
+2014-09-23,Nancy,Tours,2-1,1-0
+2014-09-23,Nimes,Chateauroux,1-0,1-0
+2014-09-23,Orleans,Ajaccio GFCO,0-1,0-0
+2014-09-23,Sochaux,Brest,0-0,0-0
+2014-09-23,Troyes,Niort,4-1,1-0
+2014-09-26,Ajaccio GFCO,Nimes,2-0,2-0
+2014-09-26,Auxerre,Arles,2-1,1-1
+2014-09-26,Chateauroux,Brest,1-1,1-1
+2014-09-26,Creteil,Ajaccio,3-2,1-0
+2014-09-26,Laval,Nancy,1-1,1-1
+2014-09-26,Le Havre,Dijon,1-0,1-0
+2014-09-26,Niort,Angers,2-1,0-1
+2014-09-26,Tours,Sochaux,0-1,0-0
+2014-09-26,Valenciennes,Orleans,2-0,0-0
+2014-09-29,Clermont,Troyes,1-0,1-0
+2014-10-03,Ajaccio,Niort,0-0,0-0
+2014-10-03,Angers,Creteil,3-0,1-0
+2014-10-03,Arles,Chateauroux,0-1,0-1
+2014-10-03,Dijon,Clermont,1-0,1-0
+2014-10-03,Nancy,Ajaccio GFCO,1-0,1-0
+2014-10-03,Nimes,Laval,0-0,0-0
+2014-10-03,Orleans,Le Havre,2-2,0-1
+2014-10-03,Sochaux,Auxerre,0-0,0-0
+2014-10-04,Troyes,Valenciennes,0-0,0-0
+2014-10-06,Brest,Tours,2-0,1-0
+2014-10-17,Ajaccio GFCO,Arles,3-1,3-1
+2014-10-17,Auxerre,Nancy,2-2,1-1
+2014-10-17,Chateauroux,Sochaux,1-4,0-1
+2014-10-17,Clermont,Ajaccio,1-1,1-0
+2014-10-17,Laval,Brest,2-2,0-0
+2014-10-17,Le Havre,Angers,1-0,1-0
+2014-10-17,Niort,Orleans,1-1,0-0
+2014-10-17,Tours,Nimes,1-2,0-0
+2014-10-18,Creteil,Troyes,1-1,0-0
+2014-10-20,Valenciennes,Dijon,0-3,0-1
+2014-10-24,Ajaccio,Valenciennes,2-1,1-1
+2014-10-24,Angers,Clermont,3-0,1-0
+2014-10-24,Arles,Niort,1-0,0-0
+2014-10-24,Brest,Ajaccio GFCO,3-0,0-0
+2014-10-24,Chateauroux,Tours,2-1,0-1
+2014-10-24,Nimes,Auxerre,0-1,0-1
+2014-10-24,Orleans,Creteil,1-1,0-0
+2014-10-24,Sochaux,Laval,1-1,1-0
+2014-10-25,Troyes,Dijon,1-0,0-0
+2014-10-27,Nancy,Le Havre,2-1,0-1
+2014-10-31,Ajaccio GFCO,Chateauroux,1-0,1-0
+2014-10-31,Auxerre,Brest,0-3,0-1
+2014-10-31,Clermont,Nimes,3-0,2-0
+2014-10-31,Creteil,Sochaux,1-2,0-0
+2014-10-31,Dijon,Ajaccio,3-0,0-0
+2014-10-31,Laval,Tours,2-1,0-0
+2014-10-31,Le Havre,Arles,2-0,0-0
+2014-10-31,Troyes,Orleans,1-0,1-0
+2014-11-01,Niort,Nancy,1-4,0-2
+2014-11-03,Valenciennes,Angers,1-0,0-0
+2014-11-07,Ajaccio,Troyes,2-1,0-1
+2014-11-07,Angers,Dijon,1-0,0-0
+2014-11-07,Arles,Valenciennes,1-2,1-1
+2014-11-07,Chateauroux,Laval,1-1,0-1
+2014-11-07,Nimes,Niort,3-2,1-2
+2014-11-07,Orleans,Clermont,2-1,2-0
+2014-11-07,Sochaux,Ajaccio GFCO,2-1,2-0
+2014-11-07,Tours,Auxerre,2-3,2-1
+2014-11-08,Brest,Le Havre,1-0,1-0
+2014-11-10,Nancy,Creteil,3-1,1-1
+2014-11-21,Ajaccio,Angers,1-1,0-0
+2014-11-21,Ajaccio GFCO,Laval,1-0,0-0
+2014-11-21,Auxerre,Chateauroux,3-1,2-0
+2014-11-21,Clermont,Arles,3-1,3-1
+2014-11-21,Creteil,Nimes,2-0,2-0
+2014-11-21,Dijon,Orleans,2-1,1-0
+2014-11-21,Niort,Tours,1-1,0-1
+2014-11-21,Valenciennes,Brest,0-1,0-0
+2014-11-22,Le Havre,Sochaux,1-1,1-1
+2014-11-24,Troyes,Nancy,1-0,0-0
+2014-11-28,Arles,Dijon,0-2,0-1
+2014-11-28,Brest,Creteil,2-2,0-1
+2014-11-28,Chateauroux,Niort,0-1,0-1
+2014-11-28,Laval,Auxerre,1-1,0-0
+2014-11-28,Nimes,Le Havre,3-3,1-1
+2014-11-28,Orleans,Ajaccio,1-1,1-1
+2014-11-28,Sochaux,Clermont,1-0,0-0
+2014-11-28,Tours,Ajaccio GFCO,2-1,1-0
+2014-11-29,Angers,Troyes,0-3,0-1
+2014-12-01,Nancy,Valenciennes,0-1,0-0
+2014-12-12,Ajaccio,Nancy,2-0,2-0
+2014-12-12,Ajaccio GFCO,Auxerre,1-1,0-0
+2014-12-12,Clermont,Tours,2-2,1-1
+2014-12-12,Creteil,Arles,2-0,0-0
+2014-12-12,Le Havre,Laval,0-1,0-0
+2014-12-12,Niort,Sochaux,0-1,0-0
+2014-12-12,Orleans,Angers,2-3,2-3
+2014-12-12,Valenciennes,Chateauroux,1-0,1-0
+2014-12-13,Dijon,Brest,1-0,0-0
+2014-12-15,Troyes,Nimes,2-0,0-0
+2014-12-18,Sochaux,Angers,1-1,0-0
+2014-12-19,Auxerre,Niort,1-1,0-1
+2014-12-19,Chateauroux,Dijon,1-1,0-1
+2014-12-19,Laval,Valenciennes,3-1,1-1
+2014-12-19,Nancy,Clermont,1-2,1-2
+2014-12-19,Nimes,Orleans,0-1,0-0
+2014-12-19,Tours,Le Havre,3-2,2-1
+2014-12-20,Ajaccio GFCO,Creteil,2-0,1-0
+2014-12-20,Arles,Troyes,0-4,0-0
+2014-12-20,Brest,Ajaccio,2-1,1-0
+2015-01-09,Ajaccio,Nimes,0-1,0-0
+2015-01-09,Angers,Nancy,3-1,2-1
+2015-01-09,Clermont,Laval,0-0,0-0
+2015-01-09,Creteil,Auxerre,2-2,2-1
+2015-01-09,Dijon,Tours,0-3,0-1
+2015-01-09,Le Havre,Chateauroux,1-1,0-0
+2015-01-09,Niort,Ajaccio GFCO,1-1,0-1
+2015-01-09,Orleans,Arles,1-1,1-0
+2015-01-10,Troyes,Brest,1-0,1-0
+2015-01-12,Valenciennes,Sochaux,1-2,1-2
+2015-01-16,Ajaccio GFCO,Le Havre,1-0,0-0
+2015-01-16,Arles,Angers,1-3,0-0
+2015-01-16,Auxerre,Clermont,1-1,0-1
+2015-01-16,Brest,Niort,0-0,0-0
+2015-01-16,Chateauroux,Creteil,2-2,1-1
+2015-01-16,Laval,Dijon,1-0,0-0
+2015-01-16,Nimes,Valenciennes,2-0,0-0
+2015-01-16,Tours,Troyes,0-2,0-1
+2015-01-17,Sochaux,Ajaccio,1-1,0-0
+2015-01-19,Nancy,Orleans,2-2,0-1
+2015-01-23,Ajaccio,Ajaccio GFCO,0-3,0-1
+2015-01-23,Arles,Nancy,1-0,0-0
+2015-01-23,Creteil,Laval,1-0,0-0
+2015-01-23,Dijon,Nimes,4-5,2-2
+2015-01-23,Le Havre,Niort,1-1,0-0
+2015-01-23,Orleans,Auxerre,0-0,0-0
+2015-01-24,Clermont,Chateauroux,3-3,1-1
+2015-01-24,Troyes,Sochaux,2-0,0-0
+2015-01-24,Valenciennes,Tours,1-2,0-2
+2015-01-26,Angers,Brest,1-2,0-1
+2015-01-30,Ajaccio GFCO,Clermont,1-1,1-0
+2015-01-30,Brest,Orleans,1-1,1-0
+2015-01-30,Chateauroux,Angers,0-1,0-0
+2015-01-30,Laval,Troyes,2-1,1-0
+2015-01-30,Nimes,Nancy,1-1,1-1
+2015-01-30,Niort,Creteil,1-3,0-1
+2015-01-30,Sochaux,Arles,1-0,1-0
+2015-01-30,Tours,Ajaccio,0-2,0-2
+2015-01-31,Auxerre,Dijon,3-0,0-0
+2015-02-02,Le Havre,Valenciennes,3-1,2-0
+2015-02-06,Ajaccio,Laval,0-0,0-0
+2015-02-06,Angers,Tours,2-0,0-0
+2015-02-06,Arles,Nimes,0-1,0-0
+2015-02-06,Clermont,Niort,1-1,1-1
+2015-02-06,Creteil,Le Havre,0-0,0-0
+2015-02-06,Orleans,Chateauroux,1-0,0-0
+2015-02-06,Troyes,Ajaccio GFCO,1-1,0-1
+2015-02-06,Valenciennes,Auxerre,1-2,1-0
+2015-02-07,Dijon,Sochaux,1-0,0-0
+2015-02-09,Nancy,Brest,2-1,0-1
+2015-02-13,Ajaccio GFCO,Angers,1-0,0-0
+2015-02-13,Auxerre,Troyes,0-1,0-1
+2015-02-13,Chateauroux,Ajaccio,0-0,0-0
+2015-02-13,Creteil,Valenciennes,0-0,0-0
+2015-02-13,Laval,Orleans,1-1,1-1
+2015-02-13,Le Havre,Clermont,3-1,2-0
+2015-02-13,Niort,Dijon,1-1,1-0
+2015-02-13,Tours,Arles,2-2,1-2
+2015-02-14,Sochaux,Nancy,0-2,0-2
+2015-02-16,Brest,Nimes,3-1,1-0
+2015-02-20,Ajaccio,Auxerre,1-1,1-1
+2015-02-20,Angers,Laval,2-0,1-0
+2015-02-20,Arles,Brest,1-0,1-0
+2015-02-20,Clermont,Creteil,1-0,0-0
+2015-02-20,Dijon,Ajaccio GFCO,1-1,1-1
+2015-02-20,Nancy,Chateauroux,6-0,4-0
+2015-02-20,Orleans,Tours,2-1,2-1
+2015-02-20,Valenciennes,Niort,1-3,0-2
+2015-02-21,Troyes,Le Havre,2-2,2-1
+2015-02-23,Nimes,Sochaux,2-1,0-0
+2015-02-27,Ajaccio GFCO,Orleans,3-2,1-0
+2015-02-27,Chateauroux,Nimes,2-1,2-0
+2015-02-27,Clermont,Valenciennes,0-0,0-0
+2015-02-27,Creteil,Dijon,0-2,0-1
+2015-02-27,Laval,Arles,1-0,1-0
+2015-02-27,Le Havre,Ajaccio,2-1,0-1
+2015-02-27,Niort,Troyes,1-0,1-0
+2015-02-27,Tours,Nancy,1-1,0-0
+2015-02-28,Brest,Sochaux,1-1,1-0
+2015-03-02,Auxerre,Angers,0-1,0-0
+2015-03-06,Ajaccio,Creteil,0-1,0-1
+2015-03-06,Angers,Niort,0-0,0-0
+2015-03-06,Nancy,Laval,1-1,1-0
+2015-03-06,Nimes,Ajaccio GFCO,2-0,2-0
+2015-03-06,Orleans,Valenciennes,0-1,0-1
+2015-03-06,Sochaux,Tours,2-1,0-1
+2015-03-06,Troyes,Clermont,2-0,1-0
+2015-03-07,Dijon,Le Havre,1-1,1-1
+2015-03-09,Arles,Auxerre,2-4,0-2
+2015-03-09,Brest,Chateauroux,3-0,2-0
+2015-03-13,Ajaccio GFCO,Nancy,1-0,0-0
+2015-03-13,Chateauroux,Arles,1-2,1-0
+2015-03-13,Clermont,Dijon,2-5,1-3
+2015-03-13,Creteil,Angers,0-1,0-1
+2015-03-13,Laval,Nimes,0-1,0-0
+2015-03-13,Le Havre,Orleans,3-1,1-1
+2015-03-13,Niort,Ajaccio,1-0,1-0
+2015-03-13,Tours,Brest,1-1,1-0
+2015-03-14,Auxerre,Sochaux,1-0,1-0
+2015-03-16,Valenciennes,Troyes,1-1,1-0
+2015-03-20,Ajaccio,Clermont,1-2,0-1
+2015-03-20,Angers,Le Havre,1-0,1-0
+2015-03-20,Arles,Ajaccio GFCO,0-0,0-0
+2015-03-20,Dijon,Valenciennes,1-1,1-1
+2015-03-20,Nimes,Tours,3-2,1-1
+2015-03-20,Orleans,Niort,0-0,0-0
+2015-03-20,Sochaux,Chateauroux,3-0,1-0
+2015-03-20,Troyes,Creteil,2-0,1-0
+2015-03-21,Brest,Laval,0-0,0-0
+2015-03-23,Nancy,Auxerre,2-1,1-0
+2015-04-03,Auxerre,Nimes,3-1,0-1
+2015-04-03,Clermont,Angers,2-0,0-0
+2015-04-03,Creteil,Orleans,1-0,1-0
+2015-04-03,Laval,Sochaux,2-2,1-0
+2015-04-03,Le Havre,Nancy,0-1,0-1
+2015-04-03,Niort,Arles,1-1,1-0
+2015-04-03,Tours,Chateauroux,1-0,0-0
+2015-04-03,Valenciennes,Ajaccio,1-1,1-0
+2015-04-04,Dijon,Troyes,0-1,0-0
+2015-04-06,Ajaccio GFCO,Brest,1-1,1-1
+2015-04-10,Ajaccio,Dijon,1-0,0-0
+2015-04-10,Arles,Le Havre,0-1,0-0
+2015-04-10,Chateauroux,Ajaccio GFCO,0-2,0-0
+2015-04-10,Nancy,Niort,1-2,0-1
+2015-04-10,Nimes,Clermont,0-1,0-0
+2015-04-10,Orleans,Troyes,0-1,0-0
+2015-04-10,Sochaux,Creteil,2-1,0-1
+2015-04-10,Tours,Laval,1-1,0-0
+2015-04-11,Brest,Auxerre,0-1,0-0
+2015-04-13,Angers,Valenciennes,0-0,0-0
+2015-04-17,Ajaccio GFCO,Sochaux,3-0,2-0
+2015-04-17,Auxerre,Tours,2-3,1-2
+2015-04-17,Clermont,Orleans,1-0,1-0
+2015-04-17,Creteil,Nancy,1-1,0-0
+2015-04-17,Laval,Chateauroux,1-0,1-0
+2015-04-17,Niort,Nimes,3-2,0-0
+2015-04-17,Troyes,Ajaccio,2-0,1-0
+2015-04-17,Valenciennes,Arles,3-0,0-0
+2015-04-18,Dijon,Angers,1-1,1-0
+2015-04-20,Le Havre,Brest,1-1,0-0
+2015-04-24,Angers,Ajaccio,1-0,1-0
+2015-04-24,Arles,Clermont,0-0,0-0
+2015-04-24,Brest,Valenciennes,1-0,1-0
+2015-04-24,Chateauroux,Auxerre,2-1,1-0
+2015-04-24,Laval,Ajaccio GFCO,0-2,0-1
+2015-04-24,Nancy,Troyes,2-0,1-0
+2015-04-24,Nimes,Creteil,0-1,0-0
+2015-04-24,Sochaux,Le Havre,0-1,0-0
+2015-04-24,Tours,Niort,1-0,1-0
+2015-04-25,Orleans,Dijon,0-1,0-0
+2015-04-27,Clermont,Sochaux,0-0,0-0
+2015-04-28,Ajaccio,Orleans,2-3,2-0
+2015-04-28,Ajaccio GFCO,Tours,1-1,1-0
+2015-04-28,Auxerre,Laval,1-1,1-1
+2015-04-28,Creteil,Brest,2-1,1-1
+2015-04-28,Dijon,Arles,1-0,0-0
+2015-04-28,Le Havre,Nimes,2-0,0-0
+2015-04-28,Niort,Chateauroux,3-0,0-0
+2015-04-28,Troyes,Angers,2-1,0-1
+2015-04-28,Valenciennes,Nancy,1-1,1-0
+2015-05-01,Angers,Orleans,2-1,1-1
+2015-05-01,Arles,Creteil,2-0,2-0
+2015-05-01,Auxerre,Ajaccio GFCO,0-0,0-0
+2015-05-01,Chateauroux,Valenciennes,3-0,1-0
+2015-05-01,Laval,Le Havre,1-1,0-0
+2015-05-01,Nancy,Ajaccio,2-0,1-0
+2015-05-01,Sochaux,Niort,2-3,2-2
+2015-05-01,Tours,Clermont,0-1,0-0
+2015-05-02,Nimes,Troyes,1-2,1-1
+2015-05-04,Brest,Dijon,0-0,0-0
+2015-05-08,Ajaccio,Brest,2-1,2-0
+2015-05-08,Clermont,Nancy,0-1,0-0
+2015-05-08,Dijon,Chateauroux,0-1,0-1
+2015-05-08,Le Havre,Tours,0-1,0-0
+2015-05-08,Niort,Auxerre,1-1,0-0
+2015-05-08,Orleans,Nimes,1-1,0-0
+2015-05-08,Troyes,Arles,4-0,3-0
+2015-05-08,Valenciennes,Laval,2-2,0-1
+2015-05-09,Creteil,Ajaccio GFCO,1-1,1-1
+2015-05-11,Angers,Sochaux,0-0,0-0
+2015-05-15,Ajaccio GFCO,Niort,3-2,2-0
+2015-05-15,Arles,Orleans,4-1,2-1
+2015-05-15,Auxerre,Creteil,2-2,2-0
+2015-05-15,Brest,Troyes,2-1,1-0
+2015-05-15,Chateauroux,Le Havre,0-0,0-0
+2015-05-15,Laval,Clermont,3-1,0-1
+2015-05-15,Nancy,Angers,0-0,0-0
+2015-05-15,Nimes,Ajaccio,1-1,0-1
+2015-05-15,Sochaux,Valenciennes,1-1,0-1
+2015-05-15,Tours,Dijon,0-0,0-0
+2015-05-22,Ajaccio,Arles,2-1,1-0
+2015-05-22,Angers,Nimes,3-0,1-0
+2015-05-22,Clermont,Brest,1-0,1-0
+2015-05-22,Creteil,Tours,1-4,1-1
+2015-05-22,Dijon,Nancy,3-1,2-1
+2015-05-22,Le Havre,Auxerre,2-1,1-0
+2015-05-22,Niort,Laval,0-3,0-3
+2015-05-22,Orleans,Sochaux,1-0,1-0
+2015-05-22,Troyes,Chateauroux,4-1,1-1
+2015-05-22,Valenciennes,Ajaccio GFCO,2-1,0-1
