@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2014-08-08,Reims,Paris SG,2-2,2-1
+2014-08-09,Bastia,Marseille,3-3,1-2
+2014-08-09,Evian Thonon Gaillard,Caen,0-3,0-3
+2014-08-09,Guingamp,St Etienne,0-2,0-1
+2014-08-09,Lille,Metz,0-0,0-0
+2014-08-09,Montpellier,Bordeaux,0-1,0-1
+2014-08-09,Nantes,Lens,1-0,0-0
+2014-08-09,Nice,Toulouse,3-2,1-2
+2014-08-10,Lyon,Rennes,2-0,0-0
+2014-08-10,Monaco,Lorient,1-2,0-1
+2014-08-15,Caen,Lille,0-1,0-0
+2014-08-16,Lens,Guingamp,0-1,0-0
+2014-08-16,Lorient,Nice,0-0,0-0
+2014-08-16,Metz,Nantes,1-1,1-1
+2014-08-16,Paris SG,Bastia,2-0,1-0
+2014-08-16,Rennes,Evian Thonon Gaillard,6-2,3-1
+2014-08-16,Toulouse,Lyon,2-1,2-0
+2014-08-17,Bordeaux,Monaco,4-1,0-1
+2014-08-17,Marseille,Montpellier,0-2,0-1
+2014-08-17,St Etienne,Reims,3-1,0-1
+2014-08-22,Evian Thonon Gaillard,Paris SG,0-0,0-0
+2014-08-23,Bastia,Toulouse,1-0,1-0
+2014-08-23,Guingamp,Marseille,0-1,0-0
+2014-08-23,Lille,Lorient,2-0,0-0
+2014-08-23,Montpellier,Metz,2-0,1-0
+2014-08-23,Nice,Bordeaux,1-3,1-1
+2014-08-23,Reims,Caen,0-2,0-0
+2014-08-24,Lyon,Lens,0-1,0-1
+2014-08-24,Nantes,Monaco,0-1,0-1
+2014-08-24,St Etienne,Rennes,0-0,0-0
+2014-08-29,Marseille,Nice,4-0,2-0
+2014-08-30,Caen,Rennes,0-1,0-0
+2014-08-30,Lens,Reims,4-2,1-1
+2014-08-30,Lorient,Guingamp,4-0,0-0
+2014-08-30,Monaco,Lille,1-1,0-1
+2014-08-30,Nantes,Montpellier,1-0,0-0
+2014-08-30,Toulouse,Evian Thonon Gaillard,1-0,0-0
+2014-08-31,Bordeaux,Bastia,1-1,0-1
+2014-08-31,Metz,Lyon,2-1,0-0
+2014-08-31,Paris SG,St Etienne,5-0,2-0
+2014-09-12,Lyon,Monaco,2-1,1-1
+2014-09-13,Bastia,Lens,1-1,0-1
+2014-09-13,Montpellier,Lorient,1-0,1-0
+2014-09-13,Nice,Metz,1-0,0-0
+2014-09-13,Reims,Toulouse,2-0,1-0
+2014-09-13,Rennes,Paris SG,1-1,0-1
+2014-09-13,St Etienne,Caen,1-0,0-0
+2014-09-14,Evian Thonon Gaillard,Marseille,1-3,0-2
+2014-09-14,Guingamp,Bordeaux,2-1,2-0
+2014-09-14,Lille,Nantes,2-0,0-0
+2014-09-19,Bordeaux,Evian Thonon Gaillard,2-1,1-0
+2014-09-20,Lorient,Reims,0-1,0-0
+2014-09-20,Marseille,Rennes,3-0,0-0
+2014-09-20,Metz,Bastia,3-1,1-1
+2014-09-20,Nantes,Nice,2-1,2-0
+2014-09-20,Toulouse,Caen,3-3,1-1
+2014-09-21,Lens,St Etienne,0-1,0-0
+2014-09-21,Lille,Montpellier,0-0,0-0
+2014-09-21,Monaco,Guingamp,1-0,1-0
+2014-09-21,Paris SG,Lyon,1-1,1-0
+2014-09-23,Reims,Marseille,0-5,0-2
+2014-09-23,Rennes,Toulouse,0-3,0-1
+2014-09-24,Bastia,Nantes,0-0,0-0
+2014-09-24,Caen,Paris SG,0-2,0-1
+2014-09-24,Evian Thonon Gaillard,Lens,2-1,2-0
+2014-09-24,Guingamp,Metz,0-1,0-1
+2014-09-24,Lyon,Lorient,4-0,2-0
+2014-09-24,Montpellier,Monaco,0-1,0-0
+2014-09-24,Nice,Lille,1-0,1-0
+2014-09-25,St Etienne,Bordeaux,1-1,1-1
+2014-09-27,Lille,Bastia,1-0,1-0
+2014-09-27,Lorient,Evian Thonon Gaillard,0-2,0-1
+2014-09-27,Metz,Reims,3-0,0-0
+2014-09-27,Monaco,Nice,0-1,0-1
+2014-09-27,Montpellier,Guingamp,2-1,0-0
+2014-09-27,Toulouse,Paris SG,1-1,1-1
+2014-09-28,Bordeaux,Rennes,2-1,0-0
+2014-09-28,Lens,Caen,0-0,0-0
+2014-09-28,Marseille,St Etienne,2-1,2-0
+2014-09-28,Nantes,Lyon,1-1,0-0
+2014-10-03,Reims,Bordeaux,1-0,1-0
+2014-10-04,Bastia,Lorient,0-2,0-0
+2014-10-04,Caen,Marseille,1-2,0-0
+2014-10-04,Evian Thonon Gaillard,Metz,3-0,0-0
+2014-10-04,Nice,Montpellier,1-1,0-0
+2014-10-04,Rennes,Lens,2-0,0-0
+2014-10-05,Guingamp,Nantes,0-1,0-1
+2014-10-05,Lyon,Lille,3-0,2-0
+2014-10-05,Paris SG,Monaco,1-1,0-0
+2014-10-05,St Etienne,Toulouse,0-1,0-1
+2014-10-17,Lens,Paris SG,1-3,1-2
+2014-10-18,Lille,Guingamp,1-2,0-1
+2014-10-18,Lorient,St Etienne,0-1,0-0
+2014-10-18,Metz,Rennes,0-0,0-0
+2014-10-18,Monaco,Evian Thonon Gaillard,2-0,1-0
+2014-10-18,Nantes,Reims,1-1,1-0
+2014-10-18,Nice,Bastia,0-1,0-0
+2014-10-19,Bordeaux,Caen,1-1,1-0
+2014-10-19,Lyon,Montpellier,5-1,2-0
+2014-10-19,Marseille,Toulouse,2-0,2-0
+2014-10-24,Toulouse,Lens,0-2,0-2
+2014-10-25,Bastia,Monaco,1-3,1-1
+2014-10-25,Caen,Lorient,2-1,1-1
+2014-10-25,Evian Thonon Gaillard,Nantes,0-2,0-1
+2014-10-25,Paris SG,Bordeaux,3-0,1-0
+2014-10-25,Reims,Montpellier,1-0,0-0
+2014-10-26,Guingamp,Nice,2-7,1-4
+2014-10-26,Lyon,Marseille,1-0,0-0
+2014-10-26,Rennes,Lille,2-0,0-0
+2014-10-26,St Etienne,Metz,1-0,0-0
+2014-10-31,Monaco,Reims,1-1,1-0
+2014-11-01,Guingamp,Bastia,1-0,1-0
+2014-11-01,Lille,St Etienne,1-1,1-0
+2014-11-01,Lorient,Paris SG,1-2,1-0
+2014-11-01,Metz,Caen,3-2,1-0
+2014-11-01,Montpellier,Evian Thonon Gaillard,2-0,1-0
+2014-11-01,Nice,Lyon,1-3,0-0
+2014-11-02,Bordeaux,Toulouse,2-1,0-0
+2014-11-02,Marseille,Lens,2-1,1-1
+2014-11-02,Nantes,Rennes,1-1,1-1
+2014-11-07,Rennes,Lorient,1-0,0-0
+2014-11-08,Bastia,Montpellier,2-0,2-0
+2014-11-08,Caen,Nantes,1-2,1-1
+2014-11-08,Evian Thonon Gaillard,Nice,1-0,0-0
+2014-11-08,Lens,Bordeaux,1-2,0-2
+2014-11-08,Toulouse,Metz,3-0,1-0
+2014-11-09,Lyon,Guingamp,3-1,2-1
+2014-11-09,Paris SG,Marseille,2-0,1-0
+2014-11-09,Reims,Lille,2-0,2-0
+2014-11-09,St Etienne,Monaco,1-1,0-1
+2014-11-21,Metz,Paris SG,2-3,0-2
+2014-11-22,Bastia,Lyon,0-0,0-0
+2014-11-22,Guingamp,Rennes,0-1,0-1
+2014-11-22,Lorient,Lens,1-0,1-0
+2014-11-22,Monaco,Caen,2-2,1-0
+2014-11-22,Nice,Reims,0-0,0-0
+2014-11-23,Marseille,Bordeaux,3-1,0-0
+2014-11-23,Montpellier,Toulouse,2-0,1-0
+2014-11-23,Nantes,St Etienne,0-0,0-0
+2014-11-28,Marseille,Nantes,2-0,2-0
+2014-11-29,Caen,Montpellier,1-1,1-1
+2014-11-29,Lens,Metz,2-0,0-0
+2014-11-29,Paris SG,Nice,1-0,1-0
+2014-11-29,Reims,Bastia,2-1,1-1
+2014-11-29,Rennes,Monaco,2-0,2-0
+2014-11-29,Toulouse,Lorient,2-3,1-0
+2014-11-30,Bordeaux,Lille,1-0,0-0
+2014-11-30,Evian Thonon Gaillard,Guingamp,2-0,0-0
+2014-11-30,St Etienne,Lyon,3-0,2-0
+2014-12-02,Lorient,Marseille,1-1,1-1
+2014-12-02,Monaco,Lens,2-0,0-0
+2014-12-02,Nantes,Toulouse,1-2,0-1
+2014-12-03,Bastia,Evian Thonon Gaillard,1-2,1-0
+2014-12-03,Guingamp,Caen,5-1,2-1
+2014-12-03,Lille,Paris SG,1-1,1-1
+2014-12-03,Metz,Bordeaux,0-0,0-0
+2014-12-03,Montpellier,St Etienne,0-2,0-2
+2014-12-03,Nice,Rennes,1-2,0-1
+2014-12-04,Lyon,Reims,2-1,1-1
+2014-12-05,Toulouse,Monaco,0-2,0-1
+2014-12-06,Bordeaux,Lorient,3-2,1-1
+2014-12-06,Caen,Nice,2-3,2-1
+2014-12-06,Paris SG,Nantes,2-1,1-1
+2014-12-06,Rennes,Montpellier,0-4,0-1
+2014-12-06,St Etienne,Bastia,1-0,0-0
+2014-12-07,Evian Thonon Gaillard,Lyon,2-3,1-0
+2014-12-07,Lens,Lille,1-1,0-0
+2014-12-07,Marseille,Metz,3-1,1-0
+2014-12-07,Reims,Guingamp,2-3,1-1
+2014-12-12,Lyon,Caen,3-0,1-0
+2014-12-13,Bastia,Rennes,2-0,1-0
+2014-12-13,Lorient,Metz,3-1,3-0
+2014-12-13,Montpellier,Lens,3-3,2-2
+2014-12-13,Nantes,Bordeaux,2-1,1-1
+2014-12-13,Reims,Evian Thonon Gaillard,3-2,1-0
+2014-12-14,Guingamp,Paris SG,1-0,1-0
+2014-12-14,Lille,Toulouse,3-0,1-0
+2014-12-14,Monaco,Marseille,1-0,0-0
+2014-12-14,Nice,St Etienne,0-0,0-0
+2014-12-19,Lens,Nice,2-0,1-0
+2014-12-20,Caen,Bastia,1-1,0-1
+2014-12-20,Lorient,Nantes,1-2,0-1
+2014-12-20,Metz,Monaco,0-1,0-0
+2014-12-20,Paris SG,Montpellier,0-0,0-0
+2014-12-20,Rennes,Reims,1-3,1-0
+2014-12-20,Toulouse,Guingamp,1-1,1-1
+2014-12-21,Bordeaux,Lyon,0-5,0-1
+2014-12-21,Marseille,Lille,2-1,1-0
+2014-12-21,St Etienne,Evian Thonon Gaillard,3-0,2-0
+2015-01-07,Lille,Evian Thonon Gaillard,1-0,0-0
+2015-01-09,Montpellier,Marseille,2-1,1-0
+2015-01-10,Bastia,Paris SG,4-2,2-2
+2015-01-10,Evian Thonon Gaillard,Rennes,1-1,0-0
+2015-01-10,Guingamp,Lens,2-0,1-0
+2015-01-10,Lille,Caen,1-0,1-0
+2015-01-10,Nice,Lorient,3-1,1-1
+2015-01-10,Reims,St Etienne,1-2,0-1
+2015-01-11,Lyon,Toulouse,3-0,2-0
+2015-01-11,Monaco,Bordeaux,0-0,0-0
+2015-01-11,Nantes,Metz,0-0,0-0
+2015-01-16,Bordeaux,Nice,1-2,1-0
+2015-01-17,Caen,Reims,4-1,3-1
+2015-01-17,Lens,Lyon,0-2,0-2
+2015-01-17,Lorient,Lille,1-0,0-0
+2015-01-17,Metz,Montpellier,2-3,2-1
+2015-01-17,Monaco,Nantes,1-0,0-0
+2015-01-17,Toulouse,Bastia,1-1,0-0
+2015-01-18,Marseille,Guingamp,2-1,0-0
+2015-01-18,Paris SG,Evian Thonon Gaillard,4-2,2-1
+2015-01-18,Rennes,St Etienne,0-0,0-0
+2015-01-23,Nice,Marseille,2-1,0-0
+2015-01-24,Bastia,Bordeaux,0-0,0-0
+2015-01-24,Guingamp,Lorient,3-2,1-0
+2015-01-24,Lille,Monaco,0-1,0-0
+2015-01-24,Montpellier,Nantes,4-0,1-0
+2015-01-25,Evian Thonon Gaillard,Toulouse,1-0,1-0
+2015-01-25,Lyon,Metz,2-0,1-0
+2015-01-25,Reims,Lens,0-0,0-0
+2015-01-25,Rennes,Caen,1-4,1-1
+2015-01-25,St Etienne,Paris SG,0-1,0-0
+2015-01-30,Paris SG,Rennes,1-0,1-0
+2015-01-31,Lens,Bastia,1-1,0-0
+2015-01-31,Lorient,Montpellier,0-0,0-0
+2015-01-31,Marseille,Evian Thonon Gaillard,1-0,0-0
+2015-01-31,Metz,Nice,0-0,0-0
+2015-01-31,Nantes,Lille,1-1,0-1
+2015-01-31,Toulouse,Reims,1-0,1-0
+2015-02-01,Bordeaux,Guingamp,1-1,0-1
+2015-02-01,Caen,St Etienne,1-0,1-0
+2015-02-01,Monaco,Lyon,0-0,0-0
+2015-02-06,St Etienne,Lens,3-3,1-0
+2015-02-07,Bastia,Metz,2-0,0-0
+2015-02-07,Caen,Toulouse,2-0,1-0
+2015-02-07,Evian Thonon Gaillard,Bordeaux,0-1,0-1
+2015-02-07,Montpellier,Lille,1-2,0-1
+2015-02-07,Reims,Lorient,1-3,1-0
+2015-02-07,Rennes,Marseille,1-1,1-0
+2015-02-08,Guingamp,Monaco,1-0,0-0
+2015-02-08,Lyon,Paris SG,1-1,1-0
+2015-02-08,Nice,Nantes,0-0,0-0
+2015-02-13,Marseille,Reims,2-2,0-1
+2015-02-14,Lens,Evian Thonon Gaillard,0-2,0-2
+2015-02-14,Lille,Nice,0-0,0-0
+2015-02-14,Nantes,Bastia,0-2,0-1
+2015-02-14,Paris SG,Caen,2-2,2-0
+2015-02-14,Toulouse,Rennes,2-1,1-0
+2015-02-15,Bordeaux,St Etienne,1-0,1-0
+2015-02-15,Lorient,Lyon,1-1,0-0
+2015-02-15,Metz,Guingamp,0-2,0-2
+2015-02-20,Nice,Monaco,0-1,0-0
+2015-02-21,Bastia,Lille,2-1,2-1
+2015-02-21,Caen,Lens,4-1,3-1
+2015-02-21,Paris SG,Toulouse,3-1,1-0
+2015-02-21,Rennes,Bordeaux,1-1,1-0
+2015-02-22,Guingamp,Montpellier,0-2,0-1
+2015-02-22,Lyon,Nantes,1-0,0-0
+2015-02-22,Reims,Metz,0-0,0-0
+2015-02-22,St Etienne,Marseille,2-2,0-0
+2015-02-27,Marseille,Caen,2-3,1-0
+2015-02-28,Bordeaux,Reims,1-1,1-1
+2015-02-28,Lens,Rennes,0-1,0-1
+2015-02-28,Lille,Lyon,2-1,0-1
+2015-02-28,Lorient,Bastia,2-0,1-0
+2015-02-28,Metz,Evian Thonon Gaillard,1-2,1-1
+2015-02-28,Toulouse,St Etienne,1-1,0-1
+2015-03-01,Monaco,Paris SG,0-0,0-0
+2015-03-01,Montpellier,Nice,2-1,1-1
+2015-03-01,Nantes,Guingamp,1-0,0-0
+2015-03-04,Evian Thonon Gaillard,Lorient,1-0,1-0
+2015-03-06,Toulouse,Marseille,1-6,0-4
+2015-03-07,Bastia,Nice,2-1,1-1
+2015-03-07,Caen,Bordeaux,1-2,0-0
+2015-03-07,Evian Thonon Gaillard,Monaco,1-3,0-2
+2015-03-07,Paris SG,Lens,4-1,1-0
+2015-03-07,Reims,Nantes,3-1,2-0
+2015-03-07,Rennes,Metz,1-0,1-0
+2015-03-08,Guingamp,Lille,0-1,0-0
+2015-03-08,Montpellier,Lyon,1-5,1-2
+2015-03-08,St Etienne,Lorient,2-0,0-0
+2015-03-13,Monaco,Bastia,3-0,2-0
+2015-03-13,Nice,Guingamp,1-2,0-0
+2015-03-14,Lens,Toulouse,1-0,0-0
+2015-03-14,Lorient,Caen,2-1,1-1
+2015-03-14,Metz,St Etienne,2-3,0-2
+2015-03-14,Montpellier,Reims,3-1,1-0
+2015-03-14,Nantes,Evian Thonon Gaillard,2-1,1-0
+2015-03-15,Bordeaux,Paris SG,3-2,1-0
+2015-03-15,Lille,Rennes,3-0,1-0
+2015-03-15,Marseille,Lyon,0-0,0-0
+2015-03-20,Paris SG,Lorient,3-1,1-0
+2015-03-21,Bastia,Guingamp,0-0,0-0
+2015-03-21,Caen,Metz,0-0,0-0
+2015-03-21,Evian Thonon Gaillard,Montpellier,1-0,0-0
+2015-03-21,Lyon,Nice,1-2,0-1
+2015-03-21,Rennes,Nantes,0-0,0-0
+2015-03-21,Toulouse,Bordeaux,2-1,1-1
+2015-03-22,Lens,Marseille,0-4,0-0
+2015-03-22,Reims,Monaco,1-3,0-2
+2015-03-22,St Etienne,Lille,2-0,0-0
+2015-04-03,Monaco,St Etienne,1-1,0-0
+2015-04-04,Guingamp,Lyon,1-3,0-2
+2015-04-04,Lille,Reims,3-1,1-0
+2015-04-04,Lorient,Rennes,0-3,0-2
+2015-04-04,Metz,Toulouse,3-2,2-1
+2015-04-04,Montpellier,Bastia,3-1,0-1
+2015-04-04,Nice,Evian Thonon Gaillard,2-2,1-1
+2015-04-05,Bordeaux,Lens,2-1,0-0
+2015-04-05,Marseille,Paris SG,2-3,2-1
+2015-04-05,Nantes,Caen,1-2,1-0
+2015-04-07,Monaco,Montpellier,0-0,0-0
+2015-04-10,Caen,Monaco,0-3,0-1
+2015-04-12,Bordeaux,Marseille,1-0,0-0
+2015-04-12,Evian Thonon Gaillard,Lille,0-1,0-0
+2015-04-12,Lens,Lorient,0-0,0-0
+2015-04-12,Reims,Nice,0-1,0-1
+2015-04-12,Rennes,Guingamp,1-0,0-0
+2015-04-12,St Etienne,Nantes,1-0,1-0
+2015-04-12,Toulouse,Montpellier,1-0,1-0
+2015-04-15,Lyon,Bastia,2-0,0-0
+2015-04-17,Nantes,Marseille,1-0,1-0
+2015-04-18,Bastia,Reims,1-2,0-2
+2015-04-18,Guingamp,Evian Thonon Gaillard,1-1,1-0
+2015-04-18,Lorient,Toulouse,0-1,0-1
+2015-04-18,Metz,Lens,3-1,1-0
+2015-04-18,Monaco,Rennes,1-1,1-0
+2015-04-18,Nice,Paris SG,1-3,1-1
+2015-04-19,Lille,Bordeaux,2-0,1-0
+2015-04-19,Lyon,St Etienne,2-2,1-2
+2015-04-19,Montpellier,Caen,1-0,1-0
+2015-04-24,Marseille,Lorient,3-5,0-2
+2015-04-25,Bordeaux,Metz,1-1,0-1
+2015-04-25,Caen,Guingamp,0-2,0-0
+2015-04-25,Evian Thonon Gaillard,Bastia,1-2,1-0
+2015-04-25,Paris SG,Lille,6-1,4-0
+2015-04-25,Rennes,Nice,2-1,0-1
+2015-04-25,Toulouse,Nantes,1-1,1-0
+2015-04-26,Lens,Monaco,0-3,0-2
+2015-04-26,Reims,Lyon,2-4,1-3
+2015-04-26,St Etienne,Montpellier,1-0,1-0
+2015-04-28,Paris SG,Metz,3-1,2-0
+2015-05-01,Metz,Marseille,0-2,0-1
+2015-05-02,Bastia,St Etienne,1-0,0-0
+2015-05-02,Guingamp,Reims,2-0,0-0
+2015-05-02,Lorient,Bordeaux,0-0,0-0
+2015-05-02,Lyon,Evian Thonon Gaillard,2-0,2-0
+2015-05-02,Montpellier,Rennes,0-0,0-0
+2015-05-02,Nice,Caen,1-1,1-1
+2015-05-03,Lille,Lens,3-1,1-1
+2015-05-03,Monaco,Toulouse,4-1,2-1
+2015-05-03,Nantes,Paris SG,0-2,0-2
+2015-05-08,Paris SG,Guingamp,6-0,2-0
+2015-05-09,Bordeaux,Nantes,2-1,1-1
+2015-05-09,Caen,Lyon,3-0,2-0
+2015-05-09,Evian Thonon Gaillard,Reims,2-3,1-1
+2015-05-09,Metz,Lorient,0-4,0-2
+2015-05-09,Rennes,Bastia,0-1,0-0
+2015-05-09,Toulouse,Lille,3-2,1-1
+2015-05-10,Lens,Montpellier,0-1,0-0
+2015-05-10,Marseille,Monaco,2-1,0-1
+2015-05-10,St Etienne,Nice,5-0,2-0
+2015-05-16,Bastia,Caen,1-1,1-1
+2015-05-16,Evian Thonon Gaillard,St Etienne,1-2,1-1
+2015-05-16,Guingamp,Toulouse,2-1,1-1
+2015-05-16,Lille,Marseille,0-4,0-2
+2015-05-16,Lyon,Bordeaux,1-1,1-1
+2015-05-16,Monaco,Metz,2-0,1-0
+2015-05-16,Montpellier,Paris SG,1-2,1-2
+2015-05-16,Nantes,Lorient,1-1,1-1
+2015-05-16,Nice,Lens,2-1,1-1
+2015-05-16,Reims,Rennes,1-0,0-0
+2015-05-23,Bordeaux,Montpellier,2-1,2-0
+2015-05-23,Caen,Evian Thonon Gaillard,3-2,0-0
+2015-05-23,Lens,Nantes,1-0,1-0
+2015-05-23,Lorient,Monaco,0-1,0-1
+2015-05-23,Marseille,Bastia,3-0,2-0
+2015-05-23,Metz,Lille,1-4,0-3
+2015-05-23,Paris SG,Reims,3-2,2-0
+2015-05-23,Rennes,Lyon,0-1,0-0
+2015-05-23,St Etienne,Guingamp,2-1,1-0
+2015-05-23,Toulouse,Nice,2-3,0-2
