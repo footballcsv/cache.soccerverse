@@ -26,6 +26,7 @@
 - [`2016-17/1-ligue1.csv`](2016-17/1-ligue1.csv) => 20 teams / 380 matches / start: Fri Aug/12 2016, end: Sat May/20 2017
 - [`2017-18/1-ligue1.csv`](2017-18/1-ligue1.csv) => 20 teams / 380 matches / start: Fri Aug/4 2017, end: Sat May/19 2018
 
+<!-- break -->
 
 - [`1996-97/2-division2.csv`](1996-97/2-division2.csv) => 22 teams / 462 matches / start: Sat Aug/10 1996, end: Sat May/24 1997
 - [`1997-98/2-division2.csv`](1997-98/2-division2.csv) => 22 teams / 462 matches / start: Sat Aug/2 1997, end: Fri May/8 1998
