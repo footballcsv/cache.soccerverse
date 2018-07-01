@@ -271,7 +271,7 @@ Season [`2017-18`](2017-18):
 
 ## Team Usage Stats
 
-´´´
+```
   71 teams:
     [1]  Ajaccio                       ::  760 matches in  20 seasons
     [2]  Ajaccio GFCO                  ::  190 matches in   5 seasons
@@ -344,4 +344,4 @@ Season [`2017-18`](2017-18):
    [69]  Valenciennes                  ::  494 matches in  13 seasons
    [70]  Vannes                        ::  114 matches in   3 seasons
    [71]  Wasquehal                     ::  232 matches in   6 seasons
-´´´
+```
