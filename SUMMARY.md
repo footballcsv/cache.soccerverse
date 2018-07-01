@@ -267,3 +267,81 @@ Season [`2017-18`](2017-18):
 - [`2017-18/2-ligue2.csv`](2017-18/2-ligue2.csv) (2/2):
   - 380 matches - start: Fri Jul/28 2017, end: Fri May/11 2018
   - 20 teams: Ajaccio (38) Ajaccio GFCO (38) Auxerre (38) Bourg Peronnas (38) Brest (38) Chateauroux (38) Clermont (38) Le Havre (38) Lens (38) Lorient (38) Nancy (38) Nimes (38) Niort (38) Orleans (38) Paris FC (38) Quevilly Rouen (38) Reims (38) Sochaux (38) Tours (38) Valenciennes (38)
+
+
+## Team Usage Stats
+
+´´´
+  71 teams:
+    [1]  Ajaccio                       ::  760 matches in  20 seasons
+    [2]  Ajaccio GFCO                  ::  190 matches in   5 seasons
+    [3]  Amiens                        ::  578 matches in  15 seasons
+    [4]  Angers                        ::  570 matches in  15 seasons
+    [5]  Arles                         ::  228 matches in   6 seasons
+    [6]  Auxerre                       ::  930 matches in  25 seasons
+    [7]  Bastia                        ::  816 matches in  22 seasons
+    [8]  Beauvais                      ::  236 matches in   6 seasons
+    [9]  Besancon                      ::   38 matches in   1 seasons
+   [10]  Bordeaux                      ::  930 matches in  25 seasons
+   [11]  Boulogne                      ::  190 matches in   5 seasons
+   [12]  Bourg Peronnas                ::  114 matches in   3 seasons
+   [13]  Brest                         ::  532 matches in  14 seasons
+   [14]  CA Bastia                     ::   38 matches in   1 seasons
+   [15]  Caen                          ::  916 matches in  24 seasons
+   [16]  Cannes                        ::  300 matches in   8 seasons
+   [17]  Charleville                   ::   42 matches in   1 seasons
+   [18]  Chateauroux                   ::  760 matches in  20 seasons
+   [19]  Clermont                      ::  570 matches in  15 seasons
+   [20]  Creteil                       ::  418 matches in  11 seasons
+   [21]  Dijon                         ::  532 matches in  14 seasons
+   [22]  Epinal                        ::   42 matches in   1 seasons
+   [23]  Evian Thonon Gaillard         ::  228 matches in   6 seasons
+   [24]  Grenoble                      ::  380 matches in  10 seasons
+   [25]  Gueugnon                      ::  502 matches in  13 seasons
+   [26]  Guingamp                      ::  824 matches in  22 seasons
+   [27]  Istres                        ::  418 matches in  11 seasons
+   [28]  Laval                         ::  692 matches in  18 seasons
+   [29]  Le Havre                      ::  938 matches in  25 seasons
+   [30]  Le Mans                       ::  654 matches in  17 seasons
+   [31]  Lens                          ::  930 matches in  25 seasons
+   [32]  Libourne                      ::   76 matches in   2 seasons
+   [33]  Lille                         ::  946 matches in  25 seasons
+   [34]  Lorient                       ::  836 matches in  22 seasons
+   [35]  Louhans-Cuis.                 ::  122 matches in   3 seasons
+   [36]  Lyon                          ::  930 matches in  25 seasons
+   [37]  Marseille                     ::  854 matches in  23 seasons
+   [38]  Martigues                     ::  274 matches in   7 seasons
+   [39]  Metz                          ::  892 matches in  24 seasons
+   [40]  Monaco                        ::  930 matches in  25 seasons
+   [41]  Montpellier                   ::  934 matches in  25 seasons
+   [42]  Mulhouse                      ::   84 matches in   2 seasons
+   [43]  Nancy                         ::  832 matches in  22 seasons
+   [44]  Nantes                        ::  930 matches in  25 seasons
+   [45]  Nice                          ::  916 matches in  24 seasons
+   [46]  Nimes                         ::  536 matches in  14 seasons
+   [47]  Niort                         ::  654 matches in  17 seasons
+   [48]  Orleans                       ::  114 matches in   3 seasons
+   [49]  Paris FC                      ::   76 matches in   2 seasons
+   [50]  Paris SG                      ::  930 matches in  25 seasons
+   [51]  Perpignan                     ::   42 matches in   1 seasons
+   [52]  Quevilly Rouen                ::   38 matches in   1 seasons
+   [53]  Red Star                      ::   76 matches in   2 seasons
+   [54]  Red Star 93                   ::  122 matches in   3 seasons
+   [55]  Reims                         ::  532 matches in  14 seasons
+   [56]  Rennes                        ::  892 matches in  24 seasons
+   [57]  Rouen                         ::   38 matches in   1 seasons
+   [58]  Sedan                         ::  558 matches in  15 seasons
+   [59]  Sete                          ::   38 matches in   1 seasons
+   [60]  Sochaux                       ::  912 matches in  24 seasons
+   [61]  St Brieuc                     ::   42 matches in   1 seasons
+   [62]  St Etienne                    ::  950 matches in  25 seasons
+   [63]  Strasbourg                    ::  706 matches in  19 seasons
+   [64]  Toulon                        ::   84 matches in   2 seasons
+   [65]  Toulouse                      ::  828 matches in  22 seasons
+   [66]  Tours                         ::  418 matches in  11 seasons
+   [67]  Troyes                        ::  794 matches in  21 seasons
+   [68]  Valence                       ::  236 matches in   6 seasons
+   [69]  Valenciennes                  ::  494 matches in  13 seasons
+   [70]  Vannes                        ::  114 matches in   3 seasons
+   [71]  Wasquehal                     ::  232 matches in   6 seasons
+´´´
