@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Fri) Jul/28 2017 (30),Brest (1),Chateauroux (1),2-3,1-0
-?,(Fri) Jul/28 2017 (30),Nimes (1),Reims (1),0-1,0-0
-?,(Fri) Jul/28 2017 (30),Niort (1),Ajaccio (1),0-0,0-0
-?,(Fri) Jul/28 2017 (30),Orleans (1),Nancy (1),3-1,1-1
-?,(Fri) Jul/28 2017 (30),Paris FC (1),Clermont (1),0-0,0-0
-?,(Fri) Jul/28 2017 (30),Sochaux (1),Bourg Peronnas (1),2-0,1-0
-?,(Fri) Jul/28 2017 (30),Tours (1),Le Havre (1),0-3,0-1
-?,(Fri) Jul/28 2017 (30),Valenciennes (1),Ajaccio GFCO (1),1-1,0-1
-?,(Sat) Jul/29 2017 (30),Lorient (1),Quevilly Rouen (1),1-1,0-1
-?,(Mon) Jul/31 2017 (31),Auxerre (1),Lens (1),1-0,0-0
-?,(Fri) Aug/4 2017 (31),Ajaccio (2),Brest (2),2-1,1-0
-?,(Fri) Aug/4 2017 (31),Ajaccio GFCO (2),Lorient (2),0-0,0-0
-?,(Fri) Aug/4 2017 (31),Bourg Peronnas (2),Paris FC (2),1-2,0-2
-?,(Fri) Aug/4 2017 (31),Chateauroux (2),Valenciennes (2),0-1,0-0
-?,(Fri) Aug/4 2017 (31),Clermont (2),Tours (2),2-0,0-0
-?,(Fri) Aug/4 2017 (31),Le Havre (2),Auxerre (2),4-1,0-1
-?,(Fri) Aug/4 2017 (31),Lens (2),Nimes (2),1-2,1-0
-?,(Fri) Aug/4 2017 (31),Nancy (2),Niort (2),0-0,0-0
-?,(Fri) Aug/4 2017 (31),Quevilly Rouen (2),Sochaux (2),1-1,0-0
-?,(Sat) Aug/5 2017 (31),Reims (2),Orleans (2),2-0,1-0
-?,(Fri) Aug/11 2017 (32),Brest (3),Ajaccio GFCO (3),0-0,0-0
-?,(Fri) Aug/11 2017 (32),Niort (3),Auxerre (3),2-0,0-0
-?,(Fri) Aug/11 2017 (32),Orleans (3),Ajaccio (3),0-0,0-0
-?,(Fri) Aug/11 2017 (32),Paris FC (3),Le Havre (3),0-3,0-1
-?,(Fri) Aug/11 2017 (32),Quevilly Rouen (3),Bourg Peronnas (3),1-4,0-1
-?,(Fri) Aug/11 2017 (32),Tours (3),Reims (3),0-1,0-0
-?,(Fri) Aug/11 2017 (32),Valenciennes (3),Clermont (3),0-0,0-0
-?,(Sat) Aug/12 2017 (32),Sochaux (3),Lens (3),3-2,1-0
-?,(Mon) Aug/14 2017 (33),Lorient (3),Chateauroux (3),3-0,0-0
-?,(Mon) Aug/14 2017 (33),Nimes (3),Nancy (3),0-0,0-0
-?,(Fri) Aug/18 2017 (33),Ajaccio (4),Paris FC (4),2-0,0-0
-?,(Fri) Aug/18 2017 (33),Ajaccio GFCO (4),Quevilly Rouen (4),1-0,0-0
-?,(Fri) Aug/18 2017 (33),Auxerre (4),Orleans (4),1-3,1-2
-?,(Fri) Aug/18 2017 (33),Clermont (4),Lorient (4),0-2,0-0
-?,(Fri) Aug/18 2017 (33),Le Havre (4),Valenciennes (4),1-0,0-0
-?,(Fri) Aug/18 2017 (33),Nancy (4),Sochaux (4),2-2,2-1
-?,(Fri) Aug/18 2017 (33),Niort (4),Tours (4),2-1,1-0
-?,(Fri) Aug/18 2017 (33),Reims (4),Bourg Peronnas (4),3-0,0-0
-?,(Sat) Aug/19 2017 (33),Lens (4),Brest (4),2-4,1-1
-?,(Mon) Aug/21 2017 (34),Chateauroux (4),Nimes (4),1-0,0-0
-?,(Fri) Aug/25 2017 (34),Bourg Peronnas (5),Ajaccio GFCO (5),2-0,0-0
-?,(Fri) Aug/25 2017 (34),Brest (5),Nancy (5),2-1,0-1
-?,(Fri) Aug/25 2017 (34),Nimes (5),Le Havre (5),1-0,1-0
-?,(Fri) Aug/25 2017 (34),Paris FC (5),Auxerre (5),2-1,1-0
-?,(Fri) Aug/25 2017 (34),Quevilly Rouen (5),Clermont (5),0-2,0-2
-?,(Fri) Aug/25 2017 (34),Sochaux (5),Chateauroux (5),1-5,0-3
-?,(Fri) Aug/25 2017 (34),Tours (5),Ajaccio (5),1-3,0-2
-?,(Fri) Aug/25 2017 (34),Valenciennes (5),Niort (5),4-1,3-0
-?,(Sat) Aug/26 2017 (34),Lorient (5),Reims (5),2-1,1-1
-?,(Mon) Aug/28 2017 (35),Orleans (5),Lens (5),2-0,2-0
-?,(Fri) Sep/8 2017 (36),Ajaccio (6),Nimes (6),1-4,1-2
-?,(Fri) Sep/8 2017 (36),Ajaccio GFCO (6),Sochaux (6),0-1,0-0
-?,(Fri) Sep/8 2017 (36),Auxerre (6),Tours (6),1-1,1-1
-?,(Fri) Sep/8 2017 (36),Chateauroux (6),Quevilly Rouen (6),3-2,2-0
-?,(Fri) Sep/8 2017 (36),Clermont (6),Bourg Peronnas (6),4-1,1-0
-?,(Fri) Sep/8 2017 (36),Le Havre (6),Orleans (6),1-1,0-1
-?,(Fri) Sep/8 2017 (36),Nancy (6),Valenciennes (6),3-0,0-0
-?,(Fri) Sep/8 2017 (36),Niort (6),Paris FC (6),0-2,0-2
-?,(Sat) Sep/9 2017 (36),Lens (6),Lorient (6),2-3,1-1
-?,(Mon) Sep/11 2017 (37),Reims (6),Brest (6),0-1,0-0
-?,(Fri) Sep/15 2017 (37),Ajaccio GFCO (7),Clermont (7),2-1,1-1
-?,(Fri) Sep/15 2017 (37),Bourg Peronnas (7),Chateauroux (7),3-0,3-0
-?,(Fri) Sep/15 2017 (37),Brest (7),Le Havre (7),1-0,0-0
-?,(Fri) Sep/15 2017 (37),Lorient (7),Ajaccio (7),2-0,1-0
-?,(Fri) Sep/15 2017 (37),Nimes (7),Auxerre (7),3-0,0-0
-?,(Fri) Sep/15 2017 (37),Orleans (7),Niort (7),3-1,2-0
-?,(Fri) Sep/15 2017 (37),Paris FC (7),Tours (7),2-0,1-0
-?,(Fri) Sep/15 2017 (37),Quevilly Rouen (7),Nancy (7),2-0,0-0
-?,(Fri) Sep/15 2017 (37),Valenciennes (7),Lens (7),1-0,0-0
-?,(Sat) Sep/16 2017 (37),Sochaux (7),Reims (7),2-4,1-1
-?,(Mon) Sep/18 2017 (38),Lens (8),Quevilly Rouen (8),2-0,0-0
-?,(Tue) Sep/19 2017 (38),Ajaccio (8),Valenciennes (8),3-0,1-0
-?,(Tue) Sep/19 2017 (38),Auxerre (8),Lorient (8),1-0,0-0
-?,(Tue) Sep/19 2017 (38),Chateauroux (8),Clermont (8),0-2,0-0
-?,(Tue) Sep/19 2017 (38),Le Havre (8),Sochaux (8),1-0,1-0
-?,(Tue) Sep/19 2017 (38),Nancy (8),Bourg Peronnas (8),2-1,0-1
-?,(Tue) Sep/19 2017 (38),Niort (8),Brest (8),0-2,0-0
-?,(Tue) Sep/19 2017 (38),Paris FC (8),Orleans (8),1-0,0-0
-?,(Tue) Sep/19 2017 (38),Reims (8),Ajaccio GFCO (8),5-0,3-0
-?,(Tue) Sep/19 2017 (38),Tours (8),Nimes (8),0-4,0-1
-?,(Fri) Sep/22 2017 (38),Ajaccio GFCO (9),Chateauroux (9),2-1,1-0
-?,(Fri) Sep/22 2017 (38),Bourg Peronnas (9),Le Havre (9),2-1,1-0
-?,(Fri) Sep/22 2017 (38),Brest (9),Paris FC (9),1-1,0-1
-?,(Fri) Sep/22 2017 (38),Nimes (9),Niort (9),1-5,1-2
-?,(Fri) Sep/22 2017 (38),Orleans (9),Tours (9),1-1,1-1
-?,(Fri) Sep/22 2017 (38),Quevilly Rouen (9),Reims (9),1-2,0-0
-?,(Fri) Sep/22 2017 (38),Sochaux (9),Ajaccio (9),1-6,1-5
-?,(Fri) Sep/22 2017 (38),Valenciennes (9),Auxerre (9),0-2,0-0
-?,(Sat) Sep/23 2017 (38),Lorient (9),Nancy (9),0-0,0-0
-?,(Mon) Sep/25 2017 (39),Clermont (9),Lens (9),1-0,1-0
-?,(Fri) Sep/29 2017 (39),Ajaccio (10),Bourg Peronnas (10),2-0,0-0
-?,(Fri) Sep/29 2017 (39),Auxerre (10),Sochaux (10),2-0,0-0
-?,(Fri) Sep/29 2017 (39),Lens (10),Ajaccio GFCO (10),2-0,1-0
-?,(Fri) Sep/29 2017 (39),Nancy (10),Chateauroux (10),4-1,3-0
-?,(Fri) Sep/29 2017 (39),Niort (10),Quevilly Rouen (10),2-1,1-0
-?,(Fri) Sep/29 2017 (39),Orleans (10),Valenciennes (10),3-4,3-1
-?,(Fri) Sep/29 2017 (39),Paris FC (10),Nimes (10),2-1,2-1
-?,(Fri) Sep/29 2017 (39),Tours (10),Brest (10),1-2,0-0
-?,(Sat) Sep/30 2017 (39),Reims (10),Clermont (10),1-0,0-0
-?,(Mon) Oct/2 2017 (40),Le Havre (10),Lorient (10),3-2,2-1
-?,(Fri) Oct/13 2017 (41),Ajaccio GFCO (11),Nancy (11),2-1,1-0
-?,(Fri) Oct/13 2017 (41),Bourg Peronnas (11),Lens (11),0-6,0-3
-?,(Fri) Oct/13 2017 (41),Brest (11),Auxerre (11),1-1,1-1
-?,(Fri) Oct/13 2017 (41),Chateauroux (11),Reims (11),3-1,1-1
-?,(Fri) Oct/13 2017 (41),Nimes (11),Orleans (11),4-1,2-1
-?,(Fri) Oct/13 2017 (41),Quevilly Rouen (11),Ajaccio (11),0-1,0-0
-?,(Fri) Oct/13 2017 (41),Sochaux (11),Paris FC (11),1-0,1-0
-?,(Fri) Oct/13 2017 (41),Valenciennes (11),Tours (11),2-0,0-0
-?,(Sat) Oct/14 2017 (41),Clermont (11),Le Havre (11),3-0,1-0
-?,(Mon) Oct/16 2017 (42),Lorient (11),Niort (11),0-0,0-0
-?,(Fri) Oct/20 2017 (42),Auxerre (12),Quevilly Rouen (12),2-1,0-1
-?,(Fri) Oct/20 2017 (42),Le Havre (12),Chateauroux (12),1-1,1-0
-?,(Fri) Oct/20 2017 (42),Nancy (12),Clermont (12),2-2,1-1
-?,(Fri) Oct/20 2017 (42),Nimes (12),Brest (12),4-0,1-0
-?,(Fri) Oct/20 2017 (42),Niort (12),Bourg Peronnas (12),2-0,0-0
-?,(Fri) Oct/20 2017 (42),Orleans (12),Lorient (12),1-2,1-0
-?,(Fri) Oct/20 2017 (42),Paris FC (12),Valenciennes (12),3-2,1-1
-?,(Fri) Oct/20 2017 (42),Tours (12),Sochaux (12),0-1,0-0
-?,(Sat) Oct/21 2017 (42),Lens (12),Reims (12),0-1,0-1
-?,(Mon) Oct/23 2017 (43),Ajaccio (12),Ajaccio GFCO (12),2-0,1-0
-?,(Fri) Oct/27 2017 (43),Ajaccio GFCO (13),Paris FC (13),0-0,0-0
-?,(Fri) Oct/27 2017 (43),Bourg Peronnas (13),Auxerre (13),1-1,0-0
-?,(Fri) Oct/27 2017 (43),Brest (13),Orleans (13),0-1,0-1
-?,(Fri) Oct/27 2017 (43),Quevilly Rouen (13),Le Havre (13),0-2,0-1
-?,(Fri) Oct/27 2017 (43),Sochaux (13),Niort (13),2-1,2-1
-?,(Sat) Oct/28 2017 (43),Clermont (13),Ajaccio (13),1-1,1-0
-?,(Sat) Oct/28 2017 (43),Lorient (13),Tours (13),2-0,0-0
-?,(Sat) Oct/28 2017 (43),Reims (13),Nancy (13),3-0,2-0
-?,(Sat) Oct/28 2017 (43),Valenciennes (13),Nimes (13),1-2,1-1
-?,(Mon) Oct/30 2017 (44),Chateauroux (13),Lens (13),0-0,0-0
-?,(Fri) Nov/3 2017 (44),Ajaccio (14),Chateauroux (14),1-2,0-1
-?,(Fri) Nov/3 2017 (44),Auxerre (14),Ajaccio GFCO (14),0-1,0-1
-?,(Fri) Nov/3 2017 (44),Nimes (14),Quevilly Rouen (14),4-1,2-0
-?,(Fri) Nov/3 2017 (44),Niort (14),Clermont (14),1-1,0-0
-?,(Fri) Nov/3 2017 (44),Orleans (14),Sochaux (14),3-3,2-2
-?,(Fri) Nov/3 2017 (44),Paris FC (14),Lorient (14),1-1,1-0
-?,(Fri) Nov/3 2017 (44),Tours (14),Bourg Peronnas (14),3-2,2-2
-?,(Fri) Nov/3 2017 (44),Valenciennes (14),Brest (14),0-0,0-0
-?,(Sat) Nov/4 2017 (44),Nancy (14),Lens (14),1-1,1-0
-?,(Mon) Nov/6 2017 (45),Le Havre (14),Reims (14),0-0,0-0
-?,(Fri) Nov/17 2017 (46),Ajaccio GFCO (15),Le Havre (15),1-1,1-0
-?,(Fri) Nov/17 2017 (46),Bourg Peronnas (15),Valenciennes (15),1-3,1-1
-?,(Fri) Nov/17 2017 (46),Chateauroux (15),Tours (15),1-0,0-0
-?,(Fri) Nov/17 2017 (46),Clermont (15),Auxerre (15),1-0,0-0
-?,(Fri) Nov/17 2017 (46),Nancy (15),Ajaccio (15),2-2,2-0
-?,(Fri) Nov/17 2017 (46),Quevilly Rouen (15),Orleans (15),1-0,1-0
-?,(Fri) Nov/17 2017 (46),Reims (15),Paris FC (15),1-1,0-0
-?,(Fri) Nov/17 2017 (46),Sochaux (15),Nimes (15),2-1,1-1
-?,(Sat) Nov/18 2017 (46),Lorient (15),Brest (15),4-2,1-1
-?,(Mon) Nov/20 2017 (47),Lens (15),Niort (15),3-1,1-0
-?,(Fri) Nov/24 2017 (47),Ajaccio (16),Reims (16),0-1,0-0
-?,(Fri) Nov/24 2017 (47),Auxerre (16),Nancy (16),1-1,1-0
-?,(Fri) Nov/24 2017 (47),Brest (16),Sochaux (16),1-0,1-0
-?,(Fri) Nov/24 2017 (47),Nimes (16),Bourg Peronnas (16),4-0,1-0
-?,(Fri) Nov/24 2017 (47),Niort (16),Chateauroux (16),2-1,2-0
-?,(Fri) Nov/24 2017 (47),Orleans (16),Clermont (16),1-2,0-1
-?,(Fri) Nov/24 2017 (47),Paris FC (16),Quevilly Rouen (16),2-0,2-0
-?,(Fri) Nov/24 2017 (47),Tours (16),Ajaccio GFCO (16),1-2,0-1
-?,(Fri) Nov/24 2017 (47),Valenciennes (16),Lorient (16),4-2,2-0
-?,(Sat) Nov/25 2017 (47),Le Havre (16),Lens (16),1-0,0-0
-?,(Mon) Nov/27 2017 (48),Reims (17),Auxerre (17),2-0,1-0
-?,(Tue) Nov/28 2017 (48),Ajaccio GFCO (17),Niort (17),0-2,0-1
-?,(Tue) Nov/28 2017 (48),Bourg Peronnas (17),Orleans (17),4-0,2-0
-?,(Tue) Nov/28 2017 (48),Chateauroux (17),Paris FC (17),0-0,0-0
-?,(Tue) Nov/28 2017 (48),Clermont (17),Brest (17),1-2,1-0
-?,(Tue) Nov/28 2017 (48),Lens (17),Ajaccio (17),2-0,2-0
-?,(Tue) Nov/28 2017 (48),Lorient (17),Nimes (17),1-2,0-2
-?,(Tue) Nov/28 2017 (48),Nancy (17),Le Havre (17),0-3,0-2
-?,(Tue) Nov/28 2017 (48),Quevilly Rouen (17),Tours (17),4-0,1-0
-?,(Tue) Nov/28 2017 (48),Sochaux (17),Valenciennes (17),3-1,1-1
-?,(Fri) Dec/8 2017 (49),Auxerre (18),Chateauroux (18),1-2,1-0
-?,(Fri) Dec/8 2017 (49),Brest (18),Bourg Peronnas (18),3-0,1-0
-?,(Fri) Dec/8 2017 (49),Lorient (18),Sochaux (18),2-1,0-0
-?,(Fri) Dec/8 2017 (49),Niort (18),Reims (18),1-2,1-0
-?,(Fri) Dec/8 2017 (49),Paris FC (18),Lens (18),2-2,1-1
-?,(Fri) Dec/8 2017 (49),Tours (18),Nancy (18),1-2,1-2
-?,(Fri) Dec/8 2017 (49),Valenciennes (18),Quevilly Rouen (18),1-1,1-0
-?,(Sat) Dec/9 2017 (49),Ajaccio (18),Le Havre (18),1-0,1-0
-?,(Mon) Dec/11 2017 (50),Nimes (18),Clermont (18),3-1,2-1
-?,(Tue) Dec/12 2017 (50),Orleans (18),Ajaccio GFCO (18),2-0,2-0
-?,(Fri) Dec/15 2017 (50),Ajaccio (19),Auxerre (19),3-1,1-0
-?,(Fri) Dec/15 2017 (50),Bourg Peronnas (19),Lorient (19),2-2,2-1
-?,(Fri) Dec/15 2017 (50),Chateauroux (19),Orleans (19),0-0,0-0
-?,(Fri) Dec/15 2017 (50),Clermont (19),Sochaux (19),0-2,0-0
-?,(Fri) Dec/15 2017 (50),Le Havre (19),Niort (19),2-1,1-1
-?,(Fri) Dec/15 2017 (50),Nancy (19),Paris FC (19),0-1,0-0
-?,(Fri) Dec/15 2017 (50),Quevilly Rouen (19),Brest (19),1-4,0-1
-?,(Sat) Dec/16 2017 (50),Reims (19),Valenciennes (19),5-1,3-1
-?,(Mon) Dec/18 2017 (51),Lens (19),Tours (19),2-0,2-0
-?,(Fri) Jan/12 2018 (2),Auxerre (20),Le Havre (20),1-1,0-0
-?,(Fri) Jan/12 2018 (2),Brest (20),Ajaccio (20),2-3,0-3
-?,(Fri) Jan/12 2018 (2),Nimes (19),Lens (20),0-1,0-0
-?,(Fri) Jan/12 2018 (2),Niort (20),Nancy (20),0-0,0-0
-?,(Fri) Jan/12 2018 (2),Orleans (20),Reims (20),0-2,0-2
-?,(Fri) Jan/12 2018 (2),Paris FC (20),Bourg Peronnas (20),2-0,0-0
-?,(Fri) Jan/12 2018 (2),Sochaux (20),Quevilly Rouen (20),0-1,0-0
-?,(Fri) Jan/12 2018 (2),Tours (20),Clermont (20),0-0,0-0
-?,(Fri) Jan/12 2018 (2),Valenciennes (20),Chateauroux (20),1-2,1-0
-?,(Sat) Jan/13 2018 (2),Lorient (20),Ajaccio GFCO (19),4-1,2-0
-?,(Tue) Jan/16 2018 (3),Ajaccio (21),Orleans (21),1-1,1-1
-?,(Tue) Jan/16 2018 (3),Ajaccio GFCO (20),Brest (21),1-1,1-0
-?,(Tue) Jan/16 2018 (3),Auxerre (21),Niort (21),5-0,3-0
-?,(Tue) Jan/16 2018 (3),Bourg Peronnas (21),Quevilly Rouen (21),3-5,1-1
-?,(Tue) Jan/16 2018 (3),Chateauroux (21),Lorient (21),3-1,1-1
-?,(Tue) Jan/16 2018 (3),Clermont (21),Valenciennes (21),3-0,1-0
-?,(Tue) Jan/16 2018 (3),Le Havre (21),Paris FC (21),1-1,1-1
-?,(Tue) Jan/16 2018 (3),Nancy (21),Nimes (20),0-2,0-2
-?,(Tue) Jan/16 2018 (3),Reims (21),Tours (21),1-0,1-0
-?,(Fri) Jan/19 2018 (3),Bourg Peronnas (22),Reims (22),0-2,0-0
-?,(Fri) Jan/19 2018 (3),Brest (22),Lens (21),1-1,1-0
-?,(Fri) Jan/19 2018 (3),Lorient (22),Clermont (22),1-1,1-0
-?,(Fri) Jan/19 2018 (3),Orleans (22),Auxerre (22),2-3,0-1
-?,(Fri) Jan/19 2018 (3),Quevilly Rouen (22),Ajaccio GFCO (21),0-2,0-0
-?,(Fri) Jan/19 2018 (3),Sochaux (21),Nancy (22),1-0,0-0
-?,(Fri) Jan/19 2018 (3),Tours (22),Niort (22),2-1,1-1
-?,(Fri) Jan/19 2018 (3),Valenciennes (22),Le Havre (22),1-1,1-0
-?,(Sat) Jan/20 2018 (3),Nimes (21),Chateauroux (22),3-0,1-0
-?,(Mon) Jan/22 2018 (4),Paris FC (22),Ajaccio (22),2-1,2-0
-?,(Tue) Jan/23 2018 (4),Ajaccio GFCO (22),Nimes (22),2-0,1-0
-?,(Fri) Jan/26 2018 (4),Ajaccio GFCO (23),Bourg Peronnas (23),1-2,1-0
-?,(Fri) Jan/26 2018 (4),Auxerre (23),Paris FC (23),1-1,0-0
-?,(Fri) Jan/26 2018 (4),Chateauroux (23),Sochaux (22),1-1,0-0
-?,(Fri) Jan/26 2018 (4),Clermont (23),Quevilly Rouen (23),1-1,0-0
-?,(Fri) Jan/26 2018 (4),Lens (22),Orleans (23),0-1,0-0
-?,(Fri) Jan/26 2018 (4),Nancy (23),Brest (23),2-2,0-2
-?,(Fri) Jan/26 2018 (4),Niort (23),Valenciennes (23),1-2,1-0
-?,(Sat) Jan/27 2018 (4),Ajaccio (23),Tours (23),2-1,1-0
-?,(Sat) Jan/27 2018 (4),Le Havre (23),Nimes (23),2-1,1-1
-?,(Mon) Jan/29 2018 (5),Reims (23),Lorient (23),0-1,0-0
-?,(Tue) Jan/30 2018 (5),Lens (23),Sochaux (23),0-1,0-0
-?,(Fri) Feb/2 2018 (5),Bourg Peronnas (24),Clermont (24),0-2,0-0
-?,(Fri) Feb/2 2018 (5),Nimes (24),Ajaccio (24),1-1,0-0
-?,(Fri) Feb/2 2018 (5),Orleans (24),Le Havre (24),2-1,2-0
-?,(Fri) Feb/2 2018 (5),Paris FC (24),Niort (24),0-1,0-0
-?,(Fri) Feb/2 2018 (5),Quevilly Rouen (24),Chateauroux (24),0-1,0-1
-?,(Fri) Feb/2 2018 (5),Sochaux (24),Ajaccio GFCO (24),4-1,1-0
-?,(Fri) Feb/2 2018 (5),Tours (24),Auxerre (24),0-2,0-1
-?,(Fri) Feb/2 2018 (5),Valenciennes (24),Nancy (24),0-1,0-1
-?,(Sat) Feb/3 2018 (5),Lorient (24),Lens (24),1-1,1-0
-?,(Mon) Feb/5 2018 (6),Brest (24),Reims (24),0-0,0-0
-?,(Fri) Feb/9 2018 (6),Ajaccio (25),Lorient (25),3-2,1-2
-?,(Fri) Feb/9 2018 (6),Chateauroux (25),Bourg Peronnas (25),3-1,2-1
-?,(Fri) Feb/9 2018 (6),Clermont (25),Ajaccio GFCO (25),1-0,1-0
-?,(Fri) Feb/9 2018 (6),Le Havre (25),Brest (25),1-0,1-0
-?,(Fri) Feb/9 2018 (6),Nancy (25),Quevilly Rouen (25),1-2,1-0
-?,(Fri) Feb/9 2018 (6),Niort (25),Orleans (25),2-3,1-2
-?,(Fri) Feb/9 2018 (6),Reims (25),Sochaux (25),3-0,1-0
-?,(Fri) Feb/9 2018 (6),Tours (25),Paris FC (25),1-2,1-0
-?,(Sat) Feb/10 2018 (6),Lens (25),Valenciennes (25),1-1,0-1
-?,(Mon) Feb/12 2018 (7),Auxerre (25),Nimes (25),0-0,0-0
-?,(Fri) Feb/16 2018 (7),Ajaccio GFCO (26),Reims (26),1-2,1-2
-?,(Fri) Feb/16 2018 (7),Bourg Peronnas (26),Nancy (26),3-2,1-1
-?,(Fri) Feb/16 2018 (7),Brest (26),Niort (26),2-0,0-0
-?,(Fri) Feb/16 2018 (7),Clermont (26),Chateauroux (26),1-1,1-0
-?,(Fri) Feb/16 2018 (7),Nimes (26),Tours (26),2-2,2-1
-?,(Fri) Feb/16 2018 (7),Orleans (26),Paris FC (26),1-1,0-1
-?,(Fri) Feb/16 2018 (7),Sochaux (26),Le Havre (26),3-2,1-2
-?,(Fri) Feb/16 2018 (7),Valenciennes (26),Ajaccio (26),2-0,1-0
-?,(Sat) Feb/17 2018 (7),Lorient (26),Auxerre (26),1-3,1-1
-?,(Mon) Feb/19 2018 (8),Quevilly Rouen (26),Lens (26),1-2,1-0
-?,(Fri) Feb/23 2018 (8),Ajaccio (27),Sochaux (27),3-2,1-1
-?,(Fri) Feb/23 2018 (8),Auxerre (27),Valenciennes (27),2-0,1-0
-?,(Fri) Feb/23 2018 (8),Chateauroux (27),Ajaccio GFCO (27),4-1,1-1
-?,(Fri) Feb/23 2018 (8),Le Havre (27),Bourg Peronnas (27),0-0,0-0
-?,(Fri) Feb/23 2018 (8),Lens (27),Clermont (27),0-1,0-0
-?,(Fri) Feb/23 2018 (8),Niort (27),Nimes (27),1-4,1-2
-?,(Fri) Feb/23 2018 (8),Reims (27),Quevilly Rouen (27),2-1,2-0
-?,(Fri) Feb/23 2018 (8),Tours (27),Orleans (27),1-1,1-0
-?,(Sat) Feb/24 2018 (8),Paris FC (27),Brest (27),0-1,0-0
-?,(Mon) Feb/26 2018 (9),Nancy (27),Lorient (27),0-2,0-1
-?,(Fri) Mar/2 2018 (9),Ajaccio GFCO (28),Lens (28),1-1,1-0
-?,(Fri) Mar/2 2018 (9),Bourg Peronnas (28),Ajaccio (28),5-4,2-2
-?,(Fri) Mar/2 2018 (9),Brest (28),Tours (28),1-3,1-1
-?,(Fri) Mar/2 2018 (9),Chateauroux (28),Nancy (28),1-0,1-0
-?,(Fri) Mar/2 2018 (9),Clermont (28),Reims (28),2-1,1-1
-?,(Fri) Mar/2 2018 (9),Quevilly Rouen (28),Niort (28),1-2,0-1
-?,(Fri) Mar/2 2018 (9),Valenciennes (28),Orleans (28),0-1,0-1
-?,(Sat) Mar/3 2018 (9),Nimes (28),Paris FC (28),2-1,0-0
-?,(Mon) Mar/5 2018 (10),Lorient (28),Le Havre (28),1-0,1-0
-?,(Fri) Mar/9 2018 (10),Ajaccio (29),Quevilly Rouen (29),2-0,2-0
-?,(Fri) Mar/9 2018 (10),Auxerre (28),Brest (29),1-2,0-1
-?,(Fri) Mar/9 2018 (10),Le Havre (29),Clermont (29),2-1,1-0
-?,(Fri) Mar/9 2018 (10),Nancy (29),Ajaccio GFCO (29),1-0,0-0
-?,(Fri) Mar/9 2018 (10),Niort (29),Lorient (29),1-2,0-2
-?,(Fri) Mar/9 2018 (10),Orleans (29),Nimes (29),1-4,0-2
-?,(Fri) Mar/9 2018 (10),Reims (29),Chateauroux (29),4-0,2-0
-?,(Sat) Mar/10 2018 (10),Paris FC (29),Sochaux (28),2-0,0-0
-?,(Mon) Mar/12 2018 (11),Lens (29),Bourg Peronnas (29),0-1,0-0
-?,(Tue) Mar/13 2018 (11),Sochaux (29),Auxerre (29),0-4,0-2
-?,(Fri) Mar/16 2018 (11),Ajaccio GFCO (30),Ajaccio (30),0-1,0-1
-?,(Fri) Mar/16 2018 (11),Bourg Peronnas (30),Niort (30),0-1,0-0
-?,(Fri) Mar/16 2018 (11),Chateauroux (30),Le Havre (30),2-1,1-0
-?,(Fri) Mar/16 2018 (11),Clermont (30),Nancy (30),2-0,1-0
-?,(Fri) Mar/16 2018 (11),Lorient (30),Orleans (30),3-1,1-0
-?,(Fri) Mar/16 2018 (11),Quevilly Rouen (30),Auxerre (30),4-1,2-1
-?,(Fri) Mar/16 2018 (11),Sochaux (30),Tours (29),0-0,0-0
-?,(Fri) Mar/16 2018 (11),Valenciennes (29),Paris FC (30),2-4,2-1
-?,(Sat) Mar/17 2018 (11),Reims (30),Lens (30),3-1,2-0
-?,(Mon) Mar/19 2018 (12),Brest (30),Nimes (30),0-2,0-1
-?,(Fri) Mar/30 2018 (13),Ajaccio (31),Clermont (31),2-1,0-0
-?,(Fri) Mar/30 2018 (13),Auxerre (31),Bourg Peronnas (31),3-1,1-1
-?,(Fri) Mar/30 2018 (13),Le Havre (31),Quevilly Rouen (31),0-2,0-1
-?,(Fri) Mar/30 2018 (13),Nimes (31),Valenciennes (30),1-0,1-0
-?,(Fri) Mar/30 2018 (13),Niort (31),Sochaux (31),1-1,0-1
-?,(Fri) Mar/30 2018 (13),Orleans (31),Brest (31),1-1,1-1
-?,(Fri) Mar/30 2018 (13),Paris FC (31),Ajaccio GFCO (31),0-0,0-0
-?,(Fri) Mar/30 2018 (13),Tours (30),Lorient (31),3-1,0-1
-?,(Sat) Mar/31 2018 (13),Nancy (31),Reims (31),0-2,0-0
-?,(Mon) Apr/2 2018 (14),Lens (31),Chateauroux (31),2-1,1-0
-?,(Tue) Apr/3 2018 (14),Tours (31),Valenciennes (31),1-2,0-1
-?,(Fri) Apr/6 2018 (14),Ajaccio GFCO (32),Auxerre (32),3-1,1-0
-?,(Fri) Apr/6 2018 (14),Bourg Peronnas (32),Tours (32),1-1,0-1
-?,(Fri) Apr/6 2018 (14),Brest (32),Valenciennes (32),3-1,1-1
-?,(Fri) Apr/6 2018 (14),Chateauroux (32),Ajaccio (32),0-2,0-1
-?,(Fri) Apr/6 2018 (14),Clermont (32),Niort (32),2-2,1-0
-?,(Fri) Apr/6 2018 (14),Lorient (32),Paris FC (32),2-0,0-0
-?,(Fri) Apr/6 2018 (14),Quevilly Rouen (32),Nimes (32),1-3,0-1
-?,(Fri) Apr/6 2018 (14),Sochaux (32),Orleans (32),3-2,1-0
-?,(Mon) Apr/9 2018 (15),Lens (32),Nancy (32),1-1,1-1
-?,(Fri) Apr/13 2018 (15),Ajaccio (33),Nancy (33),2-0,0-0
-?,(Fri) Apr/13 2018 (15),Auxerre (33),Clermont (33),1-2,0-0
-?,(Fri) Apr/13 2018 (15),Le Havre (32),Ajaccio GFCO (33),2-1,1-1
-?,(Fri) Apr/13 2018 (15),Nimes (33),Sochaux (33),0-2,0-0
-?,(Fri) Apr/13 2018 (15),Niort (33),Lens (33),2-2,1-1
-?,(Fri) Apr/13 2018 (15),Orleans (33),Quevilly Rouen (33),2-1,1-0
-?,(Fri) Apr/13 2018 (15),Tours (33),Chateauroux (33),0-1,0-1
-?,(Fri) Apr/13 2018 (15),Valenciennes (33),Bourg Peronnas (33),2-2,0-0
-?,(Sat) Apr/14 2018 (15),Paris FC (33),Reims (32),0-3,0-1
-?,(Mon) Apr/16 2018 (16),Brest (33),Lorient (33),3-0,1-0
-?,(Fri) Apr/20 2018 (16),Ajaccio GFCO (34),Tours (34),3-2,1-0
-?,(Fri) Apr/20 2018 (16),Bourg Peronnas (34),Nimes (34),2-2,1-1
-?,(Fri) Apr/20 2018 (16),Chateauroux (34),Niort (34),2-1,1-1
-?,(Fri) Apr/20 2018 (16),Clermont (34),Orleans (34),4-2,1-1
-?,(Fri) Apr/20 2018 (16),Lens (34),Le Havre (33),3-3,3-1
-?,(Fri) Apr/20 2018 (16),Lorient (34),Valenciennes (34),0-1,0-1
-?,(Fri) Apr/20 2018 (16),Quevilly Rouen (34),Paris FC (34),0-4,0-1
-?,(Fri) Apr/20 2018 (16),Reims (33),Ajaccio (34),1-0,0-0
-?,(Fri) Apr/20 2018 (16),Sochaux (34),Brest (34),1-1,1-1
-?,(Sat) Apr/21 2018 (16),Nancy (34),Auxerre (34),2-1,2-1
-?,(Mon) Apr/23 2018 (17),Ajaccio (35),Lens (35),2-0,1-0
-?,(Tue) Apr/24 2018 (17),Auxerre (35),Reims (34),1-4,1-0
-?,(Tue) Apr/24 2018 (17),Brest (35),Clermont (35),1-0,0-0
-?,(Tue) Apr/24 2018 (17),Le Havre (34),Nancy (35),3-0,0-0
-?,(Tue) Apr/24 2018 (17),Nimes (35),Lorient (35),1-0,1-0
-?,(Tue) Apr/24 2018 (17),Niort (35),Ajaccio GFCO (35),4-1,2-1
-?,(Tue) Apr/24 2018 (17),Orleans (35),Bourg Peronnas (35),5-1,2-1
-?,(Tue) Apr/24 2018 (17),Paris FC (35),Chateauroux (35),0-0,0-0
-?,(Tue) Apr/24 2018 (17),Tours (35),Quevilly Rouen (35),2-2,1-1
-?,(Tue) Apr/24 2018 (17),Valenciennes (35),Sochaux (35),2-2,1-1
-?,(Fri) Apr/27 2018 (17),Ajaccio GFCO (36),Orleans (36),1-0,0-0
-?,(Fri) Apr/27 2018 (17),Bourg Peronnas (36),Brest (36),2-4,1-3
-?,(Fri) Apr/27 2018 (17),Chateauroux (36),Auxerre (36),1-2,1-0
-?,(Fri) Apr/27 2018 (17),Le Havre (35),Ajaccio (36),2-0,1-0
-?,(Fri) Apr/27 2018 (17),Nancy (36),Tours (36),3-1,0-1
-?,(Fri) Apr/27 2018 (17),Quevilly Rouen (36),Valenciennes (36),2-2,1-0
-?,(Fri) Apr/27 2018 (17),Reims (35),Niort (36),3-1,2-0
-?,(Fri) Apr/27 2018 (17),Sochaux (36),Lorient (36),0-2,0-1
-?,(Sat) Apr/28 2018 (17),Clermont (36),Nimes (36),1-1,0-0
-?,(Mon) Apr/30 2018 (18),Lens (36),Paris FC (36),1-0,0-0
-?,(Mon) Apr/30 2018 (18),Reims (36),Le Havre (36),0-1,0-1
-?,(Fri) May/4 2018 (18),Auxerre (37),Ajaccio (37),1-1,0-1
-?,(Fri) May/4 2018 (18),Brest (37),Quevilly Rouen (37),2-0,2-0
-?,(Fri) May/4 2018 (18),Lorient (37),Bourg Peronnas (37),6-0,3-0
-?,(Fri) May/4 2018 (18),Nimes (37),Ajaccio GFCO (37),4-0,2-0
-?,(Fri) May/4 2018 (18),Niort (37),Le Havre (37),0-1,0-1
-?,(Fri) May/4 2018 (18),Orleans (37),Chateauroux (37),1-1,0-0
-?,(Fri) May/4 2018 (18),Paris FC (37),Nancy (37),2-1,1-0
-?,(Fri) May/4 2018 (18),Sochaux (37),Clermont (37),1-3,1-1
-?,(Fri) May/4 2018 (18),Tours (37),Lens (37),4-2,3-1
-?,(Fri) May/4 2018 (18),Valenciennes (37),Reims (37),1-3,1-2
-?,(Fri) May/11 2018 (19),Ajaccio (38),Niort (38),2-2,1-0
-?,(Fri) May/11 2018 (19),Ajaccio GFCO (38),Valenciennes (38),3-4,1-1
-?,(Fri) May/11 2018 (19),Bourg Peronnas (38),Sochaux (38),2-1,2-0
-?,(Fri) May/11 2018 (19),Chateauroux (38),Brest (38),2-2,0-1
-?,(Fri) May/11 2018 (19),Clermont (38),Paris FC (38),2-2,0-1
-?,(Fri) May/11 2018 (19),Le Havre (38),Tours (38),2-0,2-0
-?,(Fri) May/11 2018 (19),Lens (38),Auxerre (38),2-1,0-0
-?,(Fri) May/11 2018 (19),Nancy (38),Orleans (38),3-0,2-0
-?,(Fri) May/11 2018 (19),Quevilly Rouen (38),Lorient (38),3-0,2-0
-?,(Fri) May/11 2018 (19),Reims (38),Nimes (38),2-2,0-1
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 28 Jul 2017 (30),Brest (1),2-3,1-0,Chateauroux (1)
+?,(Fri) 28 Jul 2017 (30),Nimes (1),0-1,0-0,Reims (1)
+?,(Fri) 28 Jul 2017 (30),Niort (1),0-0,0-0,Ajaccio (1)
+?,(Fri) 28 Jul 2017 (30),Orleans (1),3-1,1-1,Nancy (1)
+?,(Fri) 28 Jul 2017 (30),Paris FC (1),0-0,0-0,Clermont (1)
+?,(Fri) 28 Jul 2017 (30),Sochaux (1),2-0,1-0,Bourg Peronnas (1)
+?,(Fri) 28 Jul 2017 (30),Tours (1),0-3,0-1,Le Havre (1)
+?,(Fri) 28 Jul 2017 (30),Valenciennes (1),1-1,0-1,Ajaccio GFCO (1)
+?,(Sat) 29 Jul 2017 (30),Lorient (1),1-1,0-1,Quevilly Rouen (1)
+?,(Mon) 31 Jul 2017 (31),Auxerre (1),1-0,0-0,Lens (1)
+?,(Fri) 4 Aug 2017 (31),Ajaccio (2),2-1,1-0,Brest (2)
+?,(Fri) 4 Aug 2017 (31),Ajaccio GFCO (2),0-0,0-0,Lorient (2)
+?,(Fri) 4 Aug 2017 (31),Bourg Peronnas (2),1-2,0-2,Paris FC (2)
+?,(Fri) 4 Aug 2017 (31),Chateauroux (2),0-1,0-0,Valenciennes (2)
+?,(Fri) 4 Aug 2017 (31),Clermont (2),2-0,0-0,Tours (2)
+?,(Fri) 4 Aug 2017 (31),Le Havre (2),4-1,0-1,Auxerre (2)
+?,(Fri) 4 Aug 2017 (31),Lens (2),1-2,1-0,Nimes (2)
+?,(Fri) 4 Aug 2017 (31),Nancy (2),0-0,0-0,Niort (2)
+?,(Fri) 4 Aug 2017 (31),Quevilly Rouen (2),1-1,0-0,Sochaux (2)
+?,(Sat) 5 Aug 2017 (31),Reims (2),2-0,1-0,Orleans (2)
+?,(Fri) 11 Aug 2017 (32),Brest (3),0-0,0-0,Ajaccio GFCO (3)
+?,(Fri) 11 Aug 2017 (32),Niort (3),2-0,0-0,Auxerre (3)
+?,(Fri) 11 Aug 2017 (32),Orleans (3),0-0,0-0,Ajaccio (3)
+?,(Fri) 11 Aug 2017 (32),Paris FC (3),0-3,0-1,Le Havre (3)
+?,(Fri) 11 Aug 2017 (32),Quevilly Rouen (3),1-4,0-1,Bourg Peronnas (3)
+?,(Fri) 11 Aug 2017 (32),Tours (3),0-1,0-0,Reims (3)
+?,(Fri) 11 Aug 2017 (32),Valenciennes (3),0-0,0-0,Clermont (3)
+?,(Sat) 12 Aug 2017 (32),Sochaux (3),3-2,1-0,Lens (3)
+?,(Mon) 14 Aug 2017 (33),Lorient (3),3-0,0-0,Chateauroux (3)
+?,(Mon) 14 Aug 2017 (33),Nimes (3),0-0,0-0,Nancy (3)
+?,(Fri) 18 Aug 2017 (33),Ajaccio (4),2-0,0-0,Paris FC (4)
+?,(Fri) 18 Aug 2017 (33),Ajaccio GFCO (4),1-0,0-0,Quevilly Rouen (4)
+?,(Fri) 18 Aug 2017 (33),Auxerre (4),1-3,1-2,Orleans (4)
+?,(Fri) 18 Aug 2017 (33),Clermont (4),0-2,0-0,Lorient (4)
+?,(Fri) 18 Aug 2017 (33),Le Havre (4),1-0,0-0,Valenciennes (4)
+?,(Fri) 18 Aug 2017 (33),Nancy (4),2-2,2-1,Sochaux (4)
+?,(Fri) 18 Aug 2017 (33),Niort (4),2-1,1-0,Tours (4)
+?,(Fri) 18 Aug 2017 (33),Reims (4),3-0,0-0,Bourg Peronnas (4)
+?,(Sat) 19 Aug 2017 (33),Lens (4),2-4,1-1,Brest (4)
+?,(Mon) 21 Aug 2017 (34),Chateauroux (4),1-0,0-0,Nimes (4)
+?,(Fri) 25 Aug 2017 (34),Bourg Peronnas (5),2-0,0-0,Ajaccio GFCO (5)
+?,(Fri) 25 Aug 2017 (34),Brest (5),2-1,0-1,Nancy (5)
+?,(Fri) 25 Aug 2017 (34),Nimes (5),1-0,1-0,Le Havre (5)
+?,(Fri) 25 Aug 2017 (34),Paris FC (5),2-1,1-0,Auxerre (5)
+?,(Fri) 25 Aug 2017 (34),Quevilly Rouen (5),0-2,0-2,Clermont (5)
+?,(Fri) 25 Aug 2017 (34),Sochaux (5),1-5,0-3,Chateauroux (5)
+?,(Fri) 25 Aug 2017 (34),Tours (5),1-3,0-2,Ajaccio (5)
+?,(Fri) 25 Aug 2017 (34),Valenciennes (5),4-1,3-0,Niort (5)
+?,(Sat) 26 Aug 2017 (34),Lorient (5),2-1,1-1,Reims (5)
+?,(Mon) 28 Aug 2017 (35),Orleans (5),2-0,2-0,Lens (5)
+?,(Fri) 8 Sep 2017 (36),Ajaccio (6),1-4,1-2,Nimes (6)
+?,(Fri) 8 Sep 2017 (36),Ajaccio GFCO (6),0-1,0-0,Sochaux (6)
+?,(Fri) 8 Sep 2017 (36),Auxerre (6),1-1,1-1,Tours (6)
+?,(Fri) 8 Sep 2017 (36),Chateauroux (6),3-2,2-0,Quevilly Rouen (6)
+?,(Fri) 8 Sep 2017 (36),Clermont (6),4-1,1-0,Bourg Peronnas (6)
+?,(Fri) 8 Sep 2017 (36),Le Havre (6),1-1,0-1,Orleans (6)
+?,(Fri) 8 Sep 2017 (36),Nancy (6),3-0,0-0,Valenciennes (6)
+?,(Fri) 8 Sep 2017 (36),Niort (6),0-2,0-2,Paris FC (6)
+?,(Sat) 9 Sep 2017 (36),Lens (6),2-3,1-1,Lorient (6)
+?,(Mon) 11 Sep 2017 (37),Reims (6),0-1,0-0,Brest (6)
+?,(Fri) 15 Sep 2017 (37),Ajaccio GFCO (7),2-1,1-1,Clermont (7)
+?,(Fri) 15 Sep 2017 (37),Bourg Peronnas (7),3-0,3-0,Chateauroux (7)
+?,(Fri) 15 Sep 2017 (37),Brest (7),1-0,0-0,Le Havre (7)
+?,(Fri) 15 Sep 2017 (37),Lorient (7),2-0,1-0,Ajaccio (7)
+?,(Fri) 15 Sep 2017 (37),Nimes (7),3-0,0-0,Auxerre (7)
+?,(Fri) 15 Sep 2017 (37),Orleans (7),3-1,2-0,Niort (7)
+?,(Fri) 15 Sep 2017 (37),Paris FC (7),2-0,1-0,Tours (7)
+?,(Fri) 15 Sep 2017 (37),Quevilly Rouen (7),2-0,0-0,Nancy (7)
+?,(Fri) 15 Sep 2017 (37),Valenciennes (7),1-0,0-0,Lens (7)
+?,(Sat) 16 Sep 2017 (37),Sochaux (7),2-4,1-1,Reims (7)
+?,(Mon) 18 Sep 2017 (38),Lens (8),2-0,0-0,Quevilly Rouen (8)
+?,(Tue) 19 Sep 2017 (38),Ajaccio (8),3-0,1-0,Valenciennes (8)
+?,(Tue) 19 Sep 2017 (38),Auxerre (8),1-0,0-0,Lorient (8)
+?,(Tue) 19 Sep 2017 (38),Chateauroux (8),0-2,0-0,Clermont (8)
+?,(Tue) 19 Sep 2017 (38),Le Havre (8),1-0,1-0,Sochaux (8)
+?,(Tue) 19 Sep 2017 (38),Nancy (8),2-1,0-1,Bourg Peronnas (8)
+?,(Tue) 19 Sep 2017 (38),Niort (8),0-2,0-0,Brest (8)
+?,(Tue) 19 Sep 2017 (38),Paris FC (8),1-0,0-0,Orleans (8)
+?,(Tue) 19 Sep 2017 (38),Reims (8),5-0,3-0,Ajaccio GFCO (8)
+?,(Tue) 19 Sep 2017 (38),Tours (8),0-4,0-1,Nimes (8)
+?,(Fri) 22 Sep 2017 (38),Ajaccio GFCO (9),2-1,1-0,Chateauroux (9)
+?,(Fri) 22 Sep 2017 (38),Bourg Peronnas (9),2-1,1-0,Le Havre (9)
+?,(Fri) 22 Sep 2017 (38),Brest (9),1-1,0-1,Paris FC (9)
+?,(Fri) 22 Sep 2017 (38),Nimes (9),1-5,1-2,Niort (9)
+?,(Fri) 22 Sep 2017 (38),Orleans (9),1-1,1-1,Tours (9)
+?,(Fri) 22 Sep 2017 (38),Quevilly Rouen (9),1-2,0-0,Reims (9)
+?,(Fri) 22 Sep 2017 (38),Sochaux (9),1-6,1-5,Ajaccio (9)
+?,(Fri) 22 Sep 2017 (38),Valenciennes (9),0-2,0-0,Auxerre (9)
+?,(Sat) 23 Sep 2017 (38),Lorient (9),0-0,0-0,Nancy (9)
+?,(Mon) 25 Sep 2017 (39),Clermont (9),1-0,1-0,Lens (9)
+?,(Fri) 29 Sep 2017 (39),Ajaccio (10),2-0,0-0,Bourg Peronnas (10)
+?,(Fri) 29 Sep 2017 (39),Auxerre (10),2-0,0-0,Sochaux (10)
+?,(Fri) 29 Sep 2017 (39),Lens (10),2-0,1-0,Ajaccio GFCO (10)
+?,(Fri) 29 Sep 2017 (39),Nancy (10),4-1,3-0,Chateauroux (10)
+?,(Fri) 29 Sep 2017 (39),Niort (10),2-1,1-0,Quevilly Rouen (10)
+?,(Fri) 29 Sep 2017 (39),Orleans (10),3-4,3-1,Valenciennes (10)
+?,(Fri) 29 Sep 2017 (39),Paris FC (10),2-1,2-1,Nimes (10)
+?,(Fri) 29 Sep 2017 (39),Tours (10),1-2,0-0,Brest (10)
+?,(Sat) 30 Sep 2017 (39),Reims (10),1-0,0-0,Clermont (10)
+?,(Mon) 2 Oct 2017 (40),Le Havre (10),3-2,2-1,Lorient (10)
+?,(Fri) 13 Oct 2017 (41),Ajaccio GFCO (11),2-1,1-0,Nancy (11)
+?,(Fri) 13 Oct 2017 (41),Bourg Peronnas (11),0-6,0-3,Lens (11)
+?,(Fri) 13 Oct 2017 (41),Brest (11),1-1,1-1,Auxerre (11)
+?,(Fri) 13 Oct 2017 (41),Chateauroux (11),3-1,1-1,Reims (11)
+?,(Fri) 13 Oct 2017 (41),Nimes (11),4-1,2-1,Orleans (11)
+?,(Fri) 13 Oct 2017 (41),Quevilly Rouen (11),0-1,0-0,Ajaccio (11)
+?,(Fri) 13 Oct 2017 (41),Sochaux (11),1-0,1-0,Paris FC (11)
+?,(Fri) 13 Oct 2017 (41),Valenciennes (11),2-0,0-0,Tours (11)
+?,(Sat) 14 Oct 2017 (41),Clermont (11),3-0,1-0,Le Havre (11)
+?,(Mon) 16 Oct 2017 (42),Lorient (11),0-0,0-0,Niort (11)
+?,(Fri) 20 Oct 2017 (42),Auxerre (12),2-1,0-1,Quevilly Rouen (12)
+?,(Fri) 20 Oct 2017 (42),Le Havre (12),1-1,1-0,Chateauroux (12)
+?,(Fri) 20 Oct 2017 (42),Nancy (12),2-2,1-1,Clermont (12)
+?,(Fri) 20 Oct 2017 (42),Nimes (12),4-0,1-0,Brest (12)
+?,(Fri) 20 Oct 2017 (42),Niort (12),2-0,0-0,Bourg Peronnas (12)
+?,(Fri) 20 Oct 2017 (42),Orleans (12),1-2,1-0,Lorient (12)
+?,(Fri) 20 Oct 2017 (42),Paris FC (12),3-2,1-1,Valenciennes (12)
+?,(Fri) 20 Oct 2017 (42),Tours (12),0-1,0-0,Sochaux (12)
+?,(Sat) 21 Oct 2017 (42),Lens (12),0-1,0-1,Reims (12)
+?,(Mon) 23 Oct 2017 (43),Ajaccio (12),2-0,1-0,Ajaccio GFCO (12)
+?,(Fri) 27 Oct 2017 (43),Ajaccio GFCO (13),0-0,0-0,Paris FC (13)
+?,(Fri) 27 Oct 2017 (43),Bourg Peronnas (13),1-1,0-0,Auxerre (13)
+?,(Fri) 27 Oct 2017 (43),Brest (13),0-1,0-1,Orleans (13)
+?,(Fri) 27 Oct 2017 (43),Quevilly Rouen (13),0-2,0-1,Le Havre (13)
+?,(Fri) 27 Oct 2017 (43),Sochaux (13),2-1,2-1,Niort (13)
+?,(Sat) 28 Oct 2017 (43),Clermont (13),1-1,1-0,Ajaccio (13)
+?,(Sat) 28 Oct 2017 (43),Lorient (13),2-0,0-0,Tours (13)
+?,(Sat) 28 Oct 2017 (43),Reims (13),3-0,2-0,Nancy (13)
+?,(Sat) 28 Oct 2017 (43),Valenciennes (13),1-2,1-1,Nimes (13)
+?,(Mon) 30 Oct 2017 (44),Chateauroux (13),0-0,0-0,Lens (13)
+?,(Fri) 3 Nov 2017 (44),Ajaccio (14),1-2,0-1,Chateauroux (14)
+?,(Fri) 3 Nov 2017 (44),Auxerre (14),0-1,0-1,Ajaccio GFCO (14)
+?,(Fri) 3 Nov 2017 (44),Nimes (14),4-1,2-0,Quevilly Rouen (14)
+?,(Fri) 3 Nov 2017 (44),Niort (14),1-1,0-0,Clermont (14)
+?,(Fri) 3 Nov 2017 (44),Orleans (14),3-3,2-2,Sochaux (14)
+?,(Fri) 3 Nov 2017 (44),Paris FC (14),1-1,1-0,Lorient (14)
+?,(Fri) 3 Nov 2017 (44),Tours (14),3-2,2-2,Bourg Peronnas (14)
+?,(Fri) 3 Nov 2017 (44),Valenciennes (14),0-0,0-0,Brest (14)
+?,(Sat) 4 Nov 2017 (44),Nancy (14),1-1,1-0,Lens (14)
+?,(Mon) 6 Nov 2017 (45),Le Havre (14),0-0,0-0,Reims (14)
+?,(Fri) 17 Nov 2017 (46),Ajaccio GFCO (15),1-1,1-0,Le Havre (15)
+?,(Fri) 17 Nov 2017 (46),Bourg Peronnas (15),1-3,1-1,Valenciennes (15)
+?,(Fri) 17 Nov 2017 (46),Chateauroux (15),1-0,0-0,Tours (15)
+?,(Fri) 17 Nov 2017 (46),Clermont (15),1-0,0-0,Auxerre (15)
+?,(Fri) 17 Nov 2017 (46),Nancy (15),2-2,2-0,Ajaccio (15)
+?,(Fri) 17 Nov 2017 (46),Quevilly Rouen (15),1-0,1-0,Orleans (15)
+?,(Fri) 17 Nov 2017 (46),Reims (15),1-1,0-0,Paris FC (15)
+?,(Fri) 17 Nov 2017 (46),Sochaux (15),2-1,1-1,Nimes (15)
+?,(Sat) 18 Nov 2017 (46),Lorient (15),4-2,1-1,Brest (15)
+?,(Mon) 20 Nov 2017 (47),Lens (15),3-1,1-0,Niort (15)
+?,(Fri) 24 Nov 2017 (47),Ajaccio (16),0-1,0-0,Reims (16)
+?,(Fri) 24 Nov 2017 (47),Auxerre (16),1-1,1-0,Nancy (16)
+?,(Fri) 24 Nov 2017 (47),Brest (16),1-0,1-0,Sochaux (16)
+?,(Fri) 24 Nov 2017 (47),Nimes (16),4-0,1-0,Bourg Peronnas (16)
+?,(Fri) 24 Nov 2017 (47),Niort (16),2-1,2-0,Chateauroux (16)
+?,(Fri) 24 Nov 2017 (47),Orleans (16),1-2,0-1,Clermont (16)
+?,(Fri) 24 Nov 2017 (47),Paris FC (16),2-0,2-0,Quevilly Rouen (16)
+?,(Fri) 24 Nov 2017 (47),Tours (16),1-2,0-1,Ajaccio GFCO (16)
+?,(Fri) 24 Nov 2017 (47),Valenciennes (16),4-2,2-0,Lorient (16)
+?,(Sat) 25 Nov 2017 (47),Le Havre (16),1-0,0-0,Lens (16)
+?,(Mon) 27 Nov 2017 (48),Reims (17),2-0,1-0,Auxerre (17)
+?,(Tue) 28 Nov 2017 (48),Ajaccio GFCO (17),0-2,0-1,Niort (17)
+?,(Tue) 28 Nov 2017 (48),Bourg Peronnas (17),4-0,2-0,Orleans (17)
+?,(Tue) 28 Nov 2017 (48),Chateauroux (17),0-0,0-0,Paris FC (17)
+?,(Tue) 28 Nov 2017 (48),Clermont (17),1-2,1-0,Brest (17)
+?,(Tue) 28 Nov 2017 (48),Lens (17),2-0,2-0,Ajaccio (17)
+?,(Tue) 28 Nov 2017 (48),Lorient (17),1-2,0-2,Nimes (17)
+?,(Tue) 28 Nov 2017 (48),Nancy (17),0-3,0-2,Le Havre (17)
+?,(Tue) 28 Nov 2017 (48),Quevilly Rouen (17),4-0,1-0,Tours (17)
+?,(Tue) 28 Nov 2017 (48),Sochaux (17),3-1,1-1,Valenciennes (17)
+?,(Fri) 8 Dec 2017 (49),Auxerre (18),1-2,1-0,Chateauroux (18)
+?,(Fri) 8 Dec 2017 (49),Brest (18),3-0,1-0,Bourg Peronnas (18)
+?,(Fri) 8 Dec 2017 (49),Lorient (18),2-1,0-0,Sochaux (18)
+?,(Fri) 8 Dec 2017 (49),Niort (18),1-2,1-0,Reims (18)
+?,(Fri) 8 Dec 2017 (49),Paris FC (18),2-2,1-1,Lens (18)
+?,(Fri) 8 Dec 2017 (49),Tours (18),1-2,1-2,Nancy (18)
+?,(Fri) 8 Dec 2017 (49),Valenciennes (18),1-1,1-0,Quevilly Rouen (18)
+?,(Sat) 9 Dec 2017 (49),Ajaccio (18),1-0,1-0,Le Havre (18)
+?,(Mon) 11 Dec 2017 (50),Nimes (18),3-1,2-1,Clermont (18)
+?,(Tue) 12 Dec 2017 (50),Orleans (18),2-0,2-0,Ajaccio GFCO (18)
+?,(Fri) 15 Dec 2017 (50),Ajaccio (19),3-1,1-0,Auxerre (19)
+?,(Fri) 15 Dec 2017 (50),Bourg Peronnas (19),2-2,2-1,Lorient (19)
+?,(Fri) 15 Dec 2017 (50),Chateauroux (19),0-0,0-0,Orleans (19)
+?,(Fri) 15 Dec 2017 (50),Clermont (19),0-2,0-0,Sochaux (19)
+?,(Fri) 15 Dec 2017 (50),Le Havre (19),2-1,1-1,Niort (19)
+?,(Fri) 15 Dec 2017 (50),Nancy (19),0-1,0-0,Paris FC (19)
+?,(Fri) 15 Dec 2017 (50),Quevilly Rouen (19),1-4,0-1,Brest (19)
+?,(Sat) 16 Dec 2017 (50),Reims (19),5-1,3-1,Valenciennes (19)
+?,(Mon) 18 Dec 2017 (51),Lens (19),2-0,2-0,Tours (19)
+?,(Fri) 12 Jan 2018 (2),Auxerre (20),1-1,0-0,Le Havre (20)
+?,(Fri) 12 Jan 2018 (2),Brest (20),2-3,0-3,Ajaccio (20)
+?,(Fri) 12 Jan 2018 (2),Nimes (19),0-1,0-0,Lens (20)
+?,(Fri) 12 Jan 2018 (2),Niort (20),0-0,0-0,Nancy (20)
+?,(Fri) 12 Jan 2018 (2),Orleans (20),0-2,0-2,Reims (20)
+?,(Fri) 12 Jan 2018 (2),Paris FC (20),2-0,0-0,Bourg Peronnas (20)
+?,(Fri) 12 Jan 2018 (2),Sochaux (20),0-1,0-0,Quevilly Rouen (20)
+?,(Fri) 12 Jan 2018 (2),Tours (20),0-0,0-0,Clermont (20)
+?,(Fri) 12 Jan 2018 (2),Valenciennes (20),1-2,1-0,Chateauroux (20)
+?,(Sat) 13 Jan 2018 (2),Lorient (20),4-1,2-0,Ajaccio GFCO (19)
+?,(Tue) 16 Jan 2018 (3),Ajaccio (21),1-1,1-1,Orleans (21)
+?,(Tue) 16 Jan 2018 (3),Ajaccio GFCO (20),1-1,1-0,Brest (21)
+?,(Tue) 16 Jan 2018 (3),Auxerre (21),5-0,3-0,Niort (21)
+?,(Tue) 16 Jan 2018 (3),Bourg Peronnas (21),3-5,1-1,Quevilly Rouen (21)
+?,(Tue) 16 Jan 2018 (3),Chateauroux (21),3-1,1-1,Lorient (21)
+?,(Tue) 16 Jan 2018 (3),Clermont (21),3-0,1-0,Valenciennes (21)
+?,(Tue) 16 Jan 2018 (3),Le Havre (21),1-1,1-1,Paris FC (21)
+?,(Tue) 16 Jan 2018 (3),Nancy (21),0-2,0-2,Nimes (20)
+?,(Tue) 16 Jan 2018 (3),Reims (21),1-0,1-0,Tours (21)
+?,(Fri) 19 Jan 2018 (3),Bourg Peronnas (22),0-2,0-0,Reims (22)
+?,(Fri) 19 Jan 2018 (3),Brest (22),1-1,1-0,Lens (21)
+?,(Fri) 19 Jan 2018 (3),Lorient (22),1-1,1-0,Clermont (22)
+?,(Fri) 19 Jan 2018 (3),Orleans (22),2-3,0-1,Auxerre (22)
+?,(Fri) 19 Jan 2018 (3),Quevilly Rouen (22),0-2,0-0,Ajaccio GFCO (21)
+?,(Fri) 19 Jan 2018 (3),Sochaux (21),1-0,0-0,Nancy (22)
+?,(Fri) 19 Jan 2018 (3),Tours (22),2-1,1-1,Niort (22)
+?,(Fri) 19 Jan 2018 (3),Valenciennes (22),1-1,1-0,Le Havre (22)
+?,(Sat) 20 Jan 2018 (3),Nimes (21),3-0,1-0,Chateauroux (22)
+?,(Mon) 22 Jan 2018 (4),Paris FC (22),2-1,2-0,Ajaccio (22)
+?,(Tue) 23 Jan 2018 (4),Ajaccio GFCO (22),2-0,1-0,Nimes (22)
+?,(Fri) 26 Jan 2018 (4),Ajaccio GFCO (23),1-2,1-0,Bourg Peronnas (23)
+?,(Fri) 26 Jan 2018 (4),Auxerre (23),1-1,0-0,Paris FC (23)
+?,(Fri) 26 Jan 2018 (4),Chateauroux (23),1-1,0-0,Sochaux (22)
+?,(Fri) 26 Jan 2018 (4),Clermont (23),1-1,0-0,Quevilly Rouen (23)
+?,(Fri) 26 Jan 2018 (4),Lens (22),0-1,0-0,Orleans (23)
+?,(Fri) 26 Jan 2018 (4),Nancy (23),2-2,0-2,Brest (23)
+?,(Fri) 26 Jan 2018 (4),Niort (23),1-2,1-0,Valenciennes (23)
+?,(Sat) 27 Jan 2018 (4),Ajaccio (23),2-1,1-0,Tours (23)
+?,(Sat) 27 Jan 2018 (4),Le Havre (23),2-1,1-1,Nimes (23)
+?,(Mon) 29 Jan 2018 (5),Reims (23),0-1,0-0,Lorient (23)
+?,(Tue) 30 Jan 2018 (5),Lens (23),0-1,0-0,Sochaux (23)
+?,(Fri) 2 Feb 2018 (5),Bourg Peronnas (24),0-2,0-0,Clermont (24)
+?,(Fri) 2 Feb 2018 (5),Nimes (24),1-1,0-0,Ajaccio (24)
+?,(Fri) 2 Feb 2018 (5),Orleans (24),2-1,2-0,Le Havre (24)
+?,(Fri) 2 Feb 2018 (5),Paris FC (24),0-1,0-0,Niort (24)
+?,(Fri) 2 Feb 2018 (5),Quevilly Rouen (24),0-1,0-1,Chateauroux (24)
+?,(Fri) 2 Feb 2018 (5),Sochaux (24),4-1,1-0,Ajaccio GFCO (24)
+?,(Fri) 2 Feb 2018 (5),Tours (24),0-2,0-1,Auxerre (24)
+?,(Fri) 2 Feb 2018 (5),Valenciennes (24),0-1,0-1,Nancy (24)
+?,(Sat) 3 Feb 2018 (5),Lorient (24),1-1,1-0,Lens (24)
+?,(Mon) 5 Feb 2018 (6),Brest (24),0-0,0-0,Reims (24)
+?,(Fri) 9 Feb 2018 (6),Ajaccio (25),3-2,1-2,Lorient (25)
+?,(Fri) 9 Feb 2018 (6),Chateauroux (25),3-1,2-1,Bourg Peronnas (25)
+?,(Fri) 9 Feb 2018 (6),Clermont (25),1-0,1-0,Ajaccio GFCO (25)
+?,(Fri) 9 Feb 2018 (6),Le Havre (25),1-0,1-0,Brest (25)
+?,(Fri) 9 Feb 2018 (6),Nancy (25),1-2,1-0,Quevilly Rouen (25)
+?,(Fri) 9 Feb 2018 (6),Niort (25),2-3,1-2,Orleans (25)
+?,(Fri) 9 Feb 2018 (6),Reims (25),3-0,1-0,Sochaux (25)
+?,(Fri) 9 Feb 2018 (6),Tours (25),1-2,1-0,Paris FC (25)
+?,(Sat) 10 Feb 2018 (6),Lens (25),1-1,0-1,Valenciennes (25)
+?,(Mon) 12 Feb 2018 (7),Auxerre (25),0-0,0-0,Nimes (25)
+?,(Fri) 16 Feb 2018 (7),Ajaccio GFCO (26),1-2,1-2,Reims (26)
+?,(Fri) 16 Feb 2018 (7),Bourg Peronnas (26),3-2,1-1,Nancy (26)
+?,(Fri) 16 Feb 2018 (7),Brest (26),2-0,0-0,Niort (26)
+?,(Fri) 16 Feb 2018 (7),Clermont (26),1-1,1-0,Chateauroux (26)
+?,(Fri) 16 Feb 2018 (7),Nimes (26),2-2,2-1,Tours (26)
+?,(Fri) 16 Feb 2018 (7),Orleans (26),1-1,0-1,Paris FC (26)
+?,(Fri) 16 Feb 2018 (7),Sochaux (26),3-2,1-2,Le Havre (26)
+?,(Fri) 16 Feb 2018 (7),Valenciennes (26),2-0,1-0,Ajaccio (26)
+?,(Sat) 17 Feb 2018 (7),Lorient (26),1-3,1-1,Auxerre (26)
+?,(Mon) 19 Feb 2018 (8),Quevilly Rouen (26),1-2,1-0,Lens (26)
+?,(Fri) 23 Feb 2018 (8),Ajaccio (27),3-2,1-1,Sochaux (27)
+?,(Fri) 23 Feb 2018 (8),Auxerre (27),2-0,1-0,Valenciennes (27)
+?,(Fri) 23 Feb 2018 (8),Chateauroux (27),4-1,1-1,Ajaccio GFCO (27)
+?,(Fri) 23 Feb 2018 (8),Le Havre (27),0-0,0-0,Bourg Peronnas (27)
+?,(Fri) 23 Feb 2018 (8),Lens (27),0-1,0-0,Clermont (27)
+?,(Fri) 23 Feb 2018 (8),Niort (27),1-4,1-2,Nimes (27)
+?,(Fri) 23 Feb 2018 (8),Reims (27),2-1,2-0,Quevilly Rouen (27)
+?,(Fri) 23 Feb 2018 (8),Tours (27),1-1,1-0,Orleans (27)
+?,(Sat) 24 Feb 2018 (8),Paris FC (27),0-1,0-0,Brest (27)
+?,(Mon) 26 Feb 2018 (9),Nancy (27),0-2,0-1,Lorient (27)
+?,(Fri) 2 Mar 2018 (9),Ajaccio GFCO (28),1-1,1-0,Lens (28)
+?,(Fri) 2 Mar 2018 (9),Bourg Peronnas (28),5-4,2-2,Ajaccio (28)
+?,(Fri) 2 Mar 2018 (9),Brest (28),1-3,1-1,Tours (28)
+?,(Fri) 2 Mar 2018 (9),Chateauroux (28),1-0,1-0,Nancy (28)
+?,(Fri) 2 Mar 2018 (9),Clermont (28),2-1,1-1,Reims (28)
+?,(Fri) 2 Mar 2018 (9),Quevilly Rouen (28),1-2,0-1,Niort (28)
+?,(Fri) 2 Mar 2018 (9),Valenciennes (28),0-1,0-1,Orleans (28)
+?,(Sat) 3 Mar 2018 (9),Nimes (28),2-1,0-0,Paris FC (28)
+?,(Mon) 5 Mar 2018 (10),Lorient (28),1-0,1-0,Le Havre (28)
+?,(Fri) 9 Mar 2018 (10),Ajaccio (29),2-0,2-0,Quevilly Rouen (29)
+?,(Fri) 9 Mar 2018 (10),Auxerre (28),1-2,0-1,Brest (29)
+?,(Fri) 9 Mar 2018 (10),Le Havre (29),2-1,1-0,Clermont (29)
+?,(Fri) 9 Mar 2018 (10),Nancy (29),1-0,0-0,Ajaccio GFCO (29)
+?,(Fri) 9 Mar 2018 (10),Niort (29),1-2,0-2,Lorient (29)
+?,(Fri) 9 Mar 2018 (10),Orleans (29),1-4,0-2,Nimes (29)
+?,(Fri) 9 Mar 2018 (10),Reims (29),4-0,2-0,Chateauroux (29)
+?,(Sat) 10 Mar 2018 (10),Paris FC (29),2-0,0-0,Sochaux (28)
+?,(Mon) 12 Mar 2018 (11),Lens (29),0-1,0-0,Bourg Peronnas (29)
+?,(Tue) 13 Mar 2018 (11),Sochaux (29),0-4,0-2,Auxerre (29)
+?,(Fri) 16 Mar 2018 (11),Ajaccio GFCO (30),0-1,0-1,Ajaccio (30)
+?,(Fri) 16 Mar 2018 (11),Bourg Peronnas (30),0-1,0-0,Niort (30)
+?,(Fri) 16 Mar 2018 (11),Chateauroux (30),2-1,1-0,Le Havre (30)
+?,(Fri) 16 Mar 2018 (11),Clermont (30),2-0,1-0,Nancy (30)
+?,(Fri) 16 Mar 2018 (11),Lorient (30),3-1,1-0,Orleans (30)
+?,(Fri) 16 Mar 2018 (11),Quevilly Rouen (30),4-1,2-1,Auxerre (30)
+?,(Fri) 16 Mar 2018 (11),Sochaux (30),0-0,0-0,Tours (29)
+?,(Fri) 16 Mar 2018 (11),Valenciennes (29),2-4,2-1,Paris FC (30)
+?,(Sat) 17 Mar 2018 (11),Reims (30),3-1,2-0,Lens (30)
+?,(Mon) 19 Mar 2018 (12),Brest (30),0-2,0-1,Nimes (30)
+?,(Fri) 30 Mar 2018 (13),Ajaccio (31),2-1,0-0,Clermont (31)
+?,(Fri) 30 Mar 2018 (13),Auxerre (31),3-1,1-1,Bourg Peronnas (31)
+?,(Fri) 30 Mar 2018 (13),Le Havre (31),0-2,0-1,Quevilly Rouen (31)
+?,(Fri) 30 Mar 2018 (13),Nimes (31),1-0,1-0,Valenciennes (30)
+?,(Fri) 30 Mar 2018 (13),Niort (31),1-1,0-1,Sochaux (31)
+?,(Fri) 30 Mar 2018 (13),Orleans (31),1-1,1-1,Brest (31)
+?,(Fri) 30 Mar 2018 (13),Paris FC (31),0-0,0-0,Ajaccio GFCO (31)
+?,(Fri) 30 Mar 2018 (13),Tours (30),3-1,0-1,Lorient (31)
+?,(Sat) 31 Mar 2018 (13),Nancy (31),0-2,0-0,Reims (31)
+?,(Mon) 2 Apr 2018 (14),Lens (31),2-1,1-0,Chateauroux (31)
+?,(Tue) 3 Apr 2018 (14),Tours (31),1-2,0-1,Valenciennes (31)
+?,(Fri) 6 Apr 2018 (14),Ajaccio GFCO (32),3-1,1-0,Auxerre (32)
+?,(Fri) 6 Apr 2018 (14),Bourg Peronnas (32),1-1,0-1,Tours (32)
+?,(Fri) 6 Apr 2018 (14),Brest (32),3-1,1-1,Valenciennes (32)
+?,(Fri) 6 Apr 2018 (14),Chateauroux (32),0-2,0-1,Ajaccio (32)
+?,(Fri) 6 Apr 2018 (14),Clermont (32),2-2,1-0,Niort (32)
+?,(Fri) 6 Apr 2018 (14),Lorient (32),2-0,0-0,Paris FC (32)
+?,(Fri) 6 Apr 2018 (14),Quevilly Rouen (32),1-3,0-1,Nimes (32)
+?,(Fri) 6 Apr 2018 (14),Sochaux (32),3-2,1-0,Orleans (32)
+?,(Mon) 9 Apr 2018 (15),Lens (32),1-1,1-1,Nancy (32)
+?,(Fri) 13 Apr 2018 (15),Ajaccio (33),2-0,0-0,Nancy (33)
+?,(Fri) 13 Apr 2018 (15),Auxerre (33),1-2,0-0,Clermont (33)
+?,(Fri) 13 Apr 2018 (15),Le Havre (32),2-1,1-1,Ajaccio GFCO (33)
+?,(Fri) 13 Apr 2018 (15),Nimes (33),0-2,0-0,Sochaux (33)
+?,(Fri) 13 Apr 2018 (15),Niort (33),2-2,1-1,Lens (33)
+?,(Fri) 13 Apr 2018 (15),Orleans (33),2-1,1-0,Quevilly Rouen (33)
+?,(Fri) 13 Apr 2018 (15),Tours (33),0-1,0-1,Chateauroux (33)
+?,(Fri) 13 Apr 2018 (15),Valenciennes (33),2-2,0-0,Bourg Peronnas (33)
+?,(Sat) 14 Apr 2018 (15),Paris FC (33),0-3,0-1,Reims (32)
+?,(Mon) 16 Apr 2018 (16),Brest (33),3-0,1-0,Lorient (33)
+?,(Fri) 20 Apr 2018 (16),Ajaccio GFCO (34),3-2,1-0,Tours (34)
+?,(Fri) 20 Apr 2018 (16),Bourg Peronnas (34),2-2,1-1,Nimes (34)
+?,(Fri) 20 Apr 2018 (16),Chateauroux (34),2-1,1-1,Niort (34)
+?,(Fri) 20 Apr 2018 (16),Clermont (34),4-2,1-1,Orleans (34)
+?,(Fri) 20 Apr 2018 (16),Lens (34),3-3,3-1,Le Havre (33)
+?,(Fri) 20 Apr 2018 (16),Lorient (34),0-1,0-1,Valenciennes (34)
+?,(Fri) 20 Apr 2018 (16),Quevilly Rouen (34),0-4,0-1,Paris FC (34)
+?,(Fri) 20 Apr 2018 (16),Reims (33),1-0,0-0,Ajaccio (34)
+?,(Fri) 20 Apr 2018 (16),Sochaux (34),1-1,1-1,Brest (34)
+?,(Sat) 21 Apr 2018 (16),Nancy (34),2-1,2-1,Auxerre (34)
+?,(Mon) 23 Apr 2018 (17),Ajaccio (35),2-0,1-0,Lens (35)
+?,(Tue) 24 Apr 2018 (17),Auxerre (35),1-4,1-0,Reims (34)
+?,(Tue) 24 Apr 2018 (17),Brest (35),1-0,0-0,Clermont (35)
+?,(Tue) 24 Apr 2018 (17),Le Havre (34),3-0,0-0,Nancy (35)
+?,(Tue) 24 Apr 2018 (17),Nimes (35),1-0,1-0,Lorient (35)
+?,(Tue) 24 Apr 2018 (17),Niort (35),4-1,2-1,Ajaccio GFCO (35)
+?,(Tue) 24 Apr 2018 (17),Orleans (35),5-1,2-1,Bourg Peronnas (35)
+?,(Tue) 24 Apr 2018 (17),Paris FC (35),0-0,0-0,Chateauroux (35)
+?,(Tue) 24 Apr 2018 (17),Tours (35),2-2,1-1,Quevilly Rouen (35)
+?,(Tue) 24 Apr 2018 (17),Valenciennes (35),2-2,1-1,Sochaux (35)
+?,(Fri) 27 Apr 2018 (17),Ajaccio GFCO (36),1-0,0-0,Orleans (36)
+?,(Fri) 27 Apr 2018 (17),Bourg Peronnas (36),2-4,1-3,Brest (36)
+?,(Fri) 27 Apr 2018 (17),Chateauroux (36),1-2,1-0,Auxerre (36)
+?,(Fri) 27 Apr 2018 (17),Le Havre (35),2-0,1-0,Ajaccio (36)
+?,(Fri) 27 Apr 2018 (17),Nancy (36),3-1,0-1,Tours (36)
+?,(Fri) 27 Apr 2018 (17),Quevilly Rouen (36),2-2,1-0,Valenciennes (36)
+?,(Fri) 27 Apr 2018 (17),Reims (35),3-1,2-0,Niort (36)
+?,(Fri) 27 Apr 2018 (17),Sochaux (36),0-2,0-1,Lorient (36)
+?,(Sat) 28 Apr 2018 (17),Clermont (36),1-1,0-0,Nimes (36)
+?,(Mon) 30 Apr 2018 (18),Lens (36),1-0,0-0,Paris FC (36)
+?,(Mon) 30 Apr 2018 (18),Reims (36),0-1,0-1,Le Havre (36)
+?,(Fri) 4 May 2018 (18),Auxerre (37),1-1,0-1,Ajaccio (37)
+?,(Fri) 4 May 2018 (18),Brest (37),2-0,2-0,Quevilly Rouen (37)
+?,(Fri) 4 May 2018 (18),Lorient (37),6-0,3-0,Bourg Peronnas (37)
+?,(Fri) 4 May 2018 (18),Nimes (37),4-0,2-0,Ajaccio GFCO (37)
+?,(Fri) 4 May 2018 (18),Niort (37),0-1,0-1,Le Havre (37)
+?,(Fri) 4 May 2018 (18),Orleans (37),1-1,0-0,Chateauroux (37)
+?,(Fri) 4 May 2018 (18),Paris FC (37),2-1,1-0,Nancy (37)
+?,(Fri) 4 May 2018 (18),Sochaux (37),1-3,1-1,Clermont (37)
+?,(Fri) 4 May 2018 (18),Tours (37),4-2,3-1,Lens (37)
+?,(Fri) 4 May 2018 (18),Valenciennes (37),1-3,1-2,Reims (37)
+?,(Fri) 11 May 2018 (19),Ajaccio (38),2-2,1-0,Niort (38)
+?,(Fri) 11 May 2018 (19),Ajaccio GFCO (38),3-4,1-1,Valenciennes (38)
+?,(Fri) 11 May 2018 (19),Bourg Peronnas (38),2-1,2-0,Sochaux (38)
+?,(Fri) 11 May 2018 (19),Chateauroux (38),2-2,0-1,Brest (38)
+?,(Fri) 11 May 2018 (19),Clermont (38),2-2,0-1,Paris FC (38)
+?,(Fri) 11 May 2018 (19),Le Havre (38),2-0,2-0,Tours (38)
+?,(Fri) 11 May 2018 (19),Lens (38),2-1,0-0,Auxerre (38)
+?,(Fri) 11 May 2018 (19),Nancy (38),3-0,2-0,Orleans (38)
+?,(Fri) 11 May 2018 (19),Quevilly Rouen (38),3-0,2-0,Lorient (38)
+?,(Fri) 11 May 2018 (19),Reims (38),2-2,0-1,Nimes (38)

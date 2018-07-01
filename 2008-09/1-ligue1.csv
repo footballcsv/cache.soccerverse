@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Sat) Aug/9 2008 (31),Auxerre (1),Nantes (1),2-1,1-0
-?,(Sat) Aug/9 2008 (31),Bordeaux (1),Caen (1),2-1,0-1
-?,(Sat) Aug/9 2008 (31),Le Havre (1),Nice (1),1-0,0-0
-?,(Sat) Aug/9 2008 (31),Le Mans (1),Lorient (1),0-1,0-0
-?,(Sat) Aug/9 2008 (31),Monaco (1),Paris SG (1),1-0,0-0
-?,(Sat) Aug/9 2008 (31),Nancy (1),Lille (1),0-0,0-0
-?,(Sat) Aug/9 2008 (31),Rennes (1),Marseille (1),4-4,1-3
-?,(Sat) Aug/9 2008 (31),Sochaux (1),Grenoble (1),1-2,0-0
-?,(Sat) Aug/9 2008 (31),Valenciennes (1),St Etienne (1),1-0,1-0
-?,(Sun) Aug/10 2008 (31),Lyon (1),Toulouse (1),3-0,1-0
-?,(Sat) Aug/16 2008 (32),Caen (2),Valenciennes (2),3-1,3-1
-?,(Sat) Aug/16 2008 (32),Lille (2),Le Mans (2),1-3,0-2
-?,(Sat) Aug/16 2008 (32),Nantes (2),Monaco (2),1-1,0-1
-?,(Sat) Aug/16 2008 (32),Nice (2),Nancy (2),2-1,1-1
-?,(Sat) Aug/16 2008 (32),Paris SG (2),Bordeaux (2),1-0,0-0
-?,(Sat) Aug/16 2008 (32),St Etienne (2),Sochaux (2),2-1,2-0
-?,(Sat) Aug/16 2008 (32),Toulouse (2),Le Havre (2),2-1,0-1
-?,(Sun) Aug/17 2008 (32),Grenoble (2),Rennes (2),1-0,1-0
-?,(Sun) Aug/17 2008 (32),Lorient (2),Lyon (2),0-0,0-0
-?,(Sun) Aug/17 2008 (32),Marseille (2),Auxerre (2),4-0,1-0
-?,(Sat) Aug/23 2008 (33),Le Havre (3),Marseille (3),0-1,0-0
-?,(Sat) Aug/23 2008 (33),Le Mans (3),St Etienne (3),1-0,1-0
-?,(Sat) Aug/23 2008 (33),Lyon (3),Grenoble (3),2-0,2-0
-?,(Sat) Aug/23 2008 (33),Monaco (3),Caen (3),1-1,0-0
-?,(Sat) Aug/23 2008 (33),Nancy (3),Toulouse (3),0-0,0-0
-?,(Sat) Aug/23 2008 (33),Sochaux (3),Paris SG (3),1-1,0-0
-?,(Sat) Aug/23 2008 (33),Valenciennes (3),Lorient (3),3-1,2-0
-?,(Sun) Aug/24 2008 (33),Auxerre (3),Nice (3),0-1,0-1
-?,(Sun) Aug/24 2008 (33),Bordeaux (3),Nantes (3),2-0,1-0
-?,(Sun) Aug/24 2008 (33),Rennes (3),Lille (3),2-1,0-1
-?,(Sat) Aug/30 2008 (34),Caen (4),Paris SG (4),0-1,0-1
-?,(Sat) Aug/30 2008 (34),Grenoble (4),Monaco (4),1-0,1-0
-?,(Sat) Aug/30 2008 (34),Lorient (4),Auxerre (4),0-2,0-1
-?,(Sat) Aug/30 2008 (34),Marseille (4),Sochaux (4),2-1,1-0
-?,(Sat) Aug/30 2008 (34),Nancy (4),Le Havre (4),2-1,0-1
-?,(Sat) Aug/30 2008 (34),Nantes (4),Le Mans (4),1-4,1-2
-?,(Sat) Aug/30 2008 (34),Nice (4),Valenciennes (4),2-0,0-0
-?,(Sun) Aug/31 2008 (34),Lille (4),Bordeaux (4),2-1,1-1
-?,(Sun) Aug/31 2008 (34),St Etienne (4),Lyon (4),0-1,0-0
-?,(Sun) Aug/31 2008 (34),Toulouse (4),Rennes (4),0-0,0-0
-?,(Sat) Sep/13 2008 (36),Auxerre (5),Nancy (5),1-1,0-0
-?,(Sat) Sep/13 2008 (36),Bordeaux (5),Marseille (5),1-1,1-1
-?,(Sat) Sep/13 2008 (36),Le Mans (5),Toulouse (5),1-2,1-2
-?,(Sat) Sep/13 2008 (36),Lyon (5),Nice (5),3-2,1-2
-?,(Sat) Sep/13 2008 (36),Monaco (5),Lorient (5),2-0,1-0
-?,(Sat) Sep/13 2008 (36),Rennes (5),Le Havre (5),1-1,1-1
-?,(Sat) Sep/13 2008 (36),Valenciennes (5),Grenoble (5),1-1,0-0
-?,(Sun) Sep/14 2008 (36),Caen (5),St Etienne (5),2-0,1-0
-?,(Sun) Sep/14 2008 (36),Paris SG (5),Nantes (5),1-0,1-0
-?,(Sun) Sep/14 2008 (36),Sochaux (5),Lille (5),1-1,0-0
-?,(Sat) Sep/20 2008 (37),Grenoble (6),Bordeaux (6),0-1,0-0
-?,(Sat) Sep/20 2008 (37),Le Havre (6),Lyon (6),0-1,0-1
-?,(Sat) Sep/20 2008 (37),Lille (6),Auxerre (6),3-2,1-0
-?,(Sat) Sep/20 2008 (37),Lorient (6),Caen (6),1-1,1-0
-?,(Sat) Sep/20 2008 (37),Nantes (6),Valenciennes (6),2-0,1-0
-?,(Sat) Sep/20 2008 (37),Nice (6),Le Mans (6),2-2,2-0
-?,(Sat) Sep/20 2008 (37),Toulouse (6),Sochaux (6),2-1,1-0
-?,(Sun) Sep/21 2008 (37),Marseille (6),Monaco (6),0-0,0-0
-?,(Sun) Sep/21 2008 (37),Nancy (6),Rennes (6),0-0,0-0
-?,(Sun) Sep/21 2008 (37),St Etienne (6),Paris SG (6),1-0,1-0
-?,(Sat) Sep/27 2008 (38),Auxerre (7),Le Havre (7),3-0,1-0
-?,(Sat) Sep/27 2008 (38),Caen (7),Nantes (7),3-0,3-0
-?,(Sat) Sep/27 2008 (38),Le Mans (7),Marseille (7),1-1,1-1
-?,(Sat) Sep/27 2008 (38),Lyon (7),Nancy (7),2-1,2-1
-?,(Sat) Sep/27 2008 (38),Paris SG (7),Grenoble (7),0-1,0-0
-?,(Sat) Sep/27 2008 (38),Rennes (7),Nice (7),1-0,0-0
-?,(Sat) Sep/27 2008 (38),Sochaux (7),Lorient (7),1-1,0-1
-?,(Sun) Sep/28 2008 (38),Bordeaux (7),St Etienne (7),1-1,0-1
-?,(Sun) Sep/28 2008 (38),Monaco (7),Lille (7),0-2,0-0
-?,(Sun) Sep/28 2008 (38),Valenciennes (7),Toulouse (7),0-1,0-0
-?,(Sat) Oct/4 2008 (39),Grenoble (8),Nantes (8),0-1,0-0
-?,(Sat) Oct/4 2008 (39),Le Havre (8),Le Mans (8),1-2,1-0
-?,(Sat) Oct/4 2008 (39),Lille (8),Valenciennes (8),1-0,0-0
-?,(Sat) Oct/4 2008 (39),Lorient (8),Bordeaux (8),1-2,0-0
-?,(Sat) Oct/4 2008 (39),Marseille (8),Caen (8),2-1,1-1
-?,(Sat) Oct/4 2008 (39),Nice (8),Sochaux (8),1-1,0-0
-?,(Sat) Oct/4 2008 (39),Toulouse (8),Auxerre (8),1-0,0-0
-?,(Sun) Oct/5 2008 (39),Nancy (8),Paris SG (8),1-1,1-1
-?,(Sun) Oct/5 2008 (39),Rennes (8),Lyon (8),3-0,1-0
-?,(Sun) Oct/5 2008 (39),St Etienne (8),Monaco (8),2-0,1-0
-?,(Sat) Oct/18 2008 (41),Bordeaux (9),Toulouse (9),2-1,2-0
-?,(Sat) Oct/18 2008 (41),Caen (9),Grenoble (9),2-2,1-1
-?,(Sat) Oct/18 2008 (41),Lyon (9),Lille (9),2-2,1-1
-?,(Sat) Oct/18 2008 (41),Monaco (9),Nice (9),1-2,1-1
-?,(Sat) Oct/18 2008 (41),Nantes (9),St Etienne (9),1-0,1-0
-?,(Sat) Oct/18 2008 (41),Paris SG (9),Lorient (9),3-2,1-2
-?,(Sat) Oct/18 2008 (41),Sochaux (9),Le Havre (9),1-1,0-1
-?,(Sun) Oct/19 2008 (41),Auxerre (9),Rennes (9),0-0,0-0
-?,(Sun) Oct/19 2008 (41),Le Mans (9),Nancy (9),2-0,1-0
-?,(Sun) Oct/19 2008 (41),Valenciennes (9),Marseille (9),1-3,0-1
-?,(Sat) Oct/25 2008 (42),Auxerre (10),Lyon (10),0-0,0-0
-?,(Sat) Oct/25 2008 (42),Le Havre (10),Valenciennes (10),2-1,1-1
-?,(Sat) Oct/25 2008 (42),Lille (10),Caen (10),2-2,2-0
-?,(Sat) Oct/25 2008 (42),Lorient (10),Nantes (10),3-0,1-0
-?,(Sat) Oct/25 2008 (42),Nice (10),Bordeaux (10),2-2,0-1
-?,(Sat) Oct/25 2008 (42),Rennes (10),Le Mans (10),2-2,1-2
-?,(Sat) Oct/25 2008 (42),Toulouse (10),Monaco (10),0-0,0-0
-?,(Sun) Oct/26 2008 (42),Marseille (10),Paris SG (10),2-4,2-1
-?,(Sun) Oct/26 2008 (42),Nancy (10),Sochaux (10),1-1,0-1
-?,(Sun) Oct/26 2008 (42),St Etienne (10),Grenoble (10),0-2,0-1
-?,(Tue) Oct/28 2008 (43),Bordeaux (11),Le Havre (11),4-0,1-0
-?,(Wed) Oct/29 2008 (43),Caen (11),Nice (11),1-1,0-0
-?,(Wed) Oct/29 2008 (43),Grenoble (11),Lille (11),0-0,0-0
-?,(Wed) Oct/29 2008 (43),Le Mans (11),Auxerre (11),0-2,0-2
-?,(Wed) Oct/29 2008 (43),Monaco (11),Nancy (11),3-1,1-0
-?,(Wed) Oct/29 2008 (43),Nantes (11),Marseille (11),1-1,1-0
-?,(Wed) Oct/29 2008 (43),Paris SG (11),Toulouse (11),0-1,0-0
-?,(Wed) Oct/29 2008 (43),Sochaux (11),Lyon (11),0-2,0-0
-?,(Wed) Oct/29 2008 (43),St Etienne (11),Lorient (11),1-4,1-1
-?,(Wed) Oct/29 2008 (43),Valenciennes (11),Rennes (11),0-0,0-0
-?,(Sat) Nov/1 2008 (43),Auxerre (12),Valenciennes (12),0-0,0-0
-?,(Sat) Nov/1 2008 (43),Lille (12),Nantes (12),2-0,1-0
-?,(Sat) Nov/1 2008 (43),Lorient (12),Grenoble (12),1-1,0-0
-?,(Sat) Nov/1 2008 (43),Marseille (12),St Etienne (12),3-1,2-1
-?,(Sat) Nov/1 2008 (43),Nancy (12),Bordeaux (12),1-0,0-0
-?,(Sat) Nov/1 2008 (43),Nice (12),Paris SG (12),1-0,1-0
-?,(Sat) Nov/1 2008 (43),Toulouse (12),Caen (12),0-1,0-0
-?,(Sun) Nov/2 2008 (43),Le Havre (12),Monaco (12),2-3,0-2
-?,(Sun) Nov/2 2008 (43),Lyon (12),Le Mans (12),2-0,1-0
-?,(Sun) Nov/2 2008 (43),Rennes (12),Sochaux (12),1-0,1-0
-?,(Sat) Nov/8 2008 (44),Bordeaux (13),Auxerre (13),2-0,0-0
-?,(Sat) Nov/8 2008 (44),Caen (13),Le Havre (13),0-1,0-0
-?,(Sat) Nov/8 2008 (44),Grenoble (13),Marseille (13),0-3,0-2
-?,(Sat) Nov/8 2008 (44),Lorient (13),Nice (13),0-1,0-1
-?,(Sat) Nov/8 2008 (44),Monaco (13),Lyon (13),0-1,0-0
-?,(Sat) Nov/8 2008 (44),Nantes (13),Toulouse (13),1-1,1-1
-?,(Sat) Nov/8 2008 (44),Sochaux (13),Le Mans (13),2-1,1-1
-?,(Sun) Nov/9 2008 (44),Paris SG (13),Lille (13),1-0,1-0
-?,(Sun) Nov/9 2008 (44),St Etienne (13),Rennes (13),0-3,0-1
-?,(Sun) Nov/9 2008 (44),Valenciennes (13),Nancy (13),0-1,0-1
-?,(Sat) Nov/15 2008 (45),Auxerre (14),Sochaux (14),1-0,1-0
-?,(Sat) Nov/15 2008 (45),Le Havre (14),Paris SG (14),1-3,0-2
-?,(Sat) Nov/15 2008 (45),Le Mans (14),Valenciennes (14),1-0,1-0
-?,(Sat) Nov/15 2008 (45),Lille (14),St Etienne (14),3-0,2-0
-?,(Sat) Nov/15 2008 (45),Marseille (14),Lorient (14),2-3,1-0
-?,(Sat) Nov/15 2008 (45),Nancy (14),Caen (14),1-1,0-0
-?,(Sat) Nov/15 2008 (45),Toulouse (14),Grenoble (14),2-0,2-0
-?,(Sun) Nov/16 2008 (45),Lyon (14),Bordeaux (14),2-1,2-0
-?,(Sun) Nov/16 2008 (45),Nice (14),Nantes (14),2-1,1-1
-?,(Sun) Nov/16 2008 (45),Rennes (14),Monaco (14),2-1,1-0
-?,(Sat) Nov/22 2008 (46),Bordeaux (15),Rennes (15),1-1,0-1
-?,(Sat) Nov/22 2008 (46),Caen (15),Auxerre (15),1-0,0-0
-?,(Sat) Nov/22 2008 (46),Grenoble (15),Le Havre (15),0-0,0-0
-?,(Sat) Nov/22 2008 (46),Lorient (15),Toulouse (15),1-0,0-0
-?,(Sat) Nov/22 2008 (46),Paris SG (15),Lyon (15),1-0,1-0
-?,(Sat) Nov/22 2008 (46),St Etienne (15),Nice (15),0-1,0-1
-?,(Sat) Nov/22 2008 (46),Valenciennes (15),Sochaux (15),2-2,0-1
-?,(Sun) Nov/23 2008 (46),Marseille (15),Lille (15),2-2,0-2
-?,(Sun) Nov/23 2008 (46),Monaco (15),Le Mans (15),3-0,0-0
-?,(Sun) Nov/23 2008 (46),Nantes (15),Nancy (15),0-1,0-0
-?,(Sat) Nov/29 2008 (47),Auxerre (16),Monaco (16),0-1,0-1
-?,(Sat) Nov/29 2008 (47),Le Havre (16),Nantes (16),0-2,0-0
-?,(Sat) Nov/29 2008 (47),Le Mans (16),Caen (16),2-0,0-0
-?,(Sat) Nov/29 2008 (47),Lille (16),Lorient (16),1-1,1-1
-?,(Sat) Nov/29 2008 (47),Lyon (16),Valenciennes (16),0-0,0-0
-?,(Sat) Nov/29 2008 (47),Sochaux (16),Bordeaux (16),0-0,0-0
-?,(Sun) Nov/30 2008 (47),Nancy (16),St Etienne (16),1-2,0-2
-?,(Sun) Nov/30 2008 (47),Rennes (16),Paris SG (16),1-0,1-0
-?,(Sun) Nov/30 2008 (47),Toulouse (16),Marseille (16),0-0,0-0
-?,(Fri) Dec/5 2008 (48),Bordeaux (17),Valenciennes (17),2-1,1-1
-?,(Sat) Dec/6 2008 (48),Caen (17),Rennes (17),1-1,1-0
-?,(Sat) Dec/6 2008 (48),Lille (17),Toulouse (17),1-1,0-0
-?,(Sat) Dec/6 2008 (48),Marseille (17),Nice (16),2-1,2-0
-?,(Sat) Dec/6 2008 (48),St Etienne (17),Le Havre (17),2-0,0-0
-?,(Sun) Dec/7 2008 (48),Grenoble (16),Auxerre (17),0-0,0-0
-?,(Sun) Dec/7 2008 (48),Lorient (17),Nancy (17),1-0,0-0
-?,(Sun) Dec/7 2008 (48),Monaco (17),Sochaux (17),1-1,1-1
-?,(Sun) Dec/7 2008 (48),Nantes (17),Lyon (17),2-1,0-1
-?,(Sun) Dec/7 2008 (48),Paris SG (17),Le Mans (17),3-1,2-1
-?,(Wed) Dec/10 2008 (49),Nice (17),Grenoble (17),0-0,0-0
-?,(Sat) Dec/13 2008 (49),Auxerre (18),Paris SG (18),1-2,0-2
-?,(Sat) Dec/13 2008 (49),Le Mans (18),Bordeaux (18),1-3,0-0
-?,(Sat) Dec/13 2008 (49),Nancy (18),Grenoble (18),2-0,1-0
-?,(Sat) Dec/13 2008 (49),Rennes (18),Nantes (18),0-0,0-0
-?,(Sat) Dec/13 2008 (49),Sochaux (18),Caen (18),2-2,0-1
-?,(Sat) Dec/13 2008 (49),Toulouse (18),St Etienne (18),3-1,2-1
-?,(Sat) Dec/13 2008 (49),Valenciennes (18),Monaco (18),3-1,2-1
-?,(Sun) Dec/14 2008 (49),Le Havre (18),Lorient (18),1-3,0-2
-?,(Sun) Dec/14 2008 (49),Lyon (18),Marseille (18),0-0,0-0
-?,(Sun) Dec/14 2008 (49),Nice (18),Lille (18),0-1,0-1
-?,(Sat) Dec/20 2008 (50),Caen (19),Lyon (19),0-1,0-1
-?,(Sat) Dec/20 2008 (50),Grenoble (19),Le Mans (19),2-1,1-0
-?,(Sat) Dec/20 2008 (50),Lille (19),Le Havre (19),3-1,1-0
-?,(Sat) Dec/20 2008 (50),Lorient (19),Rennes (19),1-2,1-0
-?,(Sat) Dec/20 2008 (50),Nantes (19),Sochaux (19),1-1,0-0
-?,(Sat) Dec/20 2008 (50),St Etienne (19),Auxerre (19),2-0,1-0
-?,(Sat) Dec/20 2008 (50),Toulouse (19),Nice (19),2-2,1-1
-?,(Sun) Dec/21 2008 (50),Marseille (19),Nancy (19),0-3,0-2
-?,(Sun) Dec/21 2008 (50),Monaco (19),Bordeaux (19),3-4,2-0
-?,(Sun) Dec/21 2008 (50),Paris SG (19),Valenciennes (19),2-2,1-0
-?,(Sat) Jan/10 2009 (1),Auxerre (20),Marseille (20),0-2,0-1
-?,(Sat) Jan/10 2009 (1),Le Havre (20),Toulouse (20),0-1,0-0
-?,(Sat) Jan/10 2009 (1),Lyon (20),Lorient (20),1-1,1-1
-?,(Sat) Jan/10 2009 (1),Monaco (20),Nantes (20),1-2,0-2
-?,(Sat) Jan/10 2009 (1),Rennes (20),Grenoble (20),1-0,0-0
-?,(Sat) Jan/10 2009 (1),Sochaux (20),St Etienne (20),1-0,0-0
-?,(Sun) Jan/11 2009 (1),Bordeaux (20),Paris SG (20),4-0,2-0
-?,(Sat) Jan/17 2009 (2),Grenoble (21),Lyon (21),0-2,0-1
-?,(Sat) Jan/17 2009 (2),Lorient (21),Valenciennes (20),1-1,1-1
-?,(Sat) Jan/17 2009 (2),Marseille (21),Le Havre (21),2-0,1-0
-?,(Sat) Jan/17 2009 (2),Nantes (21),Bordeaux (21),1-2,0-1
-?,(Sat) Jan/17 2009 (2),Nice (20),Auxerre (21),2-0,0-0
-?,(Sat) Jan/17 2009 (2),St Etienne (21),Le Mans (20),1-1,0-0
-?,(Sat) Jan/17 2009 (2),Toulouse (21),Nancy (20),3-0,1-0
-?,(Sun) Jan/18 2009 (2),Caen (20),Monaco (21),2-2,0-2
-?,(Sun) Jan/18 2009 (2),Lille (20),Rennes (21),1-0,0-0
-?,(Sun) Jan/18 2009 (2),Paris SG (21),Sochaux (21),2-1,1-0
-?,(Sat) Jan/31 2009 (4),Auxerre (22),Lorient (22),0-0,0-0
-?,(Sat) Jan/31 2009 (4),Le Havre (22),Nancy (21),2-3,1-2
-?,(Sat) Jan/31 2009 (4),Le Mans (21),Nantes (22),0-2,0-0
-?,(Sat) Jan/31 2009 (4),Monaco (22),Grenoble (22),1-0,0-0
-?,(Sat) Jan/31 2009 (4),Paris SG (22),Caen (21),2-0,0-0
-?,(Sat) Jan/31 2009 (4),Rennes (22),Toulouse (22),0-0,0-0
-?,(Sat) Jan/31 2009 (4),Valenciennes (21),Nice (21),1-0,0-0
-?,(Sun) Feb/1 2009 (4),Bordeaux (22),Lille (21),2-2,1-0
-?,(Sun) Feb/1 2009 (4),Lyon (22),St Etienne (22),1-1,0-0
-?,(Sun) Feb/1 2009 (4),Sochaux (22),Marseille (22),1-0,1-0
-?,(Sat) Feb/7 2009 (5),Le Havre (23),Rennes (23),1-0,0-0
-?,(Sat) Feb/7 2009 (5),Lille (22),Sochaux (23),3-2,0-2
-?,(Sat) Feb/7 2009 (5),Lorient (23),Monaco (23),1-1,0-1
-?,(Sat) Feb/7 2009 (5),Nancy (22),Auxerre (23),0-2,0-1
-?,(Sat) Feb/7 2009 (5),Nantes (23),Paris SG (23),1-4,1-2
-?,(Sat) Feb/7 2009 (5),St Etienne (23),Caen (22),3-2,0-1
-?,(Sat) Feb/7 2009 (5),Toulouse (23),Le Mans (22),2-0,1-0
-?,(Sun) Feb/8 2009 (5),Grenoble (23),Valenciennes (22),0-0,0-0
-?,(Sun) Feb/8 2009 (5),Marseille (23),Bordeaux (23),1-0,0-0
-?,(Sun) Feb/8 2009 (5),Nice (22),Lyon (23),1-3,1-2
-?,(Sat) Feb/14 2009 (6),Auxerre (24),Lille (23),2-0,2-0
-?,(Sat) Feb/14 2009 (6),Bordeaux (24),Grenoble (24),1-1,0-0
-?,(Sat) Feb/14 2009 (6),Caen (23),Lorient (24),1-1,1-0
-?,(Sat) Feb/14 2009 (6),Le Mans (23),Nice (23),1-2,0-0
-?,(Sat) Feb/14 2009 (6),Paris SG (24),St Etienne (24),2-1,2-1
-?,(Sat) Feb/14 2009 (6),Rennes (24),Nancy (23),1-1,0-0
-?,(Sat) Feb/14 2009 (6),Valenciennes (23),Nantes (24),1-1,1-0
-?,(Sun) Feb/15 2009 (6),Lyon (24),Le Havre (24),3-1,2-0
-?,(Sun) Feb/15 2009 (6),Monaco (24),Marseille (24),0-1,0-0
-?,(Sun) Feb/15 2009 (6),Sochaux (24),Toulouse (24),1-2,1-1
-?,(Tue) Feb/17 2009 (7),Le Mans (24),Lille (24),0-0,0-0
-?,(Tue) Feb/17 2009 (7),Nancy (24),Nice (24),1-2,0-0
-?,(Tue) Feb/17 2009 (7),Valenciennes (24),Caen (24),2-0,1-0
-?,(Sat) Feb/21 2009 (7),Grenoble (25),Paris SG (25),0-0,0-0
-?,(Sat) Feb/21 2009 (7),Le Havre (25),Auxerre (25),1-2,1-1
-?,(Sat) Feb/21 2009 (7),Lorient (25),Sochaux (25),1-2,1-0
-?,(Sat) Feb/21 2009 (7),Nancy (25),Lyon (25),0-2,0-1
-?,(Sat) Feb/21 2009 (7),Nantes (25),Caen (25),1-1,1-1
-?,(Sat) Feb/21 2009 (7),Nice (25),Rennes (25),0-1,0-0
-?,(Sat) Feb/21 2009 (7),Toulouse (25),Valenciennes (25),0-0,0-0
-?,(Sun) Feb/22 2009 (7),Lille (25),Monaco (25),2-1,1-0
-?,(Sun) Feb/22 2009 (7),Marseille (25),Le Mans (25),0-0,0-0
-?,(Sun) Feb/22 2009 (7),St Etienne (25),Bordeaux (25),1-1,0-0
-?,(Sat) Feb/28 2009 (8),Auxerre (26),Toulouse (26),1-1,1-0
-?,(Sat) Feb/28 2009 (8),Le Mans (26),Le Havre (26),2-0,0-0
-?,(Sat) Feb/28 2009 (8),Nantes (26),Grenoble (26),1-1,1-0
-?,(Sat) Feb/28 2009 (8),Sochaux (26),Nice (26),1-0,0-0
-?,(Sat) Feb/28 2009 (8),Valenciennes (26),Lille (26),2-0,2-0
-?,(Sun) Mar/1 2009 (8),Bordeaux (26),Lorient (26),1-0,0-0
-?,(Sun) Mar/1 2009 (8),Caen (26),Marseille (26),0-1,0-0
-?,(Sun) Mar/1 2009 (8),Lyon (26),Rennes (26),1-1,0-0
-?,(Sun) Mar/1 2009 (8),Monaco (26),St Etienne (26),2-2,1-1
-?,(Sun) Mar/1 2009 (8),Paris SG (26),Nancy (26),4-1,3-1
-?,(Sat) Mar/7 2009 (9),Grenoble (27),Caen (27),2-1,1-0
-?,(Sat) Mar/7 2009 (9),Lille (27),Lyon (27),2-0,0-0
-?,(Sat) Mar/7 2009 (9),Lorient (27),Paris SG (27),0-1,0-1
-?,(Sat) Mar/7 2009 (9),Marseille (27),Valenciennes (27),0-0,0-0
-?,(Sat) Mar/7 2009 (9),Nancy (27),Le Mans (27),2-2,1-1
-?,(Sat) Mar/7 2009 (9),Nice (27),Monaco (27),0-0,0-0
-?,(Sat) Mar/7 2009 (9),Toulouse (27),Bordeaux (27),3-0,2-0
-?,(Sun) Mar/8 2009 (9),Le Havre (27),Sochaux (27),2-1,1-1
-?,(Sun) Mar/8 2009 (9),Rennes (27),Auxerre (27),2-0,2-0
-?,(Sun) Mar/8 2009 (9),St Etienne (27),Nantes (27),2-1,2-1
-?,(Sat) Mar/14 2009 (10),Bordeaux (28),Nice (28),2-1,1-1
-?,(Sat) Mar/14 2009 (10),Caen (28),Lille (28),0-1,0-0
-?,(Sat) Mar/14 2009 (10),Le Mans (28),Rennes (28),2-2,2-0
-?,(Sat) Mar/14 2009 (10),Monaco (28),Toulouse (28),3-2,1-1
-?,(Sat) Mar/14 2009 (10),Nantes (28),Lorient (28),1-1,1-0
-?,(Sat) Mar/14 2009 (10),Sochaux (28),Nancy (28),2-1,1-1
-?,(Sat) Mar/14 2009 (10),Valenciennes (28),Le Havre (28),3-2,1-1
-?,(Sun) Mar/15 2009 (10),Grenoble (28),St Etienne (28),1-0,0-0
-?,(Sun) Mar/15 2009 (10),Lyon (28),Auxerre (28),0-2,0-1
-?,(Sun) Mar/15 2009 (10),Paris SG (28),Marseille (28),1-3,1-1
-?,(Sat) Mar/21 2009 (11),Auxerre (29),Le Mans (29),2-0,2-0
-?,(Sat) Mar/21 2009 (11),Le Havre (29),Bordeaux (29),0-3,0-1
-?,(Sat) Mar/21 2009 (11),Lille (29),Grenoble (29),2-1,2-0
-?,(Sat) Mar/21 2009 (11),Marseille (29),Nantes (29),2-0,0-0
-?,(Sat) Mar/21 2009 (11),Nancy (29),Monaco (29),0-1,0-0
-?,(Sat) Mar/21 2009 (11),Nice (29),Caen (29),2-2,1-0
-?,(Sat) Mar/21 2009 (11),Rennes (29),Valenciennes (29),0-0,0-0
-?,(Sun) Mar/22 2009 (11),Lorient (29),St Etienne (29),3-1,2-1
-?,(Sun) Mar/22 2009 (11),Lyon (29),Sochaux (29),2-0,1-0
-?,(Sun) Mar/22 2009 (11),Toulouse (29),Paris SG (29),4-1,3-0
-?,(Sat) Apr/4 2009 (13),Bordeaux (30),Nancy (30),1-0,0-0
-?,(Sat) Apr/4 2009 (13),Caen (30),Toulouse (30),0-0,0-0
-?,(Sat) Apr/4 2009 (13),Grenoble (30),Lorient (30),1-3,0-1
-?,(Sat) Apr/4 2009 (13),Le Mans (30),Lyon (30),1-3,0-2
-?,(Sat) Apr/4 2009 (13),Monaco (30),Le Havre (30),0-1,0-0
-?,(Sat) Apr/4 2009 (13),Nantes (30),Lille (30),0-2,0-1
-?,(Sat) Apr/4 2009 (13),Valenciennes (30),Auxerre (30),2-0,1-0
-?,(Sun) Apr/5 2009 (13),Paris SG (30),Nice (30),2-1,1-1
-?,(Sun) Apr/5 2009 (13),Sochaux (30),Rennes (30),3-0,2-0
-?,(Sun) Apr/5 2009 (13),St Etienne (30),Marseille (30),0-3,0-0
-?,(Sat) Apr/11 2009 (14),Auxerre (31),Bordeaux (31),0-2,0-1
-?,(Sat) Apr/11 2009 (14),Le Havre (31),Caen (31),1-2,1-1
-?,(Sat) Apr/11 2009 (14),Le Mans (31),Sochaux (31),2-0,1-0
-?,(Sat) Apr/11 2009 (14),Nancy (31),Valenciennes (31),2-0,0-0
-?,(Sat) Apr/11 2009 (14),Nice (31),Lorient (31),2-0,0-0
-?,(Sat) Apr/11 2009 (14),Rennes (31),St Etienne (31),1-0,0-0
-?,(Sat) Apr/11 2009 (14),Toulouse (31),Nantes (31),1-0,0-0
-?,(Sun) Apr/12 2009 (14),Lille (31),Paris SG (31),0-0,0-0
-?,(Sun) Apr/12 2009 (14),Lyon (31),Monaco (31),2-2,0-1
-?,(Sun) Apr/12 2009 (14),Marseille (31),Grenoble (31),4-1,0-0
-?,(Sat) Apr/18 2009 (15),Caen (32),Nancy (32),1-2,1-1
-?,(Sat) Apr/18 2009 (15),Grenoble (32),Toulouse (32),1-0,1-0
-?,(Sat) Apr/18 2009 (15),Monaco (32),Rennes (32),3-1,0-0
-?,(Sat) Apr/18 2009 (15),Nantes (32),Nice (32),2-0,1-0
-?,(Sat) Apr/18 2009 (15),Sochaux (32),Auxerre (32),0-1,0-0
-?,(Sat) Apr/18 2009 (15),St Etienne (32),Lille (32),2-1,0-0
-?,(Sat) Apr/18 2009 (15),Valenciennes (32),Le Mans (32),0-2,0-0
-?,(Sun) Apr/19 2009 (15),Bordeaux (32),Lyon (32),1-0,1-0
-?,(Sun) Apr/19 2009 (15),Lorient (32),Marseille (32),1-2,1-0
-?,(Sun) Apr/19 2009 (15),Paris SG (32),Le Havre (32),3-0,1-0
-?,(Fri) Apr/24 2009 (16),Lyon (33),Paris SG (33),0-0,0-0
-?,(Sun) Apr/26 2009 (16),Auxerre (33),Caen (33),2-1,0-0
-?,(Sun) Apr/26 2009 (16),Le Havre (33),Grenoble (33),0-1,0-1
-?,(Sun) Apr/26 2009 (16),Le Mans (33),Monaco (33),0-1,0-0
-?,(Sun) Apr/26 2009 (16),Lille (33),Marseille (33),1-2,0-0
-?,(Sun) Apr/26 2009 (16),Nancy (33),Nantes (33),2-0,0-0
-?,(Sun) Apr/26 2009 (16),Nice (33),St Etienne (33),3-1,2-0
-?,(Sun) Apr/26 2009 (16),Sochaux (33),Valenciennes (33),1-1,0-0
-?,(Sun) Apr/26 2009 (16),Toulouse (33),Lorient (33),1-1,0-0
-?,(Wed) Apr/29 2009 (17),Rennes (33),Bordeaux (33),2-3,1-0
-?,(Sat) May/2 2009 (17),Caen (34),Le Mans (34),3-1,1-1
-?,(Sat) May/2 2009 (17),Grenoble (34),Nice (34),0-0,0-0
-?,(Sat) May/2 2009 (17),Lorient (34),Lille (34),3-1,0-1
-?,(Sat) May/2 2009 (17),Marseille (34),Toulouse (34),2-2,0-0
-?,(Sat) May/2 2009 (17),Monaco (34),Auxerre (34),0-1,0-1
-?,(Sat) May/2 2009 (17),St Etienne (34),Nancy (34),0-0,0-0
-?,(Sat) May/2 2009 (17),Valenciennes (34),Lyon (34),2-0,2-0
-?,(Sun) May/3 2009 (17),Bordeaux (34),Sochaux (34),3-0,2-0
-?,(Sun) May/3 2009 (17),Nantes (34),Le Havre (34),1-2,1-1
-?,(Sun) May/3 2009 (17),Paris SG (34),Rennes (34),0-1,0-0
-?,(Tue) May/12 2009 (19),Lyon (35),Nantes (35),3-0,2-0
-?,(Wed) May/13 2009 (19),Auxerre (35),Grenoble (35),2-0,1-0
-?,(Wed) May/13 2009 (19),Le Havre (35),St Etienne (35),2-4,2-1
-?,(Wed) May/13 2009 (19),Le Mans (35),Paris SG (35),0-1,0-1
-?,(Wed) May/13 2009 (19),Nancy (35),Lorient (35),2-2,1-0
-?,(Wed) May/13 2009 (19),Nice (35),Marseille (35),0-2,0-1
-?,(Wed) May/13 2009 (19),Rennes (35),Caen (35),1-0,0-0
-?,(Wed) May/13 2009 (19),Sochaux (35),Monaco (35),3-0,1-0
-?,(Wed) May/13 2009 (19),Toulouse (35),Lille (35),0-0,0-0
-?,(Wed) May/13 2009 (19),Valenciennes (35),Bordeaux (35),1-2,1-1
-?,(Sat) May/16 2009 (19),Bordeaux (36),Le Mans (36),3-2,2-1
-?,(Sat) May/16 2009 (19),Caen (36),Sochaux (36),2-0,0-0
-?,(Sat) May/16 2009 (19),Grenoble (36),Nancy (36),0-0,0-0
-?,(Sat) May/16 2009 (19),Lorient (36),Le Havre (36),1-1,0-1
-?,(Sat) May/16 2009 (19),Monaco (36),Valenciennes (36),1-1,1-0
-?,(Sat) May/16 2009 (19),Paris SG (36),Auxerre (36),1-2,0-2
-?,(Sat) May/16 2009 (19),St Etienne (36),Toulouse (36),2-2,1-0
-?,(Sun) May/17 2009 (19),Lille (36),Nice (36),1-1,0-1
-?,(Sun) May/17 2009 (19),Marseille (36),Lyon (36),1-3,0-2
-?,(Sun) May/17 2009 (19),Nantes (36),Rennes (36),1-1,1-0
-?,(Sat) May/23 2009 (20),Auxerre (37),St Etienne (37),1-0,0-0
-?,(Sat) May/23 2009 (20),Bordeaux (37),Monaco (37),1-0,1-0
-?,(Sat) May/23 2009 (20),Le Havre (37),Lille (37),0-1,0-0
-?,(Sat) May/23 2009 (20),Le Mans (37),Grenoble (37),1-1,0-0
-?,(Sat) May/23 2009 (20),Lyon (37),Caen (37),3-1,1-0
-?,(Sat) May/23 2009 (20),Nancy (37),Marseille (37),1-2,0-1
-?,(Sat) May/23 2009 (20),Nice (37),Toulouse (37),0-2,0-2
-?,(Sat) May/23 2009 (20),Rennes (37),Lorient (37),3-1,2-0
-?,(Sat) May/23 2009 (20),Sochaux (37),Nantes (37),2-1,2-0
-?,(Sat) May/23 2009 (20),Valenciennes (37),Paris SG (37),2-1,0-1
-?,(Sat) May/30 2009 (21),Caen (38),Bordeaux (38),0-1,0-0
-?,(Sat) May/30 2009 (21),Grenoble (38),Sochaux (38),0-1,0-1
-?,(Sat) May/30 2009 (21),Lille (38),Nancy (38),3-2,2-1
-?,(Sat) May/30 2009 (21),Lorient (38),Le Mans (38),1-1,1-1
-?,(Sat) May/30 2009 (21),Marseille (38),Rennes (38),4-0,0-0
-?,(Sat) May/30 2009 (21),Nantes (38),Auxerre (38),2-1,1-0
-?,(Sat) May/30 2009 (21),Nice (38),Le Havre (38),0-0,0-0
-?,(Sat) May/30 2009 (21),Paris SG (38),Monaco (38),0-0,0-0
-?,(Sat) May/30 2009 (21),St Etienne (38),Valenciennes (38),4-0,1-0
-?,(Sat) May/30 2009 (21),Toulouse (38),Lyon (38),0-0,0-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 9 Aug 2008 (31),Auxerre (1),2-1,1-0,Nantes (1)
+?,(Sat) 9 Aug 2008 (31),Bordeaux (1),2-1,0-1,Caen (1)
+?,(Sat) 9 Aug 2008 (31),Le Havre (1),1-0,0-0,Nice (1)
+?,(Sat) 9 Aug 2008 (31),Le Mans (1),0-1,0-0,Lorient (1)
+?,(Sat) 9 Aug 2008 (31),Monaco (1),1-0,0-0,Paris SG (1)
+?,(Sat) 9 Aug 2008 (31),Nancy (1),0-0,0-0,Lille (1)
+?,(Sat) 9 Aug 2008 (31),Rennes (1),4-4,1-3,Marseille (1)
+?,(Sat) 9 Aug 2008 (31),Sochaux (1),1-2,0-0,Grenoble (1)
+?,(Sat) 9 Aug 2008 (31),Valenciennes (1),1-0,1-0,St Etienne (1)
+?,(Sun) 10 Aug 2008 (31),Lyon (1),3-0,1-0,Toulouse (1)
+?,(Sat) 16 Aug 2008 (32),Caen (2),3-1,3-1,Valenciennes (2)
+?,(Sat) 16 Aug 2008 (32),Lille (2),1-3,0-2,Le Mans (2)
+?,(Sat) 16 Aug 2008 (32),Nantes (2),1-1,0-1,Monaco (2)
+?,(Sat) 16 Aug 2008 (32),Nice (2),2-1,1-1,Nancy (2)
+?,(Sat) 16 Aug 2008 (32),Paris SG (2),1-0,0-0,Bordeaux (2)
+?,(Sat) 16 Aug 2008 (32),St Etienne (2),2-1,2-0,Sochaux (2)
+?,(Sat) 16 Aug 2008 (32),Toulouse (2),2-1,0-1,Le Havre (2)
+?,(Sun) 17 Aug 2008 (32),Grenoble (2),1-0,1-0,Rennes (2)
+?,(Sun) 17 Aug 2008 (32),Lorient (2),0-0,0-0,Lyon (2)
+?,(Sun) 17 Aug 2008 (32),Marseille (2),4-0,1-0,Auxerre (2)
+?,(Sat) 23 Aug 2008 (33),Le Havre (3),0-1,0-0,Marseille (3)
+?,(Sat) 23 Aug 2008 (33),Le Mans (3),1-0,1-0,St Etienne (3)
+?,(Sat) 23 Aug 2008 (33),Lyon (3),2-0,2-0,Grenoble (3)
+?,(Sat) 23 Aug 2008 (33),Monaco (3),1-1,0-0,Caen (3)
+?,(Sat) 23 Aug 2008 (33),Nancy (3),0-0,0-0,Toulouse (3)
+?,(Sat) 23 Aug 2008 (33),Sochaux (3),1-1,0-0,Paris SG (3)
+?,(Sat) 23 Aug 2008 (33),Valenciennes (3),3-1,2-0,Lorient (3)
+?,(Sun) 24 Aug 2008 (33),Auxerre (3),0-1,0-1,Nice (3)
+?,(Sun) 24 Aug 2008 (33),Bordeaux (3),2-0,1-0,Nantes (3)
+?,(Sun) 24 Aug 2008 (33),Rennes (3),2-1,0-1,Lille (3)
+?,(Sat) 30 Aug 2008 (34),Caen (4),0-1,0-1,Paris SG (4)
+?,(Sat) 30 Aug 2008 (34),Grenoble (4),1-0,1-0,Monaco (4)
+?,(Sat) 30 Aug 2008 (34),Lorient (4),0-2,0-1,Auxerre (4)
+?,(Sat) 30 Aug 2008 (34),Marseille (4),2-1,1-0,Sochaux (4)
+?,(Sat) 30 Aug 2008 (34),Nancy (4),2-1,0-1,Le Havre (4)
+?,(Sat) 30 Aug 2008 (34),Nantes (4),1-4,1-2,Le Mans (4)
+?,(Sat) 30 Aug 2008 (34),Nice (4),2-0,0-0,Valenciennes (4)
+?,(Sun) 31 Aug 2008 (34),Lille (4),2-1,1-1,Bordeaux (4)
+?,(Sun) 31 Aug 2008 (34),St Etienne (4),0-1,0-0,Lyon (4)
+?,(Sun) 31 Aug 2008 (34),Toulouse (4),0-0,0-0,Rennes (4)
+?,(Sat) 13 Sep 2008 (36),Auxerre (5),1-1,0-0,Nancy (5)
+?,(Sat) 13 Sep 2008 (36),Bordeaux (5),1-1,1-1,Marseille (5)
+?,(Sat) 13 Sep 2008 (36),Le Mans (5),1-2,1-2,Toulouse (5)
+?,(Sat) 13 Sep 2008 (36),Lyon (5),3-2,1-2,Nice (5)
+?,(Sat) 13 Sep 2008 (36),Monaco (5),2-0,1-0,Lorient (5)
+?,(Sat) 13 Sep 2008 (36),Rennes (5),1-1,1-1,Le Havre (5)
+?,(Sat) 13 Sep 2008 (36),Valenciennes (5),1-1,0-0,Grenoble (5)
+?,(Sun) 14 Sep 2008 (36),Caen (5),2-0,1-0,St Etienne (5)
+?,(Sun) 14 Sep 2008 (36),Paris SG (5),1-0,1-0,Nantes (5)
+?,(Sun) 14 Sep 2008 (36),Sochaux (5),1-1,0-0,Lille (5)
+?,(Sat) 20 Sep 2008 (37),Grenoble (6),0-1,0-0,Bordeaux (6)
+?,(Sat) 20 Sep 2008 (37),Le Havre (6),0-1,0-1,Lyon (6)
+?,(Sat) 20 Sep 2008 (37),Lille (6),3-2,1-0,Auxerre (6)
+?,(Sat) 20 Sep 2008 (37),Lorient (6),1-1,1-0,Caen (6)
+?,(Sat) 20 Sep 2008 (37),Nantes (6),2-0,1-0,Valenciennes (6)
+?,(Sat) 20 Sep 2008 (37),Nice (6),2-2,2-0,Le Mans (6)
+?,(Sat) 20 Sep 2008 (37),Toulouse (6),2-1,1-0,Sochaux (6)
+?,(Sun) 21 Sep 2008 (37),Marseille (6),0-0,0-0,Monaco (6)
+?,(Sun) 21 Sep 2008 (37),Nancy (6),0-0,0-0,Rennes (6)
+?,(Sun) 21 Sep 2008 (37),St Etienne (6),1-0,1-0,Paris SG (6)
+?,(Sat) 27 Sep 2008 (38),Auxerre (7),3-0,1-0,Le Havre (7)
+?,(Sat) 27 Sep 2008 (38),Caen (7),3-0,3-0,Nantes (7)
+?,(Sat) 27 Sep 2008 (38),Le Mans (7),1-1,1-1,Marseille (7)
+?,(Sat) 27 Sep 2008 (38),Lyon (7),2-1,2-1,Nancy (7)
+?,(Sat) 27 Sep 2008 (38),Paris SG (7),0-1,0-0,Grenoble (7)
+?,(Sat) 27 Sep 2008 (38),Rennes (7),1-0,0-0,Nice (7)
+?,(Sat) 27 Sep 2008 (38),Sochaux (7),1-1,0-1,Lorient (7)
+?,(Sun) 28 Sep 2008 (38),Bordeaux (7),1-1,0-1,St Etienne (7)
+?,(Sun) 28 Sep 2008 (38),Monaco (7),0-2,0-0,Lille (7)
+?,(Sun) 28 Sep 2008 (38),Valenciennes (7),0-1,0-0,Toulouse (7)
+?,(Sat) 4 Oct 2008 (39),Grenoble (8),0-1,0-0,Nantes (8)
+?,(Sat) 4 Oct 2008 (39),Le Havre (8),1-2,1-0,Le Mans (8)
+?,(Sat) 4 Oct 2008 (39),Lille (8),1-0,0-0,Valenciennes (8)
+?,(Sat) 4 Oct 2008 (39),Lorient (8),1-2,0-0,Bordeaux (8)
+?,(Sat) 4 Oct 2008 (39),Marseille (8),2-1,1-1,Caen (8)
+?,(Sat) 4 Oct 2008 (39),Nice (8),1-1,0-0,Sochaux (8)
+?,(Sat) 4 Oct 2008 (39),Toulouse (8),1-0,0-0,Auxerre (8)
+?,(Sun) 5 Oct 2008 (39),Nancy (8),1-1,1-1,Paris SG (8)
+?,(Sun) 5 Oct 2008 (39),Rennes (8),3-0,1-0,Lyon (8)
+?,(Sun) 5 Oct 2008 (39),St Etienne (8),2-0,1-0,Monaco (8)
+?,(Sat) 18 Oct 2008 (41),Bordeaux (9),2-1,2-0,Toulouse (9)
+?,(Sat) 18 Oct 2008 (41),Caen (9),2-2,1-1,Grenoble (9)
+?,(Sat) 18 Oct 2008 (41),Lyon (9),2-2,1-1,Lille (9)
+?,(Sat) 18 Oct 2008 (41),Monaco (9),1-2,1-1,Nice (9)
+?,(Sat) 18 Oct 2008 (41),Nantes (9),1-0,1-0,St Etienne (9)
+?,(Sat) 18 Oct 2008 (41),Paris SG (9),3-2,1-2,Lorient (9)
+?,(Sat) 18 Oct 2008 (41),Sochaux (9),1-1,0-1,Le Havre (9)
+?,(Sun) 19 Oct 2008 (41),Auxerre (9),0-0,0-0,Rennes (9)
+?,(Sun) 19 Oct 2008 (41),Le Mans (9),2-0,1-0,Nancy (9)
+?,(Sun) 19 Oct 2008 (41),Valenciennes (9),1-3,0-1,Marseille (9)
+?,(Sat) 25 Oct 2008 (42),Auxerre (10),0-0,0-0,Lyon (10)
+?,(Sat) 25 Oct 2008 (42),Le Havre (10),2-1,1-1,Valenciennes (10)
+?,(Sat) 25 Oct 2008 (42),Lille (10),2-2,2-0,Caen (10)
+?,(Sat) 25 Oct 2008 (42),Lorient (10),3-0,1-0,Nantes (10)
+?,(Sat) 25 Oct 2008 (42),Nice (10),2-2,0-1,Bordeaux (10)
+?,(Sat) 25 Oct 2008 (42),Rennes (10),2-2,1-2,Le Mans (10)
+?,(Sat) 25 Oct 2008 (42),Toulouse (10),0-0,0-0,Monaco (10)
+?,(Sun) 26 Oct 2008 (42),Marseille (10),2-4,2-1,Paris SG (10)
+?,(Sun) 26 Oct 2008 (42),Nancy (10),1-1,0-1,Sochaux (10)
+?,(Sun) 26 Oct 2008 (42),St Etienne (10),0-2,0-1,Grenoble (10)
+?,(Tue) 28 Oct 2008 (43),Bordeaux (11),4-0,1-0,Le Havre (11)
+?,(Wed) 29 Oct 2008 (43),Caen (11),1-1,0-0,Nice (11)
+?,(Wed) 29 Oct 2008 (43),Grenoble (11),0-0,0-0,Lille (11)
+?,(Wed) 29 Oct 2008 (43),Le Mans (11),0-2,0-2,Auxerre (11)
+?,(Wed) 29 Oct 2008 (43),Monaco (11),3-1,1-0,Nancy (11)
+?,(Wed) 29 Oct 2008 (43),Nantes (11),1-1,1-0,Marseille (11)
+?,(Wed) 29 Oct 2008 (43),Paris SG (11),0-1,0-0,Toulouse (11)
+?,(Wed) 29 Oct 2008 (43),Sochaux (11),0-2,0-0,Lyon (11)
+?,(Wed) 29 Oct 2008 (43),St Etienne (11),1-4,1-1,Lorient (11)
+?,(Wed) 29 Oct 2008 (43),Valenciennes (11),0-0,0-0,Rennes (11)
+?,(Sat) 1 Nov 2008 (43),Auxerre (12),0-0,0-0,Valenciennes (12)
+?,(Sat) 1 Nov 2008 (43),Lille (12),2-0,1-0,Nantes (12)
+?,(Sat) 1 Nov 2008 (43),Lorient (12),1-1,0-0,Grenoble (12)
+?,(Sat) 1 Nov 2008 (43),Marseille (12),3-1,2-1,St Etienne (12)
+?,(Sat) 1 Nov 2008 (43),Nancy (12),1-0,0-0,Bordeaux (12)
+?,(Sat) 1 Nov 2008 (43),Nice (12),1-0,1-0,Paris SG (12)
+?,(Sat) 1 Nov 2008 (43),Toulouse (12),0-1,0-0,Caen (12)
+?,(Sun) 2 Nov 2008 (43),Le Havre (12),2-3,0-2,Monaco (12)
+?,(Sun) 2 Nov 2008 (43),Lyon (12),2-0,1-0,Le Mans (12)
+?,(Sun) 2 Nov 2008 (43),Rennes (12),1-0,1-0,Sochaux (12)
+?,(Sat) 8 Nov 2008 (44),Bordeaux (13),2-0,0-0,Auxerre (13)
+?,(Sat) 8 Nov 2008 (44),Caen (13),0-1,0-0,Le Havre (13)
+?,(Sat) 8 Nov 2008 (44),Grenoble (13),0-3,0-2,Marseille (13)
+?,(Sat) 8 Nov 2008 (44),Lorient (13),0-1,0-1,Nice (13)
+?,(Sat) 8 Nov 2008 (44),Monaco (13),0-1,0-0,Lyon (13)
+?,(Sat) 8 Nov 2008 (44),Nantes (13),1-1,1-1,Toulouse (13)
+?,(Sat) 8 Nov 2008 (44),Sochaux (13),2-1,1-1,Le Mans (13)
+?,(Sun) 9 Nov 2008 (44),Paris SG (13),1-0,1-0,Lille (13)
+?,(Sun) 9 Nov 2008 (44),St Etienne (13),0-3,0-1,Rennes (13)
+?,(Sun) 9 Nov 2008 (44),Valenciennes (13),0-1,0-1,Nancy (13)
+?,(Sat) 15 Nov 2008 (45),Auxerre (14),1-0,1-0,Sochaux (14)
+?,(Sat) 15 Nov 2008 (45),Le Havre (14),1-3,0-2,Paris SG (14)
+?,(Sat) 15 Nov 2008 (45),Le Mans (14),1-0,1-0,Valenciennes (14)
+?,(Sat) 15 Nov 2008 (45),Lille (14),3-0,2-0,St Etienne (14)
+?,(Sat) 15 Nov 2008 (45),Marseille (14),2-3,1-0,Lorient (14)
+?,(Sat) 15 Nov 2008 (45),Nancy (14),1-1,0-0,Caen (14)
+?,(Sat) 15 Nov 2008 (45),Toulouse (14),2-0,2-0,Grenoble (14)
+?,(Sun) 16 Nov 2008 (45),Lyon (14),2-1,2-0,Bordeaux (14)
+?,(Sun) 16 Nov 2008 (45),Nice (14),2-1,1-1,Nantes (14)
+?,(Sun) 16 Nov 2008 (45),Rennes (14),2-1,1-0,Monaco (14)
+?,(Sat) 22 Nov 2008 (46),Bordeaux (15),1-1,0-1,Rennes (15)
+?,(Sat) 22 Nov 2008 (46),Caen (15),1-0,0-0,Auxerre (15)
+?,(Sat) 22 Nov 2008 (46),Grenoble (15),0-0,0-0,Le Havre (15)
+?,(Sat) 22 Nov 2008 (46),Lorient (15),1-0,0-0,Toulouse (15)
+?,(Sat) 22 Nov 2008 (46),Paris SG (15),1-0,1-0,Lyon (15)
+?,(Sat) 22 Nov 2008 (46),St Etienne (15),0-1,0-1,Nice (15)
+?,(Sat) 22 Nov 2008 (46),Valenciennes (15),2-2,0-1,Sochaux (15)
+?,(Sun) 23 Nov 2008 (46),Marseille (15),2-2,0-2,Lille (15)
+?,(Sun) 23 Nov 2008 (46),Monaco (15),3-0,0-0,Le Mans (15)
+?,(Sun) 23 Nov 2008 (46),Nantes (15),0-1,0-0,Nancy (15)
+?,(Sat) 29 Nov 2008 (47),Auxerre (16),0-1,0-1,Monaco (16)
+?,(Sat) 29 Nov 2008 (47),Le Havre (16),0-2,0-0,Nantes (16)
+?,(Sat) 29 Nov 2008 (47),Le Mans (16),2-0,0-0,Caen (16)
+?,(Sat) 29 Nov 2008 (47),Lille (16),1-1,1-1,Lorient (16)
+?,(Sat) 29 Nov 2008 (47),Lyon (16),0-0,0-0,Valenciennes (16)
+?,(Sat) 29 Nov 2008 (47),Sochaux (16),0-0,0-0,Bordeaux (16)
+?,(Sun) 30 Nov 2008 (47),Nancy (16),1-2,0-2,St Etienne (16)
+?,(Sun) 30 Nov 2008 (47),Rennes (16),1-0,1-0,Paris SG (16)
+?,(Sun) 30 Nov 2008 (47),Toulouse (16),0-0,0-0,Marseille (16)
+?,(Fri) 5 Dec 2008 (48),Bordeaux (17),2-1,1-1,Valenciennes (17)
+?,(Sat) 6 Dec 2008 (48),Caen (17),1-1,1-0,Rennes (17)
+?,(Sat) 6 Dec 2008 (48),Lille (17),1-1,0-0,Toulouse (17)
+?,(Sat) 6 Dec 2008 (48),Marseille (17),2-1,2-0,Nice (16)
+?,(Sat) 6 Dec 2008 (48),St Etienne (17),2-0,0-0,Le Havre (17)
+?,(Sun) 7 Dec 2008 (48),Grenoble (16),0-0,0-0,Auxerre (17)
+?,(Sun) 7 Dec 2008 (48),Lorient (17),1-0,0-0,Nancy (17)
+?,(Sun) 7 Dec 2008 (48),Monaco (17),1-1,1-1,Sochaux (17)
+?,(Sun) 7 Dec 2008 (48),Nantes (17),2-1,0-1,Lyon (17)
+?,(Sun) 7 Dec 2008 (48),Paris SG (17),3-1,2-1,Le Mans (17)
+?,(Wed) 10 Dec 2008 (49),Nice (17),0-0,0-0,Grenoble (17)
+?,(Sat) 13 Dec 2008 (49),Auxerre (18),1-2,0-2,Paris SG (18)
+?,(Sat) 13 Dec 2008 (49),Le Mans (18),1-3,0-0,Bordeaux (18)
+?,(Sat) 13 Dec 2008 (49),Nancy (18),2-0,1-0,Grenoble (18)
+?,(Sat) 13 Dec 2008 (49),Rennes (18),0-0,0-0,Nantes (18)
+?,(Sat) 13 Dec 2008 (49),Sochaux (18),2-2,0-1,Caen (18)
+?,(Sat) 13 Dec 2008 (49),Toulouse (18),3-1,2-1,St Etienne (18)
+?,(Sat) 13 Dec 2008 (49),Valenciennes (18),3-1,2-1,Monaco (18)
+?,(Sun) 14 Dec 2008 (49),Le Havre (18),1-3,0-2,Lorient (18)
+?,(Sun) 14 Dec 2008 (49),Lyon (18),0-0,0-0,Marseille (18)
+?,(Sun) 14 Dec 2008 (49),Nice (18),0-1,0-1,Lille (18)
+?,(Sat) 20 Dec 2008 (50),Caen (19),0-1,0-1,Lyon (19)
+?,(Sat) 20 Dec 2008 (50),Grenoble (19),2-1,1-0,Le Mans (19)
+?,(Sat) 20 Dec 2008 (50),Lille (19),3-1,1-0,Le Havre (19)
+?,(Sat) 20 Dec 2008 (50),Lorient (19),1-2,1-0,Rennes (19)
+?,(Sat) 20 Dec 2008 (50),Nantes (19),1-1,0-0,Sochaux (19)
+?,(Sat) 20 Dec 2008 (50),St Etienne (19),2-0,1-0,Auxerre (19)
+?,(Sat) 20 Dec 2008 (50),Toulouse (19),2-2,1-1,Nice (19)
+?,(Sun) 21 Dec 2008 (50),Marseille (19),0-3,0-2,Nancy (19)
+?,(Sun) 21 Dec 2008 (50),Monaco (19),3-4,2-0,Bordeaux (19)
+?,(Sun) 21 Dec 2008 (50),Paris SG (19),2-2,1-0,Valenciennes (19)
+?,(Sat) 10 Jan 2009 (1),Auxerre (20),0-2,0-1,Marseille (20)
+?,(Sat) 10 Jan 2009 (1),Le Havre (20),0-1,0-0,Toulouse (20)
+?,(Sat) 10 Jan 2009 (1),Lyon (20),1-1,1-1,Lorient (20)
+?,(Sat) 10 Jan 2009 (1),Monaco (20),1-2,0-2,Nantes (20)
+?,(Sat) 10 Jan 2009 (1),Rennes (20),1-0,0-0,Grenoble (20)
+?,(Sat) 10 Jan 2009 (1),Sochaux (20),1-0,0-0,St Etienne (20)
+?,(Sun) 11 Jan 2009 (1),Bordeaux (20),4-0,2-0,Paris SG (20)
+?,(Sat) 17 Jan 2009 (2),Grenoble (21),0-2,0-1,Lyon (21)
+?,(Sat) 17 Jan 2009 (2),Lorient (21),1-1,1-1,Valenciennes (20)
+?,(Sat) 17 Jan 2009 (2),Marseille (21),2-0,1-0,Le Havre (21)
+?,(Sat) 17 Jan 2009 (2),Nantes (21),1-2,0-1,Bordeaux (21)
+?,(Sat) 17 Jan 2009 (2),Nice (20),2-0,0-0,Auxerre (21)
+?,(Sat) 17 Jan 2009 (2),St Etienne (21),1-1,0-0,Le Mans (20)
+?,(Sat) 17 Jan 2009 (2),Toulouse (21),3-0,1-0,Nancy (20)
+?,(Sun) 18 Jan 2009 (2),Caen (20),2-2,0-2,Monaco (21)
+?,(Sun) 18 Jan 2009 (2),Lille (20),1-0,0-0,Rennes (21)
+?,(Sun) 18 Jan 2009 (2),Paris SG (21),2-1,1-0,Sochaux (21)
+?,(Sat) 31 Jan 2009 (4),Auxerre (22),0-0,0-0,Lorient (22)
+?,(Sat) 31 Jan 2009 (4),Le Havre (22),2-3,1-2,Nancy (21)
+?,(Sat) 31 Jan 2009 (4),Le Mans (21),0-2,0-0,Nantes (22)
+?,(Sat) 31 Jan 2009 (4),Monaco (22),1-0,0-0,Grenoble (22)
+?,(Sat) 31 Jan 2009 (4),Paris SG (22),2-0,0-0,Caen (21)
+?,(Sat) 31 Jan 2009 (4),Rennes (22),0-0,0-0,Toulouse (22)
+?,(Sat) 31 Jan 2009 (4),Valenciennes (21),1-0,0-0,Nice (21)
+?,(Sun) 1 Feb 2009 (4),Bordeaux (22),2-2,1-0,Lille (21)
+?,(Sun) 1 Feb 2009 (4),Lyon (22),1-1,0-0,St Etienne (22)
+?,(Sun) 1 Feb 2009 (4),Sochaux (22),1-0,1-0,Marseille (22)
+?,(Sat) 7 Feb 2009 (5),Le Havre (23),1-0,0-0,Rennes (23)
+?,(Sat) 7 Feb 2009 (5),Lille (22),3-2,0-2,Sochaux (23)
+?,(Sat) 7 Feb 2009 (5),Lorient (23),1-1,0-1,Monaco (23)
+?,(Sat) 7 Feb 2009 (5),Nancy (22),0-2,0-1,Auxerre (23)
+?,(Sat) 7 Feb 2009 (5),Nantes (23),1-4,1-2,Paris SG (23)
+?,(Sat) 7 Feb 2009 (5),St Etienne (23),3-2,0-1,Caen (22)
+?,(Sat) 7 Feb 2009 (5),Toulouse (23),2-0,1-0,Le Mans (22)
+?,(Sun) 8 Feb 2009 (5),Grenoble (23),0-0,0-0,Valenciennes (22)
+?,(Sun) 8 Feb 2009 (5),Marseille (23),1-0,0-0,Bordeaux (23)
+?,(Sun) 8 Feb 2009 (5),Nice (22),1-3,1-2,Lyon (23)
+?,(Sat) 14 Feb 2009 (6),Auxerre (24),2-0,2-0,Lille (23)
+?,(Sat) 14 Feb 2009 (6),Bordeaux (24),1-1,0-0,Grenoble (24)
+?,(Sat) 14 Feb 2009 (6),Caen (23),1-1,1-0,Lorient (24)
+?,(Sat) 14 Feb 2009 (6),Le Mans (23),1-2,0-0,Nice (23)
+?,(Sat) 14 Feb 2009 (6),Paris SG (24),2-1,2-1,St Etienne (24)
+?,(Sat) 14 Feb 2009 (6),Rennes (24),1-1,0-0,Nancy (23)
+?,(Sat) 14 Feb 2009 (6),Valenciennes (23),1-1,1-0,Nantes (24)
+?,(Sun) 15 Feb 2009 (6),Lyon (24),3-1,2-0,Le Havre (24)
+?,(Sun) 15 Feb 2009 (6),Monaco (24),0-1,0-0,Marseille (24)
+?,(Sun) 15 Feb 2009 (6),Sochaux (24),1-2,1-1,Toulouse (24)
+?,(Tue) 17 Feb 2009 (7),Le Mans (24),0-0,0-0,Lille (24)
+?,(Tue) 17 Feb 2009 (7),Nancy (24),1-2,0-0,Nice (24)
+?,(Tue) 17 Feb 2009 (7),Valenciennes (24),2-0,1-0,Caen (24)
+?,(Sat) 21 Feb 2009 (7),Grenoble (25),0-0,0-0,Paris SG (25)
+?,(Sat) 21 Feb 2009 (7),Le Havre (25),1-2,1-1,Auxerre (25)
+?,(Sat) 21 Feb 2009 (7),Lorient (25),1-2,1-0,Sochaux (25)
+?,(Sat) 21 Feb 2009 (7),Nancy (25),0-2,0-1,Lyon (25)
+?,(Sat) 21 Feb 2009 (7),Nantes (25),1-1,1-1,Caen (25)
+?,(Sat) 21 Feb 2009 (7),Nice (25),0-1,0-0,Rennes (25)
+?,(Sat) 21 Feb 2009 (7),Toulouse (25),0-0,0-0,Valenciennes (25)
+?,(Sun) 22 Feb 2009 (7),Lille (25),2-1,1-0,Monaco (25)
+?,(Sun) 22 Feb 2009 (7),Marseille (25),0-0,0-0,Le Mans (25)
+?,(Sun) 22 Feb 2009 (7),St Etienne (25),1-1,0-0,Bordeaux (25)
+?,(Sat) 28 Feb 2009 (8),Auxerre (26),1-1,1-0,Toulouse (26)
+?,(Sat) 28 Feb 2009 (8),Le Mans (26),2-0,0-0,Le Havre (26)
+?,(Sat) 28 Feb 2009 (8),Nantes (26),1-1,1-0,Grenoble (26)
+?,(Sat) 28 Feb 2009 (8),Sochaux (26),1-0,0-0,Nice (26)
+?,(Sat) 28 Feb 2009 (8),Valenciennes (26),2-0,2-0,Lille (26)
+?,(Sun) 1 Mar 2009 (8),Bordeaux (26),1-0,0-0,Lorient (26)
+?,(Sun) 1 Mar 2009 (8),Caen (26),0-1,0-0,Marseille (26)
+?,(Sun) 1 Mar 2009 (8),Lyon (26),1-1,0-0,Rennes (26)
+?,(Sun) 1 Mar 2009 (8),Monaco (26),2-2,1-1,St Etienne (26)
+?,(Sun) 1 Mar 2009 (8),Paris SG (26),4-1,3-1,Nancy (26)
+?,(Sat) 7 Mar 2009 (9),Grenoble (27),2-1,1-0,Caen (27)
+?,(Sat) 7 Mar 2009 (9),Lille (27),2-0,0-0,Lyon (27)
+?,(Sat) 7 Mar 2009 (9),Lorient (27),0-1,0-1,Paris SG (27)
+?,(Sat) 7 Mar 2009 (9),Marseille (27),0-0,0-0,Valenciennes (27)
+?,(Sat) 7 Mar 2009 (9),Nancy (27),2-2,1-1,Le Mans (27)
+?,(Sat) 7 Mar 2009 (9),Nice (27),0-0,0-0,Monaco (27)
+?,(Sat) 7 Mar 2009 (9),Toulouse (27),3-0,2-0,Bordeaux (27)
+?,(Sun) 8 Mar 2009 (9),Le Havre (27),2-1,1-1,Sochaux (27)
+?,(Sun) 8 Mar 2009 (9),Rennes (27),2-0,2-0,Auxerre (27)
+?,(Sun) 8 Mar 2009 (9),St Etienne (27),2-1,2-1,Nantes (27)
+?,(Sat) 14 Mar 2009 (10),Bordeaux (28),2-1,1-1,Nice (28)
+?,(Sat) 14 Mar 2009 (10),Caen (28),0-1,0-0,Lille (28)
+?,(Sat) 14 Mar 2009 (10),Le Mans (28),2-2,2-0,Rennes (28)
+?,(Sat) 14 Mar 2009 (10),Monaco (28),3-2,1-1,Toulouse (28)
+?,(Sat) 14 Mar 2009 (10),Nantes (28),1-1,1-0,Lorient (28)
+?,(Sat) 14 Mar 2009 (10),Sochaux (28),2-1,1-1,Nancy (28)
+?,(Sat) 14 Mar 2009 (10),Valenciennes (28),3-2,1-1,Le Havre (28)
+?,(Sun) 15 Mar 2009 (10),Grenoble (28),1-0,0-0,St Etienne (28)
+?,(Sun) 15 Mar 2009 (10),Lyon (28),0-2,0-1,Auxerre (28)
+?,(Sun) 15 Mar 2009 (10),Paris SG (28),1-3,1-1,Marseille (28)
+?,(Sat) 21 Mar 2009 (11),Auxerre (29),2-0,2-0,Le Mans (29)
+?,(Sat) 21 Mar 2009 (11),Le Havre (29),0-3,0-1,Bordeaux (29)
+?,(Sat) 21 Mar 2009 (11),Lille (29),2-1,2-0,Grenoble (29)
+?,(Sat) 21 Mar 2009 (11),Marseille (29),2-0,0-0,Nantes (29)
+?,(Sat) 21 Mar 2009 (11),Nancy (29),0-1,0-0,Monaco (29)
+?,(Sat) 21 Mar 2009 (11),Nice (29),2-2,1-0,Caen (29)
+?,(Sat) 21 Mar 2009 (11),Rennes (29),0-0,0-0,Valenciennes (29)
+?,(Sun) 22 Mar 2009 (11),Lorient (29),3-1,2-1,St Etienne (29)
+?,(Sun) 22 Mar 2009 (11),Lyon (29),2-0,1-0,Sochaux (29)
+?,(Sun) 22 Mar 2009 (11),Toulouse (29),4-1,3-0,Paris SG (29)
+?,(Sat) 4 Apr 2009 (13),Bordeaux (30),1-0,0-0,Nancy (30)
+?,(Sat) 4 Apr 2009 (13),Caen (30),0-0,0-0,Toulouse (30)
+?,(Sat) 4 Apr 2009 (13),Grenoble (30),1-3,0-1,Lorient (30)
+?,(Sat) 4 Apr 2009 (13),Le Mans (30),1-3,0-2,Lyon (30)
+?,(Sat) 4 Apr 2009 (13),Monaco (30),0-1,0-0,Le Havre (30)
+?,(Sat) 4 Apr 2009 (13),Nantes (30),0-2,0-1,Lille (30)
+?,(Sat) 4 Apr 2009 (13),Valenciennes (30),2-0,1-0,Auxerre (30)
+?,(Sun) 5 Apr 2009 (13),Paris SG (30),2-1,1-1,Nice (30)
+?,(Sun) 5 Apr 2009 (13),Sochaux (30),3-0,2-0,Rennes (30)
+?,(Sun) 5 Apr 2009 (13),St Etienne (30),0-3,0-0,Marseille (30)
+?,(Sat) 11 Apr 2009 (14),Auxerre (31),0-2,0-1,Bordeaux (31)
+?,(Sat) 11 Apr 2009 (14),Le Havre (31),1-2,1-1,Caen (31)
+?,(Sat) 11 Apr 2009 (14),Le Mans (31),2-0,1-0,Sochaux (31)
+?,(Sat) 11 Apr 2009 (14),Nancy (31),2-0,0-0,Valenciennes (31)
+?,(Sat) 11 Apr 2009 (14),Nice (31),2-0,0-0,Lorient (31)
+?,(Sat) 11 Apr 2009 (14),Rennes (31),1-0,0-0,St Etienne (31)
+?,(Sat) 11 Apr 2009 (14),Toulouse (31),1-0,0-0,Nantes (31)
+?,(Sun) 12 Apr 2009 (14),Lille (31),0-0,0-0,Paris SG (31)
+?,(Sun) 12 Apr 2009 (14),Lyon (31),2-2,0-1,Monaco (31)
+?,(Sun) 12 Apr 2009 (14),Marseille (31),4-1,0-0,Grenoble (31)
+?,(Sat) 18 Apr 2009 (15),Caen (32),1-2,1-1,Nancy (32)
+?,(Sat) 18 Apr 2009 (15),Grenoble (32),1-0,1-0,Toulouse (32)
+?,(Sat) 18 Apr 2009 (15),Monaco (32),3-1,0-0,Rennes (32)
+?,(Sat) 18 Apr 2009 (15),Nantes (32),2-0,1-0,Nice (32)
+?,(Sat) 18 Apr 2009 (15),Sochaux (32),0-1,0-0,Auxerre (32)
+?,(Sat) 18 Apr 2009 (15),St Etienne (32),2-1,0-0,Lille (32)
+?,(Sat) 18 Apr 2009 (15),Valenciennes (32),0-2,0-0,Le Mans (32)
+?,(Sun) 19 Apr 2009 (15),Bordeaux (32),1-0,1-0,Lyon (32)
+?,(Sun) 19 Apr 2009 (15),Lorient (32),1-2,1-0,Marseille (32)
+?,(Sun) 19 Apr 2009 (15),Paris SG (32),3-0,1-0,Le Havre (32)
+?,(Fri) 24 Apr 2009 (16),Lyon (33),0-0,0-0,Paris SG (33)
+?,(Sun) 26 Apr 2009 (16),Auxerre (33),2-1,0-0,Caen (33)
+?,(Sun) 26 Apr 2009 (16),Le Havre (33),0-1,0-1,Grenoble (33)
+?,(Sun) 26 Apr 2009 (16),Le Mans (33),0-1,0-0,Monaco (33)
+?,(Sun) 26 Apr 2009 (16),Lille (33),1-2,0-0,Marseille (33)
+?,(Sun) 26 Apr 2009 (16),Nancy (33),2-0,0-0,Nantes (33)
+?,(Sun) 26 Apr 2009 (16),Nice (33),3-1,2-0,St Etienne (33)
+?,(Sun) 26 Apr 2009 (16),Sochaux (33),1-1,0-0,Valenciennes (33)
+?,(Sun) 26 Apr 2009 (16),Toulouse (33),1-1,0-0,Lorient (33)
+?,(Wed) 29 Apr 2009 (17),Rennes (33),2-3,1-0,Bordeaux (33)
+?,(Sat) 2 May 2009 (17),Caen (34),3-1,1-1,Le Mans (34)
+?,(Sat) 2 May 2009 (17),Grenoble (34),0-0,0-0,Nice (34)
+?,(Sat) 2 May 2009 (17),Lorient (34),3-1,0-1,Lille (34)
+?,(Sat) 2 May 2009 (17),Marseille (34),2-2,0-0,Toulouse (34)
+?,(Sat) 2 May 2009 (17),Monaco (34),0-1,0-1,Auxerre (34)
+?,(Sat) 2 May 2009 (17),St Etienne (34),0-0,0-0,Nancy (34)
+?,(Sat) 2 May 2009 (17),Valenciennes (34),2-0,2-0,Lyon (34)
+?,(Sun) 3 May 2009 (17),Bordeaux (34),3-0,2-0,Sochaux (34)
+?,(Sun) 3 May 2009 (17),Nantes (34),1-2,1-1,Le Havre (34)
+?,(Sun) 3 May 2009 (17),Paris SG (34),0-1,0-0,Rennes (34)
+?,(Tue) 12 May 2009 (19),Lyon (35),3-0,2-0,Nantes (35)
+?,(Wed) 13 May 2009 (19),Auxerre (35),2-0,1-0,Grenoble (35)
+?,(Wed) 13 May 2009 (19),Le Havre (35),2-4,2-1,St Etienne (35)
+?,(Wed) 13 May 2009 (19),Le Mans (35),0-1,0-1,Paris SG (35)
+?,(Wed) 13 May 2009 (19),Nancy (35),2-2,1-0,Lorient (35)
+?,(Wed) 13 May 2009 (19),Nice (35),0-2,0-1,Marseille (35)
+?,(Wed) 13 May 2009 (19),Rennes (35),1-0,0-0,Caen (35)
+?,(Wed) 13 May 2009 (19),Sochaux (35),3-0,1-0,Monaco (35)
+?,(Wed) 13 May 2009 (19),Toulouse (35),0-0,0-0,Lille (35)
+?,(Wed) 13 May 2009 (19),Valenciennes (35),1-2,1-1,Bordeaux (35)
+?,(Sat) 16 May 2009 (19),Bordeaux (36),3-2,2-1,Le Mans (36)
+?,(Sat) 16 May 2009 (19),Caen (36),2-0,0-0,Sochaux (36)
+?,(Sat) 16 May 2009 (19),Grenoble (36),0-0,0-0,Nancy (36)
+?,(Sat) 16 May 2009 (19),Lorient (36),1-1,0-1,Le Havre (36)
+?,(Sat) 16 May 2009 (19),Monaco (36),1-1,1-0,Valenciennes (36)
+?,(Sat) 16 May 2009 (19),Paris SG (36),1-2,0-2,Auxerre (36)
+?,(Sat) 16 May 2009 (19),St Etienne (36),2-2,1-0,Toulouse (36)
+?,(Sun) 17 May 2009 (19),Lille (36),1-1,0-1,Nice (36)
+?,(Sun) 17 May 2009 (19),Marseille (36),1-3,0-2,Lyon (36)
+?,(Sun) 17 May 2009 (19),Nantes (36),1-1,1-0,Rennes (36)
+?,(Sat) 23 May 2009 (20),Auxerre (37),1-0,0-0,St Etienne (37)
+?,(Sat) 23 May 2009 (20),Bordeaux (37),1-0,1-0,Monaco (37)
+?,(Sat) 23 May 2009 (20),Le Havre (37),0-1,0-0,Lille (37)
+?,(Sat) 23 May 2009 (20),Le Mans (37),1-1,0-0,Grenoble (37)
+?,(Sat) 23 May 2009 (20),Lyon (37),3-1,1-0,Caen (37)
+?,(Sat) 23 May 2009 (20),Nancy (37),1-2,0-1,Marseille (37)
+?,(Sat) 23 May 2009 (20),Nice (37),0-2,0-2,Toulouse (37)
+?,(Sat) 23 May 2009 (20),Rennes (37),3-1,2-0,Lorient (37)
+?,(Sat) 23 May 2009 (20),Sochaux (37),2-1,2-0,Nantes (37)
+?,(Sat) 23 May 2009 (20),Valenciennes (37),2-1,0-1,Paris SG (37)
+?,(Sat) 30 May 2009 (21),Caen (38),0-1,0-0,Bordeaux (38)
+?,(Sat) 30 May 2009 (21),Grenoble (38),0-1,0-1,Sochaux (38)
+?,(Sat) 30 May 2009 (21),Lille (38),3-2,2-1,Nancy (38)
+?,(Sat) 30 May 2009 (21),Lorient (38),1-1,1-1,Le Mans (38)
+?,(Sat) 30 May 2009 (21),Marseille (38),4-0,0-0,Rennes (38)
+?,(Sat) 30 May 2009 (21),Nantes (38),2-1,1-0,Auxerre (38)
+?,(Sat) 30 May 2009 (21),Nice (38),0-0,0-0,Le Havre (38)
+?,(Sat) 30 May 2009 (21),Paris SG (38),0-0,0-0,Monaco (38)
+?,(Sat) 30 May 2009 (21),St Etienne (38),4-0,1-0,Valenciennes (38)
+?,(Sat) 30 May 2009 (21),Toulouse (38),0-0,0-0,Lyon (38)

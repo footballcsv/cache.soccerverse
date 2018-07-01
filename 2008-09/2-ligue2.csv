@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Fri) Aug/1 2008 (30),Ajaccio (1),Chateauroux (1),0-1,0-1
-?,(Fri) Aug/1 2008 (30),Amiens (1),Boulogne (1),1-1,0-0
-?,(Fri) Aug/1 2008 (30),Angers (1),Reims (1),3-1,2-1
-?,(Fri) Aug/1 2008 (30),Clermont (1),Vannes (1),0-1,0-1
-?,(Fri) Aug/1 2008 (30),Guingamp (1),Metz (1),0-1,0-1
-?,(Fri) Aug/1 2008 (30),Lens (1),Dijon (1),3-1,0-0
-?,(Fri) Aug/1 2008 (30),Nimes (1),Brest (1),0-1,0-1
-?,(Fri) Aug/1 2008 (30),Tours (1),Sedan (1),2-1,0-0
-?,(Fri) Aug/1 2008 (30),Troyes (1),Bastia (1),1-2,0-2
-?,(Mon) Aug/4 2008 (31),Strasbourg (1),Montpellier (1),1-0,0-0
-?,(Fri) Aug/8 2008 (31),Bastia (2),Angers (2),0-0,0-0
-?,(Fri) Aug/8 2008 (31),Boulogne (2),Guingamp (2),2-0,0-0
-?,(Fri) Aug/8 2008 (31),Brest (2),Clermont (2),2-2,1-0
-?,(Fri) Aug/8 2008 (31),Chateauroux (2),Troyes (2),0-1,0-0
-?,(Fri) Aug/8 2008 (31),Dijon (2),Strasbourg (2),1-3,1-0
-?,(Fri) Aug/8 2008 (31),Metz (2),Tours (2),1-0,0-0
-?,(Fri) Aug/8 2008 (31),Montpellier (2),Amiens (2),2-1,1-0
-?,(Fri) Aug/8 2008 (31),Reims (2),Ajaccio (2),1-3,1-1
-?,(Fri) Aug/8 2008 (31),Sedan (2),Nimes (2),2-1,0-0
-?,(Mon) Aug/11 2008 (32),Vannes (2),Lens (2),2-1,0-1
-?,(Fri) Aug/15 2008 (32),Ajaccio (3),Dijon (3),1-1,1-1
-?,(Fri) Aug/15 2008 (32),Angers (3),Sedan (3),3-0,2-0
-?,(Fri) Aug/15 2008 (32),Clermont (3),Nimes (3),2-0,1-0
-?,(Fri) Aug/15 2008 (32),Guingamp (3),Reims (3),0-2,0-1
-?,(Fri) Aug/15 2008 (32),Lens (3),Chateauroux (3),1-0,0-0
-?,(Fri) Aug/15 2008 (32),Montpellier (3),Boulogne (3),0-0,0-0
-?,(Fri) Aug/15 2008 (32),Strasbourg (3),Bastia (3),1-0,0-0
-?,(Fri) Aug/15 2008 (32),Tours (3),Vannes (3),1-0,0-0
-?,(Fri) Aug/15 2008 (32),Troyes (3),Brest (3),1-0,1-0
-?,(Mon) Aug/18 2008 (33),Amiens (3),Metz (3),1-1,0-1
-?,(Fri) Aug/22 2008 (33),Bastia (4),Guingamp (4),2-1,1-0
-?,(Fri) Aug/22 2008 (33),Brest (4),Strasbourg (4),0-1,0-1
-?,(Fri) Aug/22 2008 (33),Chateauroux (4),Amiens (4),1-0,1-0
-?,(Fri) Aug/22 2008 (33),Clermont (4),Angers (4),2-2,1-2
-?,(Fri) Aug/22 2008 (33),Dijon (4),Tours (4),2-1,0-0
-?,(Fri) Aug/22 2008 (33),Metz (4),Boulogne (4),1-2,0-1
-?,(Fri) Aug/22 2008 (33),Reims (4),Montpellier (4),0-4,0-1
-?,(Fri) Aug/22 2008 (33),Sedan (4),Ajaccio (4),1-1,0-1
-?,(Fri) Aug/22 2008 (33),Vannes (4),Troyes (4),1-0,1-0
-?,(Mon) Aug/25 2008 (34),Nimes (4),Lens (4),1-2,0-1
-?,(Fri) Aug/29 2008 (34),Ajaccio (5),Vannes (5),4-0,2-0
-?,(Fri) Aug/29 2008 (34),Amiens (5),Reims (5),2-0,0-0
-?,(Fri) Aug/29 2008 (34),Angers (5),Brest (5),1-2,0-2
-?,(Fri) Aug/29 2008 (34),Boulogne (5),Dijon (5),3-0,3-0
-?,(Fri) Aug/29 2008 (34),Guingamp (5),Sedan (5),1-1,0-0
-?,(Fri) Aug/29 2008 (34),Lens (5),Clermont (5),2-1,0-1
-?,(Fri) Aug/29 2008 (34),Strasbourg (5),Chateauroux (5),2-1,2-0
-?,(Fri) Aug/29 2008 (34),Tours (5),Bastia (5),0-1,0-1
-?,(Fri) Aug/29 2008 (34),Troyes (5),Nimes (5),0-1,0-1
-?,(Mon) Sep/1 2008 (35),Montpellier (5),Metz (5),1-2,0-1
-?,(Fri) Sep/12 2008 (36),Bastia (6),Amiens (6),2-2,1-1
-?,(Fri) Sep/12 2008 (36),Brest (6),Ajaccio (6),1-2,1-2
-?,(Fri) Sep/12 2008 (36),Chateauroux (6),Guingamp (6),1-1,0-1
-?,(Fri) Sep/12 2008 (36),Clermont (6),Troyes (6),2-1,0-0
-?,(Fri) Sep/12 2008 (36),Dijon (6),Montpellier (6),1-0,0-0
-?,(Fri) Sep/12 2008 (36),Nimes (6),Tours (6),0-1,0-0
-?,(Fri) Sep/12 2008 (36),Reims (6),Boulogne (6),1-1,0-1
-?,(Fri) Sep/12 2008 (36),Sedan (6),Strasbourg (6),2-2,1-0
-?,(Fri) Sep/12 2008 (36),Vannes (6),Angers (6),2-0,1-0
-?,(Mon) Sep/15 2008 (37),Lens (6),Metz (6),0-1,0-0
-?,(Fri) Sep/19 2008 (37),Ajaccio (7),Clermont (7),5-1,3-0
-?,(Fri) Sep/19 2008 (37),Amiens (7),Brest (7),2-1,0-0
-?,(Fri) Sep/19 2008 (37),Angers (7),Nimes (7),2-2,0-1
-?,(Fri) Sep/19 2008 (37),Boulogne (7),Bastia (7),1-0,0-0
-?,(Fri) Sep/19 2008 (37),Guingamp (7),Dijon (7),1-1,0-1
-?,(Fri) Sep/19 2008 (37),Metz (7),Reims (7),0-0,0-0
-?,(Fri) Sep/19 2008 (37),Montpellier (7),Sedan (7),3-1,1-0
-?,(Fri) Sep/19 2008 (37),Strasbourg (7),Vannes (7),2-1,0-0
-?,(Fri) Sep/19 2008 (37),Tours (7),Chateauroux (7),3-1,0-0
-?,(Sun) Sep/21 2008 (37),Troyes (7),Lens (7),0-1,0-0
-?,(Fri) Sep/26 2008 (38),Bastia (8),Reims (8),2-2,1-0
-?,(Fri) Sep/26 2008 (38),Brest (8),Boulogne (8),0-1,0-0
-?,(Fri) Sep/26 2008 (38),Nimes (8),Ajaccio (8),2-2,0-1
-?,(Fri) Sep/26 2008 (38),Sedan (8),Amiens (8),0-1,0-1
-?,(Sat) Sep/27 2008 (38),Chateauroux (8),Montpellier (8),1-1,0-0
-?,(Sat) Sep/27 2008 (38),Dijon (8),Metz (8),0-1,0-1
-?,(Sat) Sep/27 2008 (38),Lens (8),Angers (8),3-0,1-0
-?,(Sat) Sep/27 2008 (38),Troyes (8),Tours (8),3-2,1-1
-?,(Sat) Sep/27 2008 (38),Vannes (8),Guingamp (8),0-0,0-0
-?,(Mon) Sep/29 2008 (39),Clermont (8),Strasbourg (8),2-2,0-1
-?,(Fri) Oct/3 2008 (39),Ajaccio (9),Lens (9),1-2,1-1
-?,(Fri) Oct/3 2008 (39),Amiens (9),Vannes (9),0-2,0-2
-?,(Fri) Oct/3 2008 (39),Angers (9),Troyes (9),0-0,0-0
-?,(Fri) Oct/3 2008 (39),Boulogne (9),Chateauroux (9),2-1,1-1
-?,(Fri) Oct/3 2008 (39),Guingamp (9),Clermont (9),2-1,1-0
-?,(Fri) Oct/3 2008 (39),Metz (9),Sedan (9),2-0,1-0
-?,(Fri) Oct/3 2008 (39),Montpellier (9),Bastia (9),2-1,1-1
-?,(Fri) Oct/3 2008 (39),Reims (9),Dijon (9),1-4,0-2
-?,(Fri) Oct/3 2008 (39),Tours (9),Brest (9),2-0,1-0
-?,(Mon) Oct/6 2008 (40),Strasbourg (9),Nimes (9),5-0,3-0
-?,(Fri) Oct/10 2008 (40),Angers (10),Strasbourg (10),3-0,0-0
-?,(Fri) Oct/10 2008 (40),Bastia (10),Dijon (10),0-0,0-0
-?,(Fri) Oct/10 2008 (40),Brest (10),Montpellier (10),0-3,0-0
-?,(Fri) Oct/10 2008 (40),Chateauroux (10),Metz (10),1-1,1-0
-?,(Fri) Oct/10 2008 (40),Clermont (10),Tours (10),0-0,0-0
-?,(Fri) Oct/10 2008 (40),Nimes (10),Amiens (10),1-1,0-1
-?,(Fri) Oct/10 2008 (40),Sedan (10),Reims (10),1-1,1-0
-?,(Fri) Oct/10 2008 (40),Troyes (10),Ajaccio (10),2-0,0-0
-?,(Fri) Oct/10 2008 (40),Vannes (10),Boulogne (10),0-0,0-0
-?,(Mon) Oct/13 2008 (41),Lens (10),Guingamp (10),1-0,1-0
-?,(Fri) Oct/17 2008 (41),Ajaccio (11),Angers (11),0-0,0-0
-?,(Fri) Oct/17 2008 (41),Amiens (11),Clermont (11),0-0,0-0
-?,(Fri) Oct/17 2008 (41),Boulogne (11),Sedan (11),0-1,0-1
-?,(Fri) Oct/17 2008 (41),Dijon (11),Chateauroux (11),2-0,1-0
-?,(Fri) Oct/17 2008 (41),Guingamp (11),Nimes (11),1-0,0-0
-?,(Fri) Oct/17 2008 (41),Metz (11),Bastia (11),0-0,0-0
-?,(Fri) Oct/17 2008 (41),Montpellier (11),Vannes (11),3-1,2-1
-?,(Fri) Oct/17 2008 (41),Strasbourg (11),Troyes (11),0-0,0-0
-?,(Mon) Oct/20 2008 (42),Tours (11),Lens (11),3-1,1-1
-?,(Fri) Oct/24 2008 (42),Angers (12),Tours (12),2-0,1-0
-?,(Fri) Oct/24 2008 (42),Brest (11),Metz (12),2-1,1-0
-?,(Fri) Oct/24 2008 (42),Chateauroux (12),Bastia (12),2-0,1-0
-?,(Fri) Oct/24 2008 (42),Clermont (12),Montpellier (12),2-1,1-0
-?,(Fri) Oct/24 2008 (42),Lens (12),Amiens (12),2-0,2-0
-?,(Fri) Oct/24 2008 (42),Nimes (12),Boulogne (12),0-1,0-0
-?,(Fri) Oct/24 2008 (42),Sedan (12),Dijon (12),2-1,2-1
-?,(Fri) Oct/24 2008 (42),Troyes (12),Guingamp (12),2-2,0-0
-?,(Fri) Oct/24 2008 (42),Vannes (12),Reims (11),1-0,1-0
-?,(Mon) Oct/27 2008 (43),Ajaccio (12),Strasbourg (12),1-1,1-1
-?,(Fri) Oct/31 2008 (43),Amiens (13),Troyes (13),1-1,1-0
-?,(Fri) Oct/31 2008 (43),Bastia (13),Sedan (13),2-0,0-0
-?,(Fri) Oct/31 2008 (43),Boulogne (13),Clermont (13),2-1,0-1
-?,(Fri) Oct/31 2008 (43),Dijon (13),Brest (12),1-2,0-1
-?,(Fri) Oct/31 2008 (43),Guingamp (13),Angers (13),0-0,0-0
-?,(Fri) Oct/31 2008 (43),Metz (13),Vannes (13),2-0,0-0
-?,(Fri) Oct/31 2008 (43),Montpellier (13),Nimes (13),1-1,0-0
-?,(Fri) Oct/31 2008 (43),Reims (12),Chateauroux (13),4-3,1-3
-?,(Fri) Oct/31 2008 (43),Tours (13),Ajaccio (13),4-1,1-1
-?,(Mon) Nov/3 2008 (44),Strasbourg (13),Lens (13),1-1,0-0
-?,(Fri) Nov/7 2008 (44),Ajaccio (14),Guingamp (14),2-1,1-1
-?,(Fri) Nov/7 2008 (44),Angers (14),Amiens (14),1-0,0-0
-?,(Fri) Nov/7 2008 (44),Brest (13),Bastia (14),4-0,1-0
-?,(Fri) Nov/7 2008 (44),Chateauroux (14),Sedan (14),1-1,0-0
-?,(Fri) Nov/7 2008 (44),Clermont (14),Metz (14),1-0,1-0
-?,(Fri) Nov/7 2008 (44),Nimes (14),Reims (13),2-2,0-1
-?,(Fri) Nov/7 2008 (44),Strasbourg (14),Tours (14),4-0,2-0
-?,(Fri) Nov/7 2008 (44),Vannes (14),Dijon (14),1-1,0-1
-?,(Mon) Nov/10 2008 (45),Troyes (14),Boulogne (14),1-0,1-0
-?,(Fri) Nov/14 2008 (45),Amiens (15),Ajaccio (15),2-0,1-0
-?,(Fri) Nov/14 2008 (45),Bastia (15),Lens (14),0-1,0-1
-?,(Fri) Nov/14 2008 (45),Boulogne (15),Angers (15),2-3,0-1
-?,(Fri) Nov/14 2008 (45),Chateauroux (15),Vannes (15),1-0,1-0
-?,(Fri) Nov/14 2008 (45),Dijon (15),Nimes (15),2-1,2-1
-?,(Fri) Nov/14 2008 (45),Guingamp (15),Tours (15),3-1,0-1
-?,(Fri) Nov/14 2008 (45),Montpellier (14),Troyes (15),3-0,2-0
-?,(Fri) Nov/14 2008 (45),Reims (14),Clermont (15),1-1,1-0
-?,(Fri) Nov/14 2008 (45),Sedan (15),Brest (14),1-0,1-0
-?,(Mon) Nov/17 2008 (46),Metz (15),Strasbourg (15),3-2,2-1
-?,(Fri) Nov/28 2008 (47),Ajaccio (16),Boulogne (16),0-2,0-2
-?,(Fri) Nov/28 2008 (47),Angers (16),Montpellier (15),3-3,0-1
-?,(Fri) Nov/28 2008 (47),Brest (15),Chateauroux (16),2-0,2-0
-?,(Fri) Nov/28 2008 (47),Clermont (16),Dijon (16),1-1,0-0
-?,(Fri) Nov/28 2008 (47),Nimes (16),Metz (16),1-1,1-1
-?,(Fri) Nov/28 2008 (47),Strasbourg (16),Guingamp (16),0-2,0-1
-?,(Fri) Nov/28 2008 (47),Tours (16),Amiens (16),0-0,0-0
-?,(Fri) Nov/28 2008 (47),Troyes (16),Reims (15),1-0,0-0
-?,(Fri) Nov/28 2008 (47),Vannes (16),Bastia (16),0-1,0-0
-?,(Mon) Dec/1 2008 (48),Lens (15),Sedan (16),1-3,0-1
-?,(Fri) Dec/5 2008 (48),Bastia (17),Ajaccio (17),6-2,2-1
-?,(Fri) Dec/5 2008 (48),Boulogne (17),Tours (17),3-3,3-2
-?,(Fri) Dec/5 2008 (48),Brest (16),Vannes (17),0-1,0-0
-?,(Fri) Dec/5 2008 (48),Chateauroux (17),Nimes (17),0-0,0-0
-?,(Fri) Dec/5 2008 (48),Dijon (17),Troyes (17),1-1,0-1
-?,(Fri) Dec/5 2008 (48),Metz (17),Angers (17),0-1,0-1
-?,(Fri) Dec/5 2008 (48),Montpellier (16),Guingamp (17),0-0,0-0
-?,(Fri) Dec/5 2008 (48),Reims (16),Lens (16),1-2,1-1
-?,(Fri) Dec/5 2008 (48),Sedan (17),Clermont (17),0-1,0-0
-?,(Mon) Dec/8 2008 (49),Amiens (17),Strasbourg (17),1-1,1-1
-?,(Thu) Dec/11 2008 (49),Lens (17),Montpellier (17),0-2,0-0
-?,(Fri) Dec/19 2008 (50),Ajaccio (18),Montpellier (18),0-3,0-1
-?,(Fri) Dec/19 2008 (50),Angers (18),Dijon (18),2-0,1-0
-?,(Fri) Dec/19 2008 (50),Clermont (18),Chateauroux (18),1-3,0-3
-?,(Fri) Dec/19 2008 (50),Guingamp (18),Amiens (18),0-0,0-0
-?,(Fri) Dec/19 2008 (50),Lens (18),Brest (17),2-0,1-0
-?,(Fri) Dec/19 2008 (50),Nimes (18),Bastia (18),1-0,0-0
-?,(Fri) Dec/19 2008 (50),Tours (18),Reims (17),2-1,1-0
-?,(Fri) Dec/19 2008 (50),Troyes (18),Metz (18),3-1,2-0
-?,(Fri) Dec/19 2008 (50),Vannes (18),Sedan (18),0-0,0-0
-?,(Mon) Dec/22 2008 (51),Strasbourg (18),Boulogne (18),1-0,0-0
-?,(Thu) Jan/8 2009 (1),Boulogne (19),Lens (19),3-1,0-0
-?,(Fri) Jan/9 2009 (1),Bastia (19),Clermont (19),2-1,1-1
-?,(Fri) Jan/9 2009 (1),Brest (18),Guingamp (19),1-1,0-1
-?,(Fri) Jan/9 2009 (1),Montpellier (19),Tours (19),1-1,1-1
-?,(Fri) Jan/9 2009 (1),Vannes (19),Nimes (19),1-0,1-0
-?,(Fri) Jan/16 2009 (2),Ajaccio (19),Reims (18),2-1,1-0
-?,(Fri) Jan/16 2009 (2),Amiens (19),Montpellier (20),2-0,0-0
-?,(Fri) Jan/16 2009 (2),Angers (19),Bastia (20),2-0,0-0
-?,(Fri) Jan/16 2009 (2),Clermont (20),Brest (19),2-0,1-0
-?,(Fri) Jan/16 2009 (2),Guingamp (20),Boulogne (20),3-0,1-0
-?,(Fri) Jan/16 2009 (2),Nimes (20),Sedan (19),2-1,1-0
-?,(Fri) Jan/16 2009 (2),Tours (20),Metz (19),1-4,1-1
-?,(Sat) Jan/17 2009 (2),Lens (20),Vannes (20),2-1,2-0
-?,(Sat) Jan/17 2009 (2),Strasbourg (19),Dijon (19),0-0,0-0
-?,(Sat) Jan/17 2009 (2),Troyes (19),Chateauroux (19),2-2,1-0
-?,(Thu) Jan/22 2009 (3),Reims (19),Strasbourg (20),4-1,3-1
-?,(Fri) Jan/23 2009 (3),Chateauroux (20),Angers (20),0-1,0-0
-?,(Tue) Jan/27 2009 (4),Dijon (20),Amiens (20),2-1,0-0
-?,(Tue) Jan/27 2009 (4),Metz (20),Ajaccio (20),3-2,2-1
-?,(Tue) Jan/27 2009 (4),Sedan (20),Troyes (20),2-1,1-0
-?,(Fri) Jan/30 2009 (4),Bastia (21),Strasbourg (21),1-1,1-0
-?,(Fri) Jan/30 2009 (4),Brest (20),Troyes (21),4-1,2-1
-?,(Fri) Jan/30 2009 (4),Chateauroux (21),Lens (21),0-0,0-0
-?,(Fri) Jan/30 2009 (4),Dijon (21),Ajaccio (21),2-1,2-0
-?,(Fri) Jan/30 2009 (4),Metz (21),Amiens (21),2-1,2-0
-?,(Fri) Jan/30 2009 (4),Nimes (21),Clermont (21),1-1,0-0
-?,(Fri) Jan/30 2009 (4),Reims (20),Guingamp (21),0-0,0-0
-?,(Fri) Jan/30 2009 (4),Sedan (21),Angers (21),0-0,0-0
-?,(Fri) Jan/30 2009 (4),Vannes (21),Tours (21),1-0,1-0
-?,(Mon) Feb/2 2009 (5),Boulogne (21),Montpellier (21),0-3,0-3
-?,(Fri) Feb/6 2009 (5),Ajaccio (22),Sedan (22),0-2,0-0
-?,(Fri) Feb/6 2009 (5),Amiens (22),Chateauroux (22),1-1,0-0
-?,(Fri) Feb/6 2009 (5),Angers (22),Clermont (22),4-2,1-0
-?,(Fri) Feb/6 2009 (5),Boulogne (22),Metz (22),1-1,0-0
-?,(Fri) Feb/6 2009 (5),Guingamp (22),Bastia (22),4-1,1-1
-?,(Fri) Feb/6 2009 (5),Lens (22),Nimes (22),1-0,1-0
-?,(Fri) Feb/6 2009 (5),Strasbourg (22),Brest (21),2-2,0-2
-?,(Fri) Feb/6 2009 (5),Tours (22),Dijon (22),0-0,0-0
-?,(Sat) Feb/7 2009 (5),Troyes (22),Vannes (22),3-0,1-0
-?,(Mon) Feb/9 2009 (6),Montpellier (22),Reims (21),2-2,1-2
-?,(Fri) Feb/13 2009 (6),Bastia (23),Tours (23),2-0,0-0
-?,(Fri) Feb/13 2009 (6),Brest (22),Angers (23),2-1,1-1
-?,(Fri) Feb/13 2009 (6),Chateauroux (23),Strasbourg (23),0-1,0-1
-?,(Fri) Feb/13 2009 (6),Dijon (23),Boulogne (23),1-0,0-0
-?,(Fri) Feb/13 2009 (6),Metz (23),Montpellier (23),3-1,2-1
-?,(Fri) Feb/13 2009 (6),Nimes (23),Troyes (23),1-0,1-0
-?,(Fri) Feb/13 2009 (6),Reims (22),Amiens (23),1-3,0-2
-?,(Fri) Feb/13 2009 (6),Sedan (23),Guingamp (23),1-0,1-0
-?,(Fri) Feb/13 2009 (6),Vannes (23),Ajaccio (23),1-1,1-0
-?,(Mon) Feb/16 2009 (7),Clermont (23),Lens (23),1-2,1-1
-?,(Fri) Feb/20 2009 (7),Ajaccio (24),Brest (23),1-1,1-1
-?,(Fri) Feb/20 2009 (7),Amiens (24),Bastia (24),0-1,0-0
-?,(Fri) Feb/20 2009 (7),Angers (24),Vannes (24),0-1,0-0
-?,(Fri) Feb/20 2009 (7),Boulogne (24),Reims (23),0-3,0-2
-?,(Fri) Feb/20 2009 (7),Guingamp (24),Chateauroux (24),2-1,1-0
-?,(Fri) Feb/20 2009 (7),Montpellier (24),Dijon (24),4-1,3-0
-?,(Fri) Feb/20 2009 (7),Strasbourg (24),Sedan (24),1-3,1-2
-?,(Fri) Feb/20 2009 (7),Tours (24),Nimes (24),4-1,2-1
-?,(Fri) Feb/20 2009 (7),Troyes (24),Clermont (24),0-1,0-0
-?,(Mon) Feb/23 2009 (8),Metz (24),Lens (24),1-2,0-1
-?,(Fri) Feb/27 2009 (8),Bastia (25),Boulogne (25),1-3,1-1
-?,(Fri) Feb/27 2009 (8),Brest (24),Amiens (25),1-2,1-1
-?,(Fri) Feb/27 2009 (8),Chateauroux (25),Tours (25),1-1,0-0
-?,(Fri) Feb/27 2009 (8),Clermont (25),Ajaccio (25),1-1,0-0
-?,(Fri) Feb/27 2009 (8),Dijon (25),Guingamp (25),2-3,1-0
-?,(Fri) Feb/27 2009 (8),Nimes (25),Angers (25),1-1,0-1
-?,(Fri) Feb/27 2009 (8),Reims (24),Metz (25),1-1,0-1
-?,(Fri) Feb/27 2009 (8),Sedan (25),Montpellier (25),1-1,0-0
-?,(Fri) Feb/27 2009 (8),Vannes (25),Strasbourg (25),2-2,2-2
-?,(Mon) Mar/2 2009 (9),Lens (25),Troyes (25),1-1,1-0
-?,(Fri) Mar/6 2009 (9),Boulogne (26),Brest (25),0-1,0-1
-?,(Fri) Mar/6 2009 (9),Guingamp (26),Vannes (26),1-1,1-0
-?,(Fri) Mar/6 2009 (9),Metz (26),Dijon (26),2-0,1-0
-?,(Fri) Mar/6 2009 (9),Montpellier (26),Chateauroux (26),3-0,1-0
-?,(Fri) Mar/6 2009 (9),Reims (25),Bastia (26),2-0,2-0
-?,(Fri) Mar/6 2009 (9),Strasbourg (26),Clermont (26),2-0,1-0
-?,(Fri) Mar/6 2009 (9),Tours (26),Troyes (26),4-3,3-1
-?,(Sat) Mar/7 2009 (9),Ajaccio (26),Nimes (26),2-1,1-0
-?,(Sat) Mar/7 2009 (9),Amiens (26),Sedan (26),0-0,0-0
-?,(Mon) Mar/9 2009 (10),Angers (26),Lens (26),2-2,1-0
-?,(Fri) Mar/13 2009 (10),Bastia (27),Montpellier (27),1-0,0-0
-?,(Fri) Mar/13 2009 (10),Brest (26),Tours (27),0-1,0-1
-?,(Fri) Mar/13 2009 (10),Chateauroux (27),Boulogne (27),1-0,0-0
-?,(Fri) Mar/13 2009 (10),Clermont (27),Guingamp (27),1-1,1-0
-?,(Fri) Mar/13 2009 (10),Dijon (27),Reims (26),1-1,0-0
-?,(Fri) Mar/13 2009 (10),Lens (27),Ajaccio (27),0-1,0-1
-?,(Fri) Mar/13 2009 (10),Sedan (27),Metz (27),3-2,0-1
-?,(Fri) Mar/13 2009 (10),Troyes (27),Angers (27),1-2,0-2
-?,(Fri) Mar/13 2009 (10),Vannes (27),Amiens (27),2-1,2-1
-?,(Mon) Mar/16 2009 (11),Nimes (27),Strasbourg (27),0-2,0-0
-?,(Fri) Mar/20 2009 (11),Ajaccio (28),Troyes (28),1-1,0-0
-?,(Fri) Mar/20 2009 (11),Amiens (28),Nimes (28),0-1,0-1
-?,(Fri) Mar/20 2009 (11),Boulogne (28),Vannes (28),2-0,1-0
-?,(Fri) Mar/20 2009 (11),Dijon (28),Bastia (28),2-0,1-0
-?,(Fri) Mar/20 2009 (11),Guingamp (28),Lens (28),0-0,0-0
-?,(Fri) Mar/20 2009 (11),Metz (28),Chateauroux (28),1-0,0-0
-?,(Fri) Mar/20 2009 (11),Montpellier (28),Brest (27),3-2,2-1
-?,(Fri) Mar/20 2009 (11),Reims (27),Sedan (28),0-1,0-0
-?,(Fri) Mar/20 2009 (11),Tours (28),Clermont (28),2-0,1-0
-?,(Mon) Mar/23 2009 (12),Strasbourg (28),Angers (28),2-0,2-0
-?,(Fri) Mar/27 2009 (12),Angers (29),Ajaccio (29),0-1,0-1
-?,(Fri) Mar/27 2009 (12),Bastia (29),Metz (29),1-2,1-1
-?,(Fri) Mar/27 2009 (12),Brest (28),Reims (28),0-0,0-0
-?,(Fri) Mar/27 2009 (12),Chateauroux (29),Dijon (29),2-0,1-0
-?,(Fri) Mar/27 2009 (12),Clermont (29),Amiens (29),2-0,1-0
-?,(Fri) Mar/27 2009 (12),Nimes (29),Guingamp (29),1-0,0-0
-?,(Fri) Mar/27 2009 (12),Sedan (29),Boulogne (29),0-1,0-0
-?,(Fri) Mar/27 2009 (12),Troyes (29),Strasbourg (29),1-2,0-0
-?,(Fri) Mar/27 2009 (12),Vannes (29),Montpellier (29),1-0,0-0
-?,(Mon) Mar/30 2009 (13),Lens (29),Tours (29),0-0,0-0
-?,(Fri) Apr/3 2009 (13),Bastia (30),Chateauroux (30),2-1,0-1
-?,(Fri) Apr/3 2009 (13),Boulogne (30),Nimes (30),2-0,2-0
-?,(Fri) Apr/3 2009 (13),Dijon (30),Sedan (30),1-0,1-0
-?,(Fri) Apr/3 2009 (13),Guingamp (30),Troyes (30),0-0,0-0
-?,(Fri) Apr/3 2009 (13),Montpellier (30),Clermont (30),2-1,1-0
-?,(Fri) Apr/3 2009 (13),Reims (29),Vannes (30),3-1,1-0
-?,(Fri) Apr/3 2009 (13),Tours (30),Angers (30),3-1,1-1
-?,(Sun) Apr/5 2009 (13),Metz (30),Brest (29),1-0,1-0
-?,(Sun) Apr/5 2009 (13),Strasbourg (30),Ajaccio (30),3-1,2-0
-?,(Mon) Apr/6 2009 (14),Amiens (30),Lens (30),0-0,0-0
-?,(Fri) Apr/10 2009 (14),Ajaccio (31),Tours (31),0-2,0-1
-?,(Fri) Apr/10 2009 (14),Angers (31),Guingamp (31),0-1,0-0
-?,(Fri) Apr/10 2009 (14),Brest (30),Dijon (31),1-2,1-0
-?,(Fri) Apr/10 2009 (14),Chateauroux (31),Reims (30),0-0,0-0
-?,(Fri) Apr/10 2009 (14),Clermont (31),Boulogne (31),2-3,1-2
-?,(Fri) Apr/10 2009 (14),Nimes (31),Montpellier (31),2-1,0-1
-?,(Fri) Apr/10 2009 (14),Sedan (31),Bastia (31),1-1,1-1
-?,(Fri) Apr/10 2009 (14),Troyes (31),Amiens (31),0-1,0-0
-?,(Fri) Apr/10 2009 (14),Vannes (31),Metz (31),1-1,0-0
-?,(Mon) Apr/13 2009 (15),Lens (31),Strasbourg (31),4-1,2-0
-?,(Fri) Apr/17 2009 (15),Amiens (32),Angers (32),1-1,0-0
-?,(Fri) Apr/17 2009 (15),Bastia (32),Brest (31),0-2,0-1
-?,(Fri) Apr/17 2009 (15),Boulogne (32),Troyes (32),1-0,0-0
-?,(Fri) Apr/17 2009 (15),Dijon (32),Vannes (32),3-0,3-0
-?,(Fri) Apr/17 2009 (15),Guingamp (32),Ajaccio (32),0-0,0-0
-?,(Fri) Apr/17 2009 (15),Metz (32),Clermont (32),1-3,1-2
-?,(Fri) Apr/17 2009 (15),Reims (31),Nimes (32),2-1,1-0
-?,(Fri) Apr/17 2009 (15),Sedan (32),Chateauroux (32),3-4,1-2
-?,(Fri) Apr/17 2009 (15),Tours (32),Strasbourg (32),2-0,2-0
-?,(Mon) Apr/20 2009 (16),Montpellier (32),Lens (32),0-1,0-0
-?,(Tue) Apr/21 2009 (16),Reims (32),Brest (32),3-2,2-0
-?,(Fri) Apr/24 2009 (16),Ajaccio (33),Amiens (33),0-2,0-1
-?,(Fri) Apr/24 2009 (16),Angers (33),Boulogne (33),1-5,0-3
-?,(Fri) Apr/24 2009 (16),Brest (33),Sedan (33),2-2,1-1
-?,(Fri) Apr/24 2009 (16),Clermont (33),Reims (33),1-0,0-0
-?,(Fri) Apr/24 2009 (16),Lens (33),Bastia (33),1-0,0-0
-?,(Fri) Apr/24 2009 (16),Nimes (33),Dijon (33),2-1,0-1
-?,(Fri) Apr/24 2009 (16),Troyes (33),Montpellier (33),1-2,0-0
-?,(Sat) Apr/25 2009 (16),Tours (33),Guingamp (33),1-0,1-0
-?,(Mon) Apr/27 2009 (17),Strasbourg (33),Metz (33),0-0,0-0
-?,(Fri) May/1 2009 (17),Amiens (34),Tours (34),0-0,0-0
-?,(Fri) May/1 2009 (17),Bastia (34),Vannes (33),3-1,2-0
-?,(Fri) May/1 2009 (17),Boulogne (34),Ajaccio (34),0-1,0-0
-?,(Fri) May/1 2009 (17),Chateauroux (33),Brest (34),5-1,1-0
-?,(Fri) May/1 2009 (17),Dijon (34),Clermont (34),2-0,1-0
-?,(Fri) May/1 2009 (17),Guingamp (34),Strasbourg (34),1-2,0-0
-?,(Fri) May/1 2009 (17),Metz (34),Nimes (34),0-0,0-0
-?,(Fri) May/1 2009 (17),Montpellier (34),Angers (34),1-0,0-0
-?,(Fri) May/1 2009 (17),Reims (34),Troyes (34),0-0,0-0
-?,(Mon) May/4 2009 (18),Sedan (34),Lens (34),2-2,1-2
-?,(Tue) May/5 2009 (18),Vannes (34),Chateauroux (34),3-0,2-0
-?,(Fri) May/8 2009 (18),Ajaccio (35),Bastia (35),1-1,0-1
-?,(Fri) May/8 2009 (18),Angers (35),Metz (35),1-1,0-0
-?,(Fri) May/8 2009 (18),Clermont (35),Sedan (35),3-0,2-0
-?,(Fri) May/8 2009 (18),Nimes (35),Chateauroux (35),1-0,0-0
-?,(Fri) May/8 2009 (18),Strasbourg (35),Amiens (35),2-1,1-0
-?,(Fri) May/8 2009 (18),Tours (35),Boulogne (35),3-1,0-1
-?,(Fri) May/8 2009 (18),Troyes (35),Dijon (35),2-1,0-0
-?,(Fri) May/8 2009 (18),Vannes (35),Brest (35),0-3,0-2
-?,(Mon) May/11 2009 (19),Lens (35),Reims (35),1-0,1-0
-?,(Tue) May/12 2009 (19),Guingamp (35),Montpellier (35),0-1,0-1
-?,(Fri) May/15 2009 (19),Amiens (36),Guingamp (36),3-3,0-1
-?,(Fri) May/15 2009 (19),Bastia (36),Nimes (36),0-0,0-0
-?,(Fri) May/15 2009 (19),Brest (36),Lens (36),3-1,1-0
-?,(Fri) May/15 2009 (19),Chateauroux (36),Clermont (36),1-0,0-0
-?,(Fri) May/15 2009 (19),Dijon (36),Angers (36),0-2,0-0
-?,(Fri) May/15 2009 (19),Metz (36),Troyes (36),1-1,0-0
-?,(Fri) May/15 2009 (19),Montpellier (36),Ajaccio (36),2-1,2-1
-?,(Fri) May/15 2009 (19),Reims (36),Tours (36),0-0,0-0
-?,(Fri) May/15 2009 (19),Sedan (36),Vannes (36),2-3,0-1
-?,(Mon) May/18 2009 (20),Boulogne (36),Strasbourg (36),1-0,1-0
-?,(Fri) May/22 2009 (20),Ajaccio (37),Metz (37),1-0,1-0
-?,(Fri) May/22 2009 (20),Amiens (37),Dijon (37),1-1,1-1
-?,(Fri) May/22 2009 (20),Angers (37),Chateauroux (37),1-1,1-1
-?,(Fri) May/22 2009 (20),Clermont (37),Bastia (37),2-0,1-0
-?,(Fri) May/22 2009 (20),Guingamp (37),Brest (37),2-0,1-0
-?,(Fri) May/22 2009 (20),Lens (37),Boulogne (37),0-1,0-0
-?,(Fri) May/22 2009 (20),Nimes (37),Vannes (37),1-0,1-0
-?,(Fri) May/22 2009 (20),Strasbourg (37),Reims (37),3-2,2-1
-?,(Fri) May/22 2009 (20),Tours (37),Montpellier (37),0-0,0-0
-?,(Fri) May/22 2009 (20),Troyes (37),Sedan (37),2-3,1-2
-?,(Fri) May/29 2009 (21),Bastia (38),Troyes (38),2-1,1-0
-?,(Fri) May/29 2009 (21),Boulogne (38),Amiens (38),4-0,2-0
-?,(Fri) May/29 2009 (21),Brest (38),Nimes (38),1-2,0-0
-?,(Fri) May/29 2009 (21),Chateauroux (38),Ajaccio (38),2-1,1-1
-?,(Fri) May/29 2009 (21),Dijon (38),Lens (38),1-0,0-0
-?,(Fri) May/29 2009 (21),Metz (38),Guingamp (38),2-0,0-0
-?,(Fri) May/29 2009 (21),Montpellier (38),Strasbourg (38),2-1,2-1
-?,(Fri) May/29 2009 (21),Reims (38),Angers (38),0-0,0-0
-?,(Fri) May/29 2009 (21),Sedan (38),Tours (38),2-0,0-0
-?,(Fri) May/29 2009 (21),Vannes (38),Clermont (38),1-1,1-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 1 Aug 2008 (30),Ajaccio (1),0-1,0-1,Chateauroux (1)
+?,(Fri) 1 Aug 2008 (30),Amiens (1),1-1,0-0,Boulogne (1)
+?,(Fri) 1 Aug 2008 (30),Angers (1),3-1,2-1,Reims (1)
+?,(Fri) 1 Aug 2008 (30),Clermont (1),0-1,0-1,Vannes (1)
+?,(Fri) 1 Aug 2008 (30),Guingamp (1),0-1,0-1,Metz (1)
+?,(Fri) 1 Aug 2008 (30),Lens (1),3-1,0-0,Dijon (1)
+?,(Fri) 1 Aug 2008 (30),Nimes (1),0-1,0-1,Brest (1)
+?,(Fri) 1 Aug 2008 (30),Tours (1),2-1,0-0,Sedan (1)
+?,(Fri) 1 Aug 2008 (30),Troyes (1),1-2,0-2,Bastia (1)
+?,(Mon) 4 Aug 2008 (31),Strasbourg (1),1-0,0-0,Montpellier (1)
+?,(Fri) 8 Aug 2008 (31),Bastia (2),0-0,0-0,Angers (2)
+?,(Fri) 8 Aug 2008 (31),Boulogne (2),2-0,0-0,Guingamp (2)
+?,(Fri) 8 Aug 2008 (31),Brest (2),2-2,1-0,Clermont (2)
+?,(Fri) 8 Aug 2008 (31),Chateauroux (2),0-1,0-0,Troyes (2)
+?,(Fri) 8 Aug 2008 (31),Dijon (2),1-3,1-0,Strasbourg (2)
+?,(Fri) 8 Aug 2008 (31),Metz (2),1-0,0-0,Tours (2)
+?,(Fri) 8 Aug 2008 (31),Montpellier (2),2-1,1-0,Amiens (2)
+?,(Fri) 8 Aug 2008 (31),Reims (2),1-3,1-1,Ajaccio (2)
+?,(Fri) 8 Aug 2008 (31),Sedan (2),2-1,0-0,Nimes (2)
+?,(Mon) 11 Aug 2008 (32),Vannes (2),2-1,0-1,Lens (2)
+?,(Fri) 15 Aug 2008 (32),Ajaccio (3),1-1,1-1,Dijon (3)
+?,(Fri) 15 Aug 2008 (32),Angers (3),3-0,2-0,Sedan (3)
+?,(Fri) 15 Aug 2008 (32),Clermont (3),2-0,1-0,Nimes (3)
+?,(Fri) 15 Aug 2008 (32),Guingamp (3),0-2,0-1,Reims (3)
+?,(Fri) 15 Aug 2008 (32),Lens (3),1-0,0-0,Chateauroux (3)
+?,(Fri) 15 Aug 2008 (32),Montpellier (3),0-0,0-0,Boulogne (3)
+?,(Fri) 15 Aug 2008 (32),Strasbourg (3),1-0,0-0,Bastia (3)
+?,(Fri) 15 Aug 2008 (32),Tours (3),1-0,0-0,Vannes (3)
+?,(Fri) 15 Aug 2008 (32),Troyes (3),1-0,1-0,Brest (3)
+?,(Mon) 18 Aug 2008 (33),Amiens (3),1-1,0-1,Metz (3)
+?,(Fri) 22 Aug 2008 (33),Bastia (4),2-1,1-0,Guingamp (4)
+?,(Fri) 22 Aug 2008 (33),Brest (4),0-1,0-1,Strasbourg (4)
+?,(Fri) 22 Aug 2008 (33),Chateauroux (4),1-0,1-0,Amiens (4)
+?,(Fri) 22 Aug 2008 (33),Clermont (4),2-2,1-2,Angers (4)
+?,(Fri) 22 Aug 2008 (33),Dijon (4),2-1,0-0,Tours (4)
+?,(Fri) 22 Aug 2008 (33),Metz (4),1-2,0-1,Boulogne (4)
+?,(Fri) 22 Aug 2008 (33),Reims (4),0-4,0-1,Montpellier (4)
+?,(Fri) 22 Aug 2008 (33),Sedan (4),1-1,0-1,Ajaccio (4)
+?,(Fri) 22 Aug 2008 (33),Vannes (4),1-0,1-0,Troyes (4)
+?,(Mon) 25 Aug 2008 (34),Nimes (4),1-2,0-1,Lens (4)
+?,(Fri) 29 Aug 2008 (34),Ajaccio (5),4-0,2-0,Vannes (5)
+?,(Fri) 29 Aug 2008 (34),Amiens (5),2-0,0-0,Reims (5)
+?,(Fri) 29 Aug 2008 (34),Angers (5),1-2,0-2,Brest (5)
+?,(Fri) 29 Aug 2008 (34),Boulogne (5),3-0,3-0,Dijon (5)
+?,(Fri) 29 Aug 2008 (34),Guingamp (5),1-1,0-0,Sedan (5)
+?,(Fri) 29 Aug 2008 (34),Lens (5),2-1,0-1,Clermont (5)
+?,(Fri) 29 Aug 2008 (34),Strasbourg (5),2-1,2-0,Chateauroux (5)
+?,(Fri) 29 Aug 2008 (34),Tours (5),0-1,0-1,Bastia (5)
+?,(Fri) 29 Aug 2008 (34),Troyes (5),0-1,0-1,Nimes (5)
+?,(Mon) 1 Sep 2008 (35),Montpellier (5),1-2,0-1,Metz (5)
+?,(Fri) 12 Sep 2008 (36),Bastia (6),2-2,1-1,Amiens (6)
+?,(Fri) 12 Sep 2008 (36),Brest (6),1-2,1-2,Ajaccio (6)
+?,(Fri) 12 Sep 2008 (36),Chateauroux (6),1-1,0-1,Guingamp (6)
+?,(Fri) 12 Sep 2008 (36),Clermont (6),2-1,0-0,Troyes (6)
+?,(Fri) 12 Sep 2008 (36),Dijon (6),1-0,0-0,Montpellier (6)
+?,(Fri) 12 Sep 2008 (36),Nimes (6),0-1,0-0,Tours (6)
+?,(Fri) 12 Sep 2008 (36),Reims (6),1-1,0-1,Boulogne (6)
+?,(Fri) 12 Sep 2008 (36),Sedan (6),2-2,1-0,Strasbourg (6)
+?,(Fri) 12 Sep 2008 (36),Vannes (6),2-0,1-0,Angers (6)
+?,(Mon) 15 Sep 2008 (37),Lens (6),0-1,0-0,Metz (6)
+?,(Fri) 19 Sep 2008 (37),Ajaccio (7),5-1,3-0,Clermont (7)
+?,(Fri) 19 Sep 2008 (37),Amiens (7),2-1,0-0,Brest (7)
+?,(Fri) 19 Sep 2008 (37),Angers (7),2-2,0-1,Nimes (7)
+?,(Fri) 19 Sep 2008 (37),Boulogne (7),1-0,0-0,Bastia (7)
+?,(Fri) 19 Sep 2008 (37),Guingamp (7),1-1,0-1,Dijon (7)
+?,(Fri) 19 Sep 2008 (37),Metz (7),0-0,0-0,Reims (7)
+?,(Fri) 19 Sep 2008 (37),Montpellier (7),3-1,1-0,Sedan (7)
+?,(Fri) 19 Sep 2008 (37),Strasbourg (7),2-1,0-0,Vannes (7)
+?,(Fri) 19 Sep 2008 (37),Tours (7),3-1,0-0,Chateauroux (7)
+?,(Sun) 21 Sep 2008 (37),Troyes (7),0-1,0-0,Lens (7)
+?,(Fri) 26 Sep 2008 (38),Bastia (8),2-2,1-0,Reims (8)
+?,(Fri) 26 Sep 2008 (38),Brest (8),0-1,0-0,Boulogne (8)
+?,(Fri) 26 Sep 2008 (38),Nimes (8),2-2,0-1,Ajaccio (8)
+?,(Fri) 26 Sep 2008 (38),Sedan (8),0-1,0-1,Amiens (8)
+?,(Sat) 27 Sep 2008 (38),Chateauroux (8),1-1,0-0,Montpellier (8)
+?,(Sat) 27 Sep 2008 (38),Dijon (8),0-1,0-1,Metz (8)
+?,(Sat) 27 Sep 2008 (38),Lens (8),3-0,1-0,Angers (8)
+?,(Sat) 27 Sep 2008 (38),Troyes (8),3-2,1-1,Tours (8)
+?,(Sat) 27 Sep 2008 (38),Vannes (8),0-0,0-0,Guingamp (8)
+?,(Mon) 29 Sep 2008 (39),Clermont (8),2-2,0-1,Strasbourg (8)
+?,(Fri) 3 Oct 2008 (39),Ajaccio (9),1-2,1-1,Lens (9)
+?,(Fri) 3 Oct 2008 (39),Amiens (9),0-2,0-2,Vannes (9)
+?,(Fri) 3 Oct 2008 (39),Angers (9),0-0,0-0,Troyes (9)
+?,(Fri) 3 Oct 2008 (39),Boulogne (9),2-1,1-1,Chateauroux (9)
+?,(Fri) 3 Oct 2008 (39),Guingamp (9),2-1,1-0,Clermont (9)
+?,(Fri) 3 Oct 2008 (39),Metz (9),2-0,1-0,Sedan (9)
+?,(Fri) 3 Oct 2008 (39),Montpellier (9),2-1,1-1,Bastia (9)
+?,(Fri) 3 Oct 2008 (39),Reims (9),1-4,0-2,Dijon (9)
+?,(Fri) 3 Oct 2008 (39),Tours (9),2-0,1-0,Brest (9)
+?,(Mon) 6 Oct 2008 (40),Strasbourg (9),5-0,3-0,Nimes (9)
+?,(Fri) 10 Oct 2008 (40),Angers (10),3-0,0-0,Strasbourg (10)
+?,(Fri) 10 Oct 2008 (40),Bastia (10),0-0,0-0,Dijon (10)
+?,(Fri) 10 Oct 2008 (40),Brest (10),0-3,0-0,Montpellier (10)
+?,(Fri) 10 Oct 2008 (40),Chateauroux (10),1-1,1-0,Metz (10)
+?,(Fri) 10 Oct 2008 (40),Clermont (10),0-0,0-0,Tours (10)
+?,(Fri) 10 Oct 2008 (40),Nimes (10),1-1,0-1,Amiens (10)
+?,(Fri) 10 Oct 2008 (40),Sedan (10),1-1,1-0,Reims (10)
+?,(Fri) 10 Oct 2008 (40),Troyes (10),2-0,0-0,Ajaccio (10)
+?,(Fri) 10 Oct 2008 (40),Vannes (10),0-0,0-0,Boulogne (10)
+?,(Mon) 13 Oct 2008 (41),Lens (10),1-0,1-0,Guingamp (10)
+?,(Fri) 17 Oct 2008 (41),Ajaccio (11),0-0,0-0,Angers (11)
+?,(Fri) 17 Oct 2008 (41),Amiens (11),0-0,0-0,Clermont (11)
+?,(Fri) 17 Oct 2008 (41),Boulogne (11),0-1,0-1,Sedan (11)
+?,(Fri) 17 Oct 2008 (41),Dijon (11),2-0,1-0,Chateauroux (11)
+?,(Fri) 17 Oct 2008 (41),Guingamp (11),1-0,0-0,Nimes (11)
+?,(Fri) 17 Oct 2008 (41),Metz (11),0-0,0-0,Bastia (11)
+?,(Fri) 17 Oct 2008 (41),Montpellier (11),3-1,2-1,Vannes (11)
+?,(Fri) 17 Oct 2008 (41),Strasbourg (11),0-0,0-0,Troyes (11)
+?,(Mon) 20 Oct 2008 (42),Tours (11),3-1,1-1,Lens (11)
+?,(Fri) 24 Oct 2008 (42),Angers (12),2-0,1-0,Tours (12)
+?,(Fri) 24 Oct 2008 (42),Brest (11),2-1,1-0,Metz (12)
+?,(Fri) 24 Oct 2008 (42),Chateauroux (12),2-0,1-0,Bastia (12)
+?,(Fri) 24 Oct 2008 (42),Clermont (12),2-1,1-0,Montpellier (12)
+?,(Fri) 24 Oct 2008 (42),Lens (12),2-0,2-0,Amiens (12)
+?,(Fri) 24 Oct 2008 (42),Nimes (12),0-1,0-0,Boulogne (12)
+?,(Fri) 24 Oct 2008 (42),Sedan (12),2-1,2-1,Dijon (12)
+?,(Fri) 24 Oct 2008 (42),Troyes (12),2-2,0-0,Guingamp (12)
+?,(Fri) 24 Oct 2008 (42),Vannes (12),1-0,1-0,Reims (11)
+?,(Mon) 27 Oct 2008 (43),Ajaccio (12),1-1,1-1,Strasbourg (12)
+?,(Fri) 31 Oct 2008 (43),Amiens (13),1-1,1-0,Troyes (13)
+?,(Fri) 31 Oct 2008 (43),Bastia (13),2-0,0-0,Sedan (13)
+?,(Fri) 31 Oct 2008 (43),Boulogne (13),2-1,0-1,Clermont (13)
+?,(Fri) 31 Oct 2008 (43),Dijon (13),1-2,0-1,Brest (12)
+?,(Fri) 31 Oct 2008 (43),Guingamp (13),0-0,0-0,Angers (13)
+?,(Fri) 31 Oct 2008 (43),Metz (13),2-0,0-0,Vannes (13)
+?,(Fri) 31 Oct 2008 (43),Montpellier (13),1-1,0-0,Nimes (13)
+?,(Fri) 31 Oct 2008 (43),Reims (12),4-3,1-3,Chateauroux (13)
+?,(Fri) 31 Oct 2008 (43),Tours (13),4-1,1-1,Ajaccio (13)
+?,(Mon) 3 Nov 2008 (44),Strasbourg (13),1-1,0-0,Lens (13)
+?,(Fri) 7 Nov 2008 (44),Ajaccio (14),2-1,1-1,Guingamp (14)
+?,(Fri) 7 Nov 2008 (44),Angers (14),1-0,0-0,Amiens (14)
+?,(Fri) 7 Nov 2008 (44),Brest (13),4-0,1-0,Bastia (14)
+?,(Fri) 7 Nov 2008 (44),Chateauroux (14),1-1,0-0,Sedan (14)
+?,(Fri) 7 Nov 2008 (44),Clermont (14),1-0,1-0,Metz (14)
+?,(Fri) 7 Nov 2008 (44),Nimes (14),2-2,0-1,Reims (13)
+?,(Fri) 7 Nov 2008 (44),Strasbourg (14),4-0,2-0,Tours (14)
+?,(Fri) 7 Nov 2008 (44),Vannes (14),1-1,0-1,Dijon (14)
+?,(Mon) 10 Nov 2008 (45),Troyes (14),1-0,1-0,Boulogne (14)
+?,(Fri) 14 Nov 2008 (45),Amiens (15),2-0,1-0,Ajaccio (15)
+?,(Fri) 14 Nov 2008 (45),Bastia (15),0-1,0-1,Lens (14)
+?,(Fri) 14 Nov 2008 (45),Boulogne (15),2-3,0-1,Angers (15)
+?,(Fri) 14 Nov 2008 (45),Chateauroux (15),1-0,1-0,Vannes (15)
+?,(Fri) 14 Nov 2008 (45),Dijon (15),2-1,2-1,Nimes (15)
+?,(Fri) 14 Nov 2008 (45),Guingamp (15),3-1,0-1,Tours (15)
+?,(Fri) 14 Nov 2008 (45),Montpellier (14),3-0,2-0,Troyes (15)
+?,(Fri) 14 Nov 2008 (45),Reims (14),1-1,1-0,Clermont (15)
+?,(Fri) 14 Nov 2008 (45),Sedan (15),1-0,1-0,Brest (14)
+?,(Mon) 17 Nov 2008 (46),Metz (15),3-2,2-1,Strasbourg (15)
+?,(Fri) 28 Nov 2008 (47),Ajaccio (16),0-2,0-2,Boulogne (16)
+?,(Fri) 28 Nov 2008 (47),Angers (16),3-3,0-1,Montpellier (15)
+?,(Fri) 28 Nov 2008 (47),Brest (15),2-0,2-0,Chateauroux (16)
+?,(Fri) 28 Nov 2008 (47),Clermont (16),1-1,0-0,Dijon (16)
+?,(Fri) 28 Nov 2008 (47),Nimes (16),1-1,1-1,Metz (16)
+?,(Fri) 28 Nov 2008 (47),Strasbourg (16),0-2,0-1,Guingamp (16)
+?,(Fri) 28 Nov 2008 (47),Tours (16),0-0,0-0,Amiens (16)
+?,(Fri) 28 Nov 2008 (47),Troyes (16),1-0,0-0,Reims (15)
+?,(Fri) 28 Nov 2008 (47),Vannes (16),0-1,0-0,Bastia (16)
+?,(Mon) 1 Dec 2008 (48),Lens (15),1-3,0-1,Sedan (16)
+?,(Fri) 5 Dec 2008 (48),Bastia (17),6-2,2-1,Ajaccio (17)
+?,(Fri) 5 Dec 2008 (48),Boulogne (17),3-3,3-2,Tours (17)
+?,(Fri) 5 Dec 2008 (48),Brest (16),0-1,0-0,Vannes (17)
+?,(Fri) 5 Dec 2008 (48),Chateauroux (17),0-0,0-0,Nimes (17)
+?,(Fri) 5 Dec 2008 (48),Dijon (17),1-1,0-1,Troyes (17)
+?,(Fri) 5 Dec 2008 (48),Metz (17),0-1,0-1,Angers (17)
+?,(Fri) 5 Dec 2008 (48),Montpellier (16),0-0,0-0,Guingamp (17)
+?,(Fri) 5 Dec 2008 (48),Reims (16),1-2,1-1,Lens (16)
+?,(Fri) 5 Dec 2008 (48),Sedan (17),0-1,0-0,Clermont (17)
+?,(Mon) 8 Dec 2008 (49),Amiens (17),1-1,1-1,Strasbourg (17)
+?,(Thu) 11 Dec 2008 (49),Lens (17),0-2,0-0,Montpellier (17)
+?,(Fri) 19 Dec 2008 (50),Ajaccio (18),0-3,0-1,Montpellier (18)
+?,(Fri) 19 Dec 2008 (50),Angers (18),2-0,1-0,Dijon (18)
+?,(Fri) 19 Dec 2008 (50),Clermont (18),1-3,0-3,Chateauroux (18)
+?,(Fri) 19 Dec 2008 (50),Guingamp (18),0-0,0-0,Amiens (18)
+?,(Fri) 19 Dec 2008 (50),Lens (18),2-0,1-0,Brest (17)
+?,(Fri) 19 Dec 2008 (50),Nimes (18),1-0,0-0,Bastia (18)
+?,(Fri) 19 Dec 2008 (50),Tours (18),2-1,1-0,Reims (17)
+?,(Fri) 19 Dec 2008 (50),Troyes (18),3-1,2-0,Metz (18)
+?,(Fri) 19 Dec 2008 (50),Vannes (18),0-0,0-0,Sedan (18)
+?,(Mon) 22 Dec 2008 (51),Strasbourg (18),1-0,0-0,Boulogne (18)
+?,(Thu) 8 Jan 2009 (1),Boulogne (19),3-1,0-0,Lens (19)
+?,(Fri) 9 Jan 2009 (1),Bastia (19),2-1,1-1,Clermont (19)
+?,(Fri) 9 Jan 2009 (1),Brest (18),1-1,0-1,Guingamp (19)
+?,(Fri) 9 Jan 2009 (1),Montpellier (19),1-1,1-1,Tours (19)
+?,(Fri) 9 Jan 2009 (1),Vannes (19),1-0,1-0,Nimes (19)
+?,(Fri) 16 Jan 2009 (2),Ajaccio (19),2-1,1-0,Reims (18)
+?,(Fri) 16 Jan 2009 (2),Amiens (19),2-0,0-0,Montpellier (20)
+?,(Fri) 16 Jan 2009 (2),Angers (19),2-0,0-0,Bastia (20)
+?,(Fri) 16 Jan 2009 (2),Clermont (20),2-0,1-0,Brest (19)
+?,(Fri) 16 Jan 2009 (2),Guingamp (20),3-0,1-0,Boulogne (20)
+?,(Fri) 16 Jan 2009 (2),Nimes (20),2-1,1-0,Sedan (19)
+?,(Fri) 16 Jan 2009 (2),Tours (20),1-4,1-1,Metz (19)
+?,(Sat) 17 Jan 2009 (2),Lens (20),2-1,2-0,Vannes (20)
+?,(Sat) 17 Jan 2009 (2),Strasbourg (19),0-0,0-0,Dijon (19)
+?,(Sat) 17 Jan 2009 (2),Troyes (19),2-2,1-0,Chateauroux (19)
+?,(Thu) 22 Jan 2009 (3),Reims (19),4-1,3-1,Strasbourg (20)
+?,(Fri) 23 Jan 2009 (3),Chateauroux (20),0-1,0-0,Angers (20)
+?,(Tue) 27 Jan 2009 (4),Dijon (20),2-1,0-0,Amiens (20)
+?,(Tue) 27 Jan 2009 (4),Metz (20),3-2,2-1,Ajaccio (20)
+?,(Tue) 27 Jan 2009 (4),Sedan (20),2-1,1-0,Troyes (20)
+?,(Fri) 30 Jan 2009 (4),Bastia (21),1-1,1-0,Strasbourg (21)
+?,(Fri) 30 Jan 2009 (4),Brest (20),4-1,2-1,Troyes (21)
+?,(Fri) 30 Jan 2009 (4),Chateauroux (21),0-0,0-0,Lens (21)
+?,(Fri) 30 Jan 2009 (4),Dijon (21),2-1,2-0,Ajaccio (21)
+?,(Fri) 30 Jan 2009 (4),Metz (21),2-1,2-0,Amiens (21)
+?,(Fri) 30 Jan 2009 (4),Nimes (21),1-1,0-0,Clermont (21)
+?,(Fri) 30 Jan 2009 (4),Reims (20),0-0,0-0,Guingamp (21)
+?,(Fri) 30 Jan 2009 (4),Sedan (21),0-0,0-0,Angers (21)
+?,(Fri) 30 Jan 2009 (4),Vannes (21),1-0,1-0,Tours (21)
+?,(Mon) 2 Feb 2009 (5),Boulogne (21),0-3,0-3,Montpellier (21)
+?,(Fri) 6 Feb 2009 (5),Ajaccio (22),0-2,0-0,Sedan (22)
+?,(Fri) 6 Feb 2009 (5),Amiens (22),1-1,0-0,Chateauroux (22)
+?,(Fri) 6 Feb 2009 (5),Angers (22),4-2,1-0,Clermont (22)
+?,(Fri) 6 Feb 2009 (5),Boulogne (22),1-1,0-0,Metz (22)
+?,(Fri) 6 Feb 2009 (5),Guingamp (22),4-1,1-1,Bastia (22)
+?,(Fri) 6 Feb 2009 (5),Lens (22),1-0,1-0,Nimes (22)
+?,(Fri) 6 Feb 2009 (5),Strasbourg (22),2-2,0-2,Brest (21)
+?,(Fri) 6 Feb 2009 (5),Tours (22),0-0,0-0,Dijon (22)
+?,(Sat) 7 Feb 2009 (5),Troyes (22),3-0,1-0,Vannes (22)
+?,(Mon) 9 Feb 2009 (6),Montpellier (22),2-2,1-2,Reims (21)
+?,(Fri) 13 Feb 2009 (6),Bastia (23),2-0,0-0,Tours (23)
+?,(Fri) 13 Feb 2009 (6),Brest (22),2-1,1-1,Angers (23)
+?,(Fri) 13 Feb 2009 (6),Chateauroux (23),0-1,0-1,Strasbourg (23)
+?,(Fri) 13 Feb 2009 (6),Dijon (23),1-0,0-0,Boulogne (23)
+?,(Fri) 13 Feb 2009 (6),Metz (23),3-1,2-1,Montpellier (23)
+?,(Fri) 13 Feb 2009 (6),Nimes (23),1-0,1-0,Troyes (23)
+?,(Fri) 13 Feb 2009 (6),Reims (22),1-3,0-2,Amiens (23)
+?,(Fri) 13 Feb 2009 (6),Sedan (23),1-0,1-0,Guingamp (23)
+?,(Fri) 13 Feb 2009 (6),Vannes (23),1-1,1-0,Ajaccio (23)
+?,(Mon) 16 Feb 2009 (7),Clermont (23),1-2,1-1,Lens (23)
+?,(Fri) 20 Feb 2009 (7),Ajaccio (24),1-1,1-1,Brest (23)
+?,(Fri) 20 Feb 2009 (7),Amiens (24),0-1,0-0,Bastia (24)
+?,(Fri) 20 Feb 2009 (7),Angers (24),0-1,0-0,Vannes (24)
+?,(Fri) 20 Feb 2009 (7),Boulogne (24),0-3,0-2,Reims (23)
+?,(Fri) 20 Feb 2009 (7),Guingamp (24),2-1,1-0,Chateauroux (24)
+?,(Fri) 20 Feb 2009 (7),Montpellier (24),4-1,3-0,Dijon (24)
+?,(Fri) 20 Feb 2009 (7),Strasbourg (24),1-3,1-2,Sedan (24)
+?,(Fri) 20 Feb 2009 (7),Tours (24),4-1,2-1,Nimes (24)
+?,(Fri) 20 Feb 2009 (7),Troyes (24),0-1,0-0,Clermont (24)
+?,(Mon) 23 Feb 2009 (8),Metz (24),1-2,0-1,Lens (24)
+?,(Fri) 27 Feb 2009 (8),Bastia (25),1-3,1-1,Boulogne (25)
+?,(Fri) 27 Feb 2009 (8),Brest (24),1-2,1-1,Amiens (25)
+?,(Fri) 27 Feb 2009 (8),Chateauroux (25),1-1,0-0,Tours (25)
+?,(Fri) 27 Feb 2009 (8),Clermont (25),1-1,0-0,Ajaccio (25)
+?,(Fri) 27 Feb 2009 (8),Dijon (25),2-3,1-0,Guingamp (25)
+?,(Fri) 27 Feb 2009 (8),Nimes (25),1-1,0-1,Angers (25)
+?,(Fri) 27 Feb 2009 (8),Reims (24),1-1,0-1,Metz (25)
+?,(Fri) 27 Feb 2009 (8),Sedan (25),1-1,0-0,Montpellier (25)
+?,(Fri) 27 Feb 2009 (8),Vannes (25),2-2,2-2,Strasbourg (25)
+?,(Mon) 2 Mar 2009 (9),Lens (25),1-1,1-0,Troyes (25)
+?,(Fri) 6 Mar 2009 (9),Boulogne (26),0-1,0-1,Brest (25)
+?,(Fri) 6 Mar 2009 (9),Guingamp (26),1-1,1-0,Vannes (26)
+?,(Fri) 6 Mar 2009 (9),Metz (26),2-0,1-0,Dijon (26)
+?,(Fri) 6 Mar 2009 (9),Montpellier (26),3-0,1-0,Chateauroux (26)
+?,(Fri) 6 Mar 2009 (9),Reims (25),2-0,2-0,Bastia (26)
+?,(Fri) 6 Mar 2009 (9),Strasbourg (26),2-0,1-0,Clermont (26)
+?,(Fri) 6 Mar 2009 (9),Tours (26),4-3,3-1,Troyes (26)
+?,(Sat) 7 Mar 2009 (9),Ajaccio (26),2-1,1-0,Nimes (26)
+?,(Sat) 7 Mar 2009 (9),Amiens (26),0-0,0-0,Sedan (26)
+?,(Mon) 9 Mar 2009 (10),Angers (26),2-2,1-0,Lens (26)
+?,(Fri) 13 Mar 2009 (10),Bastia (27),1-0,0-0,Montpellier (27)
+?,(Fri) 13 Mar 2009 (10),Brest (26),0-1,0-1,Tours (27)
+?,(Fri) 13 Mar 2009 (10),Chateauroux (27),1-0,0-0,Boulogne (27)
+?,(Fri) 13 Mar 2009 (10),Clermont (27),1-1,1-0,Guingamp (27)
+?,(Fri) 13 Mar 2009 (10),Dijon (27),1-1,0-0,Reims (26)
+?,(Fri) 13 Mar 2009 (10),Lens (27),0-1,0-1,Ajaccio (27)
+?,(Fri) 13 Mar 2009 (10),Sedan (27),3-2,0-1,Metz (27)
+?,(Fri) 13 Mar 2009 (10),Troyes (27),1-2,0-2,Angers (27)
+?,(Fri) 13 Mar 2009 (10),Vannes (27),2-1,2-1,Amiens (27)
+?,(Mon) 16 Mar 2009 (11),Nimes (27),0-2,0-0,Strasbourg (27)
+?,(Fri) 20 Mar 2009 (11),Ajaccio (28),1-1,0-0,Troyes (28)
+?,(Fri) 20 Mar 2009 (11),Amiens (28),0-1,0-1,Nimes (28)
+?,(Fri) 20 Mar 2009 (11),Boulogne (28),2-0,1-0,Vannes (28)
+?,(Fri) 20 Mar 2009 (11),Dijon (28),2-0,1-0,Bastia (28)
+?,(Fri) 20 Mar 2009 (11),Guingamp (28),0-0,0-0,Lens (28)
+?,(Fri) 20 Mar 2009 (11),Metz (28),1-0,0-0,Chateauroux (28)
+?,(Fri) 20 Mar 2009 (11),Montpellier (28),3-2,2-1,Brest (27)
+?,(Fri) 20 Mar 2009 (11),Reims (27),0-1,0-0,Sedan (28)
+?,(Fri) 20 Mar 2009 (11),Tours (28),2-0,1-0,Clermont (28)
+?,(Mon) 23 Mar 2009 (12),Strasbourg (28),2-0,2-0,Angers (28)
+?,(Fri) 27 Mar 2009 (12),Angers (29),0-1,0-1,Ajaccio (29)
+?,(Fri) 27 Mar 2009 (12),Bastia (29),1-2,1-1,Metz (29)
+?,(Fri) 27 Mar 2009 (12),Brest (28),0-0,0-0,Reims (28)
+?,(Fri) 27 Mar 2009 (12),Chateauroux (29),2-0,1-0,Dijon (29)
+?,(Fri) 27 Mar 2009 (12),Clermont (29),2-0,1-0,Amiens (29)
+?,(Fri) 27 Mar 2009 (12),Nimes (29),1-0,0-0,Guingamp (29)
+?,(Fri) 27 Mar 2009 (12),Sedan (29),0-1,0-0,Boulogne (29)
+?,(Fri) 27 Mar 2009 (12),Troyes (29),1-2,0-0,Strasbourg (29)
+?,(Fri) 27 Mar 2009 (12),Vannes (29),1-0,0-0,Montpellier (29)
+?,(Mon) 30 Mar 2009 (13),Lens (29),0-0,0-0,Tours (29)
+?,(Fri) 3 Apr 2009 (13),Bastia (30),2-1,0-1,Chateauroux (30)
+?,(Fri) 3 Apr 2009 (13),Boulogne (30),2-0,2-0,Nimes (30)
+?,(Fri) 3 Apr 2009 (13),Dijon (30),1-0,1-0,Sedan (30)
+?,(Fri) 3 Apr 2009 (13),Guingamp (30),0-0,0-0,Troyes (30)
+?,(Fri) 3 Apr 2009 (13),Montpellier (30),2-1,1-0,Clermont (30)
+?,(Fri) 3 Apr 2009 (13),Reims (29),3-1,1-0,Vannes (30)
+?,(Fri) 3 Apr 2009 (13),Tours (30),3-1,1-1,Angers (30)
+?,(Sun) 5 Apr 2009 (13),Metz (30),1-0,1-0,Brest (29)
+?,(Sun) 5 Apr 2009 (13),Strasbourg (30),3-1,2-0,Ajaccio (30)
+?,(Mon) 6 Apr 2009 (14),Amiens (30),0-0,0-0,Lens (30)
+?,(Fri) 10 Apr 2009 (14),Ajaccio (31),0-2,0-1,Tours (31)
+?,(Fri) 10 Apr 2009 (14),Angers (31),0-1,0-0,Guingamp (31)
+?,(Fri) 10 Apr 2009 (14),Brest (30),1-2,1-0,Dijon (31)
+?,(Fri) 10 Apr 2009 (14),Chateauroux (31),0-0,0-0,Reims (30)
+?,(Fri) 10 Apr 2009 (14),Clermont (31),2-3,1-2,Boulogne (31)
+?,(Fri) 10 Apr 2009 (14),Nimes (31),2-1,0-1,Montpellier (31)
+?,(Fri) 10 Apr 2009 (14),Sedan (31),1-1,1-1,Bastia (31)
+?,(Fri) 10 Apr 2009 (14),Troyes (31),0-1,0-0,Amiens (31)
+?,(Fri) 10 Apr 2009 (14),Vannes (31),1-1,0-0,Metz (31)
+?,(Mon) 13 Apr 2009 (15),Lens (31),4-1,2-0,Strasbourg (31)
+?,(Fri) 17 Apr 2009 (15),Amiens (32),1-1,0-0,Angers (32)
+?,(Fri) 17 Apr 2009 (15),Bastia (32),0-2,0-1,Brest (31)
+?,(Fri) 17 Apr 2009 (15),Boulogne (32),1-0,0-0,Troyes (32)
+?,(Fri) 17 Apr 2009 (15),Dijon (32),3-0,3-0,Vannes (32)
+?,(Fri) 17 Apr 2009 (15),Guingamp (32),0-0,0-0,Ajaccio (32)
+?,(Fri) 17 Apr 2009 (15),Metz (32),1-3,1-2,Clermont (32)
+?,(Fri) 17 Apr 2009 (15),Reims (31),2-1,1-0,Nimes (32)
+?,(Fri) 17 Apr 2009 (15),Sedan (32),3-4,1-2,Chateauroux (32)
+?,(Fri) 17 Apr 2009 (15),Tours (32),2-0,2-0,Strasbourg (32)
+?,(Mon) 20 Apr 2009 (16),Montpellier (32),0-1,0-0,Lens (32)
+?,(Tue) 21 Apr 2009 (16),Reims (32),3-2,2-0,Brest (32)
+?,(Fri) 24 Apr 2009 (16),Ajaccio (33),0-2,0-1,Amiens (33)
+?,(Fri) 24 Apr 2009 (16),Angers (33),1-5,0-3,Boulogne (33)
+?,(Fri) 24 Apr 2009 (16),Brest (33),2-2,1-1,Sedan (33)
+?,(Fri) 24 Apr 2009 (16),Clermont (33),1-0,0-0,Reims (33)
+?,(Fri) 24 Apr 2009 (16),Lens (33),1-0,0-0,Bastia (33)
+?,(Fri) 24 Apr 2009 (16),Nimes (33),2-1,0-1,Dijon (33)
+?,(Fri) 24 Apr 2009 (16),Troyes (33),1-2,0-0,Montpellier (33)
+?,(Sat) 25 Apr 2009 (16),Tours (33),1-0,1-0,Guingamp (33)
+?,(Mon) 27 Apr 2009 (17),Strasbourg (33),0-0,0-0,Metz (33)
+?,(Fri) 1 May 2009 (17),Amiens (34),0-0,0-0,Tours (34)
+?,(Fri) 1 May 2009 (17),Bastia (34),3-1,2-0,Vannes (33)
+?,(Fri) 1 May 2009 (17),Boulogne (34),0-1,0-0,Ajaccio (34)
+?,(Fri) 1 May 2009 (17),Chateauroux (33),5-1,1-0,Brest (34)
+?,(Fri) 1 May 2009 (17),Dijon (34),2-0,1-0,Clermont (34)
+?,(Fri) 1 May 2009 (17),Guingamp (34),1-2,0-0,Strasbourg (34)
+?,(Fri) 1 May 2009 (17),Metz (34),0-0,0-0,Nimes (34)
+?,(Fri) 1 May 2009 (17),Montpellier (34),1-0,0-0,Angers (34)
+?,(Fri) 1 May 2009 (17),Reims (34),0-0,0-0,Troyes (34)
+?,(Mon) 4 May 2009 (18),Sedan (34),2-2,1-2,Lens (34)
+?,(Tue) 5 May 2009 (18),Vannes (34),3-0,2-0,Chateauroux (34)
+?,(Fri) 8 May 2009 (18),Ajaccio (35),1-1,0-1,Bastia (35)
+?,(Fri) 8 May 2009 (18),Angers (35),1-1,0-0,Metz (35)
+?,(Fri) 8 May 2009 (18),Clermont (35),3-0,2-0,Sedan (35)
+?,(Fri) 8 May 2009 (18),Nimes (35),1-0,0-0,Chateauroux (35)
+?,(Fri) 8 May 2009 (18),Strasbourg (35),2-1,1-0,Amiens (35)
+?,(Fri) 8 May 2009 (18),Tours (35),3-1,0-1,Boulogne (35)
+?,(Fri) 8 May 2009 (18),Troyes (35),2-1,0-0,Dijon (35)
+?,(Fri) 8 May 2009 (18),Vannes (35),0-3,0-2,Brest (35)
+?,(Mon) 11 May 2009 (19),Lens (35),1-0,1-0,Reims (35)
+?,(Tue) 12 May 2009 (19),Guingamp (35),0-1,0-1,Montpellier (35)
+?,(Fri) 15 May 2009 (19),Amiens (36),3-3,0-1,Guingamp (36)
+?,(Fri) 15 May 2009 (19),Bastia (36),0-0,0-0,Nimes (36)
+?,(Fri) 15 May 2009 (19),Brest (36),3-1,1-0,Lens (36)
+?,(Fri) 15 May 2009 (19),Chateauroux (36),1-0,0-0,Clermont (36)
+?,(Fri) 15 May 2009 (19),Dijon (36),0-2,0-0,Angers (36)
+?,(Fri) 15 May 2009 (19),Metz (36),1-1,0-0,Troyes (36)
+?,(Fri) 15 May 2009 (19),Montpellier (36),2-1,2-1,Ajaccio (36)
+?,(Fri) 15 May 2009 (19),Reims (36),0-0,0-0,Tours (36)
+?,(Fri) 15 May 2009 (19),Sedan (36),2-3,0-1,Vannes (36)
+?,(Mon) 18 May 2009 (20),Boulogne (36),1-0,1-0,Strasbourg (36)
+?,(Fri) 22 May 2009 (20),Ajaccio (37),1-0,1-0,Metz (37)
+?,(Fri) 22 May 2009 (20),Amiens (37),1-1,1-1,Dijon (37)
+?,(Fri) 22 May 2009 (20),Angers (37),1-1,1-1,Chateauroux (37)
+?,(Fri) 22 May 2009 (20),Clermont (37),2-0,1-0,Bastia (37)
+?,(Fri) 22 May 2009 (20),Guingamp (37),2-0,1-0,Brest (37)
+?,(Fri) 22 May 2009 (20),Lens (37),0-1,0-0,Boulogne (37)
+?,(Fri) 22 May 2009 (20),Nimes (37),1-0,1-0,Vannes (37)
+?,(Fri) 22 May 2009 (20),Strasbourg (37),3-2,2-1,Reims (37)
+?,(Fri) 22 May 2009 (20),Tours (37),0-0,0-0,Montpellier (37)
+?,(Fri) 22 May 2009 (20),Troyes (37),2-3,1-2,Sedan (37)
+?,(Fri) 29 May 2009 (21),Bastia (38),2-1,1-0,Troyes (38)
+?,(Fri) 29 May 2009 (21),Boulogne (38),4-0,2-0,Amiens (38)
+?,(Fri) 29 May 2009 (21),Brest (38),1-2,0-0,Nimes (38)
+?,(Fri) 29 May 2009 (21),Chateauroux (38),2-1,1-1,Ajaccio (38)
+?,(Fri) 29 May 2009 (21),Dijon (38),1-0,0-0,Lens (38)
+?,(Fri) 29 May 2009 (21),Metz (38),2-0,0-0,Guingamp (38)
+?,(Fri) 29 May 2009 (21),Montpellier (38),2-1,2-1,Strasbourg (38)
+?,(Fri) 29 May 2009 (21),Reims (38),0-0,0-0,Angers (38)
+?,(Fri) 29 May 2009 (21),Sedan (38),2-0,0-0,Tours (38)
+?,(Fri) 29 May 2009 (21),Vannes (38),1-1,1-0,Clermont (38)

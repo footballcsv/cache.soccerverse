@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Sat) Aug/2 1997 (30),Beauvais (1),Nimes (1),5-3,?
-?,(Sat) Aug/2 1997 (30),Caen (1),Amiens (1),1-3,?
-?,(Sat) Aug/2 1997 (30),Laval (1),Gueugnon (1),0-0,?
-?,(Sat) Aug/2 1997 (30),Louhans-Cuis. (1),Le Mans (1),1-0,?
-?,(Sat) Aug/2 1997 (30),Nice (1),Red Star 93 (1),1-1,?
-?,(Sat) Aug/2 1997 (30),Niort (1),Valence (1),1-1,?
-?,(Sat) Aug/2 1997 (30),Sochaux (1),Martigues (1),4-1,?
-?,(Sat) Aug/2 1997 (30),St Etienne (1),Lille (1),2-2,?
-?,(Sat) Aug/2 1997 (30),Toulon (1),Lorient (1),0-1,?
-?,(Sat) Aug/2 1997 (30),Troyes (1),Nancy (1),4-2,?
-?,(Sat) Aug/2 1997 (30),Wasquehal (1),Mulhouse (1),2-1,?
-?,(Sat) Aug/9 1997 (31),Amiens (2),Laval (2),2-0,?
-?,(Sat) Aug/9 1997 (31),Gueugnon (2),Niort (2),0-0,?
-?,(Sat) Aug/9 1997 (31),Le Mans (2),Beauvais (2),1-1,?
-?,(Sat) Aug/9 1997 (31),Lille (2),Martigues (2),7-3,?
-?,(Sat) Aug/9 1997 (31),Mulhouse (2),Caen (2),4-2,?
-?,(Sat) Aug/9 1997 (31),Nancy (2),Wasquehal (2),2-1,?
-?,(Sat) Aug/9 1997 (31),Nimes (2),St Etienne (2),3-0,?
-?,(Sat) Aug/9 1997 (31),Red Star 93 (2),Louhans-Cuis. (2),1-0,?
-?,(Sat) Aug/9 1997 (31),Troyes (2),Toulon (2),1-0,?
-?,(Sat) Aug/9 1997 (31),Valence (2),Sochaux (2),1-2,?
-?,(Mon) Aug/11 1997 (32),Lorient (2),Nice (2),1-1,?
-?,(Fri) Aug/15 1997 (32),Toulon (3),Gueugnon (3),1-3,?
-?,(Sat) Aug/16 1997 (32),Beauvais (3),Red Star 93 (3),2-1,?
-?,(Sat) Aug/16 1997 (32),Caen (3),Nancy (3),2-2,?
-?,(Sat) Aug/16 1997 (32),Laval (3),Mulhouse (3),3-0,?
-?,(Sat) Aug/16 1997 (32),Louhans-Cuis. (3),Lorient (3),1-3,?
-?,(Sat) Aug/16 1997 (32),Martigues (3),Nimes (3),0-0,?
-?,(Sat) Aug/16 1997 (32),Nice (3),Valence (3),0-0,?
-?,(Sat) Aug/16 1997 (32),Niort (3),Amiens (3),0-0,?
-?,(Sat) Aug/16 1997 (32),Sochaux (3),Lille (3),0-0,?
-?,(Sat) Aug/16 1997 (32),St Etienne (3),Le Mans (3),1-2,?
-?,(Sat) Aug/16 1997 (32),Wasquehal (3),Troyes (3),0-4,?
-?,(Wed) Aug/20 1997 (33),Amiens (4),Louhans-Cuis. (4),1-1,?
-?,(Wed) Aug/20 1997 (33),Gueugnon (4),Nice (4),1-2,?
-?,(Wed) Aug/20 1997 (33),Le Mans (4),Martigues (4),0-0,?
-?,(Wed) Aug/20 1997 (33),Lorient (4),Sochaux (4),2-1,?
-?,(Wed) Aug/20 1997 (33),Mulhouse (4),Niort (4),3-0,?
-?,(Wed) Aug/20 1997 (33),Nancy (4),Laval (4),2-0,?
-?,(Wed) Aug/20 1997 (33),Nimes (4),Lille (4),0-0,?
-?,(Wed) Aug/20 1997 (33),Red Star 93 (4),St Etienne (4),1-0,?
-?,(Wed) Aug/20 1997 (33),Troyes (4),Caen (4),2-1,?
-?,(Wed) Aug/20 1997 (33),Valence (4),Toulon (4),2-1,?
-?,(Wed) Aug/20 1997 (33),Wasquehal (4),Beauvais (4),3-2,?
-?,(Sat) Aug/23 1997 (33),Beauvais (5),Valence (5),1-2,?
-?,(Sat) Aug/23 1997 (33),Caen (5),Wasquehal (5),6-0,?
-?,(Sat) Aug/23 1997 (33),Laval (5),Troyes (5),2-1,?
-?,(Sat) Aug/23 1997 (33),Lille (5),Le Mans (5),2-0,?
-?,(Sat) Aug/23 1997 (33),Louhans-Cuis. (5),Gueugnon (5),2-1,?
-?,(Sat) Aug/23 1997 (33),Martigues (5),Red Star 93 (5),2-0,?
-?,(Sat) Aug/23 1997 (33),Nice (5),Amiens (5),1-1,?
-?,(Sat) Aug/23 1997 (33),Niort (5),Nancy (5),2-1,?
-?,(Sat) Aug/23 1997 (33),Sochaux (5),Nimes (5),1-0,?
-?,(Sat) Aug/23 1997 (33),St Etienne (5),Lorient (5),0-0,?
-?,(Sat) Aug/23 1997 (33),Toulon (5),Mulhouse (5),2-1,?
-?,(Fri) Aug/29 1997 (34),Amiens (6),St Etienne (6),0-0,?
-?,(Sat) Aug/30 1997 (34),Caen (6),Sochaux (6),2-1,?
-?,(Sat) Aug/30 1997 (34),Gueugnon (6),Beauvais (6),1-1,?
-?,(Sat) Aug/30 1997 (34),Le Mans (6),Nimes (6),1-2,?
-?,(Sat) Aug/30 1997 (34),Lorient (6),Martigues (6),5-1,?
-?,(Sat) Aug/30 1997 (34),Mulhouse (6),Nice (6),1-1,?
-?,(Sat) Aug/30 1997 (34),Nancy (6),Toulon (6),3-0,?
-?,(Sat) Aug/30 1997 (34),Red Star 93 (6),Lille (6),1-1,?
-?,(Sat) Aug/30 1997 (34),Troyes (6),Niort (6),1-0,?
-?,(Sat) Aug/30 1997 (34),Valence (6),Louhans-Cuis. (6),2-1,?
-?,(Sat) Aug/30 1997 (34),Wasquehal (6),Laval (6),1-2,?
-?,(Wed) Sep/3 1997 (35),Beauvais (7),Lorient (7),1-1,?
-?,(Wed) Sep/3 1997 (35),Laval (7),Caen (7),0-2,?
-?,(Wed) Sep/3 1997 (35),Lille (7),Gueugnon (7),2-0,?
-?,(Wed) Sep/3 1997 (35),Louhans-Cuis. (7),Mulhouse (7),0-0,?
-?,(Wed) Sep/3 1997 (35),Martigues (7),Valence (7),2-0,?
-?,(Wed) Sep/3 1997 (35),Nice (7),Nancy (7),1-1,?
-?,(Wed) Sep/3 1997 (35),Nimes (7),Red Star 93 (7),2-2,?
-?,(Wed) Sep/3 1997 (35),Niort (7),Wasquehal (7),3-1,?
-?,(Wed) Sep/3 1997 (35),Sochaux (7),Le Mans (7),0-2,?
-?,(Wed) Sep/3 1997 (35),St Etienne (7),Troyes (7),1-1,?
-?,(Wed) Sep/3 1997 (35),Toulon (7),Amiens (7),1-1,?
-?,(Sat) Sep/6 1997 (35),Amiens (8),Nimes (8),2-0,?
-?,(Sat) Sep/6 1997 (35),Caen (8),Niort (8),0-0,?
-?,(Sat) Sep/6 1997 (35),Gueugnon (8),Martigues (8),3-0,?
-?,(Sat) Sep/6 1997 (35),Laval (8),Sochaux (8),0-1,?
-?,(Sat) Sep/6 1997 (35),Lorient (8),Lille (8),2-0,?
-?,(Sat) Sep/6 1997 (35),Mulhouse (8),Beauvais (8),0-0,?
-?,(Sat) Sep/6 1997 (35),Nancy (8),Louhans-Cuis. (8),3-1,?
-?,(Sat) Sep/6 1997 (35),Red Star 93 (8),Le Mans (8),2-1,?
-?,(Sat) Sep/6 1997 (35),Troyes (8),Nice (8),1-1,?
-?,(Sat) Sep/6 1997 (35),Valence (8),St Etienne (8),1-1,?
-?,(Sat) Sep/6 1997 (35),Wasquehal (8),Toulon (8),1-1,?
-?,(Sat) Sep/13 1997 (36),Beauvais (9),Nancy (9),0-0,?
-?,(Sat) Sep/13 1997 (36),Le Mans (9),Lorient (9),2-2,?
-?,(Sat) Sep/13 1997 (36),Lille (9),Mulhouse (9),1-0,?
-?,(Sat) Sep/13 1997 (36),Louhans-Cuis. (9),Troyes (9),1-1,?
-?,(Sat) Sep/13 1997 (36),Martigues (9),Amiens (9),3-2,?
-?,(Sat) Sep/13 1997 (36),Nice (9),Wasquehal (9),1-0,?
-?,(Sat) Sep/13 1997 (36),Nimes (9),Valence (9),1-2,?
-?,(Sat) Sep/13 1997 (36),Niort (9),Laval (9),1-2,?
-?,(Sat) Sep/13 1997 (36),Sochaux (9),Red Star 93 (9),1-1,?
-?,(Sat) Sep/13 1997 (36),St Etienne (9),Gueugnon (9),0-1,?
-?,(Sat) Sep/13 1997 (36),Toulon (9),Caen (9),2-1,?
-?,(Sat) Sep/20 1997 (37),Amiens (10),Lille (10),0-0,?
-?,(Sat) Sep/20 1997 (37),Gueugnon (10),Nimes (10),1-0,?
-?,(Sat) Sep/20 1997 (37),Laval (10),Toulon (10),1-1,?
-?,(Sat) Sep/20 1997 (37),Lorient (10),Red Star 93 (10),5-2,?
-?,(Sat) Sep/20 1997 (37),Mulhouse (10),Martigues (10),4-1,?
-?,(Sat) Sep/20 1997 (37),Nancy (10),St Etienne (10),2-0,?
-?,(Sat) Sep/20 1997 (37),Niort (10),Sochaux (10),0-0,?
-?,(Sat) Sep/20 1997 (37),Troyes (10),Beauvais (10),0-0,?
-?,(Sat) Sep/20 1997 (37),Valence (10),Le Mans (10),1-0,?
-?,(Sat) Sep/20 1997 (37),Wasquehal (10),Louhans-Cuis. (10),2-1,?
-?,(Sun) Sep/21 1997 (37),Caen (10),Nice (10),0-0,?
-?,(Wed) Sep/24 1997 (38),Beauvais (11),Amiens (11),1-0,?
-?,(Wed) Sep/24 1997 (38),Le Mans (11),Gueugnon (11),2-3,?
-?,(Wed) Sep/24 1997 (38),Lille (11),Nancy (11),2-3,?
-?,(Wed) Sep/24 1997 (38),Louhans-Cuis. (11),Caen (11),0-2,?
-?,(Wed) Sep/24 1997 (38),Martigues (11),Troyes (11),1-4,?
-?,(Wed) Sep/24 1997 (38),Nimes (11),Lorient (11),1-0,?
-?,(Wed) Sep/24 1997 (38),Red Star 93 (11),Valence (11),1-1,?
-?,(Wed) Sep/24 1997 (38),Sochaux (11),Wasquehal (11),2-1,?
-?,(Wed) Sep/24 1997 (38),St Etienne (11),Mulhouse (11),2-2,?
-?,(Wed) Sep/24 1997 (38),Toulon (11),Niort (11),1-1,?
-?,(Sat) Sep/27 1997 (38),Amiens (12),Le Mans (12),2-0,?
-?,(Sat) Sep/27 1997 (38),Caen (12),Beauvais (12),0-1,?
-?,(Sat) Sep/27 1997 (38),Gueugnon (12),Red Star 93 (12),4-0,?
-?,(Sat) Sep/27 1997 (38),Laval (11),Louhans-Cuis. (12),3-0,?
-?,(Sat) Sep/27 1997 (38),Mulhouse (12),Nimes (12),3-2,?
-?,(Sat) Sep/27 1997 (38),Niort (12),Nice (11),4-2,?
-?,(Sat) Sep/27 1997 (38),Toulon (12),Sochaux (12),0-0,?
-?,(Sat) Sep/27 1997 (38),Troyes (12),Lille (12),1-1,?
-?,(Sat) Sep/27 1997 (38),Valence (12),Lorient (12),3-2,?
-?,(Sat) Sep/27 1997 (38),Wasquehal (12),St Etienne (12),2-1,?
-?,(Sun) Sep/28 1997 (38),Nancy (12),Martigues (12),0-0,?
-?,(Fri) Oct/3 1997 (39),Le Mans (13),Mulhouse (13),0-1,?
-?,(Sat) Oct/4 1997 (39),Beauvais (13),Laval (12),1-1,?
-?,(Sat) Oct/4 1997 (39),Lille (13),Valence (13),1-1,?
-?,(Sat) Oct/4 1997 (39),Lorient (13),Gueugnon (13),3-0,?
-?,(Sat) Oct/4 1997 (39),Louhans-Cuis. (13),Niort (13),1-0,?
-?,(Sat) Oct/4 1997 (39),Martigues (13),Wasquehal (13),1-3,?
-?,(Sat) Oct/4 1997 (39),Nimes (13),Nancy (13),0-3,?
-?,(Sat) Oct/4 1997 (39),Red Star 93 (13),Amiens (13),2-0,?
-?,(Sat) Oct/4 1997 (39),Sochaux (13),Troyes (13),4-0,?
-?,(Sat) Oct/4 1997 (39),St Etienne (13),Caen (13),3-0,?
-?,(Sun) Oct/5 1997 (39),Nice (12),Toulon (13),1-1,?
-?,(Wed) Oct/8 1997 (40),Amiens (14),Lorient (14),3-0,?
-?,(Wed) Oct/8 1997 (40),Caen (14),Martigues (14),5-0,?
-?,(Wed) Oct/8 1997 (40),Gueugnon (14),Valence (14),1-0,?
-?,(Wed) Oct/8 1997 (40),Laval (13),St Etienne (14),4-1,?
-?,(Wed) Oct/8 1997 (40),Mulhouse (14),Red Star 93 (14),2-1,?
-?,(Wed) Oct/8 1997 (40),Nice (13),Nimes (14),3-0,?
-?,(Wed) Oct/8 1997 (40),Niort (14),Beauvais (14),1-1,?
-?,(Wed) Oct/8 1997 (40),Toulon (14),Louhans-Cuis. (14),2-0,?
-?,(Wed) Oct/8 1997 (40),Troyes (14),Le Mans (14),0-0,?
-?,(Wed) Oct/8 1997 (40),Wasquehal (14),Lille (14),1-1,?
-?,(Thu) Oct/9 1997 (40),Nancy (14),Sochaux (14),2-0,?
-?,(Wed) Oct/15 1997 (41),Beauvais (15),Toulon (15),3-2,?
-?,(Wed) Oct/15 1997 (41),Le Mans (15),Wasquehal (15),1-0,?
-?,(Wed) Oct/15 1997 (41),Lille (15),Caen (15),3-0,?
-?,(Wed) Oct/15 1997 (41),Lorient (15),Mulhouse (15),1-1,?
-?,(Wed) Oct/15 1997 (41),Louhans-Cuis. (15),Nice (14),0-1,?
-?,(Wed) Oct/15 1997 (41),Martigues (15),Laval (14),3-2,?
-?,(Wed) Oct/15 1997 (41),Nimes (15),Troyes (15),1-1,?
-?,(Wed) Oct/15 1997 (41),Red Star 93 (15),Nancy (15),0-1,?
-?,(Wed) Oct/15 1997 (41),Sochaux (15),Gueugnon (15),2-0,?
-?,(Wed) Oct/15 1997 (41),Valence (15),Amiens (15),3-0,?
-?,(Sat) Oct/18 1997 (41),Amiens (16),Gueugnon (16),2-1,?
-?,(Sat) Oct/18 1997 (41),Caen (16),Le Mans (16),0-0,?
-?,(Sat) Oct/18 1997 (41),Laval (15),Lille (16),1-2,?
-?,(Sat) Oct/18 1997 (41),Louhans-Cuis. (16),Sochaux (16),0-1,?
-?,(Sat) Oct/18 1997 (41),Mulhouse (16),Valence (16),1-1,?
-?,(Sat) Oct/18 1997 (41),Nancy (16),Lorient (16),2-0,?
-?,(Sat) Oct/18 1997 (41),Nice (15),Beauvais (16),2-0,?
-?,(Sat) Oct/18 1997 (41),Niort (15),Martigues (16),0-0,?
-?,(Sat) Oct/18 1997 (41),Toulon (16),St Etienne (15),0-2,?
-?,(Sat) Oct/18 1997 (41),Troyes (16),Red Star 93 (16),2-0,?
-?,(Sat) Oct/18 1997 (41),Wasquehal (16),Nimes (16),0-1,?
-?,(Fri) Oct/24 1997 (42),Lorient (17),Troyes (17),3-0,?
-?,(Sat) Oct/25 1997 (42),Beauvais (17),Louhans-Cuis. (17),1-0,?
-?,(Sat) Oct/25 1997 (42),Gueugnon (17),Mulhouse (17),1-0,?
-?,(Sat) Oct/25 1997 (42),Le Mans (17),Laval (16),0-2,?
-?,(Sat) Oct/25 1997 (42),Lille (17),Niort (16),3-0,?
-?,(Sat) Oct/25 1997 (42),Martigues (17),Toulon (17),2-1,?
-?,(Sat) Oct/25 1997 (42),Nimes (17),Caen (17),3-1,?
-?,(Sat) Oct/25 1997 (42),Red Star 93 (17),Wasquehal (17),1-1,?
-?,(Sat) Oct/25 1997 (42),Sochaux (17),Amiens (17),3-1,?
-?,(Sat) Oct/25 1997 (42),Valence (17),Nancy (17),1-1,?
-?,(Sun) Oct/26 1997 (42),St Etienne (16),Nice (16),3-2,?
-?,(Fri) Oct/31 1997 (43),Beauvais (18),Sochaux (18),1-1,?
-?,(Fri) Oct/31 1997 (43),Caen (18),Red Star 93 (18),1-1,?
-?,(Fri) Oct/31 1997 (43),Laval (17),Nimes (18),2-1,?
-?,(Fri) Oct/31 1997 (43),Louhans-Cuis. (18),St Etienne (17),0-0,?
-?,(Fri) Oct/31 1997 (43),Mulhouse (18),Amiens (18),4-0,?
-?,(Fri) Oct/31 1997 (43),Nancy (18),Gueugnon (18),3-0,?
-?,(Fri) Oct/31 1997 (43),Nice (17),Martigues (18),1-1,?
-?,(Fri) Oct/31 1997 (43),Niort (17),Le Mans (18),3-0,?
-?,(Fri) Oct/31 1997 (43),Toulon (18),Lille (18),1-0,?
-?,(Fri) Oct/31 1997 (43),Troyes (18),Valence (18),2-2,?
-?,(Fri) Oct/31 1997 (43),Wasquehal (18),Lorient (18),1-2,?
-?,(Tue) Nov/4 1997 (44),St Etienne (18),Niort (18),4-2,?
-?,(Fri) Nov/7 1997 (44),Red Star 93 (19),Laval (18),1-0,?
-?,(Sat) Nov/8 1997 (44),Amiens (19),Nancy (19),1-1,?
-?,(Sat) Nov/8 1997 (44),Gueugnon (19),Troyes (19),0-1,?
-?,(Sat) Nov/8 1997 (44),Le Mans (19),Toulon (19),5-0,?
-?,(Sat) Nov/8 1997 (44),Lorient (19),Caen (19),3-0,?
-?,(Sat) Nov/8 1997 (44),Martigues (19),Louhans-Cuis. (19),3-1,?
-?,(Sat) Nov/8 1997 (44),Nimes (19),Niort (19),1-1,?
-?,(Sat) Nov/8 1997 (44),Sochaux (19),Mulhouse (19),3-0,?
-?,(Sat) Nov/8 1997 (44),St Etienne (19),Beauvais (19),1-1,?
-?,(Sat) Nov/8 1997 (44),Valence (19),Wasquehal (19),2-1,?
-?,(Sun) Nov/9 1997 (44),Lille (19),Nice (18),2-0,?
-?,(Wed) Nov/12 1997 (45),Nice (19),Laval (19),1-0,?
-?,(Fri) Nov/14 1997 (45),Beauvais (20),Martigues (20),0-0,?
-?,(Fri) Nov/14 1997 (45),Caen (20),Valence (20),1-1,?
-?,(Fri) Nov/14 1997 (45),Louhans-Cuis. (20),Lille (20),2-2,?
-?,(Fri) Nov/14 1997 (45),Nancy (20),Mulhouse (20),2-1,?
-?,(Fri) Nov/14 1997 (45),Niort (20),Red Star 93 (20),2-0,?
-?,(Fri) Nov/14 1997 (45),Toulon (20),Nimes (20),0-1,?
-?,(Fri) Nov/14 1997 (45),Troyes (20),Amiens (20),2-1,?
-?,(Fri) Nov/14 1997 (45),Wasquehal (20),Gueugnon (20),1-0,?
-?,(Sat) Nov/15 1997 (45),Laval (20),Lorient (20),0-1,?
-?,(Sat) Nov/15 1997 (45),Nice (20),Le Mans (20),0-2,?
-?,(Sat) Nov/15 1997 (45),St Etienne (20),Sochaux (20),3-2,?
-?,(Tue) Nov/18 1997 (46),Amiens (21),Wasquehal (21),2-0,?
-?,(Tue) Nov/18 1997 (46),Gueugnon (21),Caen (21),2-1,?
-?,(Tue) Nov/18 1997 (46),Le Mans (21),Nancy (21),1-0,?
-?,(Tue) Nov/18 1997 (46),Lille (21),Beauvais (21),3-0,?
-?,(Tue) Nov/18 1997 (46),Lorient (21),Niort (21),2-0,?
-?,(Tue) Nov/18 1997 (46),Martigues (21),St Etienne (21),1-0,?
-?,(Tue) Nov/18 1997 (46),Mulhouse (21),Troyes (21),0-0,?
-?,(Tue) Nov/18 1997 (46),Nimes (21),Louhans-Cuis. (21),0-0,?
-?,(Tue) Nov/18 1997 (46),Red Star 93 (21),Toulon (21),3-1,?
-?,(Tue) Nov/18 1997 (46),Sochaux (21),Nice (21),1-1,?
-?,(Tue) Nov/18 1997 (46),Valence (21),Laval (21),2-0,?
-?,(Sat) Nov/22 1997 (46),Beauvais (22),Le Mans (22),1-2,?
-?,(Sat) Nov/22 1997 (46),Caen (22),Mulhouse (22),2-1,?
-?,(Sat) Nov/22 1997 (46),Laval (22),Amiens (22),3-0,?
-?,(Sat) Nov/22 1997 (46),Louhans-Cuis. (22),Red Star 93 (22),2-0,?
-?,(Sat) Nov/22 1997 (46),Martigues (22),Lille (22),1-1,?
-?,(Sat) Nov/22 1997 (46),Nice (22),Lorient (22),1-1,?
-?,(Sat) Nov/22 1997 (46),Niort (22),Gueugnon (22),1-0,?
-?,(Sat) Nov/22 1997 (46),Sochaux (22),Valence (22),1-0,?
-?,(Sat) Nov/22 1997 (46),St Etienne (22),Nimes (22),1-1,?
-?,(Sat) Nov/22 1997 (46),Toulon (22),Troyes (22),2-1,?
-?,(Sat) Nov/22 1997 (46),Wasquehal (22),Nancy (22),3-1,?
-?,(Tue) Dec/2 1997 (48),Lille (23),Sochaux (23),0-0,?
-?,(Wed) Dec/3 1997 (48),Amiens (23),Niort (23),1-0,?
-?,(Wed) Dec/3 1997 (48),Gueugnon (23),Toulon (23),1-0,?
-?,(Wed) Dec/3 1997 (48),Le Mans (23),St Etienne (23),3-0,?
-?,(Wed) Dec/3 1997 (48),Lorient (23),Louhans-Cuis. (23),2-1,?
-?,(Wed) Dec/3 1997 (48),Nimes (23),Martigues (23),0-2,?
-?,(Wed) Dec/3 1997 (48),Red Star 93 (23),Beauvais (23),1-1,?
-?,(Wed) Dec/3 1997 (48),Valence (23),Nice (23),1-1,?
-?,(Sat) Dec/6 1997 (48),Beauvais (24),Wasquehal (23),0-0,?
-?,(Sat) Dec/6 1997 (48),Caen (23),Troyes (23),2-0,?
-?,(Sat) Dec/6 1997 (48),Laval (23),Nancy (23),0-0,?
-?,(Sat) Dec/6 1997 (48),Lille (24),Nimes (24),2-1,?
-?,(Sat) Dec/6 1997 (48),Louhans-Cuis. (24),Amiens (24),0-1,?
-?,(Sat) Dec/6 1997 (48),Martigues (24),Le Mans (24),0-0,?
-?,(Sat) Dec/6 1997 (48),Nice (24),Gueugnon (24),2-0,?
-?,(Sat) Dec/6 1997 (48),Niort (24),Mulhouse (23),1-0,?
-?,(Sat) Dec/6 1997 (48),Sochaux (24),Lorient (24),0-1,?
-?,(Sat) Dec/6 1997 (48),St Etienne (24),Red Star 93 (24),1-0,?
-?,(Sat) Dec/6 1997 (48),Toulon (24),Valence (24),0-0,?
-?,(Tue) Dec/9 1997 (49),Mulhouse (24),Laval (24),0-1,?
-?,(Wed) Dec/10 1997 (49),Nancy (24),Caen (24),3-0,?
-?,(Wed) Dec/10 1997 (49),Troyes (24),Wasquehal (24),1-0,?
-?,(Sat) Dec/13 1997 (49),Amiens (25),Nice (25),2-2,?
-?,(Sat) Dec/13 1997 (49),Gueugnon (25),Louhans-Cuis. (25),1-0,?
-?,(Sat) Dec/13 1997 (49),Le Mans (25),Lille (25),1-1,?
-?,(Sat) Dec/13 1997 (49),Lorient (25),St Etienne (25),4-0,?
-?,(Sat) Dec/13 1997 (49),Mulhouse (25),Toulon (25),4-0,?
-?,(Sat) Dec/13 1997 (49),Nancy (25),Niort (25),1-1,?
-?,(Sat) Dec/13 1997 (49),Nimes (25),Sochaux (25),2-1,?
-?,(Sat) Dec/13 1997 (49),Red Star 93 (25),Martigues (25),2-1,?
-?,(Sat) Dec/13 1997 (49),Troyes (25),Laval (25),0-1,?
-?,(Sat) Dec/13 1997 (49),Valence (25),Beauvais (25),1-3,?
-?,(Sat) Dec/13 1997 (49),Wasquehal (25),Caen (25),5-2,?
-?,(Fri) Jan/9 1998 (1),Martigues (26),Lorient (26),0-1,?
-?,(Sat) Jan/10 1998 (1),Beauvais (26),Gueugnon (26),3-2,?
-?,(Sat) Jan/10 1998 (1),Laval (26),Wasquehal (26),2-2,?
-?,(Sat) Jan/10 1998 (1),Lille (26),Red Star 93 (26),4-1,?
-?,(Sat) Jan/10 1998 (1),Louhans-Cuis. (26),Valence (26),2-0,?
-?,(Sat) Jan/10 1998 (1),Nice (26),Mulhouse (26),0-0,?
-?,(Sat) Jan/10 1998 (1),Nimes (26),Le Mans (26),1-1,?
-?,(Sat) Jan/10 1998 (1),Niort (26),Troyes (26),2-0,?
-?,(Sat) Jan/10 1998 (1),Sochaux (26),Caen (26),2-0,?
-?,(Sat) Jan/10 1998 (1),St Etienne (26),Amiens (26),2-1,?
-?,(Sat) Jan/10 1998 (1),Toulon (26),Nancy (26),0-0,?
-?,(Wed) Jan/21 1998 (3),Amiens (27),Toulon (27),1-2,?
-?,(Wed) Jan/21 1998 (3),Caen (27),Laval (27),2-0,?
-?,(Wed) Jan/21 1998 (3),Gueugnon (27),Lille (27),4-0,?
-?,(Wed) Jan/21 1998 (3),Le Mans (27),Sochaux (27),0-0,?
-?,(Wed) Jan/21 1998 (3),Lorient (27),Beauvais (27),2-0,?
-?,(Wed) Jan/21 1998 (3),Mulhouse (27),Louhans-Cuis. (27),3-3,?
-?,(Wed) Jan/21 1998 (3),Nancy (27),Nice (27),2-1,?
-?,(Wed) Jan/21 1998 (3),Red Star 93 (27),Nimes (27),2-3,?
-?,(Wed) Jan/21 1998 (3),Troyes (27),St Etienne (27),1-2,?
-?,(Wed) Jan/21 1998 (3),Valence (27),Martigues (27),0-0,?
-?,(Wed) Jan/21 1998 (3),Wasquehal (27),Niort (27),2-1,?
-?,(Sat) Jan/24 1998 (3),Beauvais (28),Mulhouse (28),1-1,?
-?,(Sat) Jan/24 1998 (3),Le Mans (28),Red Star 93 (28),6-3,?
-?,(Sat) Jan/24 1998 (3),Lille (28),Lorient (28),1-0,?
-?,(Sat) Jan/24 1998 (3),Louhans-Cuis. (28),Nancy (28),1-1,?
-?,(Sat) Jan/24 1998 (3),Martigues (28),Gueugnon (28),2-0,?
-?,(Sat) Jan/24 1998 (3),Nice (28),Troyes (28),0-0,?
-?,(Sat) Jan/24 1998 (3),Nimes (28),Amiens (28),0-0,?
-?,(Sat) Jan/24 1998 (3),Niort (28),Caen (28),0-0,?
-?,(Sat) Jan/24 1998 (3),Sochaux (28),Laval (28),1-1,?
-?,(Sat) Jan/24 1998 (3),St Etienne (28),Valence (28),0-0,?
-?,(Sat) Jan/24 1998 (3),Toulon (28),Wasquehal (28),1-0,?
-?,(Wed) Feb/4 1998 (5),Amiens (29),Martigues (29),2-1,?
-?,(Wed) Feb/4 1998 (5),Caen (29),Toulon (29),1-1,?
-?,(Wed) Feb/4 1998 (5),Gueugnon (29),St Etienne (29),1-1,?
-?,(Wed) Feb/4 1998 (5),Laval (29),Niort (29),0-0,?
-?,(Wed) Feb/4 1998 (5),Lorient (29),Le Mans (29),1-1,?
-?,(Wed) Feb/4 1998 (5),Mulhouse (29),Lille (29),1-3,?
-?,(Wed) Feb/4 1998 (5),Nancy (29),Beauvais (29),0-1,?
-?,(Wed) Feb/4 1998 (5),Red Star 93 (29),Sochaux (29),2-0,?
-?,(Wed) Feb/4 1998 (5),Troyes (29),Louhans-Cuis. (29),0-1,?
-?,(Wed) Feb/4 1998 (5),Valence (29),Nimes (29),0-1,?
-?,(Wed) Feb/4 1998 (5),Wasquehal (29),Nice (29),2-1,?
-?,(Tue) Feb/10 1998 (6),St Etienne (30),Nancy (30),0-2,?
-?,(Wed) Feb/11 1998 (6),Beauvais (30),Troyes (30),0-1,?
-?,(Wed) Feb/11 1998 (6),Le Mans (30),Valence (30),1-1,?
-?,(Wed) Feb/11 1998 (6),Lille (30),Amiens (30),0-1,?
-?,(Wed) Feb/11 1998 (6),Louhans-Cuis. (30),Wasquehal (30),5-0,?
-?,(Wed) Feb/11 1998 (6),Martigues (30),Mulhouse (30),1-1,?
-?,(Wed) Feb/11 1998 (6),Nice (30),Caen (30),0-1,?
-?,(Wed) Feb/11 1998 (6),Nimes (30),Gueugnon (30),1-0,?
-?,(Wed) Feb/11 1998 (6),Red Star 93 (30),Lorient (30),3-2,?
-?,(Wed) Feb/11 1998 (6),Sochaux (30),Niort (30),1-1,?
-?,(Wed) Feb/11 1998 (6),Toulon (30),Laval (30),1-1,?
-?,(Sat) Feb/14 1998 (6),Amiens (31),Beauvais (31),2-1,?
-?,(Sat) Feb/14 1998 (6),Caen (31),Louhans-Cuis. (31),5-0,?
-?,(Sat) Feb/14 1998 (6),Gueugnon (31),Le Mans (31),1-1,?
-?,(Sat) Feb/14 1998 (6),Laval (31),Nice (31),1-1,?
-?,(Sat) Feb/14 1998 (6),Lorient (31),Nimes (31),4-0,?
-?,(Sat) Feb/14 1998 (6),Mulhouse (31),St Etienne (31),1-2,?
-?,(Sat) Feb/14 1998 (6),Nancy (31),Lille (31),1-1,?
-?,(Sat) Feb/14 1998 (6),Niort (31),Toulon (31),3-0,?
-?,(Sat) Feb/14 1998 (6),Troyes (31),Martigues (31),3-0,?
-?,(Sat) Feb/14 1998 (6),Valence (31),Red Star 93 (31),0-0,?
-?,(Sat) Feb/14 1998 (6),Wasquehal (31),Sochaux (31),1-1,?
-?,(Fri) Feb/20 1998 (7),Le Mans (32),Amiens (32),4-2,?
-?,(Sat) Feb/21 1998 (7),Beauvais (32),Caen (32),2-3,?
-?,(Sat) Feb/21 1998 (7),Lille (32),Troyes (32),0-2,?
-?,(Sat) Feb/21 1998 (7),Lorient (32),Valence (32),1-1,?
-?,(Sat) Feb/21 1998 (7),Louhans-Cuis. (32),Laval (32),1-0,?
-?,(Sat) Feb/21 1998 (7),Martigues (32),Nancy (32),0-0,?
-?,(Sat) Feb/21 1998 (7),Nice (32),Niort (32),0-2,?
-?,(Sat) Feb/21 1998 (7),Nimes (32),Mulhouse (32),2-0,?
-?,(Sat) Feb/21 1998 (7),Red Star 93 (32),Gueugnon (32),2-0,?
-?,(Sat) Feb/21 1998 (7),Sochaux (32),Toulon (32),4-1,?
-?,(Sat) Feb/21 1998 (7),St Etienne (32),Wasquehal (32),0-0,?
-?,(Sat) Mar/7 1998 (9),Amiens (33),Red Star 93 (33),0-0,?
-?,(Sat) Mar/7 1998 (9),Caen (33),St Etienne (33),2-0,?
-?,(Sat) Mar/7 1998 (9),Gueugnon (33),Lorient (33),1-2,?
-?,(Sat) Mar/7 1998 (9),Laval (33),Beauvais (33),2-0,?
-?,(Sat) Mar/7 1998 (9),Mulhouse (33),Le Mans (33),1-2,?
-?,(Sat) Mar/7 1998 (9),Nancy (33),Nimes (33),1-0,?
-?,(Sat) Mar/7 1998 (9),Niort (33),Louhans-Cuis. (33),1-1,?
-?,(Sat) Mar/7 1998 (9),Toulon (33),Nice (33),1-0,?
-?,(Sat) Mar/7 1998 (9),Troyes (33),Sochaux (33),0-1,?
-?,(Sat) Mar/7 1998 (9),Valence (33),Lille (33),3-1,?
-?,(Sat) Mar/7 1998 (9),Wasquehal (33),Martigues (33),1-0,?
-?,(Sat) Mar/14 1998 (10),Beauvais (34),Niort (34),1-1,?
-?,(Sat) Mar/14 1998 (10),Le Mans (34),Troyes (34),1-1,?
-?,(Sat) Mar/14 1998 (10),Lille (34),Wasquehal (34),1-1,?
-?,(Sat) Mar/14 1998 (10),Lorient (34),Amiens (34),0-0,?
-?,(Sat) Mar/14 1998 (10),Louhans-Cuis. (34),Toulon (34),1-0,?
-?,(Sat) Mar/14 1998 (10),Martigues (34),Caen (34),0-2,?
-?,(Sat) Mar/14 1998 (10),Nimes (34),Nice (34),0-0,?
-?,(Sat) Mar/14 1998 (10),Red Star 93 (34),Mulhouse (34),2-1,?
-?,(Sat) Mar/14 1998 (10),Sochaux (34),Nancy (34),0-1,?
-?,(Sat) Mar/14 1998 (10),St Etienne (34),Laval (34),3-2,?
-?,(Sat) Mar/14 1998 (10),Valence (34),Gueugnon (34),2-2,?
-?,(Tue) Mar/24 1998 (12),Amiens (35),Valence (35),1-1,?
-?,(Tue) Mar/24 1998 (12),Caen (35),Lille (35),0-2,?
-?,(Tue) Mar/24 1998 (12),Gueugnon (35),Sochaux (35),3-1,?
-?,(Tue) Mar/24 1998 (12),Laval (35),Martigues (35),1-0,?
-?,(Tue) Mar/24 1998 (12),Mulhouse (35),Lorient (35),1-0,?
-?,(Tue) Mar/24 1998 (12),Nancy (35),Red Star 93 (35),2-0,?
-?,(Tue) Mar/24 1998 (12),Nice (35),Louhans-Cuis. (35),2-0,?
-?,(Tue) Mar/24 1998 (12),Niort (35),St Etienne (35),1-3,?
-?,(Tue) Mar/24 1998 (12),Toulon (35),Beauvais (35),2-0,?
-?,(Tue) Mar/24 1998 (12),Troyes (35),Nimes (35),1-1,?
-?,(Tue) Mar/24 1998 (12),Wasquehal (35),Le Mans (35),1-0,?
-?,(Sat) Mar/28 1998 (12),Beauvais (36),Nice (36),1-0,?
-?,(Sat) Mar/28 1998 (12),Gueugnon (36),Amiens (36),0-1,?
-?,(Sat) Mar/28 1998 (12),Le Mans (36),Caen (36),2-0,?
-?,(Sat) Mar/28 1998 (12),Lille (36),Laval (36),3-0,?
-?,(Sat) Mar/28 1998 (12),Lorient (36),Nancy (36),2-3,?
-?,(Sat) Mar/28 1998 (12),Martigues (36),Niort (36),0-0,?
-?,(Sat) Mar/28 1998 (12),Nimes (36),Wasquehal (36),2-1,?
-?,(Sat) Mar/28 1998 (12),Red Star 93 (36),Troyes (36),0-0,?
-?,(Sat) Mar/28 1998 (12),Sochaux (36),Louhans-Cuis. (36),0-1,?
-?,(Sat) Mar/28 1998 (12),St Etienne (36),Toulon (36),3-1,?
-?,(Sat) Mar/28 1998 (12),Valence (36),Mulhouse (36),1-0,?
-?,(Sun) Apr/5 1998 (13),Nancy (37),Valence (37),2-4,?
-?,(Tue) Apr/7 1998 (14),Amiens (37),Sochaux (37),0-2,?
-?,(Tue) Apr/7 1998 (14),Caen (37),Nimes (37),3-1,?
-?,(Tue) Apr/7 1998 (14),Laval (37),Le Mans (37),2-3,?
-?,(Tue) Apr/7 1998 (14),Louhans-Cuis. (37),Beauvais (37),1-0,?
-?,(Tue) Apr/7 1998 (14),Mulhouse (37),Gueugnon (37),1-2,?
-?,(Tue) Apr/7 1998 (14),Nice (37),St Etienne (37),2-0,?
-?,(Tue) Apr/7 1998 (14),Niort (37),Lille (37),2-0,?
-?,(Tue) Apr/7 1998 (14),Toulon (37),Martigues (37),1-2,?
-?,(Tue) Apr/7 1998 (14),Troyes (37),Lorient (37),0-2,?
-?,(Tue) Apr/7 1998 (14),Wasquehal (37),Red Star 93 (37),2-4,?
-?,(Sat) Apr/18 1998 (15),Amiens (38),Mulhouse (38),1-0,?
-?,(Sat) Apr/18 1998 (15),Gueugnon (38),Nancy (38),2-2,?
-?,(Sat) Apr/18 1998 (15),Le Mans (38),Niort (38),1-0,?
-?,(Sat) Apr/18 1998 (15),Lille (38),Toulon (38),0-1,?
-?,(Sat) Apr/18 1998 (15),Lorient (38),Wasquehal (38),1-0,?
-?,(Sat) Apr/18 1998 (15),Martigues (38),Nice (38),0-0,?
-?,(Sat) Apr/18 1998 (15),Nimes (38),Laval (38),1-1,?
-?,(Sat) Apr/18 1998 (15),Red Star 93 (38),Caen (38),1-0,?
-?,(Sat) Apr/18 1998 (15),Sochaux (38),Beauvais (38),2-0,?
-?,(Sat) Apr/18 1998 (15),St Etienne (38),Louhans-Cuis. (38),2-2,?
-?,(Sat) Apr/18 1998 (15),Valence (38),Troyes (38),0-1,?
-?,(Thu) Apr/23 1998 (16),Nice (39),Lille (39),2-1,?
-?,(Fri) Apr/24 1998 (16),Beauvais (39),St Etienne (39),0-0,?
-?,(Fri) Apr/24 1998 (16),Caen (39),Lorient (39),1-1,?
-?,(Fri) Apr/24 1998 (16),Laval (39),Red Star 93 (39),3-1,?
-?,(Fri) Apr/24 1998 (16),Louhans-Cuis. (39),Martigues (39),3-0,?
-?,(Fri) Apr/24 1998 (16),Mulhouse (39),Sochaux (39),2-2,?
-?,(Fri) Apr/24 1998 (16),Nancy (39),Amiens (39),2-0,?
-?,(Fri) Apr/24 1998 (16),Niort (39),Nimes (39),1-0,?
-?,(Fri) Apr/24 1998 (16),Toulon (39),Le Mans (39),6-1,?
-?,(Fri) Apr/24 1998 (16),Troyes (39),Gueugnon (39),3-0,?
-?,(Fri) Apr/24 1998 (16),Wasquehal (39),Valence (39),1-1,?
-?,(Wed) Apr/29 1998 (17),Amiens (40),Troyes (40),0-2,?
-?,(Wed) Apr/29 1998 (17),Gueugnon (40),Wasquehal (40),2-1,?
-?,(Wed) Apr/29 1998 (17),Le Mans (40),Nice (40),2-0,?
-?,(Wed) Apr/29 1998 (17),Lille (40),Louhans-Cuis. (40),3-1,?
-?,(Wed) Apr/29 1998 (17),Lorient (40),Laval (40),1-1,?
-?,(Wed) Apr/29 1998 (17),Martigues (40),Beauvais (40),0-0,?
-?,(Wed) Apr/29 1998 (17),Mulhouse (40),Nancy (40),2-2,?
-?,(Wed) Apr/29 1998 (17),Nimes (40),Toulon (40),2-0,?
-?,(Wed) Apr/29 1998 (17),Red Star 93 (40),Niort (40),1-1,?
-?,(Wed) Apr/29 1998 (17),Sochaux (40),St Etienne (40),4-0,?
-?,(Wed) Apr/29 1998 (17),Valence (40),Caen (40),2-2,?
-?,(Tue) May/5 1998 (18),Beauvais (41),Lille (41),2-1,?
-?,(Tue) May/5 1998 (18),Caen (41),Gueugnon (41),4-0,?
-?,(Tue) May/5 1998 (18),Laval (41),Valence (41),2-2,?
-?,(Tue) May/5 1998 (18),Louhans-Cuis. (41),Nimes (41),2-0,?
-?,(Tue) May/5 1998 (18),Nancy (41),Le Mans (41),1-1,?
-?,(Tue) May/5 1998 (18),Nice (41),Sochaux (41),2-1,?
-?,(Tue) May/5 1998 (18),Niort (41),Lorient (41),0-0,?
-?,(Tue) May/5 1998 (18),St Etienne (41),Martigues (41),1-1,?
-?,(Tue) May/5 1998 (18),Toulon (41),Red Star 93 (41),2-3,?
-?,(Tue) May/5 1998 (18),Troyes (41),Mulhouse (41),1-1,?
-?,(Tue) May/5 1998 (18),Wasquehal (41),Amiens (41),2-0,?
-?,(Fri) May/8 1998 (18),Amiens (42),Caen (42),1-1,?
-?,(Fri) May/8 1998 (18),Gueugnon (42),Laval (42),2-1,?
-?,(Fri) May/8 1998 (18),Le Mans (42),Louhans-Cuis. (42),1-0,?
-?,(Fri) May/8 1998 (18),Lille (42),St Etienne (42),2-1,?
-?,(Fri) May/8 1998 (18),Lorient (42),Toulon (42),1-3,?
-?,(Fri) May/8 1998 (18),Martigues (42),Sochaux (42),1-2,?
-?,(Fri) May/8 1998 (18),Mulhouse (42),Wasquehal (42),1-2,?
-?,(Fri) May/8 1998 (18),Nancy (42),Troyes (42),1-1,?
-?,(Fri) May/8 1998 (18),Nimes (42),Beauvais (42),0-0,?
-?,(Fri) May/8 1998 (18),Red Star 93 (42),Nice (42),1-0,?
-?,(Fri) May/8 1998 (18),Valence (42),Niort (42),2-2,?
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 2 Aug 1997 (30),Beauvais (1),5-3,?,Nimes (1)
+?,(Sat) 2 Aug 1997 (30),Caen (1),1-3,?,Amiens (1)
+?,(Sat) 2 Aug 1997 (30),Laval (1),0-0,?,Gueugnon (1)
+?,(Sat) 2 Aug 1997 (30),Louhans-Cuis. (1),1-0,?,Le Mans (1)
+?,(Sat) 2 Aug 1997 (30),Nice (1),1-1,?,Red Star 93 (1)
+?,(Sat) 2 Aug 1997 (30),Niort (1),1-1,?,Valence (1)
+?,(Sat) 2 Aug 1997 (30),Sochaux (1),4-1,?,Martigues (1)
+?,(Sat) 2 Aug 1997 (30),St Etienne (1),2-2,?,Lille (1)
+?,(Sat) 2 Aug 1997 (30),Toulon (1),0-1,?,Lorient (1)
+?,(Sat) 2 Aug 1997 (30),Troyes (1),4-2,?,Nancy (1)
+?,(Sat) 2 Aug 1997 (30),Wasquehal (1),2-1,?,Mulhouse (1)
+?,(Sat) 9 Aug 1997 (31),Amiens (2),2-0,?,Laval (2)
+?,(Sat) 9 Aug 1997 (31),Gueugnon (2),0-0,?,Niort (2)
+?,(Sat) 9 Aug 1997 (31),Le Mans (2),1-1,?,Beauvais (2)
+?,(Sat) 9 Aug 1997 (31),Lille (2),7-3,?,Martigues (2)
+?,(Sat) 9 Aug 1997 (31),Mulhouse (2),4-2,?,Caen (2)
+?,(Sat) 9 Aug 1997 (31),Nancy (2),2-1,?,Wasquehal (2)
+?,(Sat) 9 Aug 1997 (31),Nimes (2),3-0,?,St Etienne (2)
+?,(Sat) 9 Aug 1997 (31),Red Star 93 (2),1-0,?,Louhans-Cuis. (2)
+?,(Sat) 9 Aug 1997 (31),Troyes (2),1-0,?,Toulon (2)
+?,(Sat) 9 Aug 1997 (31),Valence (2),1-2,?,Sochaux (2)
+?,(Mon) 11 Aug 1997 (32),Lorient (2),1-1,?,Nice (2)
+?,(Fri) 15 Aug 1997 (32),Toulon (3),1-3,?,Gueugnon (3)
+?,(Sat) 16 Aug 1997 (32),Beauvais (3),2-1,?,Red Star 93 (3)
+?,(Sat) 16 Aug 1997 (32),Caen (3),2-2,?,Nancy (3)
+?,(Sat) 16 Aug 1997 (32),Laval (3),3-0,?,Mulhouse (3)
+?,(Sat) 16 Aug 1997 (32),Louhans-Cuis. (3),1-3,?,Lorient (3)
+?,(Sat) 16 Aug 1997 (32),Martigues (3),0-0,?,Nimes (3)
+?,(Sat) 16 Aug 1997 (32),Nice (3),0-0,?,Valence (3)
+?,(Sat) 16 Aug 1997 (32),Niort (3),0-0,?,Amiens (3)
+?,(Sat) 16 Aug 1997 (32),Sochaux (3),0-0,?,Lille (3)
+?,(Sat) 16 Aug 1997 (32),St Etienne (3),1-2,?,Le Mans (3)
+?,(Sat) 16 Aug 1997 (32),Wasquehal (3),0-4,?,Troyes (3)
+?,(Wed) 20 Aug 1997 (33),Amiens (4),1-1,?,Louhans-Cuis. (4)
+?,(Wed) 20 Aug 1997 (33),Gueugnon (4),1-2,?,Nice (4)
+?,(Wed) 20 Aug 1997 (33),Le Mans (4),0-0,?,Martigues (4)
+?,(Wed) 20 Aug 1997 (33),Lorient (4),2-1,?,Sochaux (4)
+?,(Wed) 20 Aug 1997 (33),Mulhouse (4),3-0,?,Niort (4)
+?,(Wed) 20 Aug 1997 (33),Nancy (4),2-0,?,Laval (4)
+?,(Wed) 20 Aug 1997 (33),Nimes (4),0-0,?,Lille (4)
+?,(Wed) 20 Aug 1997 (33),Red Star 93 (4),1-0,?,St Etienne (4)
+?,(Wed) 20 Aug 1997 (33),Troyes (4),2-1,?,Caen (4)
+?,(Wed) 20 Aug 1997 (33),Valence (4),2-1,?,Toulon (4)
+?,(Wed) 20 Aug 1997 (33),Wasquehal (4),3-2,?,Beauvais (4)
+?,(Sat) 23 Aug 1997 (33),Beauvais (5),1-2,?,Valence (5)
+?,(Sat) 23 Aug 1997 (33),Caen (5),6-0,?,Wasquehal (5)
+?,(Sat) 23 Aug 1997 (33),Laval (5),2-1,?,Troyes (5)
+?,(Sat) 23 Aug 1997 (33),Lille (5),2-0,?,Le Mans (5)
+?,(Sat) 23 Aug 1997 (33),Louhans-Cuis. (5),2-1,?,Gueugnon (5)
+?,(Sat) 23 Aug 1997 (33),Martigues (5),2-0,?,Red Star 93 (5)
+?,(Sat) 23 Aug 1997 (33),Nice (5),1-1,?,Amiens (5)
+?,(Sat) 23 Aug 1997 (33),Niort (5),2-1,?,Nancy (5)
+?,(Sat) 23 Aug 1997 (33),Sochaux (5),1-0,?,Nimes (5)
+?,(Sat) 23 Aug 1997 (33),St Etienne (5),0-0,?,Lorient (5)
+?,(Sat) 23 Aug 1997 (33),Toulon (5),2-1,?,Mulhouse (5)
+?,(Fri) 29 Aug 1997 (34),Amiens (6),0-0,?,St Etienne (6)
+?,(Sat) 30 Aug 1997 (34),Caen (6),2-1,?,Sochaux (6)
+?,(Sat) 30 Aug 1997 (34),Gueugnon (6),1-1,?,Beauvais (6)
+?,(Sat) 30 Aug 1997 (34),Le Mans (6),1-2,?,Nimes (6)
+?,(Sat) 30 Aug 1997 (34),Lorient (6),5-1,?,Martigues (6)
+?,(Sat) 30 Aug 1997 (34),Mulhouse (6),1-1,?,Nice (6)
+?,(Sat) 30 Aug 1997 (34),Nancy (6),3-0,?,Toulon (6)
+?,(Sat) 30 Aug 1997 (34),Red Star 93 (6),1-1,?,Lille (6)
+?,(Sat) 30 Aug 1997 (34),Troyes (6),1-0,?,Niort (6)
+?,(Sat) 30 Aug 1997 (34),Valence (6),2-1,?,Louhans-Cuis. (6)
+?,(Sat) 30 Aug 1997 (34),Wasquehal (6),1-2,?,Laval (6)
+?,(Wed) 3 Sep 1997 (35),Beauvais (7),1-1,?,Lorient (7)
+?,(Wed) 3 Sep 1997 (35),Laval (7),0-2,?,Caen (7)
+?,(Wed) 3 Sep 1997 (35),Lille (7),2-0,?,Gueugnon (7)
+?,(Wed) 3 Sep 1997 (35),Louhans-Cuis. (7),0-0,?,Mulhouse (7)
+?,(Wed) 3 Sep 1997 (35),Martigues (7),2-0,?,Valence (7)
+?,(Wed) 3 Sep 1997 (35),Nice (7),1-1,?,Nancy (7)
+?,(Wed) 3 Sep 1997 (35),Nimes (7),2-2,?,Red Star 93 (7)
+?,(Wed) 3 Sep 1997 (35),Niort (7),3-1,?,Wasquehal (7)
+?,(Wed) 3 Sep 1997 (35),Sochaux (7),0-2,?,Le Mans (7)
+?,(Wed) 3 Sep 1997 (35),St Etienne (7),1-1,?,Troyes (7)
+?,(Wed) 3 Sep 1997 (35),Toulon (7),1-1,?,Amiens (7)
+?,(Sat) 6 Sep 1997 (35),Amiens (8),2-0,?,Nimes (8)
+?,(Sat) 6 Sep 1997 (35),Caen (8),0-0,?,Niort (8)
+?,(Sat) 6 Sep 1997 (35),Gueugnon (8),3-0,?,Martigues (8)
+?,(Sat) 6 Sep 1997 (35),Laval (8),0-1,?,Sochaux (8)
+?,(Sat) 6 Sep 1997 (35),Lorient (8),2-0,?,Lille (8)
+?,(Sat) 6 Sep 1997 (35),Mulhouse (8),0-0,?,Beauvais (8)
+?,(Sat) 6 Sep 1997 (35),Nancy (8),3-1,?,Louhans-Cuis. (8)
+?,(Sat) 6 Sep 1997 (35),Red Star 93 (8),2-1,?,Le Mans (8)
+?,(Sat) 6 Sep 1997 (35),Troyes (8),1-1,?,Nice (8)
+?,(Sat) 6 Sep 1997 (35),Valence (8),1-1,?,St Etienne (8)
+?,(Sat) 6 Sep 1997 (35),Wasquehal (8),1-1,?,Toulon (8)
+?,(Sat) 13 Sep 1997 (36),Beauvais (9),0-0,?,Nancy (9)
+?,(Sat) 13 Sep 1997 (36),Le Mans (9),2-2,?,Lorient (9)
+?,(Sat) 13 Sep 1997 (36),Lille (9),1-0,?,Mulhouse (9)
+?,(Sat) 13 Sep 1997 (36),Louhans-Cuis. (9),1-1,?,Troyes (9)
+?,(Sat) 13 Sep 1997 (36),Martigues (9),3-2,?,Amiens (9)
+?,(Sat) 13 Sep 1997 (36),Nice (9),1-0,?,Wasquehal (9)
+?,(Sat) 13 Sep 1997 (36),Nimes (9),1-2,?,Valence (9)
+?,(Sat) 13 Sep 1997 (36),Niort (9),1-2,?,Laval (9)
+?,(Sat) 13 Sep 1997 (36),Sochaux (9),1-1,?,Red Star 93 (9)
+?,(Sat) 13 Sep 1997 (36),St Etienne (9),0-1,?,Gueugnon (9)
+?,(Sat) 13 Sep 1997 (36),Toulon (9),2-1,?,Caen (9)
+?,(Sat) 20 Sep 1997 (37),Amiens (10),0-0,?,Lille (10)
+?,(Sat) 20 Sep 1997 (37),Gueugnon (10),1-0,?,Nimes (10)
+?,(Sat) 20 Sep 1997 (37),Laval (10),1-1,?,Toulon (10)
+?,(Sat) 20 Sep 1997 (37),Lorient (10),5-2,?,Red Star 93 (10)
+?,(Sat) 20 Sep 1997 (37),Mulhouse (10),4-1,?,Martigues (10)
+?,(Sat) 20 Sep 1997 (37),Nancy (10),2-0,?,St Etienne (10)
+?,(Sat) 20 Sep 1997 (37),Niort (10),0-0,?,Sochaux (10)
+?,(Sat) 20 Sep 1997 (37),Troyes (10),0-0,?,Beauvais (10)
+?,(Sat) 20 Sep 1997 (37),Valence (10),1-0,?,Le Mans (10)
+?,(Sat) 20 Sep 1997 (37),Wasquehal (10),2-1,?,Louhans-Cuis. (10)
+?,(Sun) 21 Sep 1997 (37),Caen (10),0-0,?,Nice (10)
+?,(Wed) 24 Sep 1997 (38),Beauvais (11),1-0,?,Amiens (11)
+?,(Wed) 24 Sep 1997 (38),Le Mans (11),2-3,?,Gueugnon (11)
+?,(Wed) 24 Sep 1997 (38),Lille (11),2-3,?,Nancy (11)
+?,(Wed) 24 Sep 1997 (38),Louhans-Cuis. (11),0-2,?,Caen (11)
+?,(Wed) 24 Sep 1997 (38),Martigues (11),1-4,?,Troyes (11)
+?,(Wed) 24 Sep 1997 (38),Nimes (11),1-0,?,Lorient (11)
+?,(Wed) 24 Sep 1997 (38),Red Star 93 (11),1-1,?,Valence (11)
+?,(Wed) 24 Sep 1997 (38),Sochaux (11),2-1,?,Wasquehal (11)
+?,(Wed) 24 Sep 1997 (38),St Etienne (11),2-2,?,Mulhouse (11)
+?,(Wed) 24 Sep 1997 (38),Toulon (11),1-1,?,Niort (11)
+?,(Sat) 27 Sep 1997 (38),Amiens (12),2-0,?,Le Mans (12)
+?,(Sat) 27 Sep 1997 (38),Caen (12),0-1,?,Beauvais (12)
+?,(Sat) 27 Sep 1997 (38),Gueugnon (12),4-0,?,Red Star 93 (12)
+?,(Sat) 27 Sep 1997 (38),Laval (11),3-0,?,Louhans-Cuis. (12)
+?,(Sat) 27 Sep 1997 (38),Mulhouse (12),3-2,?,Nimes (12)
+?,(Sat) 27 Sep 1997 (38),Niort (12),4-2,?,Nice (11)
+?,(Sat) 27 Sep 1997 (38),Toulon (12),0-0,?,Sochaux (12)
+?,(Sat) 27 Sep 1997 (38),Troyes (12),1-1,?,Lille (12)
+?,(Sat) 27 Sep 1997 (38),Valence (12),3-2,?,Lorient (12)
+?,(Sat) 27 Sep 1997 (38),Wasquehal (12),2-1,?,St Etienne (12)
+?,(Sun) 28 Sep 1997 (38),Nancy (12),0-0,?,Martigues (12)
+?,(Fri) 3 Oct 1997 (39),Le Mans (13),0-1,?,Mulhouse (13)
+?,(Sat) 4 Oct 1997 (39),Beauvais (13),1-1,?,Laval (12)
+?,(Sat) 4 Oct 1997 (39),Lille (13),1-1,?,Valence (13)
+?,(Sat) 4 Oct 1997 (39),Lorient (13),3-0,?,Gueugnon (13)
+?,(Sat) 4 Oct 1997 (39),Louhans-Cuis. (13),1-0,?,Niort (13)
+?,(Sat) 4 Oct 1997 (39),Martigues (13),1-3,?,Wasquehal (13)
+?,(Sat) 4 Oct 1997 (39),Nimes (13),0-3,?,Nancy (13)
+?,(Sat) 4 Oct 1997 (39),Red Star 93 (13),2-0,?,Amiens (13)
+?,(Sat) 4 Oct 1997 (39),Sochaux (13),4-0,?,Troyes (13)
+?,(Sat) 4 Oct 1997 (39),St Etienne (13),3-0,?,Caen (13)
+?,(Sun) 5 Oct 1997 (39),Nice (12),1-1,?,Toulon (13)
+?,(Wed) 8 Oct 1997 (40),Amiens (14),3-0,?,Lorient (14)
+?,(Wed) 8 Oct 1997 (40),Caen (14),5-0,?,Martigues (14)
+?,(Wed) 8 Oct 1997 (40),Gueugnon (14),1-0,?,Valence (14)
+?,(Wed) 8 Oct 1997 (40),Laval (13),4-1,?,St Etienne (14)
+?,(Wed) 8 Oct 1997 (40),Mulhouse (14),2-1,?,Red Star 93 (14)
+?,(Wed) 8 Oct 1997 (40),Nice (13),3-0,?,Nimes (14)
+?,(Wed) 8 Oct 1997 (40),Niort (14),1-1,?,Beauvais (14)
+?,(Wed) 8 Oct 1997 (40),Toulon (14),2-0,?,Louhans-Cuis. (14)
+?,(Wed) 8 Oct 1997 (40),Troyes (14),0-0,?,Le Mans (14)
+?,(Wed) 8 Oct 1997 (40),Wasquehal (14),1-1,?,Lille (14)
+?,(Thu) 9 Oct 1997 (40),Nancy (14),2-0,?,Sochaux (14)
+?,(Wed) 15 Oct 1997 (41),Beauvais (15),3-2,?,Toulon (15)
+?,(Wed) 15 Oct 1997 (41),Le Mans (15),1-0,?,Wasquehal (15)
+?,(Wed) 15 Oct 1997 (41),Lille (15),3-0,?,Caen (15)
+?,(Wed) 15 Oct 1997 (41),Lorient (15),1-1,?,Mulhouse (15)
+?,(Wed) 15 Oct 1997 (41),Louhans-Cuis. (15),0-1,?,Nice (14)
+?,(Wed) 15 Oct 1997 (41),Martigues (15),3-2,?,Laval (14)
+?,(Wed) 15 Oct 1997 (41),Nimes (15),1-1,?,Troyes (15)
+?,(Wed) 15 Oct 1997 (41),Red Star 93 (15),0-1,?,Nancy (15)
+?,(Wed) 15 Oct 1997 (41),Sochaux (15),2-0,?,Gueugnon (15)
+?,(Wed) 15 Oct 1997 (41),Valence (15),3-0,?,Amiens (15)
+?,(Sat) 18 Oct 1997 (41),Amiens (16),2-1,?,Gueugnon (16)
+?,(Sat) 18 Oct 1997 (41),Caen (16),0-0,?,Le Mans (16)
+?,(Sat) 18 Oct 1997 (41),Laval (15),1-2,?,Lille (16)
+?,(Sat) 18 Oct 1997 (41),Louhans-Cuis. (16),0-1,?,Sochaux (16)
+?,(Sat) 18 Oct 1997 (41),Mulhouse (16),1-1,?,Valence (16)
+?,(Sat) 18 Oct 1997 (41),Nancy (16),2-0,?,Lorient (16)
+?,(Sat) 18 Oct 1997 (41),Nice (15),2-0,?,Beauvais (16)
+?,(Sat) 18 Oct 1997 (41),Niort (15),0-0,?,Martigues (16)
+?,(Sat) 18 Oct 1997 (41),Toulon (16),0-2,?,St Etienne (15)
+?,(Sat) 18 Oct 1997 (41),Troyes (16),2-0,?,Red Star 93 (16)
+?,(Sat) 18 Oct 1997 (41),Wasquehal (16),0-1,?,Nimes (16)
+?,(Fri) 24 Oct 1997 (42),Lorient (17),3-0,?,Troyes (17)
+?,(Sat) 25 Oct 1997 (42),Beauvais (17),1-0,?,Louhans-Cuis. (17)
+?,(Sat) 25 Oct 1997 (42),Gueugnon (17),1-0,?,Mulhouse (17)
+?,(Sat) 25 Oct 1997 (42),Le Mans (17),0-2,?,Laval (16)
+?,(Sat) 25 Oct 1997 (42),Lille (17),3-0,?,Niort (16)
+?,(Sat) 25 Oct 1997 (42),Martigues (17),2-1,?,Toulon (17)
+?,(Sat) 25 Oct 1997 (42),Nimes (17),3-1,?,Caen (17)
+?,(Sat) 25 Oct 1997 (42),Red Star 93 (17),1-1,?,Wasquehal (17)
+?,(Sat) 25 Oct 1997 (42),Sochaux (17),3-1,?,Amiens (17)
+?,(Sat) 25 Oct 1997 (42),Valence (17),1-1,?,Nancy (17)
+?,(Sun) 26 Oct 1997 (42),St Etienne (16),3-2,?,Nice (16)
+?,(Fri) 31 Oct 1997 (43),Beauvais (18),1-1,?,Sochaux (18)
+?,(Fri) 31 Oct 1997 (43),Caen (18),1-1,?,Red Star 93 (18)
+?,(Fri) 31 Oct 1997 (43),Laval (17),2-1,?,Nimes (18)
+?,(Fri) 31 Oct 1997 (43),Louhans-Cuis. (18),0-0,?,St Etienne (17)
+?,(Fri) 31 Oct 1997 (43),Mulhouse (18),4-0,?,Amiens (18)
+?,(Fri) 31 Oct 1997 (43),Nancy (18),3-0,?,Gueugnon (18)
+?,(Fri) 31 Oct 1997 (43),Nice (17),1-1,?,Martigues (18)
+?,(Fri) 31 Oct 1997 (43),Niort (17),3-0,?,Le Mans (18)
+?,(Fri) 31 Oct 1997 (43),Toulon (18),1-0,?,Lille (18)
+?,(Fri) 31 Oct 1997 (43),Troyes (18),2-2,?,Valence (18)
+?,(Fri) 31 Oct 1997 (43),Wasquehal (18),1-2,?,Lorient (18)
+?,(Tue) 4 Nov 1997 (44),St Etienne (18),4-2,?,Niort (18)
+?,(Fri) 7 Nov 1997 (44),Red Star 93 (19),1-0,?,Laval (18)
+?,(Sat) 8 Nov 1997 (44),Amiens (19),1-1,?,Nancy (19)
+?,(Sat) 8 Nov 1997 (44),Gueugnon (19),0-1,?,Troyes (19)
+?,(Sat) 8 Nov 1997 (44),Le Mans (19),5-0,?,Toulon (19)
+?,(Sat) 8 Nov 1997 (44),Lorient (19),3-0,?,Caen (19)
+?,(Sat) 8 Nov 1997 (44),Martigues (19),3-1,?,Louhans-Cuis. (19)
+?,(Sat) 8 Nov 1997 (44),Nimes (19),1-1,?,Niort (19)
+?,(Sat) 8 Nov 1997 (44),Sochaux (19),3-0,?,Mulhouse (19)
+?,(Sat) 8 Nov 1997 (44),St Etienne (19),1-1,?,Beauvais (19)
+?,(Sat) 8 Nov 1997 (44),Valence (19),2-1,?,Wasquehal (19)
+?,(Sun) 9 Nov 1997 (44),Lille (19),2-0,?,Nice (18)
+?,(Wed) 12 Nov 1997 (45),Nice (19),1-0,?,Laval (19)
+?,(Fri) 14 Nov 1997 (45),Beauvais (20),0-0,?,Martigues (20)
+?,(Fri) 14 Nov 1997 (45),Caen (20),1-1,?,Valence (20)
+?,(Fri) 14 Nov 1997 (45),Louhans-Cuis. (20),2-2,?,Lille (20)
+?,(Fri) 14 Nov 1997 (45),Nancy (20),2-1,?,Mulhouse (20)
+?,(Fri) 14 Nov 1997 (45),Niort (20),2-0,?,Red Star 93 (20)
+?,(Fri) 14 Nov 1997 (45),Toulon (20),0-1,?,Nimes (20)
+?,(Fri) 14 Nov 1997 (45),Troyes (20),2-1,?,Amiens (20)
+?,(Fri) 14 Nov 1997 (45),Wasquehal (20),1-0,?,Gueugnon (20)
+?,(Sat) 15 Nov 1997 (45),Laval (20),0-1,?,Lorient (20)
+?,(Sat) 15 Nov 1997 (45),Nice (20),0-2,?,Le Mans (20)
+?,(Sat) 15 Nov 1997 (45),St Etienne (20),3-2,?,Sochaux (20)
+?,(Tue) 18 Nov 1997 (46),Amiens (21),2-0,?,Wasquehal (21)
+?,(Tue) 18 Nov 1997 (46),Gueugnon (21),2-1,?,Caen (21)
+?,(Tue) 18 Nov 1997 (46),Le Mans (21),1-0,?,Nancy (21)
+?,(Tue) 18 Nov 1997 (46),Lille (21),3-0,?,Beauvais (21)
+?,(Tue) 18 Nov 1997 (46),Lorient (21),2-0,?,Niort (21)
+?,(Tue) 18 Nov 1997 (46),Martigues (21),1-0,?,St Etienne (21)
+?,(Tue) 18 Nov 1997 (46),Mulhouse (21),0-0,?,Troyes (21)
+?,(Tue) 18 Nov 1997 (46),Nimes (21),0-0,?,Louhans-Cuis. (21)
+?,(Tue) 18 Nov 1997 (46),Red Star 93 (21),3-1,?,Toulon (21)
+?,(Tue) 18 Nov 1997 (46),Sochaux (21),1-1,?,Nice (21)
+?,(Tue) 18 Nov 1997 (46),Valence (21),2-0,?,Laval (21)
+?,(Sat) 22 Nov 1997 (46),Beauvais (22),1-2,?,Le Mans (22)
+?,(Sat) 22 Nov 1997 (46),Caen (22),2-1,?,Mulhouse (22)
+?,(Sat) 22 Nov 1997 (46),Laval (22),3-0,?,Amiens (22)
+?,(Sat) 22 Nov 1997 (46),Louhans-Cuis. (22),2-0,?,Red Star 93 (22)
+?,(Sat) 22 Nov 1997 (46),Martigues (22),1-1,?,Lille (22)
+?,(Sat) 22 Nov 1997 (46),Nice (22),1-1,?,Lorient (22)
+?,(Sat) 22 Nov 1997 (46),Niort (22),1-0,?,Gueugnon (22)
+?,(Sat) 22 Nov 1997 (46),Sochaux (22),1-0,?,Valence (22)
+?,(Sat) 22 Nov 1997 (46),St Etienne (22),1-1,?,Nimes (22)
+?,(Sat) 22 Nov 1997 (46),Toulon (22),2-1,?,Troyes (22)
+?,(Sat) 22 Nov 1997 (46),Wasquehal (22),3-1,?,Nancy (22)
+?,(Tue) 2 Dec 1997 (48),Lille (23),0-0,?,Sochaux (23)
+?,(Wed) 3 Dec 1997 (48),Amiens (23),1-0,?,Niort (23)
+?,(Wed) 3 Dec 1997 (48),Gueugnon (23),1-0,?,Toulon (23)
+?,(Wed) 3 Dec 1997 (48),Le Mans (23),3-0,?,St Etienne (23)
+?,(Wed) 3 Dec 1997 (48),Lorient (23),2-1,?,Louhans-Cuis. (23)
+?,(Wed) 3 Dec 1997 (48),Nimes (23),0-2,?,Martigues (23)
+?,(Wed) 3 Dec 1997 (48),Red Star 93 (23),1-1,?,Beauvais (23)
+?,(Wed) 3 Dec 1997 (48),Valence (23),1-1,?,Nice (23)
+?,(Sat) 6 Dec 1997 (48),Beauvais (24),0-0,?,Wasquehal (23)
+?,(Sat) 6 Dec 1997 (48),Caen (23),2-0,?,Troyes (23)
+?,(Sat) 6 Dec 1997 (48),Laval (23),0-0,?,Nancy (23)
+?,(Sat) 6 Dec 1997 (48),Lille (24),2-1,?,Nimes (24)
+?,(Sat) 6 Dec 1997 (48),Louhans-Cuis. (24),0-1,?,Amiens (24)
+?,(Sat) 6 Dec 1997 (48),Martigues (24),0-0,?,Le Mans (24)
+?,(Sat) 6 Dec 1997 (48),Nice (24),2-0,?,Gueugnon (24)
+?,(Sat) 6 Dec 1997 (48),Niort (24),1-0,?,Mulhouse (23)
+?,(Sat) 6 Dec 1997 (48),Sochaux (24),0-1,?,Lorient (24)
+?,(Sat) 6 Dec 1997 (48),St Etienne (24),1-0,?,Red Star 93 (24)
+?,(Sat) 6 Dec 1997 (48),Toulon (24),0-0,?,Valence (24)
+?,(Tue) 9 Dec 1997 (49),Mulhouse (24),0-1,?,Laval (24)
+?,(Wed) 10 Dec 1997 (49),Nancy (24),3-0,?,Caen (24)
+?,(Wed) 10 Dec 1997 (49),Troyes (24),1-0,?,Wasquehal (24)
+?,(Sat) 13 Dec 1997 (49),Amiens (25),2-2,?,Nice (25)
+?,(Sat) 13 Dec 1997 (49),Gueugnon (25),1-0,?,Louhans-Cuis. (25)
+?,(Sat) 13 Dec 1997 (49),Le Mans (25),1-1,?,Lille (25)
+?,(Sat) 13 Dec 1997 (49),Lorient (25),4-0,?,St Etienne (25)
+?,(Sat) 13 Dec 1997 (49),Mulhouse (25),4-0,?,Toulon (25)
+?,(Sat) 13 Dec 1997 (49),Nancy (25),1-1,?,Niort (25)
+?,(Sat) 13 Dec 1997 (49),Nimes (25),2-1,?,Sochaux (25)
+?,(Sat) 13 Dec 1997 (49),Red Star 93 (25),2-1,?,Martigues (25)
+?,(Sat) 13 Dec 1997 (49),Troyes (25),0-1,?,Laval (25)
+?,(Sat) 13 Dec 1997 (49),Valence (25),1-3,?,Beauvais (25)
+?,(Sat) 13 Dec 1997 (49),Wasquehal (25),5-2,?,Caen (25)
+?,(Fri) 9 Jan 1998 (1),Martigues (26),0-1,?,Lorient (26)
+?,(Sat) 10 Jan 1998 (1),Beauvais (26),3-2,?,Gueugnon (26)
+?,(Sat) 10 Jan 1998 (1),Laval (26),2-2,?,Wasquehal (26)
+?,(Sat) 10 Jan 1998 (1),Lille (26),4-1,?,Red Star 93 (26)
+?,(Sat) 10 Jan 1998 (1),Louhans-Cuis. (26),2-0,?,Valence (26)
+?,(Sat) 10 Jan 1998 (1),Nice (26),0-0,?,Mulhouse (26)
+?,(Sat) 10 Jan 1998 (1),Nimes (26),1-1,?,Le Mans (26)
+?,(Sat) 10 Jan 1998 (1),Niort (26),2-0,?,Troyes (26)
+?,(Sat) 10 Jan 1998 (1),Sochaux (26),2-0,?,Caen (26)
+?,(Sat) 10 Jan 1998 (1),St Etienne (26),2-1,?,Amiens (26)
+?,(Sat) 10 Jan 1998 (1),Toulon (26),0-0,?,Nancy (26)
+?,(Wed) 21 Jan 1998 (3),Amiens (27),1-2,?,Toulon (27)
+?,(Wed) 21 Jan 1998 (3),Caen (27),2-0,?,Laval (27)
+?,(Wed) 21 Jan 1998 (3),Gueugnon (27),4-0,?,Lille (27)
+?,(Wed) 21 Jan 1998 (3),Le Mans (27),0-0,?,Sochaux (27)
+?,(Wed) 21 Jan 1998 (3),Lorient (27),2-0,?,Beauvais (27)
+?,(Wed) 21 Jan 1998 (3),Mulhouse (27),3-3,?,Louhans-Cuis. (27)
+?,(Wed) 21 Jan 1998 (3),Nancy (27),2-1,?,Nice (27)
+?,(Wed) 21 Jan 1998 (3),Red Star 93 (27),2-3,?,Nimes (27)
+?,(Wed) 21 Jan 1998 (3),Troyes (27),1-2,?,St Etienne (27)
+?,(Wed) 21 Jan 1998 (3),Valence (27),0-0,?,Martigues (27)
+?,(Wed) 21 Jan 1998 (3),Wasquehal (27),2-1,?,Niort (27)
+?,(Sat) 24 Jan 1998 (3),Beauvais (28),1-1,?,Mulhouse (28)
+?,(Sat) 24 Jan 1998 (3),Le Mans (28),6-3,?,Red Star 93 (28)
+?,(Sat) 24 Jan 1998 (3),Lille (28),1-0,?,Lorient (28)
+?,(Sat) 24 Jan 1998 (3),Louhans-Cuis. (28),1-1,?,Nancy (28)
+?,(Sat) 24 Jan 1998 (3),Martigues (28),2-0,?,Gueugnon (28)
+?,(Sat) 24 Jan 1998 (3),Nice (28),0-0,?,Troyes (28)
+?,(Sat) 24 Jan 1998 (3),Nimes (28),0-0,?,Amiens (28)
+?,(Sat) 24 Jan 1998 (3),Niort (28),0-0,?,Caen (28)
+?,(Sat) 24 Jan 1998 (3),Sochaux (28),1-1,?,Laval (28)
+?,(Sat) 24 Jan 1998 (3),St Etienne (28),0-0,?,Valence (28)
+?,(Sat) 24 Jan 1998 (3),Toulon (28),1-0,?,Wasquehal (28)
+?,(Wed) 4 Feb 1998 (5),Amiens (29),2-1,?,Martigues (29)
+?,(Wed) 4 Feb 1998 (5),Caen (29),1-1,?,Toulon (29)
+?,(Wed) 4 Feb 1998 (5),Gueugnon (29),1-1,?,St Etienne (29)
+?,(Wed) 4 Feb 1998 (5),Laval (29),0-0,?,Niort (29)
+?,(Wed) 4 Feb 1998 (5),Lorient (29),1-1,?,Le Mans (29)
+?,(Wed) 4 Feb 1998 (5),Mulhouse (29),1-3,?,Lille (29)
+?,(Wed) 4 Feb 1998 (5),Nancy (29),0-1,?,Beauvais (29)
+?,(Wed) 4 Feb 1998 (5),Red Star 93 (29),2-0,?,Sochaux (29)
+?,(Wed) 4 Feb 1998 (5),Troyes (29),0-1,?,Louhans-Cuis. (29)
+?,(Wed) 4 Feb 1998 (5),Valence (29),0-1,?,Nimes (29)
+?,(Wed) 4 Feb 1998 (5),Wasquehal (29),2-1,?,Nice (29)
+?,(Tue) 10 Feb 1998 (6),St Etienne (30),0-2,?,Nancy (30)
+?,(Wed) 11 Feb 1998 (6),Beauvais (30),0-1,?,Troyes (30)
+?,(Wed) 11 Feb 1998 (6),Le Mans (30),1-1,?,Valence (30)
+?,(Wed) 11 Feb 1998 (6),Lille (30),0-1,?,Amiens (30)
+?,(Wed) 11 Feb 1998 (6),Louhans-Cuis. (30),5-0,?,Wasquehal (30)
+?,(Wed) 11 Feb 1998 (6),Martigues (30),1-1,?,Mulhouse (30)
+?,(Wed) 11 Feb 1998 (6),Nice (30),0-1,?,Caen (30)
+?,(Wed) 11 Feb 1998 (6),Nimes (30),1-0,?,Gueugnon (30)
+?,(Wed) 11 Feb 1998 (6),Red Star 93 (30),3-2,?,Lorient (30)
+?,(Wed) 11 Feb 1998 (6),Sochaux (30),1-1,?,Niort (30)
+?,(Wed) 11 Feb 1998 (6),Toulon (30),1-1,?,Laval (30)
+?,(Sat) 14 Feb 1998 (6),Amiens (31),2-1,?,Beauvais (31)
+?,(Sat) 14 Feb 1998 (6),Caen (31),5-0,?,Louhans-Cuis. (31)
+?,(Sat) 14 Feb 1998 (6),Gueugnon (31),1-1,?,Le Mans (31)
+?,(Sat) 14 Feb 1998 (6),Laval (31),1-1,?,Nice (31)
+?,(Sat) 14 Feb 1998 (6),Lorient (31),4-0,?,Nimes (31)
+?,(Sat) 14 Feb 1998 (6),Mulhouse (31),1-2,?,St Etienne (31)
+?,(Sat) 14 Feb 1998 (6),Nancy (31),1-1,?,Lille (31)
+?,(Sat) 14 Feb 1998 (6),Niort (31),3-0,?,Toulon (31)
+?,(Sat) 14 Feb 1998 (6),Troyes (31),3-0,?,Martigues (31)
+?,(Sat) 14 Feb 1998 (6),Valence (31),0-0,?,Red Star 93 (31)
+?,(Sat) 14 Feb 1998 (6),Wasquehal (31),1-1,?,Sochaux (31)
+?,(Fri) 20 Feb 1998 (7),Le Mans (32),4-2,?,Amiens (32)
+?,(Sat) 21 Feb 1998 (7),Beauvais (32),2-3,?,Caen (32)
+?,(Sat) 21 Feb 1998 (7),Lille (32),0-2,?,Troyes (32)
+?,(Sat) 21 Feb 1998 (7),Lorient (32),1-1,?,Valence (32)
+?,(Sat) 21 Feb 1998 (7),Louhans-Cuis. (32),1-0,?,Laval (32)
+?,(Sat) 21 Feb 1998 (7),Martigues (32),0-0,?,Nancy (32)
+?,(Sat) 21 Feb 1998 (7),Nice (32),0-2,?,Niort (32)
+?,(Sat) 21 Feb 1998 (7),Nimes (32),2-0,?,Mulhouse (32)
+?,(Sat) 21 Feb 1998 (7),Red Star 93 (32),2-0,?,Gueugnon (32)
+?,(Sat) 21 Feb 1998 (7),Sochaux (32),4-1,?,Toulon (32)
+?,(Sat) 21 Feb 1998 (7),St Etienne (32),0-0,?,Wasquehal (32)
+?,(Sat) 7 Mar 1998 (9),Amiens (33),0-0,?,Red Star 93 (33)
+?,(Sat) 7 Mar 1998 (9),Caen (33),2-0,?,St Etienne (33)
+?,(Sat) 7 Mar 1998 (9),Gueugnon (33),1-2,?,Lorient (33)
+?,(Sat) 7 Mar 1998 (9),Laval (33),2-0,?,Beauvais (33)
+?,(Sat) 7 Mar 1998 (9),Mulhouse (33),1-2,?,Le Mans (33)
+?,(Sat) 7 Mar 1998 (9),Nancy (33),1-0,?,Nimes (33)
+?,(Sat) 7 Mar 1998 (9),Niort (33),1-1,?,Louhans-Cuis. (33)
+?,(Sat) 7 Mar 1998 (9),Toulon (33),1-0,?,Nice (33)
+?,(Sat) 7 Mar 1998 (9),Troyes (33),0-1,?,Sochaux (33)
+?,(Sat) 7 Mar 1998 (9),Valence (33),3-1,?,Lille (33)
+?,(Sat) 7 Mar 1998 (9),Wasquehal (33),1-0,?,Martigues (33)
+?,(Sat) 14 Mar 1998 (10),Beauvais (34),1-1,?,Niort (34)
+?,(Sat) 14 Mar 1998 (10),Le Mans (34),1-1,?,Troyes (34)
+?,(Sat) 14 Mar 1998 (10),Lille (34),1-1,?,Wasquehal (34)
+?,(Sat) 14 Mar 1998 (10),Lorient (34),0-0,?,Amiens (34)
+?,(Sat) 14 Mar 1998 (10),Louhans-Cuis. (34),1-0,?,Toulon (34)
+?,(Sat) 14 Mar 1998 (10),Martigues (34),0-2,?,Caen (34)
+?,(Sat) 14 Mar 1998 (10),Nimes (34),0-0,?,Nice (34)
+?,(Sat) 14 Mar 1998 (10),Red Star 93 (34),2-1,?,Mulhouse (34)
+?,(Sat) 14 Mar 1998 (10),Sochaux (34),0-1,?,Nancy (34)
+?,(Sat) 14 Mar 1998 (10),St Etienne (34),3-2,?,Laval (34)
+?,(Sat) 14 Mar 1998 (10),Valence (34),2-2,?,Gueugnon (34)
+?,(Tue) 24 Mar 1998 (12),Amiens (35),1-1,?,Valence (35)
+?,(Tue) 24 Mar 1998 (12),Caen (35),0-2,?,Lille (35)
+?,(Tue) 24 Mar 1998 (12),Gueugnon (35),3-1,?,Sochaux (35)
+?,(Tue) 24 Mar 1998 (12),Laval (35),1-0,?,Martigues (35)
+?,(Tue) 24 Mar 1998 (12),Mulhouse (35),1-0,?,Lorient (35)
+?,(Tue) 24 Mar 1998 (12),Nancy (35),2-0,?,Red Star 93 (35)
+?,(Tue) 24 Mar 1998 (12),Nice (35),2-0,?,Louhans-Cuis. (35)
+?,(Tue) 24 Mar 1998 (12),Niort (35),1-3,?,St Etienne (35)
+?,(Tue) 24 Mar 1998 (12),Toulon (35),2-0,?,Beauvais (35)
+?,(Tue) 24 Mar 1998 (12),Troyes (35),1-1,?,Nimes (35)
+?,(Tue) 24 Mar 1998 (12),Wasquehal (35),1-0,?,Le Mans (35)
+?,(Sat) 28 Mar 1998 (12),Beauvais (36),1-0,?,Nice (36)
+?,(Sat) 28 Mar 1998 (12),Gueugnon (36),0-1,?,Amiens (36)
+?,(Sat) 28 Mar 1998 (12),Le Mans (36),2-0,?,Caen (36)
+?,(Sat) 28 Mar 1998 (12),Lille (36),3-0,?,Laval (36)
+?,(Sat) 28 Mar 1998 (12),Lorient (36),2-3,?,Nancy (36)
+?,(Sat) 28 Mar 1998 (12),Martigues (36),0-0,?,Niort (36)
+?,(Sat) 28 Mar 1998 (12),Nimes (36),2-1,?,Wasquehal (36)
+?,(Sat) 28 Mar 1998 (12),Red Star 93 (36),0-0,?,Troyes (36)
+?,(Sat) 28 Mar 1998 (12),Sochaux (36),0-1,?,Louhans-Cuis. (36)
+?,(Sat) 28 Mar 1998 (12),St Etienne (36),3-1,?,Toulon (36)
+?,(Sat) 28 Mar 1998 (12),Valence (36),1-0,?,Mulhouse (36)
+?,(Sun) 5 Apr 1998 (13),Nancy (37),2-4,?,Valence (37)
+?,(Tue) 7 Apr 1998 (14),Amiens (37),0-2,?,Sochaux (37)
+?,(Tue) 7 Apr 1998 (14),Caen (37),3-1,?,Nimes (37)
+?,(Tue) 7 Apr 1998 (14),Laval (37),2-3,?,Le Mans (37)
+?,(Tue) 7 Apr 1998 (14),Louhans-Cuis. (37),1-0,?,Beauvais (37)
+?,(Tue) 7 Apr 1998 (14),Mulhouse (37),1-2,?,Gueugnon (37)
+?,(Tue) 7 Apr 1998 (14),Nice (37),2-0,?,St Etienne (37)
+?,(Tue) 7 Apr 1998 (14),Niort (37),2-0,?,Lille (37)
+?,(Tue) 7 Apr 1998 (14),Toulon (37),1-2,?,Martigues (37)
+?,(Tue) 7 Apr 1998 (14),Troyes (37),0-2,?,Lorient (37)
+?,(Tue) 7 Apr 1998 (14),Wasquehal (37),2-4,?,Red Star 93 (37)
+?,(Sat) 18 Apr 1998 (15),Amiens (38),1-0,?,Mulhouse (38)
+?,(Sat) 18 Apr 1998 (15),Gueugnon (38),2-2,?,Nancy (38)
+?,(Sat) 18 Apr 1998 (15),Le Mans (38),1-0,?,Niort (38)
+?,(Sat) 18 Apr 1998 (15),Lille (38),0-1,?,Toulon (38)
+?,(Sat) 18 Apr 1998 (15),Lorient (38),1-0,?,Wasquehal (38)
+?,(Sat) 18 Apr 1998 (15),Martigues (38),0-0,?,Nice (38)
+?,(Sat) 18 Apr 1998 (15),Nimes (38),1-1,?,Laval (38)
+?,(Sat) 18 Apr 1998 (15),Red Star 93 (38),1-0,?,Caen (38)
+?,(Sat) 18 Apr 1998 (15),Sochaux (38),2-0,?,Beauvais (38)
+?,(Sat) 18 Apr 1998 (15),St Etienne (38),2-2,?,Louhans-Cuis. (38)
+?,(Sat) 18 Apr 1998 (15),Valence (38),0-1,?,Troyes (38)
+?,(Thu) 23 Apr 1998 (16),Nice (39),2-1,?,Lille (39)
+?,(Fri) 24 Apr 1998 (16),Beauvais (39),0-0,?,St Etienne (39)
+?,(Fri) 24 Apr 1998 (16),Caen (39),1-1,?,Lorient (39)
+?,(Fri) 24 Apr 1998 (16),Laval (39),3-1,?,Red Star 93 (39)
+?,(Fri) 24 Apr 1998 (16),Louhans-Cuis. (39),3-0,?,Martigues (39)
+?,(Fri) 24 Apr 1998 (16),Mulhouse (39),2-2,?,Sochaux (39)
+?,(Fri) 24 Apr 1998 (16),Nancy (39),2-0,?,Amiens (39)
+?,(Fri) 24 Apr 1998 (16),Niort (39),1-0,?,Nimes (39)
+?,(Fri) 24 Apr 1998 (16),Toulon (39),6-1,?,Le Mans (39)
+?,(Fri) 24 Apr 1998 (16),Troyes (39),3-0,?,Gueugnon (39)
+?,(Fri) 24 Apr 1998 (16),Wasquehal (39),1-1,?,Valence (39)
+?,(Wed) 29 Apr 1998 (17),Amiens (40),0-2,?,Troyes (40)
+?,(Wed) 29 Apr 1998 (17),Gueugnon (40),2-1,?,Wasquehal (40)
+?,(Wed) 29 Apr 1998 (17),Le Mans (40),2-0,?,Nice (40)
+?,(Wed) 29 Apr 1998 (17),Lille (40),3-1,?,Louhans-Cuis. (40)
+?,(Wed) 29 Apr 1998 (17),Lorient (40),1-1,?,Laval (40)
+?,(Wed) 29 Apr 1998 (17),Martigues (40),0-0,?,Beauvais (40)
+?,(Wed) 29 Apr 1998 (17),Mulhouse (40),2-2,?,Nancy (40)
+?,(Wed) 29 Apr 1998 (17),Nimes (40),2-0,?,Toulon (40)
+?,(Wed) 29 Apr 1998 (17),Red Star 93 (40),1-1,?,Niort (40)
+?,(Wed) 29 Apr 1998 (17),Sochaux (40),4-0,?,St Etienne (40)
+?,(Wed) 29 Apr 1998 (17),Valence (40),2-2,?,Caen (40)
+?,(Tue) 5 May 1998 (18),Beauvais (41),2-1,?,Lille (41)
+?,(Tue) 5 May 1998 (18),Caen (41),4-0,?,Gueugnon (41)
+?,(Tue) 5 May 1998 (18),Laval (41),2-2,?,Valence (41)
+?,(Tue) 5 May 1998 (18),Louhans-Cuis. (41),2-0,?,Nimes (41)
+?,(Tue) 5 May 1998 (18),Nancy (41),1-1,?,Le Mans (41)
+?,(Tue) 5 May 1998 (18),Nice (41),2-1,?,Sochaux (41)
+?,(Tue) 5 May 1998 (18),Niort (41),0-0,?,Lorient (41)
+?,(Tue) 5 May 1998 (18),St Etienne (41),1-1,?,Martigues (41)
+?,(Tue) 5 May 1998 (18),Toulon (41),2-3,?,Red Star 93 (41)
+?,(Tue) 5 May 1998 (18),Troyes (41),1-1,?,Mulhouse (41)
+?,(Tue) 5 May 1998 (18),Wasquehal (41),2-0,?,Amiens (41)
+?,(Fri) 8 May 1998 (18),Amiens (42),1-1,?,Caen (42)
+?,(Fri) 8 May 1998 (18),Gueugnon (42),2-1,?,Laval (42)
+?,(Fri) 8 May 1998 (18),Le Mans (42),1-0,?,Louhans-Cuis. (42)
+?,(Fri) 8 May 1998 (18),Lille (42),2-1,?,St Etienne (42)
+?,(Fri) 8 May 1998 (18),Lorient (42),1-3,?,Toulon (42)
+?,(Fri) 8 May 1998 (18),Martigues (42),1-2,?,Sochaux (42)
+?,(Fri) 8 May 1998 (18),Mulhouse (42),1-2,?,Wasquehal (42)
+?,(Fri) 8 May 1998 (18),Nancy (42),1-1,?,Troyes (42)
+?,(Fri) 8 May 1998 (18),Nimes (42),0-0,?,Beauvais (42)
+?,(Fri) 8 May 1998 (18),Red Star 93 (42),1-0,?,Nice (42)
+?,(Fri) 8 May 1998 (18),Valence (42),2-2,?,Niort (42)

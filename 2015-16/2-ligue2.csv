@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Fri) Jul/31 2015 (30),Ajaccio (1),Dijon (1),0-0,0-0
-?,(Fri) Jul/31 2015 (30),Auxerre (1),Brest (1),0-0,0-0
-?,(Fri) Jul/31 2015 (30),Bourg Peronnas (1),Le Havre (1),1-3,1-1
-?,(Fri) Jul/31 2015 (30),Clermont (1),Sochaux (1),0-0,0-0
-?,(Fri) Jul/31 2015 (30),Nimes (1),Evian Thonon Gaillard (1),0-0,0-0
-?,(Fri) Jul/31 2015 (30),Niort (1),Valenciennes (1),0-1,0-1
-?,(Fri) Jul/31 2015 (30),Paris FC (1),Laval (1),1-1,0-0
-?,(Fri) Jul/31 2015 (30),Red Star (1),Creteil (1),0-1,0-0
-?,(Sat) Aug/1 2015 (30),Metz (1),Lens (1),0-0,0-0
-?,(Mon) Aug/3 2015 (31),Nancy (1),Tours (1),0-0,0-0
-?,(Fri) Aug/7 2015 (31),Brest (2),Nimes (2),2-0,1-0
-?,(Fri) Aug/7 2015 (31),Creteil (2),Bourg Peronnas (2),2-1,1-0
-?,(Fri) Aug/7 2015 (31),Dijon (2),Niort (2),3-0,1-0
-?,(Fri) Aug/7 2015 (31),Evian Thonon Gaillard (2),Clermont (2),2-2,1-1
-?,(Fri) Aug/7 2015 (31),Laval (2),Nancy (2),0-1,0-0
-?,(Fri) Aug/7 2015 (31),Le Havre (2),Ajaccio (2),1-0,0-0
-?,(Fri) Aug/7 2015 (31),Sochaux (2),Metz (2),0-1,0-1
-?,(Fri) Aug/7 2015 (31),Tours (2),Paris FC (2),0-0,0-0
-?,(Fri) Aug/7 2015 (31),Valenciennes (2),Auxerre (2),0-0,0-0
-?,(Sat) Aug/8 2015 (31),Lens (2),Red Star (2),1-1,0-1
-?,(Fri) Aug/14 2015 (32),Ajaccio (3),Evian Thonon Gaillard (3),1-1,1-1
-?,(Fri) Aug/14 2015 (32),Auxerre (3),Laval (3),2-3,0-0
-?,(Fri) Aug/14 2015 (32),Bourg Peronnas (3),Dijon (3),2-1,1-0
-?,(Fri) Aug/14 2015 (32),Clermont (3),Nimes (3),1-0,0-0
-?,(Fri) Aug/14 2015 (32),Lens (3),Creteil (3),1-1,1-0
-?,(Fri) Aug/14 2015 (32),Niort (3),Sochaux (3),1-1,0-1
-?,(Fri) Aug/14 2015 (32),Paris FC (3),Le Havre (3),3-0,1-0
-?,(Fri) Aug/14 2015 (32),Red Star (3),Tours (3),1-1,1-0
-?,(Sat) Aug/15 2015 (32),Nancy (3),Brest (3),3-0,3-0
-?,(Mon) Aug/17 2015 (33),Metz (3),Valenciennes (3),2-0,0-0
-?,(Fri) Aug/21 2015 (33),Brest (4),Ajaccio (4),1-0,0-0
-?,(Fri) Aug/21 2015 (33),Creteil (4),Metz (4),1-2,1-0
-?,(Fri) Aug/21 2015 (33),Dijon (4),Lens (4),2-0,1-0
-?,(Fri) Aug/21 2015 (33),Evian Thonon Gaillard (4),Niort (4),0-0,0-0
-?,(Fri) Aug/21 2015 (33),Laval (4),Red Star (4),2-1,0-1
-?,(Fri) Aug/21 2015 (33),Le Havre (4),Clermont (4),0-1,0-1
-?,(Fri) Aug/21 2015 (33),Sochaux (4),Paris FC (4),1-1,0-0
-?,(Fri) Aug/21 2015 (33),Tours (4),Auxerre (4),3-1,1-0
-?,(Fri) Aug/21 2015 (33),Valenciennes (4),Bourg Peronnas (4),1-1,1-1
-?,(Sat) Aug/22 2015 (33),Nimes (4),Nancy (4),2-2,1-1
-?,(Fri) Aug/28 2015 (34),Ajaccio (5),Tours (5),1-2,1-0
-?,(Fri) Aug/28 2015 (34),Auxerre (5),Nimes (5),1-0,1-0
-?,(Fri) Aug/28 2015 (34),Bourg Peronnas (5),Sochaux (5),2-1,1-1
-?,(Fri) Aug/28 2015 (34),Clermont (5),Nancy (5),1-2,0-0
-?,(Fri) Aug/28 2015 (34),Dijon (5),Creteil (5),4-1,2-0
-?,(Fri) Aug/28 2015 (34),Niort (5),Laval (5),0-1,0-0
-?,(Fri) Aug/28 2015 (34),Paris FC (5),Brest (5),1-1,0-1
-?,(Fri) Aug/28 2015 (34),Red Star (5),Valenciennes (5),1-5,0-1
-?,(Sat) Aug/29 2015 (34),Metz (5),Evian Thonon Gaillard (5),2-1,1-0
-?,(Mon) Aug/31 2015 (35),Lens (5),Le Havre (5),0-4,0-3
-?,(Fri) Sep/11 2015 (36),Clermont (6),Paris FC (6),1-1,0-1
-?,(Fri) Sep/11 2015 (36),Evian Thonon Gaillard (6),Auxerre (6),4-0,1-0
-?,(Fri) Sep/11 2015 (36),Laval (6),Metz (6),0-1,0-0
-?,(Fri) Sep/11 2015 (36),Le Havre (6),Red Star (6),0-2,0-1
-?,(Fri) Sep/11 2015 (36),Nancy (6),Niort (6),1-1,0-0
-?,(Fri) Sep/11 2015 (36),Nimes (6),Ajaccio (6),0-0,0-0
-?,(Fri) Sep/11 2015 (36),Sochaux (6),Creteil (6),0-3,0-2
-?,(Fri) Sep/11 2015 (36),Tours (6),Bourg Peronnas (6),0-1,0-0
-?,(Sat) Sep/12 2015 (36),Valenciennes (6),Dijon (6),1-3,0-2
-?,(Mon) Sep/14 2015 (37),Brest (6),Lens (6),2-1,1-0
-?,(Fri) Sep/18 2015 (37),Ajaccio (7),Laval (7),0-0,0-0
-?,(Fri) Sep/18 2015 (37),Auxerre (7),Clermont (7),1-0,0-0
-?,(Fri) Sep/18 2015 (37),Bourg Peronnas (7),Brest (7),3-1,1-0
-?,(Fri) Sep/18 2015 (37),Creteil (7),Valenciennes (7),0-1,0-0
-?,(Fri) Sep/18 2015 (37),Dijon (7),Le Havre (7),2-1,0-1
-?,(Fri) Sep/18 2015 (37),Lens (7),Tours (7),1-1,1-0
-?,(Fri) Sep/18 2015 (37),Metz (7),Nancy (7),0-0,0-0
-?,(Fri) Sep/18 2015 (37),Niort (7),Nimes (7),1-0,0-0
-?,(Fri) Sep/18 2015 (37),Red Star (7),Sochaux (7),0-0,0-0
-?,(Sat) Sep/19 2015 (37),Paris FC (7),Evian Thonon Gaillard (7),0-0,0-0
-?,(Mon) Sep/21 2015 (38),Valenciennes (8),Lens (8),0-1,0-1
-?,(Tue) Sep/22 2015 (38),Brest (8),Niort (8),1-1,1-1
-?,(Tue) Sep/22 2015 (38),Clermont (8),Ajaccio (8),2-1,2-0
-?,(Tue) Sep/22 2015 (38),Evian Thonon Gaillard (8),Red Star (8),0-1,0-0
-?,(Tue) Sep/22 2015 (38),Laval (8),Bourg Peronnas (8),1-3,0-2
-?,(Tue) Sep/22 2015 (38),Le Havre (8),Metz (8),1-1,1-1
-?,(Tue) Sep/22 2015 (38),Nancy (8),Auxerre (8),0-1,0-0
-?,(Tue) Sep/22 2015 (38),Nimes (8),Paris FC (8),1-1,0-1
-?,(Tue) Sep/22 2015 (38),Sochaux (8),Dijon (8),0-1,0-0
-?,(Tue) Sep/22 2015 (38),Tours (8),Creteil (8),1-2,0-1
-?,(Fri) Sep/25 2015 (38),Ajaccio (9),Auxerre (9),1-0,1-0
-?,(Fri) Sep/25 2015 (38),Bourg Peronnas (9),Evian Thonon Gaillard (9),0-2,0-0
-?,(Fri) Sep/25 2015 (38),Creteil (9),Le Havre (9),2-1,1-0
-?,(Fri) Sep/25 2015 (38),Lens (9),Sochaux (9),1-0,0-0
-?,(Fri) Sep/25 2015 (38),Metz (9),Nimes (9),1-2,1-0
-?,(Fri) Sep/25 2015 (38),Niort (9),Clermont (9),1-1,0-0
-?,(Fri) Sep/25 2015 (38),Red Star (9),Brest (9),1-0,0-0
-?,(Fri) Sep/25 2015 (38),Valenciennes (9),Tours (9),0-0,0-0
-?,(Sat) Sep/26 2015 (38),Dijon (9),Laval (9),2-0,2-0
-?,(Mon) Sep/28 2015 (39),Paris FC (9),Nancy (9),1-1,1-0
-?,(Fri) Oct/2 2015 (39),Auxerre (10),Paris FC (10),2-0,1-0
-?,(Fri) Oct/2 2015 (39),Clermont (10),Bourg Peronnas (10),3-2,1-0
-?,(Fri) Oct/2 2015 (39),Evian Thonon Gaillard (10),Lens (10),2-1,2-0
-?,(Fri) Oct/2 2015 (39),Laval (10),Creteil (10),3-2,2-0
-?,(Fri) Oct/2 2015 (39),Le Havre (10),Niort (10),0-0,0-0
-?,(Fri) Oct/2 2015 (39),Nancy (10),Ajaccio (10),3-0,1-0
-?,(Fri) Oct/2 2015 (39),Nimes (10),Red Star (10),1-1,0-0
-?,(Fri) Oct/2 2015 (39),Sochaux (10),Valenciennes (10),1-0,0-0
-?,(Sat) Oct/3 2015 (39),Brest (10),Metz (10),1-1,1-0
-?,(Mon) Oct/5 2015 (40),Tours (10),Dijon (10),1-0,0-0
-?,(Fri) Oct/16 2015 (41),Bourg Peronnas (11),Nimes (11),4-2,1-0
-?,(Fri) Oct/16 2015 (41),Creteil (11),Brest (11),0-2,0-1
-?,(Fri) Oct/16 2015 (41),Metz (11),Clermont (11),2-2,0-2
-?,(Fri) Oct/16 2015 (41),Niort (11),Auxerre (11),2-3,1-3
-?,(Fri) Oct/16 2015 (41),Paris FC (11),Ajaccio (11),0-0,0-0
-?,(Fri) Oct/16 2015 (41),Red Star (11),Nancy (11),0-1,0-1
-?,(Fri) Oct/16 2015 (41),Sochaux (11),Tours (11),0-0,0-0
-?,(Fri) Oct/16 2015 (41),Valenciennes (11),Le Havre (11),0-1,0-1
-?,(Sat) Oct/17 2015 (41),Dijon (11),Evian Thonon Gaillard (11),1-3,1-1
-?,(Mon) Oct/19 2015 (42),Lens (11),Laval (11),1-1,0-1
-?,(Fri) Oct/23 2015 (42),Ajaccio (12),Metz (12),0-1,0-0
-?,(Fri) Oct/23 2015 (42),Auxerre (12),Red Star (12),0-1,0-1
-?,(Fri) Oct/23 2015 (42),Brest (12),Valenciennes (12),1-2,0-2
-?,(Fri) Oct/23 2015 (42),Evian Thonon Gaillard (12),Creteil (12),1-2,1-1
-?,(Fri) Oct/23 2015 (42),Laval (12),Tours (12),1-1,1-0
-?,(Fri) Oct/23 2015 (42),Le Havre (12),Sochaux (12),2-1,1-1
-?,(Fri) Oct/23 2015 (42),Nancy (12),Bourg Peronnas (12),3-1,1-1
-?,(Fri) Oct/23 2015 (42),Paris FC (12),Niort (12),1-1,0-0
-?,(Sat) Oct/24 2015 (42),Nimes (12),Dijon (12),1-1,1-1
-?,(Mon) Oct/26 2015 (43),Clermont (12),Lens (12),2-2,0-1
-?,(Fri) Oct/30 2015 (43),Creteil (13),Nimes (13),1-2,0-0
-?,(Fri) Oct/30 2015 (43),Metz (13),Paris FC (13),2-1,2-1
-?,(Fri) Oct/30 2015 (43),Niort (13),Ajaccio (13),3-1,1-1
-?,(Fri) Oct/30 2015 (43),Red Star (13),Clermont (13),2-1,0-0
-?,(Fri) Oct/30 2015 (43),Sochaux (13),Evian Thonon Gaillard (13),1-0,1-0
-?,(Fri) Oct/30 2015 (43),Tours (13),Le Havre (13),0-1,0-1
-?,(Fri) Oct/30 2015 (43),Valenciennes (13),Laval (13),0-0,0-0
-?,(Sat) Oct/31 2015 (43),Bourg Peronnas (13),Auxerre (13),1-1,1-0
-?,(Sat) Oct/31 2015 (43),Dijon (13),Brest (13),3-1,0-1
-?,(Mon) Nov/2 2015 (44),Lens (13),Nancy (13),1-0,0-0
-?,(Fri) Nov/6 2015 (44),Ajaccio (14),Bourg Peronnas (14),2-0,2-0
-?,(Fri) Nov/6 2015 (44),Auxerre (14),Lens (14),1-2,0-0
-?,(Fri) Nov/6 2015 (44),Brest (14),Tours (14),3-0,1-0
-?,(Fri) Nov/6 2015 (44),Clermont (14),Creteil (14),1-0,0-0
-?,(Fri) Nov/6 2015 (44),Evian Thonon Gaillard (14),Valenciennes (14),4-0,2-0
-?,(Fri) Nov/6 2015 (44),Laval (14),Le Havre (14),0-1,0-0
-?,(Fri) Nov/6 2015 (44),Nimes (14),Sochaux (14),0-2,0-0
-?,(Fri) Nov/6 2015 (44),Niort (14),Metz (14),1-1,0-1
-?,(Sat) Nov/7 2015 (44),Paris FC (14),Red Star (14),0-1,0-0
-?,(Mon) Nov/9 2015 (45),Nancy (14),Dijon (14),3-1,2-0
-?,(Fri) Nov/20 2015 (46),Creteil (15),Nancy (15),0-3,0-1
-?,(Fri) Nov/20 2015 (46),Dijon (15),Clermont (15),4-1,4-0
-?,(Fri) Nov/20 2015 (46),Tours (15),Evian Thonon Gaillard (15),2-1,1-0
-?,(Sat) Nov/21 2015 (46),Metz (15),Auxerre (15),0-1,0-1
-?,(Mon) Nov/23 2015 (47),Le Havre (15),Brest (15),0-0,0-0
-?,(Tue) Nov/24 2015 (47),Bourg Peronnas (15),Paris FC (15),4-1,2-0
-?,(Tue) Nov/24 2015 (47),Lens (15),Niort (15),1-1,0-1
-?,(Tue) Nov/24 2015 (47),Red Star (15),Ajaccio (15),1-1,0-1
-?,(Tue) Nov/24 2015 (47),Sochaux (15),Laval (15),0-0,0-0
-?,(Tue) Nov/24 2015 (47),Valenciennes (15),Nimes (15),2-2,0-1
-?,(Fri) Nov/27 2015 (47),Ajaccio (16),Lens (16),1-1,0-0
-?,(Fri) Nov/27 2015 (47),Auxerre (16),Creteil (16),3-1,1-1
-?,(Fri) Nov/27 2015 (47),Brest (16),Sochaux (16),1-0,1-0
-?,(Fri) Nov/27 2015 (47),Clermont (16),Valenciennes (16),2-0,2-0
-?,(Fri) Nov/27 2015 (47),Evian Thonon Gaillard (16),Laval (16),0-0,0-0
-?,(Fri) Nov/27 2015 (47),Metz (16),Bourg Peronnas (16),5-0,2-0
-?,(Fri) Nov/27 2015 (47),Nimes (16),Tours (16),2-1,0-1
-?,(Fri) Nov/27 2015 (47),Niort (16),Red Star (16),0-0,0-0
-?,(Fri) Nov/27 2015 (47),Paris FC (16),Dijon (16),0-3,0-2
-?,(Sat) Nov/28 2015 (47),Nancy (16),Le Havre (16),3-1,1-1
-?,(Mon) Nov/30 2015 (48),Lens (17),Nimes (17),1-0,0-0
-?,(Tue) Dec/1 2015 (48),Bourg Peronnas (17),Niort (17),2-1,1-0
-?,(Tue) Dec/1 2015 (48),Creteil (17),Paris FC (17),0-0,0-0
-?,(Tue) Dec/1 2015 (48),Dijon (17),Auxerre (17),0-0,0-0
-?,(Tue) Dec/1 2015 (48),Laval (17),Brest (17),2-0,1-0
-?,(Tue) Dec/1 2015 (48),Le Havre (17),Evian Thonon Gaillard (17),3-2,1-1
-?,(Tue) Dec/1 2015 (48),Red Star (17),Metz (17),3-1,0-0
-?,(Tue) Dec/1 2015 (48),Sochaux (17),Nancy (17),2-2,0-1
-?,(Tue) Dec/1 2015 (48),Tours (17),Clermont (17),1-1,0-1
-?,(Tue) Dec/1 2015 (48),Valenciennes (17),Ajaccio (17),1-1,0-1
-?,(Fri) Dec/11 2015 (49),Ajaccio (18),Creteil (18),3-0,1-0
-?,(Fri) Dec/11 2015 (49),Auxerre (18),Sochaux (18),2-1,0-1
-?,(Fri) Dec/11 2015 (49),Bourg Peronnas (18),Red Star (18),0-1,0-0
-?,(Fri) Dec/11 2015 (49),Clermont (18),Laval (18),4-1,1-0
-?,(Fri) Dec/11 2015 (49),Evian Thonon Gaillard (18),Brest (18),0-2,0-1
-?,(Fri) Dec/11 2015 (49),Nimes (18),Le Havre (18),2-2,0-1
-?,(Fri) Dec/11 2015 (49),Niort (18),Tours (18),0-0,0-0
-?,(Fri) Dec/11 2015 (49),Paris FC (18),Lens (18),0-1,0-1
-?,(Sat) Dec/12 2015 (49),Metz (18),Dijon (18),1-2,0-1
-?,(Mon) Dec/14 2015 (50),Nancy (18),Valenciennes (18),1-0,0-0
-?,(Thu) Dec/17 2015 (50),Evian Thonon Gaillard (19),Nancy (19),0-1,0-0
-?,(Fri) Dec/18 2015 (50),Brest (19),Clermont (19),1-2,1-0
-?,(Fri) Dec/18 2015 (50),Creteil (19),Niort (19),2-3,1-1
-?,(Fri) Dec/18 2015 (50),Dijon (19),Red Star (19),0-0,0-0
-?,(Fri) Dec/18 2015 (50),Laval (19),Nimes (19),3-2,1-1
-?,(Fri) Dec/18 2015 (50),Le Havre (19),Auxerre (19),1-0,0-0
-?,(Fri) Dec/18 2015 (50),Sochaux (19),Ajaccio (19),3-0,0-0
-?,(Fri) Dec/18 2015 (50),Valenciennes (19),Paris FC (19),1-1,1-1
-?,(Sat) Dec/19 2015 (50),Lens (19),Bourg Peronnas (19),2-0,2-0
-?,(Sat) Dec/19 2015 (50),Tours (19),Metz (19),2-0,1-0
-?,(Fri) Jan/8 2016 (1),Ajaccio (20),Le Havre (20),1-1,1-0
-?,(Fri) Jan/8 2016 (1),Auxerre (20),Valenciennes (20),1-1,0-0
-?,(Fri) Jan/8 2016 (1),Bourg Peronnas (20),Creteil (20),5-1,1-1
-?,(Fri) Jan/8 2016 (1),Clermont (20),Evian Thonon Gaillard (20),4-1,4-0
-?,(Fri) Jan/8 2016 (1),Nancy (20),Laval (20),1-0,1-0
-?,(Fri) Jan/8 2016 (1),Nimes (20),Brest (20),2-0,0-0
-?,(Fri) Jan/8 2016 (1),Niort (20),Dijon (20),2-2,1-1
-?,(Fri) Jan/8 2016 (1),Paris FC (20),Tours (20),1-3,0-1
-?,(Sat) Jan/9 2016 (1),Red Star (20),Lens (20),1-2,0-0
-?,(Mon) Jan/11 2016 (2),Metz (20),Sochaux (20),1-0,0-0
-?,(Fri) Jan/15 2016 (2),Creteil (21),Lens (21),1-1,0-0
-?,(Fri) Jan/15 2016 (2),Dijon (21),Bourg Peronnas (21),3-0,2-0
-?,(Fri) Jan/15 2016 (2),Evian Thonon Gaillard (21),Ajaccio (21),0-2,0-1
-?,(Fri) Jan/15 2016 (2),Laval (21),Auxerre (21),4-1,0-1
-?,(Fri) Jan/15 2016 (2),Le Havre (21),Paris FC (21),2-1,1-0
-?,(Fri) Jan/15 2016 (2),Nimes (21),Clermont (21),6-2,3-2
-?,(Fri) Jan/15 2016 (2),Sochaux (21),Niort (21),2-3,2-1
-?,(Fri) Jan/15 2016 (2),Tours (21),Red Star (21),0-0,0-0
-?,(Sat) Jan/16 2016 (2),Brest (21),Nancy (21),1-1,1-0
-?,(Mon) Jan/18 2016 (3),Valenciennes (21),Metz (21),2-1,1-1
-?,(Fri) Jan/22 2016 (3),Auxerre (22),Tours (22),2-1,1-0
-?,(Fri) Jan/22 2016 (3),Bourg Peronnas (22),Valenciennes (22),0-0,0-0
-?,(Fri) Jan/22 2016 (3),Metz (22),Creteil (22),2-1,0-1
-?,(Fri) Jan/22 2016 (3),Nancy (22),Nimes (22),3-4,2-2
-?,(Fri) Jan/22 2016 (3),Paris FC (22),Sochaux (22),0-0,0-0
-?,(Sat) Jan/23 2016 (3),Lens (22),Dijon (22),1-1,1-1
-?,(Sat) Jan/23 2016 (3),Niort (22),Evian Thonon Gaillard (22),0-3,0-1
-?,(Sat) Jan/23 2016 (3),Red Star (22),Laval (22),2-0,1-0
-?,(Mon) Jan/25 2016 (4),Ajaccio (22),Brest (22),2-1,1-1
-?,(Mon) Jan/25 2016 (4),Clermont (22),Le Havre (22),2-1,0-0
-?,(Fri) Jan/29 2016 (4),Brest (23),Paris FC (23),1-0,1-0
-?,(Fri) Jan/29 2016 (4),Creteil (23),Dijon (23),0-1,0-0
-?,(Fri) Jan/29 2016 (4),Evian Thonon Gaillard (23),Metz (23),0-1,0-1
-?,(Fri) Jan/29 2016 (4),Laval (23),Niort (23),0-0,0-0
-?,(Fri) Jan/29 2016 (4),Nancy (23),Clermont (23),3-1,0-0
-?,(Fri) Jan/29 2016 (4),Nimes (23),Auxerre (23),2-1,1-0
-?,(Fri) Jan/29 2016 (4),Sochaux (23),Bourg Peronnas (23),1-1,1-1
-?,(Fri) Jan/29 2016 (4),Tours (23),Ajaccio (23),1-1,0-1
-?,(Fri) Jan/29 2016 (4),Valenciennes (23),Red Star (23),0-0,0-0
-?,(Sat) Jan/30 2016 (4),Le Havre (23),Lens (23),2-0,1-0
-?,(Mon) Feb/1 2016 (5),Paris FC (24),Clermont (24),0-0,0-0
-?,(Tue) Feb/2 2016 (5),Ajaccio (24),Nimes (24),2-0,1-0
-?,(Tue) Feb/2 2016 (5),Auxerre (24),Evian Thonon Gaillard (24),3-1,2-0
-?,(Tue) Feb/2 2016 (5),Bourg Peronnas (24),Tours (24),0-2,0-1
-?,(Tue) Feb/2 2016 (5),Creteil (24),Sochaux (24),1-1,0-0
-?,(Tue) Feb/2 2016 (5),Dijon (24),Valenciennes (24),1-0,1-0
-?,(Tue) Feb/2 2016 (5),Lens (24),Brest (24),2-0,1-0
-?,(Tue) Feb/2 2016 (5),Metz (24),Laval (24),1-0,1-0
-?,(Tue) Feb/2 2016 (5),Niort (24),Nancy (24),0-0,0-0
-?,(Tue) Feb/2 2016 (5),Red Star (24),Le Havre (24),2-1,1-0
-?,(Fri) Feb/5 2016 (5),Brest (25),Bourg Peronnas (25),2-1,1-0
-?,(Fri) Feb/5 2016 (5),Clermont (25),Auxerre (25),1-2,0-0
-?,(Fri) Feb/5 2016 (5),Evian Thonon Gaillard (25),Paris FC (25),1-0,1-0
-?,(Fri) Feb/5 2016 (5),Laval (25),Ajaccio (25),0-0,0-0
-?,(Fri) Feb/5 2016 (5),Nancy (25),Metz (25),2-2,1-1
-?,(Fri) Feb/5 2016 (5),Nimes (25),Niort (25),1-0,0-0
-?,(Fri) Feb/5 2016 (5),Sochaux (25),Red Star (25),1-2,1-0
-?,(Fri) Feb/5 2016 (5),Tours (25),Lens (25),0-1,0-0
-?,(Fri) Feb/5 2016 (5),Valenciennes (25),Creteil (25),2-2,2-1
-?,(Mon) Feb/8 2016 (6),Le Havre (25),Dijon (25),0-2,0-0
-?,(Fri) Feb/12 2016 (6),Ajaccio (26),Clermont (26),3-1,2-0
-?,(Fri) Feb/12 2016 (6),Auxerre (26),Nancy (26),2-2,0-2
-?,(Fri) Feb/12 2016 (6),Bourg Peronnas (26),Laval (26),0-0,0-0
-?,(Fri) Feb/12 2016 (6),Creteil (26),Tours (26),2-2,0-2
-?,(Fri) Feb/12 2016 (6),Dijon (26),Sochaux (26),2-2,0-1
-?,(Fri) Feb/12 2016 (6),Niort (26),Brest (26),1-2,1-1
-?,(Fri) Feb/12 2016 (6),Paris FC (26),Nimes (26),0-0,0-0
-?,(Fri) Feb/12 2016 (6),Red Star (26),Evian Thonon Gaillard (26),2-2,0-0
-?,(Sat) Feb/13 2016 (6),Metz (26),Le Havre (26),0-1,0-0
-?,(Mon) Feb/15 2016 (7),Lens (26),Valenciennes (26),0-1,0-1
-?,(Fri) Feb/19 2016 (7),Auxerre (27),Ajaccio (27),0-0,0-0
-?,(Fri) Feb/19 2016 (7),Brest (27),Red Star (27),0-1,0-0
-?,(Fri) Feb/19 2016 (7),Clermont (27),Niort (27),2-1,0-0
-?,(Fri) Feb/19 2016 (7),Evian Thonon Gaillard (27),Bourg Peronnas (27),1-1,1-1
-?,(Fri) Feb/19 2016 (7),Laval (27),Dijon (27),2-2,0-2
-?,(Fri) Feb/19 2016 (7),Nancy (27),Paris FC (27),3-2,0-1
-?,(Fri) Feb/19 2016 (7),Sochaux (27),Lens (27),0-0,0-0
-?,(Fri) Feb/19 2016 (7),Tours (27),Valenciennes (27),1-0,1-0
-?,(Sat) Feb/20 2016 (7),Le Havre (27),Creteil (27),1-0,1-0
-?,(Mon) Feb/22 2016 (8),Nimes (27),Metz (27),2-1,1-0
-?,(Fri) Feb/26 2016 (8),Ajaccio (28),Nancy (28),2-1,1-1
-?,(Fri) Feb/26 2016 (8),Bourg Peronnas (28),Clermont (28),1-2,1-1
-?,(Fri) Feb/26 2016 (8),Creteil (28),Laval (28),0-0,0-0
-?,(Fri) Feb/26 2016 (8),Dijon (28),Tours (28),3-0,1-0
-?,(Fri) Feb/26 2016 (8),Metz (28),Brest (28),2-2,2-2
-?,(Fri) Feb/26 2016 (8),Niort (28),Le Havre (28),0-0,0-0
-?,(Fri) Feb/26 2016 (8),Paris FC (28),Auxerre (28),2-2,0-1
-?,(Fri) Feb/26 2016 (8),Valenciennes (28),Sochaux (28),2-2,1-1
-?,(Sat) Feb/27 2016 (8),Red Star (28),Nimes (28),1-0,0-0
-?,(Mon) Feb/29 2016 (9),Lens (28),Evian Thonon Gaillard (28),1-0,1-0
-?,(Fri) Mar/4 2016 (9),Ajaccio (29),Paris FC (29),0-0,0-0
-?,(Fri) Mar/4 2016 (9),Auxerre (29),Niort (29),1-1,1-1
-?,(Fri) Mar/4 2016 (9),Brest (29),Creteil (29),2-1,1-1
-?,(Fri) Mar/4 2016 (9),Evian Thonon Gaillard (29),Dijon (29),1-2,0-2
-?,(Fri) Mar/4 2016 (9),Laval (29),Lens (29),1-1,0-1
-?,(Fri) Mar/4 2016 (9),Le Havre (29),Valenciennes (29),3-2,2-1
-?,(Fri) Mar/4 2016 (9),Nimes (29),Bourg Peronnas (29),1-1,1-1
-?,(Sat) Mar/5 2016 (9),Nancy (29),Red Star (29),2-0,1-0
-?,(Sat) Mar/5 2016 (9),Tours (29),Sochaux (29),1-0,0-0
-?,(Mon) Mar/7 2016 (10),Clermont (29),Metz (29),2-1,1-1
-?,(Fri) Mar/11 2016 (10),Bourg Peronnas (30),Nancy (30),2-0,1-0
-?,(Fri) Mar/11 2016 (10),Creteil (30),Evian Thonon Gaillard (30),0-0,0-0
-?,(Fri) Mar/11 2016 (10),Lens (30),Clermont (30),1-1,0-0
-?,(Fri) Mar/11 2016 (10),Metz (30),Ajaccio (30),3-2,1-2
-?,(Fri) Mar/11 2016 (10),Niort (30),Paris FC (30),2-1,0-1
-?,(Fri) Mar/11 2016 (10),Sochaux (30),Le Havre (30),1-0,0-0
-?,(Fri) Mar/11 2016 (10),Tours (30),Laval (30),1-1,0-0
-?,(Fri) Mar/11 2016 (10),Valenciennes (30),Brest (30),0-1,0-0
-?,(Sat) Mar/12 2016 (10),Dijon (30),Nimes (30),0-1,0-1
-?,(Mon) Mar/14 2016 (11),Red Star (30),Auxerre (30),0-2,0-1
-?,(Fri) Mar/18 2016 (11),Ajaccio (31),Niort (31),2-0,0-0
-?,(Fri) Mar/18 2016 (11),Auxerre (31),Bourg Peronnas (31),1-2,0-0
-?,(Fri) Mar/18 2016 (11),Brest (31),Dijon (31),0-0,0-0
-?,(Fri) Mar/18 2016 (11),Evian Thonon Gaillard (31),Sochaux (31),0-0,0-0
-?,(Fri) Mar/18 2016 (11),Laval (31),Valenciennes (31),0-3,0-1
-?,(Fri) Mar/18 2016 (11),Le Havre (31),Tours (31),2-0,2-0
-?,(Fri) Mar/18 2016 (11),Nimes (31),Creteil (31),1-3,0-0
-?,(Fri) Mar/18 2016 (11),Paris FC (31),Metz (31),1-2,0-0
-?,(Sat) Mar/19 2016 (11),Nancy (31),Lens (31),1-0,0-0
-?,(Mon) Mar/21 2016 (12),Clermont (31),Red Star (31),0-2,0-0
-?,(Fri) Apr/1 2016 (13),Bourg Peronnas (32),Ajaccio (32),3-0,0-0
-?,(Fri) Apr/1 2016 (13),Creteil (32),Clermont (32),0-3,0-1
-?,(Fri) Apr/1 2016 (13),Le Havre (32),Laval (32),2-0,0-0
-?,(Fri) Apr/1 2016 (13),Lens (32),Auxerre (32),3-0,1-0
-?,(Fri) Apr/1 2016 (13),Metz (32),Niort (32),2-0,1-0
-?,(Fri) Apr/1 2016 (13),Sochaux (32),Nimes (32),0-0,0-0
-?,(Fri) Apr/1 2016 (13),Tours (32),Brest (32),2-1,0-0
-?,(Fri) Apr/1 2016 (13),Valenciennes (32),Evian Thonon Gaillard (32),1-0,0-0
-?,(Sat) Apr/2 2016 (13),Dijon (32),Nancy (32),0-0,0-0
-?,(Mon) Apr/4 2016 (14),Red Star (32),Paris FC (32),2-4,1-2
-?,(Fri) Apr/8 2016 (14),Ajaccio (33),Red Star (33),1-2,1-0
-?,(Fri) Apr/8 2016 (14),Auxerre (33),Metz (33),4-0,1-0
-?,(Fri) Apr/8 2016 (14),Brest (33),Le Havre (33),0-0,0-0
-?,(Fri) Apr/8 2016 (14),Evian Thonon Gaillard (33),Tours (33),0-0,0-0
-?,(Fri) Apr/8 2016 (14),Laval (33),Sochaux (33),1-2,0-1
-?,(Fri) Apr/8 2016 (14),Nimes (33),Valenciennes (33),2-0,0-0
-?,(Fri) Apr/8 2016 (14),Niort (33),Lens (33),0-1,0-0
-?,(Fri) Apr/8 2016 (14),Paris FC (33),Bourg Peronnas (33),2-0,2-0
-?,(Sat) Apr/9 2016 (14),Clermont (33),Dijon (33),2-3,1-0
-?,(Mon) Apr/11 2016 (15),Nancy (33),Creteil (33),1-0,0-0
-?,(Fri) Apr/15 2016 (15),Bourg Peronnas (34),Metz (34),0-3,0-2
-?,(Fri) Apr/15 2016 (15),Creteil (34),Auxerre (34),1-0,1-0
-?,(Fri) Apr/15 2016 (15),Laval (34),Evian Thonon Gaillard (34),2-1,0-0
-?,(Fri) Apr/15 2016 (15),Lens (34),Ajaccio (34),2-0,0-0
-?,(Fri) Apr/15 2016 (15),Red Star (34),Niort (34),0-2,0-1
-?,(Fri) Apr/15 2016 (15),Sochaux (34),Brest (34),2-1,2-1
-?,(Fri) Apr/15 2016 (15),Tours (34),Nimes (34),1-2,1-1
-?,(Fri) Apr/15 2016 (15),Valenciennes (34),Clermont (34),1-2,1-1
-?,(Sat) Apr/16 2016 (15),Le Havre (34),Nancy (34),1-3,1-0
-?,(Mon) Apr/18 2016 (16),Dijon (34),Paris FC (34),3-0,0-0
-?,(Fri) Apr/22 2016 (16),Ajaccio (35),Valenciennes (35),1-1,0-1
-?,(Fri) Apr/22 2016 (16),Brest (35),Laval (35),0-0,0-0
-?,(Fri) Apr/22 2016 (16),Clermont (35),Tours (35),0-1,0-1
-?,(Fri) Apr/22 2016 (16),Evian Thonon Gaillard (35),Le Havre (35),1-1,1-0
-?,(Fri) Apr/22 2016 (16),Metz (35),Red Star (35),2-0,0-0
-?,(Fri) Apr/22 2016 (16),Nimes (35),Lens (35),4-2,1-0
-?,(Fri) Apr/22 2016 (16),Niort (35),Bourg Peronnas (35),0-0,0-0
-?,(Fri) Apr/22 2016 (16),Paris FC (35),Creteil (35),2-2,1-1
-?,(Sat) Apr/23 2016 (16),Auxerre (35),Dijon (35),2-0,1-0
-?,(Mon) Apr/25 2016 (17),Nancy (35),Sochaux (35),1-0,1-0
-?,(Fri) Apr/29 2016 (17),Brest (36),Evian Thonon Gaillard (36),0-2,0-1
-?,(Fri) Apr/29 2016 (17),Creteil (36),Ajaccio (36),2-2,2-1
-?,(Fri) Apr/29 2016 (17),Laval (36),Clermont (36),1-1,1-0
-?,(Fri) Apr/29 2016 (17),Le Havre (36),Nimes (36),3-1,2-0
-?,(Fri) Apr/29 2016 (17),Lens (36),Paris FC (36),0-1,0-1
-?,(Fri) Apr/29 2016 (17),Red Star (36),Bourg Peronnas (36),1-0,0-0
-?,(Fri) Apr/29 2016 (17),Sochaux (36),Auxerre (36),2-3,1-0
-?,(Fri) Apr/29 2016 (17),Tours (36),Niort (36),1-2,1-0
-?,(Sun) May/1 2016 (17),Dijon (36),Metz (36),0-4,0-1
-?,(Mon) May/2 2016 (18),Valenciennes (36),Nancy (36),1-0,1-0
-?,(Fri) May/6 2016 (18),Ajaccio (37),Sochaux (37),0-2,0-1
-?,(Fri) May/6 2016 (18),Auxerre (37),Le Havre (37),1-3,1-1
-?,(Fri) May/6 2016 (18),Bourg Peronnas (37),Lens (37),2-1,1-0
-?,(Fri) May/6 2016 (18),Clermont (37),Brest (37),2-0,0-0
-?,(Fri) May/6 2016 (18),Metz (37),Tours (37),2-1,1-1
-?,(Fri) May/6 2016 (18),Nancy (37),Evian Thonon Gaillard (37),1-0,0-0
-?,(Fri) May/6 2016 (18),Nimes (37),Laval (37),1-1,0-1
-?,(Fri) May/6 2016 (18),Niort (37),Creteil (37),4-2,3-2
-?,(Fri) May/6 2016 (18),Paris FC (37),Valenciennes (37),1-4,1-0
-?,(Fri) May/6 2016 (18),Red Star (37),Dijon (37),3-2,2-1
-?,(Fri) May/13 2016 (19),Brest (38),Auxerre (38),0-0,0-0
-?,(Fri) May/13 2016 (19),Creteil (38),Red Star (38),2-4,1-3
-?,(Fri) May/13 2016 (19),Dijon (38),Ajaccio (38),2-0,1-0
-?,(Fri) May/13 2016 (19),Evian Thonon Gaillard (38),Nimes (38),4-1,1-1
-?,(Fri) May/13 2016 (19),Laval (38),Paris FC (38),3-1,1-0
-?,(Fri) May/13 2016 (19),Le Havre (38),Bourg Peronnas (38),5-0,3-0
-?,(Fri) May/13 2016 (19),Lens (38),Metz (38),1-0,1-0
-?,(Fri) May/13 2016 (19),Sochaux (38),Clermont (38),2-0,1-0
-?,(Fri) May/13 2016 (19),Tours (38),Nancy (38),2-5,1-3
-?,(Fri) May/13 2016 (19),Valenciennes (38),Niort (38),3-3,2-2
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 31 Jul 2015 (30),Ajaccio (1),0-0,0-0,Dijon (1)
+?,(Fri) 31 Jul 2015 (30),Auxerre (1),0-0,0-0,Brest (1)
+?,(Fri) 31 Jul 2015 (30),Bourg Peronnas (1),1-3,1-1,Le Havre (1)
+?,(Fri) 31 Jul 2015 (30),Clermont (1),0-0,0-0,Sochaux (1)
+?,(Fri) 31 Jul 2015 (30),Nimes (1),0-0,0-0,Evian Thonon Gaillard (1)
+?,(Fri) 31 Jul 2015 (30),Niort (1),0-1,0-1,Valenciennes (1)
+?,(Fri) 31 Jul 2015 (30),Paris FC (1),1-1,0-0,Laval (1)
+?,(Fri) 31 Jul 2015 (30),Red Star (1),0-1,0-0,Creteil (1)
+?,(Sat) 1 Aug 2015 (30),Metz (1),0-0,0-0,Lens (1)
+?,(Mon) 3 Aug 2015 (31),Nancy (1),0-0,0-0,Tours (1)
+?,(Fri) 7 Aug 2015 (31),Brest (2),2-0,1-0,Nimes (2)
+?,(Fri) 7 Aug 2015 (31),Creteil (2),2-1,1-0,Bourg Peronnas (2)
+?,(Fri) 7 Aug 2015 (31),Dijon (2),3-0,1-0,Niort (2)
+?,(Fri) 7 Aug 2015 (31),Evian Thonon Gaillard (2),2-2,1-1,Clermont (2)
+?,(Fri) 7 Aug 2015 (31),Laval (2),0-1,0-0,Nancy (2)
+?,(Fri) 7 Aug 2015 (31),Le Havre (2),1-0,0-0,Ajaccio (2)
+?,(Fri) 7 Aug 2015 (31),Sochaux (2),0-1,0-1,Metz (2)
+?,(Fri) 7 Aug 2015 (31),Tours (2),0-0,0-0,Paris FC (2)
+?,(Fri) 7 Aug 2015 (31),Valenciennes (2),0-0,0-0,Auxerre (2)
+?,(Sat) 8 Aug 2015 (31),Lens (2),1-1,0-1,Red Star (2)
+?,(Fri) 14 Aug 2015 (32),Ajaccio (3),1-1,1-1,Evian Thonon Gaillard (3)
+?,(Fri) 14 Aug 2015 (32),Auxerre (3),2-3,0-0,Laval (3)
+?,(Fri) 14 Aug 2015 (32),Bourg Peronnas (3),2-1,1-0,Dijon (3)
+?,(Fri) 14 Aug 2015 (32),Clermont (3),1-0,0-0,Nimes (3)
+?,(Fri) 14 Aug 2015 (32),Lens (3),1-1,1-0,Creteil (3)
+?,(Fri) 14 Aug 2015 (32),Niort (3),1-1,0-1,Sochaux (3)
+?,(Fri) 14 Aug 2015 (32),Paris FC (3),3-0,1-0,Le Havre (3)
+?,(Fri) 14 Aug 2015 (32),Red Star (3),1-1,1-0,Tours (3)
+?,(Sat) 15 Aug 2015 (32),Nancy (3),3-0,3-0,Brest (3)
+?,(Mon) 17 Aug 2015 (33),Metz (3),2-0,0-0,Valenciennes (3)
+?,(Fri) 21 Aug 2015 (33),Brest (4),1-0,0-0,Ajaccio (4)
+?,(Fri) 21 Aug 2015 (33),Creteil (4),1-2,1-0,Metz (4)
+?,(Fri) 21 Aug 2015 (33),Dijon (4),2-0,1-0,Lens (4)
+?,(Fri) 21 Aug 2015 (33),Evian Thonon Gaillard (4),0-0,0-0,Niort (4)
+?,(Fri) 21 Aug 2015 (33),Laval (4),2-1,0-1,Red Star (4)
+?,(Fri) 21 Aug 2015 (33),Le Havre (4),0-1,0-1,Clermont (4)
+?,(Fri) 21 Aug 2015 (33),Sochaux (4),1-1,0-0,Paris FC (4)
+?,(Fri) 21 Aug 2015 (33),Tours (4),3-1,1-0,Auxerre (4)
+?,(Fri) 21 Aug 2015 (33),Valenciennes (4),1-1,1-1,Bourg Peronnas (4)
+?,(Sat) 22 Aug 2015 (33),Nimes (4),2-2,1-1,Nancy (4)
+?,(Fri) 28 Aug 2015 (34),Ajaccio (5),1-2,1-0,Tours (5)
+?,(Fri) 28 Aug 2015 (34),Auxerre (5),1-0,1-0,Nimes (5)
+?,(Fri) 28 Aug 2015 (34),Bourg Peronnas (5),2-1,1-1,Sochaux (5)
+?,(Fri) 28 Aug 2015 (34),Clermont (5),1-2,0-0,Nancy (5)
+?,(Fri) 28 Aug 2015 (34),Dijon (5),4-1,2-0,Creteil (5)
+?,(Fri) 28 Aug 2015 (34),Niort (5),0-1,0-0,Laval (5)
+?,(Fri) 28 Aug 2015 (34),Paris FC (5),1-1,0-1,Brest (5)
+?,(Fri) 28 Aug 2015 (34),Red Star (5),1-5,0-1,Valenciennes (5)
+?,(Sat) 29 Aug 2015 (34),Metz (5),2-1,1-0,Evian Thonon Gaillard (5)
+?,(Mon) 31 Aug 2015 (35),Lens (5),0-4,0-3,Le Havre (5)
+?,(Fri) 11 Sep 2015 (36),Clermont (6),1-1,0-1,Paris FC (6)
+?,(Fri) 11 Sep 2015 (36),Evian Thonon Gaillard (6),4-0,1-0,Auxerre (6)
+?,(Fri) 11 Sep 2015 (36),Laval (6),0-1,0-0,Metz (6)
+?,(Fri) 11 Sep 2015 (36),Le Havre (6),0-2,0-1,Red Star (6)
+?,(Fri) 11 Sep 2015 (36),Nancy (6),1-1,0-0,Niort (6)
+?,(Fri) 11 Sep 2015 (36),Nimes (6),0-0,0-0,Ajaccio (6)
+?,(Fri) 11 Sep 2015 (36),Sochaux (6),0-3,0-2,Creteil (6)
+?,(Fri) 11 Sep 2015 (36),Tours (6),0-1,0-0,Bourg Peronnas (6)
+?,(Sat) 12 Sep 2015 (36),Valenciennes (6),1-3,0-2,Dijon (6)
+?,(Mon) 14 Sep 2015 (37),Brest (6),2-1,1-0,Lens (6)
+?,(Fri) 18 Sep 2015 (37),Ajaccio (7),0-0,0-0,Laval (7)
+?,(Fri) 18 Sep 2015 (37),Auxerre (7),1-0,0-0,Clermont (7)
+?,(Fri) 18 Sep 2015 (37),Bourg Peronnas (7),3-1,1-0,Brest (7)
+?,(Fri) 18 Sep 2015 (37),Creteil (7),0-1,0-0,Valenciennes (7)
+?,(Fri) 18 Sep 2015 (37),Dijon (7),2-1,0-1,Le Havre (7)
+?,(Fri) 18 Sep 2015 (37),Lens (7),1-1,1-0,Tours (7)
+?,(Fri) 18 Sep 2015 (37),Metz (7),0-0,0-0,Nancy (7)
+?,(Fri) 18 Sep 2015 (37),Niort (7),1-0,0-0,Nimes (7)
+?,(Fri) 18 Sep 2015 (37),Red Star (7),0-0,0-0,Sochaux (7)
+?,(Sat) 19 Sep 2015 (37),Paris FC (7),0-0,0-0,Evian Thonon Gaillard (7)
+?,(Mon) 21 Sep 2015 (38),Valenciennes (8),0-1,0-1,Lens (8)
+?,(Tue) 22 Sep 2015 (38),Brest (8),1-1,1-1,Niort (8)
+?,(Tue) 22 Sep 2015 (38),Clermont (8),2-1,2-0,Ajaccio (8)
+?,(Tue) 22 Sep 2015 (38),Evian Thonon Gaillard (8),0-1,0-0,Red Star (8)
+?,(Tue) 22 Sep 2015 (38),Laval (8),1-3,0-2,Bourg Peronnas (8)
+?,(Tue) 22 Sep 2015 (38),Le Havre (8),1-1,1-1,Metz (8)
+?,(Tue) 22 Sep 2015 (38),Nancy (8),0-1,0-0,Auxerre (8)
+?,(Tue) 22 Sep 2015 (38),Nimes (8),1-1,0-1,Paris FC (8)
+?,(Tue) 22 Sep 2015 (38),Sochaux (8),0-1,0-0,Dijon (8)
+?,(Tue) 22 Sep 2015 (38),Tours (8),1-2,0-1,Creteil (8)
+?,(Fri) 25 Sep 2015 (38),Ajaccio (9),1-0,1-0,Auxerre (9)
+?,(Fri) 25 Sep 2015 (38),Bourg Peronnas (9),0-2,0-0,Evian Thonon Gaillard (9)
+?,(Fri) 25 Sep 2015 (38),Creteil (9),2-1,1-0,Le Havre (9)
+?,(Fri) 25 Sep 2015 (38),Lens (9),1-0,0-0,Sochaux (9)
+?,(Fri) 25 Sep 2015 (38),Metz (9),1-2,1-0,Nimes (9)
+?,(Fri) 25 Sep 2015 (38),Niort (9),1-1,0-0,Clermont (9)
+?,(Fri) 25 Sep 2015 (38),Red Star (9),1-0,0-0,Brest (9)
+?,(Fri) 25 Sep 2015 (38),Valenciennes (9),0-0,0-0,Tours (9)
+?,(Sat) 26 Sep 2015 (38),Dijon (9),2-0,2-0,Laval (9)
+?,(Mon) 28 Sep 2015 (39),Paris FC (9),1-1,1-0,Nancy (9)
+?,(Fri) 2 Oct 2015 (39),Auxerre (10),2-0,1-0,Paris FC (10)
+?,(Fri) 2 Oct 2015 (39),Clermont (10),3-2,1-0,Bourg Peronnas (10)
+?,(Fri) 2 Oct 2015 (39),Evian Thonon Gaillard (10),2-1,2-0,Lens (10)
+?,(Fri) 2 Oct 2015 (39),Laval (10),3-2,2-0,Creteil (10)
+?,(Fri) 2 Oct 2015 (39),Le Havre (10),0-0,0-0,Niort (10)
+?,(Fri) 2 Oct 2015 (39),Nancy (10),3-0,1-0,Ajaccio (10)
+?,(Fri) 2 Oct 2015 (39),Nimes (10),1-1,0-0,Red Star (10)
+?,(Fri) 2 Oct 2015 (39),Sochaux (10),1-0,0-0,Valenciennes (10)
+?,(Sat) 3 Oct 2015 (39),Brest (10),1-1,1-0,Metz (10)
+?,(Mon) 5 Oct 2015 (40),Tours (10),1-0,0-0,Dijon (10)
+?,(Fri) 16 Oct 2015 (41),Bourg Peronnas (11),4-2,1-0,Nimes (11)
+?,(Fri) 16 Oct 2015 (41),Creteil (11),0-2,0-1,Brest (11)
+?,(Fri) 16 Oct 2015 (41),Metz (11),2-2,0-2,Clermont (11)
+?,(Fri) 16 Oct 2015 (41),Niort (11),2-3,1-3,Auxerre (11)
+?,(Fri) 16 Oct 2015 (41),Paris FC (11),0-0,0-0,Ajaccio (11)
+?,(Fri) 16 Oct 2015 (41),Red Star (11),0-1,0-1,Nancy (11)
+?,(Fri) 16 Oct 2015 (41),Sochaux (11),0-0,0-0,Tours (11)
+?,(Fri) 16 Oct 2015 (41),Valenciennes (11),0-1,0-1,Le Havre (11)
+?,(Sat) 17 Oct 2015 (41),Dijon (11),1-3,1-1,Evian Thonon Gaillard (11)
+?,(Mon) 19 Oct 2015 (42),Lens (11),1-1,0-1,Laval (11)
+?,(Fri) 23 Oct 2015 (42),Ajaccio (12),0-1,0-0,Metz (12)
+?,(Fri) 23 Oct 2015 (42),Auxerre (12),0-1,0-1,Red Star (12)
+?,(Fri) 23 Oct 2015 (42),Brest (12),1-2,0-2,Valenciennes (12)
+?,(Fri) 23 Oct 2015 (42),Evian Thonon Gaillard (12),1-2,1-1,Creteil (12)
+?,(Fri) 23 Oct 2015 (42),Laval (12),1-1,1-0,Tours (12)
+?,(Fri) 23 Oct 2015 (42),Le Havre (12),2-1,1-1,Sochaux (12)
+?,(Fri) 23 Oct 2015 (42),Nancy (12),3-1,1-1,Bourg Peronnas (12)
+?,(Fri) 23 Oct 2015 (42),Paris FC (12),1-1,0-0,Niort (12)
+?,(Sat) 24 Oct 2015 (42),Nimes (12),1-1,1-1,Dijon (12)
+?,(Mon) 26 Oct 2015 (43),Clermont (12),2-2,0-1,Lens (12)
+?,(Fri) 30 Oct 2015 (43),Creteil (13),1-2,0-0,Nimes (13)
+?,(Fri) 30 Oct 2015 (43),Metz (13),2-1,2-1,Paris FC (13)
+?,(Fri) 30 Oct 2015 (43),Niort (13),3-1,1-1,Ajaccio (13)
+?,(Fri) 30 Oct 2015 (43),Red Star (13),2-1,0-0,Clermont (13)
+?,(Fri) 30 Oct 2015 (43),Sochaux (13),1-0,1-0,Evian Thonon Gaillard (13)
+?,(Fri) 30 Oct 2015 (43),Tours (13),0-1,0-1,Le Havre (13)
+?,(Fri) 30 Oct 2015 (43),Valenciennes (13),0-0,0-0,Laval (13)
+?,(Sat) 31 Oct 2015 (43),Bourg Peronnas (13),1-1,1-0,Auxerre (13)
+?,(Sat) 31 Oct 2015 (43),Dijon (13),3-1,0-1,Brest (13)
+?,(Mon) 2 Nov 2015 (44),Lens (13),1-0,0-0,Nancy (13)
+?,(Fri) 6 Nov 2015 (44),Ajaccio (14),2-0,2-0,Bourg Peronnas (14)
+?,(Fri) 6 Nov 2015 (44),Auxerre (14),1-2,0-0,Lens (14)
+?,(Fri) 6 Nov 2015 (44),Brest (14),3-0,1-0,Tours (14)
+?,(Fri) 6 Nov 2015 (44),Clermont (14),1-0,0-0,Creteil (14)
+?,(Fri) 6 Nov 2015 (44),Evian Thonon Gaillard (14),4-0,2-0,Valenciennes (14)
+?,(Fri) 6 Nov 2015 (44),Laval (14),0-1,0-0,Le Havre (14)
+?,(Fri) 6 Nov 2015 (44),Nimes (14),0-2,0-0,Sochaux (14)
+?,(Fri) 6 Nov 2015 (44),Niort (14),1-1,0-1,Metz (14)
+?,(Sat) 7 Nov 2015 (44),Paris FC (14),0-1,0-0,Red Star (14)
+?,(Mon) 9 Nov 2015 (45),Nancy (14),3-1,2-0,Dijon (14)
+?,(Fri) 20 Nov 2015 (46),Creteil (15),0-3,0-1,Nancy (15)
+?,(Fri) 20 Nov 2015 (46),Dijon (15),4-1,4-0,Clermont (15)
+?,(Fri) 20 Nov 2015 (46),Tours (15),2-1,1-0,Evian Thonon Gaillard (15)
+?,(Sat) 21 Nov 2015 (46),Metz (15),0-1,0-1,Auxerre (15)
+?,(Mon) 23 Nov 2015 (47),Le Havre (15),0-0,0-0,Brest (15)
+?,(Tue) 24 Nov 2015 (47),Bourg Peronnas (15),4-1,2-0,Paris FC (15)
+?,(Tue) 24 Nov 2015 (47),Lens (15),1-1,0-1,Niort (15)
+?,(Tue) 24 Nov 2015 (47),Red Star (15),1-1,0-1,Ajaccio (15)
+?,(Tue) 24 Nov 2015 (47),Sochaux (15),0-0,0-0,Laval (15)
+?,(Tue) 24 Nov 2015 (47),Valenciennes (15),2-2,0-1,Nimes (15)
+?,(Fri) 27 Nov 2015 (47),Ajaccio (16),1-1,0-0,Lens (16)
+?,(Fri) 27 Nov 2015 (47),Auxerre (16),3-1,1-1,Creteil (16)
+?,(Fri) 27 Nov 2015 (47),Brest (16),1-0,1-0,Sochaux (16)
+?,(Fri) 27 Nov 2015 (47),Clermont (16),2-0,2-0,Valenciennes (16)
+?,(Fri) 27 Nov 2015 (47),Evian Thonon Gaillard (16),0-0,0-0,Laval (16)
+?,(Fri) 27 Nov 2015 (47),Metz (16),5-0,2-0,Bourg Peronnas (16)
+?,(Fri) 27 Nov 2015 (47),Nimes (16),2-1,0-1,Tours (16)
+?,(Fri) 27 Nov 2015 (47),Niort (16),0-0,0-0,Red Star (16)
+?,(Fri) 27 Nov 2015 (47),Paris FC (16),0-3,0-2,Dijon (16)
+?,(Sat) 28 Nov 2015 (47),Nancy (16),3-1,1-1,Le Havre (16)
+?,(Mon) 30 Nov 2015 (48),Lens (17),1-0,0-0,Nimes (17)
+?,(Tue) 1 Dec 2015 (48),Bourg Peronnas (17),2-1,1-0,Niort (17)
+?,(Tue) 1 Dec 2015 (48),Creteil (17),0-0,0-0,Paris FC (17)
+?,(Tue) 1 Dec 2015 (48),Dijon (17),0-0,0-0,Auxerre (17)
+?,(Tue) 1 Dec 2015 (48),Laval (17),2-0,1-0,Brest (17)
+?,(Tue) 1 Dec 2015 (48),Le Havre (17),3-2,1-1,Evian Thonon Gaillard (17)
+?,(Tue) 1 Dec 2015 (48),Red Star (17),3-1,0-0,Metz (17)
+?,(Tue) 1 Dec 2015 (48),Sochaux (17),2-2,0-1,Nancy (17)
+?,(Tue) 1 Dec 2015 (48),Tours (17),1-1,0-1,Clermont (17)
+?,(Tue) 1 Dec 2015 (48),Valenciennes (17),1-1,0-1,Ajaccio (17)
+?,(Fri) 11 Dec 2015 (49),Ajaccio (18),3-0,1-0,Creteil (18)
+?,(Fri) 11 Dec 2015 (49),Auxerre (18),2-1,0-1,Sochaux (18)
+?,(Fri) 11 Dec 2015 (49),Bourg Peronnas (18),0-1,0-0,Red Star (18)
+?,(Fri) 11 Dec 2015 (49),Clermont (18),4-1,1-0,Laval (18)
+?,(Fri) 11 Dec 2015 (49),Evian Thonon Gaillard (18),0-2,0-1,Brest (18)
+?,(Fri) 11 Dec 2015 (49),Nimes (18),2-2,0-1,Le Havre (18)
+?,(Fri) 11 Dec 2015 (49),Niort (18),0-0,0-0,Tours (18)
+?,(Fri) 11 Dec 2015 (49),Paris FC (18),0-1,0-1,Lens (18)
+?,(Sat) 12 Dec 2015 (49),Metz (18),1-2,0-1,Dijon (18)
+?,(Mon) 14 Dec 2015 (50),Nancy (18),1-0,0-0,Valenciennes (18)
+?,(Thu) 17 Dec 2015 (50),Evian Thonon Gaillard (19),0-1,0-0,Nancy (19)
+?,(Fri) 18 Dec 2015 (50),Brest (19),1-2,1-0,Clermont (19)
+?,(Fri) 18 Dec 2015 (50),Creteil (19),2-3,1-1,Niort (19)
+?,(Fri) 18 Dec 2015 (50),Dijon (19),0-0,0-0,Red Star (19)
+?,(Fri) 18 Dec 2015 (50),Laval (19),3-2,1-1,Nimes (19)
+?,(Fri) 18 Dec 2015 (50),Le Havre (19),1-0,0-0,Auxerre (19)
+?,(Fri) 18 Dec 2015 (50),Sochaux (19),3-0,0-0,Ajaccio (19)
+?,(Fri) 18 Dec 2015 (50),Valenciennes (19),1-1,1-1,Paris FC (19)
+?,(Sat) 19 Dec 2015 (50),Lens (19),2-0,2-0,Bourg Peronnas (19)
+?,(Sat) 19 Dec 2015 (50),Tours (19),2-0,1-0,Metz (19)
+?,(Fri) 8 Jan 2016 (1),Ajaccio (20),1-1,1-0,Le Havre (20)
+?,(Fri) 8 Jan 2016 (1),Auxerre (20),1-1,0-0,Valenciennes (20)
+?,(Fri) 8 Jan 2016 (1),Bourg Peronnas (20),5-1,1-1,Creteil (20)
+?,(Fri) 8 Jan 2016 (1),Clermont (20),4-1,4-0,Evian Thonon Gaillard (20)
+?,(Fri) 8 Jan 2016 (1),Nancy (20),1-0,1-0,Laval (20)
+?,(Fri) 8 Jan 2016 (1),Nimes (20),2-0,0-0,Brest (20)
+?,(Fri) 8 Jan 2016 (1),Niort (20),2-2,1-1,Dijon (20)
+?,(Fri) 8 Jan 2016 (1),Paris FC (20),1-3,0-1,Tours (20)
+?,(Sat) 9 Jan 2016 (1),Red Star (20),1-2,0-0,Lens (20)
+?,(Mon) 11 Jan 2016 (2),Metz (20),1-0,0-0,Sochaux (20)
+?,(Fri) 15 Jan 2016 (2),Creteil (21),1-1,0-0,Lens (21)
+?,(Fri) 15 Jan 2016 (2),Dijon (21),3-0,2-0,Bourg Peronnas (21)
+?,(Fri) 15 Jan 2016 (2),Evian Thonon Gaillard (21),0-2,0-1,Ajaccio (21)
+?,(Fri) 15 Jan 2016 (2),Laval (21),4-1,0-1,Auxerre (21)
+?,(Fri) 15 Jan 2016 (2),Le Havre (21),2-1,1-0,Paris FC (21)
+?,(Fri) 15 Jan 2016 (2),Nimes (21),6-2,3-2,Clermont (21)
+?,(Fri) 15 Jan 2016 (2),Sochaux (21),2-3,2-1,Niort (21)
+?,(Fri) 15 Jan 2016 (2),Tours (21),0-0,0-0,Red Star (21)
+?,(Sat) 16 Jan 2016 (2),Brest (21),1-1,1-0,Nancy (21)
+?,(Mon) 18 Jan 2016 (3),Valenciennes (21),2-1,1-1,Metz (21)
+?,(Fri) 22 Jan 2016 (3),Auxerre (22),2-1,1-0,Tours (22)
+?,(Fri) 22 Jan 2016 (3),Bourg Peronnas (22),0-0,0-0,Valenciennes (22)
+?,(Fri) 22 Jan 2016 (3),Metz (22),2-1,0-1,Creteil (22)
+?,(Fri) 22 Jan 2016 (3),Nancy (22),3-4,2-2,Nimes (22)
+?,(Fri) 22 Jan 2016 (3),Paris FC (22),0-0,0-0,Sochaux (22)
+?,(Sat) 23 Jan 2016 (3),Lens (22),1-1,1-1,Dijon (22)
+?,(Sat) 23 Jan 2016 (3),Niort (22),0-3,0-1,Evian Thonon Gaillard (22)
+?,(Sat) 23 Jan 2016 (3),Red Star (22),2-0,1-0,Laval (22)
+?,(Mon) 25 Jan 2016 (4),Ajaccio (22),2-1,1-1,Brest (22)
+?,(Mon) 25 Jan 2016 (4),Clermont (22),2-1,0-0,Le Havre (22)
+?,(Fri) 29 Jan 2016 (4),Brest (23),1-0,1-0,Paris FC (23)
+?,(Fri) 29 Jan 2016 (4),Creteil (23),0-1,0-0,Dijon (23)
+?,(Fri) 29 Jan 2016 (4),Evian Thonon Gaillard (23),0-1,0-1,Metz (23)
+?,(Fri) 29 Jan 2016 (4),Laval (23),0-0,0-0,Niort (23)
+?,(Fri) 29 Jan 2016 (4),Nancy (23),3-1,0-0,Clermont (23)
+?,(Fri) 29 Jan 2016 (4),Nimes (23),2-1,1-0,Auxerre (23)
+?,(Fri) 29 Jan 2016 (4),Sochaux (23),1-1,1-1,Bourg Peronnas (23)
+?,(Fri) 29 Jan 2016 (4),Tours (23),1-1,0-1,Ajaccio (23)
+?,(Fri) 29 Jan 2016 (4),Valenciennes (23),0-0,0-0,Red Star (23)
+?,(Sat) 30 Jan 2016 (4),Le Havre (23),2-0,1-0,Lens (23)
+?,(Mon) 1 Feb 2016 (5),Paris FC (24),0-0,0-0,Clermont (24)
+?,(Tue) 2 Feb 2016 (5),Ajaccio (24),2-0,1-0,Nimes (24)
+?,(Tue) 2 Feb 2016 (5),Auxerre (24),3-1,2-0,Evian Thonon Gaillard (24)
+?,(Tue) 2 Feb 2016 (5),Bourg Peronnas (24),0-2,0-1,Tours (24)
+?,(Tue) 2 Feb 2016 (5),Creteil (24),1-1,0-0,Sochaux (24)
+?,(Tue) 2 Feb 2016 (5),Dijon (24),1-0,1-0,Valenciennes (24)
+?,(Tue) 2 Feb 2016 (5),Lens (24),2-0,1-0,Brest (24)
+?,(Tue) 2 Feb 2016 (5),Metz (24),1-0,1-0,Laval (24)
+?,(Tue) 2 Feb 2016 (5),Niort (24),0-0,0-0,Nancy (24)
+?,(Tue) 2 Feb 2016 (5),Red Star (24),2-1,1-0,Le Havre (24)
+?,(Fri) 5 Feb 2016 (5),Brest (25),2-1,1-0,Bourg Peronnas (25)
+?,(Fri) 5 Feb 2016 (5),Clermont (25),1-2,0-0,Auxerre (25)
+?,(Fri) 5 Feb 2016 (5),Evian Thonon Gaillard (25),1-0,1-0,Paris FC (25)
+?,(Fri) 5 Feb 2016 (5),Laval (25),0-0,0-0,Ajaccio (25)
+?,(Fri) 5 Feb 2016 (5),Nancy (25),2-2,1-1,Metz (25)
+?,(Fri) 5 Feb 2016 (5),Nimes (25),1-0,0-0,Niort (25)
+?,(Fri) 5 Feb 2016 (5),Sochaux (25),1-2,1-0,Red Star (25)
+?,(Fri) 5 Feb 2016 (5),Tours (25),0-1,0-0,Lens (25)
+?,(Fri) 5 Feb 2016 (5),Valenciennes (25),2-2,2-1,Creteil (25)
+?,(Mon) 8 Feb 2016 (6),Le Havre (25),0-2,0-0,Dijon (25)
+?,(Fri) 12 Feb 2016 (6),Ajaccio (26),3-1,2-0,Clermont (26)
+?,(Fri) 12 Feb 2016 (6),Auxerre (26),2-2,0-2,Nancy (26)
+?,(Fri) 12 Feb 2016 (6),Bourg Peronnas (26),0-0,0-0,Laval (26)
+?,(Fri) 12 Feb 2016 (6),Creteil (26),2-2,0-2,Tours (26)
+?,(Fri) 12 Feb 2016 (6),Dijon (26),2-2,0-1,Sochaux (26)
+?,(Fri) 12 Feb 2016 (6),Niort (26),1-2,1-1,Brest (26)
+?,(Fri) 12 Feb 2016 (6),Paris FC (26),0-0,0-0,Nimes (26)
+?,(Fri) 12 Feb 2016 (6),Red Star (26),2-2,0-0,Evian Thonon Gaillard (26)
+?,(Sat) 13 Feb 2016 (6),Metz (26),0-1,0-0,Le Havre (26)
+?,(Mon) 15 Feb 2016 (7),Lens (26),0-1,0-1,Valenciennes (26)
+?,(Fri) 19 Feb 2016 (7),Auxerre (27),0-0,0-0,Ajaccio (27)
+?,(Fri) 19 Feb 2016 (7),Brest (27),0-1,0-0,Red Star (27)
+?,(Fri) 19 Feb 2016 (7),Clermont (27),2-1,0-0,Niort (27)
+?,(Fri) 19 Feb 2016 (7),Evian Thonon Gaillard (27),1-1,1-1,Bourg Peronnas (27)
+?,(Fri) 19 Feb 2016 (7),Laval (27),2-2,0-2,Dijon (27)
+?,(Fri) 19 Feb 2016 (7),Nancy (27),3-2,0-1,Paris FC (27)
+?,(Fri) 19 Feb 2016 (7),Sochaux (27),0-0,0-0,Lens (27)
+?,(Fri) 19 Feb 2016 (7),Tours (27),1-0,1-0,Valenciennes (27)
+?,(Sat) 20 Feb 2016 (7),Le Havre (27),1-0,1-0,Creteil (27)
+?,(Mon) 22 Feb 2016 (8),Nimes (27),2-1,1-0,Metz (27)
+?,(Fri) 26 Feb 2016 (8),Ajaccio (28),2-1,1-1,Nancy (28)
+?,(Fri) 26 Feb 2016 (8),Bourg Peronnas (28),1-2,1-1,Clermont (28)
+?,(Fri) 26 Feb 2016 (8),Creteil (28),0-0,0-0,Laval (28)
+?,(Fri) 26 Feb 2016 (8),Dijon (28),3-0,1-0,Tours (28)
+?,(Fri) 26 Feb 2016 (8),Metz (28),2-2,2-2,Brest (28)
+?,(Fri) 26 Feb 2016 (8),Niort (28),0-0,0-0,Le Havre (28)
+?,(Fri) 26 Feb 2016 (8),Paris FC (28),2-2,0-1,Auxerre (28)
+?,(Fri) 26 Feb 2016 (8),Valenciennes (28),2-2,1-1,Sochaux (28)
+?,(Sat) 27 Feb 2016 (8),Red Star (28),1-0,0-0,Nimes (28)
+?,(Mon) 29 Feb 2016 (9),Lens (28),1-0,1-0,Evian Thonon Gaillard (28)
+?,(Fri) 4 Mar 2016 (9),Ajaccio (29),0-0,0-0,Paris FC (29)
+?,(Fri) 4 Mar 2016 (9),Auxerre (29),1-1,1-1,Niort (29)
+?,(Fri) 4 Mar 2016 (9),Brest (29),2-1,1-1,Creteil (29)
+?,(Fri) 4 Mar 2016 (9),Evian Thonon Gaillard (29),1-2,0-2,Dijon (29)
+?,(Fri) 4 Mar 2016 (9),Laval (29),1-1,0-1,Lens (29)
+?,(Fri) 4 Mar 2016 (9),Le Havre (29),3-2,2-1,Valenciennes (29)
+?,(Fri) 4 Mar 2016 (9),Nimes (29),1-1,1-1,Bourg Peronnas (29)
+?,(Sat) 5 Mar 2016 (9),Nancy (29),2-0,1-0,Red Star (29)
+?,(Sat) 5 Mar 2016 (9),Tours (29),1-0,0-0,Sochaux (29)
+?,(Mon) 7 Mar 2016 (10),Clermont (29),2-1,1-1,Metz (29)
+?,(Fri) 11 Mar 2016 (10),Bourg Peronnas (30),2-0,1-0,Nancy (30)
+?,(Fri) 11 Mar 2016 (10),Creteil (30),0-0,0-0,Evian Thonon Gaillard (30)
+?,(Fri) 11 Mar 2016 (10),Lens (30),1-1,0-0,Clermont (30)
+?,(Fri) 11 Mar 2016 (10),Metz (30),3-2,1-2,Ajaccio (30)
+?,(Fri) 11 Mar 2016 (10),Niort (30),2-1,0-1,Paris FC (30)
+?,(Fri) 11 Mar 2016 (10),Sochaux (30),1-0,0-0,Le Havre (30)
+?,(Fri) 11 Mar 2016 (10),Tours (30),1-1,0-0,Laval (30)
+?,(Fri) 11 Mar 2016 (10),Valenciennes (30),0-1,0-0,Brest (30)
+?,(Sat) 12 Mar 2016 (10),Dijon (30),0-1,0-1,Nimes (30)
+?,(Mon) 14 Mar 2016 (11),Red Star (30),0-2,0-1,Auxerre (30)
+?,(Fri) 18 Mar 2016 (11),Ajaccio (31),2-0,0-0,Niort (31)
+?,(Fri) 18 Mar 2016 (11),Auxerre (31),1-2,0-0,Bourg Peronnas (31)
+?,(Fri) 18 Mar 2016 (11),Brest (31),0-0,0-0,Dijon (31)
+?,(Fri) 18 Mar 2016 (11),Evian Thonon Gaillard (31),0-0,0-0,Sochaux (31)
+?,(Fri) 18 Mar 2016 (11),Laval (31),0-3,0-1,Valenciennes (31)
+?,(Fri) 18 Mar 2016 (11),Le Havre (31),2-0,2-0,Tours (31)
+?,(Fri) 18 Mar 2016 (11),Nimes (31),1-3,0-0,Creteil (31)
+?,(Fri) 18 Mar 2016 (11),Paris FC (31),1-2,0-0,Metz (31)
+?,(Sat) 19 Mar 2016 (11),Nancy (31),1-0,0-0,Lens (31)
+?,(Mon) 21 Mar 2016 (12),Clermont (31),0-2,0-0,Red Star (31)
+?,(Fri) 1 Apr 2016 (13),Bourg Peronnas (32),3-0,0-0,Ajaccio (32)
+?,(Fri) 1 Apr 2016 (13),Creteil (32),0-3,0-1,Clermont (32)
+?,(Fri) 1 Apr 2016 (13),Le Havre (32),2-0,0-0,Laval (32)
+?,(Fri) 1 Apr 2016 (13),Lens (32),3-0,1-0,Auxerre (32)
+?,(Fri) 1 Apr 2016 (13),Metz (32),2-0,1-0,Niort (32)
+?,(Fri) 1 Apr 2016 (13),Sochaux (32),0-0,0-0,Nimes (32)
+?,(Fri) 1 Apr 2016 (13),Tours (32),2-1,0-0,Brest (32)
+?,(Fri) 1 Apr 2016 (13),Valenciennes (32),1-0,0-0,Evian Thonon Gaillard (32)
+?,(Sat) 2 Apr 2016 (13),Dijon (32),0-0,0-0,Nancy (32)
+?,(Mon) 4 Apr 2016 (14),Red Star (32),2-4,1-2,Paris FC (32)
+?,(Fri) 8 Apr 2016 (14),Ajaccio (33),1-2,1-0,Red Star (33)
+?,(Fri) 8 Apr 2016 (14),Auxerre (33),4-0,1-0,Metz (33)
+?,(Fri) 8 Apr 2016 (14),Brest (33),0-0,0-0,Le Havre (33)
+?,(Fri) 8 Apr 2016 (14),Evian Thonon Gaillard (33),0-0,0-0,Tours (33)
+?,(Fri) 8 Apr 2016 (14),Laval (33),1-2,0-1,Sochaux (33)
+?,(Fri) 8 Apr 2016 (14),Nimes (33),2-0,0-0,Valenciennes (33)
+?,(Fri) 8 Apr 2016 (14),Niort (33),0-1,0-0,Lens (33)
+?,(Fri) 8 Apr 2016 (14),Paris FC (33),2-0,2-0,Bourg Peronnas (33)
+?,(Sat) 9 Apr 2016 (14),Clermont (33),2-3,1-0,Dijon (33)
+?,(Mon) 11 Apr 2016 (15),Nancy (33),1-0,0-0,Creteil (33)
+?,(Fri) 15 Apr 2016 (15),Bourg Peronnas (34),0-3,0-2,Metz (34)
+?,(Fri) 15 Apr 2016 (15),Creteil (34),1-0,1-0,Auxerre (34)
+?,(Fri) 15 Apr 2016 (15),Laval (34),2-1,0-0,Evian Thonon Gaillard (34)
+?,(Fri) 15 Apr 2016 (15),Lens (34),2-0,0-0,Ajaccio (34)
+?,(Fri) 15 Apr 2016 (15),Red Star (34),0-2,0-1,Niort (34)
+?,(Fri) 15 Apr 2016 (15),Sochaux (34),2-1,2-1,Brest (34)
+?,(Fri) 15 Apr 2016 (15),Tours (34),1-2,1-1,Nimes (34)
+?,(Fri) 15 Apr 2016 (15),Valenciennes (34),1-2,1-1,Clermont (34)
+?,(Sat) 16 Apr 2016 (15),Le Havre (34),1-3,1-0,Nancy (34)
+?,(Mon) 18 Apr 2016 (16),Dijon (34),3-0,0-0,Paris FC (34)
+?,(Fri) 22 Apr 2016 (16),Ajaccio (35),1-1,0-1,Valenciennes (35)
+?,(Fri) 22 Apr 2016 (16),Brest (35),0-0,0-0,Laval (35)
+?,(Fri) 22 Apr 2016 (16),Clermont (35),0-1,0-1,Tours (35)
+?,(Fri) 22 Apr 2016 (16),Evian Thonon Gaillard (35),1-1,1-0,Le Havre (35)
+?,(Fri) 22 Apr 2016 (16),Metz (35),2-0,0-0,Red Star (35)
+?,(Fri) 22 Apr 2016 (16),Nimes (35),4-2,1-0,Lens (35)
+?,(Fri) 22 Apr 2016 (16),Niort (35),0-0,0-0,Bourg Peronnas (35)
+?,(Fri) 22 Apr 2016 (16),Paris FC (35),2-2,1-1,Creteil (35)
+?,(Sat) 23 Apr 2016 (16),Auxerre (35),2-0,1-0,Dijon (35)
+?,(Mon) 25 Apr 2016 (17),Nancy (35),1-0,1-0,Sochaux (35)
+?,(Fri) 29 Apr 2016 (17),Brest (36),0-2,0-1,Evian Thonon Gaillard (36)
+?,(Fri) 29 Apr 2016 (17),Creteil (36),2-2,2-1,Ajaccio (36)
+?,(Fri) 29 Apr 2016 (17),Laval (36),1-1,1-0,Clermont (36)
+?,(Fri) 29 Apr 2016 (17),Le Havre (36),3-1,2-0,Nimes (36)
+?,(Fri) 29 Apr 2016 (17),Lens (36),0-1,0-1,Paris FC (36)
+?,(Fri) 29 Apr 2016 (17),Red Star (36),1-0,0-0,Bourg Peronnas (36)
+?,(Fri) 29 Apr 2016 (17),Sochaux (36),2-3,1-0,Auxerre (36)
+?,(Fri) 29 Apr 2016 (17),Tours (36),1-2,1-0,Niort (36)
+?,(Sun) 1 May 2016 (17),Dijon (36),0-4,0-1,Metz (36)
+?,(Mon) 2 May 2016 (18),Valenciennes (36),1-0,1-0,Nancy (36)
+?,(Fri) 6 May 2016 (18),Ajaccio (37),0-2,0-1,Sochaux (37)
+?,(Fri) 6 May 2016 (18),Auxerre (37),1-3,1-1,Le Havre (37)
+?,(Fri) 6 May 2016 (18),Bourg Peronnas (37),2-1,1-0,Lens (37)
+?,(Fri) 6 May 2016 (18),Clermont (37),2-0,0-0,Brest (37)
+?,(Fri) 6 May 2016 (18),Metz (37),2-1,1-1,Tours (37)
+?,(Fri) 6 May 2016 (18),Nancy (37),1-0,0-0,Evian Thonon Gaillard (37)
+?,(Fri) 6 May 2016 (18),Nimes (37),1-1,0-1,Laval (37)
+?,(Fri) 6 May 2016 (18),Niort (37),4-2,3-2,Creteil (37)
+?,(Fri) 6 May 2016 (18),Paris FC (37),1-4,1-0,Valenciennes (37)
+?,(Fri) 6 May 2016 (18),Red Star (37),3-2,2-1,Dijon (37)
+?,(Fri) 13 May 2016 (19),Brest (38),0-0,0-0,Auxerre (38)
+?,(Fri) 13 May 2016 (19),Creteil (38),2-4,1-3,Red Star (38)
+?,(Fri) 13 May 2016 (19),Dijon (38),2-0,1-0,Ajaccio (38)
+?,(Fri) 13 May 2016 (19),Evian Thonon Gaillard (38),4-1,1-1,Nimes (38)
+?,(Fri) 13 May 2016 (19),Laval (38),3-1,1-0,Paris FC (38)
+?,(Fri) 13 May 2016 (19),Le Havre (38),5-0,3-0,Bourg Peronnas (38)
+?,(Fri) 13 May 2016 (19),Lens (38),1-0,1-0,Metz (38)
+?,(Fri) 13 May 2016 (19),Sochaux (38),2-0,1-0,Clermont (38)
+?,(Fri) 13 May 2016 (19),Tours (38),2-5,1-3,Nancy (38)
+?,(Fri) 13 May 2016 (19),Valenciennes (38),3-3,2-2,Niort (38)

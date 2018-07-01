@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Fri) Aug/2 2002 (30),Reims (1),Lorient (1),1-3,0-1
-?,(Sat) Aug/3 2002 (30),Amiens (1),Le Mans (1),0-1,0-1
-?,(Sat) Aug/3 2002 (30),Caen (1),Valence (1),3-1,0-0
-?,(Sat) Aug/3 2002 (30),Chateauroux (1),Beauvais (1),1-0,1-0
-?,(Sat) Aug/3 2002 (30),Clermont (1),Niort (1),1-1,1-0
-?,(Sat) Aug/3 2002 (30),Grenoble (1),St Etienne (1),1-0,1-0
-?,(Sat) Aug/3 2002 (30),Gueugnon (1),Metz (1),0-2,0-0
-?,(Sat) Aug/3 2002 (30),Istres (1),Toulouse (1),0-4,0-2
-?,(Sat) Aug/3 2002 (30),Laval (1),Wasquehal (1),1-0,1-0
-?,(Sat) Aug/3 2002 (30),Nancy (1),Creteil (1),2-3,1-3
-?,(Sat) Aug/10 2002 (31),Beauvais (2),Clermont (2),1-0,1-0
-?,(Sat) Aug/10 2002 (31),Caen (2),Chateauroux (2),4-1,3-1
-?,(Sat) Aug/10 2002 (31),Creteil (2),Laval (2),1-1,1-0
-?,(Sat) Aug/10 2002 (31),Le Mans (2),Gueugnon (2),3-1,2-0
-?,(Sat) Aug/10 2002 (31),Metz (2),Reims (2),0-0,0-0
-?,(Sat) Aug/10 2002 (31),Niort (2),Amiens (2),2-0,0-0
-?,(Sat) Aug/10 2002 (31),St Etienne (2),Istres (2),3-0,2-0
-?,(Sat) Aug/10 2002 (31),Valence (2),Nancy (2),2-0,1-0
-?,(Sat) Aug/10 2002 (31),Wasquehal (2),Grenoble (2),1-1,0-1
-?,(Sun) Aug/11 2002 (31),Lorient (2),Toulouse (2),1-0,0-0
-?,(Fri) Aug/16 2002 (32),Nancy (3),Caen (3),0-0,0-0
-?,(Sat) Aug/17 2002 (32),Amiens (3),St Etienne (3),1-0,1-0
-?,(Sat) Aug/17 2002 (32),Chateauroux (3),Creteil (3),2-0,1-0
-?,(Sat) Aug/17 2002 (32),Clermont (3),Valence (3),1-0,1-0
-?,(Sat) Aug/17 2002 (32),Grenoble (3),Niort (3),1-0,0-0
-?,(Sat) Aug/17 2002 (32),Gueugnon (3),Wasquehal (3),0-2,0-2
-?,(Sat) Aug/17 2002 (32),Istres (3),Lorient (3),1-1,1-1
-?,(Sat) Aug/17 2002 (32),Laval (3),Beauvais (3),2-0,1-0
-?,(Sat) Aug/17 2002 (32),Reims (3),Le Mans (3),1-2,0-0
-?,(Sat) Aug/17 2002 (32),Toulouse (3),Metz (3),3-0,1-0
-?,(Sat) Aug/24 2002 (33),Beauvais (4),Gueugnon (4),1-0,1-0
-?,(Sat) Aug/24 2002 (33),Caen (4),Laval (4),0-0,0-0
-?,(Sat) Aug/24 2002 (33),Creteil (4),Grenoble (4),0-0,0-0
-?,(Sat) Aug/24 2002 (33),Le Mans (4),Toulouse (4),2-1,2-1
-?,(Sat) Aug/24 2002 (33),Metz (4),Lorient (4),2-1,1-1
-?,(Sat) Aug/24 2002 (33),Niort (4),Istres (4),1-3,1-2
-?,(Sat) Aug/24 2002 (33),Valence (4),Chateauroux (4),4-0,1-0
-?,(Sat) Aug/24 2002 (33),Wasquehal (4),Clermont (4),2-0,1-0
-?,(Sun) Aug/25 2002 (33),Nancy (4),Amiens (4),1-0,0-0
-?,(Sun) Aug/25 2002 (33),St Etienne (4),Reims (4),0-0,0-0
-?,(Fri) Aug/30 2002 (34),Clermont (5),Creteil (5),1-2,1-1
-?,(Fri) Aug/30 2002 (34),Grenoble (5),Beauvais (5),0-2,0-1
-?,(Sat) Aug/31 2002 (34),Amiens (5),Wasquehal (5),1-2,1-1
-?,(Sat) Aug/31 2002 (34),Chateauroux (5),Nancy (5),1-0,0-0
-?,(Sat) Aug/31 2002 (34),Gueugnon (5),St Etienne (5),0-2,0-1
-?,(Sat) Aug/31 2002 (34),Istres (5),Metz (5),1-1,1-0
-?,(Sat) Aug/31 2002 (34),Laval (5),Valence (5),1-2,0-1
-?,(Sat) Aug/31 2002 (34),Reims (5),Niort (5),1-1,0-0
-?,(Sat) Aug/31 2002 (34),Toulouse (5),Caen (5),2-0,1-0
-?,(Sun) Sep/1 2002 (34),Lorient (5),Le Mans (5),3-4,1-3
-?,(Wed) Sep/4 2002 (35),Beauvais (6),Istres (6),2-0,1-0
-?,(Wed) Sep/4 2002 (35),Caen (6),Clermont (6),1-1,1-1
-?,(Wed) Sep/4 2002 (35),Chateauroux (6),Gueugnon (6),2-1,1-0
-?,(Wed) Sep/4 2002 (35),Creteil (6),Amiens (6),1-1,0-0
-?,(Wed) Sep/4 2002 (35),Nancy (6),Laval (6),2-1,0-0
-?,(Wed) Sep/4 2002 (35),Niort (6),Toulouse (6),2-0,0-0
-?,(Wed) Sep/4 2002 (35),St Etienne (6),Lorient (6),1-1,1-0
-?,(Wed) Sep/4 2002 (35),Valence (6),Grenoble (6),1-0,0-0
-?,(Wed) Sep/4 2002 (35),Wasquehal (6),Reims (6),1-1,0-1
-?,(Thu) Sep/5 2002 (35),Le Mans (6),Metz (6),1-0,1-0
-?,(Tue) Sep/10 2002 (36),Istres (7),Le Mans (7),1-0,1-0
-?,(Wed) Sep/11 2002 (36),Amiens (7),Valence (7),3-0,0-0
-?,(Wed) Sep/11 2002 (36),Clermont (7),Nancy (7),3-1,1-0
-?,(Wed) Sep/11 2002 (36),Grenoble (7),Caen (7),2-2,1-1
-?,(Wed) Sep/11 2002 (36),Gueugnon (7),Creteil (7),2-2,2-1
-?,(Wed) Sep/11 2002 (36),Laval (7),Chateauroux (7),1-0,1-0
-?,(Wed) Sep/11 2002 (36),Metz (7),Wasquehal (7),2-0,2-0
-?,(Wed) Sep/11 2002 (36),Reims (7),Beauvais (7),0-0,0-0
-?,(Wed) Sep/11 2002 (36),Toulouse (7),St Etienne (7),1-0,0-0
-?,(Thu) Sep/12 2002 (36),Lorient (7),Niort (7),1-0,1-0
-?,(Sat) Sep/14 2002 (36),Beauvais (8),Toulouse (8),0-0,0-0
-?,(Sat) Sep/14 2002 (36),Chateauroux (8),Clermont (8),1-0,0-0
-?,(Sat) Sep/14 2002 (36),Laval (8),Reims (8),1-0,0-0
-?,(Sat) Sep/14 2002 (36),Nancy (8),Grenoble (8),1-1,1-0
-?,(Sat) Sep/14 2002 (36),St Etienne (8),Le Mans (8),0-0,0-0
-?,(Sat) Sep/14 2002 (36),Valence (8),Gueugnon (8),0-1,0-0
-?,(Sat) Sep/14 2002 (36),Wasquehal (8),Istres (8),0-0,0-0
-?,(Sun) Sep/15 2002 (36),Caen (8),Amiens (8),2-0,2-0
-?,(Sun) Sep/15 2002 (36),Creteil (8),Lorient (8),3-1,0-1
-?,(Sun) Sep/15 2002 (36),Niort (8),Metz (8),2-0,2-0
-?,(Fri) Sep/20 2002 (37),Metz (9),St Etienne (9),1-1,1-0
-?,(Fri) Sep/20 2002 (37),Toulouse (9),Wasquehal (9),1-0,1-0
-?,(Sat) Sep/21 2002 (37),Amiens (9),Beauvais (9),2-0,1-0
-?,(Sat) Sep/21 2002 (37),Clermont (9),Laval (9),3-0,0-0
-?,(Sat) Sep/21 2002 (37),Grenoble (9),Chateauroux (9),0-0,0-0
-?,(Sat) Sep/21 2002 (37),Gueugnon (9),Caen (9),1-1,0-1
-?,(Sat) Sep/21 2002 (37),Istres (9),Valence (9),2-2,1-1
-?,(Sat) Sep/21 2002 (37),Le Mans (9),Niort (9),1-0,0-0
-?,(Sat) Sep/21 2002 (37),Reims (9),Creteil (9),0-0,0-0
-?,(Sun) Sep/22 2002 (37),Lorient (9),Nancy (9),1-0,0-0
-?,(Sat) Sep/28 2002 (38),Beauvais (10),Lorient (10),0-1,0-1
-?,(Sat) Sep/28 2002 (38),Caen (10),Reims (10),1-1,0-1
-?,(Sat) Sep/28 2002 (38),Chateauroux (10),Amiens (10),1-1,1-0
-?,(Sat) Sep/28 2002 (38),Creteil (10),Istres (10),5-0,4-0
-?,(Sat) Sep/28 2002 (38),Laval (10),Grenoble (10),1-1,1-0
-?,(Sat) Sep/28 2002 (38),Nancy (10),Gueugnon (10),1-1,0-0
-?,(Sat) Sep/28 2002 (38),Niort (10),St Etienne (10),3-0,1-0
-?,(Sat) Sep/28 2002 (38),Valence (10),Toulouse (10),0-1,0-0
-?,(Sat) Sep/28 2002 (38),Wasquehal (10),Le Mans (10),2-1,1-0
-?,(Sun) Sep/29 2002 (38),Clermont (10),Metz (10),2-1,1-1
-?,(Fri) Oct/4 2002 (39),Amiens (11),Laval (11),1-0,0-0
-?,(Fri) Oct/4 2002 (39),Le Mans (11),Nancy (11),3-0,0-0
-?,(Sat) Oct/5 2002 (39),Grenoble (11),Clermont (11),6-1,4-1
-?,(Sat) Oct/5 2002 (39),Gueugnon (11),Niort (11),1-0,1-0
-?,(Sat) Oct/5 2002 (39),Istres (11),Chateauroux (11),0-2,0-2
-?,(Sat) Oct/5 2002 (39),Metz (11),Beauvais (11),1-0,1-0
-?,(Sat) Oct/5 2002 (39),Reims (11),Valence (11),2-0,0-0
-?,(Sat) Oct/5 2002 (39),St Etienne (11),Wasquehal (11),2-0,1-0
-?,(Sat) Oct/5 2002 (39),Toulouse (11),Creteil (11),0-0,0-0
-?,(Sun) Oct/6 2002 (39),Lorient (11),Caen (11),2-0,0-0
-?,(Fri) Oct/18 2002 (41),Valence (12),Metz (12),3-1,0-0
-?,(Sat) Oct/19 2002 (41),Beauvais (12),St Etienne (12),3-0,1-0
-?,(Sat) Oct/19 2002 (41),Caen (12),Istres (12),1-0,0-0
-?,(Sat) Oct/19 2002 (41),Chateauroux (12),Reims (12),3-1,1-1
-?,(Sat) Oct/19 2002 (41),Clermont (12),Lorient (12),2-1,1-1
-?,(Sat) Oct/19 2002 (41),Creteil (12),Le Mans (12),2-2,1-1
-?,(Sat) Oct/19 2002 (41),Grenoble (12),Amiens (12),0-0,0-0
-?,(Sat) Oct/19 2002 (41),Laval (12),Gueugnon (12),2-0,1-0
-?,(Sat) Oct/19 2002 (41),Nancy (12),Toulouse (12),3-2,3-1
-?,(Sat) Oct/19 2002 (41),Wasquehal (12),Niort (12),1-1,0-0
-?,(Sat) Oct/26 2002 (42),Amiens (13),Clermont (13),1-0,1-0
-?,(Sat) Oct/26 2002 (42),Gueugnon (13),Grenoble (13),1-0,0-0
-?,(Sat) Oct/26 2002 (42),Istres (13),Laval (13),3-1,2-1
-?,(Sat) Oct/26 2002 (42),Le Mans (13),Valence (13),2-0,1-0
-?,(Sat) Oct/26 2002 (42),Lorient (13),Wasquehal (13),0-0,0-0
-?,(Sat) Oct/26 2002 (42),Metz (13),Creteil (13),1-0,0-0
-?,(Sat) Oct/26 2002 (42),Niort (13),Beauvais (13),0-1,0-1
-?,(Sat) Oct/26 2002 (42),Reims (13),Nancy (13),1-0,0-0
-?,(Sat) Oct/26 2002 (42),St Etienne (13),Caen (13),2-1,1-0
-?,(Sun) Oct/27 2002 (42),Toulouse (13),Chateauroux (13),1-0,0-0
-?,(Fri) Nov/1 2002 (43),Caen (14),Le Mans (14),1-1,0-0
-?,(Sat) Nov/2 2002 (43),Amiens (14),Reims (14),0-1,0-1
-?,(Sat) Nov/2 2002 (43),Beauvais (14),Wasquehal (14),0-0,0-0
-?,(Sat) Nov/2 2002 (43),Chateauroux (14),Lorient (14),3-1,1-0
-?,(Sat) Nov/2 2002 (43),Clermont (14),Gueugnon (14),0-0,0-0
-?,(Sat) Nov/2 2002 (43),Creteil (14),Niort (14),0-0,0-0
-?,(Sat) Nov/2 2002 (43),Grenoble (14),Istres (14),5-0,2-0
-?,(Sat) Nov/2 2002 (43),Laval (14),Toulouse (14),1-1,0-1
-?,(Sat) Nov/2 2002 (43),Valence (14),St Etienne (14),0-0,0-0
-?,(Sun) Nov/3 2002 (43),Nancy (14),Metz (14),1-2,1-1
-?,(Fri) Nov/8 2002 (44),Wasquehal (15),Caen (15),2-2,1-2
-?,(Sat) Nov/9 2002 (44),Gueugnon (15),Amiens (15),1-1,0-0
-?,(Sat) Nov/9 2002 (44),Istres (15),Nancy (15),2-0,1-0
-?,(Sat) Nov/9 2002 (44),Le Mans (15),Beauvais (15),1-0,0-0
-?,(Sat) Nov/9 2002 (44),Metz (15),Chateauroux (15),2-0,1-0
-?,(Sat) Nov/9 2002 (44),Niort (15),Valence (15),2-2,1-1
-?,(Sat) Nov/9 2002 (44),Reims (15),Grenoble (15),0-1,0-0
-?,(Sat) Nov/9 2002 (44),St Etienne (15),Creteil (15),1-1,0-1
-?,(Sat) Nov/9 2002 (44),Toulouse (15),Clermont (15),2-1,1-1
-?,(Sun) Nov/10 2002 (44),Lorient (15),Laval (15),2-1,1-1
-?,(Fri) Nov/15 2002 (45),Chateauroux (16),Le Mans (16),1-1,0-0
-?,(Sat) Nov/16 2002 (45),Amiens (16),Istres (16),1-1,0-0
-?,(Sat) Nov/16 2002 (45),Caen (16),Niort (16),0-1,0-0
-?,(Sat) Nov/16 2002 (45),Clermont (16),Reims (16),3-2,1-2
-?,(Sat) Nov/16 2002 (45),Creteil (16),Beauvais (16),1-0,1-0
-?,(Sat) Nov/16 2002 (45),Grenoble (16),Toulouse (16),1-1,0-0
-?,(Sat) Nov/16 2002 (45),Gueugnon (16),Lorient (16),1-0,0-0
-?,(Sat) Nov/16 2002 (45),Laval (16),Metz (16),1-1,0-0
-?,(Sun) Nov/17 2002 (45),Nancy (16),St Etienne (16),1-0,1-0
-?,(Fri) Nov/29 2002 (47),Metz (17),Caen (17),4-0,2-0
-?,(Sat) Nov/30 2002 (47),Istres (17),Clermont (17),1-1,0-1
-?,(Sat) Nov/30 2002 (47),Le Mans (17),Laval (17),1-1,0-0
-?,(Sat) Nov/30 2002 (47),Lorient (17),Grenoble (17),0-2,0-0
-?,(Sat) Nov/30 2002 (47),Niort (17),Nancy (17),3-2,0-1
-?,(Sat) Nov/30 2002 (47),Reims (17),Gueugnon (17),1-1,0-1
-?,(Sat) Nov/30 2002 (47),St Etienne (17),Chateauroux (17),0-0,0-0
-?,(Sat) Nov/30 2002 (47),Toulouse (17),Amiens (17),1-2,1-0
-?,(Sat) Nov/30 2002 (47),Wasquehal (16),Creteil (17),2-3,0-1
-?,(Wed) Dec/4 2002 (48),Caen (18),Beauvais (17),0-0,0-0
-?,(Wed) Dec/4 2002 (48),Chateauroux (18),Niort (18),4-0,3-0
-?,(Wed) Dec/4 2002 (48),Clermont (18),Le Mans (18),1-0,1-0
-?,(Wed) Dec/4 2002 (48),Grenoble (18),Metz (18),0-0,0-0
-?,(Wed) Dec/4 2002 (48),Gueugnon (18),Toulouse (18),0-1,0-1
-?,(Wed) Dec/4 2002 (48),Laval (18),St Etienne (18),1-0,0-0
-?,(Wed) Dec/4 2002 (48),Nancy (18),Wasquehal (17),0-0,0-0
-?,(Wed) Dec/4 2002 (48),Reims (18),Istres (18),2-2,1-0
-?,(Wed) Dec/4 2002 (48),Valence (16),Creteil (18),2-1,2-1
-?,(Thu) Dec/5 2002 (48),Amiens (18),Lorient (18),0-2,0-1
-?,(Sat) Dec/7 2002 (48),Valence (17),Wasquehal (18),0-1,0-0
-?,(Wed) Dec/11 2002 (49),Beauvais (18),Valence (18),0-0,0-0
-?,(Wed) Dec/18 2002 (50),Le Mans (19),Grenoble (19),1-0,0-0
-?,(Wed) Dec/18 2002 (50),Wasquehal (19),Chateauroux (19),0-0,0-0
-?,(Thu) Dec/19 2002 (50),Beauvais (19),Nancy (19),1-1,1-1
-?,(Thu) Dec/19 2002 (50),Creteil (19),Caen (19),1-1,0-0
-?,(Thu) Dec/19 2002 (50),Istres (19),Gueugnon (19),1-0,0-0
-?,(Thu) Dec/19 2002 (50),Lorient (19),Valence (19),1-0,1-0
-?,(Thu) Dec/19 2002 (50),Metz (19),Amiens (19),1-0,1-0
-?,(Thu) Dec/19 2002 (50),Niort (19),Laval (19),2-1,1-0
-?,(Thu) Dec/19 2002 (50),St Etienne (19),Clermont (19),3-1,2-0
-?,(Thu) Dec/19 2002 (50),Toulouse (19),Reims (19),2-0,0-0
-?,(Sat) Jan/11 2003 (1),Grenoble (20),Wasquehal (20),3-0,0-0
-?,(Sat) Jan/11 2003 (1),Toulouse (20),Lorient (20),3-1,0-1
-?,(Wed) Jan/15 2003 (2),Le Mans (20),Reims (20),1-1,1-0
-?,(Wed) Jan/15 2003 (2),Lorient (21),Istres (20),1-0,1-0
-?,(Wed) Jan/15 2003 (2),Niort (20),Grenoble (21),1-0,0-0
-?,(Wed) Jan/15 2003 (2),Valence (20),Clermont (20),4-1,2-1
-?,(Thu) Jan/16 2003 (2),Metz (20),Toulouse (21),0-0,0-0
-?,(Sat) Jan/18 2003 (2),Amiens (20),Niort (21),1-0,1-0
-?,(Sat) Jan/18 2003 (2),Chateauroux (20),Caen (20),2-1,1-1
-?,(Wed) Jan/22 2003 (3),Amiens (21),Nancy (20),0-0,0-0
-?,(Wed) Jan/22 2003 (3),Chateauroux (21),Valence (21),1-1,1-1
-?,(Wed) Jan/22 2003 (3),Clermont (21),Wasquehal (21),1-0,1-0
-?,(Wed) Jan/22 2003 (3),Grenoble (22),Creteil (20),3-0,1-0
-?,(Wed) Jan/22 2003 (3),Gueugnon (20),Beauvais (20),2-0,1-0
-?,(Wed) Jan/22 2003 (3),Istres (21),Niort (22),1-3,1-1
-?,(Wed) Jan/22 2003 (3),Laval (20),Caen (21),3-2,1-1
-?,(Wed) Jan/22 2003 (3),Lorient (22),Metz (21),2-0,0-0
-?,(Wed) Jan/22 2003 (3),Reims (21),St Etienne (20),1-0,1-0
-?,(Tue) Jan/21 2003 (3),Toulouse (22),Le Mans (21),2-0,0-0
-?,(Tue) Jan/28 2003 (4),Le Mans (22),Lorient (23),0-1,0-1
-?,(Tue) Jan/28 2003 (4),Metz (22),Istres (22),4-1,2-0
-?,(Wed) Jan/29 2003 (4),Beauvais (21),Grenoble (23),0-1,0-1
-?,(Wed) Jan/29 2003 (4),Creteil (21),Clermont (22),0-1,0-0
-?,(Wed) Jan/29 2003 (4),Nancy (21),Chateauroux (22),1-0,0-0
-?,(Wed) Jan/29 2003 (4),Niort (23),Reims (22),0-0,0-0
-?,(Wed) Jan/29 2003 (4),St Etienne (21),Gueugnon (21),0-3,0-2
-?,(Wed) Jan/29 2003 (4),Valence (22),Laval (21),1-0,0-0
-?,(Wed) Jan/29 2003 (4),Wasquehal (22),Amiens (22),0-0,0-0
-?,(Thu) Jan/30 2003 (4),Caen (22),Toulouse (23),0-2,0-1
-?,(Fri) Jan/31 2003 (4),Metz (23),Le Mans (23),4-0,2-0
-?,(Sat) Feb/1 2003 (4),Grenoble (24),Valence (23),1-2,0-2
-?,(Sat) Feb/1 2003 (4),Istres (23),Beauvais (22),0-0,0-0
-?,(Sat) Feb/1 2003 (4),Laval (22),Nancy (22),0-1,0-1
-?,(Sat) Feb/1 2003 (4),Lorient (24),St Etienne (22),1-1,1-1
-?,(Sun) Feb/2 2003 (4),Clermont (23),Caen (23),2-3,2-2
-?,(Sun) Feb/2 2003 (4),Toulouse (24),Niort (24),4-1,1-0
-?,(Tue) Feb/4 2003 (5),Beauvais (23),Reims (23),1-0,0-0
-?,(Tue) Feb/4 2003 (5),Chateauroux (23),Laval (23),0-2,0-0
-?,(Wed) Feb/5 2003 (5),Caen (24),Grenoble (25),0-0,0-0
-?,(Wed) Feb/5 2003 (5),Le Mans (24),Istres (24),1-0,0-0
-?,(Wed) Feb/5 2003 (5),Nancy (23),Clermont (24),1-0,0-0
-?,(Wed) Feb/5 2003 (5),Niort (25),Lorient (25),1-1,0-0
-?,(Wed) Feb/5 2003 (5),Valence (24),Amiens (23),0-1,0-1
-?,(Wed) Feb/5 2003 (5),Wasquehal (23),Metz (24),0-0,0-0
-?,(Fri) Feb/7 2003 (5),Reims (24),Laval (24),3-2,3-2
-?,(Sat) Feb/8 2003 (5),Amiens (24),Caen (25),1-0,0-0
-?,(Sat) Feb/8 2003 (5),Clermont (25),Chateauroux (24),1-3,0-0
-?,(Sat) Feb/8 2003 (5),Grenoble (26),Nancy (24),0-1,0-0
-?,(Sat) Feb/8 2003 (5),Gueugnon (22),Valence (25),2-0,1-0
-?,(Sat) Feb/8 2003 (5),Istres (25),Wasquehal (24),1-0,0-0
-?,(Sat) Feb/8 2003 (5),Lorient (26),Creteil (22),0-0,0-0
-?,(Sat) Feb/8 2003 (5),Metz (25),Niort (26),2-1,0-0
-?,(Sun) Feb/9 2003 (5),Le Mans (25),St Etienne (23),2-2,1-1
-?,(Sun) Feb/9 2003 (5),Toulouse (25),Beauvais (24),2-0,0-0
-?,(Thu) Feb/13 2003 (6),Creteil (23),Chateauroux (25),0-2,0-1
-?,(Fri) Feb/14 2003 (6),Clermont (26),Beauvais (25),1-0,0-0
-?,(Fri) Feb/14 2003 (6),Istres (26),St Etienne (24),0-0,0-0
-?,(Tue) Feb/18 2003 (7),Gueugnon (23),Le Mans (26),0-1,0-0
-?,(Tue) Feb/18 2003 (7),Nancy (25),Valence (26),2-2,0-0
-?,(Sat) Feb/22 2003 (7),Beauvais (26),Amiens (25),1-1,0-0
-?,(Sat) Feb/22 2003 (7),Caen (26),Gueugnon (24),3-0,1-0
-?,(Sat) Feb/22 2003 (7),Chateauroux (26),Grenoble (27),0-0,0-0
-?,(Sat) Feb/22 2003 (7),Creteil (24),Reims (25),1-1,1-0
-?,(Sat) Feb/22 2003 (7),Laval (25),Clermont (27),1-3,1-0
-?,(Sat) Feb/22 2003 (7),Niort (27),Le Mans (27),1-1,0-0
-?,(Sat) Feb/22 2003 (7),St Etienne (25),Metz (26),1-1,1-1
-?,(Sat) Feb/22 2003 (7),Valence (27),Istres (27),0-0,0-0
-?,(Sat) Feb/22 2003 (7),Wasquehal (25),Toulouse (26),0-0,0-0
-?,(Fri) Feb/28 2003 (8),Grenoble (28),Laval (26),0-1,0-0
-?,(Fri) Feb/28 2003 (8),St Etienne (26),Niort (28),2-0,0-0
-?,(Sat) Mar/1 2003 (8),Amiens (26),Chateauroux (27),0-2,0-1
-?,(Sat) Mar/1 2003 (8),Gueugnon (25),Nancy (26),2-2,0-0
-?,(Sat) Mar/1 2003 (8),Istres (28),Creteil (25),1-0,0-0
-?,(Sat) Mar/1 2003 (8),Le Mans (28),Wasquehal (26),0-0,0-0
-?,(Sat) Mar/1 2003 (8),Lorient (27),Beauvais (27),3-0,2-0
-?,(Sat) Mar/1 2003 (8),Metz (27),Clermont (28),2-1,0-1
-?,(Sat) Mar/1 2003 (8),Reims (26),Caen (27),1-2,0-1
-?,(Sat) Mar/1 2003 (8),Toulouse (27),Valence (28),3-1,1-1
-?,(Tue) Mar/4 2003 (9),Laval (27),Creteil (26),1-0,0-0
-?,(Fri) Mar/7 2003 (9),Creteil (27),Toulouse (28),2-2,1-2
-?,(Sat) Mar/8 2003 (9),Beauvais (28),Metz (28),1-2,0-1
-?,(Sat) Mar/8 2003 (9),Caen (28),Lorient (28),0-0,0-0
-?,(Sat) Mar/8 2003 (9),Chateauroux (28),Istres (29),1-0,0-0
-?,(Sat) Mar/8 2003 (9),Clermont (29),Grenoble (29),2-0,2-0
-?,(Sat) Mar/8 2003 (9),Laval (28),Amiens (27),1-0,1-0
-?,(Sat) Mar/8 2003 (9),Nancy (27),Le Mans (29),2-2,1-1
-?,(Sat) Mar/8 2003 (9),Niort (29),Gueugnon (26),0-1,0-1
-?,(Sat) Mar/8 2003 (9),Valence (29),Reims (27),0-0,0-0
-?,(Sat) Mar/8 2003 (9),Wasquehal (27),St Etienne (27),1-1,1-1
-?,(Wed) Mar/12 2003 (10),Caen (29),Nancy (28),2-0,0-0
-?,(Thu) Mar/13 2003 (10),Wasquehal (28),Gueugnon (27),0-0,0-0
-?,(Fri) Mar/14 2003 (10),Beauvais (29),Laval (29),1-2,0-1
-?,(Fri) Mar/14 2003 (10),St Etienne (28),Amiens (28),4-1,2-0
-?,(Sun) Mar/16 2003 (10),Reims (28),Metz (29),0-2,0-0
-?,(Tue) Mar/18 2003 (11),Amiens (29),Creteil (28),2-0,0-0
-?,(Tue) Mar/18 2003 (11),Gueugnon (28),Chateauroux (29),2-2,2-2
-?,(Fri) Mar/21 2003 (11),Le Mans (30),Creteil (29),2-1,1-0
-?,(Sat) Mar/22 2003 (11),Amiens (30),Grenoble (30),1-1,0-1
-?,(Sat) Mar/22 2003 (11),Gueugnon (29),Laval (30),2-1,2-1
-?,(Sat) Mar/22 2003 (11),Istres (30),Caen (30),0-4,0-1
-?,(Sat) Mar/22 2003 (11),Lorient (29),Clermont (30),0-0,0-0
-?,(Sat) Mar/22 2003 (11),Metz (30),Valence (30),1-2,0-2
-?,(Sat) Mar/22 2003 (11),Niort (30),Wasquehal (29),1-1,1-1
-?,(Sat) Mar/22 2003 (11),Reims (29),Chateauroux (30),0-1,0-0
-?,(Sat) Mar/22 2003 (11),St Etienne (29),Beauvais (30),1-0,0-0
-?,(Sat) Mar/22 2003 (11),Toulouse (29),Nancy (29),0-0,0-0
-?,(Thu) Mar/27 2003 (12),Chateauroux (31),Toulouse (30),0-0,0-0
-?,(Fri) Mar/28 2003 (12),Beauvais (31),Niort (31),0-2,0-0
-?,(Fri) Mar/28 2003 (12),Caen (31),St Etienne (30),0-0,0-0
-?,(Fri) Mar/28 2003 (12),Clermont (31),Amiens (31),1-1,1-1
-?,(Fri) Mar/28 2003 (12),Creteil (30),Metz (31),1-1,1-1
-?,(Fri) Mar/28 2003 (12),Grenoble (31),Gueugnon (30),2-0,1-0
-?,(Fri) Mar/28 2003 (12),Laval (31),Istres (31),3-1,2-0
-?,(Fri) Mar/28 2003 (12),Nancy (30),Reims (30),2-1,2-1
-?,(Fri) Mar/28 2003 (12),Valence (31),Le Mans (31),2-2,2-1
-?,(Fri) Mar/28 2003 (12),Wasquehal (30),Lorient (30),1-2,1-0
-?,(Fri) Apr/4 2003 (13),Le Mans (32),Caen (32),2-0,1-0
-?,(Fri) Apr/4 2003 (13),Metz (32),Nancy (31),4-0,1-0
-?,(Fri) Apr/4 2003 (13),Toulouse (31),Laval (32),2-1,1-1
-?,(Sat) Apr/5 2003 (13),Gueugnon (31),Clermont (32),2-0,1-0
-?,(Sat) Apr/5 2003 (13),Istres (32),Grenoble (32),3-1,0-0
-?,(Sat) Apr/5 2003 (13),Lorient (31),Chateauroux (32),2-0,2-0
-?,(Sat) Apr/5 2003 (13),Niort (32),Creteil (31),1-0,1-0
-?,(Sat) Apr/5 2003 (13),Reims (31),Amiens (32),1-1,1-1
-?,(Sat) Apr/5 2003 (13),St Etienne (31),Valence (32),2-0,1-0
-?,(Sat) Apr/5 2003 (13),Wasquehal (31),Beauvais (32),0-2,0-1
-?,(Fri) Apr/11 2003 (14),Nancy (32),Istres (33),0-2,0-0
-?,(Sat) Apr/12 2003 (14),Amiens (33),Gueugnon (32),0-0,0-0
-?,(Sat) Apr/12 2003 (14),Beauvais (33),Le Mans (33),0-2,0-1
-?,(Sat) Apr/12 2003 (14),Caen (33),Wasquehal (32),2-1,1-1
-?,(Sat) Apr/12 2003 (14),Chateauroux (33),Metz (33),0-0,0-0
-?,(Sat) Apr/12 2003 (14),Clermont (33),Toulouse (32),0-1,0-0
-?,(Sat) Apr/12 2003 (14),Creteil (32),St Etienne (32),0-0,0-0
-?,(Sat) Apr/12 2003 (14),Grenoble (33),Reims (32),4-1,2-1
-?,(Sat) Apr/12 2003 (14),Valence (33),Niort (33),2-2,0-0
-?,(Sun) Apr/13 2003 (14),Laval (33),Lorient (32),0-1,0-1
-?,(Fri) Apr/18 2003 (15),Toulouse (33),Grenoble (34),2-0,1-0
-?,(Sat) Apr/19 2003 (15),Beauvais (34),Creteil (33),0-0,0-0
-?,(Sat) Apr/19 2003 (15),Istres (34),Amiens (34),2-0,0-0
-?,(Sat) Apr/19 2003 (15),Le Mans (34),Chateauroux (34),1-0,1-0
-?,(Sat) Apr/19 2003 (15),Lorient (33),Gueugnon (33),0-1,0-0
-?,(Sat) Apr/19 2003 (15),Metz (34),Laval (34),2-1,1-0
-?,(Sat) Apr/19 2003 (15),Niort (34),Caen (34),1-1,0-1
-?,(Sat) Apr/19 2003 (15),Reims (33),Clermont (34),0-0,0-0
-?,(Sat) Apr/19 2003 (15),St Etienne (33),Nancy (33),0-1,0-1
-?,(Sat) Apr/19 2003 (15),Wasquehal (33),Valence (34),1-0,1-0
-?,(Tue) Apr/22 2003 (16),Nancy (34),Lorient (34),0-0,0-0
-?,(Thu) Apr/24 2003 (16),St Etienne (34),Toulouse (34),1-0,0-0
-?,(Fri) Apr/25 2003 (16),Creteil (34),Gueugnon (34),2-2,0-2
-?,(Fri) Apr/25 2003 (16),Reims (34),Wasquehal (34),4-1,0-1
-?,(Fri) May/2 2003 (17),Grenoble (35),Lorient (35),0-0,0-0
-?,(Fri) May/2 2003 (17),Laval (35),Le Mans (35),1-1,0-1
-?,(Sat) May/3 2003 (17),Amiens (35),Toulouse (35),3-1,2-0
-?,(Sat) May/3 2003 (17),Caen (35),Metz (35),1-0,0-0
-?,(Sat) May/3 2003 (17),Chateauroux (35),St Etienne (35),1-1,0-0
-?,(Sat) May/3 2003 (17),Clermont (35),Istres (35),1-1,1-1
-?,(Sat) May/3 2003 (17),Creteil (35),Wasquehal (35),2-1,0-0
-?,(Sat) May/3 2003 (17),Gueugnon (35),Reims (35),2-2,2-2
-?,(Sat) May/3 2003 (17),Nancy (35),Niort (35),0-0,0-0
-?,(Sat) May/3 2003 (17),Valence (35),Beauvais (35),0-0,0-0
-?,(Fri) May/9 2003 (18),Metz (36),Grenoble (36),1-0,0-0
-?,(Fri) May/9 2003 (18),Toulouse (36),Gueugnon (36),0-1,0-0
-?,(Sat) May/10 2003 (18),Beauvais (36),Caen (36),1-2,0-0
-?,(Sat) May/10 2003 (18),Creteil (36),Valence (36),0-1,0-0
-?,(Sat) May/10 2003 (18),Istres (36),Reims (36),0-0,0-0
-?,(Sat) May/10 2003 (18),Le Mans (36),Clermont (36),3-0,1-0
-?,(Sat) May/10 2003 (18),Lorient (36),Amiens (36),1-0,0-0
-?,(Sat) May/10 2003 (18),Niort (36),Chateauroux (36),4-0,1-0
-?,(Sat) May/10 2003 (18),St Etienne (36),Laval (36),1-0,1-0
-?,(Sat) May/10 2003 (18),Wasquehal (36),Nancy (36),1-1,0-0
-?,(Fri) May/16 2003 (19),Amiens (37),Metz (37),1-0,0-0
-?,(Fri) May/16 2003 (19),Caen (37),Creteil (37),2-2,1-0
-?,(Fri) May/16 2003 (19),Chateauroux (37),Wasquehal (37),2-2,1-0
-?,(Fri) May/16 2003 (19),Clermont (37),St Etienne (37),1-0,1-0
-?,(Fri) May/16 2003 (19),Grenoble (37),Le Mans (37),0-0,0-0
-?,(Fri) May/16 2003 (19),Gueugnon (37),Istres (37),1-1,1-0
-?,(Fri) May/16 2003 (19),Laval (37),Niort (37),2-1,0-1
-?,(Fri) May/16 2003 (19),Nancy (37),Beauvais (37),0-2,0-0
-?,(Fri) May/16 2003 (19),Reims (37),Toulouse (37),0-1,0-0
-?,(Fri) May/16 2003 (19),Valence (37),Lorient (37),1-1,1-0
-?,(Fri) May/23 2003 (20),Beauvais (38),Chateauroux (38),0-1,0-0
-?,(Fri) May/23 2003 (20),Creteil (38),Nancy (38),2-0,1-0
-?,(Fri) May/23 2003 (20),Le Mans (38),Amiens (38),1-1,1-1
-?,(Fri) May/23 2003 (20),Lorient (38),Reims (38),3-0,1-0
-?,(Fri) May/23 2003 (20),Metz (38),Gueugnon (38),4-0,2-0
-?,(Fri) May/23 2003 (20),Niort (38),Clermont (38),3-2,2-2
-?,(Fri) May/23 2003 (20),St Etienne (38),Grenoble (38),2-1,0-0
-?,(Fri) May/23 2003 (20),Toulouse (38),Istres (38),1-0,0-0
-?,(Fri) May/23 2003 (20),Valence (38),Caen (38),0-0,0-0
-?,(Fri) May/23 2003 (20),Wasquehal (38),Laval (38),0-1,0-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 2 Aug 2002 (30),Reims (1),1-3,0-1,Lorient (1)
+?,(Sat) 3 Aug 2002 (30),Amiens (1),0-1,0-1,Le Mans (1)
+?,(Sat) 3 Aug 2002 (30),Caen (1),3-1,0-0,Valence (1)
+?,(Sat) 3 Aug 2002 (30),Chateauroux (1),1-0,1-0,Beauvais (1)
+?,(Sat) 3 Aug 2002 (30),Clermont (1),1-1,1-0,Niort (1)
+?,(Sat) 3 Aug 2002 (30),Grenoble (1),1-0,1-0,St Etienne (1)
+?,(Sat) 3 Aug 2002 (30),Gueugnon (1),0-2,0-0,Metz (1)
+?,(Sat) 3 Aug 2002 (30),Istres (1),0-4,0-2,Toulouse (1)
+?,(Sat) 3 Aug 2002 (30),Laval (1),1-0,1-0,Wasquehal (1)
+?,(Sat) 3 Aug 2002 (30),Nancy (1),2-3,1-3,Creteil (1)
+?,(Sat) 10 Aug 2002 (31),Beauvais (2),1-0,1-0,Clermont (2)
+?,(Sat) 10 Aug 2002 (31),Caen (2),4-1,3-1,Chateauroux (2)
+?,(Sat) 10 Aug 2002 (31),Creteil (2),1-1,1-0,Laval (2)
+?,(Sat) 10 Aug 2002 (31),Le Mans (2),3-1,2-0,Gueugnon (2)
+?,(Sat) 10 Aug 2002 (31),Metz (2),0-0,0-0,Reims (2)
+?,(Sat) 10 Aug 2002 (31),Niort (2),2-0,0-0,Amiens (2)
+?,(Sat) 10 Aug 2002 (31),St Etienne (2),3-0,2-0,Istres (2)
+?,(Sat) 10 Aug 2002 (31),Valence (2),2-0,1-0,Nancy (2)
+?,(Sat) 10 Aug 2002 (31),Wasquehal (2),1-1,0-1,Grenoble (2)
+?,(Sun) 11 Aug 2002 (31),Lorient (2),1-0,0-0,Toulouse (2)
+?,(Fri) 16 Aug 2002 (32),Nancy (3),0-0,0-0,Caen (3)
+?,(Sat) 17 Aug 2002 (32),Amiens (3),1-0,1-0,St Etienne (3)
+?,(Sat) 17 Aug 2002 (32),Chateauroux (3),2-0,1-0,Creteil (3)
+?,(Sat) 17 Aug 2002 (32),Clermont (3),1-0,1-0,Valence (3)
+?,(Sat) 17 Aug 2002 (32),Grenoble (3),1-0,0-0,Niort (3)
+?,(Sat) 17 Aug 2002 (32),Gueugnon (3),0-2,0-2,Wasquehal (3)
+?,(Sat) 17 Aug 2002 (32),Istres (3),1-1,1-1,Lorient (3)
+?,(Sat) 17 Aug 2002 (32),Laval (3),2-0,1-0,Beauvais (3)
+?,(Sat) 17 Aug 2002 (32),Reims (3),1-2,0-0,Le Mans (3)
+?,(Sat) 17 Aug 2002 (32),Toulouse (3),3-0,1-0,Metz (3)
+?,(Sat) 24 Aug 2002 (33),Beauvais (4),1-0,1-0,Gueugnon (4)
+?,(Sat) 24 Aug 2002 (33),Caen (4),0-0,0-0,Laval (4)
+?,(Sat) 24 Aug 2002 (33),Creteil (4),0-0,0-0,Grenoble (4)
+?,(Sat) 24 Aug 2002 (33),Le Mans (4),2-1,2-1,Toulouse (4)
+?,(Sat) 24 Aug 2002 (33),Metz (4),2-1,1-1,Lorient (4)
+?,(Sat) 24 Aug 2002 (33),Niort (4),1-3,1-2,Istres (4)
+?,(Sat) 24 Aug 2002 (33),Valence (4),4-0,1-0,Chateauroux (4)
+?,(Sat) 24 Aug 2002 (33),Wasquehal (4),2-0,1-0,Clermont (4)
+?,(Sun) 25 Aug 2002 (33),Nancy (4),1-0,0-0,Amiens (4)
+?,(Sun) 25 Aug 2002 (33),St Etienne (4),0-0,0-0,Reims (4)
+?,(Fri) 30 Aug 2002 (34),Clermont (5),1-2,1-1,Creteil (5)
+?,(Fri) 30 Aug 2002 (34),Grenoble (5),0-2,0-1,Beauvais (5)
+?,(Sat) 31 Aug 2002 (34),Amiens (5),1-2,1-1,Wasquehal (5)
+?,(Sat) 31 Aug 2002 (34),Chateauroux (5),1-0,0-0,Nancy (5)
+?,(Sat) 31 Aug 2002 (34),Gueugnon (5),0-2,0-1,St Etienne (5)
+?,(Sat) 31 Aug 2002 (34),Istres (5),1-1,1-0,Metz (5)
+?,(Sat) 31 Aug 2002 (34),Laval (5),1-2,0-1,Valence (5)
+?,(Sat) 31 Aug 2002 (34),Reims (5),1-1,0-0,Niort (5)
+?,(Sat) 31 Aug 2002 (34),Toulouse (5),2-0,1-0,Caen (5)
+?,(Sun) 1 Sep 2002 (34),Lorient (5),3-4,1-3,Le Mans (5)
+?,(Wed) 4 Sep 2002 (35),Beauvais (6),2-0,1-0,Istres (6)
+?,(Wed) 4 Sep 2002 (35),Caen (6),1-1,1-1,Clermont (6)
+?,(Wed) 4 Sep 2002 (35),Chateauroux (6),2-1,1-0,Gueugnon (6)
+?,(Wed) 4 Sep 2002 (35),Creteil (6),1-1,0-0,Amiens (6)
+?,(Wed) 4 Sep 2002 (35),Nancy (6),2-1,0-0,Laval (6)
+?,(Wed) 4 Sep 2002 (35),Niort (6),2-0,0-0,Toulouse (6)
+?,(Wed) 4 Sep 2002 (35),St Etienne (6),1-1,1-0,Lorient (6)
+?,(Wed) 4 Sep 2002 (35),Valence (6),1-0,0-0,Grenoble (6)
+?,(Wed) 4 Sep 2002 (35),Wasquehal (6),1-1,0-1,Reims (6)
+?,(Thu) 5 Sep 2002 (35),Le Mans (6),1-0,1-0,Metz (6)
+?,(Tue) 10 Sep 2002 (36),Istres (7),1-0,1-0,Le Mans (7)
+?,(Wed) 11 Sep 2002 (36),Amiens (7),3-0,0-0,Valence (7)
+?,(Wed) 11 Sep 2002 (36),Clermont (7),3-1,1-0,Nancy (7)
+?,(Wed) 11 Sep 2002 (36),Grenoble (7),2-2,1-1,Caen (7)
+?,(Wed) 11 Sep 2002 (36),Gueugnon (7),2-2,2-1,Creteil (7)
+?,(Wed) 11 Sep 2002 (36),Laval (7),1-0,1-0,Chateauroux (7)
+?,(Wed) 11 Sep 2002 (36),Metz (7),2-0,2-0,Wasquehal (7)
+?,(Wed) 11 Sep 2002 (36),Reims (7),0-0,0-0,Beauvais (7)
+?,(Wed) 11 Sep 2002 (36),Toulouse (7),1-0,0-0,St Etienne (7)
+?,(Thu) 12 Sep 2002 (36),Lorient (7),1-0,1-0,Niort (7)
+?,(Sat) 14 Sep 2002 (36),Beauvais (8),0-0,0-0,Toulouse (8)
+?,(Sat) 14 Sep 2002 (36),Chateauroux (8),1-0,0-0,Clermont (8)
+?,(Sat) 14 Sep 2002 (36),Laval (8),1-0,0-0,Reims (8)
+?,(Sat) 14 Sep 2002 (36),Nancy (8),1-1,1-0,Grenoble (8)
+?,(Sat) 14 Sep 2002 (36),St Etienne (8),0-0,0-0,Le Mans (8)
+?,(Sat) 14 Sep 2002 (36),Valence (8),0-1,0-0,Gueugnon (8)
+?,(Sat) 14 Sep 2002 (36),Wasquehal (8),0-0,0-0,Istres (8)
+?,(Sun) 15 Sep 2002 (36),Caen (8),2-0,2-0,Amiens (8)
+?,(Sun) 15 Sep 2002 (36),Creteil (8),3-1,0-1,Lorient (8)
+?,(Sun) 15 Sep 2002 (36),Niort (8),2-0,2-0,Metz (8)
+?,(Fri) 20 Sep 2002 (37),Metz (9),1-1,1-0,St Etienne (9)
+?,(Fri) 20 Sep 2002 (37),Toulouse (9),1-0,1-0,Wasquehal (9)
+?,(Sat) 21 Sep 2002 (37),Amiens (9),2-0,1-0,Beauvais (9)
+?,(Sat) 21 Sep 2002 (37),Clermont (9),3-0,0-0,Laval (9)
+?,(Sat) 21 Sep 2002 (37),Grenoble (9),0-0,0-0,Chateauroux (9)
+?,(Sat) 21 Sep 2002 (37),Gueugnon (9),1-1,0-1,Caen (9)
+?,(Sat) 21 Sep 2002 (37),Istres (9),2-2,1-1,Valence (9)
+?,(Sat) 21 Sep 2002 (37),Le Mans (9),1-0,0-0,Niort (9)
+?,(Sat) 21 Sep 2002 (37),Reims (9),0-0,0-0,Creteil (9)
+?,(Sun) 22 Sep 2002 (37),Lorient (9),1-0,0-0,Nancy (9)
+?,(Sat) 28 Sep 2002 (38),Beauvais (10),0-1,0-1,Lorient (10)
+?,(Sat) 28 Sep 2002 (38),Caen (10),1-1,0-1,Reims (10)
+?,(Sat) 28 Sep 2002 (38),Chateauroux (10),1-1,1-0,Amiens (10)
+?,(Sat) 28 Sep 2002 (38),Creteil (10),5-0,4-0,Istres (10)
+?,(Sat) 28 Sep 2002 (38),Laval (10),1-1,1-0,Grenoble (10)
+?,(Sat) 28 Sep 2002 (38),Nancy (10),1-1,0-0,Gueugnon (10)
+?,(Sat) 28 Sep 2002 (38),Niort (10),3-0,1-0,St Etienne (10)
+?,(Sat) 28 Sep 2002 (38),Valence (10),0-1,0-0,Toulouse (10)
+?,(Sat) 28 Sep 2002 (38),Wasquehal (10),2-1,1-0,Le Mans (10)
+?,(Sun) 29 Sep 2002 (38),Clermont (10),2-1,1-1,Metz (10)
+?,(Fri) 4 Oct 2002 (39),Amiens (11),1-0,0-0,Laval (11)
+?,(Fri) 4 Oct 2002 (39),Le Mans (11),3-0,0-0,Nancy (11)
+?,(Sat) 5 Oct 2002 (39),Grenoble (11),6-1,4-1,Clermont (11)
+?,(Sat) 5 Oct 2002 (39),Gueugnon (11),1-0,1-0,Niort (11)
+?,(Sat) 5 Oct 2002 (39),Istres (11),0-2,0-2,Chateauroux (11)
+?,(Sat) 5 Oct 2002 (39),Metz (11),1-0,1-0,Beauvais (11)
+?,(Sat) 5 Oct 2002 (39),Reims (11),2-0,0-0,Valence (11)
+?,(Sat) 5 Oct 2002 (39),St Etienne (11),2-0,1-0,Wasquehal (11)
+?,(Sat) 5 Oct 2002 (39),Toulouse (11),0-0,0-0,Creteil (11)
+?,(Sun) 6 Oct 2002 (39),Lorient (11),2-0,0-0,Caen (11)
+?,(Fri) 18 Oct 2002 (41),Valence (12),3-1,0-0,Metz (12)
+?,(Sat) 19 Oct 2002 (41),Beauvais (12),3-0,1-0,St Etienne (12)
+?,(Sat) 19 Oct 2002 (41),Caen (12),1-0,0-0,Istres (12)
+?,(Sat) 19 Oct 2002 (41),Chateauroux (12),3-1,1-1,Reims (12)
+?,(Sat) 19 Oct 2002 (41),Clermont (12),2-1,1-1,Lorient (12)
+?,(Sat) 19 Oct 2002 (41),Creteil (12),2-2,1-1,Le Mans (12)
+?,(Sat) 19 Oct 2002 (41),Grenoble (12),0-0,0-0,Amiens (12)
+?,(Sat) 19 Oct 2002 (41),Laval (12),2-0,1-0,Gueugnon (12)
+?,(Sat) 19 Oct 2002 (41),Nancy (12),3-2,3-1,Toulouse (12)
+?,(Sat) 19 Oct 2002 (41),Wasquehal (12),1-1,0-0,Niort (12)
+?,(Sat) 26 Oct 2002 (42),Amiens (13),1-0,1-0,Clermont (13)
+?,(Sat) 26 Oct 2002 (42),Gueugnon (13),1-0,0-0,Grenoble (13)
+?,(Sat) 26 Oct 2002 (42),Istres (13),3-1,2-1,Laval (13)
+?,(Sat) 26 Oct 2002 (42),Le Mans (13),2-0,1-0,Valence (13)
+?,(Sat) 26 Oct 2002 (42),Lorient (13),0-0,0-0,Wasquehal (13)
+?,(Sat) 26 Oct 2002 (42),Metz (13),1-0,0-0,Creteil (13)
+?,(Sat) 26 Oct 2002 (42),Niort (13),0-1,0-1,Beauvais (13)
+?,(Sat) 26 Oct 2002 (42),Reims (13),1-0,0-0,Nancy (13)
+?,(Sat) 26 Oct 2002 (42),St Etienne (13),2-1,1-0,Caen (13)
+?,(Sun) 27 Oct 2002 (42),Toulouse (13),1-0,0-0,Chateauroux (13)
+?,(Fri) 1 Nov 2002 (43),Caen (14),1-1,0-0,Le Mans (14)
+?,(Sat) 2 Nov 2002 (43),Amiens (14),0-1,0-1,Reims (14)
+?,(Sat) 2 Nov 2002 (43),Beauvais (14),0-0,0-0,Wasquehal (14)
+?,(Sat) 2 Nov 2002 (43),Chateauroux (14),3-1,1-0,Lorient (14)
+?,(Sat) 2 Nov 2002 (43),Clermont (14),0-0,0-0,Gueugnon (14)
+?,(Sat) 2 Nov 2002 (43),Creteil (14),0-0,0-0,Niort (14)
+?,(Sat) 2 Nov 2002 (43),Grenoble (14),5-0,2-0,Istres (14)
+?,(Sat) 2 Nov 2002 (43),Laval (14),1-1,0-1,Toulouse (14)
+?,(Sat) 2 Nov 2002 (43),Valence (14),0-0,0-0,St Etienne (14)
+?,(Sun) 3 Nov 2002 (43),Nancy (14),1-2,1-1,Metz (14)
+?,(Fri) 8 Nov 2002 (44),Wasquehal (15),2-2,1-2,Caen (15)
+?,(Sat) 9 Nov 2002 (44),Gueugnon (15),1-1,0-0,Amiens (15)
+?,(Sat) 9 Nov 2002 (44),Istres (15),2-0,1-0,Nancy (15)
+?,(Sat) 9 Nov 2002 (44),Le Mans (15),1-0,0-0,Beauvais (15)
+?,(Sat) 9 Nov 2002 (44),Metz (15),2-0,1-0,Chateauroux (15)
+?,(Sat) 9 Nov 2002 (44),Niort (15),2-2,1-1,Valence (15)
+?,(Sat) 9 Nov 2002 (44),Reims (15),0-1,0-0,Grenoble (15)
+?,(Sat) 9 Nov 2002 (44),St Etienne (15),1-1,0-1,Creteil (15)
+?,(Sat) 9 Nov 2002 (44),Toulouse (15),2-1,1-1,Clermont (15)
+?,(Sun) 10 Nov 2002 (44),Lorient (15),2-1,1-1,Laval (15)
+?,(Fri) 15 Nov 2002 (45),Chateauroux (16),1-1,0-0,Le Mans (16)
+?,(Sat) 16 Nov 2002 (45),Amiens (16),1-1,0-0,Istres (16)
+?,(Sat) 16 Nov 2002 (45),Caen (16),0-1,0-0,Niort (16)
+?,(Sat) 16 Nov 2002 (45),Clermont (16),3-2,1-2,Reims (16)
+?,(Sat) 16 Nov 2002 (45),Creteil (16),1-0,1-0,Beauvais (16)
+?,(Sat) 16 Nov 2002 (45),Grenoble (16),1-1,0-0,Toulouse (16)
+?,(Sat) 16 Nov 2002 (45),Gueugnon (16),1-0,0-0,Lorient (16)
+?,(Sat) 16 Nov 2002 (45),Laval (16),1-1,0-0,Metz (16)
+?,(Sun) 17 Nov 2002 (45),Nancy (16),1-0,1-0,St Etienne (16)
+?,(Fri) 29 Nov 2002 (47),Metz (17),4-0,2-0,Caen (17)
+?,(Sat) 30 Nov 2002 (47),Istres (17),1-1,0-1,Clermont (17)
+?,(Sat) 30 Nov 2002 (47),Le Mans (17),1-1,0-0,Laval (17)
+?,(Sat) 30 Nov 2002 (47),Lorient (17),0-2,0-0,Grenoble (17)
+?,(Sat) 30 Nov 2002 (47),Niort (17),3-2,0-1,Nancy (17)
+?,(Sat) 30 Nov 2002 (47),Reims (17),1-1,0-1,Gueugnon (17)
+?,(Sat) 30 Nov 2002 (47),St Etienne (17),0-0,0-0,Chateauroux (17)
+?,(Sat) 30 Nov 2002 (47),Toulouse (17),1-2,1-0,Amiens (17)
+?,(Sat) 30 Nov 2002 (47),Wasquehal (16),2-3,0-1,Creteil (17)
+?,(Wed) 4 Dec 2002 (48),Caen (18),0-0,0-0,Beauvais (17)
+?,(Wed) 4 Dec 2002 (48),Chateauroux (18),4-0,3-0,Niort (18)
+?,(Wed) 4 Dec 2002 (48),Clermont (18),1-0,1-0,Le Mans (18)
+?,(Wed) 4 Dec 2002 (48),Grenoble (18),0-0,0-0,Metz (18)
+?,(Wed) 4 Dec 2002 (48),Gueugnon (18),0-1,0-1,Toulouse (18)
+?,(Wed) 4 Dec 2002 (48),Laval (18),1-0,0-0,St Etienne (18)
+?,(Wed) 4 Dec 2002 (48),Nancy (18),0-0,0-0,Wasquehal (17)
+?,(Wed) 4 Dec 2002 (48),Reims (18),2-2,1-0,Istres (18)
+?,(Wed) 4 Dec 2002 (48),Valence (16),2-1,2-1,Creteil (18)
+?,(Thu) 5 Dec 2002 (48),Amiens (18),0-2,0-1,Lorient (18)
+?,(Sat) 7 Dec 2002 (48),Valence (17),0-1,0-0,Wasquehal (18)
+?,(Wed) 11 Dec 2002 (49),Beauvais (18),0-0,0-0,Valence (18)
+?,(Wed) 18 Dec 2002 (50),Le Mans (19),1-0,0-0,Grenoble (19)
+?,(Wed) 18 Dec 2002 (50),Wasquehal (19),0-0,0-0,Chateauroux (19)
+?,(Thu) 19 Dec 2002 (50),Beauvais (19),1-1,1-1,Nancy (19)
+?,(Thu) 19 Dec 2002 (50),Creteil (19),1-1,0-0,Caen (19)
+?,(Thu) 19 Dec 2002 (50),Istres (19),1-0,0-0,Gueugnon (19)
+?,(Thu) 19 Dec 2002 (50),Lorient (19),1-0,1-0,Valence (19)
+?,(Thu) 19 Dec 2002 (50),Metz (19),1-0,1-0,Amiens (19)
+?,(Thu) 19 Dec 2002 (50),Niort (19),2-1,1-0,Laval (19)
+?,(Thu) 19 Dec 2002 (50),St Etienne (19),3-1,2-0,Clermont (19)
+?,(Thu) 19 Dec 2002 (50),Toulouse (19),2-0,0-0,Reims (19)
+?,(Sat) 11 Jan 2003 (1),Grenoble (20),3-0,0-0,Wasquehal (20)
+?,(Sat) 11 Jan 2003 (1),Toulouse (20),3-1,0-1,Lorient (20)
+?,(Wed) 15 Jan 2003 (2),Le Mans (20),1-1,1-0,Reims (20)
+?,(Wed) 15 Jan 2003 (2),Lorient (21),1-0,1-0,Istres (20)
+?,(Wed) 15 Jan 2003 (2),Niort (20),1-0,0-0,Grenoble (21)
+?,(Wed) 15 Jan 2003 (2),Valence (20),4-1,2-1,Clermont (20)
+?,(Thu) 16 Jan 2003 (2),Metz (20),0-0,0-0,Toulouse (21)
+?,(Sat) 18 Jan 2003 (2),Amiens (20),1-0,1-0,Niort (21)
+?,(Sat) 18 Jan 2003 (2),Chateauroux (20),2-1,1-1,Caen (20)
+?,(Wed) 22 Jan 2003 (3),Amiens (21),0-0,0-0,Nancy (20)
+?,(Wed) 22 Jan 2003 (3),Chateauroux (21),1-1,1-1,Valence (21)
+?,(Wed) 22 Jan 2003 (3),Clermont (21),1-0,1-0,Wasquehal (21)
+?,(Wed) 22 Jan 2003 (3),Grenoble (22),3-0,1-0,Creteil (20)
+?,(Wed) 22 Jan 2003 (3),Gueugnon (20),2-0,1-0,Beauvais (20)
+?,(Wed) 22 Jan 2003 (3),Istres (21),1-3,1-1,Niort (22)
+?,(Wed) 22 Jan 2003 (3),Laval (20),3-2,1-1,Caen (21)
+?,(Wed) 22 Jan 2003 (3),Lorient (22),2-0,0-0,Metz (21)
+?,(Wed) 22 Jan 2003 (3),Reims (21),1-0,1-0,St Etienne (20)
+?,(Tue) 21 Jan 2003 (3),Toulouse (22),2-0,0-0,Le Mans (21)
+?,(Tue) 28 Jan 2003 (4),Le Mans (22),0-1,0-1,Lorient (23)
+?,(Tue) 28 Jan 2003 (4),Metz (22),4-1,2-0,Istres (22)
+?,(Wed) 29 Jan 2003 (4),Beauvais (21),0-1,0-1,Grenoble (23)
+?,(Wed) 29 Jan 2003 (4),Creteil (21),0-1,0-0,Clermont (22)
+?,(Wed) 29 Jan 2003 (4),Nancy (21),1-0,0-0,Chateauroux (22)
+?,(Wed) 29 Jan 2003 (4),Niort (23),0-0,0-0,Reims (22)
+?,(Wed) 29 Jan 2003 (4),St Etienne (21),0-3,0-2,Gueugnon (21)
+?,(Wed) 29 Jan 2003 (4),Valence (22),1-0,0-0,Laval (21)
+?,(Wed) 29 Jan 2003 (4),Wasquehal (22),0-0,0-0,Amiens (22)
+?,(Thu) 30 Jan 2003 (4),Caen (22),0-2,0-1,Toulouse (23)
+?,(Fri) 31 Jan 2003 (4),Metz (23),4-0,2-0,Le Mans (23)
+?,(Sat) 1 Feb 2003 (4),Grenoble (24),1-2,0-2,Valence (23)
+?,(Sat) 1 Feb 2003 (4),Istres (23),0-0,0-0,Beauvais (22)
+?,(Sat) 1 Feb 2003 (4),Laval (22),0-1,0-1,Nancy (22)
+?,(Sat) 1 Feb 2003 (4),Lorient (24),1-1,1-1,St Etienne (22)
+?,(Sun) 2 Feb 2003 (4),Clermont (23),2-3,2-2,Caen (23)
+?,(Sun) 2 Feb 2003 (4),Toulouse (24),4-1,1-0,Niort (24)
+?,(Tue) 4 Feb 2003 (5),Beauvais (23),1-0,0-0,Reims (23)
+?,(Tue) 4 Feb 2003 (5),Chateauroux (23),0-2,0-0,Laval (23)
+?,(Wed) 5 Feb 2003 (5),Caen (24),0-0,0-0,Grenoble (25)
+?,(Wed) 5 Feb 2003 (5),Le Mans (24),1-0,0-0,Istres (24)
+?,(Wed) 5 Feb 2003 (5),Nancy (23),1-0,0-0,Clermont (24)
+?,(Wed) 5 Feb 2003 (5),Niort (25),1-1,0-0,Lorient (25)
+?,(Wed) 5 Feb 2003 (5),Valence (24),0-1,0-1,Amiens (23)
+?,(Wed) 5 Feb 2003 (5),Wasquehal (23),0-0,0-0,Metz (24)
+?,(Fri) 7 Feb 2003 (5),Reims (24),3-2,3-2,Laval (24)
+?,(Sat) 8 Feb 2003 (5),Amiens (24),1-0,0-0,Caen (25)
+?,(Sat) 8 Feb 2003 (5),Clermont (25),1-3,0-0,Chateauroux (24)
+?,(Sat) 8 Feb 2003 (5),Grenoble (26),0-1,0-0,Nancy (24)
+?,(Sat) 8 Feb 2003 (5),Gueugnon (22),2-0,1-0,Valence (25)
+?,(Sat) 8 Feb 2003 (5),Istres (25),1-0,0-0,Wasquehal (24)
+?,(Sat) 8 Feb 2003 (5),Lorient (26),0-0,0-0,Creteil (22)
+?,(Sat) 8 Feb 2003 (5),Metz (25),2-1,0-0,Niort (26)
+?,(Sun) 9 Feb 2003 (5),Le Mans (25),2-2,1-1,St Etienne (23)
+?,(Sun) 9 Feb 2003 (5),Toulouse (25),2-0,0-0,Beauvais (24)
+?,(Thu) 13 Feb 2003 (6),Creteil (23),0-2,0-1,Chateauroux (25)
+?,(Fri) 14 Feb 2003 (6),Clermont (26),1-0,0-0,Beauvais (25)
+?,(Fri) 14 Feb 2003 (6),Istres (26),0-0,0-0,St Etienne (24)
+?,(Tue) 18 Feb 2003 (7),Gueugnon (23),0-1,0-0,Le Mans (26)
+?,(Tue) 18 Feb 2003 (7),Nancy (25),2-2,0-0,Valence (26)
+?,(Sat) 22 Feb 2003 (7),Beauvais (26),1-1,0-0,Amiens (25)
+?,(Sat) 22 Feb 2003 (7),Caen (26),3-0,1-0,Gueugnon (24)
+?,(Sat) 22 Feb 2003 (7),Chateauroux (26),0-0,0-0,Grenoble (27)
+?,(Sat) 22 Feb 2003 (7),Creteil (24),1-1,1-0,Reims (25)
+?,(Sat) 22 Feb 2003 (7),Laval (25),1-3,1-0,Clermont (27)
+?,(Sat) 22 Feb 2003 (7),Niort (27),1-1,0-0,Le Mans (27)
+?,(Sat) 22 Feb 2003 (7),St Etienne (25),1-1,1-1,Metz (26)
+?,(Sat) 22 Feb 2003 (7),Valence (27),0-0,0-0,Istres (27)
+?,(Sat) 22 Feb 2003 (7),Wasquehal (25),0-0,0-0,Toulouse (26)
+?,(Fri) 28 Feb 2003 (8),Grenoble (28),0-1,0-0,Laval (26)
+?,(Fri) 28 Feb 2003 (8),St Etienne (26),2-0,0-0,Niort (28)
+?,(Sat) 1 Mar 2003 (8),Amiens (26),0-2,0-1,Chateauroux (27)
+?,(Sat) 1 Mar 2003 (8),Gueugnon (25),2-2,0-0,Nancy (26)
+?,(Sat) 1 Mar 2003 (8),Istres (28),1-0,0-0,Creteil (25)
+?,(Sat) 1 Mar 2003 (8),Le Mans (28),0-0,0-0,Wasquehal (26)
+?,(Sat) 1 Mar 2003 (8),Lorient (27),3-0,2-0,Beauvais (27)
+?,(Sat) 1 Mar 2003 (8),Metz (27),2-1,0-1,Clermont (28)
+?,(Sat) 1 Mar 2003 (8),Reims (26),1-2,0-1,Caen (27)
+?,(Sat) 1 Mar 2003 (8),Toulouse (27),3-1,1-1,Valence (28)
+?,(Tue) 4 Mar 2003 (9),Laval (27),1-0,0-0,Creteil (26)
+?,(Fri) 7 Mar 2003 (9),Creteil (27),2-2,1-2,Toulouse (28)
+?,(Sat) 8 Mar 2003 (9),Beauvais (28),1-2,0-1,Metz (28)
+?,(Sat) 8 Mar 2003 (9),Caen (28),0-0,0-0,Lorient (28)
+?,(Sat) 8 Mar 2003 (9),Chateauroux (28),1-0,0-0,Istres (29)
+?,(Sat) 8 Mar 2003 (9),Clermont (29),2-0,2-0,Grenoble (29)
+?,(Sat) 8 Mar 2003 (9),Laval (28),1-0,1-0,Amiens (27)
+?,(Sat) 8 Mar 2003 (9),Nancy (27),2-2,1-1,Le Mans (29)
+?,(Sat) 8 Mar 2003 (9),Niort (29),0-1,0-1,Gueugnon (26)
+?,(Sat) 8 Mar 2003 (9),Valence (29),0-0,0-0,Reims (27)
+?,(Sat) 8 Mar 2003 (9),Wasquehal (27),1-1,1-1,St Etienne (27)
+?,(Wed) 12 Mar 2003 (10),Caen (29),2-0,0-0,Nancy (28)
+?,(Thu) 13 Mar 2003 (10),Wasquehal (28),0-0,0-0,Gueugnon (27)
+?,(Fri) 14 Mar 2003 (10),Beauvais (29),1-2,0-1,Laval (29)
+?,(Fri) 14 Mar 2003 (10),St Etienne (28),4-1,2-0,Amiens (28)
+?,(Sun) 16 Mar 2003 (10),Reims (28),0-2,0-0,Metz (29)
+?,(Tue) 18 Mar 2003 (11),Amiens (29),2-0,0-0,Creteil (28)
+?,(Tue) 18 Mar 2003 (11),Gueugnon (28),2-2,2-2,Chateauroux (29)
+?,(Fri) 21 Mar 2003 (11),Le Mans (30),2-1,1-0,Creteil (29)
+?,(Sat) 22 Mar 2003 (11),Amiens (30),1-1,0-1,Grenoble (30)
+?,(Sat) 22 Mar 2003 (11),Gueugnon (29),2-1,2-1,Laval (30)
+?,(Sat) 22 Mar 2003 (11),Istres (30),0-4,0-1,Caen (30)
+?,(Sat) 22 Mar 2003 (11),Lorient (29),0-0,0-0,Clermont (30)
+?,(Sat) 22 Mar 2003 (11),Metz (30),1-2,0-2,Valence (30)
+?,(Sat) 22 Mar 2003 (11),Niort (30),1-1,1-1,Wasquehal (29)
+?,(Sat) 22 Mar 2003 (11),Reims (29),0-1,0-0,Chateauroux (30)
+?,(Sat) 22 Mar 2003 (11),St Etienne (29),1-0,0-0,Beauvais (30)
+?,(Sat) 22 Mar 2003 (11),Toulouse (29),0-0,0-0,Nancy (29)
+?,(Thu) 27 Mar 2003 (12),Chateauroux (31),0-0,0-0,Toulouse (30)
+?,(Fri) 28 Mar 2003 (12),Beauvais (31),0-2,0-0,Niort (31)
+?,(Fri) 28 Mar 2003 (12),Caen (31),0-0,0-0,St Etienne (30)
+?,(Fri) 28 Mar 2003 (12),Clermont (31),1-1,1-1,Amiens (31)
+?,(Fri) 28 Mar 2003 (12),Creteil (30),1-1,1-1,Metz (31)
+?,(Fri) 28 Mar 2003 (12),Grenoble (31),2-0,1-0,Gueugnon (30)
+?,(Fri) 28 Mar 2003 (12),Laval (31),3-1,2-0,Istres (31)
+?,(Fri) 28 Mar 2003 (12),Nancy (30),2-1,2-1,Reims (30)
+?,(Fri) 28 Mar 2003 (12),Valence (31),2-2,2-1,Le Mans (31)
+?,(Fri) 28 Mar 2003 (12),Wasquehal (30),1-2,1-0,Lorient (30)
+?,(Fri) 4 Apr 2003 (13),Le Mans (32),2-0,1-0,Caen (32)
+?,(Fri) 4 Apr 2003 (13),Metz (32),4-0,1-0,Nancy (31)
+?,(Fri) 4 Apr 2003 (13),Toulouse (31),2-1,1-1,Laval (32)
+?,(Sat) 5 Apr 2003 (13),Gueugnon (31),2-0,1-0,Clermont (32)
+?,(Sat) 5 Apr 2003 (13),Istres (32),3-1,0-0,Grenoble (32)
+?,(Sat) 5 Apr 2003 (13),Lorient (31),2-0,2-0,Chateauroux (32)
+?,(Sat) 5 Apr 2003 (13),Niort (32),1-0,1-0,Creteil (31)
+?,(Sat) 5 Apr 2003 (13),Reims (31),1-1,1-1,Amiens (32)
+?,(Sat) 5 Apr 2003 (13),St Etienne (31),2-0,1-0,Valence (32)
+?,(Sat) 5 Apr 2003 (13),Wasquehal (31),0-2,0-1,Beauvais (32)
+?,(Fri) 11 Apr 2003 (14),Nancy (32),0-2,0-0,Istres (33)
+?,(Sat) 12 Apr 2003 (14),Amiens (33),0-0,0-0,Gueugnon (32)
+?,(Sat) 12 Apr 2003 (14),Beauvais (33),0-2,0-1,Le Mans (33)
+?,(Sat) 12 Apr 2003 (14),Caen (33),2-1,1-1,Wasquehal (32)
+?,(Sat) 12 Apr 2003 (14),Chateauroux (33),0-0,0-0,Metz (33)
+?,(Sat) 12 Apr 2003 (14),Clermont (33),0-1,0-0,Toulouse (32)
+?,(Sat) 12 Apr 2003 (14),Creteil (32),0-0,0-0,St Etienne (32)
+?,(Sat) 12 Apr 2003 (14),Grenoble (33),4-1,2-1,Reims (32)
+?,(Sat) 12 Apr 2003 (14),Valence (33),2-2,0-0,Niort (33)
+?,(Sun) 13 Apr 2003 (14),Laval (33),0-1,0-1,Lorient (32)
+?,(Fri) 18 Apr 2003 (15),Toulouse (33),2-0,1-0,Grenoble (34)
+?,(Sat) 19 Apr 2003 (15),Beauvais (34),0-0,0-0,Creteil (33)
+?,(Sat) 19 Apr 2003 (15),Istres (34),2-0,0-0,Amiens (34)
+?,(Sat) 19 Apr 2003 (15),Le Mans (34),1-0,1-0,Chateauroux (34)
+?,(Sat) 19 Apr 2003 (15),Lorient (33),0-1,0-0,Gueugnon (33)
+?,(Sat) 19 Apr 2003 (15),Metz (34),2-1,1-0,Laval (34)
+?,(Sat) 19 Apr 2003 (15),Niort (34),1-1,0-1,Caen (34)
+?,(Sat) 19 Apr 2003 (15),Reims (33),0-0,0-0,Clermont (34)
+?,(Sat) 19 Apr 2003 (15),St Etienne (33),0-1,0-1,Nancy (33)
+?,(Sat) 19 Apr 2003 (15),Wasquehal (33),1-0,1-0,Valence (34)
+?,(Tue) 22 Apr 2003 (16),Nancy (34),0-0,0-0,Lorient (34)
+?,(Thu) 24 Apr 2003 (16),St Etienne (34),1-0,0-0,Toulouse (34)
+?,(Fri) 25 Apr 2003 (16),Creteil (34),2-2,0-2,Gueugnon (34)
+?,(Fri) 25 Apr 2003 (16),Reims (34),4-1,0-1,Wasquehal (34)
+?,(Fri) 2 May 2003 (17),Grenoble (35),0-0,0-0,Lorient (35)
+?,(Fri) 2 May 2003 (17),Laval (35),1-1,0-1,Le Mans (35)
+?,(Sat) 3 May 2003 (17),Amiens (35),3-1,2-0,Toulouse (35)
+?,(Sat) 3 May 2003 (17),Caen (35),1-0,0-0,Metz (35)
+?,(Sat) 3 May 2003 (17),Chateauroux (35),1-1,0-0,St Etienne (35)
+?,(Sat) 3 May 2003 (17),Clermont (35),1-1,1-1,Istres (35)
+?,(Sat) 3 May 2003 (17),Creteil (35),2-1,0-0,Wasquehal (35)
+?,(Sat) 3 May 2003 (17),Gueugnon (35),2-2,2-2,Reims (35)
+?,(Sat) 3 May 2003 (17),Nancy (35),0-0,0-0,Niort (35)
+?,(Sat) 3 May 2003 (17),Valence (35),0-0,0-0,Beauvais (35)
+?,(Fri) 9 May 2003 (18),Metz (36),1-0,0-0,Grenoble (36)
+?,(Fri) 9 May 2003 (18),Toulouse (36),0-1,0-0,Gueugnon (36)
+?,(Sat) 10 May 2003 (18),Beauvais (36),1-2,0-0,Caen (36)
+?,(Sat) 10 May 2003 (18),Creteil (36),0-1,0-0,Valence (36)
+?,(Sat) 10 May 2003 (18),Istres (36),0-0,0-0,Reims (36)
+?,(Sat) 10 May 2003 (18),Le Mans (36),3-0,1-0,Clermont (36)
+?,(Sat) 10 May 2003 (18),Lorient (36),1-0,0-0,Amiens (36)
+?,(Sat) 10 May 2003 (18),Niort (36),4-0,1-0,Chateauroux (36)
+?,(Sat) 10 May 2003 (18),St Etienne (36),1-0,1-0,Laval (36)
+?,(Sat) 10 May 2003 (18),Wasquehal (36),1-1,0-0,Nancy (36)
+?,(Fri) 16 May 2003 (19),Amiens (37),1-0,0-0,Metz (37)
+?,(Fri) 16 May 2003 (19),Caen (37),2-2,1-0,Creteil (37)
+?,(Fri) 16 May 2003 (19),Chateauroux (37),2-2,1-0,Wasquehal (37)
+?,(Fri) 16 May 2003 (19),Clermont (37),1-0,1-0,St Etienne (37)
+?,(Fri) 16 May 2003 (19),Grenoble (37),0-0,0-0,Le Mans (37)
+?,(Fri) 16 May 2003 (19),Gueugnon (37),1-1,1-0,Istres (37)
+?,(Fri) 16 May 2003 (19),Laval (37),2-1,0-1,Niort (37)
+?,(Fri) 16 May 2003 (19),Nancy (37),0-2,0-0,Beauvais (37)
+?,(Fri) 16 May 2003 (19),Reims (37),0-1,0-0,Toulouse (37)
+?,(Fri) 16 May 2003 (19),Valence (37),1-1,1-0,Lorient (37)
+?,(Fri) 23 May 2003 (20),Beauvais (38),0-1,0-0,Chateauroux (38)
+?,(Fri) 23 May 2003 (20),Creteil (38),2-0,1-0,Nancy (38)
+?,(Fri) 23 May 2003 (20),Le Mans (38),1-1,1-1,Amiens (38)
+?,(Fri) 23 May 2003 (20),Lorient (38),3-0,1-0,Reims (38)
+?,(Fri) 23 May 2003 (20),Metz (38),4-0,2-0,Gueugnon (38)
+?,(Fri) 23 May 2003 (20),Niort (38),3-2,2-2,Clermont (38)
+?,(Fri) 23 May 2003 (20),St Etienne (38),2-1,0-0,Grenoble (38)
+?,(Fri) 23 May 2003 (20),Toulouse (38),1-0,0-0,Istres (38)
+?,(Fri) 23 May 2003 (20),Valence (38),0-0,0-0,Caen (38)
+?,(Fri) 23 May 2003 (20),Wasquehal (38),0-1,0-0,Laval (38)

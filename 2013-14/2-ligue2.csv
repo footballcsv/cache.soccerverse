@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Fri) Aug/2 2013 (30),Arles (1),Le Havre (1),2-0,2-0
-?,(Fri) Aug/2 2013 (30),Caen (1),Dijon (1),3-1,1-0
-?,(Fri) Aug/2 2013 (30),Chateauroux (1),Brest (1),3-3,0-1
-?,(Fri) Aug/2 2013 (30),Clermont (1),Tours (1),2-1,1-1
-?,(Fri) Aug/2 2013 (30),Istres (1),Angers (1),2-4,1-2
-?,(Fri) Aug/2 2013 (30),Metz (1),Laval (1),1-0,0-0
-?,(Fri) Aug/2 2013 (30),Nimes (1),Creteil (1),2-3,1-1
-?,(Fri) Aug/2 2013 (30),Niort (1),Troyes (1),1-1,0-0
-?,(Sat) Aug/3 2013 (30),Nancy (1),Auxerre (1),0-0,0-0
-?,(Sun) Aug/4 2013 (30),Lens (1),CA Bastia (1),1-0,0-0
-?,(Fri) Aug/9 2013 (31),Auxerre (2),Nimes (2),1-1,0-0
-?,(Fri) Aug/9 2013 (31),Creteil (2),Metz (2),3-2,1-1
-?,(Fri) Aug/9 2013 (31),Laval (2),Caen (2),1-2,1-1
-?,(Fri) Aug/9 2013 (31),Le Havre (2),Clermont (2),0-1,0-1
-?,(Fri) Aug/9 2013 (31),Tours (2),Niort (2),1-1,1-0
-?,(Sat) Aug/10 2013 (31),Angers (2),Chateauroux (2),1-0,1-0
-?,(Sat) Aug/10 2013 (31),CA Bastia (2),Nancy (2),1-2,0-1
-?,(Sat) Aug/10 2013 (31),Dijon (2),Lens (2),1-1,1-1
-?,(Sat) Aug/10 2013 (31),Troyes (2),Arles (2),1-0,0-0
-?,(Mon) Aug/12 2013 (32),Brest (2),Istres (2),3-1,1-0
-?,(Fri) Aug/16 2013 (32),Caen (3),Creteil (3),3-0,2-0
-?,(Fri) Aug/16 2013 (32),Chateauroux (3),Tours (3),0-4,0-2
-?,(Fri) Aug/16 2013 (32),Clermont (3),Laval (3),2-1,1-1
-?,(Fri) Aug/16 2013 (32),Dijon (3),Angers (3),1-3,1-1
-?,(Fri) Aug/16 2013 (32),Istres (3),CA Bastia (3),1-1,1-1
-?,(Fri) Aug/16 2013 (32),Metz (3),Arles (3),1-0,1-0
-?,(Fri) Aug/16 2013 (32),Nimes (3),Troyes (3),3-2,2-1
-?,(Fri) Aug/16 2013 (32),Niort (3),Le Havre (3),1-1,0-1
-?,(Sat) Aug/17 2013 (32),Lens (3),Auxerre (3),4-1,3-1
-?,(Mon) Aug/19 2013 (33),Nancy (3),Brest (3),0-1,0-1
-?,(Fri) Aug/23 2013 (33),Arles (4),Clermont (4),1-0,0-0
-?,(Fri) Aug/23 2013 (33),Auxerre (4),Chateauroux (4),2-0,1-0
-?,(Fri) Aug/23 2013 (33),CA Bastia (4),Angers (4),1-1,0-0
-?,(Fri) Aug/23 2013 (33),Creteil (4),Istres (4),2-2,2-1
-?,(Fri) Aug/23 2013 (33),Le Havre (4),Nancy (4),1-1,0-0
-?,(Fri) Aug/23 2013 (33),Metz (4),Niort (4),1-1,0-0
-?,(Fri) Aug/23 2013 (33),Tours (4),Nimes (4),3-1,3-0
-?,(Fri) Aug/23 2013 (33),Troyes (4),Caen (4),2-1,1-0
-?,(Sat) Aug/24 2013 (33),Brest (4),Dijon (4),0-0,0-0
-?,(Sat) Aug/24 2013 (33),Laval (4),Lens (4),0-2,0-0
-?,(Fri) Aug/30 2013 (34),Angers (5),Brest (5),2-1,0-0
-?,(Fri) Aug/30 2013 (34),Chateauroux (5),CA Bastia (5),2-0,1-0
-?,(Fri) Aug/30 2013 (34),Clermont (5),Creteil (5),0-0,0-0
-?,(Fri) Aug/30 2013 (34),Dijon (5),Laval (5),1-0,0-0
-?,(Fri) Aug/30 2013 (34),Istres (5),Auxerre (5),1-1,1-0
-?,(Fri) Aug/30 2013 (34),Lens (5),Troyes (5),1-0,0-0
-?,(Fri) Aug/30 2013 (34),Nancy (5),Tours (5),2-3,0-1
-?,(Fri) Aug/30 2013 (34),Nimes (5),Le Havre (5),0-0,0-0
-?,(Fri) Aug/30 2013 (34),Niort (5),Arles (5),1-0,0-0
-?,(Mon) Sep/2 2013 (35),Caen (5),Metz (5),0-2,0-0
-?,(Fri) Sep/13 2013 (36),Arles (6),Caen (6),3-2,0-2
-?,(Fri) Sep/13 2013 (36),CA Bastia (6),Dijon (6),0-0,0-0
-?,(Fri) Sep/13 2013 (36),Creteil (6),Nancy (6),1-1,0-1
-?,(Fri) Sep/13 2013 (36),Laval (6),Angers (6),4-1,2-1
-?,(Fri) Sep/13 2013 (36),Metz (6),Nimes (6),2-2,1-0
-?,(Fri) Sep/13 2013 (36),Niort (6),Clermont (6),0-0,0-0
-?,(Fri) Sep/13 2013 (36),Tours (6),Istres (6),2-2,2-1
-?,(Fri) Sep/13 2013 (36),Troyes (6),Chateauroux (6),3-0,3-0
-?,(Sat) Sep/14 2013 (36),Le Havre (6),Lens (6),6-2,4-1
-?,(Mon) Sep/16 2013 (37),Auxerre (6),Brest (6),0-0,0-0
-?,(Fri) Sep/20 2013 (37),Brest (7),CA Bastia (7),2-0,2-0
-?,(Fri) Sep/20 2013 (37),Caen (7),Niort (7),3-1,2-0
-?,(Fri) Sep/20 2013 (37),Chateauroux (7),Le Havre (7),2-2,1-1
-?,(Fri) Sep/20 2013 (37),Clermont (7),Metz (7),0-0,0-0
-?,(Fri) Sep/20 2013 (37),Dijon (7),Tours (7),2-0,1-0
-?,(Fri) Sep/20 2013 (37),Istres (7),Laval (7),3-0,1-0
-?,(Fri) Sep/20 2013 (37),Lens (7),Creteil (7),1-1,1-1
-?,(Fri) Sep/20 2013 (37),Nancy (7),Troyes (7),2-1,1-0
-?,(Fri) Sep/20 2013 (37),Nimes (7),Arles (7),1-2,1-1
-?,(Sat) Sep/21 2013 (37),Angers (7),Auxerre (7),2-0,1-0
-?,(Mon) Sep/23 2013 (38),Tours (8),Lens (8),3-1,2-0
-?,(Tue) Sep/24 2013 (38),Arles (8),Chateauroux (8),1-1,0-1
-?,(Tue) Sep/24 2013 (38),Auxerre (8),CA Bastia (8),1-0,1-0
-?,(Tue) Sep/24 2013 (38),Clermont (8),Caen (8),2-2,0-0
-?,(Tue) Sep/24 2013 (38),Creteil (8),Dijon (8),1-3,0-1
-?,(Tue) Sep/24 2013 (38),Laval (8),Brest (8),2-1,1-0
-?,(Tue) Sep/24 2013 (38),Le Havre (8),Istres (8),1-0,1-0
-?,(Tue) Sep/24 2013 (38),Metz (8),Nancy (8),3-0,1-0
-?,(Tue) Sep/24 2013 (38),Niort (8),Nimes (8),2-1,1-0
-?,(Tue) Sep/24 2013 (38),Troyes (8),Angers (8),3-3,0-2
-?,(Fri) Sep/27 2013 (38),Angers (9),Tours (9),1-1,0-1
-?,(Fri) Sep/27 2013 (38),Brest (9),Creteil (9),1-2,1-0
-?,(Fri) Sep/27 2013 (38),CA Bastia (9),Laval (9),1-1,0-1
-?,(Fri) Sep/27 2013 (38),Caen (9),Le Havre (9),1-0,0-0
-?,(Fri) Sep/27 2013 (38),Chateauroux (9),Niort (9),3-0,1-0
-?,(Fri) Sep/27 2013 (38),Dijon (9),Auxerre (9),1-0,1-0
-?,(Fri) Sep/27 2013 (38),Istres (9),Troyes (9),0-2,0-2
-?,(Fri) Sep/27 2013 (38),Nancy (9),Arles (9),0-0,0-0
-?,(Fri) Sep/27 2013 (38),Nimes (9),Clermont (9),1-1,0-1
-?,(Mon) Sep/30 2013 (39),Lens (9),Metz (9),3-2,1-1
-?,(Fri) Oct/4 2013 (39),Auxerre (10),Laval (10),2-0,0-0
-?,(Fri) Oct/4 2013 (39),Clermont (10),Istres (10),2-0,0-0
-?,(Fri) Oct/4 2013 (39),Le Havre (10),Dijon (10),0-0,0-0
-?,(Fri) Oct/4 2013 (39),Metz (10),Chateauroux (10),1-0,0-0
-?,(Fri) Oct/4 2013 (39),Niort (10),Nancy (10),2-2,2-2
-?,(Fri) Oct/4 2013 (39),Tours (10),Brest (10),1-1,1-1
-?,(Fri) Oct/4 2013 (39),Troyes (10),CA Bastia (10),6-1,1-0
-?,(Sat) Oct/5 2013 (39),Creteil (10),Angers (10),0-0,0-0
-?,(Sat) Oct/5 2013 (39),Nimes (10),Caen (10),2-1,2-1
-?,(Mon) Oct/7 2013 (40),Arles (10),Lens (10),1-1,0-0
-?,(Fri) Oct/18 2013 (41),Angers (11),Niort (11),2-0,0-0
-?,(Fri) Oct/18 2013 (41),Auxerre (11),Creteil (11),1-1,1-0
-?,(Fri) Oct/18 2013 (41),CA Bastia (11),Tours (11),1-2,0-1
-?,(Fri) Oct/18 2013 (41),Chateauroux (11),Caen (11),0-2,0-1
-?,(Fri) Oct/18 2013 (41),Dijon (11),Troyes (11),2-1,0-1
-?,(Fri) Oct/18 2013 (41),Istres (11),Arles (11),1-0,0-0
-?,(Fri) Oct/18 2013 (41),Laval (11),Le Havre (11),2-2,0-1
-?,(Fri) Oct/18 2013 (41),Nancy (11),Clermont (11),3-2,1-1
-?,(Sat) Oct/19 2013 (41),Lens (11),Nimes (11),1-0,0-0
-?,(Mon) Oct/21 2013 (42),Brest (11),Metz (11),0-3,0-2
-?,(Fri) Oct/25 2013 (42),Arles (12),Dijon (12),0-0,0-0
-?,(Fri) Oct/25 2013 (42),Creteil (12),CA Bastia (12),3-0,1-0
-?,(Fri) Oct/25 2013 (42),Le Havre (12),Brest (12),0-1,0-0
-?,(Fri) Oct/25 2013 (42),Metz (12),Angers (12),1-0,0-0
-?,(Fri) Oct/25 2013 (42),Nimes (12),Chateauroux (12),3-1,1-0
-?,(Fri) Oct/25 2013 (42),Niort (12),Istres (12),3-1,0-0
-?,(Fri) Oct/25 2013 (42),Tours (12),Laval (12),2-0,0-0
-?,(Fri) Oct/25 2013 (42),Troyes (12),Auxerre (12),2-0,1-0
-?,(Sat) Oct/26 2013 (42),Caen (12),Nancy (12),1-2,1-1
-?,(Mon) Oct/28 2013 (43),Clermont (12),Lens (12),0-0,0-0
-?,(Fri) Nov/1 2013 (43),Angers (13),Arles (13),1-0,1-0
-?,(Fri) Nov/1 2013 (43),Auxerre (13),Tours (13),4-0,1-0
-?,(Fri) Nov/1 2013 (43),CA Bastia (13),Le Havre (13),0-0,0-0
-?,(Fri) Nov/1 2013 (43),Chateauroux (13),Clermont (13),3-0,2-0
-?,(Fri) Nov/1 2013 (43),Dijon (13),Niort (13),2-2,0-2
-?,(Fri) Nov/1 2013 (43),Istres (13),Metz (13),1-2,0-1
-?,(Fri) Nov/1 2013 (43),Laval (13),Creteil (13),5-1,1-1
-?,(Fri) Nov/1 2013 (43),Nancy (13),Nimes (13),1-0,1-0
-?,(Sat) Nov/2 2013 (43),Lens (13),Caen (13),2-1,2-0
-?,(Mon) Nov/4 2013 (44),Brest (13),Troyes (13),1-1,0-1
-?,(Fri) Nov/8 2013 (44),Caen (14),Istres (14),4-0,2-0
-?,(Fri) Nov/8 2013 (44),Clermont (14),Auxerre (14),1-1,0-0
-?,(Fri) Nov/8 2013 (44),Creteil (14),Tours (14),2-1,1-0
-?,(Fri) Nov/8 2013 (44),Le Havre (14),Angers (14),1-2,0-0
-?,(Fri) Nov/8 2013 (44),Nancy (14),Chateauroux (14),2-0,2-0
-?,(Fri) Nov/8 2013 (44),Nimes (14),CA Bastia (14),0-1,0-1
-?,(Fri) Nov/8 2013 (44),Troyes (14),Laval (14),0-1,0-1
-?,(Sat) Nov/9 2013 (44),Arles (14),Brest (14),1-0,0-0
-?,(Sat) Nov/9 2013 (44),Metz (14),Dijon (14),2-0,2-0
-?,(Mon) Nov/11 2013 (45),Niort (14),Lens (14),2-2,1-0
-?,(Fri) Nov/22 2013 (46),Angers (15),Clermont (15),0-2,0-2
-?,(Fri) Nov/22 2013 (46),Brest (15),Niort (15),0-1,0-1
-?,(Fri) Nov/22 2013 (46),CA Bastia (15),Metz (15),0-2,0-0
-?,(Fri) Nov/22 2013 (46),Creteil (15),Troyes (15),0-3,0-0
-?,(Fri) Nov/22 2013 (46),Dijon (15),Nancy (15),1-0,0-0
-?,(Fri) Nov/22 2013 (46),Istres (15),Nimes (15),4-2,3-1
-?,(Fri) Nov/22 2013 (46),Laval (15),Arles (15),1-1,1-0
-?,(Fri) Nov/22 2013 (46),Tours (15),Le Havre (15),2-2,1-1
-?,(Sat) Nov/23 2013 (46),Lens (15),Chateauroux (15),2-0,0-0
-?,(Mon) Nov/25 2013 (47),Auxerre (15),Caen (15),3-2,2-2
-?,(Fri) Nov/29 2013 (47),Arles (16),CA Bastia (16),0-0,0-0
-?,(Fri) Nov/29 2013 (47),Caen (16),Angers (16),1-1,1-1
-?,(Fri) Nov/29 2013 (47),Chateauroux (16),Istres (16),2-0,1-0
-?,(Fri) Nov/29 2013 (47),Clermont (16),Brest (16),1-0,0-0
-?,(Fri) Nov/29 2013 (47),Le Havre (16),Creteil (16),3-1,2-0
-?,(Fri) Nov/29 2013 (47),Nimes (16),Dijon (16),1-1,1-0
-?,(Fri) Nov/29 2013 (47),Niort (16),Laval (16),0-1,0-1
-?,(Fri) Nov/29 2013 (47),Troyes (16),Tours (16),1-2,1-2
-?,(Sat) Nov/30 2013 (47),Nancy (16),Lens (16),1-0,1-0
-?,(Mon) Dec/2 2013 (48),Metz (16),Auxerre (16),3-0,0-0
-?,(Fri) Dec/13 2013 (49),Auxerre (17),Niort (17),2-0,0-0
-?,(Fri) Dec/13 2013 (49),Brest (17),Nimes (17),1-1,0-0
-?,(Fri) Dec/13 2013 (49),CA Bastia (17),Caen (17),1-5,0-2
-?,(Fri) Dec/13 2013 (49),Creteil (17),Arles (17),1-1,1-0
-?,(Fri) Dec/13 2013 (49),Istres (17),Nancy (17),0-0,0-0
-?,(Fri) Dec/13 2013 (49),Laval (17),Chateauroux (17),2-2,0-1
-?,(Fri) Dec/13 2013 (49),Tours (17),Metz (17),4-2,2-1
-?,(Fri) Dec/13 2013 (49),Troyes (17),Le Havre (17),0-1,0-0
-?,(Sat) Dec/14 2013 (49),Angers (17),Lens (17),1-2,0-1
-?,(Mon) Dec/16 2013 (50),Dijon (17),Clermont (17),1-0,0-0
-?,(Thu) Dec/19 2013 (50),Lens (18),Istres (18),1-2,0-0
-?,(Fri) Dec/20 2013 (50),Caen (18),Brest (18),0-0,0-0
-?,(Fri) Dec/20 2013 (50),Chateauroux (18),Dijon (18),3-1,1-0
-?,(Fri) Dec/20 2013 (50),Clermont (18),CA Bastia (18),2-0,1-0
-?,(Fri) Dec/20 2013 (50),Le Havre (18),Auxerre (18),2-0,2-0
-?,(Fri) Dec/20 2013 (50),Nancy (18),Laval (18),2-1,1-0
-?,(Fri) Dec/20 2013 (50),Nimes (18),Angers (18),0-2,0-2
-?,(Fri) Dec/20 2013 (50),Niort (18),Creteil (18),2-1,1-0
-?,(Sat) Dec/21 2013 (50),Arles (18),Tours (18),1-0,0-0
-?,(Sat) Dec/21 2013 (50),Metz (18),Troyes (18),1-0,1-0
-?,(Fri) Jan/10 2014 (1),Auxerre (19),Arles (19),1-1,1-1
-?,(Fri) Jan/10 2014 (1),CA Bastia (19),Niort (19),0-3,0-0
-?,(Fri) Jan/10 2014 (1),Dijon (19),Istres (19),4-1,2-0
-?,(Fri) Jan/10 2014 (1),Laval (19),Nimes (19),1-3,1-1
-?,(Fri) Jan/10 2014 (1),Le Havre (19),Metz (19),2-2,1-1
-?,(Fri) Jan/10 2014 (1),Tours (19),Caen (19),2-1,1-0
-?,(Fri) Jan/10 2014 (1),Troyes (19),Clermont (19),2-2,0-1
-?,(Sat) Jan/11 2014 (1),Angers (19),Nancy (19),1-1,1-0
-?,(Sat) Jan/11 2014 (1),Creteil (19),Chateauroux (19),3-2,1-2
-?,(Mon) Jan/13 2014 (2),Brest (19),Lens (19),0-1,0-1
-?,(Fri) Jan/17 2014 (2),Caen (20),Laval (20),2-1,1-1
-?,(Fri) Jan/17 2014 (2),Chateauroux (20),Angers (20),0-1,0-0
-?,(Fri) Jan/17 2014 (2),Clermont (20),Le Havre (20),0-1,0-1
-?,(Fri) Jan/17 2014 (2),Istres (20),Brest (20),3-1,1-0
-?,(Fri) Jan/17 2014 (2),Nancy (20),CA Bastia (20),0-1,0-0
-?,(Fri) Jan/17 2014 (2),Nimes (20),Auxerre (20),2-2,1-1
-?,(Fri) Jan/17 2014 (2),Niort (20),Tours (20),3-2,2-0
-?,(Sat) Jan/18 2014 (2),Arles (20),Troyes (20),3-0,1-0
-?,(Sat) Jan/18 2014 (2),Lens (20),Dijon (20),2-2,1-2
-?,(Mon) Jan/20 2014 (3),Metz (20),Creteil (20),1-1,0-0
-?,(Fri) Jan/24 2014 (3),Arles (21),Metz (21),1-0,0-0
-?,(Fri) Jan/24 2014 (3),Brest (21),Nancy (21),0-0,0-0
-?,(Fri) Jan/24 2014 (3),CA Bastia (21),Istres (21),2-2,1-1
-?,(Fri) Jan/24 2014 (3),Creteil (21),Caen (21),1-2,1-2
-?,(Fri) Jan/24 2014 (3),Laval (21),Clermont (21),0-0,0-0
-?,(Fri) Jan/24 2014 (3),Le Havre (21),Niort (21),1-2,0-1
-?,(Fri) Jan/24 2014 (3),Troyes (21),Nimes (21),2-1,1-0
-?,(Sat) Jan/25 2014 (3),Tours (21),Chateauroux (21),5-2,2-1
-?,(Mon) Jan/27 2014 (4),Angers (21),Dijon (21),0-0,0-0
-?,(Mon) Jan/27 2014 (4),Auxerre (21),Lens (21),1-2,1-1
-?,(Fri) Jan/31 2014 (4),Angers (22),CA Bastia (22),1-0,0-0
-?,(Fri) Jan/31 2014 (4),Caen (22),Troyes (22),1-1,0-1
-?,(Fri) Jan/31 2014 (4),Chateauroux (22),Auxerre (22),2-0,0-0
-?,(Fri) Jan/31 2014 (4),Clermont (22),Arles (22),1-1,0-0
-?,(Fri) Jan/31 2014 (4),Dijon (22),Brest (22),3-0,2-0
-?,(Fri) Jan/31 2014 (4),Istres (22),Creteil (22),3-2,1-1
-?,(Fri) Jan/31 2014 (4),Nimes (22),Tours (22),3-0,1-0
-?,(Fri) Jan/31 2014 (4),Niort (22),Metz (22),2-0,0-0
-?,(Sat) Feb/1 2014 (4),Lens (22),Laval (22),0-0,0-0
-?,(Mon) Feb/3 2014 (5),Nancy (22),Le Havre (22),3-2,2-1
-?,(Fri) Feb/7 2014 (5),Arles (23),Niort (23),0-0,0-0
-?,(Fri) Feb/7 2014 (5),Auxerre (23),Istres (23),1-0,0-0
-?,(Fri) Feb/7 2014 (5),CA Bastia (23),Chateauroux (23),1-4,1-0
-?,(Fri) Feb/7 2014 (5),Creteil (23),Clermont (23),2-0,2-0
-?,(Fri) Feb/7 2014 (5),Laval (23),Dijon (23),0-0,0-0
-?,(Fri) Feb/7 2014 (5),Le Havre (23),Nimes (23),0-1,0-0
-?,(Fri) Feb/7 2014 (5),Metz (23),Caen (23),2-1,1-1
-?,(Sat) Feb/8 2014 (5),Troyes (23),Lens (23),1-0,0-0
-?,(Mon) Feb/10 2014 (6),Tours (23),Nancy (23),1-3,1-0
-?,(Fri) Feb/14 2014 (6),Caen (24),Arles (24),1-0,1-0
-?,(Fri) Feb/14 2014 (6),Chateauroux (24),Troyes (24),2-1,1-0
-?,(Fri) Feb/14 2014 (6),Clermont (24),Niort (24),0-1,0-1
-?,(Fri) Feb/14 2014 (6),Dijon (24),CA Bastia (24),3-0,1-0
-?,(Fri) Feb/14 2014 (6),Istres (24),Tours (24),1-0,1-0
-?,(Fri) Feb/14 2014 (6),Nancy (24),Creteil (24),2-2,1-1
-?,(Fri) Feb/14 2014 (6),Nimes (24),Metz (24),0-0,0-0
-?,(Sat) Feb/15 2014 (6),Angers (23),Laval (24),1-1,1-1
-?,(Sat) Feb/15 2014 (6),Brest (23),Auxerre (24),1-0,1-0
-?,(Mon) Feb/17 2014 (7),Lens (24),Le Havre (24),1-1,0-1
-?,(Fri) Feb/21 2014 (7),Arles (25),Nimes (25),1-1,0-1
-?,(Fri) Feb/21 2014 (7),Auxerre (25),Angers (24),1-2,0-1
-?,(Fri) Feb/21 2014 (7),Laval (25),Istres (25),3-4,3-2
-?,(Fri) Feb/21 2014 (7),Le Havre (25),Chateauroux (25),0-0,0-0
-?,(Fri) Feb/21 2014 (7),Niort (25),Caen (25),0-0,0-0
-?,(Fri) Feb/21 2014 (7),Tours (25),Dijon (25),1-0,1-0
-?,(Fri) Feb/21 2014 (7),Troyes (25),Nancy (25),2-0,1-0
-?,(Sat) Feb/22 2014 (7),Metz (25),Clermont (25),1-0,0-0
-?,(Mon) Feb/24 2014 (8),CA Bastia (25),Brest (24),0-1,0-0
-?,(Mon) Feb/24 2014 (8),Creteil (25),Lens (25),2-3,1-1
-?,(Fri) Feb/28 2014 (8),Angers (25),Troyes (26),1-1,1-0
-?,(Fri) Feb/28 2014 (8),Brest (25),Laval (26),2-1,0-1
-?,(Fri) Feb/28 2014 (8),CA Bastia (26),Auxerre (26),0-0,0-0
-?,(Fri) Feb/28 2014 (8),Caen (26),Clermont (26),2-1,0-1
-?,(Fri) Feb/28 2014 (8),Chateauroux (26),Arles (26),2-0,1-0
-?,(Fri) Feb/28 2014 (8),Dijon (26),Creteil (26),2-2,1-2
-?,(Fri) Feb/28 2014 (8),Istres (26),Le Havre (26),0-1,0-1
-?,(Fri) Feb/28 2014 (8),Nimes (26),Niort (26),4-1,2-1
-?,(Sat) Mar/1 2014 (8),Nancy (26),Metz (26),0-1,0-1
-?,(Mon) Mar/3 2014 (9),Lens (26),Tours (26),2-2,0-2
-?,(Fri) Mar/7 2014 (9),Arles (27),Nancy (27),1-2,0-1
-?,(Fri) Mar/7 2014 (9),Auxerre (27),Dijon (27),2-2,0-1
-?,(Fri) Mar/7 2014 (9),Clermont (27),Nimes (27),1-0,1-0
-?,(Fri) Mar/7 2014 (9),Creteil (27),Brest (26),0-0,0-0
-?,(Fri) Mar/7 2014 (9),Laval (27),CA Bastia (27),2-0,2-0
-?,(Fri) Mar/7 2014 (9),Le Havre (27),Caen (27),1-1,1-1
-?,(Fri) Mar/7 2014 (9),Niort (27),Chateauroux (27),4-0,2-0
-?,(Fri) Mar/7 2014 (9),Troyes (27),Istres (27),4-1,2-1
-?,(Sat) Mar/8 2014 (9),Metz (27),Lens (27),0-1,0-0
-?,(Mon) Mar/10 2014 (10),Tours (27),Angers (26),2-0,0-0
-?,(Fri) Mar/14 2014 (10),Brest (27),Tours (28),2-0,1-0
-?,(Fri) Mar/14 2014 (10),CA Bastia (28),Troyes (28),1-0,1-0
-?,(Fri) Mar/14 2014 (10),Chateauroux (28),Metz (28),0-1,0-0
-?,(Fri) Mar/14 2014 (10),Dijon (28),Le Havre (28),1-2,1-2
-?,(Fri) Mar/14 2014 (10),Istres (28),Clermont (28),1-1,0-1
-?,(Fri) Mar/14 2014 (10),Laval (28),Auxerre (28),3-0,0-0
-?,(Fri) Mar/14 2014 (10),Nancy (28),Niort (28),1-1,1-0
-?,(Sat) Mar/15 2014 (10),Angers (27),Creteil (28),2-2,0-2
-?,(Mon) Mar/17 2014 (11),Lens (28),Arles (28),3-0,2-0
-?,(Tue) Mar/18 2014 (11),Brest (28),Angers (28),1-0,0-0
-?,(Fri) Mar/21 2014 (11),Arles (29),Istres (29),2-2,0-1
-?,(Fri) Mar/21 2014 (11),Caen (28),Chateauroux (29),1-1,1-0
-?,(Fri) Mar/21 2014 (11),Clermont (29),Nancy (29),1-0,1-0
-?,(Fri) Mar/21 2014 (11),Creteil (29),Auxerre (29),0-2,0-2
-?,(Fri) Mar/21 2014 (11),Le Havre (29),Laval (29),1-1,0-1
-?,(Fri) Mar/21 2014 (11),Niort (29),Angers (29),2-1,1-0
-?,(Fri) Mar/21 2014 (11),Tours (29),CA Bastia (29),1-0,1-0
-?,(Fri) Mar/21 2014 (11),Troyes (29),Dijon (29),2-0,0-0
-?,(Sat) Mar/22 2014 (11),Nimes (28),Lens (29),3-3,2-2
-?,(Mon) Mar/24 2014 (12),Metz (29),Brest (29),1-0,0-0
-?,(Fri) Mar/28 2014 (12),Auxerre (30),Troyes (30),0-0,0-0
-?,(Fri) Mar/28 2014 (12),Brest (30),Le Havre (30),1-1,0-0
-?,(Fri) Mar/28 2014 (12),CA Bastia (30),Creteil (30),3-1,2-1
-?,(Fri) Mar/28 2014 (12),Chateauroux (30),Nimes (29),2-0,2-0
-?,(Fri) Mar/28 2014 (12),Dijon (30),Arles (30),1-1,1-0
-?,(Fri) Mar/28 2014 (12),Istres (30),Niort (30),2-1,2-0
-?,(Fri) Mar/28 2014 (12),Laval (30),Tours (30),1-0,0-0
-?,(Fri) Mar/28 2014 (12),Nancy (30),Caen (29),1-1,1-0
-?,(Sat) Mar/29 2014 (12),Angers (30),Metz (30),2-2,1-2
-?,(Mon) Mar/31 2014 (13),Lens (30),Clermont (30),1-1,1-1
-?,(Fri) Apr/4 2014 (13),Arles (31),Angers (31),3-0,1-0
-?,(Fri) Apr/4 2014 (13),Clermont (31),Chateauroux (31),1-1,1-0
-?,(Fri) Apr/4 2014 (13),Creteil (31),Laval (31),4-0,4-0
-?,(Fri) Apr/4 2014 (13),Le Havre (31),CA Bastia (31),1-0,0-0
-?,(Fri) Apr/4 2014 (13),Nimes (30),Nancy (31),0-1,0-1
-?,(Fri) Apr/4 2014 (13),Niort (31),Dijon (31),2-0,2-0
-?,(Fri) Apr/4 2014 (13),Tours (31),Auxerre (31),2-2,1-1
-?,(Fri) Apr/4 2014 (13),Troyes (31),Brest (31),0-2,0-1
-?,(Sat) Apr/5 2014 (13),Caen (30),Lens (31),1-0,1-0
-?,(Mon) Apr/7 2014 (14),Metz (31),Istres (31),2-1,1-1
-?,(Fri) Apr/11 2014 (14),Angers (32),Le Havre (32),1-0,0-0
-?,(Fri) Apr/11 2014 (14),Auxerre (32),Clermont (32),0-2,0-1
-?,(Fri) Apr/11 2014 (14),Brest (32),Arles (32),2-0,0-0
-?,(Fri) Apr/11 2014 (14),CA Bastia (32),Nimes (31),0-0,0-0
-?,(Fri) Apr/11 2014 (14),Chateauroux (32),Nancy (32),0-3,0-1
-?,(Fri) Apr/11 2014 (14),Istres (32),Caen (31),2-3,2-1
-?,(Fri) Apr/11 2014 (14),Laval (32),Troyes (32),2-1,1-0
-?,(Fri) Apr/11 2014 (14),Tours (32),Creteil (32),1-2,0-1
-?,(Sat) Apr/12 2014 (14),Lens (32),Niort (32),2-0,0-0
-?,(Mon) Apr/14 2014 (15),Dijon (32),Metz (32),2-2,1-1
-?,(Fri) Apr/18 2014 (15),Arles (33),Laval (33),1-1,1-0
-?,(Fri) Apr/18 2014 (15),Clermont (33),Angers (33),1-1,0-1
-?,(Fri) Apr/18 2014 (15),Le Havre (33),Tours (33),2-2,2-0
-?,(Fri) Apr/18 2014 (15),Metz (33),CA Bastia (33),1-0,0-0
-?,(Fri) Apr/18 2014 (15),Nancy (33),Dijon (33),2-1,1-0
-?,(Fri) Apr/18 2014 (15),Nimes (32),Istres (33),1-0,0-0
-?,(Fri) Apr/18 2014 (15),Niort (33),Brest (33),1-2,0-0
-?,(Fri) Apr/18 2014 (15),Troyes (33),Creteil (33),0-3,0-2
-?,(Sat) Apr/19 2014 (15),Caen (32),Auxerre (33),1-0,0-0
-?,(Mon) Apr/21 2014 (16),Chateauroux (33),Lens (33),1-1,0-1
-?,(Fri) Apr/25 2014 (16),Brest (34),Clermont (34),2-0,1-0
-?,(Fri) Apr/25 2014 (16),CA Bastia (34),Arles (34),2-2,2-1
-?,(Fri) Apr/25 2014 (16),Creteil (34),Le Havre (34),2-0,1-0
-?,(Fri) Apr/25 2014 (16),Dijon (34),Nimes (33),5-1,2-0
-?,(Fri) Apr/25 2014 (16),Istres (34),Chateauroux (34),0-0,0-0
-?,(Fri) Apr/25 2014 (16),Laval (34),Niort (34),2-4,1-2
-?,(Fri) Apr/25 2014 (16),Lens (34),Nancy (34),1-1,0-0
-?,(Fri) Apr/25 2014 (16),Tours (34),Troyes (34),1-2,0-0
-?,(Sat) Apr/26 2014 (16),Auxerre (34),Metz (34),0-3,0-2
-?,(Mon) Apr/28 2014 (17),Angers (34),Caen (33),1-2,0-0
-?,(Fri) May/2 2014 (17),Arles (35),Creteil (35),2-1,1-0
-?,(Fri) May/2 2014 (17),Caen (34),CA Bastia (35),6-1,3-0
-?,(Fri) May/2 2014 (17),Chateauroux (35),Laval (35),1-1,1-0
-?,(Fri) May/2 2014 (17),Clermont (35),Dijon (35),0-1,0-1
-?,(Fri) May/2 2014 (17),Le Havre (35),Troyes (35),2-1,0-0
-?,(Fri) May/2 2014 (17),Metz (35),Tours (35),1-1,0-1
-?,(Fri) May/2 2014 (17),Nancy (35),Istres (35),3-1,3-1
-?,(Fri) May/2 2014 (17),Nimes (34),Brest (35),1-1,1-0
-?,(Fri) May/2 2014 (17),Niort (35),Auxerre (35),1-0,1-0
-?,(Sat) May/3 2014 (17),Lens (35),Angers (35),0-0,0-0
-?,(Mon) May/5 2014 (18),Brest (36),Caen (35),0-1,0-1
-?,(Tue) May/6 2014 (18),Angers (36),Nimes (35),2-3,1-2
-?,(Tue) May/6 2014 (18),Auxerre (36),Le Havre (36),2-1,0-0
-?,(Tue) May/6 2014 (18),CA Bastia (36),Clermont (36),1-1,0-1
-?,(Tue) May/6 2014 (18),Creteil (36),Niort (36),1-1,1-0
-?,(Tue) May/6 2014 (18),Dijon (36),Chateauroux (36),2-1,0-0
-?,(Tue) May/6 2014 (18),Istres (36),Lens (36),1-6,0-1
-?,(Tue) May/6 2014 (18),Laval (36),Nancy (36),1-0,0-0
-?,(Tue) May/6 2014 (18),Tours (36),Arles (36),2-2,1-2
-?,(Tue) May/6 2014 (18),Troyes (36),Metz (36),0-1,0-0
-?,(Fri) May/9 2014 (18),Arles (37),Auxerre (37),0-2,0-0
-?,(Fri) May/9 2014 (18),Caen (36),Tours (37),1-3,0-1
-?,(Fri) May/9 2014 (18),Chateauroux (37),Creteil (37),0-2,0-0
-?,(Fri) May/9 2014 (18),Clermont (37),Troyes (37),0-3,0-1
-?,(Fri) May/9 2014 (18),Istres (37),Dijon (37),2-4,0-3
-?,(Fri) May/9 2014 (18),Lens (37),Brest (37),0-1,0-0
-?,(Fri) May/9 2014 (18),Metz (37),Le Havre (37),3-0,3-0
-?,(Fri) May/9 2014 (18),Nancy (37),Angers (37),3-1,0-0
-?,(Fri) May/9 2014 (18),Nimes (36),Laval (37),2-1,1-1
-?,(Fri) May/9 2014 (18),Niort (37),CA Bastia (37),1-1,0-0
-?,(Tue) May/13 2014 (19),Caen (37),Nimes (37),1-1,1-1
-?,(Fri) May/16 2014 (19),Angers (38),Istres (38),1-0,0-0
-?,(Fri) May/16 2014 (19),Auxerre (38),Nancy (38),0-0,0-0
-?,(Fri) May/16 2014 (19),Brest (38),Chateauroux (38),3-0,1-0
-?,(Fri) May/16 2014 (19),CA Bastia (38),Lens (38),0-2,0-2
-?,(Fri) May/16 2014 (19),Creteil (38),Nimes (38),1-1,1-1
-?,(Fri) May/16 2014 (19),Dijon (38),Caen (38),2-2,1-1
-?,(Fri) May/16 2014 (19),Laval (38),Metz (38),0-0,0-0
-?,(Fri) May/16 2014 (19),Le Havre (38),Arles (38),2-1,0-0
-?,(Fri) May/16 2014 (19),Tours (38),Clermont (38),3-0,2-0
-?,(Fri) May/16 2014 (19),Troyes (38),Niort (38),4-1,3-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 2 Aug 2013 (30),Arles (1),2-0,2-0,Le Havre (1)
+?,(Fri) 2 Aug 2013 (30),Caen (1),3-1,1-0,Dijon (1)
+?,(Fri) 2 Aug 2013 (30),Chateauroux (1),3-3,0-1,Brest (1)
+?,(Fri) 2 Aug 2013 (30),Clermont (1),2-1,1-1,Tours (1)
+?,(Fri) 2 Aug 2013 (30),Istres (1),2-4,1-2,Angers (1)
+?,(Fri) 2 Aug 2013 (30),Metz (1),1-0,0-0,Laval (1)
+?,(Fri) 2 Aug 2013 (30),Nimes (1),2-3,1-1,Creteil (1)
+?,(Fri) 2 Aug 2013 (30),Niort (1),1-1,0-0,Troyes (1)
+?,(Sat) 3 Aug 2013 (30),Nancy (1),0-0,0-0,Auxerre (1)
+?,(Sun) 4 Aug 2013 (30),Lens (1),1-0,0-0,CA Bastia (1)
+?,(Fri) 9 Aug 2013 (31),Auxerre (2),1-1,0-0,Nimes (2)
+?,(Fri) 9 Aug 2013 (31),Creteil (2),3-2,1-1,Metz (2)
+?,(Fri) 9 Aug 2013 (31),Laval (2),1-2,1-1,Caen (2)
+?,(Fri) 9 Aug 2013 (31),Le Havre (2),0-1,0-1,Clermont (2)
+?,(Fri) 9 Aug 2013 (31),Tours (2),1-1,1-0,Niort (2)
+?,(Sat) 10 Aug 2013 (31),Angers (2),1-0,1-0,Chateauroux (2)
+?,(Sat) 10 Aug 2013 (31),CA Bastia (2),1-2,0-1,Nancy (2)
+?,(Sat) 10 Aug 2013 (31),Dijon (2),1-1,1-1,Lens (2)
+?,(Sat) 10 Aug 2013 (31),Troyes (2),1-0,0-0,Arles (2)
+?,(Mon) 12 Aug 2013 (32),Brest (2),3-1,1-0,Istres (2)
+?,(Fri) 16 Aug 2013 (32),Caen (3),3-0,2-0,Creteil (3)
+?,(Fri) 16 Aug 2013 (32),Chateauroux (3),0-4,0-2,Tours (3)
+?,(Fri) 16 Aug 2013 (32),Clermont (3),2-1,1-1,Laval (3)
+?,(Fri) 16 Aug 2013 (32),Dijon (3),1-3,1-1,Angers (3)
+?,(Fri) 16 Aug 2013 (32),Istres (3),1-1,1-1,CA Bastia (3)
+?,(Fri) 16 Aug 2013 (32),Metz (3),1-0,1-0,Arles (3)
+?,(Fri) 16 Aug 2013 (32),Nimes (3),3-2,2-1,Troyes (3)
+?,(Fri) 16 Aug 2013 (32),Niort (3),1-1,0-1,Le Havre (3)
+?,(Sat) 17 Aug 2013 (32),Lens (3),4-1,3-1,Auxerre (3)
+?,(Mon) 19 Aug 2013 (33),Nancy (3),0-1,0-1,Brest (3)
+?,(Fri) 23 Aug 2013 (33),Arles (4),1-0,0-0,Clermont (4)
+?,(Fri) 23 Aug 2013 (33),Auxerre (4),2-0,1-0,Chateauroux (4)
+?,(Fri) 23 Aug 2013 (33),CA Bastia (4),1-1,0-0,Angers (4)
+?,(Fri) 23 Aug 2013 (33),Creteil (4),2-2,2-1,Istres (4)
+?,(Fri) 23 Aug 2013 (33),Le Havre (4),1-1,0-0,Nancy (4)
+?,(Fri) 23 Aug 2013 (33),Metz (4),1-1,0-0,Niort (4)
+?,(Fri) 23 Aug 2013 (33),Tours (4),3-1,3-0,Nimes (4)
+?,(Fri) 23 Aug 2013 (33),Troyes (4),2-1,1-0,Caen (4)
+?,(Sat) 24 Aug 2013 (33),Brest (4),0-0,0-0,Dijon (4)
+?,(Sat) 24 Aug 2013 (33),Laval (4),0-2,0-0,Lens (4)
+?,(Fri) 30 Aug 2013 (34),Angers (5),2-1,0-0,Brest (5)
+?,(Fri) 30 Aug 2013 (34),Chateauroux (5),2-0,1-0,CA Bastia (5)
+?,(Fri) 30 Aug 2013 (34),Clermont (5),0-0,0-0,Creteil (5)
+?,(Fri) 30 Aug 2013 (34),Dijon (5),1-0,0-0,Laval (5)
+?,(Fri) 30 Aug 2013 (34),Istres (5),1-1,1-0,Auxerre (5)
+?,(Fri) 30 Aug 2013 (34),Lens (5),1-0,0-0,Troyes (5)
+?,(Fri) 30 Aug 2013 (34),Nancy (5),2-3,0-1,Tours (5)
+?,(Fri) 30 Aug 2013 (34),Nimes (5),0-0,0-0,Le Havre (5)
+?,(Fri) 30 Aug 2013 (34),Niort (5),1-0,0-0,Arles (5)
+?,(Mon) 2 Sep 2013 (35),Caen (5),0-2,0-0,Metz (5)
+?,(Fri) 13 Sep 2013 (36),Arles (6),3-2,0-2,Caen (6)
+?,(Fri) 13 Sep 2013 (36),CA Bastia (6),0-0,0-0,Dijon (6)
+?,(Fri) 13 Sep 2013 (36),Creteil (6),1-1,0-1,Nancy (6)
+?,(Fri) 13 Sep 2013 (36),Laval (6),4-1,2-1,Angers (6)
+?,(Fri) 13 Sep 2013 (36),Metz (6),2-2,1-0,Nimes (6)
+?,(Fri) 13 Sep 2013 (36),Niort (6),0-0,0-0,Clermont (6)
+?,(Fri) 13 Sep 2013 (36),Tours (6),2-2,2-1,Istres (6)
+?,(Fri) 13 Sep 2013 (36),Troyes (6),3-0,3-0,Chateauroux (6)
+?,(Sat) 14 Sep 2013 (36),Le Havre (6),6-2,4-1,Lens (6)
+?,(Mon) 16 Sep 2013 (37),Auxerre (6),0-0,0-0,Brest (6)
+?,(Fri) 20 Sep 2013 (37),Brest (7),2-0,2-0,CA Bastia (7)
+?,(Fri) 20 Sep 2013 (37),Caen (7),3-1,2-0,Niort (7)
+?,(Fri) 20 Sep 2013 (37),Chateauroux (7),2-2,1-1,Le Havre (7)
+?,(Fri) 20 Sep 2013 (37),Clermont (7),0-0,0-0,Metz (7)
+?,(Fri) 20 Sep 2013 (37),Dijon (7),2-0,1-0,Tours (7)
+?,(Fri) 20 Sep 2013 (37),Istres (7),3-0,1-0,Laval (7)
+?,(Fri) 20 Sep 2013 (37),Lens (7),1-1,1-1,Creteil (7)
+?,(Fri) 20 Sep 2013 (37),Nancy (7),2-1,1-0,Troyes (7)
+?,(Fri) 20 Sep 2013 (37),Nimes (7),1-2,1-1,Arles (7)
+?,(Sat) 21 Sep 2013 (37),Angers (7),2-0,1-0,Auxerre (7)
+?,(Mon) 23 Sep 2013 (38),Tours (8),3-1,2-0,Lens (8)
+?,(Tue) 24 Sep 2013 (38),Arles (8),1-1,0-1,Chateauroux (8)
+?,(Tue) 24 Sep 2013 (38),Auxerre (8),1-0,1-0,CA Bastia (8)
+?,(Tue) 24 Sep 2013 (38),Clermont (8),2-2,0-0,Caen (8)
+?,(Tue) 24 Sep 2013 (38),Creteil (8),1-3,0-1,Dijon (8)
+?,(Tue) 24 Sep 2013 (38),Laval (8),2-1,1-0,Brest (8)
+?,(Tue) 24 Sep 2013 (38),Le Havre (8),1-0,1-0,Istres (8)
+?,(Tue) 24 Sep 2013 (38),Metz (8),3-0,1-0,Nancy (8)
+?,(Tue) 24 Sep 2013 (38),Niort (8),2-1,1-0,Nimes (8)
+?,(Tue) 24 Sep 2013 (38),Troyes (8),3-3,0-2,Angers (8)
+?,(Fri) 27 Sep 2013 (38),Angers (9),1-1,0-1,Tours (9)
+?,(Fri) 27 Sep 2013 (38),Brest (9),1-2,1-0,Creteil (9)
+?,(Fri) 27 Sep 2013 (38),CA Bastia (9),1-1,0-1,Laval (9)
+?,(Fri) 27 Sep 2013 (38),Caen (9),1-0,0-0,Le Havre (9)
+?,(Fri) 27 Sep 2013 (38),Chateauroux (9),3-0,1-0,Niort (9)
+?,(Fri) 27 Sep 2013 (38),Dijon (9),1-0,1-0,Auxerre (9)
+?,(Fri) 27 Sep 2013 (38),Istres (9),0-2,0-2,Troyes (9)
+?,(Fri) 27 Sep 2013 (38),Nancy (9),0-0,0-0,Arles (9)
+?,(Fri) 27 Sep 2013 (38),Nimes (9),1-1,0-1,Clermont (9)
+?,(Mon) 30 Sep 2013 (39),Lens (9),3-2,1-1,Metz (9)
+?,(Fri) 4 Oct 2013 (39),Auxerre (10),2-0,0-0,Laval (10)
+?,(Fri) 4 Oct 2013 (39),Clermont (10),2-0,0-0,Istres (10)
+?,(Fri) 4 Oct 2013 (39),Le Havre (10),0-0,0-0,Dijon (10)
+?,(Fri) 4 Oct 2013 (39),Metz (10),1-0,0-0,Chateauroux (10)
+?,(Fri) 4 Oct 2013 (39),Niort (10),2-2,2-2,Nancy (10)
+?,(Fri) 4 Oct 2013 (39),Tours (10),1-1,1-1,Brest (10)
+?,(Fri) 4 Oct 2013 (39),Troyes (10),6-1,1-0,CA Bastia (10)
+?,(Sat) 5 Oct 2013 (39),Creteil (10),0-0,0-0,Angers (10)
+?,(Sat) 5 Oct 2013 (39),Nimes (10),2-1,2-1,Caen (10)
+?,(Mon) 7 Oct 2013 (40),Arles (10),1-1,0-0,Lens (10)
+?,(Fri) 18 Oct 2013 (41),Angers (11),2-0,0-0,Niort (11)
+?,(Fri) 18 Oct 2013 (41),Auxerre (11),1-1,1-0,Creteil (11)
+?,(Fri) 18 Oct 2013 (41),CA Bastia (11),1-2,0-1,Tours (11)
+?,(Fri) 18 Oct 2013 (41),Chateauroux (11),0-2,0-1,Caen (11)
+?,(Fri) 18 Oct 2013 (41),Dijon (11),2-1,0-1,Troyes (11)
+?,(Fri) 18 Oct 2013 (41),Istres (11),1-0,0-0,Arles (11)
+?,(Fri) 18 Oct 2013 (41),Laval (11),2-2,0-1,Le Havre (11)
+?,(Fri) 18 Oct 2013 (41),Nancy (11),3-2,1-1,Clermont (11)
+?,(Sat) 19 Oct 2013 (41),Lens (11),1-0,0-0,Nimes (11)
+?,(Mon) 21 Oct 2013 (42),Brest (11),0-3,0-2,Metz (11)
+?,(Fri) 25 Oct 2013 (42),Arles (12),0-0,0-0,Dijon (12)
+?,(Fri) 25 Oct 2013 (42),Creteil (12),3-0,1-0,CA Bastia (12)
+?,(Fri) 25 Oct 2013 (42),Le Havre (12),0-1,0-0,Brest (12)
+?,(Fri) 25 Oct 2013 (42),Metz (12),1-0,0-0,Angers (12)
+?,(Fri) 25 Oct 2013 (42),Nimes (12),3-1,1-0,Chateauroux (12)
+?,(Fri) 25 Oct 2013 (42),Niort (12),3-1,0-0,Istres (12)
+?,(Fri) 25 Oct 2013 (42),Tours (12),2-0,0-0,Laval (12)
+?,(Fri) 25 Oct 2013 (42),Troyes (12),2-0,1-0,Auxerre (12)
+?,(Sat) 26 Oct 2013 (42),Caen (12),1-2,1-1,Nancy (12)
+?,(Mon) 28 Oct 2013 (43),Clermont (12),0-0,0-0,Lens (12)
+?,(Fri) 1 Nov 2013 (43),Angers (13),1-0,1-0,Arles (13)
+?,(Fri) 1 Nov 2013 (43),Auxerre (13),4-0,1-0,Tours (13)
+?,(Fri) 1 Nov 2013 (43),CA Bastia (13),0-0,0-0,Le Havre (13)
+?,(Fri) 1 Nov 2013 (43),Chateauroux (13),3-0,2-0,Clermont (13)
+?,(Fri) 1 Nov 2013 (43),Dijon (13),2-2,0-2,Niort (13)
+?,(Fri) 1 Nov 2013 (43),Istres (13),1-2,0-1,Metz (13)
+?,(Fri) 1 Nov 2013 (43),Laval (13),5-1,1-1,Creteil (13)
+?,(Fri) 1 Nov 2013 (43),Nancy (13),1-0,1-0,Nimes (13)
+?,(Sat) 2 Nov 2013 (43),Lens (13),2-1,2-0,Caen (13)
+?,(Mon) 4 Nov 2013 (44),Brest (13),1-1,0-1,Troyes (13)
+?,(Fri) 8 Nov 2013 (44),Caen (14),4-0,2-0,Istres (14)
+?,(Fri) 8 Nov 2013 (44),Clermont (14),1-1,0-0,Auxerre (14)
+?,(Fri) 8 Nov 2013 (44),Creteil (14),2-1,1-0,Tours (14)
+?,(Fri) 8 Nov 2013 (44),Le Havre (14),1-2,0-0,Angers (14)
+?,(Fri) 8 Nov 2013 (44),Nancy (14),2-0,2-0,Chateauroux (14)
+?,(Fri) 8 Nov 2013 (44),Nimes (14),0-1,0-1,CA Bastia (14)
+?,(Fri) 8 Nov 2013 (44),Troyes (14),0-1,0-1,Laval (14)
+?,(Sat) 9 Nov 2013 (44),Arles (14),1-0,0-0,Brest (14)
+?,(Sat) 9 Nov 2013 (44),Metz (14),2-0,2-0,Dijon (14)
+?,(Mon) 11 Nov 2013 (45),Niort (14),2-2,1-0,Lens (14)
+?,(Fri) 22 Nov 2013 (46),Angers (15),0-2,0-2,Clermont (15)
+?,(Fri) 22 Nov 2013 (46),Brest (15),0-1,0-1,Niort (15)
+?,(Fri) 22 Nov 2013 (46),CA Bastia (15),0-2,0-0,Metz (15)
+?,(Fri) 22 Nov 2013 (46),Creteil (15),0-3,0-0,Troyes (15)
+?,(Fri) 22 Nov 2013 (46),Dijon (15),1-0,0-0,Nancy (15)
+?,(Fri) 22 Nov 2013 (46),Istres (15),4-2,3-1,Nimes (15)
+?,(Fri) 22 Nov 2013 (46),Laval (15),1-1,1-0,Arles (15)
+?,(Fri) 22 Nov 2013 (46),Tours (15),2-2,1-1,Le Havre (15)
+?,(Sat) 23 Nov 2013 (46),Lens (15),2-0,0-0,Chateauroux (15)
+?,(Mon) 25 Nov 2013 (47),Auxerre (15),3-2,2-2,Caen (15)
+?,(Fri) 29 Nov 2013 (47),Arles (16),0-0,0-0,CA Bastia (16)
+?,(Fri) 29 Nov 2013 (47),Caen (16),1-1,1-1,Angers (16)
+?,(Fri) 29 Nov 2013 (47),Chateauroux (16),2-0,1-0,Istres (16)
+?,(Fri) 29 Nov 2013 (47),Clermont (16),1-0,0-0,Brest (16)
+?,(Fri) 29 Nov 2013 (47),Le Havre (16),3-1,2-0,Creteil (16)
+?,(Fri) 29 Nov 2013 (47),Nimes (16),1-1,1-0,Dijon (16)
+?,(Fri) 29 Nov 2013 (47),Niort (16),0-1,0-1,Laval (16)
+?,(Fri) 29 Nov 2013 (47),Troyes (16),1-2,1-2,Tours (16)
+?,(Sat) 30 Nov 2013 (47),Nancy (16),1-0,1-0,Lens (16)
+?,(Mon) 2 Dec 2013 (48),Metz (16),3-0,0-0,Auxerre (16)
+?,(Fri) 13 Dec 2013 (49),Auxerre (17),2-0,0-0,Niort (17)
+?,(Fri) 13 Dec 2013 (49),Brest (17),1-1,0-0,Nimes (17)
+?,(Fri) 13 Dec 2013 (49),CA Bastia (17),1-5,0-2,Caen (17)
+?,(Fri) 13 Dec 2013 (49),Creteil (17),1-1,1-0,Arles (17)
+?,(Fri) 13 Dec 2013 (49),Istres (17),0-0,0-0,Nancy (17)
+?,(Fri) 13 Dec 2013 (49),Laval (17),2-2,0-1,Chateauroux (17)
+?,(Fri) 13 Dec 2013 (49),Tours (17),4-2,2-1,Metz (17)
+?,(Fri) 13 Dec 2013 (49),Troyes (17),0-1,0-0,Le Havre (17)
+?,(Sat) 14 Dec 2013 (49),Angers (17),1-2,0-1,Lens (17)
+?,(Mon) 16 Dec 2013 (50),Dijon (17),1-0,0-0,Clermont (17)
+?,(Thu) 19 Dec 2013 (50),Lens (18),1-2,0-0,Istres (18)
+?,(Fri) 20 Dec 2013 (50),Caen (18),0-0,0-0,Brest (18)
+?,(Fri) 20 Dec 2013 (50),Chateauroux (18),3-1,1-0,Dijon (18)
+?,(Fri) 20 Dec 2013 (50),Clermont (18),2-0,1-0,CA Bastia (18)
+?,(Fri) 20 Dec 2013 (50),Le Havre (18),2-0,2-0,Auxerre (18)
+?,(Fri) 20 Dec 2013 (50),Nancy (18),2-1,1-0,Laval (18)
+?,(Fri) 20 Dec 2013 (50),Nimes (18),0-2,0-2,Angers (18)
+?,(Fri) 20 Dec 2013 (50),Niort (18),2-1,1-0,Creteil (18)
+?,(Sat) 21 Dec 2013 (50),Arles (18),1-0,0-0,Tours (18)
+?,(Sat) 21 Dec 2013 (50),Metz (18),1-0,1-0,Troyes (18)
+?,(Fri) 10 Jan 2014 (1),Auxerre (19),1-1,1-1,Arles (19)
+?,(Fri) 10 Jan 2014 (1),CA Bastia (19),0-3,0-0,Niort (19)
+?,(Fri) 10 Jan 2014 (1),Dijon (19),4-1,2-0,Istres (19)
+?,(Fri) 10 Jan 2014 (1),Laval (19),1-3,1-1,Nimes (19)
+?,(Fri) 10 Jan 2014 (1),Le Havre (19),2-2,1-1,Metz (19)
+?,(Fri) 10 Jan 2014 (1),Tours (19),2-1,1-0,Caen (19)
+?,(Fri) 10 Jan 2014 (1),Troyes (19),2-2,0-1,Clermont (19)
+?,(Sat) 11 Jan 2014 (1),Angers (19),1-1,1-0,Nancy (19)
+?,(Sat) 11 Jan 2014 (1),Creteil (19),3-2,1-2,Chateauroux (19)
+?,(Mon) 13 Jan 2014 (2),Brest (19),0-1,0-1,Lens (19)
+?,(Fri) 17 Jan 2014 (2),Caen (20),2-1,1-1,Laval (20)
+?,(Fri) 17 Jan 2014 (2),Chateauroux (20),0-1,0-0,Angers (20)
+?,(Fri) 17 Jan 2014 (2),Clermont (20),0-1,0-1,Le Havre (20)
+?,(Fri) 17 Jan 2014 (2),Istres (20),3-1,1-0,Brest (20)
+?,(Fri) 17 Jan 2014 (2),Nancy (20),0-1,0-0,CA Bastia (20)
+?,(Fri) 17 Jan 2014 (2),Nimes (20),2-2,1-1,Auxerre (20)
+?,(Fri) 17 Jan 2014 (2),Niort (20),3-2,2-0,Tours (20)
+?,(Sat) 18 Jan 2014 (2),Arles (20),3-0,1-0,Troyes (20)
+?,(Sat) 18 Jan 2014 (2),Lens (20),2-2,1-2,Dijon (20)
+?,(Mon) 20 Jan 2014 (3),Metz (20),1-1,0-0,Creteil (20)
+?,(Fri) 24 Jan 2014 (3),Arles (21),1-0,0-0,Metz (21)
+?,(Fri) 24 Jan 2014 (3),Brest (21),0-0,0-0,Nancy (21)
+?,(Fri) 24 Jan 2014 (3),CA Bastia (21),2-2,1-1,Istres (21)
+?,(Fri) 24 Jan 2014 (3),Creteil (21),1-2,1-2,Caen (21)
+?,(Fri) 24 Jan 2014 (3),Laval (21),0-0,0-0,Clermont (21)
+?,(Fri) 24 Jan 2014 (3),Le Havre (21),1-2,0-1,Niort (21)
+?,(Fri) 24 Jan 2014 (3),Troyes (21),2-1,1-0,Nimes (21)
+?,(Sat) 25 Jan 2014 (3),Tours (21),5-2,2-1,Chateauroux (21)
+?,(Mon) 27 Jan 2014 (4),Angers (21),0-0,0-0,Dijon (21)
+?,(Mon) 27 Jan 2014 (4),Auxerre (21),1-2,1-1,Lens (21)
+?,(Fri) 31 Jan 2014 (4),Angers (22),1-0,0-0,CA Bastia (22)
+?,(Fri) 31 Jan 2014 (4),Caen (22),1-1,0-1,Troyes (22)
+?,(Fri) 31 Jan 2014 (4),Chateauroux (22),2-0,0-0,Auxerre (22)
+?,(Fri) 31 Jan 2014 (4),Clermont (22),1-1,0-0,Arles (22)
+?,(Fri) 31 Jan 2014 (4),Dijon (22),3-0,2-0,Brest (22)
+?,(Fri) 31 Jan 2014 (4),Istres (22),3-2,1-1,Creteil (22)
+?,(Fri) 31 Jan 2014 (4),Nimes (22),3-0,1-0,Tours (22)
+?,(Fri) 31 Jan 2014 (4),Niort (22),2-0,0-0,Metz (22)
+?,(Sat) 1 Feb 2014 (4),Lens (22),0-0,0-0,Laval (22)
+?,(Mon) 3 Feb 2014 (5),Nancy (22),3-2,2-1,Le Havre (22)
+?,(Fri) 7 Feb 2014 (5),Arles (23),0-0,0-0,Niort (23)
+?,(Fri) 7 Feb 2014 (5),Auxerre (23),1-0,0-0,Istres (23)
+?,(Fri) 7 Feb 2014 (5),CA Bastia (23),1-4,1-0,Chateauroux (23)
+?,(Fri) 7 Feb 2014 (5),Creteil (23),2-0,2-0,Clermont (23)
+?,(Fri) 7 Feb 2014 (5),Laval (23),0-0,0-0,Dijon (23)
+?,(Fri) 7 Feb 2014 (5),Le Havre (23),0-1,0-0,Nimes (23)
+?,(Fri) 7 Feb 2014 (5),Metz (23),2-1,1-1,Caen (23)
+?,(Sat) 8 Feb 2014 (5),Troyes (23),1-0,0-0,Lens (23)
+?,(Mon) 10 Feb 2014 (6),Tours (23),1-3,1-0,Nancy (23)
+?,(Fri) 14 Feb 2014 (6),Caen (24),1-0,1-0,Arles (24)
+?,(Fri) 14 Feb 2014 (6),Chateauroux (24),2-1,1-0,Troyes (24)
+?,(Fri) 14 Feb 2014 (6),Clermont (24),0-1,0-1,Niort (24)
+?,(Fri) 14 Feb 2014 (6),Dijon (24),3-0,1-0,CA Bastia (24)
+?,(Fri) 14 Feb 2014 (6),Istres (24),1-0,1-0,Tours (24)
+?,(Fri) 14 Feb 2014 (6),Nancy (24),2-2,1-1,Creteil (24)
+?,(Fri) 14 Feb 2014 (6),Nimes (24),0-0,0-0,Metz (24)
+?,(Sat) 15 Feb 2014 (6),Angers (23),1-1,1-1,Laval (24)
+?,(Sat) 15 Feb 2014 (6),Brest (23),1-0,1-0,Auxerre (24)
+?,(Mon) 17 Feb 2014 (7),Lens (24),1-1,0-1,Le Havre (24)
+?,(Fri) 21 Feb 2014 (7),Arles (25),1-1,0-1,Nimes (25)
+?,(Fri) 21 Feb 2014 (7),Auxerre (25),1-2,0-1,Angers (24)
+?,(Fri) 21 Feb 2014 (7),Laval (25),3-4,3-2,Istres (25)
+?,(Fri) 21 Feb 2014 (7),Le Havre (25),0-0,0-0,Chateauroux (25)
+?,(Fri) 21 Feb 2014 (7),Niort (25),0-0,0-0,Caen (25)
+?,(Fri) 21 Feb 2014 (7),Tours (25),1-0,1-0,Dijon (25)
+?,(Fri) 21 Feb 2014 (7),Troyes (25),2-0,1-0,Nancy (25)
+?,(Sat) 22 Feb 2014 (7),Metz (25),1-0,0-0,Clermont (25)
+?,(Mon) 24 Feb 2014 (8),CA Bastia (25),0-1,0-0,Brest (24)
+?,(Mon) 24 Feb 2014 (8),Creteil (25),2-3,1-1,Lens (25)
+?,(Fri) 28 Feb 2014 (8),Angers (25),1-1,1-0,Troyes (26)
+?,(Fri) 28 Feb 2014 (8),Brest (25),2-1,0-1,Laval (26)
+?,(Fri) 28 Feb 2014 (8),CA Bastia (26),0-0,0-0,Auxerre (26)
+?,(Fri) 28 Feb 2014 (8),Caen (26),2-1,0-1,Clermont (26)
+?,(Fri) 28 Feb 2014 (8),Chateauroux (26),2-0,1-0,Arles (26)
+?,(Fri) 28 Feb 2014 (8),Dijon (26),2-2,1-2,Creteil (26)
+?,(Fri) 28 Feb 2014 (8),Istres (26),0-1,0-1,Le Havre (26)
+?,(Fri) 28 Feb 2014 (8),Nimes (26),4-1,2-1,Niort (26)
+?,(Sat) 1 Mar 2014 (8),Nancy (26),0-1,0-1,Metz (26)
+?,(Mon) 3 Mar 2014 (9),Lens (26),2-2,0-2,Tours (26)
+?,(Fri) 7 Mar 2014 (9),Arles (27),1-2,0-1,Nancy (27)
+?,(Fri) 7 Mar 2014 (9),Auxerre (27),2-2,0-1,Dijon (27)
+?,(Fri) 7 Mar 2014 (9),Clermont (27),1-0,1-0,Nimes (27)
+?,(Fri) 7 Mar 2014 (9),Creteil (27),0-0,0-0,Brest (26)
+?,(Fri) 7 Mar 2014 (9),Laval (27),2-0,2-0,CA Bastia (27)
+?,(Fri) 7 Mar 2014 (9),Le Havre (27),1-1,1-1,Caen (27)
+?,(Fri) 7 Mar 2014 (9),Niort (27),4-0,2-0,Chateauroux (27)
+?,(Fri) 7 Mar 2014 (9),Troyes (27),4-1,2-1,Istres (27)
+?,(Sat) 8 Mar 2014 (9),Metz (27),0-1,0-0,Lens (27)
+?,(Mon) 10 Mar 2014 (10),Tours (27),2-0,0-0,Angers (26)
+?,(Fri) 14 Mar 2014 (10),Brest (27),2-0,1-0,Tours (28)
+?,(Fri) 14 Mar 2014 (10),CA Bastia (28),1-0,1-0,Troyes (28)
+?,(Fri) 14 Mar 2014 (10),Chateauroux (28),0-1,0-0,Metz (28)
+?,(Fri) 14 Mar 2014 (10),Dijon (28),1-2,1-2,Le Havre (28)
+?,(Fri) 14 Mar 2014 (10),Istres (28),1-1,0-1,Clermont (28)
+?,(Fri) 14 Mar 2014 (10),Laval (28),3-0,0-0,Auxerre (28)
+?,(Fri) 14 Mar 2014 (10),Nancy (28),1-1,1-0,Niort (28)
+?,(Sat) 15 Mar 2014 (10),Angers (27),2-2,0-2,Creteil (28)
+?,(Mon) 17 Mar 2014 (11),Lens (28),3-0,2-0,Arles (28)
+?,(Tue) 18 Mar 2014 (11),Brest (28),1-0,0-0,Angers (28)
+?,(Fri) 21 Mar 2014 (11),Arles (29),2-2,0-1,Istres (29)
+?,(Fri) 21 Mar 2014 (11),Caen (28),1-1,1-0,Chateauroux (29)
+?,(Fri) 21 Mar 2014 (11),Clermont (29),1-0,1-0,Nancy (29)
+?,(Fri) 21 Mar 2014 (11),Creteil (29),0-2,0-2,Auxerre (29)
+?,(Fri) 21 Mar 2014 (11),Le Havre (29),1-1,0-1,Laval (29)
+?,(Fri) 21 Mar 2014 (11),Niort (29),2-1,1-0,Angers (29)
+?,(Fri) 21 Mar 2014 (11),Tours (29),1-0,1-0,CA Bastia (29)
+?,(Fri) 21 Mar 2014 (11),Troyes (29),2-0,0-0,Dijon (29)
+?,(Sat) 22 Mar 2014 (11),Nimes (28),3-3,2-2,Lens (29)
+?,(Mon) 24 Mar 2014 (12),Metz (29),1-0,0-0,Brest (29)
+?,(Fri) 28 Mar 2014 (12),Auxerre (30),0-0,0-0,Troyes (30)
+?,(Fri) 28 Mar 2014 (12),Brest (30),1-1,0-0,Le Havre (30)
+?,(Fri) 28 Mar 2014 (12),CA Bastia (30),3-1,2-1,Creteil (30)
+?,(Fri) 28 Mar 2014 (12),Chateauroux (30),2-0,2-0,Nimes (29)
+?,(Fri) 28 Mar 2014 (12),Dijon (30),1-1,1-0,Arles (30)
+?,(Fri) 28 Mar 2014 (12),Istres (30),2-1,2-0,Niort (30)
+?,(Fri) 28 Mar 2014 (12),Laval (30),1-0,0-0,Tours (30)
+?,(Fri) 28 Mar 2014 (12),Nancy (30),1-1,1-0,Caen (29)
+?,(Sat) 29 Mar 2014 (12),Angers (30),2-2,1-2,Metz (30)
+?,(Mon) 31 Mar 2014 (13),Lens (30),1-1,1-1,Clermont (30)
+?,(Fri) 4 Apr 2014 (13),Arles (31),3-0,1-0,Angers (31)
+?,(Fri) 4 Apr 2014 (13),Clermont (31),1-1,1-0,Chateauroux (31)
+?,(Fri) 4 Apr 2014 (13),Creteil (31),4-0,4-0,Laval (31)
+?,(Fri) 4 Apr 2014 (13),Le Havre (31),1-0,0-0,CA Bastia (31)
+?,(Fri) 4 Apr 2014 (13),Nimes (30),0-1,0-1,Nancy (31)
+?,(Fri) 4 Apr 2014 (13),Niort (31),2-0,2-0,Dijon (31)
+?,(Fri) 4 Apr 2014 (13),Tours (31),2-2,1-1,Auxerre (31)
+?,(Fri) 4 Apr 2014 (13),Troyes (31),0-2,0-1,Brest (31)
+?,(Sat) 5 Apr 2014 (13),Caen (30),1-0,1-0,Lens (31)
+?,(Mon) 7 Apr 2014 (14),Metz (31),2-1,1-1,Istres (31)
+?,(Fri) 11 Apr 2014 (14),Angers (32),1-0,0-0,Le Havre (32)
+?,(Fri) 11 Apr 2014 (14),Auxerre (32),0-2,0-1,Clermont (32)
+?,(Fri) 11 Apr 2014 (14),Brest (32),2-0,0-0,Arles (32)
+?,(Fri) 11 Apr 2014 (14),CA Bastia (32),0-0,0-0,Nimes (31)
+?,(Fri) 11 Apr 2014 (14),Chateauroux (32),0-3,0-1,Nancy (32)
+?,(Fri) 11 Apr 2014 (14),Istres (32),2-3,2-1,Caen (31)
+?,(Fri) 11 Apr 2014 (14),Laval (32),2-1,1-0,Troyes (32)
+?,(Fri) 11 Apr 2014 (14),Tours (32),1-2,0-1,Creteil (32)
+?,(Sat) 12 Apr 2014 (14),Lens (32),2-0,0-0,Niort (32)
+?,(Mon) 14 Apr 2014 (15),Dijon (32),2-2,1-1,Metz (32)
+?,(Fri) 18 Apr 2014 (15),Arles (33),1-1,1-0,Laval (33)
+?,(Fri) 18 Apr 2014 (15),Clermont (33),1-1,0-1,Angers (33)
+?,(Fri) 18 Apr 2014 (15),Le Havre (33),2-2,2-0,Tours (33)
+?,(Fri) 18 Apr 2014 (15),Metz (33),1-0,0-0,CA Bastia (33)
+?,(Fri) 18 Apr 2014 (15),Nancy (33),2-1,1-0,Dijon (33)
+?,(Fri) 18 Apr 2014 (15),Nimes (32),1-0,0-0,Istres (33)
+?,(Fri) 18 Apr 2014 (15),Niort (33),1-2,0-0,Brest (33)
+?,(Fri) 18 Apr 2014 (15),Troyes (33),0-3,0-2,Creteil (33)
+?,(Sat) 19 Apr 2014 (15),Caen (32),1-0,0-0,Auxerre (33)
+?,(Mon) 21 Apr 2014 (16),Chateauroux (33),1-1,0-1,Lens (33)
+?,(Fri) 25 Apr 2014 (16),Brest (34),2-0,1-0,Clermont (34)
+?,(Fri) 25 Apr 2014 (16),CA Bastia (34),2-2,2-1,Arles (34)
+?,(Fri) 25 Apr 2014 (16),Creteil (34),2-0,1-0,Le Havre (34)
+?,(Fri) 25 Apr 2014 (16),Dijon (34),5-1,2-0,Nimes (33)
+?,(Fri) 25 Apr 2014 (16),Istres (34),0-0,0-0,Chateauroux (34)
+?,(Fri) 25 Apr 2014 (16),Laval (34),2-4,1-2,Niort (34)
+?,(Fri) 25 Apr 2014 (16),Lens (34),1-1,0-0,Nancy (34)
+?,(Fri) 25 Apr 2014 (16),Tours (34),1-2,0-0,Troyes (34)
+?,(Sat) 26 Apr 2014 (16),Auxerre (34),0-3,0-2,Metz (34)
+?,(Mon) 28 Apr 2014 (17),Angers (34),1-2,0-0,Caen (33)
+?,(Fri) 2 May 2014 (17),Arles (35),2-1,1-0,Creteil (35)
+?,(Fri) 2 May 2014 (17),Caen (34),6-1,3-0,CA Bastia (35)
+?,(Fri) 2 May 2014 (17),Chateauroux (35),1-1,1-0,Laval (35)
+?,(Fri) 2 May 2014 (17),Clermont (35),0-1,0-1,Dijon (35)
+?,(Fri) 2 May 2014 (17),Le Havre (35),2-1,0-0,Troyes (35)
+?,(Fri) 2 May 2014 (17),Metz (35),1-1,0-1,Tours (35)
+?,(Fri) 2 May 2014 (17),Nancy (35),3-1,3-1,Istres (35)
+?,(Fri) 2 May 2014 (17),Nimes (34),1-1,1-0,Brest (35)
+?,(Fri) 2 May 2014 (17),Niort (35),1-0,1-0,Auxerre (35)
+?,(Sat) 3 May 2014 (17),Lens (35),0-0,0-0,Angers (35)
+?,(Mon) 5 May 2014 (18),Brest (36),0-1,0-1,Caen (35)
+?,(Tue) 6 May 2014 (18),Angers (36),2-3,1-2,Nimes (35)
+?,(Tue) 6 May 2014 (18),Auxerre (36),2-1,0-0,Le Havre (36)
+?,(Tue) 6 May 2014 (18),CA Bastia (36),1-1,0-1,Clermont (36)
+?,(Tue) 6 May 2014 (18),Creteil (36),1-1,1-0,Niort (36)
+?,(Tue) 6 May 2014 (18),Dijon (36),2-1,0-0,Chateauroux (36)
+?,(Tue) 6 May 2014 (18),Istres (36),1-6,0-1,Lens (36)
+?,(Tue) 6 May 2014 (18),Laval (36),1-0,0-0,Nancy (36)
+?,(Tue) 6 May 2014 (18),Tours (36),2-2,1-2,Arles (36)
+?,(Tue) 6 May 2014 (18),Troyes (36),0-1,0-0,Metz (36)
+?,(Fri) 9 May 2014 (18),Arles (37),0-2,0-0,Auxerre (37)
+?,(Fri) 9 May 2014 (18),Caen (36),1-3,0-1,Tours (37)
+?,(Fri) 9 May 2014 (18),Chateauroux (37),0-2,0-0,Creteil (37)
+?,(Fri) 9 May 2014 (18),Clermont (37),0-3,0-1,Troyes (37)
+?,(Fri) 9 May 2014 (18),Istres (37),2-4,0-3,Dijon (37)
+?,(Fri) 9 May 2014 (18),Lens (37),0-1,0-0,Brest (37)
+?,(Fri) 9 May 2014 (18),Metz (37),3-0,3-0,Le Havre (37)
+?,(Fri) 9 May 2014 (18),Nancy (37),3-1,0-0,Angers (37)
+?,(Fri) 9 May 2014 (18),Nimes (36),2-1,1-1,Laval (37)
+?,(Fri) 9 May 2014 (18),Niort (37),1-1,0-0,CA Bastia (37)
+?,(Tue) 13 May 2014 (19),Caen (37),1-1,1-1,Nimes (37)
+?,(Fri) 16 May 2014 (19),Angers (38),1-0,0-0,Istres (38)
+?,(Fri) 16 May 2014 (19),Auxerre (38),0-0,0-0,Nancy (38)
+?,(Fri) 16 May 2014 (19),Brest (38),3-0,1-0,Chateauroux (38)
+?,(Fri) 16 May 2014 (19),CA Bastia (38),0-2,0-2,Lens (38)
+?,(Fri) 16 May 2014 (19),Creteil (38),1-1,1-1,Nimes (38)
+?,(Fri) 16 May 2014 (19),Dijon (38),2-2,1-1,Caen (38)
+?,(Fri) 16 May 2014 (19),Laval (38),0-0,0-0,Metz (38)
+?,(Fri) 16 May 2014 (19),Le Havre (38),2-1,0-0,Arles (38)
+?,(Fri) 16 May 2014 (19),Tours (38),3-0,2-0,Clermont (38)
+?,(Fri) 16 May 2014 (19),Troyes (38),4-1,3-0,Niort (38)

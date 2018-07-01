@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Fri) Jul/28 2000 (30),Wasquehal (1),Nancy (1),0-1,0-1
-?,(Sat) Jul/29 2000 (30),Ajaccio (1),Le Mans (1),1-0,1-0
-?,(Sat) Jul/29 2000 (30),Beauvais (1),Montpellier (1),1-3,0-1
-?,(Sat) Jul/29 2000 (30),Caen (1),Cannes (1),2-2,1-2
-?,(Sat) Jul/29 2000 (30),Chateauroux (1),Martigues (1),1-1,0-1
-?,(Sat) Jul/29 2000 (30),Creteil (1),Lorient (1),2-1,1-0
-?,(Sat) Jul/29 2000 (30),Laval (1),Gueugnon (1),2-1,2-0
-?,(Sat) Jul/29 2000 (30),Nice (1),Le Havre (1),0-0,0-0
-?,(Sat) Jul/29 2000 (30),Nimes (1),Sochaux (1),3-3,3-1
-?,(Sat) Jul/29 2000 (30),Niort (1),Angers (1),3-2,3-0
-?,(Fri) Aug/4 2000 (31),Lorient (2),Nimes (2),1-1,0-0
-?,(Sat) Aug/5 2000 (31),Angers (2),Ajaccio (2),1-1,0-0
-?,(Sat) Aug/5 2000 (31),Cannes (2),Niort (2),6-4,2-1
-?,(Sat) Aug/5 2000 (31),Gueugnon (2),Nice (2),1-2,0-2
-?,(Sat) Aug/5 2000 (31),Le Havre (2),Beauvais (2),1-0,1-0
-?,(Sat) Aug/5 2000 (31),Le Mans (2),Martigues (2),2-2,1-1
-?,(Sat) Aug/5 2000 (31),Montpellier (2),Caen (2),2-0,0-0
-?,(Sat) Aug/5 2000 (31),Sochaux (2),Chateauroux (2),5-0,2-0
-?,(Sat) Aug/5 2000 (31),Wasquehal (2),Creteil (2),1-1,1-1
-?,(Sun) Aug/6 2000 (31),Nancy (2),Laval (2),1-0,0-0
-?,(Sat) Aug/12 2000 (32),Ajaccio (3),Cannes (3),3-3,2-1
-?,(Sat) Aug/12 2000 (32),Beauvais (3),Gueugnon (3),0-0,0-0
-?,(Sat) Aug/12 2000 (32),Caen (3),Sochaux (3),1-3,0-1
-?,(Sat) Aug/12 2000 (32),Chateauroux (3),Le Mans (3),0-0,0-0
-?,(Sat) Aug/12 2000 (32),Creteil (3),Nancy (3),1-0,0-0
-?,(Sat) Aug/12 2000 (32),Laval (3),Wasquehal (3),1-0,1-0
-?,(Sat) Aug/12 2000 (32),Nice (3),Lorient (3),1-1,1-1
-?,(Sat) Aug/12 2000 (32),Nimes (3),Montpellier (3),0-2,0-1
-?,(Sat) Aug/12 2000 (32),Niort (3),Le Havre (3),1-1,1-0
-?,(Sun) Aug/13 2000 (32),Martigues (3),Angers (3),1-1,0-1
-?,(Fri) Aug/18 2000 (33),Nancy (4),Beauvais (4),3-1,2-1
-?,(Sat) Aug/19 2000 (33),Angers (4),Le Mans (4),1-3,0-1
-?,(Sat) Aug/19 2000 (33),Cannes (4),Martigues (4),0-0,0-0
-?,(Sat) Aug/19 2000 (33),Gueugnon (4),Creteil (4),2-0,1-0
-?,(Sat) Aug/19 2000 (33),Laval (4),Caen (4),2-1,0-0
-?,(Sat) Aug/19 2000 (33),Le Havre (4),Nimes (4),2-0,1-0
-?,(Sat) Aug/19 2000 (33),Lorient (4),Chateauroux (4),2-1,1-0
-?,(Sat) Aug/19 2000 (33),Montpellier (4),Niort (4),1-0,0-0
-?,(Sat) Aug/19 2000 (33),Sochaux (4),Ajaccio (4),2-0,2-0
-?,(Sat) Aug/19 2000 (33),Wasquehal (4),Nice (4),2-1,1-1
-?,(Sat) Aug/26 2000 (34),Ajaccio (5),Montpellier (5),0-2,0-0
-?,(Sat) Aug/26 2000 (34),Beauvais (5),Wasquehal (5),0-0,0-0
-?,(Sat) Aug/26 2000 (34),Caen (5),Lorient (5),1-2,1-1
-?,(Sat) Aug/26 2000 (34),Chateauroux (5),Angers (5),3-2,1-2
-?,(Sat) Aug/26 2000 (34),Creteil (5),Laval (5),4-0,1-0
-?,(Sat) Aug/26 2000 (34),Le Mans (5),Cannes (5),2-0,2-0
-?,(Sat) Aug/26 2000 (34),Martigues (5),Le Havre (5),2-3,1-1
-?,(Sat) Aug/26 2000 (34),Nice (5),Nancy (5),2-1,0-1
-?,(Sat) Aug/26 2000 (34),Nimes (5),Gueugnon (5),1-1,0-1
-?,(Sat) Aug/26 2000 (34),Niort (5),Sochaux (5),1-0,0-0
-?,(Tue) Aug/29 2000 (35),Cannes (6),Angers (6),3-0,1-0
-?,(Tue) Aug/29 2000 (35),Creteil (6),Chateauroux (6),1-2,0-0
-?,(Tue) Aug/29 2000 (35),Gueugnon (6),Caen (6),1-1,0-1
-?,(Tue) Aug/29 2000 (35),Laval (6),Nice (6),2-0,1-0
-?,(Tue) Aug/29 2000 (35),Le Havre (6),Ajaccio (6),4-0,2-0
-?,(Tue) Aug/29 2000 (35),Lorient (6),Beauvais (6),2-1,1-1
-?,(Tue) Aug/29 2000 (35),Montpellier (6),Martigues (6),2-0,1-0
-?,(Tue) Aug/29 2000 (35),Nancy (6),Nimes (6),3-1,0-0
-?,(Tue) Aug/29 2000 (35),Sochaux (6),Le Mans (6),2-0,1-0
-?,(Tue) Aug/29 2000 (35),Wasquehal (6),Niort (6),0-0,0-0
-?,(Fri) Sep/1 2000 (35),Ajaccio (7),Lorient (7),0-0,0-0
-?,(Fri) Sep/1 2000 (35),Angers (7),Le Havre (7),0-0,0-0
-?,(Fri) Sep/1 2000 (35),Beauvais (7),Laval (7),0-0,0-0
-?,(Fri) Sep/1 2000 (35),Caen (7),Nancy (7),0-3,0-1
-?,(Fri) Sep/1 2000 (35),Chateauroux (7),Cannes (7),2-0,1-0
-?,(Fri) Sep/1 2000 (35),Le Mans (7),Montpellier (7),1-1,1-1
-?,(Fri) Sep/1 2000 (35),Martigues (7),Sochaux (7),2-0,1-0
-?,(Fri) Sep/1 2000 (35),Nice (7),Creteil (7),2-0,1-0
-?,(Fri) Sep/1 2000 (35),Nimes (7),Wasquehal (7),1-0,0-0
-?,(Fri) Sep/1 2000 (35),Niort (7),Gueugnon (7),2-0,1-0
-?,(Tue) Sep/5 2000 (36),Nancy (8),Niort (8),0-0,0-0
-?,(Wed) Sep/6 2000 (36),Creteil (8),Beauvais (8),1-1,1-0
-?,(Wed) Sep/6 2000 (36),Gueugnon (8),Le Mans (8),0-0,0-0
-?,(Wed) Sep/6 2000 (36),Laval (8),Nimes (8),3-1,1-0
-?,(Wed) Sep/6 2000 (36),Le Havre (8),Chateauroux (8),0-0,0-0
-?,(Wed) Sep/6 2000 (36),Lorient (8),Martigues (8),0-1,0-1
-?,(Wed) Sep/6 2000 (36),Montpellier (8),Angers (8),1-1,0-1
-?,(Wed) Sep/6 2000 (36),Nice (8),Ajaccio (8),1-0,0-0
-?,(Wed) Sep/6 2000 (36),Sochaux (8),Cannes (8),1-0,0-0
-?,(Wed) Sep/6 2000 (36),Wasquehal (8),Caen (8),3-3,1-1
-?,(Sat) Sep/9 2000 (36),Ajaccio (9),Gueugnon (9),2-0,0-0
-?,(Sat) Sep/9 2000 (36),Angers (9),Sochaux (9),2-0,1-0
-?,(Sat) Sep/9 2000 (36),Beauvais (9),Nice (9),2-0,0-0
-?,(Sat) Sep/9 2000 (36),Caen (9),Le Havre (9),1-0,1-0
-?,(Sat) Sep/9 2000 (36),Cannes (9),Nancy (9),0-2,0-1
-?,(Sat) Sep/9 2000 (36),Chateauroux (9),Montpellier (9),0-0,0-0
-?,(Sat) Sep/9 2000 (36),Le Mans (9),Laval (9),2-2,2-1
-?,(Sat) Sep/9 2000 (36),Martigues (9),Wasquehal (9),1-0,0-0
-?,(Sat) Sep/9 2000 (36),Nimes (9),Creteil (9),2-1,1-1
-?,(Sat) Sep/9 2000 (36),Niort (9),Lorient (9),1-2,1-0
-?,(Fri) Sep/15 2000 (37),Nancy (10),Martigues (10),0-0,0-0
-?,(Sat) Sep/16 2000 (37),Beauvais (10),Le Mans (10),1-1,0-0
-?,(Sat) Sep/16 2000 (37),Creteil (10),Caen (10),0-1,0-1
-?,(Sat) Sep/16 2000 (37),Laval (10),Niort (10),0-1,0-0
-?,(Sat) Sep/16 2000 (37),Le Havre (10),Cannes (10),2-2,0-1
-?,(Sat) Sep/16 2000 (37),Lorient (10),Angers (10),3-0,1-0
-?,(Sat) Sep/16 2000 (37),Montpellier (10),Sochaux (10),0-2,0-0
-?,(Sat) Sep/16 2000 (37),Nice (10),Nimes (10),1-2,1-1
-?,(Sat) Sep/16 2000 (37),Wasquehal (10),Ajaccio (10),2-0,2-0
-?,(Sun) Sep/17 2000 (37),Gueugnon (10),Chateauroux (10),0-1,0-0
-?,(Sat) Sep/23 2000 (38),Ajaccio (11),Laval (11),1-2,0-1
-?,(Sat) Sep/23 2000 (38),Angers (11),Wasquehal (11),2-0,2-0
-?,(Sat) Sep/23 2000 (38),Caen (11),Nice (11),1-0,0-0
-?,(Sat) Sep/23 2000 (38),Cannes (11),Montpellier (11),1-2,0-0
-?,(Sat) Sep/23 2000 (38),Chateauroux (11),Nancy (11),0-0,0-0
-?,(Sat) Sep/23 2000 (38),Le Mans (11),Lorient (11),1-1,0-1
-?,(Sat) Sep/23 2000 (38),Martigues (11),Gueugnon (11),0-0,0-0
-?,(Sat) Sep/23 2000 (38),Nimes (11),Beauvais (11),2-1,1-1
-?,(Sat) Sep/23 2000 (38),Niort (11),Creteil (11),0-0,0-0
-?,(Sat) Sep/23 2000 (38),Sochaux (11),Le Havre (11),3-0,3-0
-?,(Sat) Sep/30 2000 (39),Beauvais (12),Chateauroux (12),2-1,0-0
-?,(Sat) Sep/30 2000 (39),Creteil (12),Ajaccio (12),1-0,1-0
-?,(Sat) Sep/30 2000 (39),Laval (12),Martigues (12),2-0,0-0
-?,(Sat) Sep/30 2000 (39),Le Havre (12),Montpellier (12),3-0,1-0
-?,(Sat) Sep/30 2000 (39),Lorient (12),Sochaux (12),1-1,1-1
-?,(Sat) Sep/30 2000 (39),Nancy (12),Angers (12),0-0,0-0
-?,(Sat) Sep/30 2000 (39),Nice (12),Niort (12),0-1,0-0
-?,(Sat) Sep/30 2000 (39),Nimes (12),Caen (12),1-2,0-0
-?,(Sat) Sep/30 2000 (39),Wasquehal (12),Le Mans (12),2-1,1-0
-?,(Sun) Oct/1 2000 (39),Gueugnon (12),Cannes (12),2-1,?
-?,(Fri) Oct/6 2000 (40),Ajaccio (13),Nancy (13),1-0,0-0
-?,(Fri) Oct/6 2000 (40),Sochaux (13),Wasquehal (13),1-1,1-0
-?,(Sat) Oct/7 2000 (40),Angers (13),Gueugnon (13),1-2,1-0
-?,(Sat) Oct/7 2000 (40),Caen (13),Beauvais (13),1-1,1-0
-?,(Sat) Oct/7 2000 (40),Cannes (13),Laval (13),0-1,0-1
-?,(Sat) Oct/7 2000 (40),Chateauroux (13),Nice (13),7-2,3-1
-?,(Sat) Oct/7 2000 (40),Le Mans (13),Le Havre (13),1-1,0-1
-?,(Sat) Oct/7 2000 (40),Martigues (13),Creteil (13),0-0,0-0
-?,(Sat) Oct/7 2000 (40),Niort (13),Nimes (13),1-1,0-1
-?,(Tue) Oct/10 2000 (41),Nancy (14),Sochaux (14),1-2,0-1
-?,(Wed) Oct/11 2000 (41),Beauvais (14),Niort (14),1-4,1-1
-?,(Wed) Oct/11 2000 (41),Caen (14),Ajaccio (14),2-0,1-0
-?,(Wed) Oct/11 2000 (41),Creteil (14),Le Mans (14),1-0,0-0
-?,(Wed) Oct/11 2000 (41),Gueugnon (14),Montpellier (13),2-4,1-1
-?,(Wed) Oct/11 2000 (41),Laval (14),Angers (14),4-1,1-0
-?,(Wed) Oct/11 2000 (41),Lorient (13),Le Havre (14),1-0,1-0
-?,(Wed) Oct/11 2000 (41),Nice (14),Martigues (14),2-1,2-1
-?,(Wed) Oct/11 2000 (41),Nimes (14),Chateauroux (14),2-1,1-0
-?,(Wed) Oct/11 2000 (41),Wasquehal (14),Cannes (14),3-0,1-0
-?,(Sat) Oct/14 2000 (41),Angers (15),Creteil (15),1-1,1-0
-?,(Sat) Oct/14 2000 (41),Cannes (15),Lorient (14),1-2,0-1
-?,(Sat) Oct/14 2000 (41),Chateauroux (15),Laval (15),0-0,0-0
-?,(Sat) Oct/14 2000 (41),Le Havre (15),Wasquehal (15),1-1,0-0
-?,(Sat) Oct/14 2000 (41),Le Mans (15),Nice (15),1-0,1-0
-?,(Sat) Oct/14 2000 (41),Martigues (15),Beauvais (15),0-0,0-0
-?,(Sat) Oct/14 2000 (41),Niort (15),Caen (15),2-0,0-0
-?,(Sat) Oct/14 2000 (41),Sochaux (15),Gueugnon (15),3-0,1-0
-?,(Sun) Oct/15 2000 (41),Montpellier (14),Nancy (15),1-1,1-0
-?,(Fri) Oct/20 2000 (42),Laval (16),Sochaux (16),0-0,0-0
-?,(Sat) Oct/21 2000 (42),Beauvais (16),Ajaccio (15),0-0,0-0
-?,(Sat) Oct/21 2000 (42),Caen (16),Chateauroux (16),1-1,0-1
-?,(Sat) Oct/21 2000 (42),Creteil (16),Cannes (16),3-1,1-0
-?,(Sat) Oct/21 2000 (42),Gueugnon (16),Lorient (15),1-1,0-0
-?,(Sat) Oct/21 2000 (42),Nancy (16),Le Havre (16),2-3,0-1
-?,(Sat) Oct/21 2000 (42),Nice (16),Angers (16),2-0,1-0
-?,(Sat) Oct/21 2000 (42),Nimes (15),Martigues (16),2-0,0-0
-?,(Sat) Oct/21 2000 (42),Niort (16),Le Mans (16),2-0,2-0
-?,(Sat) Oct/21 2000 (42),Wasquehal (16),Montpellier (15),1-1,0-0
-?,(Wed) Oct/25 2000 (43),Montpellier (16),Lorient (16),2-2,2-1
-?,(Fri) Oct/27 2000 (43),Le Havre (17),Gueugnon (17),1-3,0-0
-?,(Sat) Oct/28 2000 (43),Ajaccio (16),Niort (17),0-1,0-1
-?,(Sat) Oct/28 2000 (43),Angers (17),Beauvais (17),1-1,0-0
-?,(Sat) Oct/28 2000 (43),Cannes (17),Nice (17),2-1,1-0
-?,(Sat) Oct/28 2000 (43),Chateauroux (17),Wasquehal (17),2-0,1-0
-?,(Sat) Oct/28 2000 (43),Le Mans (17),Nimes (16),1-1,0-1
-?,(Sat) Oct/28 2000 (43),Lorient (17),Nancy (17),2-0,2-0
-?,(Sat) Oct/28 2000 (43),Martigues (17),Caen (17),2-2,0-2
-?,(Sat) Oct/28 2000 (43),Sochaux (17),Creteil (17),3-0,2-0
-?,(Sun) Oct/29 2000 (43),Montpellier (17),Laval (17),1-0,1-0
-?,(Sat) Nov/4 2000 (44),Ajaccio (17),Chateauroux (18),0-2,0-2
-?,(Sat) Nov/4 2000 (44),Beauvais (18),Cannes (18),3-1,0-0
-?,(Sat) Nov/4 2000 (44),Caen (18),Le Mans (18),0-2,0-1
-?,(Sat) Nov/4 2000 (44),Creteil (18),Montpellier (18),1-1,1-0
-?,(Sat) Nov/4 2000 (44),Nancy (18),Gueugnon (18),4-0,2-0
-?,(Sat) Nov/4 2000 (44),Nice (18),Sochaux (18),2-2,0-0
-?,(Sat) Nov/4 2000 (44),Nimes (17),Angers (18),3-0,1-0
-?,(Sat) Nov/4 2000 (44),Niort (18),Martigues (18),6-1,3-0
-?,(Sat) Nov/4 2000 (44),Wasquehal (18),Lorient (18),0-1,0-1
-?,(Sun) Nov/5 2000 (44),Laval (18),Le Havre (18),1-0,1-0
-?,(Fri) Nov/10 2000 (45),Le Havre (19),Creteil (19),1-1,0-0
-?,(Sat) Nov/11 2000 (45),Angers (19),Caen (19),0-1,0-0
-?,(Sat) Nov/11 2000 (45),Cannes (19),Nimes (18),1-1,1-1
-?,(Sat) Nov/11 2000 (45),Chateauroux (19),Niort (19),1-0,0-0
-?,(Sat) Nov/11 2000 (45),Gueugnon (19),Wasquehal (19),2-1,1-1
-?,(Sat) Nov/11 2000 (45),Le Mans (19),Nancy (19),0-1,0-1
-?,(Sat) Nov/11 2000 (45),Martigues (19),Ajaccio (18),2-1,0-1
-?,(Sat) Nov/11 2000 (45),Montpellier (19),Nice (19),3-0,1-0
-?,(Sat) Nov/11 2000 (45),Sochaux (19),Beauvais (19),2-0,1-0
-?,(Sun) Nov/12 2000 (45),Lorient (19),Laval (19),2-1,2-0
-?,(Tue) Nov/14 2000 (46),Ajaccio (19),Nimes (19),1-0,0-0
-?,(Fri) Nov/17 2000 (46),Chateauroux (20),Sochaux (20),1-1,1-0
-?,(Sat) Nov/18 2000 (46),Ajaccio (20),Angers (20),3-1,0-1
-?,(Sat) Nov/18 2000 (46),Beauvais (20),Le Havre (20),1-1,0-1
-?,(Sat) Nov/18 2000 (46),Caen (20),Montpellier (20),0-0,0-0
-?,(Sat) Nov/18 2000 (46),Creteil (20),Wasquehal (20),2-0,1-0
-?,(Sat) Nov/18 2000 (46),Laval (20),Nancy (20),0-0,0-0
-?,(Sat) Nov/18 2000 (46),Martigues (20),Le Mans (20),3-3,2-1
-?,(Sat) Nov/18 2000 (46),Nice (20),Gueugnon (20),1-2,0-2
-?,(Sat) Nov/18 2000 (46),Nimes (20),Lorient (20),1-2,0-0
-?,(Sat) Nov/18 2000 (46),Niort (20),Cannes (20),4-1,3-1
-?,(Wed) Nov/29 2000 (48),Angers (21),Martigues (21),1-1,0-1
-?,(Wed) Nov/29 2000 (48),Cannes (21),Ajaccio (21),1-0,1-0
-?,(Wed) Nov/29 2000 (48),Gueugnon (21),Beauvais (21),2-0,2-0
-?,(Wed) Nov/29 2000 (48),Le Havre (21),Niort (21),2-2,1-1
-?,(Wed) Nov/29 2000 (48),Le Mans (21),Chateauroux (21),2-1,1-0
-?,(Wed) Nov/29 2000 (48),Lorient (21),Nice (21),3-0,1-0
-?,(Wed) Nov/29 2000 (48),Nancy (21),Creteil (21),2-0,0-0
-?,(Wed) Nov/29 2000 (48),Sochaux (21),Caen (21),3-0,2-0
-?,(Wed) Nov/29 2000 (48),Wasquehal (21),Laval (21),2-1,1-0
-?,(Thu) Nov/30 2000 (48),Montpellier (21),Nimes (21),3-1,2-1
-?,(Sat) Dec/2 2000 (48),Ajaccio (22),Sochaux (22),0-0,0-0
-?,(Sat) Dec/2 2000 (48),Caen (22),Laval (22),0-1,0-1
-?,(Sat) Dec/2 2000 (48),Creteil (22),Gueugnon (22),1-2,0-1
-?,(Sat) Dec/2 2000 (48),Le Mans (22),Angers (22),2-1,1-0
-?,(Sat) Dec/2 2000 (48),Martigues (22),Cannes (22),0-1,0-0
-?,(Sat) Dec/2 2000 (48),Nice (22),Wasquehal (22),1-0,0-0
-?,(Sun) Dec/3 2000 (48),Nimes (22),Le Havre (22),2-2,1-1
-?,(Mon) Dec/4 2000 (49),Niort (22),Montpellier (22),1-1,1-1
-?,(Fri) Dec/8 2000 (49),Sochaux (23),Niort (23),3-0,2-0
-?,(Sat) Dec/9 2000 (49),Angers (23),Chateauroux (22),2-1,0-0
-?,(Sat) Dec/9 2000 (49),Cannes (23),Le Mans (23),0-0,0-0
-?,(Sat) Dec/9 2000 (49),Gueugnon (23),Nimes (23),3-3,1-3
-?,(Sat) Dec/9 2000 (49),Laval (23),Creteil (23),3-2,1-0
-?,(Sat) Dec/9 2000 (49),Le Havre (23),Martigues (23),0-0,0-0
-?,(Sat) Dec/9 2000 (49),Lorient (22),Caen (23),1-1,0-0
-?,(Sat) Dec/9 2000 (49),Montpellier (23),Ajaccio (23),2-0,1-0
-?,(Sat) Dec/9 2000 (49),Nancy (22),Nice (23),3-1,2-1
-?,(Sat) Dec/9 2000 (49),Wasquehal (23),Beauvais (22),0-2,0-0
-?,(Wed) Dec/13 2000 (50),Chateauroux (23),Lorient (23),2-0,1-0
-?,(Wed) Dec/20 2000 (51),Le Mans (24),Sochaux (24),0-0,0-0
-?,(Thu) Dec/21 2000 (51),Ajaccio (24),Le Havre (24),3-0,3-0
-?,(Thu) Dec/21 2000 (51),Angers (24),Cannes (24),1-3,1-2
-?,(Thu) Dec/21 2000 (51),Beauvais (23),Lorient (24),1-3,1-3
-?,(Thu) Dec/21 2000 (51),Caen (24),Gueugnon (24),2-1,0-0
-?,(Thu) Dec/21 2000 (51),Chateauroux (24),Creteil (24),0-1,0-1
-?,(Thu) Dec/21 2000 (51),Martigues (24),Montpellier (24),0-1,0-0
-?,(Thu) Dec/21 2000 (51),Nice (24),Laval (24),3-0,1-0
-?,(Thu) Dec/21 2000 (51),Nimes (24),Nancy (23),1-2,1-0
-?,(Thu) Dec/21 2000 (51),Niort (24),Wasquehal (24),1-1,1-1
-?,(Sat) Jan/13 2001 (2),Cannes (25),Chateauroux (25),2-2,2-2
-?,(Sat) Jan/13 2001 (2),Creteil (25),Nice (25),0-1,0-0
-?,(Sat) Jan/13 2001 (2),Gueugnon (25),Niort (25),1-0,0-0
-?,(Sat) Jan/13 2001 (2),Laval (25),Beauvais (24),0-2,0-0
-?,(Sat) Jan/13 2001 (2),Le Havre (25),Angers (25),2-1,2-0
-?,(Sat) Jan/13 2001 (2),Lorient (25),Ajaccio (25),0-1,0-0
-?,(Sat) Jan/13 2001 (2),Montpellier (25),Le Mans (25),0-0,0-0
-?,(Sat) Jan/13 2001 (2),Sochaux (25),Martigues (25),1-0,1-0
-?,(Sat) Jan/13 2001 (2),Wasquehal (25),Nimes (25),1-1,1-1
-?,(Sun) Jan/14 2001 (2),Nancy (24),Caen (25),4-0,2-0
-?,(Sat) Jan/27 2001 (4),Ajaccio (26),Nice (26),2-1,1-0
-?,(Sat) Jan/27 2001 (4),Beauvais (25),Creteil (26),1-1,0-0
-?,(Sat) Jan/27 2001 (4),Caen (26),Wasquehal (26),1-2,0-2
-?,(Sat) Jan/27 2001 (4),Cannes (26),Sochaux (26),2-2,1-0
-?,(Sat) Jan/27 2001 (4),Le Mans (26),Gueugnon (26),2-1,1-1
-?,(Sat) Jan/27 2001 (4),Martigues (26),Lorient (26),1-1,0-0
-?,(Sat) Jan/27 2001 (4),Nimes (26),Laval (26),1-0,0-0
-?,(Sat) Jan/27 2001 (4),Niort (26),Nancy (25),3-2,2-2
-?,(Sun) Jan/28 2001 (4),Angers (26),Montpellier (26),0-0,0-0
-?,(Sat) Feb/3 2001 (5),Creteil (27),Nimes (27),1-2,1-1
-?,(Sat) Feb/3 2001 (5),Gueugnon (27),Ajaccio (27),0-0,0-0
-?,(Sat) Feb/3 2001 (5),Laval (27),Le Mans (27),2-1,0-1
-?,(Sat) Feb/3 2001 (5),Le Havre (26),Caen (27),2-1,1-0
-?,(Sat) Feb/3 2001 (5),Montpellier (27),Chateauroux (26),0-0,0-0
-?,(Sat) Feb/3 2001 (5),Nancy (26),Cannes (27),2-0,1-0
-?,(Sat) Feb/3 2001 (5),Nice (27),Beauvais (26),0-1,0-1
-?,(Sat) Feb/3 2001 (5),Sochaux (27),Angers (27),2-0,0-0
-?,(Sat) Feb/3 2001 (5),Wasquehal (27),Martigues (27),2-0,1-0
-?,(Sun) Feb/4 2001 (5),Lorient (27),Niort (27),0-0,0-0
-?,(Wed) Feb/7 2001 (6),Ajaccio (28),Wasquehal (28),2-0,1-0
-?,(Wed) Feb/7 2001 (6),Angers (28),Lorient (28),2-1,1-1
-?,(Wed) Feb/7 2001 (6),Caen (28),Creteil (28),1-0,0-0
-?,(Wed) Feb/7 2001 (6),Cannes (28),Le Havre (27),1-1,1-0
-?,(Wed) Feb/7 2001 (6),Le Mans (28),Beauvais (27),0-4,0-2
-?,(Wed) Feb/7 2001 (6),Martigues (28),Nancy (27),2-1,0-1
-?,(Wed) Feb/7 2001 (6),Nimes (28),Nice (28),2-0,1-0
-?,(Wed) Feb/7 2001 (6),Niort (28),Laval (28),2-2,2-1
-?,(Thu) Feb/8 2001 (6),Sochaux (28),Montpellier (28),1-0,1-0
-?,(Fri) Feb/16 2001 (7),Le Havre (28),Sochaux (29),2-3,0-2
-?,(Fri) Feb/16 2001 (7),Nice (29),Caen (29),2-0,0-0
-?,(Sat) Feb/17 2001 (7),Beauvais (28),Nimes (29),1-0,0-0
-?,(Sat) Feb/17 2001 (7),Creteil (29),Niort (29),1-1,1-1
-?,(Sat) Feb/17 2001 (7),Gueugnon (28),Martigues (29),0-1,0-1
-?,(Sat) Feb/17 2001 (7),Laval (29),Ajaccio (29),0-0,0-0
-?,(Sat) Feb/17 2001 (7),Lorient (29),Le Mans (29),3-1,0-1
-?,(Sat) Feb/17 2001 (7),Montpellier (29),Cannes (29),2-0,0-0
-?,(Sat) Feb/17 2001 (7),Nancy (28),Chateauroux (27),0-0,0-0
-?,(Sat) Feb/17 2001 (7),Wasquehal (29),Angers (29),3-1,1-1
-?,(Fri) Mar/2 2001 (9),Sochaux (30),Lorient (30),0-1,0-1
-?,(Sat) Mar/3 2001 (9),Ajaccio (30),Creteil (30),0-0,0-0
-?,(Sat) Mar/3 2001 (9),Angers (30),Nancy (29),1-2,1-1
-?,(Sat) Mar/3 2001 (9),Caen (30),Nimes (30),2-2,1-2
-?,(Sat) Mar/3 2001 (9),Cannes (30),Gueugnon (29),0-1,0-1
-?,(Sat) Mar/3 2001 (9),Chateauroux (28),Beauvais (29),3-0,2-0
-?,(Sat) Mar/3 2001 (9),Le Mans (30),Wasquehal (30),0-0,0-0
-?,(Sat) Mar/3 2001 (9),Martigues (30),Laval (30),1-3,1-1
-?,(Sat) Mar/3 2001 (9),Montpellier (30),Le Havre (29),1-0,0-0
-?,(Sat) Mar/3 2001 (9),Niort (30),Nice (30),2-2,1-0
-?,(Fri) Mar/9 2001 (10),Beauvais (30),Nancy (30),1-1,1-0
-?,(Fri) Mar/16 2001 (11),Lorient (31),Montpellier (31),2-1,2-1
-?,(Fri) Mar/16 2001 (11),Nancy (31),Ajaccio (31),2-0,1-0
-?,(Fri) Mar/16 2001 (11),Wasquehal (31),Sochaux (31),1-1,0-0
-?,(Sat) Mar/17 2001 (11),Beauvais (31),Caen (31),0-1,0-0
-?,(Sat) Mar/17 2001 (11),Creteil (31),Martigues (31),0-0,0-0
-?,(Sat) Mar/17 2001 (11),Gueugnon (30),Angers (31),2-0,1-0
-?,(Sat) Mar/17 2001 (11),Laval (31),Cannes (31),2-1,0-1
-?,(Sat) Mar/17 2001 (11),Le Havre (30),Le Mans (31),3-0,0-0
-?,(Sat) Mar/17 2001 (11),Nice (31),Chateauroux (29),1-4,0-3
-?,(Sat) Mar/17 2001 (11),Nimes (31),Niort (31),2-1,0-0
-?,(Wed) Mar/21 2001 (12),Sochaux (32),Nancy (32),1-1,0-0
-?,(Fri) Mar/23 2001 (12),Ajaccio (32),Caen (32),1-0,0-0
-?,(Fri) Mar/23 2001 (12),Angers (32),Laval (32),1-0,1-0
-?,(Fri) Mar/23 2001 (12),Cannes (32),Wasquehal (32),0-0,0-0
-?,(Fri) Mar/23 2001 (12),Chateauroux (30),Nimes (32),1-1,0-1
-?,(Fri) Mar/23 2001 (12),Le Mans (32),Creteil (32),2-1,2-1
-?,(Fri) Mar/23 2001 (12),Martigues (32),Nice (32),0-1,0-0
-?,(Fri) Mar/23 2001 (12),Montpellier (32),Gueugnon (31),5-0,1-0
-?,(Fri) Mar/23 2001 (12),Niort (32),Beauvais (32),1-1,1-0
-?,(Tue) Mar/27 2001 (13),Creteil (33),Angers (33),1-1,1-0
-?,(Tue) Mar/27 2001 (13),Gueugnon (32),Sochaux (33),1-1,1-1
-?,(Tue) Mar/27 2001 (13),Laval (33),Chateauroux (31),0-2,0-2
-?,(Tue) Mar/27 2001 (13),Lorient (32),Cannes (33),4-0,3-0
-?,(Tue) Mar/27 2001 (13),Nancy (33),Montpellier (33),0-3,0-2
-?,(Tue) Mar/27 2001 (13),Nice (33),Le Mans (33),1-1,0-0
-?,(Tue) Mar/27 2001 (13),Nimes (33),Ajaccio (33),1-0,0-0
-?,(Tue) Mar/27 2001 (13),Wasquehal (33),Le Havre (31),0-1,0-0
-?,(Wed) Mar/28 2001 (13),Caen (33),Niort (33),1-2,1-1
-?,(Tue) Apr/3 2001 (14),Chateauroux (32),Le Havre (32),3-1,3-1
-?,(Sat) Apr/7 2001 (14),Ajaccio (34),Beauvais (33),2-0,1-0
-?,(Sat) Apr/7 2001 (14),Angers (34),Nice (34),0-0,0-0
-?,(Sat) Apr/7 2001 (14),Cannes (34),Creteil (34),4-2,1-2
-?,(Sat) Apr/7 2001 (14),Chateauroux (33),Caen (34),0-1,0-1
-?,(Sat) Apr/7 2001 (14),Le Havre (33),Nancy (34),1-0,0-0
-?,(Sat) Apr/7 2001 (14),Le Mans (34),Niort (34),2-1,1-0
-?,(Sat) Apr/7 2001 (14),Lorient (33),Gueugnon (33),1-4,0-1
-?,(Sat) Apr/7 2001 (14),Martigues (33),Nimes (34),1-0,0-0
-?,(Sat) Apr/7 2001 (14),Montpellier (34),Wasquehal (34),2-1,0-0
-?,(Sun) Apr/8 2001 (14),Sochaux (34),Laval (34),2-0,1-0
-?,(Fri) Apr/13 2001 (15),Nancy (35),Lorient (34),0-1,0-1
-?,(Sat) Apr/14 2001 (15),Beauvais (34),Martigues (34),3-1,1-1
-?,(Sat) Apr/14 2001 (15),Creteil (35),Sochaux (35),1-0,0-0
-?,(Sat) Apr/14 2001 (15),Gueugnon (34),Le Havre (34),1-2,1-1
-?,(Sat) Apr/14 2001 (15),Laval (35),Montpellier (35),0-0,0-0
-?,(Sat) Apr/14 2001 (15),Nice (35),Cannes (35),2-0,0-0
-?,(Sat) Apr/14 2001 (15),Nimes (35),Le Mans (35),3-1,1-0
-?,(Sat) Apr/14 2001 (15),Niort (35),Ajaccio (35),4-3,2-2
-?,(Sat) Apr/14 2001 (15),Wasquehal (35),Chateauroux (34),3-1,3-1
-?,(Fri) Apr/20 2001 (16),Beauvais (35),Angers (35),1-1,1-1
-?,(Fri) Apr/20 2001 (16),Caen (35),Martigues (35),1-2,0-1
-?,(Fri) Apr/20 2001 (16),Chateauroux (35),Gueugnon (35),1-1,1-0
-?,(Fri) Apr/20 2001 (16),Le Havre (35),Lorient (35),1-1,1-1
-?,(Fri) Apr/27 2001 (17),Montpellier (36),Creteil (36),1-1,0-1
-?,(Sat) Apr/28 2001 (17),Angers (36),Nimes (36),3-0,0-0
-?,(Sat) Apr/28 2001 (17),Cannes (36),Beauvais (36),0-1,0-0
-?,(Sat) Apr/28 2001 (17),Chateauroux (36),Ajaccio (36),2-2,0-2
-?,(Sat) Apr/28 2001 (17),Gueugnon (36),Nancy (36),1-1,1-1
-?,(Sat) Apr/28 2001 (17),Le Havre (36),Laval (36),3-1,2-1
-?,(Sat) Apr/28 2001 (17),Le Mans (36),Caen (36),1-1,0-0
-?,(Sat) Apr/28 2001 (17),Lorient (36),Wasquehal (36),2-0,1-0
-?,(Sat) Apr/28 2001 (17),Martigues (36),Niort (36),1-1,0-0
-?,(Sat) Apr/28 2001 (17),Sochaux (36),Nice (36),5-1,2-0
-?,(Fri) May/11 2001 (19),Ajaccio (37),Martigues (37),1-0,0-0
-?,(Fri) May/11 2001 (19),Beauvais (37),Sochaux (37),1-2,0-1
-?,(Fri) May/11 2001 (19),Caen (37),Angers (37),4-0,1-0
-?,(Fri) May/11 2001 (19),Creteil (37),Le Havre (37),2-0,0-0
-?,(Fri) May/11 2001 (19),Laval (37),Lorient (37),1-2,1-1
-?,(Fri) May/11 2001 (19),Nancy (37),Le Mans (37),0-0,0-0
-?,(Fri) May/11 2001 (19),Nice (37),Montpellier (37),2-1,2-1
-?,(Fri) May/11 2001 (19),Nimes (37),Cannes (37),4-3,2-1
-?,(Fri) May/11 2001 (19),Niort (37),Chateauroux (37),2-0,1-0
-?,(Fri) May/11 2001 (19),Wasquehal (37),Gueugnon (37),2-1,0-1
-?,(Fri) May/18 2001 (20),Angers (38),Niort (38),2-0,1-0
-?,(Fri) May/18 2001 (20),Cannes (38),Caen (38),2-0,0-0
-?,(Fri) May/18 2001 (20),Gueugnon (38),Laval (38),2-0,1-0
-?,(Fri) May/18 2001 (20),Le Havre (38),Nice (38),1-0,1-0
-?,(Fri) May/18 2001 (20),Le Mans (38),Ajaccio (38),1-1,0-0
-?,(Fri) May/18 2001 (20),Lorient (38),Creteil (38),3-1,2-0
-?,(Fri) May/18 2001 (20),Martigues (38),Chateauroux (38),0-1,0-1
-?,(Fri) May/18 2001 (20),Montpellier (38),Beauvais (38),0-1,0-0
-?,(Fri) May/18 2001 (20),Nancy (38),Wasquehal (38),0-2,0-0
-?,(Fri) May/18 2001 (20),Sochaux (38),Nimes (38),4-1,4-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 28 Jul 2000 (30),Wasquehal (1),0-1,0-1,Nancy (1)
+?,(Sat) 29 Jul 2000 (30),Ajaccio (1),1-0,1-0,Le Mans (1)
+?,(Sat) 29 Jul 2000 (30),Beauvais (1),1-3,0-1,Montpellier (1)
+?,(Sat) 29 Jul 2000 (30),Caen (1),2-2,1-2,Cannes (1)
+?,(Sat) 29 Jul 2000 (30),Chateauroux (1),1-1,0-1,Martigues (1)
+?,(Sat) 29 Jul 2000 (30),Creteil (1),2-1,1-0,Lorient (1)
+?,(Sat) 29 Jul 2000 (30),Laval (1),2-1,2-0,Gueugnon (1)
+?,(Sat) 29 Jul 2000 (30),Nice (1),0-0,0-0,Le Havre (1)
+?,(Sat) 29 Jul 2000 (30),Nimes (1),3-3,3-1,Sochaux (1)
+?,(Sat) 29 Jul 2000 (30),Niort (1),3-2,3-0,Angers (1)
+?,(Fri) 4 Aug 2000 (31),Lorient (2),1-1,0-0,Nimes (2)
+?,(Sat) 5 Aug 2000 (31),Angers (2),1-1,0-0,Ajaccio (2)
+?,(Sat) 5 Aug 2000 (31),Cannes (2),6-4,2-1,Niort (2)
+?,(Sat) 5 Aug 2000 (31),Gueugnon (2),1-2,0-2,Nice (2)
+?,(Sat) 5 Aug 2000 (31),Le Havre (2),1-0,1-0,Beauvais (2)
+?,(Sat) 5 Aug 2000 (31),Le Mans (2),2-2,1-1,Martigues (2)
+?,(Sat) 5 Aug 2000 (31),Montpellier (2),2-0,0-0,Caen (2)
+?,(Sat) 5 Aug 2000 (31),Sochaux (2),5-0,2-0,Chateauroux (2)
+?,(Sat) 5 Aug 2000 (31),Wasquehal (2),1-1,1-1,Creteil (2)
+?,(Sun) 6 Aug 2000 (31),Nancy (2),1-0,0-0,Laval (2)
+?,(Sat) 12 Aug 2000 (32),Ajaccio (3),3-3,2-1,Cannes (3)
+?,(Sat) 12 Aug 2000 (32),Beauvais (3),0-0,0-0,Gueugnon (3)
+?,(Sat) 12 Aug 2000 (32),Caen (3),1-3,0-1,Sochaux (3)
+?,(Sat) 12 Aug 2000 (32),Chateauroux (3),0-0,0-0,Le Mans (3)
+?,(Sat) 12 Aug 2000 (32),Creteil (3),1-0,0-0,Nancy (3)
+?,(Sat) 12 Aug 2000 (32),Laval (3),1-0,1-0,Wasquehal (3)
+?,(Sat) 12 Aug 2000 (32),Nice (3),1-1,1-1,Lorient (3)
+?,(Sat) 12 Aug 2000 (32),Nimes (3),0-2,0-1,Montpellier (3)
+?,(Sat) 12 Aug 2000 (32),Niort (3),1-1,1-0,Le Havre (3)
+?,(Sun) 13 Aug 2000 (32),Martigues (3),1-1,0-1,Angers (3)
+?,(Fri) 18 Aug 2000 (33),Nancy (4),3-1,2-1,Beauvais (4)
+?,(Sat) 19 Aug 2000 (33),Angers (4),1-3,0-1,Le Mans (4)
+?,(Sat) 19 Aug 2000 (33),Cannes (4),0-0,0-0,Martigues (4)
+?,(Sat) 19 Aug 2000 (33),Gueugnon (4),2-0,1-0,Creteil (4)
+?,(Sat) 19 Aug 2000 (33),Laval (4),2-1,0-0,Caen (4)
+?,(Sat) 19 Aug 2000 (33),Le Havre (4),2-0,1-0,Nimes (4)
+?,(Sat) 19 Aug 2000 (33),Lorient (4),2-1,1-0,Chateauroux (4)
+?,(Sat) 19 Aug 2000 (33),Montpellier (4),1-0,0-0,Niort (4)
+?,(Sat) 19 Aug 2000 (33),Sochaux (4),2-0,2-0,Ajaccio (4)
+?,(Sat) 19 Aug 2000 (33),Wasquehal (4),2-1,1-1,Nice (4)
+?,(Sat) 26 Aug 2000 (34),Ajaccio (5),0-2,0-0,Montpellier (5)
+?,(Sat) 26 Aug 2000 (34),Beauvais (5),0-0,0-0,Wasquehal (5)
+?,(Sat) 26 Aug 2000 (34),Caen (5),1-2,1-1,Lorient (5)
+?,(Sat) 26 Aug 2000 (34),Chateauroux (5),3-2,1-2,Angers (5)
+?,(Sat) 26 Aug 2000 (34),Creteil (5),4-0,1-0,Laval (5)
+?,(Sat) 26 Aug 2000 (34),Le Mans (5),2-0,2-0,Cannes (5)
+?,(Sat) 26 Aug 2000 (34),Martigues (5),2-3,1-1,Le Havre (5)
+?,(Sat) 26 Aug 2000 (34),Nice (5),2-1,0-1,Nancy (5)
+?,(Sat) 26 Aug 2000 (34),Nimes (5),1-1,0-1,Gueugnon (5)
+?,(Sat) 26 Aug 2000 (34),Niort (5),1-0,0-0,Sochaux (5)
+?,(Tue) 29 Aug 2000 (35),Cannes (6),3-0,1-0,Angers (6)
+?,(Tue) 29 Aug 2000 (35),Creteil (6),1-2,0-0,Chateauroux (6)
+?,(Tue) 29 Aug 2000 (35),Gueugnon (6),1-1,0-1,Caen (6)
+?,(Tue) 29 Aug 2000 (35),Laval (6),2-0,1-0,Nice (6)
+?,(Tue) 29 Aug 2000 (35),Le Havre (6),4-0,2-0,Ajaccio (6)
+?,(Tue) 29 Aug 2000 (35),Lorient (6),2-1,1-1,Beauvais (6)
+?,(Tue) 29 Aug 2000 (35),Montpellier (6),2-0,1-0,Martigues (6)
+?,(Tue) 29 Aug 2000 (35),Nancy (6),3-1,0-0,Nimes (6)
+?,(Tue) 29 Aug 2000 (35),Sochaux (6),2-0,1-0,Le Mans (6)
+?,(Tue) 29 Aug 2000 (35),Wasquehal (6),0-0,0-0,Niort (6)
+?,(Fri) 1 Sep 2000 (35),Ajaccio (7),0-0,0-0,Lorient (7)
+?,(Fri) 1 Sep 2000 (35),Angers (7),0-0,0-0,Le Havre (7)
+?,(Fri) 1 Sep 2000 (35),Beauvais (7),0-0,0-0,Laval (7)
+?,(Fri) 1 Sep 2000 (35),Caen (7),0-3,0-1,Nancy (7)
+?,(Fri) 1 Sep 2000 (35),Chateauroux (7),2-0,1-0,Cannes (7)
+?,(Fri) 1 Sep 2000 (35),Le Mans (7),1-1,1-1,Montpellier (7)
+?,(Fri) 1 Sep 2000 (35),Martigues (7),2-0,1-0,Sochaux (7)
+?,(Fri) 1 Sep 2000 (35),Nice (7),2-0,1-0,Creteil (7)
+?,(Fri) 1 Sep 2000 (35),Nimes (7),1-0,0-0,Wasquehal (7)
+?,(Fri) 1 Sep 2000 (35),Niort (7),2-0,1-0,Gueugnon (7)
+?,(Tue) 5 Sep 2000 (36),Nancy (8),0-0,0-0,Niort (8)
+?,(Wed) 6 Sep 2000 (36),Creteil (8),1-1,1-0,Beauvais (8)
+?,(Wed) 6 Sep 2000 (36),Gueugnon (8),0-0,0-0,Le Mans (8)
+?,(Wed) 6 Sep 2000 (36),Laval (8),3-1,1-0,Nimes (8)
+?,(Wed) 6 Sep 2000 (36),Le Havre (8),0-0,0-0,Chateauroux (8)
+?,(Wed) 6 Sep 2000 (36),Lorient (8),0-1,0-1,Martigues (8)
+?,(Wed) 6 Sep 2000 (36),Montpellier (8),1-1,0-1,Angers (8)
+?,(Wed) 6 Sep 2000 (36),Nice (8),1-0,0-0,Ajaccio (8)
+?,(Wed) 6 Sep 2000 (36),Sochaux (8),1-0,0-0,Cannes (8)
+?,(Wed) 6 Sep 2000 (36),Wasquehal (8),3-3,1-1,Caen (8)
+?,(Sat) 9 Sep 2000 (36),Ajaccio (9),2-0,0-0,Gueugnon (9)
+?,(Sat) 9 Sep 2000 (36),Angers (9),2-0,1-0,Sochaux (9)
+?,(Sat) 9 Sep 2000 (36),Beauvais (9),2-0,0-0,Nice (9)
+?,(Sat) 9 Sep 2000 (36),Caen (9),1-0,1-0,Le Havre (9)
+?,(Sat) 9 Sep 2000 (36),Cannes (9),0-2,0-1,Nancy (9)
+?,(Sat) 9 Sep 2000 (36),Chateauroux (9),0-0,0-0,Montpellier (9)
+?,(Sat) 9 Sep 2000 (36),Le Mans (9),2-2,2-1,Laval (9)
+?,(Sat) 9 Sep 2000 (36),Martigues (9),1-0,0-0,Wasquehal (9)
+?,(Sat) 9 Sep 2000 (36),Nimes (9),2-1,1-1,Creteil (9)
+?,(Sat) 9 Sep 2000 (36),Niort (9),1-2,1-0,Lorient (9)
+?,(Fri) 15 Sep 2000 (37),Nancy (10),0-0,0-0,Martigues (10)
+?,(Sat) 16 Sep 2000 (37),Beauvais (10),1-1,0-0,Le Mans (10)
+?,(Sat) 16 Sep 2000 (37),Creteil (10),0-1,0-1,Caen (10)
+?,(Sat) 16 Sep 2000 (37),Laval (10),0-1,0-0,Niort (10)
+?,(Sat) 16 Sep 2000 (37),Le Havre (10),2-2,0-1,Cannes (10)
+?,(Sat) 16 Sep 2000 (37),Lorient (10),3-0,1-0,Angers (10)
+?,(Sat) 16 Sep 2000 (37),Montpellier (10),0-2,0-0,Sochaux (10)
+?,(Sat) 16 Sep 2000 (37),Nice (10),1-2,1-1,Nimes (10)
+?,(Sat) 16 Sep 2000 (37),Wasquehal (10),2-0,2-0,Ajaccio (10)
+?,(Sun) 17 Sep 2000 (37),Gueugnon (10),0-1,0-0,Chateauroux (10)
+?,(Sat) 23 Sep 2000 (38),Ajaccio (11),1-2,0-1,Laval (11)
+?,(Sat) 23 Sep 2000 (38),Angers (11),2-0,2-0,Wasquehal (11)
+?,(Sat) 23 Sep 2000 (38),Caen (11),1-0,0-0,Nice (11)
+?,(Sat) 23 Sep 2000 (38),Cannes (11),1-2,0-0,Montpellier (11)
+?,(Sat) 23 Sep 2000 (38),Chateauroux (11),0-0,0-0,Nancy (11)
+?,(Sat) 23 Sep 2000 (38),Le Mans (11),1-1,0-1,Lorient (11)
+?,(Sat) 23 Sep 2000 (38),Martigues (11),0-0,0-0,Gueugnon (11)
+?,(Sat) 23 Sep 2000 (38),Nimes (11),2-1,1-1,Beauvais (11)
+?,(Sat) 23 Sep 2000 (38),Niort (11),0-0,0-0,Creteil (11)
+?,(Sat) 23 Sep 2000 (38),Sochaux (11),3-0,3-0,Le Havre (11)
+?,(Sat) 30 Sep 2000 (39),Beauvais (12),2-1,0-0,Chateauroux (12)
+?,(Sat) 30 Sep 2000 (39),Creteil (12),1-0,1-0,Ajaccio (12)
+?,(Sat) 30 Sep 2000 (39),Laval (12),2-0,0-0,Martigues (12)
+?,(Sat) 30 Sep 2000 (39),Le Havre (12),3-0,1-0,Montpellier (12)
+?,(Sat) 30 Sep 2000 (39),Lorient (12),1-1,1-1,Sochaux (12)
+?,(Sat) 30 Sep 2000 (39),Nancy (12),0-0,0-0,Angers (12)
+?,(Sat) 30 Sep 2000 (39),Nice (12),0-1,0-0,Niort (12)
+?,(Sat) 30 Sep 2000 (39),Nimes (12),1-2,0-0,Caen (12)
+?,(Sat) 30 Sep 2000 (39),Wasquehal (12),2-1,1-0,Le Mans (12)
+?,(Sun) 1 Oct 2000 (39),Gueugnon (12),2-1,?,Cannes (12)
+?,(Fri) 6 Oct 2000 (40),Ajaccio (13),1-0,0-0,Nancy (13)
+?,(Fri) 6 Oct 2000 (40),Sochaux (13),1-1,1-0,Wasquehal (13)
+?,(Sat) 7 Oct 2000 (40),Angers (13),1-2,1-0,Gueugnon (13)
+?,(Sat) 7 Oct 2000 (40),Caen (13),1-1,1-0,Beauvais (13)
+?,(Sat) 7 Oct 2000 (40),Cannes (13),0-1,0-1,Laval (13)
+?,(Sat) 7 Oct 2000 (40),Chateauroux (13),7-2,3-1,Nice (13)
+?,(Sat) 7 Oct 2000 (40),Le Mans (13),1-1,0-1,Le Havre (13)
+?,(Sat) 7 Oct 2000 (40),Martigues (13),0-0,0-0,Creteil (13)
+?,(Sat) 7 Oct 2000 (40),Niort (13),1-1,0-1,Nimes (13)
+?,(Tue) 10 Oct 2000 (41),Nancy (14),1-2,0-1,Sochaux (14)
+?,(Wed) 11 Oct 2000 (41),Beauvais (14),1-4,1-1,Niort (14)
+?,(Wed) 11 Oct 2000 (41),Caen (14),2-0,1-0,Ajaccio (14)
+?,(Wed) 11 Oct 2000 (41),Creteil (14),1-0,0-0,Le Mans (14)
+?,(Wed) 11 Oct 2000 (41),Gueugnon (14),2-4,1-1,Montpellier (13)
+?,(Wed) 11 Oct 2000 (41),Laval (14),4-1,1-0,Angers (14)
+?,(Wed) 11 Oct 2000 (41),Lorient (13),1-0,1-0,Le Havre (14)
+?,(Wed) 11 Oct 2000 (41),Nice (14),2-1,2-1,Martigues (14)
+?,(Wed) 11 Oct 2000 (41),Nimes (14),2-1,1-0,Chateauroux (14)
+?,(Wed) 11 Oct 2000 (41),Wasquehal (14),3-0,1-0,Cannes (14)
+?,(Sat) 14 Oct 2000 (41),Angers (15),1-1,1-0,Creteil (15)
+?,(Sat) 14 Oct 2000 (41),Cannes (15),1-2,0-1,Lorient (14)
+?,(Sat) 14 Oct 2000 (41),Chateauroux (15),0-0,0-0,Laval (15)
+?,(Sat) 14 Oct 2000 (41),Le Havre (15),1-1,0-0,Wasquehal (15)
+?,(Sat) 14 Oct 2000 (41),Le Mans (15),1-0,1-0,Nice (15)
+?,(Sat) 14 Oct 2000 (41),Martigues (15),0-0,0-0,Beauvais (15)
+?,(Sat) 14 Oct 2000 (41),Niort (15),2-0,0-0,Caen (15)
+?,(Sat) 14 Oct 2000 (41),Sochaux (15),3-0,1-0,Gueugnon (15)
+?,(Sun) 15 Oct 2000 (41),Montpellier (14),1-1,1-0,Nancy (15)
+?,(Fri) 20 Oct 2000 (42),Laval (16),0-0,0-0,Sochaux (16)
+?,(Sat) 21 Oct 2000 (42),Beauvais (16),0-0,0-0,Ajaccio (15)
+?,(Sat) 21 Oct 2000 (42),Caen (16),1-1,0-1,Chateauroux (16)
+?,(Sat) 21 Oct 2000 (42),Creteil (16),3-1,1-0,Cannes (16)
+?,(Sat) 21 Oct 2000 (42),Gueugnon (16),1-1,0-0,Lorient (15)
+?,(Sat) 21 Oct 2000 (42),Nancy (16),2-3,0-1,Le Havre (16)
+?,(Sat) 21 Oct 2000 (42),Nice (16),2-0,1-0,Angers (16)
+?,(Sat) 21 Oct 2000 (42),Nimes (15),2-0,0-0,Martigues (16)
+?,(Sat) 21 Oct 2000 (42),Niort (16),2-0,2-0,Le Mans (16)
+?,(Sat) 21 Oct 2000 (42),Wasquehal (16),1-1,0-0,Montpellier (15)
+?,(Wed) 25 Oct 2000 (43),Montpellier (16),2-2,2-1,Lorient (16)
+?,(Fri) 27 Oct 2000 (43),Le Havre (17),1-3,0-0,Gueugnon (17)
+?,(Sat) 28 Oct 2000 (43),Ajaccio (16),0-1,0-1,Niort (17)
+?,(Sat) 28 Oct 2000 (43),Angers (17),1-1,0-0,Beauvais (17)
+?,(Sat) 28 Oct 2000 (43),Cannes (17),2-1,1-0,Nice (17)
+?,(Sat) 28 Oct 2000 (43),Chateauroux (17),2-0,1-0,Wasquehal (17)
+?,(Sat) 28 Oct 2000 (43),Le Mans (17),1-1,0-1,Nimes (16)
+?,(Sat) 28 Oct 2000 (43),Lorient (17),2-0,2-0,Nancy (17)
+?,(Sat) 28 Oct 2000 (43),Martigues (17),2-2,0-2,Caen (17)
+?,(Sat) 28 Oct 2000 (43),Sochaux (17),3-0,2-0,Creteil (17)
+?,(Sun) 29 Oct 2000 (43),Montpellier (17),1-0,1-0,Laval (17)
+?,(Sat) 4 Nov 2000 (44),Ajaccio (17),0-2,0-2,Chateauroux (18)
+?,(Sat) 4 Nov 2000 (44),Beauvais (18),3-1,0-0,Cannes (18)
+?,(Sat) 4 Nov 2000 (44),Caen (18),0-2,0-1,Le Mans (18)
+?,(Sat) 4 Nov 2000 (44),Creteil (18),1-1,1-0,Montpellier (18)
+?,(Sat) 4 Nov 2000 (44),Nancy (18),4-0,2-0,Gueugnon (18)
+?,(Sat) 4 Nov 2000 (44),Nice (18),2-2,0-0,Sochaux (18)
+?,(Sat) 4 Nov 2000 (44),Nimes (17),3-0,1-0,Angers (18)
+?,(Sat) 4 Nov 2000 (44),Niort (18),6-1,3-0,Martigues (18)
+?,(Sat) 4 Nov 2000 (44),Wasquehal (18),0-1,0-1,Lorient (18)
+?,(Sun) 5 Nov 2000 (44),Laval (18),1-0,1-0,Le Havre (18)
+?,(Fri) 10 Nov 2000 (45),Le Havre (19),1-1,0-0,Creteil (19)
+?,(Sat) 11 Nov 2000 (45),Angers (19),0-1,0-0,Caen (19)
+?,(Sat) 11 Nov 2000 (45),Cannes (19),1-1,1-1,Nimes (18)
+?,(Sat) 11 Nov 2000 (45),Chateauroux (19),1-0,0-0,Niort (19)
+?,(Sat) 11 Nov 2000 (45),Gueugnon (19),2-1,1-1,Wasquehal (19)
+?,(Sat) 11 Nov 2000 (45),Le Mans (19),0-1,0-1,Nancy (19)
+?,(Sat) 11 Nov 2000 (45),Martigues (19),2-1,0-1,Ajaccio (18)
+?,(Sat) 11 Nov 2000 (45),Montpellier (19),3-0,1-0,Nice (19)
+?,(Sat) 11 Nov 2000 (45),Sochaux (19),2-0,1-0,Beauvais (19)
+?,(Sun) 12 Nov 2000 (45),Lorient (19),2-1,2-0,Laval (19)
+?,(Tue) 14 Nov 2000 (46),Ajaccio (19),1-0,0-0,Nimes (19)
+?,(Fri) 17 Nov 2000 (46),Chateauroux (20),1-1,1-0,Sochaux (20)
+?,(Sat) 18 Nov 2000 (46),Ajaccio (20),3-1,0-1,Angers (20)
+?,(Sat) 18 Nov 2000 (46),Beauvais (20),1-1,0-1,Le Havre (20)
+?,(Sat) 18 Nov 2000 (46),Caen (20),0-0,0-0,Montpellier (20)
+?,(Sat) 18 Nov 2000 (46),Creteil (20),2-0,1-0,Wasquehal (20)
+?,(Sat) 18 Nov 2000 (46),Laval (20),0-0,0-0,Nancy (20)
+?,(Sat) 18 Nov 2000 (46),Martigues (20),3-3,2-1,Le Mans (20)
+?,(Sat) 18 Nov 2000 (46),Nice (20),1-2,0-2,Gueugnon (20)
+?,(Sat) 18 Nov 2000 (46),Nimes (20),1-2,0-0,Lorient (20)
+?,(Sat) 18 Nov 2000 (46),Niort (20),4-1,3-1,Cannes (20)
+?,(Wed) 29 Nov 2000 (48),Angers (21),1-1,0-1,Martigues (21)
+?,(Wed) 29 Nov 2000 (48),Cannes (21),1-0,1-0,Ajaccio (21)
+?,(Wed) 29 Nov 2000 (48),Gueugnon (21),2-0,2-0,Beauvais (21)
+?,(Wed) 29 Nov 2000 (48),Le Havre (21),2-2,1-1,Niort (21)
+?,(Wed) 29 Nov 2000 (48),Le Mans (21),2-1,1-0,Chateauroux (21)
+?,(Wed) 29 Nov 2000 (48),Lorient (21),3-0,1-0,Nice (21)
+?,(Wed) 29 Nov 2000 (48),Nancy (21),2-0,0-0,Creteil (21)
+?,(Wed) 29 Nov 2000 (48),Sochaux (21),3-0,2-0,Caen (21)
+?,(Wed) 29 Nov 2000 (48),Wasquehal (21),2-1,1-0,Laval (21)
+?,(Thu) 30 Nov 2000 (48),Montpellier (21),3-1,2-1,Nimes (21)
+?,(Sat) 2 Dec 2000 (48),Ajaccio (22),0-0,0-0,Sochaux (22)
+?,(Sat) 2 Dec 2000 (48),Caen (22),0-1,0-1,Laval (22)
+?,(Sat) 2 Dec 2000 (48),Creteil (22),1-2,0-1,Gueugnon (22)
+?,(Sat) 2 Dec 2000 (48),Le Mans (22),2-1,1-0,Angers (22)
+?,(Sat) 2 Dec 2000 (48),Martigues (22),0-1,0-0,Cannes (22)
+?,(Sat) 2 Dec 2000 (48),Nice (22),1-0,0-0,Wasquehal (22)
+?,(Sun) 3 Dec 2000 (48),Nimes (22),2-2,1-1,Le Havre (22)
+?,(Mon) 4 Dec 2000 (49),Niort (22),1-1,1-1,Montpellier (22)
+?,(Fri) 8 Dec 2000 (49),Sochaux (23),3-0,2-0,Niort (23)
+?,(Sat) 9 Dec 2000 (49),Angers (23),2-1,0-0,Chateauroux (22)
+?,(Sat) 9 Dec 2000 (49),Cannes (23),0-0,0-0,Le Mans (23)
+?,(Sat) 9 Dec 2000 (49),Gueugnon (23),3-3,1-3,Nimes (23)
+?,(Sat) 9 Dec 2000 (49),Laval (23),3-2,1-0,Creteil (23)
+?,(Sat) 9 Dec 2000 (49),Le Havre (23),0-0,0-0,Martigues (23)
+?,(Sat) 9 Dec 2000 (49),Lorient (22),1-1,0-0,Caen (23)
+?,(Sat) 9 Dec 2000 (49),Montpellier (23),2-0,1-0,Ajaccio (23)
+?,(Sat) 9 Dec 2000 (49),Nancy (22),3-1,2-1,Nice (23)
+?,(Sat) 9 Dec 2000 (49),Wasquehal (23),0-2,0-0,Beauvais (22)
+?,(Wed) 13 Dec 2000 (50),Chateauroux (23),2-0,1-0,Lorient (23)
+?,(Wed) 20 Dec 2000 (51),Le Mans (24),0-0,0-0,Sochaux (24)
+?,(Thu) 21 Dec 2000 (51),Ajaccio (24),3-0,3-0,Le Havre (24)
+?,(Thu) 21 Dec 2000 (51),Angers (24),1-3,1-2,Cannes (24)
+?,(Thu) 21 Dec 2000 (51),Beauvais (23),1-3,1-3,Lorient (24)
+?,(Thu) 21 Dec 2000 (51),Caen (24),2-1,0-0,Gueugnon (24)
+?,(Thu) 21 Dec 2000 (51),Chateauroux (24),0-1,0-1,Creteil (24)
+?,(Thu) 21 Dec 2000 (51),Martigues (24),0-1,0-0,Montpellier (24)
+?,(Thu) 21 Dec 2000 (51),Nice (24),3-0,1-0,Laval (24)
+?,(Thu) 21 Dec 2000 (51),Nimes (24),1-2,1-0,Nancy (23)
+?,(Thu) 21 Dec 2000 (51),Niort (24),1-1,1-1,Wasquehal (24)
+?,(Sat) 13 Jan 2001 (2),Cannes (25),2-2,2-2,Chateauroux (25)
+?,(Sat) 13 Jan 2001 (2),Creteil (25),0-1,0-0,Nice (25)
+?,(Sat) 13 Jan 2001 (2),Gueugnon (25),1-0,0-0,Niort (25)
+?,(Sat) 13 Jan 2001 (2),Laval (25),0-2,0-0,Beauvais (24)
+?,(Sat) 13 Jan 2001 (2),Le Havre (25),2-1,2-0,Angers (25)
+?,(Sat) 13 Jan 2001 (2),Lorient (25),0-1,0-0,Ajaccio (25)
+?,(Sat) 13 Jan 2001 (2),Montpellier (25),0-0,0-0,Le Mans (25)
+?,(Sat) 13 Jan 2001 (2),Sochaux (25),1-0,1-0,Martigues (25)
+?,(Sat) 13 Jan 2001 (2),Wasquehal (25),1-1,1-1,Nimes (25)
+?,(Sun) 14 Jan 2001 (2),Nancy (24),4-0,2-0,Caen (25)
+?,(Sat) 27 Jan 2001 (4),Ajaccio (26),2-1,1-0,Nice (26)
+?,(Sat) 27 Jan 2001 (4),Beauvais (25),1-1,0-0,Creteil (26)
+?,(Sat) 27 Jan 2001 (4),Caen (26),1-2,0-2,Wasquehal (26)
+?,(Sat) 27 Jan 2001 (4),Cannes (26),2-2,1-0,Sochaux (26)
+?,(Sat) 27 Jan 2001 (4),Le Mans (26),2-1,1-1,Gueugnon (26)
+?,(Sat) 27 Jan 2001 (4),Martigues (26),1-1,0-0,Lorient (26)
+?,(Sat) 27 Jan 2001 (4),Nimes (26),1-0,0-0,Laval (26)
+?,(Sat) 27 Jan 2001 (4),Niort (26),3-2,2-2,Nancy (25)
+?,(Sun) 28 Jan 2001 (4),Angers (26),0-0,0-0,Montpellier (26)
+?,(Sat) 3 Feb 2001 (5),Creteil (27),1-2,1-1,Nimes (27)
+?,(Sat) 3 Feb 2001 (5),Gueugnon (27),0-0,0-0,Ajaccio (27)
+?,(Sat) 3 Feb 2001 (5),Laval (27),2-1,0-1,Le Mans (27)
+?,(Sat) 3 Feb 2001 (5),Le Havre (26),2-1,1-0,Caen (27)
+?,(Sat) 3 Feb 2001 (5),Montpellier (27),0-0,0-0,Chateauroux (26)
+?,(Sat) 3 Feb 2001 (5),Nancy (26),2-0,1-0,Cannes (27)
+?,(Sat) 3 Feb 2001 (5),Nice (27),0-1,0-1,Beauvais (26)
+?,(Sat) 3 Feb 2001 (5),Sochaux (27),2-0,0-0,Angers (27)
+?,(Sat) 3 Feb 2001 (5),Wasquehal (27),2-0,1-0,Martigues (27)
+?,(Sun) 4 Feb 2001 (5),Lorient (27),0-0,0-0,Niort (27)
+?,(Wed) 7 Feb 2001 (6),Ajaccio (28),2-0,1-0,Wasquehal (28)
+?,(Wed) 7 Feb 2001 (6),Angers (28),2-1,1-1,Lorient (28)
+?,(Wed) 7 Feb 2001 (6),Caen (28),1-0,0-0,Creteil (28)
+?,(Wed) 7 Feb 2001 (6),Cannes (28),1-1,1-0,Le Havre (27)
+?,(Wed) 7 Feb 2001 (6),Le Mans (28),0-4,0-2,Beauvais (27)
+?,(Wed) 7 Feb 2001 (6),Martigues (28),2-1,0-1,Nancy (27)
+?,(Wed) 7 Feb 2001 (6),Nimes (28),2-0,1-0,Nice (28)
+?,(Wed) 7 Feb 2001 (6),Niort (28),2-2,2-1,Laval (28)
+?,(Thu) 8 Feb 2001 (6),Sochaux (28),1-0,1-0,Montpellier (28)
+?,(Fri) 16 Feb 2001 (7),Le Havre (28),2-3,0-2,Sochaux (29)
+?,(Fri) 16 Feb 2001 (7),Nice (29),2-0,0-0,Caen (29)
+?,(Sat) 17 Feb 2001 (7),Beauvais (28),1-0,0-0,Nimes (29)
+?,(Sat) 17 Feb 2001 (7),Creteil (29),1-1,1-1,Niort (29)
+?,(Sat) 17 Feb 2001 (7),Gueugnon (28),0-1,0-1,Martigues (29)
+?,(Sat) 17 Feb 2001 (7),Laval (29),0-0,0-0,Ajaccio (29)
+?,(Sat) 17 Feb 2001 (7),Lorient (29),3-1,0-1,Le Mans (29)
+?,(Sat) 17 Feb 2001 (7),Montpellier (29),2-0,0-0,Cannes (29)
+?,(Sat) 17 Feb 2001 (7),Nancy (28),0-0,0-0,Chateauroux (27)
+?,(Sat) 17 Feb 2001 (7),Wasquehal (29),3-1,1-1,Angers (29)
+?,(Fri) 2 Mar 2001 (9),Sochaux (30),0-1,0-1,Lorient (30)
+?,(Sat) 3 Mar 2001 (9),Ajaccio (30),0-0,0-0,Creteil (30)
+?,(Sat) 3 Mar 2001 (9),Angers (30),1-2,1-1,Nancy (29)
+?,(Sat) 3 Mar 2001 (9),Caen (30),2-2,1-2,Nimes (30)
+?,(Sat) 3 Mar 2001 (9),Cannes (30),0-1,0-1,Gueugnon (29)
+?,(Sat) 3 Mar 2001 (9),Chateauroux (28),3-0,2-0,Beauvais (29)
+?,(Sat) 3 Mar 2001 (9),Le Mans (30),0-0,0-0,Wasquehal (30)
+?,(Sat) 3 Mar 2001 (9),Martigues (30),1-3,1-1,Laval (30)
+?,(Sat) 3 Mar 2001 (9),Montpellier (30),1-0,0-0,Le Havre (29)
+?,(Sat) 3 Mar 2001 (9),Niort (30),2-2,1-0,Nice (30)
+?,(Fri) 9 Mar 2001 (10),Beauvais (30),1-1,1-0,Nancy (30)
+?,(Fri) 16 Mar 2001 (11),Lorient (31),2-1,2-1,Montpellier (31)
+?,(Fri) 16 Mar 2001 (11),Nancy (31),2-0,1-0,Ajaccio (31)
+?,(Fri) 16 Mar 2001 (11),Wasquehal (31),1-1,0-0,Sochaux (31)
+?,(Sat) 17 Mar 2001 (11),Beauvais (31),0-1,0-0,Caen (31)
+?,(Sat) 17 Mar 2001 (11),Creteil (31),0-0,0-0,Martigues (31)
+?,(Sat) 17 Mar 2001 (11),Gueugnon (30),2-0,1-0,Angers (31)
+?,(Sat) 17 Mar 2001 (11),Laval (31),2-1,0-1,Cannes (31)
+?,(Sat) 17 Mar 2001 (11),Le Havre (30),3-0,0-0,Le Mans (31)
+?,(Sat) 17 Mar 2001 (11),Nice (31),1-4,0-3,Chateauroux (29)
+?,(Sat) 17 Mar 2001 (11),Nimes (31),2-1,0-0,Niort (31)
+?,(Wed) 21 Mar 2001 (12),Sochaux (32),1-1,0-0,Nancy (32)
+?,(Fri) 23 Mar 2001 (12),Ajaccio (32),1-0,0-0,Caen (32)
+?,(Fri) 23 Mar 2001 (12),Angers (32),1-0,1-0,Laval (32)
+?,(Fri) 23 Mar 2001 (12),Cannes (32),0-0,0-0,Wasquehal (32)
+?,(Fri) 23 Mar 2001 (12),Chateauroux (30),1-1,0-1,Nimes (32)
+?,(Fri) 23 Mar 2001 (12),Le Mans (32),2-1,2-1,Creteil (32)
+?,(Fri) 23 Mar 2001 (12),Martigues (32),0-1,0-0,Nice (32)
+?,(Fri) 23 Mar 2001 (12),Montpellier (32),5-0,1-0,Gueugnon (31)
+?,(Fri) 23 Mar 2001 (12),Niort (32),1-1,1-0,Beauvais (32)
+?,(Tue) 27 Mar 2001 (13),Creteil (33),1-1,1-0,Angers (33)
+?,(Tue) 27 Mar 2001 (13),Gueugnon (32),1-1,1-1,Sochaux (33)
+?,(Tue) 27 Mar 2001 (13),Laval (33),0-2,0-2,Chateauroux (31)
+?,(Tue) 27 Mar 2001 (13),Lorient (32),4-0,3-0,Cannes (33)
+?,(Tue) 27 Mar 2001 (13),Nancy (33),0-3,0-2,Montpellier (33)
+?,(Tue) 27 Mar 2001 (13),Nice (33),1-1,0-0,Le Mans (33)
+?,(Tue) 27 Mar 2001 (13),Nimes (33),1-0,0-0,Ajaccio (33)
+?,(Tue) 27 Mar 2001 (13),Wasquehal (33),0-1,0-0,Le Havre (31)
+?,(Wed) 28 Mar 2001 (13),Caen (33),1-2,1-1,Niort (33)
+?,(Tue) 3 Apr 2001 (14),Chateauroux (32),3-1,3-1,Le Havre (32)
+?,(Sat) 7 Apr 2001 (14),Ajaccio (34),2-0,1-0,Beauvais (33)
+?,(Sat) 7 Apr 2001 (14),Angers (34),0-0,0-0,Nice (34)
+?,(Sat) 7 Apr 2001 (14),Cannes (34),4-2,1-2,Creteil (34)
+?,(Sat) 7 Apr 2001 (14),Chateauroux (33),0-1,0-1,Caen (34)
+?,(Sat) 7 Apr 2001 (14),Le Havre (33),1-0,0-0,Nancy (34)
+?,(Sat) 7 Apr 2001 (14),Le Mans (34),2-1,1-0,Niort (34)
+?,(Sat) 7 Apr 2001 (14),Lorient (33),1-4,0-1,Gueugnon (33)
+?,(Sat) 7 Apr 2001 (14),Martigues (33),1-0,0-0,Nimes (34)
+?,(Sat) 7 Apr 2001 (14),Montpellier (34),2-1,0-0,Wasquehal (34)
+?,(Sun) 8 Apr 2001 (14),Sochaux (34),2-0,1-0,Laval (34)
+?,(Fri) 13 Apr 2001 (15),Nancy (35),0-1,0-1,Lorient (34)
+?,(Sat) 14 Apr 2001 (15),Beauvais (34),3-1,1-1,Martigues (34)
+?,(Sat) 14 Apr 2001 (15),Creteil (35),1-0,0-0,Sochaux (35)
+?,(Sat) 14 Apr 2001 (15),Gueugnon (34),1-2,1-1,Le Havre (34)
+?,(Sat) 14 Apr 2001 (15),Laval (35),0-0,0-0,Montpellier (35)
+?,(Sat) 14 Apr 2001 (15),Nice (35),2-0,0-0,Cannes (35)
+?,(Sat) 14 Apr 2001 (15),Nimes (35),3-1,1-0,Le Mans (35)
+?,(Sat) 14 Apr 2001 (15),Niort (35),4-3,2-2,Ajaccio (35)
+?,(Sat) 14 Apr 2001 (15),Wasquehal (35),3-1,3-1,Chateauroux (34)
+?,(Fri) 20 Apr 2001 (16),Beauvais (35),1-1,1-1,Angers (35)
+?,(Fri) 20 Apr 2001 (16),Caen (35),1-2,0-1,Martigues (35)
+?,(Fri) 20 Apr 2001 (16),Chateauroux (35),1-1,1-0,Gueugnon (35)
+?,(Fri) 20 Apr 2001 (16),Le Havre (35),1-1,1-1,Lorient (35)
+?,(Fri) 27 Apr 2001 (17),Montpellier (36),1-1,0-1,Creteil (36)
+?,(Sat) 28 Apr 2001 (17),Angers (36),3-0,0-0,Nimes (36)
+?,(Sat) 28 Apr 2001 (17),Cannes (36),0-1,0-0,Beauvais (36)
+?,(Sat) 28 Apr 2001 (17),Chateauroux (36),2-2,0-2,Ajaccio (36)
+?,(Sat) 28 Apr 2001 (17),Gueugnon (36),1-1,1-1,Nancy (36)
+?,(Sat) 28 Apr 2001 (17),Le Havre (36),3-1,2-1,Laval (36)
+?,(Sat) 28 Apr 2001 (17),Le Mans (36),1-1,0-0,Caen (36)
+?,(Sat) 28 Apr 2001 (17),Lorient (36),2-0,1-0,Wasquehal (36)
+?,(Sat) 28 Apr 2001 (17),Martigues (36),1-1,0-0,Niort (36)
+?,(Sat) 28 Apr 2001 (17),Sochaux (36),5-1,2-0,Nice (36)
+?,(Fri) 11 May 2001 (19),Ajaccio (37),1-0,0-0,Martigues (37)
+?,(Fri) 11 May 2001 (19),Beauvais (37),1-2,0-1,Sochaux (37)
+?,(Fri) 11 May 2001 (19),Caen (37),4-0,1-0,Angers (37)
+?,(Fri) 11 May 2001 (19),Creteil (37),2-0,0-0,Le Havre (37)
+?,(Fri) 11 May 2001 (19),Laval (37),1-2,1-1,Lorient (37)
+?,(Fri) 11 May 2001 (19),Nancy (37),0-0,0-0,Le Mans (37)
+?,(Fri) 11 May 2001 (19),Nice (37),2-1,2-1,Montpellier (37)
+?,(Fri) 11 May 2001 (19),Nimes (37),4-3,2-1,Cannes (37)
+?,(Fri) 11 May 2001 (19),Niort (37),2-0,1-0,Chateauroux (37)
+?,(Fri) 11 May 2001 (19),Wasquehal (37),2-1,0-1,Gueugnon (37)
+?,(Fri) 18 May 2001 (20),Angers (38),2-0,1-0,Niort (38)
+?,(Fri) 18 May 2001 (20),Cannes (38),2-0,0-0,Caen (38)
+?,(Fri) 18 May 2001 (20),Gueugnon (38),2-0,1-0,Laval (38)
+?,(Fri) 18 May 2001 (20),Le Havre (38),1-0,1-0,Nice (38)
+?,(Fri) 18 May 2001 (20),Le Mans (38),1-1,0-0,Ajaccio (38)
+?,(Fri) 18 May 2001 (20),Lorient (38),3-1,2-0,Creteil (38)
+?,(Fri) 18 May 2001 (20),Martigues (38),0-1,0-1,Chateauroux (38)
+?,(Fri) 18 May 2001 (20),Montpellier (38),0-1,0-0,Beauvais (38)
+?,(Fri) 18 May 2001 (20),Nancy (38),0-2,0-0,Wasquehal (38)
+?,(Fri) 18 May 2001 (20),Sochaux (38),4-1,4-0,Nimes (38)

@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Fri) Aug/6 2004 (31),Nice (1),Lyon (1),0-1,0-0
-?,(Sat) Aug/7 2004 (31),Bastia (1),Strasbourg (1),2-1,1-0
-?,(Sat) Aug/7 2004 (31),Caen (1),Istres (1),1-1,1-1
-?,(Sat) Aug/7 2004 (31),Lille (1),Auxerre (1),2-0,1-0
-?,(Sat) Aug/7 2004 (31),Marseille (1),Bordeaux (1),1-0,0-0
-?,(Sat) Aug/7 2004 (31),Metz (1),Nantes (1),1-0,0-0
-?,(Sat) Aug/7 2004 (31),Rennes (1),Paris SG (1),2-1,2-1
-?,(Sat) Aug/7 2004 (31),Sochaux (1),Ajaccio (1),1-0,1-0
-?,(Sat) Aug/7 2004 (31),St Etienne (1),Monaco (1),0-1,0-1
-?,(Sat) Aug/7 2004 (31),Toulouse (1),Lens (1),0-0,0-0
-?,(Sat) Aug/14 2004 (32),Ajaccio (2),Metz (2),1-2,0-1
-?,(Sat) Aug/14 2004 (32),Auxerre (2),Rennes (2),3-1,0-0
-?,(Sat) Aug/14 2004 (32),Bordeaux (2),Nice (2),5-1,2-0
-?,(Sat) Aug/14 2004 (32),Lens (2),St Etienne (2),3-0,2-0
-?,(Sat) Aug/14 2004 (32),Lyon (2),Sochaux (2),1-1,0-1
-?,(Sat) Aug/14 2004 (32),Monaco (2),Istres (2),2-1,2-0
-?,(Sat) Aug/14 2004 (32),Nantes (2),Bastia (2),1-1,0-0
-?,(Sat) Aug/14 2004 (32),Paris SG (2),Caen (2),2-2,1-1
-?,(Sat) Aug/14 2004 (32),Strasbourg (2),Toulouse (2),1-4,0-3
-?,(Sun) Aug/15 2004 (32),Marseille (2),Lille (2),3-0,1-0
-?,(Sat) Aug/21 2004 (33),Bastia (3),Ajaccio (3),1-0,0-0
-?,(Sat) Aug/21 2004 (33),Caen (3),Monaco (3),1-0,1-0
-?,(Sat) Aug/21 2004 (33),Istres (3),Lens (3),0-2,0-1
-?,(Sat) Aug/21 2004 (33),Lille (3),Bordeaux (3),0-0,0-0
-?,(Sat) Aug/21 2004 (33),Nice (3),Marseille (3),1-1,0-0
-?,(Sat) Aug/21 2004 (33),Rennes (3),Nantes (3),1-0,1-0
-?,(Sat) Aug/21 2004 (33),Sochaux (3),Auxerre (3),1-2,1-1
-?,(Sat) Aug/21 2004 (33),St Etienne (3),Strasbourg (3),1-1,1-0
-?,(Sat) Aug/21 2004 (33),Toulouse (3),Paris SG (3),2-1,0-0
-?,(Sun) Aug/22 2004 (33),Metz (3),Lyon (3),1-1,1-0
-?,(Fri) Aug/27 2004 (34),Nice (4),Bastia (4),1-1,1-0
-?,(Sat) Aug/28 2004 (34),Ajaccio (4),Rennes (4),1-1,1-1
-?,(Sat) Aug/28 2004 (34),Auxerre (4),Caen (4),1-0,0-0
-?,(Sat) Aug/28 2004 (34),Bordeaux (4),Sochaux (4),2-0,1-0
-?,(Sat) Aug/28 2004 (34),Lens (4),Monaco (4),1-1,1-1
-?,(Sat) Aug/28 2004 (34),Lyon (4),Lille (4),1-0,1-0
-?,(Sat) Aug/28 2004 (34),Marseille (4),Metz (4),1-3,1-1
-?,(Sat) Aug/28 2004 (34),Nantes (4),Toulouse (4),2-2,1-2
-?,(Sat) Aug/28 2004 (34),Strasbourg (4),Istres (4),1-1,1-0
-?,(Sun) Aug/29 2004 (34),Paris SG (4),St Etienne (4),2-2,0-0
-?,(Sat) Sep/11 2004 (36),Bastia (5),Auxerre (5),1-0,1-0
-?,(Sat) Sep/11 2004 (36),Caen (5),Lens (5),1-0,0-0
-?,(Sat) Sep/11 2004 (36),Istres (5),Paris SG (5),1-1,1-0
-?,(Sat) Sep/11 2004 (36),Lille (5),Nice (5),1-0,0-0
-?,(Sat) Sep/11 2004 (36),Metz (5),Bordeaux (5),0-0,0-0
-?,(Sat) Sep/11 2004 (36),Monaco (5),Strasbourg (5),3-1,1-1
-?,(Sat) Sep/11 2004 (36),Rennes (5),Lyon (5),1-2,0-0
-?,(Sat) Sep/11 2004 (36),St Etienne (5),Nantes (5),0-0,0-0
-?,(Sat) Sep/11 2004 (36),Toulouse (5),Ajaccio (5),3-1,1-1
-?,(Sun) Sep/12 2004 (36),Sochaux (5),Marseille (5),2-0,1-0
-?,(Sat) Sep/18 2004 (37),Ajaccio (6),St Etienne (6),1-1,0-1
-?,(Sat) Sep/18 2004 (37),Bordeaux (6),Rennes (6),0-0,0-0
-?,(Sat) Sep/18 2004 (37),Lyon (6),Bastia (6),0-0,0-0
-?,(Sat) Sep/18 2004 (37),Marseille (6),Toulouse (6),1-0,1-0
-?,(Sat) Sep/18 2004 (37),Nantes (6),Istres (6),1-0,0-0
-?,(Sat) Sep/18 2004 (37),Strasbourg (6),Lens (6),2-2,1-1
-?,(Sun) Sep/19 2004 (37),Auxerre (6),Metz (6),4-0,3-0
-?,(Sun) Sep/19 2004 (37),Lille (6),Caen (6),2-0,1-0
-?,(Sun) Sep/19 2004 (37),Nice (6),Sochaux (6),2-1,1-1
-?,(Sun) Sep/19 2004 (37),Paris SG (6),Monaco (6),0-1,0-0
-?,(Tue) Sep/21 2004 (38),Toulouse (7),Lyon (7),0-2,0-0
-?,(Wed) Sep/22 2004 (38),Bastia (7),Bordeaux (7),1-4,1-3
-?,(Wed) Sep/22 2004 (38),Caen (7),Strasbourg (7),0-0,0-0
-?,(Wed) Sep/22 2004 (38),Istres (7),Ajaccio (7),0-1,0-1
-?,(Wed) Sep/22 2004 (38),Lens (7),Paris SG (7),2-2,0-1
-?,(Wed) Sep/22 2004 (38),Metz (7),Nice (7),1-1,0-0
-?,(Wed) Sep/22 2004 (38),Monaco (7),Nantes (7),2-1,0-1
-?,(Wed) Sep/22 2004 (38),Rennes (7),Marseille (7),1-0,0-0
-?,(Wed) Sep/22 2004 (38),Sochaux (7),Lille (7),0-2,0-0
-?,(Wed) Sep/22 2004 (38),St Etienne (7),Auxerre (7),3-1,3-0
-?,(Sat) Sep/25 2004 (38),Ajaccio (8),Caen (8),2-2,1-1
-?,(Sat) Sep/25 2004 (38),Auxerre (8),Istres (8),0-0,0-0
-?,(Sat) Sep/25 2004 (38),Bordeaux (8),Toulouse (8),1-1,0-0
-?,(Sat) Sep/25 2004 (38),Lille (8),Metz (8),4-0,1-0
-?,(Sat) Sep/25 2004 (38),Lyon (8),Monaco (8),0-0,0-0
-?,(Sat) Sep/25 2004 (38),Marseille (8),Bastia (8),1-0,0-0
-?,(Sat) Sep/25 2004 (38),Nice (8),Rennes (8),2-0,2-0
-?,(Sat) Sep/25 2004 (38),Paris SG (8),Strasbourg (8),1-0,0-0
-?,(Sat) Sep/25 2004 (38),Sochaux (8),St Etienne (8),2-1,1-1
-?,(Sun) Sep/26 2004 (38),Nantes (8),Lens (8),1-0,0-0
-?,(Sat) Oct/2 2004 (39),Bastia (9),Paris SG (9),1-2,1-2
-?,(Sat) Oct/2 2004 (39),Caen (9),Bordeaux (9),1-1,1-0
-?,(Sat) Oct/2 2004 (39),Istres (9),Marseille (9),0-2,0-1
-?,(Sat) Oct/2 2004 (39),Lens (9),Ajaccio (9),1-1,1-1
-?,(Sat) Oct/2 2004 (39),Monaco (9),Nice (9),3-4,2-0
-?,(Sat) Oct/2 2004 (39),Strasbourg (9),Nantes (9),0-2,0-1
-?,(Sun) Oct/3 2004 (39),Metz (9),Sochaux (9),0-0,0-0
-?,(Sun) Oct/3 2004 (39),Rennes (9),Lille (9),0-1,0-0
-?,(Sun) Oct/3 2004 (39),St Etienne (9),Lyon (9),2-3,0-1
-?,(Sun) Oct/3 2004 (39),Toulouse (9),Auxerre (9),1-2,1-0
-?,(Fri) Oct/15 2004 (41),Lyon (10),Caen (10),4-0,3-0
-?,(Sat) Oct/16 2004 (41),Ajaccio (10),Strasbourg (10),2-2,0-1
-?,(Sat) Oct/16 2004 (41),Auxerre (10),Lens (10),3-0,2-0
-?,(Sat) Oct/16 2004 (41),Bordeaux (10),Istres (10),2-2,1-1
-?,(Sat) Oct/16 2004 (41),Lille (10),Bastia (10),2-1,1-1
-?,(Sat) Oct/16 2004 (41),Metz (10),Monaco (10),1-1,0-0
-?,(Sat) Oct/16 2004 (41),Nantes (10),Paris SG (10),1-0,0-0
-?,(Sat) Oct/16 2004 (41),Nice (10),Toulouse (10),1-0,1-0
-?,(Sat) Oct/16 2004 (41),Sochaux (10),Rennes (10),3-0,1-0
-?,(Sun) Oct/17 2004 (41),Marseille (10),St Etienne (10),1-1,0-1
-?,(Sat) Oct/23 2004 (42),Caen (11),Nantes (11),2-1,1-1
-?,(Sat) Oct/23 2004 (42),Istres (11),Lyon (11),0-0,0-0
-?,(Sat) Oct/23 2004 (42),Paris SG (11),Ajaccio (11),1-0,1-0
-?,(Sat) Oct/23 2004 (42),Rennes (11),Metz (11),3-1,2-1
-?,(Sat) Oct/23 2004 (42),St Etienne (11),Bordeaux (11),0-0,0-0
-?,(Sat) Oct/23 2004 (42),Strasbourg (11),Nice (11),3-1,1-0
-?,(Sun) Oct/24 2004 (42),Bastia (11),Sochaux (11),1-1,1-1
-?,(Sun) Oct/24 2004 (42),Lens (11),Marseille (11),0-0,0-0
-?,(Sun) Oct/24 2004 (42),Monaco (11),Auxerre (11),0-0,0-0
-?,(Sun) Oct/24 2004 (42),Toulouse (11),Lille (11),1-0,0-0
-?,(Fri) Oct/29 2004 (43),Marseille (12),Monaco (12),1-1,1-1
-?,(Sat) Oct/30 2004 (43),Ajaccio (12),Nantes (12),1-1,1-1
-?,(Sat) Oct/30 2004 (43),Auxerre (12),Paris SG (12),1-1,0-1
-?,(Sat) Oct/30 2004 (43),Bordeaux (12),Lens (12),1-1,0-0
-?,(Sat) Oct/30 2004 (43),Lille (12),St Etienne (12),1-0,1-0
-?,(Sat) Oct/30 2004 (43),Lyon (12),Strasbourg (12),1-0,0-0
-?,(Sat) Oct/30 2004 (43),Metz (12),Bastia (12),2-0,2-0
-?,(Sat) Oct/30 2004 (43),Nice (12),Istres (12),0-0,0-0
-?,(Sat) Oct/30 2004 (43),Rennes (12),Caen (12),1-1,0-0
-?,(Sat) Oct/30 2004 (43),Sochaux (12),Toulouse (12),2-0,1-0
-?,(Sat) Nov/6 2004 (44),Bastia (13),Rennes (13),1-1,1-0
-?,(Sat) Nov/6 2004 (44),Caen (13),Sochaux (13),0-2,0-1
-?,(Sat) Nov/6 2004 (44),Lens (13),Lyon (13),0-1,0-1
-?,(Sat) Nov/6 2004 (44),Monaco (13),Ajaccio (13),2-2,1-1
-?,(Sat) Nov/6 2004 (44),St Etienne (13),Nice (13),2-1,1-1
-?,(Sat) Nov/6 2004 (44),Strasbourg (13),Bordeaux (13),1-0,0-0
-?,(Sat) Nov/6 2004 (44),Toulouse (13),Metz (13),1-1,1-0
-?,(Sun) Nov/7 2004 (44),Istres (13),Lille (13),0-2,0-1
-?,(Sun) Nov/7 2004 (44),Nantes (13),Auxerre (13),1-1,1-0
-?,(Sun) Nov/7 2004 (44),Paris SG (13),Marseille (13),2-1,1-1
-?,(Sat) Nov/13 2004 (45),Auxerre (14),Ajaccio (14),1-0,0-0
-?,(Sat) Nov/13 2004 (45),Bastia (14),St Etienne (14),0-3,0-0
-?,(Sat) Nov/13 2004 (45),Bordeaux (14),Paris SG (14),3-0,1-0
-?,(Sat) Nov/13 2004 (45),Lyon (14),Nantes (14),2-0,0-0
-?,(Sat) Nov/13 2004 (45),Marseille (14),Strasbourg (14),2-0,0-0
-?,(Sat) Nov/13 2004 (45),Metz (14),Caen (14),1-2,1-1
-?,(Sat) Nov/13 2004 (45),Nice (14),Lens (14),1-1,1-1
-?,(Sat) Nov/13 2004 (45),Rennes (14),Toulouse (14),1-1,0-0
-?,(Sat) Nov/13 2004 (45),Sochaux (14),Istres (14),1-1,0-0
-?,(Sun) Nov/14 2004 (45),Lille (14),Monaco (14),1-1,1-1
-?,(Fri) Nov/19 2004 (46),Monaco (15),Sochaux (15),1-3,0-1
-?,(Fri) Nov/19 2004 (46),Paris SG (15),Lyon (15),0-0,0-0
-?,(Sat) Nov/20 2004 (46),Ajaccio (15),Marseille (15),2-0,1-0
-?,(Sat) Nov/20 2004 (46),Caen (15),Nice (15),0-0,0-0
-?,(Sat) Nov/20 2004 (46),Istres (15),Metz (15),0-0,0-0
-?,(Sat) Nov/20 2004 (46),Lens (15),Lille (15),1-1,1-0
-?,(Sat) Nov/20 2004 (46),Nantes (15),Bordeaux (15),0-1,0-1
-?,(Sat) Nov/20 2004 (46),St Etienne (15),Rennes (15),1-0,0-0
-?,(Sat) Nov/20 2004 (46),Strasbourg (15),Auxerre (15),3-1,2-0
-?,(Sat) Nov/20 2004 (46),Toulouse (15),Bastia (15),1-0,0-0
-?,(Sat) Nov/27 2004 (47),Bastia (16),Caen (16),2-0,1-0
-?,(Sat) Nov/27 2004 (47),Bordeaux (16),Ajaccio (16),0-0,0-0
-?,(Sat) Nov/27 2004 (47),Lyon (16),Auxerre (16),2-1,2-0
-?,(Sat) Nov/27 2004 (47),Marseille (16),Nantes (16),3-1,2-0
-?,(Sat) Nov/27 2004 (47),Metz (16),St Etienne (16),2-2,2-1
-?,(Sat) Nov/27 2004 (47),Rennes (16),Istres (16),3-1,1-0
-?,(Sat) Nov/27 2004 (47),Toulouse (16),Monaco (16),0-0,0-0
-?,(Sun) Nov/28 2004 (47),Lille (16),Strasbourg (16),1-1,0-0
-?,(Sun) Nov/28 2004 (47),Nice (16),Paris SG (16),1-1,0-1
-?,(Sun) Nov/28 2004 (47),Sochaux (16),Lens (16),1-2,0-0
-?,(Fri) Dec/3 2004 (48),Monaco (17),Rennes (17),2-0,2-0
-?,(Sat) Dec/4 2004 (48),Ajaccio (17),Lyon (17),1-1,0-0
-?,(Sat) Dec/4 2004 (48),Caen (17),Marseille (17),2-3,1-1
-?,(Sat) Dec/4 2004 (48),Istres (17),Bastia (17),1-0,0-0
-?,(Sat) Dec/4 2004 (48),Lens (17),Metz (17),2-0,1-0
-?,(Sat) Dec/4 2004 (48),Nantes (17),Nice (17),0-1,0-1
-?,(Sat) Dec/4 2004 (48),Paris SG (17),Lille (17),1-1,1-1
-?,(Sat) Dec/4 2004 (48),St Etienne (17),Toulouse (17),0-0,0-0
-?,(Sat) Dec/4 2004 (48),Strasbourg (17),Sochaux (17),0-0,0-0
-?,(Sun) Dec/5 2004 (48),Auxerre (17),Bordeaux (17),0-0,0-0
-?,(Sat) Dec/11 2004 (49),Bastia (18),Monaco (18),0-2,0-2
-?,(Sat) Dec/11 2004 (49),Bordeaux (18),Lyon (18),0-0,0-0
-?,(Sat) Dec/11 2004 (49),Lille (18),Nantes (18),2-1,0-1
-?,(Sat) Dec/11 2004 (49),Marseille (18),Auxerre (18),0-1,0-0
-?,(Sat) Dec/11 2004 (49),Metz (18),Strasbourg (18),1-0,1-0
-?,(Sat) Dec/11 2004 (49),Nice (18),Ajaccio (18),3-0,1-0
-?,(Sat) Dec/11 2004 (49),Rennes (18),Lens (18),3-1,1-1
-?,(Sat) Dec/11 2004 (49),St Etienne (18),Caen (18),5-0,4-0
-?,(Sat) Dec/11 2004 (49),Toulouse (18),Istres (18),2-1,1-1
-?,(Sun) Dec/12 2004 (49),Sochaux (18),Paris SG (18),1-2,0-2
-?,(Fri) Dec/17 2004 (50),Lyon (19),Marseille (19),1-1,1-1
-?,(Sat) Dec/18 2004 (50),Ajaccio (19),Lille (19),0-0,0-0
-?,(Sat) Dec/18 2004 (50),Auxerre (19),Nice (19),4-3,1-0
-?,(Sat) Dec/18 2004 (50),Caen (19),Toulouse (19),0-2,0-1
-?,(Sat) Dec/18 2004 (50),Istres (19),St Etienne (19),0-2,0-2
-?,(Sat) Dec/18 2004 (50),Lens (19),Bastia (19),2-1,1-0
-?,(Sat) Dec/18 2004 (50),Monaco (19),Bordeaux (19),1-1,1-1
-?,(Sat) Dec/18 2004 (50),Paris SG (19),Metz (19),3-0,1-0
-?,(Sat) Dec/18 2004 (50),Strasbourg (19),Rennes (19),1-0,1-0
-?,(Sun) Dec/19 2004 (50),Nantes (19),Sochaux (19),2-2,1-2
-?,(Tue) Jan/11 2005 (2),Lille (20),Marseille (20),1-2,0-2
-?,(Wed) Jan/12 2005 (2),Bastia (20),Nantes (20),0-0,0-0
-?,(Wed) Jan/12 2005 (2),Caen (20),Paris SG (20),0-0,0-0
-?,(Wed) Jan/12 2005 (2),Istres (20),Monaco (20),0-1,0-1
-?,(Wed) Jan/12 2005 (2),Metz (20),Ajaccio (20),1-0,0-0
-?,(Wed) Jan/12 2005 (2),Nice (20),Bordeaux (20),3-3,2-1
-?,(Wed) Jan/12 2005 (2),Rennes (20),Auxerre (20),1-0,0-0
-?,(Wed) Jan/12 2005 (2),Sochaux (20),Lyon (20),0-2,0-2
-?,(Wed) Jan/12 2005 (2),St Etienne (20),Lens (20),0-0,0-0
-?,(Wed) Jan/12 2005 (2),Toulouse (20),Strasbourg (20),2-0,1-0
-?,(Sat) Jan/15 2005 (2),Ajaccio (21),Bastia (21),1-0,1-0
-?,(Sat) Jan/15 2005 (2),Auxerre (21),Sochaux (21),2-0,0-0
-?,(Sat) Jan/15 2005 (2),Bordeaux (21),Lille (21),1-3,0-2
-?,(Sat) Jan/15 2005 (2),Lens (21),Istres (21),0-1,0-1
-?,(Sat) Jan/15 2005 (2),Lyon (21),Metz (21),2-0,0-0
-?,(Sat) Jan/15 2005 (2),Monaco (21),Caen (21),5-2,3-1
-?,(Sat) Jan/15 2005 (2),Nantes (21),Rennes (21),2-0,1-0
-?,(Sat) Jan/15 2005 (2),Paris SG (21),Toulouse (21),0-0,0-0
-?,(Sat) Jan/15 2005 (2),Strasbourg (21),St Etienne (21),1-1,1-1
-?,(Sun) Jan/16 2005 (2),Marseille (21),Nice (21),2-0,2-0
-?,(Sat) Jan/22 2005 (3),Bastia (22),Nice (22),2-0,1-0
-?,(Sat) Jan/22 2005 (3),Caen (22),Auxerre (22),0-2,0-0
-?,(Sat) Jan/22 2005 (3),Istres (22),Strasbourg (22),1-1,0-1
-?,(Sat) Jan/22 2005 (3),Metz (22),Marseille (22),0-1,0-1
-?,(Sat) Jan/22 2005 (3),Monaco (22),Lens (22),2-0,2-0
-?,(Sat) Jan/22 2005 (3),Rennes (22),Ajaccio (22),2-0,1-0
-?,(Sat) Jan/22 2005 (3),Sochaux (22),Bordeaux (22),4-0,0-0
-?,(Sat) Jan/22 2005 (3),St Etienne (22),Paris SG (22),0-0,0-0
-?,(Sat) Jan/22 2005 (3),Toulouse (22),Nantes (22),2-1,1-1
-?,(Sun) Jan/23 2005 (3),Lille (22),Lyon (22),2-1,1-0
-?,(Tue) Jan/25 2005 (4),Marseille (23),Sochaux (23),0-2,0-0
-?,(Wed) Jan/26 2005 (4),Ajaccio (23),Toulouse (23),1-0,1-0
-?,(Wed) Jan/26 2005 (4),Auxerre (23),Bastia (23),4-1,1-1
-?,(Wed) Jan/26 2005 (4),Bordeaux (23),Metz (23),1-0,0-0
-?,(Wed) Jan/26 2005 (4),Lens (23),Caen (23),0-1,0-0
-?,(Wed) Jan/26 2005 (4),Lyon (23),Rennes (23),2-1,2-0
-?,(Wed) Jan/26 2005 (4),Nantes (23),St Etienne (23),0-0,0-0
-?,(Wed) Jan/26 2005 (4),Nice (23),Lille (23),1-1,0-1
-?,(Wed) Jan/26 2005 (4),Paris SG (23),Istres (23),2-2,1-0
-?,(Sat) Jan/29 2005 (4),Caen (24),Lille (24),0-0,0-0
-?,(Sat) Jan/29 2005 (4),Lens (24),Strasbourg (23),2-1,1-0
-?,(Sat) Jan/29 2005 (4),Metz (24),Auxerre (24),3-0,0-0
-?,(Sat) Jan/29 2005 (4),Rennes (24),Bordeaux (24),2-0,1-0
-?,(Sat) Jan/29 2005 (4),Sochaux (24),Nice (24),0-0,0-0
-?,(Sat) Jan/29 2005 (4),Toulouse (24),Marseille (24),1-3,1-2
-?,(Sun) Jan/30 2005 (4),Istres (24),Nantes (24),0-1,0-0
-?,(Sun) Jan/30 2005 (4),Monaco (23),Paris SG (24),2-0,1-0
-?,(Tue) Feb/1 2005 (5),Bastia (24),Lyon (24),1-1,0-1
-?,(Sat) Feb/5 2005 (5),Ajaccio (24),Istres (25),0-0,0-0
-?,(Sat) Feb/5 2005 (5),Auxerre (25),St Etienne (24),2-2,1-1
-?,(Sat) Feb/5 2005 (5),Bordeaux (25),Bastia (25),0-0,0-0
-?,(Sat) Feb/5 2005 (5),Lille (25),Sochaux (25),0-0,0-0
-?,(Sat) Feb/5 2005 (5),Lyon (25),Toulouse (25),4-0,2-0
-?,(Sat) Feb/5 2005 (5),Marseille (25),Rennes (25),3-1,2-0
-?,(Sat) Feb/5 2005 (5),Nantes (25),Monaco (24),0-0,0-0
-?,(Sat) Feb/5 2005 (5),Nice (25),Metz (25),1-1,0-0
-?,(Sat) Feb/5 2005 (5),Strasbourg (24),Caen (25),5-0,3-0
-?,(Sun) Feb/6 2005 (5),Paris SG (25),Lens (25),0-2,0-1
-?,(Fri) Feb/18 2005 (7),Monaco (25),Lyon (26),1-1,0-0
-?,(Sat) Feb/19 2005 (7),Bastia (26),Marseille (26),0-1,0-0
-?,(Sat) Feb/19 2005 (7),Caen (26),Ajaccio (25),2-2,2-2
-?,(Sat) Feb/19 2005 (7),Lens (26),Nantes (26),2-0,1-0
-?,(Sat) Feb/19 2005 (7),Rennes (26),Nice (26),4-1,0-0
-?,(Sat) Feb/19 2005 (7),Strasbourg (25),Paris SG (26),3-1,2-0
-?,(Sat) Feb/19 2005 (7),Toulouse (26),Bordeaux (26),1-0,0-0
-?,(Sun) Feb/20 2005 (7),Istres (26),Auxerre (26),1-0,1-0
-?,(Sun) Feb/20 2005 (7),Metz (26),Lille (26),1-1,0-1
-?,(Sun) Feb/20 2005 (7),St Etienne (25),Sochaux (26),1-0,0-0
-?,(Sat) Feb/26 2005 (8),Ajaccio (26),Lens (27),0-0,0-0
-?,(Sat) Feb/26 2005 (8),Bordeaux (27),Caen (27),2-2,1-0
-?,(Sat) Feb/26 2005 (8),Lyon (27),St Etienne (26),3-2,1-0
-?,(Sat) Feb/26 2005 (8),Nantes (27),Strasbourg (26),2-1,1-0
-?,(Sat) Feb/26 2005 (8),Nice (27),Monaco (26),2-1,1-0
-?,(Sat) Feb/26 2005 (8),Paris SG (27),Bastia (27),1-0,0-0
-?,(Sun) Feb/27 2005 (8),Lille (27),Rennes (27),0-0,0-0
-?,(Sun) Feb/27 2005 (8),Marseille (27),Istres (27),1-1,0-0
-?,(Fri) Mar/4 2005 (9),Caen (28),Lyon (28),1-0,0-0
-?,(Sat) Mar/5 2005 (9),Bastia (28),Lille (28),3-1,3-1
-?,(Sat) Mar/5 2005 (9),Istres (28),Bordeaux (28),0-1,0-0
-?,(Sat) Mar/5 2005 (9),Lens (28),Auxerre (27),3-1,1-0
-?,(Sat) Mar/5 2005 (9),Monaco (27),Metz (27),0-0,0-0
-?,(Sat) Mar/5 2005 (9),Paris SG (28),Nantes (28),1-0,0-0
-?,(Sat) Mar/5 2005 (9),Rennes (28),Sochaux (27),3-0,2-0
-?,(Sat) Mar/5 2005 (9),Strasbourg (27),Ajaccio (27),1-0,1-0
-?,(Sat) Mar/5 2005 (9),Toulouse (27),Nice (28),1-0,1-0
-?,(Sun) Mar/6 2005 (9),St Etienne (27),Marseille (28),2-0,1-0
-?,(Sat) Mar/12 2005 (10),Ajaccio (28),Paris SG (29),1-0,1-0
-?,(Sat) Mar/12 2005 (10),Bordeaux (29),St Etienne (28),2-0,1-0
-?,(Sat) Mar/12 2005 (10),Lyon (29),Istres (29),2-1,1-1
-?,(Sat) Mar/12 2005 (10),Marseille (29),Lens (29),2-1,1-1
-?,(Sat) Mar/12 2005 (10),Metz (28),Rennes (29),1-1,1-1
-?,(Sat) Mar/12 2005 (10),Nantes (29),Caen (29),2-0,1-0
-?,(Sat) Mar/12 2005 (10),Nice (29),Strasbourg (28),0-0,0-0
-?,(Sat) Mar/12 2005 (10),Sochaux (28),Bastia (29),1-0,1-0
-?,(Sun) Mar/13 2005 (10),Auxerre (28),Monaco (28),2-2,0-1
-?,(Sun) Mar/13 2005 (10),Lille (29),Toulouse (28),1-1,0-0
-?,(Wed) Mar/16 2005 (11),Sochaux (29),Metz (29),2-1,1-1
-?,(Wed) Mar/16 2005 (11),St Etienne (29),Ajaccio (29),3-0,0-0
-?,(Wed) Mar/16 2005 (11),Strasbourg (29),Monaco (29),0-0,0-0
-?,(Sat) Mar/19 2005 (11),Bastia (30),Metz (30),1-0,0-0
-?,(Sat) Mar/19 2005 (11),Caen (30),Rennes (30),2-2,0-0
-?,(Sat) Mar/19 2005 (11),Istres (30),Nice (30),1-1,0-1
-?,(Sat) Mar/19 2005 (11),Lens (30),Bordeaux (30),2-0,1-0
-?,(Sat) Mar/19 2005 (11),Nantes (30),Ajaccio (30),0-0,0-0
-?,(Sat) Mar/19 2005 (11),Strasbourg (30),Lyon (30),0-1,0-0
-?,(Sat) Mar/19 2005 (11),Toulouse (29),Sochaux (30),0-0,0-0
-?,(Sun) Mar/20 2005 (11),Monaco (30),Marseille (30),2-1,2-0
-?,(Sun) Mar/20 2005 (11),Paris SG (30),Auxerre (29),1-0,1-0
-?,(Sun) Mar/20 2005 (11),St Etienne (30),Lille (30),0-0,0-0
-?,(Sat) Apr/2 2005 (13),Ajaccio (31),Monaco (31),3-0,3-0
-?,(Sat) Apr/2 2005 (13),Auxerre (30),Nantes (31),2-1,0-0
-?,(Sat) Apr/2 2005 (13),Bordeaux (31),Strasbourg (31),0-2,0-0
-?,(Sat) Apr/2 2005 (13),Lille (31),Istres (31),8-0,5-0
-?,(Sat) Apr/2 2005 (13),Lyon (31),Lens (31),1-0,0-0
-?,(Sat) Apr/2 2005 (13),Metz (31),Toulouse (30),0-1,0-1
-?,(Sat) Apr/2 2005 (13),Nice (31),St Etienne (31),2-0,2-0
-?,(Sat) Apr/2 2005 (13),Rennes (31),Bastia (31),1-0,1-0
-?,(Sat) Apr/2 2005 (13),Sochaux (31),Caen (31),1-0,0-0
-?,(Sun) Apr/3 2005 (13),Marseille (31),Paris SG (31),1-1,0-0
-?,(Sat) Apr/9 2005 (14),Caen (32),Metz (32),0-1,0-0
-?,(Sat) Apr/9 2005 (14),Istres (32),Sochaux (32),2-0,0-0
-?,(Sat) Apr/9 2005 (14),Lens (32),Nice (32),0-0,0-0
-?,(Sat) Apr/9 2005 (14),Nantes (32),Lyon (32),2-2,1-1
-?,(Sat) Apr/9 2005 (14),Paris SG (32),Bordeaux (32),1-1,1-0
-?,(Sat) Apr/9 2005 (14),St Etienne (32),Bastia (32),3-0,1-0
-?,(Sat) Apr/9 2005 (14),Strasbourg (32),Marseille (32),1-0,0-0
-?,(Sat) Apr/9 2005 (14),Toulouse (31),Rennes (32),0-2,0-1
-?,(Sun) Apr/10 2005 (14),Ajaccio (32),Auxerre (31),4-3,2-1
-?,(Sat) Apr/16 2005 (15),Bastia (33),Toulouse (32),2-1,1-0
-?,(Sat) Apr/16 2005 (15),Bordeaux (33),Nantes (33),0-2,0-1
-?,(Sat) Apr/16 2005 (15),Lille (32),Lens (33),2-1,1-1
-?,(Sat) Apr/16 2005 (15),Marseille (33),Ajaccio (33),1-2,0-1
-?,(Sat) Apr/16 2005 (15),Metz (33),Istres (33),2-1,1-0
-?,(Sat) Apr/16 2005 (15),Nice (33),Caen (33),0-1,0-0
-?,(Sat) Apr/16 2005 (15),Rennes (33),St Etienne (33),2-2,1-1
-?,(Sat) Apr/16 2005 (15),Sochaux (33),Monaco (32),1-1,1-1
-?,(Sun) Apr/17 2005 (15),Auxerre (32),Strasbourg (33),0-0,0-0
-?,(Sun) Apr/17 2005 (15),Lyon (33),Paris SG (33),0-1,0-1
-?,(Fri) Apr/22 2005 (16),Paris SG (34),Nice (34),3-1,2-0
-?,(Sat) Apr/23 2005 (16),Ajaccio (34),Bordeaux (34),0-0,0-0
-?,(Sat) Apr/23 2005 (16),Caen (34),Bastia (34),0-1,0-0
-?,(Sat) Apr/23 2005 (16),Istres (34),Rennes (34),0-2,0-1
-?,(Sat) Apr/23 2005 (16),Lens (34),Sochaux (34),3-2,2-0
-?,(Sat) Apr/23 2005 (16),Monaco (33),Toulouse (33),2-1,0-0
-?,(Sat) Apr/23 2005 (16),Nantes (34),Marseille (34),2-2,1-0
-?,(Sat) Apr/23 2005 (16),St Etienne (34),Metz (34),0-0,0-0
-?,(Sat) Apr/23 2005 (16),Strasbourg (34),Lille (33),1-2,0-1
-?,(Sun) Apr/24 2005 (16),Auxerre (33),Lyon (34),0-3,0-2
-?,(Fri) Apr/29 2005 (17),Auxerre (34),Toulouse (34),3-2,1-0
-?,(Sun) May/1 2005 (17),Monaco (34),Lille (34),2-0,0-0
-?,(Fri) May/6 2005 (18),Bordeaux (35),Auxerre (35),0-0,0-0
-?,(Sat) May/7 2005 (18),Bastia (35),Istres (35),2-0,0-0
-?,(Sat) May/7 2005 (18),Lille (35),Paris SG (35),1-0,0-0
-?,(Sat) May/7 2005 (18),Marseille (35),Caen (35),2-3,1-2
-?,(Sat) May/7 2005 (18),Metz (35),Lens (35),1-1,1-0
-?,(Sat) May/7 2005 (18),Nice (35),Nantes (35),0-0,0-0
-?,(Sat) May/7 2005 (18),Rennes (35),Monaco (35),0-0,0-0
-?,(Sat) May/7 2005 (18),Sochaux (35),Strasbourg (35),1-2,0-0
-?,(Sat) May/7 2005 (18),Toulouse (35),St Etienne (35),0-2,0-1
-?,(Sun) May/8 2005 (18),Lyon (35),Ajaccio (35),2-1,1-0
-?,(Sat) May/14 2005 (19),Ajaccio (36),Nice (36),0-1,0-0
-?,(Sat) May/14 2005 (19),Auxerre (36),Marseille (36),0-0,0-0
-?,(Sat) May/14 2005 (19),Caen (36),St Etienne (36),2-0,1-0
-?,(Sat) May/14 2005 (19),Istres (36),Toulouse (36),1-0,0-0
-?,(Sat) May/14 2005 (19),Lens (36),Rennes (36),5-2,2-1
-?,(Sat) May/14 2005 (19),Monaco (36),Bastia (36),5-2,3-1
-?,(Sat) May/14 2005 (19),Nantes (36),Lille (36),1-3,1-1
-?,(Sat) May/14 2005 (19),Paris SG (36),Sochaux (36),2-2,0-0
-?,(Sat) May/14 2005 (19),Strasbourg (36),Metz (36),3-1,1-1
-?,(Sun) May/15 2005 (19),Lyon (36),Bordeaux (36),5-1,3-1
-?,(Sat) May/21 2005 (20),Bastia (37),Lens (37),3-1,2-1
-?,(Sat) May/21 2005 (20),Bordeaux (37),Monaco (37),1-1,0-0
-?,(Sat) May/21 2005 (20),Lille (37),Ajaccio (37),0-2,0-1
-?,(Sat) May/21 2005 (20),Marseille (37),Lyon (37),0-1,0-0
-?,(Sat) May/21 2005 (20),Metz (37),Paris SG (37),3-2,2-0
-?,(Sat) May/21 2005 (20),Nice (37),Auxerre (37),1-0,1-0
-?,(Sat) May/21 2005 (20),Rennes (37),Strasbourg (37),4-0,1-0
-?,(Sat) May/21 2005 (20),Sochaux (37),Nantes (37),1-0,1-0
-?,(Sat) May/21 2005 (20),St Etienne (37),Istres (37),2-0,0-0
-?,(Sat) May/21 2005 (20),Toulouse (37),Caen (37),2-3,1-0
-?,(Sat) May/28 2005 (21),Ajaccio (38),Sochaux (38),3-1,1-1
-?,(Sat) May/28 2005 (21),Auxerre (38),Lille (38),1-3,1-1
-?,(Sat) May/28 2005 (21),Bordeaux (38),Marseille (38),3-3,1-2
-?,(Sat) May/28 2005 (21),Istres (38),Caen (38),3-2,2-1
-?,(Sat) May/28 2005 (21),Lens (38),Toulouse (38),1-0,1-0
-?,(Sat) May/28 2005 (21),Lyon (38),Nice (38),0-0,0-0
-?,(Sat) May/28 2005 (21),Monaco (38),St Etienne (38),1-1,1-1
-?,(Sat) May/28 2005 (21),Nantes (38),Metz (38),1-0,1-0
-?,(Sat) May/28 2005 (21),Paris SG (38),Rennes (38),1-0,0-0
-?,(Sat) May/28 2005 (21),Strasbourg (38),Bastia (38),2-0,0-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 6 Aug 2004 (31),Nice (1),0-1,0-0,Lyon (1)
+?,(Sat) 7 Aug 2004 (31),Bastia (1),2-1,1-0,Strasbourg (1)
+?,(Sat) 7 Aug 2004 (31),Caen (1),1-1,1-1,Istres (1)
+?,(Sat) 7 Aug 2004 (31),Lille (1),2-0,1-0,Auxerre (1)
+?,(Sat) 7 Aug 2004 (31),Marseille (1),1-0,0-0,Bordeaux (1)
+?,(Sat) 7 Aug 2004 (31),Metz (1),1-0,0-0,Nantes (1)
+?,(Sat) 7 Aug 2004 (31),Rennes (1),2-1,2-1,Paris SG (1)
+?,(Sat) 7 Aug 2004 (31),Sochaux (1),1-0,1-0,Ajaccio (1)
+?,(Sat) 7 Aug 2004 (31),St Etienne (1),0-1,0-1,Monaco (1)
+?,(Sat) 7 Aug 2004 (31),Toulouse (1),0-0,0-0,Lens (1)
+?,(Sat) 14 Aug 2004 (32),Ajaccio (2),1-2,0-1,Metz (2)
+?,(Sat) 14 Aug 2004 (32),Auxerre (2),3-1,0-0,Rennes (2)
+?,(Sat) 14 Aug 2004 (32),Bordeaux (2),5-1,2-0,Nice (2)
+?,(Sat) 14 Aug 2004 (32),Lens (2),3-0,2-0,St Etienne (2)
+?,(Sat) 14 Aug 2004 (32),Lyon (2),1-1,0-1,Sochaux (2)
+?,(Sat) 14 Aug 2004 (32),Monaco (2),2-1,2-0,Istres (2)
+?,(Sat) 14 Aug 2004 (32),Nantes (2),1-1,0-0,Bastia (2)
+?,(Sat) 14 Aug 2004 (32),Paris SG (2),2-2,1-1,Caen (2)
+?,(Sat) 14 Aug 2004 (32),Strasbourg (2),1-4,0-3,Toulouse (2)
+?,(Sun) 15 Aug 2004 (32),Marseille (2),3-0,1-0,Lille (2)
+?,(Sat) 21 Aug 2004 (33),Bastia (3),1-0,0-0,Ajaccio (3)
+?,(Sat) 21 Aug 2004 (33),Caen (3),1-0,1-0,Monaco (3)
+?,(Sat) 21 Aug 2004 (33),Istres (3),0-2,0-1,Lens (3)
+?,(Sat) 21 Aug 2004 (33),Lille (3),0-0,0-0,Bordeaux (3)
+?,(Sat) 21 Aug 2004 (33),Nice (3),1-1,0-0,Marseille (3)
+?,(Sat) 21 Aug 2004 (33),Rennes (3),1-0,1-0,Nantes (3)
+?,(Sat) 21 Aug 2004 (33),Sochaux (3),1-2,1-1,Auxerre (3)
+?,(Sat) 21 Aug 2004 (33),St Etienne (3),1-1,1-0,Strasbourg (3)
+?,(Sat) 21 Aug 2004 (33),Toulouse (3),2-1,0-0,Paris SG (3)
+?,(Sun) 22 Aug 2004 (33),Metz (3),1-1,1-0,Lyon (3)
+?,(Fri) 27 Aug 2004 (34),Nice (4),1-1,1-0,Bastia (4)
+?,(Sat) 28 Aug 2004 (34),Ajaccio (4),1-1,1-1,Rennes (4)
+?,(Sat) 28 Aug 2004 (34),Auxerre (4),1-0,0-0,Caen (4)
+?,(Sat) 28 Aug 2004 (34),Bordeaux (4),2-0,1-0,Sochaux (4)
+?,(Sat) 28 Aug 2004 (34),Lens (4),1-1,1-1,Monaco (4)
+?,(Sat) 28 Aug 2004 (34),Lyon (4),1-0,1-0,Lille (4)
+?,(Sat) 28 Aug 2004 (34),Marseille (4),1-3,1-1,Metz (4)
+?,(Sat) 28 Aug 2004 (34),Nantes (4),2-2,1-2,Toulouse (4)
+?,(Sat) 28 Aug 2004 (34),Strasbourg (4),1-1,1-0,Istres (4)
+?,(Sun) 29 Aug 2004 (34),Paris SG (4),2-2,0-0,St Etienne (4)
+?,(Sat) 11 Sep 2004 (36),Bastia (5),1-0,1-0,Auxerre (5)
+?,(Sat) 11 Sep 2004 (36),Caen (5),1-0,0-0,Lens (5)
+?,(Sat) 11 Sep 2004 (36),Istres (5),1-1,1-0,Paris SG (5)
+?,(Sat) 11 Sep 2004 (36),Lille (5),1-0,0-0,Nice (5)
+?,(Sat) 11 Sep 2004 (36),Metz (5),0-0,0-0,Bordeaux (5)
+?,(Sat) 11 Sep 2004 (36),Monaco (5),3-1,1-1,Strasbourg (5)
+?,(Sat) 11 Sep 2004 (36),Rennes (5),1-2,0-0,Lyon (5)
+?,(Sat) 11 Sep 2004 (36),St Etienne (5),0-0,0-0,Nantes (5)
+?,(Sat) 11 Sep 2004 (36),Toulouse (5),3-1,1-1,Ajaccio (5)
+?,(Sun) 12 Sep 2004 (36),Sochaux (5),2-0,1-0,Marseille (5)
+?,(Sat) 18 Sep 2004 (37),Ajaccio (6),1-1,0-1,St Etienne (6)
+?,(Sat) 18 Sep 2004 (37),Bordeaux (6),0-0,0-0,Rennes (6)
+?,(Sat) 18 Sep 2004 (37),Lyon (6),0-0,0-0,Bastia (6)
+?,(Sat) 18 Sep 2004 (37),Marseille (6),1-0,1-0,Toulouse (6)
+?,(Sat) 18 Sep 2004 (37),Nantes (6),1-0,0-0,Istres (6)
+?,(Sat) 18 Sep 2004 (37),Strasbourg (6),2-2,1-1,Lens (6)
+?,(Sun) 19 Sep 2004 (37),Auxerre (6),4-0,3-0,Metz (6)
+?,(Sun) 19 Sep 2004 (37),Lille (6),2-0,1-0,Caen (6)
+?,(Sun) 19 Sep 2004 (37),Nice (6),2-1,1-1,Sochaux (6)
+?,(Sun) 19 Sep 2004 (37),Paris SG (6),0-1,0-0,Monaco (6)
+?,(Tue) 21 Sep 2004 (38),Toulouse (7),0-2,0-0,Lyon (7)
+?,(Wed) 22 Sep 2004 (38),Bastia (7),1-4,1-3,Bordeaux (7)
+?,(Wed) 22 Sep 2004 (38),Caen (7),0-0,0-0,Strasbourg (7)
+?,(Wed) 22 Sep 2004 (38),Istres (7),0-1,0-1,Ajaccio (7)
+?,(Wed) 22 Sep 2004 (38),Lens (7),2-2,0-1,Paris SG (7)
+?,(Wed) 22 Sep 2004 (38),Metz (7),1-1,0-0,Nice (7)
+?,(Wed) 22 Sep 2004 (38),Monaco (7),2-1,0-1,Nantes (7)
+?,(Wed) 22 Sep 2004 (38),Rennes (7),1-0,0-0,Marseille (7)
+?,(Wed) 22 Sep 2004 (38),Sochaux (7),0-2,0-0,Lille (7)
+?,(Wed) 22 Sep 2004 (38),St Etienne (7),3-1,3-0,Auxerre (7)
+?,(Sat) 25 Sep 2004 (38),Ajaccio (8),2-2,1-1,Caen (8)
+?,(Sat) 25 Sep 2004 (38),Auxerre (8),0-0,0-0,Istres (8)
+?,(Sat) 25 Sep 2004 (38),Bordeaux (8),1-1,0-0,Toulouse (8)
+?,(Sat) 25 Sep 2004 (38),Lille (8),4-0,1-0,Metz (8)
+?,(Sat) 25 Sep 2004 (38),Lyon (8),0-0,0-0,Monaco (8)
+?,(Sat) 25 Sep 2004 (38),Marseille (8),1-0,0-0,Bastia (8)
+?,(Sat) 25 Sep 2004 (38),Nice (8),2-0,2-0,Rennes (8)
+?,(Sat) 25 Sep 2004 (38),Paris SG (8),1-0,0-0,Strasbourg (8)
+?,(Sat) 25 Sep 2004 (38),Sochaux (8),2-1,1-1,St Etienne (8)
+?,(Sun) 26 Sep 2004 (38),Nantes (8),1-0,0-0,Lens (8)
+?,(Sat) 2 Oct 2004 (39),Bastia (9),1-2,1-2,Paris SG (9)
+?,(Sat) 2 Oct 2004 (39),Caen (9),1-1,1-0,Bordeaux (9)
+?,(Sat) 2 Oct 2004 (39),Istres (9),0-2,0-1,Marseille (9)
+?,(Sat) 2 Oct 2004 (39),Lens (9),1-1,1-1,Ajaccio (9)
+?,(Sat) 2 Oct 2004 (39),Monaco (9),3-4,2-0,Nice (9)
+?,(Sat) 2 Oct 2004 (39),Strasbourg (9),0-2,0-1,Nantes (9)
+?,(Sun) 3 Oct 2004 (39),Metz (9),0-0,0-0,Sochaux (9)
+?,(Sun) 3 Oct 2004 (39),Rennes (9),0-1,0-0,Lille (9)
+?,(Sun) 3 Oct 2004 (39),St Etienne (9),2-3,0-1,Lyon (9)
+?,(Sun) 3 Oct 2004 (39),Toulouse (9),1-2,1-0,Auxerre (9)
+?,(Fri) 15 Oct 2004 (41),Lyon (10),4-0,3-0,Caen (10)
+?,(Sat) 16 Oct 2004 (41),Ajaccio (10),2-2,0-1,Strasbourg (10)
+?,(Sat) 16 Oct 2004 (41),Auxerre (10),3-0,2-0,Lens (10)
+?,(Sat) 16 Oct 2004 (41),Bordeaux (10),2-2,1-1,Istres (10)
+?,(Sat) 16 Oct 2004 (41),Lille (10),2-1,1-1,Bastia (10)
+?,(Sat) 16 Oct 2004 (41),Metz (10),1-1,0-0,Monaco (10)
+?,(Sat) 16 Oct 2004 (41),Nantes (10),1-0,0-0,Paris SG (10)
+?,(Sat) 16 Oct 2004 (41),Nice (10),1-0,1-0,Toulouse (10)
+?,(Sat) 16 Oct 2004 (41),Sochaux (10),3-0,1-0,Rennes (10)
+?,(Sun) 17 Oct 2004 (41),Marseille (10),1-1,0-1,St Etienne (10)
+?,(Sat) 23 Oct 2004 (42),Caen (11),2-1,1-1,Nantes (11)
+?,(Sat) 23 Oct 2004 (42),Istres (11),0-0,0-0,Lyon (11)
+?,(Sat) 23 Oct 2004 (42),Paris SG (11),1-0,1-0,Ajaccio (11)
+?,(Sat) 23 Oct 2004 (42),Rennes (11),3-1,2-1,Metz (11)
+?,(Sat) 23 Oct 2004 (42),St Etienne (11),0-0,0-0,Bordeaux (11)
+?,(Sat) 23 Oct 2004 (42),Strasbourg (11),3-1,1-0,Nice (11)
+?,(Sun) 24 Oct 2004 (42),Bastia (11),1-1,1-1,Sochaux (11)
+?,(Sun) 24 Oct 2004 (42),Lens (11),0-0,0-0,Marseille (11)
+?,(Sun) 24 Oct 2004 (42),Monaco (11),0-0,0-0,Auxerre (11)
+?,(Sun) 24 Oct 2004 (42),Toulouse (11),1-0,0-0,Lille (11)
+?,(Fri) 29 Oct 2004 (43),Marseille (12),1-1,1-1,Monaco (12)
+?,(Sat) 30 Oct 2004 (43),Ajaccio (12),1-1,1-1,Nantes (12)
+?,(Sat) 30 Oct 2004 (43),Auxerre (12),1-1,0-1,Paris SG (12)
+?,(Sat) 30 Oct 2004 (43),Bordeaux (12),1-1,0-0,Lens (12)
+?,(Sat) 30 Oct 2004 (43),Lille (12),1-0,1-0,St Etienne (12)
+?,(Sat) 30 Oct 2004 (43),Lyon (12),1-0,0-0,Strasbourg (12)
+?,(Sat) 30 Oct 2004 (43),Metz (12),2-0,2-0,Bastia (12)
+?,(Sat) 30 Oct 2004 (43),Nice (12),0-0,0-0,Istres (12)
+?,(Sat) 30 Oct 2004 (43),Rennes (12),1-1,0-0,Caen (12)
+?,(Sat) 30 Oct 2004 (43),Sochaux (12),2-0,1-0,Toulouse (12)
+?,(Sat) 6 Nov 2004 (44),Bastia (13),1-1,1-0,Rennes (13)
+?,(Sat) 6 Nov 2004 (44),Caen (13),0-2,0-1,Sochaux (13)
+?,(Sat) 6 Nov 2004 (44),Lens (13),0-1,0-1,Lyon (13)
+?,(Sat) 6 Nov 2004 (44),Monaco (13),2-2,1-1,Ajaccio (13)
+?,(Sat) 6 Nov 2004 (44),St Etienne (13),2-1,1-1,Nice (13)
+?,(Sat) 6 Nov 2004 (44),Strasbourg (13),1-0,0-0,Bordeaux (13)
+?,(Sat) 6 Nov 2004 (44),Toulouse (13),1-1,1-0,Metz (13)
+?,(Sun) 7 Nov 2004 (44),Istres (13),0-2,0-1,Lille (13)
+?,(Sun) 7 Nov 2004 (44),Nantes (13),1-1,1-0,Auxerre (13)
+?,(Sun) 7 Nov 2004 (44),Paris SG (13),2-1,1-1,Marseille (13)
+?,(Sat) 13 Nov 2004 (45),Auxerre (14),1-0,0-0,Ajaccio (14)
+?,(Sat) 13 Nov 2004 (45),Bastia (14),0-3,0-0,St Etienne (14)
+?,(Sat) 13 Nov 2004 (45),Bordeaux (14),3-0,1-0,Paris SG (14)
+?,(Sat) 13 Nov 2004 (45),Lyon (14),2-0,0-0,Nantes (14)
+?,(Sat) 13 Nov 2004 (45),Marseille (14),2-0,0-0,Strasbourg (14)
+?,(Sat) 13 Nov 2004 (45),Metz (14),1-2,1-1,Caen (14)
+?,(Sat) 13 Nov 2004 (45),Nice (14),1-1,1-1,Lens (14)
+?,(Sat) 13 Nov 2004 (45),Rennes (14),1-1,0-0,Toulouse (14)
+?,(Sat) 13 Nov 2004 (45),Sochaux (14),1-1,0-0,Istres (14)
+?,(Sun) 14 Nov 2004 (45),Lille (14),1-1,1-1,Monaco (14)
+?,(Fri) 19 Nov 2004 (46),Monaco (15),1-3,0-1,Sochaux (15)
+?,(Fri) 19 Nov 2004 (46),Paris SG (15),0-0,0-0,Lyon (15)
+?,(Sat) 20 Nov 2004 (46),Ajaccio (15),2-0,1-0,Marseille (15)
+?,(Sat) 20 Nov 2004 (46),Caen (15),0-0,0-0,Nice (15)
+?,(Sat) 20 Nov 2004 (46),Istres (15),0-0,0-0,Metz (15)
+?,(Sat) 20 Nov 2004 (46),Lens (15),1-1,1-0,Lille (15)
+?,(Sat) 20 Nov 2004 (46),Nantes (15),0-1,0-1,Bordeaux (15)
+?,(Sat) 20 Nov 2004 (46),St Etienne (15),1-0,0-0,Rennes (15)
+?,(Sat) 20 Nov 2004 (46),Strasbourg (15),3-1,2-0,Auxerre (15)
+?,(Sat) 20 Nov 2004 (46),Toulouse (15),1-0,0-0,Bastia (15)
+?,(Sat) 27 Nov 2004 (47),Bastia (16),2-0,1-0,Caen (16)
+?,(Sat) 27 Nov 2004 (47),Bordeaux (16),0-0,0-0,Ajaccio (16)
+?,(Sat) 27 Nov 2004 (47),Lyon (16),2-1,2-0,Auxerre (16)
+?,(Sat) 27 Nov 2004 (47),Marseille (16),3-1,2-0,Nantes (16)
+?,(Sat) 27 Nov 2004 (47),Metz (16),2-2,2-1,St Etienne (16)
+?,(Sat) 27 Nov 2004 (47),Rennes (16),3-1,1-0,Istres (16)
+?,(Sat) 27 Nov 2004 (47),Toulouse (16),0-0,0-0,Monaco (16)
+?,(Sun) 28 Nov 2004 (47),Lille (16),1-1,0-0,Strasbourg (16)
+?,(Sun) 28 Nov 2004 (47),Nice (16),1-1,0-1,Paris SG (16)
+?,(Sun) 28 Nov 2004 (47),Sochaux (16),1-2,0-0,Lens (16)
+?,(Fri) 3 Dec 2004 (48),Monaco (17),2-0,2-0,Rennes (17)
+?,(Sat) 4 Dec 2004 (48),Ajaccio (17),1-1,0-0,Lyon (17)
+?,(Sat) 4 Dec 2004 (48),Caen (17),2-3,1-1,Marseille (17)
+?,(Sat) 4 Dec 2004 (48),Istres (17),1-0,0-0,Bastia (17)
+?,(Sat) 4 Dec 2004 (48),Lens (17),2-0,1-0,Metz (17)
+?,(Sat) 4 Dec 2004 (48),Nantes (17),0-1,0-1,Nice (17)
+?,(Sat) 4 Dec 2004 (48),Paris SG (17),1-1,1-1,Lille (17)
+?,(Sat) 4 Dec 2004 (48),St Etienne (17),0-0,0-0,Toulouse (17)
+?,(Sat) 4 Dec 2004 (48),Strasbourg (17),0-0,0-0,Sochaux (17)
+?,(Sun) 5 Dec 2004 (48),Auxerre (17),0-0,0-0,Bordeaux (17)
+?,(Sat) 11 Dec 2004 (49),Bastia (18),0-2,0-2,Monaco (18)
+?,(Sat) 11 Dec 2004 (49),Bordeaux (18),0-0,0-0,Lyon (18)
+?,(Sat) 11 Dec 2004 (49),Lille (18),2-1,0-1,Nantes (18)
+?,(Sat) 11 Dec 2004 (49),Marseille (18),0-1,0-0,Auxerre (18)
+?,(Sat) 11 Dec 2004 (49),Metz (18),1-0,1-0,Strasbourg (18)
+?,(Sat) 11 Dec 2004 (49),Nice (18),3-0,1-0,Ajaccio (18)
+?,(Sat) 11 Dec 2004 (49),Rennes (18),3-1,1-1,Lens (18)
+?,(Sat) 11 Dec 2004 (49),St Etienne (18),5-0,4-0,Caen (18)
+?,(Sat) 11 Dec 2004 (49),Toulouse (18),2-1,1-1,Istres (18)
+?,(Sun) 12 Dec 2004 (49),Sochaux (18),1-2,0-2,Paris SG (18)
+?,(Fri) 17 Dec 2004 (50),Lyon (19),1-1,1-1,Marseille (19)
+?,(Sat) 18 Dec 2004 (50),Ajaccio (19),0-0,0-0,Lille (19)
+?,(Sat) 18 Dec 2004 (50),Auxerre (19),4-3,1-0,Nice (19)
+?,(Sat) 18 Dec 2004 (50),Caen (19),0-2,0-1,Toulouse (19)
+?,(Sat) 18 Dec 2004 (50),Istres (19),0-2,0-2,St Etienne (19)
+?,(Sat) 18 Dec 2004 (50),Lens (19),2-1,1-0,Bastia (19)
+?,(Sat) 18 Dec 2004 (50),Monaco (19),1-1,1-1,Bordeaux (19)
+?,(Sat) 18 Dec 2004 (50),Paris SG (19),3-0,1-0,Metz (19)
+?,(Sat) 18 Dec 2004 (50),Strasbourg (19),1-0,1-0,Rennes (19)
+?,(Sun) 19 Dec 2004 (50),Nantes (19),2-2,1-2,Sochaux (19)
+?,(Tue) 11 Jan 2005 (2),Lille (20),1-2,0-2,Marseille (20)
+?,(Wed) 12 Jan 2005 (2),Bastia (20),0-0,0-0,Nantes (20)
+?,(Wed) 12 Jan 2005 (2),Caen (20),0-0,0-0,Paris SG (20)
+?,(Wed) 12 Jan 2005 (2),Istres (20),0-1,0-1,Monaco (20)
+?,(Wed) 12 Jan 2005 (2),Metz (20),1-0,0-0,Ajaccio (20)
+?,(Wed) 12 Jan 2005 (2),Nice (20),3-3,2-1,Bordeaux (20)
+?,(Wed) 12 Jan 2005 (2),Rennes (20),1-0,0-0,Auxerre (20)
+?,(Wed) 12 Jan 2005 (2),Sochaux (20),0-2,0-2,Lyon (20)
+?,(Wed) 12 Jan 2005 (2),St Etienne (20),0-0,0-0,Lens (20)
+?,(Wed) 12 Jan 2005 (2),Toulouse (20),2-0,1-0,Strasbourg (20)
+?,(Sat) 15 Jan 2005 (2),Ajaccio (21),1-0,1-0,Bastia (21)
+?,(Sat) 15 Jan 2005 (2),Auxerre (21),2-0,0-0,Sochaux (21)
+?,(Sat) 15 Jan 2005 (2),Bordeaux (21),1-3,0-2,Lille (21)
+?,(Sat) 15 Jan 2005 (2),Lens (21),0-1,0-1,Istres (21)
+?,(Sat) 15 Jan 2005 (2),Lyon (21),2-0,0-0,Metz (21)
+?,(Sat) 15 Jan 2005 (2),Monaco (21),5-2,3-1,Caen (21)
+?,(Sat) 15 Jan 2005 (2),Nantes (21),2-0,1-0,Rennes (21)
+?,(Sat) 15 Jan 2005 (2),Paris SG (21),0-0,0-0,Toulouse (21)
+?,(Sat) 15 Jan 2005 (2),Strasbourg (21),1-1,1-1,St Etienne (21)
+?,(Sun) 16 Jan 2005 (2),Marseille (21),2-0,2-0,Nice (21)
+?,(Sat) 22 Jan 2005 (3),Bastia (22),2-0,1-0,Nice (22)
+?,(Sat) 22 Jan 2005 (3),Caen (22),0-2,0-0,Auxerre (22)
+?,(Sat) 22 Jan 2005 (3),Istres (22),1-1,0-1,Strasbourg (22)
+?,(Sat) 22 Jan 2005 (3),Metz (22),0-1,0-1,Marseille (22)
+?,(Sat) 22 Jan 2005 (3),Monaco (22),2-0,2-0,Lens (22)
+?,(Sat) 22 Jan 2005 (3),Rennes (22),2-0,1-0,Ajaccio (22)
+?,(Sat) 22 Jan 2005 (3),Sochaux (22),4-0,0-0,Bordeaux (22)
+?,(Sat) 22 Jan 2005 (3),St Etienne (22),0-0,0-0,Paris SG (22)
+?,(Sat) 22 Jan 2005 (3),Toulouse (22),2-1,1-1,Nantes (22)
+?,(Sun) 23 Jan 2005 (3),Lille (22),2-1,1-0,Lyon (22)
+?,(Tue) 25 Jan 2005 (4),Marseille (23),0-2,0-0,Sochaux (23)
+?,(Wed) 26 Jan 2005 (4),Ajaccio (23),1-0,1-0,Toulouse (23)
+?,(Wed) 26 Jan 2005 (4),Auxerre (23),4-1,1-1,Bastia (23)
+?,(Wed) 26 Jan 2005 (4),Bordeaux (23),1-0,0-0,Metz (23)
+?,(Wed) 26 Jan 2005 (4),Lens (23),0-1,0-0,Caen (23)
+?,(Wed) 26 Jan 2005 (4),Lyon (23),2-1,2-0,Rennes (23)
+?,(Wed) 26 Jan 2005 (4),Nantes (23),0-0,0-0,St Etienne (23)
+?,(Wed) 26 Jan 2005 (4),Nice (23),1-1,0-1,Lille (23)
+?,(Wed) 26 Jan 2005 (4),Paris SG (23),2-2,1-0,Istres (23)
+?,(Sat) 29 Jan 2005 (4),Caen (24),0-0,0-0,Lille (24)
+?,(Sat) 29 Jan 2005 (4),Lens (24),2-1,1-0,Strasbourg (23)
+?,(Sat) 29 Jan 2005 (4),Metz (24),3-0,0-0,Auxerre (24)
+?,(Sat) 29 Jan 2005 (4),Rennes (24),2-0,1-0,Bordeaux (24)
+?,(Sat) 29 Jan 2005 (4),Sochaux (24),0-0,0-0,Nice (24)
+?,(Sat) 29 Jan 2005 (4),Toulouse (24),1-3,1-2,Marseille (24)
+?,(Sun) 30 Jan 2005 (4),Istres (24),0-1,0-0,Nantes (24)
+?,(Sun) 30 Jan 2005 (4),Monaco (23),2-0,1-0,Paris SG (24)
+?,(Tue) 1 Feb 2005 (5),Bastia (24),1-1,0-1,Lyon (24)
+?,(Sat) 5 Feb 2005 (5),Ajaccio (24),0-0,0-0,Istres (25)
+?,(Sat) 5 Feb 2005 (5),Auxerre (25),2-2,1-1,St Etienne (24)
+?,(Sat) 5 Feb 2005 (5),Bordeaux (25),0-0,0-0,Bastia (25)
+?,(Sat) 5 Feb 2005 (5),Lille (25),0-0,0-0,Sochaux (25)
+?,(Sat) 5 Feb 2005 (5),Lyon (25),4-0,2-0,Toulouse (25)
+?,(Sat) 5 Feb 2005 (5),Marseille (25),3-1,2-0,Rennes (25)
+?,(Sat) 5 Feb 2005 (5),Nantes (25),0-0,0-0,Monaco (24)
+?,(Sat) 5 Feb 2005 (5),Nice (25),1-1,0-0,Metz (25)
+?,(Sat) 5 Feb 2005 (5),Strasbourg (24),5-0,3-0,Caen (25)
+?,(Sun) 6 Feb 2005 (5),Paris SG (25),0-2,0-1,Lens (25)
+?,(Fri) 18 Feb 2005 (7),Monaco (25),1-1,0-0,Lyon (26)
+?,(Sat) 19 Feb 2005 (7),Bastia (26),0-1,0-0,Marseille (26)
+?,(Sat) 19 Feb 2005 (7),Caen (26),2-2,2-2,Ajaccio (25)
+?,(Sat) 19 Feb 2005 (7),Lens (26),2-0,1-0,Nantes (26)
+?,(Sat) 19 Feb 2005 (7),Rennes (26),4-1,0-0,Nice (26)
+?,(Sat) 19 Feb 2005 (7),Strasbourg (25),3-1,2-0,Paris SG (26)
+?,(Sat) 19 Feb 2005 (7),Toulouse (26),1-0,0-0,Bordeaux (26)
+?,(Sun) 20 Feb 2005 (7),Istres (26),1-0,1-0,Auxerre (26)
+?,(Sun) 20 Feb 2005 (7),Metz (26),1-1,0-1,Lille (26)
+?,(Sun) 20 Feb 2005 (7),St Etienne (25),1-0,0-0,Sochaux (26)
+?,(Sat) 26 Feb 2005 (8),Ajaccio (26),0-0,0-0,Lens (27)
+?,(Sat) 26 Feb 2005 (8),Bordeaux (27),2-2,1-0,Caen (27)
+?,(Sat) 26 Feb 2005 (8),Lyon (27),3-2,1-0,St Etienne (26)
+?,(Sat) 26 Feb 2005 (8),Nantes (27),2-1,1-0,Strasbourg (26)
+?,(Sat) 26 Feb 2005 (8),Nice (27),2-1,1-0,Monaco (26)
+?,(Sat) 26 Feb 2005 (8),Paris SG (27),1-0,0-0,Bastia (27)
+?,(Sun) 27 Feb 2005 (8),Lille (27),0-0,0-0,Rennes (27)
+?,(Sun) 27 Feb 2005 (8),Marseille (27),1-1,0-0,Istres (27)
+?,(Fri) 4 Mar 2005 (9),Caen (28),1-0,0-0,Lyon (28)
+?,(Sat) 5 Mar 2005 (9),Bastia (28),3-1,3-1,Lille (28)
+?,(Sat) 5 Mar 2005 (9),Istres (28),0-1,0-0,Bordeaux (28)
+?,(Sat) 5 Mar 2005 (9),Lens (28),3-1,1-0,Auxerre (27)
+?,(Sat) 5 Mar 2005 (9),Monaco (27),0-0,0-0,Metz (27)
+?,(Sat) 5 Mar 2005 (9),Paris SG (28),1-0,0-0,Nantes (28)
+?,(Sat) 5 Mar 2005 (9),Rennes (28),3-0,2-0,Sochaux (27)
+?,(Sat) 5 Mar 2005 (9),Strasbourg (27),1-0,1-0,Ajaccio (27)
+?,(Sat) 5 Mar 2005 (9),Toulouse (27),1-0,1-0,Nice (28)
+?,(Sun) 6 Mar 2005 (9),St Etienne (27),2-0,1-0,Marseille (28)
+?,(Sat) 12 Mar 2005 (10),Ajaccio (28),1-0,1-0,Paris SG (29)
+?,(Sat) 12 Mar 2005 (10),Bordeaux (29),2-0,1-0,St Etienne (28)
+?,(Sat) 12 Mar 2005 (10),Lyon (29),2-1,1-1,Istres (29)
+?,(Sat) 12 Mar 2005 (10),Marseille (29),2-1,1-1,Lens (29)
+?,(Sat) 12 Mar 2005 (10),Metz (28),1-1,1-1,Rennes (29)
+?,(Sat) 12 Mar 2005 (10),Nantes (29),2-0,1-0,Caen (29)
+?,(Sat) 12 Mar 2005 (10),Nice (29),0-0,0-0,Strasbourg (28)
+?,(Sat) 12 Mar 2005 (10),Sochaux (28),1-0,1-0,Bastia (29)
+?,(Sun) 13 Mar 2005 (10),Auxerre (28),2-2,0-1,Monaco (28)
+?,(Sun) 13 Mar 2005 (10),Lille (29),1-1,0-0,Toulouse (28)
+?,(Wed) 16 Mar 2005 (11),Sochaux (29),2-1,1-1,Metz (29)
+?,(Wed) 16 Mar 2005 (11),St Etienne (29),3-0,0-0,Ajaccio (29)
+?,(Wed) 16 Mar 2005 (11),Strasbourg (29),0-0,0-0,Monaco (29)
+?,(Sat) 19 Mar 2005 (11),Bastia (30),1-0,0-0,Metz (30)
+?,(Sat) 19 Mar 2005 (11),Caen (30),2-2,0-0,Rennes (30)
+?,(Sat) 19 Mar 2005 (11),Istres (30),1-1,0-1,Nice (30)
+?,(Sat) 19 Mar 2005 (11),Lens (30),2-0,1-0,Bordeaux (30)
+?,(Sat) 19 Mar 2005 (11),Nantes (30),0-0,0-0,Ajaccio (30)
+?,(Sat) 19 Mar 2005 (11),Strasbourg (30),0-1,0-0,Lyon (30)
+?,(Sat) 19 Mar 2005 (11),Toulouse (29),0-0,0-0,Sochaux (30)
+?,(Sun) 20 Mar 2005 (11),Monaco (30),2-1,2-0,Marseille (30)
+?,(Sun) 20 Mar 2005 (11),Paris SG (30),1-0,1-0,Auxerre (29)
+?,(Sun) 20 Mar 2005 (11),St Etienne (30),0-0,0-0,Lille (30)
+?,(Sat) 2 Apr 2005 (13),Ajaccio (31),3-0,3-0,Monaco (31)
+?,(Sat) 2 Apr 2005 (13),Auxerre (30),2-1,0-0,Nantes (31)
+?,(Sat) 2 Apr 2005 (13),Bordeaux (31),0-2,0-0,Strasbourg (31)
+?,(Sat) 2 Apr 2005 (13),Lille (31),8-0,5-0,Istres (31)
+?,(Sat) 2 Apr 2005 (13),Lyon (31),1-0,0-0,Lens (31)
+?,(Sat) 2 Apr 2005 (13),Metz (31),0-1,0-1,Toulouse (30)
+?,(Sat) 2 Apr 2005 (13),Nice (31),2-0,2-0,St Etienne (31)
+?,(Sat) 2 Apr 2005 (13),Rennes (31),1-0,1-0,Bastia (31)
+?,(Sat) 2 Apr 2005 (13),Sochaux (31),1-0,0-0,Caen (31)
+?,(Sun) 3 Apr 2005 (13),Marseille (31),1-1,0-0,Paris SG (31)
+?,(Sat) 9 Apr 2005 (14),Caen (32),0-1,0-0,Metz (32)
+?,(Sat) 9 Apr 2005 (14),Istres (32),2-0,0-0,Sochaux (32)
+?,(Sat) 9 Apr 2005 (14),Lens (32),0-0,0-0,Nice (32)
+?,(Sat) 9 Apr 2005 (14),Nantes (32),2-2,1-1,Lyon (32)
+?,(Sat) 9 Apr 2005 (14),Paris SG (32),1-1,1-0,Bordeaux (32)
+?,(Sat) 9 Apr 2005 (14),St Etienne (32),3-0,1-0,Bastia (32)
+?,(Sat) 9 Apr 2005 (14),Strasbourg (32),1-0,0-0,Marseille (32)
+?,(Sat) 9 Apr 2005 (14),Toulouse (31),0-2,0-1,Rennes (32)
+?,(Sun) 10 Apr 2005 (14),Ajaccio (32),4-3,2-1,Auxerre (31)
+?,(Sat) 16 Apr 2005 (15),Bastia (33),2-1,1-0,Toulouse (32)
+?,(Sat) 16 Apr 2005 (15),Bordeaux (33),0-2,0-1,Nantes (33)
+?,(Sat) 16 Apr 2005 (15),Lille (32),2-1,1-1,Lens (33)
+?,(Sat) 16 Apr 2005 (15),Marseille (33),1-2,0-1,Ajaccio (33)
+?,(Sat) 16 Apr 2005 (15),Metz (33),2-1,1-0,Istres (33)
+?,(Sat) 16 Apr 2005 (15),Nice (33),0-1,0-0,Caen (33)
+?,(Sat) 16 Apr 2005 (15),Rennes (33),2-2,1-1,St Etienne (33)
+?,(Sat) 16 Apr 2005 (15),Sochaux (33),1-1,1-1,Monaco (32)
+?,(Sun) 17 Apr 2005 (15),Auxerre (32),0-0,0-0,Strasbourg (33)
+?,(Sun) 17 Apr 2005 (15),Lyon (33),0-1,0-1,Paris SG (33)
+?,(Fri) 22 Apr 2005 (16),Paris SG (34),3-1,2-0,Nice (34)
+?,(Sat) 23 Apr 2005 (16),Ajaccio (34),0-0,0-0,Bordeaux (34)
+?,(Sat) 23 Apr 2005 (16),Caen (34),0-1,0-0,Bastia (34)
+?,(Sat) 23 Apr 2005 (16),Istres (34),0-2,0-1,Rennes (34)
+?,(Sat) 23 Apr 2005 (16),Lens (34),3-2,2-0,Sochaux (34)
+?,(Sat) 23 Apr 2005 (16),Monaco (33),2-1,0-0,Toulouse (33)
+?,(Sat) 23 Apr 2005 (16),Nantes (34),2-2,1-0,Marseille (34)
+?,(Sat) 23 Apr 2005 (16),St Etienne (34),0-0,0-0,Metz (34)
+?,(Sat) 23 Apr 2005 (16),Strasbourg (34),1-2,0-1,Lille (33)
+?,(Sun) 24 Apr 2005 (16),Auxerre (33),0-3,0-2,Lyon (34)
+?,(Fri) 29 Apr 2005 (17),Auxerre (34),3-2,1-0,Toulouse (34)
+?,(Sun) 1 May 2005 (17),Monaco (34),2-0,0-0,Lille (34)
+?,(Fri) 6 May 2005 (18),Bordeaux (35),0-0,0-0,Auxerre (35)
+?,(Sat) 7 May 2005 (18),Bastia (35),2-0,0-0,Istres (35)
+?,(Sat) 7 May 2005 (18),Lille (35),1-0,0-0,Paris SG (35)
+?,(Sat) 7 May 2005 (18),Marseille (35),2-3,1-2,Caen (35)
+?,(Sat) 7 May 2005 (18),Metz (35),1-1,1-0,Lens (35)
+?,(Sat) 7 May 2005 (18),Nice (35),0-0,0-0,Nantes (35)
+?,(Sat) 7 May 2005 (18),Rennes (35),0-0,0-0,Monaco (35)
+?,(Sat) 7 May 2005 (18),Sochaux (35),1-2,0-0,Strasbourg (35)
+?,(Sat) 7 May 2005 (18),Toulouse (35),0-2,0-1,St Etienne (35)
+?,(Sun) 8 May 2005 (18),Lyon (35),2-1,1-0,Ajaccio (35)
+?,(Sat) 14 May 2005 (19),Ajaccio (36),0-1,0-0,Nice (36)
+?,(Sat) 14 May 2005 (19),Auxerre (36),0-0,0-0,Marseille (36)
+?,(Sat) 14 May 2005 (19),Caen (36),2-0,1-0,St Etienne (36)
+?,(Sat) 14 May 2005 (19),Istres (36),1-0,0-0,Toulouse (36)
+?,(Sat) 14 May 2005 (19),Lens (36),5-2,2-1,Rennes (36)
+?,(Sat) 14 May 2005 (19),Monaco (36),5-2,3-1,Bastia (36)
+?,(Sat) 14 May 2005 (19),Nantes (36),1-3,1-1,Lille (36)
+?,(Sat) 14 May 2005 (19),Paris SG (36),2-2,0-0,Sochaux (36)
+?,(Sat) 14 May 2005 (19),Strasbourg (36),3-1,1-1,Metz (36)
+?,(Sun) 15 May 2005 (19),Lyon (36),5-1,3-1,Bordeaux (36)
+?,(Sat) 21 May 2005 (20),Bastia (37),3-1,2-1,Lens (37)
+?,(Sat) 21 May 2005 (20),Bordeaux (37),1-1,0-0,Monaco (37)
+?,(Sat) 21 May 2005 (20),Lille (37),0-2,0-1,Ajaccio (37)
+?,(Sat) 21 May 2005 (20),Marseille (37),0-1,0-0,Lyon (37)
+?,(Sat) 21 May 2005 (20),Metz (37),3-2,2-0,Paris SG (37)
+?,(Sat) 21 May 2005 (20),Nice (37),1-0,1-0,Auxerre (37)
+?,(Sat) 21 May 2005 (20),Rennes (37),4-0,1-0,Strasbourg (37)
+?,(Sat) 21 May 2005 (20),Sochaux (37),1-0,1-0,Nantes (37)
+?,(Sat) 21 May 2005 (20),St Etienne (37),2-0,0-0,Istres (37)
+?,(Sat) 21 May 2005 (20),Toulouse (37),2-3,1-0,Caen (37)
+?,(Sat) 28 May 2005 (21),Ajaccio (38),3-1,1-1,Sochaux (38)
+?,(Sat) 28 May 2005 (21),Auxerre (38),1-3,1-1,Lille (38)
+?,(Sat) 28 May 2005 (21),Bordeaux (38),3-3,1-2,Marseille (38)
+?,(Sat) 28 May 2005 (21),Istres (38),3-2,2-1,Caen (38)
+?,(Sat) 28 May 2005 (21),Lens (38),1-0,1-0,Toulouse (38)
+?,(Sat) 28 May 2005 (21),Lyon (38),0-0,0-0,Nice (38)
+?,(Sat) 28 May 2005 (21),Monaco (38),1-1,1-1,St Etienne (38)
+?,(Sat) 28 May 2005 (21),Nantes (38),1-0,1-0,Metz (38)
+?,(Sat) 28 May 2005 (21),Paris SG (38),1-0,0-0,Rennes (38)
+?,(Sat) 28 May 2005 (21),Strasbourg (38),2-0,0-0,Bastia (38)

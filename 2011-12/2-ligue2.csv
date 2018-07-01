@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Fri) Jul/29 2011 (30),Amiens (1),Troyes (1),1-1,1-1
-?,(Fri) Jul/29 2011 (30),Angers (1),Le Havre (1),1-2,0-2
-?,(Fri) Jul/29 2011 (30),Arles (1),Le Mans (1),1-0,0-0
-?,(Fri) Jul/29 2011 (30),Bastia (1),Istres (1),3-1,1-0
-?,(Fri) Jul/29 2011 (30),Guingamp (1),Chateauroux (1),1-1,0-0
-?,(Fri) Jul/29 2011 (30),Laval (1),Clermont (1),1-2,0-1
-?,(Fri) Jul/29 2011 (30),Sedan (1),Nantes (1),2-0,1-0
-?,(Fri) Jul/29 2011 (30),Tours (1),Metz (1),1-0,0-0
-?,(Sat) Jul/30 2011 (30),Lens (1),Reims (1),0-2,0-2
-?,(Mon) Aug/1 2011 (31),Monaco (1),Boulogne (1),0-0,0-0
-?,(Fri) Aug/5 2011 (31),Boulogne (2),Angers (2),3-3,1-2
-?,(Fri) Aug/5 2011 (31),Chateauroux (2),Sedan (2),0-1,0-1
-?,(Fri) Aug/5 2011 (31),Clermont (2),Guingamp (2),0-1,0-0
-?,(Fri) Aug/5 2011 (31),Istres (2),Lens (2),2-1,0-0
-?,(Fri) Aug/5 2011 (31),Le Havre (2),Laval (2),1-1,1-0
-?,(Fri) Aug/5 2011 (31),Le Mans (2),Tours (2),0-1,0-0
-?,(Fri) Aug/5 2011 (31),Nantes (2),Bastia (2),0-2,0-0
-?,(Fri) Aug/5 2011 (31),Reims (2),Amiens (2),1-0,0-0
-?,(Sat) Aug/6 2011 (31),Troyes (2),Monaco (2),1-1,0-1
-?,(Mon) Aug/8 2011 (32),Metz (2),Arles (2),0-0,0-0
-?,(Fri) Aug/12 2011 (32),Amiens (3),Le Havre (3),0-1,0-0
-?,(Fri) Aug/12 2011 (32),Angers (3),Istres (3),3-1,0-1
-?,(Fri) Aug/12 2011 (32),Arles (3),Nantes (3),0-0,0-0
-?,(Fri) Aug/12 2011 (32),Bastia (3),Le Mans (3),1-0,0-0
-?,(Fri) Aug/12 2011 (32),Guingamp (3),Metz (3),0-1,0-0
-?,(Fri) Aug/12 2011 (32),Laval (3),Boulogne (3),2-2,1-2
-?,(Fri) Aug/12 2011 (32),Sedan (3),Clermont (3),1-2,0-0
-?,(Fri) Aug/12 2011 (32),Tours (3),Chateauroux (3),1-2,1-1
-?,(Sat) Aug/13 2011 (32),Lens (3),Troyes (3),2-1,0-0
-?,(Mon) Aug/15 2011 (33),Monaco (3),Reims (3),1-2,0-1
-?,(Fri) Aug/19 2011 (33),Boulogne (4),Tours (4),0-0,0-0
-?,(Fri) Aug/19 2011 (33),Clermont (4),Lens (4),2-0,2-0
-?,(Fri) Aug/19 2011 (33),Istres (4),Laval (4),1-2,0-1
-?,(Fri) Aug/19 2011 (33),Le Havre (4),Bastia (4),2-0,0-0
-?,(Fri) Aug/19 2011 (33),Metz (4),Chateauroux (4),2-1,2-0
-?,(Fri) Aug/19 2011 (33),Monaco (4),Amiens (4),1-1,1-0
-?,(Fri) Aug/19 2011 (33),Reims (4),Arles (4),3-2,1-1
-?,(Fri) Aug/19 2011 (33),Troyes (4),Angers (4),2-1,1-1
-?,(Sat) Aug/20 2011 (33),Le Mans (4),Sedan (4),3-1,1-0
-?,(Mon) Aug/22 2011 (34),Nantes (4),Guingamp (4),4-0,2-0
-?,(Fri) Aug/26 2011 (34),Amiens (5),Boulogne (5),0-0,0-0
-?,(Fri) Aug/26 2011 (34),Angers (5),Reims (5),0-0,0-0
-?,(Fri) Aug/26 2011 (34),Arles (5),Le Havre (5),1-0,0-0
-?,(Fri) Aug/26 2011 (34),Bastia (5),Clermont (5),1-1,1-0
-?,(Fri) Aug/26 2011 (34),Chateauroux (5),Le Mans (5),1-0,0-0
-?,(Fri) Aug/26 2011 (34),Guingamp (5),Istres (5),1-0,1-0
-?,(Fri) Aug/26 2011 (34),Laval (5),Troyes (5),0-0,0-0
-?,(Fri) Aug/26 2011 (34),Sedan (5),Metz (5),1-1,1-1
-?,(Sat) Aug/27 2011 (34),Tours (5),Nantes (5),2-1,2-0
-?,(Mon) Aug/29 2011 (35),Lens (5),Monaco (5),2-2,0-1
-?,(Fri) Sep/9 2011 (36),Boulogne (6),Arles (6),1-1,0-1
-?,(Fri) Sep/9 2011 (36),Istres (6),Sedan (6),1-1,0-1
-?,(Fri) Sep/9 2011 (36),Le Havre (6),Tours (6),2-1,1-0
-?,(Fri) Sep/9 2011 (36),Metz (6),Laval (6),2-2,1-1
-?,(Fri) Sep/9 2011 (36),Monaco (6),Angers (6),1-3,0-2
-?,(Fri) Sep/9 2011 (36),Nantes (6),Le Mans (6),1-1,0-1
-?,(Fri) Sep/9 2011 (36),Reims (6),Guingamp (6),2-1,0-0
-?,(Fri) Sep/9 2011 (36),Troyes (6),Bastia (6),1-0,1-0
-?,(Sat) Sep/10 2011 (36),Clermont (6),Chateauroux (6),2-1,0-1
-?,(Mon) Sep/12 2011 (37),Amiens (6),Lens (6),1-2,1-1
-?,(Fri) Sep/16 2011 (37),Angers (7),Amiens (7),0-0,0-0
-?,(Fri) Sep/16 2011 (37),Arles (7),Clermont (7),0-2,0-1
-?,(Fri) Sep/16 2011 (37),Bastia (7),Monaco (7),1-1,1-0
-?,(Fri) Sep/16 2011 (37),Chateauroux (7),Nantes (7),2-2,2-2
-?,(Fri) Sep/16 2011 (37),Guingamp (7),Troyes (7),0-0,0-0
-?,(Fri) Sep/16 2011 (37),Laval (7),Reims (7),3-2,0-1
-?,(Fri) Sep/16 2011 (37),Lens (7),Boulogne (7),2-0,2-0
-?,(Fri) Sep/16 2011 (37),Sedan (7),Le Havre (7),3-0,1-0
-?,(Fri) Sep/16 2011 (37),Tours (7),Istres (7),1-2,1-0
-?,(Sat) Sep/17 2011 (37),Le Mans (7),Metz (7),0-1,0-0
-?,(Mon) Sep/19 2011 (38),Monaco (8),Arles (8),1-0,0-0
-?,(Tue) Sep/20 2011 (38),Amiens (8),Laval (8),1-0,1-0
-?,(Tue) Sep/20 2011 (38),Boulogne (8),Guingamp (8),2-0,2-0
-?,(Tue) Sep/20 2011 (38),Clermont (8),Tours (8),0-1,0-1
-?,(Tue) Sep/20 2011 (38),Istres (8),Chateauroux (8),3-1,0-0
-?,(Tue) Sep/20 2011 (38),Le Havre (8),Le Mans (8),1-1,1-0
-?,(Tue) Sep/20 2011 (38),Lens (8),Angers (8),0-0,0-0
-?,(Tue) Sep/20 2011 (38),Metz (8),Nantes (8),1-3,1-2
-?,(Tue) Sep/20 2011 (38),Reims (8),Bastia (8),1-0,1-0
-?,(Tue) Sep/20 2011 (38),Troyes (8),Sedan (8),1-1,1-1
-?,(Fri) Sep/23 2011 (38),Bastia (9),Angers (9),3-1,2-0
-?,(Fri) Sep/23 2011 (38),Chateauroux (9),Boulogne (9),2-1,0-0
-?,(Fri) Sep/23 2011 (38),Guingamp (9),Le Havre (9),1-0,0-0
-?,(Fri) Sep/23 2011 (38),Laval (9),Monaco (9),1-0,0-0
-?,(Fri) Sep/23 2011 (38),Metz (9),Istres (9),1-2,1-1
-?,(Fri) Sep/23 2011 (38),Tours (9),Amiens (9),1-1,1-1
-?,(Sat) Sep/24 2011 (38),Arles (9),Lens (9),3-0,0-0
-?,(Sun) Sep/25 2011 (38),Nantes (9),Clermont (9),1-0,1-0
-?,(Mon) Sep/26 2011 (39),Le Mans (9),Troyes (9),1-1,0-0
-?,(Mon) Sep/26 2011 (39),Sedan (9),Reims (9),1-0,1-0
-?,(Fri) Sep/30 2011 (39),Amiens (10),Guingamp (10),0-0,0-0
-?,(Fri) Sep/30 2011 (39),Angers (10),Arles (10),2-0,2-0
-?,(Fri) Sep/30 2011 (39),Clermont (10),Metz (10),1-0,1-0
-?,(Fri) Sep/30 2011 (39),Istres (10),Le Mans (10),1-2,0-0
-?,(Fri) Sep/30 2011 (39),Lens (10),Laval (10),0-0,0-0
-?,(Fri) Sep/30 2011 (39),Monaco (10),Sedan (10),2-2,2-0
-?,(Fri) Sep/30 2011 (39),Reims (10),Chateauroux (10),2-0,1-0
-?,(Fri) Sep/30 2011 (39),Troyes (10),Tours (10),2-1,0-1
-?,(Sat) Oct/1 2011 (39),Le Havre (10),Nantes (10),1-1,0-0
-?,(Mon) Oct/3 2011 (40),Boulogne (10),Bastia (10),1-3,1-1
-?,(Fri) Oct/14 2011 (41),Arles (11),Amiens (11),1-1,1-1
-?,(Fri) Oct/14 2011 (41),Chateauroux (11),Troyes (11),1-0,1-0
-?,(Fri) Oct/14 2011 (41),Laval (11),Angers (11),0-1,0-0
-?,(Fri) Oct/14 2011 (41),Le Mans (11),Clermont (11),0-2,0-0
-?,(Fri) Oct/14 2011 (41),Metz (11),Le Havre (11),0-2,0-1
-?,(Fri) Oct/14 2011 (41),Nantes (11),Istres (11),3-1,1-0
-?,(Fri) Oct/14 2011 (41),Sedan (11),Boulogne (11),1-4,1-0
-?,(Fri) Oct/14 2011 (41),Tours (11),Reims (11),1-1,0-0
-?,(Sat) Oct/15 2011 (41),Bastia (11),Lens (11),2-2,1-2
-?,(Mon) Oct/17 2011 (42),Guingamp (11),Monaco (11),4-0,3-0
-?,(Fri) Oct/21 2011 (42),Amiens (12),Bastia (12),1-1,1-1
-?,(Fri) Oct/21 2011 (42),Angers (12),Sedan (12),1-3,0-2
-?,(Fri) Oct/21 2011 (42),Laval (12),Arles (12),2-1,2-0
-?,(Fri) Oct/21 2011 (42),Le Havre (12),Chateauroux (12),3-0,2-0
-?,(Fri) Oct/21 2011 (42),Lens (12),Guingamp (12),0-2,0-1
-?,(Fri) Oct/21 2011 (42),Monaco (12),Tours (12),0-0,0-0
-?,(Fri) Oct/21 2011 (42),Reims (12),Le Mans (12),1-1,1-0
-?,(Fri) Oct/21 2011 (42),Troyes (12),Metz (12),1-0,0-0
-?,(Sat) Oct/22 2011 (42),Istres (12),Clermont (12),2-2,2-2
-?,(Mon) Oct/24 2011 (43),Boulogne (12),Nantes (12),2-1,0-1
-?,(Fri) Oct/28 2011 (43),Bastia (13),Arles (13),3-0,2-0
-?,(Fri) Oct/28 2011 (43),Chateauroux (13),Monaco (13),2-1,2-0
-?,(Fri) Oct/28 2011 (43),Clermont (13),Troyes (13),1-1,1-0
-?,(Fri) Oct/28 2011 (43),Guingamp (13),Angers (13),1-0,0-0
-?,(Fri) Oct/28 2011 (43),Istres (13),Le Havre (13),1-1,0-1
-?,(Fri) Oct/28 2011 (43),Metz (13),Reims (13),1-0,0-0
-?,(Fri) Oct/28 2011 (43),Tours (13),Laval (13),0-0,0-0
-?,(Sat) Oct/29 2011 (43),Le Mans (13),Boulogne (13),1-0,0-0
-?,(Sat) Oct/29 2011 (43),Sedan (13),Amiens (13),3-1,2-0
-?,(Mon) Oct/31 2011 (44),Nantes (13),Lens (13),1-0,0-0
-?,(Sat) Nov/5 2011 (44),Amiens (14),Chateauroux (14),4-0,2-0
-?,(Sat) Nov/5 2011 (44),Angers (14),Tours (14),1-0,0-0
-?,(Sat) Nov/5 2011 (44),Boulogne (14),Metz (14),0-1,0-0
-?,(Sat) Nov/5 2011 (44),Laval (14),Bastia (14),1-0,0-0
-?,(Sat) Nov/5 2011 (44),Le Havre (14),Clermont (14),0-2,0-2
-?,(Sat) Nov/5 2011 (44),Monaco (14),Le Mans (14),2-2,1-1
-?,(Sat) Nov/5 2011 (44),Reims (14),Istres (14),2-1,1-0
-?,(Sat) Nov/5 2011 (44),Troyes (14),Nantes (14),2-0,1-0
-?,(Mon) Nov/7 2011 (45),Lens (14),Sedan (14),4-2,1-1
-?,(Tue) Nov/22 2011 (47),Arles (14),Guingamp (14),1-2,0-0
-?,(Fri) Nov/25 2011 (47),Chateauroux (15),Angers (15),0-1,0-0
-?,(Fri) Nov/25 2011 (47),Guingamp (15),Bastia (15),1-1,1-1
-?,(Fri) Nov/25 2011 (47),Istres (15),Boulogne (15),0-0,0-0
-?,(Fri) Nov/25 2011 (47),Le Havre (15),Troyes (15),3-0,1-0
-?,(Fri) Nov/25 2011 (47),Metz (15),Amiens (15),1-0,1-0
-?,(Fri) Nov/25 2011 (47),Nantes (15),Monaco (15),3-0,1-0
-?,(Fri) Nov/25 2011 (47),Sedan (15),Laval (15),2-1,1-1
-?,(Fri) Nov/25 2011 (47),Tours (15),Arles (15),4-1,3-0
-?,(Sat) Nov/26 2011 (47),Le Mans (15),Lens (15),0-1,0-0
-?,(Mon) Nov/28 2011 (48),Clermont (15),Reims (15),1-0,1-0
-?,(Fri) Dec/2 2011 (48),Amiens (16),Le Mans (16),0-0,0-0
-?,(Fri) Dec/2 2011 (48),Angers (16),Clermont (16),0-1,0-0
-?,(Fri) Dec/2 2011 (48),Arles (16),Chateauroux (16),0-0,0-0
-?,(Fri) Dec/2 2011 (48),Bastia (16),Sedan (16),2-2,1-0
-?,(Fri) Dec/2 2011 (48),Laval (16),Guingamp (16),1-2,1-0
-?,(Fri) Dec/2 2011 (48),Lens (16),Tours (16),3-0,1-0
-?,(Fri) Dec/2 2011 (48),Monaco (16),Metz (16),0-2,0-1
-?,(Fri) Dec/2 2011 (48),Troyes (16),Istres (16),1-1,0-0
-?,(Sat) Dec/3 2011 (48),Boulogne (16),Le Havre (16),1-1,0-0
-?,(Mon) Dec/5 2011 (49),Reims (16),Nantes (16),3-1,1-0
-?,(Fri) Dec/16 2011 (50),Chateauroux (17),Bastia (17),0-2,0-0
-?,(Fri) Dec/16 2011 (50),Istres (17),Amiens (17),2-1,0-1
-?,(Fri) Dec/16 2011 (50),Le Mans (17),Angers (17),2-2,2-0
-?,(Fri) Dec/16 2011 (50),Metz (17),Lens (17),2-0,2-0
-?,(Fri) Dec/16 2011 (50),Nantes (17),Laval (17),2-3,0-1
-?,(Fri) Dec/16 2011 (50),Sedan (17),Arles (17),0-0,0-0
-?,(Fri) Dec/16 2011 (50),Tours (17),Guingamp (17),5-1,1-1
-?,(Fri) Dec/16 2011 (50),Troyes (17),Reims (17),1-0,0-0
-?,(Sat) Dec/17 2011 (50),Clermont (17),Boulogne (17),1-2,1-1
-?,(Sat) Dec/17 2011 (50),Le Havre (17),Monaco (17),2-2,1-2
-?,(Mon) Dec/19 2011 (51),Guingamp (18),Sedan (18),1-3,1-1
-?,(Tue) Dec/20 2011 (51),Amiens (18),Nantes (18),0-2,0-0
-?,(Tue) Dec/20 2011 (51),Angers (18),Metz (18),2-0,1-0
-?,(Tue) Dec/20 2011 (51),Arles (18),Istres (18),1-5,1-2
-?,(Tue) Dec/20 2011 (51),Bastia (18),Tours (18),4-1,2-0
-?,(Tue) Dec/20 2011 (51),Boulogne (18),Troyes (18),2-0,1-0
-?,(Tue) Dec/20 2011 (51),Laval (18),Le Mans (18),2-1,0-0
-?,(Tue) Dec/20 2011 (51),Lens (18),Chateauroux (18),2-3,1-1
-?,(Tue) Dec/20 2011 (51),Monaco (18),Clermont (18),0-0,0-0
-?,(Tue) Dec/20 2011 (51),Reims (18),Le Havre (18),2-1,2-1
-?,(Fri) Jan/13 2012 (2),Le Havre (19),Lens (19),0-0,0-0
-?,(Fri) Jan/13 2012 (2),Nantes (19),Angers (19),2-1,1-1
-?,(Sat) Jan/14 2012 (2),Boulogne (19),Reims (19),0-0,0-0
-?,(Sat) Jan/14 2012 (2),Chateauroux (19),Laval (19),3-1,1-1
-?,(Sat) Jan/14 2012 (2),Clermont (19),Amiens (19),2-1,1-1
-?,(Sat) Jan/14 2012 (2),Istres (19),Monaco (19),0-1,0-1
-?,(Sat) Jan/14 2012 (2),Le Mans (19),Guingamp (19),1-0,1-0
-?,(Sat) Jan/14 2012 (2),Metz (19),Bastia (19),0-1,0-0
-?,(Sat) Jan/14 2012 (2),Tours (19),Sedan (19),1-0,1-0
-?,(Sat) Jan/14 2012 (2),Troyes (19),Arles (19),0-1,0-0
-?,(Tue) Jan/17 2012 (3),Guingamp (20),Nantes (20),2-0,0-0
-?,(Wed) Jan/18 2012 (3),Amiens (20),Monaco (20),1-2,0-1
-?,(Wed) Jan/18 2012 (3),Angers (20),Troyes (20),2-3,0-3
-?,(Wed) Jan/18 2012 (3),Arles (20),Reims (20),2-2,0-1
-?,(Wed) Jan/18 2012 (3),Bastia (20),Le Havre (20),1-0,0-0
-?,(Wed) Jan/18 2012 (3),Chateauroux (20),Metz (20),1-1,0-0
-?,(Wed) Jan/18 2012 (3),Laval (20),Istres (20),2-1,1-0
-?,(Wed) Jan/18 2012 (3),Lens (20),Clermont (20),2-1,0-0
-?,(Wed) Jan/18 2012 (3),Sedan (20),Le Mans (20),0-2,0-0
-?,(Wed) Jan/18 2012 (3),Tours (20),Boulogne (20),3-1,3-1
-?,(Fri) Jan/27 2012 (4),Metz (21),Sedan (21),0-2,0-1
-?,(Sat) Jan/28 2012 (4),Boulogne (21),Amiens (21),0-1,0-0
-?,(Sat) Jan/28 2012 (4),Clermont (21),Bastia (21),2-1,1-1
-?,(Sat) Jan/28 2012 (4),Istres (21),Guingamp (21),2-1,1-1
-?,(Sat) Jan/28 2012 (4),Le Havre (21),Arles (21),1-1,1-1
-?,(Sat) Jan/28 2012 (4),Le Mans (21),Chateauroux (21),0-1,0-0
-?,(Sat) Jan/28 2012 (4),Nantes (21),Tours (21),1-0,0-0
-?,(Sat) Jan/28 2012 (4),Reims (21),Angers (21),3-0,2-0
-?,(Sat) Jan/28 2012 (4),Troyes (21),Laval (21),3-0,2-0
-?,(Mon) Jan/30 2012 (5),Monaco (21),Lens (21),2-2,0-0
-?,(Sat) Feb/4 2012 (5),Arles (22),Boulogne (22),2-1,1-0
-?,(Sat) Feb/4 2012 (5),Bastia (22),Troyes (22),5-1,2-1
-?,(Sat) Feb/4 2012 (5),Chateauroux (22),Clermont (22),2-1,0-1
-?,(Sat) Feb/4 2012 (5),Guingamp (22),Reims (22),2-3,1-1
-?,(Sat) Feb/4 2012 (5),Lens (22),Amiens (22),1-1,0-1
-?,(Sat) Feb/4 2012 (5),Sedan (22),Istres (22),1-1,1-0
-?,(Sat) Feb/11 2012 (6),Istres (23),Tours (22),1-0,0-0
-?,(Sat) Feb/11 2012 (6),Nantes (22),Chateauroux (23),3-0,2-0
-?,(Mon) Feb/13 2012 (7),Monaco (22),Bastia (23),0-1,0-0
-?,(Fri) Feb/17 2012 (7),Angers (22),Lens (23),1-1,0-0
-?,(Fri) Feb/17 2012 (7),Arles (23),Monaco (23),2-1,2-0
-?,(Fri) Feb/17 2012 (7),Bastia (24),Reims (23),1-0,0-0
-?,(Fri) Feb/17 2012 (7),Chateauroux (24),Istres (24),0-2,0-0
-?,(Fri) Feb/17 2012 (7),Guingamp (23),Boulogne (23),1-1,0-0
-?,(Fri) Feb/17 2012 (7),Laval (22),Amiens (23),3-1,1-0
-?,(Fri) Feb/17 2012 (7),Le Mans (22),Le Havre (22),3-1,1-0
-?,(Fri) Feb/17 2012 (7),Sedan (23),Troyes (23),1-2,0-0
-?,(Fri) Feb/17 2012 (7),Tours (23),Clermont (23),2-1,0-0
-?,(Mon) Feb/20 2012 (8),Nantes (23),Metz (22),0-0,0-0
-?,(Tue) Feb/21 2012 (8),Tours (24),Le Havre (23),0-0,0-0
-?,(Fri) Feb/24 2012 (8),Amiens (24),Tours (25),1-1,0-1
-?,(Fri) Feb/24 2012 (8),Angers (23),Bastia (25),1-1,0-0
-?,(Fri) Feb/24 2012 (8),Boulogne (24),Chateauroux (25),0-1,0-1
-?,(Fri) Feb/24 2012 (8),Clermont (24),Nantes (24),0-0,0-0
-?,(Fri) Feb/24 2012 (8),Istres (25),Metz (23),1-0,1-0
-?,(Fri) Feb/24 2012 (8),Le Havre (24),Guingamp (24),3-1,1-1
-?,(Fri) Feb/24 2012 (8),Lens (24),Arles (24),0-0,0-0
-?,(Fri) Feb/24 2012 (8),Monaco (24),Laval (23),2-1,1-1
-?,(Fri) Feb/24 2012 (8),Troyes (24),Le Mans (23),2-1,2-0
-?,(Mon) Feb/27 2012 (9),Reims (24),Sedan (24),1-2,1-2
-?,(Fri) Mar/2 2012 (9),Arles (25),Angers (24),2-2,0-1
-?,(Fri) Mar/2 2012 (9),Bastia (26),Boulogne (25),2-0,0-0
-?,(Fri) Mar/2 2012 (9),Chateauroux (26),Reims (25),1-1,0-1
-?,(Fri) Mar/2 2012 (9),Guingamp (25),Amiens (25),1-1,0-1
-?,(Fri) Mar/2 2012 (9),Laval (24),Lens (25),2-2,2-0
-?,(Fri) Mar/2 2012 (9),Le Mans (24),Istres (26),1-0,1-0
-?,(Fri) Mar/2 2012 (9),Metz (24),Clermont (25),2-2,1-2
-?,(Fri) Mar/2 2012 (9),Sedan (25),Monaco (25),2-2,2-0
-?,(Fri) Mar/2 2012 (9),Tours (26),Troyes (25),0-2,0-1
-?,(Mon) Mar/5 2012 (10),Nantes (25),Le Havre (25),1-0,1-0
-?,(Tue) Mar/6 2012 (10),Angers (25),Monaco (26),1-2,1-2
-?,(Tue) Mar/6 2012 (10),Boulogne (26),Lens (26),0-2,0-1
-?,(Tue) Mar/6 2012 (10),Clermont (26),Arles (26),0-0,0-0
-?,(Tue) Mar/6 2012 (10),Laval (25),Metz (25),0-0,0-0
-?,(Tue) Mar/6 2012 (10),Troyes (26),Guingamp (26),1-1,1-0
-?,(Fri) Mar/9 2012 (10),Amiens (26),Arles (27),0-3,0-2
-?,(Fri) Mar/9 2012 (10),Angers (26),Laval (26),0-0,0-0
-?,(Fri) Mar/9 2012 (10),Boulogne (27),Sedan (26),1-1,0-0
-?,(Fri) Mar/9 2012 (10),Clermont (27),Le Mans (25),1-1,0-0
-?,(Fri) Mar/9 2012 (10),Istres (27),Nantes (26),2-1,1-0
-?,(Fri) Mar/9 2012 (10),Le Havre (26),Metz (26),1-1,1-0
-?,(Fri) Mar/9 2012 (10),Monaco (27),Guingamp (27),1-0,0-0
-?,(Fri) Mar/9 2012 (10),Reims (26),Tours (27),2-3,0-2
-?,(Fri) Mar/9 2012 (10),Troyes (27),Chateauroux (27),0-1,0-1
-?,(Mon) Mar/12 2012 (11),Lens (27),Bastia (27),1-3,0-0
-?,(Tue) Mar/13 2012 (11),Amiens (27),Angers (27),2-0,1-0
-?,(Tue) Mar/13 2012 (11),Le Havre (27),Sedan (27),0-0,0-0
-?,(Tue) Mar/13 2012 (11),Le Mans (26),Nantes (27),0-0,0-0
-?,(Tue) Mar/13 2012 (11),Reims (27),Laval (27),1-1,1-0
-?,(Fri) Mar/16 2012 (11),Arles (28),Laval (28),1-0,0-0
-?,(Fri) Mar/16 2012 (11),Bastia (28),Amiens (28),2-1,2-1
-?,(Fri) Mar/16 2012 (11),Chateauroux (28),Le Havre (28),1-0,0-0
-?,(Fri) Mar/16 2012 (11),Clermont (28),Istres (28),2-2,1-1
-?,(Fri) Mar/16 2012 (11),Guingamp (28),Lens (28),3-0,3-0
-?,(Fri) Mar/16 2012 (11),Metz (27),Troyes (28),2-2,1-0
-?,(Fri) Mar/16 2012 (11),Nantes (28),Boulogne (28),3-3,2-2
-?,(Fri) Mar/16 2012 (11),Sedan (28),Angers (28),2-2,1-1
-?,(Fri) Mar/16 2012 (11),Tours (28),Monaco (28),0-0,0-0
-?,(Mon) Mar/19 2012 (12),Le Mans (27),Reims (28),0-1,0-0
-?,(Fri) Mar/23 2012 (12),Amiens (29),Sedan (29),0-3,0-1
-?,(Fri) Mar/23 2012 (12),Angers (29),Guingamp (29),1-0,1-0
-?,(Fri) Mar/23 2012 (12),Arles (29),Bastia (29),0-0,0-0
-?,(Fri) Mar/23 2012 (12),Boulogne (29),Le Mans (28),2-0,1-0
-?,(Fri) Mar/23 2012 (12),Laval (29),Tours (29),1-2,1-1
-?,(Fri) Mar/23 2012 (12),Le Havre (29),Istres (29),0-0,0-0
-?,(Fri) Mar/23 2012 (12),Monaco (29),Chateauroux (29),2-1,1-0
-?,(Fri) Mar/23 2012 (12),Reims (29),Metz (28),3-0,3-0
-?,(Fri) Mar/23 2012 (12),Troyes (29),Clermont (29),3-2,1-1
-?,(Mon) Mar/26 2012 (13),Lens (29),Nantes (29),1-0,1-0
-?,(Tue) Mar/27 2012 (13),Metz (29),Le Mans (29),0-1,0-1
-?,(Fri) Mar/30 2012 (13),Bastia (30),Laval (30),3-2,2-0
-?,(Fri) Mar/30 2012 (13),Chateauroux (30),Amiens (30),4-1,1-1
-?,(Fri) Mar/30 2012 (13),Clermont (30),Le Havre (30),2-1,0-1
-?,(Fri) Mar/30 2012 (13),Guingamp (30),Arles (30),1-1,0-0
-?,(Fri) Mar/30 2012 (13),Istres (30),Reims (30),1-1,1-1
-?,(Fri) Mar/30 2012 (13),Le Mans (30),Monaco (30),0-1,0-0
-?,(Fri) Mar/30 2012 (13),Metz (30),Boulogne (30),1-0,0-0
-?,(Fri) Mar/30 2012 (13),Sedan (30),Lens (30),1-1,0-1
-?,(Fri) Mar/30 2012 (13),Tours (30),Angers (30),1-0,0-0
-?,(Mon) Apr/2 2012 (14),Nantes (30),Troyes (30),1-1,1-0
-?,(Fri) Apr/6 2012 (14),Amiens (31),Metz (31),1-1,1-1
-?,(Fri) Apr/6 2012 (14),Angers (31),Chateauroux (31),2-0,1-0
-?,(Fri) Apr/6 2012 (14),Arles (31),Tours (31),2-2,1-1
-?,(Fri) Apr/6 2012 (14),Bastia (31),Guingamp (31),3-1,1-0
-?,(Fri) Apr/6 2012 (14),Boulogne (31),Istres (31),1-1,1-0
-?,(Fri) Apr/6 2012 (14),Laval (31),Sedan (31),5-1,1-1
-?,(Fri) Apr/6 2012 (14),Lens (31),Le Mans (31),1-3,0-0
-?,(Fri) Apr/6 2012 (14),Monaco (31),Nantes (31),2-1,1-0
-?,(Fri) Apr/6 2012 (14),Troyes (31),Le Havre (31),1-0,1-0
-?,(Mon) Apr/9 2012 (15),Reims (31),Clermont (31),2-2,1-1
-?,(Fri) Apr/13 2012 (15),Chateauroux (32),Arles (32),1-2,0-1
-?,(Fri) Apr/13 2012 (15),Clermont (32),Angers (32),1-2,1-0
-?,(Fri) Apr/13 2012 (15),Guingamp (32),Laval (32),1-0,0-0
-?,(Fri) Apr/13 2012 (15),Istres (32),Troyes (32),0-0,0-0
-?,(Fri) Apr/13 2012 (15),Le Havre (32),Boulogne (32),0-0,0-0
-?,(Fri) Apr/13 2012 (15),Le Mans (32),Amiens (32),3-2,2-1
-?,(Fri) Apr/13 2012 (15),Metz (32),Monaco (32),0-2,0-1
-?,(Fri) Apr/13 2012 (15),Sedan (32),Bastia (32),2-0,1-0
-?,(Fri) Apr/13 2012 (15),Tours (32),Lens (32),0-3,0-1
-?,(Mon) Apr/16 2012 (16),Nantes (32),Reims (32),2-0,1-0
-?,(Fri) Apr/20 2012 (16),Amiens (33),Istres (33),1-2,0-0
-?,(Fri) Apr/20 2012 (16),Angers (33),Le Mans (33),1-1,0-1
-?,(Fri) Apr/20 2012 (16),Arles (33),Sedan (33),0-0,0-0
-?,(Fri) Apr/20 2012 (16),Boulogne (33),Clermont (33),1-1,0-1
-?,(Fri) Apr/20 2012 (16),Guingamp (33),Tours (33),0-0,0-0
-?,(Fri) Apr/20 2012 (16),Laval (33),Nantes (33),2-0,2-0
-?,(Fri) Apr/20 2012 (16),Lens (33),Metz (33),0-2,0-1
-?,(Fri) Apr/20 2012 (16),Monaco (33),Le Havre (33),1-0,0-0
-?,(Fri) Apr/20 2012 (16),Reims (33),Troyes (33),1-0,0-0
-?,(Mon) Apr/23 2012 (17),Bastia (33),Chateauroux (33),2-1,2-1
-?,(Fri) Apr/27 2012 (17),Chateauroux (34),Lens (34),1-0,0-0
-?,(Fri) Apr/27 2012 (17),Clermont (34),Monaco (34),1-0,0-0
-?,(Fri) Apr/27 2012 (17),Istres (34),Arles (34),0-0,0-0
-?,(Fri) Apr/27 2012 (17),Le Havre (34),Reims (34),1-1,0-0
-?,(Fri) Apr/27 2012 (17),Le Mans (34),Laval (34),1-3,0-1
-?,(Fri) Apr/27 2012 (17),Metz (34),Angers (34),1-1,1-1
-?,(Fri) Apr/27 2012 (17),Nantes (34),Amiens (34),5-0,1-0
-?,(Fri) Apr/27 2012 (17),Sedan (34),Guingamp (34),0-1,0-1
-?,(Fri) Apr/27 2012 (17),Tours (34),Bastia (34),2-1,1-0
-?,(Fri) Apr/27 2012 (17),Troyes (34),Boulogne (34),2-1,0-0
-?,(Mon) Apr/30 2012 (18),Lens (35),Le Havre (35),2-0,0-0
-?,(Tue) May/1 2012 (18),Amiens (35),Clermont (35),1-1,1-1
-?,(Tue) May/1 2012 (18),Angers (35),Nantes (35),2-0,0-0
-?,(Tue) May/1 2012 (18),Arles (35),Troyes (35),0-0,0-0
-?,(Tue) May/1 2012 (18),Bastia (35),Metz (35),3-0,2-0
-?,(Tue) May/1 2012 (18),Guingamp (35),Le Mans (35),1-1,0-1
-?,(Tue) May/1 2012 (18),Laval (35),Chateauroux (35),1-1,0-0
-?,(Tue) May/1 2012 (18),Monaco (35),Istres (35),3-2,0-0
-?,(Tue) May/1 2012 (18),Reims (35),Boulogne (35),3-2,1-0
-?,(Tue) May/1 2012 (18),Sedan (35),Tours (35),3-0,2-0
-?,(Fri) May/4 2012 (18),Boulogne (36),Laval (36),3-0,2-0
-?,(Fri) May/4 2012 (18),Chateauroux (36),Tours (36),1-3,0-1
-?,(Fri) May/4 2012 (18),Clermont (36),Sedan (36),1-1,0-0
-?,(Fri) May/4 2012 (18),Istres (36),Angers (36),0-1,0-1
-?,(Fri) May/4 2012 (18),Le Havre (36),Amiens (36),2-0,1-0
-?,(Fri) May/4 2012 (18),Le Mans (36),Bastia (36),3-0,1-0
-?,(Fri) May/4 2012 (18),Metz (36),Guingamp (36),2-5,0-2
-?,(Fri) May/4 2012 (18),Nantes (36),Arles (36),3-0,1-0
-?,(Fri) May/4 2012 (18),Troyes (36),Lens (36),2-0,2-0
-?,(Mon) May/7 2012 (19),Reims (36),Monaco (36),2-0,1-0
-?,(Fri) May/11 2012 (19),Amiens (37),Reims (37),0-2,0-1
-?,(Fri) May/11 2012 (19),Angers (37),Boulogne (37),2-1,1-0
-?,(Fri) May/11 2012 (19),Arles (37),Metz (37),1-0,1-0
-?,(Fri) May/11 2012 (19),Bastia (37),Nantes (37),2-1,2-1
-?,(Fri) May/11 2012 (19),Guingamp (37),Clermont (37),3-1,1-0
-?,(Fri) May/11 2012 (19),Laval (37),Le Havre (37),0-2,0-1
-?,(Fri) May/11 2012 (19),Lens (37),Istres (37),1-0,0-0
-?,(Fri) May/11 2012 (19),Monaco (37),Troyes (37),0-2,0-1
-?,(Fri) May/11 2012 (19),Sedan (37),Chateauroux (37),2-0,0-0
-?,(Fri) May/11 2012 (19),Tours (37),Le Mans (37),2-1,1-0
-?,(Fri) May/18 2012 (20),Boulogne (38),Monaco (38),1-2,1-1
-?,(Fri) May/18 2012 (20),Chateauroux (38),Guingamp (38),0-2,0-1
-?,(Fri) May/18 2012 (20),Clermont (38),Laval (38),2-0,1-0
-?,(Fri) May/18 2012 (20),Istres (38),Bastia (38),1-0,1-0
-?,(Fri) May/18 2012 (20),Le Havre (38),Angers (38),3-0,0-0
-?,(Fri) May/18 2012 (20),Le Mans (38),Arles (38),1-1,1-1
-?,(Fri) May/18 2012 (20),Metz (38),Tours (38),1-1,1-0
-?,(Fri) May/18 2012 (20),Nantes (38),Sedan (38),1-2,0-0
-?,(Fri) May/18 2012 (20),Reims (38),Lens (38),1-1,0-0
-?,(Fri) May/18 2012 (20),Troyes (38),Amiens (38),2-0,0-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 29 Jul 2011 (30),Amiens (1),1-1,1-1,Troyes (1)
+?,(Fri) 29 Jul 2011 (30),Angers (1),1-2,0-2,Le Havre (1)
+?,(Fri) 29 Jul 2011 (30),Arles (1),1-0,0-0,Le Mans (1)
+?,(Fri) 29 Jul 2011 (30),Bastia (1),3-1,1-0,Istres (1)
+?,(Fri) 29 Jul 2011 (30),Guingamp (1),1-1,0-0,Chateauroux (1)
+?,(Fri) 29 Jul 2011 (30),Laval (1),1-2,0-1,Clermont (1)
+?,(Fri) 29 Jul 2011 (30),Sedan (1),2-0,1-0,Nantes (1)
+?,(Fri) 29 Jul 2011 (30),Tours (1),1-0,0-0,Metz (1)
+?,(Sat) 30 Jul 2011 (30),Lens (1),0-2,0-2,Reims (1)
+?,(Mon) 1 Aug 2011 (31),Monaco (1),0-0,0-0,Boulogne (1)
+?,(Fri) 5 Aug 2011 (31),Boulogne (2),3-3,1-2,Angers (2)
+?,(Fri) 5 Aug 2011 (31),Chateauroux (2),0-1,0-1,Sedan (2)
+?,(Fri) 5 Aug 2011 (31),Clermont (2),0-1,0-0,Guingamp (2)
+?,(Fri) 5 Aug 2011 (31),Istres (2),2-1,0-0,Lens (2)
+?,(Fri) 5 Aug 2011 (31),Le Havre (2),1-1,1-0,Laval (2)
+?,(Fri) 5 Aug 2011 (31),Le Mans (2),0-1,0-0,Tours (2)
+?,(Fri) 5 Aug 2011 (31),Nantes (2),0-2,0-0,Bastia (2)
+?,(Fri) 5 Aug 2011 (31),Reims (2),1-0,0-0,Amiens (2)
+?,(Sat) 6 Aug 2011 (31),Troyes (2),1-1,0-1,Monaco (2)
+?,(Mon) 8 Aug 2011 (32),Metz (2),0-0,0-0,Arles (2)
+?,(Fri) 12 Aug 2011 (32),Amiens (3),0-1,0-0,Le Havre (3)
+?,(Fri) 12 Aug 2011 (32),Angers (3),3-1,0-1,Istres (3)
+?,(Fri) 12 Aug 2011 (32),Arles (3),0-0,0-0,Nantes (3)
+?,(Fri) 12 Aug 2011 (32),Bastia (3),1-0,0-0,Le Mans (3)
+?,(Fri) 12 Aug 2011 (32),Guingamp (3),0-1,0-0,Metz (3)
+?,(Fri) 12 Aug 2011 (32),Laval (3),2-2,1-2,Boulogne (3)
+?,(Fri) 12 Aug 2011 (32),Sedan (3),1-2,0-0,Clermont (3)
+?,(Fri) 12 Aug 2011 (32),Tours (3),1-2,1-1,Chateauroux (3)
+?,(Sat) 13 Aug 2011 (32),Lens (3),2-1,0-0,Troyes (3)
+?,(Mon) 15 Aug 2011 (33),Monaco (3),1-2,0-1,Reims (3)
+?,(Fri) 19 Aug 2011 (33),Boulogne (4),0-0,0-0,Tours (4)
+?,(Fri) 19 Aug 2011 (33),Clermont (4),2-0,2-0,Lens (4)
+?,(Fri) 19 Aug 2011 (33),Istres (4),1-2,0-1,Laval (4)
+?,(Fri) 19 Aug 2011 (33),Le Havre (4),2-0,0-0,Bastia (4)
+?,(Fri) 19 Aug 2011 (33),Metz (4),2-1,2-0,Chateauroux (4)
+?,(Fri) 19 Aug 2011 (33),Monaco (4),1-1,1-0,Amiens (4)
+?,(Fri) 19 Aug 2011 (33),Reims (4),3-2,1-1,Arles (4)
+?,(Fri) 19 Aug 2011 (33),Troyes (4),2-1,1-1,Angers (4)
+?,(Sat) 20 Aug 2011 (33),Le Mans (4),3-1,1-0,Sedan (4)
+?,(Mon) 22 Aug 2011 (34),Nantes (4),4-0,2-0,Guingamp (4)
+?,(Fri) 26 Aug 2011 (34),Amiens (5),0-0,0-0,Boulogne (5)
+?,(Fri) 26 Aug 2011 (34),Angers (5),0-0,0-0,Reims (5)
+?,(Fri) 26 Aug 2011 (34),Arles (5),1-0,0-0,Le Havre (5)
+?,(Fri) 26 Aug 2011 (34),Bastia (5),1-1,1-0,Clermont (5)
+?,(Fri) 26 Aug 2011 (34),Chateauroux (5),1-0,0-0,Le Mans (5)
+?,(Fri) 26 Aug 2011 (34),Guingamp (5),1-0,1-0,Istres (5)
+?,(Fri) 26 Aug 2011 (34),Laval (5),0-0,0-0,Troyes (5)
+?,(Fri) 26 Aug 2011 (34),Sedan (5),1-1,1-1,Metz (5)
+?,(Sat) 27 Aug 2011 (34),Tours (5),2-1,2-0,Nantes (5)
+?,(Mon) 29 Aug 2011 (35),Lens (5),2-2,0-1,Monaco (5)
+?,(Fri) 9 Sep 2011 (36),Boulogne (6),1-1,0-1,Arles (6)
+?,(Fri) 9 Sep 2011 (36),Istres (6),1-1,0-1,Sedan (6)
+?,(Fri) 9 Sep 2011 (36),Le Havre (6),2-1,1-0,Tours (6)
+?,(Fri) 9 Sep 2011 (36),Metz (6),2-2,1-1,Laval (6)
+?,(Fri) 9 Sep 2011 (36),Monaco (6),1-3,0-2,Angers (6)
+?,(Fri) 9 Sep 2011 (36),Nantes (6),1-1,0-1,Le Mans (6)
+?,(Fri) 9 Sep 2011 (36),Reims (6),2-1,0-0,Guingamp (6)
+?,(Fri) 9 Sep 2011 (36),Troyes (6),1-0,1-0,Bastia (6)
+?,(Sat) 10 Sep 2011 (36),Clermont (6),2-1,0-1,Chateauroux (6)
+?,(Mon) 12 Sep 2011 (37),Amiens (6),1-2,1-1,Lens (6)
+?,(Fri) 16 Sep 2011 (37),Angers (7),0-0,0-0,Amiens (7)
+?,(Fri) 16 Sep 2011 (37),Arles (7),0-2,0-1,Clermont (7)
+?,(Fri) 16 Sep 2011 (37),Bastia (7),1-1,1-0,Monaco (7)
+?,(Fri) 16 Sep 2011 (37),Chateauroux (7),2-2,2-2,Nantes (7)
+?,(Fri) 16 Sep 2011 (37),Guingamp (7),0-0,0-0,Troyes (7)
+?,(Fri) 16 Sep 2011 (37),Laval (7),3-2,0-1,Reims (7)
+?,(Fri) 16 Sep 2011 (37),Lens (7),2-0,2-0,Boulogne (7)
+?,(Fri) 16 Sep 2011 (37),Sedan (7),3-0,1-0,Le Havre (7)
+?,(Fri) 16 Sep 2011 (37),Tours (7),1-2,1-0,Istres (7)
+?,(Sat) 17 Sep 2011 (37),Le Mans (7),0-1,0-0,Metz (7)
+?,(Mon) 19 Sep 2011 (38),Monaco (8),1-0,0-0,Arles (8)
+?,(Tue) 20 Sep 2011 (38),Amiens (8),1-0,1-0,Laval (8)
+?,(Tue) 20 Sep 2011 (38),Boulogne (8),2-0,2-0,Guingamp (8)
+?,(Tue) 20 Sep 2011 (38),Clermont (8),0-1,0-1,Tours (8)
+?,(Tue) 20 Sep 2011 (38),Istres (8),3-1,0-0,Chateauroux (8)
+?,(Tue) 20 Sep 2011 (38),Le Havre (8),1-1,1-0,Le Mans (8)
+?,(Tue) 20 Sep 2011 (38),Lens (8),0-0,0-0,Angers (8)
+?,(Tue) 20 Sep 2011 (38),Metz (8),1-3,1-2,Nantes (8)
+?,(Tue) 20 Sep 2011 (38),Reims (8),1-0,1-0,Bastia (8)
+?,(Tue) 20 Sep 2011 (38),Troyes (8),1-1,1-1,Sedan (8)
+?,(Fri) 23 Sep 2011 (38),Bastia (9),3-1,2-0,Angers (9)
+?,(Fri) 23 Sep 2011 (38),Chateauroux (9),2-1,0-0,Boulogne (9)
+?,(Fri) 23 Sep 2011 (38),Guingamp (9),1-0,0-0,Le Havre (9)
+?,(Fri) 23 Sep 2011 (38),Laval (9),1-0,0-0,Monaco (9)
+?,(Fri) 23 Sep 2011 (38),Metz (9),1-2,1-1,Istres (9)
+?,(Fri) 23 Sep 2011 (38),Tours (9),1-1,1-1,Amiens (9)
+?,(Sat) 24 Sep 2011 (38),Arles (9),3-0,0-0,Lens (9)
+?,(Sun) 25 Sep 2011 (38),Nantes (9),1-0,1-0,Clermont (9)
+?,(Mon) 26 Sep 2011 (39),Le Mans (9),1-1,0-0,Troyes (9)
+?,(Mon) 26 Sep 2011 (39),Sedan (9),1-0,1-0,Reims (9)
+?,(Fri) 30 Sep 2011 (39),Amiens (10),0-0,0-0,Guingamp (10)
+?,(Fri) 30 Sep 2011 (39),Angers (10),2-0,2-0,Arles (10)
+?,(Fri) 30 Sep 2011 (39),Clermont (10),1-0,1-0,Metz (10)
+?,(Fri) 30 Sep 2011 (39),Istres (10),1-2,0-0,Le Mans (10)
+?,(Fri) 30 Sep 2011 (39),Lens (10),0-0,0-0,Laval (10)
+?,(Fri) 30 Sep 2011 (39),Monaco (10),2-2,2-0,Sedan (10)
+?,(Fri) 30 Sep 2011 (39),Reims (10),2-0,1-0,Chateauroux (10)
+?,(Fri) 30 Sep 2011 (39),Troyes (10),2-1,0-1,Tours (10)
+?,(Sat) 1 Oct 2011 (39),Le Havre (10),1-1,0-0,Nantes (10)
+?,(Mon) 3 Oct 2011 (40),Boulogne (10),1-3,1-1,Bastia (10)
+?,(Fri) 14 Oct 2011 (41),Arles (11),1-1,1-1,Amiens (11)
+?,(Fri) 14 Oct 2011 (41),Chateauroux (11),1-0,1-0,Troyes (11)
+?,(Fri) 14 Oct 2011 (41),Laval (11),0-1,0-0,Angers (11)
+?,(Fri) 14 Oct 2011 (41),Le Mans (11),0-2,0-0,Clermont (11)
+?,(Fri) 14 Oct 2011 (41),Metz (11),0-2,0-1,Le Havre (11)
+?,(Fri) 14 Oct 2011 (41),Nantes (11),3-1,1-0,Istres (11)
+?,(Fri) 14 Oct 2011 (41),Sedan (11),1-4,1-0,Boulogne (11)
+?,(Fri) 14 Oct 2011 (41),Tours (11),1-1,0-0,Reims (11)
+?,(Sat) 15 Oct 2011 (41),Bastia (11),2-2,1-2,Lens (11)
+?,(Mon) 17 Oct 2011 (42),Guingamp (11),4-0,3-0,Monaco (11)
+?,(Fri) 21 Oct 2011 (42),Amiens (12),1-1,1-1,Bastia (12)
+?,(Fri) 21 Oct 2011 (42),Angers (12),1-3,0-2,Sedan (12)
+?,(Fri) 21 Oct 2011 (42),Laval (12),2-1,2-0,Arles (12)
+?,(Fri) 21 Oct 2011 (42),Le Havre (12),3-0,2-0,Chateauroux (12)
+?,(Fri) 21 Oct 2011 (42),Lens (12),0-2,0-1,Guingamp (12)
+?,(Fri) 21 Oct 2011 (42),Monaco (12),0-0,0-0,Tours (12)
+?,(Fri) 21 Oct 2011 (42),Reims (12),1-1,1-0,Le Mans (12)
+?,(Fri) 21 Oct 2011 (42),Troyes (12),1-0,0-0,Metz (12)
+?,(Sat) 22 Oct 2011 (42),Istres (12),2-2,2-2,Clermont (12)
+?,(Mon) 24 Oct 2011 (43),Boulogne (12),2-1,0-1,Nantes (12)
+?,(Fri) 28 Oct 2011 (43),Bastia (13),3-0,2-0,Arles (13)
+?,(Fri) 28 Oct 2011 (43),Chateauroux (13),2-1,2-0,Monaco (13)
+?,(Fri) 28 Oct 2011 (43),Clermont (13),1-1,1-0,Troyes (13)
+?,(Fri) 28 Oct 2011 (43),Guingamp (13),1-0,0-0,Angers (13)
+?,(Fri) 28 Oct 2011 (43),Istres (13),1-1,0-1,Le Havre (13)
+?,(Fri) 28 Oct 2011 (43),Metz (13),1-0,0-0,Reims (13)
+?,(Fri) 28 Oct 2011 (43),Tours (13),0-0,0-0,Laval (13)
+?,(Sat) 29 Oct 2011 (43),Le Mans (13),1-0,0-0,Boulogne (13)
+?,(Sat) 29 Oct 2011 (43),Sedan (13),3-1,2-0,Amiens (13)
+?,(Mon) 31 Oct 2011 (44),Nantes (13),1-0,0-0,Lens (13)
+?,(Sat) 5 Nov 2011 (44),Amiens (14),4-0,2-0,Chateauroux (14)
+?,(Sat) 5 Nov 2011 (44),Angers (14),1-0,0-0,Tours (14)
+?,(Sat) 5 Nov 2011 (44),Boulogne (14),0-1,0-0,Metz (14)
+?,(Sat) 5 Nov 2011 (44),Laval (14),1-0,0-0,Bastia (14)
+?,(Sat) 5 Nov 2011 (44),Le Havre (14),0-2,0-2,Clermont (14)
+?,(Sat) 5 Nov 2011 (44),Monaco (14),2-2,1-1,Le Mans (14)
+?,(Sat) 5 Nov 2011 (44),Reims (14),2-1,1-0,Istres (14)
+?,(Sat) 5 Nov 2011 (44),Troyes (14),2-0,1-0,Nantes (14)
+?,(Mon) 7 Nov 2011 (45),Lens (14),4-2,1-1,Sedan (14)
+?,(Tue) 22 Nov 2011 (47),Arles (14),1-2,0-0,Guingamp (14)
+?,(Fri) 25 Nov 2011 (47),Chateauroux (15),0-1,0-0,Angers (15)
+?,(Fri) 25 Nov 2011 (47),Guingamp (15),1-1,1-1,Bastia (15)
+?,(Fri) 25 Nov 2011 (47),Istres (15),0-0,0-0,Boulogne (15)
+?,(Fri) 25 Nov 2011 (47),Le Havre (15),3-0,1-0,Troyes (15)
+?,(Fri) 25 Nov 2011 (47),Metz (15),1-0,1-0,Amiens (15)
+?,(Fri) 25 Nov 2011 (47),Nantes (15),3-0,1-0,Monaco (15)
+?,(Fri) 25 Nov 2011 (47),Sedan (15),2-1,1-1,Laval (15)
+?,(Fri) 25 Nov 2011 (47),Tours (15),4-1,3-0,Arles (15)
+?,(Sat) 26 Nov 2011 (47),Le Mans (15),0-1,0-0,Lens (15)
+?,(Mon) 28 Nov 2011 (48),Clermont (15),1-0,1-0,Reims (15)
+?,(Fri) 2 Dec 2011 (48),Amiens (16),0-0,0-0,Le Mans (16)
+?,(Fri) 2 Dec 2011 (48),Angers (16),0-1,0-0,Clermont (16)
+?,(Fri) 2 Dec 2011 (48),Arles (16),0-0,0-0,Chateauroux (16)
+?,(Fri) 2 Dec 2011 (48),Bastia (16),2-2,1-0,Sedan (16)
+?,(Fri) 2 Dec 2011 (48),Laval (16),1-2,1-0,Guingamp (16)
+?,(Fri) 2 Dec 2011 (48),Lens (16),3-0,1-0,Tours (16)
+?,(Fri) 2 Dec 2011 (48),Monaco (16),0-2,0-1,Metz (16)
+?,(Fri) 2 Dec 2011 (48),Troyes (16),1-1,0-0,Istres (16)
+?,(Sat) 3 Dec 2011 (48),Boulogne (16),1-1,0-0,Le Havre (16)
+?,(Mon) 5 Dec 2011 (49),Reims (16),3-1,1-0,Nantes (16)
+?,(Fri) 16 Dec 2011 (50),Chateauroux (17),0-2,0-0,Bastia (17)
+?,(Fri) 16 Dec 2011 (50),Istres (17),2-1,0-1,Amiens (17)
+?,(Fri) 16 Dec 2011 (50),Le Mans (17),2-2,2-0,Angers (17)
+?,(Fri) 16 Dec 2011 (50),Metz (17),2-0,2-0,Lens (17)
+?,(Fri) 16 Dec 2011 (50),Nantes (17),2-3,0-1,Laval (17)
+?,(Fri) 16 Dec 2011 (50),Sedan (17),0-0,0-0,Arles (17)
+?,(Fri) 16 Dec 2011 (50),Tours (17),5-1,1-1,Guingamp (17)
+?,(Fri) 16 Dec 2011 (50),Troyes (17),1-0,0-0,Reims (17)
+?,(Sat) 17 Dec 2011 (50),Clermont (17),1-2,1-1,Boulogne (17)
+?,(Sat) 17 Dec 2011 (50),Le Havre (17),2-2,1-2,Monaco (17)
+?,(Mon) 19 Dec 2011 (51),Guingamp (18),1-3,1-1,Sedan (18)
+?,(Tue) 20 Dec 2011 (51),Amiens (18),0-2,0-0,Nantes (18)
+?,(Tue) 20 Dec 2011 (51),Angers (18),2-0,1-0,Metz (18)
+?,(Tue) 20 Dec 2011 (51),Arles (18),1-5,1-2,Istres (18)
+?,(Tue) 20 Dec 2011 (51),Bastia (18),4-1,2-0,Tours (18)
+?,(Tue) 20 Dec 2011 (51),Boulogne (18),2-0,1-0,Troyes (18)
+?,(Tue) 20 Dec 2011 (51),Laval (18),2-1,0-0,Le Mans (18)
+?,(Tue) 20 Dec 2011 (51),Lens (18),2-3,1-1,Chateauroux (18)
+?,(Tue) 20 Dec 2011 (51),Monaco (18),0-0,0-0,Clermont (18)
+?,(Tue) 20 Dec 2011 (51),Reims (18),2-1,2-1,Le Havre (18)
+?,(Fri) 13 Jan 2012 (2),Le Havre (19),0-0,0-0,Lens (19)
+?,(Fri) 13 Jan 2012 (2),Nantes (19),2-1,1-1,Angers (19)
+?,(Sat) 14 Jan 2012 (2),Boulogne (19),0-0,0-0,Reims (19)
+?,(Sat) 14 Jan 2012 (2),Chateauroux (19),3-1,1-1,Laval (19)
+?,(Sat) 14 Jan 2012 (2),Clermont (19),2-1,1-1,Amiens (19)
+?,(Sat) 14 Jan 2012 (2),Istres (19),0-1,0-1,Monaco (19)
+?,(Sat) 14 Jan 2012 (2),Le Mans (19),1-0,1-0,Guingamp (19)
+?,(Sat) 14 Jan 2012 (2),Metz (19),0-1,0-0,Bastia (19)
+?,(Sat) 14 Jan 2012 (2),Tours (19),1-0,1-0,Sedan (19)
+?,(Sat) 14 Jan 2012 (2),Troyes (19),0-1,0-0,Arles (19)
+?,(Tue) 17 Jan 2012 (3),Guingamp (20),2-0,0-0,Nantes (20)
+?,(Wed) 18 Jan 2012 (3),Amiens (20),1-2,0-1,Monaco (20)
+?,(Wed) 18 Jan 2012 (3),Angers (20),2-3,0-3,Troyes (20)
+?,(Wed) 18 Jan 2012 (3),Arles (20),2-2,0-1,Reims (20)
+?,(Wed) 18 Jan 2012 (3),Bastia (20),1-0,0-0,Le Havre (20)
+?,(Wed) 18 Jan 2012 (3),Chateauroux (20),1-1,0-0,Metz (20)
+?,(Wed) 18 Jan 2012 (3),Laval (20),2-1,1-0,Istres (20)
+?,(Wed) 18 Jan 2012 (3),Lens (20),2-1,0-0,Clermont (20)
+?,(Wed) 18 Jan 2012 (3),Sedan (20),0-2,0-0,Le Mans (20)
+?,(Wed) 18 Jan 2012 (3),Tours (20),3-1,3-1,Boulogne (20)
+?,(Fri) 27 Jan 2012 (4),Metz (21),0-2,0-1,Sedan (21)
+?,(Sat) 28 Jan 2012 (4),Boulogne (21),0-1,0-0,Amiens (21)
+?,(Sat) 28 Jan 2012 (4),Clermont (21),2-1,1-1,Bastia (21)
+?,(Sat) 28 Jan 2012 (4),Istres (21),2-1,1-1,Guingamp (21)
+?,(Sat) 28 Jan 2012 (4),Le Havre (21),1-1,1-1,Arles (21)
+?,(Sat) 28 Jan 2012 (4),Le Mans (21),0-1,0-0,Chateauroux (21)
+?,(Sat) 28 Jan 2012 (4),Nantes (21),1-0,0-0,Tours (21)
+?,(Sat) 28 Jan 2012 (4),Reims (21),3-0,2-0,Angers (21)
+?,(Sat) 28 Jan 2012 (4),Troyes (21),3-0,2-0,Laval (21)
+?,(Mon) 30 Jan 2012 (5),Monaco (21),2-2,0-0,Lens (21)
+?,(Sat) 4 Feb 2012 (5),Arles (22),2-1,1-0,Boulogne (22)
+?,(Sat) 4 Feb 2012 (5),Bastia (22),5-1,2-1,Troyes (22)
+?,(Sat) 4 Feb 2012 (5),Chateauroux (22),2-1,0-1,Clermont (22)
+?,(Sat) 4 Feb 2012 (5),Guingamp (22),2-3,1-1,Reims (22)
+?,(Sat) 4 Feb 2012 (5),Lens (22),1-1,0-1,Amiens (22)
+?,(Sat) 4 Feb 2012 (5),Sedan (22),1-1,1-0,Istres (22)
+?,(Sat) 11 Feb 2012 (6),Istres (23),1-0,0-0,Tours (22)
+?,(Sat) 11 Feb 2012 (6),Nantes (22),3-0,2-0,Chateauroux (23)
+?,(Mon) 13 Feb 2012 (7),Monaco (22),0-1,0-0,Bastia (23)
+?,(Fri) 17 Feb 2012 (7),Angers (22),1-1,0-0,Lens (23)
+?,(Fri) 17 Feb 2012 (7),Arles (23),2-1,2-0,Monaco (23)
+?,(Fri) 17 Feb 2012 (7),Bastia (24),1-0,0-0,Reims (23)
+?,(Fri) 17 Feb 2012 (7),Chateauroux (24),0-2,0-0,Istres (24)
+?,(Fri) 17 Feb 2012 (7),Guingamp (23),1-1,0-0,Boulogne (23)
+?,(Fri) 17 Feb 2012 (7),Laval (22),3-1,1-0,Amiens (23)
+?,(Fri) 17 Feb 2012 (7),Le Mans (22),3-1,1-0,Le Havre (22)
+?,(Fri) 17 Feb 2012 (7),Sedan (23),1-2,0-0,Troyes (23)
+?,(Fri) 17 Feb 2012 (7),Tours (23),2-1,0-0,Clermont (23)
+?,(Mon) 20 Feb 2012 (8),Nantes (23),0-0,0-0,Metz (22)
+?,(Tue) 21 Feb 2012 (8),Tours (24),0-0,0-0,Le Havre (23)
+?,(Fri) 24 Feb 2012 (8),Amiens (24),1-1,0-1,Tours (25)
+?,(Fri) 24 Feb 2012 (8),Angers (23),1-1,0-0,Bastia (25)
+?,(Fri) 24 Feb 2012 (8),Boulogne (24),0-1,0-1,Chateauroux (25)
+?,(Fri) 24 Feb 2012 (8),Clermont (24),0-0,0-0,Nantes (24)
+?,(Fri) 24 Feb 2012 (8),Istres (25),1-0,1-0,Metz (23)
+?,(Fri) 24 Feb 2012 (8),Le Havre (24),3-1,1-1,Guingamp (24)
+?,(Fri) 24 Feb 2012 (8),Lens (24),0-0,0-0,Arles (24)
+?,(Fri) 24 Feb 2012 (8),Monaco (24),2-1,1-1,Laval (23)
+?,(Fri) 24 Feb 2012 (8),Troyes (24),2-1,2-0,Le Mans (23)
+?,(Mon) 27 Feb 2012 (9),Reims (24),1-2,1-2,Sedan (24)
+?,(Fri) 2 Mar 2012 (9),Arles (25),2-2,0-1,Angers (24)
+?,(Fri) 2 Mar 2012 (9),Bastia (26),2-0,0-0,Boulogne (25)
+?,(Fri) 2 Mar 2012 (9),Chateauroux (26),1-1,0-1,Reims (25)
+?,(Fri) 2 Mar 2012 (9),Guingamp (25),1-1,0-1,Amiens (25)
+?,(Fri) 2 Mar 2012 (9),Laval (24),2-2,2-0,Lens (25)
+?,(Fri) 2 Mar 2012 (9),Le Mans (24),1-0,1-0,Istres (26)
+?,(Fri) 2 Mar 2012 (9),Metz (24),2-2,1-2,Clermont (25)
+?,(Fri) 2 Mar 2012 (9),Sedan (25),2-2,2-0,Monaco (25)
+?,(Fri) 2 Mar 2012 (9),Tours (26),0-2,0-1,Troyes (25)
+?,(Mon) 5 Mar 2012 (10),Nantes (25),1-0,1-0,Le Havre (25)
+?,(Tue) 6 Mar 2012 (10),Angers (25),1-2,1-2,Monaco (26)
+?,(Tue) 6 Mar 2012 (10),Boulogne (26),0-2,0-1,Lens (26)
+?,(Tue) 6 Mar 2012 (10),Clermont (26),0-0,0-0,Arles (26)
+?,(Tue) 6 Mar 2012 (10),Laval (25),0-0,0-0,Metz (25)
+?,(Tue) 6 Mar 2012 (10),Troyes (26),1-1,1-0,Guingamp (26)
+?,(Fri) 9 Mar 2012 (10),Amiens (26),0-3,0-2,Arles (27)
+?,(Fri) 9 Mar 2012 (10),Angers (26),0-0,0-0,Laval (26)
+?,(Fri) 9 Mar 2012 (10),Boulogne (27),1-1,0-0,Sedan (26)
+?,(Fri) 9 Mar 2012 (10),Clermont (27),1-1,0-0,Le Mans (25)
+?,(Fri) 9 Mar 2012 (10),Istres (27),2-1,1-0,Nantes (26)
+?,(Fri) 9 Mar 2012 (10),Le Havre (26),1-1,1-0,Metz (26)
+?,(Fri) 9 Mar 2012 (10),Monaco (27),1-0,0-0,Guingamp (27)
+?,(Fri) 9 Mar 2012 (10),Reims (26),2-3,0-2,Tours (27)
+?,(Fri) 9 Mar 2012 (10),Troyes (27),0-1,0-1,Chateauroux (27)
+?,(Mon) 12 Mar 2012 (11),Lens (27),1-3,0-0,Bastia (27)
+?,(Tue) 13 Mar 2012 (11),Amiens (27),2-0,1-0,Angers (27)
+?,(Tue) 13 Mar 2012 (11),Le Havre (27),0-0,0-0,Sedan (27)
+?,(Tue) 13 Mar 2012 (11),Le Mans (26),0-0,0-0,Nantes (27)
+?,(Tue) 13 Mar 2012 (11),Reims (27),1-1,1-0,Laval (27)
+?,(Fri) 16 Mar 2012 (11),Arles (28),1-0,0-0,Laval (28)
+?,(Fri) 16 Mar 2012 (11),Bastia (28),2-1,2-1,Amiens (28)
+?,(Fri) 16 Mar 2012 (11),Chateauroux (28),1-0,0-0,Le Havre (28)
+?,(Fri) 16 Mar 2012 (11),Clermont (28),2-2,1-1,Istres (28)
+?,(Fri) 16 Mar 2012 (11),Guingamp (28),3-0,3-0,Lens (28)
+?,(Fri) 16 Mar 2012 (11),Metz (27),2-2,1-0,Troyes (28)
+?,(Fri) 16 Mar 2012 (11),Nantes (28),3-3,2-2,Boulogne (28)
+?,(Fri) 16 Mar 2012 (11),Sedan (28),2-2,1-1,Angers (28)
+?,(Fri) 16 Mar 2012 (11),Tours (28),0-0,0-0,Monaco (28)
+?,(Mon) 19 Mar 2012 (12),Le Mans (27),0-1,0-0,Reims (28)
+?,(Fri) 23 Mar 2012 (12),Amiens (29),0-3,0-1,Sedan (29)
+?,(Fri) 23 Mar 2012 (12),Angers (29),1-0,1-0,Guingamp (29)
+?,(Fri) 23 Mar 2012 (12),Arles (29),0-0,0-0,Bastia (29)
+?,(Fri) 23 Mar 2012 (12),Boulogne (29),2-0,1-0,Le Mans (28)
+?,(Fri) 23 Mar 2012 (12),Laval (29),1-2,1-1,Tours (29)
+?,(Fri) 23 Mar 2012 (12),Le Havre (29),0-0,0-0,Istres (29)
+?,(Fri) 23 Mar 2012 (12),Monaco (29),2-1,1-0,Chateauroux (29)
+?,(Fri) 23 Mar 2012 (12),Reims (29),3-0,3-0,Metz (28)
+?,(Fri) 23 Mar 2012 (12),Troyes (29),3-2,1-1,Clermont (29)
+?,(Mon) 26 Mar 2012 (13),Lens (29),1-0,1-0,Nantes (29)
+?,(Tue) 27 Mar 2012 (13),Metz (29),0-1,0-1,Le Mans (29)
+?,(Fri) 30 Mar 2012 (13),Bastia (30),3-2,2-0,Laval (30)
+?,(Fri) 30 Mar 2012 (13),Chateauroux (30),4-1,1-1,Amiens (30)
+?,(Fri) 30 Mar 2012 (13),Clermont (30),2-1,0-1,Le Havre (30)
+?,(Fri) 30 Mar 2012 (13),Guingamp (30),1-1,0-0,Arles (30)
+?,(Fri) 30 Mar 2012 (13),Istres (30),1-1,1-1,Reims (30)
+?,(Fri) 30 Mar 2012 (13),Le Mans (30),0-1,0-0,Monaco (30)
+?,(Fri) 30 Mar 2012 (13),Metz (30),1-0,0-0,Boulogne (30)
+?,(Fri) 30 Mar 2012 (13),Sedan (30),1-1,0-1,Lens (30)
+?,(Fri) 30 Mar 2012 (13),Tours (30),1-0,0-0,Angers (30)
+?,(Mon) 2 Apr 2012 (14),Nantes (30),1-1,1-0,Troyes (30)
+?,(Fri) 6 Apr 2012 (14),Amiens (31),1-1,1-1,Metz (31)
+?,(Fri) 6 Apr 2012 (14),Angers (31),2-0,1-0,Chateauroux (31)
+?,(Fri) 6 Apr 2012 (14),Arles (31),2-2,1-1,Tours (31)
+?,(Fri) 6 Apr 2012 (14),Bastia (31),3-1,1-0,Guingamp (31)
+?,(Fri) 6 Apr 2012 (14),Boulogne (31),1-1,1-0,Istres (31)
+?,(Fri) 6 Apr 2012 (14),Laval (31),5-1,1-1,Sedan (31)
+?,(Fri) 6 Apr 2012 (14),Lens (31),1-3,0-0,Le Mans (31)
+?,(Fri) 6 Apr 2012 (14),Monaco (31),2-1,1-0,Nantes (31)
+?,(Fri) 6 Apr 2012 (14),Troyes (31),1-0,1-0,Le Havre (31)
+?,(Mon) 9 Apr 2012 (15),Reims (31),2-2,1-1,Clermont (31)
+?,(Fri) 13 Apr 2012 (15),Chateauroux (32),1-2,0-1,Arles (32)
+?,(Fri) 13 Apr 2012 (15),Clermont (32),1-2,1-0,Angers (32)
+?,(Fri) 13 Apr 2012 (15),Guingamp (32),1-0,0-0,Laval (32)
+?,(Fri) 13 Apr 2012 (15),Istres (32),0-0,0-0,Troyes (32)
+?,(Fri) 13 Apr 2012 (15),Le Havre (32),0-0,0-0,Boulogne (32)
+?,(Fri) 13 Apr 2012 (15),Le Mans (32),3-2,2-1,Amiens (32)
+?,(Fri) 13 Apr 2012 (15),Metz (32),0-2,0-1,Monaco (32)
+?,(Fri) 13 Apr 2012 (15),Sedan (32),2-0,1-0,Bastia (32)
+?,(Fri) 13 Apr 2012 (15),Tours (32),0-3,0-1,Lens (32)
+?,(Mon) 16 Apr 2012 (16),Nantes (32),2-0,1-0,Reims (32)
+?,(Fri) 20 Apr 2012 (16),Amiens (33),1-2,0-0,Istres (33)
+?,(Fri) 20 Apr 2012 (16),Angers (33),1-1,0-1,Le Mans (33)
+?,(Fri) 20 Apr 2012 (16),Arles (33),0-0,0-0,Sedan (33)
+?,(Fri) 20 Apr 2012 (16),Boulogne (33),1-1,0-1,Clermont (33)
+?,(Fri) 20 Apr 2012 (16),Guingamp (33),0-0,0-0,Tours (33)
+?,(Fri) 20 Apr 2012 (16),Laval (33),2-0,2-0,Nantes (33)
+?,(Fri) 20 Apr 2012 (16),Lens (33),0-2,0-1,Metz (33)
+?,(Fri) 20 Apr 2012 (16),Monaco (33),1-0,0-0,Le Havre (33)
+?,(Fri) 20 Apr 2012 (16),Reims (33),1-0,0-0,Troyes (33)
+?,(Mon) 23 Apr 2012 (17),Bastia (33),2-1,2-1,Chateauroux (33)
+?,(Fri) 27 Apr 2012 (17),Chateauroux (34),1-0,0-0,Lens (34)
+?,(Fri) 27 Apr 2012 (17),Clermont (34),1-0,0-0,Monaco (34)
+?,(Fri) 27 Apr 2012 (17),Istres (34),0-0,0-0,Arles (34)
+?,(Fri) 27 Apr 2012 (17),Le Havre (34),1-1,0-0,Reims (34)
+?,(Fri) 27 Apr 2012 (17),Le Mans (34),1-3,0-1,Laval (34)
+?,(Fri) 27 Apr 2012 (17),Metz (34),1-1,1-1,Angers (34)
+?,(Fri) 27 Apr 2012 (17),Nantes (34),5-0,1-0,Amiens (34)
+?,(Fri) 27 Apr 2012 (17),Sedan (34),0-1,0-1,Guingamp (34)
+?,(Fri) 27 Apr 2012 (17),Tours (34),2-1,1-0,Bastia (34)
+?,(Fri) 27 Apr 2012 (17),Troyes (34),2-1,0-0,Boulogne (34)
+?,(Mon) 30 Apr 2012 (18),Lens (35),2-0,0-0,Le Havre (35)
+?,(Tue) 1 May 2012 (18),Amiens (35),1-1,1-1,Clermont (35)
+?,(Tue) 1 May 2012 (18),Angers (35),2-0,0-0,Nantes (35)
+?,(Tue) 1 May 2012 (18),Arles (35),0-0,0-0,Troyes (35)
+?,(Tue) 1 May 2012 (18),Bastia (35),3-0,2-0,Metz (35)
+?,(Tue) 1 May 2012 (18),Guingamp (35),1-1,0-1,Le Mans (35)
+?,(Tue) 1 May 2012 (18),Laval (35),1-1,0-0,Chateauroux (35)
+?,(Tue) 1 May 2012 (18),Monaco (35),3-2,0-0,Istres (35)
+?,(Tue) 1 May 2012 (18),Reims (35),3-2,1-0,Boulogne (35)
+?,(Tue) 1 May 2012 (18),Sedan (35),3-0,2-0,Tours (35)
+?,(Fri) 4 May 2012 (18),Boulogne (36),3-0,2-0,Laval (36)
+?,(Fri) 4 May 2012 (18),Chateauroux (36),1-3,0-1,Tours (36)
+?,(Fri) 4 May 2012 (18),Clermont (36),1-1,0-0,Sedan (36)
+?,(Fri) 4 May 2012 (18),Istres (36),0-1,0-1,Angers (36)
+?,(Fri) 4 May 2012 (18),Le Havre (36),2-0,1-0,Amiens (36)
+?,(Fri) 4 May 2012 (18),Le Mans (36),3-0,1-0,Bastia (36)
+?,(Fri) 4 May 2012 (18),Metz (36),2-5,0-2,Guingamp (36)
+?,(Fri) 4 May 2012 (18),Nantes (36),3-0,1-0,Arles (36)
+?,(Fri) 4 May 2012 (18),Troyes (36),2-0,2-0,Lens (36)
+?,(Mon) 7 May 2012 (19),Reims (36),2-0,1-0,Monaco (36)
+?,(Fri) 11 May 2012 (19),Amiens (37),0-2,0-1,Reims (37)
+?,(Fri) 11 May 2012 (19),Angers (37),2-1,1-0,Boulogne (37)
+?,(Fri) 11 May 2012 (19),Arles (37),1-0,1-0,Metz (37)
+?,(Fri) 11 May 2012 (19),Bastia (37),2-1,2-1,Nantes (37)
+?,(Fri) 11 May 2012 (19),Guingamp (37),3-1,1-0,Clermont (37)
+?,(Fri) 11 May 2012 (19),Laval (37),0-2,0-1,Le Havre (37)
+?,(Fri) 11 May 2012 (19),Lens (37),1-0,0-0,Istres (37)
+?,(Fri) 11 May 2012 (19),Monaco (37),0-2,0-1,Troyes (37)
+?,(Fri) 11 May 2012 (19),Sedan (37),2-0,0-0,Chateauroux (37)
+?,(Fri) 11 May 2012 (19),Tours (37),2-1,1-0,Le Mans (37)
+?,(Fri) 18 May 2012 (20),Boulogne (38),1-2,1-1,Monaco (38)
+?,(Fri) 18 May 2012 (20),Chateauroux (38),0-2,0-1,Guingamp (38)
+?,(Fri) 18 May 2012 (20),Clermont (38),2-0,1-0,Laval (38)
+?,(Fri) 18 May 2012 (20),Istres (38),1-0,1-0,Bastia (38)
+?,(Fri) 18 May 2012 (20),Le Havre (38),3-0,0-0,Angers (38)
+?,(Fri) 18 May 2012 (20),Le Mans (38),1-1,1-1,Arles (38)
+?,(Fri) 18 May 2012 (20),Metz (38),1-1,1-0,Tours (38)
+?,(Fri) 18 May 2012 (20),Nantes (38),1-2,0-0,Sedan (38)
+?,(Fri) 18 May 2012 (20),Reims (38),1-1,0-0,Lens (38)
+?,(Fri) 18 May 2012 (20),Troyes (38),2-0,0-0,Amiens (38)

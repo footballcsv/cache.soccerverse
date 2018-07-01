@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Fri) Jul/27 2012 (30),Ajaccio GFCO (1),Caen (1),0-0,0-0
-?,(Fri) Jul/27 2012 (30),Angers (1),Sedan (1),1-0,0-0
-?,(Fri) Jul/27 2012 (30),Auxerre (1),Nimes (1),2-0,1-0
-?,(Fri) Jul/27 2012 (30),Chateauroux (1),Laval (1),1-1,0-0
-?,(Fri) Jul/27 2012 (30),Dijon (1),Guingamp (1),1-0,0-0
-?,(Fri) Jul/27 2012 (30),Le Havre (1),Arles (1),1-2,1-0
-?,(Fri) Jul/27 2012 (30),Nantes (1),Istres (1),1-1,1-0
-?,(Fri) Jul/27 2012 (30),Niort (1),Clermont (1),1-1,0-0
-?,(Sat) Jul/28 2012 (30),Lens (1),Le Mans (1),2-2,2-1
-?,(Mon) Jul/30 2012 (31),Monaco (1),Tours (1),4-0,4-0
-?,(Fri) Aug/3 2012 (31),Arles (2),Lens (2),0-0,0-0
-?,(Fri) Aug/3 2012 (31),Clermont (2),Angers (2),1-2,0-2
-?,(Fri) Aug/3 2012 (31),Guingamp (2),Le Havre (2),3-3,2-1
-?,(Fri) Aug/3 2012 (31),Istres (2),Ajaccio GFCO (2),2-0,1-0
-?,(Fri) Aug/3 2012 (31),Laval (2),Monaco (2),0-0,0-0
-?,(Fri) Aug/3 2012 (31),Le Mans (2),Dijon (2),1-2,0-1
-?,(Fri) Aug/3 2012 (31),Sedan (2),Chateauroux (2),1-1,1-0
-?,(Fri) Aug/3 2012 (31),Tours (2),Niort (2),2-2,1-0
-?,(Sat) Aug/4 2012 (31),Caen (2),Auxerre (2),3-1,2-1
-?,(Sat) Aug/4 2012 (31),Nimes (2),Nantes (2),0-0,0-0
-?,(Fri) Aug/10 2012 (32),Ajaccio GFCO (3),Arles (3),1-1,0-0
-?,(Fri) Aug/10 2012 (32),Angers (3),Guingamp (3),1-2,1-2
-?,(Fri) Aug/10 2012 (32),Chateauroux (3),Le Mans (3),1-0,0-0
-?,(Fri) Aug/10 2012 (32),Clermont (3),Nimes (3),2-1,1-1
-?,(Fri) Aug/10 2012 (32),Dijon (3),Tours (3),1-0,0-0
-?,(Fri) Aug/10 2012 (32),Monaco (3),Istres (3),3-2,2-2
-?,(Fri) Aug/10 2012 (32),Nantes (3),Laval (3),3-1,1-0
-?,(Fri) Aug/10 2012 (32),Niort (3),Caen (3),1-0,1-0
-?,(Sat) Aug/11 2012 (32),Auxerre (3),Sedan (3),1-0,0-0
-?,(Mon) Aug/13 2012 (33),Lens (3),Le Havre (3),1-0,0-0
-?,(Fri) Aug/17 2012 (33),Arles (4),Angers (4),2-0,0-0
-?,(Fri) Aug/17 2012 (33),Caen (4),Clermont (4),4-0,2-0
-?,(Fri) Aug/17 2012 (33),Istres (4),Chateauroux (4),0-0,0-0
-?,(Fri) Aug/17 2012 (33),Laval (4),Niort (4),1-0,0-0
-?,(Fri) Aug/17 2012 (33),Le Havre (4),Ajaccio GFCO (4),2-1,1-0
-?,(Fri) Aug/17 2012 (33),Lens (4),Dijon (4),1-1,1-0
-?,(Fri) Aug/17 2012 (33),Sedan (4),Nimes (4),2-3,2-2
-?,(Fri) Aug/17 2012 (33),Tours (4),Nantes (4),0-2,0-0
-?,(Sat) Aug/18 2012 (33),Guingamp (4),Monaco (4),1-2,1-0
-?,(Mon) Aug/20 2012 (34),Le Mans (4),Auxerre (4),3-1,1-1
-?,(Fri) Aug/24 2012 (34),Ajaccio GFCO (5),Lens (5),1-1,1-1
-?,(Fri) Aug/24 2012 (34),Angers (5),Istres (5),0-1,0-0
-?,(Fri) Aug/24 2012 (34),Auxerre (5),Laval (5),2-1,2-1
-?,(Fri) Aug/24 2012 (34),Chateauroux (5),Tours (5),3-0,1-0
-?,(Fri) Aug/24 2012 (34),Clermont (5),Sedan (5),0-2,0-0
-?,(Fri) Aug/24 2012 (34),Monaco (5),Arles (5),3-0,1-0
-?,(Fri) Aug/24 2012 (34),Nimes (5),Caen (5),0-2,0-1
-?,(Fri) Aug/24 2012 (34),Niort (5),Guingamp (5),0-0,0-0
-?,(Sat) Aug/25 2012 (34),Dijon (5),Le Havre (5),2-2,2-0
-?,(Mon) Aug/27 2012 (35),Nantes (5),Le Mans (5),2-0,1-0
-?,(Fri) Aug/31 2012 (35),Arles (6),Nantes (6),2-1,1-0
-?,(Fri) Aug/31 2012 (35),Dijon (6),Ajaccio GFCO (6),2-1,0-1
-?,(Fri) Aug/31 2012 (35),Guingamp (6),Chateauroux (6),2-1,2-0
-?,(Fri) Aug/31 2012 (35),Istres (6),Niort (6),1-0,0-0
-?,(Fri) Aug/31 2012 (35),Laval (6),Nimes (6),0-1,0-0
-?,(Fri) Aug/31 2012 (35),Le Havre (6),Monaco (6),2-1,1-0
-?,(Fri) Aug/31 2012 (35),Le Mans (6),Clermont (6),3-1,2-0
-?,(Fri) Aug/31 2012 (35),Sedan (6),Caen (6),2-2,1-1
-?,(Fri) Aug/31 2012 (35),Tours (6),Auxerre (6),1-0,0-0
-?,(Mon) Sep/3 2012 (36),Lens (6),Angers (6),1-3,0-1
-?,(Fri) Sep/14 2012 (37),Auxerre (7),Istres (7),0-0,0-0
-?,(Fri) Sep/14 2012 (37),Caen (7),Le Mans (7),0-2,0-1
-?,(Fri) Sep/14 2012 (37),Chateauroux (7),Lens (7),1-1,0-1
-?,(Fri) Sep/14 2012 (37),Clermont (7),Tours (7),1-1,0-1
-?,(Fri) Sep/14 2012 (37),Monaco (7),Dijon (7),1-1,0-0
-?,(Fri) Sep/14 2012 (37),Niort (7),Arles (7),0-0,0-0
-?,(Fri) Sep/14 2012 (37),Sedan (7),Laval (7),1-3,1-0
-?,(Mon) Sep/17 2012 (38),Angers (7),Le Havre (7),3-1,2-0
-?,(Mon) Sep/17 2012 (38),Nantes (7),Guingamp (7),1-1,1-0
-?,(Mon) Sep/17 2012 (38),Nimes (7),Ajaccio GFCO (7),0-1,0-1
-?,(Fri) Sep/21 2012 (38),Ajaccio GFCO (8),Angers (8),0-1,0-1
-?,(Fri) Sep/21 2012 (38),Arles (8),Chateauroux (8),1-1,1-1
-?,(Fri) Sep/21 2012 (38),Istres (8),Nimes (8),2-0,0-0
-?,(Fri) Sep/21 2012 (38),Laval (8),Caen (8),1-2,1-2
-?,(Fri) Sep/21 2012 (38),Le Havre (8),Nantes (8),1-1,0-0
-?,(Fri) Sep/21 2012 (38),Le Mans (8),Niort (8),2-2,0-1
-?,(Fri) Sep/21 2012 (38),Lens (8),Monaco (8),0-4,0-0
-?,(Fri) Sep/21 2012 (38),Tours (8),Sedan (8),1-1,1-0
-?,(Sat) Sep/22 2012 (38),Guingamp (8),Auxerre (8),4-3,1-2
-?,(Mon) Sep/24 2012 (39),Dijon (8),Clermont (8),1-1,1-1
-?,(Fri) Sep/28 2012 (39),Angers (9),Le Mans (9),4-0,2-0
-?,(Fri) Sep/28 2012 (39),Chateauroux (9),Le Havre (9),1-1,1-0
-?,(Fri) Sep/28 2012 (39),Clermont (9),Laval (9),0-0,0-0
-?,(Fri) Sep/28 2012 (39),Nimes (9),Guingamp (9),2-1,1-0
-?,(Fri) Sep/28 2012 (39),Niort (9),Dijon (9),4-2,2-1
-?,(Fri) Sep/28 2012 (39),Sedan (9),Istres (9),0-2,0-1
-?,(Sat) Sep/29 2012 (39),Caen (9),Tours (9),0-1,0-0
-?,(Sat) Sep/29 2012 (39),Nantes (9),Lens (9),4-0,2-0
-?,(Sun) Sep/30 2012 (39),Monaco (9),Ajaccio GFCO (9),2-2,0-1
-?,(Mon) Oct/1 2012 (40),Auxerre (9),Arles (9),2-1,0-0
-?,(Fri) Oct/5 2012 (40),Ajaccio GFCO (10),Nantes (10),3-1,1-0
-?,(Fri) Oct/5 2012 (40),Arles (10),Clermont (10),0-2,0-0
-?,(Fri) Oct/5 2012 (40),Guingamp (10),Laval (10),1-1,0-1
-?,(Fri) Oct/5 2012 (40),Istres (10),Caen (10),0-4,0-1
-?,(Fri) Oct/5 2012 (40),Le Havre (10),Auxerre (10),2-1,1-1
-?,(Fri) Oct/5 2012 (40),Le Mans (10),Sedan (10),1-0,1-0
-?,(Fri) Oct/5 2012 (40),Lens (10),Niort (10),1-0,0-0
-?,(Fri) Oct/5 2012 (40),Tours (10),Nimes (10),1-0,0-0
-?,(Sat) Oct/6 2012 (40),Dijon (10),Angers (10),0-0,0-0
-?,(Mon) Oct/8 2012 (41),Monaco (10),Chateauroux (10),0-0,0-0
-?,(Fri) Oct/19 2012 (42),Angers (11),Monaco (11),1-2,0-1
-?,(Fri) Oct/19 2012 (42),Caen (11),Guingamp (11),1-2,0-1
-?,(Fri) Oct/19 2012 (42),Chateauroux (11),Ajaccio GFCO (11),3-1,2-0
-?,(Fri) Oct/19 2012 (42),Clermont (11),Istres (11),2-1,2-0
-?,(Fri) Oct/19 2012 (42),Laval (11),Tours (11),2-2,1-0
-?,(Fri) Oct/19 2012 (42),Nimes (11),Le Mans (11),2-1,1-1
-?,(Fri) Oct/19 2012 (42),Niort (11),Le Havre (11),0-0,0-0
-?,(Fri) Oct/19 2012 (42),Sedan (11),Arles (11),4-2,2-1
-?,(Sat) Oct/20 2012 (42),Auxerre (11),Lens (11),1-2,0-2
-?,(Mon) Oct/22 2012 (43),Nantes (11),Dijon (11),2-0,1-0
-?,(Fri) Oct/26 2012 (43),Angers (12),Chateauroux (12),1-0,0-0
-?,(Fri) Oct/26 2012 (43),Arles (12),Caen (12),0-2,0-1
-?,(Fri) Oct/26 2012 (43),Dijon (12),Auxerre (12),0-1,0-1
-?,(Fri) Oct/26 2012 (43),Guingamp (12),Sedan (12),2-0,2-0
-?,(Fri) Oct/26 2012 (43),Istres (12),Tours (12),4-1,2-0
-?,(Fri) Oct/26 2012 (43),Le Havre (12),Nimes (12),1-1,1-0
-?,(Fri) Oct/26 2012 (43),Le Mans (12),Laval (12),2-0,2-0
-?,(Sat) Oct/27 2012 (43),Monaco (12),Nantes (12),0-2,0-2
-?,(Mon) Oct/29 2012 (44),Lens (12),Clermont (12),2-2,1-2
-?,(Fri) Nov/2 2012 (44),Chateauroux (13),Dijon (13),2-2,1-1
-?,(Fri) Nov/2 2012 (44),Clermont (13),Guingamp (13),1-2,1-1
-?,(Fri) Nov/2 2012 (44),Laval (13),Istres (13),2-1,0-0
-?,(Fri) Nov/2 2012 (44),Nimes (13),Arles (13),4-1,0-0
-?,(Fri) Nov/2 2012 (44),Niort (12),Monaco (13),1-1,0-0
-?,(Fri) Nov/2 2012 (44),Sedan (13),Lens (13),0-1,0-0
-?,(Fri) Nov/2 2012 (44),Tours (13),Le Mans (13),2-0,1-0
-?,(Sat) Nov/3 2012 (44),Auxerre (13),Ajaccio GFCO (12),1-1,1-0
-?,(Sat) Nov/3 2012 (44),Nantes (13),Angers (13),1-0,0-0
-?,(Mon) Nov/5 2012 (45),Caen (13),Le Havre (13),2-0,1-0
-?,(Fri) Nov/9 2012 (45),Ajaccio GFCO (13),Sedan (14),1-1,0-1
-?,(Fri) Nov/9 2012 (45),Angers (14),Niort (13),0-0,0-0
-?,(Fri) Nov/9 2012 (45),Arles (14),Laval (14),0-3,0-2
-?,(Fri) Nov/9 2012 (45),Dijon (14),Nimes (14),2-1,0-0
-?,(Fri) Nov/9 2012 (45),Guingamp (14),Tours (14),0-0,0-0
-?,(Fri) Nov/9 2012 (45),Istres (14),Le Mans (14),1-0,0-0
-?,(Fri) Nov/9 2012 (45),Le Havre (14),Clermont (14),1-3,0-1
-?,(Fri) Nov/9 2012 (45),Nantes (14),Chateauroux (14),1-1,1-1
-?,(Sat) Nov/10 2012 (45),Monaco (14),Auxerre (14),2-0,1-0
-?,(Mon) Nov/12 2012 (46),Lens (14),Caen (14),0-0,0-0
-?,(Wed) Nov/14 2012 (46),Ajaccio GFCO (14),Niort (14),2-2,1-2
-?,(Fri) Nov/23 2012 (47),Caen (15),Angers (15),1-0,0-0
-?,(Fri) Nov/23 2012 (47),Istres (15),Arles (15),0-1,0-0
-?,(Fri) Nov/23 2012 (47),Laval (15),Dijon (15),3-0,0-0
-?,(Fri) Nov/23 2012 (47),Le Mans (15),Guingamp (15),0-2,0-1
-?,(Fri) Nov/23 2012 (47),Nimes (15),Lens (15),1-2,0-1
-?,(Fri) Nov/23 2012 (47),Niort (15),Chateauroux (15),2-2,1-1
-?,(Fri) Nov/23 2012 (47),Sedan (15),Le Havre (15),1-2,0-2
-?,(Fri) Nov/23 2012 (47),Tours (15),Ajaccio GFCO (15),2-1,1-0
-?,(Sat) Nov/24 2012 (47),Auxerre (15),Nantes (15),0-2,0-1
-?,(Mon) Nov/26 2012 (48),Clermont (15),Monaco (15),0-1,0-0
-?,(Fri) Nov/30 2012 (48),Angers (16),Nimes (16),0-0,0-0
-?,(Fri) Nov/30 2012 (48),Arles (16),Le Mans (16),0-0,0-0
-?,(Fri) Nov/30 2012 (48),Chateauroux (16),Auxerre (16),1-1,0-0
-?,(Fri) Nov/30 2012 (48),Le Havre (16),Tours (16),3-0,2-0
-?,(Fri) Nov/30 2012 (48),Lens (16),Laval (16),1-0,0-0
-?,(Fri) Nov/30 2012 (48),Monaco (16),Sedan (16),3-1,1-0
-?,(Fri) Nov/30 2012 (48),Nantes (16),Niort (16),0-0,0-0
-?,(Sat) Dec/1 2012 (48),Ajaccio GFCO (16),Clermont (16),0-1,0-0
-?,(Sat) Dec/1 2012 (48),Dijon (16),Caen (16),1-0,0-0
-?,(Mon) Dec/3 2012 (49),Guingamp (16),Istres (16),1-0,1-0
-?,(Mon) Dec/10 2012 (50),Clermont (17),Nantes (17),0-1,0-1
-?,(Tue) Dec/11 2012 (50),Auxerre (17),Niort (17),4-2,1-2
-?,(Tue) Dec/11 2012 (50),Caen (17),Monaco (17),3-0,2-0
-?,(Tue) Dec/11 2012 (50),Guingamp (17),Arles (17),0-0,0-0
-?,(Tue) Dec/11 2012 (50),Istres (17),Le Havre (17),3-0,1-0
-?,(Tue) Dec/11 2012 (50),Laval (17),Angers (17),1-4,1-1
-?,(Tue) Dec/11 2012 (50),Le Mans (17),Ajaccio GFCO (17),1-0,1-0
-?,(Tue) Dec/11 2012 (50),Nimes (17),Chateauroux (17),2-0,0-0
-?,(Tue) Dec/11 2012 (50),Tours (17),Lens (17),0-0,0-0
-?,(Fri) Dec/14 2012 (50),Ajaccio GFCO (18),Laval (18),3-1,1-0
-?,(Fri) Dec/14 2012 (50),Angers (18),Auxerre (18),2-1,1-1
-?,(Fri) Dec/14 2012 (50),Arles (18),Tours (18),2-2,1-1
-?,(Fri) Dec/14 2012 (50),Chateauroux (18),Clermont (18),0-0,0-0
-?,(Fri) Dec/14 2012 (50),Le Havre (18),Le Mans (18),1-0,0-0
-?,(Fri) Dec/14 2012 (50),Monaco (18),Nimes (18),1-1,1-1
-?,(Sat) Dec/15 2012 (50),Dijon (17),Istres (18),3-1,2-0
-?,(Sat) Dec/15 2012 (50),Nantes (18),Caen (18),2-1,2-1
-?,(Mon) Dec/17 2012 (51),Lens (18),Guingamp (18),1-1,1-1
-?,(Tue) Dec/18 2012 (51),Niort (18),Sedan (17),1-3,1-2
-?,(Fri) Dec/21 2012 (51),Arles (19),Dijon (18),1-1,1-0
-?,(Fri) Dec/21 2012 (51),Caen (19),Chateauroux (19),1-0,0-0
-?,(Fri) Dec/21 2012 (51),Clermont (19),Auxerre (19),1-2,0-0
-?,(Fri) Dec/21 2012 (51),Guingamp (19),Ajaccio GFCO (19),0-0,0-0
-?,(Fri) Dec/21 2012 (51),Istres (19),Lens (19),2-2,0-0
-?,(Fri) Dec/21 2012 (51),Laval (19),Le Havre (19),1-2,1-0
-?,(Fri) Dec/21 2012 (51),Nimes (19),Niort (19),3-1,0-0
-?,(Fri) Dec/21 2012 (51),Tours (19),Angers (19),1-2,1-1
-?,(Sat) Dec/22 2012 (51),Le Mans (19),Monaco (19),2-3,0-1
-?,(Sun) Dec/23 2012 (51),Sedan (18),Nantes (19),0-0,0-0
-?,(Fri) Jan/11 2013 (1),Ajaccio GFCO (20),Istres (20),3-2,0-1
-?,(Fri) Jan/11 2013 (1),Angers (20),Clermont (20),1-2,0-1
-?,(Fri) Jan/11 2013 (1),Chateauroux (20),Sedan (19),1-1,1-0
-?,(Fri) Jan/11 2013 (1),Dijon (19),Le Mans (20),3-0,1-0
-?,(Fri) Jan/11 2013 (1),Le Havre (20),Guingamp (20),0-1,0-1
-?,(Fri) Jan/11 2013 (1),Lens (20),Arles (20),0-0,0-0
-?,(Fri) Jan/11 2013 (1),Nantes (20),Nimes (20),1-2,0-1
-?,(Fri) Jan/11 2013 (1),Niort (20),Tours (20),3-1,2-1
-?,(Sat) Jan/12 2013 (1),Auxerre (20),Caen (20),1-2,0-0
-?,(Mon) Jan/14 2013 (2),Monaco (20),Laval (20),1-1,1-1
-?,(Fri) Jan/18 2013 (2),Arles (21),Ajaccio GFCO (21),1-0,1-0
-?,(Fri) Jan/18 2013 (2),Caen (21),Niort (21),0-1,0-0
-?,(Fri) Jan/18 2013 (2),Istres (21),Monaco (21),0-2,0-0
-?,(Fri) Jan/18 2013 (2),Le Havre (21),Lens (21),2-2,2-0
-?,(Fri) Jan/18 2013 (2),Le Mans (21),Chateauroux (21),2-0,1-0
-?,(Fri) Jan/18 2013 (2),Nimes (21),Clermont (21),3-0,1-0
-?,(Fri) Jan/18 2013 (2),Tours (21),Dijon (20),3-1,2-0
-?,(Sat) Jan/19 2013 (2),Laval (21),Nantes (21),0-0,0-0
-?,(Fri) Jan/25 2013 (3),Ajaccio GFCO (22),Le Havre (22),0-1,0-1
-?,(Fri) Jan/25 2013 (3),Angers (21),Arles (22),2-0,0-0
-?,(Fri) Jan/25 2013 (3),Auxerre (21),Le Mans (22),1-1,0-0
-?,(Fri) Jan/25 2013 (3),Clermont (22),Caen (22),0-0,0-0
-?,(Fri) Jan/25 2013 (3),Nantes (22),Tours (22),3-1,1-0
-?,(Fri) Jan/25 2013 (3),Nimes (22),Sedan (20),2-1,2-0
-?,(Fri) Jan/25 2013 (3),Niort (22),Laval (22),0-0,0-0
-?,(Sat) Jan/26 2013 (3),Chateauroux (22),Istres (22),2-0,2-0
-?,(Sat) Jan/26 2013 (3),Monaco (22),Guingamp (21),2-2,1-1
-?,(Mon) Jan/28 2013 (4),Dijon (21),Lens (22),2-1,1-1
-?,(Fri) Feb/1 2013 (4),Caen (23),Nimes (23),1-0,1-0
-?,(Fri) Feb/1 2013 (4),Guingamp (22),Niort (23),4-3,2-2
-?,(Fri) Feb/1 2013 (4),Istres (23),Angers (22),0-0,0-0
-?,(Fri) Feb/1 2013 (4),Laval (23),Auxerre (22),4-5,2-2
-?,(Fri) Feb/1 2013 (4),Le Havre (23),Dijon (22),3-0,1-0
-?,(Fri) Feb/1 2013 (4),Lens (23),Ajaccio GFCO (23),2-0,1-0
-?,(Fri) Feb/1 2013 (4),Sedan (21),Clermont (23),1-1,0-0
-?,(Fri) Feb/1 2013 (4),Tours (23),Chateauroux (23),3-1,1-1
-?,(Sat) Feb/2 2013 (4),Le Mans (23),Nantes (23),0-3,0-2
-?,(Mon) Feb/4 2013 (5),Arles (23),Monaco (23),0-2,0-0
-?,(Tue) Feb/5 2013 (5),Guingamp (23),Angers (23),2-1,0-0
-?,(Fri) Feb/8 2013 (5),Ajaccio GFCO (24),Dijon (23),0-2,0-0
-?,(Fri) Feb/8 2013 (5),Auxerre (23),Tours (24),3-2,1-2
-?,(Fri) Feb/8 2013 (5),Caen (24),Sedan (22),2-0,1-0
-?,(Fri) Feb/8 2013 (5),Chateauroux (24),Guingamp (24),3-1,1-0
-?,(Fri) Feb/8 2013 (5),Clermont (24),Le Mans (24),1-1,0-0
-?,(Fri) Feb/8 2013 (5),Monaco (24),Le Havre (24),2-1,1-1
-?,(Fri) Feb/8 2013 (5),Nimes (24),Laval (24),3-0,2-0
-?,(Fri) Feb/8 2013 (5),Niort (24),Istres (24),0-0,0-0
-?,(Sat) Feb/9 2013 (5),Nantes (24),Arles (24),1-1,1-1
-?,(Mon) Feb/11 2013 (6),Angers (24),Lens (24),3-2,0-1
-?,(Tue) Feb/12 2013 (6),Sedan (23),Dijon (24),0-1,0-1
-?,(Fri) Feb/15 2013 (6),Ajaccio GFCO (25),Nimes (25),2-3,1-1
-?,(Fri) Feb/15 2013 (6),Arles (25),Niort (25),0-1,0-1
-?,(Fri) Feb/15 2013 (6),Istres (25),Auxerre (24),0-3,0-2
-?,(Fri) Feb/15 2013 (6),Laval (25),Sedan (24),3-0,0-0
-?,(Fri) Feb/15 2013 (6),Le Havre (25),Angers (25),2-1,1-1
-?,(Fri) Feb/15 2013 (6),Le Mans (25),Caen (25),1-1,1-1
-?,(Fri) Feb/15 2013 (6),Lens (25),Chateauroux (25),4-3,3-2
-?,(Fri) Feb/15 2013 (6),Tours (25),Clermont (25),2-1,0-1
-?,(Sat) Feb/16 2013 (6),Guingamp (25),Nantes (25),2-1,0-1
-?,(Mon) Feb/18 2013 (7),Dijon (25),Monaco (25),0-2,0-2
-?,(Fri) Feb/22 2013 (7),Angers (26),Ajaccio GFCO (26),1-0,0-0
-?,(Fri) Feb/22 2013 (7),Auxerre (25),Guingamp (26),2-1,1-1
-?,(Fri) Feb/22 2013 (7),Caen (26),Laval (26),2-1,2-1
-?,(Fri) Feb/22 2013 (7),Chateauroux (26),Arles (26),2-0,1-0
-?,(Fri) Feb/22 2013 (7),Clermont (26),Dijon (26),0-0,0-0
-?,(Fri) Feb/22 2013 (7),Nimes (26),Istres (26),1-0,0-0
-?,(Fri) Feb/22 2013 (7),Niort (26),Le Mans (26),2-3,2-0
-?,(Fri) Feb/22 2013 (7),Sedan (25),Tours (26),1-1,0-1
-?,(Sat) Feb/23 2013 (7),Nantes (26),Le Havre (26),2-0,1-0
-?,(Mon) Feb/25 2013 (8),Monaco (26),Lens (26),2-1,1-0
-?,(Tue) Feb/26 2013 (8),Sedan (26),Auxerre (26),1-0,0-0
-?,(Fri) Mar/1 2013 (8),Ajaccio GFCO (27),Monaco (27),0-1,0-1
-?,(Fri) Mar/1 2013 (8),Arles (27),Auxerre (27),2-1,0-1
-?,(Fri) Mar/1 2013 (8),Dijon (27),Niort (27),1-1,0-0
-?,(Fri) Mar/1 2013 (8),Istres (27),Sedan (27),1-0,0-0
-?,(Fri) Mar/1 2013 (8),Laval (27),Clermont (27),1-1,1-0
-?,(Fri) Mar/1 2013 (8),Le Havre (27),Chateauroux (27),1-0,1-0
-?,(Fri) Mar/1 2013 (8),Le Mans (27),Angers (27),0-2,0-0
-?,(Fri) Mar/1 2013 (8),Tours (27),Caen (27),1-1,1-0
-?,(Sat) Mar/2 2013 (8),Guingamp (27),Nimes (27),3-0,1-0
-?,(Mon) Mar/4 2013 (9),Lens (27),Nantes (27),1-2,1-1
-?,(Fri) Mar/8 2013 (9),Angers (28),Dijon (28),3-3,1-1
-?,(Fri) Mar/8 2013 (9),Auxerre (28),Le Havre (28),4-1,2-1
-?,(Fri) Mar/8 2013 (9),Chateauroux (28),Monaco (28),1-1,0-1
-?,(Fri) Mar/8 2013 (9),Clermont (28),Arles (28),2-4,0-2
-?,(Fri) Mar/8 2013 (9),Laval (28),Guingamp (28),2-1,2-0
-?,(Fri) Mar/8 2013 (9),Nimes (28),Tours (28),1-1,1-0
-?,(Fri) Mar/8 2013 (9),Niort (28),Lens (28),0-0,0-0
-?,(Fri) Mar/8 2013 (9),Sedan (28),Le Mans (28),2-1,1-0
-?,(Sat) Mar/9 2013 (9),Nantes (28),Ajaccio GFCO (28),2-1,2-0
-?,(Fri) Mar/15 2013 (10),Arles (29),Sedan (29),2-2,1-0
-?,(Fri) Mar/15 2013 (10),Guingamp (29),Caen (28),1-0,0-0
-?,(Fri) Mar/15 2013 (10),Istres (28),Clermont (29),0-0,0-0
-?,(Fri) Mar/15 2013 (10),Le Havre (29),Niort (29),2-1,1-0
-?,(Fri) Mar/15 2013 (10),Le Mans (29),Nimes (29),0-3,0-1
-?,(Fri) Mar/15 2013 (10),Monaco (29),Angers (29),2-2,1-2
-?,(Fri) Mar/15 2013 (10),Tours (29),Laval (29),1-1,1-0
-?,(Sat) Mar/16 2013 (10),Lens (29),Auxerre (29),1-0,0-0
-?,(Mon) Mar/18 2013 (11),Dijon (29),Nantes (29),3-1,0-1
-?,(Tue) Mar/19 2013 (11),Ajaccio GFCO (29),Chateauroux (29),1-1,0-0
-?,(Sun) Mar/24 2013 (11),Caen (29),Istres (29),1-0,0-0
-?,(Fri) Mar/29 2013 (12),Auxerre (30),Dijon (30),0-0,0-0
-?,(Fri) Mar/29 2013 (12),Caen (30),Arles (30),1-1,0-0
-?,(Fri) Mar/29 2013 (12),Chateauroux (30),Angers (30),2-3,0-1
-?,(Fri) Mar/29 2013 (12),Clermont (30),Lens (30),1-0,1-0
-?,(Fri) Mar/29 2013 (12),Laval (30),Le Mans (30),2-1,1-1
-?,(Fri) Mar/29 2013 (12),Niort (30),Ajaccio GFCO (30),2-1,2-0
-?,(Fri) Mar/29 2013 (12),Sedan (30),Guingamp (30),1-2,0-1
-?,(Fri) Mar/29 2013 (12),Tours (30),Istres (30),1-0,0-0
-?,(Sat) Mar/30 2013 (12),Nantes (30),Monaco (30),1-1,1-0
-?,(Mon) Apr/1 2013 (13),Nimes (30),Le Havre (30),0-1,0-1
-?,(Fri) Apr/5 2013 (13),Ajaccio GFCO (31),Auxerre (31),0-0,0-0
-?,(Fri) Apr/5 2013 (13),Angers (31),Nantes (31),2-0,1-0
-?,(Fri) Apr/5 2013 (13),Arles (31),Nimes (31),1-1,0-1
-?,(Fri) Apr/5 2013 (13),Dijon (31),Chateauroux (31),1-1,0-0
-?,(Fri) Apr/5 2013 (13),Istres (31),Laval (31),2-2,1-1
-?,(Fri) Apr/5 2013 (13),Le Mans (31),Tours (31),1-0,0-0
-?,(Fri) Apr/5 2013 (13),Lens (31),Sedan (31),2-2,1-2
-?,(Fri) Apr/5 2013 (13),Monaco (31),Niort (31),1-1,1-1
-?,(Sat) Apr/6 2013 (13),Guingamp (31),Clermont (31),0-0,0-0
-?,(Mon) Apr/8 2013 (14),Le Havre (31),Caen (31),1-1,0-1
-?,(Fri) Apr/12 2013 (14),Caen (32),Lens (32),0-0,0-0
-?,(Fri) Apr/12 2013 (14),Clermont (32),Le Havre (32),1-1,0-0
-?,(Fri) Apr/12 2013 (14),Laval (32),Arles (32),1-3,1-2
-?,(Fri) Apr/12 2013 (14),Le Mans (32),Istres (32),1-2,1-1
-?,(Fri) Apr/12 2013 (14),Nimes (32),Dijon (32),1-1,0-0
-?,(Fri) Apr/12 2013 (14),Niort (32),Angers (32),0-0,0-0
-?,(Fri) Apr/12 2013 (14),Sedan (32),Ajaccio GFCO (32),4-1,1-1
-?,(Fri) Apr/12 2013 (14),Tours (32),Guingamp (32),2-0,0-0
-?,(Sat) Apr/13 2013 (14),Auxerre (32),Monaco (32),0-2,0-2
-?,(Mon) Apr/15 2013 (15),Chateauroux (32),Nantes (32),0-4,0-1
-?,(Fri) Apr/19 2013 (15),Ajaccio GFCO (33),Tours (33),0-1,0-0
-?,(Fri) Apr/19 2013 (15),Angers (33),Caen (33),1-1,0-1
-?,(Fri) Apr/19 2013 (15),Arles (33),Istres (33),1-0,1-0
-?,(Fri) Apr/19 2013 (15),Chateauroux (33),Niort (33),1-0,0-0
-?,(Fri) Apr/19 2013 (15),Dijon (33),Laval (33),1-0,0-0
-?,(Fri) Apr/19 2013 (15),Guingamp (33),Le Mans (33),6-1,2-0
-?,(Fri) Apr/19 2013 (15),Le Havre (33),Sedan (33),1-1,1-0
-?,(Sat) Apr/20 2013 (15),Lens (33),Nimes (33),1-2,0-1
-?,(Sat) Apr/20 2013 (15),Nantes (33),Auxerre (33),1-1,1-1
-?,(Mon) Apr/22 2013 (16),Monaco (33),Clermont (33),4-0,2-0
-?,(Fri) Apr/26 2013 (16),Auxerre (34),Chateauroux (34),0-0,0-0
-?,(Fri) Apr/26 2013 (16),Clermont (34),Ajaccio GFCO (34),0-2,0-0
-?,(Fri) Apr/26 2013 (16),Istres (34),Guingamp (34),2-0,2-0
-?,(Fri) Apr/26 2013 (16),Laval (34),Lens (34),1-1,0-1
-?,(Fri) Apr/26 2013 (16),Le Mans (34),Arles (34),0-0,0-0
-?,(Fri) Apr/26 2013 (16),Nimes (34),Angers (34),3-0,0-0
-?,(Fri) Apr/26 2013 (16),Niort (34),Nantes (34),0-1,0-0
-?,(Fri) Apr/26 2013 (16),Tours (34),Le Havre (34),1-2,0-2
-?,(Sat) Apr/27 2013 (16),Caen (34),Dijon (34),2-2,1-0
-?,(Mon) Apr/29 2013 (17),Sedan (34),Monaco (34),1-1,1-1
-?,(Fri) May/3 2013 (17),Ajaccio GFCO (35),Le Mans (35),1-3,1-3
-?,(Fri) May/3 2013 (17),Angers (35),Laval (35),1-0,0-0
-?,(Fri) May/3 2013 (17),Arles (35),Guingamp (35),0-2,0-0
-?,(Fri) May/3 2013 (17),Chateauroux (35),Nimes (35),2-1,2-0
-?,(Fri) May/3 2013 (17),Dijon (35),Sedan (35),4-2,2-1
-?,(Fri) May/3 2013 (17),Le Havre (35),Istres (35),2-0,0-0
-?,(Fri) May/3 2013 (17),Lens (35),Tours (35),0-0,0-0
-?,(Fri) May/3 2013 (17),Niort (35),Auxerre (35),0-1,0-1
-?,(Sat) May/4 2013 (17),Monaco (35),Caen (35),0-1,0-1
-?,(Mon) May/6 2013 (18),Nantes (35),Clermont (35),0-1,0-1
-?,(Fri) May/10 2013 (18),Auxerre (36),Angers (36),2-2,1-1
-?,(Fri) May/10 2013 (18),Clermont (36),Chateauroux (36),1-0,0-0
-?,(Fri) May/10 2013 (18),Guingamp (36),Lens (36),7-0,4-0
-?,(Fri) May/10 2013 (18),Istres (36),Dijon (36),2-3,1-2
-?,(Fri) May/10 2013 (18),Laval (36),Ajaccio GFCO (36),1-2,1-0
-?,(Fri) May/10 2013 (18),Le Mans (36),Le Havre (36),0-4,0-1
-?,(Fri) May/10 2013 (18),Sedan (36),Niort (36),0-2,0-1
-?,(Fri) May/10 2013 (18),Tours (36),Arles (36),0-0,0-0
-?,(Sat) May/11 2013 (18),Nimes (36),Monaco (36),0-1,0-0
-?,(Mon) May/13 2013 (19),Caen (36),Nantes (36),0-1,0-0
-?,(Fri) May/17 2013 (19),Ajaccio GFCO (37),Guingamp (37),0-1,0-0
-?,(Fri) May/17 2013 (19),Angers (37),Tours (37),0-1,0-0
-?,(Fri) May/17 2013 (19),Auxerre (37),Clermont (37),1-1,1-1
-?,(Fri) May/17 2013 (19),Chateauroux (37),Caen (37),2-2,2-1
-?,(Fri) May/17 2013 (19),Dijon (37),Arles (37),2-3,1-1
-?,(Fri) May/17 2013 (19),Le Havre (37),Laval (37),1-2,1-2
-?,(Fri) May/17 2013 (19),Lens (37),Istres (37),1-1,0-0
-?,(Fri) May/17 2013 (19),Monaco (37),Le Mans (37),2-1,2-0
-?,(Fri) May/17 2013 (19),Nantes (37),Sedan (37),1-0,0-0
-?,(Fri) May/17 2013 (19),Niort (37),Nimes (37),2-0,0-0
-?,(Fri) May/24 2013 (20),Arles (38),Le Havre (38),1-1,1-0
-?,(Fri) May/24 2013 (20),Caen (38),Ajaccio GFCO (38),2-1,1-1
-?,(Fri) May/24 2013 (20),Clermont (38),Niort (38),1-1,0-1
-?,(Fri) May/24 2013 (20),Guingamp (38),Dijon (38),2-0,1-0
-?,(Fri) May/24 2013 (20),Istres (38),Nantes (38),2-2,0-1
-?,(Fri) May/24 2013 (20),Laval (38),Chateauroux (38),3-2,2-0
-?,(Fri) May/24 2013 (20),Le Mans (38),Lens (38),2-1,2-0
-?,(Fri) May/24 2013 (20),Nimes (38),Auxerre (38),4-2,3-1
-?,(Fri) May/24 2013 (20),Sedan (38),Angers (38),2-2,1-0
-?,(Fri) May/24 2013 (20),Tours (38),Monaco (38),1-2,1-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 27 Jul 2012 (30),Ajaccio GFCO (1),0-0,0-0,Caen (1)
+?,(Fri) 27 Jul 2012 (30),Angers (1),1-0,0-0,Sedan (1)
+?,(Fri) 27 Jul 2012 (30),Auxerre (1),2-0,1-0,Nimes (1)
+?,(Fri) 27 Jul 2012 (30),Chateauroux (1),1-1,0-0,Laval (1)
+?,(Fri) 27 Jul 2012 (30),Dijon (1),1-0,0-0,Guingamp (1)
+?,(Fri) 27 Jul 2012 (30),Le Havre (1),1-2,1-0,Arles (1)
+?,(Fri) 27 Jul 2012 (30),Nantes (1),1-1,1-0,Istres (1)
+?,(Fri) 27 Jul 2012 (30),Niort (1),1-1,0-0,Clermont (1)
+?,(Sat) 28 Jul 2012 (30),Lens (1),2-2,2-1,Le Mans (1)
+?,(Mon) 30 Jul 2012 (31),Monaco (1),4-0,4-0,Tours (1)
+?,(Fri) 3 Aug 2012 (31),Arles (2),0-0,0-0,Lens (2)
+?,(Fri) 3 Aug 2012 (31),Clermont (2),1-2,0-2,Angers (2)
+?,(Fri) 3 Aug 2012 (31),Guingamp (2),3-3,2-1,Le Havre (2)
+?,(Fri) 3 Aug 2012 (31),Istres (2),2-0,1-0,Ajaccio GFCO (2)
+?,(Fri) 3 Aug 2012 (31),Laval (2),0-0,0-0,Monaco (2)
+?,(Fri) 3 Aug 2012 (31),Le Mans (2),1-2,0-1,Dijon (2)
+?,(Fri) 3 Aug 2012 (31),Sedan (2),1-1,1-0,Chateauroux (2)
+?,(Fri) 3 Aug 2012 (31),Tours (2),2-2,1-0,Niort (2)
+?,(Sat) 4 Aug 2012 (31),Caen (2),3-1,2-1,Auxerre (2)
+?,(Sat) 4 Aug 2012 (31),Nimes (2),0-0,0-0,Nantes (2)
+?,(Fri) 10 Aug 2012 (32),Ajaccio GFCO (3),1-1,0-0,Arles (3)
+?,(Fri) 10 Aug 2012 (32),Angers (3),1-2,1-2,Guingamp (3)
+?,(Fri) 10 Aug 2012 (32),Chateauroux (3),1-0,0-0,Le Mans (3)
+?,(Fri) 10 Aug 2012 (32),Clermont (3),2-1,1-1,Nimes (3)
+?,(Fri) 10 Aug 2012 (32),Dijon (3),1-0,0-0,Tours (3)
+?,(Fri) 10 Aug 2012 (32),Monaco (3),3-2,2-2,Istres (3)
+?,(Fri) 10 Aug 2012 (32),Nantes (3),3-1,1-0,Laval (3)
+?,(Fri) 10 Aug 2012 (32),Niort (3),1-0,1-0,Caen (3)
+?,(Sat) 11 Aug 2012 (32),Auxerre (3),1-0,0-0,Sedan (3)
+?,(Mon) 13 Aug 2012 (33),Lens (3),1-0,0-0,Le Havre (3)
+?,(Fri) 17 Aug 2012 (33),Arles (4),2-0,0-0,Angers (4)
+?,(Fri) 17 Aug 2012 (33),Caen (4),4-0,2-0,Clermont (4)
+?,(Fri) 17 Aug 2012 (33),Istres (4),0-0,0-0,Chateauroux (4)
+?,(Fri) 17 Aug 2012 (33),Laval (4),1-0,0-0,Niort (4)
+?,(Fri) 17 Aug 2012 (33),Le Havre (4),2-1,1-0,Ajaccio GFCO (4)
+?,(Fri) 17 Aug 2012 (33),Lens (4),1-1,1-0,Dijon (4)
+?,(Fri) 17 Aug 2012 (33),Sedan (4),2-3,2-2,Nimes (4)
+?,(Fri) 17 Aug 2012 (33),Tours (4),0-2,0-0,Nantes (4)
+?,(Sat) 18 Aug 2012 (33),Guingamp (4),1-2,1-0,Monaco (4)
+?,(Mon) 20 Aug 2012 (34),Le Mans (4),3-1,1-1,Auxerre (4)
+?,(Fri) 24 Aug 2012 (34),Ajaccio GFCO (5),1-1,1-1,Lens (5)
+?,(Fri) 24 Aug 2012 (34),Angers (5),0-1,0-0,Istres (5)
+?,(Fri) 24 Aug 2012 (34),Auxerre (5),2-1,2-1,Laval (5)
+?,(Fri) 24 Aug 2012 (34),Chateauroux (5),3-0,1-0,Tours (5)
+?,(Fri) 24 Aug 2012 (34),Clermont (5),0-2,0-0,Sedan (5)
+?,(Fri) 24 Aug 2012 (34),Monaco (5),3-0,1-0,Arles (5)
+?,(Fri) 24 Aug 2012 (34),Nimes (5),0-2,0-1,Caen (5)
+?,(Fri) 24 Aug 2012 (34),Niort (5),0-0,0-0,Guingamp (5)
+?,(Sat) 25 Aug 2012 (34),Dijon (5),2-2,2-0,Le Havre (5)
+?,(Mon) 27 Aug 2012 (35),Nantes (5),2-0,1-0,Le Mans (5)
+?,(Fri) 31 Aug 2012 (35),Arles (6),2-1,1-0,Nantes (6)
+?,(Fri) 31 Aug 2012 (35),Dijon (6),2-1,0-1,Ajaccio GFCO (6)
+?,(Fri) 31 Aug 2012 (35),Guingamp (6),2-1,2-0,Chateauroux (6)
+?,(Fri) 31 Aug 2012 (35),Istres (6),1-0,0-0,Niort (6)
+?,(Fri) 31 Aug 2012 (35),Laval (6),0-1,0-0,Nimes (6)
+?,(Fri) 31 Aug 2012 (35),Le Havre (6),2-1,1-0,Monaco (6)
+?,(Fri) 31 Aug 2012 (35),Le Mans (6),3-1,2-0,Clermont (6)
+?,(Fri) 31 Aug 2012 (35),Sedan (6),2-2,1-1,Caen (6)
+?,(Fri) 31 Aug 2012 (35),Tours (6),1-0,0-0,Auxerre (6)
+?,(Mon) 3 Sep 2012 (36),Lens (6),1-3,0-1,Angers (6)
+?,(Fri) 14 Sep 2012 (37),Auxerre (7),0-0,0-0,Istres (7)
+?,(Fri) 14 Sep 2012 (37),Caen (7),0-2,0-1,Le Mans (7)
+?,(Fri) 14 Sep 2012 (37),Chateauroux (7),1-1,0-1,Lens (7)
+?,(Fri) 14 Sep 2012 (37),Clermont (7),1-1,0-1,Tours (7)
+?,(Fri) 14 Sep 2012 (37),Monaco (7),1-1,0-0,Dijon (7)
+?,(Fri) 14 Sep 2012 (37),Niort (7),0-0,0-0,Arles (7)
+?,(Fri) 14 Sep 2012 (37),Sedan (7),1-3,1-0,Laval (7)
+?,(Mon) 17 Sep 2012 (38),Angers (7),3-1,2-0,Le Havre (7)
+?,(Mon) 17 Sep 2012 (38),Nantes (7),1-1,1-0,Guingamp (7)
+?,(Mon) 17 Sep 2012 (38),Nimes (7),0-1,0-1,Ajaccio GFCO (7)
+?,(Fri) 21 Sep 2012 (38),Ajaccio GFCO (8),0-1,0-1,Angers (8)
+?,(Fri) 21 Sep 2012 (38),Arles (8),1-1,1-1,Chateauroux (8)
+?,(Fri) 21 Sep 2012 (38),Istres (8),2-0,0-0,Nimes (8)
+?,(Fri) 21 Sep 2012 (38),Laval (8),1-2,1-2,Caen (8)
+?,(Fri) 21 Sep 2012 (38),Le Havre (8),1-1,0-0,Nantes (8)
+?,(Fri) 21 Sep 2012 (38),Le Mans (8),2-2,0-1,Niort (8)
+?,(Fri) 21 Sep 2012 (38),Lens (8),0-4,0-0,Monaco (8)
+?,(Fri) 21 Sep 2012 (38),Tours (8),1-1,1-0,Sedan (8)
+?,(Sat) 22 Sep 2012 (38),Guingamp (8),4-3,1-2,Auxerre (8)
+?,(Mon) 24 Sep 2012 (39),Dijon (8),1-1,1-1,Clermont (8)
+?,(Fri) 28 Sep 2012 (39),Angers (9),4-0,2-0,Le Mans (9)
+?,(Fri) 28 Sep 2012 (39),Chateauroux (9),1-1,1-0,Le Havre (9)
+?,(Fri) 28 Sep 2012 (39),Clermont (9),0-0,0-0,Laval (9)
+?,(Fri) 28 Sep 2012 (39),Nimes (9),2-1,1-0,Guingamp (9)
+?,(Fri) 28 Sep 2012 (39),Niort (9),4-2,2-1,Dijon (9)
+?,(Fri) 28 Sep 2012 (39),Sedan (9),0-2,0-1,Istres (9)
+?,(Sat) 29 Sep 2012 (39),Caen (9),0-1,0-0,Tours (9)
+?,(Sat) 29 Sep 2012 (39),Nantes (9),4-0,2-0,Lens (9)
+?,(Sun) 30 Sep 2012 (39),Monaco (9),2-2,0-1,Ajaccio GFCO (9)
+?,(Mon) 1 Oct 2012 (40),Auxerre (9),2-1,0-0,Arles (9)
+?,(Fri) 5 Oct 2012 (40),Ajaccio GFCO (10),3-1,1-0,Nantes (10)
+?,(Fri) 5 Oct 2012 (40),Arles (10),0-2,0-0,Clermont (10)
+?,(Fri) 5 Oct 2012 (40),Guingamp (10),1-1,0-1,Laval (10)
+?,(Fri) 5 Oct 2012 (40),Istres (10),0-4,0-1,Caen (10)
+?,(Fri) 5 Oct 2012 (40),Le Havre (10),2-1,1-1,Auxerre (10)
+?,(Fri) 5 Oct 2012 (40),Le Mans (10),1-0,1-0,Sedan (10)
+?,(Fri) 5 Oct 2012 (40),Lens (10),1-0,0-0,Niort (10)
+?,(Fri) 5 Oct 2012 (40),Tours (10),1-0,0-0,Nimes (10)
+?,(Sat) 6 Oct 2012 (40),Dijon (10),0-0,0-0,Angers (10)
+?,(Mon) 8 Oct 2012 (41),Monaco (10),0-0,0-0,Chateauroux (10)
+?,(Fri) 19 Oct 2012 (42),Angers (11),1-2,0-1,Monaco (11)
+?,(Fri) 19 Oct 2012 (42),Caen (11),1-2,0-1,Guingamp (11)
+?,(Fri) 19 Oct 2012 (42),Chateauroux (11),3-1,2-0,Ajaccio GFCO (11)
+?,(Fri) 19 Oct 2012 (42),Clermont (11),2-1,2-0,Istres (11)
+?,(Fri) 19 Oct 2012 (42),Laval (11),2-2,1-0,Tours (11)
+?,(Fri) 19 Oct 2012 (42),Nimes (11),2-1,1-1,Le Mans (11)
+?,(Fri) 19 Oct 2012 (42),Niort (11),0-0,0-0,Le Havre (11)
+?,(Fri) 19 Oct 2012 (42),Sedan (11),4-2,2-1,Arles (11)
+?,(Sat) 20 Oct 2012 (42),Auxerre (11),1-2,0-2,Lens (11)
+?,(Mon) 22 Oct 2012 (43),Nantes (11),2-0,1-0,Dijon (11)
+?,(Fri) 26 Oct 2012 (43),Angers (12),1-0,0-0,Chateauroux (12)
+?,(Fri) 26 Oct 2012 (43),Arles (12),0-2,0-1,Caen (12)
+?,(Fri) 26 Oct 2012 (43),Dijon (12),0-1,0-1,Auxerre (12)
+?,(Fri) 26 Oct 2012 (43),Guingamp (12),2-0,2-0,Sedan (12)
+?,(Fri) 26 Oct 2012 (43),Istres (12),4-1,2-0,Tours (12)
+?,(Fri) 26 Oct 2012 (43),Le Havre (12),1-1,1-0,Nimes (12)
+?,(Fri) 26 Oct 2012 (43),Le Mans (12),2-0,2-0,Laval (12)
+?,(Sat) 27 Oct 2012 (43),Monaco (12),0-2,0-2,Nantes (12)
+?,(Mon) 29 Oct 2012 (44),Lens (12),2-2,1-2,Clermont (12)
+?,(Fri) 2 Nov 2012 (44),Chateauroux (13),2-2,1-1,Dijon (13)
+?,(Fri) 2 Nov 2012 (44),Clermont (13),1-2,1-1,Guingamp (13)
+?,(Fri) 2 Nov 2012 (44),Laval (13),2-1,0-0,Istres (13)
+?,(Fri) 2 Nov 2012 (44),Nimes (13),4-1,0-0,Arles (13)
+?,(Fri) 2 Nov 2012 (44),Niort (12),1-1,0-0,Monaco (13)
+?,(Fri) 2 Nov 2012 (44),Sedan (13),0-1,0-0,Lens (13)
+?,(Fri) 2 Nov 2012 (44),Tours (13),2-0,1-0,Le Mans (13)
+?,(Sat) 3 Nov 2012 (44),Auxerre (13),1-1,1-0,Ajaccio GFCO (12)
+?,(Sat) 3 Nov 2012 (44),Nantes (13),1-0,0-0,Angers (13)
+?,(Mon) 5 Nov 2012 (45),Caen (13),2-0,1-0,Le Havre (13)
+?,(Fri) 9 Nov 2012 (45),Ajaccio GFCO (13),1-1,0-1,Sedan (14)
+?,(Fri) 9 Nov 2012 (45),Angers (14),0-0,0-0,Niort (13)
+?,(Fri) 9 Nov 2012 (45),Arles (14),0-3,0-2,Laval (14)
+?,(Fri) 9 Nov 2012 (45),Dijon (14),2-1,0-0,Nimes (14)
+?,(Fri) 9 Nov 2012 (45),Guingamp (14),0-0,0-0,Tours (14)
+?,(Fri) 9 Nov 2012 (45),Istres (14),1-0,0-0,Le Mans (14)
+?,(Fri) 9 Nov 2012 (45),Le Havre (14),1-3,0-1,Clermont (14)
+?,(Fri) 9 Nov 2012 (45),Nantes (14),1-1,1-1,Chateauroux (14)
+?,(Sat) 10 Nov 2012 (45),Monaco (14),2-0,1-0,Auxerre (14)
+?,(Mon) 12 Nov 2012 (46),Lens (14),0-0,0-0,Caen (14)
+?,(Wed) 14 Nov 2012 (46),Ajaccio GFCO (14),2-2,1-2,Niort (14)
+?,(Fri) 23 Nov 2012 (47),Caen (15),1-0,0-0,Angers (15)
+?,(Fri) 23 Nov 2012 (47),Istres (15),0-1,0-0,Arles (15)
+?,(Fri) 23 Nov 2012 (47),Laval (15),3-0,0-0,Dijon (15)
+?,(Fri) 23 Nov 2012 (47),Le Mans (15),0-2,0-1,Guingamp (15)
+?,(Fri) 23 Nov 2012 (47),Nimes (15),1-2,0-1,Lens (15)
+?,(Fri) 23 Nov 2012 (47),Niort (15),2-2,1-1,Chateauroux (15)
+?,(Fri) 23 Nov 2012 (47),Sedan (15),1-2,0-2,Le Havre (15)
+?,(Fri) 23 Nov 2012 (47),Tours (15),2-1,1-0,Ajaccio GFCO (15)
+?,(Sat) 24 Nov 2012 (47),Auxerre (15),0-2,0-1,Nantes (15)
+?,(Mon) 26 Nov 2012 (48),Clermont (15),0-1,0-0,Monaco (15)
+?,(Fri) 30 Nov 2012 (48),Angers (16),0-0,0-0,Nimes (16)
+?,(Fri) 30 Nov 2012 (48),Arles (16),0-0,0-0,Le Mans (16)
+?,(Fri) 30 Nov 2012 (48),Chateauroux (16),1-1,0-0,Auxerre (16)
+?,(Fri) 30 Nov 2012 (48),Le Havre (16),3-0,2-0,Tours (16)
+?,(Fri) 30 Nov 2012 (48),Lens (16),1-0,0-0,Laval (16)
+?,(Fri) 30 Nov 2012 (48),Monaco (16),3-1,1-0,Sedan (16)
+?,(Fri) 30 Nov 2012 (48),Nantes (16),0-0,0-0,Niort (16)
+?,(Sat) 1 Dec 2012 (48),Ajaccio GFCO (16),0-1,0-0,Clermont (16)
+?,(Sat) 1 Dec 2012 (48),Dijon (16),1-0,0-0,Caen (16)
+?,(Mon) 3 Dec 2012 (49),Guingamp (16),1-0,1-0,Istres (16)
+?,(Mon) 10 Dec 2012 (50),Clermont (17),0-1,0-1,Nantes (17)
+?,(Tue) 11 Dec 2012 (50),Auxerre (17),4-2,1-2,Niort (17)
+?,(Tue) 11 Dec 2012 (50),Caen (17),3-0,2-0,Monaco (17)
+?,(Tue) 11 Dec 2012 (50),Guingamp (17),0-0,0-0,Arles (17)
+?,(Tue) 11 Dec 2012 (50),Istres (17),3-0,1-0,Le Havre (17)
+?,(Tue) 11 Dec 2012 (50),Laval (17),1-4,1-1,Angers (17)
+?,(Tue) 11 Dec 2012 (50),Le Mans (17),1-0,1-0,Ajaccio GFCO (17)
+?,(Tue) 11 Dec 2012 (50),Nimes (17),2-0,0-0,Chateauroux (17)
+?,(Tue) 11 Dec 2012 (50),Tours (17),0-0,0-0,Lens (17)
+?,(Fri) 14 Dec 2012 (50),Ajaccio GFCO (18),3-1,1-0,Laval (18)
+?,(Fri) 14 Dec 2012 (50),Angers (18),2-1,1-1,Auxerre (18)
+?,(Fri) 14 Dec 2012 (50),Arles (18),2-2,1-1,Tours (18)
+?,(Fri) 14 Dec 2012 (50),Chateauroux (18),0-0,0-0,Clermont (18)
+?,(Fri) 14 Dec 2012 (50),Le Havre (18),1-0,0-0,Le Mans (18)
+?,(Fri) 14 Dec 2012 (50),Monaco (18),1-1,1-1,Nimes (18)
+?,(Sat) 15 Dec 2012 (50),Dijon (17),3-1,2-0,Istres (18)
+?,(Sat) 15 Dec 2012 (50),Nantes (18),2-1,2-1,Caen (18)
+?,(Mon) 17 Dec 2012 (51),Lens (18),1-1,1-1,Guingamp (18)
+?,(Tue) 18 Dec 2012 (51),Niort (18),1-3,1-2,Sedan (17)
+?,(Fri) 21 Dec 2012 (51),Arles (19),1-1,1-0,Dijon (18)
+?,(Fri) 21 Dec 2012 (51),Caen (19),1-0,0-0,Chateauroux (19)
+?,(Fri) 21 Dec 2012 (51),Clermont (19),1-2,0-0,Auxerre (19)
+?,(Fri) 21 Dec 2012 (51),Guingamp (19),0-0,0-0,Ajaccio GFCO (19)
+?,(Fri) 21 Dec 2012 (51),Istres (19),2-2,0-0,Lens (19)
+?,(Fri) 21 Dec 2012 (51),Laval (19),1-2,1-0,Le Havre (19)
+?,(Fri) 21 Dec 2012 (51),Nimes (19),3-1,0-0,Niort (19)
+?,(Fri) 21 Dec 2012 (51),Tours (19),1-2,1-1,Angers (19)
+?,(Sat) 22 Dec 2012 (51),Le Mans (19),2-3,0-1,Monaco (19)
+?,(Sun) 23 Dec 2012 (51),Sedan (18),0-0,0-0,Nantes (19)
+?,(Fri) 11 Jan 2013 (1),Ajaccio GFCO (20),3-2,0-1,Istres (20)
+?,(Fri) 11 Jan 2013 (1),Angers (20),1-2,0-1,Clermont (20)
+?,(Fri) 11 Jan 2013 (1),Chateauroux (20),1-1,1-0,Sedan (19)
+?,(Fri) 11 Jan 2013 (1),Dijon (19),3-0,1-0,Le Mans (20)
+?,(Fri) 11 Jan 2013 (1),Le Havre (20),0-1,0-1,Guingamp (20)
+?,(Fri) 11 Jan 2013 (1),Lens (20),0-0,0-0,Arles (20)
+?,(Fri) 11 Jan 2013 (1),Nantes (20),1-2,0-1,Nimes (20)
+?,(Fri) 11 Jan 2013 (1),Niort (20),3-1,2-1,Tours (20)
+?,(Sat) 12 Jan 2013 (1),Auxerre (20),1-2,0-0,Caen (20)
+?,(Mon) 14 Jan 2013 (2),Monaco (20),1-1,1-1,Laval (20)
+?,(Fri) 18 Jan 2013 (2),Arles (21),1-0,1-0,Ajaccio GFCO (21)
+?,(Fri) 18 Jan 2013 (2),Caen (21),0-1,0-0,Niort (21)
+?,(Fri) 18 Jan 2013 (2),Istres (21),0-2,0-0,Monaco (21)
+?,(Fri) 18 Jan 2013 (2),Le Havre (21),2-2,2-0,Lens (21)
+?,(Fri) 18 Jan 2013 (2),Le Mans (21),2-0,1-0,Chateauroux (21)
+?,(Fri) 18 Jan 2013 (2),Nimes (21),3-0,1-0,Clermont (21)
+?,(Fri) 18 Jan 2013 (2),Tours (21),3-1,2-0,Dijon (20)
+?,(Sat) 19 Jan 2013 (2),Laval (21),0-0,0-0,Nantes (21)
+?,(Fri) 25 Jan 2013 (3),Ajaccio GFCO (22),0-1,0-1,Le Havre (22)
+?,(Fri) 25 Jan 2013 (3),Angers (21),2-0,0-0,Arles (22)
+?,(Fri) 25 Jan 2013 (3),Auxerre (21),1-1,0-0,Le Mans (22)
+?,(Fri) 25 Jan 2013 (3),Clermont (22),0-0,0-0,Caen (22)
+?,(Fri) 25 Jan 2013 (3),Nantes (22),3-1,1-0,Tours (22)
+?,(Fri) 25 Jan 2013 (3),Nimes (22),2-1,2-0,Sedan (20)
+?,(Fri) 25 Jan 2013 (3),Niort (22),0-0,0-0,Laval (22)
+?,(Sat) 26 Jan 2013 (3),Chateauroux (22),2-0,2-0,Istres (22)
+?,(Sat) 26 Jan 2013 (3),Monaco (22),2-2,1-1,Guingamp (21)
+?,(Mon) 28 Jan 2013 (4),Dijon (21),2-1,1-1,Lens (22)
+?,(Fri) 1 Feb 2013 (4),Caen (23),1-0,1-0,Nimes (23)
+?,(Fri) 1 Feb 2013 (4),Guingamp (22),4-3,2-2,Niort (23)
+?,(Fri) 1 Feb 2013 (4),Istres (23),0-0,0-0,Angers (22)
+?,(Fri) 1 Feb 2013 (4),Laval (23),4-5,2-2,Auxerre (22)
+?,(Fri) 1 Feb 2013 (4),Le Havre (23),3-0,1-0,Dijon (22)
+?,(Fri) 1 Feb 2013 (4),Lens (23),2-0,1-0,Ajaccio GFCO (23)
+?,(Fri) 1 Feb 2013 (4),Sedan (21),1-1,0-0,Clermont (23)
+?,(Fri) 1 Feb 2013 (4),Tours (23),3-1,1-1,Chateauroux (23)
+?,(Sat) 2 Feb 2013 (4),Le Mans (23),0-3,0-2,Nantes (23)
+?,(Mon) 4 Feb 2013 (5),Arles (23),0-2,0-0,Monaco (23)
+?,(Tue) 5 Feb 2013 (5),Guingamp (23),2-1,0-0,Angers (23)
+?,(Fri) 8 Feb 2013 (5),Ajaccio GFCO (24),0-2,0-0,Dijon (23)
+?,(Fri) 8 Feb 2013 (5),Auxerre (23),3-2,1-2,Tours (24)
+?,(Fri) 8 Feb 2013 (5),Caen (24),2-0,1-0,Sedan (22)
+?,(Fri) 8 Feb 2013 (5),Chateauroux (24),3-1,1-0,Guingamp (24)
+?,(Fri) 8 Feb 2013 (5),Clermont (24),1-1,0-0,Le Mans (24)
+?,(Fri) 8 Feb 2013 (5),Monaco (24),2-1,1-1,Le Havre (24)
+?,(Fri) 8 Feb 2013 (5),Nimes (24),3-0,2-0,Laval (24)
+?,(Fri) 8 Feb 2013 (5),Niort (24),0-0,0-0,Istres (24)
+?,(Sat) 9 Feb 2013 (5),Nantes (24),1-1,1-1,Arles (24)
+?,(Mon) 11 Feb 2013 (6),Angers (24),3-2,0-1,Lens (24)
+?,(Tue) 12 Feb 2013 (6),Sedan (23),0-1,0-1,Dijon (24)
+?,(Fri) 15 Feb 2013 (6),Ajaccio GFCO (25),2-3,1-1,Nimes (25)
+?,(Fri) 15 Feb 2013 (6),Arles (25),0-1,0-1,Niort (25)
+?,(Fri) 15 Feb 2013 (6),Istres (25),0-3,0-2,Auxerre (24)
+?,(Fri) 15 Feb 2013 (6),Laval (25),3-0,0-0,Sedan (24)
+?,(Fri) 15 Feb 2013 (6),Le Havre (25),2-1,1-1,Angers (25)
+?,(Fri) 15 Feb 2013 (6),Le Mans (25),1-1,1-1,Caen (25)
+?,(Fri) 15 Feb 2013 (6),Lens (25),4-3,3-2,Chateauroux (25)
+?,(Fri) 15 Feb 2013 (6),Tours (25),2-1,0-1,Clermont (25)
+?,(Sat) 16 Feb 2013 (6),Guingamp (25),2-1,0-1,Nantes (25)
+?,(Mon) 18 Feb 2013 (7),Dijon (25),0-2,0-2,Monaco (25)
+?,(Fri) 22 Feb 2013 (7),Angers (26),1-0,0-0,Ajaccio GFCO (26)
+?,(Fri) 22 Feb 2013 (7),Auxerre (25),2-1,1-1,Guingamp (26)
+?,(Fri) 22 Feb 2013 (7),Caen (26),2-1,2-1,Laval (26)
+?,(Fri) 22 Feb 2013 (7),Chateauroux (26),2-0,1-0,Arles (26)
+?,(Fri) 22 Feb 2013 (7),Clermont (26),0-0,0-0,Dijon (26)
+?,(Fri) 22 Feb 2013 (7),Nimes (26),1-0,0-0,Istres (26)
+?,(Fri) 22 Feb 2013 (7),Niort (26),2-3,2-0,Le Mans (26)
+?,(Fri) 22 Feb 2013 (7),Sedan (25),1-1,0-1,Tours (26)
+?,(Sat) 23 Feb 2013 (7),Nantes (26),2-0,1-0,Le Havre (26)
+?,(Mon) 25 Feb 2013 (8),Monaco (26),2-1,1-0,Lens (26)
+?,(Tue) 26 Feb 2013 (8),Sedan (26),1-0,0-0,Auxerre (26)
+?,(Fri) 1 Mar 2013 (8),Ajaccio GFCO (27),0-1,0-1,Monaco (27)
+?,(Fri) 1 Mar 2013 (8),Arles (27),2-1,0-1,Auxerre (27)
+?,(Fri) 1 Mar 2013 (8),Dijon (27),1-1,0-0,Niort (27)
+?,(Fri) 1 Mar 2013 (8),Istres (27),1-0,0-0,Sedan (27)
+?,(Fri) 1 Mar 2013 (8),Laval (27),1-1,1-0,Clermont (27)
+?,(Fri) 1 Mar 2013 (8),Le Havre (27),1-0,1-0,Chateauroux (27)
+?,(Fri) 1 Mar 2013 (8),Le Mans (27),0-2,0-0,Angers (27)
+?,(Fri) 1 Mar 2013 (8),Tours (27),1-1,1-0,Caen (27)
+?,(Sat) 2 Mar 2013 (8),Guingamp (27),3-0,1-0,Nimes (27)
+?,(Mon) 4 Mar 2013 (9),Lens (27),1-2,1-1,Nantes (27)
+?,(Fri) 8 Mar 2013 (9),Angers (28),3-3,1-1,Dijon (28)
+?,(Fri) 8 Mar 2013 (9),Auxerre (28),4-1,2-1,Le Havre (28)
+?,(Fri) 8 Mar 2013 (9),Chateauroux (28),1-1,0-1,Monaco (28)
+?,(Fri) 8 Mar 2013 (9),Clermont (28),2-4,0-2,Arles (28)
+?,(Fri) 8 Mar 2013 (9),Laval (28),2-1,2-0,Guingamp (28)
+?,(Fri) 8 Mar 2013 (9),Nimes (28),1-1,1-0,Tours (28)
+?,(Fri) 8 Mar 2013 (9),Niort (28),0-0,0-0,Lens (28)
+?,(Fri) 8 Mar 2013 (9),Sedan (28),2-1,1-0,Le Mans (28)
+?,(Sat) 9 Mar 2013 (9),Nantes (28),2-1,2-0,Ajaccio GFCO (28)
+?,(Fri) 15 Mar 2013 (10),Arles (29),2-2,1-0,Sedan (29)
+?,(Fri) 15 Mar 2013 (10),Guingamp (29),1-0,0-0,Caen (28)
+?,(Fri) 15 Mar 2013 (10),Istres (28),0-0,0-0,Clermont (29)
+?,(Fri) 15 Mar 2013 (10),Le Havre (29),2-1,1-0,Niort (29)
+?,(Fri) 15 Mar 2013 (10),Le Mans (29),0-3,0-1,Nimes (29)
+?,(Fri) 15 Mar 2013 (10),Monaco (29),2-2,1-2,Angers (29)
+?,(Fri) 15 Mar 2013 (10),Tours (29),1-1,1-0,Laval (29)
+?,(Sat) 16 Mar 2013 (10),Lens (29),1-0,0-0,Auxerre (29)
+?,(Mon) 18 Mar 2013 (11),Dijon (29),3-1,0-1,Nantes (29)
+?,(Tue) 19 Mar 2013 (11),Ajaccio GFCO (29),1-1,0-0,Chateauroux (29)
+?,(Sun) 24 Mar 2013 (11),Caen (29),1-0,0-0,Istres (29)
+?,(Fri) 29 Mar 2013 (12),Auxerre (30),0-0,0-0,Dijon (30)
+?,(Fri) 29 Mar 2013 (12),Caen (30),1-1,0-0,Arles (30)
+?,(Fri) 29 Mar 2013 (12),Chateauroux (30),2-3,0-1,Angers (30)
+?,(Fri) 29 Mar 2013 (12),Clermont (30),1-0,1-0,Lens (30)
+?,(Fri) 29 Mar 2013 (12),Laval (30),2-1,1-1,Le Mans (30)
+?,(Fri) 29 Mar 2013 (12),Niort (30),2-1,2-0,Ajaccio GFCO (30)
+?,(Fri) 29 Mar 2013 (12),Sedan (30),1-2,0-1,Guingamp (30)
+?,(Fri) 29 Mar 2013 (12),Tours (30),1-0,0-0,Istres (30)
+?,(Sat) 30 Mar 2013 (12),Nantes (30),1-1,1-0,Monaco (30)
+?,(Mon) 1 Apr 2013 (13),Nimes (30),0-1,0-1,Le Havre (30)
+?,(Fri) 5 Apr 2013 (13),Ajaccio GFCO (31),0-0,0-0,Auxerre (31)
+?,(Fri) 5 Apr 2013 (13),Angers (31),2-0,1-0,Nantes (31)
+?,(Fri) 5 Apr 2013 (13),Arles (31),1-1,0-1,Nimes (31)
+?,(Fri) 5 Apr 2013 (13),Dijon (31),1-1,0-0,Chateauroux (31)
+?,(Fri) 5 Apr 2013 (13),Istres (31),2-2,1-1,Laval (31)
+?,(Fri) 5 Apr 2013 (13),Le Mans (31),1-0,0-0,Tours (31)
+?,(Fri) 5 Apr 2013 (13),Lens (31),2-2,1-2,Sedan (31)
+?,(Fri) 5 Apr 2013 (13),Monaco (31),1-1,1-1,Niort (31)
+?,(Sat) 6 Apr 2013 (13),Guingamp (31),0-0,0-0,Clermont (31)
+?,(Mon) 8 Apr 2013 (14),Le Havre (31),1-1,0-1,Caen (31)
+?,(Fri) 12 Apr 2013 (14),Caen (32),0-0,0-0,Lens (32)
+?,(Fri) 12 Apr 2013 (14),Clermont (32),1-1,0-0,Le Havre (32)
+?,(Fri) 12 Apr 2013 (14),Laval (32),1-3,1-2,Arles (32)
+?,(Fri) 12 Apr 2013 (14),Le Mans (32),1-2,1-1,Istres (32)
+?,(Fri) 12 Apr 2013 (14),Nimes (32),1-1,0-0,Dijon (32)
+?,(Fri) 12 Apr 2013 (14),Niort (32),0-0,0-0,Angers (32)
+?,(Fri) 12 Apr 2013 (14),Sedan (32),4-1,1-1,Ajaccio GFCO (32)
+?,(Fri) 12 Apr 2013 (14),Tours (32),2-0,0-0,Guingamp (32)
+?,(Sat) 13 Apr 2013 (14),Auxerre (32),0-2,0-2,Monaco (32)
+?,(Mon) 15 Apr 2013 (15),Chateauroux (32),0-4,0-1,Nantes (32)
+?,(Fri) 19 Apr 2013 (15),Ajaccio GFCO (33),0-1,0-0,Tours (33)
+?,(Fri) 19 Apr 2013 (15),Angers (33),1-1,0-1,Caen (33)
+?,(Fri) 19 Apr 2013 (15),Arles (33),1-0,1-0,Istres (33)
+?,(Fri) 19 Apr 2013 (15),Chateauroux (33),1-0,0-0,Niort (33)
+?,(Fri) 19 Apr 2013 (15),Dijon (33),1-0,0-0,Laval (33)
+?,(Fri) 19 Apr 2013 (15),Guingamp (33),6-1,2-0,Le Mans (33)
+?,(Fri) 19 Apr 2013 (15),Le Havre (33),1-1,1-0,Sedan (33)
+?,(Sat) 20 Apr 2013 (15),Lens (33),1-2,0-1,Nimes (33)
+?,(Sat) 20 Apr 2013 (15),Nantes (33),1-1,1-1,Auxerre (33)
+?,(Mon) 22 Apr 2013 (16),Monaco (33),4-0,2-0,Clermont (33)
+?,(Fri) 26 Apr 2013 (16),Auxerre (34),0-0,0-0,Chateauroux (34)
+?,(Fri) 26 Apr 2013 (16),Clermont (34),0-2,0-0,Ajaccio GFCO (34)
+?,(Fri) 26 Apr 2013 (16),Istres (34),2-0,2-0,Guingamp (34)
+?,(Fri) 26 Apr 2013 (16),Laval (34),1-1,0-1,Lens (34)
+?,(Fri) 26 Apr 2013 (16),Le Mans (34),0-0,0-0,Arles (34)
+?,(Fri) 26 Apr 2013 (16),Nimes (34),3-0,0-0,Angers (34)
+?,(Fri) 26 Apr 2013 (16),Niort (34),0-1,0-0,Nantes (34)
+?,(Fri) 26 Apr 2013 (16),Tours (34),1-2,0-2,Le Havre (34)
+?,(Sat) 27 Apr 2013 (16),Caen (34),2-2,1-0,Dijon (34)
+?,(Mon) 29 Apr 2013 (17),Sedan (34),1-1,1-1,Monaco (34)
+?,(Fri) 3 May 2013 (17),Ajaccio GFCO (35),1-3,1-3,Le Mans (35)
+?,(Fri) 3 May 2013 (17),Angers (35),1-0,0-0,Laval (35)
+?,(Fri) 3 May 2013 (17),Arles (35),0-2,0-0,Guingamp (35)
+?,(Fri) 3 May 2013 (17),Chateauroux (35),2-1,2-0,Nimes (35)
+?,(Fri) 3 May 2013 (17),Dijon (35),4-2,2-1,Sedan (35)
+?,(Fri) 3 May 2013 (17),Le Havre (35),2-0,0-0,Istres (35)
+?,(Fri) 3 May 2013 (17),Lens (35),0-0,0-0,Tours (35)
+?,(Fri) 3 May 2013 (17),Niort (35),0-1,0-1,Auxerre (35)
+?,(Sat) 4 May 2013 (17),Monaco (35),0-1,0-1,Caen (35)
+?,(Mon) 6 May 2013 (18),Nantes (35),0-1,0-1,Clermont (35)
+?,(Fri) 10 May 2013 (18),Auxerre (36),2-2,1-1,Angers (36)
+?,(Fri) 10 May 2013 (18),Clermont (36),1-0,0-0,Chateauroux (36)
+?,(Fri) 10 May 2013 (18),Guingamp (36),7-0,4-0,Lens (36)
+?,(Fri) 10 May 2013 (18),Istres (36),2-3,1-2,Dijon (36)
+?,(Fri) 10 May 2013 (18),Laval (36),1-2,1-0,Ajaccio GFCO (36)
+?,(Fri) 10 May 2013 (18),Le Mans (36),0-4,0-1,Le Havre (36)
+?,(Fri) 10 May 2013 (18),Sedan (36),0-2,0-1,Niort (36)
+?,(Fri) 10 May 2013 (18),Tours (36),0-0,0-0,Arles (36)
+?,(Sat) 11 May 2013 (18),Nimes (36),0-1,0-0,Monaco (36)
+?,(Mon) 13 May 2013 (19),Caen (36),0-1,0-0,Nantes (36)
+?,(Fri) 17 May 2013 (19),Ajaccio GFCO (37),0-1,0-0,Guingamp (37)
+?,(Fri) 17 May 2013 (19),Angers (37),0-1,0-0,Tours (37)
+?,(Fri) 17 May 2013 (19),Auxerre (37),1-1,1-1,Clermont (37)
+?,(Fri) 17 May 2013 (19),Chateauroux (37),2-2,2-1,Caen (37)
+?,(Fri) 17 May 2013 (19),Dijon (37),2-3,1-1,Arles (37)
+?,(Fri) 17 May 2013 (19),Le Havre (37),1-2,1-2,Laval (37)
+?,(Fri) 17 May 2013 (19),Lens (37),1-1,0-0,Istres (37)
+?,(Fri) 17 May 2013 (19),Monaco (37),2-1,2-0,Le Mans (37)
+?,(Fri) 17 May 2013 (19),Nantes (37),1-0,0-0,Sedan (37)
+?,(Fri) 17 May 2013 (19),Niort (37),2-0,0-0,Nimes (37)
+?,(Fri) 24 May 2013 (20),Arles (38),1-1,1-0,Le Havre (38)
+?,(Fri) 24 May 2013 (20),Caen (38),2-1,1-1,Ajaccio GFCO (38)
+?,(Fri) 24 May 2013 (20),Clermont (38),1-1,0-1,Niort (38)
+?,(Fri) 24 May 2013 (20),Guingamp (38),2-0,1-0,Dijon (38)
+?,(Fri) 24 May 2013 (20),Istres (38),2-2,0-1,Nantes (38)
+?,(Fri) 24 May 2013 (20),Laval (38),3-2,2-0,Chateauroux (38)
+?,(Fri) 24 May 2013 (20),Le Mans (38),2-1,2-0,Lens (38)
+?,(Fri) 24 May 2013 (20),Nimes (38),4-2,3-1,Auxerre (38)
+?,(Fri) 24 May 2013 (20),Sedan (38),2-2,1-0,Angers (38)
+?,(Fri) 24 May 2013 (20),Tours (38),1-2,1-0,Monaco (38)

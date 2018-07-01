@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
-?,(Fri) Aug/1 2003 (30),Le Havre (1),Nancy (1),0-0,0-0
-?,(Sat) Aug/2 2003 (30),Angers (1),Valence (1),0-2,0-2
-?,(Sat) Aug/2 2003 (30),Chateauroux (1),St Etienne (1),2-0,1-0
-?,(Sat) Aug/2 2003 (30),Clermont (1),Rouen (1),0-0,0-0
-?,(Sat) Aug/2 2003 (30),Grenoble (1),Besancon (1),0-0,0-0
-?,(Sat) Aug/2 2003 (30),Gueugnon (1),Lorient (1),1-1,0-1
-?,(Sat) Aug/2 2003 (30),Istres (1),Sedan (1),2-0,1-0
-?,(Sat) Aug/2 2003 (30),Laval (1),Amiens (1),1-2,1-1
-?,(Sat) Aug/2 2003 (30),Niort (1),Creteil (1),3-0,1-0
-?,(Sat) Aug/2 2003 (30),Troyes (1),Caen (1),2-2,0-1
-?,(Sat) Aug/9 2003 (31),Amiens (2),Angers (2),1-0,0-0
-?,(Sat) Aug/9 2003 (31),Besancon (2),Istres (2),0-1,0-0
-?,(Sat) Aug/9 2003 (31),Caen (2),Clermont (2),1-2,0-0
-?,(Sat) Aug/9 2003 (31),Creteil (2),Gueugnon (2),1-1,0-0
-?,(Sat) Aug/9 2003 (31),Nancy (2),St Etienne (2),0-1,0-0
-?,(Sat) Aug/9 2003 (31),Rouen (2),Laval (2),1-1,0-0
-?,(Sat) Aug/9 2003 (31),Sedan (2),Niort (2),1-1,1-1
-?,(Sat) Aug/9 2003 (31),Troyes (2),Grenoble (2),3-2,1-1
-?,(Sat) Aug/9 2003 (31),Valence (2),Chateauroux (2),3-0,2-0
-?,(Sun) Aug/10 2003 (31),Lorient (2),Le Havre (2),2-0,0-0
-?,(Fri) Aug/15 2003 (32),St Etienne (3),Lorient (3),2-1,1-1
-?,(Sat) Aug/16 2003 (32),Angers (3),Sedan (3),0-0,0-0
-?,(Sat) Aug/16 2003 (32),Chateauroux (3),Nancy (3),0-0,0-0
-?,(Sat) Aug/16 2003 (32),Clermont (3),Troyes (3),0-0,0-0
-?,(Sat) Aug/16 2003 (32),Grenoble (3),Rouen (3),0-0,0-0
-?,(Sat) Aug/16 2003 (32),Gueugnon (3),Amiens (3),0-1,0-0
-?,(Sat) Aug/16 2003 (32),Istres (3),Caen (3),3-1,1-0
-?,(Sat) Aug/16 2003 (32),Laval (3),Besancon (3),1-3,0-3
-?,(Sat) Aug/16 2003 (32),Le Havre (3),Creteil (3),1-1,1-1
-?,(Sat) Aug/16 2003 (32),Niort (3),Valence (3),1-0,0-0
-?,(Tue) Aug/19 2003 (33),Amiens (4),Istres (4),0-0,0-0
-?,(Tue) Aug/19 2003 (33),Besancon (4),Gueugnon (4),1-1,1-0
-?,(Tue) Aug/19 2003 (33),Caen (4),Grenoble (4),0-0,0-0
-?,(Tue) Aug/19 2003 (33),Clermont (4),Niort (4),0-1,0-0
-?,(Tue) Aug/19 2003 (33),Creteil (4),St Etienne (4),1-0,0-0
-?,(Tue) Aug/19 2003 (33),Lorient (4),Nancy (4),2-0,0-0
-?,(Tue) Aug/19 2003 (33),Rouen (4),Angers (4),3-1,2-0
-?,(Tue) Aug/19 2003 (33),Sedan (4),Chateauroux (4),2-0,1-0
-?,(Tue) Aug/19 2003 (33),Troyes (4),Laval (4),0-0,0-0
-?,(Tue) Aug/19 2003 (33),Valence (4),Le Havre (4),1-2,0-1
-?,(Fri) Aug/22 2003 (33),Le Havre (5),Sedan (5),3-0,1-0
-?,(Sat) Aug/23 2003 (33),Angers (5),Besancon (5),2-1,1-0
-?,(Sat) Aug/23 2003 (33),Chateauroux (5),Lorient (5),2-2,2-1
-?,(Sat) Aug/23 2003 (33),Grenoble (5),Clermont (5),0-0,0-0
-?,(Sat) Aug/23 2003 (33),Gueugnon (5),Valence (5),2-0,1-0
-?,(Sat) Aug/23 2003 (33),Istres (5),Rouen (5),0-0,0-0
-?,(Sat) Aug/23 2003 (33),Laval (5),Caen (5),1-0,0-0
-?,(Sat) Aug/23 2003 (33),Nancy (5),Creteil (5),2-0,0-0
-?,(Sat) Aug/23 2003 (33),Niort (5),Amiens (5),0-0,0-0
-?,(Sat) Aug/23 2003 (33),St Etienne (5),Troyes (5),2-3,2-0
-?,(Fri) Aug/29 2003 (34),Besancon (6),Chateauroux (6),3-1,2-1
-?,(Sat) Aug/30 2003 (34),Amiens (6),Le Havre (6),2-0,1-0
-?,(Sat) Aug/30 2003 (34),Caen (6),Angers (6),1-0,1-0
-?,(Sat) Aug/30 2003 (34),Clermont (6),Laval (6),2-1,0-1
-?,(Sat) Aug/30 2003 (34),Creteil (6),Lorient (6),1-0,1-0
-?,(Sat) Aug/30 2003 (34),Grenoble (6),Gueugnon (6),2-2,1-0
-?,(Sat) Aug/30 2003 (34),Rouen (6),Niort (6),2-1,2-1
-?,(Sat) Aug/30 2003 (34),Troyes (6),Istres (6),0-2,0-0
-?,(Sat) Aug/30 2003 (34),Valence (6),Nancy (6),0-0,0-0
-?,(Sun) Aug/31 2003 (34),Sedan (6),St Etienne (6),1-2,1-1
-?,(Thu) Sep/4 2003 (35),Laval (7),Grenoble (7),2-0,0-0
-?,(Fri) Sep/5 2003 (35),Angers (7),Troyes (7),2-0,0-0
-?,(Fri) Sep/5 2003 (35),Chateauroux (7),Creteil (7),1-3,1-1
-?,(Fri) Sep/5 2003 (35),Gueugnon (7),Rouen (7),2-1,1-0
-?,(Fri) Sep/5 2003 (35),Istres (7),Clermont (7),2-0,0-0
-?,(Fri) Sep/5 2003 (35),Le Havre (7),Besancon (7),2-0,1-0
-?,(Fri) Sep/5 2003 (35),Lorient (7),Amiens (7),3-1,1-1
-?,(Fri) Sep/5 2003 (35),Nancy (7),Sedan (7),2-0,1-0
-?,(Fri) Sep/5 2003 (35),Niort (7),Caen (7),0-3,0-1
-?,(Fri) Sep/5 2003 (35),St Etienne (7),Valence (7),1-0,0-0
-?,(Fri) Sep/12 2003 (36),Troyes (8),Niort (8),1-0,0-0
-?,(Sat) Sep/13 2003 (36),Amiens (8),Chateauroux (8),0-0,0-0
-?,(Sat) Sep/13 2003 (36),Besancon (8),St Etienne (8),0-1,0-0
-?,(Sat) Sep/13 2003 (36),Caen (8),Gueugnon (8),2-1,0-1
-?,(Sat) Sep/13 2003 (36),Clermont (8),Angers (8),4-1,1-1
-?,(Sat) Sep/13 2003 (36),Grenoble (8),Istres (8),0-1,0-1
-?,(Sat) Sep/13 2003 (36),Laval (8),Le Havre (8),1-1,1-0
-?,(Sat) Sep/13 2003 (36),Rouen (8),Nancy (8),1-1,0-1
-?,(Sat) Sep/13 2003 (36),Sedan (8),Lorient (8),2-1,0-1
-?,(Sat) Sep/13 2003 (36),Valence (8),Creteil (8),2-2,2-1
-?,(Sat) Sep/20 2003 (37),Angers (9),Grenoble (9),1-1,0-1
-?,(Sat) Sep/20 2003 (37),Chateauroux (9),Caen (9),1-1,1-1
-?,(Sat) Sep/20 2003 (37),Creteil (9),Sedan (9),0-1,0-0
-?,(Sat) Sep/20 2003 (37),Gueugnon (9),Troyes (9),1-1,0-0
-?,(Sat) Sep/20 2003 (37),Istres (9),Laval (9),2-1,1-1
-?,(Sat) Sep/20 2003 (37),Le Havre (9),Rouen (9),2-0,0-0
-?,(Sat) Sep/20 2003 (37),Lorient (9),Valence (9),3-1,1-0
-?,(Sat) Sep/20 2003 (37),Nancy (9),Clermont (9),3-4,1-3
-?,(Sat) Sep/20 2003 (37),Niort (9),Besancon (9),3-0,1-0
-?,(Sun) Sep/21 2003 (37),St Etienne (9),Amiens (9),0-2,0-0
-?,(Sat) Sep/27 2003 (38),Amiens (10),Creteil (10),1-0,1-0
-?,(Sat) Sep/27 2003 (38),Besancon (10),Nancy (10),1-3,0-2
-?,(Sat) Sep/27 2003 (38),Caen (10),St Etienne (10),1-0,0-0
-?,(Sat) Sep/27 2003 (38),Clermont (10),Gueugnon (10),1-0,0-0
-?,(Sat) Sep/27 2003 (38),Grenoble (10),Niort (10),0-1,0-0
-?,(Sat) Sep/27 2003 (38),Laval (10),Angers (10),3-3,2-0
-?,(Sat) Sep/27 2003 (38),Rouen (10),Chateauroux (10),1-4,1-2
-?,(Sat) Sep/27 2003 (38),Sedan (10),Valence (10),0-0,0-0
-?,(Sat) Sep/27 2003 (38),Troyes (10),Le Havre (10),2-0,2-0
-?,(Sun) Sep/28 2003 (38),Istres (10),Lorient (10),1-0,0-0
-?,(Fri) Oct/3 2003 (39),St Etienne (11),Rouen (11),2-0,1-0
-?,(Sat) Oct/4 2003 (39),Angers (11),Istres (11),1-0,1-0
-?,(Sat) Oct/4 2003 (39),Chateauroux (11),Grenoble (11),0-0,0-0
-?,(Sat) Oct/4 2003 (39),Creteil (11),Clermont (11),5-1,3-1
-?,(Sat) Oct/4 2003 (39),Gueugnon (11),Sedan (11),0-0,0-0
-?,(Sat) Oct/4 2003 (39),Le Havre (11),Caen (11),1-1,0-0
-?,(Sat) Oct/4 2003 (39),Nancy (11),Troyes (11),3-0,1-0
-?,(Sat) Oct/4 2003 (39),Niort (11),Laval (11),4-0,1-0
-?,(Sat) Oct/4 2003 (39),Valence (11),Amiens (11),2-1,1-1
-?,(Mon) Oct/6 2003 (40),Lorient (11),Besancon (11),2-0,0-0
-?,(Sat) Oct/18 2003 (41),Angers (12),Niort (12),0-0,0-0
-?,(Sat) Oct/18 2003 (41),Besancon (12),Valence (12),1-1,1-0
-?,(Sat) Oct/18 2003 (41),Caen (12),Lorient (12),2-0,0-0
-?,(Sat) Oct/18 2003 (41),Grenoble (12),Le Havre (12),2-0,2-0
-?,(Sat) Oct/18 2003 (41),Istres (12),Nancy (12),2-0,0-0
-?,(Sat) Oct/18 2003 (41),Laval (12),Gueugnon (12),1-2,0-2
-?,(Sat) Oct/18 2003 (41),Rouen (12),Creteil (12),1-1,0-1
-?,(Sat) Oct/18 2003 (41),Troyes (12),Chateauroux (12),4-0,1-0
-?,(Sun) Oct/19 2003 (41),Clermont (12),St Etienne (12),0-3,0-1
-?,(Mon) Oct/20 2003 (42),Amiens (12),Sedan (12),1-1,0-1
-?,(Sat) Oct/25 2003 (42),Chateauroux (13),Laval (13),2-1,1-0
-?,(Sat) Oct/25 2003 (42),Creteil (13),Caen (13),0-0,0-0
-?,(Sat) Oct/25 2003 (42),Gueugnon (13),Angers (13),1-1,0-0
-?,(Sat) Oct/25 2003 (42),Le Havre (13),Clermont (13),1-1,0-0
-?,(Sat) Oct/25 2003 (42),Lorient (13),Rouen (13),4-1,2-1
-?,(Sat) Oct/25 2003 (42),Nancy (13),Amiens (13),0-0,0-0
-?,(Sat) Oct/25 2003 (42),Sedan (13),Besancon (13),2-0,1-0
-?,(Sat) Oct/25 2003 (42),St Etienne (13),Grenoble (13),1-0,1-0
-?,(Sat) Oct/25 2003 (42),Valence (13),Troyes (13),2-1,0-1
-?,(Sun) Oct/26 2003 (42),Niort (13),Istres (13),2-1,2-1
-?,(Fri) Oct/31 2003 (43),Clermont (14),Lorient (14),0-4,0-1
-?,(Sat) Nov/1 2003 (43),Angers (14),Chateauroux (14),2-0,2-0
-?,(Sat) Nov/1 2003 (43),Besancon (14),Amiens (14),0-2,0-1
-?,(Sat) Nov/1 2003 (43),Caen (14),Valence (14),4-1,1-0
-?,(Sat) Nov/1 2003 (43),Grenoble (14),Nancy (14),2-3,1-2
-?,(Sat) Nov/1 2003 (43),Istres (14),Gueugnon (14),2-1,1-1
-?,(Sat) Nov/1 2003 (43),Laval (14),St Etienne (14),2-0,0-0
-?,(Sat) Nov/1 2003 (43),Rouen (14),Sedan (14),0-1,0-1
-?,(Sat) Nov/1 2003 (43),Troyes (14),Creteil (14),0-0,0-0
-?,(Mon) Nov/3 2003 (44),Niort (14),Le Havre (14),0-0,0-0
-?,(Fri) Nov/7 2003 (44),St Etienne (15),Istres (15),0-0,0-0
-?,(Sat) Nov/8 2003 (44),Amiens (15),Troyes (15),1-1,1-0
-?,(Sat) Nov/8 2003 (44),Chateauroux (15),Clermont (15),2-2,1-0
-?,(Sat) Nov/8 2003 (44),Creteil (15),Besancon (15),1-1,0-1
-?,(Sat) Nov/8 2003 (44),Gueugnon (15),Niort (15),1-2,0-2
-?,(Sat) Nov/8 2003 (44),Le Havre (15),Angers (15),1-0,0-0
-?,(Sat) Nov/8 2003 (44),Lorient (15),Grenoble (15),2-1,2-1
-?,(Sat) Nov/8 2003 (44),Nancy (15),Laval (15),1-1,0-1
-?,(Sat) Nov/8 2003 (44),Sedan (15),Caen (15),0-0,0-0
-?,(Sat) Nov/8 2003 (44),Valence (15),Rouen (15),2-1,1-1
-?,(Fri) Nov/28 2003 (47),Laval (16),Lorient (16),2-2,0-2
-?,(Fri) Nov/28 2003 (47),Troyes (16),Sedan (16),0-0,0-0
-?,(Sat) Nov/29 2003 (47),Angers (16),St Etienne (16),1-1,0-0
-?,(Sat) Nov/29 2003 (47),Clermont (16),Valence (16),1-1,0-1
-?,(Sat) Nov/29 2003 (47),Grenoble (16),Creteil (16),1-1,0-0
-?,(Sat) Nov/29 2003 (47),Gueugnon (16),Nancy (16),0-0,0-0
-?,(Sat) Nov/29 2003 (47),Istres (16),Le Havre (16),2-0,1-0
-?,(Sat) Nov/29 2003 (47),Niort (16),Chateauroux (16),0-0,0-0
-?,(Sat) Nov/29 2003 (47),Rouen (16),Besancon (16),1-1,0-0
-?,(Sun) Nov/30 2003 (47),Caen (16),Amiens (16),2-1,1-1
-?,(Wed) Dec/3 2003 (48),Amiens (17),Rouen (17),2-1,2-0
-?,(Wed) Dec/3 2003 (48),Besancon (17),Caen (17),0-1,0-0
-?,(Wed) Dec/3 2003 (48),Chateauroux (17),Istres (17),1-0,0-0
-?,(Wed) Dec/3 2003 (48),Creteil (17),Laval (17),3-0,1-0
-?,(Wed) Dec/3 2003 (48),Le Havre (17),Gueugnon (17),5-0,4-0
-?,(Wed) Dec/3 2003 (48),Nancy (17),Angers (17),2-1,0-1
-?,(Wed) Dec/3 2003 (48),Sedan (17),Clermont (17),1-1,0-0
-?,(Thu) Dec/4 2003 (48),Lorient (17),Troyes (17),1-0,0-0
-?,(Sat) Dec/6 2003 (48),Clermont (18),Amiens (18),0-2,0-1
-?,(Sat) Dec/6 2003 (48),Grenoble (17),Sedan (18),0-0,0-0
-?,(Sat) Dec/6 2003 (48),Gueugnon (18),St Etienne (17),0-1,0-0
-?,(Sat) Dec/6 2003 (48),Laval (18),Valence (17),2-2,1-1
-?,(Sat) Dec/6 2003 (48),Niort (17),Nancy (18),2-2,0-1
-?,(Sun) Dec/7 2003 (48),Angers (18),Lorient (18),1-1,0-0
-?,(Sun) Dec/7 2003 (48),Caen (18),Rouen (18),1-1,0-0
-?,(Sun) Dec/7 2003 (48),Istres (18),Creteil (18),2-0,0-0
-?,(Sun) Dec/7 2003 (48),Troyes (18),Besancon (18),1-1,1-0
-?,(Mon) Dec/8 2003 (49),Le Havre (18),Chateauroux (18),3-2,1-2
-?,(Wed) Dec/10 2003 (49),St Etienne (18),Niort (18),2-1,0-0
-?,(Wed) Dec/17 2003 (50),Valence (18),Grenoble (18),1-2,1-1
-?,(Sat) Dec/20 2003 (50),Amiens (19),Grenoble (19),0-1,0-1
-?,(Sat) Dec/20 2003 (50),Besancon (19),Clermont (19),1-1,0-0
-?,(Sat) Dec/20 2003 (50),Chateauroux (19),Gueugnon (19),3-2,0-1
-?,(Sat) Dec/20 2003 (50),Creteil (19),Angers (19),1-1,0-1
-?,(Sat) Dec/20 2003 (50),Lorient (19),Niort (19),4-2,2-1
-?,(Sat) Dec/20 2003 (50),Nancy (19),Caen (19),0-2,0-1
-?,(Sat) Dec/20 2003 (50),Rouen (19),Troyes (19),0-1,0-0
-?,(Sat) Dec/20 2003 (50),Sedan (19),Laval (19),1-0,0-0
-?,(Sat) Dec/20 2003 (50),Valence (19),Istres (19),0-0,0-0
-?,(Sun) Dec/21 2003 (50),St Etienne (19),Le Havre (19),2-0,2-0
-?,(Sat) Jan/10 2004 (1),Chateauroux (20),Valence (20),3-0,1-0
-?,(Sat) Jan/10 2004 (1),Clermont (20),Caen (20),2-2,1-1
-?,(Sat) Jan/10 2004 (1),Grenoble (20),Troyes (20),1-2,0-1
-?,(Sat) Jan/10 2004 (1),Gueugnon (20),Creteil (20),1-1,1-0
-?,(Sat) Jan/10 2004 (1),Istres (20),Besancon (20),0-1,0-1
-?,(Sat) Jan/10 2004 (1),Laval (20),Rouen (20),0-0,0-0
-?,(Sat) Jan/10 2004 (1),Niort (20),Sedan (20),1-1,0-0
-?,(Sat) Jan/10 2004 (1),St Etienne (20),Nancy (20),0-0,0-0
-?,(Sun) Jan/11 2004 (1),Le Havre (20),Lorient (20),1-0,0-0
-?,(Mon) Jan/12 2004 (2),Angers (20),Amiens (20),1-2,1-1
-?,(Sat) Jan/17 2004 (2),Amiens (21),Gueugnon (21),1-0,0-0
-?,(Sat) Jan/17 2004 (2),Besancon (21),Laval (21),2-2,1-1
-?,(Sat) Jan/17 2004 (2),Caen (21),Istres (21),2-1,1-0
-?,(Sat) Jan/17 2004 (2),Creteil (21),Le Havre (21),2-3,2-2
-?,(Sat) Jan/17 2004 (2),Nancy (21),Chateauroux (21),2-0,1-0
-?,(Sat) Jan/17 2004 (2),Rouen (21),Grenoble (21),0-2,0-0
-?,(Sat) Jan/17 2004 (2),Sedan (21),Angers (21),1-0,0-0
-?,(Sat) Jan/17 2004 (2),Troyes (21),Clermont (21),2-0,0-0
-?,(Sat) Jan/17 2004 (2),Valence (21),Niort (21),1-1,1-0
-?,(Sun) Jan/18 2004 (2),Lorient (21),St Etienne (21),2-0,1-0
-?,(Sat) Jan/31 2004 (4),Angers (22),Rouen (22),0-1,0-0
-?,(Sat) Jan/31 2004 (4),Chateauroux (22),Sedan (22),2-0,1-0
-?,(Sat) Jan/31 2004 (4),Grenoble (22),Caen (22),2-1,1-1
-?,(Sat) Jan/31 2004 (4),Gueugnon (22),Besancon (22),1-0,0-0
-?,(Sat) Jan/31 2004 (4),Laval (22),Troyes (22),4-0,2-0
-?,(Sat) Jan/31 2004 (4),Le Havre (22),Valence (22),1-0,1-0
-?,(Sat) Jan/31 2004 (4),Niort (22),Clermont (22),3-1,2-0
-?,(Sat) Jan/31 2004 (4),St Etienne (22),Creteil (22),3-2,2-1
-?,(Sun) Feb/1 2004 (4),Istres (22),Amiens (22),1-0,1-0
-?,(Mon) Feb/2 2004 (5),Nancy (22),Lorient (22),1-1,0-0
-?,(Sat) Feb/7 2004 (5),Amiens (23),Niort (23),2-3,1-3
-?,(Sat) Feb/7 2004 (5),Besancon (23),Angers (23),2-0,2-0
-?,(Sat) Feb/7 2004 (5),Caen (23),Laval (23),1-2,1-2
-?,(Sat) Feb/7 2004 (5),Clermont (23),Grenoble (23),2-0,1-0
-?,(Sat) Feb/7 2004 (5),Creteil (23),Nancy (23),1-0,1-0
-?,(Sat) Feb/7 2004 (5),Lorient (23),Chateauroux (23),0-1,0-1
-?,(Sat) Feb/7 2004 (5),Rouen (23),Istres (23),1-3,0-2
-?,(Sat) Feb/7 2004 (5),Sedan (23),Le Havre (23),2-0,0-0
-?,(Sat) Feb/7 2004 (5),Valence (23),Gueugnon (23),3-1,2-0
-?,(Sun) Feb/8 2004 (5),Troyes (23),St Etienne (23),0-1,0-1
-?,(Sat) Feb/14 2004 (6),Angers (24),Caen (24),0-1,0-0
-?,(Sat) Feb/14 2004 (6),Chateauroux (24),Besancon (24),0-0,0-0
-?,(Sat) Feb/14 2004 (6),Gueugnon (24),Grenoble (24),0-2,0-1
-?,(Sat) Feb/14 2004 (6),Istres (24),Troyes (24),0-0,0-0
-?,(Sat) Feb/14 2004 (6),Laval (24),Clermont (24),2-3,0-2
-?,(Sat) Feb/14 2004 (6),Lorient (24),Creteil (24),0-3,0-2
-?,(Sat) Feb/14 2004 (6),Nancy (24),Valence (24),1-1,0-0
-?,(Sat) Feb/14 2004 (6),Niort (24),Rouen (24),2-1,1-0
-?,(Sat) Feb/14 2004 (6),St Etienne (24),Sedan (24),0-2,0-2
-?,(Sun) Feb/15 2004 (6),Le Havre (24),Amiens (24),0-1,0-1
-?,(Sat) Feb/21 2004 (7),Besancon (25),Le Havre (25),1-1,0-1
-?,(Sat) Feb/21 2004 (7),Clermont (25),Istres (25),1-1,0-1
-?,(Sat) Feb/21 2004 (7),Creteil (25),Chateauroux (25),1-0,0-0
-?,(Sat) Feb/21 2004 (7),Grenoble (25),Laval (25),1-1,0-1
-?,(Sat) Feb/21 2004 (7),Rouen (25),Gueugnon (25),0-0,0-0
-?,(Sat) Feb/21 2004 (7),Sedan (25),Nancy (25),0-4,0-1
-?,(Sat) Feb/21 2004 (7),Troyes (25),Angers (25),2-2,1-2
-?,(Sat) Feb/21 2004 (7),Valence (25),St Etienne (25),1-3,1-2
-?,(Sun) Feb/22 2004 (7),Amiens (25),Lorient (25),1-0,0-0
-?,(Mon) Feb/23 2004 (8),Caen (25),Niort (25),2-2,1-0
-?,(Fri) Feb/27 2004 (8),Chateauroux (26),Amiens (26),4-1,1-1
-?,(Sat) Feb/28 2004 (8),Angers (26),Clermont (26),0-0,0-0
-?,(Sat) Feb/28 2004 (8),Creteil (26),Valence (26),2-1,1-0
-?,(Sat) Feb/28 2004 (8),Gueugnon (26),Caen (26),0-0,0-0
-?,(Sat) Feb/28 2004 (8),Istres (26),Grenoble (26),2-0,1-0
-?,(Sat) Feb/28 2004 (8),Le Havre (26),Laval (26),3-2,1-2
-?,(Sat) Feb/28 2004 (8),Lorient (26),Sedan (26),1-1,0-1
-?,(Sat) Feb/28 2004 (8),Nancy (26),Rouen (26),2-1,0-0
-?,(Fri) Mar/5 2004 (9),Amiens (27),St Etienne (26),1-2,0-1
-?,(Sat) Mar/6 2004 (9),Besancon (26),Niort (26),4-0,2-0
-?,(Sat) Mar/6 2004 (9),Caen (27),Chateauroux (27),1-0,0-0
-?,(Sat) Mar/6 2004 (9),Clermont (27),Nancy (27),0-1,0-1
-?,(Sat) Mar/6 2004 (9),Grenoble (27),Angers (27),0-0,0-0
-?,(Sat) Mar/6 2004 (9),Rouen (27),Le Havre (27),4-0,2-0
-?,(Sat) Mar/6 2004 (9),Sedan (27),Creteil (27),4-0,1-0
-?,(Sat) Mar/6 2004 (9),Troyes (26),Gueugnon (27),2-1,1-0
-?,(Sat) Mar/6 2004 (9),Valence (27),Lorient (27),1-2,0-1
-?,(Mon) Mar/8 2004 (10),Laval (27),Istres (27),0-0,0-0
-?,(Sat) Mar/13 2004 (10),Angers (28),Laval (28),3-2,1-1
-?,(Sat) Mar/13 2004 (10),Chateauroux (28),Rouen (28),2-0,2-0
-?,(Sat) Mar/13 2004 (10),Creteil (28),Amiens (28),1-1,1-0
-?,(Sat) Mar/13 2004 (10),Gueugnon (28),Clermont (28),0-0,0-0
-?,(Sat) Mar/13 2004 (10),Le Havre (28),Troyes (27),3-0,1-0
-?,(Sat) Mar/13 2004 (10),Lorient (28),Istres (28),2-1,0-0
-?,(Sat) Mar/13 2004 (10),Nancy (28),Besancon (27),3-0,1-0
-?,(Sat) Mar/13 2004 (10),Niort (27),Grenoble (28),1-1,0-0
-?,(Sat) Mar/13 2004 (10),Valence (28),Sedan (28),2-2,2-1
-?,(Sun) Mar/14 2004 (10),St Etienne (27),Caen (28),1-0,1-0
-?,(Sat) Mar/20 2004 (11),Amiens (29),Valence (29),2-2,2-2
-?,(Sat) Mar/20 2004 (11),Besancon (28),Lorient (29),1-1,0-0
-?,(Sat) Mar/20 2004 (11),Clermont (29),Creteil (29),2-0,0-0
-?,(Sat) Mar/20 2004 (11),Grenoble (29),Chateauroux (29),4-1,3-1
-?,(Sat) Mar/20 2004 (11),Istres (29),Angers (29),1-0,0-0
-?,(Sat) Mar/20 2004 (11),Laval (29),Niort (28),0-1,0-1
-?,(Sat) Mar/20 2004 (11),Rouen (29),St Etienne (28),0-1,0-0
-?,(Sat) Mar/20 2004 (11),Sedan (29),Gueugnon (29),1-1,1-1
-?,(Sat) Mar/20 2004 (11),Troyes (28),Nancy (29),1-1,1-1
-?,(Sun) Mar/21 2004 (11),Caen (29),Le Havre (29),3-1,1-1
-?,(Sat) Mar/27 2004 (12),Chateauroux (30),Troyes (29),1-1,0-0
-?,(Sat) Mar/27 2004 (12),Creteil (30),Rouen (30),0-0,0-0
-?,(Sat) Mar/27 2004 (12),Gueugnon (30),Laval (30),1-1,1-0
-?,(Sat) Mar/27 2004 (12),Le Havre (30),Grenoble (30),1-0,0-0
-?,(Sat) Mar/27 2004 (12),Lorient (30),Caen (30),2-3,1-2
-?,(Sat) Mar/27 2004 (12),Niort (29),Angers (30),0-1,0-1
-?,(Sat) Mar/27 2004 (12),Sedan (30),Amiens (30),3-1,0-1
-?,(Sat) Mar/27 2004 (12),St Etienne (29),Clermont (30),0-0,0-0
-?,(Sat) Mar/27 2004 (12),Valence (30),Besancon (29),3-1,1-1
-?,(Sun) Mar/28 2004 (12),Nancy (30),Istres (30),2-1,1-1
-?,(Fri) Apr/2 2004 (13),Grenoble (31),St Etienne (30),2-2,0-1
-?,(Sat) Apr/3 2004 (13),Amiens (31),Nancy (31),2-1,1-1
-?,(Sat) Apr/3 2004 (13),Angers (31),Gueugnon (31),2-1,2-1
-?,(Sat) Apr/3 2004 (13),Besancon (30),Sedan (31),1-1,0-0
-?,(Sat) Apr/3 2004 (13),Caen (31),Creteil (31),1-2,0-0
-?,(Sat) Apr/3 2004 (13),Clermont (31),Le Havre (31),1-1,0-0
-?,(Sat) Apr/3 2004 (13),Laval (31),Chateauroux (31),2-0,1-0
-?,(Sat) Apr/3 2004 (13),Rouen (31),Lorient (31),0-1,0-0
-?,(Sat) Apr/3 2004 (13),Troyes (30),Valence (31),0-1,0-0
-?,(Mon) Apr/5 2004 (14),Istres (31),Niort (30),2-2,1-0
-?,(Sat) Apr/10 2004 (14),Amiens (32),Besancon (31),1-0,1-0
-?,(Sat) Apr/10 2004 (14),Chateauroux (32),Angers (32),4-1,2-0
-?,(Sat) Apr/10 2004 (14),Creteil (32),Troyes (31),1-2,1-2
-?,(Sat) Apr/10 2004 (14),Gueugnon (32),Istres (32),1-0,1-0
-?,(Sat) Apr/10 2004 (14),Le Havre (32),Niort (31),1-1,1-0
-?,(Sat) Apr/10 2004 (14),Lorient (32),Clermont (32),1-1,1-0
-?,(Sat) Apr/10 2004 (14),Nancy (32),Grenoble (32),0-0,0-0
-?,(Sat) Apr/10 2004 (14),Sedan (32),Rouen (32),0-0,0-0
-?,(Sat) Apr/10 2004 (14),Valence (32),Caen (32),0-2,0-0
-?,(Sun) Apr/11 2004 (14),St Etienne (31),Laval (32),2-0,2-0
-?,(Fri) Apr/16 2004 (15),Niort (32),Troyes (32),2-1,2-0
-?,(Fri) Apr/16 2004 (15),St Etienne (32),Besancon (32),2-1,1-1
-?,(Fri) Apr/23 2004 (16),Clermont (33),Chateauroux (33),0-1,0-0
-?,(Fri) Apr/23 2004 (16),Istres (33),St Etienne (33),0-2,0-1
-?,(Sat) Apr/24 2004 (16),Angers (33),Le Havre (33),3-1,0-1
-?,(Sat) Apr/24 2004 (16),Besancon (33),Creteil (33),0-0,0-0
-?,(Sat) Apr/24 2004 (16),Caen (33),Sedan (33),1-0,0-0
-?,(Sat) Apr/24 2004 (16),Grenoble (33),Lorient (33),1-1,0-1
-?,(Sat) Apr/24 2004 (16),Laval (33),Nancy (33),2-0,0-0
-?,(Sat) Apr/24 2004 (16),Niort (33),Gueugnon (33),1-3,0-1
-?,(Sat) Apr/24 2004 (16),Rouen (33),Valence (33),1-1,1-0
-?,(Sat) Apr/24 2004 (16),Troyes (33),Amiens (33),3-2,2-1
-?,(Sat) May/1 2004 (17),Besancon (34),Rouen (34),3-0,2-0
-?,(Sat) May/1 2004 (17),Chateauroux (34),Niort (34),0-0,0-0
-?,(Sat) May/1 2004 (17),Creteil (34),Grenoble (34),1-1,0-0
-?,(Sat) May/1 2004 (17),Le Havre (34),Istres (34),0-0,0-0
-?,(Sat) May/1 2004 (17),Lorient (34),Laval (34),1-0,1-0
-?,(Sat) May/1 2004 (17),Nancy (34),Gueugnon (34),0-2,0-0
-?,(Sat) May/1 2004 (17),Sedan (34),Troyes (34),3-0,2-0
-?,(Sat) May/1 2004 (17),St Etienne (34),Angers (34),0-0,0-0
-?,(Sat) May/1 2004 (17),Valence (34),Clermont (34),1-1,0-0
-?,(Sun) May/2 2004 (17),Amiens (34),Caen (34),0-3,0-1
-?,(Fri) May/7 2004 (18),Niort (35),St Etienne (35),0-1,0-0
-?,(Sat) May/8 2004 (18),Angers (35),Nancy (35),2-0,1-0
-?,(Sat) May/8 2004 (18),Caen (35),Besancon (35),1-1,1-1
-?,(Sat) May/8 2004 (18),Clermont (35),Sedan (35),0-1,0-1
-?,(Sat) May/8 2004 (18),Grenoble (35),Valence (35),4-3,1-2
-?,(Sat) May/8 2004 (18),Gueugnon (35),Le Havre (35),1-2,0-2
-?,(Sat) May/8 2004 (18),Istres (35),Chateauroux (35),2-1,0-0
-?,(Sat) May/8 2004 (18),Laval (35),Creteil (35),3-1,1-1
-?,(Sat) May/8 2004 (18),Rouen (35),Amiens (35),2-1,1-1
-?,(Mon) May/10 2004 (19),Troyes (35),Lorient (35),3-3,1-1
-?,(Wed) May/12 2004 (19),Amiens (36),Clermont (36),1-2,1-1
-?,(Wed) May/12 2004 (19),Chateauroux (36),Le Havre (36),2-1,1-0
-?,(Wed) May/12 2004 (19),Creteil (36),Istres (36),0-2,0-0
-?,(Wed) May/12 2004 (19),Nancy (36),Niort (36),1-0,0-0
-?,(Wed) May/12 2004 (19),Rouen (36),Caen (36),1-2,0-1
-?,(Wed) May/12 2004 (19),Sedan (36),Grenoble (36),4-1,1-1
-?,(Wed) May/12 2004 (19),Valence (36),Laval (36),2-1,1-0
-?,(Thu) May/13 2004 (19),Besancon (36),Troyes (36),0-1,0-0
-?,(Thu) May/13 2004 (19),Lorient (36),Angers (36),2-0,0-0
-?,(Thu) May/13 2004 (19),St Etienne (36),Gueugnon (36),1-1,1-0
-?,(Sun) May/16 2004 (19),Angers (37),Creteil (37),2-0,0-0
-?,(Sun) May/16 2004 (19),Caen (37),Nancy (37),2-0,0-0
-?,(Sun) May/16 2004 (19),Clermont (37),Besancon (37),0-2,0-1
-?,(Sun) May/16 2004 (19),Grenoble (37),Amiens (37),1-0,0-0
-?,(Sun) May/16 2004 (19),Gueugnon (37),Chateauroux (37),2-0,0-0
-?,(Sun) May/16 2004 (19),Istres (37),Valence (37),3-1,2-1
-?,(Sun) May/16 2004 (19),Laval (37),Sedan (37),2-0,1-0
-?,(Sun) May/16 2004 (19),Le Havre (37),St Etienne (37),1-0,0-0
-?,(Sun) May/16 2004 (19),Niort (37),Lorient (37),1-2,0-1
-?,(Sun) May/16 2004 (19),Troyes (37),Rouen (37),3-0,2-0
-?,(Sat) May/22 2004 (20),Amiens (38),Laval (38),3-4,1-2
-?,(Sat) May/22 2004 (20),Besancon (38),Grenoble (38),3-1,1-0
-?,(Sat) May/22 2004 (20),Caen (38),Troyes (38),3-0,1-0
-?,(Sat) May/22 2004 (20),Creteil (38),Niort (38),2-2,1-0
-?,(Sat) May/22 2004 (20),Lorient (38),Gueugnon (38),0-5,0-2
-?,(Sat) May/22 2004 (20),Nancy (38),Le Havre (38),4-1,3-1
-?,(Sat) May/22 2004 (20),Rouen (38),Clermont (38),0-0,0-0
-?,(Sat) May/22 2004 (20),Sedan (38),Istres (38),3-1,1-1
-?,(Sat) May/22 2004 (20),St Etienne (38),Chateauroux (38),2-1,1-0
-?,(Sat) May/22 2004 (20),Valence (38),Angers (38),0-1,0-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 1 Aug 2003 (30),Le Havre (1),0-0,0-0,Nancy (1)
+?,(Sat) 2 Aug 2003 (30),Angers (1),0-2,0-2,Valence (1)
+?,(Sat) 2 Aug 2003 (30),Chateauroux (1),2-0,1-0,St Etienne (1)
+?,(Sat) 2 Aug 2003 (30),Clermont (1),0-0,0-0,Rouen (1)
+?,(Sat) 2 Aug 2003 (30),Grenoble (1),0-0,0-0,Besancon (1)
+?,(Sat) 2 Aug 2003 (30),Gueugnon (1),1-1,0-1,Lorient (1)
+?,(Sat) 2 Aug 2003 (30),Istres (1),2-0,1-0,Sedan (1)
+?,(Sat) 2 Aug 2003 (30),Laval (1),1-2,1-1,Amiens (1)
+?,(Sat) 2 Aug 2003 (30),Niort (1),3-0,1-0,Creteil (1)
+?,(Sat) 2 Aug 2003 (30),Troyes (1),2-2,0-1,Caen (1)
+?,(Sat) 9 Aug 2003 (31),Amiens (2),1-0,0-0,Angers (2)
+?,(Sat) 9 Aug 2003 (31),Besancon (2),0-1,0-0,Istres (2)
+?,(Sat) 9 Aug 2003 (31),Caen (2),1-2,0-0,Clermont (2)
+?,(Sat) 9 Aug 2003 (31),Creteil (2),1-1,0-0,Gueugnon (2)
+?,(Sat) 9 Aug 2003 (31),Nancy (2),0-1,0-0,St Etienne (2)
+?,(Sat) 9 Aug 2003 (31),Rouen (2),1-1,0-0,Laval (2)
+?,(Sat) 9 Aug 2003 (31),Sedan (2),1-1,1-1,Niort (2)
+?,(Sat) 9 Aug 2003 (31),Troyes (2),3-2,1-1,Grenoble (2)
+?,(Sat) 9 Aug 2003 (31),Valence (2),3-0,2-0,Chateauroux (2)
+?,(Sun) 10 Aug 2003 (31),Lorient (2),2-0,0-0,Le Havre (2)
+?,(Fri) 15 Aug 2003 (32),St Etienne (3),2-1,1-1,Lorient (3)
+?,(Sat) 16 Aug 2003 (32),Angers (3),0-0,0-0,Sedan (3)
+?,(Sat) 16 Aug 2003 (32),Chateauroux (3),0-0,0-0,Nancy (3)
+?,(Sat) 16 Aug 2003 (32),Clermont (3),0-0,0-0,Troyes (3)
+?,(Sat) 16 Aug 2003 (32),Grenoble (3),0-0,0-0,Rouen (3)
+?,(Sat) 16 Aug 2003 (32),Gueugnon (3),0-1,0-0,Amiens (3)
+?,(Sat) 16 Aug 2003 (32),Istres (3),3-1,1-0,Caen (3)
+?,(Sat) 16 Aug 2003 (32),Laval (3),1-3,0-3,Besancon (3)
+?,(Sat) 16 Aug 2003 (32),Le Havre (3),1-1,1-1,Creteil (3)
+?,(Sat) 16 Aug 2003 (32),Niort (3),1-0,0-0,Valence (3)
+?,(Tue) 19 Aug 2003 (33),Amiens (4),0-0,0-0,Istres (4)
+?,(Tue) 19 Aug 2003 (33),Besancon (4),1-1,1-0,Gueugnon (4)
+?,(Tue) 19 Aug 2003 (33),Caen (4),0-0,0-0,Grenoble (4)
+?,(Tue) 19 Aug 2003 (33),Clermont (4),0-1,0-0,Niort (4)
+?,(Tue) 19 Aug 2003 (33),Creteil (4),1-0,0-0,St Etienne (4)
+?,(Tue) 19 Aug 2003 (33),Lorient (4),2-0,0-0,Nancy (4)
+?,(Tue) 19 Aug 2003 (33),Rouen (4),3-1,2-0,Angers (4)
+?,(Tue) 19 Aug 2003 (33),Sedan (4),2-0,1-0,Chateauroux (4)
+?,(Tue) 19 Aug 2003 (33),Troyes (4),0-0,0-0,Laval (4)
+?,(Tue) 19 Aug 2003 (33),Valence (4),1-2,0-1,Le Havre (4)
+?,(Fri) 22 Aug 2003 (33),Le Havre (5),3-0,1-0,Sedan (5)
+?,(Sat) 23 Aug 2003 (33),Angers (5),2-1,1-0,Besancon (5)
+?,(Sat) 23 Aug 2003 (33),Chateauroux (5),2-2,2-1,Lorient (5)
+?,(Sat) 23 Aug 2003 (33),Grenoble (5),0-0,0-0,Clermont (5)
+?,(Sat) 23 Aug 2003 (33),Gueugnon (5),2-0,1-0,Valence (5)
+?,(Sat) 23 Aug 2003 (33),Istres (5),0-0,0-0,Rouen (5)
+?,(Sat) 23 Aug 2003 (33),Laval (5),1-0,0-0,Caen (5)
+?,(Sat) 23 Aug 2003 (33),Nancy (5),2-0,0-0,Creteil (5)
+?,(Sat) 23 Aug 2003 (33),Niort (5),0-0,0-0,Amiens (5)
+?,(Sat) 23 Aug 2003 (33),St Etienne (5),2-3,2-0,Troyes (5)
+?,(Fri) 29 Aug 2003 (34),Besancon (6),3-1,2-1,Chateauroux (6)
+?,(Sat) 30 Aug 2003 (34),Amiens (6),2-0,1-0,Le Havre (6)
+?,(Sat) 30 Aug 2003 (34),Caen (6),1-0,1-0,Angers (6)
+?,(Sat) 30 Aug 2003 (34),Clermont (6),2-1,0-1,Laval (6)
+?,(Sat) 30 Aug 2003 (34),Creteil (6),1-0,1-0,Lorient (6)
+?,(Sat) 30 Aug 2003 (34),Grenoble (6),2-2,1-0,Gueugnon (6)
+?,(Sat) 30 Aug 2003 (34),Rouen (6),2-1,2-1,Niort (6)
+?,(Sat) 30 Aug 2003 (34),Troyes (6),0-2,0-0,Istres (6)
+?,(Sat) 30 Aug 2003 (34),Valence (6),0-0,0-0,Nancy (6)
+?,(Sun) 31 Aug 2003 (34),Sedan (6),1-2,1-1,St Etienne (6)
+?,(Thu) 4 Sep 2003 (35),Laval (7),2-0,0-0,Grenoble (7)
+?,(Fri) 5 Sep 2003 (35),Angers (7),2-0,0-0,Troyes (7)
+?,(Fri) 5 Sep 2003 (35),Chateauroux (7),1-3,1-1,Creteil (7)
+?,(Fri) 5 Sep 2003 (35),Gueugnon (7),2-1,1-0,Rouen (7)
+?,(Fri) 5 Sep 2003 (35),Istres (7),2-0,0-0,Clermont (7)
+?,(Fri) 5 Sep 2003 (35),Le Havre (7),2-0,1-0,Besancon (7)
+?,(Fri) 5 Sep 2003 (35),Lorient (7),3-1,1-1,Amiens (7)
+?,(Fri) 5 Sep 2003 (35),Nancy (7),2-0,1-0,Sedan (7)
+?,(Fri) 5 Sep 2003 (35),Niort (7),0-3,0-1,Caen (7)
+?,(Fri) 5 Sep 2003 (35),St Etienne (7),1-0,0-0,Valence (7)
+?,(Fri) 12 Sep 2003 (36),Troyes (8),1-0,0-0,Niort (8)
+?,(Sat) 13 Sep 2003 (36),Amiens (8),0-0,0-0,Chateauroux (8)
+?,(Sat) 13 Sep 2003 (36),Besancon (8),0-1,0-0,St Etienne (8)
+?,(Sat) 13 Sep 2003 (36),Caen (8),2-1,0-1,Gueugnon (8)
+?,(Sat) 13 Sep 2003 (36),Clermont (8),4-1,1-1,Angers (8)
+?,(Sat) 13 Sep 2003 (36),Grenoble (8),0-1,0-1,Istres (8)
+?,(Sat) 13 Sep 2003 (36),Laval (8),1-1,1-0,Le Havre (8)
+?,(Sat) 13 Sep 2003 (36),Rouen (8),1-1,0-1,Nancy (8)
+?,(Sat) 13 Sep 2003 (36),Sedan (8),2-1,0-1,Lorient (8)
+?,(Sat) 13 Sep 2003 (36),Valence (8),2-2,2-1,Creteil (8)
+?,(Sat) 20 Sep 2003 (37),Angers (9),1-1,0-1,Grenoble (9)
+?,(Sat) 20 Sep 2003 (37),Chateauroux (9),1-1,1-1,Caen (9)
+?,(Sat) 20 Sep 2003 (37),Creteil (9),0-1,0-0,Sedan (9)
+?,(Sat) 20 Sep 2003 (37),Gueugnon (9),1-1,0-0,Troyes (9)
+?,(Sat) 20 Sep 2003 (37),Istres (9),2-1,1-1,Laval (9)
+?,(Sat) 20 Sep 2003 (37),Le Havre (9),2-0,0-0,Rouen (9)
+?,(Sat) 20 Sep 2003 (37),Lorient (9),3-1,1-0,Valence (9)
+?,(Sat) 20 Sep 2003 (37),Nancy (9),3-4,1-3,Clermont (9)
+?,(Sat) 20 Sep 2003 (37),Niort (9),3-0,1-0,Besancon (9)
+?,(Sun) 21 Sep 2003 (37),St Etienne (9),0-2,0-0,Amiens (9)
+?,(Sat) 27 Sep 2003 (38),Amiens (10),1-0,1-0,Creteil (10)
+?,(Sat) 27 Sep 2003 (38),Besancon (10),1-3,0-2,Nancy (10)
+?,(Sat) 27 Sep 2003 (38),Caen (10),1-0,0-0,St Etienne (10)
+?,(Sat) 27 Sep 2003 (38),Clermont (10),1-0,0-0,Gueugnon (10)
+?,(Sat) 27 Sep 2003 (38),Grenoble (10),0-1,0-0,Niort (10)
+?,(Sat) 27 Sep 2003 (38),Laval (10),3-3,2-0,Angers (10)
+?,(Sat) 27 Sep 2003 (38),Rouen (10),1-4,1-2,Chateauroux (10)
+?,(Sat) 27 Sep 2003 (38),Sedan (10),0-0,0-0,Valence (10)
+?,(Sat) 27 Sep 2003 (38),Troyes (10),2-0,2-0,Le Havre (10)
+?,(Sun) 28 Sep 2003 (38),Istres (10),1-0,0-0,Lorient (10)
+?,(Fri) 3 Oct 2003 (39),St Etienne (11),2-0,1-0,Rouen (11)
+?,(Sat) 4 Oct 2003 (39),Angers (11),1-0,1-0,Istres (11)
+?,(Sat) 4 Oct 2003 (39),Chateauroux (11),0-0,0-0,Grenoble (11)
+?,(Sat) 4 Oct 2003 (39),Creteil (11),5-1,3-1,Clermont (11)
+?,(Sat) 4 Oct 2003 (39),Gueugnon (11),0-0,0-0,Sedan (11)
+?,(Sat) 4 Oct 2003 (39),Le Havre (11),1-1,0-0,Caen (11)
+?,(Sat) 4 Oct 2003 (39),Nancy (11),3-0,1-0,Troyes (11)
+?,(Sat) 4 Oct 2003 (39),Niort (11),4-0,1-0,Laval (11)
+?,(Sat) 4 Oct 2003 (39),Valence (11),2-1,1-1,Amiens (11)
+?,(Mon) 6 Oct 2003 (40),Lorient (11),2-0,0-0,Besancon (11)
+?,(Sat) 18 Oct 2003 (41),Angers (12),0-0,0-0,Niort (12)
+?,(Sat) 18 Oct 2003 (41),Besancon (12),1-1,1-0,Valence (12)
+?,(Sat) 18 Oct 2003 (41),Caen (12),2-0,0-0,Lorient (12)
+?,(Sat) 18 Oct 2003 (41),Grenoble (12),2-0,2-0,Le Havre (12)
+?,(Sat) 18 Oct 2003 (41),Istres (12),2-0,0-0,Nancy (12)
+?,(Sat) 18 Oct 2003 (41),Laval (12),1-2,0-2,Gueugnon (12)
+?,(Sat) 18 Oct 2003 (41),Rouen (12),1-1,0-1,Creteil (12)
+?,(Sat) 18 Oct 2003 (41),Troyes (12),4-0,1-0,Chateauroux (12)
+?,(Sun) 19 Oct 2003 (41),Clermont (12),0-3,0-1,St Etienne (12)
+?,(Mon) 20 Oct 2003 (42),Amiens (12),1-1,0-1,Sedan (12)
+?,(Sat) 25 Oct 2003 (42),Chateauroux (13),2-1,1-0,Laval (13)
+?,(Sat) 25 Oct 2003 (42),Creteil (13),0-0,0-0,Caen (13)
+?,(Sat) 25 Oct 2003 (42),Gueugnon (13),1-1,0-0,Angers (13)
+?,(Sat) 25 Oct 2003 (42),Le Havre (13),1-1,0-0,Clermont (13)
+?,(Sat) 25 Oct 2003 (42),Lorient (13),4-1,2-1,Rouen (13)
+?,(Sat) 25 Oct 2003 (42),Nancy (13),0-0,0-0,Amiens (13)
+?,(Sat) 25 Oct 2003 (42),Sedan (13),2-0,1-0,Besancon (13)
+?,(Sat) 25 Oct 2003 (42),St Etienne (13),1-0,1-0,Grenoble (13)
+?,(Sat) 25 Oct 2003 (42),Valence (13),2-1,0-1,Troyes (13)
+?,(Sun) 26 Oct 2003 (42),Niort (13),2-1,2-1,Istres (13)
+?,(Fri) 31 Oct 2003 (43),Clermont (14),0-4,0-1,Lorient (14)
+?,(Sat) 1 Nov 2003 (43),Angers (14),2-0,2-0,Chateauroux (14)
+?,(Sat) 1 Nov 2003 (43),Besancon (14),0-2,0-1,Amiens (14)
+?,(Sat) 1 Nov 2003 (43),Caen (14),4-1,1-0,Valence (14)
+?,(Sat) 1 Nov 2003 (43),Grenoble (14),2-3,1-2,Nancy (14)
+?,(Sat) 1 Nov 2003 (43),Istres (14),2-1,1-1,Gueugnon (14)
+?,(Sat) 1 Nov 2003 (43),Laval (14),2-0,0-0,St Etienne (14)
+?,(Sat) 1 Nov 2003 (43),Rouen (14),0-1,0-1,Sedan (14)
+?,(Sat) 1 Nov 2003 (43),Troyes (14),0-0,0-0,Creteil (14)
+?,(Mon) 3 Nov 2003 (44),Niort (14),0-0,0-0,Le Havre (14)
+?,(Fri) 7 Nov 2003 (44),St Etienne (15),0-0,0-0,Istres (15)
+?,(Sat) 8 Nov 2003 (44),Amiens (15),1-1,1-0,Troyes (15)
+?,(Sat) 8 Nov 2003 (44),Chateauroux (15),2-2,1-0,Clermont (15)
+?,(Sat) 8 Nov 2003 (44),Creteil (15),1-1,0-1,Besancon (15)
+?,(Sat) 8 Nov 2003 (44),Gueugnon (15),1-2,0-2,Niort (15)
+?,(Sat) 8 Nov 2003 (44),Le Havre (15),1-0,0-0,Angers (15)
+?,(Sat) 8 Nov 2003 (44),Lorient (15),2-1,2-1,Grenoble (15)
+?,(Sat) 8 Nov 2003 (44),Nancy (15),1-1,0-1,Laval (15)
+?,(Sat) 8 Nov 2003 (44),Sedan (15),0-0,0-0,Caen (15)
+?,(Sat) 8 Nov 2003 (44),Valence (15),2-1,1-1,Rouen (15)
+?,(Fri) 28 Nov 2003 (47),Laval (16),2-2,0-2,Lorient (16)
+?,(Fri) 28 Nov 2003 (47),Troyes (16),0-0,0-0,Sedan (16)
+?,(Sat) 29 Nov 2003 (47),Angers (16),1-1,0-0,St Etienne (16)
+?,(Sat) 29 Nov 2003 (47),Clermont (16),1-1,0-1,Valence (16)
+?,(Sat) 29 Nov 2003 (47),Grenoble (16),1-1,0-0,Creteil (16)
+?,(Sat) 29 Nov 2003 (47),Gueugnon (16),0-0,0-0,Nancy (16)
+?,(Sat) 29 Nov 2003 (47),Istres (16),2-0,1-0,Le Havre (16)
+?,(Sat) 29 Nov 2003 (47),Niort (16),0-0,0-0,Chateauroux (16)
+?,(Sat) 29 Nov 2003 (47),Rouen (16),1-1,0-0,Besancon (16)
+?,(Sun) 30 Nov 2003 (47),Caen (16),2-1,1-1,Amiens (16)
+?,(Wed) 3 Dec 2003 (48),Amiens (17),2-1,2-0,Rouen (17)
+?,(Wed) 3 Dec 2003 (48),Besancon (17),0-1,0-0,Caen (17)
+?,(Wed) 3 Dec 2003 (48),Chateauroux (17),1-0,0-0,Istres (17)
+?,(Wed) 3 Dec 2003 (48),Creteil (17),3-0,1-0,Laval (17)
+?,(Wed) 3 Dec 2003 (48),Le Havre (17),5-0,4-0,Gueugnon (17)
+?,(Wed) 3 Dec 2003 (48),Nancy (17),2-1,0-1,Angers (17)
+?,(Wed) 3 Dec 2003 (48),Sedan (17),1-1,0-0,Clermont (17)
+?,(Thu) 4 Dec 2003 (48),Lorient (17),1-0,0-0,Troyes (17)
+?,(Sat) 6 Dec 2003 (48),Clermont (18),0-2,0-1,Amiens (18)
+?,(Sat) 6 Dec 2003 (48),Grenoble (17),0-0,0-0,Sedan (18)
+?,(Sat) 6 Dec 2003 (48),Gueugnon (18),0-1,0-0,St Etienne (17)
+?,(Sat) 6 Dec 2003 (48),Laval (18),2-2,1-1,Valence (17)
+?,(Sat) 6 Dec 2003 (48),Niort (17),2-2,0-1,Nancy (18)
+?,(Sun) 7 Dec 2003 (48),Angers (18),1-1,0-0,Lorient (18)
+?,(Sun) 7 Dec 2003 (48),Caen (18),1-1,0-0,Rouen (18)
+?,(Sun) 7 Dec 2003 (48),Istres (18),2-0,0-0,Creteil (18)
+?,(Sun) 7 Dec 2003 (48),Troyes (18),1-1,1-0,Besancon (18)
+?,(Mon) 8 Dec 2003 (49),Le Havre (18),3-2,1-2,Chateauroux (18)
+?,(Wed) 10 Dec 2003 (49),St Etienne (18),2-1,0-0,Niort (18)
+?,(Wed) 17 Dec 2003 (50),Valence (18),1-2,1-1,Grenoble (18)
+?,(Sat) 20 Dec 2003 (50),Amiens (19),0-1,0-1,Grenoble (19)
+?,(Sat) 20 Dec 2003 (50),Besancon (19),1-1,0-0,Clermont (19)
+?,(Sat) 20 Dec 2003 (50),Chateauroux (19),3-2,0-1,Gueugnon (19)
+?,(Sat) 20 Dec 2003 (50),Creteil (19),1-1,0-1,Angers (19)
+?,(Sat) 20 Dec 2003 (50),Lorient (19),4-2,2-1,Niort (19)
+?,(Sat) 20 Dec 2003 (50),Nancy (19),0-2,0-1,Caen (19)
+?,(Sat) 20 Dec 2003 (50),Rouen (19),0-1,0-0,Troyes (19)
+?,(Sat) 20 Dec 2003 (50),Sedan (19),1-0,0-0,Laval (19)
+?,(Sat) 20 Dec 2003 (50),Valence (19),0-0,0-0,Istres (19)
+?,(Sun) 21 Dec 2003 (50),St Etienne (19),2-0,2-0,Le Havre (19)
+?,(Sat) 10 Jan 2004 (1),Chateauroux (20),3-0,1-0,Valence (20)
+?,(Sat) 10 Jan 2004 (1),Clermont (20),2-2,1-1,Caen (20)
+?,(Sat) 10 Jan 2004 (1),Grenoble (20),1-2,0-1,Troyes (20)
+?,(Sat) 10 Jan 2004 (1),Gueugnon (20),1-1,1-0,Creteil (20)
+?,(Sat) 10 Jan 2004 (1),Istres (20),0-1,0-1,Besancon (20)
+?,(Sat) 10 Jan 2004 (1),Laval (20),0-0,0-0,Rouen (20)
+?,(Sat) 10 Jan 2004 (1),Niort (20),1-1,0-0,Sedan (20)
+?,(Sat) 10 Jan 2004 (1),St Etienne (20),0-0,0-0,Nancy (20)
+?,(Sun) 11 Jan 2004 (1),Le Havre (20),1-0,0-0,Lorient (20)
+?,(Mon) 12 Jan 2004 (2),Angers (20),1-2,1-1,Amiens (20)
+?,(Sat) 17 Jan 2004 (2),Amiens (21),1-0,0-0,Gueugnon (21)
+?,(Sat) 17 Jan 2004 (2),Besancon (21),2-2,1-1,Laval (21)
+?,(Sat) 17 Jan 2004 (2),Caen (21),2-1,1-0,Istres (21)
+?,(Sat) 17 Jan 2004 (2),Creteil (21),2-3,2-2,Le Havre (21)
+?,(Sat) 17 Jan 2004 (2),Nancy (21),2-0,1-0,Chateauroux (21)
+?,(Sat) 17 Jan 2004 (2),Rouen (21),0-2,0-0,Grenoble (21)
+?,(Sat) 17 Jan 2004 (2),Sedan (21),1-0,0-0,Angers (21)
+?,(Sat) 17 Jan 2004 (2),Troyes (21),2-0,0-0,Clermont (21)
+?,(Sat) 17 Jan 2004 (2),Valence (21),1-1,1-0,Niort (21)
+?,(Sun) 18 Jan 2004 (2),Lorient (21),2-0,1-0,St Etienne (21)
+?,(Sat) 31 Jan 2004 (4),Angers (22),0-1,0-0,Rouen (22)
+?,(Sat) 31 Jan 2004 (4),Chateauroux (22),2-0,1-0,Sedan (22)
+?,(Sat) 31 Jan 2004 (4),Grenoble (22),2-1,1-1,Caen (22)
+?,(Sat) 31 Jan 2004 (4),Gueugnon (22),1-0,0-0,Besancon (22)
+?,(Sat) 31 Jan 2004 (4),Laval (22),4-0,2-0,Troyes (22)
+?,(Sat) 31 Jan 2004 (4),Le Havre (22),1-0,1-0,Valence (22)
+?,(Sat) 31 Jan 2004 (4),Niort (22),3-1,2-0,Clermont (22)
+?,(Sat) 31 Jan 2004 (4),St Etienne (22),3-2,2-1,Creteil (22)
+?,(Sun) 1 Feb 2004 (4),Istres (22),1-0,1-0,Amiens (22)
+?,(Mon) 2 Feb 2004 (5),Nancy (22),1-1,0-0,Lorient (22)
+?,(Sat) 7 Feb 2004 (5),Amiens (23),2-3,1-3,Niort (23)
+?,(Sat) 7 Feb 2004 (5),Besancon (23),2-0,2-0,Angers (23)
+?,(Sat) 7 Feb 2004 (5),Caen (23),1-2,1-2,Laval (23)
+?,(Sat) 7 Feb 2004 (5),Clermont (23),2-0,1-0,Grenoble (23)
+?,(Sat) 7 Feb 2004 (5),Creteil (23),1-0,1-0,Nancy (23)
+?,(Sat) 7 Feb 2004 (5),Lorient (23),0-1,0-1,Chateauroux (23)
+?,(Sat) 7 Feb 2004 (5),Rouen (23),1-3,0-2,Istres (23)
+?,(Sat) 7 Feb 2004 (5),Sedan (23),2-0,0-0,Le Havre (23)
+?,(Sat) 7 Feb 2004 (5),Valence (23),3-1,2-0,Gueugnon (23)
+?,(Sun) 8 Feb 2004 (5),Troyes (23),0-1,0-1,St Etienne (23)
+?,(Sat) 14 Feb 2004 (6),Angers (24),0-1,0-0,Caen (24)
+?,(Sat) 14 Feb 2004 (6),Chateauroux (24),0-0,0-0,Besancon (24)
+?,(Sat) 14 Feb 2004 (6),Gueugnon (24),0-2,0-1,Grenoble (24)
+?,(Sat) 14 Feb 2004 (6),Istres (24),0-0,0-0,Troyes (24)
+?,(Sat) 14 Feb 2004 (6),Laval (24),2-3,0-2,Clermont (24)
+?,(Sat) 14 Feb 2004 (6),Lorient (24),0-3,0-2,Creteil (24)
+?,(Sat) 14 Feb 2004 (6),Nancy (24),1-1,0-0,Valence (24)
+?,(Sat) 14 Feb 2004 (6),Niort (24),2-1,1-0,Rouen (24)
+?,(Sat) 14 Feb 2004 (6),St Etienne (24),0-2,0-2,Sedan (24)
+?,(Sun) 15 Feb 2004 (6),Le Havre (24),0-1,0-1,Amiens (24)
+?,(Sat) 21 Feb 2004 (7),Besancon (25),1-1,0-1,Le Havre (25)
+?,(Sat) 21 Feb 2004 (7),Clermont (25),1-1,0-1,Istres (25)
+?,(Sat) 21 Feb 2004 (7),Creteil (25),1-0,0-0,Chateauroux (25)
+?,(Sat) 21 Feb 2004 (7),Grenoble (25),1-1,0-1,Laval (25)
+?,(Sat) 21 Feb 2004 (7),Rouen (25),0-0,0-0,Gueugnon (25)
+?,(Sat) 21 Feb 2004 (7),Sedan (25),0-4,0-1,Nancy (25)
+?,(Sat) 21 Feb 2004 (7),Troyes (25),2-2,1-2,Angers (25)
+?,(Sat) 21 Feb 2004 (7),Valence (25),1-3,1-2,St Etienne (25)
+?,(Sun) 22 Feb 2004 (7),Amiens (25),1-0,0-0,Lorient (25)
+?,(Mon) 23 Feb 2004 (8),Caen (25),2-2,1-0,Niort (25)
+?,(Fri) 27 Feb 2004 (8),Chateauroux (26),4-1,1-1,Amiens (26)
+?,(Sat) 28 Feb 2004 (8),Angers (26),0-0,0-0,Clermont (26)
+?,(Sat) 28 Feb 2004 (8),Creteil (26),2-1,1-0,Valence (26)
+?,(Sat) 28 Feb 2004 (8),Gueugnon (26),0-0,0-0,Caen (26)
+?,(Sat) 28 Feb 2004 (8),Istres (26),2-0,1-0,Grenoble (26)
+?,(Sat) 28 Feb 2004 (8),Le Havre (26),3-2,1-2,Laval (26)
+?,(Sat) 28 Feb 2004 (8),Lorient (26),1-1,0-1,Sedan (26)
+?,(Sat) 28 Feb 2004 (8),Nancy (26),2-1,0-0,Rouen (26)
+?,(Fri) 5 Mar 2004 (9),Amiens (27),1-2,0-1,St Etienne (26)
+?,(Sat) 6 Mar 2004 (9),Besancon (26),4-0,2-0,Niort (26)
+?,(Sat) 6 Mar 2004 (9),Caen (27),1-0,0-0,Chateauroux (27)
+?,(Sat) 6 Mar 2004 (9),Clermont (27),0-1,0-1,Nancy (27)
+?,(Sat) 6 Mar 2004 (9),Grenoble (27),0-0,0-0,Angers (27)
+?,(Sat) 6 Mar 2004 (9),Rouen (27),4-0,2-0,Le Havre (27)
+?,(Sat) 6 Mar 2004 (9),Sedan (27),4-0,1-0,Creteil (27)
+?,(Sat) 6 Mar 2004 (9),Troyes (26),2-1,1-0,Gueugnon (27)
+?,(Sat) 6 Mar 2004 (9),Valence (27),1-2,0-1,Lorient (27)
+?,(Mon) 8 Mar 2004 (10),Laval (27),0-0,0-0,Istres (27)
+?,(Sat) 13 Mar 2004 (10),Angers (28),3-2,1-1,Laval (28)
+?,(Sat) 13 Mar 2004 (10),Chateauroux (28),2-0,2-0,Rouen (28)
+?,(Sat) 13 Mar 2004 (10),Creteil (28),1-1,1-0,Amiens (28)
+?,(Sat) 13 Mar 2004 (10),Gueugnon (28),0-0,0-0,Clermont (28)
+?,(Sat) 13 Mar 2004 (10),Le Havre (28),3-0,1-0,Troyes (27)
+?,(Sat) 13 Mar 2004 (10),Lorient (28),2-1,0-0,Istres (28)
+?,(Sat) 13 Mar 2004 (10),Nancy (28),3-0,1-0,Besancon (27)
+?,(Sat) 13 Mar 2004 (10),Niort (27),1-1,0-0,Grenoble (28)
+?,(Sat) 13 Mar 2004 (10),Valence (28),2-2,2-1,Sedan (28)
+?,(Sun) 14 Mar 2004 (10),St Etienne (27),1-0,1-0,Caen (28)
+?,(Sat) 20 Mar 2004 (11),Amiens (29),2-2,2-2,Valence (29)
+?,(Sat) 20 Mar 2004 (11),Besancon (28),1-1,0-0,Lorient (29)
+?,(Sat) 20 Mar 2004 (11),Clermont (29),2-0,0-0,Creteil (29)
+?,(Sat) 20 Mar 2004 (11),Grenoble (29),4-1,3-1,Chateauroux (29)
+?,(Sat) 20 Mar 2004 (11),Istres (29),1-0,0-0,Angers (29)
+?,(Sat) 20 Mar 2004 (11),Laval (29),0-1,0-1,Niort (28)
+?,(Sat) 20 Mar 2004 (11),Rouen (29),0-1,0-0,St Etienne (28)
+?,(Sat) 20 Mar 2004 (11),Sedan (29),1-1,1-1,Gueugnon (29)
+?,(Sat) 20 Mar 2004 (11),Troyes (28),1-1,1-1,Nancy (29)
+?,(Sun) 21 Mar 2004 (11),Caen (29),3-1,1-1,Le Havre (29)
+?,(Sat) 27 Mar 2004 (12),Chateauroux (30),1-1,0-0,Troyes (29)
+?,(Sat) 27 Mar 2004 (12),Creteil (30),0-0,0-0,Rouen (30)
+?,(Sat) 27 Mar 2004 (12),Gueugnon (30),1-1,1-0,Laval (30)
+?,(Sat) 27 Mar 2004 (12),Le Havre (30),1-0,0-0,Grenoble (30)
+?,(Sat) 27 Mar 2004 (12),Lorient (30),2-3,1-2,Caen (30)
+?,(Sat) 27 Mar 2004 (12),Niort (29),0-1,0-1,Angers (30)
+?,(Sat) 27 Mar 2004 (12),Sedan (30),3-1,0-1,Amiens (30)
+?,(Sat) 27 Mar 2004 (12),St Etienne (29),0-0,0-0,Clermont (30)
+?,(Sat) 27 Mar 2004 (12),Valence (30),3-1,1-1,Besancon (29)
+?,(Sun) 28 Mar 2004 (12),Nancy (30),2-1,1-1,Istres (30)
+?,(Fri) 2 Apr 2004 (13),Grenoble (31),2-2,0-1,St Etienne (30)
+?,(Sat) 3 Apr 2004 (13),Amiens (31),2-1,1-1,Nancy (31)
+?,(Sat) 3 Apr 2004 (13),Angers (31),2-1,2-1,Gueugnon (31)
+?,(Sat) 3 Apr 2004 (13),Besancon (30),1-1,0-0,Sedan (31)
+?,(Sat) 3 Apr 2004 (13),Caen (31),1-2,0-0,Creteil (31)
+?,(Sat) 3 Apr 2004 (13),Clermont (31),1-1,0-0,Le Havre (31)
+?,(Sat) 3 Apr 2004 (13),Laval (31),2-0,1-0,Chateauroux (31)
+?,(Sat) 3 Apr 2004 (13),Rouen (31),0-1,0-0,Lorient (31)
+?,(Sat) 3 Apr 2004 (13),Troyes (30),0-1,0-0,Valence (31)
+?,(Mon) 5 Apr 2004 (14),Istres (31),2-2,1-0,Niort (30)
+?,(Sat) 10 Apr 2004 (14),Amiens (32),1-0,1-0,Besancon (31)
+?,(Sat) 10 Apr 2004 (14),Chateauroux (32),4-1,2-0,Angers (32)
+?,(Sat) 10 Apr 2004 (14),Creteil (32),1-2,1-2,Troyes (31)
+?,(Sat) 10 Apr 2004 (14),Gueugnon (32),1-0,1-0,Istres (32)
+?,(Sat) 10 Apr 2004 (14),Le Havre (32),1-1,1-0,Niort (31)
+?,(Sat) 10 Apr 2004 (14),Lorient (32),1-1,1-0,Clermont (32)
+?,(Sat) 10 Apr 2004 (14),Nancy (32),0-0,0-0,Grenoble (32)
+?,(Sat) 10 Apr 2004 (14),Sedan (32),0-0,0-0,Rouen (32)
+?,(Sat) 10 Apr 2004 (14),Valence (32),0-2,0-0,Caen (32)
+?,(Sun) 11 Apr 2004 (14),St Etienne (31),2-0,2-0,Laval (32)
+?,(Fri) 16 Apr 2004 (15),Niort (32),2-1,2-0,Troyes (32)
+?,(Fri) 16 Apr 2004 (15),St Etienne (32),2-1,1-1,Besancon (32)
+?,(Fri) 23 Apr 2004 (16),Clermont (33),0-1,0-0,Chateauroux (33)
+?,(Fri) 23 Apr 2004 (16),Istres (33),0-2,0-1,St Etienne (33)
+?,(Sat) 24 Apr 2004 (16),Angers (33),3-1,0-1,Le Havre (33)
+?,(Sat) 24 Apr 2004 (16),Besancon (33),0-0,0-0,Creteil (33)
+?,(Sat) 24 Apr 2004 (16),Caen (33),1-0,0-0,Sedan (33)
+?,(Sat) 24 Apr 2004 (16),Grenoble (33),1-1,0-1,Lorient (33)
+?,(Sat) 24 Apr 2004 (16),Laval (33),2-0,0-0,Nancy (33)
+?,(Sat) 24 Apr 2004 (16),Niort (33),1-3,0-1,Gueugnon (33)
+?,(Sat) 24 Apr 2004 (16),Rouen (33),1-1,1-0,Valence (33)
+?,(Sat) 24 Apr 2004 (16),Troyes (33),3-2,2-1,Amiens (33)
+?,(Sat) 1 May 2004 (17),Besancon (34),3-0,2-0,Rouen (34)
+?,(Sat) 1 May 2004 (17),Chateauroux (34),0-0,0-0,Niort (34)
+?,(Sat) 1 May 2004 (17),Creteil (34),1-1,0-0,Grenoble (34)
+?,(Sat) 1 May 2004 (17),Le Havre (34),0-0,0-0,Istres (34)
+?,(Sat) 1 May 2004 (17),Lorient (34),1-0,1-0,Laval (34)
+?,(Sat) 1 May 2004 (17),Nancy (34),0-2,0-0,Gueugnon (34)
+?,(Sat) 1 May 2004 (17),Sedan (34),3-0,2-0,Troyes (34)
+?,(Sat) 1 May 2004 (17),St Etienne (34),0-0,0-0,Angers (34)
+?,(Sat) 1 May 2004 (17),Valence (34),1-1,0-0,Clermont (34)
+?,(Sun) 2 May 2004 (17),Amiens (34),0-3,0-1,Caen (34)
+?,(Fri) 7 May 2004 (18),Niort (35),0-1,0-0,St Etienne (35)
+?,(Sat) 8 May 2004 (18),Angers (35),2-0,1-0,Nancy (35)
+?,(Sat) 8 May 2004 (18),Caen (35),1-1,1-1,Besancon (35)
+?,(Sat) 8 May 2004 (18),Clermont (35),0-1,0-1,Sedan (35)
+?,(Sat) 8 May 2004 (18),Grenoble (35),4-3,1-2,Valence (35)
+?,(Sat) 8 May 2004 (18),Gueugnon (35),1-2,0-2,Le Havre (35)
+?,(Sat) 8 May 2004 (18),Istres (35),2-1,0-0,Chateauroux (35)
+?,(Sat) 8 May 2004 (18),Laval (35),3-1,1-1,Creteil (35)
+?,(Sat) 8 May 2004 (18),Rouen (35),2-1,1-1,Amiens (35)
+?,(Mon) 10 May 2004 (19),Troyes (35),3-3,1-1,Lorient (35)
+?,(Wed) 12 May 2004 (19),Amiens (36),1-2,1-1,Clermont (36)
+?,(Wed) 12 May 2004 (19),Chateauroux (36),2-1,1-0,Le Havre (36)
+?,(Wed) 12 May 2004 (19),Creteil (36),0-2,0-0,Istres (36)
+?,(Wed) 12 May 2004 (19),Nancy (36),1-0,0-0,Niort (36)
+?,(Wed) 12 May 2004 (19),Rouen (36),1-2,0-1,Caen (36)
+?,(Wed) 12 May 2004 (19),Sedan (36),4-1,1-1,Grenoble (36)
+?,(Wed) 12 May 2004 (19),Valence (36),2-1,1-0,Laval (36)
+?,(Thu) 13 May 2004 (19),Besancon (36),0-1,0-0,Troyes (36)
+?,(Thu) 13 May 2004 (19),Lorient (36),2-0,0-0,Angers (36)
+?,(Thu) 13 May 2004 (19),St Etienne (36),1-1,1-0,Gueugnon (36)
+?,(Sun) 16 May 2004 (19),Angers (37),2-0,0-0,Creteil (37)
+?,(Sun) 16 May 2004 (19),Caen (37),2-0,0-0,Nancy (37)
+?,(Sun) 16 May 2004 (19),Clermont (37),0-2,0-1,Besancon (37)
+?,(Sun) 16 May 2004 (19),Grenoble (37),1-0,0-0,Amiens (37)
+?,(Sun) 16 May 2004 (19),Gueugnon (37),2-0,0-0,Chateauroux (37)
+?,(Sun) 16 May 2004 (19),Istres (37),3-1,2-1,Valence (37)
+?,(Sun) 16 May 2004 (19),Laval (37),2-0,1-0,Sedan (37)
+?,(Sun) 16 May 2004 (19),Le Havre (37),1-0,0-0,St Etienne (37)
+?,(Sun) 16 May 2004 (19),Niort (37),1-2,0-1,Lorient (37)
+?,(Sun) 16 May 2004 (19),Troyes (37),3-0,2-0,Rouen (37)
+?,(Sat) 22 May 2004 (20),Amiens (38),3-4,1-2,Laval (38)
+?,(Sat) 22 May 2004 (20),Besancon (38),3-1,1-0,Grenoble (38)
+?,(Sat) 22 May 2004 (20),Caen (38),3-0,1-0,Troyes (38)
+?,(Sat) 22 May 2004 (20),Creteil (38),2-2,1-0,Niort (38)
+?,(Sat) 22 May 2004 (20),Lorient (38),0-5,0-2,Gueugnon (38)
+?,(Sat) 22 May 2004 (20),Nancy (38),4-1,3-1,Le Havre (38)
+?,(Sat) 22 May 2004 (20),Rouen (38),0-0,0-0,Clermont (38)
+?,(Sat) 22 May 2004 (20),Sedan (38),3-1,1-1,Istres (38)
+?,(Sat) 22 May 2004 (20),St Etienne (38),2-1,1-0,Chateauroux (38)
+?,(Sat) 22 May 2004 (20),Valence (38),0-1,0-0,Angers (38)
