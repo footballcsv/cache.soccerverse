@@ -1,381 +1,381 @@
-Round,Date,Day,Week,Team 1,Team 2,FT,HT
-?,2004-08-06,Fri,31,Brest,Nancy,3-2,1-2
-?,2004-08-06,Fri,31,Chateauroux,Angers,1-1,1-1
-?,2004-08-06,Fri,31,Grenoble,Guingamp,4-2,1-0
-?,2004-08-06,Fri,31,Gueugnon,Amiens,1-1,1-1
-?,2004-08-06,Fri,31,Laval,Dijon,2-1,1-0
-?,2004-08-06,Fri,31,Le Mans,Clermont,2-2,1-0
-?,2004-08-06,Fri,31,Reims,Creteil,2-1,0-1
-?,2004-08-06,Fri,31,Sedan,Lorient,3-2,2-2
-?,2004-08-08,Sun,31,Montpellier,Troyes,3-4,1-1
-?,2004-08-09,Mon,32,Le Havre,Niort,1-2,1-1
-?,2004-08-12,Thu,32,Guingamp,Brest,1-2,1-1
-?,2004-08-13,Fri,32,Amiens,Le Havre,1-2,1-0
-?,2004-08-13,Fri,32,Angers,Montpellier,0-1,0-1
-?,2004-08-13,Fri,32,Clermont,Gueugnon,0-2,0-0
-?,2004-08-13,Fri,32,Creteil,Le Mans,1-0,0-0
-?,2004-08-13,Fri,32,Lorient,Chateauroux,2-1,1-0
-?,2004-08-13,Fri,32,Nancy,Sedan,1-2,0-1
-?,2004-08-13,Fri,32,Niort,Grenoble,1-3,1-2
-?,2004-08-13,Fri,32,Reims,Laval,2-0,1-0
-?,2004-08-13,Fri,32,Troyes,Dijon,2-2,1-1
-?,2004-08-16,Mon,33,Sedan,Guingamp,3-0,2-0
-?,2004-08-17,Tue,33,Brest,Niort,1-0,1-0
-?,2004-08-17,Tue,33,Chateauroux,Nancy,0-0,0-0
-?,2004-08-17,Tue,33,Dijon,Angers,1-0,0-0
-?,2004-08-17,Tue,33,Grenoble,Amiens,1-1,0-0
-?,2004-08-17,Tue,33,Gueugnon,Creteil,1-0,1-0
-?,2004-08-17,Tue,33,Laval,Troyes,2-1,1-0
-?,2004-08-17,Tue,33,Le Havre,Clermont,0-0,0-0
-?,2004-08-17,Tue,33,Le Mans,Reims,0-0,0-0
-?,2004-08-17,Tue,33,Montpellier,Lorient,0-1,0-1
-?,2004-08-20,Fri,33,Amiens,Brest,1-0,1-0
-?,2004-08-20,Fri,33,Angers,Troyes,2-1,1-1
-?,2004-08-20,Fri,33,Clermont,Grenoble,5-0,1-0
-?,2004-08-20,Fri,33,Creteil,Le Havre,0-2,0-1
-?,2004-08-20,Fri,33,Guingamp,Chateauroux,2-0,1-0
-?,2004-08-20,Fri,33,Lorient,Dijon,0-2,0-1
-?,2004-08-20,Fri,33,Nancy,Montpellier,1-0,0-0
-?,2004-08-20,Fri,33,Niort,Sedan,3-0,2-0
-?,2004-08-20,Fri,33,Reims,Gueugnon,2-1,1-1
-?,2004-08-23,Mon,34,Le Mans,Laval,3-0,1-0
-?,2004-08-27,Fri,34,Brest,Clermont,1-2,1-2
-?,2004-08-27,Fri,34,Chateauroux,Niort,2-0,1-0
-?,2004-08-27,Fri,34,Dijon,Nancy,0-1,0-0
-?,2004-08-27,Fri,34,Grenoble,Creteil,1-1,0-0
-?,2004-08-27,Fri,34,Gueugnon,Le Mans,0-0,0-0
-?,2004-08-27,Fri,34,Laval,Angers,1-1,0-0
-?,2004-08-27,Fri,34,Le Havre,Reims,3-1,1-0
-?,2004-08-27,Fri,34,Montpellier,Guingamp,1-1,0-1
-?,2004-08-27,Fri,34,Sedan,Amiens,0-1,0-1
-?,2004-08-30,Mon,35,Troyes,Lorient,1-2,1-2
-?,2004-09-03,Fri,35,Clermont,Sedan,0-1,0-1
-?,2004-09-03,Fri,35,Creteil,Brest,2-3,1-2
-?,2004-09-03,Fri,35,Gueugnon,Laval,1-1,1-1
-?,2004-09-03,Fri,35,Guingamp,Dijon,0-1,0-1
-?,2004-09-03,Fri,35,Le Mans,Le Havre,1-0,0-0
-?,2004-09-03,Fri,35,Lorient,Angers,1-2,1-1
-?,2004-09-03,Fri,35,Niort,Montpellier,0-1,0-0
-?,2004-09-03,Fri,35,Reims,Grenoble,1-1,0-0
-?,2004-09-05,Sun,35,Amiens,Chateauroux,2-2,2-1
-?,2004-09-06,Mon,36,Nancy,Troyes,1-0,0-0
-?,2004-09-10,Fri,36,Angers,Nancy,1-1,0-0
-?,2004-09-10,Fri,36,Chateauroux,Clermont,1-1,1-0
-?,2004-09-10,Fri,36,Grenoble,Le Mans,2-1,1-1
-?,2004-09-10,Fri,36,Laval,Lorient,0-0,0-0
-?,2004-09-10,Fri,36,Le Havre,Gueugnon,0-1,0-1
-?,2004-09-10,Fri,36,Sedan,Creteil,1-0,0-0
-?,2004-09-10,Fri,36,Troyes,Guingamp,1-1,1-0
-?,2004-09-11,Sat,36,Dijon,Niort,2-1,1-0
-?,2004-09-12,Sun,36,Brest,Reims,4-2,1-1
-?,2004-09-13,Mon,37,Montpellier,Amiens,0-2,0-1
-?,2004-09-17,Fri,37,Amiens,Dijon,2-1,0-1
-?,2004-09-17,Fri,37,Clermont,Montpellier,0-0,0-0
-?,2004-09-17,Fri,37,Gueugnon,Grenoble,1-0,0-0
-?,2004-09-17,Fri,37,Guingamp,Angers,1-0,0-0
-?,2004-09-17,Fri,37,Le Havre,Laval,1-1,1-0
-?,2004-09-17,Fri,37,Le Mans,Brest,1-1,0-0
-?,2004-09-17,Fri,37,Nancy,Lorient,1-0,1-0
-?,2004-09-17,Fri,37,Reims,Sedan,0-0,0-0
-?,2004-09-19,Sun,37,Creteil,Chateauroux,3-1,1-1
-?,2004-09-19,Sun,37,Niort,Troyes,0-1,0-0
-?,2004-09-20,Mon,38,Lorient,Guingamp,1-1,0-1
-?,2004-09-21,Tue,38,Brest,Gueugnon,0-0,0-0
-?,2004-09-21,Tue,38,Dijon,Clermont,2-2,0-0
-?,2004-09-21,Tue,38,Grenoble,Le Havre,2-1,0-0
-?,2004-09-21,Tue,38,Laval,Nancy,1-2,1-1
-?,2004-09-21,Tue,38,Sedan,Le Mans,1-2,0-2
-?,2004-09-22,Wed,38,Angers,Niort,1-2,1-1
-?,2004-09-22,Wed,38,Chateauroux,Reims,1-1,0-1
-?,2004-09-22,Wed,38,Montpellier,Creteil,0-0,0-0
-?,2004-09-22,Wed,38,Troyes,Amiens,0-0,0-0
-?,2004-09-24,Fri,38,Grenoble,Laval,2-1,2-0
-?,2004-09-24,Fri,38,Guingamp,Nancy,3-2,1-1
-?,2004-09-24,Fri,38,Le Havre,Brest,0-0,0-0
-?,2004-09-25,Sat,38,Amiens,Angers,0-2,0-1
-?,2004-09-25,Sat,38,Clermont,Troyes,1-3,1-0
-?,2004-09-25,Sat,38,Le Mans,Chateauroux,0-2,0-1
-?,2004-09-25,Sat,38,Niort,Lorient,4-0,2-0
-?,2004-09-25,Sat,38,Reims,Montpellier,0-2,0-1
-?,2004-09-26,Sun,38,Creteil,Dijon,1-1,1-0
-?,2004-09-27,Mon,39,Gueugnon,Sedan,0-0,0-0
-?,2004-10-01,Fri,39,Angers,Clermont,1-1,0-1
-?,2004-10-01,Fri,39,Brest,Grenoble,1-1,1-1
-?,2004-10-01,Fri,39,Laval,Guingamp,1-0,1-0
-?,2004-10-01,Fri,39,Lorient,Amiens,1-2,0-0
-?,2004-10-01,Fri,39,Montpellier,Le Mans,2-0,0-0
-?,2004-10-01,Fri,39,Nancy,Niort,3-1,0-0
-?,2004-10-01,Fri,39,Sedan,Le Havre,1-0,1-0
-?,2004-10-01,Fri,39,Troyes,Creteil,2-1,0-0
-?,2004-10-03,Sun,39,Chateauroux,Gueugnon,0-0,0-0
-?,2004-10-04,Mon,40,Dijon,Reims,0-0,0-0
-?,2004-10-15,Fri,41,Amiens,Nancy,0-3,0-1
-?,2004-10-15,Fri,41,Brest,Laval,2-1,0-1
-?,2004-10-15,Fri,41,Clermont,Lorient,2-0,1-0
-?,2004-10-15,Fri,41,Creteil,Angers,2-0,2-0
-?,2004-10-15,Fri,41,Gueugnon,Montpellier,2-1,1-1
-?,2004-10-15,Fri,41,Le Havre,Chateauroux,0-1,0-1
-?,2004-10-15,Fri,41,Le Mans,Dijon,2-1,1-0
-?,2004-10-15,Fri,41,Niort,Guingamp,1-0,0-0
-?,2004-10-15,Fri,41,Reims,Troyes,2-0,1-0
-?,2004-10-18,Mon,42,Grenoble,Sedan,0-0,0-0
-?,2004-10-22,Fri,42,Angers,Reims,3-0,1-0
-?,2004-10-22,Fri,42,Chateauroux,Grenoble,1-1,0-1
-?,2004-10-22,Fri,42,Dijon,Gueugnon,0-0,0-0
-?,2004-10-22,Fri,42,Laval,Niort,1-0,1-0
-?,2004-10-22,Fri,42,Lorient,Creteil,3-1,0-0
-?,2004-10-22,Fri,42,Montpellier,Le Havre,3-0,1-0
-?,2004-10-22,Fri,42,Nancy,Clermont,2-1,1-1
-?,2004-10-22,Fri,42,Troyes,Le Mans,2-0,2-0
-?,2004-10-24,Sun,42,Sedan,Brest,0-0,0-0
-?,2004-10-25,Mon,43,Guingamp,Amiens,2-1,0-0
-?,2004-10-29,Fri,43,Amiens,Niort,4-1,1-0
-?,2004-10-29,Fri,43,Brest,Chateauroux,0-0,0-0
-?,2004-10-29,Fri,43,Creteil,Nancy,2-1,1-0
-?,2004-10-29,Fri,43,Grenoble,Montpellier,0-0,0-0
-?,2004-10-29,Fri,43,Le Havre,Dijon,1-0,1-0
-?,2004-10-29,Fri,43,Reims,Lorient,1-4,1-2
-?,2004-10-29,Fri,43,Sedan,Laval,0-3,0-1
-?,2004-10-31,Sun,43,Le Mans,Angers,3-0,2-0
-?,2004-11-01,Mon,44,Clermont,Guingamp,2-1,0-1
-?,2004-11-05,Fri,44,Chateauroux,Sedan,0-0,0-0
-?,2004-11-05,Fri,44,Dijon,Grenoble,2-1,1-1
-?,2004-11-05,Fri,44,Guingamp,Creteil,2-0,1-0
-?,2004-11-05,Fri,44,Laval,Amiens,1-0,0-0
-?,2004-11-05,Fri,44,Lorient,Le Mans,1-2,0-1
-?,2004-11-05,Fri,44,Montpellier,Brest,1-0,0-0
-?,2004-11-05,Fri,44,Nancy,Reims,3-1,2-1
-?,2004-11-05,Fri,44,Niort,Clermont,0-2,0-1
-?,2004-11-05,Fri,44,Troyes,Le Havre,2-1,0-1
-?,2004-11-08,Mon,45,Angers,Gueugnon,1-1,1-0
-?,2004-11-12,Fri,45,Clermont,Amiens,0-0,0-0
-?,2004-11-12,Fri,45,Creteil,Niort,0-1,0-0
-?,2004-11-12,Fri,45,Grenoble,Troyes,1-2,1-1
-?,2004-11-12,Fri,45,Gueugnon,Lorient,2-1,0-1
-?,2004-11-12,Fri,45,Le Havre,Angers,0-0,0-0
-?,2004-11-12,Fri,45,Le Mans,Nancy,1-2,0-0
-?,2004-11-12,Fri,45,Sedan,Montpellier,2-0,0-0
-?,2004-11-13,Sat,45,Chateauroux,Laval,1-0,1-0
-?,2004-11-13,Sat,45,Reims,Guingamp,3-2,0-1
-?,2004-11-15,Mon,46,Brest,Dijon,1-1,1-1
-?,2004-11-23,Tue,47,Gueugnon,Troyes,1-2,1-0
-?,2004-11-26,Fri,47,Amiens,Creteil,0-0,0-0
-?,2004-11-26,Fri,47,Angers,Grenoble,0-0,0-0
-?,2004-11-26,Fri,47,Dijon,Sedan,1-0,0-0
-?,2004-11-26,Fri,47,Guingamp,Le Mans,2-1,0-1
-?,2004-11-26,Fri,47,Laval,Clermont,4-3,2-1
-?,2004-11-26,Fri,47,Lorient,Le Havre,2-0,1-0
-?,2004-11-26,Fri,47,Niort,Reims,0-1,0-0
-?,2004-11-26,Fri,47,Troyes,Brest,2-0,1-0
-?,2004-11-28,Sun,47,Montpellier,Chateauroux,0-0,0-0
-?,2004-11-29,Mon,48,Nancy,Gueugnon,1-0,1-0
-?,2004-12-03,Fri,48,Brest,Angers,1-0,1-0
-?,2004-12-03,Fri,48,Creteil,Clermont,1-1,0-1
-?,2004-12-03,Fri,48,Grenoble,Lorient,1-2,0-1
-?,2004-12-03,Fri,48,Gueugnon,Guingamp,0-0,0-0
-?,2004-12-03,Fri,48,Le Havre,Nancy,0-0,0-0
-?,2004-12-03,Fri,48,Le Mans,Niort,1-0,0-0
-?,2004-12-03,Fri,48,Montpellier,Laval,3-1,1-0
-?,2004-12-03,Fri,48,Reims,Amiens,0-0,0-0
-?,2004-12-03,Fri,48,Sedan,Troyes,2-1,2-1
-?,2004-12-06,Mon,49,Chateauroux,Dijon,2-1,0-0
-?,2004-12-16,Thu,50,Lorient,Brest,3-0,0-0
-?,2004-12-17,Fri,50,Amiens,Le Mans,0-0,0-0
-?,2004-12-17,Fri,50,Angers,Sedan,2-2,0-2
-?,2004-12-17,Fri,50,Clermont,Reims,0-0,0-0
-?,2004-12-17,Fri,50,Dijon,Montpellier,1-0,1-0
-?,2004-12-17,Fri,50,Guingamp,Le Havre,1-0,1-0
-?,2004-12-17,Fri,50,Laval,Creteil,0-0,0-0
-?,2004-12-17,Fri,50,Nancy,Grenoble,2-0,1-0
-?,2004-12-17,Fri,50,Niort,Gueugnon,1-1,0-1
-?,2004-12-17,Fri,50,Troyes,Chateauroux,5-5,2-1
-?,2005-01-10,Mon,2,Sedan,Nancy,2-0,1-0
-?,2005-01-11,Tue,2,Brest,Guingamp,2-2,1-1
-?,2005-01-11,Tue,2,Chateauroux,Lorient,3-0,1-0
-?,2005-01-11,Tue,2,Dijon,Troyes,1-1,1-1
-?,2005-01-11,Tue,2,Grenoble,Niort,5-1,1-1
-?,2005-01-11,Tue,2,Gueugnon,Clermont,2-0,1-0
-?,2005-01-11,Tue,2,Laval,Reims,1-2,1-1
-?,2005-01-11,Tue,2,Le Havre,Amiens,1-0,0-0
-?,2005-01-11,Tue,2,Le Mans,Creteil,1-0,0-0
-?,2005-01-11,Tue,2,Montpellier,Angers,2-1,0-0
-?,2005-01-14,Fri,2,Angers,Dijon,2-2,2-0
-?,2005-01-14,Fri,2,Clermont,Le Havre,0-1,0-0
-?,2005-01-14,Fri,2,Creteil,Gueugnon,3-0,3-0
-?,2005-01-14,Fri,2,Guingamp,Sedan,4-0,1-0
-?,2005-01-14,Fri,2,Lorient,Montpellier,1-2,0-1
-?,2005-01-14,Fri,2,Niort,Brest,1-1,1-0
-?,2005-01-14,Fri,2,Reims,Le Mans,0-1,0-0
-?,2005-01-14,Fri,2,Troyes,Laval,0-2,0-1
-?,2005-01-16,Sun,2,Nancy,Chateauroux,1-1,1-0
-?,2005-01-17,Mon,3,Amiens,Grenoble,0-2,0-0
-?,2005-01-21,Fri,3,Brest,Amiens,1-1,1-1
-?,2005-01-21,Fri,3,Chateauroux,Guingamp,2-0,0-0
-?,2005-01-21,Fri,3,Dijon,Lorient,0-0,0-0
-?,2005-01-21,Fri,3,Gueugnon,Reims,1-1,1-0
-?,2005-01-21,Fri,3,Laval,Le Mans,1-2,1-2
-?,2005-01-21,Fri,3,Le Havre,Creteil,1-1,1-0
-?,2005-01-21,Fri,3,Sedan,Niort,0-0,0-0
-?,2005-01-21,Fri,3,Troyes,Angers,4-1,2-0
-?,2005-01-23,Sun,3,Montpellier,Nancy,1-1,1-1
-?,2005-01-24,Mon,4,Lorient,Troyes,1-2,1-2
-?,2005-01-25,Tue,4,Amiens,Sedan,1-2,0-1
-?,2005-01-25,Tue,4,Angers,Laval,0-1,0-0
-?,2005-01-25,Tue,4,Clermont,Brest,0-0,0-0
-?,2005-01-25,Tue,4,Creteil,Grenoble,0-0,0-0
-?,2005-01-25,Tue,4,Le Mans,Gueugnon,1-2,1-0
-?,2005-01-25,Tue,4,Niort,Chateauroux,0-0,0-0
-?,2005-01-25,Tue,4,Reims,Le Havre,3-0,1-0
-?,2005-01-26,Wed,4,Guingamp,Montpellier,3-1,0-0
-?,2005-01-28,Fri,4,Angers,Lorient,2-0,1-0
-?,2005-01-28,Fri,4,Brest,Creteil,1-0,0-0
-?,2005-01-28,Fri,4,Chateauroux,Amiens,1-0,1-0
-?,2005-01-28,Fri,4,Le Havre,Le Mans,0-1,0-1
-?,2005-01-28,Fri,4,Sedan,Clermont,2-0,2-0
-?,2005-01-29,Sat,4,Montpellier,Niort,2-0,1-0
-?,2005-01-31,Mon,5,Laval,Gueugnon,1-0,0-0
-?,2005-02-04,Fri,5,Amiens,Montpellier,2-0,1-0
-?,2005-02-04,Fri,5,Clermont,Chateauroux,2-0,0-0
-?,2005-02-04,Fri,5,Creteil,Sedan,2-0,0-0
-?,2005-02-04,Fri,5,Gueugnon,Le Havre,1-0,1-0
-?,2005-02-04,Fri,5,Guingamp,Troyes,0-1,0-0
-?,2005-02-04,Fri,5,Le Mans,Grenoble,1-0,1-0
-?,2005-02-04,Fri,5,Lorient,Laval,1-1,0-1
-?,2005-02-04,Fri,5,Nancy,Angers,3-1,1-0
-?,2005-02-04,Fri,5,Niort,Dijon,0-0,0-0
-?,2005-02-04,Fri,5,Reims,Brest,0-0,0-0
-?,2005-02-08,Tue,6,Grenoble,Clermont,1-0,0-0
-?,2005-02-11,Fri,6,Nancy,Dijon,2-0,1-0
-?,2005-02-15,Tue,7,Dijon,Guingamp,1-1,0-1
-?,2005-02-15,Tue,7,Troyes,Nancy,2-1,2-1
-?,2005-02-18,Fri,7,Angers,Guingamp,1-0,0-0
-?,2005-02-18,Fri,7,Chateauroux,Creteil,2-2,1-2
-?,2005-02-18,Fri,7,Dijon,Amiens,2-1,1-1
-?,2005-02-18,Fri,7,Grenoble,Gueugnon,2-1,1-1
-?,2005-02-18,Fri,7,Laval,Le Havre,0-1,0-0
-?,2005-02-18,Fri,7,Montpellier,Clermont,1-0,0-0
-?,2005-02-18,Fri,7,Sedan,Reims,2-0,0-0
-?,2005-02-18,Fri,7,Troyes,Niort,1-1,0-0
-?,2005-02-20,Sun,7,Lorient,Nancy,1-1,0-1
-?,2005-02-21,Mon,8,Brest,Le Mans,1-0,0-0
-?,2005-02-22,Tue,8,Grenoble,Reims,2-0,1-0
-?,2005-02-25,Fri,8,Amiens,Troyes,3-2,1-1
-?,2005-02-25,Fri,8,Clermont,Dijon,0-0,0-0
-?,2005-02-25,Fri,8,Gueugnon,Brest,1-0,1-0
-?,2005-02-25,Fri,8,Le Havre,Grenoble,2-1,0-1
-?,2005-02-25,Fri,8,Le Mans,Sedan,3-0,0-0
-?,2005-02-25,Fri,8,Nancy,Laval,0-1,0-1
-?,2005-02-25,Fri,8,Niort,Angers,0-0,0-0
-?,2005-02-25,Fri,8,Reims,Chateauroux,1-1,0-0
-?,2005-03-04,Fri,9,Angers,Amiens,3-2,2-1
-?,2005-03-04,Fri,9,Brest,Le Havre,1-0,0-0
-?,2005-03-04,Fri,9,Dijon,Creteil,1-0,0-0
-?,2005-03-04,Fri,9,Lorient,Niort,3-1,2-0
-?,2005-03-04,Fri,9,Montpellier,Reims,0-0,0-0
-?,2005-03-04,Fri,9,Nancy,Guingamp,2-1,1-0
-?,2005-03-04,Fri,9,Sedan,Gueugnon,3-0,2-0
-?,2005-03-05,Sat,9,Laval,Grenoble,3-1,1-0
-?,2005-03-07,Mon,10,Chateauroux,Le Mans,1-3,1-2
-?,2005-03-11,Fri,10,Amiens,Lorient,0-0,0-0
-?,2005-03-11,Fri,10,Clermont,Angers,0-0,0-0
-?,2005-03-11,Fri,10,Grenoble,Brest,0-2,0-1
-?,2005-03-11,Fri,10,Gueugnon,Chateauroux,1-3,0-1
-?,2005-03-11,Fri,10,Guingamp,Laval,2-1,0-1
-?,2005-03-11,Fri,10,Le Havre,Sedan,0-0,0-0
-?,2005-03-11,Fri,10,Le Mans,Montpellier,2-0,1-0
-?,2005-03-11,Fri,10,Niort,Nancy,1-2,1-1
-?,2005-03-11,Fri,10,Reims,Dijon,0-5,0-2
-?,2005-03-14,Mon,11,Creteil,Troyes,0-1,0-0
-?,2005-03-14,Mon,11,Guingamp,Lorient,1-1,0-0
-?,2005-03-18,Fri,11,Angers,Creteil,1-1,0-1
-?,2005-03-18,Fri,11,Chateauroux,Le Havre,4-1,2-0
-?,2005-03-18,Fri,11,Dijon,Le Mans,0-2,0-1
-?,2005-03-18,Fri,11,Guingamp,Niort,3-1,0-0
-?,2005-03-18,Fri,11,Laval,Brest,2-1,0-0
-?,2005-03-18,Fri,11,Lorient,Clermont,1-0,0-0
-?,2005-03-18,Fri,11,Montpellier,Gueugnon,1-1,0-1
-?,2005-03-18,Fri,11,Sedan,Grenoble,1-2,0-0
-?,2005-03-20,Sun,11,Nancy,Amiens,1-2,0-1
-?,2005-03-21,Mon,12,Troyes,Reims,2-0,1-0
-?,2005-03-25,Fri,12,Creteil,Montpellier,3-3,2-2
-?,2005-03-28,Mon,13,Troyes,Clermont,1-0,1-0
-?,2005-04-01,Fri,13,Amiens,Guingamp,1-1,1-1
-?,2005-04-01,Fri,13,Brest,Sedan,2-0,1-0
-?,2005-04-01,Fri,13,Clermont,Nancy,0-0,0-0
-?,2005-04-01,Fri,13,Creteil,Lorient,2-0,0-0
-?,2005-04-01,Fri,13,Grenoble,Chateauroux,2-0,1-0
-?,2005-04-01,Fri,13,Gueugnon,Dijon,0-1,0-1
-?,2005-04-01,Fri,13,Le Havre,Montpellier,0-1,0-0
-?,2005-04-01,Fri,13,Niort,Laval,2-0,1-0
-?,2005-04-01,Fri,13,Reims,Angers,1-1,1-0
-?,2005-04-04,Mon,14,Le Mans,Troyes,2-3,1-1
-?,2005-04-08,Fri,14,Angers,Le Mans,0-2,0-1
-?,2005-04-08,Fri,14,Chateauroux,Brest,1-2,1-1
-?,2005-04-08,Fri,14,Dijon,Le Havre,0-0,0-0
-?,2005-04-08,Fri,14,Guingamp,Clermont,3-1,2-0
-?,2005-04-08,Fri,14,Lorient,Reims,3-1,2-0
-?,2005-04-08,Fri,14,Montpellier,Grenoble,3-1,2-1
-?,2005-04-08,Fri,14,Nancy,Creteil,1-0,1-0
-?,2005-04-08,Fri,14,Niort,Amiens,3-1,2-0
-?,2005-04-08,Fri,14,Troyes,Gueugnon,1-0,0-0
-?,2005-04-11,Mon,15,Laval,Sedan,2-2,1-1
-?,2005-04-15,Fri,15,Amiens,Laval,2-1,1-0
-?,2005-04-15,Fri,15,Brest,Montpellier,1-1,0-1
-?,2005-04-15,Fri,15,Clermont,Niort,2-0,1-0
-?,2005-04-15,Fri,15,Creteil,Guingamp,1-1,1-1
-?,2005-04-15,Fri,15,Grenoble,Dijon,1-3,0-3
-?,2005-04-15,Fri,15,Gueugnon,Angers,1-0,0-0
-?,2005-04-15,Fri,15,Le Mans,Lorient,3-1,1-1
-?,2005-04-15,Fri,15,Reims,Nancy,0-4,0-1
-?,2005-04-15,Fri,15,Sedan,Chateauroux,2-1,1-0
-?,2005-04-18,Mon,16,Le Havre,Troyes,1-0,1-0
-?,2005-04-22,Fri,16,Amiens,Clermont,1-1,0-1
-?,2005-04-22,Fri,16,Angers,Le Havre,0-2,0-0
-?,2005-04-22,Fri,16,Dijon,Brest,2-2,0-2
-?,2005-04-22,Fri,16,Guingamp,Reims,2-0,0-0
-?,2005-04-22,Fri,16,Laval,Chateauroux,2-3,0-0
-?,2005-04-22,Fri,16,Lorient,Gueugnon,3-2,3-0
-?,2005-04-22,Fri,16,Nancy,Le Mans,1-3,1-1
-?,2005-04-22,Fri,16,Niort,Creteil,2-2,1-2
-?,2005-04-22,Fri,16,Troyes,Grenoble,2-2,1-1
-?,2005-04-25,Mon,17,Montpellier,Sedan,0-1,0-0
-?,2005-05-06,Fri,18,Chateauroux,Montpellier,2-0,0-0
-?,2005-05-06,Fri,18,Clermont,Laval,3-1,0-0
-?,2005-05-06,Fri,18,Creteil,Amiens,1-0,0-0
-?,2005-05-06,Fri,18,Grenoble,Angers,0-0,0-0
-?,2005-05-06,Fri,18,Gueugnon,Nancy,0-2,0-2
-?,2005-05-06,Fri,18,Le Havre,Lorient,3-1,0-1
-?,2005-05-06,Fri,18,Le Mans,Guingamp,0-0,0-0
-?,2005-05-06,Fri,18,Reims,Niort,2-0,0-0
-?,2005-05-06,Fri,18,Sedan,Dijon,0-1,0-1
-?,2005-05-09,Mon,19,Brest,Troyes,1-1,1-0
-?,2005-05-13,Fri,19,Amiens,Reims,1-1,0-0
-?,2005-05-13,Fri,19,Angers,Brest,1-0,1-0
-?,2005-05-13,Fri,19,Dijon,Chateauroux,3-0,1-0
-?,2005-05-13,Fri,19,Guingamp,Gueugnon,2-0,1-0
-?,2005-05-13,Fri,19,Laval,Montpellier,1-3,0-1
-?,2005-05-13,Fri,19,Lorient,Grenoble,2-0,1-0
-?,2005-05-13,Fri,19,Niort,Le Mans,0-3,0-0
-?,2005-05-14,Sat,19,Clermont,Creteil,0-1,0-1
-?,2005-05-14,Sat,19,Troyes,Sedan,2-1,0-0
-?,2005-05-16,Mon,20,Nancy,Le Havre,1-0,0-0
-?,2005-05-20,Fri,20,Brest,Lorient,0-0,0-0
-?,2005-05-20,Fri,20,Chateauroux,Troyes,3-1,3-0
-?,2005-05-20,Fri,20,Creteil,Laval,3-1,1-1
-?,2005-05-20,Fri,20,Grenoble,Nancy,1-1,0-0
-?,2005-05-20,Fri,20,Gueugnon,Niort,2-1,1-1
-?,2005-05-20,Fri,20,Le Havre,Guingamp,2-2,0-1
-?,2005-05-20,Fri,20,Le Mans,Amiens,1-1,0-0
-?,2005-05-20,Fri,20,Montpellier,Dijon,4-2,1-1
-?,2005-05-20,Fri,20,Reims,Clermont,3-0,2-0
-?,2005-05-20,Fri,20,Sedan,Angers,1-0,0-0
-?,2005-05-27,Fri,21,Amiens,Gueugnon,4-0,1-0
-?,2005-05-27,Fri,21,Angers,Chateauroux,1-2,1-2
-?,2005-05-27,Fri,21,Clermont,Le Mans,0-0,0-0
-?,2005-05-27,Fri,21,Creteil,Reims,4-0,2-0
-?,2005-05-27,Fri,21,Dijon,Laval,0-0,0-0
-?,2005-05-27,Fri,21,Guingamp,Grenoble,3-1,3-0
-?,2005-05-27,Fri,21,Lorient,Sedan,2-1,1-0
-?,2005-05-27,Fri,21,Nancy,Brest,1-0,1-0
-?,2005-05-27,Fri,21,Niort,Le Havre,6-1,5-0
-?,2005-05-27,Fri,21,Troyes,Montpellier,2-1,1-1
+Round,Date,Team 1,Team 2,FT,HT,Day,Week
+?,2004-08-06,Brest,Nancy,3-2,1-2,Fri,31
+?,2004-08-06,Chateauroux,Angers,1-1,1-1,Fri,31
+?,2004-08-06,Grenoble,Guingamp,4-2,1-0,Fri,31
+?,2004-08-06,Gueugnon,Amiens,1-1,1-1,Fri,31
+?,2004-08-06,Laval,Dijon,2-1,1-0,Fri,31
+?,2004-08-06,Le Mans,Clermont,2-2,1-0,Fri,31
+?,2004-08-06,Reims,Creteil,2-1,0-1,Fri,31
+?,2004-08-06,Sedan,Lorient,3-2,2-2,Fri,31
+?,2004-08-08,Montpellier,Troyes,3-4,1-1,Sun,31
+?,2004-08-09,Le Havre,Niort,1-2,1-1,Mon,32
+?,2004-08-12,Guingamp,Brest,1-2,1-1,Thu,32
+?,2004-08-13,Amiens,Le Havre,1-2,1-0,Fri,32
+?,2004-08-13,Angers,Montpellier,0-1,0-1,Fri,32
+?,2004-08-13,Clermont,Gueugnon,0-2,0-0,Fri,32
+?,2004-08-13,Creteil,Le Mans,1-0,0-0,Fri,32
+?,2004-08-13,Lorient,Chateauroux,2-1,1-0,Fri,32
+?,2004-08-13,Nancy,Sedan,1-2,0-1,Fri,32
+?,2004-08-13,Niort,Grenoble,1-3,1-2,Fri,32
+?,2004-08-13,Reims,Laval,2-0,1-0,Fri,32
+?,2004-08-13,Troyes,Dijon,2-2,1-1,Fri,32
+?,2004-08-16,Sedan,Guingamp,3-0,2-0,Mon,33
+?,2004-08-17,Brest,Niort,1-0,1-0,Tue,33
+?,2004-08-17,Chateauroux,Nancy,0-0,0-0,Tue,33
+?,2004-08-17,Dijon,Angers,1-0,0-0,Tue,33
+?,2004-08-17,Grenoble,Amiens,1-1,0-0,Tue,33
+?,2004-08-17,Gueugnon,Creteil,1-0,1-0,Tue,33
+?,2004-08-17,Laval,Troyes,2-1,1-0,Tue,33
+?,2004-08-17,Le Havre,Clermont,0-0,0-0,Tue,33
+?,2004-08-17,Le Mans,Reims,0-0,0-0,Tue,33
+?,2004-08-17,Montpellier,Lorient,0-1,0-1,Tue,33
+?,2004-08-20,Amiens,Brest,1-0,1-0,Fri,33
+?,2004-08-20,Angers,Troyes,2-1,1-1,Fri,33
+?,2004-08-20,Clermont,Grenoble,5-0,1-0,Fri,33
+?,2004-08-20,Creteil,Le Havre,0-2,0-1,Fri,33
+?,2004-08-20,Guingamp,Chateauroux,2-0,1-0,Fri,33
+?,2004-08-20,Lorient,Dijon,0-2,0-1,Fri,33
+?,2004-08-20,Nancy,Montpellier,1-0,0-0,Fri,33
+?,2004-08-20,Niort,Sedan,3-0,2-0,Fri,33
+?,2004-08-20,Reims,Gueugnon,2-1,1-1,Fri,33
+?,2004-08-23,Le Mans,Laval,3-0,1-0,Mon,34
+?,2004-08-27,Brest,Clermont,1-2,1-2,Fri,34
+?,2004-08-27,Chateauroux,Niort,2-0,1-0,Fri,34
+?,2004-08-27,Dijon,Nancy,0-1,0-0,Fri,34
+?,2004-08-27,Grenoble,Creteil,1-1,0-0,Fri,34
+?,2004-08-27,Gueugnon,Le Mans,0-0,0-0,Fri,34
+?,2004-08-27,Laval,Angers,1-1,0-0,Fri,34
+?,2004-08-27,Le Havre,Reims,3-1,1-0,Fri,34
+?,2004-08-27,Montpellier,Guingamp,1-1,0-1,Fri,34
+?,2004-08-27,Sedan,Amiens,0-1,0-1,Fri,34
+?,2004-08-30,Troyes,Lorient,1-2,1-2,Mon,35
+?,2004-09-03,Clermont,Sedan,0-1,0-1,Fri,35
+?,2004-09-03,Creteil,Brest,2-3,1-2,Fri,35
+?,2004-09-03,Gueugnon,Laval,1-1,1-1,Fri,35
+?,2004-09-03,Guingamp,Dijon,0-1,0-1,Fri,35
+?,2004-09-03,Le Mans,Le Havre,1-0,0-0,Fri,35
+?,2004-09-03,Lorient,Angers,1-2,1-1,Fri,35
+?,2004-09-03,Niort,Montpellier,0-1,0-0,Fri,35
+?,2004-09-03,Reims,Grenoble,1-1,0-0,Fri,35
+?,2004-09-05,Amiens,Chateauroux,2-2,2-1,Sun,35
+?,2004-09-06,Nancy,Troyes,1-0,0-0,Mon,36
+?,2004-09-10,Angers,Nancy,1-1,0-0,Fri,36
+?,2004-09-10,Chateauroux,Clermont,1-1,1-0,Fri,36
+?,2004-09-10,Grenoble,Le Mans,2-1,1-1,Fri,36
+?,2004-09-10,Laval,Lorient,0-0,0-0,Fri,36
+?,2004-09-10,Le Havre,Gueugnon,0-1,0-1,Fri,36
+?,2004-09-10,Sedan,Creteil,1-0,0-0,Fri,36
+?,2004-09-10,Troyes,Guingamp,1-1,1-0,Fri,36
+?,2004-09-11,Dijon,Niort,2-1,1-0,Sat,36
+?,2004-09-12,Brest,Reims,4-2,1-1,Sun,36
+?,2004-09-13,Montpellier,Amiens,0-2,0-1,Mon,37
+?,2004-09-17,Amiens,Dijon,2-1,0-1,Fri,37
+?,2004-09-17,Clermont,Montpellier,0-0,0-0,Fri,37
+?,2004-09-17,Gueugnon,Grenoble,1-0,0-0,Fri,37
+?,2004-09-17,Guingamp,Angers,1-0,0-0,Fri,37
+?,2004-09-17,Le Havre,Laval,1-1,1-0,Fri,37
+?,2004-09-17,Le Mans,Brest,1-1,0-0,Fri,37
+?,2004-09-17,Nancy,Lorient,1-0,1-0,Fri,37
+?,2004-09-17,Reims,Sedan,0-0,0-0,Fri,37
+?,2004-09-19,Creteil,Chateauroux,3-1,1-1,Sun,37
+?,2004-09-19,Niort,Troyes,0-1,0-0,Sun,37
+?,2004-09-20,Lorient,Guingamp,1-1,0-1,Mon,38
+?,2004-09-21,Brest,Gueugnon,0-0,0-0,Tue,38
+?,2004-09-21,Dijon,Clermont,2-2,0-0,Tue,38
+?,2004-09-21,Grenoble,Le Havre,2-1,0-0,Tue,38
+?,2004-09-21,Laval,Nancy,1-2,1-1,Tue,38
+?,2004-09-21,Sedan,Le Mans,1-2,0-2,Tue,38
+?,2004-09-22,Angers,Niort,1-2,1-1,Wed,38
+?,2004-09-22,Chateauroux,Reims,1-1,0-1,Wed,38
+?,2004-09-22,Montpellier,Creteil,0-0,0-0,Wed,38
+?,2004-09-22,Troyes,Amiens,0-0,0-0,Wed,38
+?,2004-09-24,Grenoble,Laval,2-1,2-0,Fri,38
+?,2004-09-24,Guingamp,Nancy,3-2,1-1,Fri,38
+?,2004-09-24,Le Havre,Brest,0-0,0-0,Fri,38
+?,2004-09-25,Amiens,Angers,0-2,0-1,Sat,38
+?,2004-09-25,Clermont,Troyes,1-3,1-0,Sat,38
+?,2004-09-25,Le Mans,Chateauroux,0-2,0-1,Sat,38
+?,2004-09-25,Niort,Lorient,4-0,2-0,Sat,38
+?,2004-09-25,Reims,Montpellier,0-2,0-1,Sat,38
+?,2004-09-26,Creteil,Dijon,1-1,1-0,Sun,38
+?,2004-09-27,Gueugnon,Sedan,0-0,0-0,Mon,39
+?,2004-10-01,Angers,Clermont,1-1,0-1,Fri,39
+?,2004-10-01,Brest,Grenoble,1-1,1-1,Fri,39
+?,2004-10-01,Laval,Guingamp,1-0,1-0,Fri,39
+?,2004-10-01,Lorient,Amiens,1-2,0-0,Fri,39
+?,2004-10-01,Montpellier,Le Mans,2-0,0-0,Fri,39
+?,2004-10-01,Nancy,Niort,3-1,0-0,Fri,39
+?,2004-10-01,Sedan,Le Havre,1-0,1-0,Fri,39
+?,2004-10-01,Troyes,Creteil,2-1,0-0,Fri,39
+?,2004-10-03,Chateauroux,Gueugnon,0-0,0-0,Sun,39
+?,2004-10-04,Dijon,Reims,0-0,0-0,Mon,40
+?,2004-10-15,Amiens,Nancy,0-3,0-1,Fri,41
+?,2004-10-15,Brest,Laval,2-1,0-1,Fri,41
+?,2004-10-15,Clermont,Lorient,2-0,1-0,Fri,41
+?,2004-10-15,Creteil,Angers,2-0,2-0,Fri,41
+?,2004-10-15,Gueugnon,Montpellier,2-1,1-1,Fri,41
+?,2004-10-15,Le Havre,Chateauroux,0-1,0-1,Fri,41
+?,2004-10-15,Le Mans,Dijon,2-1,1-0,Fri,41
+?,2004-10-15,Niort,Guingamp,1-0,0-0,Fri,41
+?,2004-10-15,Reims,Troyes,2-0,1-0,Fri,41
+?,2004-10-18,Grenoble,Sedan,0-0,0-0,Mon,42
+?,2004-10-22,Angers,Reims,3-0,1-0,Fri,42
+?,2004-10-22,Chateauroux,Grenoble,1-1,0-1,Fri,42
+?,2004-10-22,Dijon,Gueugnon,0-0,0-0,Fri,42
+?,2004-10-22,Laval,Niort,1-0,1-0,Fri,42
+?,2004-10-22,Lorient,Creteil,3-1,0-0,Fri,42
+?,2004-10-22,Montpellier,Le Havre,3-0,1-0,Fri,42
+?,2004-10-22,Nancy,Clermont,2-1,1-1,Fri,42
+?,2004-10-22,Troyes,Le Mans,2-0,2-0,Fri,42
+?,2004-10-24,Sedan,Brest,0-0,0-0,Sun,42
+?,2004-10-25,Guingamp,Amiens,2-1,0-0,Mon,43
+?,2004-10-29,Amiens,Niort,4-1,1-0,Fri,43
+?,2004-10-29,Brest,Chateauroux,0-0,0-0,Fri,43
+?,2004-10-29,Creteil,Nancy,2-1,1-0,Fri,43
+?,2004-10-29,Grenoble,Montpellier,0-0,0-0,Fri,43
+?,2004-10-29,Le Havre,Dijon,1-0,1-0,Fri,43
+?,2004-10-29,Reims,Lorient,1-4,1-2,Fri,43
+?,2004-10-29,Sedan,Laval,0-3,0-1,Fri,43
+?,2004-10-31,Le Mans,Angers,3-0,2-0,Sun,43
+?,2004-11-01,Clermont,Guingamp,2-1,0-1,Mon,44
+?,2004-11-05,Chateauroux,Sedan,0-0,0-0,Fri,44
+?,2004-11-05,Dijon,Grenoble,2-1,1-1,Fri,44
+?,2004-11-05,Guingamp,Creteil,2-0,1-0,Fri,44
+?,2004-11-05,Laval,Amiens,1-0,0-0,Fri,44
+?,2004-11-05,Lorient,Le Mans,1-2,0-1,Fri,44
+?,2004-11-05,Montpellier,Brest,1-0,0-0,Fri,44
+?,2004-11-05,Nancy,Reims,3-1,2-1,Fri,44
+?,2004-11-05,Niort,Clermont,0-2,0-1,Fri,44
+?,2004-11-05,Troyes,Le Havre,2-1,0-1,Fri,44
+?,2004-11-08,Angers,Gueugnon,1-1,1-0,Mon,45
+?,2004-11-12,Clermont,Amiens,0-0,0-0,Fri,45
+?,2004-11-12,Creteil,Niort,0-1,0-0,Fri,45
+?,2004-11-12,Grenoble,Troyes,1-2,1-1,Fri,45
+?,2004-11-12,Gueugnon,Lorient,2-1,0-1,Fri,45
+?,2004-11-12,Le Havre,Angers,0-0,0-0,Fri,45
+?,2004-11-12,Le Mans,Nancy,1-2,0-0,Fri,45
+?,2004-11-12,Sedan,Montpellier,2-0,0-0,Fri,45
+?,2004-11-13,Chateauroux,Laval,1-0,1-0,Sat,45
+?,2004-11-13,Reims,Guingamp,3-2,0-1,Sat,45
+?,2004-11-15,Brest,Dijon,1-1,1-1,Mon,46
+?,2004-11-23,Gueugnon,Troyes,1-2,1-0,Tue,47
+?,2004-11-26,Amiens,Creteil,0-0,0-0,Fri,47
+?,2004-11-26,Angers,Grenoble,0-0,0-0,Fri,47
+?,2004-11-26,Dijon,Sedan,1-0,0-0,Fri,47
+?,2004-11-26,Guingamp,Le Mans,2-1,0-1,Fri,47
+?,2004-11-26,Laval,Clermont,4-3,2-1,Fri,47
+?,2004-11-26,Lorient,Le Havre,2-0,1-0,Fri,47
+?,2004-11-26,Niort,Reims,0-1,0-0,Fri,47
+?,2004-11-26,Troyes,Brest,2-0,1-0,Fri,47
+?,2004-11-28,Montpellier,Chateauroux,0-0,0-0,Sun,47
+?,2004-11-29,Nancy,Gueugnon,1-0,1-0,Mon,48
+?,2004-12-03,Brest,Angers,1-0,1-0,Fri,48
+?,2004-12-03,Creteil,Clermont,1-1,0-1,Fri,48
+?,2004-12-03,Grenoble,Lorient,1-2,0-1,Fri,48
+?,2004-12-03,Gueugnon,Guingamp,0-0,0-0,Fri,48
+?,2004-12-03,Le Havre,Nancy,0-0,0-0,Fri,48
+?,2004-12-03,Le Mans,Niort,1-0,0-0,Fri,48
+?,2004-12-03,Montpellier,Laval,3-1,1-0,Fri,48
+?,2004-12-03,Reims,Amiens,0-0,0-0,Fri,48
+?,2004-12-03,Sedan,Troyes,2-1,2-1,Fri,48
+?,2004-12-06,Chateauroux,Dijon,2-1,0-0,Mon,49
+?,2004-12-16,Lorient,Brest,3-0,0-0,Thu,50
+?,2004-12-17,Amiens,Le Mans,0-0,0-0,Fri,50
+?,2004-12-17,Angers,Sedan,2-2,0-2,Fri,50
+?,2004-12-17,Clermont,Reims,0-0,0-0,Fri,50
+?,2004-12-17,Dijon,Montpellier,1-0,1-0,Fri,50
+?,2004-12-17,Guingamp,Le Havre,1-0,1-0,Fri,50
+?,2004-12-17,Laval,Creteil,0-0,0-0,Fri,50
+?,2004-12-17,Nancy,Grenoble,2-0,1-0,Fri,50
+?,2004-12-17,Niort,Gueugnon,1-1,0-1,Fri,50
+?,2004-12-17,Troyes,Chateauroux,5-5,2-1,Fri,50
+?,2005-01-10,Sedan,Nancy,2-0,1-0,Mon,2
+?,2005-01-11,Brest,Guingamp,2-2,1-1,Tue,2
+?,2005-01-11,Chateauroux,Lorient,3-0,1-0,Tue,2
+?,2005-01-11,Dijon,Troyes,1-1,1-1,Tue,2
+?,2005-01-11,Grenoble,Niort,5-1,1-1,Tue,2
+?,2005-01-11,Gueugnon,Clermont,2-0,1-0,Tue,2
+?,2005-01-11,Laval,Reims,1-2,1-1,Tue,2
+?,2005-01-11,Le Havre,Amiens,1-0,0-0,Tue,2
+?,2005-01-11,Le Mans,Creteil,1-0,0-0,Tue,2
+?,2005-01-11,Montpellier,Angers,2-1,0-0,Tue,2
+?,2005-01-14,Angers,Dijon,2-2,2-0,Fri,2
+?,2005-01-14,Clermont,Le Havre,0-1,0-0,Fri,2
+?,2005-01-14,Creteil,Gueugnon,3-0,3-0,Fri,2
+?,2005-01-14,Guingamp,Sedan,4-0,1-0,Fri,2
+?,2005-01-14,Lorient,Montpellier,1-2,0-1,Fri,2
+?,2005-01-14,Niort,Brest,1-1,1-0,Fri,2
+?,2005-01-14,Reims,Le Mans,0-1,0-0,Fri,2
+?,2005-01-14,Troyes,Laval,0-2,0-1,Fri,2
+?,2005-01-16,Nancy,Chateauroux,1-1,1-0,Sun,2
+?,2005-01-17,Amiens,Grenoble,0-2,0-0,Mon,3
+?,2005-01-21,Brest,Amiens,1-1,1-1,Fri,3
+?,2005-01-21,Chateauroux,Guingamp,2-0,0-0,Fri,3
+?,2005-01-21,Dijon,Lorient,0-0,0-0,Fri,3
+?,2005-01-21,Gueugnon,Reims,1-1,1-0,Fri,3
+?,2005-01-21,Laval,Le Mans,1-2,1-2,Fri,3
+?,2005-01-21,Le Havre,Creteil,1-1,1-0,Fri,3
+?,2005-01-21,Sedan,Niort,0-0,0-0,Fri,3
+?,2005-01-21,Troyes,Angers,4-1,2-0,Fri,3
+?,2005-01-23,Montpellier,Nancy,1-1,1-1,Sun,3
+?,2005-01-24,Lorient,Troyes,1-2,1-2,Mon,4
+?,2005-01-25,Amiens,Sedan,1-2,0-1,Tue,4
+?,2005-01-25,Angers,Laval,0-1,0-0,Tue,4
+?,2005-01-25,Clermont,Brest,0-0,0-0,Tue,4
+?,2005-01-25,Creteil,Grenoble,0-0,0-0,Tue,4
+?,2005-01-25,Le Mans,Gueugnon,1-2,1-0,Tue,4
+?,2005-01-25,Niort,Chateauroux,0-0,0-0,Tue,4
+?,2005-01-25,Reims,Le Havre,3-0,1-0,Tue,4
+?,2005-01-26,Guingamp,Montpellier,3-1,0-0,Wed,4
+?,2005-01-28,Angers,Lorient,2-0,1-0,Fri,4
+?,2005-01-28,Brest,Creteil,1-0,0-0,Fri,4
+?,2005-01-28,Chateauroux,Amiens,1-0,1-0,Fri,4
+?,2005-01-28,Le Havre,Le Mans,0-1,0-1,Fri,4
+?,2005-01-28,Sedan,Clermont,2-0,2-0,Fri,4
+?,2005-01-29,Montpellier,Niort,2-0,1-0,Sat,4
+?,2005-01-31,Laval,Gueugnon,1-0,0-0,Mon,5
+?,2005-02-04,Amiens,Montpellier,2-0,1-0,Fri,5
+?,2005-02-04,Clermont,Chateauroux,2-0,0-0,Fri,5
+?,2005-02-04,Creteil,Sedan,2-0,0-0,Fri,5
+?,2005-02-04,Gueugnon,Le Havre,1-0,1-0,Fri,5
+?,2005-02-04,Guingamp,Troyes,0-1,0-0,Fri,5
+?,2005-02-04,Le Mans,Grenoble,1-0,1-0,Fri,5
+?,2005-02-04,Lorient,Laval,1-1,0-1,Fri,5
+?,2005-02-04,Nancy,Angers,3-1,1-0,Fri,5
+?,2005-02-04,Niort,Dijon,0-0,0-0,Fri,5
+?,2005-02-04,Reims,Brest,0-0,0-0,Fri,5
+?,2005-02-08,Grenoble,Clermont,1-0,0-0,Tue,6
+?,2005-02-11,Nancy,Dijon,2-0,1-0,Fri,6
+?,2005-02-15,Dijon,Guingamp,1-1,0-1,Tue,7
+?,2005-02-15,Troyes,Nancy,2-1,2-1,Tue,7
+?,2005-02-18,Angers,Guingamp,1-0,0-0,Fri,7
+?,2005-02-18,Chateauroux,Creteil,2-2,1-2,Fri,7
+?,2005-02-18,Dijon,Amiens,2-1,1-1,Fri,7
+?,2005-02-18,Grenoble,Gueugnon,2-1,1-1,Fri,7
+?,2005-02-18,Laval,Le Havre,0-1,0-0,Fri,7
+?,2005-02-18,Montpellier,Clermont,1-0,0-0,Fri,7
+?,2005-02-18,Sedan,Reims,2-0,0-0,Fri,7
+?,2005-02-18,Troyes,Niort,1-1,0-0,Fri,7
+?,2005-02-20,Lorient,Nancy,1-1,0-1,Sun,7
+?,2005-02-21,Brest,Le Mans,1-0,0-0,Mon,8
+?,2005-02-22,Grenoble,Reims,2-0,1-0,Tue,8
+?,2005-02-25,Amiens,Troyes,3-2,1-1,Fri,8
+?,2005-02-25,Clermont,Dijon,0-0,0-0,Fri,8
+?,2005-02-25,Gueugnon,Brest,1-0,1-0,Fri,8
+?,2005-02-25,Le Havre,Grenoble,2-1,0-1,Fri,8
+?,2005-02-25,Le Mans,Sedan,3-0,0-0,Fri,8
+?,2005-02-25,Nancy,Laval,0-1,0-1,Fri,8
+?,2005-02-25,Niort,Angers,0-0,0-0,Fri,8
+?,2005-02-25,Reims,Chateauroux,1-1,0-0,Fri,8
+?,2005-03-04,Angers,Amiens,3-2,2-1,Fri,9
+?,2005-03-04,Brest,Le Havre,1-0,0-0,Fri,9
+?,2005-03-04,Dijon,Creteil,1-0,0-0,Fri,9
+?,2005-03-04,Lorient,Niort,3-1,2-0,Fri,9
+?,2005-03-04,Montpellier,Reims,0-0,0-0,Fri,9
+?,2005-03-04,Nancy,Guingamp,2-1,1-0,Fri,9
+?,2005-03-04,Sedan,Gueugnon,3-0,2-0,Fri,9
+?,2005-03-05,Laval,Grenoble,3-1,1-0,Sat,9
+?,2005-03-07,Chateauroux,Le Mans,1-3,1-2,Mon,10
+?,2005-03-11,Amiens,Lorient,0-0,0-0,Fri,10
+?,2005-03-11,Clermont,Angers,0-0,0-0,Fri,10
+?,2005-03-11,Grenoble,Brest,0-2,0-1,Fri,10
+?,2005-03-11,Gueugnon,Chateauroux,1-3,0-1,Fri,10
+?,2005-03-11,Guingamp,Laval,2-1,0-1,Fri,10
+?,2005-03-11,Le Havre,Sedan,0-0,0-0,Fri,10
+?,2005-03-11,Le Mans,Montpellier,2-0,1-0,Fri,10
+?,2005-03-11,Niort,Nancy,1-2,1-1,Fri,10
+?,2005-03-11,Reims,Dijon,0-5,0-2,Fri,10
+?,2005-03-14,Creteil,Troyes,0-1,0-0,Mon,11
+?,2005-03-14,Guingamp,Lorient,1-1,0-0,Mon,11
+?,2005-03-18,Angers,Creteil,1-1,0-1,Fri,11
+?,2005-03-18,Chateauroux,Le Havre,4-1,2-0,Fri,11
+?,2005-03-18,Dijon,Le Mans,0-2,0-1,Fri,11
+?,2005-03-18,Guingamp,Niort,3-1,0-0,Fri,11
+?,2005-03-18,Laval,Brest,2-1,0-0,Fri,11
+?,2005-03-18,Lorient,Clermont,1-0,0-0,Fri,11
+?,2005-03-18,Montpellier,Gueugnon,1-1,0-1,Fri,11
+?,2005-03-18,Sedan,Grenoble,1-2,0-0,Fri,11
+?,2005-03-20,Nancy,Amiens,1-2,0-1,Sun,11
+?,2005-03-21,Troyes,Reims,2-0,1-0,Mon,12
+?,2005-03-25,Creteil,Montpellier,3-3,2-2,Fri,12
+?,2005-03-28,Troyes,Clermont,1-0,1-0,Mon,13
+?,2005-04-01,Amiens,Guingamp,1-1,1-1,Fri,13
+?,2005-04-01,Brest,Sedan,2-0,1-0,Fri,13
+?,2005-04-01,Clermont,Nancy,0-0,0-0,Fri,13
+?,2005-04-01,Creteil,Lorient,2-0,0-0,Fri,13
+?,2005-04-01,Grenoble,Chateauroux,2-0,1-0,Fri,13
+?,2005-04-01,Gueugnon,Dijon,0-1,0-1,Fri,13
+?,2005-04-01,Le Havre,Montpellier,0-1,0-0,Fri,13
+?,2005-04-01,Niort,Laval,2-0,1-0,Fri,13
+?,2005-04-01,Reims,Angers,1-1,1-0,Fri,13
+?,2005-04-04,Le Mans,Troyes,2-3,1-1,Mon,14
+?,2005-04-08,Angers,Le Mans,0-2,0-1,Fri,14
+?,2005-04-08,Chateauroux,Brest,1-2,1-1,Fri,14
+?,2005-04-08,Dijon,Le Havre,0-0,0-0,Fri,14
+?,2005-04-08,Guingamp,Clermont,3-1,2-0,Fri,14
+?,2005-04-08,Lorient,Reims,3-1,2-0,Fri,14
+?,2005-04-08,Montpellier,Grenoble,3-1,2-1,Fri,14
+?,2005-04-08,Nancy,Creteil,1-0,1-0,Fri,14
+?,2005-04-08,Niort,Amiens,3-1,2-0,Fri,14
+?,2005-04-08,Troyes,Gueugnon,1-0,0-0,Fri,14
+?,2005-04-11,Laval,Sedan,2-2,1-1,Mon,15
+?,2005-04-15,Amiens,Laval,2-1,1-0,Fri,15
+?,2005-04-15,Brest,Montpellier,1-1,0-1,Fri,15
+?,2005-04-15,Clermont,Niort,2-0,1-0,Fri,15
+?,2005-04-15,Creteil,Guingamp,1-1,1-1,Fri,15
+?,2005-04-15,Grenoble,Dijon,1-3,0-3,Fri,15
+?,2005-04-15,Gueugnon,Angers,1-0,0-0,Fri,15
+?,2005-04-15,Le Mans,Lorient,3-1,1-1,Fri,15
+?,2005-04-15,Reims,Nancy,0-4,0-1,Fri,15
+?,2005-04-15,Sedan,Chateauroux,2-1,1-0,Fri,15
+?,2005-04-18,Le Havre,Troyes,1-0,1-0,Mon,16
+?,2005-04-22,Amiens,Clermont,1-1,0-1,Fri,16
+?,2005-04-22,Angers,Le Havre,0-2,0-0,Fri,16
+?,2005-04-22,Dijon,Brest,2-2,0-2,Fri,16
+?,2005-04-22,Guingamp,Reims,2-0,0-0,Fri,16
+?,2005-04-22,Laval,Chateauroux,2-3,0-0,Fri,16
+?,2005-04-22,Lorient,Gueugnon,3-2,3-0,Fri,16
+?,2005-04-22,Nancy,Le Mans,1-3,1-1,Fri,16
+?,2005-04-22,Niort,Creteil,2-2,1-2,Fri,16
+?,2005-04-22,Troyes,Grenoble,2-2,1-1,Fri,16
+?,2005-04-25,Montpellier,Sedan,0-1,0-0,Mon,17
+?,2005-05-06,Chateauroux,Montpellier,2-0,0-0,Fri,18
+?,2005-05-06,Clermont,Laval,3-1,0-0,Fri,18
+?,2005-05-06,Creteil,Amiens,1-0,0-0,Fri,18
+?,2005-05-06,Grenoble,Angers,0-0,0-0,Fri,18
+?,2005-05-06,Gueugnon,Nancy,0-2,0-2,Fri,18
+?,2005-05-06,Le Havre,Lorient,3-1,0-1,Fri,18
+?,2005-05-06,Le Mans,Guingamp,0-0,0-0,Fri,18
+?,2005-05-06,Reims,Niort,2-0,0-0,Fri,18
+?,2005-05-06,Sedan,Dijon,0-1,0-1,Fri,18
+?,2005-05-09,Brest,Troyes,1-1,1-0,Mon,19
+?,2005-05-13,Amiens,Reims,1-1,0-0,Fri,19
+?,2005-05-13,Angers,Brest,1-0,1-0,Fri,19
+?,2005-05-13,Dijon,Chateauroux,3-0,1-0,Fri,19
+?,2005-05-13,Guingamp,Gueugnon,2-0,1-0,Fri,19
+?,2005-05-13,Laval,Montpellier,1-3,0-1,Fri,19
+?,2005-05-13,Lorient,Grenoble,2-0,1-0,Fri,19
+?,2005-05-13,Niort,Le Mans,0-3,0-0,Fri,19
+?,2005-05-14,Clermont,Creteil,0-1,0-1,Sat,19
+?,2005-05-14,Troyes,Sedan,2-1,0-0,Sat,19
+?,2005-05-16,Nancy,Le Havre,1-0,0-0,Mon,20
+?,2005-05-20,Brest,Lorient,0-0,0-0,Fri,20
+?,2005-05-20,Chateauroux,Troyes,3-1,3-0,Fri,20
+?,2005-05-20,Creteil,Laval,3-1,1-1,Fri,20
+?,2005-05-20,Grenoble,Nancy,1-1,0-0,Fri,20
+?,2005-05-20,Gueugnon,Niort,2-1,1-1,Fri,20
+?,2005-05-20,Le Havre,Guingamp,2-2,0-1,Fri,20
+?,2005-05-20,Le Mans,Amiens,1-1,0-0,Fri,20
+?,2005-05-20,Montpellier,Dijon,4-2,1-1,Fri,20
+?,2005-05-20,Reims,Clermont,3-0,2-0,Fri,20
+?,2005-05-20,Sedan,Angers,1-0,0-0,Fri,20
+?,2005-05-27,Amiens,Gueugnon,4-0,1-0,Fri,21
+?,2005-05-27,Angers,Chateauroux,1-2,1-2,Fri,21
+?,2005-05-27,Clermont,Le Mans,0-0,0-0,Fri,21
+?,2005-05-27,Creteil,Reims,4-0,2-0,Fri,21
+?,2005-05-27,Dijon,Laval,0-0,0-0,Fri,21
+?,2005-05-27,Guingamp,Grenoble,3-1,3-0,Fri,21
+?,2005-05-27,Lorient,Sedan,2-1,1-0,Fri,21
+?,2005-05-27,Nancy,Brest,1-0,1-0,Fri,21
+?,2005-05-27,Niort,Le Havre,6-1,5-0,Fri,21
+?,2005-05-27,Troyes,Montpellier,2-1,1-1,Fri,21

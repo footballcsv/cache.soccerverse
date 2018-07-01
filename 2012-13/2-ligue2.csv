@@ -1,381 +1,381 @@
-Round,Date,Day,Week,Team 1,Team 2,FT,HT
-?,2012-07-27,Fri,30,Ajaccio GFCO,Caen,0-0,0-0
-?,2012-07-27,Fri,30,Angers,Sedan,1-0,0-0
-?,2012-07-27,Fri,30,Auxerre,Nimes,2-0,1-0
-?,2012-07-27,Fri,30,Chateauroux,Laval,1-1,0-0
-?,2012-07-27,Fri,30,Dijon,Guingamp,1-0,0-0
-?,2012-07-27,Fri,30,Le Havre,Arles,1-2,1-0
-?,2012-07-27,Fri,30,Nantes,Istres,1-1,1-0
-?,2012-07-27,Fri,30,Niort,Clermont,1-1,0-0
-?,2012-07-28,Sat,30,Lens,Le Mans,2-2,2-1
-?,2012-07-30,Mon,31,Monaco,Tours,4-0,4-0
-?,2012-08-03,Fri,31,Arles,Lens,0-0,0-0
-?,2012-08-03,Fri,31,Clermont,Angers,1-2,0-2
-?,2012-08-03,Fri,31,Guingamp,Le Havre,3-3,2-1
-?,2012-08-03,Fri,31,Istres,Ajaccio GFCO,2-0,1-0
-?,2012-08-03,Fri,31,Laval,Monaco,0-0,0-0
-?,2012-08-03,Fri,31,Le Mans,Dijon,1-2,0-1
-?,2012-08-03,Fri,31,Sedan,Chateauroux,1-1,1-0
-?,2012-08-03,Fri,31,Tours,Niort,2-2,1-0
-?,2012-08-04,Sat,31,Caen,Auxerre,3-1,2-1
-?,2012-08-04,Sat,31,Nimes,Nantes,0-0,0-0
-?,2012-08-10,Fri,32,Ajaccio GFCO,Arles,1-1,0-0
-?,2012-08-10,Fri,32,Angers,Guingamp,1-2,1-2
-?,2012-08-10,Fri,32,Chateauroux,Le Mans,1-0,0-0
-?,2012-08-10,Fri,32,Clermont,Nimes,2-1,1-1
-?,2012-08-10,Fri,32,Dijon,Tours,1-0,0-0
-?,2012-08-10,Fri,32,Monaco,Istres,3-2,2-2
-?,2012-08-10,Fri,32,Nantes,Laval,3-1,1-0
-?,2012-08-10,Fri,32,Niort,Caen,1-0,1-0
-?,2012-08-11,Sat,32,Auxerre,Sedan,1-0,0-0
-?,2012-08-13,Mon,33,Lens,Le Havre,1-0,0-0
-?,2012-08-17,Fri,33,Arles,Angers,2-0,0-0
-?,2012-08-17,Fri,33,Caen,Clermont,4-0,2-0
-?,2012-08-17,Fri,33,Istres,Chateauroux,0-0,0-0
-?,2012-08-17,Fri,33,Laval,Niort,1-0,0-0
-?,2012-08-17,Fri,33,Le Havre,Ajaccio GFCO,2-1,1-0
-?,2012-08-17,Fri,33,Lens,Dijon,1-1,1-0
-?,2012-08-17,Fri,33,Sedan,Nimes,2-3,2-2
-?,2012-08-17,Fri,33,Tours,Nantes,0-2,0-0
-?,2012-08-18,Sat,33,Guingamp,Monaco,1-2,1-0
-?,2012-08-20,Mon,34,Le Mans,Auxerre,3-1,1-1
-?,2012-08-24,Fri,34,Ajaccio GFCO,Lens,1-1,1-1
-?,2012-08-24,Fri,34,Angers,Istres,0-1,0-0
-?,2012-08-24,Fri,34,Auxerre,Laval,2-1,2-1
-?,2012-08-24,Fri,34,Chateauroux,Tours,3-0,1-0
-?,2012-08-24,Fri,34,Clermont,Sedan,0-2,0-0
-?,2012-08-24,Fri,34,Monaco,Arles,3-0,1-0
-?,2012-08-24,Fri,34,Nimes,Caen,0-2,0-1
-?,2012-08-24,Fri,34,Niort,Guingamp,0-0,0-0
-?,2012-08-25,Sat,34,Dijon,Le Havre,2-2,2-0
-?,2012-08-27,Mon,35,Nantes,Le Mans,2-0,1-0
-?,2012-08-31,Fri,35,Arles,Nantes,2-1,1-0
-?,2012-08-31,Fri,35,Dijon,Ajaccio GFCO,2-1,0-1
-?,2012-08-31,Fri,35,Guingamp,Chateauroux,2-1,2-0
-?,2012-08-31,Fri,35,Istres,Niort,1-0,0-0
-?,2012-08-31,Fri,35,Laval,Nimes,0-1,0-0
-?,2012-08-31,Fri,35,Le Havre,Monaco,2-1,1-0
-?,2012-08-31,Fri,35,Le Mans,Clermont,3-1,2-0
-?,2012-08-31,Fri,35,Sedan,Caen,2-2,1-1
-?,2012-08-31,Fri,35,Tours,Auxerre,1-0,0-0
-?,2012-09-03,Mon,36,Lens,Angers,1-3,0-1
-?,2012-09-14,Fri,37,Auxerre,Istres,0-0,0-0
-?,2012-09-14,Fri,37,Caen,Le Mans,0-2,0-1
-?,2012-09-14,Fri,37,Chateauroux,Lens,1-1,0-1
-?,2012-09-14,Fri,37,Clermont,Tours,1-1,0-1
-?,2012-09-14,Fri,37,Monaco,Dijon,1-1,0-0
-?,2012-09-14,Fri,37,Niort,Arles,0-0,0-0
-?,2012-09-14,Fri,37,Sedan,Laval,1-3,1-0
-?,2012-09-17,Mon,38,Angers,Le Havre,3-1,2-0
-?,2012-09-17,Mon,38,Nantes,Guingamp,1-1,1-0
-?,2012-09-17,Mon,38,Nimes,Ajaccio GFCO,0-1,0-1
-?,2012-09-21,Fri,38,Ajaccio GFCO,Angers,0-1,0-1
-?,2012-09-21,Fri,38,Arles,Chateauroux,1-1,1-1
-?,2012-09-21,Fri,38,Istres,Nimes,2-0,0-0
-?,2012-09-21,Fri,38,Laval,Caen,1-2,1-2
-?,2012-09-21,Fri,38,Le Havre,Nantes,1-1,0-0
-?,2012-09-21,Fri,38,Le Mans,Niort,2-2,0-1
-?,2012-09-21,Fri,38,Lens,Monaco,0-4,0-0
-?,2012-09-21,Fri,38,Tours,Sedan,1-1,1-0
-?,2012-09-22,Sat,38,Guingamp,Auxerre,4-3,1-2
-?,2012-09-24,Mon,39,Dijon,Clermont,1-1,1-1
-?,2012-09-28,Fri,39,Angers,Le Mans,4-0,2-0
-?,2012-09-28,Fri,39,Chateauroux,Le Havre,1-1,1-0
-?,2012-09-28,Fri,39,Clermont,Laval,0-0,0-0
-?,2012-09-28,Fri,39,Nimes,Guingamp,2-1,1-0
-?,2012-09-28,Fri,39,Niort,Dijon,4-2,2-1
-?,2012-09-28,Fri,39,Sedan,Istres,0-2,0-1
-?,2012-09-29,Sat,39,Caen,Tours,0-1,0-0
-?,2012-09-29,Sat,39,Nantes,Lens,4-0,2-0
-?,2012-09-30,Sun,39,Monaco,Ajaccio GFCO,2-2,0-1
-?,2012-10-01,Mon,40,Auxerre,Arles,2-1,0-0
-?,2012-10-05,Fri,40,Ajaccio GFCO,Nantes,3-1,1-0
-?,2012-10-05,Fri,40,Arles,Clermont,0-2,0-0
-?,2012-10-05,Fri,40,Guingamp,Laval,1-1,0-1
-?,2012-10-05,Fri,40,Istres,Caen,0-4,0-1
-?,2012-10-05,Fri,40,Le Havre,Auxerre,2-1,1-1
-?,2012-10-05,Fri,40,Le Mans,Sedan,1-0,1-0
-?,2012-10-05,Fri,40,Lens,Niort,1-0,0-0
-?,2012-10-05,Fri,40,Tours,Nimes,1-0,0-0
-?,2012-10-06,Sat,40,Dijon,Angers,0-0,0-0
-?,2012-10-08,Mon,41,Monaco,Chateauroux,0-0,0-0
-?,2012-10-19,Fri,42,Angers,Monaco,1-2,0-1
-?,2012-10-19,Fri,42,Caen,Guingamp,1-2,0-1
-?,2012-10-19,Fri,42,Chateauroux,Ajaccio GFCO,3-1,2-0
-?,2012-10-19,Fri,42,Clermont,Istres,2-1,2-0
-?,2012-10-19,Fri,42,Laval,Tours,2-2,1-0
-?,2012-10-19,Fri,42,Nimes,Le Mans,2-1,1-1
-?,2012-10-19,Fri,42,Niort,Le Havre,0-0,0-0
-?,2012-10-19,Fri,42,Sedan,Arles,4-2,2-1
-?,2012-10-20,Sat,42,Auxerre,Lens,1-2,0-2
-?,2012-10-22,Mon,43,Nantes,Dijon,2-0,1-0
-?,2012-10-26,Fri,43,Angers,Chateauroux,1-0,0-0
-?,2012-10-26,Fri,43,Arles,Caen,0-2,0-1
-?,2012-10-26,Fri,43,Dijon,Auxerre,0-1,0-1
-?,2012-10-26,Fri,43,Guingamp,Sedan,2-0,2-0
-?,2012-10-26,Fri,43,Istres,Tours,4-1,2-0
-?,2012-10-26,Fri,43,Le Havre,Nimes,1-1,1-0
-?,2012-10-26,Fri,43,Le Mans,Laval,2-0,2-0
-?,2012-10-27,Sat,43,Monaco,Nantes,0-2,0-2
-?,2012-10-29,Mon,44,Lens,Clermont,2-2,1-2
-?,2012-11-02,Fri,44,Chateauroux,Dijon,2-2,1-1
-?,2012-11-02,Fri,44,Clermont,Guingamp,1-2,1-1
-?,2012-11-02,Fri,44,Laval,Istres,2-1,0-0
-?,2012-11-02,Fri,44,Nimes,Arles,4-1,0-0
-?,2012-11-02,Fri,44,Niort,Monaco,1-1,0-0
-?,2012-11-02,Fri,44,Sedan,Lens,0-1,0-0
-?,2012-11-02,Fri,44,Tours,Le Mans,2-0,1-0
-?,2012-11-03,Sat,44,Auxerre,Ajaccio GFCO,1-1,1-0
-?,2012-11-03,Sat,44,Nantes,Angers,1-0,0-0
-?,2012-11-05,Mon,45,Caen,Le Havre,2-0,1-0
-?,2012-11-09,Fri,45,Ajaccio GFCO,Sedan,1-1,0-1
-?,2012-11-09,Fri,45,Angers,Niort,0-0,0-0
-?,2012-11-09,Fri,45,Arles,Laval,0-3,0-2
-?,2012-11-09,Fri,45,Dijon,Nimes,2-1,0-0
-?,2012-11-09,Fri,45,Guingamp,Tours,0-0,0-0
-?,2012-11-09,Fri,45,Istres,Le Mans,1-0,0-0
-?,2012-11-09,Fri,45,Le Havre,Clermont,1-3,0-1
-?,2012-11-09,Fri,45,Nantes,Chateauroux,1-1,1-1
-?,2012-11-10,Sat,45,Monaco,Auxerre,2-0,1-0
-?,2012-11-12,Mon,46,Lens,Caen,0-0,0-0
-?,2012-11-14,Wed,46,Ajaccio GFCO,Niort,2-2,1-2
-?,2012-11-23,Fri,47,Caen,Angers,1-0,0-0
-?,2012-11-23,Fri,47,Istres,Arles,0-1,0-0
-?,2012-11-23,Fri,47,Laval,Dijon,3-0,0-0
-?,2012-11-23,Fri,47,Le Mans,Guingamp,0-2,0-1
-?,2012-11-23,Fri,47,Nimes,Lens,1-2,0-1
-?,2012-11-23,Fri,47,Niort,Chateauroux,2-2,1-1
-?,2012-11-23,Fri,47,Sedan,Le Havre,1-2,0-2
-?,2012-11-23,Fri,47,Tours,Ajaccio GFCO,2-1,1-0
-?,2012-11-24,Sat,47,Auxerre,Nantes,0-2,0-1
-?,2012-11-26,Mon,48,Clermont,Monaco,0-1,0-0
-?,2012-11-30,Fri,48,Angers,Nimes,0-0,0-0
-?,2012-11-30,Fri,48,Arles,Le Mans,0-0,0-0
-?,2012-11-30,Fri,48,Chateauroux,Auxerre,1-1,0-0
-?,2012-11-30,Fri,48,Le Havre,Tours,3-0,2-0
-?,2012-11-30,Fri,48,Lens,Laval,1-0,0-0
-?,2012-11-30,Fri,48,Monaco,Sedan,3-1,1-0
-?,2012-11-30,Fri,48,Nantes,Niort,0-0,0-0
-?,2012-12-01,Sat,48,Ajaccio GFCO,Clermont,0-1,0-0
-?,2012-12-01,Sat,48,Dijon,Caen,1-0,0-0
-?,2012-12-03,Mon,49,Guingamp,Istres,1-0,1-0
-?,2012-12-10,Mon,50,Clermont,Nantes,0-1,0-1
-?,2012-12-11,Tue,50,Auxerre,Niort,4-2,1-2
-?,2012-12-11,Tue,50,Caen,Monaco,3-0,2-0
-?,2012-12-11,Tue,50,Guingamp,Arles,0-0,0-0
-?,2012-12-11,Tue,50,Istres,Le Havre,3-0,1-0
-?,2012-12-11,Tue,50,Laval,Angers,1-4,1-1
-?,2012-12-11,Tue,50,Le Mans,Ajaccio GFCO,1-0,1-0
-?,2012-12-11,Tue,50,Nimes,Chateauroux,2-0,0-0
-?,2012-12-11,Tue,50,Tours,Lens,0-0,0-0
-?,2012-12-14,Fri,50,Ajaccio GFCO,Laval,3-1,1-0
-?,2012-12-14,Fri,50,Angers,Auxerre,2-1,1-1
-?,2012-12-14,Fri,50,Arles,Tours,2-2,1-1
-?,2012-12-14,Fri,50,Chateauroux,Clermont,0-0,0-0
-?,2012-12-14,Fri,50,Le Havre,Le Mans,1-0,0-0
-?,2012-12-14,Fri,50,Monaco,Nimes,1-1,1-1
-?,2012-12-15,Sat,50,Dijon,Istres,3-1,2-0
-?,2012-12-15,Sat,50,Nantes,Caen,2-1,2-1
-?,2012-12-17,Mon,51,Lens,Guingamp,1-1,1-1
-?,2012-12-18,Tue,51,Niort,Sedan,1-3,1-2
-?,2012-12-21,Fri,51,Arles,Dijon,1-1,1-0
-?,2012-12-21,Fri,51,Caen,Chateauroux,1-0,0-0
-?,2012-12-21,Fri,51,Clermont,Auxerre,1-2,0-0
-?,2012-12-21,Fri,51,Guingamp,Ajaccio GFCO,0-0,0-0
-?,2012-12-21,Fri,51,Istres,Lens,2-2,0-0
-?,2012-12-21,Fri,51,Laval,Le Havre,1-2,1-0
-?,2012-12-21,Fri,51,Nimes,Niort,3-1,0-0
-?,2012-12-21,Fri,51,Tours,Angers,1-2,1-1
-?,2012-12-22,Sat,51,Le Mans,Monaco,2-3,0-1
-?,2012-12-23,Sun,51,Sedan,Nantes,0-0,0-0
-?,2013-01-11,Fri,1,Ajaccio GFCO,Istres,3-2,0-1
-?,2013-01-11,Fri,1,Angers,Clermont,1-2,0-1
-?,2013-01-11,Fri,1,Chateauroux,Sedan,1-1,1-0
-?,2013-01-11,Fri,1,Dijon,Le Mans,3-0,1-0
-?,2013-01-11,Fri,1,Le Havre,Guingamp,0-1,0-1
-?,2013-01-11,Fri,1,Lens,Arles,0-0,0-0
-?,2013-01-11,Fri,1,Nantes,Nimes,1-2,0-1
-?,2013-01-11,Fri,1,Niort,Tours,3-1,2-1
-?,2013-01-12,Sat,1,Auxerre,Caen,1-2,0-0
-?,2013-01-14,Mon,2,Monaco,Laval,1-1,1-1
-?,2013-01-18,Fri,2,Arles,Ajaccio GFCO,1-0,1-0
-?,2013-01-18,Fri,2,Caen,Niort,0-1,0-0
-?,2013-01-18,Fri,2,Istres,Monaco,0-2,0-0
-?,2013-01-18,Fri,2,Le Havre,Lens,2-2,2-0
-?,2013-01-18,Fri,2,Le Mans,Chateauroux,2-0,1-0
-?,2013-01-18,Fri,2,Nimes,Clermont,3-0,1-0
-?,2013-01-18,Fri,2,Tours,Dijon,3-1,2-0
-?,2013-01-19,Sat,2,Laval,Nantes,0-0,0-0
-?,2013-01-25,Fri,3,Ajaccio GFCO,Le Havre,0-1,0-1
-?,2013-01-25,Fri,3,Angers,Arles,2-0,0-0
-?,2013-01-25,Fri,3,Auxerre,Le Mans,1-1,0-0
-?,2013-01-25,Fri,3,Clermont,Caen,0-0,0-0
-?,2013-01-25,Fri,3,Nantes,Tours,3-1,1-0
-?,2013-01-25,Fri,3,Nimes,Sedan,2-1,2-0
-?,2013-01-25,Fri,3,Niort,Laval,0-0,0-0
-?,2013-01-26,Sat,3,Chateauroux,Istres,2-0,2-0
-?,2013-01-26,Sat,3,Monaco,Guingamp,2-2,1-1
-?,2013-01-28,Mon,4,Dijon,Lens,2-1,1-1
-?,2013-02-01,Fri,4,Caen,Nimes,1-0,1-0
-?,2013-02-01,Fri,4,Guingamp,Niort,4-3,2-2
-?,2013-02-01,Fri,4,Istres,Angers,0-0,0-0
-?,2013-02-01,Fri,4,Laval,Auxerre,4-5,2-2
-?,2013-02-01,Fri,4,Le Havre,Dijon,3-0,1-0
-?,2013-02-01,Fri,4,Lens,Ajaccio GFCO,2-0,1-0
-?,2013-02-01,Fri,4,Sedan,Clermont,1-1,0-0
-?,2013-02-01,Fri,4,Tours,Chateauroux,3-1,1-1
-?,2013-02-02,Sat,4,Le Mans,Nantes,0-3,0-2
-?,2013-02-04,Mon,5,Arles,Monaco,0-2,0-0
-?,2013-02-05,Tue,5,Guingamp,Angers,2-1,0-0
-?,2013-02-08,Fri,5,Ajaccio GFCO,Dijon,0-2,0-0
-?,2013-02-08,Fri,5,Auxerre,Tours,3-2,1-2
-?,2013-02-08,Fri,5,Caen,Sedan,2-0,1-0
-?,2013-02-08,Fri,5,Chateauroux,Guingamp,3-1,1-0
-?,2013-02-08,Fri,5,Clermont,Le Mans,1-1,0-0
-?,2013-02-08,Fri,5,Monaco,Le Havre,2-1,1-1
-?,2013-02-08,Fri,5,Nimes,Laval,3-0,2-0
-?,2013-02-08,Fri,5,Niort,Istres,0-0,0-0
-?,2013-02-09,Sat,5,Nantes,Arles,1-1,1-1
-?,2013-02-11,Mon,6,Angers,Lens,3-2,0-1
-?,2013-02-12,Tue,6,Sedan,Dijon,0-1,0-1
-?,2013-02-15,Fri,6,Ajaccio GFCO,Nimes,2-3,1-1
-?,2013-02-15,Fri,6,Arles,Niort,0-1,0-1
-?,2013-02-15,Fri,6,Istres,Auxerre,0-3,0-2
-?,2013-02-15,Fri,6,Laval,Sedan,3-0,0-0
-?,2013-02-15,Fri,6,Le Havre,Angers,2-1,1-1
-?,2013-02-15,Fri,6,Le Mans,Caen,1-1,1-1
-?,2013-02-15,Fri,6,Lens,Chateauroux,4-3,3-2
-?,2013-02-15,Fri,6,Tours,Clermont,2-1,0-1
-?,2013-02-16,Sat,6,Guingamp,Nantes,2-1,0-1
-?,2013-02-18,Mon,7,Dijon,Monaco,0-2,0-2
-?,2013-02-22,Fri,7,Angers,Ajaccio GFCO,1-0,0-0
-?,2013-02-22,Fri,7,Auxerre,Guingamp,2-1,1-1
-?,2013-02-22,Fri,7,Caen,Laval,2-1,2-1
-?,2013-02-22,Fri,7,Chateauroux,Arles,2-0,1-0
-?,2013-02-22,Fri,7,Clermont,Dijon,0-0,0-0
-?,2013-02-22,Fri,7,Nimes,Istres,1-0,0-0
-?,2013-02-22,Fri,7,Niort,Le Mans,2-3,2-0
-?,2013-02-22,Fri,7,Sedan,Tours,1-1,0-1
-?,2013-02-23,Sat,7,Nantes,Le Havre,2-0,1-0
-?,2013-02-25,Mon,8,Monaco,Lens,2-1,1-0
-?,2013-02-26,Tue,8,Sedan,Auxerre,1-0,0-0
-?,2013-03-01,Fri,8,Ajaccio GFCO,Monaco,0-1,0-1
-?,2013-03-01,Fri,8,Arles,Auxerre,2-1,0-1
-?,2013-03-01,Fri,8,Dijon,Niort,1-1,0-0
-?,2013-03-01,Fri,8,Istres,Sedan,1-0,0-0
-?,2013-03-01,Fri,8,Laval,Clermont,1-1,1-0
-?,2013-03-01,Fri,8,Le Havre,Chateauroux,1-0,1-0
-?,2013-03-01,Fri,8,Le Mans,Angers,0-2,0-0
-?,2013-03-01,Fri,8,Tours,Caen,1-1,1-0
-?,2013-03-02,Sat,8,Guingamp,Nimes,3-0,1-0
-?,2013-03-04,Mon,9,Lens,Nantes,1-2,1-1
-?,2013-03-08,Fri,9,Angers,Dijon,3-3,1-1
-?,2013-03-08,Fri,9,Auxerre,Le Havre,4-1,2-1
-?,2013-03-08,Fri,9,Chateauroux,Monaco,1-1,0-1
-?,2013-03-08,Fri,9,Clermont,Arles,2-4,0-2
-?,2013-03-08,Fri,9,Laval,Guingamp,2-1,2-0
-?,2013-03-08,Fri,9,Nimes,Tours,1-1,1-0
-?,2013-03-08,Fri,9,Niort,Lens,0-0,0-0
-?,2013-03-08,Fri,9,Sedan,Le Mans,2-1,1-0
-?,2013-03-09,Sat,9,Nantes,Ajaccio GFCO,2-1,2-0
-?,2013-03-15,Fri,10,Arles,Sedan,2-2,1-0
-?,2013-03-15,Fri,10,Guingamp,Caen,1-0,0-0
-?,2013-03-15,Fri,10,Istres,Clermont,0-0,0-0
-?,2013-03-15,Fri,10,Le Havre,Niort,2-1,1-0
-?,2013-03-15,Fri,10,Le Mans,Nimes,0-3,0-1
-?,2013-03-15,Fri,10,Monaco,Angers,2-2,1-2
-?,2013-03-15,Fri,10,Tours,Laval,1-1,1-0
-?,2013-03-16,Sat,10,Lens,Auxerre,1-0,0-0
-?,2013-03-18,Mon,11,Dijon,Nantes,3-1,0-1
-?,2013-03-19,Tue,11,Ajaccio GFCO,Chateauroux,1-1,0-0
-?,2013-03-24,Sun,11,Caen,Istres,1-0,0-0
-?,2013-03-29,Fri,12,Auxerre,Dijon,0-0,0-0
-?,2013-03-29,Fri,12,Caen,Arles,1-1,0-0
-?,2013-03-29,Fri,12,Chateauroux,Angers,2-3,0-1
-?,2013-03-29,Fri,12,Clermont,Lens,1-0,1-0
-?,2013-03-29,Fri,12,Laval,Le Mans,2-1,1-1
-?,2013-03-29,Fri,12,Niort,Ajaccio GFCO,2-1,2-0
-?,2013-03-29,Fri,12,Sedan,Guingamp,1-2,0-1
-?,2013-03-29,Fri,12,Tours,Istres,1-0,0-0
-?,2013-03-30,Sat,12,Nantes,Monaco,1-1,1-0
-?,2013-04-01,Mon,13,Nimes,Le Havre,0-1,0-1
-?,2013-04-05,Fri,13,Ajaccio GFCO,Auxerre,0-0,0-0
-?,2013-04-05,Fri,13,Angers,Nantes,2-0,1-0
-?,2013-04-05,Fri,13,Arles,Nimes,1-1,0-1
-?,2013-04-05,Fri,13,Dijon,Chateauroux,1-1,0-0
-?,2013-04-05,Fri,13,Istres,Laval,2-2,1-1
-?,2013-04-05,Fri,13,Le Mans,Tours,1-0,0-0
-?,2013-04-05,Fri,13,Lens,Sedan,2-2,1-2
-?,2013-04-05,Fri,13,Monaco,Niort,1-1,1-1
-?,2013-04-06,Sat,13,Guingamp,Clermont,0-0,0-0
-?,2013-04-08,Mon,14,Le Havre,Caen,1-1,0-1
-?,2013-04-12,Fri,14,Caen,Lens,0-0,0-0
-?,2013-04-12,Fri,14,Clermont,Le Havre,1-1,0-0
-?,2013-04-12,Fri,14,Laval,Arles,1-3,1-2
-?,2013-04-12,Fri,14,Le Mans,Istres,1-2,1-1
-?,2013-04-12,Fri,14,Nimes,Dijon,1-1,0-0
-?,2013-04-12,Fri,14,Niort,Angers,0-0,0-0
-?,2013-04-12,Fri,14,Sedan,Ajaccio GFCO,4-1,1-1
-?,2013-04-12,Fri,14,Tours,Guingamp,2-0,0-0
-?,2013-04-13,Sat,14,Auxerre,Monaco,0-2,0-2
-?,2013-04-15,Mon,15,Chateauroux,Nantes,0-4,0-1
-?,2013-04-19,Fri,15,Ajaccio GFCO,Tours,0-1,0-0
-?,2013-04-19,Fri,15,Angers,Caen,1-1,0-1
-?,2013-04-19,Fri,15,Arles,Istres,1-0,1-0
-?,2013-04-19,Fri,15,Chateauroux,Niort,1-0,0-0
-?,2013-04-19,Fri,15,Dijon,Laval,1-0,0-0
-?,2013-04-19,Fri,15,Guingamp,Le Mans,6-1,2-0
-?,2013-04-19,Fri,15,Le Havre,Sedan,1-1,1-0
-?,2013-04-20,Sat,15,Lens,Nimes,1-2,0-1
-?,2013-04-20,Sat,15,Nantes,Auxerre,1-1,1-1
-?,2013-04-22,Mon,16,Monaco,Clermont,4-0,2-0
-?,2013-04-26,Fri,16,Auxerre,Chateauroux,0-0,0-0
-?,2013-04-26,Fri,16,Clermont,Ajaccio GFCO,0-2,0-0
-?,2013-04-26,Fri,16,Istres,Guingamp,2-0,2-0
-?,2013-04-26,Fri,16,Laval,Lens,1-1,0-1
-?,2013-04-26,Fri,16,Le Mans,Arles,0-0,0-0
-?,2013-04-26,Fri,16,Nimes,Angers,3-0,0-0
-?,2013-04-26,Fri,16,Niort,Nantes,0-1,0-0
-?,2013-04-26,Fri,16,Tours,Le Havre,1-2,0-2
-?,2013-04-27,Sat,16,Caen,Dijon,2-2,1-0
-?,2013-04-29,Mon,17,Sedan,Monaco,1-1,1-1
-?,2013-05-03,Fri,17,Ajaccio GFCO,Le Mans,1-3,1-3
-?,2013-05-03,Fri,17,Angers,Laval,1-0,0-0
-?,2013-05-03,Fri,17,Arles,Guingamp,0-2,0-0
-?,2013-05-03,Fri,17,Chateauroux,Nimes,2-1,2-0
-?,2013-05-03,Fri,17,Dijon,Sedan,4-2,2-1
-?,2013-05-03,Fri,17,Le Havre,Istres,2-0,0-0
-?,2013-05-03,Fri,17,Lens,Tours,0-0,0-0
-?,2013-05-03,Fri,17,Niort,Auxerre,0-1,0-1
-?,2013-05-04,Sat,17,Monaco,Caen,0-1,0-1
-?,2013-05-06,Mon,18,Nantes,Clermont,0-1,0-1
-?,2013-05-10,Fri,18,Auxerre,Angers,2-2,1-1
-?,2013-05-10,Fri,18,Clermont,Chateauroux,1-0,0-0
-?,2013-05-10,Fri,18,Guingamp,Lens,7-0,4-0
-?,2013-05-10,Fri,18,Istres,Dijon,2-3,1-2
-?,2013-05-10,Fri,18,Laval,Ajaccio GFCO,1-2,1-0
-?,2013-05-10,Fri,18,Le Mans,Le Havre,0-4,0-1
-?,2013-05-10,Fri,18,Sedan,Niort,0-2,0-1
-?,2013-05-10,Fri,18,Tours,Arles,0-0,0-0
-?,2013-05-11,Sat,18,Nimes,Monaco,0-1,0-0
-?,2013-05-13,Mon,19,Caen,Nantes,0-1,0-0
-?,2013-05-17,Fri,19,Ajaccio GFCO,Guingamp,0-1,0-0
-?,2013-05-17,Fri,19,Angers,Tours,0-1,0-0
-?,2013-05-17,Fri,19,Auxerre,Clermont,1-1,1-1
-?,2013-05-17,Fri,19,Chateauroux,Caen,2-2,2-1
-?,2013-05-17,Fri,19,Dijon,Arles,2-3,1-1
-?,2013-05-17,Fri,19,Le Havre,Laval,1-2,1-2
-?,2013-05-17,Fri,19,Lens,Istres,1-1,0-0
-?,2013-05-17,Fri,19,Monaco,Le Mans,2-1,2-0
-?,2013-05-17,Fri,19,Nantes,Sedan,1-0,0-0
-?,2013-05-17,Fri,19,Niort,Nimes,2-0,0-0
-?,2013-05-24,Fri,20,Arles,Le Havre,1-1,1-0
-?,2013-05-24,Fri,20,Caen,Ajaccio GFCO,2-1,1-1
-?,2013-05-24,Fri,20,Clermont,Niort,1-1,0-1
-?,2013-05-24,Fri,20,Guingamp,Dijon,2-0,1-0
-?,2013-05-24,Fri,20,Istres,Nantes,2-2,0-1
-?,2013-05-24,Fri,20,Laval,Chateauroux,3-2,2-0
-?,2013-05-24,Fri,20,Le Mans,Lens,2-1,2-0
-?,2013-05-24,Fri,20,Nimes,Auxerre,4-2,3-1
-?,2013-05-24,Fri,20,Sedan,Angers,2-2,1-0
-?,2013-05-24,Fri,20,Tours,Monaco,1-2,1-0
+Round,Date,Team 1,Team 2,FT,HT,Day,Week
+?,2012-07-27,Ajaccio GFCO,Caen,0-0,0-0,Fri,30
+?,2012-07-27,Angers,Sedan,1-0,0-0,Fri,30
+?,2012-07-27,Auxerre,Nimes,2-0,1-0,Fri,30
+?,2012-07-27,Chateauroux,Laval,1-1,0-0,Fri,30
+?,2012-07-27,Dijon,Guingamp,1-0,0-0,Fri,30
+?,2012-07-27,Le Havre,Arles,1-2,1-0,Fri,30
+?,2012-07-27,Nantes,Istres,1-1,1-0,Fri,30
+?,2012-07-27,Niort,Clermont,1-1,0-0,Fri,30
+?,2012-07-28,Lens,Le Mans,2-2,2-1,Sat,30
+?,2012-07-30,Monaco,Tours,4-0,4-0,Mon,31
+?,2012-08-03,Arles,Lens,0-0,0-0,Fri,31
+?,2012-08-03,Clermont,Angers,1-2,0-2,Fri,31
+?,2012-08-03,Guingamp,Le Havre,3-3,2-1,Fri,31
+?,2012-08-03,Istres,Ajaccio GFCO,2-0,1-0,Fri,31
+?,2012-08-03,Laval,Monaco,0-0,0-0,Fri,31
+?,2012-08-03,Le Mans,Dijon,1-2,0-1,Fri,31
+?,2012-08-03,Sedan,Chateauroux,1-1,1-0,Fri,31
+?,2012-08-03,Tours,Niort,2-2,1-0,Fri,31
+?,2012-08-04,Caen,Auxerre,3-1,2-1,Sat,31
+?,2012-08-04,Nimes,Nantes,0-0,0-0,Sat,31
+?,2012-08-10,Ajaccio GFCO,Arles,1-1,0-0,Fri,32
+?,2012-08-10,Angers,Guingamp,1-2,1-2,Fri,32
+?,2012-08-10,Chateauroux,Le Mans,1-0,0-0,Fri,32
+?,2012-08-10,Clermont,Nimes,2-1,1-1,Fri,32
+?,2012-08-10,Dijon,Tours,1-0,0-0,Fri,32
+?,2012-08-10,Monaco,Istres,3-2,2-2,Fri,32
+?,2012-08-10,Nantes,Laval,3-1,1-0,Fri,32
+?,2012-08-10,Niort,Caen,1-0,1-0,Fri,32
+?,2012-08-11,Auxerre,Sedan,1-0,0-0,Sat,32
+?,2012-08-13,Lens,Le Havre,1-0,0-0,Mon,33
+?,2012-08-17,Arles,Angers,2-0,0-0,Fri,33
+?,2012-08-17,Caen,Clermont,4-0,2-0,Fri,33
+?,2012-08-17,Istres,Chateauroux,0-0,0-0,Fri,33
+?,2012-08-17,Laval,Niort,1-0,0-0,Fri,33
+?,2012-08-17,Le Havre,Ajaccio GFCO,2-1,1-0,Fri,33
+?,2012-08-17,Lens,Dijon,1-1,1-0,Fri,33
+?,2012-08-17,Sedan,Nimes,2-3,2-2,Fri,33
+?,2012-08-17,Tours,Nantes,0-2,0-0,Fri,33
+?,2012-08-18,Guingamp,Monaco,1-2,1-0,Sat,33
+?,2012-08-20,Le Mans,Auxerre,3-1,1-1,Mon,34
+?,2012-08-24,Ajaccio GFCO,Lens,1-1,1-1,Fri,34
+?,2012-08-24,Angers,Istres,0-1,0-0,Fri,34
+?,2012-08-24,Auxerre,Laval,2-1,2-1,Fri,34
+?,2012-08-24,Chateauroux,Tours,3-0,1-0,Fri,34
+?,2012-08-24,Clermont,Sedan,0-2,0-0,Fri,34
+?,2012-08-24,Monaco,Arles,3-0,1-0,Fri,34
+?,2012-08-24,Nimes,Caen,0-2,0-1,Fri,34
+?,2012-08-24,Niort,Guingamp,0-0,0-0,Fri,34
+?,2012-08-25,Dijon,Le Havre,2-2,2-0,Sat,34
+?,2012-08-27,Nantes,Le Mans,2-0,1-0,Mon,35
+?,2012-08-31,Arles,Nantes,2-1,1-0,Fri,35
+?,2012-08-31,Dijon,Ajaccio GFCO,2-1,0-1,Fri,35
+?,2012-08-31,Guingamp,Chateauroux,2-1,2-0,Fri,35
+?,2012-08-31,Istres,Niort,1-0,0-0,Fri,35
+?,2012-08-31,Laval,Nimes,0-1,0-0,Fri,35
+?,2012-08-31,Le Havre,Monaco,2-1,1-0,Fri,35
+?,2012-08-31,Le Mans,Clermont,3-1,2-0,Fri,35
+?,2012-08-31,Sedan,Caen,2-2,1-1,Fri,35
+?,2012-08-31,Tours,Auxerre,1-0,0-0,Fri,35
+?,2012-09-03,Lens,Angers,1-3,0-1,Mon,36
+?,2012-09-14,Auxerre,Istres,0-0,0-0,Fri,37
+?,2012-09-14,Caen,Le Mans,0-2,0-1,Fri,37
+?,2012-09-14,Chateauroux,Lens,1-1,0-1,Fri,37
+?,2012-09-14,Clermont,Tours,1-1,0-1,Fri,37
+?,2012-09-14,Monaco,Dijon,1-1,0-0,Fri,37
+?,2012-09-14,Niort,Arles,0-0,0-0,Fri,37
+?,2012-09-14,Sedan,Laval,1-3,1-0,Fri,37
+?,2012-09-17,Angers,Le Havre,3-1,2-0,Mon,38
+?,2012-09-17,Nantes,Guingamp,1-1,1-0,Mon,38
+?,2012-09-17,Nimes,Ajaccio GFCO,0-1,0-1,Mon,38
+?,2012-09-21,Ajaccio GFCO,Angers,0-1,0-1,Fri,38
+?,2012-09-21,Arles,Chateauroux,1-1,1-1,Fri,38
+?,2012-09-21,Istres,Nimes,2-0,0-0,Fri,38
+?,2012-09-21,Laval,Caen,1-2,1-2,Fri,38
+?,2012-09-21,Le Havre,Nantes,1-1,0-0,Fri,38
+?,2012-09-21,Le Mans,Niort,2-2,0-1,Fri,38
+?,2012-09-21,Lens,Monaco,0-4,0-0,Fri,38
+?,2012-09-21,Tours,Sedan,1-1,1-0,Fri,38
+?,2012-09-22,Guingamp,Auxerre,4-3,1-2,Sat,38
+?,2012-09-24,Dijon,Clermont,1-1,1-1,Mon,39
+?,2012-09-28,Angers,Le Mans,4-0,2-0,Fri,39
+?,2012-09-28,Chateauroux,Le Havre,1-1,1-0,Fri,39
+?,2012-09-28,Clermont,Laval,0-0,0-0,Fri,39
+?,2012-09-28,Nimes,Guingamp,2-1,1-0,Fri,39
+?,2012-09-28,Niort,Dijon,4-2,2-1,Fri,39
+?,2012-09-28,Sedan,Istres,0-2,0-1,Fri,39
+?,2012-09-29,Caen,Tours,0-1,0-0,Sat,39
+?,2012-09-29,Nantes,Lens,4-0,2-0,Sat,39
+?,2012-09-30,Monaco,Ajaccio GFCO,2-2,0-1,Sun,39
+?,2012-10-01,Auxerre,Arles,2-1,0-0,Mon,40
+?,2012-10-05,Ajaccio GFCO,Nantes,3-1,1-0,Fri,40
+?,2012-10-05,Arles,Clermont,0-2,0-0,Fri,40
+?,2012-10-05,Guingamp,Laval,1-1,0-1,Fri,40
+?,2012-10-05,Istres,Caen,0-4,0-1,Fri,40
+?,2012-10-05,Le Havre,Auxerre,2-1,1-1,Fri,40
+?,2012-10-05,Le Mans,Sedan,1-0,1-0,Fri,40
+?,2012-10-05,Lens,Niort,1-0,0-0,Fri,40
+?,2012-10-05,Tours,Nimes,1-0,0-0,Fri,40
+?,2012-10-06,Dijon,Angers,0-0,0-0,Sat,40
+?,2012-10-08,Monaco,Chateauroux,0-0,0-0,Mon,41
+?,2012-10-19,Angers,Monaco,1-2,0-1,Fri,42
+?,2012-10-19,Caen,Guingamp,1-2,0-1,Fri,42
+?,2012-10-19,Chateauroux,Ajaccio GFCO,3-1,2-0,Fri,42
+?,2012-10-19,Clermont,Istres,2-1,2-0,Fri,42
+?,2012-10-19,Laval,Tours,2-2,1-0,Fri,42
+?,2012-10-19,Nimes,Le Mans,2-1,1-1,Fri,42
+?,2012-10-19,Niort,Le Havre,0-0,0-0,Fri,42
+?,2012-10-19,Sedan,Arles,4-2,2-1,Fri,42
+?,2012-10-20,Auxerre,Lens,1-2,0-2,Sat,42
+?,2012-10-22,Nantes,Dijon,2-0,1-0,Mon,43
+?,2012-10-26,Angers,Chateauroux,1-0,0-0,Fri,43
+?,2012-10-26,Arles,Caen,0-2,0-1,Fri,43
+?,2012-10-26,Dijon,Auxerre,0-1,0-1,Fri,43
+?,2012-10-26,Guingamp,Sedan,2-0,2-0,Fri,43
+?,2012-10-26,Istres,Tours,4-1,2-0,Fri,43
+?,2012-10-26,Le Havre,Nimes,1-1,1-0,Fri,43
+?,2012-10-26,Le Mans,Laval,2-0,2-0,Fri,43
+?,2012-10-27,Monaco,Nantes,0-2,0-2,Sat,43
+?,2012-10-29,Lens,Clermont,2-2,1-2,Mon,44
+?,2012-11-02,Chateauroux,Dijon,2-2,1-1,Fri,44
+?,2012-11-02,Clermont,Guingamp,1-2,1-1,Fri,44
+?,2012-11-02,Laval,Istres,2-1,0-0,Fri,44
+?,2012-11-02,Nimes,Arles,4-1,0-0,Fri,44
+?,2012-11-02,Niort,Monaco,1-1,0-0,Fri,44
+?,2012-11-02,Sedan,Lens,0-1,0-0,Fri,44
+?,2012-11-02,Tours,Le Mans,2-0,1-0,Fri,44
+?,2012-11-03,Auxerre,Ajaccio GFCO,1-1,1-0,Sat,44
+?,2012-11-03,Nantes,Angers,1-0,0-0,Sat,44
+?,2012-11-05,Caen,Le Havre,2-0,1-0,Mon,45
+?,2012-11-09,Ajaccio GFCO,Sedan,1-1,0-1,Fri,45
+?,2012-11-09,Angers,Niort,0-0,0-0,Fri,45
+?,2012-11-09,Arles,Laval,0-3,0-2,Fri,45
+?,2012-11-09,Dijon,Nimes,2-1,0-0,Fri,45
+?,2012-11-09,Guingamp,Tours,0-0,0-0,Fri,45
+?,2012-11-09,Istres,Le Mans,1-0,0-0,Fri,45
+?,2012-11-09,Le Havre,Clermont,1-3,0-1,Fri,45
+?,2012-11-09,Nantes,Chateauroux,1-1,1-1,Fri,45
+?,2012-11-10,Monaco,Auxerre,2-0,1-0,Sat,45
+?,2012-11-12,Lens,Caen,0-0,0-0,Mon,46
+?,2012-11-14,Ajaccio GFCO,Niort,2-2,1-2,Wed,46
+?,2012-11-23,Caen,Angers,1-0,0-0,Fri,47
+?,2012-11-23,Istres,Arles,0-1,0-0,Fri,47
+?,2012-11-23,Laval,Dijon,3-0,0-0,Fri,47
+?,2012-11-23,Le Mans,Guingamp,0-2,0-1,Fri,47
+?,2012-11-23,Nimes,Lens,1-2,0-1,Fri,47
+?,2012-11-23,Niort,Chateauroux,2-2,1-1,Fri,47
+?,2012-11-23,Sedan,Le Havre,1-2,0-2,Fri,47
+?,2012-11-23,Tours,Ajaccio GFCO,2-1,1-0,Fri,47
+?,2012-11-24,Auxerre,Nantes,0-2,0-1,Sat,47
+?,2012-11-26,Clermont,Monaco,0-1,0-0,Mon,48
+?,2012-11-30,Angers,Nimes,0-0,0-0,Fri,48
+?,2012-11-30,Arles,Le Mans,0-0,0-0,Fri,48
+?,2012-11-30,Chateauroux,Auxerre,1-1,0-0,Fri,48
+?,2012-11-30,Le Havre,Tours,3-0,2-0,Fri,48
+?,2012-11-30,Lens,Laval,1-0,0-0,Fri,48
+?,2012-11-30,Monaco,Sedan,3-1,1-0,Fri,48
+?,2012-11-30,Nantes,Niort,0-0,0-0,Fri,48
+?,2012-12-01,Ajaccio GFCO,Clermont,0-1,0-0,Sat,48
+?,2012-12-01,Dijon,Caen,1-0,0-0,Sat,48
+?,2012-12-03,Guingamp,Istres,1-0,1-0,Mon,49
+?,2012-12-10,Clermont,Nantes,0-1,0-1,Mon,50
+?,2012-12-11,Auxerre,Niort,4-2,1-2,Tue,50
+?,2012-12-11,Caen,Monaco,3-0,2-0,Tue,50
+?,2012-12-11,Guingamp,Arles,0-0,0-0,Tue,50
+?,2012-12-11,Istres,Le Havre,3-0,1-0,Tue,50
+?,2012-12-11,Laval,Angers,1-4,1-1,Tue,50
+?,2012-12-11,Le Mans,Ajaccio GFCO,1-0,1-0,Tue,50
+?,2012-12-11,Nimes,Chateauroux,2-0,0-0,Tue,50
+?,2012-12-11,Tours,Lens,0-0,0-0,Tue,50
+?,2012-12-14,Ajaccio GFCO,Laval,3-1,1-0,Fri,50
+?,2012-12-14,Angers,Auxerre,2-1,1-1,Fri,50
+?,2012-12-14,Arles,Tours,2-2,1-1,Fri,50
+?,2012-12-14,Chateauroux,Clermont,0-0,0-0,Fri,50
+?,2012-12-14,Le Havre,Le Mans,1-0,0-0,Fri,50
+?,2012-12-14,Monaco,Nimes,1-1,1-1,Fri,50
+?,2012-12-15,Dijon,Istres,3-1,2-0,Sat,50
+?,2012-12-15,Nantes,Caen,2-1,2-1,Sat,50
+?,2012-12-17,Lens,Guingamp,1-1,1-1,Mon,51
+?,2012-12-18,Niort,Sedan,1-3,1-2,Tue,51
+?,2012-12-21,Arles,Dijon,1-1,1-0,Fri,51
+?,2012-12-21,Caen,Chateauroux,1-0,0-0,Fri,51
+?,2012-12-21,Clermont,Auxerre,1-2,0-0,Fri,51
+?,2012-12-21,Guingamp,Ajaccio GFCO,0-0,0-0,Fri,51
+?,2012-12-21,Istres,Lens,2-2,0-0,Fri,51
+?,2012-12-21,Laval,Le Havre,1-2,1-0,Fri,51
+?,2012-12-21,Nimes,Niort,3-1,0-0,Fri,51
+?,2012-12-21,Tours,Angers,1-2,1-1,Fri,51
+?,2012-12-22,Le Mans,Monaco,2-3,0-1,Sat,51
+?,2012-12-23,Sedan,Nantes,0-0,0-0,Sun,51
+?,2013-01-11,Ajaccio GFCO,Istres,3-2,0-1,Fri,1
+?,2013-01-11,Angers,Clermont,1-2,0-1,Fri,1
+?,2013-01-11,Chateauroux,Sedan,1-1,1-0,Fri,1
+?,2013-01-11,Dijon,Le Mans,3-0,1-0,Fri,1
+?,2013-01-11,Le Havre,Guingamp,0-1,0-1,Fri,1
+?,2013-01-11,Lens,Arles,0-0,0-0,Fri,1
+?,2013-01-11,Nantes,Nimes,1-2,0-1,Fri,1
+?,2013-01-11,Niort,Tours,3-1,2-1,Fri,1
+?,2013-01-12,Auxerre,Caen,1-2,0-0,Sat,1
+?,2013-01-14,Monaco,Laval,1-1,1-1,Mon,2
+?,2013-01-18,Arles,Ajaccio GFCO,1-0,1-0,Fri,2
+?,2013-01-18,Caen,Niort,0-1,0-0,Fri,2
+?,2013-01-18,Istres,Monaco,0-2,0-0,Fri,2
+?,2013-01-18,Le Havre,Lens,2-2,2-0,Fri,2
+?,2013-01-18,Le Mans,Chateauroux,2-0,1-0,Fri,2
+?,2013-01-18,Nimes,Clermont,3-0,1-0,Fri,2
+?,2013-01-18,Tours,Dijon,3-1,2-0,Fri,2
+?,2013-01-19,Laval,Nantes,0-0,0-0,Sat,2
+?,2013-01-25,Ajaccio GFCO,Le Havre,0-1,0-1,Fri,3
+?,2013-01-25,Angers,Arles,2-0,0-0,Fri,3
+?,2013-01-25,Auxerre,Le Mans,1-1,0-0,Fri,3
+?,2013-01-25,Clermont,Caen,0-0,0-0,Fri,3
+?,2013-01-25,Nantes,Tours,3-1,1-0,Fri,3
+?,2013-01-25,Nimes,Sedan,2-1,2-0,Fri,3
+?,2013-01-25,Niort,Laval,0-0,0-0,Fri,3
+?,2013-01-26,Chateauroux,Istres,2-0,2-0,Sat,3
+?,2013-01-26,Monaco,Guingamp,2-2,1-1,Sat,3
+?,2013-01-28,Dijon,Lens,2-1,1-1,Mon,4
+?,2013-02-01,Caen,Nimes,1-0,1-0,Fri,4
+?,2013-02-01,Guingamp,Niort,4-3,2-2,Fri,4
+?,2013-02-01,Istres,Angers,0-0,0-0,Fri,4
+?,2013-02-01,Laval,Auxerre,4-5,2-2,Fri,4
+?,2013-02-01,Le Havre,Dijon,3-0,1-0,Fri,4
+?,2013-02-01,Lens,Ajaccio GFCO,2-0,1-0,Fri,4
+?,2013-02-01,Sedan,Clermont,1-1,0-0,Fri,4
+?,2013-02-01,Tours,Chateauroux,3-1,1-1,Fri,4
+?,2013-02-02,Le Mans,Nantes,0-3,0-2,Sat,4
+?,2013-02-04,Arles,Monaco,0-2,0-0,Mon,5
+?,2013-02-05,Guingamp,Angers,2-1,0-0,Tue,5
+?,2013-02-08,Ajaccio GFCO,Dijon,0-2,0-0,Fri,5
+?,2013-02-08,Auxerre,Tours,3-2,1-2,Fri,5
+?,2013-02-08,Caen,Sedan,2-0,1-0,Fri,5
+?,2013-02-08,Chateauroux,Guingamp,3-1,1-0,Fri,5
+?,2013-02-08,Clermont,Le Mans,1-1,0-0,Fri,5
+?,2013-02-08,Monaco,Le Havre,2-1,1-1,Fri,5
+?,2013-02-08,Nimes,Laval,3-0,2-0,Fri,5
+?,2013-02-08,Niort,Istres,0-0,0-0,Fri,5
+?,2013-02-09,Nantes,Arles,1-1,1-1,Sat,5
+?,2013-02-11,Angers,Lens,3-2,0-1,Mon,6
+?,2013-02-12,Sedan,Dijon,0-1,0-1,Tue,6
+?,2013-02-15,Ajaccio GFCO,Nimes,2-3,1-1,Fri,6
+?,2013-02-15,Arles,Niort,0-1,0-1,Fri,6
+?,2013-02-15,Istres,Auxerre,0-3,0-2,Fri,6
+?,2013-02-15,Laval,Sedan,3-0,0-0,Fri,6
+?,2013-02-15,Le Havre,Angers,2-1,1-1,Fri,6
+?,2013-02-15,Le Mans,Caen,1-1,1-1,Fri,6
+?,2013-02-15,Lens,Chateauroux,4-3,3-2,Fri,6
+?,2013-02-15,Tours,Clermont,2-1,0-1,Fri,6
+?,2013-02-16,Guingamp,Nantes,2-1,0-1,Sat,6
+?,2013-02-18,Dijon,Monaco,0-2,0-2,Mon,7
+?,2013-02-22,Angers,Ajaccio GFCO,1-0,0-0,Fri,7
+?,2013-02-22,Auxerre,Guingamp,2-1,1-1,Fri,7
+?,2013-02-22,Caen,Laval,2-1,2-1,Fri,7
+?,2013-02-22,Chateauroux,Arles,2-0,1-0,Fri,7
+?,2013-02-22,Clermont,Dijon,0-0,0-0,Fri,7
+?,2013-02-22,Nimes,Istres,1-0,0-0,Fri,7
+?,2013-02-22,Niort,Le Mans,2-3,2-0,Fri,7
+?,2013-02-22,Sedan,Tours,1-1,0-1,Fri,7
+?,2013-02-23,Nantes,Le Havre,2-0,1-0,Sat,7
+?,2013-02-25,Monaco,Lens,2-1,1-0,Mon,8
+?,2013-02-26,Sedan,Auxerre,1-0,0-0,Tue,8
+?,2013-03-01,Ajaccio GFCO,Monaco,0-1,0-1,Fri,8
+?,2013-03-01,Arles,Auxerre,2-1,0-1,Fri,8
+?,2013-03-01,Dijon,Niort,1-1,0-0,Fri,8
+?,2013-03-01,Istres,Sedan,1-0,0-0,Fri,8
+?,2013-03-01,Laval,Clermont,1-1,1-0,Fri,8
+?,2013-03-01,Le Havre,Chateauroux,1-0,1-0,Fri,8
+?,2013-03-01,Le Mans,Angers,0-2,0-0,Fri,8
+?,2013-03-01,Tours,Caen,1-1,1-0,Fri,8
+?,2013-03-02,Guingamp,Nimes,3-0,1-0,Sat,8
+?,2013-03-04,Lens,Nantes,1-2,1-1,Mon,9
+?,2013-03-08,Angers,Dijon,3-3,1-1,Fri,9
+?,2013-03-08,Auxerre,Le Havre,4-1,2-1,Fri,9
+?,2013-03-08,Chateauroux,Monaco,1-1,0-1,Fri,9
+?,2013-03-08,Clermont,Arles,2-4,0-2,Fri,9
+?,2013-03-08,Laval,Guingamp,2-1,2-0,Fri,9
+?,2013-03-08,Nimes,Tours,1-1,1-0,Fri,9
+?,2013-03-08,Niort,Lens,0-0,0-0,Fri,9
+?,2013-03-08,Sedan,Le Mans,2-1,1-0,Fri,9
+?,2013-03-09,Nantes,Ajaccio GFCO,2-1,2-0,Sat,9
+?,2013-03-15,Arles,Sedan,2-2,1-0,Fri,10
+?,2013-03-15,Guingamp,Caen,1-0,0-0,Fri,10
+?,2013-03-15,Istres,Clermont,0-0,0-0,Fri,10
+?,2013-03-15,Le Havre,Niort,2-1,1-0,Fri,10
+?,2013-03-15,Le Mans,Nimes,0-3,0-1,Fri,10
+?,2013-03-15,Monaco,Angers,2-2,1-2,Fri,10
+?,2013-03-15,Tours,Laval,1-1,1-0,Fri,10
+?,2013-03-16,Lens,Auxerre,1-0,0-0,Sat,10
+?,2013-03-18,Dijon,Nantes,3-1,0-1,Mon,11
+?,2013-03-19,Ajaccio GFCO,Chateauroux,1-1,0-0,Tue,11
+?,2013-03-24,Caen,Istres,1-0,0-0,Sun,11
+?,2013-03-29,Auxerre,Dijon,0-0,0-0,Fri,12
+?,2013-03-29,Caen,Arles,1-1,0-0,Fri,12
+?,2013-03-29,Chateauroux,Angers,2-3,0-1,Fri,12
+?,2013-03-29,Clermont,Lens,1-0,1-0,Fri,12
+?,2013-03-29,Laval,Le Mans,2-1,1-1,Fri,12
+?,2013-03-29,Niort,Ajaccio GFCO,2-1,2-0,Fri,12
+?,2013-03-29,Sedan,Guingamp,1-2,0-1,Fri,12
+?,2013-03-29,Tours,Istres,1-0,0-0,Fri,12
+?,2013-03-30,Nantes,Monaco,1-1,1-0,Sat,12
+?,2013-04-01,Nimes,Le Havre,0-1,0-1,Mon,13
+?,2013-04-05,Ajaccio GFCO,Auxerre,0-0,0-0,Fri,13
+?,2013-04-05,Angers,Nantes,2-0,1-0,Fri,13
+?,2013-04-05,Arles,Nimes,1-1,0-1,Fri,13
+?,2013-04-05,Dijon,Chateauroux,1-1,0-0,Fri,13
+?,2013-04-05,Istres,Laval,2-2,1-1,Fri,13
+?,2013-04-05,Le Mans,Tours,1-0,0-0,Fri,13
+?,2013-04-05,Lens,Sedan,2-2,1-2,Fri,13
+?,2013-04-05,Monaco,Niort,1-1,1-1,Fri,13
+?,2013-04-06,Guingamp,Clermont,0-0,0-0,Sat,13
+?,2013-04-08,Le Havre,Caen,1-1,0-1,Mon,14
+?,2013-04-12,Caen,Lens,0-0,0-0,Fri,14
+?,2013-04-12,Clermont,Le Havre,1-1,0-0,Fri,14
+?,2013-04-12,Laval,Arles,1-3,1-2,Fri,14
+?,2013-04-12,Le Mans,Istres,1-2,1-1,Fri,14
+?,2013-04-12,Nimes,Dijon,1-1,0-0,Fri,14
+?,2013-04-12,Niort,Angers,0-0,0-0,Fri,14
+?,2013-04-12,Sedan,Ajaccio GFCO,4-1,1-1,Fri,14
+?,2013-04-12,Tours,Guingamp,2-0,0-0,Fri,14
+?,2013-04-13,Auxerre,Monaco,0-2,0-2,Sat,14
+?,2013-04-15,Chateauroux,Nantes,0-4,0-1,Mon,15
+?,2013-04-19,Ajaccio GFCO,Tours,0-1,0-0,Fri,15
+?,2013-04-19,Angers,Caen,1-1,0-1,Fri,15
+?,2013-04-19,Arles,Istres,1-0,1-0,Fri,15
+?,2013-04-19,Chateauroux,Niort,1-0,0-0,Fri,15
+?,2013-04-19,Dijon,Laval,1-0,0-0,Fri,15
+?,2013-04-19,Guingamp,Le Mans,6-1,2-0,Fri,15
+?,2013-04-19,Le Havre,Sedan,1-1,1-0,Fri,15
+?,2013-04-20,Lens,Nimes,1-2,0-1,Sat,15
+?,2013-04-20,Nantes,Auxerre,1-1,1-1,Sat,15
+?,2013-04-22,Monaco,Clermont,4-0,2-0,Mon,16
+?,2013-04-26,Auxerre,Chateauroux,0-0,0-0,Fri,16
+?,2013-04-26,Clermont,Ajaccio GFCO,0-2,0-0,Fri,16
+?,2013-04-26,Istres,Guingamp,2-0,2-0,Fri,16
+?,2013-04-26,Laval,Lens,1-1,0-1,Fri,16
+?,2013-04-26,Le Mans,Arles,0-0,0-0,Fri,16
+?,2013-04-26,Nimes,Angers,3-0,0-0,Fri,16
+?,2013-04-26,Niort,Nantes,0-1,0-0,Fri,16
+?,2013-04-26,Tours,Le Havre,1-2,0-2,Fri,16
+?,2013-04-27,Caen,Dijon,2-2,1-0,Sat,16
+?,2013-04-29,Sedan,Monaco,1-1,1-1,Mon,17
+?,2013-05-03,Ajaccio GFCO,Le Mans,1-3,1-3,Fri,17
+?,2013-05-03,Angers,Laval,1-0,0-0,Fri,17
+?,2013-05-03,Arles,Guingamp,0-2,0-0,Fri,17
+?,2013-05-03,Chateauroux,Nimes,2-1,2-0,Fri,17
+?,2013-05-03,Dijon,Sedan,4-2,2-1,Fri,17
+?,2013-05-03,Le Havre,Istres,2-0,0-0,Fri,17
+?,2013-05-03,Lens,Tours,0-0,0-0,Fri,17
+?,2013-05-03,Niort,Auxerre,0-1,0-1,Fri,17
+?,2013-05-04,Monaco,Caen,0-1,0-1,Sat,17
+?,2013-05-06,Nantes,Clermont,0-1,0-1,Mon,18
+?,2013-05-10,Auxerre,Angers,2-2,1-1,Fri,18
+?,2013-05-10,Clermont,Chateauroux,1-0,0-0,Fri,18
+?,2013-05-10,Guingamp,Lens,7-0,4-0,Fri,18
+?,2013-05-10,Istres,Dijon,2-3,1-2,Fri,18
+?,2013-05-10,Laval,Ajaccio GFCO,1-2,1-0,Fri,18
+?,2013-05-10,Le Mans,Le Havre,0-4,0-1,Fri,18
+?,2013-05-10,Sedan,Niort,0-2,0-1,Fri,18
+?,2013-05-10,Tours,Arles,0-0,0-0,Fri,18
+?,2013-05-11,Nimes,Monaco,0-1,0-0,Sat,18
+?,2013-05-13,Caen,Nantes,0-1,0-0,Mon,19
+?,2013-05-17,Ajaccio GFCO,Guingamp,0-1,0-0,Fri,19
+?,2013-05-17,Angers,Tours,0-1,0-0,Fri,19
+?,2013-05-17,Auxerre,Clermont,1-1,1-1,Fri,19
+?,2013-05-17,Chateauroux,Caen,2-2,2-1,Fri,19
+?,2013-05-17,Dijon,Arles,2-3,1-1,Fri,19
+?,2013-05-17,Le Havre,Laval,1-2,1-2,Fri,19
+?,2013-05-17,Lens,Istres,1-1,0-0,Fri,19
+?,2013-05-17,Monaco,Le Mans,2-1,2-0,Fri,19
+?,2013-05-17,Nantes,Sedan,1-0,0-0,Fri,19
+?,2013-05-17,Niort,Nimes,2-0,0-0,Fri,19
+?,2013-05-24,Arles,Le Havre,1-1,1-0,Fri,20
+?,2013-05-24,Caen,Ajaccio GFCO,2-1,1-1,Fri,20
+?,2013-05-24,Clermont,Niort,1-1,0-1,Fri,20
+?,2013-05-24,Guingamp,Dijon,2-0,1-0,Fri,20
+?,2013-05-24,Istres,Nantes,2-2,0-1,Fri,20
+?,2013-05-24,Laval,Chateauroux,3-2,2-0,Fri,20
+?,2013-05-24,Le Mans,Lens,2-1,2-0,Fri,20
+?,2013-05-24,Nimes,Auxerre,4-2,3-1,Fri,20
+?,2013-05-24,Sedan,Angers,2-2,1-0,Fri,20
+?,2013-05-24,Tours,Monaco,1-2,1-0,Fri,20

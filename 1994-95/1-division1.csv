@@ -1,381 +1,381 @@
-Round,Date,Day,Week,Team 1,Team 2,FT,HT
-?,1994-07-28,Thu,30,Bordeaux,Nice,1-0,?
-?,1994-07-29,Fri,30,Cannes,Bastia,0-0,?
-?,1994-07-29,Fri,30,Le Havre,Paris SG,0-0,?
-?,1994-07-29,Fri,30,Lens,Lille,1-1,?
-?,1994-07-29,Fri,30,Monaco,Metz,0-1,?
-?,1994-07-29,Fri,30,Montpellier,Martigues,0-1,?
-?,1994-07-29,Fri,30,Nantes,Lyon,1-1,?
-?,1994-07-29,Fri,30,Sochaux,Caen,2-0,?
-?,1994-07-29,Fri,30,St Etienne,Rennes,1-1,?
-?,1994-07-29,Fri,30,Strasbourg,Auxerre,1-1,?
-?,1994-08-01,Mon,31,Auxerre,Nantes,1-2,?
-?,1994-08-02,Tue,31,Caen,Cannes,0-1,?
-?,1994-08-02,Tue,31,Lille,Strasbourg,1-0,?
-?,1994-08-02,Tue,31,Lyon,Monaco,3-1,?
-?,1994-08-02,Tue,31,Martigues,St Etienne,1-1,?
-?,1994-08-02,Tue,31,Metz,Bastia,1-2,?
-?,1994-08-02,Tue,31,Montpellier,Bordeaux,0-1,?
-?,1994-08-02,Tue,31,Nice,Sochaux,1-0,?
-?,1994-08-02,Tue,31,Paris SG,Lens,1-0,?
-?,1994-08-02,Tue,31,Rennes,Le Havre,0-0,?
-?,1994-08-05,Fri,31,Bordeaux,Martigues,1-1,?
-?,1994-08-05,Fri,31,Cannes,Metz,1-0,?
-?,1994-08-05,Fri,31,Le Havre,Nice,1-1,?
-?,1994-08-05,Fri,31,Lens,Rennes,5-0,?
-?,1994-08-05,Fri,31,Monaco,Auxerre,0-0,?
-?,1994-08-05,Fri,31,Nantes,Caen,2-1,?
-?,1994-08-05,Fri,31,Sochaux,Lille,3-0,?
-?,1994-08-05,Fri,31,St Etienne,Montpellier,4-0,?
-?,1994-08-05,Fri,31,Strasbourg,Paris SG,2-0,?
-?,1994-08-06,Sat,31,Bastia,Lyon,0-1,?
-?,1994-08-12,Fri,32,Caen,Monaco,0-1,?
-?,1994-08-13,Sat,32,Auxerre,Bastia,2-1,?
-?,1994-08-13,Sat,32,Lille,Nantes,1-2,?
-?,1994-08-13,Sat,32,Lyon,Metz,1-0,?
-?,1994-08-13,Sat,32,Martigues,Le Havre,2-1,?
-?,1994-08-13,Sat,32,Montpellier,Lens,1-2,?
-?,1994-08-13,Sat,32,Nice,Cannes,2-1,?
-?,1994-08-13,Sat,32,Paris SG,Sochaux,1-1,?
-?,1994-08-13,Sat,32,Rennes,Bordeaux,2-0,?
-?,1994-08-13,Sat,32,St Etienne,Strasbourg,2-0,?
-?,1994-08-19,Fri,33,Nantes,Paris SG,1-0,?
-?,1994-08-20,Sat,33,Bastia,Caen,1-0,?
-?,1994-08-20,Sat,33,Bordeaux,St Etienne,2-1,?
-?,1994-08-20,Sat,33,Cannes,Lyon,5-1,?
-?,1994-08-20,Sat,33,Le Havre,Montpellier,1-2,?
-?,1994-08-20,Sat,33,Lens,Martigues,2-1,?
-?,1994-08-20,Sat,33,Metz,Auxerre,1-1,?
-?,1994-08-20,Sat,33,Monaco,Lille,2-0,?
-?,1994-08-20,Sat,33,Sochaux,Rennes,1-3,?
-?,1994-08-20,Sat,33,Strasbourg,Nice,3-2,?
-?,1994-08-26,Fri,34,Rennes,Strasbourg,1-1,?
-?,1994-08-27,Sat,34,Auxerre,Lyon,0-0,?
-?,1994-08-27,Sat,34,Bordeaux,Cannes,0-2,?
-?,1994-08-27,Sat,34,Caen,Metz,2-0,?
-?,1994-08-27,Sat,34,Lille,Bastia,3-0,?
-?,1994-08-27,Sat,34,Martigues,Sochaux,2-0,?
-?,1994-08-27,Sat,34,Montpellier,Nantes,2-2,?
-?,1994-08-27,Sat,34,Nice,Lens,1-1,?
-?,1994-08-27,Sat,34,Paris SG,Monaco,1-0,?
-?,1994-08-27,Sat,34,St Etienne,Le Havre,4-1,?
-?,1994-08-30,Tue,35,Cannes,Auxerre,3-1,?
-?,1994-08-31,Wed,35,Bastia,Paris SG,1-2,?
-?,1994-08-31,Wed,35,Le Havre,Bordeaux,1-1,?
-?,1994-08-31,Wed,35,Lens,St Etienne,0-0,?
-?,1994-08-31,Wed,35,Lyon,Caen,1-0,?
-?,1994-08-31,Wed,35,Metz,Lille,1-1,?
-?,1994-08-31,Wed,35,Monaco,Nice,0-2,?
-?,1994-08-31,Wed,35,Nantes,Rennes,2-0,?
-?,1994-08-31,Wed,35,Sochaux,Montpellier,2-0,?
-?,1994-08-31,Wed,35,Strasbourg,Martigues,5-0,?
-?,1994-09-09,Fri,36,Rennes,Cannes,3-1,?
-?,1994-09-10,Sat,36,Bordeaux,Lens,1-2,?
-?,1994-09-10,Sat,36,Caen,Auxerre,1-5,?
-?,1994-09-10,Sat,36,Le Havre,Monaco,1-0,?
-?,1994-09-10,Sat,36,Lille,Lyon,1-4,?
-?,1994-09-10,Sat,36,Martigues,Nantes,3-3,?
-?,1994-09-10,Sat,36,Montpellier,Strasbourg,1-1,?
-?,1994-09-10,Sat,36,Nice,Bastia,1-2,?
-?,1994-09-10,Sat,36,Paris SG,Metz,3-0,?
-?,1994-09-10,Sat,36,St Etienne,Sochaux,4-0,?
-?,1994-09-17,Sat,37,Bastia,Montpellier,1-1,?
-?,1994-09-17,Sat,37,Cannes,Martigues,0-1,?
-?,1994-09-17,Sat,37,Lens,Le Havre,1-1,?
-?,1994-09-17,Sat,37,Metz,Nice,0-0,?
-?,1994-09-17,Sat,37,Monaco,Rennes,0-0,?
-?,1994-09-17,Sat,37,Nantes,St Etienne,3-0,?
-?,1994-09-17,Sat,37,Sochaux,Bordeaux,1-4,?
-?,1994-09-17,Sat,37,Strasbourg,Caen,1-0,?
-?,1994-09-18,Sun,37,Auxerre,Lille,2-0,?
-?,1994-09-18,Sun,37,Lyon,Paris SG,2-0,?
-?,1994-09-22,Thu,38,Montpellier,Monaco,2-2,?
-?,1994-09-23,Fri,38,Bordeaux,Strasbourg,2-0,?
-?,1994-09-23,Fri,38,Le Havre,Sochaux,2-0,?
-?,1994-09-23,Fri,38,Lens,Cannes,0-2,?
-?,1994-09-23,Fri,38,Lille,Caen,1-1,?
-?,1994-09-23,Fri,38,Martigues,Bastia,5-2,?
-?,1994-09-23,Fri,38,Nice,Nantes,1-3,?
-?,1994-09-23,Fri,38,Paris SG,Auxerre,1-1,?
-?,1994-09-23,Fri,38,Rennes,Metz,1-2,?
-?,1994-09-23,Fri,38,St Etienne,Lyon,1-1,?
-?,1994-10-01,Sat,39,Bastia,Rennes,1-2,?
-?,1994-10-01,Sat,39,Caen,Paris SG,1-2,?
-?,1994-10-01,Sat,39,Cannes,Lille,0-0,?
-?,1994-10-01,Sat,39,Lyon,Nice,1-1,?
-?,1994-10-01,Sat,39,Metz,Montpellier,0-0,?
-?,1994-10-01,Sat,39,Monaco,Martigues,1-0,?
-?,1994-10-01,Sat,39,Nantes,Bordeaux,3-3,?
-?,1994-10-01,Sat,39,Sochaux,Lens,1-1,?
-?,1994-10-01,Sat,39,Strasbourg,Le Havre,3-0,?
-?,1994-10-02,Sun,39,Auxerre,St Etienne,3-0,?
-?,1994-10-10,Mon,41,Lens,Strasbourg,1-0,?
-?,1994-10-11,Tue,41,Bordeaux,Monaco,0-3,?
-?,1994-10-11,Tue,41,Le Havre,Nantes,0-0,?
-?,1994-10-11,Tue,41,Martigues,Metz,1-1,?
-?,1994-10-11,Tue,41,Montpellier,Lyon,2-2,?
-?,1994-10-11,Tue,41,Nice,Caen,0-1,?
-?,1994-10-11,Tue,41,Paris SG,Lille,3-0,?
-?,1994-10-11,Tue,41,Rennes,Auxerre,2-2,?
-?,1994-10-11,Tue,41,Sochaux,Cannes,2-1,?
-?,1994-10-11,Tue,41,St Etienne,Bastia,1-2,?
-?,1994-10-14,Fri,41,Auxerre,Martigues,3-0,?
-?,1994-10-14,Fri,41,Bastia,Bordeaux,0-0,?
-?,1994-10-14,Fri,41,Caen,Montpellier,1-0,?
-?,1994-10-14,Fri,41,Cannes,Paris SG,3-2,?
-?,1994-10-14,Fri,41,Lille,Nice,1-0,?
-?,1994-10-14,Fri,41,Lyon,Rennes,3-0,?
-?,1994-10-14,Fri,41,Metz,Le Havre,2-1,?
-?,1994-10-14,Fri,41,Nantes,Lens,3-0,?
-?,1994-10-14,Fri,41,Strasbourg,Sochaux,3-2,?
-?,1994-10-16,Sun,41,Monaco,St Etienne,0-0,?
-?,1994-10-22,Sat,42,Bordeaux,Metz,4-2,?
-?,1994-10-22,Sat,42,Le Havre,Bastia,2-2,?
-?,1994-10-22,Sat,42,Lens,Lyon,4-0,?
-?,1994-10-22,Sat,42,Martigues,Caen,4-1,?
-?,1994-10-22,Sat,42,Nice,Paris SG,0-4,?
-?,1994-10-22,Sat,42,Rennes,Lille,1-0,?
-?,1994-10-22,Sat,42,Sochaux,Nantes,0-0,?
-?,1994-10-22,Sat,42,St Etienne,Cannes,1-0,?
-?,1994-10-22,Sat,42,Strasbourg,Monaco,1-0,?
-?,1994-10-23,Sun,42,Montpellier,Auxerre,1-1,?
-?,1994-10-27,Thu,43,Lyon,Bordeaux,1-1,?
-?,1994-10-28,Fri,43,Auxerre,Nice,3-0,?
-?,1994-10-28,Fri,43,Bastia,Lens,1-3,?
-?,1994-10-28,Fri,43,Caen,Rennes,5-1,?
-?,1994-10-28,Fri,43,Cannes,Le Havre,2-2,?
-?,1994-10-28,Fri,43,Lille,Martigues,1-0,?
-?,1994-10-28,Fri,43,Metz,St Etienne,1-0,?
-?,1994-10-28,Fri,43,Monaco,Sochaux,3-1,?
-?,1994-10-28,Fri,43,Nantes,Strasbourg,3-0,?
-?,1994-10-28,Fri,43,Paris SG,Montpellier,3-1,?
-?,1994-11-05,Sat,44,Le Havre,Lyon,2-0,?
-?,1994-11-05,Sat,44,Lens,Monaco,0-0,?
-?,1994-11-05,Sat,44,Martigues,Paris SG,1-1,?
-?,1994-11-05,Sat,44,Montpellier,Lille,1-0,?
-?,1994-11-05,Sat,44,Nantes,Metz,3-1,?
-?,1994-11-05,Sat,44,Rennes,Nice,3-1,?
-?,1994-11-05,Sat,44,Sochaux,Bastia,1-3,?
-?,1994-11-05,Sat,44,St Etienne,Caen,2-0,?
-?,1994-11-05,Sat,44,Strasbourg,Cannes,1-2,?
-?,1994-11-06,Sun,44,Bordeaux,Auxerre,3-1,?
-?,1994-11-08,Tue,45,Lille,St Etienne,1-0,?
-?,1994-11-09,Wed,45,Auxerre,Le Havre,1-1,?
-?,1994-11-09,Wed,45,Bastia,Strasbourg,0-1,?
-?,1994-11-09,Wed,45,Caen,Bordeaux,4-2,?
-?,1994-11-09,Wed,45,Lyon,Sochaux,4-0,?
-?,1994-11-09,Wed,45,Metz,Lens,3-1,?
-?,1994-11-09,Wed,45,Paris SG,Rennes,2-1,?
-?,1994-11-10,Thu,45,Cannes,Montpellier,3-0,?
-?,1994-11-10,Thu,45,Monaco,Nantes,2-2,?
-?,1994-11-10,Thu,45,Nice,Martigues,1-1,?
-?,1994-11-19,Sat,46,Bordeaux,Lille,1-0,?
-?,1994-11-19,Sat,46,Le Havre,Caen,1-1,?
-?,1994-11-19,Sat,46,Lens,Auxerre,1-1,?
-?,1994-11-19,Sat,46,Martigues,Rennes,1-0,?
-?,1994-11-19,Sat,46,Monaco,Cannes,0-0,?
-?,1994-11-19,Sat,46,Montpellier,Nice,0-0,?
-?,1994-11-19,Sat,46,Nantes,Bastia,0-0,?
-?,1994-11-19,Sat,46,Sochaux,Metz,4-2,?
-?,1994-11-19,Sat,46,St Etienne,Paris SG,1-3,?
-?,1994-11-20,Sun,46,Strasbourg,Lyon,1-0,?
-?,1994-11-26,Sat,47,Auxerre,Sochaux,4-0,?
-?,1994-11-26,Sat,47,Bastia,Monaco,0-2,?
-?,1994-11-26,Sat,47,Caen,Lens,0-0,?
-?,1994-11-26,Sat,47,Lille,Le Havre,1-1,?
-?,1994-11-26,Sat,47,Lyon,Martigues,3-0,?
-?,1994-11-26,Sat,47,Metz,Strasbourg,3-2,?
-?,1994-11-26,Sat,47,Nice,St Etienne,3-0,?
-?,1994-11-26,Sat,47,Paris SG,Bordeaux,0-0,?
-?,1994-11-26,Sat,47,Rennes,Montpellier,2-2,?
-?,1994-11-27,Sun,47,Cannes,Nantes,0-1,?
-?,1994-12-01,Thu,48,St Etienne,Martigues,3-0,?
-?,1994-12-02,Fri,48,Bordeaux,Montpellier,2-0,?
-?,1994-12-02,Fri,48,Cannes,Caen,1-0,?
-?,1994-12-02,Fri,48,Le Havre,Rennes,4-0,?
-?,1994-12-02,Fri,48,Lens,Paris SG,1-2,?
-?,1994-12-02,Fri,48,Monaco,Lyon,1-1,?
-?,1994-12-02,Fri,48,Nantes,Auxerre,0-0,?
-?,1994-12-02,Fri,48,Sochaux,Nice,0-1,?
-?,1994-12-02,Fri,48,Strasbourg,Lille,1-1,?
-?,1994-12-08,Thu,49,Bastia,Metz,0-3,?
-?,1994-12-17,Sat,50,Auxerre,Monaco,2-2,?
-?,1994-12-17,Sat,50,Caen,Nantes,0-2,?
-?,1994-12-17,Sat,50,Lille,Sochaux,1-0,?
-?,1994-12-17,Sat,50,Lyon,Bastia,0-0,?
-?,1994-12-17,Sat,50,Martigues,Bordeaux,1-0,?
-?,1994-12-17,Sat,50,Metz,Cannes,3-2,?
-?,1994-12-17,Sat,50,Montpellier,St Etienne,3-2,?
-?,1994-12-17,Sat,50,Nice,Le Havre,0-2,?
-?,1994-12-17,Sat,50,Paris SG,Strasbourg,1-0,?
-?,1994-12-17,Sat,50,Rennes,Lens,0-1,?
-?,1995-01-07,Sat,1,Bastia,Auxerre,0-1,?
-?,1995-01-07,Sat,1,Bordeaux,Rennes,2-1,?
-?,1995-01-07,Sat,1,Cannes,Nice,2-0,?
-?,1995-01-07,Sat,1,Le Havre,Martigues,1-0,?
-?,1995-01-07,Sat,1,Lens,Montpellier,1-1,?
-?,1995-01-07,Sat,1,Monaco,Caen,3-0,?
-?,1995-01-07,Sat,1,Nantes,Lille,3-0,?
-?,1995-01-07,Sat,1,Strasbourg,St Etienne,1-1,?
-?,1995-01-21,Sat,3,Auxerre,Metz,1-1,?
-?,1995-01-21,Sat,3,Caen,Bastia,2-1,?
-?,1995-01-21,Sat,3,Lille,Monaco,1-0,?
-?,1995-01-21,Sat,3,Lyon,Cannes,3-1,?
-?,1995-01-21,Sat,3,Martigues,Lens,0-0,?
-?,1995-01-21,Sat,3,Montpellier,Le Havre,2-1,?
-?,1995-01-21,Sat,3,Nice,Strasbourg,3-4,?
-?,1995-01-21,Sat,3,Paris SG,Nantes,0-3,?
-?,1995-01-21,Sat,3,St Etienne,Bordeaux,4-1,?
-?,1995-01-28,Sat,4,Bastia,Lille,3-1,?
-?,1995-01-28,Sat,4,Cannes,Bordeaux,2-0,?
-?,1995-01-28,Sat,4,Lens,Nice,2-1,?
-?,1995-01-28,Sat,4,Lyon,Auxerre,3-0,?
-?,1995-01-28,Sat,4,Metz,Caen,4-0,?
-?,1995-01-28,Sat,4,Sochaux,Martigues,1-1,?
-?,1995-01-28,Sat,4,Strasbourg,Rennes,2-2,?
-?,1995-01-29,Sun,4,Monaco,Paris SG,2-1,?
-?,1995-02-01,Wed,5,Le Havre,St Etienne,2-0,?
-?,1995-02-01,Wed,5,Nantes,Montpellier,3-2,?
-?,1995-02-01,Wed,5,Sochaux,Paris SG,1-2,?
-?,1995-02-04,Sat,5,Rennes,Sochaux,2-1,?
-?,1995-02-07,Tue,6,Nice,Monaco,3-1,?
-?,1995-02-08,Wed,6,Auxerre,Cannes,3-0,?
-?,1995-02-08,Wed,6,Bordeaux,Le Havre,0-1,?
-?,1995-02-08,Wed,6,Caen,Lyon,0-1,?
-?,1995-02-08,Wed,6,Lille,Metz,1-0,?
-?,1995-02-08,Wed,6,Martigues,Strasbourg,0-0,?
-?,1995-02-08,Wed,6,Montpellier,Sochaux,1-0,?
-?,1995-02-08,Wed,6,Paris SG,Bastia,3-0,?
-?,1995-02-08,Wed,6,Rennes,Nantes,1-1,?
-?,1995-02-08,Wed,6,St Etienne,Lens,1-2,?
-?,1995-02-11,Sat,6,Auxerre,Caen,1-1,?
-?,1995-02-11,Sat,6,Bastia,Nice,1-1,?
-?,1995-02-11,Sat,6,Cannes,Rennes,0-1,?
-?,1995-02-11,Sat,6,Lyon,Lille,3-1,?
-?,1995-02-11,Sat,6,Metz,Paris SG,2-0,?
-?,1995-02-11,Sat,6,Monaco,Le Havre,1-2,?
-?,1995-02-11,Sat,6,Sochaux,St Etienne,2-0,?
-?,1995-02-11,Sat,6,Strasbourg,Montpellier,0-0,?
-?,1995-02-12,Sun,6,Lens,Bordeaux,2-1,?
-?,1995-02-18,Sat,7,Nantes,Martigues,3-0,?
-?,1995-02-23,Thu,8,Paris SG,Lyon,4-1,?
-?,1995-02-23,Thu,8,St Etienne,Nantes,1-1,?
-?,1995-02-24,Fri,8,Bordeaux,Sochaux,2-1,?
-?,1995-02-24,Fri,8,Caen,Strasbourg,4-0,?
-?,1995-02-24,Fri,8,Le Havre,Lens,2-3,?
-?,1995-02-24,Fri,8,Lille,Auxerre,0-0,?
-?,1995-02-24,Fri,8,Martigues,Cannes,0-0,?
-?,1995-02-24,Fri,8,Montpellier,Bastia,0-0,?
-?,1995-02-24,Fri,8,Nice,Metz,1-0,?
-?,1995-02-24,Fri,8,Rennes,Monaco,1-3,?
-?,1995-03-04,Sat,9,Bastia,Martigues,2-0,?
-?,1995-03-04,Sat,9,Caen,Lille,2-0,?
-?,1995-03-04,Sat,9,Cannes,Lens,2-0,?
-?,1995-03-04,Sat,9,Lyon,St Etienne,1-0,?
-?,1995-03-04,Sat,9,Metz,Rennes,1-0,?
-?,1995-03-04,Sat,9,Monaco,Montpellier,2-0,?
-?,1995-03-04,Sat,9,Nantes,Nice,2-1,?
-?,1995-03-04,Sat,9,Sochaux,Le Havre,0-1,?
-?,1995-03-04,Sat,9,Strasbourg,Bordeaux,1-1,?
-?,1995-03-05,Sun,9,Auxerre,Paris SG,1-1,?
-?,1995-03-09,Thu,10,Nice,Lyon,1-2,?
-?,1995-03-10,Fri,10,Bordeaux,Nantes,1-1,?
-?,1995-03-10,Fri,10,Lens,Sochaux,1-0,?
-?,1995-03-10,Fri,10,Lille,Cannes,0-3,?
-?,1995-03-10,Fri,10,Martigues,Monaco,1-1,?
-?,1995-03-10,Fri,10,Montpellier,Metz,2-0,?
-?,1995-03-10,Fri,10,Rennes,Bastia,2-2,?
-?,1995-03-10,Fri,10,St Etienne,Auxerre,1-1,?
-?,1995-03-13,Mon,11,Le Havre,Strasbourg,1-0,?
-?,1995-03-22,Wed,12,Auxerre,Rennes,2-2,?
-?,1995-03-22,Wed,12,Bastia,St Etienne,2-1,?
-?,1995-03-22,Wed,12,Caen,Nice,0-0,?
-?,1995-03-22,Wed,12,Cannes,Sochaux,0-0,?
-?,1995-03-22,Wed,12,Lille,Paris SG,1-0,?
-?,1995-03-22,Wed,12,Lyon,Montpellier,2-1,?
-?,1995-03-22,Wed,12,Metz,Martigues,0-0,?
-?,1995-03-22,Wed,12,Monaco,Bordeaux,6-3,?
-?,1995-03-22,Wed,12,Nantes,Le Havre,3-2,?
-?,1995-03-23,Thu,12,Strasbourg,Lens,0-0,?
-?,1995-04-01,Sat,13,Bordeaux,Bastia,1-0,?
-?,1995-04-01,Sat,13,Le Havre,Metz,0-3,?
-?,1995-04-01,Sat,13,Martigues,Auxerre,2-1,?
-?,1995-04-01,Sat,13,Montpellier,Caen,3-2,?
-?,1995-04-01,Sat,13,Nice,Lille,1-0,?
-?,1995-04-01,Sat,13,Paris SG,Cannes,2-1,?
-?,1995-04-01,Sat,13,Rennes,Lyon,1-1,?
-?,1995-04-01,Sat,13,Sochaux,Strasbourg,0-1,?
-?,1995-04-01,Sat,13,St Etienne,Monaco,1-0,?
-?,1995-04-02,Sun,13,Lens,Nantes,1-1,?
-?,1995-04-07,Fri,14,Lyon,Lens,1-1,?
-?,1995-04-08,Sat,14,Auxerre,Montpellier,0-1,?
-?,1995-04-08,Sat,14,Bastia,Le Havre,3-2,?
-?,1995-04-08,Sat,14,Caen,Martigues,0-1,?
-?,1995-04-08,Sat,14,Cannes,St Etienne,4-1,?
-?,1995-04-08,Sat,14,Lille,Rennes,1-0,?
-?,1995-04-08,Sat,14,Metz,Bordeaux,2-3,?
-?,1995-04-08,Sat,14,Monaco,Strasbourg,3-1,?
-?,1995-04-08,Sat,14,Nantes,Sochaux,2-0,?
-?,1995-04-08,Sat,14,Paris SG,Nice,2-3,?
-?,1995-04-14,Fri,15,Le Havre,Cannes,1-0,?
-?,1995-04-15,Sat,15,Bordeaux,Lyon,1-1,?
-?,1995-04-15,Sat,15,Lens,Bastia,3-0,?
-?,1995-04-15,Sat,15,Martigues,Lille,1-0,?
-?,1995-04-15,Sat,15,Montpellier,Paris SG,0-3,?
-?,1995-04-15,Sat,15,Nice,Auxerre,1-3,?
-?,1995-04-15,Sat,15,Rennes,Caen,5-0,?
-?,1995-04-15,Sat,15,Sochaux,Monaco,0-5,?
-?,1995-04-15,Sat,15,St Etienne,Metz,0-1,?
-?,1995-04-15,Sat,15,Strasbourg,Nantes,2-0,?
-?,1995-04-28,Fri,17,Bastia,Sochaux,1-0,?
-?,1995-04-29,Sat,17,Caen,St Etienne,3-0,?
-?,1995-04-29,Sat,17,Cannes,Strasbourg,2-2,?
-?,1995-04-29,Sat,17,Lille,Montpellier,0-0,?
-?,1995-04-29,Sat,17,Lyon,Le Havre,2-0,?
-?,1995-04-29,Sat,17,Metz,Nantes,0-2,?
-?,1995-04-29,Sat,17,Monaco,Lens,6-0,?
-?,1995-04-29,Sat,17,Nice,Rennes,1-0,?
-?,1995-04-29,Sat,17,Paris SG,Martigues,3-0,?
-?,1995-04-30,Sun,17,Auxerre,Bordeaux,1-0,?
-?,1995-05-05,Fri,18,Nantes,Monaco,3-3,?
-?,1995-05-06,Sat,18,Bordeaux,Caen,2-0,?
-?,1995-05-06,Sat,18,Le Havre,Auxerre,1-4,?
-?,1995-05-06,Sat,18,Lens,Metz,2-2,?
-?,1995-05-06,Sat,18,Martigues,Nice,0-1,?
-?,1995-05-06,Sat,18,Montpellier,Cannes,5-3,?
-?,1995-05-06,Sat,18,Rennes,Paris SG,4-0,?
-?,1995-05-06,Sat,18,Sochaux,Lyon,1-2,?
-?,1995-05-06,Sat,18,St Etienne,Lille,3-3,?
-?,1995-05-06,Sat,18,Strasbourg,Bastia,1-1,?
-?,1995-05-12,Fri,19,Metz,Lyon,2-1,?
-?,1995-05-17,Wed,20,Paris SG,Caen,2-0,?
-?,1995-05-19,Fri,20,Bastia,Nantes,2-2,?
-?,1995-05-20,Sat,20,Auxerre,Lens,3-0,?
-?,1995-05-20,Sat,20,Caen,Le Havre,2-2,?
-?,1995-05-20,Sat,20,Cannes,Monaco,2-2,?
-?,1995-05-20,Sat,20,Lille,Bordeaux,1-0,?
-?,1995-05-20,Sat,20,Lyon,Strasbourg,1-0,?
-?,1995-05-20,Sat,20,Metz,Sochaux,3-0,?
-?,1995-05-20,Sat,20,Nice,Montpellier,0-0,?
-?,1995-05-20,Sat,20,Paris SG,St Etienne,1-0,?
-?,1995-05-20,Sat,20,Rennes,Martigues,5-1,?
-?,1995-05-27,Sat,21,Bordeaux,Paris SG,3-0,?
-?,1995-05-27,Sat,21,Le Havre,Lille,0-1,?
-?,1995-05-27,Sat,21,Lens,Caen,2-0,?
-?,1995-05-27,Sat,21,Martigues,Lyon,2-0,?
-?,1995-05-27,Sat,21,Monaco,Bastia,2-1,?
-?,1995-05-27,Sat,21,Montpellier,Rennes,0-1,?
-?,1995-05-27,Sat,21,Nantes,Cannes,2-1,?
-?,1995-05-27,Sat,21,Sochaux,Auxerre,0-1,?
-?,1995-05-27,Sat,21,St Etienne,Nice,3-3,?
-?,1995-05-27,Sat,21,Strasbourg,Metz,1-0,?
-?,1995-05-31,Wed,22,Auxerre,Strasbourg,1-0,?
-?,1995-05-31,Wed,22,Bastia,Cannes,6-3,?
-?,1995-05-31,Wed,22,Caen,Sochaux,3-1,?
-?,1995-05-31,Wed,22,Lille,Lens,3-1,?
-?,1995-05-31,Wed,22,Lyon,Nantes,1-1,?
-?,1995-05-31,Wed,22,Martigues,Montpellier,2-1,?
-?,1995-05-31,Wed,22,Metz,Monaco,2-0,?
-?,1995-05-31,Wed,22,Nice,Bordeaux,0-2,?
-?,1995-05-31,Wed,22,Paris SG,Le Havre,2-2,?
-?,1995-05-31,Wed,22,Rennes,St Etienne,2-2,?
+Round,Date,Team 1,Team 2,FT,HT,Day,Week
+?,1994-07-28,Bordeaux,Nice,1-0,?,Thu,30
+?,1994-07-29,Cannes,Bastia,0-0,?,Fri,30
+?,1994-07-29,Le Havre,Paris SG,0-0,?,Fri,30
+?,1994-07-29,Lens,Lille,1-1,?,Fri,30
+?,1994-07-29,Monaco,Metz,0-1,?,Fri,30
+?,1994-07-29,Montpellier,Martigues,0-1,?,Fri,30
+?,1994-07-29,Nantes,Lyon,1-1,?,Fri,30
+?,1994-07-29,Sochaux,Caen,2-0,?,Fri,30
+?,1994-07-29,St Etienne,Rennes,1-1,?,Fri,30
+?,1994-07-29,Strasbourg,Auxerre,1-1,?,Fri,30
+?,1994-08-01,Auxerre,Nantes,1-2,?,Mon,31
+?,1994-08-02,Caen,Cannes,0-1,?,Tue,31
+?,1994-08-02,Lille,Strasbourg,1-0,?,Tue,31
+?,1994-08-02,Lyon,Monaco,3-1,?,Tue,31
+?,1994-08-02,Martigues,St Etienne,1-1,?,Tue,31
+?,1994-08-02,Metz,Bastia,1-2,?,Tue,31
+?,1994-08-02,Montpellier,Bordeaux,0-1,?,Tue,31
+?,1994-08-02,Nice,Sochaux,1-0,?,Tue,31
+?,1994-08-02,Paris SG,Lens,1-0,?,Tue,31
+?,1994-08-02,Rennes,Le Havre,0-0,?,Tue,31
+?,1994-08-05,Bordeaux,Martigues,1-1,?,Fri,31
+?,1994-08-05,Cannes,Metz,1-0,?,Fri,31
+?,1994-08-05,Le Havre,Nice,1-1,?,Fri,31
+?,1994-08-05,Lens,Rennes,5-0,?,Fri,31
+?,1994-08-05,Monaco,Auxerre,0-0,?,Fri,31
+?,1994-08-05,Nantes,Caen,2-1,?,Fri,31
+?,1994-08-05,Sochaux,Lille,3-0,?,Fri,31
+?,1994-08-05,St Etienne,Montpellier,4-0,?,Fri,31
+?,1994-08-05,Strasbourg,Paris SG,2-0,?,Fri,31
+?,1994-08-06,Bastia,Lyon,0-1,?,Sat,31
+?,1994-08-12,Caen,Monaco,0-1,?,Fri,32
+?,1994-08-13,Auxerre,Bastia,2-1,?,Sat,32
+?,1994-08-13,Lille,Nantes,1-2,?,Sat,32
+?,1994-08-13,Lyon,Metz,1-0,?,Sat,32
+?,1994-08-13,Martigues,Le Havre,2-1,?,Sat,32
+?,1994-08-13,Montpellier,Lens,1-2,?,Sat,32
+?,1994-08-13,Nice,Cannes,2-1,?,Sat,32
+?,1994-08-13,Paris SG,Sochaux,1-1,?,Sat,32
+?,1994-08-13,Rennes,Bordeaux,2-0,?,Sat,32
+?,1994-08-13,St Etienne,Strasbourg,2-0,?,Sat,32
+?,1994-08-19,Nantes,Paris SG,1-0,?,Fri,33
+?,1994-08-20,Bastia,Caen,1-0,?,Sat,33
+?,1994-08-20,Bordeaux,St Etienne,2-1,?,Sat,33
+?,1994-08-20,Cannes,Lyon,5-1,?,Sat,33
+?,1994-08-20,Le Havre,Montpellier,1-2,?,Sat,33
+?,1994-08-20,Lens,Martigues,2-1,?,Sat,33
+?,1994-08-20,Metz,Auxerre,1-1,?,Sat,33
+?,1994-08-20,Monaco,Lille,2-0,?,Sat,33
+?,1994-08-20,Sochaux,Rennes,1-3,?,Sat,33
+?,1994-08-20,Strasbourg,Nice,3-2,?,Sat,33
+?,1994-08-26,Rennes,Strasbourg,1-1,?,Fri,34
+?,1994-08-27,Auxerre,Lyon,0-0,?,Sat,34
+?,1994-08-27,Bordeaux,Cannes,0-2,?,Sat,34
+?,1994-08-27,Caen,Metz,2-0,?,Sat,34
+?,1994-08-27,Lille,Bastia,3-0,?,Sat,34
+?,1994-08-27,Martigues,Sochaux,2-0,?,Sat,34
+?,1994-08-27,Montpellier,Nantes,2-2,?,Sat,34
+?,1994-08-27,Nice,Lens,1-1,?,Sat,34
+?,1994-08-27,Paris SG,Monaco,1-0,?,Sat,34
+?,1994-08-27,St Etienne,Le Havre,4-1,?,Sat,34
+?,1994-08-30,Cannes,Auxerre,3-1,?,Tue,35
+?,1994-08-31,Bastia,Paris SG,1-2,?,Wed,35
+?,1994-08-31,Le Havre,Bordeaux,1-1,?,Wed,35
+?,1994-08-31,Lens,St Etienne,0-0,?,Wed,35
+?,1994-08-31,Lyon,Caen,1-0,?,Wed,35
+?,1994-08-31,Metz,Lille,1-1,?,Wed,35
+?,1994-08-31,Monaco,Nice,0-2,?,Wed,35
+?,1994-08-31,Nantes,Rennes,2-0,?,Wed,35
+?,1994-08-31,Sochaux,Montpellier,2-0,?,Wed,35
+?,1994-08-31,Strasbourg,Martigues,5-0,?,Wed,35
+?,1994-09-09,Rennes,Cannes,3-1,?,Fri,36
+?,1994-09-10,Bordeaux,Lens,1-2,?,Sat,36
+?,1994-09-10,Caen,Auxerre,1-5,?,Sat,36
+?,1994-09-10,Le Havre,Monaco,1-0,?,Sat,36
+?,1994-09-10,Lille,Lyon,1-4,?,Sat,36
+?,1994-09-10,Martigues,Nantes,3-3,?,Sat,36
+?,1994-09-10,Montpellier,Strasbourg,1-1,?,Sat,36
+?,1994-09-10,Nice,Bastia,1-2,?,Sat,36
+?,1994-09-10,Paris SG,Metz,3-0,?,Sat,36
+?,1994-09-10,St Etienne,Sochaux,4-0,?,Sat,36
+?,1994-09-17,Bastia,Montpellier,1-1,?,Sat,37
+?,1994-09-17,Cannes,Martigues,0-1,?,Sat,37
+?,1994-09-17,Lens,Le Havre,1-1,?,Sat,37
+?,1994-09-17,Metz,Nice,0-0,?,Sat,37
+?,1994-09-17,Monaco,Rennes,0-0,?,Sat,37
+?,1994-09-17,Nantes,St Etienne,3-0,?,Sat,37
+?,1994-09-17,Sochaux,Bordeaux,1-4,?,Sat,37
+?,1994-09-17,Strasbourg,Caen,1-0,?,Sat,37
+?,1994-09-18,Auxerre,Lille,2-0,?,Sun,37
+?,1994-09-18,Lyon,Paris SG,2-0,?,Sun,37
+?,1994-09-22,Montpellier,Monaco,2-2,?,Thu,38
+?,1994-09-23,Bordeaux,Strasbourg,2-0,?,Fri,38
+?,1994-09-23,Le Havre,Sochaux,2-0,?,Fri,38
+?,1994-09-23,Lens,Cannes,0-2,?,Fri,38
+?,1994-09-23,Lille,Caen,1-1,?,Fri,38
+?,1994-09-23,Martigues,Bastia,5-2,?,Fri,38
+?,1994-09-23,Nice,Nantes,1-3,?,Fri,38
+?,1994-09-23,Paris SG,Auxerre,1-1,?,Fri,38
+?,1994-09-23,Rennes,Metz,1-2,?,Fri,38
+?,1994-09-23,St Etienne,Lyon,1-1,?,Fri,38
+?,1994-10-01,Bastia,Rennes,1-2,?,Sat,39
+?,1994-10-01,Caen,Paris SG,1-2,?,Sat,39
+?,1994-10-01,Cannes,Lille,0-0,?,Sat,39
+?,1994-10-01,Lyon,Nice,1-1,?,Sat,39
+?,1994-10-01,Metz,Montpellier,0-0,?,Sat,39
+?,1994-10-01,Monaco,Martigues,1-0,?,Sat,39
+?,1994-10-01,Nantes,Bordeaux,3-3,?,Sat,39
+?,1994-10-01,Sochaux,Lens,1-1,?,Sat,39
+?,1994-10-01,Strasbourg,Le Havre,3-0,?,Sat,39
+?,1994-10-02,Auxerre,St Etienne,3-0,?,Sun,39
+?,1994-10-10,Lens,Strasbourg,1-0,?,Mon,41
+?,1994-10-11,Bordeaux,Monaco,0-3,?,Tue,41
+?,1994-10-11,Le Havre,Nantes,0-0,?,Tue,41
+?,1994-10-11,Martigues,Metz,1-1,?,Tue,41
+?,1994-10-11,Montpellier,Lyon,2-2,?,Tue,41
+?,1994-10-11,Nice,Caen,0-1,?,Tue,41
+?,1994-10-11,Paris SG,Lille,3-0,?,Tue,41
+?,1994-10-11,Rennes,Auxerre,2-2,?,Tue,41
+?,1994-10-11,Sochaux,Cannes,2-1,?,Tue,41
+?,1994-10-11,St Etienne,Bastia,1-2,?,Tue,41
+?,1994-10-14,Auxerre,Martigues,3-0,?,Fri,41
+?,1994-10-14,Bastia,Bordeaux,0-0,?,Fri,41
+?,1994-10-14,Caen,Montpellier,1-0,?,Fri,41
+?,1994-10-14,Cannes,Paris SG,3-2,?,Fri,41
+?,1994-10-14,Lille,Nice,1-0,?,Fri,41
+?,1994-10-14,Lyon,Rennes,3-0,?,Fri,41
+?,1994-10-14,Metz,Le Havre,2-1,?,Fri,41
+?,1994-10-14,Nantes,Lens,3-0,?,Fri,41
+?,1994-10-14,Strasbourg,Sochaux,3-2,?,Fri,41
+?,1994-10-16,Monaco,St Etienne,0-0,?,Sun,41
+?,1994-10-22,Bordeaux,Metz,4-2,?,Sat,42
+?,1994-10-22,Le Havre,Bastia,2-2,?,Sat,42
+?,1994-10-22,Lens,Lyon,4-0,?,Sat,42
+?,1994-10-22,Martigues,Caen,4-1,?,Sat,42
+?,1994-10-22,Nice,Paris SG,0-4,?,Sat,42
+?,1994-10-22,Rennes,Lille,1-0,?,Sat,42
+?,1994-10-22,Sochaux,Nantes,0-0,?,Sat,42
+?,1994-10-22,St Etienne,Cannes,1-0,?,Sat,42
+?,1994-10-22,Strasbourg,Monaco,1-0,?,Sat,42
+?,1994-10-23,Montpellier,Auxerre,1-1,?,Sun,42
+?,1994-10-27,Lyon,Bordeaux,1-1,?,Thu,43
+?,1994-10-28,Auxerre,Nice,3-0,?,Fri,43
+?,1994-10-28,Bastia,Lens,1-3,?,Fri,43
+?,1994-10-28,Caen,Rennes,5-1,?,Fri,43
+?,1994-10-28,Cannes,Le Havre,2-2,?,Fri,43
+?,1994-10-28,Lille,Martigues,1-0,?,Fri,43
+?,1994-10-28,Metz,St Etienne,1-0,?,Fri,43
+?,1994-10-28,Monaco,Sochaux,3-1,?,Fri,43
+?,1994-10-28,Nantes,Strasbourg,3-0,?,Fri,43
+?,1994-10-28,Paris SG,Montpellier,3-1,?,Fri,43
+?,1994-11-05,Le Havre,Lyon,2-0,?,Sat,44
+?,1994-11-05,Lens,Monaco,0-0,?,Sat,44
+?,1994-11-05,Martigues,Paris SG,1-1,?,Sat,44
+?,1994-11-05,Montpellier,Lille,1-0,?,Sat,44
+?,1994-11-05,Nantes,Metz,3-1,?,Sat,44
+?,1994-11-05,Rennes,Nice,3-1,?,Sat,44
+?,1994-11-05,Sochaux,Bastia,1-3,?,Sat,44
+?,1994-11-05,St Etienne,Caen,2-0,?,Sat,44
+?,1994-11-05,Strasbourg,Cannes,1-2,?,Sat,44
+?,1994-11-06,Bordeaux,Auxerre,3-1,?,Sun,44
+?,1994-11-08,Lille,St Etienne,1-0,?,Tue,45
+?,1994-11-09,Auxerre,Le Havre,1-1,?,Wed,45
+?,1994-11-09,Bastia,Strasbourg,0-1,?,Wed,45
+?,1994-11-09,Caen,Bordeaux,4-2,?,Wed,45
+?,1994-11-09,Lyon,Sochaux,4-0,?,Wed,45
+?,1994-11-09,Metz,Lens,3-1,?,Wed,45
+?,1994-11-09,Paris SG,Rennes,2-1,?,Wed,45
+?,1994-11-10,Cannes,Montpellier,3-0,?,Thu,45
+?,1994-11-10,Monaco,Nantes,2-2,?,Thu,45
+?,1994-11-10,Nice,Martigues,1-1,?,Thu,45
+?,1994-11-19,Bordeaux,Lille,1-0,?,Sat,46
+?,1994-11-19,Le Havre,Caen,1-1,?,Sat,46
+?,1994-11-19,Lens,Auxerre,1-1,?,Sat,46
+?,1994-11-19,Martigues,Rennes,1-0,?,Sat,46
+?,1994-11-19,Monaco,Cannes,0-0,?,Sat,46
+?,1994-11-19,Montpellier,Nice,0-0,?,Sat,46
+?,1994-11-19,Nantes,Bastia,0-0,?,Sat,46
+?,1994-11-19,Sochaux,Metz,4-2,?,Sat,46
+?,1994-11-19,St Etienne,Paris SG,1-3,?,Sat,46
+?,1994-11-20,Strasbourg,Lyon,1-0,?,Sun,46
+?,1994-11-26,Auxerre,Sochaux,4-0,?,Sat,47
+?,1994-11-26,Bastia,Monaco,0-2,?,Sat,47
+?,1994-11-26,Caen,Lens,0-0,?,Sat,47
+?,1994-11-26,Lille,Le Havre,1-1,?,Sat,47
+?,1994-11-26,Lyon,Martigues,3-0,?,Sat,47
+?,1994-11-26,Metz,Strasbourg,3-2,?,Sat,47
+?,1994-11-26,Nice,St Etienne,3-0,?,Sat,47
+?,1994-11-26,Paris SG,Bordeaux,0-0,?,Sat,47
+?,1994-11-26,Rennes,Montpellier,2-2,?,Sat,47
+?,1994-11-27,Cannes,Nantes,0-1,?,Sun,47
+?,1994-12-01,St Etienne,Martigues,3-0,?,Thu,48
+?,1994-12-02,Bordeaux,Montpellier,2-0,?,Fri,48
+?,1994-12-02,Cannes,Caen,1-0,?,Fri,48
+?,1994-12-02,Le Havre,Rennes,4-0,?,Fri,48
+?,1994-12-02,Lens,Paris SG,1-2,?,Fri,48
+?,1994-12-02,Monaco,Lyon,1-1,?,Fri,48
+?,1994-12-02,Nantes,Auxerre,0-0,?,Fri,48
+?,1994-12-02,Sochaux,Nice,0-1,?,Fri,48
+?,1994-12-02,Strasbourg,Lille,1-1,?,Fri,48
+?,1994-12-08,Bastia,Metz,0-3,?,Thu,49
+?,1994-12-17,Auxerre,Monaco,2-2,?,Sat,50
+?,1994-12-17,Caen,Nantes,0-2,?,Sat,50
+?,1994-12-17,Lille,Sochaux,1-0,?,Sat,50
+?,1994-12-17,Lyon,Bastia,0-0,?,Sat,50
+?,1994-12-17,Martigues,Bordeaux,1-0,?,Sat,50
+?,1994-12-17,Metz,Cannes,3-2,?,Sat,50
+?,1994-12-17,Montpellier,St Etienne,3-2,?,Sat,50
+?,1994-12-17,Nice,Le Havre,0-2,?,Sat,50
+?,1994-12-17,Paris SG,Strasbourg,1-0,?,Sat,50
+?,1994-12-17,Rennes,Lens,0-1,?,Sat,50
+?,1995-01-07,Bastia,Auxerre,0-1,?,Sat,1
+?,1995-01-07,Bordeaux,Rennes,2-1,?,Sat,1
+?,1995-01-07,Cannes,Nice,2-0,?,Sat,1
+?,1995-01-07,Le Havre,Martigues,1-0,?,Sat,1
+?,1995-01-07,Lens,Montpellier,1-1,?,Sat,1
+?,1995-01-07,Monaco,Caen,3-0,?,Sat,1
+?,1995-01-07,Nantes,Lille,3-0,?,Sat,1
+?,1995-01-07,Strasbourg,St Etienne,1-1,?,Sat,1
+?,1995-01-21,Auxerre,Metz,1-1,?,Sat,3
+?,1995-01-21,Caen,Bastia,2-1,?,Sat,3
+?,1995-01-21,Lille,Monaco,1-0,?,Sat,3
+?,1995-01-21,Lyon,Cannes,3-1,?,Sat,3
+?,1995-01-21,Martigues,Lens,0-0,?,Sat,3
+?,1995-01-21,Montpellier,Le Havre,2-1,?,Sat,3
+?,1995-01-21,Nice,Strasbourg,3-4,?,Sat,3
+?,1995-01-21,Paris SG,Nantes,0-3,?,Sat,3
+?,1995-01-21,St Etienne,Bordeaux,4-1,?,Sat,3
+?,1995-01-28,Bastia,Lille,3-1,?,Sat,4
+?,1995-01-28,Cannes,Bordeaux,2-0,?,Sat,4
+?,1995-01-28,Lens,Nice,2-1,?,Sat,4
+?,1995-01-28,Lyon,Auxerre,3-0,?,Sat,4
+?,1995-01-28,Metz,Caen,4-0,?,Sat,4
+?,1995-01-28,Sochaux,Martigues,1-1,?,Sat,4
+?,1995-01-28,Strasbourg,Rennes,2-2,?,Sat,4
+?,1995-01-29,Monaco,Paris SG,2-1,?,Sun,4
+?,1995-02-01,Le Havre,St Etienne,2-0,?,Wed,5
+?,1995-02-01,Nantes,Montpellier,3-2,?,Wed,5
+?,1995-02-01,Sochaux,Paris SG,1-2,?,Wed,5
+?,1995-02-04,Rennes,Sochaux,2-1,?,Sat,5
+?,1995-02-07,Nice,Monaco,3-1,?,Tue,6
+?,1995-02-08,Auxerre,Cannes,3-0,?,Wed,6
+?,1995-02-08,Bordeaux,Le Havre,0-1,?,Wed,6
+?,1995-02-08,Caen,Lyon,0-1,?,Wed,6
+?,1995-02-08,Lille,Metz,1-0,?,Wed,6
+?,1995-02-08,Martigues,Strasbourg,0-0,?,Wed,6
+?,1995-02-08,Montpellier,Sochaux,1-0,?,Wed,6
+?,1995-02-08,Paris SG,Bastia,3-0,?,Wed,6
+?,1995-02-08,Rennes,Nantes,1-1,?,Wed,6
+?,1995-02-08,St Etienne,Lens,1-2,?,Wed,6
+?,1995-02-11,Auxerre,Caen,1-1,?,Sat,6
+?,1995-02-11,Bastia,Nice,1-1,?,Sat,6
+?,1995-02-11,Cannes,Rennes,0-1,?,Sat,6
+?,1995-02-11,Lyon,Lille,3-1,?,Sat,6
+?,1995-02-11,Metz,Paris SG,2-0,?,Sat,6
+?,1995-02-11,Monaco,Le Havre,1-2,?,Sat,6
+?,1995-02-11,Sochaux,St Etienne,2-0,?,Sat,6
+?,1995-02-11,Strasbourg,Montpellier,0-0,?,Sat,6
+?,1995-02-12,Lens,Bordeaux,2-1,?,Sun,6
+?,1995-02-18,Nantes,Martigues,3-0,?,Sat,7
+?,1995-02-23,Paris SG,Lyon,4-1,?,Thu,8
+?,1995-02-23,St Etienne,Nantes,1-1,?,Thu,8
+?,1995-02-24,Bordeaux,Sochaux,2-1,?,Fri,8
+?,1995-02-24,Caen,Strasbourg,4-0,?,Fri,8
+?,1995-02-24,Le Havre,Lens,2-3,?,Fri,8
+?,1995-02-24,Lille,Auxerre,0-0,?,Fri,8
+?,1995-02-24,Martigues,Cannes,0-0,?,Fri,8
+?,1995-02-24,Montpellier,Bastia,0-0,?,Fri,8
+?,1995-02-24,Nice,Metz,1-0,?,Fri,8
+?,1995-02-24,Rennes,Monaco,1-3,?,Fri,8
+?,1995-03-04,Bastia,Martigues,2-0,?,Sat,9
+?,1995-03-04,Caen,Lille,2-0,?,Sat,9
+?,1995-03-04,Cannes,Lens,2-0,?,Sat,9
+?,1995-03-04,Lyon,St Etienne,1-0,?,Sat,9
+?,1995-03-04,Metz,Rennes,1-0,?,Sat,9
+?,1995-03-04,Monaco,Montpellier,2-0,?,Sat,9
+?,1995-03-04,Nantes,Nice,2-1,?,Sat,9
+?,1995-03-04,Sochaux,Le Havre,0-1,?,Sat,9
+?,1995-03-04,Strasbourg,Bordeaux,1-1,?,Sat,9
+?,1995-03-05,Auxerre,Paris SG,1-1,?,Sun,9
+?,1995-03-09,Nice,Lyon,1-2,?,Thu,10
+?,1995-03-10,Bordeaux,Nantes,1-1,?,Fri,10
+?,1995-03-10,Lens,Sochaux,1-0,?,Fri,10
+?,1995-03-10,Lille,Cannes,0-3,?,Fri,10
+?,1995-03-10,Martigues,Monaco,1-1,?,Fri,10
+?,1995-03-10,Montpellier,Metz,2-0,?,Fri,10
+?,1995-03-10,Rennes,Bastia,2-2,?,Fri,10
+?,1995-03-10,St Etienne,Auxerre,1-1,?,Fri,10
+?,1995-03-13,Le Havre,Strasbourg,1-0,?,Mon,11
+?,1995-03-22,Auxerre,Rennes,2-2,?,Wed,12
+?,1995-03-22,Bastia,St Etienne,2-1,?,Wed,12
+?,1995-03-22,Caen,Nice,0-0,?,Wed,12
+?,1995-03-22,Cannes,Sochaux,0-0,?,Wed,12
+?,1995-03-22,Lille,Paris SG,1-0,?,Wed,12
+?,1995-03-22,Lyon,Montpellier,2-1,?,Wed,12
+?,1995-03-22,Metz,Martigues,0-0,?,Wed,12
+?,1995-03-22,Monaco,Bordeaux,6-3,?,Wed,12
+?,1995-03-22,Nantes,Le Havre,3-2,?,Wed,12
+?,1995-03-23,Strasbourg,Lens,0-0,?,Thu,12
+?,1995-04-01,Bordeaux,Bastia,1-0,?,Sat,13
+?,1995-04-01,Le Havre,Metz,0-3,?,Sat,13
+?,1995-04-01,Martigues,Auxerre,2-1,?,Sat,13
+?,1995-04-01,Montpellier,Caen,3-2,?,Sat,13
+?,1995-04-01,Nice,Lille,1-0,?,Sat,13
+?,1995-04-01,Paris SG,Cannes,2-1,?,Sat,13
+?,1995-04-01,Rennes,Lyon,1-1,?,Sat,13
+?,1995-04-01,Sochaux,Strasbourg,0-1,?,Sat,13
+?,1995-04-01,St Etienne,Monaco,1-0,?,Sat,13
+?,1995-04-02,Lens,Nantes,1-1,?,Sun,13
+?,1995-04-07,Lyon,Lens,1-1,?,Fri,14
+?,1995-04-08,Auxerre,Montpellier,0-1,?,Sat,14
+?,1995-04-08,Bastia,Le Havre,3-2,?,Sat,14
+?,1995-04-08,Caen,Martigues,0-1,?,Sat,14
+?,1995-04-08,Cannes,St Etienne,4-1,?,Sat,14
+?,1995-04-08,Lille,Rennes,1-0,?,Sat,14
+?,1995-04-08,Metz,Bordeaux,2-3,?,Sat,14
+?,1995-04-08,Monaco,Strasbourg,3-1,?,Sat,14
+?,1995-04-08,Nantes,Sochaux,2-0,?,Sat,14
+?,1995-04-08,Paris SG,Nice,2-3,?,Sat,14
+?,1995-04-14,Le Havre,Cannes,1-0,?,Fri,15
+?,1995-04-15,Bordeaux,Lyon,1-1,?,Sat,15
+?,1995-04-15,Lens,Bastia,3-0,?,Sat,15
+?,1995-04-15,Martigues,Lille,1-0,?,Sat,15
+?,1995-04-15,Montpellier,Paris SG,0-3,?,Sat,15
+?,1995-04-15,Nice,Auxerre,1-3,?,Sat,15
+?,1995-04-15,Rennes,Caen,5-0,?,Sat,15
+?,1995-04-15,Sochaux,Monaco,0-5,?,Sat,15
+?,1995-04-15,St Etienne,Metz,0-1,?,Sat,15
+?,1995-04-15,Strasbourg,Nantes,2-0,?,Sat,15
+?,1995-04-28,Bastia,Sochaux,1-0,?,Fri,17
+?,1995-04-29,Caen,St Etienne,3-0,?,Sat,17
+?,1995-04-29,Cannes,Strasbourg,2-2,?,Sat,17
+?,1995-04-29,Lille,Montpellier,0-0,?,Sat,17
+?,1995-04-29,Lyon,Le Havre,2-0,?,Sat,17
+?,1995-04-29,Metz,Nantes,0-2,?,Sat,17
+?,1995-04-29,Monaco,Lens,6-0,?,Sat,17
+?,1995-04-29,Nice,Rennes,1-0,?,Sat,17
+?,1995-04-29,Paris SG,Martigues,3-0,?,Sat,17
+?,1995-04-30,Auxerre,Bordeaux,1-0,?,Sun,17
+?,1995-05-05,Nantes,Monaco,3-3,?,Fri,18
+?,1995-05-06,Bordeaux,Caen,2-0,?,Sat,18
+?,1995-05-06,Le Havre,Auxerre,1-4,?,Sat,18
+?,1995-05-06,Lens,Metz,2-2,?,Sat,18
+?,1995-05-06,Martigues,Nice,0-1,?,Sat,18
+?,1995-05-06,Montpellier,Cannes,5-3,?,Sat,18
+?,1995-05-06,Rennes,Paris SG,4-0,?,Sat,18
+?,1995-05-06,Sochaux,Lyon,1-2,?,Sat,18
+?,1995-05-06,St Etienne,Lille,3-3,?,Sat,18
+?,1995-05-06,Strasbourg,Bastia,1-1,?,Sat,18
+?,1995-05-12,Metz,Lyon,2-1,?,Fri,19
+?,1995-05-17,Paris SG,Caen,2-0,?,Wed,20
+?,1995-05-19,Bastia,Nantes,2-2,?,Fri,20
+?,1995-05-20,Auxerre,Lens,3-0,?,Sat,20
+?,1995-05-20,Caen,Le Havre,2-2,?,Sat,20
+?,1995-05-20,Cannes,Monaco,2-2,?,Sat,20
+?,1995-05-20,Lille,Bordeaux,1-0,?,Sat,20
+?,1995-05-20,Lyon,Strasbourg,1-0,?,Sat,20
+?,1995-05-20,Metz,Sochaux,3-0,?,Sat,20
+?,1995-05-20,Nice,Montpellier,0-0,?,Sat,20
+?,1995-05-20,Paris SG,St Etienne,1-0,?,Sat,20
+?,1995-05-20,Rennes,Martigues,5-1,?,Sat,20
+?,1995-05-27,Bordeaux,Paris SG,3-0,?,Sat,21
+?,1995-05-27,Le Havre,Lille,0-1,?,Sat,21
+?,1995-05-27,Lens,Caen,2-0,?,Sat,21
+?,1995-05-27,Martigues,Lyon,2-0,?,Sat,21
+?,1995-05-27,Monaco,Bastia,2-1,?,Sat,21
+?,1995-05-27,Montpellier,Rennes,0-1,?,Sat,21
+?,1995-05-27,Nantes,Cannes,2-1,?,Sat,21
+?,1995-05-27,Sochaux,Auxerre,0-1,?,Sat,21
+?,1995-05-27,St Etienne,Nice,3-3,?,Sat,21
+?,1995-05-27,Strasbourg,Metz,1-0,?,Sat,21
+?,1995-05-31,Auxerre,Strasbourg,1-0,?,Wed,22
+?,1995-05-31,Bastia,Cannes,6-3,?,Wed,22
+?,1995-05-31,Caen,Sochaux,3-1,?,Wed,22
+?,1995-05-31,Lille,Lens,3-1,?,Wed,22
+?,1995-05-31,Lyon,Nantes,1-1,?,Wed,22
+?,1995-05-31,Martigues,Montpellier,2-1,?,Wed,22
+?,1995-05-31,Metz,Monaco,2-0,?,Wed,22
+?,1995-05-31,Nice,Bordeaux,0-2,?,Wed,22
+?,1995-05-31,Paris SG,Le Havre,2-2,?,Wed,22
+?,1995-05-31,Rennes,St Etienne,2-2,?,Wed,22
