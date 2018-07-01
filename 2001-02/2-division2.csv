@@ -1,381 +1,381 @@
-Date,Team 1,Team 2,FT,HT
-2001-07-28,Ajaccio,Nancy,4-2,1-1
-2001-07-28,Amiens,Beauvais,0-1,0-0
-2001-07-28,Grenoble,Caen,4-3,1-2
-2001-07-28,Gueugnon,Nimes,4-3,3-1
-2001-07-28,Le Mans,Creteil,0-1,0-1
-2001-07-28,Nice,Laval,2-1,1-1
-2001-07-28,St Etienne,Istres,1-2,0-1
-2001-07-28,Wasquehal,Chateauroux,0-2,0-1
-2001-07-29,Le Havre,Strasbourg,1-1,0-1
-2001-07-29,Martigues,Niort,1-1,1-1
-2001-08-04,Beauvais,Gueugnon,0-1,0-0
-2001-08-04,Caen,Wasquehal,1-0,0-0
-2001-08-04,Chateauroux,Ajaccio,0-2,0-1
-2001-08-04,Grenoble,Le Mans,1-1,1-0
-2001-08-04,Laval,Istres,2-0,0-0
-2001-08-04,Nancy,Amiens,1-1,1-1
-2001-08-04,Nimes,Martigues,0-0,0-0
-2001-08-04,Niort,Le Havre,2-2,0-2
-2001-08-04,Strasbourg,Nice,3-0,2-0
-2001-08-05,Creteil,St Etienne,1-1,1-0
-2001-08-10,Le Havre,Nancy,0-0,0-0
-2001-08-11,Ajaccio,Caen,1-1,0-1
-2001-08-11,Amiens,Grenoble,3-0,2-0
-2001-08-11,Gueugnon,Chateauroux,2-0,1-0
-2001-08-11,Istres,Strasbourg,0-1,0-0
-2001-08-11,Laval,Niort,1-3,1-2
-2001-08-11,Martigues,Beauvais,0-2,0-1
-2001-08-11,Nice,Nimes,2-0,1-0
-2001-08-11,St Etienne,Le Mans,2-2,0-2
-2001-08-11,Wasquehal,Creteil,2-1,1-0
-2001-08-17,Grenoble,St Etienne,1-0,0-0
-2001-08-18,Beauvais,Nice,1-0,0-0
-2001-08-18,Caen,Martigues,1-0,0-0
-2001-08-18,Chateauroux,Amiens,2-0,0-0
-2001-08-18,Creteil,Ajaccio,0-2,0-0
-2001-08-18,Le Mans,Wasquehal,2-2,1-0
-2001-08-18,Nancy,Gueugnon,0-1,0-1
-2001-08-18,Nimes,Le Havre,0-0,0-0
-2001-08-18,Niort,Istres,2-0,0-0
-2001-08-18,Strasbourg,Laval,4-1,1-0
-2001-08-24,Strasbourg,Chateauroux,2-0,1-0
-2001-08-25,Ajaccio,Le Mans,1-0,1-0
-2001-08-25,Amiens,Creteil,2-1,1-0
-2001-08-25,Gueugnon,Caen,2-2,1-1
-2001-08-25,Istres,Beauvais,0-2,0-0
-2001-08-25,Laval,Nimes,1-0,1-0
-2001-08-25,Le Havre,Grenoble,4-0,1-0
-2001-08-25,Martigues,Nancy,0-0,0-0
-2001-08-25,Nice,Niort,3-1,1-1
-2001-08-25,Wasquehal,St Etienne,1-1,1-1
-2001-08-28,St Etienne,Ajaccio,1-0,1-0
-2001-08-29,Beauvais,Laval,2-0,0-0
-2001-08-29,Caen,Amiens,2-4,2-1
-2001-08-29,Chateauroux,Le Havre,4-2,2-1
-2001-08-29,Creteil,Gueugnon,3-1,1-0
-2001-08-29,Grenoble,Wasquehal,2-1,1-0
-2001-08-29,Le Mans,Martigues,1-0,0-0
-2001-08-29,Nancy,Nice,1-0,0-0
-2001-08-29,Nimes,Istres,0-0,0-0
-2001-08-29,Niort,Strasbourg,1-1,0-1
-2001-09-07,Gueugnon,Le Mans,1-1,0-0
-2001-09-08,Ajaccio,Wasquehal,2-0,1-0
-2001-09-08,Amiens,St Etienne,2-1,1-1
-2001-09-08,Istres,Nancy,1-0,0-0
-2001-09-08,Laval,Caen,0-1,0-0
-2001-09-08,Le Havre,Beauvais,0-0,0-0
-2001-09-08,Martigues,Creteil,3-1,2-1
-2001-09-08,Nice,Chateauroux,1-2,0-0
-2001-09-08,Niort,Grenoble,0-0,0-0
-2001-09-14,Caen,Nice,1-0,1-0
-2001-09-15,Chateauroux,Istres,1-1,1-0
-2001-09-15,Creteil,Le Havre,0-0,0-0
-2001-09-15,Grenoble,Ajaccio,0-1,0-1
-2001-09-15,Le Mans,Amiens,1-1,0-0
-2001-09-15,Nancy,Laval,2-1,0-0
-2001-09-15,Nimes,Niort,0-0,0-0
-2001-09-15,St Etienne,Gueugnon,1-1,0-0
-2001-09-16,Beauvais,Strasbourg,1-0,0-0
-2001-09-21,Istres,Caen,0-3,0-1
-2001-09-22,Amiens,Ajaccio,1-1,1-1
-2001-09-22,Gueugnon,Wasquehal,1-2,0-0
-2001-09-22,Laval,Chateauroux,2-1,1-1
-2001-09-22,Le Havre,Le Mans,3-0,3-0
-2001-09-22,Martigues,Grenoble,0-1,0-1
-2001-09-22,Nice,St Etienne,1-1,0-1
-2001-09-22,Nimes,Creteil,1-1,0-0
-2001-09-23,Niort,Beauvais,0-0,0-0
-2001-09-23,Strasbourg,Nancy,2-2,1-2
-2001-09-28,Le Mans,Laval,0-3,0-1
-2001-09-29,Ajaccio,Istres,1-1,0-0
-2001-09-29,Beauvais,Nimes,1-3,1-2
-2001-09-29,Caen,Le Havre,0-0,0-0
-2001-09-29,Chateauroux,Martigues,2-3,2-2
-2001-09-29,Creteil,Nice,0-2,0-1
-2001-09-29,Grenoble,Gueugnon,0-0,0-0
-2001-09-29,Nancy,Niort,2-0,0-0
-2001-09-29,Wasquehal,Amiens,0-0,0-0
-2001-09-30,St Etienne,Strasbourg,1-1,0-1
-2001-10-04,Nimes,Nancy,2-2,0-0
-2001-10-05,Beauvais,St Etienne,3-0,1-0
-2001-10-05,Gueugnon,Amiens,2-1,0-0
-2001-10-05,Istres,Le Mans,0-1,0-1
-2001-10-05,Laval,Creteil,2-1,1-0
-2001-10-05,Le Havre,Wasquehal,1-0,0-0
-2001-10-05,Martigues,Ajaccio,0-1,0-1
-2001-10-05,Nice,Grenoble,4-1,1-0
-2001-10-05,Niort,Chateauroux,1-2,1-1
-2001-10-05,Strasbourg,Caen,3-1,2-1
-2001-10-12,Ajaccio,Gueugnon,1-1,0-0
-2001-10-12,Grenoble,Istres,0-5,0-2
-2001-10-12,Le Mans,Nice,1-0,0-0
-2001-10-12,Wasquehal,Laval,0-2,0-0
-2001-10-13,Amiens,Martigues,4-0,1-0
-2001-10-13,Caen,Niort,2-1,0-0
-2001-10-13,Chateauroux,Nimes,0-0,0-0
-2001-10-13,Creteil,Strasbourg,0-0,0-0
-2001-10-13,Nancy,Beauvais,2-2,1-0
-2001-10-13,St Etienne,Le Havre,0-1,0-1
-2001-10-19,Istres,Wasquehal,2-1,0-0
-2001-10-19,Strasbourg,Le Mans,2-0,1-0
-2001-10-20,Beauvais,Grenoble,1-0,0-0
-2001-10-20,Laval,St Etienne,1-1,0-0
-2001-10-20,Le Havre,Amiens,2-1,0-0
-2001-10-20,Martigues,Gueugnon,2-0,0-0
-2001-10-20,Nancy,Chateauroux,2-0,0-0
-2001-10-20,Nice,Ajaccio,3-1,2-0
-2001-10-20,Nimes,Caen,2-2,0-1
-2001-10-20,Niort,Creteil,1-1,1-0
-2001-10-24,Wasquehal,Martigues,2-1,2-1
-2001-10-26,Grenoble,Nimes,1-1,0-0
-2001-10-27,Ajaccio,Strasbourg,2-1,1-0
-2001-10-27,Amiens,Laval,1-1,0-0
-2001-10-27,Chateauroux,Beauvais,0-0,0-0
-2001-10-27,Creteil,Istres,1-1,1-0
-2001-10-27,Gueugnon,Le Havre,1-1,0-1
-2001-10-27,Le Mans,Niort,3-1,1-0
-2001-10-27,St Etienne,Martigues,1-0,0-0
-2001-10-28,Caen,Nancy,1-0,0-0
-2001-10-28,Wasquehal,Nice,1-1,1-1
-2001-10-31,Strasbourg,Nimes,1-0,0-0
-2001-11-08,Beauvais,Caen,1-1,0-0
-2001-11-09,Chateauroux,Creteil,1-0,1-0
-2001-11-09,Istres,Amiens,1-2,0-0
-2001-11-09,Laval,Ajaccio,2-1,0-0
-2001-11-09,Le Havre,Martigues,5-0,2-0
-2001-11-09,Nancy,Grenoble,1-0,0-0
-2001-11-09,Nice,Gueugnon,3-0,2-0
-2001-11-09,Nimes,Le Mans,1-0,0-0
-2001-11-09,Niort,St Etienne,0-2,0-1
-2001-11-09,Strasbourg,Wasquehal,1-0,1-0
-2001-11-13,Ajaccio,Le Havre,3-0,1-0
-2001-11-13,Caen,Chateauroux,1-1,0-0
-2001-11-13,Creteil,Nancy,1-3,1-3
-2001-11-13,Grenoble,Strasbourg,0-3,0-2
-2001-11-13,Gueugnon,Istres,1-1,0-1
-2001-11-13,Le Mans,Beauvais,2-2,0-0
-2001-11-13,Martigues,Laval,0-0,0-0
-2001-11-13,St Etienne,Nimes,1-0,0-0
-2001-11-13,Wasquehal,Niort,2-3,1-2
-2001-11-14,Amiens,Nice,2-0,0-0
-2001-11-17,Beauvais,Creteil,2-0,0-0
-2001-11-17,Caen,St Etienne,2-4,1-1
-2001-11-17,Chateauroux,Grenoble,0-0,0-0
-2001-11-17,Istres,Martigues,0-0,0-0
-2001-11-17,Nancy,Le Mans,0-1,0-1
-2001-11-17,Nice,Le Havre,0-1,0-0
-2001-11-17,Nimes,Wasquehal,2-3,2-2
-2001-11-17,Niort,Ajaccio,0-0,0-0
-2001-11-17,Strasbourg,Amiens,1-0,0-0
-2001-11-18,Laval,Gueugnon,0-1,0-0
-2001-11-27,Gueugnon,Strasbourg,0-0,0-0
-2001-11-28,Ajaccio,Nimes,3-1,2-0
-2001-11-28,Amiens,Niort,0-2,0-0
-2001-11-28,Creteil,Caen,4-2,0-1
-2001-11-28,Grenoble,Laval,3-0,2-0
-2001-11-28,Le Havre,Istres,2-0,0-0
-2001-11-28,Le Mans,Chateauroux,1-0,0-0
-2001-11-28,Martigues,Nice,3-3,2-2
-2001-11-28,St Etienne,Nancy,1-3,1-2
-2001-11-28,Wasquehal,Beauvais,3-2,0-0
-2001-12-07,Beauvais,Ajaccio,0-0,0-0
-2001-12-08,Caen,Le Mans,2-0,1-0
-2001-12-08,Chateauroux,St Etienne,4-0,2-0
-2001-12-08,Creteil,Grenoble,1-1,1-0
-2001-12-08,Istres,Nice,0-1,0-1
-2001-12-08,Laval,Le Havre,1-1,1-0
-2001-12-08,Nancy,Wasquehal,0-1,0-0
-2001-12-08,Nimes,Amiens,1-1,0-1
-2001-12-08,Niort,Gueugnon,1-1,1-0
-2001-12-08,Strasbourg,Martigues,1-0,0-0
-2001-12-19,Ajaccio,Chateauroux,0-1,0-0
-2001-12-19,Amiens,Nancy,1-1,0-0
-2001-12-19,Gueugnon,Beauvais,0-0,0-0
-2001-12-19,Istres,Laval,2-2,0-1
-2001-12-19,Le Havre,Niort,2-0,2-0
-2001-12-19,Le Mans,Grenoble,2-0,0-0
-2001-12-19,Martigues,Nimes,2-0,0-0
-2001-12-19,Nice,Strasbourg,2-1,1-1
-2001-12-19,Wasquehal,Caen,2-0,0-0
-2001-12-22,Beauvais,Martigues,2-0,2-0
-2001-12-22,Caen,Ajaccio,1-1,0-0
-2001-12-22,Grenoble,Amiens,4-0,1-0
-2001-12-22,Le Mans,St Etienne,3-0,1-0
-2001-12-22,Nimes,Nice,0-3,0-2
-2001-12-22,Niort,Laval,1-1,1-1
-2002-01-05,Ajaccio,Creteil,1-0,0-0
-2002-01-05,Istres,Niort,1-1,0-1
-2002-01-05,Martigues,Caen,2-1,1-1
-2002-01-05,Nice,Beauvais,0-1,0-1
-2002-01-12,Beauvais,Istres,0-0,0-0
-2002-01-12,Caen,Gueugnon,2-2,2-2
-2002-01-12,Creteil,Amiens,1-1,0-1
-2002-01-12,Grenoble,Le Havre,1-0,1-0
-2002-01-12,Le Mans,Ajaccio,2-1,1-1
-2002-01-12,Nimes,Laval,3-0,1-0
-2002-01-12,Niort,Nice,3-0,2-0
-2002-01-13,Chateauroux,Strasbourg,1-2,0-0
-2002-01-16,Creteil,Wasquehal,2-0,0-0
-2002-01-19,Wasquehal,Le Mans,1-1,0-0
-2002-01-20,St Etienne,Grenoble,1-1,1-1
-2002-01-22,Nice,Nancy,1-0,1-0
-2002-01-23,Ajaccio,St Etienne,1-0,1-0
-2002-01-23,Amiens,Caen,3-2,3-1
-2002-01-23,Gueugnon,Creteil,0-0,0-0
-2002-01-23,Istres,Nimes,0-0,0-0
-2002-01-23,Laval,Beauvais,0-1,0-1
-2002-01-23,Le Havre,Chateauroux,3-1,2-1
-2002-01-23,Martigues,Le Mans,2-2,0-1
-2002-01-23,Strasbourg,Niort,1-0,1-0
-2002-01-23,Wasquehal,Grenoble,1-0,1-0
-2002-01-26,Chateauroux,Gueugnon,1-0,1-0
-2002-01-26,Le Havre,Nimes,3-0,1-0
-2002-01-26,St Etienne,Creteil,1-0,0-0
-2002-01-29,Beauvais,Le Havre,1-1,0-0
-2002-01-30,Caen,Laval,1-2,1-0
-2002-01-30,Chateauroux,Nice,1-0,0-0
-2002-01-30,Creteil,Martigues,2-1,2-0
-2002-01-30,Grenoble,Niort,2-1,0-1
-2002-01-30,Le Mans,Gueugnon,2-3,0-2
-2002-01-30,Nancy,Istres,1-1,0-0
-2002-01-30,St Etienne,Amiens,2-1,1-1
-2002-01-30,Wasquehal,Ajaccio,1-1,1-1
-2002-02-02,Ajaccio,Grenoble,2-0,2-0
-2002-02-02,Amiens,Le Mans,0-4,0-1
-2002-02-02,Gueugnon,St Etienne,1-1,0-0
-2002-02-02,Istres,Chateauroux,2-0,0-0
-2002-02-02,Laval,Nancy,1-0,0-0
-2002-02-02,Le Havre,Creteil,3-1,2-0
-2002-02-02,Martigues,Wasquehal,0-2,0-2
-2002-02-02,Niort,Nimes,0-0,0-0
-2002-02-03,Nice,Caen,2-1,1-1
-2002-02-03,Strasbourg,Beauvais,1-1,1-1
-2002-02-05,Le Mans,Le Havre,2-0,0-0
-2002-02-06,Ajaccio,Amiens,1-1,0-0
-2002-02-06,Beauvais,Niort,0-0,0-0
-2002-02-06,Caen,Istres,1-1,1-1
-2002-02-06,Chateauroux,Laval,1-2,1-2
-2002-02-06,Creteil,Nimes,1-1,1-0
-2002-02-06,Grenoble,Martigues,3-2,0-1
-2002-02-06,Nancy,Strasbourg,2-1,1-1
-2002-02-06,St Etienne,Nice,0-0,0-0
-2002-02-07,Wasquehal,Gueugnon,3-3,1-0
-2002-02-12,Amiens,Wasquehal,2-0,0-0
-2002-02-12,Gueugnon,Grenoble,1-1,0-1
-2002-02-12,Istres,Ajaccio,2-2,2-1
-2002-02-12,Laval,Le Mans,1-2,0-1
-2002-02-12,Le Havre,Caen,2-1,2-0
-2002-02-12,Martigues,Chateauroux,1-0,0-0
-2002-02-12,Nice,Creteil,2-1,0-0
-2002-02-12,Nimes,Beauvais,1-1,1-0
-2002-02-12,Niort,Nancy,0-0,0-0
-2002-02-12,Strasbourg,St Etienne,1-0,1-0
-2002-02-16,Ajaccio,Martigues,1-0,1-0
-2002-02-16,Amiens,Gueugnon,0-0,0-0
-2002-02-16,Caen,Strasbourg,2-1,2-0
-2002-02-16,Chateauroux,Niort,2-1,2-0
-2002-02-16,Creteil,Laval,0-0,0-0
-2002-02-16,Grenoble,Nice,1-2,0-1
-2002-02-16,Le Mans,Istres,2-2,1-1
-2002-02-16,Nancy,Nimes,1-1,1-0
-2002-02-16,Wasquehal,Le Havre,2-2,1-2
-2002-02-17,St Etienne,Beauvais,1-2,0-1
-2002-02-23,Beauvais,Nancy,0-1,0-0
-2002-02-23,Istres,Grenoble,1-1,1-0
-2002-02-23,Laval,Wasquehal,3-0,2-0
-2002-02-23,Le Havre,St Etienne,0-0,0-0
-2002-02-23,Martigues,Amiens,1-1,1-0
-2002-02-23,Nice,Le Mans,3-2,1-1
-2002-02-23,Nimes,Chateauroux,0-1,0-1
-2002-02-23,Niort,Caen,2-0,0-0
-2002-02-23,Strasbourg,Creteil,0-2,0-0
-2002-02-24,Gueugnon,Ajaccio,1-2,0-0
-2002-03-02,Amiens,Chateauroux,0-1,0-0
-2002-03-02,Laval,Strasbourg,3-0,1-0
-2002-03-02,Nancy,Le Havre,1-1,0-0
-2002-03-02,St Etienne,Wasquehal,0-2,0-1
-2002-03-06,Ajaccio,Nice,1-1,0-1
-2002-03-06,Caen,Nimes,1-0,0-0
-2002-03-06,Chateauroux,Nancy,1-1,1-0
-2002-03-06,Creteil,Niort,1-3,1-0
-2002-03-06,Grenoble,Beauvais,0-0,0-0
-2002-03-06,Gueugnon,Martigues,1-2,0-1
-2002-03-06,Le Mans,Strasbourg,1-0,1-0
-2002-03-06,St Etienne,Laval,3-1,0-0
-2002-03-06,Wasquehal,Istres,1-0,1-0
-2002-03-07,Amiens,Le Havre,2-0,0-0
-2002-03-10,Gueugnon,Nancy,1-0,1-0
-2002-03-15,Strasbourg,Ajaccio,0-0,0-0
-2002-03-16,Beauvais,Chateauroux,1-1,1-0
-2002-03-16,Istres,Creteil,0-0,0-0
-2002-03-16,Laval,Amiens,2-2,0-1
-2002-03-16,Le Havre,Gueugnon,2-1,1-0
-2002-03-16,Martigues,St Etienne,1-1,1-0
-2002-03-16,Nancy,Caen,3-3,0-0
-2002-03-16,Nice,Wasquehal,2-1,0-1
-2002-03-16,Nimes,Grenoble,1-1,1-0
-2002-03-16,Niort,Le Mans,1-0,0-0
-2002-03-23,Ajaccio,Laval,2-0,1-0
-2002-03-23,Amiens,Istres,1-2,1-2
-2002-03-23,Caen,Beauvais,3-2,1-2
-2002-03-23,Creteil,Chateauroux,2-2,1-1
-2002-03-23,Grenoble,Nancy,2-3,1-2
-2002-03-23,Gueugnon,Nice,2-0,1-0
-2002-03-23,Le Mans,Nimes,1-0,0-0
-2002-03-23,Martigues,Le Havre,1-3,1-2
-2002-03-23,St Etienne,Niort,1-0,0-0
-2002-03-23,Wasquehal,Strasbourg,1-1,0-1
-2002-03-26,Beauvais,Le Mans,1-1,1-0
-2002-03-26,Chateauroux,Caen,0-2,0-0
-2002-03-26,Istres,Gueugnon,2-0,1-0
-2002-03-26,Laval,Martigues,2-1,0-1
-2002-03-26,Le Havre,Ajaccio,0-1,0-1
-2002-03-26,Nancy,Creteil,0-0,0-0
-2002-03-26,Nice,Amiens,3-0,2-0
-2002-03-26,Nimes,St Etienne,0-0,0-0
-2002-03-26,Niort,Wasquehal,1-0,1-0
-2002-03-26,Strasbourg,Grenoble,1-1,0-1
-2002-03-30,Nancy,Martigues,1-1,1-0
-2002-04-01,Strasbourg,Istres,2-0,1-0
-2002-04-05,Amiens,Strasbourg,0-2,0-1
-2002-04-06,Ajaccio,Niort,1-0,0-0
-2002-04-06,Creteil,Beauvais,1-0,0-0
-2002-04-06,Grenoble,Chateauroux,0-2,0-0
-2002-04-06,Gueugnon,Laval,3-4,2-3
-2002-04-06,Le Havre,Nice,1-1,0-1
-2002-04-06,Le Mans,Nancy,1-0,1-0
-2002-04-06,Martigues,Istres,1-1,1-0
-2002-04-06,St Etienne,Caen,0-1,0-0
-2002-04-06,Wasquehal,Nimes,3-4,2-3
-2002-04-09,Nimes,Strasbourg,1-3,1-1
-2002-04-13,Beauvais,Wasquehal,0-0,0-0
-2002-04-13,Caen,Creteil,3-0,2-0
-2002-04-13,Chateauroux,Le Mans,0-2,0-0
-2002-04-13,Istres,Le Havre,1-3,1-0
-2002-04-13,Laval,Grenoble,1-2,1-2
-2002-04-13,Nancy,St Etienne,0-3,0-1
-2002-04-13,Nice,Martigues,1-0,1-0
-2002-04-13,Niort,Amiens,2-2,1-0
-2002-04-13,Strasbourg,Gueugnon,0-0,0-0
-2002-04-14,Nimes,Ajaccio,0-1,0-0
-2002-04-26,Ajaccio,Beauvais,1-0,1-0
-2002-04-26,Amiens,Nimes,2-1,1-0
-2002-04-26,Grenoble,Creteil,1-2,0-2
-2002-04-26,Gueugnon,Niort,1-2,1-1
-2002-04-26,Le Havre,Laval,4-1,1-1
-2002-04-26,Le Mans,Caen,1-2,1-2
-2002-04-26,Martigues,Strasbourg,0-1,0-0
-2002-04-26,Nice,Istres,3-0,1-0
-2002-04-26,St Etienne,Chateauroux,1-0,1-0
-2002-04-26,Wasquehal,Nancy,0-3,0-1
-2002-05-03,Beauvais,Amiens,1-1,0-0
-2002-05-03,Caen,Grenoble,3-2,2-1
-2002-05-03,Chateauroux,Wasquehal,3-2,0-1
-2002-05-03,Creteil,Le Mans,1-0,0-0
-2002-05-03,Istres,St Etienne,1-0,0-0
-2002-05-03,Laval,Nice,3-4,2-0
-2002-05-03,Nancy,Ajaccio,1-0,1-0
-2002-05-03,Nimes,Gueugnon,3-1,3-0
-2002-05-03,Niort,Martigues,2-1,0-0
-2002-05-03,Strasbourg,Le Havre,1-0,1-0
+Round,Date,Day,Week,Team 1,Team 2,FT,HT
+?,2001-07-28,Sat,30,Ajaccio,Nancy,4-2,1-1
+?,2001-07-28,Sat,30,Amiens,Beauvais,0-1,0-0
+?,2001-07-28,Sat,30,Grenoble,Caen,4-3,1-2
+?,2001-07-28,Sat,30,Gueugnon,Nimes,4-3,3-1
+?,2001-07-28,Sat,30,Le Mans,Creteil,0-1,0-1
+?,2001-07-28,Sat,30,Nice,Laval,2-1,1-1
+?,2001-07-28,Sat,30,St Etienne,Istres,1-2,0-1
+?,2001-07-28,Sat,30,Wasquehal,Chateauroux,0-2,0-1
+?,2001-07-29,Sun,30,Le Havre,Strasbourg,1-1,0-1
+?,2001-07-29,Sun,30,Martigues,Niort,1-1,1-1
+?,2001-08-04,Sat,31,Beauvais,Gueugnon,0-1,0-0
+?,2001-08-04,Sat,31,Caen,Wasquehal,1-0,0-0
+?,2001-08-04,Sat,31,Chateauroux,Ajaccio,0-2,0-1
+?,2001-08-04,Sat,31,Grenoble,Le Mans,1-1,1-0
+?,2001-08-04,Sat,31,Laval,Istres,2-0,0-0
+?,2001-08-04,Sat,31,Nancy,Amiens,1-1,1-1
+?,2001-08-04,Sat,31,Nimes,Martigues,0-0,0-0
+?,2001-08-04,Sat,31,Niort,Le Havre,2-2,0-2
+?,2001-08-04,Sat,31,Strasbourg,Nice,3-0,2-0
+?,2001-08-05,Sun,31,Creteil,St Etienne,1-1,1-0
+?,2001-08-10,Fri,32,Le Havre,Nancy,0-0,0-0
+?,2001-08-11,Sat,32,Ajaccio,Caen,1-1,0-1
+?,2001-08-11,Sat,32,Amiens,Grenoble,3-0,2-0
+?,2001-08-11,Sat,32,Gueugnon,Chateauroux,2-0,1-0
+?,2001-08-11,Sat,32,Istres,Strasbourg,0-1,0-0
+?,2001-08-11,Sat,32,Laval,Niort,1-3,1-2
+?,2001-08-11,Sat,32,Martigues,Beauvais,0-2,0-1
+?,2001-08-11,Sat,32,Nice,Nimes,2-0,1-0
+?,2001-08-11,Sat,32,St Etienne,Le Mans,2-2,0-2
+?,2001-08-11,Sat,32,Wasquehal,Creteil,2-1,1-0
+?,2001-08-17,Fri,33,Grenoble,St Etienne,1-0,0-0
+?,2001-08-18,Sat,33,Beauvais,Nice,1-0,0-0
+?,2001-08-18,Sat,33,Caen,Martigues,1-0,0-0
+?,2001-08-18,Sat,33,Chateauroux,Amiens,2-0,0-0
+?,2001-08-18,Sat,33,Creteil,Ajaccio,0-2,0-0
+?,2001-08-18,Sat,33,Le Mans,Wasquehal,2-2,1-0
+?,2001-08-18,Sat,33,Nancy,Gueugnon,0-1,0-1
+?,2001-08-18,Sat,33,Nimes,Le Havre,0-0,0-0
+?,2001-08-18,Sat,33,Niort,Istres,2-0,0-0
+?,2001-08-18,Sat,33,Strasbourg,Laval,4-1,1-0
+?,2001-08-24,Fri,34,Strasbourg,Chateauroux,2-0,1-0
+?,2001-08-25,Sat,34,Ajaccio,Le Mans,1-0,1-0
+?,2001-08-25,Sat,34,Amiens,Creteil,2-1,1-0
+?,2001-08-25,Sat,34,Gueugnon,Caen,2-2,1-1
+?,2001-08-25,Sat,34,Istres,Beauvais,0-2,0-0
+?,2001-08-25,Sat,34,Laval,Nimes,1-0,1-0
+?,2001-08-25,Sat,34,Le Havre,Grenoble,4-0,1-0
+?,2001-08-25,Sat,34,Martigues,Nancy,0-0,0-0
+?,2001-08-25,Sat,34,Nice,Niort,3-1,1-1
+?,2001-08-25,Sat,34,Wasquehal,St Etienne,1-1,1-1
+?,2001-08-28,Tue,35,St Etienne,Ajaccio,1-0,1-0
+?,2001-08-29,Wed,35,Beauvais,Laval,2-0,0-0
+?,2001-08-29,Wed,35,Caen,Amiens,2-4,2-1
+?,2001-08-29,Wed,35,Chateauroux,Le Havre,4-2,2-1
+?,2001-08-29,Wed,35,Creteil,Gueugnon,3-1,1-0
+?,2001-08-29,Wed,35,Grenoble,Wasquehal,2-1,1-0
+?,2001-08-29,Wed,35,Le Mans,Martigues,1-0,0-0
+?,2001-08-29,Wed,35,Nancy,Nice,1-0,0-0
+?,2001-08-29,Wed,35,Nimes,Istres,0-0,0-0
+?,2001-08-29,Wed,35,Niort,Strasbourg,1-1,0-1
+?,2001-09-07,Fri,36,Gueugnon,Le Mans,1-1,0-0
+?,2001-09-08,Sat,36,Ajaccio,Wasquehal,2-0,1-0
+?,2001-09-08,Sat,36,Amiens,St Etienne,2-1,1-1
+?,2001-09-08,Sat,36,Istres,Nancy,1-0,0-0
+?,2001-09-08,Sat,36,Laval,Caen,0-1,0-0
+?,2001-09-08,Sat,36,Le Havre,Beauvais,0-0,0-0
+?,2001-09-08,Sat,36,Martigues,Creteil,3-1,2-1
+?,2001-09-08,Sat,36,Nice,Chateauroux,1-2,0-0
+?,2001-09-08,Sat,36,Niort,Grenoble,0-0,0-0
+?,2001-09-14,Fri,37,Caen,Nice,1-0,1-0
+?,2001-09-15,Sat,37,Chateauroux,Istres,1-1,1-0
+?,2001-09-15,Sat,37,Creteil,Le Havre,0-0,0-0
+?,2001-09-15,Sat,37,Grenoble,Ajaccio,0-1,0-1
+?,2001-09-15,Sat,37,Le Mans,Amiens,1-1,0-0
+?,2001-09-15,Sat,37,Nancy,Laval,2-1,0-0
+?,2001-09-15,Sat,37,Nimes,Niort,0-0,0-0
+?,2001-09-15,Sat,37,St Etienne,Gueugnon,1-1,0-0
+?,2001-09-16,Sun,37,Beauvais,Strasbourg,1-0,0-0
+?,2001-09-21,Fri,38,Istres,Caen,0-3,0-1
+?,2001-09-22,Sat,38,Amiens,Ajaccio,1-1,1-1
+?,2001-09-22,Sat,38,Gueugnon,Wasquehal,1-2,0-0
+?,2001-09-22,Sat,38,Laval,Chateauroux,2-1,1-1
+?,2001-09-22,Sat,38,Le Havre,Le Mans,3-0,3-0
+?,2001-09-22,Sat,38,Martigues,Grenoble,0-1,0-1
+?,2001-09-22,Sat,38,Nice,St Etienne,1-1,0-1
+?,2001-09-22,Sat,38,Nimes,Creteil,1-1,0-0
+?,2001-09-23,Sun,38,Niort,Beauvais,0-0,0-0
+?,2001-09-23,Sun,38,Strasbourg,Nancy,2-2,1-2
+?,2001-09-28,Fri,39,Le Mans,Laval,0-3,0-1
+?,2001-09-29,Sat,39,Ajaccio,Istres,1-1,0-0
+?,2001-09-29,Sat,39,Beauvais,Nimes,1-3,1-2
+?,2001-09-29,Sat,39,Caen,Le Havre,0-0,0-0
+?,2001-09-29,Sat,39,Chateauroux,Martigues,2-3,2-2
+?,2001-09-29,Sat,39,Creteil,Nice,0-2,0-1
+?,2001-09-29,Sat,39,Grenoble,Gueugnon,0-0,0-0
+?,2001-09-29,Sat,39,Nancy,Niort,2-0,0-0
+?,2001-09-29,Sat,39,Wasquehal,Amiens,0-0,0-0
+?,2001-09-30,Sun,39,St Etienne,Strasbourg,1-1,0-1
+?,2001-10-04,Thu,40,Nimes,Nancy,2-2,0-0
+?,2001-10-05,Fri,40,Beauvais,St Etienne,3-0,1-0
+?,2001-10-05,Fri,40,Gueugnon,Amiens,2-1,0-0
+?,2001-10-05,Fri,40,Istres,Le Mans,0-1,0-1
+?,2001-10-05,Fri,40,Laval,Creteil,2-1,1-0
+?,2001-10-05,Fri,40,Le Havre,Wasquehal,1-0,0-0
+?,2001-10-05,Fri,40,Martigues,Ajaccio,0-1,0-1
+?,2001-10-05,Fri,40,Nice,Grenoble,4-1,1-0
+?,2001-10-05,Fri,40,Niort,Chateauroux,1-2,1-1
+?,2001-10-05,Fri,40,Strasbourg,Caen,3-1,2-1
+?,2001-10-12,Fri,41,Ajaccio,Gueugnon,1-1,0-0
+?,2001-10-12,Fri,41,Grenoble,Istres,0-5,0-2
+?,2001-10-12,Fri,41,Le Mans,Nice,1-0,0-0
+?,2001-10-12,Fri,41,Wasquehal,Laval,0-2,0-0
+?,2001-10-13,Sat,41,Amiens,Martigues,4-0,1-0
+?,2001-10-13,Sat,41,Caen,Niort,2-1,0-0
+?,2001-10-13,Sat,41,Chateauroux,Nimes,0-0,0-0
+?,2001-10-13,Sat,41,Creteil,Strasbourg,0-0,0-0
+?,2001-10-13,Sat,41,Nancy,Beauvais,2-2,1-0
+?,2001-10-13,Sat,41,St Etienne,Le Havre,0-1,0-1
+?,2001-10-19,Fri,42,Istres,Wasquehal,2-1,0-0
+?,2001-10-19,Fri,42,Strasbourg,Le Mans,2-0,1-0
+?,2001-10-20,Sat,42,Beauvais,Grenoble,1-0,0-0
+?,2001-10-20,Sat,42,Laval,St Etienne,1-1,0-0
+?,2001-10-20,Sat,42,Le Havre,Amiens,2-1,0-0
+?,2001-10-20,Sat,42,Martigues,Gueugnon,2-0,0-0
+?,2001-10-20,Sat,42,Nancy,Chateauroux,2-0,0-0
+?,2001-10-20,Sat,42,Nice,Ajaccio,3-1,2-0
+?,2001-10-20,Sat,42,Nimes,Caen,2-2,0-1
+?,2001-10-20,Sat,42,Niort,Creteil,1-1,1-0
+?,2001-10-24,Wed,43,Wasquehal,Martigues,2-1,2-1
+?,2001-10-26,Fri,43,Grenoble,Nimes,1-1,0-0
+?,2001-10-27,Sat,43,Ajaccio,Strasbourg,2-1,1-0
+?,2001-10-27,Sat,43,Amiens,Laval,1-1,0-0
+?,2001-10-27,Sat,43,Chateauroux,Beauvais,0-0,0-0
+?,2001-10-27,Sat,43,Creteil,Istres,1-1,1-0
+?,2001-10-27,Sat,43,Gueugnon,Le Havre,1-1,0-1
+?,2001-10-27,Sat,43,Le Mans,Niort,3-1,1-0
+?,2001-10-27,Sat,43,St Etienne,Martigues,1-0,0-0
+?,2001-10-28,Sun,43,Caen,Nancy,1-0,0-0
+?,2001-10-28,Sun,43,Wasquehal,Nice,1-1,1-1
+?,2001-10-31,Wed,44,Strasbourg,Nimes,1-0,0-0
+?,2001-11-08,Thu,45,Beauvais,Caen,1-1,0-0
+?,2001-11-09,Fri,45,Chateauroux,Creteil,1-0,1-0
+?,2001-11-09,Fri,45,Istres,Amiens,1-2,0-0
+?,2001-11-09,Fri,45,Laval,Ajaccio,2-1,0-0
+?,2001-11-09,Fri,45,Le Havre,Martigues,5-0,2-0
+?,2001-11-09,Fri,45,Nancy,Grenoble,1-0,0-0
+?,2001-11-09,Fri,45,Nice,Gueugnon,3-0,2-0
+?,2001-11-09,Fri,45,Nimes,Le Mans,1-0,0-0
+?,2001-11-09,Fri,45,Niort,St Etienne,0-2,0-1
+?,2001-11-09,Fri,45,Strasbourg,Wasquehal,1-0,1-0
+?,2001-11-13,Tue,46,Ajaccio,Le Havre,3-0,1-0
+?,2001-11-13,Tue,46,Caen,Chateauroux,1-1,0-0
+?,2001-11-13,Tue,46,Creteil,Nancy,1-3,1-3
+?,2001-11-13,Tue,46,Grenoble,Strasbourg,0-3,0-2
+?,2001-11-13,Tue,46,Gueugnon,Istres,1-1,0-1
+?,2001-11-13,Tue,46,Le Mans,Beauvais,2-2,0-0
+?,2001-11-13,Tue,46,Martigues,Laval,0-0,0-0
+?,2001-11-13,Tue,46,St Etienne,Nimes,1-0,0-0
+?,2001-11-13,Tue,46,Wasquehal,Niort,2-3,1-2
+?,2001-11-14,Wed,46,Amiens,Nice,2-0,0-0
+?,2001-11-17,Sat,46,Beauvais,Creteil,2-0,0-0
+?,2001-11-17,Sat,46,Caen,St Etienne,2-4,1-1
+?,2001-11-17,Sat,46,Chateauroux,Grenoble,0-0,0-0
+?,2001-11-17,Sat,46,Istres,Martigues,0-0,0-0
+?,2001-11-17,Sat,46,Nancy,Le Mans,0-1,0-1
+?,2001-11-17,Sat,46,Nice,Le Havre,0-1,0-0
+?,2001-11-17,Sat,46,Nimes,Wasquehal,2-3,2-2
+?,2001-11-17,Sat,46,Niort,Ajaccio,0-0,0-0
+?,2001-11-17,Sat,46,Strasbourg,Amiens,1-0,0-0
+?,2001-11-18,Sun,46,Laval,Gueugnon,0-1,0-0
+?,2001-11-27,Tue,48,Gueugnon,Strasbourg,0-0,0-0
+?,2001-11-28,Wed,48,Ajaccio,Nimes,3-1,2-0
+?,2001-11-28,Wed,48,Amiens,Niort,0-2,0-0
+?,2001-11-28,Wed,48,Creteil,Caen,4-2,0-1
+?,2001-11-28,Wed,48,Grenoble,Laval,3-0,2-0
+?,2001-11-28,Wed,48,Le Havre,Istres,2-0,0-0
+?,2001-11-28,Wed,48,Le Mans,Chateauroux,1-0,0-0
+?,2001-11-28,Wed,48,Martigues,Nice,3-3,2-2
+?,2001-11-28,Wed,48,St Etienne,Nancy,1-3,1-2
+?,2001-11-28,Wed,48,Wasquehal,Beauvais,3-2,0-0
+?,2001-12-07,Fri,49,Beauvais,Ajaccio,0-0,0-0
+?,2001-12-08,Sat,49,Caen,Le Mans,2-0,1-0
+?,2001-12-08,Sat,49,Chateauroux,St Etienne,4-0,2-0
+?,2001-12-08,Sat,49,Creteil,Grenoble,1-1,1-0
+?,2001-12-08,Sat,49,Istres,Nice,0-1,0-1
+?,2001-12-08,Sat,49,Laval,Le Havre,1-1,1-0
+?,2001-12-08,Sat,49,Nancy,Wasquehal,0-1,0-0
+?,2001-12-08,Sat,49,Nimes,Amiens,1-1,0-1
+?,2001-12-08,Sat,49,Niort,Gueugnon,1-1,1-0
+?,2001-12-08,Sat,49,Strasbourg,Martigues,1-0,0-0
+?,2001-12-19,Wed,51,Ajaccio,Chateauroux,0-1,0-0
+?,2001-12-19,Wed,51,Amiens,Nancy,1-1,0-0
+?,2001-12-19,Wed,51,Gueugnon,Beauvais,0-0,0-0
+?,2001-12-19,Wed,51,Istres,Laval,2-2,0-1
+?,2001-12-19,Wed,51,Le Havre,Niort,2-0,2-0
+?,2001-12-19,Wed,51,Le Mans,Grenoble,2-0,0-0
+?,2001-12-19,Wed,51,Martigues,Nimes,2-0,0-0
+?,2001-12-19,Wed,51,Nice,Strasbourg,2-1,1-1
+?,2001-12-19,Wed,51,Wasquehal,Caen,2-0,0-0
+?,2001-12-22,Sat,51,Beauvais,Martigues,2-0,2-0
+?,2001-12-22,Sat,51,Caen,Ajaccio,1-1,0-0
+?,2001-12-22,Sat,51,Grenoble,Amiens,4-0,1-0
+?,2001-12-22,Sat,51,Le Mans,St Etienne,3-0,1-0
+?,2001-12-22,Sat,51,Nimes,Nice,0-3,0-2
+?,2001-12-22,Sat,51,Niort,Laval,1-1,1-1
+?,2002-01-05,Sat,0,Ajaccio,Creteil,1-0,0-0
+?,2002-01-05,Sat,0,Istres,Niort,1-1,0-1
+?,2002-01-05,Sat,0,Martigues,Caen,2-1,1-1
+?,2002-01-05,Sat,0,Nice,Beauvais,0-1,0-1
+?,2002-01-12,Sat,1,Beauvais,Istres,0-0,0-0
+?,2002-01-12,Sat,1,Caen,Gueugnon,2-2,2-2
+?,2002-01-12,Sat,1,Creteil,Amiens,1-1,0-1
+?,2002-01-12,Sat,1,Grenoble,Le Havre,1-0,1-0
+?,2002-01-12,Sat,1,Le Mans,Ajaccio,2-1,1-1
+?,2002-01-12,Sat,1,Nimes,Laval,3-0,1-0
+?,2002-01-12,Sat,1,Niort,Nice,3-0,2-0
+?,2002-01-13,Sun,1,Chateauroux,Strasbourg,1-2,0-0
+?,2002-01-16,Wed,2,Creteil,Wasquehal,2-0,0-0
+?,2002-01-19,Sat,2,Wasquehal,Le Mans,1-1,0-0
+?,2002-01-20,Sun,2,St Etienne,Grenoble,1-1,1-1
+?,2002-01-22,Tue,3,Nice,Nancy,1-0,1-0
+?,2002-01-23,Wed,3,Ajaccio,St Etienne,1-0,1-0
+?,2002-01-23,Wed,3,Amiens,Caen,3-2,3-1
+?,2002-01-23,Wed,3,Gueugnon,Creteil,0-0,0-0
+?,2002-01-23,Wed,3,Istres,Nimes,0-0,0-0
+?,2002-01-23,Wed,3,Laval,Beauvais,0-1,0-1
+?,2002-01-23,Wed,3,Le Havre,Chateauroux,3-1,2-1
+?,2002-01-23,Wed,3,Martigues,Le Mans,2-2,0-1
+?,2002-01-23,Wed,3,Strasbourg,Niort,1-0,1-0
+?,2002-01-23,Wed,3,Wasquehal,Grenoble,1-0,1-0
+?,2002-01-26,Sat,3,Chateauroux,Gueugnon,1-0,1-0
+?,2002-01-26,Sat,3,Le Havre,Nimes,3-0,1-0
+?,2002-01-26,Sat,3,St Etienne,Creteil,1-0,0-0
+?,2002-01-29,Tue,4,Beauvais,Le Havre,1-1,0-0
+?,2002-01-30,Wed,4,Caen,Laval,1-2,1-0
+?,2002-01-30,Wed,4,Chateauroux,Nice,1-0,0-0
+?,2002-01-30,Wed,4,Creteil,Martigues,2-1,2-0
+?,2002-01-30,Wed,4,Grenoble,Niort,2-1,0-1
+?,2002-01-30,Wed,4,Le Mans,Gueugnon,2-3,0-2
+?,2002-01-30,Wed,4,Nancy,Istres,1-1,0-0
+?,2002-01-30,Wed,4,St Etienne,Amiens,2-1,1-1
+?,2002-01-30,Wed,4,Wasquehal,Ajaccio,1-1,1-1
+?,2002-02-02,Sat,4,Ajaccio,Grenoble,2-0,2-0
+?,2002-02-02,Sat,4,Amiens,Le Mans,0-4,0-1
+?,2002-02-02,Sat,4,Gueugnon,St Etienne,1-1,0-0
+?,2002-02-02,Sat,4,Istres,Chateauroux,2-0,0-0
+?,2002-02-02,Sat,4,Laval,Nancy,1-0,0-0
+?,2002-02-02,Sat,4,Le Havre,Creteil,3-1,2-0
+?,2002-02-02,Sat,4,Martigues,Wasquehal,0-2,0-2
+?,2002-02-02,Sat,4,Niort,Nimes,0-0,0-0
+?,2002-02-03,Sun,4,Nice,Caen,2-1,1-1
+?,2002-02-03,Sun,4,Strasbourg,Beauvais,1-1,1-1
+?,2002-02-05,Tue,5,Le Mans,Le Havre,2-0,0-0
+?,2002-02-06,Wed,5,Ajaccio,Amiens,1-1,0-0
+?,2002-02-06,Wed,5,Beauvais,Niort,0-0,0-0
+?,2002-02-06,Wed,5,Caen,Istres,1-1,1-1
+?,2002-02-06,Wed,5,Chateauroux,Laval,1-2,1-2
+?,2002-02-06,Wed,5,Creteil,Nimes,1-1,1-0
+?,2002-02-06,Wed,5,Grenoble,Martigues,3-2,0-1
+?,2002-02-06,Wed,5,Nancy,Strasbourg,2-1,1-1
+?,2002-02-06,Wed,5,St Etienne,Nice,0-0,0-0
+?,2002-02-07,Thu,5,Wasquehal,Gueugnon,3-3,1-0
+?,2002-02-12,Tue,6,Amiens,Wasquehal,2-0,0-0
+?,2002-02-12,Tue,6,Gueugnon,Grenoble,1-1,0-1
+?,2002-02-12,Tue,6,Istres,Ajaccio,2-2,2-1
+?,2002-02-12,Tue,6,Laval,Le Mans,1-2,0-1
+?,2002-02-12,Tue,6,Le Havre,Caen,2-1,2-0
+?,2002-02-12,Tue,6,Martigues,Chateauroux,1-0,0-0
+?,2002-02-12,Tue,6,Nice,Creteil,2-1,0-0
+?,2002-02-12,Tue,6,Nimes,Beauvais,1-1,1-0
+?,2002-02-12,Tue,6,Niort,Nancy,0-0,0-0
+?,2002-02-12,Tue,6,Strasbourg,St Etienne,1-0,1-0
+?,2002-02-16,Sat,6,Ajaccio,Martigues,1-0,1-0
+?,2002-02-16,Sat,6,Amiens,Gueugnon,0-0,0-0
+?,2002-02-16,Sat,6,Caen,Strasbourg,2-1,2-0
+?,2002-02-16,Sat,6,Chateauroux,Niort,2-1,2-0
+?,2002-02-16,Sat,6,Creteil,Laval,0-0,0-0
+?,2002-02-16,Sat,6,Grenoble,Nice,1-2,0-1
+?,2002-02-16,Sat,6,Le Mans,Istres,2-2,1-1
+?,2002-02-16,Sat,6,Nancy,Nimes,1-1,1-0
+?,2002-02-16,Sat,6,Wasquehal,Le Havre,2-2,1-2
+?,2002-02-17,Sun,6,St Etienne,Beauvais,1-2,0-1
+?,2002-02-23,Sat,7,Beauvais,Nancy,0-1,0-0
+?,2002-02-23,Sat,7,Istres,Grenoble,1-1,1-0
+?,2002-02-23,Sat,7,Laval,Wasquehal,3-0,2-0
+?,2002-02-23,Sat,7,Le Havre,St Etienne,0-0,0-0
+?,2002-02-23,Sat,7,Martigues,Amiens,1-1,1-0
+?,2002-02-23,Sat,7,Nice,Le Mans,3-2,1-1
+?,2002-02-23,Sat,7,Nimes,Chateauroux,0-1,0-1
+?,2002-02-23,Sat,7,Niort,Caen,2-0,0-0
+?,2002-02-23,Sat,7,Strasbourg,Creteil,0-2,0-0
+?,2002-02-24,Sun,7,Gueugnon,Ajaccio,1-2,0-0
+?,2002-03-02,Sat,8,Amiens,Chateauroux,0-1,0-0
+?,2002-03-02,Sat,8,Laval,Strasbourg,3-0,1-0
+?,2002-03-02,Sat,8,Nancy,Le Havre,1-1,0-0
+?,2002-03-02,Sat,8,St Etienne,Wasquehal,0-2,0-1
+?,2002-03-06,Wed,9,Ajaccio,Nice,1-1,0-1
+?,2002-03-06,Wed,9,Caen,Nimes,1-0,0-0
+?,2002-03-06,Wed,9,Chateauroux,Nancy,1-1,1-0
+?,2002-03-06,Wed,9,Creteil,Niort,1-3,1-0
+?,2002-03-06,Wed,9,Grenoble,Beauvais,0-0,0-0
+?,2002-03-06,Wed,9,Gueugnon,Martigues,1-2,0-1
+?,2002-03-06,Wed,9,Le Mans,Strasbourg,1-0,1-0
+?,2002-03-06,Wed,9,St Etienne,Laval,3-1,0-0
+?,2002-03-06,Wed,9,Wasquehal,Istres,1-0,1-0
+?,2002-03-07,Thu,9,Amiens,Le Havre,2-0,0-0
+?,2002-03-10,Sun,9,Gueugnon,Nancy,1-0,1-0
+?,2002-03-15,Fri,10,Strasbourg,Ajaccio,0-0,0-0
+?,2002-03-16,Sat,10,Beauvais,Chateauroux,1-1,1-0
+?,2002-03-16,Sat,10,Istres,Creteil,0-0,0-0
+?,2002-03-16,Sat,10,Laval,Amiens,2-2,0-1
+?,2002-03-16,Sat,10,Le Havre,Gueugnon,2-1,1-0
+?,2002-03-16,Sat,10,Martigues,St Etienne,1-1,1-0
+?,2002-03-16,Sat,10,Nancy,Caen,3-3,0-0
+?,2002-03-16,Sat,10,Nice,Wasquehal,2-1,0-1
+?,2002-03-16,Sat,10,Nimes,Grenoble,1-1,1-0
+?,2002-03-16,Sat,10,Niort,Le Mans,1-0,0-0
+?,2002-03-23,Sat,11,Ajaccio,Laval,2-0,1-0
+?,2002-03-23,Sat,11,Amiens,Istres,1-2,1-2
+?,2002-03-23,Sat,11,Caen,Beauvais,3-2,1-2
+?,2002-03-23,Sat,11,Creteil,Chateauroux,2-2,1-1
+?,2002-03-23,Sat,11,Grenoble,Nancy,2-3,1-2
+?,2002-03-23,Sat,11,Gueugnon,Nice,2-0,1-0
+?,2002-03-23,Sat,11,Le Mans,Nimes,1-0,0-0
+?,2002-03-23,Sat,11,Martigues,Le Havre,1-3,1-2
+?,2002-03-23,Sat,11,St Etienne,Niort,1-0,0-0
+?,2002-03-23,Sat,11,Wasquehal,Strasbourg,1-1,0-1
+?,2002-03-26,Tue,12,Beauvais,Le Mans,1-1,1-0
+?,2002-03-26,Tue,12,Chateauroux,Caen,0-2,0-0
+?,2002-03-26,Tue,12,Istres,Gueugnon,2-0,1-0
+?,2002-03-26,Tue,12,Laval,Martigues,2-1,0-1
+?,2002-03-26,Tue,12,Le Havre,Ajaccio,0-1,0-1
+?,2002-03-26,Tue,12,Nancy,Creteil,0-0,0-0
+?,2002-03-26,Tue,12,Nice,Amiens,3-0,2-0
+?,2002-03-26,Tue,12,Nimes,St Etienne,0-0,0-0
+?,2002-03-26,Tue,12,Niort,Wasquehal,1-0,1-0
+?,2002-03-26,Tue,12,Strasbourg,Grenoble,1-1,0-1
+?,2002-03-30,Sat,12,Nancy,Martigues,1-1,1-0
+?,2002-04-01,Mon,13,Strasbourg,Istres,2-0,1-0
+?,2002-04-05,Fri,13,Amiens,Strasbourg,0-2,0-1
+?,2002-04-06,Sat,13,Ajaccio,Niort,1-0,0-0
+?,2002-04-06,Sat,13,Creteil,Beauvais,1-0,0-0
+?,2002-04-06,Sat,13,Grenoble,Chateauroux,0-2,0-0
+?,2002-04-06,Sat,13,Gueugnon,Laval,3-4,2-3
+?,2002-04-06,Sat,13,Le Havre,Nice,1-1,0-1
+?,2002-04-06,Sat,13,Le Mans,Nancy,1-0,1-0
+?,2002-04-06,Sat,13,Martigues,Istres,1-1,1-0
+?,2002-04-06,Sat,13,St Etienne,Caen,0-1,0-0
+?,2002-04-06,Sat,13,Wasquehal,Nimes,3-4,2-3
+?,2002-04-09,Tue,14,Nimes,Strasbourg,1-3,1-1
+?,2002-04-13,Sat,14,Beauvais,Wasquehal,0-0,0-0
+?,2002-04-13,Sat,14,Caen,Creteil,3-0,2-0
+?,2002-04-13,Sat,14,Chateauroux,Le Mans,0-2,0-0
+?,2002-04-13,Sat,14,Istres,Le Havre,1-3,1-0
+?,2002-04-13,Sat,14,Laval,Grenoble,1-2,1-2
+?,2002-04-13,Sat,14,Nancy,St Etienne,0-3,0-1
+?,2002-04-13,Sat,14,Nice,Martigues,1-0,1-0
+?,2002-04-13,Sat,14,Niort,Amiens,2-2,1-0
+?,2002-04-13,Sat,14,Strasbourg,Gueugnon,0-0,0-0
+?,2002-04-14,Sun,14,Nimes,Ajaccio,0-1,0-0
+?,2002-04-26,Fri,16,Ajaccio,Beauvais,1-0,1-0
+?,2002-04-26,Fri,16,Amiens,Nimes,2-1,1-0
+?,2002-04-26,Fri,16,Grenoble,Creteil,1-2,0-2
+?,2002-04-26,Fri,16,Gueugnon,Niort,1-2,1-1
+?,2002-04-26,Fri,16,Le Havre,Laval,4-1,1-1
+?,2002-04-26,Fri,16,Le Mans,Caen,1-2,1-2
+?,2002-04-26,Fri,16,Martigues,Strasbourg,0-1,0-0
+?,2002-04-26,Fri,16,Nice,Istres,3-0,1-0
+?,2002-04-26,Fri,16,St Etienne,Chateauroux,1-0,1-0
+?,2002-04-26,Fri,16,Wasquehal,Nancy,0-3,0-1
+?,2002-05-03,Fri,17,Beauvais,Amiens,1-1,0-0
+?,2002-05-03,Fri,17,Caen,Grenoble,3-2,2-1
+?,2002-05-03,Fri,17,Chateauroux,Wasquehal,3-2,0-1
+?,2002-05-03,Fri,17,Creteil,Le Mans,1-0,0-0
+?,2002-05-03,Fri,17,Istres,St Etienne,1-0,0-0
+?,2002-05-03,Fri,17,Laval,Nice,3-4,2-0
+?,2002-05-03,Fri,17,Nancy,Ajaccio,1-0,1-0
+?,2002-05-03,Fri,17,Nimes,Gueugnon,3-1,3-0
+?,2002-05-03,Fri,17,Niort,Martigues,2-1,0-0
+?,2002-05-03,Fri,17,Strasbourg,Le Havre,1-0,1-0
