@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,2007-08-04,Bordeaux,Lens,1-0,1-0,Sat,31
-?,2007-08-04,Caen,Nice,1-0,0-0,Sat,31
-?,2007-08-04,Lille,Lorient,0-0,0-0,Sat,31
-?,2007-08-04,Monaco,St Etienne,1-1,1-0,Sat,31
-?,2007-08-04,Paris SG,Sochaux,0-0,0-0,Sat,31
-?,2007-08-04,Rennes,Nancy,0-2,0-2,Sat,31
-?,2007-08-04,Strasbourg,Marseille,0-0,0-0,Sat,31
-?,2007-08-04,Valenciennes,Toulouse,3-1,2-1,Sat,31
-?,2007-08-05,Le Mans,Metz,1-0,1-0,Sun,31
-?,2007-08-05,Lyon,Auxerre,2-0,1-0,Sun,31
-?,2007-08-11,Auxerre,Bordeaux,0-2,0-1,Sat,32
-?,2007-08-11,Lorient,Monaco,2-1,2-0,Sat,32
-?,2007-08-11,Marseille,Rennes,0-0,0-0,Sat,32
-?,2007-08-11,Nancy,Caen,1-0,1-0,Sat,32
-?,2007-08-11,Nice,Strasbourg,1-0,0-0,Sat,32
-?,2007-08-11,Sochaux,Le Mans,1-3,1-1,Sat,32
-?,2007-08-11,St Etienne,Valenciennes,3-1,1-0,Sat,32
-?,2007-08-11,Toulouse,Lyon,1-0,0-0,Sat,32
-?,2007-08-12,Lens,Paris SG,0-0,0-0,Sun,32
-?,2007-08-12,Metz,Lille,1-2,0-1,Sun,32
-?,2007-08-15,Bordeaux,Le Mans,1-2,1-0,Wed,33
-?,2007-08-15,Lille,Sochaux,1-1,1-1,Wed,33
-?,2007-08-15,Monaco,Metz,2-0,1-0,Wed,33
-?,2007-08-15,Paris SG,Lorient,1-3,1-0,Wed,33
-?,2007-08-15,Rennes,St Etienne,1-0,1-0,Wed,33
-?,2007-08-15,Strasbourg,Auxerre,3-0,1-0,Wed,33
-?,2007-08-15,Valenciennes,Marseille,2-1,0-0,Wed,33
-?,2007-08-16,Nancy,Nice,2-1,0-0,Thu,33
-?,2007-08-18,Auxerre,Caen,1-0,1-0,Sat,33
-?,2007-08-18,Le Mans,Lille,1-1,0-1,Sat,33
-?,2007-08-18,Lorient,Lyon,2-1,1-1,Sat,33
-?,2007-08-18,Metz,Paris SG,0-0,0-0,Sat,33
-?,2007-08-18,Sochaux,Monaco,0-3,0-1,Sat,33
-?,2007-08-18,St Etienne,Bordeaux,0-0,0-0,Sat,33
-?,2007-08-18,Toulouse,Strasbourg,1-3,1-1,Sat,33
-?,2007-08-19,Lens,Valenciennes,0-0,0-0,Sun,33
-?,2007-08-19,Marseille,Nancy,2-2,1-0,Sun,33
-?,2007-08-19,Nice,Rennes,1-1,1-0,Sun,33
-?,2007-08-25,Bordeaux,Lorient,2-2,1-1,Sat,34
-?,2007-08-25,Caen,Marseille,1-2,0-1,Sat,34
-?,2007-08-25,Monaco,Le Mans,3-1,0-1,Sat,34
-?,2007-08-25,Nancy,Auxerre,4-1,2-0,Sat,34
-?,2007-08-25,Nice,Toulouse,1-1,1-0,Sat,34
-?,2007-08-25,Rennes,Metz,2-0,1-0,Sat,34
-?,2007-08-25,Strasbourg,Lens,2-1,0-0,Sat,34
-?,2007-08-25,Valenciennes,Sochaux,3-1,2-1,Sat,34
-?,2007-08-26,Lyon,St Etienne,1-0,0-0,Sun,34
-?,2007-08-26,Paris SG,Lille,1-1,0-1,Sun,34
-?,2007-08-28,Lorient,Valenciennes,1-3,1-2,Tue,35
-?,2007-08-29,Auxerre,Rennes,0-2,0-2,Wed,35
-?,2007-08-29,Le Mans,Paris SG,0-2,0-1,Wed,35
-?,2007-08-29,Lille,Monaco,0-1,0-1,Wed,35
-?,2007-08-29,Marseille,Nice,0-2,0-0,Wed,35
-?,2007-08-29,Metz,Bordeaux,0-1,0-0,Wed,35
-?,2007-08-29,Sochaux,Lyon,1-2,1-1,Wed,35
-?,2007-08-29,St Etienne,Strasbourg,2-0,1-0,Wed,35
-?,2007-09-01,Bordeaux,Monaco,2-1,0-0,Sat,35
-?,2007-09-01,Caen,Sochaux,2-2,1-0,Sat,35
-?,2007-09-01,Lyon,Le Mans,3-2,0-1,Sat,35
-?,2007-09-01,Nancy,St Etienne,2-0,1-0,Sat,35
-?,2007-09-01,Rennes,Lille,2-2,0-1,Sat,35
-?,2007-09-01,Strasbourg,Lorient,0-0,0-0,Sat,35
-?,2007-09-01,Toulouse,Auxerre,2-0,0-0,Sat,35
-?,2007-09-01,Valenciennes,Metz,0-0,0-0,Sat,35
-?,2007-09-02,Nice,Lens,1-0,0-0,Sun,35
-?,2007-09-02,Paris SG,Marseille,1-1,1-1,Sun,35
-?,2007-09-15,Auxerre,Nice,2-0,1-0,Sat,37
-?,2007-09-15,Le Mans,Valenciennes,2-0,1-0,Sat,37
-?,2007-09-15,Lens,Nancy,1-0,0-0,Sat,37
-?,2007-09-15,Lille,Bordeaux,1-1,1-1,Sat,37
-?,2007-09-15,Marseille,Toulouse,1-2,0-2,Sat,37
-?,2007-09-15,Metz,Lyon,1-5,0-3,Sat,37
-?,2007-09-15,Sochaux,Strasbourg,0-0,0-0,Sat,37
-?,2007-09-15,St Etienne,Caen,3-0,2-0,Sat,37
-?,2007-09-16,Lorient,Rennes,0-1,0-1,Sun,37
-?,2007-09-16,Monaco,Paris SG,1-2,0-1,Sun,37
-?,2007-09-22,Auxerre,Marseille,2-0,2-0,Sat,38
-?,2007-09-22,Caen,Metz,1-2,1-1,Sat,38
-?,2007-09-22,Nancy,Lorient,2-0,0-0,Sat,38
-?,2007-09-22,Nice,St Etienne,3-0,2-0,Sat,38
-?,2007-09-22,Strasbourg,Le Mans,0-1,0-1,Sat,38
-?,2007-09-22,Toulouse,Lens,1-1,1-1,Sat,38
-?,2007-09-22,Valenciennes,Monaco,1-0,1-0,Sat,38
-?,2007-09-23,Lyon,Lille,1-1,0-1,Sun,38
-?,2007-09-23,Paris SG,Bordeaux,0-2,0-1,Sun,38
-?,2007-09-23,Rennes,Sochaux,0-2,0-1,Sun,38
-?,2007-09-29,Lyon,Lens,3-0,1-0,Sat,39
-?,2007-09-30,Caen,Toulouse,2-1,1-0,Sun,39
-?,2007-10-05,Monaco,Nancy,1-3,0-2,Fri,40
-?,2007-10-06,Le Mans,Nice,2-0,1-0,Sat,40
-?,2007-10-06,Lens,Auxerre,2-0,1-0,Sat,40
-?,2007-10-06,Lille,Valenciennes,3-0,2-0,Sat,40
-?,2007-10-06,Lorient,Caen,0-0,0-0,Sat,40
-?,2007-10-06,Metz,Strasbourg,1-2,0-1,Sat,40
-?,2007-10-06,Paris SG,Rennes,1-3,0-1,Sat,40
-?,2007-10-06,St Etienne,Marseille,1-0,0-0,Sat,40
-?,2007-10-07,Bordeaux,Lyon,1-3,0-2,Sun,40
-?,2007-10-07,Sochaux,Toulouse,0-1,0-0,Sun,40
-?,2007-10-20,Auxerre,Lorient,5-3,0-1,Sat,42
-?,2007-10-20,Caen,Lille,1-0,0-0,Sat,42
-?,2007-10-20,Lyon,Monaco,3-1,2-1,Sat,42
-?,2007-10-20,Nice,Metz,3-1,1-0,Sat,42
-?,2007-10-20,Rennes,Le Mans,3-0,1-0,Sat,42
-?,2007-10-20,Strasbourg,Bordeaux,1-1,1-0,Sat,42
-?,2007-10-20,Toulouse,St Etienne,0-2,0-2,Sat,42
-?,2007-10-20,Valenciennes,Paris SG,0-0,0-0,Sat,42
-?,2007-10-21,Marseille,Lens,1-0,0-0,Sun,42
-?,2007-10-21,Nancy,Sochaux,1-1,1-0,Sun,42
-?,2007-10-27,Bordeaux,Valenciennes,2-1,2-1,Sat,43
-?,2007-10-27,Lille,Strasbourg,0-3,0-2,Sat,43
-?,2007-10-27,Lorient,Nice,0-0,0-0,Sat,43
-?,2007-10-27,Metz,Nancy,0-0,0-0,Sat,43
-?,2007-10-27,Monaco,Caen,0-0,0-0,Sat,43
-?,2007-10-27,Sochaux,Marseille,2-1,1-1,Sat,43
-?,2007-10-27,St Etienne,Auxerre,0-0,0-0,Sat,43
-?,2007-10-28,Le Mans,Toulouse,1-1,0-0,Sun,43
-?,2007-10-28,Lens,Rennes,1-2,0-0,Sun,43
-?,2007-10-28,Paris SG,Lyon,2-3,0-2,Sun,43
-?,2007-11-03,Auxerre,Lille,0-1,0-0,Sat,44
-?,2007-11-03,Lyon,Valenciennes,2-0,1-0,Sat,44
-?,2007-11-03,Marseille,Lorient,0-0,0-0,Sat,44
-?,2007-11-03,Nancy,Bordeaux,1-0,1-0,Sat,44
-?,2007-11-03,Nice,Sochaux,0-0,0-0,Sat,44
-?,2007-11-03,Rennes,Monaco,0-1,0-0,Sat,44
-?,2007-11-03,Strasbourg,Paris SG,1-2,0-2,Sat,44
-?,2007-11-04,Caen,Le Mans,3-2,1-0,Sun,44
-?,2007-11-04,Lens,St Etienne,3-2,0-2,Sun,44
-?,2007-11-04,Toulouse,Metz,0-0,0-0,Sun,44
-?,2007-11-10,Le Mans,St Etienne,3-2,2-2,Sat,45
-?,2007-11-10,Lille,Nice,1-1,1-1,Sat,45
-?,2007-11-10,Metz,Lens,1-2,0-0,Sat,45
-?,2007-11-10,Monaco,Strasbourg,3-0,1-0,Sat,45
-?,2007-11-10,Paris SG,Nancy,0-0,0-0,Sat,45
-?,2007-11-10,Sochaux,Auxerre,1-1,0-1,Sat,45
-?,2007-11-10,Valenciennes,Caen,3-0,2-0,Sat,45
-?,2007-11-11,Bordeaux,Rennes,3-0,1-0,Sun,45
-?,2007-11-11,Lorient,Toulouse,1-0,0-0,Sun,45
-?,2007-11-11,Lyon,Marseille,1-2,1-2,Sun,45
-?,2007-11-24,Caen,Bordeaux,5-0,2-0,Sat,47
-?,2007-11-24,Lens,Lorient,1-1,1-1,Sat,47
-?,2007-11-24,Marseille,Metz,3-1,2-0,Sat,47
-?,2007-11-24,Nancy,Lille,2-0,0-0,Sat,47
-?,2007-11-24,Rennes,Lyon,0-2,0-2,Sat,47
-?,2007-11-24,St Etienne,Sochaux,1-0,0-0,Sat,47
-?,2007-11-24,Strasbourg,Valenciennes,0-0,0-0,Sat,47
-?,2007-11-24,Toulouse,Monaco,0-0,0-0,Sat,47
-?,2007-11-25,Auxerre,Le Mans,3-0,1-0,Sun,47
-?,2007-11-25,Nice,Paris SG,2-1,2-1,Sun,47
-?,2007-11-28,Lens,Caen,1-1,0-0,Wed,48
-?,2007-12-01,Le Mans,Nancy,2-1,0-1,Sat,48
-?,2007-12-01,Lille,Marseille,1-1,1-1,Sat,48
-?,2007-12-01,Lorient,St Etienne,1-1,0-0,Sat,48
-?,2007-12-01,Metz,Auxerre,0-1,0-0,Sat,48
-?,2007-12-01,Monaco,Nice,1-1,0-0,Sat,48
-?,2007-12-01,Paris SG,Caen,0-1,0-0,Sat,48
-?,2007-12-01,Sochaux,Lens,0-2,0-1,Sat,48
-?,2007-12-02,Bordeaux,Toulouse,4-3,3-0,Sun,48
-?,2007-12-02,Lyon,Strasbourg,5-0,2-0,Sun,48
-?,2007-12-02,Valenciennes,Rennes,3-0,1-0,Sun,48
-?,2007-12-05,Toulouse,Nancy,1-1,1-0,Wed,49
-?,2007-12-08,Caen,Lyon,1-0,1-0,Sat,49
-?,2007-12-08,Lens,Le Mans,1-3,1-1,Sat,49
-?,2007-12-08,Lorient,Sochaux,2-1,1-0,Sat,49
-?,2007-12-08,Marseille,Monaco,2-0,0-0,Sat,49
-?,2007-12-08,Nancy,Valenciennes,0-0,0-0,Sat,49
-?,2007-12-08,St Etienne,Metz,2-0,0-0,Sat,49
-?,2007-12-08,Strasbourg,Rennes,3-0,1-0,Sat,49
-?,2007-12-08,Toulouse,Lille,1-0,0-0,Sat,49
-?,2007-12-09,Auxerre,Paris SG,0-1,0-0,Sun,49
-?,2007-12-09,Nice,Bordeaux,1-1,1-1,Sun,49
-?,2007-12-15,Le Mans,Lorient,0-0,0-0,Sat,50
-?,2007-12-15,Lille,St Etienne,3-0,2-0,Sat,50
-?,2007-12-15,Lyon,Nice,0-0,0-0,Sat,50
-?,2007-12-15,Metz,Sochaux,1-2,0-1,Sat,50
-?,2007-12-15,Monaco,Lens,2-0,0-0,Sat,50
-?,2007-12-15,Paris SG,Toulouse,1-2,0-1,Sat,50
-?,2007-12-15,Rennes,Caen,1-2,0-0,Sat,50
-?,2007-12-15,Valenciennes,Auxerre,3-0,2-0,Sat,50
-?,2007-12-16,Bordeaux,Marseille,2-2,1-2,Sun,50
-?,2007-12-16,Strasbourg,Nancy,0-0,0-0,Sun,50
-?,2007-12-22,Auxerre,Monaco,1-0,0-0,Sat,51
-?,2007-12-22,Caen,Strasbourg,2-0,1-0,Sat,51
-?,2007-12-22,Lorient,Metz,2-0,0-0,Sat,51
-?,2007-12-22,Marseille,Le Mans,1-0,1-0,Sat,51
-?,2007-12-22,Nancy,Lyon,1-1,0-0,Sat,51
-?,2007-12-22,Nice,Valenciennes,1-0,1-0,Sat,51
-?,2007-12-22,Sochaux,Bordeaux,0-1,0-0,Sat,51
-?,2007-12-23,St Etienne,Paris SG,0-1,0-0,Sun,51
-?,2007-12-23,Toulouse,Rennes,0-0,0-0,Sun,51
-?,2008-01-12,Bordeaux,Auxerre,4-1,2-1,Sat,1
-?,2008-01-12,Caen,Nancy,0-0,0-0,Sat,1
-?,2008-01-12,Le Mans,Sochaux,0-2,0-1,Sat,1
-?,2008-01-12,Lille,Metz,1-1,0-1,Sat,1
-?,2008-01-12,Lyon,Toulouse,3-2,1-1,Sat,1
-?,2008-01-12,Monaco,Lorient,1-0,0-0,Sat,1
-?,2008-01-12,Strasbourg,Nice,0-1,0-0,Sat,1
-?,2008-01-12,Valenciennes,St Etienne,2-0,1-0,Sat,1
-?,2008-01-13,Paris SG,Lens,3-0,0-0,Sun,1
-?,2008-01-13,Rennes,Marseille,3-1,1-1,Sun,1
-?,2008-01-19,Auxerre,Strasbourg,1-1,1-0,Sat,2
-?,2008-01-19,Le Mans,Bordeaux,1-2,1-2,Sat,2
-?,2008-01-19,Lorient,Paris SG,1-0,1-0,Sat,2
-?,2008-01-19,Marseille,Valenciennes,3-1,1-0,Sat,2
-?,2008-01-19,Metz,Monaco,1-4,0-2,Sat,2
-?,2008-01-19,Sochaux,Lille,1-1,1-0,Sat,2
-?,2008-01-19,St Etienne,Rennes,2-0,1-0,Sat,2
-?,2008-01-19,Toulouse,Caen,1-1,1-0,Sat,2
-?,2008-01-20,Lens,Lyon,3-0,0-0,Sun,2
-?,2008-01-20,Nice,Nancy,1-0,0-0,Sun,2
-?,2008-01-23,Caen,Auxerre,0-0,0-0,Wed,3
-?,2008-01-23,Lille,Le Mans,3-1,2-0,Wed,3
-?,2008-01-23,Lyon,Lorient,2-0,1-0,Wed,3
-?,2008-01-23,Monaco,Sochaux,1-0,0-0,Wed,3
-?,2008-01-23,Nancy,Marseille,1-1,0-0,Wed,3
-?,2008-01-23,Paris SG,Metz,3-0,2-0,Wed,3
-?,2008-01-23,Rennes,Nice,1-1,0-0,Wed,3
-?,2008-01-23,Strasbourg,Toulouse,2-0,1-0,Wed,3
-?,2008-01-23,Valenciennes,Lens,1-2,1-1,Wed,3
-?,2008-01-24,Bordeaux,St Etienne,1-0,0-0,Thu,3
-?,2008-01-26,Auxerre,Nancy,0-0,0-0,Sat,3
-?,2008-01-26,Le Mans,Monaco,1-0,1-0,Sat,3
-?,2008-01-26,Lens,Strasbourg,2-2,1-1,Sat,3
-?,2008-01-26,Lille,Paris SG,0-0,0-0,Sat,3
-?,2008-01-26,Marseille,Caen,6-1,3-1,Sat,3
-?,2008-01-26,Metz,Rennes,1-1,0-1,Sat,3
-?,2008-01-26,Sochaux,Valenciennes,1-0,1-0,Sat,3
-?,2008-01-26,Toulouse,Nice,1-1,1-0,Sat,3
-?,2008-01-27,Lorient,Bordeaux,1-0,0-0,Sun,3
-?,2008-01-27,St Etienne,Lyon,1-1,1-0,Sun,3
-?,2008-02-09,Bordeaux,Metz,3-0,1-0,Sat,5
-?,2008-02-09,Lyon,Sochaux,4-1,1-0,Sat,5
-?,2008-02-09,Monaco,Lille,0-0,0-0,Sat,5
-?,2008-02-09,Nancy,Toulouse,1-0,0-0,Sat,5
-?,2008-02-09,Paris SG,Le Mans,0-0,0-0,Sat,5
-?,2008-02-09,Rennes,Auxerre,1-2,0-1,Sat,5
-?,2008-02-09,Strasbourg,St Etienne,3-0,1-0,Sat,5
-?,2008-02-09,Valenciennes,Lorient,3-0,1-0,Sat,5
-?,2008-02-10,Caen,Lens,1-4,0-2,Sun,5
-?,2008-02-10,Nice,Marseille,0-2,0-1,Sun,5
-?,2008-02-16,Auxerre,Toulouse,1-0,0-0,Sat,6
-?,2008-02-16,Le Mans,Lyon,1-0,0-0,Sat,6
-?,2008-02-16,Lens,Nice,0-0,0-0,Sat,6
-?,2008-02-16,Lille,Rennes,3-1,1-0,Sat,6
-?,2008-02-16,Lorient,Strasbourg,1-0,1-0,Sat,6
-?,2008-02-16,Metz,Valenciennes,2-1,0-1,Sat,6
-?,2008-02-16,Sochaux,Caen,1-1,1-0,Sat,6
-?,2008-02-16,St Etienne,Nancy,4-0,2-0,Sat,6
-?,2008-02-17,Marseille,Paris SG,2-1,2-1,Sun,6
-?,2008-02-17,Monaco,Bordeaux,0-6,0-0,Sun,6
-?,2008-02-23,Caen,St Etienne,1-3,0-3,Sat,7
-?,2008-02-23,Lyon,Metz,2-0,1-0,Sat,7
-?,2008-02-23,Nancy,Lens,2-1,0-1,Sat,7
-?,2008-02-23,Nice,Auxerre,1-2,0-0,Sat,7
-?,2008-02-23,Paris SG,Monaco,1-1,1-0,Sat,7
-?,2008-02-23,Rennes,Lorient,2-0,1-0,Sat,7
-?,2008-02-23,Strasbourg,Sochaux,0-2,0-2,Sat,7
-?,2008-02-23,Valenciennes,Le Mans,1-2,1-2,Sat,7
-?,2008-02-24,Bordeaux,Lille,0-0,0-0,Sun,7
-?,2008-02-24,Toulouse,Marseille,0-0,0-0,Sun,7
-?,2008-03-01,Le Mans,Strasbourg,0-1,0-1,Sat,8
-?,2008-03-01,Lens,Toulouse,1-1,1-0,Sat,8
-?,2008-03-01,Lille,Lyon,0-1,0-1,Sat,8
-?,2008-03-01,Lorient,Nancy,0-0,0-0,Sat,8
-?,2008-03-01,Marseille,Auxerre,2-1,2-0,Sat,8
-?,2008-03-01,Metz,Caen,2-1,1-0,Sat,8
-?,2008-03-01,Monaco,Valenciennes,0-0,0-0,Sat,8
-?,2008-03-01,Sochaux,Rennes,0-0,0-0,Sat,8
-?,2008-03-02,Bordeaux,Paris SG,3-0,1-0,Sun,8
-?,2008-03-02,St Etienne,Nice,0-0,0-0,Sun,8
-?,2008-03-08,Auxerre,Lens,0-0,0-0,Sat,9
-?,2008-03-08,Caen,Lorient,0-0,0-0,Sat,9
-?,2008-03-08,Nancy,Monaco,2-0,2-0,Sat,9
-?,2008-03-08,Nice,Le Mans,0-0,0-0,Sat,9
-?,2008-03-08,Rennes,Paris SG,2-0,1-0,Sat,9
-?,2008-03-08,Strasbourg,Metz,2-3,1-0,Sat,9
-?,2008-03-08,Toulouse,Sochaux,1-2,0-2,Sat,9
-?,2008-03-08,Valenciennes,Lille,0-0,0-0,Sat,9
-?,2008-03-09,Lyon,Bordeaux,4-2,2-1,Sun,9
-?,2008-03-09,Marseille,St Etienne,2-0,0-0,Sun,9
-?,2008-03-11,Lens,Lille,1-2,0-1,Tue,10
-?,2008-03-15,Le Mans,Rennes,1-1,0-1,Sat,10
-?,2008-03-15,Lille,Caen,5-0,2-0,Sat,10
-?,2008-03-15,Lorient,Auxerre,1-1,0-0,Sat,10
-?,2008-03-15,Metz,Nice,1-2,0-1,Sat,10
-?,2008-03-15,Monaco,Lyon,0-3,0-3,Sat,10
-?,2008-03-15,Paris SG,Valenciennes,1-1,0-0,Sat,10
-?,2008-03-15,Sochaux,Nancy,1-1,0-0,Sat,10
-?,2008-03-15,St Etienne,Toulouse,0-0,0-0,Sat,10
-?,2008-03-16,Bordeaux,Strasbourg,3-0,2-0,Sun,10
-?,2008-03-16,Lens,Marseille,3-3,0-2,Sun,10
-?,2008-03-22,Auxerre,St Etienne,1-3,1-0,Sat,11
-?,2008-03-22,Caen,Monaco,4-1,0-1,Sat,11
-?,2008-03-22,Marseille,Sochaux,0-1,0-1,Sat,11
-?,2008-03-22,Nancy,Metz,2-1,0-0,Sat,11
-?,2008-03-22,Nice,Lorient,1-2,0-1,Sat,11
-?,2008-03-22,Strasbourg,Lille,0-1,0-0,Sat,11
-?,2008-03-22,Toulouse,Le Mans,1-1,0-1,Sat,11
-?,2008-03-22,Valenciennes,Bordeaux,3-1,1-1,Sat,11
-?,2008-03-23,Lyon,Paris SG,4-2,2-1,Sun,11
-?,2008-03-23,Rennes,Lens,3-1,2-1,Sun,11
-?,2008-03-29,Bordeaux,Nancy,2-1,0-1,Sat,12
-?,2008-03-30,Le Mans,Caen,1-1,1-1,Sun,12
-?,2008-03-30,Lille,Auxerre,0-2,0-1,Sun,12
-?,2008-03-30,Lorient,Marseille,1-2,1-0,Sun,12
-?,2008-03-30,Metz,Toulouse,0-2,0-0,Sun,12
-?,2008-03-30,Sochaux,Nice,1-0,0-0,Sun,12
-?,2008-03-30,Valenciennes,Lyon,1-2,1-1,Sun,12
-?,2008-03-31,Monaco,Rennes,1-2,1-1,Mon,13
-?,2008-04-02,Paris SG,Strasbourg,1-0,0-0,Wed,13
-?,2008-04-05,Auxerre,Sochaux,0-1,0-1,Sat,13
-?,2008-04-05,Caen,Valenciennes,1-0,1-0,Sat,13
-?,2008-04-05,Lens,Metz,1-1,1-0,Sat,13
-?,2008-04-05,Nice,Lille,0-0,0-0,Sat,13
-?,2008-04-05,Rennes,Bordeaux,0-2,0-1,Sat,13
-?,2008-04-05,St Etienne,Le Mans,4-1,1-1,Sat,13
-?,2008-04-05,Strasbourg,Monaco,0-2,0-0,Sat,13
-?,2008-04-05,Toulouse,Lorient,0-0,0-0,Sat,13
-?,2008-04-06,Marseille,Lyon,3-1,2-1,Sun,13
-?,2008-04-06,Nancy,Paris SG,1-0,0-0,Sun,13
-?,2008-04-09,St Etienne,Lens,2-0,2-0,Wed,14
-?,2008-04-12,Le Mans,Auxerre,3-0,1-0,Sat,14
-?,2008-04-12,Lille,Nancy,2-1,2-1,Sat,14
-?,2008-04-12,Lorient,Lens,1-0,0-0,Sat,14
-?,2008-04-12,Lyon,Rennes,1-1,1-0,Sat,14
-?,2008-04-12,Metz,Marseille,1-2,1-1,Sat,14
-?,2008-04-12,Monaco,Toulouse,0-2,0-1,Sat,14
-?,2008-04-12,Sochaux,St Etienne,1-1,0-1,Sat,14
-?,2008-04-12,Valenciennes,Strasbourg,2-0,2-0,Sat,14
-?,2008-04-13,Bordeaux,Caen,2-1,0-0,Sun,14
-?,2008-04-13,Paris SG,Nice,2-3,0-1,Sun,14
-?,2008-04-19,Auxerre,Metz,0-0,0-0,Sat,15
-?,2008-04-19,Caen,Paris SG,3-0,0-0,Sat,15
-?,2008-04-19,Lens,Sochaux,3-2,1-0,Sat,15
-?,2008-04-19,Nancy,Le Mans,1-1,0-0,Sat,15
-?,2008-04-19,Nice,Monaco,0-2,0-1,Sat,15
-?,2008-04-19,Rennes,Valenciennes,1-0,0-0,Sat,15
-?,2008-04-19,St Etienne,Lorient,1-0,0-0,Sat,15
-?,2008-04-19,Strasbourg,Lyon,1-2,1-0,Sat,15
-?,2008-04-20,Marseille,Lille,1-3,1-2,Sun,15
-?,2008-04-20,Toulouse,Bordeaux,0-1,0-0,Sun,15
-?,2008-04-26,Bordeaux,Nice,0-0,0-0,Sat,16
-?,2008-04-26,Le Mans,Lens,3-2,2-1,Sat,16
-?,2008-04-26,Lille,Toulouse,3-2,3-1,Sat,16
-?,2008-04-26,Lyon,Caen,2-2,1-2,Sat,16
-?,2008-04-26,Metz,St Etienne,0-1,0-0,Sat,16
-?,2008-04-26,Paris SG,Auxerre,3-1,2-0,Sat,16
-?,2008-04-26,Rennes,Strasbourg,3-0,3-0,Sat,16
-?,2008-04-26,Sochaux,Lorient,1-1,0-1,Sat,16
-?,2008-04-27,Monaco,Marseille,2-3,0-1,Sun,16
-?,2008-04-27,Valenciennes,Nancy,1-1,0-1,Sun,16
-?,2008-05-03,Auxerre,Valenciennes,2-0,1-0,Sat,17
-?,2008-05-03,Caen,Rennes,2-2,0-1,Sat,17
-?,2008-05-03,Lens,Monaco,0-0,0-0,Sat,17
-?,2008-05-03,Lorient,Le Mans,0-0,0-0,Sat,17
-?,2008-05-03,Nancy,Strasbourg,3-0,2-0,Sat,17
-?,2008-05-03,Nice,Lyon,0-0,0-0,Sat,17
-?,2008-05-03,Sochaux,Metz,0-0,0-0,Sat,17
-?,2008-05-03,Toulouse,Paris SG,1-1,0-0,Sat,17
-?,2008-05-04,Marseille,Bordeaux,1-2,1-0,Sun,17
-?,2008-05-04,St Etienne,Lille,0-0,0-0,Sun,17
-?,2008-05-10,Bordeaux,Sochaux,2-0,1-0,Sat,18
-?,2008-05-10,Le Mans,Marseille,0-0,0-0,Sat,18
-?,2008-05-10,Lille,Lens,2-1,1-0,Sat,18
-?,2008-05-10,Lyon,Nancy,1-0,0-0,Sat,18
-?,2008-05-10,Metz,Lorient,1-2,1-1,Sat,18
-?,2008-05-10,Monaco,Auxerre,3-0,0-0,Sat,18
-?,2008-05-10,Paris SG,St Etienne,1-1,0-1,Sat,18
-?,2008-05-10,Rennes,Toulouse,2-1,0-1,Sat,18
-?,2008-05-10,Strasbourg,Caen,1-4,1-3,Sat,18
-?,2008-05-10,Valenciennes,Nice,1-2,0-0,Sat,18
-?,2008-05-17,Auxerre,Lyon,1-3,0-2,Sat,19
-?,2008-05-17,Lens,Bordeaux,2-2,0-0,Sat,19
-?,2008-05-17,Lorient,Lille,1-1,1-0,Sat,19
-?,2008-05-17,Marseille,Strasbourg,4-3,3-2,Sat,19
-?,2008-05-17,Metz,Le Mans,4-3,3-0,Sat,19
-?,2008-05-17,Nancy,Rennes,2-3,1-1,Sat,19
-?,2008-05-17,Nice,Caen,3-1,1-1,Sat,19
-?,2008-05-17,Sochaux,Paris SG,1-2,0-1,Sat,19
-?,2008-05-17,St Etienne,Monaco,4-0,3-0,Sat,19
-?,2008-05-17,Toulouse,Valenciennes,2-1,1-1,Sat,19
+Round,Date,Team 1,Team 2,FT,HT
+?,(Sat) Aug/4 2007 (31),Bordeaux (1),Lens (1),1-0,1-0
+?,(Sat) Aug/4 2007 (31),Caen (1),Nice (1),1-0,0-0
+?,(Sat) Aug/4 2007 (31),Lille (1),Lorient (1),0-0,0-0
+?,(Sat) Aug/4 2007 (31),Monaco (1),St Etienne (1),1-1,1-0
+?,(Sat) Aug/4 2007 (31),Paris SG (1),Sochaux (1),0-0,0-0
+?,(Sat) Aug/4 2007 (31),Rennes (1),Nancy (1),0-2,0-2
+?,(Sat) Aug/4 2007 (31),Strasbourg (1),Marseille (1),0-0,0-0
+?,(Sat) Aug/4 2007 (31),Valenciennes (1),Toulouse (1),3-1,2-1
+?,(Sun) Aug/5 2007 (31),Le Mans (1),Metz (1),1-0,1-0
+?,(Sun) Aug/5 2007 (31),Lyon (1),Auxerre (1),2-0,1-0
+?,(Sat) Aug/11 2007 (32),Auxerre (2),Bordeaux (2),0-2,0-1
+?,(Sat) Aug/11 2007 (32),Lorient (2),Monaco (2),2-1,2-0
+?,(Sat) Aug/11 2007 (32),Marseille (2),Rennes (2),0-0,0-0
+?,(Sat) Aug/11 2007 (32),Nancy (2),Caen (2),1-0,1-0
+?,(Sat) Aug/11 2007 (32),Nice (2),Strasbourg (2),1-0,0-0
+?,(Sat) Aug/11 2007 (32),Sochaux (2),Le Mans (2),1-3,1-1
+?,(Sat) Aug/11 2007 (32),St Etienne (2),Valenciennes (2),3-1,1-0
+?,(Sat) Aug/11 2007 (32),Toulouse (2),Lyon (2),1-0,0-0
+?,(Sun) Aug/12 2007 (32),Lens (2),Paris SG (2),0-0,0-0
+?,(Sun) Aug/12 2007 (32),Metz (2),Lille (2),1-2,0-1
+?,(Wed) Aug/15 2007 (33),Bordeaux (3),Le Mans (3),1-2,1-0
+?,(Wed) Aug/15 2007 (33),Lille (3),Sochaux (3),1-1,1-1
+?,(Wed) Aug/15 2007 (33),Monaco (3),Metz (3),2-0,1-0
+?,(Wed) Aug/15 2007 (33),Paris SG (3),Lorient (3),1-3,1-0
+?,(Wed) Aug/15 2007 (33),Rennes (3),St Etienne (3),1-0,1-0
+?,(Wed) Aug/15 2007 (33),Strasbourg (3),Auxerre (3),3-0,1-0
+?,(Wed) Aug/15 2007 (33),Valenciennes (3),Marseille (3),2-1,0-0
+?,(Thu) Aug/16 2007 (33),Nancy (3),Nice (3),2-1,0-0
+?,(Sat) Aug/18 2007 (33),Auxerre (4),Caen (3),1-0,1-0
+?,(Sat) Aug/18 2007 (33),Le Mans (4),Lille (4),1-1,0-1
+?,(Sat) Aug/18 2007 (33),Lorient (4),Lyon (3),2-1,1-1
+?,(Sat) Aug/18 2007 (33),Metz (4),Paris SG (4),0-0,0-0
+?,(Sat) Aug/18 2007 (33),Sochaux (4),Monaco (4),0-3,0-1
+?,(Sat) Aug/18 2007 (33),St Etienne (4),Bordeaux (4),0-0,0-0
+?,(Sat) Aug/18 2007 (33),Toulouse (3),Strasbourg (4),1-3,1-1
+?,(Sun) Aug/19 2007 (33),Lens (3),Valenciennes (4),0-0,0-0
+?,(Sun) Aug/19 2007 (33),Marseille (4),Nancy (4),2-2,1-0
+?,(Sun) Aug/19 2007 (33),Nice (4),Rennes (4),1-1,1-0
+?,(Sat) Aug/25 2007 (34),Bordeaux (5),Lorient (5),2-2,1-1
+?,(Sat) Aug/25 2007 (34),Caen (4),Marseille (5),1-2,0-1
+?,(Sat) Aug/25 2007 (34),Monaco (5),Le Mans (5),3-1,0-1
+?,(Sat) Aug/25 2007 (34),Nancy (5),Auxerre (5),4-1,2-0
+?,(Sat) Aug/25 2007 (34),Nice (5),Toulouse (4),1-1,1-0
+?,(Sat) Aug/25 2007 (34),Rennes (5),Metz (5),2-0,1-0
+?,(Sat) Aug/25 2007 (34),Strasbourg (5),Lens (4),2-1,0-0
+?,(Sat) Aug/25 2007 (34),Valenciennes (5),Sochaux (5),3-1,2-1
+?,(Sun) Aug/26 2007 (34),Lyon (4),St Etienne (5),1-0,0-0
+?,(Sun) Aug/26 2007 (34),Paris SG (5),Lille (5),1-1,0-1
+?,(Tue) Aug/28 2007 (35),Lorient (6),Valenciennes (6),1-3,1-2
+?,(Wed) Aug/29 2007 (35),Auxerre (6),Rennes (6),0-2,0-2
+?,(Wed) Aug/29 2007 (35),Le Mans (6),Paris SG (6),0-2,0-1
+?,(Wed) Aug/29 2007 (35),Lille (6),Monaco (6),0-1,0-1
+?,(Wed) Aug/29 2007 (35),Marseille (6),Nice (6),0-2,0-0
+?,(Wed) Aug/29 2007 (35),Metz (6),Bordeaux (6),0-1,0-0
+?,(Wed) Aug/29 2007 (35),Sochaux (6),Lyon (5),1-2,1-1
+?,(Wed) Aug/29 2007 (35),St Etienne (6),Strasbourg (6),2-0,1-0
+?,(Sat) Sep/1 2007 (35),Bordeaux (7),Monaco (7),2-1,0-0
+?,(Sat) Sep/1 2007 (35),Caen (5),Sochaux (7),2-2,1-0
+?,(Sat) Sep/1 2007 (35),Lyon (6),Le Mans (7),3-2,0-1
+?,(Sat) Sep/1 2007 (35),Nancy (6),St Etienne (7),2-0,1-0
+?,(Sat) Sep/1 2007 (35),Rennes (7),Lille (7),2-2,0-1
+?,(Sat) Sep/1 2007 (35),Strasbourg (7),Lorient (7),0-0,0-0
+?,(Sat) Sep/1 2007 (35),Toulouse (5),Auxerre (7),2-0,0-0
+?,(Sat) Sep/1 2007 (35),Valenciennes (7),Metz (7),0-0,0-0
+?,(Sun) Sep/2 2007 (35),Nice (7),Lens (5),1-0,0-0
+?,(Sun) Sep/2 2007 (35),Paris SG (7),Marseille (7),1-1,1-1
+?,(Sat) Sep/15 2007 (37),Auxerre (8),Nice (8),2-0,1-0
+?,(Sat) Sep/15 2007 (37),Le Mans (8),Valenciennes (8),2-0,1-0
+?,(Sat) Sep/15 2007 (37),Lens (6),Nancy (7),1-0,0-0
+?,(Sat) Sep/15 2007 (37),Lille (8),Bordeaux (8),1-1,1-1
+?,(Sat) Sep/15 2007 (37),Marseille (8),Toulouse (6),1-2,0-2
+?,(Sat) Sep/15 2007 (37),Metz (8),Lyon (7),1-5,0-3
+?,(Sat) Sep/15 2007 (37),Sochaux (8),Strasbourg (8),0-0,0-0
+?,(Sat) Sep/15 2007 (37),St Etienne (8),Caen (6),3-0,2-0
+?,(Sun) Sep/16 2007 (37),Lorient (8),Rennes (8),0-1,0-1
+?,(Sun) Sep/16 2007 (37),Monaco (8),Paris SG (8),1-2,0-1
+?,(Sat) Sep/22 2007 (38),Auxerre (9),Marseille (9),2-0,2-0
+?,(Sat) Sep/22 2007 (38),Caen (7),Metz (9),1-2,1-1
+?,(Sat) Sep/22 2007 (38),Nancy (8),Lorient (9),2-0,0-0
+?,(Sat) Sep/22 2007 (38),Nice (9),St Etienne (9),3-0,2-0
+?,(Sat) Sep/22 2007 (38),Strasbourg (9),Le Mans (9),0-1,0-1
+?,(Sat) Sep/22 2007 (38),Toulouse (7),Lens (7),1-1,1-1
+?,(Sat) Sep/22 2007 (38),Valenciennes (9),Monaco (9),1-0,1-0
+?,(Sun) Sep/23 2007 (38),Lyon (8),Lille (9),1-1,0-1
+?,(Sun) Sep/23 2007 (38),Paris SG (9),Bordeaux (9),0-2,0-1
+?,(Sun) Sep/23 2007 (38),Rennes (9),Sochaux (9),0-2,0-1
+?,(Sat) Sep/29 2007 (39),Lyon (9),Lens (8),3-0,1-0
+?,(Sun) Sep/30 2007 (39),Caen (8),Toulouse (8),2-1,1-0
+?,(Fri) Oct/5 2007 (40),Monaco (10),Nancy (9),1-3,0-2
+?,(Sat) Oct/6 2007 (40),Le Mans (10),Nice (10),2-0,1-0
+?,(Sat) Oct/6 2007 (40),Lens (9),Auxerre (10),2-0,1-0
+?,(Sat) Oct/6 2007 (40),Lille (10),Valenciennes (10),3-0,2-0
+?,(Sat) Oct/6 2007 (40),Lorient (10),Caen (9),0-0,0-0
+?,(Sat) Oct/6 2007 (40),Metz (10),Strasbourg (10),1-2,0-1
+?,(Sat) Oct/6 2007 (40),Paris SG (10),Rennes (10),1-3,0-1
+?,(Sat) Oct/6 2007 (40),St Etienne (10),Marseille (10),1-0,0-0
+?,(Sun) Oct/7 2007 (40),Bordeaux (10),Lyon (10),1-3,0-2
+?,(Sun) Oct/7 2007 (40),Sochaux (10),Toulouse (9),0-1,0-0
+?,(Sat) Oct/20 2007 (42),Auxerre (11),Lorient (11),5-3,0-1
+?,(Sat) Oct/20 2007 (42),Caen (10),Lille (11),1-0,0-0
+?,(Sat) Oct/20 2007 (42),Lyon (11),Monaco (11),3-1,2-1
+?,(Sat) Oct/20 2007 (42),Nice (11),Metz (11),3-1,1-0
+?,(Sat) Oct/20 2007 (42),Rennes (11),Le Mans (11),3-0,1-0
+?,(Sat) Oct/20 2007 (42),Strasbourg (11),Bordeaux (11),1-1,1-0
+?,(Sat) Oct/20 2007 (42),Toulouse (10),St Etienne (11),0-2,0-2
+?,(Sat) Oct/20 2007 (42),Valenciennes (11),Paris SG (11),0-0,0-0
+?,(Sun) Oct/21 2007 (42),Marseille (11),Lens (10),1-0,0-0
+?,(Sun) Oct/21 2007 (42),Nancy (10),Sochaux (11),1-1,1-0
+?,(Sat) Oct/27 2007 (43),Bordeaux (12),Valenciennes (12),2-1,2-1
+?,(Sat) Oct/27 2007 (43),Lille (12),Strasbourg (12),0-3,0-2
+?,(Sat) Oct/27 2007 (43),Lorient (12),Nice (12),0-0,0-0
+?,(Sat) Oct/27 2007 (43),Metz (12),Nancy (11),0-0,0-0
+?,(Sat) Oct/27 2007 (43),Monaco (12),Caen (11),0-0,0-0
+?,(Sat) Oct/27 2007 (43),Sochaux (12),Marseille (12),2-1,1-1
+?,(Sat) Oct/27 2007 (43),St Etienne (12),Auxerre (12),0-0,0-0
+?,(Sun) Oct/28 2007 (43),Le Mans (12),Toulouse (11),1-1,0-0
+?,(Sun) Oct/28 2007 (43),Lens (11),Rennes (12),1-2,0-0
+?,(Sun) Oct/28 2007 (43),Paris SG (12),Lyon (12),2-3,0-2
+?,(Sat) Nov/3 2007 (44),Auxerre (13),Lille (13),0-1,0-0
+?,(Sat) Nov/3 2007 (44),Lyon (13),Valenciennes (13),2-0,1-0
+?,(Sat) Nov/3 2007 (44),Marseille (13),Lorient (13),0-0,0-0
+?,(Sat) Nov/3 2007 (44),Nancy (12),Bordeaux (13),1-0,1-0
+?,(Sat) Nov/3 2007 (44),Nice (13),Sochaux (13),0-0,0-0
+?,(Sat) Nov/3 2007 (44),Rennes (13),Monaco (13),0-1,0-0
+?,(Sat) Nov/3 2007 (44),Strasbourg (13),Paris SG (13),1-2,0-2
+?,(Sun) Nov/4 2007 (44),Caen (12),Le Mans (13),3-2,1-0
+?,(Sun) Nov/4 2007 (44),Lens (12),St Etienne (13),3-2,0-2
+?,(Sun) Nov/4 2007 (44),Toulouse (12),Metz (13),0-0,0-0
+?,(Sat) Nov/10 2007 (45),Le Mans (14),St Etienne (14),3-2,2-2
+?,(Sat) Nov/10 2007 (45),Lille (14),Nice (14),1-1,1-1
+?,(Sat) Nov/10 2007 (45),Metz (14),Lens (13),1-2,0-0
+?,(Sat) Nov/10 2007 (45),Monaco (14),Strasbourg (14),3-0,1-0
+?,(Sat) Nov/10 2007 (45),Paris SG (14),Nancy (13),0-0,0-0
+?,(Sat) Nov/10 2007 (45),Sochaux (14),Auxerre (14),1-1,0-1
+?,(Sat) Nov/10 2007 (45),Valenciennes (14),Caen (13),3-0,2-0
+?,(Sun) Nov/11 2007 (45),Bordeaux (14),Rennes (14),3-0,1-0
+?,(Sun) Nov/11 2007 (45),Lorient (14),Toulouse (13),1-0,0-0
+?,(Sun) Nov/11 2007 (45),Lyon (14),Marseille (14),1-2,1-2
+?,(Sat) Nov/24 2007 (47),Caen (14),Bordeaux (15),5-0,2-0
+?,(Sat) Nov/24 2007 (47),Lens (14),Lorient (15),1-1,1-1
+?,(Sat) Nov/24 2007 (47),Marseille (15),Metz (15),3-1,2-0
+?,(Sat) Nov/24 2007 (47),Nancy (14),Lille (15),2-0,0-0
+?,(Sat) Nov/24 2007 (47),Rennes (15),Lyon (15),0-2,0-2
+?,(Sat) Nov/24 2007 (47),St Etienne (15),Sochaux (15),1-0,0-0
+?,(Sat) Nov/24 2007 (47),Strasbourg (15),Valenciennes (15),0-0,0-0
+?,(Sat) Nov/24 2007 (47),Toulouse (14),Monaco (15),0-0,0-0
+?,(Sun) Nov/25 2007 (47),Auxerre (15),Le Mans (15),3-0,1-0
+?,(Sun) Nov/25 2007 (47),Nice (15),Paris SG (15),2-1,2-1
+?,(Wed) Nov/28 2007 (48),Lens (15),Caen (15),1-1,0-0
+?,(Sat) Dec/1 2007 (48),Le Mans (16),Nancy (15),2-1,0-1
+?,(Sat) Dec/1 2007 (48),Lille (16),Marseille (16),1-1,1-1
+?,(Sat) Dec/1 2007 (48),Lorient (16),St Etienne (16),1-1,0-0
+?,(Sat) Dec/1 2007 (48),Metz (16),Auxerre (16),0-1,0-0
+?,(Sat) Dec/1 2007 (48),Monaco (16),Nice (16),1-1,0-0
+?,(Sat) Dec/1 2007 (48),Paris SG (16),Caen (16),0-1,0-0
+?,(Sat) Dec/1 2007 (48),Sochaux (16),Lens (16),0-2,0-1
+?,(Sun) Dec/2 2007 (48),Bordeaux (16),Toulouse (15),4-3,3-0
+?,(Sun) Dec/2 2007 (48),Lyon (16),Strasbourg (16),5-0,2-0
+?,(Sun) Dec/2 2007 (48),Valenciennes (16),Rennes (16),3-0,1-0
+?,(Wed) Dec/5 2007 (49),Toulouse (16),Nancy (16),1-1,1-0
+?,(Sat) Dec/8 2007 (49),Caen (17),Lyon (17),1-0,1-0
+?,(Sat) Dec/8 2007 (49),Lens (17),Le Mans (17),1-3,1-1
+?,(Sat) Dec/8 2007 (49),Lorient (17),Sochaux (17),2-1,1-0
+?,(Sat) Dec/8 2007 (49),Marseille (17),Monaco (17),2-0,0-0
+?,(Sat) Dec/8 2007 (49),Nancy (17),Valenciennes (17),0-0,0-0
+?,(Sat) Dec/8 2007 (49),St Etienne (17),Metz (17),2-0,0-0
+?,(Sat) Dec/8 2007 (49),Strasbourg (17),Rennes (17),3-0,1-0
+?,(Sat) Dec/8 2007 (49),Toulouse (17),Lille (17),1-0,0-0
+?,(Sun) Dec/9 2007 (49),Auxerre (17),Paris SG (17),0-1,0-0
+?,(Sun) Dec/9 2007 (49),Nice (17),Bordeaux (17),1-1,1-1
+?,(Sat) Dec/15 2007 (50),Le Mans (18),Lorient (18),0-0,0-0
+?,(Sat) Dec/15 2007 (50),Lille (18),St Etienne (18),3-0,2-0
+?,(Sat) Dec/15 2007 (50),Lyon (18),Nice (18),0-0,0-0
+?,(Sat) Dec/15 2007 (50),Metz (18),Sochaux (18),1-2,0-1
+?,(Sat) Dec/15 2007 (50),Monaco (18),Lens (18),2-0,0-0
+?,(Sat) Dec/15 2007 (50),Paris SG (18),Toulouse (18),1-2,0-1
+?,(Sat) Dec/15 2007 (50),Rennes (18),Caen (18),1-2,0-0
+?,(Sat) Dec/15 2007 (50),Valenciennes (18),Auxerre (18),3-0,2-0
+?,(Sun) Dec/16 2007 (50),Bordeaux (18),Marseille (18),2-2,1-2
+?,(Sun) Dec/16 2007 (50),Strasbourg (18),Nancy (18),0-0,0-0
+?,(Sat) Dec/22 2007 (51),Auxerre (19),Monaco (19),1-0,0-0
+?,(Sat) Dec/22 2007 (51),Caen (19),Strasbourg (19),2-0,1-0
+?,(Sat) Dec/22 2007 (51),Lorient (19),Metz (19),2-0,0-0
+?,(Sat) Dec/22 2007 (51),Marseille (19),Le Mans (19),1-0,1-0
+?,(Sat) Dec/22 2007 (51),Nancy (19),Lyon (19),1-1,0-0
+?,(Sat) Dec/22 2007 (51),Nice (19),Valenciennes (19),1-0,1-0
+?,(Sat) Dec/22 2007 (51),Sochaux (19),Bordeaux (19),0-1,0-0
+?,(Sun) Dec/23 2007 (51),St Etienne (19),Paris SG (19),0-1,0-0
+?,(Sun) Dec/23 2007 (51),Toulouse (19),Rennes (19),0-0,0-0
+?,(Sat) Jan/12 2008 (1),Bordeaux (20),Auxerre (20),4-1,2-1
+?,(Sat) Jan/12 2008 (1),Caen (20),Nancy (20),0-0,0-0
+?,(Sat) Jan/12 2008 (1),Le Mans (20),Sochaux (20),0-2,0-1
+?,(Sat) Jan/12 2008 (1),Lille (19),Metz (20),1-1,0-1
+?,(Sat) Jan/12 2008 (1),Lyon (20),Toulouse (20),3-2,1-1
+?,(Sat) Jan/12 2008 (1),Monaco (20),Lorient (20),1-0,0-0
+?,(Sat) Jan/12 2008 (1),Strasbourg (20),Nice (20),0-1,0-0
+?,(Sat) Jan/12 2008 (1),Valenciennes (20),St Etienne (20),2-0,1-0
+?,(Sun) Jan/13 2008 (1),Paris SG (20),Lens (19),3-0,0-0
+?,(Sun) Jan/13 2008 (1),Rennes (20),Marseille (20),3-1,1-1
+?,(Sat) Jan/19 2008 (2),Auxerre (21),Strasbourg (21),1-1,1-0
+?,(Sat) Jan/19 2008 (2),Le Mans (21),Bordeaux (21),1-2,1-2
+?,(Sat) Jan/19 2008 (2),Lorient (21),Paris SG (21),1-0,1-0
+?,(Sat) Jan/19 2008 (2),Marseille (21),Valenciennes (21),3-1,1-0
+?,(Sat) Jan/19 2008 (2),Metz (21),Monaco (21),1-4,0-2
+?,(Sat) Jan/19 2008 (2),Sochaux (21),Lille (20),1-1,1-0
+?,(Sat) Jan/19 2008 (2),St Etienne (21),Rennes (21),2-0,1-0
+?,(Sat) Jan/19 2008 (2),Toulouse (21),Caen (21),1-1,1-0
+?,(Sun) Jan/20 2008 (2),Lens (20),Lyon (21),3-0,0-0
+?,(Sun) Jan/20 2008 (2),Nice (21),Nancy (21),1-0,0-0
+?,(Wed) Jan/23 2008 (3),Caen (22),Auxerre (22),0-0,0-0
+?,(Wed) Jan/23 2008 (3),Lille (21),Le Mans (22),3-1,2-0
+?,(Wed) Jan/23 2008 (3),Lyon (22),Lorient (22),2-0,1-0
+?,(Wed) Jan/23 2008 (3),Monaco (22),Sochaux (22),1-0,0-0
+?,(Wed) Jan/23 2008 (3),Nancy (22),Marseille (22),1-1,0-0
+?,(Wed) Jan/23 2008 (3),Paris SG (22),Metz (22),3-0,2-0
+?,(Wed) Jan/23 2008 (3),Rennes (22),Nice (22),1-1,0-0
+?,(Wed) Jan/23 2008 (3),Strasbourg (22),Toulouse (22),2-0,1-0
+?,(Wed) Jan/23 2008 (3),Valenciennes (22),Lens (21),1-2,1-1
+?,(Thu) Jan/24 2008 (3),Bordeaux (22),St Etienne (22),1-0,0-0
+?,(Sat) Jan/26 2008 (3),Auxerre (23),Nancy (23),0-0,0-0
+?,(Sat) Jan/26 2008 (3),Le Mans (23),Monaco (23),1-0,1-0
+?,(Sat) Jan/26 2008 (3),Lens (22),Strasbourg (23),2-2,1-1
+?,(Sat) Jan/26 2008 (3),Lille (22),Paris SG (23),0-0,0-0
+?,(Sat) Jan/26 2008 (3),Marseille (23),Caen (23),6-1,3-1
+?,(Sat) Jan/26 2008 (3),Metz (23),Rennes (23),1-1,0-1
+?,(Sat) Jan/26 2008 (3),Sochaux (23),Valenciennes (23),1-0,1-0
+?,(Sat) Jan/26 2008 (3),Toulouse (23),Nice (23),1-1,1-0
+?,(Sun) Jan/27 2008 (3),Lorient (23),Bordeaux (23),1-0,0-0
+?,(Sun) Jan/27 2008 (3),St Etienne (23),Lyon (23),1-1,1-0
+?,(Sat) Feb/9 2008 (5),Bordeaux (24),Metz (24),3-0,1-0
+?,(Sat) Feb/9 2008 (5),Lyon (24),Sochaux (24),4-1,1-0
+?,(Sat) Feb/9 2008 (5),Monaco (24),Lille (23),0-0,0-0
+?,(Sat) Feb/9 2008 (5),Nancy (24),Toulouse (24),1-0,0-0
+?,(Sat) Feb/9 2008 (5),Paris SG (24),Le Mans (24),0-0,0-0
+?,(Sat) Feb/9 2008 (5),Rennes (24),Auxerre (24),1-2,0-1
+?,(Sat) Feb/9 2008 (5),Strasbourg (24),St Etienne (24),3-0,1-0
+?,(Sat) Feb/9 2008 (5),Valenciennes (24),Lorient (24),3-0,1-0
+?,(Sun) Feb/10 2008 (5),Caen (24),Lens (23),1-4,0-2
+?,(Sun) Feb/10 2008 (5),Nice (24),Marseille (24),0-2,0-1
+?,(Sat) Feb/16 2008 (6),Auxerre (25),Toulouse (25),1-0,0-0
+?,(Sat) Feb/16 2008 (6),Le Mans (25),Lyon (25),1-0,0-0
+?,(Sat) Feb/16 2008 (6),Lens (24),Nice (25),0-0,0-0
+?,(Sat) Feb/16 2008 (6),Lille (24),Rennes (25),3-1,1-0
+?,(Sat) Feb/16 2008 (6),Lorient (25),Strasbourg (25),1-0,1-0
+?,(Sat) Feb/16 2008 (6),Metz (25),Valenciennes (25),2-1,0-1
+?,(Sat) Feb/16 2008 (6),Sochaux (25),Caen (25),1-1,1-0
+?,(Sat) Feb/16 2008 (6),St Etienne (25),Nancy (25),4-0,2-0
+?,(Sun) Feb/17 2008 (6),Marseille (25),Paris SG (25),2-1,2-1
+?,(Sun) Feb/17 2008 (6),Monaco (25),Bordeaux (25),0-6,0-0
+?,(Sat) Feb/23 2008 (7),Caen (26),St Etienne (26),1-3,0-3
+?,(Sat) Feb/23 2008 (7),Lyon (26),Metz (26),2-0,1-0
+?,(Sat) Feb/23 2008 (7),Nancy (26),Lens (25),2-1,0-1
+?,(Sat) Feb/23 2008 (7),Nice (26),Auxerre (26),1-2,0-0
+?,(Sat) Feb/23 2008 (7),Paris SG (26),Monaco (26),1-1,1-0
+?,(Sat) Feb/23 2008 (7),Rennes (26),Lorient (26),2-0,1-0
+?,(Sat) Feb/23 2008 (7),Strasbourg (26),Sochaux (26),0-2,0-2
+?,(Sat) Feb/23 2008 (7),Valenciennes (26),Le Mans (26),1-2,1-2
+?,(Sun) Feb/24 2008 (7),Bordeaux (26),Lille (25),0-0,0-0
+?,(Sun) Feb/24 2008 (7),Toulouse (26),Marseille (26),0-0,0-0
+?,(Sat) Mar/1 2008 (8),Le Mans (27),Strasbourg (27),0-1,0-1
+?,(Sat) Mar/1 2008 (8),Lens (26),Toulouse (27),1-1,1-0
+?,(Sat) Mar/1 2008 (8),Lille (26),Lyon (27),0-1,0-1
+?,(Sat) Mar/1 2008 (8),Lorient (27),Nancy (27),0-0,0-0
+?,(Sat) Mar/1 2008 (8),Marseille (27),Auxerre (27),2-1,2-0
+?,(Sat) Mar/1 2008 (8),Metz (27),Caen (27),2-1,1-0
+?,(Sat) Mar/1 2008 (8),Monaco (27),Valenciennes (27),0-0,0-0
+?,(Sat) Mar/1 2008 (8),Sochaux (27),Rennes (27),0-0,0-0
+?,(Sun) Mar/2 2008 (8),Bordeaux (27),Paris SG (27),3-0,1-0
+?,(Sun) Mar/2 2008 (8),St Etienne (27),Nice (27),0-0,0-0
+?,(Sat) Mar/8 2008 (9),Auxerre (28),Lens (27),0-0,0-0
+?,(Sat) Mar/8 2008 (9),Caen (28),Lorient (28),0-0,0-0
+?,(Sat) Mar/8 2008 (9),Nancy (28),Monaco (28),2-0,2-0
+?,(Sat) Mar/8 2008 (9),Nice (28),Le Mans (28),0-0,0-0
+?,(Sat) Mar/8 2008 (9),Rennes (28),Paris SG (28),2-0,1-0
+?,(Sat) Mar/8 2008 (9),Strasbourg (28),Metz (28),2-3,1-0
+?,(Sat) Mar/8 2008 (9),Toulouse (28),Sochaux (28),1-2,0-2
+?,(Sat) Mar/8 2008 (9),Valenciennes (28),Lille (27),0-0,0-0
+?,(Sun) Mar/9 2008 (9),Lyon (28),Bordeaux (28),4-2,2-1
+?,(Sun) Mar/9 2008 (9),Marseille (28),St Etienne (28),2-0,0-0
+?,(Tue) Mar/11 2008 (10),Lens (28),Lille (28),1-2,0-1
+?,(Sat) Mar/15 2008 (10),Le Mans (29),Rennes (29),1-1,0-1
+?,(Sat) Mar/15 2008 (10),Lille (29),Caen (29),5-0,2-0
+?,(Sat) Mar/15 2008 (10),Lorient (29),Auxerre (29),1-1,0-0
+?,(Sat) Mar/15 2008 (10),Metz (29),Nice (29),1-2,0-1
+?,(Sat) Mar/15 2008 (10),Monaco (29),Lyon (29),0-3,0-3
+?,(Sat) Mar/15 2008 (10),Paris SG (29),Valenciennes (29),1-1,0-0
+?,(Sat) Mar/15 2008 (10),Sochaux (29),Nancy (29),1-1,0-0
+?,(Sat) Mar/15 2008 (10),St Etienne (29),Toulouse (29),0-0,0-0
+?,(Sun) Mar/16 2008 (10),Bordeaux (29),Strasbourg (29),3-0,2-0
+?,(Sun) Mar/16 2008 (10),Lens (29),Marseille (29),3-3,0-2
+?,(Sat) Mar/22 2008 (11),Auxerre (30),St Etienne (30),1-3,1-0
+?,(Sat) Mar/22 2008 (11),Caen (30),Monaco (30),4-1,0-1
+?,(Sat) Mar/22 2008 (11),Marseille (30),Sochaux (30),0-1,0-1
+?,(Sat) Mar/22 2008 (11),Nancy (30),Metz (30),2-1,0-0
+?,(Sat) Mar/22 2008 (11),Nice (30),Lorient (30),1-2,0-1
+?,(Sat) Mar/22 2008 (11),Strasbourg (30),Lille (30),0-1,0-0
+?,(Sat) Mar/22 2008 (11),Toulouse (30),Le Mans (30),1-1,0-1
+?,(Sat) Mar/22 2008 (11),Valenciennes (30),Bordeaux (30),3-1,1-1
+?,(Sun) Mar/23 2008 (11),Lyon (30),Paris SG (30),4-2,2-1
+?,(Sun) Mar/23 2008 (11),Rennes (30),Lens (30),3-1,2-1
+?,(Sat) Mar/29 2008 (12),Bordeaux (31),Nancy (31),2-1,0-1
+?,(Sun) Mar/30 2008 (12),Le Mans (31),Caen (31),1-1,1-1
+?,(Sun) Mar/30 2008 (12),Lille (31),Auxerre (31),0-2,0-1
+?,(Sun) Mar/30 2008 (12),Lorient (31),Marseille (31),1-2,1-0
+?,(Sun) Mar/30 2008 (12),Metz (31),Toulouse (31),0-2,0-0
+?,(Sun) Mar/30 2008 (12),Sochaux (31),Nice (31),1-0,0-0
+?,(Sun) Mar/30 2008 (12),Valenciennes (31),Lyon (31),1-2,1-1
+?,(Mon) Mar/31 2008 (13),Monaco (31),Rennes (31),1-2,1-1
+?,(Wed) Apr/2 2008 (13),Paris SG (31),Strasbourg (31),1-0,0-0
+?,(Sat) Apr/5 2008 (13),Auxerre (32),Sochaux (32),0-1,0-1
+?,(Sat) Apr/5 2008 (13),Caen (32),Valenciennes (32),1-0,1-0
+?,(Sat) Apr/5 2008 (13),Lens (31),Metz (32),1-1,1-0
+?,(Sat) Apr/5 2008 (13),Nice (32),Lille (32),0-0,0-0
+?,(Sat) Apr/5 2008 (13),Rennes (32),Bordeaux (32),0-2,0-1
+?,(Sat) Apr/5 2008 (13),St Etienne (31),Le Mans (32),4-1,1-1
+?,(Sat) Apr/5 2008 (13),Strasbourg (32),Monaco (32),0-2,0-0
+?,(Sat) Apr/5 2008 (13),Toulouse (32),Lorient (32),0-0,0-0
+?,(Sun) Apr/6 2008 (13),Marseille (32),Lyon (32),3-1,2-1
+?,(Sun) Apr/6 2008 (13),Nancy (32),Paris SG (32),1-0,0-0
+?,(Wed) Apr/9 2008 (14),St Etienne (32),Lens (32),2-0,2-0
+?,(Sat) Apr/12 2008 (14),Le Mans (33),Auxerre (33),3-0,1-0
+?,(Sat) Apr/12 2008 (14),Lille (33),Nancy (33),2-1,2-1
+?,(Sat) Apr/12 2008 (14),Lorient (33),Lens (33),1-0,0-0
+?,(Sat) Apr/12 2008 (14),Lyon (33),Rennes (33),1-1,1-0
+?,(Sat) Apr/12 2008 (14),Metz (33),Marseille (33),1-2,1-1
+?,(Sat) Apr/12 2008 (14),Monaco (33),Toulouse (33),0-2,0-1
+?,(Sat) Apr/12 2008 (14),Sochaux (33),St Etienne (33),1-1,0-1
+?,(Sat) Apr/12 2008 (14),Valenciennes (33),Strasbourg (33),2-0,2-0
+?,(Sun) Apr/13 2008 (14),Bordeaux (33),Caen (33),2-1,0-0
+?,(Sun) Apr/13 2008 (14),Paris SG (33),Nice (33),2-3,0-1
+?,(Sat) Apr/19 2008 (15),Auxerre (34),Metz (34),0-0,0-0
+?,(Sat) Apr/19 2008 (15),Caen (34),Paris SG (34),3-0,0-0
+?,(Sat) Apr/19 2008 (15),Lens (34),Sochaux (34),3-2,1-0
+?,(Sat) Apr/19 2008 (15),Nancy (34),Le Mans (34),1-1,0-0
+?,(Sat) Apr/19 2008 (15),Nice (34),Monaco (34),0-2,0-1
+?,(Sat) Apr/19 2008 (15),Rennes (34),Valenciennes (34),1-0,0-0
+?,(Sat) Apr/19 2008 (15),St Etienne (34),Lorient (34),1-0,0-0
+?,(Sat) Apr/19 2008 (15),Strasbourg (34),Lyon (34),1-2,1-0
+?,(Sun) Apr/20 2008 (15),Marseille (34),Lille (34),1-3,1-2
+?,(Sun) Apr/20 2008 (15),Toulouse (34),Bordeaux (34),0-1,0-0
+?,(Sat) Apr/26 2008 (16),Bordeaux (35),Nice (35),0-0,0-0
+?,(Sat) Apr/26 2008 (16),Le Mans (35),Lens (35),3-2,2-1
+?,(Sat) Apr/26 2008 (16),Lille (35),Toulouse (35),3-2,3-1
+?,(Sat) Apr/26 2008 (16),Lyon (35),Caen (35),2-2,1-2
+?,(Sat) Apr/26 2008 (16),Metz (35),St Etienne (35),0-1,0-0
+?,(Sat) Apr/26 2008 (16),Paris SG (35),Auxerre (35),3-1,2-0
+?,(Sat) Apr/26 2008 (16),Rennes (35),Strasbourg (35),3-0,3-0
+?,(Sat) Apr/26 2008 (16),Sochaux (35),Lorient (35),1-1,0-1
+?,(Sun) Apr/27 2008 (16),Monaco (35),Marseille (35),2-3,0-1
+?,(Sun) Apr/27 2008 (16),Valenciennes (35),Nancy (35),1-1,0-1
+?,(Sat) May/3 2008 (17),Auxerre (36),Valenciennes (36),2-0,1-0
+?,(Sat) May/3 2008 (17),Caen (36),Rennes (36),2-2,0-1
+?,(Sat) May/3 2008 (17),Lens (36),Monaco (36),0-0,0-0
+?,(Sat) May/3 2008 (17),Lorient (36),Le Mans (36),0-0,0-0
+?,(Sat) May/3 2008 (17),Nancy (36),Strasbourg (36),3-0,2-0
+?,(Sat) May/3 2008 (17),Nice (36),Lyon (36),0-0,0-0
+?,(Sat) May/3 2008 (17),Sochaux (36),Metz (36),0-0,0-0
+?,(Sat) May/3 2008 (17),Toulouse (36),Paris SG (36),1-1,0-0
+?,(Sun) May/4 2008 (17),Marseille (36),Bordeaux (36),1-2,1-0
+?,(Sun) May/4 2008 (17),St Etienne (36),Lille (36),0-0,0-0
+?,(Sat) May/10 2008 (18),Bordeaux (37),Sochaux (37),2-0,1-0
+?,(Sat) May/10 2008 (18),Le Mans (37),Marseille (37),0-0,0-0
+?,(Sat) May/10 2008 (18),Lille (37),Lens (37),2-1,1-0
+?,(Sat) May/10 2008 (18),Lyon (37),Nancy (37),1-0,0-0
+?,(Sat) May/10 2008 (18),Metz (37),Lorient (37),1-2,1-1
+?,(Sat) May/10 2008 (18),Monaco (37),Auxerre (37),3-0,0-0
+?,(Sat) May/10 2008 (18),Paris SG (37),St Etienne (37),1-1,0-1
+?,(Sat) May/10 2008 (18),Rennes (37),Toulouse (37),2-1,0-1
+?,(Sat) May/10 2008 (18),Strasbourg (37),Caen (37),1-4,1-3
+?,(Sat) May/10 2008 (18),Valenciennes (37),Nice (37),1-2,0-0
+?,(Sat) May/17 2008 (19),Auxerre (38),Lyon (38),1-3,0-2
+?,(Sat) May/17 2008 (19),Lens (38),Bordeaux (38),2-2,0-0
+?,(Sat) May/17 2008 (19),Lorient (38),Lille (38),1-1,1-0
+?,(Sat) May/17 2008 (19),Marseille (38),Strasbourg (38),4-3,3-2
+?,(Sat) May/17 2008 (19),Metz (38),Le Mans (38),4-3,3-0
+?,(Sat) May/17 2008 (19),Nancy (38),Rennes (38),2-3,1-1
+?,(Sat) May/17 2008 (19),Nice (38),Caen (38),3-1,1-1
+?,(Sat) May/17 2008 (19),Sochaux (38),Paris SG (38),1-2,0-1
+?,(Sat) May/17 2008 (19),St Etienne (38),Monaco (38),4-0,3-0
+?,(Sat) May/17 2008 (19),Toulouse (38),Valenciennes (38),2-1,1-1

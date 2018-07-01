@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,2006-07-28,Ajaccio,Niort,1-1,0-1,Fri,30
-?,2006-07-28,Caen,Libourne,2-1,1-0,Fri,30
-?,2006-07-28,Chateauroux,Tours,3-1,1-1,Fri,30
-?,2006-07-28,Creteil,Guingamp,0-0,0-0,Fri,30
-?,2006-07-28,Grenoble,Montpellier,3-2,0-2,Fri,30
-?,2006-07-28,Istres,Bastia,2-2,2-1,Fri,30
-?,2006-07-28,Le Havre,Amiens,1-3,0-1,Fri,30
-?,2006-07-28,Reims,Brest,2-0,1-0,Fri,30
-?,2006-07-28,Strasbourg,Dijon,0-0,0-0,Fri,30
-?,2006-07-29,Gueugnon,Metz,0-1,0-0,Sat,30
-?,2006-08-03,Guingamp,Ajaccio,1-1,0-1,Thu,31
-?,2006-08-04,Amiens,Strasbourg,1-0,1-0,Fri,31
-?,2006-08-04,Bastia,Reims,1-0,1-0,Fri,31
-?,2006-08-04,Brest,Libourne,2-2,0-1,Fri,31
-?,2006-08-04,Chateauroux,Le Havre,2-2,1-0,Fri,31
-?,2006-08-04,Dijon,Caen,0-2,0-2,Fri,31
-?,2006-08-04,Metz,Istres,3-0,1-0,Fri,31
-?,2006-08-04,Montpellier,Gueugnon,0-3,0-2,Fri,31
-?,2006-08-04,Niort,Grenoble,2-1,1-1,Fri,31
-?,2006-08-04,Tours,Creteil,1-1,1-0,Fri,31
-?,2006-08-07,Libourne,Bastia,2-4,1-1,Mon,32
-?,2006-08-08,Ajaccio,Amiens,3-1,1-0,Tue,32
-?,2006-08-08,Caen,Brest,1-0,0-0,Tue,32
-?,2006-08-08,Creteil,Chateauroux,1-3,0-0,Tue,32
-?,2006-08-08,Grenoble,Guingamp,1-0,0-0,Tue,32
-?,2006-08-08,Gueugnon,Niort,0-1,0-0,Tue,32
-?,2006-08-08,Istres,Dijon,2-2,0-1,Tue,32
-?,2006-08-08,Le Havre,Tours,3-0,2-0,Tue,32
-?,2006-08-08,Reims,Metz,2-0,2-0,Tue,32
-?,2006-08-08,Strasbourg,Montpellier,2-0,0-0,Tue,32
-?,2006-08-11,Bastia,Brest,4-2,0-1,Fri,32
-?,2006-08-11,Chateauroux,Grenoble,2-2,0-0,Fri,32
-?,2006-08-11,Creteil,Gueugnon,0-0,0-0,Fri,32
-?,2006-08-11,Dijon,Reims,1-0,0-0,Fri,32
-?,2006-08-11,Guingamp,Le Havre,1-2,0-0,Fri,32
-?,2006-08-11,Metz,Libourne,1-0,0-0,Fri,32
-?,2006-08-11,Montpellier,Istres,4-0,0-0,Fri,32
-?,2006-08-11,Niort,Strasbourg,2-2,2-2,Fri,32
-?,2006-08-11,Tours,Ajaccio,1-0,1-0,Fri,32
-?,2006-08-14,Amiens,Caen,2-2,0-1,Mon,33
-?,2006-08-18,Ajaccio,Chateauroux,2-3,1-3,Fri,33
-?,2006-08-18,Brest,Metz,0-1,0-1,Fri,33
-?,2006-08-18,Caen,Bastia,2-0,0-0,Fri,33
-?,2006-08-18,Grenoble,Tours,2-1,2-0,Fri,33
-?,2006-08-18,Gueugnon,Amiens,2-1,2-1,Fri,33
-?,2006-08-18,Istres,Niort,1-0,0-0,Fri,33
-?,2006-08-18,Le Havre,Creteil,2-1,1-0,Fri,33
-?,2006-08-18,Libourne,Dijon,0-1,0-1,Fri,33
-?,2006-08-18,Reims,Montpellier,4-1,2-0,Fri,33
-?,2006-08-18,Strasbourg,Guingamp,2-0,1-0,Fri,33
-?,2006-08-25,Amiens,Grenoble,0-1,0-1,Fri,34
-?,2006-08-25,Creteil,Ajaccio,0-0,0-0,Fri,34
-?,2006-08-25,Dijon,Brest,1-1,1-0,Fri,34
-?,2006-08-25,Guingamp,Gueugnon,6-1,2-0,Fri,34
-?,2006-08-25,Le Havre,Caen,2-2,1-1,Fri,34
-?,2006-08-25,Metz,Bastia,2-1,1-1,Fri,34
-?,2006-08-25,Montpellier,Libourne,0-1,0-1,Fri,34
-?,2006-08-25,Niort,Reims,0-0,0-0,Fri,34
-?,2006-08-25,Tours,Strasbourg,0-0,0-0,Fri,34
-?,2006-08-27,Chateauroux,Istres,0-0,0-0,Sun,34
-?,2006-09-07,Caen,Metz,0-0,0-0,Thu,36
-?,2006-09-08,Ajaccio,Le Havre,0-0,0-0,Fri,36
-?,2006-09-08,Bastia,Dijon,1-1,1-1,Fri,36
-?,2006-09-08,Brest,Montpellier,0-0,0-0,Fri,36
-?,2006-09-08,Grenoble,Creteil,3-1,0-1,Fri,36
-?,2006-09-08,Gueugnon,Tours,2-1,1-1,Fri,36
-?,2006-09-08,Istres,Guingamp,1-0,1-0,Fri,36
-?,2006-09-08,Libourne,Niort,3-1,3-0,Fri,36
-?,2006-09-08,Reims,Amiens,1-0,1-0,Fri,36
-?,2006-09-11,Strasbourg,Chateauroux,2-0,1-0,Mon,37
-?,2006-09-15,Ajaccio,Reims,2-1,1-0,Fri,37
-?,2006-09-15,Amiens,Libourne,1-1,1-1,Fri,37
-?,2006-09-15,Chateauroux,Gueugnon,2-1,0-1,Fri,37
-?,2006-09-15,Creteil,Strasbourg,0-2,0-1,Fri,37
-?,2006-09-15,Dijon,Metz,0-3,0-1,Fri,37
-?,2006-09-15,Le Havre,Grenoble,1-1,1-1,Fri,37
-?,2006-09-15,Montpellier,Bastia,4-0,2-0,Fri,37
-?,2006-09-15,Niort,Caen,2-2,0-1,Fri,37
-?,2006-09-15,Tours,Istres,2-0,1-0,Fri,37
-?,2006-09-18,Guingamp,Brest,1-1,0-1,Mon,38
-?,2006-09-22,Bastia,Niort,4-1,2-0,Fri,38
-?,2006-09-22,Caen,Tours,1-0,1-0,Fri,38
-?,2006-09-22,Grenoble,Ajaccio,2-0,1-0,Fri,38
-?,2006-09-22,Gueugnon,Dijon,0-2,0-1,Fri,38
-?,2006-09-22,Istres,Amiens,1-3,0-1,Fri,38
-?,2006-09-22,Reims,Guingamp,1-0,0-0,Fri,38
-?,2006-09-23,Brest,Creteil,4-1,3-1,Sat,38
-?,2006-09-23,Strasbourg,Le Havre,1-1,0-0,Sat,38
-?,2006-09-24,Libourne,Chateauroux,0-1,0-1,Sun,38
-?,2006-09-25,Metz,Montpellier,2-1,1-0,Mon,39
-?,2006-09-29,Ajaccio,Strasbourg,2-2,0-1,Fri,39
-?,2006-09-29,Chateauroux,Reims,1-1,1-0,Fri,39
-?,2006-09-29,Creteil,Istres,1-0,0-0,Fri,39
-?,2006-09-29,Grenoble,Brest,0-0,0-0,Fri,39
-?,2006-09-29,Guingamp,Caen,1-3,1-1,Fri,39
-?,2006-09-29,Le Havre,Gueugnon,6-1,5-0,Fri,39
-?,2006-09-29,Montpellier,Dijon,3-0,1-0,Fri,39
-?,2006-09-29,Niort,Metz,1-1,1-1,Fri,39
-?,2006-09-29,Tours,Libourne,1-2,0-1,Fri,39
-?,2006-10-02,Amiens,Bastia,1-0,1-0,Mon,40
-?,2006-10-13,Bastia,Chateauroux,1-2,1-1,Fri,41
-?,2006-10-13,Brest,Amiens,1-1,0-1,Fri,41
-?,2006-10-13,Dijon,Niort,2-1,1-1,Fri,41
-?,2006-10-13,Gueugnon,Ajaccio,1-0,0-0,Fri,41
-?,2006-10-13,Istres,Le Havre,0-1,0-1,Fri,41
-?,2006-10-13,Libourne,Guingamp,1-1,0-1,Fri,41
-?,2006-10-13,Metz,Creteil,2-0,1-0,Fri,41
-?,2006-10-13,Reims,Tours,2-1,0-0,Fri,41
-?,2006-10-13,Strasbourg,Grenoble,1-0,1-0,Fri,41
-?,2006-10-16,Caen,Montpellier,0-0,0-0,Mon,42
-?,2006-10-20,Ajaccio,Istres,2-0,0-0,Fri,42
-?,2006-10-20,Amiens,Dijon,0-4,0-2,Fri,42
-?,2006-10-20,Chateauroux,Brest,1-0,0-0,Fri,42
-?,2006-10-20,Creteil,Libourne,1-0,0-0,Fri,42
-?,2006-10-20,Grenoble,Gueugnon,2-2,1-0,Fri,42
-?,2006-10-20,Guingamp,Metz,0-2,0-2,Fri,42
-?,2006-10-20,Le Havre,Reims,1-0,0-0,Fri,42
-?,2006-10-20,Niort,Montpellier,1-1,0-0,Fri,42
-?,2006-10-22,Strasbourg,Caen,3-2,1-1,Sun,42
-?,2006-10-23,Tours,Bastia,0-3,0-1,Mon,43
-?,2006-10-27,Bastia,Guingamp,0-0,0-0,Fri,43
-?,2006-10-27,Brest,Niort,1-0,0-0,Fri,43
-?,2006-10-27,Caen,Ajaccio,4-0,1-0,Fri,43
-?,2006-10-27,Dijon,Chateauroux,2-0,0-0,Fri,43
-?,2006-10-27,Gueugnon,Strasbourg,0-1,0-1,Fri,43
-?,2006-10-27,Libourne,Le Havre,0-0,0-0,Fri,43
-?,2006-10-27,Metz,Tours,2-1,2-1,Fri,43
-?,2006-10-27,Montpellier,Amiens,1-2,0-0,Fri,43
-?,2006-10-27,Reims,Creteil,0-0,0-0,Fri,43
-?,2006-10-30,Istres,Grenoble,3-0,1-0,Mon,44
-?,2006-11-03,Ajaccio,Libourne,1-0,0-0,Fri,44
-?,2006-11-03,Amiens,Niort,1-0,1-0,Fri,44
-?,2006-11-03,Chateauroux,Metz,0-1,0-1,Fri,44
-?,2006-11-03,Creteil,Bastia,1-0,1-0,Fri,44
-?,2006-11-03,Grenoble,Caen,1-1,1-1,Fri,44
-?,2006-11-03,Gueugnon,Reims,0-0,0-0,Fri,44
-?,2006-11-03,Guingamp,Montpellier,1-0,0-0,Fri,44
-?,2006-11-03,Le Havre,Brest,0-1,0-0,Fri,44
-?,2006-11-03,Strasbourg,Istres,2-0,1-0,Fri,44
-?,2006-11-03,Tours,Dijon,0-1,0-0,Fri,44
-?,2006-11-06,Metz,Amiens,1-0,0-0,Mon,45
-?,2006-11-07,Bastia,Le Havre,1-1,0-0,Tue,45
-?,2006-11-07,Brest,Ajaccio,0-1,0-0,Tue,45
-?,2006-11-07,Caen,Creteil,1-0,0-0,Tue,45
-?,2006-11-07,Dijon,Guingamp,2-1,1-0,Tue,45
-?,2006-11-07,Istres,Gueugnon,0-1,0-0,Tue,45
-?,2006-11-07,Libourne,Grenoble,2-1,2-0,Tue,45
-?,2006-11-07,Montpellier,Tours,1-0,0-0,Tue,45
-?,2006-11-07,Niort,Chateauroux,2-0,2-0,Tue,45
-?,2006-11-07,Reims,Strasbourg,2-0,1-0,Tue,45
-?,2006-11-10,Ajaccio,Bastia,0-1,0-0,Fri,45
-?,2006-11-10,Chateauroux,Montpellier,0-1,0-1,Fri,45
-?,2006-11-10,Creteil,Dijon,1-1,1-1,Fri,45
-?,2006-11-10,Grenoble,Reims,5-1,3-0,Fri,45
-?,2006-11-10,Gueugnon,Caen,0-1,0-1,Fri,45
-?,2006-11-10,Guingamp,Amiens,2-3,1-1,Fri,45
-?,2006-11-10,Istres,Brest,1-1,0-1,Fri,45
-?,2006-11-10,Strasbourg,Libourne,2-1,0-0,Fri,45
-?,2006-11-10,Tours,Niort,1-0,0-0,Fri,45
-?,2006-11-13,Le Havre,Metz,1-1,0-0,Mon,46
-?,2006-11-17,Amiens,Tours,3-0,2-0,Fri,46
-?,2006-11-17,Bastia,Grenoble,0-0,0-0,Fri,46
-?,2006-11-17,Caen,Chateauroux,1-0,0-0,Fri,46
-?,2006-11-17,Dijon,Le Havre,2-1,0-0,Fri,46
-?,2006-11-17,Libourne,Gueugnon,2-1,2-0,Fri,46
-?,2006-11-17,Montpellier,Creteil,1-1,1-0,Fri,46
-?,2006-11-17,Niort,Guingamp,0-1,0-0,Fri,46
-?,2006-11-17,Reims,Istres,1-2,0-2,Fri,46
-?,2006-11-19,Metz,Ajaccio,2-0,1-0,Sun,46
-?,2006-11-20,Brest,Strasbourg,1-1,1-0,Mon,47
-?,2006-12-01,Ajaccio,Dijon,3-0,1-0,Fri,48
-?,2006-12-01,Chateauroux,Amiens,3-1,2-1,Fri,48
-?,2006-12-01,Creteil,Niort,3-1,1-0,Fri,48
-?,2006-12-01,Gueugnon,Brest,4-2,1-0,Fri,48
-?,2006-12-01,Istres,Libourne,2-2,2-1,Fri,48
-?,2006-12-01,Le Havre,Montpellier,3-0,0-0,Fri,48
-?,2006-12-01,Strasbourg,Bastia,1-1,0-0,Fri,48
-?,2006-12-01,Tours,Guingamp,1-1,1-1,Fri,48
-?,2006-12-03,Grenoble,Metz,1-1,0-1,Sun,48
-?,2006-12-04,Reims,Caen,2-2,1-0,Mon,49
-?,2006-12-08,Amiens,Creteil,1-0,1-0,Fri,49
-?,2006-12-08,Bastia,Gueugnon,0-1,0-1,Fri,49
-?,2006-12-08,Brest,Tours,1-1,1-0,Fri,49
-?,2006-12-08,Caen,Istres,4-0,3-0,Fri,49
-?,2006-12-08,Guingamp,Chateauroux,1-1,0-1,Fri,49
-?,2006-12-08,Libourne,Reims,2-3,1-1,Fri,49
-?,2006-12-08,Metz,Strasbourg,4-1,1-0,Fri,49
-?,2006-12-08,Montpellier,Ajaccio,1-2,1-0,Fri,49
-?,2006-12-08,Niort,Le Havre,0-0,0-0,Fri,49
-?,2006-12-11,Dijon,Grenoble,1-1,0-0,Mon,50
-?,2006-12-21,Strasbourg,Amiens,1-0,1-0,Thu,51
-?,2006-12-22,Ajaccio,Guingamp,0-0,0-0,Fri,51
-?,2006-12-22,Caen,Dijon,3-2,1-1,Fri,51
-?,2006-12-22,Creteil,Tours,4-3,3-1,Fri,51
-?,2006-12-22,Grenoble,Niort,4-1,1-0,Fri,51
-?,2006-12-22,Gueugnon,Montpellier,3-0,3-0,Fri,51
-?,2006-12-22,Istres,Metz,0-0,0-0,Fri,51
-?,2006-12-22,Le Havre,Chateauroux,1-0,0-0,Fri,51
-?,2006-12-22,Libourne,Brest,3-2,2-1,Fri,51
-?,2006-12-23,Reims,Bastia,1-1,1-0,Sat,51
-?,2007-01-12,Amiens,Ajaccio,1-1,1-1,Fri,2
-?,2007-01-12,Bastia,Libourne,3-2,1-1,Fri,2
-?,2007-01-12,Chateauroux,Creteil,1-0,0-0,Fri,2
-?,2007-01-12,Dijon,Istres,1-0,1-0,Fri,2
-?,2007-01-12,Guingamp,Grenoble,2-2,0-2,Fri,2
-?,2007-01-12,Metz,Reims,2-2,2-2,Fri,2
-?,2007-01-12,Niort,Gueugnon,1-1,1-1,Fri,2
-?,2007-01-12,Tours,Le Havre,0-2,0-2,Fri,2
-?,2007-01-14,Montpellier,Strasbourg,0-0,0-0,Sun,2
-?,2007-01-15,Brest,Caen,2-2,1-1,Mon,3
-?,2007-01-26,Ajaccio,Tours,0-1,0-1,Fri,4
-?,2007-01-26,Brest,Bastia,3-1,1-0,Fri,4
-?,2007-01-26,Caen,Amiens,3-1,2-0,Fri,4
-?,2007-01-26,Grenoble,Chateauroux,0-1,0-0,Fri,4
-?,2007-01-26,Gueugnon,Creteil,1-1,1-0,Fri,4
-?,2007-01-26,Istres,Montpellier,1-2,0-1,Fri,4
-?,2007-01-26,Reims,Dijon,1-0,1-0,Fri,4
-?,2007-01-26,Strasbourg,Niort,1-0,0-0,Fri,4
-?,2007-01-29,Le Havre,Guingamp,2-0,1-0,Mon,5
-?,2007-02-02,Amiens,Gueugnon,2-0,2-0,Fri,5
-?,2007-02-02,Bastia,Caen,2-0,2-0,Fri,5
-?,2007-02-02,Chateauroux,Ajaccio,2-1,0-0,Fri,5
-?,2007-02-02,Creteil,Le Havre,0-1,0-0,Fri,5
-?,2007-02-02,Dijon,Libourne,0-1,0-0,Fri,5
-?,2007-02-02,Metz,Brest,0-0,0-0,Fri,5
-?,2007-02-02,Montpellier,Reims,2-0,2-0,Fri,5
-?,2007-02-02,Niort,Istres,0-0,0-0,Fri,5
-?,2007-02-02,Tours,Grenoble,1-1,0-0,Fri,5
-?,2007-02-05,Guingamp,Strasbourg,1-1,0-0,Mon,6
-?,2007-02-09,Ajaccio,Creteil,5-0,1-0,Fri,6
-?,2007-02-09,Brest,Dijon,0-0,0-0,Fri,6
-?,2007-02-09,Caen,Le Havre,1-1,0-1,Fri,6
-?,2007-02-09,Grenoble,Amiens,0-1,0-0,Fri,6
-?,2007-02-09,Gueugnon,Guingamp,2-0,1-0,Fri,6
-?,2007-02-09,Istres,Chateauroux,3-1,2-1,Fri,6
-?,2007-02-09,Libourne,Montpellier,2-2,0-0,Fri,6
-?,2007-02-09,Reims,Niort,2-3,0-2,Fri,6
-?,2007-02-09,Strasbourg,Tours,2-1,0-1,Fri,6
-?,2007-02-12,Bastia,Metz,1-0,0-0,Mon,7
-?,2007-02-16,Amiens,Reims,2-1,0-0,Fri,7
-?,2007-02-16,Creteil,Grenoble,1-1,1-1,Fri,7
-?,2007-02-16,Dijon,Bastia,0-0,0-0,Fri,7
-?,2007-02-16,Guingamp,Istres,3-0,0-0,Fri,7
-?,2007-02-16,Le Havre,Ajaccio,4-1,0-1,Fri,7
-?,2007-02-16,Montpellier,Brest,0-0,0-0,Fri,7
-?,2007-02-16,Niort,Libourne,2-0,0-0,Fri,7
-?,2007-02-16,Tours,Gueugnon,2-1,0-1,Fri,7
-?,2007-02-18,Chateauroux,Strasbourg,1-1,0-1,Sun,7
-?,2007-02-19,Metz,Caen,2-0,1-0,Mon,8
-?,2007-02-23,Bastia,Montpellier,1-0,1-0,Fri,8
-?,2007-02-23,Brest,Guingamp,2-3,2-0,Fri,8
-?,2007-02-23,Caen,Niort,4-0,2-0,Fri,8
-?,2007-02-23,Gueugnon,Chateauroux,3-0,2-0,Fri,8
-?,2007-02-23,Istres,Tours,2-1,1-1,Fri,8
-?,2007-02-23,Libourne,Amiens,1-1,1-0,Fri,8
-?,2007-02-23,Metz,Dijon,5-0,3-0,Fri,8
-?,2007-02-23,Reims,Ajaccio,4-1,1-1,Fri,8
-?,2007-02-23,Strasbourg,Creteil,1-0,1-0,Fri,8
-?,2007-02-26,Grenoble,Le Havre,2-1,0-1,Mon,9
-?,2007-03-02,Ajaccio,Grenoble,3-1,2-0,Fri,9
-?,2007-03-02,Amiens,Istres,2-1,1-0,Fri,9
-?,2007-03-02,Chateauroux,Libourne,0-1,0-1,Fri,9
-?,2007-03-02,Creteil,Brest,0-2,0-1,Fri,9
-?,2007-03-02,Dijon,Gueugnon,1-0,0-0,Fri,9
-?,2007-03-02,Guingamp,Reims,1-0,0-0,Fri,9
-?,2007-03-02,Le Havre,Strasbourg,0-1,0-1,Fri,9
-?,2007-03-02,Montpellier,Metz,1-1,1-1,Fri,9
-?,2007-03-02,Niort,Bastia,0-0,0-0,Fri,9
-?,2007-03-05,Tours,Caen,2-3,0-2,Mon,10
-?,2007-03-09,Bastia,Amiens,2-2,1-1,Fri,10
-?,2007-03-09,Brest,Grenoble,1-0,0-0,Fri,10
-?,2007-03-09,Caen,Guingamp,1-1,1-0,Fri,10
-?,2007-03-09,Dijon,Montpellier,1-1,0-1,Fri,10
-?,2007-03-09,Gueugnon,Le Havre,2-1,2-0,Fri,10
-?,2007-03-09,Istres,Creteil,0-0,0-0,Fri,10
-?,2007-03-09,Libourne,Tours,1-0,1-0,Fri,10
-?,2007-03-09,Metz,Niort,0-0,0-0,Fri,10
-?,2007-03-09,Strasbourg,Ajaccio,0-0,0-0,Fri,10
-?,2007-03-12,Reims,Chateauroux,0-2,0-0,Mon,11
-?,2007-03-16,Ajaccio,Gueugnon,1-1,0-1,Fri,11
-?,2007-03-16,Amiens,Brest,2-0,0-0,Fri,11
-?,2007-03-16,Chateauroux,Bastia,1-2,0-1,Fri,11
-?,2007-03-16,Creteil,Metz,1-1,1-0,Fri,11
-?,2007-03-16,Guingamp,Libourne,2-1,2-0,Fri,11
-?,2007-03-16,Le Havre,Istres,1-0,0-0,Fri,11
-?,2007-03-16,Montpellier,Caen,1-2,1-0,Fri,11
-?,2007-03-16,Niort,Dijon,2-1,2-0,Fri,11
-?,2007-03-16,Tours,Reims,0-0,0-0,Fri,11
-?,2007-03-23,Libourne,Metz,0-2,0-1,Fri,12
-?,2007-03-30,Bastia,Tours,2-0,1-0,Fri,13
-?,2007-03-30,Brest,Chateauroux,0-0,0-0,Fri,13
-?,2007-03-30,Caen,Strasbourg,2-2,2-1,Fri,13
-?,2007-03-30,Dijon,Amiens,1-2,1-0,Fri,13
-?,2007-03-30,Gueugnon,Grenoble,0-0,0-0,Fri,13
-?,2007-03-30,Istres,Ajaccio,1-4,0-1,Fri,13
-?,2007-03-30,Libourne,Creteil,0-2,0-2,Fri,13
-?,2007-03-30,Metz,Guingamp,1-0,1-0,Fri,13
-?,2007-03-30,Montpellier,Niort,2-1,1-0,Fri,13
-?,2007-04-02,Reims,Le Havre,3-2,2-1,Mon,14
-?,2007-04-06,Ajaccio,Caen,0-0,0-0,Fri,14
-?,2007-04-06,Amiens,Montpellier,4-1,2-1,Fri,14
-?,2007-04-06,Chateauroux,Dijon,2-1,0-0,Fri,14
-?,2007-04-06,Creteil,Reims,1-1,1-1,Fri,14
-?,2007-04-06,Grenoble,Istres,3-0,1-0,Fri,14
-?,2007-04-06,Guingamp,Bastia,4-0,2-0,Fri,14
-?,2007-04-06,Le Havre,Libourne,2-0,0-0,Fri,14
-?,2007-04-06,Niort,Brest,1-0,1-0,Fri,14
-?,2007-04-06,Strasbourg,Gueugnon,2-1,0-1,Fri,14
-?,2007-04-09,Tours,Metz,0-1,0-1,Mon,15
-?,2007-04-13,Bastia,Creteil,1-2,0-2,Fri,15
-?,2007-04-13,Caen,Grenoble,0-1,0-0,Fri,15
-?,2007-04-13,Dijon,Tours,2-1,1-0,Fri,15
-?,2007-04-13,Istres,Strasbourg,3-2,1-1,Fri,15
-?,2007-04-13,Libourne,Ajaccio,1-0,1-0,Fri,15
-?,2007-04-13,Metz,Chateauroux,2-0,2-0,Fri,15
-?,2007-04-13,Montpellier,Guingamp,1-1,0-1,Fri,15
-?,2007-04-13,Niort,Amiens,2-0,1-0,Fri,15
-?,2007-04-13,Reims,Gueugnon,1-0,0-0,Fri,15
-?,2007-04-16,Brest,Le Havre,2-0,2-0,Mon,16
-?,2007-04-17,Grenoble,Strasbourg,1-1,1-0,Tue,16
-?,2007-04-20,Ajaccio,Brest,2-1,1-1,Fri,16
-?,2007-04-20,Amiens,Metz,0-2,0-2,Fri,16
-?,2007-04-20,Chateauroux,Niort,0-0,0-0,Fri,16
-?,2007-04-20,Creteil,Caen,4-3,3-1,Fri,16
-?,2007-04-20,Grenoble,Libourne,2-1,0-1,Fri,16
-?,2007-04-20,Gueugnon,Istres,3-3,0-1,Fri,16
-?,2007-04-20,Guingamp,Dijon,2-2,0-1,Fri,16
-?,2007-04-20,Le Havre,Bastia,2-0,1-0,Fri,16
-?,2007-04-20,Tours,Montpellier,1-1,1-0,Fri,16
-?,2007-04-23,Strasbourg,Reims,1-0,1-0,Mon,17
-?,2007-04-27,Amiens,Guingamp,3-1,1-0,Fri,17
-?,2007-04-27,Bastia,Ajaccio,4-1,1-0,Fri,17
-?,2007-04-27,Brest,Istres,0-0,0-0,Fri,17
-?,2007-04-27,Dijon,Creteil,1-1,0-0,Fri,17
-?,2007-04-27,Libourne,Strasbourg,1-0,1-0,Fri,17
-?,2007-04-27,Metz,Le Havre,1-0,1-0,Fri,17
-?,2007-04-27,Montpellier,Chateauroux,1-3,0-2,Fri,17
-?,2007-04-27,Niort,Tours,0-0,0-0,Fri,17
-?,2007-04-27,Reims,Grenoble,0-1,0-0,Fri,17
-?,2007-04-30,Caen,Gueugnon,1-1,0-1,Mon,18
-?,2007-05-04,Ajaccio,Metz,2-1,0-1,Fri,18
-?,2007-05-04,Chateauroux,Caen,1-1,0-0,Fri,18
-?,2007-05-04,Grenoble,Bastia,1-1,0-0,Fri,18
-?,2007-05-04,Gueugnon,Libourne,1-3,0-0,Fri,18
-?,2007-05-04,Guingamp,Niort,1-0,0-0,Fri,18
-?,2007-05-04,Istres,Reims,2-2,0-2,Fri,18
-?,2007-05-04,Le Havre,Dijon,1-2,0-0,Fri,18
-?,2007-05-04,Strasbourg,Brest,1-0,1-0,Fri,18
-?,2007-05-04,Tours,Amiens,0-2,0-1,Fri,18
-?,2007-05-07,Creteil,Montpellier,1-0,0-0,Mon,19
-?,2007-05-11,Amiens,Chateauroux,3-1,1-0,Fri,19
-?,2007-05-11,Bastia,Strasbourg,1-2,1-0,Fri,19
-?,2007-05-11,Brest,Gueugnon,2-1,1-0,Fri,19
-?,2007-05-11,Caen,Reims,2-1,0-1,Fri,19
-?,2007-05-11,Dijon,Ajaccio,2-2,0-2,Fri,19
-?,2007-05-11,Guingamp,Tours,3-1,2-1,Fri,19
-?,2007-05-11,Libourne,Istres,1-2,0-2,Fri,19
-?,2007-05-11,Metz,Grenoble,1-2,1-2,Fri,19
-?,2007-05-11,Niort,Creteil,2-1,0-1,Fri,19
-?,2007-05-14,Montpellier,Le Havre,2-1,1-1,Mon,20
-?,2007-05-18,Ajaccio,Montpellier,0-2,0-0,Fri,20
-?,2007-05-18,Chateauroux,Guingamp,1-0,1-0,Fri,20
-?,2007-05-18,Creteil,Amiens,0-2,0-2,Fri,20
-?,2007-05-18,Grenoble,Dijon,2-1,1-1,Fri,20
-?,2007-05-18,Gueugnon,Bastia,4-2,3-1,Fri,20
-?,2007-05-18,Istres,Caen,1-2,0-2,Fri,20
-?,2007-05-18,Le Havre,Niort,2-2,1-1,Fri,20
-?,2007-05-18,Reims,Libourne,1-1,1-1,Fri,20
-?,2007-05-18,Strasbourg,Metz,2-1,2-1,Fri,20
-?,2007-05-18,Tours,Brest,1-2,1-1,Fri,20
-?,2007-05-25,Amiens,Le Havre,2-0,1-0,Fri,21
-?,2007-05-25,Bastia,Istres,4-1,3-1,Fri,21
-?,2007-05-25,Brest,Reims,3-0,3-0,Fri,21
-?,2007-05-25,Dijon,Strasbourg,3-1,2-1,Fri,21
-?,2007-05-25,Guingamp,Creteil,2-1,1-1,Fri,21
-?,2007-05-25,Libourne,Caen,1-2,0-1,Fri,21
-?,2007-05-25,Metz,Gueugnon,1-2,1-0,Fri,21
-?,2007-05-25,Montpellier,Grenoble,1-0,0-0,Fri,21
-?,2007-05-25,Niort,Ajaccio,3-0,0-0,Fri,21
-?,2007-05-25,Tours,Chateauroux,2-1,2-0,Fri,21
+Round,Date,Team 1,Team 2,FT,HT
+?,(Fri) Jul/28 2006 (30),Ajaccio (1),Niort (1),1-1,0-1
+?,(Fri) Jul/28 2006 (30),Caen (1),Libourne (1),2-1,1-0
+?,(Fri) Jul/28 2006 (30),Chateauroux (1),Tours (1),3-1,1-1
+?,(Fri) Jul/28 2006 (30),Creteil (1),Guingamp (1),0-0,0-0
+?,(Fri) Jul/28 2006 (30),Grenoble (1),Montpellier (1),3-2,0-2
+?,(Fri) Jul/28 2006 (30),Istres (1),Bastia (1),2-2,2-1
+?,(Fri) Jul/28 2006 (30),Le Havre (1),Amiens (1),1-3,0-1
+?,(Fri) Jul/28 2006 (30),Reims (1),Brest (1),2-0,1-0
+?,(Fri) Jul/28 2006 (30),Strasbourg (1),Dijon (1),0-0,0-0
+?,(Sat) Jul/29 2006 (30),Gueugnon (1),Metz (1),0-1,0-0
+?,(Thu) Aug/3 2006 (31),Guingamp (2),Ajaccio (2),1-1,0-1
+?,(Fri) Aug/4 2006 (31),Amiens (2),Strasbourg (2),1-0,1-0
+?,(Fri) Aug/4 2006 (31),Bastia (2),Reims (2),1-0,1-0
+?,(Fri) Aug/4 2006 (31),Brest (2),Libourne (2),2-2,0-1
+?,(Fri) Aug/4 2006 (31),Chateauroux (2),Le Havre (2),2-2,1-0
+?,(Fri) Aug/4 2006 (31),Dijon (2),Caen (2),0-2,0-2
+?,(Fri) Aug/4 2006 (31),Metz (2),Istres (2),3-0,1-0
+?,(Fri) Aug/4 2006 (31),Montpellier (2),Gueugnon (2),0-3,0-2
+?,(Fri) Aug/4 2006 (31),Niort (2),Grenoble (2),2-1,1-1
+?,(Fri) Aug/4 2006 (31),Tours (2),Creteil (2),1-1,1-0
+?,(Mon) Aug/7 2006 (32),Libourne (3),Bastia (3),2-4,1-1
+?,(Tue) Aug/8 2006 (32),Ajaccio (3),Amiens (3),3-1,1-0
+?,(Tue) Aug/8 2006 (32),Caen (3),Brest (3),1-0,0-0
+?,(Tue) Aug/8 2006 (32),Creteil (3),Chateauroux (3),1-3,0-0
+?,(Tue) Aug/8 2006 (32),Grenoble (3),Guingamp (3),1-0,0-0
+?,(Tue) Aug/8 2006 (32),Gueugnon (3),Niort (3),0-1,0-0
+?,(Tue) Aug/8 2006 (32),Istres (3),Dijon (3),2-2,0-1
+?,(Tue) Aug/8 2006 (32),Le Havre (3),Tours (3),3-0,2-0
+?,(Tue) Aug/8 2006 (32),Reims (3),Metz (3),2-0,2-0
+?,(Tue) Aug/8 2006 (32),Strasbourg (3),Montpellier (3),2-0,0-0
+?,(Fri) Aug/11 2006 (32),Bastia (4),Brest (4),4-2,0-1
+?,(Fri) Aug/11 2006 (32),Chateauroux (4),Grenoble (4),2-2,0-0
+?,(Fri) Aug/11 2006 (32),Creteil (4),Gueugnon (4),0-0,0-0
+?,(Fri) Aug/11 2006 (32),Dijon (4),Reims (4),1-0,0-0
+?,(Fri) Aug/11 2006 (32),Guingamp (4),Le Havre (4),1-2,0-0
+?,(Fri) Aug/11 2006 (32),Metz (4),Libourne (4),1-0,0-0
+?,(Fri) Aug/11 2006 (32),Montpellier (4),Istres (4),4-0,0-0
+?,(Fri) Aug/11 2006 (32),Niort (4),Strasbourg (4),2-2,2-2
+?,(Fri) Aug/11 2006 (32),Tours (4),Ajaccio (4),1-0,1-0
+?,(Mon) Aug/14 2006 (33),Amiens (4),Caen (4),2-2,0-1
+?,(Fri) Aug/18 2006 (33),Ajaccio (5),Chateauroux (5),2-3,1-3
+?,(Fri) Aug/18 2006 (33),Brest (5),Metz (5),0-1,0-1
+?,(Fri) Aug/18 2006 (33),Caen (5),Bastia (5),2-0,0-0
+?,(Fri) Aug/18 2006 (33),Grenoble (5),Tours (5),2-1,2-0
+?,(Fri) Aug/18 2006 (33),Gueugnon (5),Amiens (5),2-1,2-1
+?,(Fri) Aug/18 2006 (33),Istres (5),Niort (5),1-0,0-0
+?,(Fri) Aug/18 2006 (33),Le Havre (5),Creteil (5),2-1,1-0
+?,(Fri) Aug/18 2006 (33),Libourne (5),Dijon (5),0-1,0-1
+?,(Fri) Aug/18 2006 (33),Reims (5),Montpellier (5),4-1,2-0
+?,(Fri) Aug/18 2006 (33),Strasbourg (5),Guingamp (5),2-0,1-0
+?,(Fri) Aug/25 2006 (34),Amiens (6),Grenoble (6),0-1,0-1
+?,(Fri) Aug/25 2006 (34),Creteil (6),Ajaccio (6),0-0,0-0
+?,(Fri) Aug/25 2006 (34),Dijon (6),Brest (6),1-1,1-0
+?,(Fri) Aug/25 2006 (34),Guingamp (6),Gueugnon (6),6-1,2-0
+?,(Fri) Aug/25 2006 (34),Le Havre (6),Caen (6),2-2,1-1
+?,(Fri) Aug/25 2006 (34),Metz (6),Bastia (6),2-1,1-1
+?,(Fri) Aug/25 2006 (34),Montpellier (6),Libourne (6),0-1,0-1
+?,(Fri) Aug/25 2006 (34),Niort (6),Reims (6),0-0,0-0
+?,(Fri) Aug/25 2006 (34),Tours (6),Strasbourg (6),0-0,0-0
+?,(Sun) Aug/27 2006 (34),Chateauroux (6),Istres (6),0-0,0-0
+?,(Thu) Sep/7 2006 (36),Caen (7),Metz (7),0-0,0-0
+?,(Fri) Sep/8 2006 (36),Ajaccio (7),Le Havre (7),0-0,0-0
+?,(Fri) Sep/8 2006 (36),Bastia (7),Dijon (7),1-1,1-1
+?,(Fri) Sep/8 2006 (36),Brest (7),Montpellier (7),0-0,0-0
+?,(Fri) Sep/8 2006 (36),Grenoble (7),Creteil (7),3-1,0-1
+?,(Fri) Sep/8 2006 (36),Gueugnon (7),Tours (7),2-1,1-1
+?,(Fri) Sep/8 2006 (36),Istres (7),Guingamp (7),1-0,1-0
+?,(Fri) Sep/8 2006 (36),Libourne (7),Niort (7),3-1,3-0
+?,(Fri) Sep/8 2006 (36),Reims (7),Amiens (7),1-0,1-0
+?,(Mon) Sep/11 2006 (37),Strasbourg (7),Chateauroux (7),2-0,1-0
+?,(Fri) Sep/15 2006 (37),Ajaccio (8),Reims (8),2-1,1-0
+?,(Fri) Sep/15 2006 (37),Amiens (8),Libourne (8),1-1,1-1
+?,(Fri) Sep/15 2006 (37),Chateauroux (8),Gueugnon (8),2-1,0-1
+?,(Fri) Sep/15 2006 (37),Creteil (8),Strasbourg (8),0-2,0-1
+?,(Fri) Sep/15 2006 (37),Dijon (8),Metz (8),0-3,0-1
+?,(Fri) Sep/15 2006 (37),Le Havre (8),Grenoble (8),1-1,1-1
+?,(Fri) Sep/15 2006 (37),Montpellier (8),Bastia (8),4-0,2-0
+?,(Fri) Sep/15 2006 (37),Niort (8),Caen (8),2-2,0-1
+?,(Fri) Sep/15 2006 (37),Tours (8),Istres (8),2-0,1-0
+?,(Mon) Sep/18 2006 (38),Guingamp (8),Brest (8),1-1,0-1
+?,(Fri) Sep/22 2006 (38),Bastia (9),Niort (9),4-1,2-0
+?,(Fri) Sep/22 2006 (38),Caen (9),Tours (9),1-0,1-0
+?,(Fri) Sep/22 2006 (38),Grenoble (9),Ajaccio (9),2-0,1-0
+?,(Fri) Sep/22 2006 (38),Gueugnon (9),Dijon (9),0-2,0-1
+?,(Fri) Sep/22 2006 (38),Istres (9),Amiens (9),1-3,0-1
+?,(Fri) Sep/22 2006 (38),Reims (9),Guingamp (9),1-0,0-0
+?,(Sat) Sep/23 2006 (38),Brest (9),Creteil (9),4-1,3-1
+?,(Sat) Sep/23 2006 (38),Strasbourg (9),Le Havre (9),1-1,0-0
+?,(Sun) Sep/24 2006 (38),Libourne (9),Chateauroux (9),0-1,0-1
+?,(Mon) Sep/25 2006 (39),Metz (9),Montpellier (9),2-1,1-0
+?,(Fri) Sep/29 2006 (39),Ajaccio (10),Strasbourg (10),2-2,0-1
+?,(Fri) Sep/29 2006 (39),Chateauroux (10),Reims (10),1-1,1-0
+?,(Fri) Sep/29 2006 (39),Creteil (10),Istres (10),1-0,0-0
+?,(Fri) Sep/29 2006 (39),Grenoble (10),Brest (10),0-0,0-0
+?,(Fri) Sep/29 2006 (39),Guingamp (10),Caen (10),1-3,1-1
+?,(Fri) Sep/29 2006 (39),Le Havre (10),Gueugnon (10),6-1,5-0
+?,(Fri) Sep/29 2006 (39),Montpellier (10),Dijon (10),3-0,1-0
+?,(Fri) Sep/29 2006 (39),Niort (10),Metz (10),1-1,1-1
+?,(Fri) Sep/29 2006 (39),Tours (10),Libourne (10),1-2,0-1
+?,(Mon) Oct/2 2006 (40),Amiens (10),Bastia (10),1-0,1-0
+?,(Fri) Oct/13 2006 (41),Bastia (11),Chateauroux (11),1-2,1-1
+?,(Fri) Oct/13 2006 (41),Brest (11),Amiens (11),1-1,0-1
+?,(Fri) Oct/13 2006 (41),Dijon (11),Niort (11),2-1,1-1
+?,(Fri) Oct/13 2006 (41),Gueugnon (11),Ajaccio (11),1-0,0-0
+?,(Fri) Oct/13 2006 (41),Istres (11),Le Havre (11),0-1,0-1
+?,(Fri) Oct/13 2006 (41),Libourne (11),Guingamp (11),1-1,0-1
+?,(Fri) Oct/13 2006 (41),Metz (11),Creteil (11),2-0,1-0
+?,(Fri) Oct/13 2006 (41),Reims (11),Tours (11),2-1,0-0
+?,(Fri) Oct/13 2006 (41),Strasbourg (11),Grenoble (11),1-0,1-0
+?,(Mon) Oct/16 2006 (42),Caen (11),Montpellier (11),0-0,0-0
+?,(Fri) Oct/20 2006 (42),Ajaccio (12),Istres (12),2-0,0-0
+?,(Fri) Oct/20 2006 (42),Amiens (12),Dijon (12),0-4,0-2
+?,(Fri) Oct/20 2006 (42),Chateauroux (12),Brest (12),1-0,0-0
+?,(Fri) Oct/20 2006 (42),Creteil (12),Libourne (12),1-0,0-0
+?,(Fri) Oct/20 2006 (42),Grenoble (12),Gueugnon (12),2-2,1-0
+?,(Fri) Oct/20 2006 (42),Guingamp (12),Metz (12),0-2,0-2
+?,(Fri) Oct/20 2006 (42),Le Havre (12),Reims (12),1-0,0-0
+?,(Fri) Oct/20 2006 (42),Niort (12),Montpellier (12),1-1,0-0
+?,(Sun) Oct/22 2006 (42),Strasbourg (12),Caen (12),3-2,1-1
+?,(Mon) Oct/23 2006 (43),Tours (12),Bastia (12),0-3,0-1
+?,(Fri) Oct/27 2006 (43),Bastia (13),Guingamp (13),0-0,0-0
+?,(Fri) Oct/27 2006 (43),Brest (13),Niort (13),1-0,0-0
+?,(Fri) Oct/27 2006 (43),Caen (13),Ajaccio (13),4-0,1-0
+?,(Fri) Oct/27 2006 (43),Dijon (13),Chateauroux (13),2-0,0-0
+?,(Fri) Oct/27 2006 (43),Gueugnon (13),Strasbourg (13),0-1,0-1
+?,(Fri) Oct/27 2006 (43),Libourne (13),Le Havre (13),0-0,0-0
+?,(Fri) Oct/27 2006 (43),Metz (13),Tours (13),2-1,2-1
+?,(Fri) Oct/27 2006 (43),Montpellier (13),Amiens (13),1-2,0-0
+?,(Fri) Oct/27 2006 (43),Reims (13),Creteil (13),0-0,0-0
+?,(Mon) Oct/30 2006 (44),Istres (13),Grenoble (13),3-0,1-0
+?,(Fri) Nov/3 2006 (44),Ajaccio (14),Libourne (14),1-0,0-0
+?,(Fri) Nov/3 2006 (44),Amiens (14),Niort (14),1-0,1-0
+?,(Fri) Nov/3 2006 (44),Chateauroux (14),Metz (14),0-1,0-1
+?,(Fri) Nov/3 2006 (44),Creteil (14),Bastia (14),1-0,1-0
+?,(Fri) Nov/3 2006 (44),Grenoble (14),Caen (14),1-1,1-1
+?,(Fri) Nov/3 2006 (44),Gueugnon (14),Reims (14),0-0,0-0
+?,(Fri) Nov/3 2006 (44),Guingamp (14),Montpellier (14),1-0,0-0
+?,(Fri) Nov/3 2006 (44),Le Havre (14),Brest (14),0-1,0-0
+?,(Fri) Nov/3 2006 (44),Strasbourg (14),Istres (14),2-0,1-0
+?,(Fri) Nov/3 2006 (44),Tours (14),Dijon (14),0-1,0-0
+?,(Mon) Nov/6 2006 (45),Metz (15),Amiens (15),1-0,0-0
+?,(Tue) Nov/7 2006 (45),Bastia (15),Le Havre (15),1-1,0-0
+?,(Tue) Nov/7 2006 (45),Brest (15),Ajaccio (15),0-1,0-0
+?,(Tue) Nov/7 2006 (45),Caen (15),Creteil (15),1-0,0-0
+?,(Tue) Nov/7 2006 (45),Dijon (15),Guingamp (15),2-1,1-0
+?,(Tue) Nov/7 2006 (45),Istres (15),Gueugnon (15),0-1,0-0
+?,(Tue) Nov/7 2006 (45),Libourne (15),Grenoble (15),2-1,2-0
+?,(Tue) Nov/7 2006 (45),Montpellier (15),Tours (15),1-0,0-0
+?,(Tue) Nov/7 2006 (45),Niort (15),Chateauroux (15),2-0,2-0
+?,(Tue) Nov/7 2006 (45),Reims (15),Strasbourg (15),2-0,1-0
+?,(Fri) Nov/10 2006 (45),Ajaccio (16),Bastia (16),0-1,0-0
+?,(Fri) Nov/10 2006 (45),Chateauroux (16),Montpellier (16),0-1,0-1
+?,(Fri) Nov/10 2006 (45),Creteil (16),Dijon (16),1-1,1-1
+?,(Fri) Nov/10 2006 (45),Grenoble (16),Reims (16),5-1,3-0
+?,(Fri) Nov/10 2006 (45),Gueugnon (16),Caen (16),0-1,0-1
+?,(Fri) Nov/10 2006 (45),Guingamp (16),Amiens (16),2-3,1-1
+?,(Fri) Nov/10 2006 (45),Istres (16),Brest (16),1-1,0-1
+?,(Fri) Nov/10 2006 (45),Strasbourg (16),Libourne (16),2-1,0-0
+?,(Fri) Nov/10 2006 (45),Tours (16),Niort (16),1-0,0-0
+?,(Mon) Nov/13 2006 (46),Le Havre (16),Metz (16),1-1,0-0
+?,(Fri) Nov/17 2006 (46),Amiens (17),Tours (17),3-0,2-0
+?,(Fri) Nov/17 2006 (46),Bastia (17),Grenoble (17),0-0,0-0
+?,(Fri) Nov/17 2006 (46),Caen (17),Chateauroux (17),1-0,0-0
+?,(Fri) Nov/17 2006 (46),Dijon (17),Le Havre (17),2-1,0-0
+?,(Fri) Nov/17 2006 (46),Libourne (17),Gueugnon (17),2-1,2-0
+?,(Fri) Nov/17 2006 (46),Montpellier (17),Creteil (17),1-1,1-0
+?,(Fri) Nov/17 2006 (46),Niort (17),Guingamp (17),0-1,0-0
+?,(Fri) Nov/17 2006 (46),Reims (17),Istres (17),1-2,0-2
+?,(Sun) Nov/19 2006 (46),Metz (17),Ajaccio (17),2-0,1-0
+?,(Mon) Nov/20 2006 (47),Brest (17),Strasbourg (17),1-1,1-0
+?,(Fri) Dec/1 2006 (48),Ajaccio (18),Dijon (18),3-0,1-0
+?,(Fri) Dec/1 2006 (48),Chateauroux (18),Amiens (18),3-1,2-1
+?,(Fri) Dec/1 2006 (48),Creteil (18),Niort (18),3-1,1-0
+?,(Fri) Dec/1 2006 (48),Gueugnon (18),Brest (18),4-2,1-0
+?,(Fri) Dec/1 2006 (48),Istres (18),Libourne (18),2-2,2-1
+?,(Fri) Dec/1 2006 (48),Le Havre (18),Montpellier (18),3-0,0-0
+?,(Fri) Dec/1 2006 (48),Strasbourg (18),Bastia (18),1-1,0-0
+?,(Fri) Dec/1 2006 (48),Tours (18),Guingamp (18),1-1,1-1
+?,(Sun) Dec/3 2006 (48),Grenoble (18),Metz (18),1-1,0-1
+?,(Mon) Dec/4 2006 (49),Reims (18),Caen (18),2-2,1-0
+?,(Fri) Dec/8 2006 (49),Amiens (19),Creteil (19),1-0,1-0
+?,(Fri) Dec/8 2006 (49),Bastia (19),Gueugnon (19),0-1,0-1
+?,(Fri) Dec/8 2006 (49),Brest (19),Tours (19),1-1,1-0
+?,(Fri) Dec/8 2006 (49),Caen (19),Istres (19),4-0,3-0
+?,(Fri) Dec/8 2006 (49),Guingamp (19),Chateauroux (19),1-1,0-1
+?,(Fri) Dec/8 2006 (49),Libourne (19),Reims (19),2-3,1-1
+?,(Fri) Dec/8 2006 (49),Metz (19),Strasbourg (19),4-1,1-0
+?,(Fri) Dec/8 2006 (49),Montpellier (19),Ajaccio (19),1-2,1-0
+?,(Fri) Dec/8 2006 (49),Niort (19),Le Havre (19),0-0,0-0
+?,(Mon) Dec/11 2006 (50),Dijon (19),Grenoble (19),1-1,0-0
+?,(Thu) Dec/21 2006 (51),Strasbourg (20),Amiens (20),1-0,1-0
+?,(Fri) Dec/22 2006 (51),Ajaccio (20),Guingamp (20),0-0,0-0
+?,(Fri) Dec/22 2006 (51),Caen (20),Dijon (20),3-2,1-1
+?,(Fri) Dec/22 2006 (51),Creteil (20),Tours (20),4-3,3-1
+?,(Fri) Dec/22 2006 (51),Grenoble (20),Niort (20),4-1,1-0
+?,(Fri) Dec/22 2006 (51),Gueugnon (20),Montpellier (20),3-0,3-0
+?,(Fri) Dec/22 2006 (51),Istres (20),Metz (20),0-0,0-0
+?,(Fri) Dec/22 2006 (51),Le Havre (20),Chateauroux (20),1-0,0-0
+?,(Fri) Dec/22 2006 (51),Libourne (20),Brest (20),3-2,2-1
+?,(Sat) Dec/23 2006 (51),Reims (20),Bastia (20),1-1,1-0
+?,(Fri) Jan/12 2007 (2),Amiens (21),Ajaccio (21),1-1,1-1
+?,(Fri) Jan/12 2007 (2),Bastia (21),Libourne (21),3-2,1-1
+?,(Fri) Jan/12 2007 (2),Chateauroux (21),Creteil (21),1-0,0-0
+?,(Fri) Jan/12 2007 (2),Dijon (21),Istres (21),1-0,1-0
+?,(Fri) Jan/12 2007 (2),Guingamp (21),Grenoble (21),2-2,0-2
+?,(Fri) Jan/12 2007 (2),Metz (21),Reims (21),2-2,2-2
+?,(Fri) Jan/12 2007 (2),Niort (21),Gueugnon (21),1-1,1-1
+?,(Fri) Jan/12 2007 (2),Tours (21),Le Havre (21),0-2,0-2
+?,(Sun) Jan/14 2007 (2),Montpellier (21),Strasbourg (21),0-0,0-0
+?,(Mon) Jan/15 2007 (3),Brest (21),Caen (21),2-2,1-1
+?,(Fri) Jan/26 2007 (4),Ajaccio (22),Tours (22),0-1,0-1
+?,(Fri) Jan/26 2007 (4),Brest (22),Bastia (22),3-1,1-0
+?,(Fri) Jan/26 2007 (4),Caen (22),Amiens (22),3-1,2-0
+?,(Fri) Jan/26 2007 (4),Grenoble (22),Chateauroux (22),0-1,0-0
+?,(Fri) Jan/26 2007 (4),Gueugnon (22),Creteil (22),1-1,1-0
+?,(Fri) Jan/26 2007 (4),Istres (22),Montpellier (22),1-2,0-1
+?,(Fri) Jan/26 2007 (4),Reims (22),Dijon (22),1-0,1-0
+?,(Fri) Jan/26 2007 (4),Strasbourg (22),Niort (22),1-0,0-0
+?,(Mon) Jan/29 2007 (5),Le Havre (22),Guingamp (22),2-0,1-0
+?,(Fri) Feb/2 2007 (5),Amiens (23),Gueugnon (23),2-0,2-0
+?,(Fri) Feb/2 2007 (5),Bastia (23),Caen (23),2-0,2-0
+?,(Fri) Feb/2 2007 (5),Chateauroux (23),Ajaccio (23),2-1,0-0
+?,(Fri) Feb/2 2007 (5),Creteil (23),Le Havre (23),0-1,0-0
+?,(Fri) Feb/2 2007 (5),Dijon (23),Libourne (22),0-1,0-0
+?,(Fri) Feb/2 2007 (5),Metz (22),Brest (23),0-0,0-0
+?,(Fri) Feb/2 2007 (5),Montpellier (23),Reims (23),2-0,2-0
+?,(Fri) Feb/2 2007 (5),Niort (23),Istres (23),0-0,0-0
+?,(Fri) Feb/2 2007 (5),Tours (23),Grenoble (23),1-1,0-0
+?,(Mon) Feb/5 2007 (6),Guingamp (23),Strasbourg (23),1-1,0-0
+?,(Fri) Feb/9 2007 (6),Ajaccio (24),Creteil (24),5-0,1-0
+?,(Fri) Feb/9 2007 (6),Brest (24),Dijon (24),0-0,0-0
+?,(Fri) Feb/9 2007 (6),Caen (24),Le Havre (24),1-1,0-1
+?,(Fri) Feb/9 2007 (6),Grenoble (24),Amiens (24),0-1,0-0
+?,(Fri) Feb/9 2007 (6),Gueugnon (24),Guingamp (24),2-0,1-0
+?,(Fri) Feb/9 2007 (6),Istres (24),Chateauroux (24),3-1,2-1
+?,(Fri) Feb/9 2007 (6),Libourne (23),Montpellier (24),2-2,0-0
+?,(Fri) Feb/9 2007 (6),Reims (24),Niort (24),2-3,0-2
+?,(Fri) Feb/9 2007 (6),Strasbourg (24),Tours (24),2-1,0-1
+?,(Mon) Feb/12 2007 (7),Bastia (24),Metz (23),1-0,0-0
+?,(Fri) Feb/16 2007 (7),Amiens (25),Reims (25),2-1,0-0
+?,(Fri) Feb/16 2007 (7),Creteil (25),Grenoble (25),1-1,1-1
+?,(Fri) Feb/16 2007 (7),Dijon (25),Bastia (25),0-0,0-0
+?,(Fri) Feb/16 2007 (7),Guingamp (25),Istres (25),3-0,0-0
+?,(Fri) Feb/16 2007 (7),Le Havre (25),Ajaccio (25),4-1,0-1
+?,(Fri) Feb/16 2007 (7),Montpellier (25),Brest (25),0-0,0-0
+?,(Fri) Feb/16 2007 (7),Niort (25),Libourne (24),2-0,0-0
+?,(Fri) Feb/16 2007 (7),Tours (25),Gueugnon (25),2-1,0-1
+?,(Sun) Feb/18 2007 (7),Chateauroux (25),Strasbourg (25),1-1,0-1
+?,(Mon) Feb/19 2007 (8),Metz (24),Caen (25),2-0,1-0
+?,(Fri) Feb/23 2007 (8),Bastia (26),Montpellier (26),1-0,1-0
+?,(Fri) Feb/23 2007 (8),Brest (26),Guingamp (26),2-3,2-0
+?,(Fri) Feb/23 2007 (8),Caen (26),Niort (26),4-0,2-0
+?,(Fri) Feb/23 2007 (8),Gueugnon (26),Chateauroux (26),3-0,2-0
+?,(Fri) Feb/23 2007 (8),Istres (26),Tours (26),2-1,1-1
+?,(Fri) Feb/23 2007 (8),Libourne (25),Amiens (26),1-1,1-0
+?,(Fri) Feb/23 2007 (8),Metz (25),Dijon (26),5-0,3-0
+?,(Fri) Feb/23 2007 (8),Reims (26),Ajaccio (26),4-1,1-1
+?,(Fri) Feb/23 2007 (8),Strasbourg (26),Creteil (26),1-0,1-0
+?,(Mon) Feb/26 2007 (9),Grenoble (26),Le Havre (26),2-1,0-1
+?,(Fri) Mar/2 2007 (9),Ajaccio (27),Grenoble (27),3-1,2-0
+?,(Fri) Mar/2 2007 (9),Amiens (27),Istres (27),2-1,1-0
+?,(Fri) Mar/2 2007 (9),Chateauroux (27),Libourne (26),0-1,0-1
+?,(Fri) Mar/2 2007 (9),Creteil (27),Brest (27),0-2,0-1
+?,(Fri) Mar/2 2007 (9),Dijon (27),Gueugnon (27),1-0,0-0
+?,(Fri) Mar/2 2007 (9),Guingamp (27),Reims (27),1-0,0-0
+?,(Fri) Mar/2 2007 (9),Le Havre (27),Strasbourg (27),0-1,0-1
+?,(Fri) Mar/2 2007 (9),Montpellier (27),Metz (26),1-1,1-1
+?,(Fri) Mar/2 2007 (9),Niort (27),Bastia (27),0-0,0-0
+?,(Mon) Mar/5 2007 (10),Tours (27),Caen (27),2-3,0-2
+?,(Fri) Mar/9 2007 (10),Bastia (28),Amiens (28),2-2,1-1
+?,(Fri) Mar/9 2007 (10),Brest (28),Grenoble (28),1-0,0-0
+?,(Fri) Mar/9 2007 (10),Caen (28),Guingamp (28),1-1,1-0
+?,(Fri) Mar/9 2007 (10),Dijon (28),Montpellier (28),1-1,0-1
+?,(Fri) Mar/9 2007 (10),Gueugnon (28),Le Havre (28),2-1,2-0
+?,(Fri) Mar/9 2007 (10),Istres (28),Creteil (28),0-0,0-0
+?,(Fri) Mar/9 2007 (10),Libourne (27),Tours (28),1-0,1-0
+?,(Fri) Mar/9 2007 (10),Metz (27),Niort (28),0-0,0-0
+?,(Fri) Mar/9 2007 (10),Strasbourg (28),Ajaccio (28),0-0,0-0
+?,(Mon) Mar/12 2007 (11),Reims (28),Chateauroux (28),0-2,0-0
+?,(Fri) Mar/16 2007 (11),Ajaccio (29),Gueugnon (29),1-1,0-1
+?,(Fri) Mar/16 2007 (11),Amiens (29),Brest (29),2-0,0-0
+?,(Fri) Mar/16 2007 (11),Chateauroux (29),Bastia (29),1-2,0-1
+?,(Fri) Mar/16 2007 (11),Creteil (29),Metz (28),1-1,1-0
+?,(Fri) Mar/16 2007 (11),Guingamp (29),Libourne (28),2-1,2-0
+?,(Fri) Mar/16 2007 (11),Le Havre (29),Istres (29),1-0,0-0
+?,(Fri) Mar/16 2007 (11),Montpellier (29),Caen (29),1-2,1-0
+?,(Fri) Mar/16 2007 (11),Niort (29),Dijon (29),2-1,2-0
+?,(Fri) Mar/16 2007 (11),Tours (29),Reims (29),0-0,0-0
+?,(Fri) Mar/23 2007 (12),Libourne (29),Metz (29),0-2,0-1
+?,(Fri) Mar/30 2007 (13),Bastia (30),Tours (30),2-0,1-0
+?,(Fri) Mar/30 2007 (13),Brest (30),Chateauroux (30),0-0,0-0
+?,(Fri) Mar/30 2007 (13),Caen (30),Strasbourg (29),2-2,2-1
+?,(Fri) Mar/30 2007 (13),Dijon (30),Amiens (30),1-2,1-0
+?,(Fri) Mar/30 2007 (13),Gueugnon (30),Grenoble (29),0-0,0-0
+?,(Fri) Mar/30 2007 (13),Istres (30),Ajaccio (30),1-4,0-1
+?,(Fri) Mar/30 2007 (13),Libourne (30),Creteil (30),0-2,0-2
+?,(Fri) Mar/30 2007 (13),Metz (30),Guingamp (30),1-0,1-0
+?,(Fri) Mar/30 2007 (13),Montpellier (30),Niort (30),2-1,1-0
+?,(Mon) Apr/2 2007 (14),Reims (30),Le Havre (30),3-2,2-1
+?,(Fri) Apr/6 2007 (14),Ajaccio (31),Caen (31),0-0,0-0
+?,(Fri) Apr/6 2007 (14),Amiens (31),Montpellier (31),4-1,2-1
+?,(Fri) Apr/6 2007 (14),Chateauroux (31),Dijon (31),2-1,0-0
+?,(Fri) Apr/6 2007 (14),Creteil (31),Reims (31),1-1,1-1
+?,(Fri) Apr/6 2007 (14),Grenoble (30),Istres (31),3-0,1-0
+?,(Fri) Apr/6 2007 (14),Guingamp (31),Bastia (31),4-0,2-0
+?,(Fri) Apr/6 2007 (14),Le Havre (31),Libourne (31),2-0,0-0
+?,(Fri) Apr/6 2007 (14),Niort (31),Brest (31),1-0,1-0
+?,(Fri) Apr/6 2007 (14),Strasbourg (30),Gueugnon (31),2-1,0-1
+?,(Mon) Apr/9 2007 (15),Tours (31),Metz (31),0-1,0-1
+?,(Fri) Apr/13 2007 (15),Bastia (32),Creteil (32),1-2,0-2
+?,(Fri) Apr/13 2007 (15),Caen (32),Grenoble (31),0-1,0-0
+?,(Fri) Apr/13 2007 (15),Dijon (32),Tours (32),2-1,1-0
+?,(Fri) Apr/13 2007 (15),Istres (32),Strasbourg (31),3-2,1-1
+?,(Fri) Apr/13 2007 (15),Libourne (32),Ajaccio (32),1-0,1-0
+?,(Fri) Apr/13 2007 (15),Metz (32),Chateauroux (32),2-0,2-0
+?,(Fri) Apr/13 2007 (15),Montpellier (32),Guingamp (32),1-1,0-1
+?,(Fri) Apr/13 2007 (15),Niort (32),Amiens (32),2-0,1-0
+?,(Fri) Apr/13 2007 (15),Reims (32),Gueugnon (32),1-0,0-0
+?,(Mon) Apr/16 2007 (16),Brest (32),Le Havre (32),2-0,2-0
+?,(Tue) Apr/17 2007 (16),Grenoble (32),Strasbourg (32),1-1,1-0
+?,(Fri) Apr/20 2007 (16),Ajaccio (33),Brest (33),2-1,1-1
+?,(Fri) Apr/20 2007 (16),Amiens (33),Metz (33),0-2,0-2
+?,(Fri) Apr/20 2007 (16),Chateauroux (33),Niort (33),0-0,0-0
+?,(Fri) Apr/20 2007 (16),Creteil (33),Caen (33),4-3,3-1
+?,(Fri) Apr/20 2007 (16),Grenoble (33),Libourne (33),2-1,0-1
+?,(Fri) Apr/20 2007 (16),Gueugnon (33),Istres (33),3-3,0-1
+?,(Fri) Apr/20 2007 (16),Guingamp (33),Dijon (33),2-2,0-1
+?,(Fri) Apr/20 2007 (16),Le Havre (33),Bastia (33),2-0,1-0
+?,(Fri) Apr/20 2007 (16),Tours (33),Montpellier (33),1-1,1-0
+?,(Mon) Apr/23 2007 (17),Strasbourg (33),Reims (33),1-0,1-0
+?,(Fri) Apr/27 2007 (17),Amiens (34),Guingamp (34),3-1,1-0
+?,(Fri) Apr/27 2007 (17),Bastia (34),Ajaccio (34),4-1,1-0
+?,(Fri) Apr/27 2007 (17),Brest (34),Istres (34),0-0,0-0
+?,(Fri) Apr/27 2007 (17),Dijon (34),Creteil (34),1-1,0-0
+?,(Fri) Apr/27 2007 (17),Libourne (34),Strasbourg (34),1-0,1-0
+?,(Fri) Apr/27 2007 (17),Metz (34),Le Havre (34),1-0,1-0
+?,(Fri) Apr/27 2007 (17),Montpellier (34),Chateauroux (34),1-3,0-2
+?,(Fri) Apr/27 2007 (17),Niort (34),Tours (34),0-0,0-0
+?,(Fri) Apr/27 2007 (17),Reims (34),Grenoble (34),0-1,0-0
+?,(Mon) Apr/30 2007 (18),Caen (34),Gueugnon (34),1-1,0-1
+?,(Fri) May/4 2007 (18),Ajaccio (35),Metz (35),2-1,0-1
+?,(Fri) May/4 2007 (18),Chateauroux (35),Caen (35),1-1,0-0
+?,(Fri) May/4 2007 (18),Grenoble (35),Bastia (35),1-1,0-0
+?,(Fri) May/4 2007 (18),Gueugnon (35),Libourne (35),1-3,0-0
+?,(Fri) May/4 2007 (18),Guingamp (35),Niort (35),1-0,0-0
+?,(Fri) May/4 2007 (18),Istres (35),Reims (35),2-2,0-2
+?,(Fri) May/4 2007 (18),Le Havre (35),Dijon (35),1-2,0-0
+?,(Fri) May/4 2007 (18),Strasbourg (35),Brest (35),1-0,1-0
+?,(Fri) May/4 2007 (18),Tours (35),Amiens (35),0-2,0-1
+?,(Mon) May/7 2007 (19),Creteil (35),Montpellier (35),1-0,0-0
+?,(Fri) May/11 2007 (19),Amiens (36),Chateauroux (36),3-1,1-0
+?,(Fri) May/11 2007 (19),Bastia (36),Strasbourg (36),1-2,1-0
+?,(Fri) May/11 2007 (19),Brest (36),Gueugnon (36),2-1,1-0
+?,(Fri) May/11 2007 (19),Caen (36),Reims (36),2-1,0-1
+?,(Fri) May/11 2007 (19),Dijon (36),Ajaccio (36),2-2,0-2
+?,(Fri) May/11 2007 (19),Guingamp (36),Tours (36),3-1,2-1
+?,(Fri) May/11 2007 (19),Libourne (36),Istres (36),1-2,0-2
+?,(Fri) May/11 2007 (19),Metz (36),Grenoble (36),1-2,1-2
+?,(Fri) May/11 2007 (19),Niort (36),Creteil (36),2-1,0-1
+?,(Mon) May/14 2007 (20),Montpellier (36),Le Havre (36),2-1,1-1
+?,(Fri) May/18 2007 (20),Ajaccio (37),Montpellier (37),0-2,0-0
+?,(Fri) May/18 2007 (20),Chateauroux (37),Guingamp (37),1-0,1-0
+?,(Fri) May/18 2007 (20),Creteil (37),Amiens (37),0-2,0-2
+?,(Fri) May/18 2007 (20),Grenoble (37),Dijon (37),2-1,1-1
+?,(Fri) May/18 2007 (20),Gueugnon (37),Bastia (37),4-2,3-1
+?,(Fri) May/18 2007 (20),Istres (37),Caen (37),1-2,0-2
+?,(Fri) May/18 2007 (20),Le Havre (37),Niort (37),2-2,1-1
+?,(Fri) May/18 2007 (20),Reims (37),Libourne (37),1-1,1-1
+?,(Fri) May/18 2007 (20),Strasbourg (37),Metz (37),2-1,2-1
+?,(Fri) May/18 2007 (20),Tours (37),Brest (37),1-2,1-1
+?,(Fri) May/25 2007 (21),Amiens (38),Le Havre (38),2-0,1-0
+?,(Fri) May/25 2007 (21),Bastia (38),Istres (38),4-1,3-1
+?,(Fri) May/25 2007 (21),Brest (38),Reims (38),3-0,3-0
+?,(Fri) May/25 2007 (21),Dijon (38),Strasbourg (38),3-1,2-1
+?,(Fri) May/25 2007 (21),Guingamp (38),Creteil (38),2-1,1-1
+?,(Fri) May/25 2007 (21),Libourne (38),Caen (38),1-2,0-1
+?,(Fri) May/25 2007 (21),Metz (38),Gueugnon (38),1-2,1-0
+?,(Fri) May/25 2007 (21),Montpellier (38),Grenoble (38),1-0,0-0
+?,(Fri) May/25 2007 (21),Niort (38),Ajaccio (38),3-0,0-0
+?,(Fri) May/25 2007 (21),Tours (38),Chateauroux (38),2-1,2-0

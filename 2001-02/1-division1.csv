@@ -1,307 +1,307 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,2001-07-27,Bordeaux,Nantes,2-0,2-0,Fri,30
-?,2001-07-28,Bastia,Sedan,1-1,0-0,Sat,30
-?,2001-07-28,Lens,Lyon,2-0,2-0,Sat,30
-?,2001-07-28,Lorient,Metz,1-0,0-0,Sat,30
-?,2001-07-28,Monaco,Sochaux,0-1,0-0,Sat,30
-?,2001-07-28,Montpellier,Marseille,1-1,0-1,Sat,30
-?,2001-07-28,Paris SG,Lille,0-0,0-0,Sat,30
-?,2001-07-28,Rennes,Auxerre,0-5,0-1,Sat,30
-?,2001-07-28,Troyes,Guingamp,3-0,1-0,Sat,30
-?,2001-08-03,Marseille,Bordeaux,0-0,0-0,Fri,31
-?,2001-08-04,Auxerre,Paris SG,1-1,0-1,Sat,31
-?,2001-08-04,Guingamp,Bastia,1-0,0-0,Sat,31
-?,2001-08-04,Lille,Lorient,3-1,0-0,Sat,31
-?,2001-08-04,Lyon,Sedan,2-0,1-0,Sat,31
-?,2001-08-04,Metz,Troyes,2-1,2-1,Sat,31
-?,2001-08-04,Monaco,Montpellier,0-0,0-0,Sat,31
-?,2001-08-04,Nantes,Lens,1-2,0-1,Sat,31
-?,2001-08-04,Sochaux,Rennes,4-3,3-2,Sat,31
-?,2001-08-11,Bordeaux,Lille,0-0,0-0,Sat,32
-?,2001-08-11,Lens,Marseille,2-0,0-0,Sat,32
-?,2001-08-11,Montpellier,Metz,3-0,1-0,Sat,32
-?,2001-08-11,Paris SG,Sochaux,1-0,0-0,Sat,32
-?,2001-08-11,Rennes,Monaco,3-0,2-0,Sat,32
-?,2001-08-11,Sedan,Guingamp,1-1,1-0,Sat,32
-?,2001-08-11,Troyes,Nantes,0-0,0-0,Sat,32
-?,2001-08-12,Bastia,Lyon,1-2,0-1,Sun,32
-?,2001-08-12,Lorient,Auxerre,0-1,0-1,Sun,32
-?,2001-08-18,Lille,Montpellier,2-1,0-0,Sat,33
-?,2001-08-18,Lyon,Guingamp,3-0,1-0,Sat,33
-?,2001-08-18,Marseille,Troyes,0-1,0-0,Sat,33
-?,2001-08-18,Metz,Lens,0-1,0-1,Sat,33
-?,2001-08-18,Monaco,Paris SG,2-2,2-1,Sat,33
-?,2001-08-18,Nantes,Bastia,1-2,1-2,Sat,33
-?,2001-08-18,Rennes,Bordeaux,1-0,0-0,Sat,33
-?,2001-08-18,Sochaux,Lorient,2-2,2-0,Sat,33
-?,2001-08-19,Auxerre,Sedan,2-1,1-0,Sun,33
-?,2001-08-25,Bastia,Marseille,1-0,1-0,Sat,34
-?,2001-08-25,Bordeaux,Auxerre,1-1,1-0,Sat,34
-?,2001-08-25,Guingamp,Nantes,1-0,1-0,Sat,34
-?,2001-08-25,Lorient,Monaco,2-0,2-0,Sat,34
-?,2001-08-25,Montpellier,Sochaux,0-0,0-0,Sat,34
-?,2001-08-25,Paris SG,Rennes,3-0,0-0,Sat,34
-?,2001-08-25,Sedan,Metz,2-0,0-0,Sat,34
-?,2001-08-25,Troyes,Lyon,0-2,0-1,Sat,34
-?,2001-08-26,Lens,Lille,1-1,0-0,Sun,34
-?,2001-09-08,Auxerre,Montpellier,1-0,0-0,Sat,36
-?,2001-09-08,Lille,Guingamp,1-0,0-0,Sat,36
-?,2001-09-08,Marseille,Lyon,0-0,0-0,Sat,36
-?,2001-09-08,Metz,Bastia,0-1,0-1,Sat,36
-?,2001-09-08,Monaco,Troyes,2-0,1-0,Sat,36
-?,2001-09-08,Nantes,Sedan,1-1,0-0,Sat,36
-?,2001-09-08,Paris SG,Lens,2-2,0-1,Sat,36
-?,2001-09-08,Rennes,Lorient,1-1,0-0,Sat,36
-?,2001-09-09,Sochaux,Bordeaux,2-0,1-0,Sun,36
-?,2001-09-15,Bastia,Auxerre,0-1,0-0,Sat,37
-?,2001-09-15,Guingamp,Metz,0-2,0-0,Sat,37
-?,2001-09-15,Lens,Sochaux,3-0,2-0,Sat,37
-?,2001-09-15,Lorient,Paris SG,1-1,0-0,Sat,37
-?,2001-09-15,Lyon,Nantes,4-1,2-1,Sat,37
-?,2001-09-15,Montpellier,Rennes,0-0,0-0,Sat,37
-?,2001-09-15,Troyes,Lille,0-1,0-0,Sat,37
-?,2001-09-16,Bordeaux,Monaco,0-0,0-0,Sun,37
-?,2001-09-16,Sedan,Marseille,1-1,1-1,Sun,37
-?,2001-09-21,Paris SG,Montpellier,0-0,0-0,Fri,38
-?,2001-09-22,Auxerre,Guingamp,2-2,0-0,Sat,38
-?,2001-09-22,Lille,Bastia,2-1,0-0,Sat,38
-?,2001-09-22,Marseille,Nantes,2-0,0-0,Sat,38
-?,2001-09-22,Metz,Lyon,2-0,1-0,Sat,38
-?,2001-09-22,Monaco,Lens,3-0,1-0,Sat,38
-?,2001-09-22,Rennes,Troyes,0-1,0-0,Sat,38
-?,2001-09-23,Lorient,Bordeaux,0-2,0-0,Sun,38
-?,2001-09-23,Sochaux,Sedan,3-0,1-0,Sun,38
-?,2001-09-29,Bastia,Monaco,1-0,1-0,Sat,39
-?,2001-09-29,Guingamp,Marseille,1-0,1-0,Sat,39
-?,2001-09-29,Lens,Auxerre,1-1,1-1,Sat,39
-?,2001-09-29,Lyon,Rennes,4-0,3-0,Sat,39
-?,2001-09-29,Montpellier,Lorient,1-3,0-2,Sat,39
-?,2001-09-29,Nantes,Metz,0-0,0-0,Sat,39
-?,2001-09-30,Bordeaux,Paris SG,1-0,1-0,Sun,39
-?,2001-09-30,Sedan,Lille,1-1,1-0,Sun,39
-?,2001-09-30,Troyes,Sochaux,2-2,0-2,Sun,39
-?,2001-10-13,Auxerre,Troyes,1-3,1-1,Sat,41
-?,2001-10-13,Lille,Nantes,1-0,0-0,Sat,41
-?,2001-10-13,Lorient,Lens,2-3,1-3,Sat,41
-?,2001-10-13,Metz,Marseille,0-2,0-1,Sat,41
-?,2001-10-13,Monaco,Sedan,2-0,0-0,Sat,41
-?,2001-10-13,Montpellier,Bordeaux,0-0,0-0,Sat,41
-?,2001-10-13,Rennes,Guingamp,2-1,1-0,Sat,41
-?,2001-10-13,Sochaux,Bastia,4-1,2-0,Sat,41
-?,2001-10-14,Paris SG,Lyon,2-2,1-2,Sun,41
-?,2001-10-20,Bastia,Rennes,1-2,0-0,Sat,42
-?,2001-10-20,Guingamp,Monaco,2-1,1-0,Sat,42
-?,2001-10-20,Lens,Montpellier,2-0,1-0,Sat,42
-?,2001-10-20,Lyon,Sochaux,1-1,0-1,Sat,42
-?,2001-10-20,Marseille,Lille,0-0,0-0,Sat,42
-?,2001-10-20,Nantes,Auxerre,2-2,0-0,Sat,42
-?,2001-10-21,Bordeaux,Metz,1-0,0-0,Sun,42
-?,2001-10-21,Sedan,Paris SG,1-2,0-0,Sun,42
-?,2001-10-21,Troyes,Lorient,4-2,1-2,Sun,42
-?,2001-10-26,Auxerre,Marseille,2-0,2-0,Fri,43
-?,2001-10-27,Bordeaux,Sedan,2-1,0-1,Sat,43
-?,2001-10-27,Lille,Metz,2-0,2-0,Sat,43
-?,2001-10-27,Lorient,Guingamp,6-2,2-1,Sat,43
-?,2001-10-27,Monaco,Lyon,2-1,0-0,Sat,43
-?,2001-10-27,Montpellier,Troyes,2-0,1-0,Sat,43
-?,2001-10-27,Paris SG,Bastia,1-0,1-0,Sat,43
-?,2001-10-27,Rennes,Lens,1-2,1-2,Sat,43
-?,2001-10-27,Sochaux,Nantes,0-1,0-0,Sat,43
-?,2001-11-03,Bastia,Lorient,3-1,0-1,Sat,44
-?,2001-11-03,Guingamp,Sochaux,0-0,0-0,Sat,44
-?,2001-11-03,Marseille,Rennes,2-1,1-0,Sat,44
-?,2001-11-03,Nantes,Monaco,2-1,2-0,Sat,44
-?,2001-11-03,Sedan,Montpellier,2-0,1-0,Sat,44
-?,2001-11-04,Lens,Bordeaux,0-0,0-0,Sun,44
-?,2001-11-04,Lyon,Lille,4-2,2-2,Sun,44
-?,2001-11-04,Metz,Auxerre,2-0,1-0,Sun,44
-?,2001-11-04,Troyes,Paris SG,1-0,0-0,Sun,44
-?,2001-11-16,Monaco,Marseille,1-1,0-0,Fri,46
-?,2001-11-17,Auxerre,Lille,2-1,1-0,Sat,46
-?,2001-11-17,Bordeaux,Troyes,2-3,1-1,Sat,46
-?,2001-11-17,Lens,Sedan,1-0,1-0,Sat,46
-?,2001-11-17,Lorient,Lyon,0-3,0-3,Sat,46
-?,2001-11-17,Montpellier,Bastia,2-1,1-0,Sat,46
-?,2001-11-17,Paris SG,Guingamp,1-1,0-0,Sat,46
-?,2001-11-17,Rennes,Nantes,2-0,0-0,Sat,46
-?,2001-11-17,Sochaux,Metz,2-0,1-0,Sat,46
-?,2001-11-24,Bastia,Bordeaux,1-2,0-1,Sat,47
-?,2001-11-24,Guingamp,Montpellier,2-2,1-1,Sat,47
-?,2001-11-24,Marseille,Sochaux,4-2,2-1,Sat,47
-?,2001-11-24,Metz,Monaco,1-0,0-0,Sat,47
-?,2001-11-24,Sedan,Lorient,5-0,4-0,Sat,47
-?,2001-11-24,Troyes,Lens,1-1,0-1,Sat,47
-?,2001-11-25,Lille,Rennes,1-0,0-0,Sun,47
-?,2001-11-25,Lyon,Auxerre,3-0,2-0,Sun,47
-?,2001-11-25,Nantes,Paris SG,1-2,1-0,Sun,47
-?,2001-11-28,Bordeaux,Guingamp,2-0,1-0,Wed,48
-?,2001-11-28,Lens,Bastia,7-0,3-0,Wed,48
-?,2001-11-28,Lorient,Nantes,1-2,1-0,Wed,48
-?,2001-11-28,Monaco,Lille,2-2,1-1,Wed,48
-?,2001-11-28,Montpellier,Lyon,3-0,1-0,Wed,48
-?,2001-11-28,Rennes,Metz,0-0,0-0,Wed,48
-?,2001-11-28,Sochaux,Auxerre,1-2,0-1,Wed,48
-?,2001-11-28,Troyes,Sedan,1-1,1-1,Wed,48
-?,2001-11-29,Paris SG,Marseille,0-0,0-0,Thu,48
-?,2001-12-08,Auxerre,Monaco,2-0,0-0,Sat,49
-?,2001-12-08,Bastia,Troyes,2-0,0-0,Sat,49
-?,2001-12-08,Guingamp,Lens,1-0,0-0,Sat,49
-?,2001-12-08,Marseille,Lorient,3-2,1-1,Sat,49
-?,2001-12-08,Nantes,Montpellier,1-2,0-0,Sat,49
-?,2001-12-08,Sedan,Rennes,0-0,0-0,Sat,49
-?,2001-12-09,Lille,Sochaux,1-2,1-1,Sun,49
-?,2001-12-09,Lyon,Bordeaux,1-0,0-0,Sun,49
-?,2001-12-09,Metz,Paris SG,0-2,0-0,Sun,49
-?,2001-12-18,Bordeaux,Marseille,0-0,0-0,Tue,51
-?,2001-12-18,Lens,Nantes,3-0,0-0,Tue,51
-?,2001-12-19,Bastia,Guingamp,3-0,0-0,Wed,51
-?,2001-12-19,Lorient,Lille,2-4,1-2,Wed,51
-?,2001-12-19,Paris SG,Auxerre,0-0,0-0,Wed,51
-?,2001-12-19,Rennes,Sochaux,1-1,1-0,Wed,51
-?,2001-12-19,Sedan,Lyon,2-1,1-1,Wed,51
-?,2001-12-21,Marseille,Lens,1-2,1-1,Fri,51
-?,2001-12-22,Guingamp,Sedan,1-2,1-0,Sat,51
-?,2001-12-22,Monaco,Rennes,3-1,1-0,Sat,51
-?,2001-12-22,Nantes,Troyes,1-0,0-0,Sat,51
-?,2001-12-22,Sochaux,Paris SG,0-2,0-2,Sat,51
-?,2002-01-05,Bastia,Nantes,0-2,0-1,Sat,0
-?,2002-01-05,Bordeaux,Rennes,2-1,1-1,Sat,0
-?,2002-01-05,Guingamp,Lyon,2-4,1-0,Sat,0
-?,2002-01-05,Lorient,Sochaux,1-1,0-0,Sat,0
-?,2002-01-05,Montpellier,Lille,2-0,1-0,Sat,0
-?,2002-01-05,Paris SG,Monaco,1-2,1-0,Sat,0
-?,2002-01-11,Lille,Lens,0-1,0-0,Fri,1
-?,2002-01-12,Marseille,Bastia,2-2,2-0,Sat,1
-?,2002-01-12,Monaco,Lorient,1-0,0-0,Sat,1
-?,2002-01-12,Nantes,Guingamp,2-0,0-0,Sat,1
-?,2002-01-12,Rennes,Paris SG,1-2,0-2,Sat,1
-?,2002-01-12,Sochaux,Montpellier,0-1,0-1,Sat,1
-?,2002-01-16,Auxerre,Lorient,2-2,1-0,Wed,2
-?,2002-01-16,Lille,Bordeaux,2-2,0-1,Wed,2
-?,2002-01-16,Lyon,Bastia,0-0,0-0,Wed,2
-?,2002-01-16,Montpellier,Monaco,1-1,0-1,Wed,2
-?,2002-01-16,Troyes,Metz,2-0,0-0,Wed,2
-?,2002-01-23,Bastia,Metz,1-2,0-2,Wed,3
-?,2002-01-23,Bordeaux,Sochaux,0-1,0-1,Wed,3
-?,2002-01-23,Guingamp,Lille,0-0,0-0,Wed,3
-?,2002-01-23,Lorient,Rennes,2-0,1-0,Wed,3
-?,2002-01-23,Lyon,Marseille,4-0,4-0,Wed,3
-?,2002-01-23,Montpellier,Auxerre,0-0,0-0,Wed,3
-?,2002-01-23,Sedan,Nantes,0-0,0-0,Wed,3
-?,2002-01-23,Troyes,Monaco,3-0,1-0,Wed,3
-?,2002-01-24,Lens,Paris SG,1-1,0-0,Thu,3
-?,2002-01-26,Troyes,Marseille,1-0,0-0,Sat,3
-?,2002-01-29,Nantes,Lyon,3-0,2-0,Tue,4
-?,2002-01-30,Auxerre,Bastia,1-0,0-0,Wed,4
-?,2002-01-30,Marseille,Sedan,2-1,1-0,Wed,4
-?,2002-01-30,Metz,Guingamp,2-4,1-0,Wed,4
-?,2002-01-30,Monaco,Bordeaux,3-1,3-1,Wed,4
-?,2002-01-30,Paris SG,Lorient,5-0,3-0,Wed,4
-?,2002-01-30,Rennes,Montpellier,2-0,2-0,Wed,4
-?,2002-01-30,Sochaux,Lens,0-2,0-2,Wed,4
-?,2002-02-02,Bastia,Lille,1-0,0-0,Sat,4
-?,2002-02-02,Bordeaux,Lorient,2-1,1-1,Sat,4
-?,2002-02-02,Guingamp,Auxerre,0-0,0-0,Sat,4
-?,2002-02-02,Lens,Monaco,1-0,1-0,Sat,4
-?,2002-02-02,Lyon,Metz,4-1,1-1,Sat,4
-?,2002-02-02,Montpellier,Paris SG,0-0,0-0,Sat,4
-?,2002-02-02,Sedan,Sochaux,2-1,1-1,Sat,4
-?,2002-02-02,Troyes,Rennes,1-1,1-1,Sat,4
-?,2002-02-03,Nantes,Marseille,3-1,3-1,Sun,4
-?,2002-02-06,Auxerre,Lens,1-0,0-0,Wed,5
-?,2002-02-06,Lille,Sedan,1-1,1-1,Wed,5
-?,2002-02-06,Lorient,Montpellier,1-0,0-0,Wed,5
-?,2002-02-06,Marseille,Guingamp,2-1,1-1,Wed,5
-?,2002-02-06,Metz,Nantes,2-0,1-0,Wed,5
-?,2002-02-06,Monaco,Bastia,1-1,0-1,Wed,5
-?,2002-02-06,Rennes,Lyon,2-2,2-1,Wed,5
-?,2002-02-06,Sochaux,Troyes,2-2,1-1,Wed,5
-?,2002-02-07,Paris SG,Bordeaux,1-0,0-0,Thu,5
-?,2002-02-09,Lyon,Troyes,3-1,1-1,Sat,5
-?,2002-02-09,Metz,Montpellier,0-0,0-0,Sat,5
-?,2002-02-16,Bastia,Sochaux,3-0,1-0,Sat,6
-?,2002-02-16,Bordeaux,Montpellier,3-1,2-0,Sat,6
-?,2002-02-16,Guingamp,Rennes,1-1,1-0,Sat,6
-?,2002-02-16,Lens,Lorient,1-1,1-1,Sat,6
-?,2002-02-16,Nantes,Lille,0-1,0-0,Sat,6
-?,2002-02-16,Sedan,Monaco,0-0,0-0,Sat,6
-?,2002-02-16,Troyes,Auxerre,1-2,0-1,Sat,6
-?,2002-02-17,Lyon,Paris SG,3-0,0-0,Sun,6
-?,2002-02-17,Marseille,Metz,1-0,1-0,Sun,6
-?,2002-02-23,Auxerre,Nantes,2-1,1-1,Sat,7
-?,2002-02-23,Lorient,Troyes,1-0,0-0,Sat,7
-?,2002-02-23,Metz,Bordeaux,1-2,1-0,Sat,7
-?,2002-02-23,Monaco,Guingamp,3-1,2-1,Sat,7
-?,2002-02-23,Montpellier,Lens,1-2,0-1,Sat,7
-?,2002-02-23,Paris SG,Sedan,3-0,1-0,Sat,7
-?,2002-02-23,Rennes,Bastia,2-1,1-1,Sat,7
-?,2002-02-24,Lille,Marseille,2-0,1-0,Sun,7
-?,2002-02-24,Sochaux,Lyon,2-1,1-0,Sun,7
-?,2002-03-02,Lens,Metz,2-2,0-1,Sat,8
-?,2002-03-03,Lille,Troyes,1-0,0-0,Sun,8
-?,2002-03-06,Bastia,Paris SG,0-1,0-0,Wed,9
-?,2002-03-06,Guingamp,Lorient,4-3,1-0,Wed,9
-?,2002-03-06,Lens,Rennes,2-0,1-0,Wed,9
-?,2002-03-06,Lyon,Monaco,1-0,0-0,Wed,9
-?,2002-03-06,Metz,Lille,0-1,0-1,Wed,9
-?,2002-03-06,Nantes,Sochaux,0-0,0-0,Wed,9
-?,2002-03-06,Sedan,Bordeaux,1-0,0-0,Wed,9
-?,2002-03-06,Troyes,Montpellier,2-0,1-0,Wed,9
-?,2002-03-10,Auxerre,Bordeaux,0-1,0-0,Sun,9
-?,2002-03-16,Auxerre,Metz,3-2,0-1,Sat,10
-?,2002-03-16,Lille,Lyon,2-0,1-0,Sat,10
-?,2002-03-16,Lorient,Bastia,0-0,0-0,Sat,10
-?,2002-03-16,Monaco,Nantes,1-2,1-1,Sat,10
-?,2002-03-16,Montpellier,Sedan,0-0,0-0,Sat,10
-?,2002-03-16,Paris SG,Troyes,3-1,0-1,Sat,10
-?,2002-03-16,Rennes,Marseille,2-1,0-0,Sat,10
-?,2002-03-16,Sochaux,Guingamp,1-0,1-0,Sat,10
-?,2002-03-17,Bordeaux,Lens,2-1,0-0,Sun,10
-?,2002-03-23,Bastia,Montpellier,3-0,2-0,Sat,11
-?,2002-03-23,Guingamp,Paris SG,0-1,0-1,Sat,11
-?,2002-03-23,Lille,Auxerre,2-3,1-2,Sat,11
-?,2002-03-23,Lyon,Lorient,2-0,0-0,Sat,11
-?,2002-03-23,Metz,Sochaux,2-0,1-0,Sat,11
-?,2002-03-23,Nantes,Rennes,3-1,2-1,Sat,11
-?,2002-03-23,Sedan,Lens,1-1,1-0,Sat,11
-?,2002-03-23,Troyes,Bordeaux,2-0,0-0,Sat,11
-?,2002-03-24,Marseille,Monaco,1-1,0-0,Sun,11
-?,2002-04-01,Marseille,Auxerre,3-0,1-0,Mon,13
-?,2002-04-06,Bordeaux,Bastia,2-1,2-0,Sat,13
-?,2002-04-06,Lens,Troyes,0-0,0-0,Sat,13
-?,2002-04-06,Lorient,Sedan,1-1,0-0,Sat,13
-?,2002-04-06,Monaco,Metz,2-2,1-1,Sat,13
-?,2002-04-06,Montpellier,Guingamp,2-1,1-1,Sat,13
-?,2002-04-06,Paris SG,Nantes,1-1,0-1,Sat,13
-?,2002-04-06,Rennes,Lille,4-0,1-0,Sat,13
-?,2002-04-06,Sochaux,Marseille,3-0,2-0,Sat,13
-?,2002-04-07,Auxerre,Lyon,0-1,0-0,Sun,13
-?,2002-04-09,Metz,Sedan,2-3,1-0,Tue,14
-?,2002-04-12,Marseille,Paris SG,1-0,0-0,Fri,14
-?,2002-04-13,Auxerre,Sochaux,2-0,0-0,Sat,14
-?,2002-04-13,Bastia,Lens,3-1,0-1,Sat,14
-?,2002-04-13,Guingamp,Bordeaux,2-1,1-0,Sat,14
-?,2002-04-13,Lille,Monaco,1-1,0-1,Sat,14
-?,2002-04-13,Lyon,Montpellier,0-0,0-0,Sat,14
-?,2002-04-13,Metz,Rennes,3-1,0-1,Sat,14
-?,2002-04-13,Nantes,Lorient,2-0,0-0,Sat,14
-?,2002-04-13,Sedan,Troyes,0-0,0-0,Sat,14
-?,2002-04-21,Sedan,Auxerre,3-3,2-2,Sun,15
-?,2002-04-27,Bordeaux,Lyon,0-1,0-0,Sat,16
-?,2002-04-27,Lens,Guingamp,4-1,2-0,Sat,16
-?,2002-04-27,Lorient,Marseille,2-2,0-1,Sat,16
-?,2002-04-27,Monaco,Auxerre,1-1,1-0,Sat,16
-?,2002-04-27,Montpellier,Nantes,3-0,0-0,Sat,16
-?,2002-04-27,Paris SG,Metz,2-0,0-0,Sat,16
-?,2002-04-27,Rennes,Sedan,1-0,0-0,Sat,16
-?,2002-04-27,Sochaux,Lille,0-0,0-0,Sat,16
-?,2002-04-27,Troyes,Bastia,3-0,0-0,Sat,16
-?,2002-05-04,Auxerre,Rennes,2-3,1-2,Sat,17
-?,2002-05-04,Guingamp,Troyes,1-0,0-0,Sat,17
-?,2002-05-04,Lille,Paris SG,1-0,0-0,Sat,17
-?,2002-05-04,Lyon,Lens,3-1,2-1,Sat,17
-?,2002-05-04,Marseille,Montpellier,1-0,0-0,Sat,17
-?,2002-05-04,Metz,Lorient,1-1,1-1,Sat,17
-?,2002-05-04,Nantes,Bordeaux,2-1,1-0,Sat,17
-?,2002-05-04,Sedan,Bastia,0-2,0-0,Sat,17
-?,2002-05-04,Sochaux,Monaco,3-0,2-0,Sat,17
+Round,Date,Team 1,Team 2,FT,HT
+?,(Fri) Jul/27 2001 (30),Bordeaux (1),Nantes (1),2-0,2-0
+?,(Sat) Jul/28 2001 (30),Bastia (1),Sedan (1),1-1,0-0
+?,(Sat) Jul/28 2001 (30),Lens (1),Lyon (1),2-0,2-0
+?,(Sat) Jul/28 2001 (30),Lorient (1),Metz (1),1-0,0-0
+?,(Sat) Jul/28 2001 (30),Monaco (1),Sochaux (1),0-1,0-0
+?,(Sat) Jul/28 2001 (30),Montpellier (1),Marseille (1),1-1,0-1
+?,(Sat) Jul/28 2001 (30),Paris SG (1),Lille (1),0-0,0-0
+?,(Sat) Jul/28 2001 (30),Rennes (1),Auxerre (1),0-5,0-1
+?,(Sat) Jul/28 2001 (30),Troyes (1),Guingamp (1),3-0,1-0
+?,(Fri) Aug/3 2001 (31),Marseille (2),Bordeaux (2),0-0,0-0
+?,(Sat) Aug/4 2001 (31),Auxerre (2),Paris SG (2),1-1,0-1
+?,(Sat) Aug/4 2001 (31),Guingamp (2),Bastia (2),1-0,0-0
+?,(Sat) Aug/4 2001 (31),Lille (2),Lorient (2),3-1,0-0
+?,(Sat) Aug/4 2001 (31),Lyon (2),Sedan (2),2-0,1-0
+?,(Sat) Aug/4 2001 (31),Metz (2),Troyes (2),2-1,2-1
+?,(Sat) Aug/4 2001 (31),Monaco (2),Montpellier (2),0-0,0-0
+?,(Sat) Aug/4 2001 (31),Nantes (2),Lens (2),1-2,0-1
+?,(Sat) Aug/4 2001 (31),Sochaux (2),Rennes (2),4-3,3-2
+?,(Sat) Aug/11 2001 (32),Bordeaux (3),Lille (3),0-0,0-0
+?,(Sat) Aug/11 2001 (32),Lens (3),Marseille (3),2-0,0-0
+?,(Sat) Aug/11 2001 (32),Montpellier (3),Metz (3),3-0,1-0
+?,(Sat) Aug/11 2001 (32),Paris SG (3),Sochaux (3),1-0,0-0
+?,(Sat) Aug/11 2001 (32),Rennes (3),Monaco (3),3-0,2-0
+?,(Sat) Aug/11 2001 (32),Sedan (3),Guingamp (3),1-1,1-0
+?,(Sat) Aug/11 2001 (32),Troyes (3),Nantes (3),0-0,0-0
+?,(Sun) Aug/12 2001 (32),Bastia (3),Lyon (3),1-2,0-1
+?,(Sun) Aug/12 2001 (32),Lorient (3),Auxerre (3),0-1,0-1
+?,(Sat) Aug/18 2001 (33),Lille (4),Montpellier (4),2-1,0-0
+?,(Sat) Aug/18 2001 (33),Lyon (4),Guingamp (4),3-0,1-0
+?,(Sat) Aug/18 2001 (33),Marseille (4),Troyes (4),0-1,0-0
+?,(Sat) Aug/18 2001 (33),Metz (4),Lens (4),0-1,0-1
+?,(Sat) Aug/18 2001 (33),Monaco (4),Paris SG (4),2-2,2-1
+?,(Sat) Aug/18 2001 (33),Nantes (4),Bastia (4),1-2,1-2
+?,(Sat) Aug/18 2001 (33),Rennes (4),Bordeaux (4),1-0,0-0
+?,(Sat) Aug/18 2001 (33),Sochaux (4),Lorient (4),2-2,2-0
+?,(Sun) Aug/19 2001 (33),Auxerre (4),Sedan (4),2-1,1-0
+?,(Sat) Aug/25 2001 (34),Bastia (5),Marseille (5),1-0,1-0
+?,(Sat) Aug/25 2001 (34),Bordeaux (5),Auxerre (5),1-1,1-0
+?,(Sat) Aug/25 2001 (34),Guingamp (5),Nantes (5),1-0,1-0
+?,(Sat) Aug/25 2001 (34),Lorient (5),Monaco (5),2-0,2-0
+?,(Sat) Aug/25 2001 (34),Montpellier (5),Sochaux (5),0-0,0-0
+?,(Sat) Aug/25 2001 (34),Paris SG (5),Rennes (5),3-0,0-0
+?,(Sat) Aug/25 2001 (34),Sedan (5),Metz (5),2-0,0-0
+?,(Sat) Aug/25 2001 (34),Troyes (5),Lyon (5),0-2,0-1
+?,(Sun) Aug/26 2001 (34),Lens (5),Lille (5),1-1,0-0
+?,(Sat) Sep/8 2001 (36),Auxerre (6),Montpellier (6),1-0,0-0
+?,(Sat) Sep/8 2001 (36),Lille (6),Guingamp (6),1-0,0-0
+?,(Sat) Sep/8 2001 (36),Marseille (6),Lyon (6),0-0,0-0
+?,(Sat) Sep/8 2001 (36),Metz (6),Bastia (6),0-1,0-1
+?,(Sat) Sep/8 2001 (36),Monaco (6),Troyes (6),2-0,1-0
+?,(Sat) Sep/8 2001 (36),Nantes (6),Sedan (6),1-1,0-0
+?,(Sat) Sep/8 2001 (36),Paris SG (6),Lens (6),2-2,0-1
+?,(Sat) Sep/8 2001 (36),Rennes (6),Lorient (6),1-1,0-0
+?,(Sun) Sep/9 2001 (36),Sochaux (6),Bordeaux (6),2-0,1-0
+?,(Sat) Sep/15 2001 (37),Bastia (7),Auxerre (7),0-1,0-0
+?,(Sat) Sep/15 2001 (37),Guingamp (7),Metz (7),0-2,0-0
+?,(Sat) Sep/15 2001 (37),Lens (7),Sochaux (7),3-0,2-0
+?,(Sat) Sep/15 2001 (37),Lorient (7),Paris SG (7),1-1,0-0
+?,(Sat) Sep/15 2001 (37),Lyon (7),Nantes (7),4-1,2-1
+?,(Sat) Sep/15 2001 (37),Montpellier (7),Rennes (7),0-0,0-0
+?,(Sat) Sep/15 2001 (37),Troyes (7),Lille (7),0-1,0-0
+?,(Sun) Sep/16 2001 (37),Bordeaux (7),Monaco (7),0-0,0-0
+?,(Sun) Sep/16 2001 (37),Sedan (7),Marseille (7),1-1,1-1
+?,(Fri) Sep/21 2001 (38),Paris SG (8),Montpellier (8),0-0,0-0
+?,(Sat) Sep/22 2001 (38),Auxerre (8),Guingamp (8),2-2,0-0
+?,(Sat) Sep/22 2001 (38),Lille (8),Bastia (8),2-1,0-0
+?,(Sat) Sep/22 2001 (38),Marseille (8),Nantes (8),2-0,0-0
+?,(Sat) Sep/22 2001 (38),Metz (8),Lyon (8),2-0,1-0
+?,(Sat) Sep/22 2001 (38),Monaco (8),Lens (8),3-0,1-0
+?,(Sat) Sep/22 2001 (38),Rennes (8),Troyes (8),0-1,0-0
+?,(Sun) Sep/23 2001 (38),Lorient (8),Bordeaux (8),0-2,0-0
+?,(Sun) Sep/23 2001 (38),Sochaux (8),Sedan (8),3-0,1-0
+?,(Sat) Sep/29 2001 (39),Bastia (9),Monaco (9),1-0,1-0
+?,(Sat) Sep/29 2001 (39),Guingamp (9),Marseille (9),1-0,1-0
+?,(Sat) Sep/29 2001 (39),Lens (9),Auxerre (9),1-1,1-1
+?,(Sat) Sep/29 2001 (39),Lyon (9),Rennes (9),4-0,3-0
+?,(Sat) Sep/29 2001 (39),Montpellier (9),Lorient (9),1-3,0-2
+?,(Sat) Sep/29 2001 (39),Nantes (9),Metz (9),0-0,0-0
+?,(Sun) Sep/30 2001 (39),Bordeaux (9),Paris SG (9),1-0,1-0
+?,(Sun) Sep/30 2001 (39),Sedan (9),Lille (9),1-1,1-0
+?,(Sun) Sep/30 2001 (39),Troyes (9),Sochaux (9),2-2,0-2
+?,(Sat) Oct/13 2001 (41),Auxerre (10),Troyes (10),1-3,1-1
+?,(Sat) Oct/13 2001 (41),Lille (10),Nantes (10),1-0,0-0
+?,(Sat) Oct/13 2001 (41),Lorient (10),Lens (10),2-3,1-3
+?,(Sat) Oct/13 2001 (41),Metz (10),Marseille (10),0-2,0-1
+?,(Sat) Oct/13 2001 (41),Monaco (10),Sedan (10),2-0,0-0
+?,(Sat) Oct/13 2001 (41),Montpellier (10),Bordeaux (10),0-0,0-0
+?,(Sat) Oct/13 2001 (41),Rennes (10),Guingamp (10),2-1,1-0
+?,(Sat) Oct/13 2001 (41),Sochaux (10),Bastia (10),4-1,2-0
+?,(Sun) Oct/14 2001 (41),Paris SG (10),Lyon (10),2-2,1-2
+?,(Sat) Oct/20 2001 (42),Bastia (11),Rennes (11),1-2,0-0
+?,(Sat) Oct/20 2001 (42),Guingamp (11),Monaco (11),2-1,1-0
+?,(Sat) Oct/20 2001 (42),Lens (11),Montpellier (11),2-0,1-0
+?,(Sat) Oct/20 2001 (42),Lyon (11),Sochaux (11),1-1,0-1
+?,(Sat) Oct/20 2001 (42),Marseille (11),Lille (11),0-0,0-0
+?,(Sat) Oct/20 2001 (42),Nantes (11),Auxerre (11),2-2,0-0
+?,(Sun) Oct/21 2001 (42),Bordeaux (11),Metz (11),1-0,0-0
+?,(Sun) Oct/21 2001 (42),Sedan (11),Paris SG (11),1-2,0-0
+?,(Sun) Oct/21 2001 (42),Troyes (11),Lorient (11),4-2,1-2
+?,(Fri) Oct/26 2001 (43),Auxerre (12),Marseille (12),2-0,2-0
+?,(Sat) Oct/27 2001 (43),Bordeaux (12),Sedan (12),2-1,0-1
+?,(Sat) Oct/27 2001 (43),Lille (12),Metz (12),2-0,2-0
+?,(Sat) Oct/27 2001 (43),Lorient (12),Guingamp (12),6-2,2-1
+?,(Sat) Oct/27 2001 (43),Monaco (12),Lyon (12),2-1,0-0
+?,(Sat) Oct/27 2001 (43),Montpellier (12),Troyes (12),2-0,1-0
+?,(Sat) Oct/27 2001 (43),Paris SG (12),Bastia (12),1-0,1-0
+?,(Sat) Oct/27 2001 (43),Rennes (12),Lens (12),1-2,1-2
+?,(Sat) Oct/27 2001 (43),Sochaux (12),Nantes (12),0-1,0-0
+?,(Sat) Nov/3 2001 (44),Bastia (13),Lorient (13),3-1,0-1
+?,(Sat) Nov/3 2001 (44),Guingamp (13),Sochaux (13),0-0,0-0
+?,(Sat) Nov/3 2001 (44),Marseille (13),Rennes (13),2-1,1-0
+?,(Sat) Nov/3 2001 (44),Nantes (13),Monaco (13),2-1,2-0
+?,(Sat) Nov/3 2001 (44),Sedan (13),Montpellier (13),2-0,1-0
+?,(Sun) Nov/4 2001 (44),Lens (13),Bordeaux (13),0-0,0-0
+?,(Sun) Nov/4 2001 (44),Lyon (13),Lille (13),4-2,2-2
+?,(Sun) Nov/4 2001 (44),Metz (13),Auxerre (13),2-0,1-0
+?,(Sun) Nov/4 2001 (44),Troyes (13),Paris SG (13),1-0,0-0
+?,(Fri) Nov/16 2001 (46),Monaco (14),Marseille (14),1-1,0-0
+?,(Sat) Nov/17 2001 (46),Auxerre (14),Lille (14),2-1,1-0
+?,(Sat) Nov/17 2001 (46),Bordeaux (14),Troyes (14),2-3,1-1
+?,(Sat) Nov/17 2001 (46),Lens (14),Sedan (14),1-0,1-0
+?,(Sat) Nov/17 2001 (46),Lorient (14),Lyon (14),0-3,0-3
+?,(Sat) Nov/17 2001 (46),Montpellier (14),Bastia (14),2-1,1-0
+?,(Sat) Nov/17 2001 (46),Paris SG (14),Guingamp (14),1-1,0-0
+?,(Sat) Nov/17 2001 (46),Rennes (14),Nantes (14),2-0,0-0
+?,(Sat) Nov/17 2001 (46),Sochaux (14),Metz (14),2-0,1-0
+?,(Sat) Nov/24 2001 (47),Bastia (15),Bordeaux (15),1-2,0-1
+?,(Sat) Nov/24 2001 (47),Guingamp (15),Montpellier (15),2-2,1-1
+?,(Sat) Nov/24 2001 (47),Marseille (15),Sochaux (15),4-2,2-1
+?,(Sat) Nov/24 2001 (47),Metz (15),Monaco (15),1-0,0-0
+?,(Sat) Nov/24 2001 (47),Sedan (15),Lorient (15),5-0,4-0
+?,(Sat) Nov/24 2001 (47),Troyes (15),Lens (15),1-1,0-1
+?,(Sun) Nov/25 2001 (47),Lille (15),Rennes (15),1-0,0-0
+?,(Sun) Nov/25 2001 (47),Lyon (15),Auxerre (15),3-0,2-0
+?,(Sun) Nov/25 2001 (47),Nantes (15),Paris SG (15),1-2,1-0
+?,(Wed) Nov/28 2001 (48),Bordeaux (16),Guingamp (16),2-0,1-0
+?,(Wed) Nov/28 2001 (48),Lens (16),Bastia (16),7-0,3-0
+?,(Wed) Nov/28 2001 (48),Lorient (16),Nantes (16),1-2,1-0
+?,(Wed) Nov/28 2001 (48),Monaco (16),Lille (16),2-2,1-1
+?,(Wed) Nov/28 2001 (48),Montpellier (16),Lyon (16),3-0,1-0
+?,(Wed) Nov/28 2001 (48),Rennes (16),Metz (16),0-0,0-0
+?,(Wed) Nov/28 2001 (48),Sochaux (16),Auxerre (16),1-2,0-1
+?,(Wed) Nov/28 2001 (48),Troyes (16),Sedan (16),1-1,1-1
+?,(Thu) Nov/29 2001 (48),Paris SG (16),Marseille (16),0-0,0-0
+?,(Sat) Dec/8 2001 (49),Auxerre (17),Monaco (17),2-0,0-0
+?,(Sat) Dec/8 2001 (49),Bastia (17),Troyes (17),2-0,0-0
+?,(Sat) Dec/8 2001 (49),Guingamp (17),Lens (17),1-0,0-0
+?,(Sat) Dec/8 2001 (49),Marseille (17),Lorient (17),3-2,1-1
+?,(Sat) Dec/8 2001 (49),Nantes (17),Montpellier (17),1-2,0-0
+?,(Sat) Dec/8 2001 (49),Sedan (17),Rennes (17),0-0,0-0
+?,(Sun) Dec/9 2001 (49),Lille (17),Sochaux (17),1-2,1-1
+?,(Sun) Dec/9 2001 (49),Lyon (17),Bordeaux (17),1-0,0-0
+?,(Sun) Dec/9 2001 (49),Metz (17),Paris SG (17),0-2,0-0
+?,(Tue) Dec/18 2001 (51),Bordeaux (18),Marseille (18),0-0,0-0
+?,(Tue) Dec/18 2001 (51),Lens (18),Nantes (18),3-0,0-0
+?,(Wed) Dec/19 2001 (51),Bastia (18),Guingamp (18),3-0,0-0
+?,(Wed) Dec/19 2001 (51),Lorient (18),Lille (18),2-4,1-2
+?,(Wed) Dec/19 2001 (51),Paris SG (18),Auxerre (18),0-0,0-0
+?,(Wed) Dec/19 2001 (51),Rennes (18),Sochaux (18),1-1,1-0
+?,(Wed) Dec/19 2001 (51),Sedan (18),Lyon (18),2-1,1-1
+?,(Fri) Dec/21 2001 (51),Marseille (19),Lens (19),1-2,1-1
+?,(Sat) Dec/22 2001 (51),Guingamp (19),Sedan (19),1-2,1-0
+?,(Sat) Dec/22 2001 (51),Monaco (18),Rennes (19),3-1,1-0
+?,(Sat) Dec/22 2001 (51),Nantes (19),Troyes (18),1-0,0-0
+?,(Sat) Dec/22 2001 (51),Sochaux (19),Paris SG (19),0-2,0-2
+?,(Sat) Jan/5 2002 (0),Bastia (19),Nantes (20),0-2,0-1
+?,(Sat) Jan/5 2002 (0),Bordeaux (19),Rennes (20),2-1,1-1
+?,(Sat) Jan/5 2002 (0),Guingamp (20),Lyon (19),2-4,1-0
+?,(Sat) Jan/5 2002 (0),Lorient (19),Sochaux (20),1-1,0-0
+?,(Sat) Jan/5 2002 (0),Montpellier (18),Lille (19),2-0,1-0
+?,(Sat) Jan/5 2002 (0),Paris SG (20),Monaco (19),1-2,1-0
+?,(Fri) Jan/11 2002 (1),Lille (20),Lens (20),0-1,0-0
+?,(Sat) Jan/12 2002 (1),Marseille (20),Bastia (20),2-2,2-0
+?,(Sat) Jan/12 2002 (1),Monaco (20),Lorient (20),1-0,0-0
+?,(Sat) Jan/12 2002 (1),Nantes (21),Guingamp (21),2-0,0-0
+?,(Sat) Jan/12 2002 (1),Rennes (21),Paris SG (21),1-2,0-2
+?,(Sat) Jan/12 2002 (1),Sochaux (21),Montpellier (19),0-1,0-1
+?,(Wed) Jan/16 2002 (2),Auxerre (19),Lorient (21),2-2,1-0
+?,(Wed) Jan/16 2002 (2),Lille (21),Bordeaux (20),2-2,0-1
+?,(Wed) Jan/16 2002 (2),Lyon (20),Bastia (21),0-0,0-0
+?,(Wed) Jan/16 2002 (2),Montpellier (20),Monaco (21),1-1,0-1
+?,(Wed) Jan/16 2002 (2),Troyes (19),Metz (18),2-0,0-0
+?,(Wed) Jan/23 2002 (3),Bastia (22),Metz (19),1-2,0-2
+?,(Wed) Jan/23 2002 (3),Bordeaux (21),Sochaux (22),0-1,0-1
+?,(Wed) Jan/23 2002 (3),Guingamp (22),Lille (22),0-0,0-0
+?,(Wed) Jan/23 2002 (3),Lorient (22),Rennes (22),2-0,1-0
+?,(Wed) Jan/23 2002 (3),Lyon (21),Marseille (21),4-0,4-0
+?,(Wed) Jan/23 2002 (3),Montpellier (21),Auxerre (20),0-0,0-0
+?,(Wed) Jan/23 2002 (3),Sedan (20),Nantes (22),0-0,0-0
+?,(Wed) Jan/23 2002 (3),Troyes (20),Monaco (22),3-0,1-0
+?,(Thu) Jan/24 2002 (3),Lens (21),Paris SG (22),1-1,0-0
+?,(Sat) Jan/26 2002 (3),Troyes (21),Marseille (22),1-0,0-0
+?,(Tue) Jan/29 2002 (4),Nantes (23),Lyon (22),3-0,2-0
+?,(Wed) Jan/30 2002 (4),Auxerre (21),Bastia (23),1-0,0-0
+?,(Wed) Jan/30 2002 (4),Marseille (23),Sedan (21),2-1,1-0
+?,(Wed) Jan/30 2002 (4),Metz (20),Guingamp (23),2-4,1-0
+?,(Wed) Jan/30 2002 (4),Monaco (23),Bordeaux (22),3-1,3-1
+?,(Wed) Jan/30 2002 (4),Paris SG (23),Lorient (23),5-0,3-0
+?,(Wed) Jan/30 2002 (4),Rennes (23),Montpellier (22),2-0,2-0
+?,(Wed) Jan/30 2002 (4),Sochaux (23),Lens (22),0-2,0-2
+?,(Sat) Feb/2 2002 (4),Bastia (24),Lille (23),1-0,0-0
+?,(Sat) Feb/2 2002 (4),Bordeaux (23),Lorient (24),2-1,1-1
+?,(Sat) Feb/2 2002 (4),Guingamp (24),Auxerre (22),0-0,0-0
+?,(Sat) Feb/2 2002 (4),Lens (23),Monaco (24),1-0,1-0
+?,(Sat) Feb/2 2002 (4),Lyon (23),Metz (21),4-1,1-1
+?,(Sat) Feb/2 2002 (4),Montpellier (23),Paris SG (24),0-0,0-0
+?,(Sat) Feb/2 2002 (4),Sedan (22),Sochaux (24),2-1,1-1
+?,(Sat) Feb/2 2002 (4),Troyes (22),Rennes (24),1-1,1-1
+?,(Sun) Feb/3 2002 (4),Nantes (24),Marseille (24),3-1,3-1
+?,(Wed) Feb/6 2002 (5),Auxerre (23),Lens (24),1-0,0-0
+?,(Wed) Feb/6 2002 (5),Lille (24),Sedan (23),1-1,1-1
+?,(Wed) Feb/6 2002 (5),Lorient (25),Montpellier (24),1-0,0-0
+?,(Wed) Feb/6 2002 (5),Marseille (25),Guingamp (25),2-1,1-1
+?,(Wed) Feb/6 2002 (5),Metz (22),Nantes (25),2-0,1-0
+?,(Wed) Feb/6 2002 (5),Monaco (25),Bastia (25),1-1,0-1
+?,(Wed) Feb/6 2002 (5),Rennes (25),Lyon (24),2-2,2-1
+?,(Wed) Feb/6 2002 (5),Sochaux (25),Troyes (23),2-2,1-1
+?,(Thu) Feb/7 2002 (5),Paris SG (25),Bordeaux (24),1-0,0-0
+?,(Sat) Feb/9 2002 (5),Lyon (25),Troyes (24),3-1,1-1
+?,(Sat) Feb/9 2002 (5),Metz (23),Montpellier (25),0-0,0-0
+?,(Sat) Feb/16 2002 (6),Bastia (26),Sochaux (26),3-0,1-0
+?,(Sat) Feb/16 2002 (6),Bordeaux (25),Montpellier (26),3-1,2-0
+?,(Sat) Feb/16 2002 (6),Guingamp (26),Rennes (26),1-1,1-0
+?,(Sat) Feb/16 2002 (6),Lens (25),Lorient (26),1-1,1-1
+?,(Sat) Feb/16 2002 (6),Nantes (26),Lille (25),0-1,0-0
+?,(Sat) Feb/16 2002 (6),Sedan (24),Monaco (26),0-0,0-0
+?,(Sat) Feb/16 2002 (6),Troyes (25),Auxerre (24),1-2,0-1
+?,(Sun) Feb/17 2002 (6),Lyon (26),Paris SG (26),3-0,0-0
+?,(Sun) Feb/17 2002 (6),Marseille (26),Metz (24),1-0,1-0
+?,(Sat) Feb/23 2002 (7),Auxerre (25),Nantes (27),2-1,1-1
+?,(Sat) Feb/23 2002 (7),Lorient (27),Troyes (26),1-0,0-0
+?,(Sat) Feb/23 2002 (7),Metz (25),Bordeaux (26),1-2,1-0
+?,(Sat) Feb/23 2002 (7),Monaco (27),Guingamp (27),3-1,2-1
+?,(Sat) Feb/23 2002 (7),Montpellier (27),Lens (26),1-2,0-1
+?,(Sat) Feb/23 2002 (7),Paris SG (27),Sedan (25),3-0,1-0
+?,(Sat) Feb/23 2002 (7),Rennes (27),Bastia (27),2-1,1-1
+?,(Sun) Feb/24 2002 (7),Lille (26),Marseille (27),2-0,1-0
+?,(Sun) Feb/24 2002 (7),Sochaux (27),Lyon (27),2-1,1-0
+?,(Sat) Mar/2 2002 (8),Lens (27),Metz (26),2-2,0-1
+?,(Sun) Mar/3 2002 (8),Lille (27),Troyes (27),1-0,0-0
+?,(Wed) Mar/6 2002 (9),Bastia (28),Paris SG (28),0-1,0-0
+?,(Wed) Mar/6 2002 (9),Guingamp (28),Lorient (28),4-3,1-0
+?,(Wed) Mar/6 2002 (9),Lens (28),Rennes (28),2-0,1-0
+?,(Wed) Mar/6 2002 (9),Lyon (28),Monaco (28),1-0,0-0
+?,(Wed) Mar/6 2002 (9),Metz (27),Lille (28),0-1,0-1
+?,(Wed) Mar/6 2002 (9),Nantes (28),Sochaux (28),0-0,0-0
+?,(Wed) Mar/6 2002 (9),Sedan (26),Bordeaux (27),1-0,0-0
+?,(Wed) Mar/6 2002 (9),Troyes (28),Montpellier (28),2-0,1-0
+?,(Sun) Mar/10 2002 (9),Auxerre (26),Bordeaux (28),0-1,0-0
+?,(Sat) Mar/16 2002 (10),Auxerre (27),Metz (28),3-2,0-1
+?,(Sat) Mar/16 2002 (10),Lille (29),Lyon (29),2-0,1-0
+?,(Sat) Mar/16 2002 (10),Lorient (29),Bastia (29),0-0,0-0
+?,(Sat) Mar/16 2002 (10),Monaco (29),Nantes (29),1-2,1-1
+?,(Sat) Mar/16 2002 (10),Montpellier (29),Sedan (27),0-0,0-0
+?,(Sat) Mar/16 2002 (10),Paris SG (29),Troyes (29),3-1,0-1
+?,(Sat) Mar/16 2002 (10),Rennes (29),Marseille (28),2-1,0-0
+?,(Sat) Mar/16 2002 (10),Sochaux (29),Guingamp (29),1-0,1-0
+?,(Sun) Mar/17 2002 (10),Bordeaux (29),Lens (29),2-1,0-0
+?,(Sat) Mar/23 2002 (11),Bastia (30),Montpellier (30),3-0,2-0
+?,(Sat) Mar/23 2002 (11),Guingamp (30),Paris SG (30),0-1,0-1
+?,(Sat) Mar/23 2002 (11),Lille (30),Auxerre (28),2-3,1-2
+?,(Sat) Mar/23 2002 (11),Lyon (30),Lorient (30),2-0,0-0
+?,(Sat) Mar/23 2002 (11),Metz (29),Sochaux (30),2-0,1-0
+?,(Sat) Mar/23 2002 (11),Nantes (30),Rennes (30),3-1,2-1
+?,(Sat) Mar/23 2002 (11),Sedan (28),Lens (30),1-1,1-0
+?,(Sat) Mar/23 2002 (11),Troyes (30),Bordeaux (30),2-0,0-0
+?,(Sun) Mar/24 2002 (11),Marseille (29),Monaco (30),1-1,0-0
+?,(Mon) Apr/1 2002 (13),Marseille (30),Auxerre (29),3-0,1-0
+?,(Sat) Apr/6 2002 (13),Bordeaux (31),Bastia (31),2-1,2-0
+?,(Sat) Apr/6 2002 (13),Lens (31),Troyes (31),0-0,0-0
+?,(Sat) Apr/6 2002 (13),Lorient (31),Sedan (29),1-1,0-0
+?,(Sat) Apr/6 2002 (13),Monaco (31),Metz (30),2-2,1-1
+?,(Sat) Apr/6 2002 (13),Montpellier (31),Guingamp (31),2-1,1-1
+?,(Sat) Apr/6 2002 (13),Paris SG (31),Nantes (31),1-1,0-1
+?,(Sat) Apr/6 2002 (13),Rennes (31),Lille (31),4-0,1-0
+?,(Sat) Apr/6 2002 (13),Sochaux (31),Marseille (31),3-0,2-0
+?,(Sun) Apr/7 2002 (13),Auxerre (30),Lyon (31),0-1,0-0
+?,(Tue) Apr/9 2002 (14),Metz (31),Sedan (30),2-3,1-0
+?,(Fri) Apr/12 2002 (14),Marseille (32),Paris SG (32),1-0,0-0
+?,(Sat) Apr/13 2002 (14),Auxerre (31),Sochaux (32),2-0,0-0
+?,(Sat) Apr/13 2002 (14),Bastia (32),Lens (32),3-1,0-1
+?,(Sat) Apr/13 2002 (14),Guingamp (32),Bordeaux (32),2-1,1-0
+?,(Sat) Apr/13 2002 (14),Lille (32),Monaco (32),1-1,0-1
+?,(Sat) Apr/13 2002 (14),Lyon (32),Montpellier (32),0-0,0-0
+?,(Sat) Apr/13 2002 (14),Metz (32),Rennes (32),3-1,0-1
+?,(Sat) Apr/13 2002 (14),Nantes (32),Lorient (32),2-0,0-0
+?,(Sat) Apr/13 2002 (14),Sedan (31),Troyes (32),0-0,0-0
+?,(Sun) Apr/21 2002 (15),Sedan (32),Auxerre (32),3-3,2-2
+?,(Sat) Apr/27 2002 (16),Bordeaux (33),Lyon (33),0-1,0-0
+?,(Sat) Apr/27 2002 (16),Lens (33),Guingamp (33),4-1,2-0
+?,(Sat) Apr/27 2002 (16),Lorient (33),Marseille (33),2-2,0-1
+?,(Sat) Apr/27 2002 (16),Monaco (33),Auxerre (33),1-1,1-0
+?,(Sat) Apr/27 2002 (16),Montpellier (33),Nantes (33),3-0,0-0
+?,(Sat) Apr/27 2002 (16),Paris SG (33),Metz (33),2-0,0-0
+?,(Sat) Apr/27 2002 (16),Rennes (33),Sedan (33),1-0,0-0
+?,(Sat) Apr/27 2002 (16),Sochaux (33),Lille (33),0-0,0-0
+?,(Sat) Apr/27 2002 (16),Troyes (33),Bastia (33),3-0,0-0
+?,(Sat) May/4 2002 (17),Auxerre (34),Rennes (34),2-3,1-2
+?,(Sat) May/4 2002 (17),Guingamp (34),Troyes (34),1-0,0-0
+?,(Sat) May/4 2002 (17),Lille (34),Paris SG (34),1-0,0-0
+?,(Sat) May/4 2002 (17),Lyon (34),Lens (34),3-1,2-1
+?,(Sat) May/4 2002 (17),Marseille (34),Montpellier (34),1-0,0-0
+?,(Sat) May/4 2002 (17),Metz (34),Lorient (34),1-1,1-1
+?,(Sat) May/4 2002 (17),Nantes (34),Bordeaux (34),2-1,1-0
+?,(Sat) May/4 2002 (17),Sedan (34),Bastia (34),0-2,0-0
+?,(Sat) May/4 2002 (17),Sochaux (34),Monaco (34),3-0,2-0

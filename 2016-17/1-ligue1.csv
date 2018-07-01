@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,2016-08-12,Bastia,Paris SG,0-1,0-0,Fri,32
-?,2016-08-12,Monaco,Guingamp,2-2,0-2,Fri,32
-?,2016-08-13,Bordeaux,St Etienne,3-2,1-0,Sat,32
-?,2016-08-13,Caen,Lorient,3-2,2-2,Sat,32
-?,2016-08-13,Dijon,Nantes,0-1,0-0,Sat,32
-?,2016-08-13,Metz,Lille,3-2,0-1,Sat,32
-?,2016-08-13,Montpellier,Angers,1-0,1-0,Sat,32
-?,2016-08-14,Marseille,Toulouse,0-0,0-0,Sun,32
-?,2016-08-14,Nancy,Lyon,0-3,0-2,Sun,32
-?,2016-08-14,Nice,Rennes,1-0,0-0,Sun,32
-?,2016-08-19,Lyon,Caen,2-0,1-0,Fri,33
-?,2016-08-20,Angers,Nice,0-1,0-1,Sat,33
-?,2016-08-20,Lille,Dijon,1-0,0-0,Sat,33
-?,2016-08-20,Lorient,Bastia,0-3,0-2,Sat,33
-?,2016-08-20,Nantes,Monaco,0-1,0-1,Sat,33
-?,2016-08-20,Rennes,Nancy,2-0,1-0,Sat,33
-?,2016-08-20,Toulouse,Bordeaux,4-1,2-0,Sat,33
-?,2016-08-21,Guingamp,Marseille,2-1,1-0,Sun,33
-?,2016-08-21,Paris SG,Metz,3-0,0-0,Sun,33
-?,2016-08-21,St Etienne,Montpellier,3-1,0-1,Sun,33
-?,2016-08-26,Marseille,Lorient,2-0,1-0,Fri,34
-?,2016-08-27,Caen,Bastia,2-0,0-0,Sat,34
-?,2016-08-27,Dijon,Lyon,4-2,2-2,Sat,34
-?,2016-08-27,Metz,Angers,2-0,1-0,Sat,34
-?,2016-08-27,Montpellier,Rennes,1-1,1-0,Sat,34
-?,2016-08-27,Nancy,Guingamp,0-2,0-0,Sat,34
-?,2016-08-27,Nice,Lille,1-1,1-1,Sat,34
-?,2016-08-28,Bordeaux,Nantes,1-0,1-0,Sun,34
-?,2016-08-28,Monaco,Paris SG,3-1,2-0,Sun,34
-?,2016-08-28,St Etienne,Toulouse,0-0,0-0,Sun,34
-?,2016-09-09,Paris SG,St Etienne,1-1,0-0,Fri,36
-?,2016-09-10,Angers,Dijon,3-1,1-1,Sat,36
-?,2016-09-10,Bastia,Toulouse,2-1,1-0,Sat,36
-?,2016-09-10,Guingamp,Montpellier,1-1,1-1,Sat,36
-?,2016-09-10,Lille,Monaco,1-4,0-2,Sat,36
-?,2016-09-10,Lorient,Nancy,0-2,0-1,Sat,36
-?,2016-09-10,Lyon,Bordeaux,1-3,1-1,Sat,36
-?,2016-09-11,Nantes,Metz,0-3,0-2,Sun,36
-?,2016-09-11,Nice,Marseille,3-2,1-1,Sun,36
-?,2016-09-11,Rennes,Caen,2-0,0-0,Sun,36
-?,2016-09-16,Caen,Paris SG,0-6,0-4,Fri,37
-?,2016-09-17,Bordeaux,Angers,0-1,0-1,Sat,37
-?,2016-09-17,Dijon,Metz,0-0,0-0,Sat,37
-?,2016-09-17,Lorient,Lille,1-0,0-0,Sat,37
-?,2016-09-17,Monaco,Rennes,3-0,1-0,Sat,37
-?,2016-09-17,Nancy,Nantes,1-1,0-0,Sat,37
-?,2016-09-17,Toulouse,Guingamp,2-1,0-0,Sat,37
-?,2016-09-18,Marseille,Lyon,0-0,0-0,Sun,37
-?,2016-09-18,Montpellier,Nice,1-1,0-0,Sun,37
-?,2016-09-18,St Etienne,Bastia,1-0,0-0,Sun,37
-?,2016-09-20,Lille,Toulouse,1-2,1-1,Tue,38
-?,2016-09-20,Paris SG,Dijon,3-0,2-0,Tue,38
-?,2016-09-21,Angers,Caen,2-1,1-0,Wed,38
-?,2016-09-21,Bastia,Nancy,0-0,0-0,Wed,38
-?,2016-09-21,Guingamp,Lorient,1-0,0-0,Wed,38
-?,2016-09-21,Lyon,Montpellier,5-1,2-1,Wed,38
-?,2016-09-21,Metz,Bordeaux,0-3,0-1,Wed,38
-?,2016-09-21,Nantes,St Etienne,0-0,0-0,Wed,38
-?,2016-09-21,Nice,Monaco,4-0,2-0,Wed,38
-?,2016-09-21,Rennes,Marseille,3-2,1-1,Wed,38
-?,2016-09-23,Toulouse,Paris SG,2-0,0-0,Fri,38
-?,2016-09-24,Bastia,Guingamp,1-0,0-0,Sat,38
-?,2016-09-24,Bordeaux,Caen,0-0,0-0,Sat,38
-?,2016-09-24,Dijon,Rennes,3-0,2-0,Sat,38
-?,2016-09-24,Lorient,Lyon,1-0,0-0,Sat,38
-?,2016-09-24,Monaco,Angers,2-1,0-0,Sat,38
-?,2016-09-24,Montpellier,Metz,0-1,0-1,Sat,38
-?,2016-09-25,Marseille,Nantes,2-1,1-1,Sun,38
-?,2016-09-25,Nancy,Nice,0-1,0-0,Sun,38
-?,2016-09-25,St Etienne,Lille,3-1,0-0,Sun,38
-?,2016-09-30,Rennes,Guingamp,1-0,0-0,Fri,39
-?,2016-10-01,Caen,Toulouse,1-0,0-0,Sat,39
-?,2016-10-01,Dijon,Montpellier,3-3,1-2,Sat,39
-?,2016-10-01,Lille,Nancy,1-0,0-0,Sat,39
-?,2016-10-01,Metz,Monaco,0-7,0-3,Sat,39
-?,2016-10-01,Nantes,Bastia,1-0,1-0,Sat,39
-?,2016-10-01,Paris SG,Bordeaux,2-0,2-0,Sat,39
-?,2016-10-02,Angers,Marseille,1-1,0-0,Sun,39
-?,2016-10-02,Lyon,St Etienne,2-0,1-0,Sun,39
-?,2016-10-02,Nice,Lorient,2-1,1-0,Sun,39
-?,2016-10-14,Nice,Lyon,2-0,1-0,Fri,41
-?,2016-10-14,Toulouse,Monaco,3-1,0-1,Fri,41
-?,2016-10-15,Bastia,Angers,1-2,1-1,Sat,41
-?,2016-10-15,Guingamp,Lille,1-0,1-0,Sat,41
-?,2016-10-15,Lorient,Nantes,1-2,0-1,Sat,41
-?,2016-10-15,Montpellier,Caen,3-2,1-1,Sat,41
-?,2016-10-15,Nancy,Paris SG,1-2,0-2,Sat,41
-?,2016-10-16,Marseille,Metz,1-0,1-0,Sun,41
-?,2016-10-16,Rennes,Bordeaux,1-1,1-0,Sun,41
-?,2016-10-16,St Etienne,Dijon,1-1,0-1,Sun,41
-?,2016-10-21,Monaco,Montpellier,6-2,1-1,Fri,42
-?,2016-10-22,Angers,Toulouse,0-0,0-0,Sat,42
-?,2016-10-22,Bordeaux,Nancy,1-1,0-0,Sat,42
-?,2016-10-22,Dijon,Lorient,1-0,0-0,Sat,42
-?,2016-10-22,Lille,Bastia,2-1,0-0,Sat,42
-?,2016-10-22,Lyon,Guingamp,1-3,1-0,Sat,42
-?,2016-10-22,Nantes,Rennes,1-2,1-0,Sat,42
-?,2016-10-23,Caen,St Etienne,0-2,0-0,Sun,42
-?,2016-10-23,Metz,Nice,2-4,1-2,Sun,42
-?,2016-10-23,Paris SG,Marseille,0-0,0-0,Sun,42
-?,2016-10-28,Lille,Paris SG,0-1,0-0,Fri,43
-?,2016-10-29,Bastia,Dijon,0-0,0-0,Sat,43
-?,2016-10-29,Guingamp,Angers,1-0,0-0,Sat,43
-?,2016-10-29,Lorient,Montpellier,2-2,2-1,Sat,43
-?,2016-10-29,Nancy,Caen,2-0,2-0,Sat,43
-?,2016-10-29,St Etienne,Monaco,1-1,1-1,Sat,43
-?,2016-10-29,Toulouse,Lyon,1-2,1-1,Sat,43
-?,2016-10-30,Marseille,Bordeaux,0-0,0-0,Sun,43
-?,2016-10-30,Nice,Nantes,4-1,2-0,Sun,43
-?,2016-10-30,Rennes,Metz,1-0,0-0,Sun,43
-?,2016-11-04,Montpellier,Marseille,3-1,2-0,Fri,44
-?,2016-11-05,Angers,Lille,1-0,0-0,Sat,44
-?,2016-11-05,Bordeaux,Lorient,2-1,1-0,Sat,44
-?,2016-11-05,Dijon,Guingamp,3-3,3-1,Sat,44
-?,2016-11-05,Lyon,Bastia,2-1,1-0,Sat,44
-?,2016-11-05,Monaco,Nancy,6-0,2-0,Sat,44
-?,2016-11-05,Nantes,Toulouse,1-1,0-1,Sat,44
-?,2016-11-06,Caen,Nice,1-0,1-0,Sun,44
-?,2016-11-06,Metz,St Etienne,0-0,0-0,Sun,44
-?,2016-11-06,Paris SG,Rennes,4-0,2-0,Sun,44
-?,2016-11-18,Lille,Lyon,0-1,0-1,Fri,46
-?,2016-11-18,Lorient,Monaco,0-3,0-0,Fri,46
-?,2016-11-19,Bastia,Montpellier,1-1,1-0,Sat,46
-?,2016-11-19,Nancy,Dijon,1-0,0-0,Sat,46
-?,2016-11-19,Paris SG,Nantes,2-0,1-0,Sat,46
-?,2016-11-19,Rennes,Angers,1-1,1-0,Sat,46
-?,2016-11-19,Toulouse,Metz,1-2,0-1,Sat,46
-?,2016-11-20,Guingamp,Bordeaux,1-1,0-1,Sun,46
-?,2016-11-20,Marseille,Caen,1-0,0-0,Sun,46
-?,2016-11-20,St Etienne,Nice,0-1,0-0,Sun,46
-?,2016-11-25,Rennes,Toulouse,1-0,1-0,Fri,47
-?,2016-11-26,Bordeaux,Dijon,3-2,0-1,Sat,47
-?,2016-11-26,Caen,Guingamp,1-1,0-0,Sat,47
-?,2016-11-26,Metz,Lorient,3-3,1-1,Sat,47
-?,2016-11-26,Monaco,Marseille,4-0,3-0,Sat,47
-?,2016-11-26,Montpellier,Nancy,0-0,0-0,Sat,47
-?,2016-11-26,Nantes,Lille,0-0,0-0,Sat,47
-?,2016-11-27,Angers,St Etienne,1-2,1-0,Sun,47
-?,2016-11-27,Lyon,Paris SG,1-2,0-1,Sun,47
-?,2016-11-27,Nice,Bastia,1-1,1-0,Sun,47
-?,2016-11-29,Dijon,Monaco,1-1,0-1,Tue,48
-?,2016-11-29,Lille,Caen,4-2,2-1,Tue,48
-?,2016-11-29,Lorient,Rennes,2-1,1-1,Tue,48
-?,2016-11-30,Bastia,Bordeaux,1-1,0-0,Wed,48
-?,2016-11-30,Guingamp,Nice,0-1,0-1,Wed,48
-?,2016-11-30,Nancy,Metz,4-0,1-0,Wed,48
-?,2016-11-30,Nantes,Lyon,0-6,0-3,Wed,48
-?,2016-11-30,Paris SG,Angers,2-0,1-0,Wed,48
-?,2016-11-30,St Etienne,Marseille,0-0,0-0,Wed,48
-?,2016-11-30,Toulouse,Montpellier,1-0,1-0,Wed,48
-?,2016-12-02,Caen,Dijon,3-3,3-1,Fri,48
-?,2016-12-03,Angers,Lorient,2-2,1-1,Sat,48
-?,2016-12-03,Bordeaux,Lille,0-1,0-1,Sat,48
-?,2016-12-03,Guingamp,Nantes,2-0,1-0,Sat,48
-?,2016-12-03,Monaco,Bastia,5-0,1-0,Sat,48
-?,2016-12-03,Montpellier,Paris SG,3-0,1-0,Sat,48
-?,2016-12-04,Marseille,Nancy,3-0,0-0,Sun,48
-?,2016-12-04,Nice,Toulouse,3-0,2-0,Sun,48
-?,2016-12-04,Rennes,St Etienne,2-0,0-0,Sun,48
-?,2016-12-10,Bastia,Metz,2-0,1-0,Sat,49
-?,2016-12-10,Bordeaux,Monaco,0-4,0-2,Sat,49
-?,2016-12-10,Dijon,Marseille,1-2,0-1,Sat,49
-?,2016-12-10,Lille,Montpellier,2-1,2-0,Sat,49
-?,2016-12-10,Nancy,Angers,2-0,1-0,Sat,49
-?,2016-12-10,Toulouse,Lorient,3-2,2-1,Sat,49
-?,2016-12-11,Lyon,Rennes,1-0,1-0,Sun,49
-?,2016-12-11,Paris SG,Nice,2-2,0-2,Sun,49
-?,2016-12-11,St Etienne,Guingamp,1-0,1-0,Sun,49
-?,2016-12-16,Angers,Nantes,0-2,0-1,Fri,50
-?,2016-12-17,Guingamp,Paris SG,2-1,0-0,Sat,50
-?,2016-12-17,Lorient,St Etienne,2-1,1-0,Sat,50
-?,2016-12-17,Montpellier,Bordeaux,4-0,2-0,Sat,50
-?,2016-12-17,Rennes,Bastia,1-2,0-0,Sat,50
-?,2016-12-17,Toulouse,Nancy,1-1,0-1,Sat,50
-?,2016-12-18,Caen,Metz,3-0,1-0,Sun,50
-?,2016-12-18,Marseille,Lille,2-0,0-0,Sun,50
-?,2016-12-18,Monaco,Lyon,1-3,0-1,Sun,50
-?,2016-12-18,Nice,Dijon,2-1,1-1,Sun,50
-?,2016-12-21,Bastia,Marseille,1-2,0-1,Wed,51
-?,2016-12-21,Bordeaux,Nice,0-0,0-0,Wed,51
-?,2016-12-21,Dijon,Toulouse,2-0,0-0,Wed,51
-?,2016-12-21,Lille,Rennes,1-1,0-1,Wed,51
-?,2016-12-21,Lyon,Angers,2-0,1-0,Wed,51
-?,2016-12-21,Metz,Guingamp,2-2,1-0,Wed,51
-?,2016-12-21,Monaco,Caen,2-1,0-0,Wed,51
-?,2016-12-21,Nantes,Montpellier,1-0,1-0,Wed,51
-?,2016-12-21,Paris SG,Lorient,5-0,2-0,Wed,51
-?,2016-12-21,St Etienne,Nancy,0-0,0-0,Wed,51
-?,2017-01-13,Lille,St Etienne,1-1,0-1,Fri,2
-?,2017-01-14,Angers,Bordeaux,1-1,1-1,Sat,2
-?,2017-01-14,Lorient,Guingamp,3-1,0-1,Sat,2
-?,2017-01-14,Montpellier,Dijon,1-1,0-1,Sat,2
-?,2017-01-14,Nancy,Bastia,1-0,0-0,Sat,2
-?,2017-01-14,Rennes,Paris SG,0-1,0-1,Sat,2
-?,2017-01-14,Toulouse,Nantes,0-1,0-1,Sat,2
-?,2017-01-15,Caen,Lyon,3-2,2-2,Sun,2
-?,2017-01-15,Marseille,Monaco,1-4,1-3,Sun,2
-?,2017-01-15,Nice,Metz,0-0,0-0,Sun,2
-?,2017-01-18,Nantes,Caen,1-0,0-0,Wed,3
-?,2017-01-20,Bastia,Nice,1-1,1-1,Fri,3
-?,2017-01-21,Bordeaux,Toulouse,1-0,1-0,Sat,3
-?,2017-01-21,Dijon,Lille,0-0,0-0,Sat,3
-?,2017-01-21,Guingamp,Rennes,1-1,1-0,Sat,3
-?,2017-01-21,Metz,Montpellier,2-0,2-0,Sat,3
-?,2017-01-21,Nantes,Paris SG,0-2,0-1,Sat,3
-?,2017-01-22,Lyon,Marseille,3-1,1-0,Sun,3
-?,2017-01-22,Monaco,Lorient,4-0,3-0,Sun,3
-?,2017-01-22,St Etienne,Angers,2-1,0-1,Sun,3
-?,2017-01-27,Marseille,Montpellier,5-1,3-0,Fri,4
-?,2017-01-28,Angers,Metz,2-1,2-1,Sat,4
-?,2017-01-28,Bastia,Caen,1-1,1-1,Sat,4
-?,2017-01-28,Lorient,Dijon,2-3,0-1,Sat,4
-?,2017-01-28,Lyon,Lille,1-2,0-1,Sat,4
-?,2017-01-28,Nancy,Bordeaux,0-2,0-0,Sat,4
-?,2017-01-28,Rennes,Nantes,1-1,0-1,Sat,4
-?,2017-01-29,Nice,Guingamp,3-1,2-0,Sun,4
-?,2017-01-29,Paris SG,Monaco,1-1,0-0,Sun,4
-?,2017-01-29,Toulouse,St Etienne,0-3,0-1,Sun,4
-?,2017-02-03,Metz,Marseille,1-0,0-0,Fri,5
-?,2017-02-04,Bordeaux,Rennes,1-1,0-0,Sat,5
-?,2017-02-04,Dijon,Paris SG,1-3,1-1,Sat,5
-?,2017-02-04,Guingamp,Caen,0-1,0-0,Sat,5
-?,2017-02-04,Lille,Lorient,0-1,0-0,Sat,5
-?,2017-02-04,Monaco,Nice,3-0,0-0,Sat,5
-?,2017-02-04,Montpellier,Bastia,2-1,1-1,Sat,5
-?,2017-02-05,Nantes,Nancy,0-2,0-0,Sun,5
-?,2017-02-05,St Etienne,Lyon,2-0,2-0,Sun,5
-?,2017-02-05,Toulouse,Angers,4-0,0-0,Sun,5
-?,2017-02-07,Caen,Bordeaux,0-4,0-2,Tue,6
-?,2017-02-07,Montpellier,Monaco,1-2,0-2,Tue,6
-?,2017-02-07,Paris SG,Lille,2-1,0-0,Tue,6
-?,2017-02-08,Angers,Rennes,0-0,0-0,Wed,6
-?,2017-02-08,Lorient,Toulouse,1-1,0-1,Wed,6
-?,2017-02-08,Lyon,Nancy,4-0,2-0,Wed,6
-?,2017-02-08,Marseille,Guingamp,2-0,1-0,Wed,6
-?,2017-02-08,Metz,Dijon,2-1,0-0,Wed,6
-?,2017-02-08,Nice,St Etienne,1-0,1-0,Wed,6
-?,2017-02-10,Bordeaux,Paris SG,0-3,0-2,Fri,6
-?,2017-02-11,Dijon,Caen,2-0,1-0,Sat,6
-?,2017-02-11,Guingamp,Lyon,2-1,2-1,Sat,6
-?,2017-02-11,Lille,Angers,1-2,1-1,Sat,6
-?,2017-02-11,Monaco,Metz,5-0,3-0,Sat,6
-?,2017-02-11,Nancy,Montpellier,0-3,0-2,Sat,6
-?,2017-02-11,Toulouse,Bastia,4-1,2-0,Sat,6
-?,2017-02-12,Nantes,Marseille,3-2,2-0,Sun,6
-?,2017-02-12,Rennes,Nice,2-2,2-0,Sun,6
-?,2017-02-12,St Etienne,Lorient,4-0,2-0,Sun,6
-?,2017-02-17,Bastia,Monaco,1-1,1-0,Fri,7
-?,2017-02-18,Angers,Nancy,1-0,1-0,Sat,7
-?,2017-02-18,Caen,Lille,0-1,0-0,Sat,7
-?,2017-02-18,Lorient,Nice,0-1,0-1,Sat,7
-?,2017-02-18,Marseille,Rennes,2-0,0-0,Sat,7
-?,2017-02-18,Metz,Nantes,1-1,0-0,Sat,7
-?,2017-02-19,Bordeaux,Guingamp,3-0,2-0,Sun,7
-?,2017-02-19,Lyon,Dijon,4-2,1-1,Sun,7
-?,2017-02-19,Montpellier,St Etienne,2-1,0-1,Sun,7
-?,2017-02-19,Paris SG,Toulouse,0-0,0-0,Sun,7
-?,2017-02-21,Caen,Nancy,1-0,1-0,Tue,8
-?,2017-02-24,Nantes,Dijon,3-1,1-1,Fri,8
-?,2017-02-24,Nice,Montpellier,2-1,0-1,Fri,8
-?,2017-02-25,Angers,Bastia,3-0,1-0,Sat,8
-?,2017-02-25,Guingamp,Monaco,1-2,0-1,Sat,8
-?,2017-02-25,Lille,Bordeaux,2-3,0-1,Sat,8
-?,2017-02-25,Nancy,Toulouse,0-0,0-0,Sat,8
-?,2017-02-25,Rennes,Lorient,1-0,1-0,Sat,8
-?,2017-02-26,Lyon,Metz,5-0,1-0,Sun,8
-?,2017-02-26,Marseille,Paris SG,1-5,0-2,Sun,8
-?,2017-02-26,St Etienne,Caen,0-1,0-1,Sun,8
-?,2017-03-01,Bastia,Nantes,2-2,0-0,Wed,9
-?,2017-03-03,Bordeaux,Lyon,1-1,1-0,Fri,9
-?,2017-03-04,Bastia,St Etienne,0-0,0-0,Sat,9
-?,2017-03-04,Caen,Angers,2-3,1-2,Sat,9
-?,2017-03-04,Dijon,Nice,0-1,0-0,Sat,9
-?,2017-03-04,Metz,Rennes,1-1,1-0,Sat,9
-?,2017-03-04,Montpellier,Guingamp,1-1,0-0,Sat,9
-?,2017-03-04,Paris SG,Nancy,1-0,0-0,Sat,9
-?,2017-03-05,Lorient,Marseille,1-4,0-2,Sun,9
-?,2017-03-05,Monaco,Nantes,4-0,3-0,Sun,9
-?,2017-03-05,Toulouse,Lille,1-1,1-0,Sun,9
-?,2017-03-10,Marseille,Angers,3-0,2-0,Fri,10
-?,2017-03-10,Nice,Caen,2-2,0-1,Fri,10
-?,2017-03-11,Guingamp,Bastia,5-0,0-0,Sat,10
-?,2017-03-11,Monaco,Bordeaux,2-1,0-0,Sat,10
-?,2017-03-11,Montpellier,Nantes,2-3,1-1,Sat,10
-?,2017-03-11,Nancy,Lille,1-2,1-0,Sat,10
-?,2017-03-11,Rennes,Dijon,1-1,0-1,Sat,10
-?,2017-03-12,Lorient,Paris SG,1-2,0-1,Sun,10
-?,2017-03-12,Lyon,Toulouse,4-0,1-0,Sun,10
-?,2017-03-12,St Etienne,Metz,2-2,0-1,Sun,10
-?,2017-03-17,Lille,Marseille,0-0,0-0,Fri,11
-?,2017-03-17,Metz,Bastia,1-0,0-0,Fri,11
-?,2017-03-18,Angers,Guingamp,3-0,0-0,Sat,11
-?,2017-03-18,Bordeaux,Montpellier,5-1,3-0,Sat,11
-?,2017-03-18,Nancy,Lorient,2-3,2-0,Sat,11
-?,2017-03-18,Nantes,Nice,1-1,1-1,Sat,11
-?,2017-03-18,Toulouse,Rennes,0-0,0-0,Sat,11
-?,2017-03-19,Caen,Monaco,0-3,0-1,Sun,11
-?,2017-03-19,Dijon,St Etienne,0-1,0-0,Sun,11
-?,2017-03-19,Paris SG,Lyon,2-1,2-1,Sun,11
-?,2017-03-31,Guingamp,Nancy,1-0,0-0,Fri,13
-?,2017-04-01,Bastia,Lille,0-1,0-0,Sat,13
-?,2017-04-01,Marseille,Dijon,1-1,0-1,Sat,13
-?,2017-04-02,Lorient,Caen,1-0,1-0,Sun,13
-?,2017-04-02,Montpellier,Toulouse,0-1,0-1,Sun,13
-?,2017-04-02,Nantes,Angers,2-1,0-0,Sun,13
-?,2017-04-02,Nice,Bordeaux,2-1,2-1,Sun,13
-?,2017-04-02,Rennes,Lyon,1-1,0-0,Sun,13
-?,2017-04-05,Metz,Lyon,0-3,0-0,Wed,14
-?,2017-04-07,Lille,Nice,1-2,1-2,Fri,14
-?,2017-04-08,Angers,Monaco,0-1,0-0,Sat,14
-?,2017-04-08,Bordeaux,Metz,3-0,1-0,Sat,14
-?,2017-04-08,Caen,Montpellier,0-2,0-0,Sat,14
-?,2017-04-08,Dijon,Bastia,1-2,1-1,Sat,14
-?,2017-04-08,Lyon,Lorient,1-4,1-1,Sat,14
-?,2017-04-08,Nancy,Rennes,3-0,1-0,Sat,14
-?,2017-04-09,Paris SG,Guingamp,4-0,0-0,Sun,14
-?,2017-04-09,St Etienne,Nantes,1-1,0-1,Sun,14
-?,2017-04-09,Toulouse,Marseille,0-0,0-0,Sun,14
-?,2017-04-14,Angers,Paris SG,0-2,0-1,Fri,15
-?,2017-04-15,Guingamp,Toulouse,2-1,0-0,Sat,15
-?,2017-04-15,Metz,Caen,2-2,0-0,Sat,15
-?,2017-04-15,Monaco,Dijon,2-1,0-1,Sat,15
-?,2017-04-15,Montpellier,Lorient,2-0,2-0,Sat,15
-?,2017-04-15,Nice,Nancy,3-1,1-1,Sat,15
-?,2017-04-15,Rennes,Lille,2-0,2-0,Sat,15
-?,2017-04-16,Bastia,Lyon,0-3,?,Sun,15
-?,2017-04-16,Marseille,St Etienne,4-0,2-0,Sun,15
-?,2017-04-16,Nantes,Bordeaux,0-1,0-0,Sun,15
-?,2017-04-18,Metz,Paris SG,2-3,0-2,Tue,16
-?,2017-04-21,Nancy,Marseille,0-0,0-0,Fri,16
-?,2017-04-22,Bordeaux,Bastia,2-0,0-0,Sat,16
-?,2017-04-22,Caen,Nantes,0-2,0-2,Sat,16
-?,2017-04-22,Dijon,Angers,3-2,3-0,Sat,16
-?,2017-04-22,Lille,Guingamp,3-0,2-0,Sat,16
-?,2017-04-22,Lorient,Metz,5-1,1-1,Sat,16
-?,2017-04-22,Paris SG,Montpellier,2-0,1-0,Sat,16
-?,2017-04-23,Lyon,Monaco,1-2,0-2,Sun,16
-?,2017-04-23,St Etienne,Rennes,1-1,1-1,Sun,16
-?,2017-04-23,Toulouse,Nice,1-1,0-0,Sun,16
-?,2017-04-28,Angers,Lyon,1-2,0-2,Fri,17
-?,2017-04-29,Bastia,Rennes,1-0,0-0,Sat,17
-?,2017-04-29,Guingamp,St Etienne,0-2,0-0,Sat,17
-?,2017-04-29,Metz,Nancy,2-1,1-1,Sat,17
-?,2017-04-29,Monaco,Toulouse,3-1,0-0,Sat,17
-?,2017-04-29,Montpellier,Lille,0-3,0-1,Sat,17
-?,2017-04-29,Nantes,Lorient,1-0,0-0,Sat,17
-?,2017-04-30,Caen,Marseille,1-5,1-3,Sun,17
-?,2017-04-30,Dijon,Bordeaux,0-0,0-0,Sun,17
-?,2017-04-30,Nice,Paris SG,3-1,1-0,Sun,17
-?,2017-05-05,St Etienne,Bordeaux,2-2,1-1,Fri,18
-?,2017-05-06,Guingamp,Dijon,4-0,1-0,Sat,18
-?,2017-05-06,Lille,Metz,0-2,0-1,Sat,18
-?,2017-05-06,Lorient,Angers,1-1,0-0,Sat,18
-?,2017-05-06,Nancy,Monaco,0-3,0-2,Sat,18
-?,2017-05-06,Paris SG,Bastia,5-0,2-0,Sat,18
-?,2017-05-06,Toulouse,Caen,0-1,0-0,Sat,18
-?,2017-05-07,Lyon,Nantes,3-2,0-1,Sun,18
-?,2017-05-07,Marseille,Nice,2-1,1-0,Sun,18
-?,2017-05-07,Rennes,Montpellier,1-0,0-0,Sun,18
-?,2017-05-14,Bastia,Lorient,2-0,0-0,Sun,19
-?,2017-05-14,Bordeaux,Marseille,1-1,1-0,Sun,19
-?,2017-05-14,Caen,Rennes,0-1,0-0,Sun,19
-?,2017-05-14,Dijon,Nancy,2-0,0-0,Sun,19
-?,2017-05-14,Metz,Toulouse,1-1,0-1,Sun,19
-?,2017-05-14,Monaco,Lille,4-0,2-0,Sun,19
-?,2017-05-14,Montpellier,Lyon,1-3,1-2,Sun,19
-?,2017-05-14,Nantes,Guingamp,4-1,1-0,Sun,19
-?,2017-05-14,Nice,Angers,0-2,0-1,Sun,19
-?,2017-05-14,St Etienne,Paris SG,0-5,0-2,Sun,19
-?,2017-05-17,Monaco,St Etienne,2-0,1-0,Wed,20
-?,2017-05-20,Angers,Montpellier,2-0,0-0,Sat,20
-?,2017-05-20,Guingamp,Metz,1-0,1-0,Sat,20
-?,2017-05-20,Lille,Nantes,3-0,1-0,Sat,20
-?,2017-05-20,Lorient,Bordeaux,1-1,0-1,Sat,20
-?,2017-05-20,Lyon,Nice,3-3,1-1,Sat,20
-?,2017-05-20,Marseille,Bastia,1-0,0-0,Sat,20
-?,2017-05-20,Nancy,St Etienne,3-1,1-0,Sat,20
-?,2017-05-20,Paris SG,Caen,1-1,1-0,Sat,20
-?,2017-05-20,Rennes,Monaco,2-3,0-1,Sat,20
-?,2017-05-20,Toulouse,Dijon,0-0,0-0,Sat,20
+Round,Date,Team 1,Team 2,FT,HT
+?,(Fri) Aug/12 2016 (32),Bastia (1),Paris SG (1),0-1,0-0
+?,(Fri) Aug/12 2016 (32),Monaco (1),Guingamp (1),2-2,0-2
+?,(Sat) Aug/13 2016 (32),Bordeaux (1),St Etienne (1),3-2,1-0
+?,(Sat) Aug/13 2016 (32),Caen (1),Lorient (1),3-2,2-2
+?,(Sat) Aug/13 2016 (32),Dijon (1),Nantes (1),0-1,0-0
+?,(Sat) Aug/13 2016 (32),Metz (1),Lille (1),3-2,0-1
+?,(Sat) Aug/13 2016 (32),Montpellier (1),Angers (1),1-0,1-0
+?,(Sun) Aug/14 2016 (32),Marseille (1),Toulouse (1),0-0,0-0
+?,(Sun) Aug/14 2016 (32),Nancy (1),Lyon (1),0-3,0-2
+?,(Sun) Aug/14 2016 (32),Nice (1),Rennes (1),1-0,0-0
+?,(Fri) Aug/19 2016 (33),Lyon (2),Caen (2),2-0,1-0
+?,(Sat) Aug/20 2016 (33),Angers (2),Nice (2),0-1,0-1
+?,(Sat) Aug/20 2016 (33),Lille (2),Dijon (2),1-0,0-0
+?,(Sat) Aug/20 2016 (33),Lorient (2),Bastia (2),0-3,0-2
+?,(Sat) Aug/20 2016 (33),Nantes (2),Monaco (2),0-1,0-1
+?,(Sat) Aug/20 2016 (33),Rennes (2),Nancy (2),2-0,1-0
+?,(Sat) Aug/20 2016 (33),Toulouse (2),Bordeaux (2),4-1,2-0
+?,(Sun) Aug/21 2016 (33),Guingamp (2),Marseille (2),2-1,1-0
+?,(Sun) Aug/21 2016 (33),Paris SG (2),Metz (2),3-0,0-0
+?,(Sun) Aug/21 2016 (33),St Etienne (2),Montpellier (2),3-1,0-1
+?,(Fri) Aug/26 2016 (34),Marseille (3),Lorient (3),2-0,1-0
+?,(Sat) Aug/27 2016 (34),Caen (3),Bastia (3),2-0,0-0
+?,(Sat) Aug/27 2016 (34),Dijon (3),Lyon (3),4-2,2-2
+?,(Sat) Aug/27 2016 (34),Metz (3),Angers (3),2-0,1-0
+?,(Sat) Aug/27 2016 (34),Montpellier (3),Rennes (3),1-1,1-0
+?,(Sat) Aug/27 2016 (34),Nancy (3),Guingamp (3),0-2,0-0
+?,(Sat) Aug/27 2016 (34),Nice (3),Lille (3),1-1,1-1
+?,(Sun) Aug/28 2016 (34),Bordeaux (3),Nantes (3),1-0,1-0
+?,(Sun) Aug/28 2016 (34),Monaco (3),Paris SG (3),3-1,2-0
+?,(Sun) Aug/28 2016 (34),St Etienne (3),Toulouse (3),0-0,0-0
+?,(Fri) Sep/9 2016 (36),Paris SG (4),St Etienne (4),1-1,0-0
+?,(Sat) Sep/10 2016 (36),Angers (4),Dijon (4),3-1,1-1
+?,(Sat) Sep/10 2016 (36),Bastia (4),Toulouse (4),2-1,1-0
+?,(Sat) Sep/10 2016 (36),Guingamp (4),Montpellier (4),1-1,1-1
+?,(Sat) Sep/10 2016 (36),Lille (4),Monaco (4),1-4,0-2
+?,(Sat) Sep/10 2016 (36),Lorient (4),Nancy (4),0-2,0-1
+?,(Sat) Sep/10 2016 (36),Lyon (4),Bordeaux (4),1-3,1-1
+?,(Sun) Sep/11 2016 (36),Nantes (4),Metz (4),0-3,0-2
+?,(Sun) Sep/11 2016 (36),Nice (4),Marseille (4),3-2,1-1
+?,(Sun) Sep/11 2016 (36),Rennes (4),Caen (4),2-0,0-0
+?,(Fri) Sep/16 2016 (37),Caen (5),Paris SG (5),0-6,0-4
+?,(Sat) Sep/17 2016 (37),Bordeaux (5),Angers (5),0-1,0-1
+?,(Sat) Sep/17 2016 (37),Dijon (5),Metz (5),0-0,0-0
+?,(Sat) Sep/17 2016 (37),Lorient (5),Lille (5),1-0,0-0
+?,(Sat) Sep/17 2016 (37),Monaco (5),Rennes (5),3-0,1-0
+?,(Sat) Sep/17 2016 (37),Nancy (5),Nantes (5),1-1,0-0
+?,(Sat) Sep/17 2016 (37),Toulouse (5),Guingamp (5),2-1,0-0
+?,(Sun) Sep/18 2016 (37),Marseille (5),Lyon (5),0-0,0-0
+?,(Sun) Sep/18 2016 (37),Montpellier (5),Nice (5),1-1,0-0
+?,(Sun) Sep/18 2016 (37),St Etienne (5),Bastia (5),1-0,0-0
+?,(Tue) Sep/20 2016 (38),Lille (6),Toulouse (6),1-2,1-1
+?,(Tue) Sep/20 2016 (38),Paris SG (6),Dijon (6),3-0,2-0
+?,(Wed) Sep/21 2016 (38),Angers (6),Caen (6),2-1,1-0
+?,(Wed) Sep/21 2016 (38),Bastia (6),Nancy (6),0-0,0-0
+?,(Wed) Sep/21 2016 (38),Guingamp (6),Lorient (6),1-0,0-0
+?,(Wed) Sep/21 2016 (38),Lyon (6),Montpellier (6),5-1,2-1
+?,(Wed) Sep/21 2016 (38),Metz (6),Bordeaux (6),0-3,0-1
+?,(Wed) Sep/21 2016 (38),Nantes (6),St Etienne (6),0-0,0-0
+?,(Wed) Sep/21 2016 (38),Nice (6),Monaco (6),4-0,2-0
+?,(Wed) Sep/21 2016 (38),Rennes (6),Marseille (6),3-2,1-1
+?,(Fri) Sep/23 2016 (38),Toulouse (7),Paris SG (7),2-0,0-0
+?,(Sat) Sep/24 2016 (38),Bastia (7),Guingamp (7),1-0,0-0
+?,(Sat) Sep/24 2016 (38),Bordeaux (7),Caen (7),0-0,0-0
+?,(Sat) Sep/24 2016 (38),Dijon (7),Rennes (7),3-0,2-0
+?,(Sat) Sep/24 2016 (38),Lorient (7),Lyon (7),1-0,0-0
+?,(Sat) Sep/24 2016 (38),Monaco (7),Angers (7),2-1,0-0
+?,(Sat) Sep/24 2016 (38),Montpellier (7),Metz (7),0-1,0-1
+?,(Sun) Sep/25 2016 (38),Marseille (7),Nantes (7),2-1,1-1
+?,(Sun) Sep/25 2016 (38),Nancy (7),Nice (7),0-1,0-0
+?,(Sun) Sep/25 2016 (38),St Etienne (7),Lille (7),3-1,0-0
+?,(Fri) Sep/30 2016 (39),Rennes (8),Guingamp (8),1-0,0-0
+?,(Sat) Oct/1 2016 (39),Caen (8),Toulouse (8),1-0,0-0
+?,(Sat) Oct/1 2016 (39),Dijon (8),Montpellier (8),3-3,1-2
+?,(Sat) Oct/1 2016 (39),Lille (8),Nancy (8),1-0,0-0
+?,(Sat) Oct/1 2016 (39),Metz (8),Monaco (8),0-7,0-3
+?,(Sat) Oct/1 2016 (39),Nantes (8),Bastia (8),1-0,1-0
+?,(Sat) Oct/1 2016 (39),Paris SG (8),Bordeaux (8),2-0,2-0
+?,(Sun) Oct/2 2016 (39),Angers (8),Marseille (8),1-1,0-0
+?,(Sun) Oct/2 2016 (39),Lyon (8),St Etienne (8),2-0,1-0
+?,(Sun) Oct/2 2016 (39),Nice (8),Lorient (8),2-1,1-0
+?,(Fri) Oct/14 2016 (41),Nice (9),Lyon (9),2-0,1-0
+?,(Fri) Oct/14 2016 (41),Toulouse (9),Monaco (9),3-1,0-1
+?,(Sat) Oct/15 2016 (41),Bastia (9),Angers (9),1-2,1-1
+?,(Sat) Oct/15 2016 (41),Guingamp (9),Lille (9),1-0,1-0
+?,(Sat) Oct/15 2016 (41),Lorient (9),Nantes (9),1-2,0-1
+?,(Sat) Oct/15 2016 (41),Montpellier (9),Caen (9),3-2,1-1
+?,(Sat) Oct/15 2016 (41),Nancy (9),Paris SG (9),1-2,0-2
+?,(Sun) Oct/16 2016 (41),Marseille (9),Metz (9),1-0,1-0
+?,(Sun) Oct/16 2016 (41),Rennes (9),Bordeaux (9),1-1,1-0
+?,(Sun) Oct/16 2016 (41),St Etienne (9),Dijon (9),1-1,0-1
+?,(Fri) Oct/21 2016 (42),Monaco (10),Montpellier (10),6-2,1-1
+?,(Sat) Oct/22 2016 (42),Angers (10),Toulouse (10),0-0,0-0
+?,(Sat) Oct/22 2016 (42),Bordeaux (10),Nancy (10),1-1,0-0
+?,(Sat) Oct/22 2016 (42),Dijon (10),Lorient (10),1-0,0-0
+?,(Sat) Oct/22 2016 (42),Lille (10),Bastia (10),2-1,0-0
+?,(Sat) Oct/22 2016 (42),Lyon (10),Guingamp (10),1-3,1-0
+?,(Sat) Oct/22 2016 (42),Nantes (10),Rennes (10),1-2,1-0
+?,(Sun) Oct/23 2016 (42),Caen (10),St Etienne (10),0-2,0-0
+?,(Sun) Oct/23 2016 (42),Metz (10),Nice (10),2-4,1-2
+?,(Sun) Oct/23 2016 (42),Paris SG (10),Marseille (10),0-0,0-0
+?,(Fri) Oct/28 2016 (43),Lille (11),Paris SG (11),0-1,0-0
+?,(Sat) Oct/29 2016 (43),Bastia (11),Dijon (11),0-0,0-0
+?,(Sat) Oct/29 2016 (43),Guingamp (11),Angers (11),1-0,0-0
+?,(Sat) Oct/29 2016 (43),Lorient (11),Montpellier (11),2-2,2-1
+?,(Sat) Oct/29 2016 (43),Nancy (11),Caen (11),2-0,2-0
+?,(Sat) Oct/29 2016 (43),St Etienne (11),Monaco (11),1-1,1-1
+?,(Sat) Oct/29 2016 (43),Toulouse (11),Lyon (11),1-2,1-1
+?,(Sun) Oct/30 2016 (43),Marseille (11),Bordeaux (11),0-0,0-0
+?,(Sun) Oct/30 2016 (43),Nice (11),Nantes (11),4-1,2-0
+?,(Sun) Oct/30 2016 (43),Rennes (11),Metz (11),1-0,0-0
+?,(Fri) Nov/4 2016 (44),Montpellier (12),Marseille (12),3-1,2-0
+?,(Sat) Nov/5 2016 (44),Angers (12),Lille (12),1-0,0-0
+?,(Sat) Nov/5 2016 (44),Bordeaux (12),Lorient (12),2-1,1-0
+?,(Sat) Nov/5 2016 (44),Dijon (12),Guingamp (12),3-3,3-1
+?,(Sat) Nov/5 2016 (44),Lyon (12),Bastia (12),2-1,1-0
+?,(Sat) Nov/5 2016 (44),Monaco (12),Nancy (12),6-0,2-0
+?,(Sat) Nov/5 2016 (44),Nantes (12),Toulouse (12),1-1,0-1
+?,(Sun) Nov/6 2016 (44),Caen (12),Nice (12),1-0,1-0
+?,(Sun) Nov/6 2016 (44),Metz (12),St Etienne (12),0-0,0-0
+?,(Sun) Nov/6 2016 (44),Paris SG (12),Rennes (12),4-0,2-0
+?,(Fri) Nov/18 2016 (46),Lille (13),Lyon (13),0-1,0-1
+?,(Fri) Nov/18 2016 (46),Lorient (13),Monaco (13),0-3,0-0
+?,(Sat) Nov/19 2016 (46),Bastia (13),Montpellier (13),1-1,1-0
+?,(Sat) Nov/19 2016 (46),Nancy (13),Dijon (13),1-0,0-0
+?,(Sat) Nov/19 2016 (46),Paris SG (13),Nantes (13),2-0,1-0
+?,(Sat) Nov/19 2016 (46),Rennes (13),Angers (13),1-1,1-0
+?,(Sat) Nov/19 2016 (46),Toulouse (13),Metz (13),1-2,0-1
+?,(Sun) Nov/20 2016 (46),Guingamp (13),Bordeaux (13),1-1,0-1
+?,(Sun) Nov/20 2016 (46),Marseille (13),Caen (13),1-0,0-0
+?,(Sun) Nov/20 2016 (46),St Etienne (13),Nice (13),0-1,0-0
+?,(Fri) Nov/25 2016 (47),Rennes (14),Toulouse (14),1-0,1-0
+?,(Sat) Nov/26 2016 (47),Bordeaux (14),Dijon (14),3-2,0-1
+?,(Sat) Nov/26 2016 (47),Caen (14),Guingamp (14),1-1,0-0
+?,(Sat) Nov/26 2016 (47),Metz (14),Lorient (14),3-3,1-1
+?,(Sat) Nov/26 2016 (47),Monaco (14),Marseille (14),4-0,3-0
+?,(Sat) Nov/26 2016 (47),Montpellier (14),Nancy (14),0-0,0-0
+?,(Sat) Nov/26 2016 (47),Nantes (14),Lille (14),0-0,0-0
+?,(Sun) Nov/27 2016 (47),Angers (14),St Etienne (14),1-2,1-0
+?,(Sun) Nov/27 2016 (47),Lyon (14),Paris SG (14),1-2,0-1
+?,(Sun) Nov/27 2016 (47),Nice (14),Bastia (14),1-1,1-0
+?,(Tue) Nov/29 2016 (48),Dijon (15),Monaco (15),1-1,0-1
+?,(Tue) Nov/29 2016 (48),Lille (15),Caen (15),4-2,2-1
+?,(Tue) Nov/29 2016 (48),Lorient (15),Rennes (15),2-1,1-1
+?,(Wed) Nov/30 2016 (48),Bastia (15),Bordeaux (15),1-1,0-0
+?,(Wed) Nov/30 2016 (48),Guingamp (15),Nice (15),0-1,0-1
+?,(Wed) Nov/30 2016 (48),Nancy (15),Metz (15),4-0,1-0
+?,(Wed) Nov/30 2016 (48),Nantes (15),Lyon (15),0-6,0-3
+?,(Wed) Nov/30 2016 (48),Paris SG (15),Angers (15),2-0,1-0
+?,(Wed) Nov/30 2016 (48),St Etienne (15),Marseille (15),0-0,0-0
+?,(Wed) Nov/30 2016 (48),Toulouse (15),Montpellier (15),1-0,1-0
+?,(Fri) Dec/2 2016 (48),Caen (16),Dijon (16),3-3,3-1
+?,(Sat) Dec/3 2016 (48),Angers (16),Lorient (16),2-2,1-1
+?,(Sat) Dec/3 2016 (48),Bordeaux (16),Lille (16),0-1,0-1
+?,(Sat) Dec/3 2016 (48),Guingamp (16),Nantes (16),2-0,1-0
+?,(Sat) Dec/3 2016 (48),Monaco (16),Bastia (16),5-0,1-0
+?,(Sat) Dec/3 2016 (48),Montpellier (16),Paris SG (16),3-0,1-0
+?,(Sun) Dec/4 2016 (48),Marseille (16),Nancy (16),3-0,0-0
+?,(Sun) Dec/4 2016 (48),Nice (16),Toulouse (16),3-0,2-0
+?,(Sun) Dec/4 2016 (48),Rennes (16),St Etienne (16),2-0,0-0
+?,(Sat) Dec/10 2016 (49),Bastia (17),Metz (16),2-0,1-0
+?,(Sat) Dec/10 2016 (49),Bordeaux (17),Monaco (17),0-4,0-2
+?,(Sat) Dec/10 2016 (49),Dijon (17),Marseille (17),1-2,0-1
+?,(Sat) Dec/10 2016 (49),Lille (17),Montpellier (17),2-1,2-0
+?,(Sat) Dec/10 2016 (49),Nancy (17),Angers (17),2-0,1-0
+?,(Sat) Dec/10 2016 (49),Toulouse (17),Lorient (17),3-2,2-1
+?,(Sun) Dec/11 2016 (49),Lyon (16),Rennes (17),1-0,1-0
+?,(Sun) Dec/11 2016 (49),Paris SG (17),Nice (17),2-2,0-2
+?,(Sun) Dec/11 2016 (49),St Etienne (17),Guingamp (17),1-0,1-0
+?,(Fri) Dec/16 2016 (50),Angers (18),Nantes (17),0-2,0-1
+?,(Sat) Dec/17 2016 (50),Guingamp (18),Paris SG (18),2-1,0-0
+?,(Sat) Dec/17 2016 (50),Lorient (18),St Etienne (18),2-1,1-0
+?,(Sat) Dec/17 2016 (50),Montpellier (18),Bordeaux (18),4-0,2-0
+?,(Sat) Dec/17 2016 (50),Rennes (18),Bastia (18),1-2,0-0
+?,(Sat) Dec/17 2016 (50),Toulouse (18),Nancy (18),1-1,0-1
+?,(Sun) Dec/18 2016 (50),Caen (17),Metz (17),3-0,1-0
+?,(Sun) Dec/18 2016 (50),Marseille (18),Lille (18),2-0,0-0
+?,(Sun) Dec/18 2016 (50),Monaco (18),Lyon (17),1-3,0-1
+?,(Sun) Dec/18 2016 (50),Nice (18),Dijon (18),2-1,1-1
+?,(Wed) Dec/21 2016 (51),Bastia (19),Marseille (19),1-2,0-1
+?,(Wed) Dec/21 2016 (51),Bordeaux (19),Nice (19),0-0,0-0
+?,(Wed) Dec/21 2016 (51),Dijon (19),Toulouse (19),2-0,0-0
+?,(Wed) Dec/21 2016 (51),Lille (19),Rennes (19),1-1,0-1
+?,(Wed) Dec/21 2016 (51),Lyon (18),Angers (19),2-0,1-0
+?,(Wed) Dec/21 2016 (51),Metz (18),Guingamp (19),2-2,1-0
+?,(Wed) Dec/21 2016 (51),Monaco (19),Caen (18),2-1,0-0
+?,(Wed) Dec/21 2016 (51),Nantes (18),Montpellier (19),1-0,1-0
+?,(Wed) Dec/21 2016 (51),Paris SG (19),Lorient (19),5-0,2-0
+?,(Wed) Dec/21 2016 (51),St Etienne (19),Nancy (19),0-0,0-0
+?,(Fri) Jan/13 2017 (2),Lille (20),St Etienne (20),1-1,0-1
+?,(Sat) Jan/14 2017 (2),Angers (20),Bordeaux (20),1-1,1-1
+?,(Sat) Jan/14 2017 (2),Lorient (20),Guingamp (20),3-1,0-1
+?,(Sat) Jan/14 2017 (2),Montpellier (20),Dijon (20),1-1,0-1
+?,(Sat) Jan/14 2017 (2),Nancy (20),Bastia (20),1-0,0-0
+?,(Sat) Jan/14 2017 (2),Rennes (20),Paris SG (20),0-1,0-1
+?,(Sat) Jan/14 2017 (2),Toulouse (20),Nantes (19),0-1,0-1
+?,(Sun) Jan/15 2017 (2),Caen (19),Lyon (19),3-2,2-2
+?,(Sun) Jan/15 2017 (2),Marseille (20),Monaco (20),1-4,1-3
+?,(Sun) Jan/15 2017 (2),Nice (20),Metz (19),0-0,0-0
+?,(Wed) Jan/18 2017 (3),Nantes (20),Caen (20),1-0,0-0
+?,(Fri) Jan/20 2017 (3),Bastia (21),Nice (21),1-1,1-1
+?,(Sat) Jan/21 2017 (3),Bordeaux (21),Toulouse (21),1-0,1-0
+?,(Sat) Jan/21 2017 (3),Dijon (21),Lille (21),0-0,0-0
+?,(Sat) Jan/21 2017 (3),Guingamp (21),Rennes (21),1-1,1-0
+?,(Sat) Jan/21 2017 (3),Metz (20),Montpellier (21),2-0,2-0
+?,(Sat) Jan/21 2017 (3),Nantes (21),Paris SG (21),0-2,0-1
+?,(Sun) Jan/22 2017 (3),Lyon (20),Marseille (21),3-1,1-0
+?,(Sun) Jan/22 2017 (3),Monaco (21),Lorient (21),4-0,3-0
+?,(Sun) Jan/22 2017 (3),St Etienne (21),Angers (21),2-1,0-1
+?,(Fri) Jan/27 2017 (4),Marseille (22),Montpellier (22),5-1,3-0
+?,(Sat) Jan/28 2017 (4),Angers (22),Metz (21),2-1,2-1
+?,(Sat) Jan/28 2017 (4),Bastia (22),Caen (21),1-1,1-1
+?,(Sat) Jan/28 2017 (4),Lorient (22),Dijon (22),2-3,0-1
+?,(Sat) Jan/28 2017 (4),Lyon (21),Lille (22),1-2,0-1
+?,(Sat) Jan/28 2017 (4),Nancy (21),Bordeaux (22),0-2,0-0
+?,(Sat) Jan/28 2017 (4),Rennes (22),Nantes (22),1-1,0-1
+?,(Sun) Jan/29 2017 (4),Nice (22),Guingamp (22),3-1,2-0
+?,(Sun) Jan/29 2017 (4),Paris SG (22),Monaco (22),1-1,0-0
+?,(Sun) Jan/29 2017 (4),Toulouse (22),St Etienne (22),0-3,0-1
+?,(Fri) Feb/3 2017 (5),Metz (22),Marseille (23),1-0,0-0
+?,(Sat) Feb/4 2017 (5),Bordeaux (23),Rennes (23),1-1,0-0
+?,(Sat) Feb/4 2017 (5),Dijon (23),Paris SG (23),1-3,1-1
+?,(Sat) Feb/4 2017 (5),Guingamp (23),Caen (22),0-1,0-0
+?,(Sat) Feb/4 2017 (5),Lille (23),Lorient (23),0-1,0-0
+?,(Sat) Feb/4 2017 (5),Monaco (23),Nice (23),3-0,0-0
+?,(Sat) Feb/4 2017 (5),Montpellier (23),Bastia (23),2-1,1-1
+?,(Sun) Feb/5 2017 (5),Nantes (23),Nancy (22),0-2,0-0
+?,(Sun) Feb/5 2017 (5),St Etienne (23),Lyon (22),2-0,2-0
+?,(Sun) Feb/5 2017 (5),Toulouse (23),Angers (23),4-0,0-0
+?,(Tue) Feb/7 2017 (6),Caen (23),Bordeaux (24),0-4,0-2
+?,(Tue) Feb/7 2017 (6),Montpellier (24),Monaco (24),1-2,0-2
+?,(Tue) Feb/7 2017 (6),Paris SG (24),Lille (24),2-1,0-0
+?,(Wed) Feb/8 2017 (6),Angers (24),Rennes (24),0-0,0-0
+?,(Wed) Feb/8 2017 (6),Lorient (24),Toulouse (24),1-1,0-1
+?,(Wed) Feb/8 2017 (6),Lyon (23),Nancy (23),4-0,2-0
+?,(Wed) Feb/8 2017 (6),Marseille (24),Guingamp (24),2-0,1-0
+?,(Wed) Feb/8 2017 (6),Metz (23),Dijon (24),2-1,0-0
+?,(Wed) Feb/8 2017 (6),Nice (24),St Etienne (24),1-0,1-0
+?,(Fri) Feb/10 2017 (6),Bordeaux (25),Paris SG (25),0-3,0-2
+?,(Sat) Feb/11 2017 (6),Dijon (25),Caen (24),2-0,1-0
+?,(Sat) Feb/11 2017 (6),Guingamp (25),Lyon (24),2-1,2-1
+?,(Sat) Feb/11 2017 (6),Lille (25),Angers (25),1-2,1-1
+?,(Sat) Feb/11 2017 (6),Monaco (25),Metz (24),5-0,3-0
+?,(Sat) Feb/11 2017 (6),Nancy (24),Montpellier (25),0-3,0-2
+?,(Sat) Feb/11 2017 (6),Toulouse (25),Bastia (24),4-1,2-0
+?,(Sun) Feb/12 2017 (6),Nantes (24),Marseille (25),3-2,2-0
+?,(Sun) Feb/12 2017 (6),Rennes (25),Nice (25),2-2,2-0
+?,(Sun) Feb/12 2017 (6),St Etienne (25),Lorient (25),4-0,2-0
+?,(Fri) Feb/17 2017 (7),Bastia (25),Monaco (26),1-1,1-0
+?,(Sat) Feb/18 2017 (7),Angers (26),Nancy (25),1-0,1-0
+?,(Sat) Feb/18 2017 (7),Caen (25),Lille (26),0-1,0-0
+?,(Sat) Feb/18 2017 (7),Lorient (26),Nice (26),0-1,0-1
+?,(Sat) Feb/18 2017 (7),Marseille (26),Rennes (26),2-0,0-0
+?,(Sat) Feb/18 2017 (7),Metz (25),Nantes (25),1-1,0-0
+?,(Sun) Feb/19 2017 (7),Bordeaux (26),Guingamp (26),3-0,2-0
+?,(Sun) Feb/19 2017 (7),Lyon (25),Dijon (26),4-2,1-1
+?,(Sun) Feb/19 2017 (7),Montpellier (26),St Etienne (26),2-1,0-1
+?,(Sun) Feb/19 2017 (7),Paris SG (26),Toulouse (26),0-0,0-0
+?,(Tue) Feb/21 2017 (8),Caen (26),Nancy (26),1-0,1-0
+?,(Fri) Feb/24 2017 (8),Nantes (26),Dijon (27),3-1,1-1
+?,(Fri) Feb/24 2017 (8),Nice (27),Montpellier (27),2-1,0-1
+?,(Sat) Feb/25 2017 (8),Angers (27),Bastia (26),3-0,1-0
+?,(Sat) Feb/25 2017 (8),Guingamp (27),Monaco (27),1-2,0-1
+?,(Sat) Feb/25 2017 (8),Lille (27),Bordeaux (27),2-3,0-1
+?,(Sat) Feb/25 2017 (8),Nancy (27),Toulouse (27),0-0,0-0
+?,(Sat) Feb/25 2017 (8),Rennes (27),Lorient (27),1-0,1-0
+?,(Sun) Feb/26 2017 (8),Lyon (26),Metz (26),5-0,1-0
+?,(Sun) Feb/26 2017 (8),Marseille (27),Paris SG (27),1-5,0-2
+?,(Sun) Feb/26 2017 (8),St Etienne (27),Caen (27),0-1,0-1
+?,(Wed) Mar/1 2017 (9),Bastia (27),Nantes (27),2-2,0-0
+?,(Fri) Mar/3 2017 (9),Bordeaux (28),Lyon (27),1-1,1-0
+?,(Sat) Mar/4 2017 (9),Bastia (28),St Etienne (28),0-0,0-0
+?,(Sat) Mar/4 2017 (9),Caen (28),Angers (28),2-3,1-2
+?,(Sat) Mar/4 2017 (9),Dijon (28),Nice (28),0-1,0-0
+?,(Sat) Mar/4 2017 (9),Metz (27),Rennes (28),1-1,1-0
+?,(Sat) Mar/4 2017 (9),Montpellier (28),Guingamp (28),1-1,0-0
+?,(Sat) Mar/4 2017 (9),Paris SG (28),Nancy (28),1-0,0-0
+?,(Sun) Mar/5 2017 (9),Lorient (28),Marseille (28),1-4,0-2
+?,(Sun) Mar/5 2017 (9),Monaco (28),Nantes (28),4-0,3-0
+?,(Sun) Mar/5 2017 (9),Toulouse (28),Lille (28),1-1,1-0
+?,(Fri) Mar/10 2017 (10),Marseille (29),Angers (29),3-0,2-0
+?,(Fri) Mar/10 2017 (10),Nice (29),Caen (29),2-2,0-1
+?,(Sat) Mar/11 2017 (10),Guingamp (29),Bastia (29),5-0,0-0
+?,(Sat) Mar/11 2017 (10),Monaco (29),Bordeaux (29),2-1,0-0
+?,(Sat) Mar/11 2017 (10),Montpellier (29),Nantes (29),2-3,1-1
+?,(Sat) Mar/11 2017 (10),Nancy (29),Lille (29),1-2,1-0
+?,(Sat) Mar/11 2017 (10),Rennes (29),Dijon (29),1-1,0-1
+?,(Sun) Mar/12 2017 (10),Lorient (29),Paris SG (29),1-2,0-1
+?,(Sun) Mar/12 2017 (10),Lyon (28),Toulouse (29),4-0,1-0
+?,(Sun) Mar/12 2017 (10),St Etienne (29),Metz (28),2-2,0-1
+?,(Fri) Mar/17 2017 (11),Lille (30),Marseille (30),0-0,0-0
+?,(Fri) Mar/17 2017 (11),Metz (29),Bastia (30),1-0,0-0
+?,(Sat) Mar/18 2017 (11),Angers (30),Guingamp (30),3-0,0-0
+?,(Sat) Mar/18 2017 (11),Bordeaux (30),Montpellier (30),5-1,3-0
+?,(Sat) Mar/18 2017 (11),Nancy (30),Lorient (30),2-3,2-0
+?,(Sat) Mar/18 2017 (11),Nantes (30),Nice (30),1-1,1-1
+?,(Sat) Mar/18 2017 (11),Toulouse (30),Rennes (30),0-0,0-0
+?,(Sun) Mar/19 2017 (11),Caen (30),Monaco (30),0-3,0-1
+?,(Sun) Mar/19 2017 (11),Dijon (30),St Etienne (30),0-1,0-0
+?,(Sun) Mar/19 2017 (11),Paris SG (30),Lyon (29),2-1,2-1
+?,(Fri) Mar/31 2017 (13),Guingamp (31),Nancy (31),1-0,0-0
+?,(Sat) Apr/1 2017 (13),Bastia (31),Lille (31),0-1,0-0
+?,(Sat) Apr/1 2017 (13),Marseille (31),Dijon (31),1-1,0-1
+?,(Sun) Apr/2 2017 (13),Lorient (31),Caen (31),1-0,1-0
+?,(Sun) Apr/2 2017 (13),Montpellier (31),Toulouse (31),0-1,0-1
+?,(Sun) Apr/2 2017 (13),Nantes (31),Angers (31),2-1,0-0
+?,(Sun) Apr/2 2017 (13),Nice (31),Bordeaux (31),2-1,2-1
+?,(Sun) Apr/2 2017 (13),Rennes (31),Lyon (30),1-1,0-0
+?,(Wed) Apr/5 2017 (14),Metz (30),Lyon (31),0-3,0-0
+?,(Fri) Apr/7 2017 (14),Lille (32),Nice (32),1-2,1-2
+?,(Sat) Apr/8 2017 (14),Angers (32),Monaco (31),0-1,0-0
+?,(Sat) Apr/8 2017 (14),Bordeaux (32),Metz (31),3-0,1-0
+?,(Sat) Apr/8 2017 (14),Caen (32),Montpellier (32),0-2,0-0
+?,(Sat) Apr/8 2017 (14),Dijon (32),Bastia (32),1-2,1-1
+?,(Sat) Apr/8 2017 (14),Lyon (32),Lorient (32),1-4,1-1
+?,(Sat) Apr/8 2017 (14),Nancy (32),Rennes (32),3-0,1-0
+?,(Sun) Apr/9 2017 (14),Paris SG (31),Guingamp (32),4-0,0-0
+?,(Sun) Apr/9 2017 (14),St Etienne (31),Nantes (32),1-1,0-1
+?,(Sun) Apr/9 2017 (14),Toulouse (32),Marseille (32),0-0,0-0
+?,(Fri) Apr/14 2017 (15),Angers (33),Paris SG (32),0-2,0-1
+?,(Sat) Apr/15 2017 (15),Guingamp (33),Toulouse (33),2-1,0-0
+?,(Sat) Apr/15 2017 (15),Metz (32),Caen (33),2-2,0-0
+?,(Sat) Apr/15 2017 (15),Monaco (32),Dijon (33),2-1,0-1
+?,(Sat) Apr/15 2017 (15),Montpellier (33),Lorient (33),2-0,2-0
+?,(Sat) Apr/15 2017 (15),Nice (33),Nancy (33),3-1,1-1
+?,(Sat) Apr/15 2017 (15),Rennes (33),Lille (33),2-0,2-0
+?,(Sun) Apr/16 2017 (15),Bastia (33),Lyon (33),0-3,?
+?,(Sun) Apr/16 2017 (15),Marseille (33),St Etienne (32),4-0,2-0
+?,(Sun) Apr/16 2017 (15),Nantes (33),Bordeaux (33),0-1,0-0
+?,(Tue) Apr/18 2017 (16),Metz (33),Paris SG (33),2-3,0-2
+?,(Fri) Apr/21 2017 (16),Nancy (34),Marseille (34),0-0,0-0
+?,(Sat) Apr/22 2017 (16),Bordeaux (34),Bastia (34),2-0,0-0
+?,(Sat) Apr/22 2017 (16),Caen (34),Nantes (34),0-2,0-2
+?,(Sat) Apr/22 2017 (16),Dijon (34),Angers (34),3-2,3-0
+?,(Sat) Apr/22 2017 (16),Lille (34),Guingamp (34),3-0,2-0
+?,(Sat) Apr/22 2017 (16),Lorient (34),Metz (34),5-1,1-1
+?,(Sat) Apr/22 2017 (16),Paris SG (34),Montpellier (34),2-0,1-0
+?,(Sun) Apr/23 2017 (16),Lyon (34),Monaco (33),1-2,0-2
+?,(Sun) Apr/23 2017 (16),St Etienne (33),Rennes (34),1-1,1-1
+?,(Sun) Apr/23 2017 (16),Toulouse (34),Nice (34),1-1,0-0
+?,(Fri) Apr/28 2017 (17),Angers (35),Lyon (35),1-2,0-2
+?,(Sat) Apr/29 2017 (17),Bastia (35),Rennes (35),1-0,0-0
+?,(Sat) Apr/29 2017 (17),Guingamp (35),St Etienne (34),0-2,0-0
+?,(Sat) Apr/29 2017 (17),Metz (35),Nancy (35),2-1,1-1
+?,(Sat) Apr/29 2017 (17),Monaco (34),Toulouse (35),3-1,0-0
+?,(Sat) Apr/29 2017 (17),Montpellier (35),Lille (35),0-3,0-1
+?,(Sat) Apr/29 2017 (17),Nantes (35),Lorient (35),1-0,0-0
+?,(Sun) Apr/30 2017 (17),Caen (35),Marseille (35),1-5,1-3
+?,(Sun) Apr/30 2017 (17),Dijon (35),Bordeaux (35),0-0,0-0
+?,(Sun) Apr/30 2017 (17),Nice (35),Paris SG (35),3-1,1-0
+?,(Fri) May/5 2017 (18),St Etienne (35),Bordeaux (36),2-2,1-1
+?,(Sat) May/6 2017 (18),Guingamp (36),Dijon (36),4-0,1-0
+?,(Sat) May/6 2017 (18),Lille (36),Metz (36),0-2,0-1
+?,(Sat) May/6 2017 (18),Lorient (36),Angers (36),1-1,0-0
+?,(Sat) May/6 2017 (18),Nancy (36),Monaco (35),0-3,0-2
+?,(Sat) May/6 2017 (18),Paris SG (36),Bastia (36),5-0,2-0
+?,(Sat) May/6 2017 (18),Toulouse (36),Caen (36),0-1,0-0
+?,(Sun) May/7 2017 (18),Lyon (36),Nantes (36),3-2,0-1
+?,(Sun) May/7 2017 (18),Marseille (36),Nice (36),2-1,1-0
+?,(Sun) May/7 2017 (18),Rennes (36),Montpellier (36),1-0,0-0
+?,(Sun) May/14 2017 (19),Bastia (37),Lorient (37),2-0,0-0
+?,(Sun) May/14 2017 (19),Bordeaux (37),Marseille (37),1-1,1-0
+?,(Sun) May/14 2017 (19),Caen (37),Rennes (37),0-1,0-0
+?,(Sun) May/14 2017 (19),Dijon (37),Nancy (37),2-0,0-0
+?,(Sun) May/14 2017 (19),Metz (37),Toulouse (37),1-1,0-1
+?,(Sun) May/14 2017 (19),Monaco (36),Lille (37),4-0,2-0
+?,(Sun) May/14 2017 (19),Montpellier (37),Lyon (37),1-3,1-2
+?,(Sun) May/14 2017 (19),Nantes (37),Guingamp (37),4-1,1-0
+?,(Sun) May/14 2017 (19),Nice (37),Angers (37),0-2,0-1
+?,(Sun) May/14 2017 (19),St Etienne (36),Paris SG (37),0-5,0-2
+?,(Wed) May/17 2017 (20),Monaco (37),St Etienne (37),2-0,1-0
+?,(Sat) May/20 2017 (20),Angers (38),Montpellier (38),2-0,0-0
+?,(Sat) May/20 2017 (20),Guingamp (38),Metz (38),1-0,1-0
+?,(Sat) May/20 2017 (20),Lille (38),Nantes (38),3-0,1-0
+?,(Sat) May/20 2017 (20),Lorient (38),Bordeaux (38),1-1,0-1
+?,(Sat) May/20 2017 (20),Lyon (38),Nice (38),3-3,1-1
+?,(Sat) May/20 2017 (20),Marseille (38),Bastia (38),1-0,0-0
+?,(Sat) May/20 2017 (20),Nancy (38),St Etienne (38),3-1,1-0
+?,(Sat) May/20 2017 (20),Paris SG (38),Caen (38),1-1,1-0
+?,(Sat) May/20 2017 (20),Rennes (38),Monaco (38),2-3,0-1
+?,(Sat) May/20 2017 (20),Toulouse (38),Dijon (38),0-0,0-0

@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,2010-08-07,Auxerre,Lorient,2-2,1-1,Sat,31
-?,2010-08-07,Lens,Nancy,1-2,0-1,Sat,31
-?,2010-08-07,Lyon,Monaco,0-0,0-0,Sat,31
-?,2010-08-07,Marseille,Caen,1-2,0-0,Sat,31
-?,2010-08-07,Nice,Valenciennes,0-0,0-0,Sat,31
-?,2010-08-07,Paris SG,St Etienne,3-1,2-1,Sat,31
-?,2010-08-07,Rennes,Lille,1-1,1-0,Sat,31
-?,2010-08-07,Sochaux,Arles,2-1,1-1,Sat,31
-?,2010-08-07,Toulouse,Brest,2-0,1-0,Sat,31
-?,2010-08-08,Montpellier,Bordeaux,1-0,0-0,Sun,31
-?,2010-08-14,Arles,Lens,0-1,0-0,Sat,32
-?,2010-08-15,Bordeaux,Toulouse,1-2,0-1,Sun,32
-?,2010-08-14,Brest,Auxerre,1-1,1-0,Sat,32
-?,2010-08-15,Caen,Lyon,3-2,2-2,Sun,32
-?,2010-08-15,Lille,Paris SG,0-0,0-0,Sun,32
-?,2010-08-14,Lorient,Nice,1-2,1-1,Sat,32
-?,2010-08-14,Nancy,Rennes,0-3,0-0,Sat,32
-?,2010-08-14,St Etienne,Sochaux,3-2,1-0,Sat,32
-?,2010-08-14,Valenciennes,Marseille,3-2,0-0,Sat,32
-?,2010-08-17,Monaco,Montpellier,0-0,0-0,Tue,33
-?,2010-08-21,Auxerre,Valenciennes,1-1,0-0,Sat,33
-?,2010-08-21,Lens,Monaco,2-2,0-1,Sat,33
-?,2010-08-21,Lyon,Brest,1-0,1-0,Sat,33
-?,2010-08-21,Marseille,Lorient,2-0,1-0,Sat,33
-?,2010-08-21,Nice,Nancy,1-1,1-0,Sat,33
-?,2010-08-21,Rennes,St Etienne,0-0,0-0,Sat,33
-?,2010-08-21,Toulouse,Arles,2-1,1-0,Sat,33
-?,2010-08-22,Montpellier,Caen,0-0,0-0,Sun,33
-?,2010-08-22,Paris SG,Bordeaux,1-2,0-0,Sun,33
-?,2010-08-22,Sochaux,Lille,0-0,0-0,Sun,33
-?,2010-08-28,Arles,Rennes,0-1,0-1,Sat,34
-?,2010-08-28,Caen,Brest,0-2,0-0,Sat,34
-?,2010-08-28,Lorient,Lyon,2-0,1-0,Sat,34
-?,2010-08-28,Nancy,Toulouse,0-2,0-0,Sat,34
-?,2010-08-28,St Etienne,Lens,3-1,1-0,Sat,34
-?,2010-08-28,Valenciennes,Montpellier,0-1,0-1,Sat,34
-?,2010-08-29,Bordeaux,Marseille,1-1,0-1,Sun,34
-?,2010-08-29,Lille,Nice,1-1,0-1,Sun,34
-?,2010-08-29,Monaco,Auxerre,2-0,0-0,Sun,34
-?,2010-08-29,Sochaux,Paris SG,3-1,3-0,Sun,34
-?,2010-09-11,Auxerre,Caen,1-1,1-0,Sat,36
-?,2010-09-11,Lens,Lille,1-4,0-1,Sat,36
-?,2010-09-11,Lyon,Valenciennes,1-1,1-0,Sat,36
-?,2010-09-11,Montpellier,Nancy,1-2,0-2,Sat,36
-?,2010-09-11,Paris SG,Arles,4-0,2-0,Sat,36
-?,2010-09-11,Rennes,Sochaux,2-1,1-1,Sat,36
-?,2010-09-11,Toulouse,St Etienne,0-1,0-1,Sat,36
-?,2010-09-12,Brest,Lorient,0-0,0-0,Sun,36
-?,2010-09-12,Marseille,Monaco,2-2,1-1,Sun,36
-?,2010-09-12,Nice,Bordeaux,2-1,1-0,Sun,36
-?,2010-09-18,Arles,Marseille,0-3,0-2,Sat,37
-?,2010-09-18,Lorient,Caen,0-1,0-1,Sat,37
-?,2010-09-18,Monaco,Toulouse,0-0,0-0,Sat,37
-?,2010-09-18,Nancy,Brest,0-2,0-0,Sat,37
-?,2010-09-18,Sochaux,Nice,4-0,1-0,Sat,37
-?,2010-09-18,St Etienne,Montpellier,3-0,2-0,Sat,37
-?,2010-09-18,Valenciennes,Lens,1-1,0-0,Sat,37
-?,2010-09-19,Bordeaux,Lyon,2-0,0-0,Sun,37
-?,2010-09-19,Lille,Auxerre,1-0,0-0,Sun,37
-?,2010-09-19,Paris SG,Rennes,0-0,0-0,Sun,37
-?,2010-09-25,Auxerre,Nancy,2-2,2-2,Sat,38
-?,2010-09-25,Caen,Bordeaux,0-0,0-0,Sat,38
-?,2010-09-25,Lorient,Monaco,2-1,1-1,Sat,38
-?,2010-09-25,Lyon,St Etienne,0-1,0-0,Sat,38
-?,2010-09-25,Marseille,Sochaux,2-1,1-0,Sat,38
-?,2010-09-25,Montpellier,Arles,3-1,1-0,Sat,38
-?,2010-09-25,Nice,Rennes,1-2,1-1,Sat,38
-?,2010-09-26,Brest,Valenciennes,1-0,0-0,Sun,38
-?,2010-09-26,Lens,Paris SG,0-2,0-0,Sun,38
-?,2010-09-26,Toulouse,Lille,1-1,0-1,Sun,38
-?,2010-10-02,Arles,Auxerre,0-4,0-2,Sat,39
-?,2010-10-02,Bordeaux,Lorient,1-0,1-0,Sat,39
-?,2010-10-02,Monaco,Brest,0-1,0-0,Sat,39
-?,2010-10-02,Nancy,Lyon,2-3,0-1,Sat,39
-?,2010-10-02,Sochaux,Lens,3-0,2-0,Sat,39
-?,2010-10-02,St Etienne,Marseille,1-1,0-1,Sat,39
-?,2010-10-02,Valenciennes,Caen,2-1,2-0,Sat,39
-?,2010-10-03,Lille,Montpellier,3-1,2-1,Sun,39
-?,2010-10-03,Paris SG,Nice,0-0,0-0,Sun,39
-?,2010-10-03,Rennes,Toulouse,3-1,1-0,Sun,39
-?,2010-10-16,Auxerre,Bordeaux,0-1,0-1,Sat,41
-?,2010-10-16,Brest,Arles,0-0,0-0,Sat,41
-?,2010-10-16,Caen,Monaco,0-0,0-0,Sat,41
-?,2010-10-16,Marseille,Nancy,1-0,1-0,Sat,41
-?,2010-10-16,Montpellier,Sochaux,2-0,2-0,Sat,41
-?,2010-10-16,Toulouse,Paris SG,0-2,0-1,Sat,41
-?,2010-10-17,Lens,Rennes,0-0,0-0,Sun,41
-?,2010-10-17,Lorient,Valenciennes,2-1,2-1,Sun,41
-?,2010-10-17,Lyon,Lille,3-1,2-0,Sun,41
-?,2010-10-17,Nice,St Etienne,2-1,0-1,Sun,41
-?,2010-10-23,Bordeaux,Brest,0-2,0-1,Sat,42
-?,2010-10-23,Lens,Nice,1-0,0-0,Sat,42
-?,2010-10-23,Monaco,Valenciennes,0-2,0-1,Sat,42
-?,2010-10-23,Nancy,Lorient,1-0,1-0,Sat,42
-?,2010-10-23,Rennes,Montpellier,0-1,0-1,Sat,42
-?,2010-10-23,Sochaux,Toulouse,1-3,0-0,Sat,42
-?,2010-10-23,St Etienne,Caen,1-1,0-1,Sat,42
-?,2010-10-24,Arles,Lyon,1-1,1-0,Sun,42
-?,2010-10-24,Lille,Marseille,1-3,1-0,Sun,42
-?,2010-10-24,Paris SG,Auxerre,2-3,1-3,Sun,42
-?,2010-10-30,Auxerre,Nice,2-0,1-0,Sat,43
-?,2010-10-30,Brest,St Etienne,2-0,0-0,Sat,43
-?,2010-10-30,Caen,Nancy,2-3,1-2,Sat,43
-?,2010-10-30,Lorient,Arles,2-0,0-0,Sat,43
-?,2010-10-30,Lyon,Sochaux,2-1,1-0,Sat,43
-?,2010-10-30,Toulouse,Lens,1-1,1-1,Sat,43
-?,2010-10-31,Montpellier,Paris SG,1-1,1-1,Sun,43
-?,2010-10-31,Valenciennes,Lille,1-1,0-0,Sun,43
-?,2010-11-02,Monaco,Bordeaux,2-2,0-1,Tue,44
-?,2010-11-06,Arles,Caen,3-2,2-1,Sat,44
-?,2010-11-06,Bordeaux,Valenciennes,1-1,0-1,Sat,44
-?,2010-11-06,Rennes,Lyon,1-1,1-0,Sat,44
-?,2010-11-06,Sochaux,Auxerre,1-1,0-1,Sat,44
-?,2010-11-06,St Etienne,Lorient,1-2,0-1,Sat,44
-?,2010-11-07,Lens,Montpellier,2-0,2-0,Sun,44
-?,2010-11-07,Lille,Brest,3-1,1-0,Sun,44
-?,2010-11-07,Nancy,Monaco,0-4,0-0,Sun,44
-?,2010-11-07,Nice,Toulouse,2-0,1-0,Sun,44
-?,2010-11-07,Paris SG,Marseille,2-1,2-1,Sun,44
-?,2010-11-13,Bordeaux,Nancy,2-1,1-0,Sat,45
-?,2010-11-13,Brest,Sochaux,1-1,1-1,Sat,45
-?,2010-11-13,Caen,Lille,2-5,1-3,Sat,45
-?,2010-11-13,Marseille,Lens,1-1,1-0,Sat,45
-?,2010-11-13,Monaco,Arles,0-0,0-0,Sat,45
-?,2010-11-13,Montpellier,Toulouse,1-0,1-0,Sat,45
-?,2010-11-14,Auxerre,Rennes,2-1,0-0,Sun,45
-?,2010-11-14,Lorient,Paris SG,1-1,1-0,Sun,45
-?,2010-11-14,Lyon,Nice,1-0,1-0,Sun,45
-?,2010-11-20,Nancy,Valenciennes,2-0,1-0,Sat,46
-?,2010-11-20,Nice,Montpellier,0-1,0-0,Sat,46
-?,2010-11-20,Paris SG,Caen,2-1,1-0,Sat,46
-?,2010-11-20,Rennes,Brest,2-1,1-0,Sat,46
-?,2010-11-20,Sochaux,Lorient,2-0,1-0,Sat,46
-?,2010-11-20,St Etienne,Auxerre,1-1,0-1,Sat,46
-?,2010-11-20,Toulouse,Marseille,0-1,0-0,Sat,46
-?,2010-11-21,Arles,Bordeaux,2-4,1-2,Sun,46
-?,2010-11-21,Lens,Lyon,1-3,1-0,Sun,46
-?,2010-11-21,Lille,Monaco,2-1,1-0,Sun,46
-?,2010-11-27,Bordeaux,Lille,1-1,0-1,Sat,47
-?,2010-11-27,Lorient,Rennes,2-0,0-0,Sat,47
-?,2010-11-27,Marseille,Montpellier,4-0,2-0,Sat,47
-?,2010-11-27,Monaco,Nice,1-1,0-0,Sat,47
-?,2010-11-27,Nancy,St Etienne,1-1,0-0,Sat,47
-?,2010-11-27,Valenciennes,Arles,3-0,1-0,Sat,47
-?,2010-11-28,Auxerre,Toulouse,1-2,0-2,Sun,47
-?,2010-11-28,Caen,Sochaux,0-3,0-1,Sun,47
-?,2010-11-28,Lyon,Paris SG,2-2,0-0,Sun,47
-?,2010-11-30,Brest,Lens,4-1,2-1,Tue,48
-?,2010-12-01,Marseille,Rennes,0-0,0-0,Wed,48
-?,2010-12-01,Valenciennes,St Etienne,1-1,0-1,Wed,48
-?,2010-12-04,Arles,Nancy,1-1,1-1,Sat,48
-?,2010-12-04,Lens,Auxerre,1-1,1-0,Sat,48
-?,2010-12-04,Lille,Lorient,6-3,2-2,Sat,48
-?,2010-12-04,Montpellier,Lyon,1-2,0-1,Sat,48
-?,2010-12-04,Rennes,Monaco,1-0,0-0,Sat,48
-?,2010-12-04,Sochaux,Valenciennes,2-1,1-0,Sat,48
-?,2010-12-04,Toulouse,Caen,1-0,0-0,Sat,48
-?,2010-12-05,Nice,Marseille,1-0,0-0,Sun,48
-?,2010-12-05,Paris SG,Brest,3-1,1-0,Sun,48
-?,2010-12-05,St Etienne,Bordeaux,2-2,0-1,Sun,48
-?,2010-12-11,Arles,Lille,0-1,0-0,Sat,49
-?,2010-12-11,Auxerre,Marseille,1-1,1-1,Sat,49
-?,2010-12-11,Brest,Montpellier,0-0,0-0,Sat,49
-?,2010-12-11,Caen,Nice,0-0,0-0,Sat,49
-?,2010-12-11,Lorient,Lens,3-0,0-0,Sat,49
-?,2010-12-11,Nancy,Sochaux,1-0,0-0,Sat,49
-?,2010-12-11,Valenciennes,Paris SG,1-2,0-0,Sat,49
-?,2010-12-12,Bordeaux,Rennes,0-0,0-0,Sun,49
-?,2010-12-12,Lyon,Toulouse,2-0,2-0,Sun,49
-?,2010-12-12,Monaco,St Etienne,0-2,0-1,Sun,49
-?,2010-12-18,Montpellier,Auxerre,1-1,0-0,Sat,50
-?,2010-12-18,Nice,Brest,1-1,1-1,Sat,50
-?,2010-12-18,Paris SG,Monaco,2-2,1-1,Sat,50
-?,2010-12-18,Rennes,Valenciennes,1-0,0-0,Sat,50
-?,2010-12-18,St Etienne,Arles,2-0,0-0,Sat,50
-?,2010-12-18,Toulouse,Lorient,3-0,1-0,Sat,50
-?,2010-12-19,Marseille,Lyon,1-1,0-1,Sun,50
-?,2010-12-19,Sochaux,Bordeaux,1-1,1-1,Sun,50
-?,2010-12-21,Lorient,Montpellier,0-0,0-0,Tue,51
-?,2010-12-22,Arles,Nice,0-0,0-0,Wed,51
-?,2010-12-22,Bordeaux,Lens,2-2,0-2,Wed,51
-?,2010-12-22,Brest,Marseille,0-0,0-0,Wed,51
-?,2010-12-22,Caen,Rennes,1-0,1-0,Wed,51
-?,2010-12-22,Lille,St Etienne,1-1,0-0,Wed,51
-?,2010-12-22,Lyon,Auxerre,1-1,1-0,Wed,51
-?,2010-12-22,Monaco,Sochaux,2-1,1-0,Wed,51
-?,2010-12-22,Nancy,Paris SG,2-0,0-0,Wed,51
-?,2010-12-22,Valenciennes,Toulouse,2-1,2-1,Wed,51
-?,2011-01-15,Auxerre,Monaco,1-1,1-0,Sat,2
-?,2011-01-15,Brest,Caen,1-3,1-1,Sat,2
-?,2011-01-15,Lens,St Etienne,2-1,0-0,Sat,2
-?,2011-01-15,Lyon,Lorient,3-0,1-0,Sat,2
-?,2011-01-15,Montpellier,Valenciennes,2-1,0-0,Sat,2
-?,2011-01-15,Nice,Lille,0-2,0-1,Sat,2
-?,2011-01-15,Paris SG,Sochaux,2-1,2-1,Sat,2
-?,2011-01-15,Rennes,Arles,4-0,2-0,Sat,2
-?,2011-01-15,Toulouse,Nancy,1-0,1-0,Sat,2
-?,2011-01-16,Marseille,Bordeaux,2-1,2-0,Sun,2
-?,2011-01-19,Lille,Nancy,3-0,0-0,Wed,3
-?,2011-01-22,Lens,Caen,2-0,1-0,Sat,3
-?,2011-01-29,Arles,Paris SG,1-2,0-1,Sat,4
-?,2011-01-29,Caen,Auxerre,2-0,0-0,Sat,4
-?,2011-01-29,Lille,Lens,1-0,0-0,Sat,4
-?,2011-01-29,Lorient,Brest,2-0,0-0,Sat,4
-?,2011-01-29,Sochaux,Rennes,5-1,2-0,Sat,4
-?,2011-01-29,St Etienne,Toulouse,2-1,2-0,Sat,4
-?,2011-01-29,Valenciennes,Lyon,2-1,0-0,Sat,4
-?,2011-01-30,Bordeaux,Nice,2-0,1-0,Sun,4
-?,2011-01-30,Monaco,Marseille,0-0,0-0,Sun,4
-?,2011-01-30,Nancy,Montpellier,1-2,1-1,Sun,4
-?,2011-02-05,Brest,Nancy,2-1,1-0,Sat,5
-?,2011-02-05,Caen,Lorient,0-2,0-1,Sat,5
-?,2011-02-05,Lens,Valenciennes,1-1,1-1,Sat,5
-?,2011-02-05,Marseille,Arles,1-0,0-0,Sat,5
-?,2011-02-05,Montpellier,St Etienne,1-2,0-2,Sat,5
-?,2011-02-05,Nice,Sochaux,1-0,1-0,Sat,5
-?,2011-02-05,Rennes,Paris SG,1-0,1-0,Sat,5
-?,2011-02-06,Auxerre,Lille,1-1,0-1,Sun,5
-?,2011-02-06,Lyon,Bordeaux,0-0,0-0,Sun,5
-?,2011-02-06,Toulouse,Monaco,2-0,0-0,Sun,5
-?,2011-02-12,Arles,Montpellier,0-0,0-0,Sat,6
-?,2011-02-12,Bordeaux,Caen,1-2,0-1,Sat,6
-?,2011-02-12,Monaco,Lorient,3-1,1-1,Sat,6
-?,2011-02-12,Nancy,Auxerre,3-1,2-0,Sat,6
-?,2011-02-12,Paris SG,Lens,0-0,0-0,Sat,6
-?,2011-02-12,Sochaux,Marseille,1-2,1-1,Sat,6
-?,2011-02-12,St Etienne,Lyon,1-4,1-2,Sat,6
-?,2011-02-13,Lille,Toulouse,2-0,1-0,Sun,6
-?,2011-02-13,Rennes,Nice,2-0,0-0,Sun,6
-?,2011-02-13,Valenciennes,Brest,3-0,2-0,Sun,6
-?,2011-02-18,Lyon,Nancy,4-0,1-0,Fri,7
-?,2011-02-19,Auxerre,Arles,1-1,0-0,Sat,7
-?,2011-02-19,Brest,Monaco,2-0,1-0,Sat,7
-?,2011-02-19,Caen,Valenciennes,2-2,0-0,Sat,7
-?,2011-02-19,Lens,Sochaux,2-3,1-2,Sat,7
-?,2011-02-19,Lorient,Bordeaux,5-1,3-1,Sat,7
-?,2011-02-19,Marseille,St Etienne,2-1,0-0,Sat,7
-?,2011-02-20,Montpellier,Lille,1-0,0-0,Sun,7
-?,2011-02-20,Nice,Paris SG,0-3,0-2,Sun,7
-?,2011-02-20,Toulouse,Rennes,1-2,0-1,Sun,7
-?,2011-02-26,Arles,Brest,1-1,1-0,Sat,8
-?,2011-02-26,Bordeaux,Auxerre,3-0,1-0,Sat,8
-?,2011-02-26,Monaco,Caen,2-2,1-0,Sat,8
-?,2011-02-26,Rennes,Lens,2-0,1-0,Sat,8
-?,2011-02-26,Sochaux,Montpellier,0-0,0-0,Sat,8
-?,2011-02-26,St Etienne,Nice,0-2,0-0,Sat,8
-?,2011-02-26,Valenciennes,Lorient,0-0,0-0,Sat,8
-?,2011-02-27,Lille,Lyon,1-1,1-1,Sun,8
-?,2011-02-27,Nancy,Marseille,1-2,1-1,Sun,8
-?,2011-02-27,Paris SG,Toulouse,2-1,2-0,Sun,8
-?,2011-03-05,Auxerre,Paris SG,1-0,0-0,Sat,9
-?,2011-03-05,Caen,St Etienne,1-0,0-0,Sat,9
-?,2011-03-05,Lorient,Nancy,0-0,0-0,Sat,9
-?,2011-03-05,Montpellier,Rennes,0-1,0-1,Sat,9
-?,2011-03-05,Nice,Lens,0-0,0-0,Sat,9
-?,2011-03-05,Toulouse,Sochaux,0-1,0-0,Sat,9
-?,2011-03-05,Valenciennes,Monaco,0-0,0-0,Sat,9
-?,2011-03-06,Brest,Bordeaux,1-3,0-0,Sun,9
-?,2011-03-06,Lyon,Arles,5-0,2-0,Sun,9
-?,2011-03-06,Marseille,Lille,1-2,0-1,Sun,9
-?,2011-03-11,Rennes,Marseille,0-2,0-1,Fri,10
-?,2011-03-12,Arles,Lorient,3-3,1-2,Sat,10
-?,2011-03-12,Lens,Toulouse,0-1,0-0,Sat,10
-?,2011-03-12,Nancy,Caen,2-0,1-0,Sat,10
-?,2011-03-12,Nice,Auxerre,1-0,0-0,Sat,10
-?,2011-03-12,Sochaux,Lyon,0-2,0-1,Sat,10
-?,2011-03-12,St Etienne,Brest,2-0,1-0,Sat,10
-?,2011-03-13,Bordeaux,Monaco,0-1,0-1,Sun,10
-?,2011-03-13,Lille,Valenciennes,2-1,1-0,Sun,10
-?,2011-03-13,Paris SG,Montpellier,2-2,2-0,Sun,10
-?,2011-03-19,Auxerre,Sochaux,2-0,1-0,Sat,11
-?,2011-03-19,Brest,Lille,1-2,1-1,Sat,11
-?,2011-03-19,Lorient,St Etienne,0-0,0-0,Sat,11
-?,2011-03-19,Lyon,Rennes,1-1,1-0,Sat,11
-?,2011-03-19,Montpellier,Lens,1-4,0-3,Sat,11
-?,2011-03-19,Toulouse,Nice,1-1,1-0,Sat,11
-?,2011-03-19,Valenciennes,Bordeaux,2-2,1-0,Sat,11
-?,2011-03-20,Caen,Arles,2-0,0-0,Sun,11
-?,2011-03-20,Marseille,Paris SG,2-1,2-1,Sun,11
-?,2011-03-20,Monaco,Nancy,0-1,0-1,Sun,11
-?,2011-04-02,Arles,Monaco,0-2,0-1,Sat,13
-?,2011-04-02,Lille,Caen,3-1,1-0,Sat,13
-?,2011-04-02,Nancy,Bordeaux,0-0,0-0,Sat,13
-?,2011-04-02,Paris SG,Lorient,0-0,0-0,Sat,13
-?,2011-04-02,Rennes,Auxerre,0-0,0-0,Sat,13
-?,2011-04-02,Sochaux,Brest,2-1,1-0,Sat,13
-?,2011-04-02,Toulouse,Montpellier,0-1,0-0,Sat,13
-?,2011-04-03,Lens,Marseille,0-1,0-0,Sun,13
-?,2011-04-03,Nice,Lyon,2-2,0-2,Sun,13
-?,2011-04-03,St Etienne,Valenciennes,1-1,0-0,Sun,13
-?,2011-04-09,Auxerre,St Etienne,2-2,1-1,Sat,14
-?,2011-04-09,Bordeaux,Arles,0-0,0-0,Sat,14
-?,2011-04-09,Brest,Rennes,2-0,1-0,Sat,14
-?,2011-04-09,Caen,Paris SG,1-2,0-1,Sat,14
-?,2011-04-09,Lorient,Sochaux,1-1,1-1,Sat,14
-?,2011-04-09,Monaco,Lille,1-0,1-0,Sat,14
-?,2011-04-09,Valenciennes,Nancy,1-1,1-0,Sat,14
-?,2011-04-10,Lyon,Lens,3-0,0-0,Sun,14
-?,2011-04-10,Marseille,Toulouse,2-2,1-1,Sun,14
-?,2011-04-10,Montpellier,Nice,1-1,1-0,Sun,14
-?,2011-04-16,Lens,Brest,1-1,1-0,Sat,15
-?,2011-04-16,Lille,Bordeaux,1-1,0-0,Sat,15
-?,2011-04-16,Nice,Monaco,3-2,1-1,Sat,15
-?,2011-04-16,Rennes,Lorient,1-2,1-0,Sat,15
-?,2011-04-16,Sochaux,Caen,3-2,1-1,Sat,15
-?,2011-04-16,St Etienne,Nancy,2-1,0-1,Sat,15
-?,2011-04-16,Toulouse,Auxerre,0-1,0-0,Sat,15
-?,2011-04-17,Arles,Valenciennes,0-1,0-0,Sun,15
-?,2011-04-17,Montpellier,Marseille,1-2,0-0,Sun,15
-?,2011-04-17,Paris SG,Lyon,1-0,0-0,Sun,15
-?,2011-04-24,Auxerre,Lens,1-1,1-0,Sun,16
-?,2011-04-24,Bordeaux,St Etienne,2-0,1-0,Sun,16
-?,2011-04-24,Brest,Paris SG,2-2,2-1,Sun,16
-?,2011-04-24,Caen,Toulouse,1-1,1-1,Sun,16
-?,2011-04-24,Lorient,Lille,1-1,0-1,Sun,16
-?,2011-04-24,Monaco,Rennes,1-0,0-0,Sun,16
-?,2011-04-24,Nancy,Arles,0-0,0-0,Sun,16
-?,2011-04-24,Valenciennes,Sochaux,1-1,1-1,Sun,16
-?,2011-04-27,Lyon,Montpellier,3-2,1-1,Wed,17
-?,2011-04-27,Marseille,Nice,4-2,1-1,Wed,17
-?,2011-04-30,Lens,Lorient,2-3,2-1,Sat,17
-?,2011-04-30,Lille,Arles,5-0,2-0,Sat,17
-?,2011-04-30,Paris SG,Valenciennes,3-1,2-1,Sat,17
-?,2011-04-30,Rennes,Bordeaux,0-0,0-0,Sat,17
-?,2011-04-30,Sochaux,Nancy,1-0,1-0,Sat,17
-?,2011-05-01,Marseille,Auxerre,1-1,0-0,Sun,17
-?,2011-05-01,Montpellier,Brest,0-0,0-0,Sun,17
-?,2011-05-01,Nice,Caen,0-4,0-2,Sun,17
-?,2011-05-01,St Etienne,Monaco,1-1,1-1,Sun,17
-?,2011-05-01,Toulouse,Lyon,2-0,1-0,Sun,17
-?,2011-05-07,Arles,St Etienne,0-1,0-1,Sat,18
-?,2011-05-07,Auxerre,Montpellier,1-0,0-0,Sat,18
-?,2011-05-07,Bordeaux,Sochaux,0-4,0-4,Sat,18
-?,2011-05-07,Brest,Nice,0-0,0-0,Sat,18
-?,2011-05-07,Caen,Lens,1-1,1-1,Sat,18
-?,2011-05-07,Lorient,Toulouse,0-0,0-0,Sat,18
-?,2011-05-07,Monaco,Paris SG,1-1,1-0,Sat,18
-?,2011-05-07,Nancy,Lille,0-1,0-1,Sat,18
-?,2011-05-08,Lyon,Marseille,3-2,1-0,Sun,18
-?,2011-05-08,Valenciennes,Rennes,2-0,1-0,Sun,18
-?,2011-05-10,Paris SG,Nancy,2-2,2-1,Tue,19
-?,2011-05-10,St Etienne,Lille,1-2,1-1,Tue,19
-?,2011-05-11,Auxerre,Lyon,4-0,2-0,Wed,19
-?,2011-05-11,Lens,Bordeaux,1-0,0-0,Wed,19
-?,2011-05-11,Marseille,Brest,3-0,1-0,Wed,19
-?,2011-05-11,Montpellier,Lorient,3-1,1-1,Wed,19
-?,2011-05-11,Nice,Arles,3-2,1-1,Wed,19
-?,2011-05-11,Rennes,Caen,1-1,1-0,Wed,19
-?,2011-05-11,Sochaux,Monaco,3-0,2-0,Wed,19
-?,2011-05-11,Toulouse,Valenciennes,0-0,0-0,Wed,19
-?,2011-05-15,Arles,Toulouse,1-0,1-0,Sun,19
-?,2011-05-15,Caen,Montpellier,2-0,1-0,Sun,19
-?,2011-05-15,Lorient,Marseille,2-2,0-1,Sun,19
-?,2011-05-15,Monaco,Lens,1-1,1-0,Sun,19
-?,2011-05-15,Nancy,Nice,3-0,1-0,Sun,19
-?,2011-05-15,St Etienne,Rennes,1-2,1-2,Sun,19
-?,2011-05-15,Valenciennes,Auxerre,1-1,0-0,Sun,19
-?,2011-05-16,Brest,Lyon,1-1,0-1,Mon,20
-?,2011-05-18,Bordeaux,Paris SG,1-0,1-0,Wed,20
-?,2011-05-18,Lille,Sochaux,1-0,0-0,Wed,20
-?,2011-05-21,Auxerre,Brest,0-1,0-0,Sat,20
-?,2011-05-21,Lens,Arles,0-1,0-1,Sat,20
-?,2011-05-21,Lyon,Caen,0-0,0-0,Sat,20
-?,2011-05-21,Marseille,Valenciennes,2-2,2-1,Sat,20
-?,2011-05-21,Montpellier,Monaco,0-1,0-0,Sat,20
-?,2011-05-21,Nice,Lorient,2-0,2-0,Sat,20
-?,2011-05-21,Paris SG,Lille,2-2,1-1,Sat,20
-?,2011-05-21,Rennes,Nancy,0-2,0-1,Sat,20
-?,2011-05-21,Sochaux,St Etienne,2-1,1-1,Sat,20
-?,2011-05-21,Toulouse,Bordeaux,2-0,1-0,Sat,20
-?,2011-05-29,Arles,Sochaux,1-3,1-1,Sun,21
-?,2011-05-29,Bordeaux,Montpellier,2-0,2-0,Sun,21
-?,2011-05-29,Brest,Toulouse,0-2,0-1,Sun,21
-?,2011-05-29,Caen,Marseille,2-2,2-0,Sun,21
-?,2011-05-29,Lille,Rennes,3-2,1-1,Sun,21
-?,2011-05-29,Lorient,Auxerre,1-2,1-1,Sun,21
-?,2011-05-29,Monaco,Lyon,0-2,0-0,Sun,21
-?,2011-05-29,Nancy,Lens,4-0,2-0,Sun,21
-?,2011-05-29,St Etienne,Paris SG,1-1,0-0,Sun,21
-?,2011-05-29,Valenciennes,Nice,2-1,0-0,Sun,21
+Round,Date,Team 1,Team 2,FT,HT
+?,(Sat) Aug/7 2010 (31),Auxerre (1),Lorient (1),2-2,1-1
+?,(Sat) Aug/7 2010 (31),Lens (1),Nancy (1),1-2,0-1
+?,(Sat) Aug/7 2010 (31),Lyon (1),Monaco (1),0-0,0-0
+?,(Sat) Aug/7 2010 (31),Marseille (1),Caen (1),1-2,0-0
+?,(Sat) Aug/7 2010 (31),Nice (1),Valenciennes (1),0-0,0-0
+?,(Sat) Aug/7 2010 (31),Paris SG (1),St Etienne (1),3-1,2-1
+?,(Sat) Aug/7 2010 (31),Rennes (1),Lille (1),1-1,1-0
+?,(Sat) Aug/7 2010 (31),Sochaux (1),Arles (1),2-1,1-1
+?,(Sat) Aug/7 2010 (31),Toulouse (1),Brest (1),2-0,1-0
+?,(Sun) Aug/8 2010 (31),Montpellier (1),Bordeaux (1),1-0,0-0
+?,(Sat) Aug/14 2010 (32),Arles (2),Lens (2),0-1,0-0
+?,(Sun) Aug/15 2010 (32),Bordeaux (2),Toulouse (2),1-2,0-1
+?,(Sat) Aug/14 2010 (32),Brest (2),Auxerre (2),1-1,1-0
+?,(Sun) Aug/15 2010 (32),Caen (2),Lyon (2),3-2,2-2
+?,(Sun) Aug/15 2010 (32),Lille (2),Paris SG (2),0-0,0-0
+?,(Sat) Aug/14 2010 (32),Lorient (2),Nice (2),1-2,1-1
+?,(Sat) Aug/14 2010 (32),Nancy (2),Rennes (2),0-3,0-0
+?,(Sat) Aug/14 2010 (32),St Etienne (2),Sochaux (2),3-2,1-0
+?,(Sat) Aug/14 2010 (32),Valenciennes (2),Marseille (2),3-2,0-0
+?,(Tue) Aug/17 2010 (33),Monaco (2),Montpellier (2),0-0,0-0
+?,(Sat) Aug/21 2010 (33),Auxerre (3),Valenciennes (3),1-1,0-0
+?,(Sat) Aug/21 2010 (33),Lens (3),Monaco (3),2-2,0-1
+?,(Sat) Aug/21 2010 (33),Lyon (3),Brest (3),1-0,1-0
+?,(Sat) Aug/21 2010 (33),Marseille (3),Lorient (3),2-0,1-0
+?,(Sat) Aug/21 2010 (33),Nice (3),Nancy (3),1-1,1-0
+?,(Sat) Aug/21 2010 (33),Rennes (3),St Etienne (3),0-0,0-0
+?,(Sat) Aug/21 2010 (33),Toulouse (3),Arles (3),2-1,1-0
+?,(Sun) Aug/22 2010 (33),Montpellier (3),Caen (3),0-0,0-0
+?,(Sun) Aug/22 2010 (33),Paris SG (3),Bordeaux (3),1-2,0-0
+?,(Sun) Aug/22 2010 (33),Sochaux (3),Lille (3),0-0,0-0
+?,(Sat) Aug/28 2010 (34),Arles (4),Rennes (4),0-1,0-1
+?,(Sat) Aug/28 2010 (34),Caen (4),Brest (4),0-2,0-0
+?,(Sat) Aug/28 2010 (34),Lorient (4),Lyon (4),2-0,1-0
+?,(Sat) Aug/28 2010 (34),Nancy (4),Toulouse (4),0-2,0-0
+?,(Sat) Aug/28 2010 (34),St Etienne (4),Lens (4),3-1,1-0
+?,(Sat) Aug/28 2010 (34),Valenciennes (4),Montpellier (4),0-1,0-1
+?,(Sun) Aug/29 2010 (34),Bordeaux (4),Marseille (4),1-1,0-1
+?,(Sun) Aug/29 2010 (34),Lille (4),Nice (4),1-1,0-1
+?,(Sun) Aug/29 2010 (34),Monaco (4),Auxerre (4),2-0,0-0
+?,(Sun) Aug/29 2010 (34),Sochaux (4),Paris SG (4),3-1,3-0
+?,(Sat) Sep/11 2010 (36),Auxerre (5),Caen (5),1-1,1-0
+?,(Sat) Sep/11 2010 (36),Lens (5),Lille (5),1-4,0-1
+?,(Sat) Sep/11 2010 (36),Lyon (5),Valenciennes (5),1-1,1-0
+?,(Sat) Sep/11 2010 (36),Montpellier (5),Nancy (5),1-2,0-2
+?,(Sat) Sep/11 2010 (36),Paris SG (5),Arles (5),4-0,2-0
+?,(Sat) Sep/11 2010 (36),Rennes (5),Sochaux (5),2-1,1-1
+?,(Sat) Sep/11 2010 (36),Toulouse (5),St Etienne (5),0-1,0-1
+?,(Sun) Sep/12 2010 (36),Brest (5),Lorient (5),0-0,0-0
+?,(Sun) Sep/12 2010 (36),Marseille (5),Monaco (5),2-2,1-1
+?,(Sun) Sep/12 2010 (36),Nice (5),Bordeaux (5),2-1,1-0
+?,(Sat) Sep/18 2010 (37),Arles (6),Marseille (6),0-3,0-2
+?,(Sat) Sep/18 2010 (37),Lorient (6),Caen (6),0-1,0-1
+?,(Sat) Sep/18 2010 (37),Monaco (6),Toulouse (6),0-0,0-0
+?,(Sat) Sep/18 2010 (37),Nancy (6),Brest (6),0-2,0-0
+?,(Sat) Sep/18 2010 (37),Sochaux (6),Nice (6),4-0,1-0
+?,(Sat) Sep/18 2010 (37),St Etienne (6),Montpellier (6),3-0,2-0
+?,(Sat) Sep/18 2010 (37),Valenciennes (6),Lens (6),1-1,0-0
+?,(Sun) Sep/19 2010 (37),Bordeaux (6),Lyon (6),2-0,0-0
+?,(Sun) Sep/19 2010 (37),Lille (6),Auxerre (6),1-0,0-0
+?,(Sun) Sep/19 2010 (37),Paris SG (6),Rennes (6),0-0,0-0
+?,(Sat) Sep/25 2010 (38),Auxerre (7),Nancy (7),2-2,2-2
+?,(Sat) Sep/25 2010 (38),Caen (7),Bordeaux (7),0-0,0-0
+?,(Sat) Sep/25 2010 (38),Lorient (7),Monaco (7),2-1,1-1
+?,(Sat) Sep/25 2010 (38),Lyon (7),St Etienne (7),0-1,0-0
+?,(Sat) Sep/25 2010 (38),Marseille (7),Sochaux (7),2-1,1-0
+?,(Sat) Sep/25 2010 (38),Montpellier (7),Arles (7),3-1,1-0
+?,(Sat) Sep/25 2010 (38),Nice (7),Rennes (7),1-2,1-1
+?,(Sun) Sep/26 2010 (38),Brest (7),Valenciennes (7),1-0,0-0
+?,(Sun) Sep/26 2010 (38),Lens (7),Paris SG (7),0-2,0-0
+?,(Sun) Sep/26 2010 (38),Toulouse (7),Lille (7),1-1,0-1
+?,(Sat) Oct/2 2010 (39),Arles (8),Auxerre (8),0-4,0-2
+?,(Sat) Oct/2 2010 (39),Bordeaux (8),Lorient (8),1-0,1-0
+?,(Sat) Oct/2 2010 (39),Monaco (8),Brest (8),0-1,0-0
+?,(Sat) Oct/2 2010 (39),Nancy (8),Lyon (8),2-3,0-1
+?,(Sat) Oct/2 2010 (39),Sochaux (8),Lens (8),3-0,2-0
+?,(Sat) Oct/2 2010 (39),St Etienne (8),Marseille (8),1-1,0-1
+?,(Sat) Oct/2 2010 (39),Valenciennes (8),Caen (8),2-1,2-0
+?,(Sun) Oct/3 2010 (39),Lille (8),Montpellier (8),3-1,2-1
+?,(Sun) Oct/3 2010 (39),Paris SG (8),Nice (8),0-0,0-0
+?,(Sun) Oct/3 2010 (39),Rennes (8),Toulouse (8),3-1,1-0
+?,(Sat) Oct/16 2010 (41),Auxerre (9),Bordeaux (9),0-1,0-1
+?,(Sat) Oct/16 2010 (41),Brest (9),Arles (9),0-0,0-0
+?,(Sat) Oct/16 2010 (41),Caen (9),Monaco (9),0-0,0-0
+?,(Sat) Oct/16 2010 (41),Marseille (9),Nancy (9),1-0,1-0
+?,(Sat) Oct/16 2010 (41),Montpellier (9),Sochaux (9),2-0,2-0
+?,(Sat) Oct/16 2010 (41),Toulouse (9),Paris SG (9),0-2,0-1
+?,(Sun) Oct/17 2010 (41),Lens (9),Rennes (9),0-0,0-0
+?,(Sun) Oct/17 2010 (41),Lorient (9),Valenciennes (9),2-1,2-1
+?,(Sun) Oct/17 2010 (41),Lyon (9),Lille (9),3-1,2-0
+?,(Sun) Oct/17 2010 (41),Nice (9),St Etienne (9),2-1,0-1
+?,(Sat) Oct/23 2010 (42),Bordeaux (10),Brest (10),0-2,0-1
+?,(Sat) Oct/23 2010 (42),Lens (10),Nice (10),1-0,0-0
+?,(Sat) Oct/23 2010 (42),Monaco (10),Valenciennes (10),0-2,0-1
+?,(Sat) Oct/23 2010 (42),Nancy (10),Lorient (10),1-0,1-0
+?,(Sat) Oct/23 2010 (42),Rennes (10),Montpellier (10),0-1,0-1
+?,(Sat) Oct/23 2010 (42),Sochaux (10),Toulouse (10),1-3,0-0
+?,(Sat) Oct/23 2010 (42),St Etienne (10),Caen (10),1-1,0-1
+?,(Sun) Oct/24 2010 (42),Arles (10),Lyon (10),1-1,1-0
+?,(Sun) Oct/24 2010 (42),Lille (10),Marseille (10),1-3,1-0
+?,(Sun) Oct/24 2010 (42),Paris SG (10),Auxerre (10),2-3,1-3
+?,(Sat) Oct/30 2010 (43),Auxerre (11),Nice (11),2-0,1-0
+?,(Sat) Oct/30 2010 (43),Brest (11),St Etienne (11),2-0,0-0
+?,(Sat) Oct/30 2010 (43),Caen (11),Nancy (11),2-3,1-2
+?,(Sat) Oct/30 2010 (43),Lorient (11),Arles (11),2-0,0-0
+?,(Sat) Oct/30 2010 (43),Lyon (11),Sochaux (11),2-1,1-0
+?,(Sat) Oct/30 2010 (43),Toulouse (11),Lens (11),1-1,1-1
+?,(Sun) Oct/31 2010 (43),Montpellier (11),Paris SG (11),1-1,1-1
+?,(Sun) Oct/31 2010 (43),Valenciennes (11),Lille (11),1-1,0-0
+?,(Tue) Nov/2 2010 (44),Monaco (11),Bordeaux (11),2-2,0-1
+?,(Sat) Nov/6 2010 (44),Arles (12),Caen (12),3-2,2-1
+?,(Sat) Nov/6 2010 (44),Bordeaux (12),Valenciennes (12),1-1,0-1
+?,(Sat) Nov/6 2010 (44),Rennes (11),Lyon (12),1-1,1-0
+?,(Sat) Nov/6 2010 (44),Sochaux (12),Auxerre (12),1-1,0-1
+?,(Sat) Nov/6 2010 (44),St Etienne (12),Lorient (12),1-2,0-1
+?,(Sun) Nov/7 2010 (44),Lens (12),Montpellier (12),2-0,2-0
+?,(Sun) Nov/7 2010 (44),Lille (12),Brest (12),3-1,1-0
+?,(Sun) Nov/7 2010 (44),Nancy (12),Monaco (12),0-4,0-0
+?,(Sun) Nov/7 2010 (44),Nice (12),Toulouse (12),2-0,1-0
+?,(Sun) Nov/7 2010 (44),Paris SG (12),Marseille (11),2-1,2-1
+?,(Sat) Nov/13 2010 (45),Bordeaux (13),Nancy (13),2-1,1-0
+?,(Sat) Nov/13 2010 (45),Brest (13),Sochaux (13),1-1,1-1
+?,(Sat) Nov/13 2010 (45),Caen (13),Lille (13),2-5,1-3
+?,(Sat) Nov/13 2010 (45),Marseille (12),Lens (13),1-1,1-0
+?,(Sat) Nov/13 2010 (45),Monaco (13),Arles (13),0-0,0-0
+?,(Sat) Nov/13 2010 (45),Montpellier (13),Toulouse (13),1-0,1-0
+?,(Sun) Nov/14 2010 (45),Auxerre (13),Rennes (12),2-1,0-0
+?,(Sun) Nov/14 2010 (45),Lorient (13),Paris SG (13),1-1,1-0
+?,(Sun) Nov/14 2010 (45),Lyon (13),Nice (13),1-0,1-0
+?,(Sat) Nov/20 2010 (46),Nancy (14),Valenciennes (13),2-0,1-0
+?,(Sat) Nov/20 2010 (46),Nice (14),Montpellier (14),0-1,0-0
+?,(Sat) Nov/20 2010 (46),Paris SG (14),Caen (14),2-1,1-0
+?,(Sat) Nov/20 2010 (46),Rennes (13),Brest (14),2-1,1-0
+?,(Sat) Nov/20 2010 (46),Sochaux (14),Lorient (14),2-0,1-0
+?,(Sat) Nov/20 2010 (46),St Etienne (13),Auxerre (14),1-1,0-1
+?,(Sat) Nov/20 2010 (46),Toulouse (14),Marseille (13),0-1,0-0
+?,(Sun) Nov/21 2010 (46),Arles (14),Bordeaux (14),2-4,1-2
+?,(Sun) Nov/21 2010 (46),Lens (14),Lyon (14),1-3,1-0
+?,(Sun) Nov/21 2010 (46),Lille (14),Monaco (14),2-1,1-0
+?,(Sat) Nov/27 2010 (47),Bordeaux (15),Lille (15),1-1,0-1
+?,(Sat) Nov/27 2010 (47),Lorient (15),Rennes (14),2-0,0-0
+?,(Sat) Nov/27 2010 (47),Marseille (14),Montpellier (15),4-0,2-0
+?,(Sat) Nov/27 2010 (47),Monaco (15),Nice (15),1-1,0-0
+?,(Sat) Nov/27 2010 (47),Nancy (15),St Etienne (14),1-1,0-0
+?,(Sat) Nov/27 2010 (47),Valenciennes (14),Arles (15),3-0,1-0
+?,(Sun) Nov/28 2010 (47),Auxerre (15),Toulouse (15),1-2,0-2
+?,(Sun) Nov/28 2010 (47),Caen (15),Sochaux (15),0-3,0-1
+?,(Sun) Nov/28 2010 (47),Lyon (15),Paris SG (15),2-2,0-0
+?,(Tue) Nov/30 2010 (48),Brest (15),Lens (15),4-1,2-1
+?,(Wed) Dec/1 2010 (48),Marseille (15),Rennes (15),0-0,0-0
+?,(Wed) Dec/1 2010 (48),Valenciennes (15),St Etienne (15),1-1,0-1
+?,(Sat) Dec/4 2010 (48),Arles (16),Nancy (16),1-1,1-1
+?,(Sat) Dec/4 2010 (48),Lens (16),Auxerre (16),1-1,1-0
+?,(Sat) Dec/4 2010 (48),Lille (16),Lorient (16),6-3,2-2
+?,(Sat) Dec/4 2010 (48),Montpellier (16),Lyon (16),1-2,0-1
+?,(Sat) Dec/4 2010 (48),Rennes (16),Monaco (16),1-0,0-0
+?,(Sat) Dec/4 2010 (48),Sochaux (16),Valenciennes (16),2-1,1-0
+?,(Sat) Dec/4 2010 (48),Toulouse (16),Caen (16),1-0,0-0
+?,(Sun) Dec/5 2010 (48),Nice (16),Marseille (16),1-0,0-0
+?,(Sun) Dec/5 2010 (48),Paris SG (16),Brest (16),3-1,1-0
+?,(Sun) Dec/5 2010 (48),St Etienne (16),Bordeaux (16),2-2,0-1
+?,(Sat) Dec/11 2010 (49),Arles (17),Lille (17),0-1,0-0
+?,(Sat) Dec/11 2010 (49),Auxerre (17),Marseille (17),1-1,1-1
+?,(Sat) Dec/11 2010 (49),Brest (17),Montpellier (17),0-0,0-0
+?,(Sat) Dec/11 2010 (49),Caen (17),Nice (17),0-0,0-0
+?,(Sat) Dec/11 2010 (49),Lorient (17),Lens (17),3-0,0-0
+?,(Sat) Dec/11 2010 (49),Nancy (17),Sochaux (17),1-0,0-0
+?,(Sat) Dec/11 2010 (49),Valenciennes (17),Paris SG (17),1-2,0-0
+?,(Sun) Dec/12 2010 (49),Bordeaux (17),Rennes (17),0-0,0-0
+?,(Sun) Dec/12 2010 (49),Lyon (17),Toulouse (17),2-0,2-0
+?,(Sun) Dec/12 2010 (49),Monaco (17),St Etienne (17),0-2,0-1
+?,(Sat) Dec/18 2010 (50),Montpellier (18),Auxerre (18),1-1,0-0
+?,(Sat) Dec/18 2010 (50),Nice (18),Brest (18),1-1,1-1
+?,(Sat) Dec/18 2010 (50),Paris SG (18),Monaco (18),2-2,1-1
+?,(Sat) Dec/18 2010 (50),Rennes (18),Valenciennes (18),1-0,0-0
+?,(Sat) Dec/18 2010 (50),St Etienne (18),Arles (18),2-0,0-0
+?,(Sat) Dec/18 2010 (50),Toulouse (18),Lorient (18),3-0,1-0
+?,(Sun) Dec/19 2010 (50),Marseille (18),Lyon (18),1-1,0-1
+?,(Sun) Dec/19 2010 (50),Sochaux (18),Bordeaux (18),1-1,1-1
+?,(Tue) Dec/21 2010 (51),Lorient (19),Montpellier (19),0-0,0-0
+?,(Wed) Dec/22 2010 (51),Arles (19),Nice (19),0-0,0-0
+?,(Wed) Dec/22 2010 (51),Bordeaux (19),Lens (18),2-2,0-2
+?,(Wed) Dec/22 2010 (51),Brest (19),Marseille (19),0-0,0-0
+?,(Wed) Dec/22 2010 (51),Caen (18),Rennes (19),1-0,1-0
+?,(Wed) Dec/22 2010 (51),Lille (18),St Etienne (19),1-1,0-0
+?,(Wed) Dec/22 2010 (51),Lyon (19),Auxerre (19),1-1,1-0
+?,(Wed) Dec/22 2010 (51),Monaco (19),Sochaux (19),2-1,1-0
+?,(Wed) Dec/22 2010 (51),Nancy (18),Paris SG (19),2-0,0-0
+?,(Wed) Dec/22 2010 (51),Valenciennes (19),Toulouse (19),2-1,2-1
+?,(Sat) Jan/15 2011 (2),Auxerre (20),Monaco (20),1-1,1-0
+?,(Sat) Jan/15 2011 (2),Brest (20),Caen (19),1-3,1-1
+?,(Sat) Jan/15 2011 (2),Lens (19),St Etienne (20),2-1,0-0
+?,(Sat) Jan/15 2011 (2),Lyon (20),Lorient (20),3-0,1-0
+?,(Sat) Jan/15 2011 (2),Montpellier (20),Valenciennes (20),2-1,0-0
+?,(Sat) Jan/15 2011 (2),Nice (20),Lille (19),0-2,0-1
+?,(Sat) Jan/15 2011 (2),Paris SG (20),Sochaux (20),2-1,2-1
+?,(Sat) Jan/15 2011 (2),Rennes (20),Arles (20),4-0,2-0
+?,(Sat) Jan/15 2011 (2),Toulouse (20),Nancy (19),1-0,1-0
+?,(Sun) Jan/16 2011 (2),Marseille (20),Bordeaux (20),2-1,2-0
+?,(Wed) Jan/19 2011 (3),Lille (20),Nancy (20),3-0,0-0
+?,(Sat) Jan/22 2011 (3),Lens (20),Caen (20),2-0,1-0
+?,(Sat) Jan/29 2011 (4),Arles (21),Paris SG (21),1-2,0-1
+?,(Sat) Jan/29 2011 (4),Caen (21),Auxerre (21),2-0,0-0
+?,(Sat) Jan/29 2011 (4),Lille (21),Lens (21),1-0,0-0
+?,(Sat) Jan/29 2011 (4),Lorient (21),Brest (21),2-0,0-0
+?,(Sat) Jan/29 2011 (4),Sochaux (21),Rennes (21),5-1,2-0
+?,(Sat) Jan/29 2011 (4),St Etienne (21),Toulouse (21),2-1,2-0
+?,(Sat) Jan/29 2011 (4),Valenciennes (21),Lyon (21),2-1,0-0
+?,(Sun) Jan/30 2011 (4),Bordeaux (21),Nice (21),2-0,1-0
+?,(Sun) Jan/30 2011 (4),Monaco (21),Marseille (21),0-0,0-0
+?,(Sun) Jan/30 2011 (4),Nancy (21),Montpellier (21),1-2,1-1
+?,(Sat) Feb/5 2011 (5),Brest (22),Nancy (22),2-1,1-0
+?,(Sat) Feb/5 2011 (5),Caen (22),Lorient (22),0-2,0-1
+?,(Sat) Feb/5 2011 (5),Lens (22),Valenciennes (22),1-1,1-1
+?,(Sat) Feb/5 2011 (5),Marseille (22),Arles (22),1-0,0-0
+?,(Sat) Feb/5 2011 (5),Montpellier (22),St Etienne (22),1-2,0-2
+?,(Sat) Feb/5 2011 (5),Nice (22),Sochaux (22),1-0,1-0
+?,(Sat) Feb/5 2011 (5),Rennes (22),Paris SG (22),1-0,1-0
+?,(Sun) Feb/6 2011 (5),Auxerre (22),Lille (22),1-1,0-1
+?,(Sun) Feb/6 2011 (5),Lyon (22),Bordeaux (22),0-0,0-0
+?,(Sun) Feb/6 2011 (5),Toulouse (22),Monaco (22),2-0,0-0
+?,(Sat) Feb/12 2011 (6),Arles (23),Montpellier (23),0-0,0-0
+?,(Sat) Feb/12 2011 (6),Bordeaux (23),Caen (23),1-2,0-1
+?,(Sat) Feb/12 2011 (6),Monaco (23),Lorient (23),3-1,1-1
+?,(Sat) Feb/12 2011 (6),Nancy (23),Auxerre (23),3-1,2-0
+?,(Sat) Feb/12 2011 (6),Paris SG (23),Lens (23),0-0,0-0
+?,(Sat) Feb/12 2011 (6),Sochaux (23),Marseille (23),1-2,1-1
+?,(Sat) Feb/12 2011 (6),St Etienne (23),Lyon (23),1-4,1-2
+?,(Sun) Feb/13 2011 (6),Lille (23),Toulouse (23),2-0,1-0
+?,(Sun) Feb/13 2011 (6),Rennes (23),Nice (23),2-0,0-0
+?,(Sun) Feb/13 2011 (6),Valenciennes (23),Brest (23),3-0,2-0
+?,(Fri) Feb/18 2011 (7),Lyon (24),Nancy (24),4-0,1-0
+?,(Sat) Feb/19 2011 (7),Auxerre (24),Arles (24),1-1,0-0
+?,(Sat) Feb/19 2011 (7),Brest (24),Monaco (24),2-0,1-0
+?,(Sat) Feb/19 2011 (7),Caen (24),Valenciennes (24),2-2,0-0
+?,(Sat) Feb/19 2011 (7),Lens (24),Sochaux (24),2-3,1-2
+?,(Sat) Feb/19 2011 (7),Lorient (24),Bordeaux (24),5-1,3-1
+?,(Sat) Feb/19 2011 (7),Marseille (24),St Etienne (24),2-1,0-0
+?,(Sun) Feb/20 2011 (7),Montpellier (24),Lille (24),1-0,0-0
+?,(Sun) Feb/20 2011 (7),Nice (24),Paris SG (24),0-3,0-2
+?,(Sun) Feb/20 2011 (7),Toulouse (24),Rennes (24),1-2,0-1
+?,(Sat) Feb/26 2011 (8),Arles (25),Brest (25),1-1,1-0
+?,(Sat) Feb/26 2011 (8),Bordeaux (25),Auxerre (25),3-0,1-0
+?,(Sat) Feb/26 2011 (8),Monaco (25),Caen (25),2-2,1-0
+?,(Sat) Feb/26 2011 (8),Rennes (25),Lens (25),2-0,1-0
+?,(Sat) Feb/26 2011 (8),Sochaux (25),Montpellier (25),0-0,0-0
+?,(Sat) Feb/26 2011 (8),St Etienne (25),Nice (25),0-2,0-0
+?,(Sat) Feb/26 2011 (8),Valenciennes (25),Lorient (25),0-0,0-0
+?,(Sun) Feb/27 2011 (8),Lille (25),Lyon (25),1-1,1-1
+?,(Sun) Feb/27 2011 (8),Nancy (25),Marseille (25),1-2,1-1
+?,(Sun) Feb/27 2011 (8),Paris SG (25),Toulouse (25),2-1,2-0
+?,(Sat) Mar/5 2011 (9),Auxerre (26),Paris SG (26),1-0,0-0
+?,(Sat) Mar/5 2011 (9),Caen (26),St Etienne (26),1-0,0-0
+?,(Sat) Mar/5 2011 (9),Lorient (26),Nancy (26),0-0,0-0
+?,(Sat) Mar/5 2011 (9),Montpellier (26),Rennes (26),0-1,0-1
+?,(Sat) Mar/5 2011 (9),Nice (26),Lens (26),0-0,0-0
+?,(Sat) Mar/5 2011 (9),Toulouse (26),Sochaux (26),0-1,0-0
+?,(Sat) Mar/5 2011 (9),Valenciennes (26),Monaco (26),0-0,0-0
+?,(Sun) Mar/6 2011 (9),Brest (26),Bordeaux (26),1-3,0-0
+?,(Sun) Mar/6 2011 (9),Lyon (26),Arles (26),5-0,2-0
+?,(Sun) Mar/6 2011 (9),Marseille (26),Lille (26),1-2,0-1
+?,(Fri) Mar/11 2011 (10),Rennes (27),Marseille (27),0-2,0-1
+?,(Sat) Mar/12 2011 (10),Arles (27),Lorient (27),3-3,1-2
+?,(Sat) Mar/12 2011 (10),Lens (27),Toulouse (27),0-1,0-0
+?,(Sat) Mar/12 2011 (10),Nancy (27),Caen (27),2-0,1-0
+?,(Sat) Mar/12 2011 (10),Nice (27),Auxerre (27),1-0,0-0
+?,(Sat) Mar/12 2011 (10),Sochaux (27),Lyon (27),0-2,0-1
+?,(Sat) Mar/12 2011 (10),St Etienne (27),Brest (27),2-0,1-0
+?,(Sun) Mar/13 2011 (10),Bordeaux (27),Monaco (27),0-1,0-1
+?,(Sun) Mar/13 2011 (10),Lille (27),Valenciennes (27),2-1,1-0
+?,(Sun) Mar/13 2011 (10),Paris SG (27),Montpellier (27),2-2,2-0
+?,(Sat) Mar/19 2011 (11),Auxerre (28),Sochaux (28),2-0,1-0
+?,(Sat) Mar/19 2011 (11),Brest (28),Lille (28),1-2,1-1
+?,(Sat) Mar/19 2011 (11),Lorient (28),St Etienne (28),0-0,0-0
+?,(Sat) Mar/19 2011 (11),Lyon (28),Rennes (28),1-1,1-0
+?,(Sat) Mar/19 2011 (11),Montpellier (28),Lens (28),1-4,0-3
+?,(Sat) Mar/19 2011 (11),Toulouse (28),Nice (28),1-1,1-0
+?,(Sat) Mar/19 2011 (11),Valenciennes (28),Bordeaux (28),2-2,1-0
+?,(Sun) Mar/20 2011 (11),Caen (28),Arles (28),2-0,0-0
+?,(Sun) Mar/20 2011 (11),Marseille (28),Paris SG (28),2-1,2-1
+?,(Sun) Mar/20 2011 (11),Monaco (28),Nancy (28),0-1,0-1
+?,(Sat) Apr/2 2011 (13),Arles (29),Monaco (29),0-2,0-1
+?,(Sat) Apr/2 2011 (13),Lille (29),Caen (29),3-1,1-0
+?,(Sat) Apr/2 2011 (13),Nancy (29),Bordeaux (29),0-0,0-0
+?,(Sat) Apr/2 2011 (13),Paris SG (29),Lorient (29),0-0,0-0
+?,(Sat) Apr/2 2011 (13),Rennes (29),Auxerre (29),0-0,0-0
+?,(Sat) Apr/2 2011 (13),Sochaux (29),Brest (29),2-1,1-0
+?,(Sat) Apr/2 2011 (13),Toulouse (29),Montpellier (29),0-1,0-0
+?,(Sun) Apr/3 2011 (13),Lens (29),Marseille (29),0-1,0-0
+?,(Sun) Apr/3 2011 (13),Nice (29),Lyon (29),2-2,0-2
+?,(Sun) Apr/3 2011 (13),St Etienne (29),Valenciennes (29),1-1,0-0
+?,(Sat) Apr/9 2011 (14),Auxerre (30),St Etienne (30),2-2,1-1
+?,(Sat) Apr/9 2011 (14),Bordeaux (30),Arles (30),0-0,0-0
+?,(Sat) Apr/9 2011 (14),Brest (30),Rennes (30),2-0,1-0
+?,(Sat) Apr/9 2011 (14),Caen (30),Paris SG (30),1-2,0-1
+?,(Sat) Apr/9 2011 (14),Lorient (30),Sochaux (30),1-1,1-1
+?,(Sat) Apr/9 2011 (14),Monaco (30),Lille (30),1-0,1-0
+?,(Sat) Apr/9 2011 (14),Valenciennes (30),Nancy (30),1-1,1-0
+?,(Sun) Apr/10 2011 (14),Lyon (30),Lens (30),3-0,0-0
+?,(Sun) Apr/10 2011 (14),Marseille (30),Toulouse (30),2-2,1-1
+?,(Sun) Apr/10 2011 (14),Montpellier (30),Nice (30),1-1,1-0
+?,(Sat) Apr/16 2011 (15),Lens (31),Brest (31),1-1,1-0
+?,(Sat) Apr/16 2011 (15),Lille (31),Bordeaux (31),1-1,0-0
+?,(Sat) Apr/16 2011 (15),Nice (31),Monaco (31),3-2,1-1
+?,(Sat) Apr/16 2011 (15),Rennes (31),Lorient (31),1-2,1-0
+?,(Sat) Apr/16 2011 (15),Sochaux (31),Caen (31),3-2,1-1
+?,(Sat) Apr/16 2011 (15),St Etienne (31),Nancy (31),2-1,0-1
+?,(Sat) Apr/16 2011 (15),Toulouse (31),Auxerre (31),0-1,0-0
+?,(Sun) Apr/17 2011 (15),Arles (31),Valenciennes (31),0-1,0-0
+?,(Sun) Apr/17 2011 (15),Montpellier (31),Marseille (31),1-2,0-0
+?,(Sun) Apr/17 2011 (15),Paris SG (31),Lyon (31),1-0,0-0
+?,(Sun) Apr/24 2011 (16),Auxerre (32),Lens (32),1-1,1-0
+?,(Sun) Apr/24 2011 (16),Bordeaux (32),St Etienne (32),2-0,1-0
+?,(Sun) Apr/24 2011 (16),Brest (32),Paris SG (32),2-2,2-1
+?,(Sun) Apr/24 2011 (16),Caen (32),Toulouse (32),1-1,1-1
+?,(Sun) Apr/24 2011 (16),Lorient (32),Lille (32),1-1,0-1
+?,(Sun) Apr/24 2011 (16),Monaco (32),Rennes (32),1-0,0-0
+?,(Sun) Apr/24 2011 (16),Nancy (32),Arles (32),0-0,0-0
+?,(Sun) Apr/24 2011 (16),Valenciennes (32),Sochaux (32),1-1,1-1
+?,(Wed) Apr/27 2011 (17),Lyon (32),Montpellier (32),3-2,1-1
+?,(Wed) Apr/27 2011 (17),Marseille (32),Nice (32),4-2,1-1
+?,(Sat) Apr/30 2011 (17),Lens (33),Lorient (33),2-3,2-1
+?,(Sat) Apr/30 2011 (17),Lille (33),Arles (33),5-0,2-0
+?,(Sat) Apr/30 2011 (17),Paris SG (33),Valenciennes (33),3-1,2-1
+?,(Sat) Apr/30 2011 (17),Rennes (33),Bordeaux (33),0-0,0-0
+?,(Sat) Apr/30 2011 (17),Sochaux (33),Nancy (33),1-0,1-0
+?,(Sun) May/1 2011 (17),Marseille (33),Auxerre (33),1-1,0-0
+?,(Sun) May/1 2011 (17),Montpellier (33),Brest (33),0-0,0-0
+?,(Sun) May/1 2011 (17),Nice (33),Caen (33),0-4,0-2
+?,(Sun) May/1 2011 (17),St Etienne (33),Monaco (33),1-1,1-1
+?,(Sun) May/1 2011 (17),Toulouse (33),Lyon (33),2-0,1-0
+?,(Sat) May/7 2011 (18),Arles (34),St Etienne (34),0-1,0-1
+?,(Sat) May/7 2011 (18),Auxerre (34),Montpellier (34),1-0,0-0
+?,(Sat) May/7 2011 (18),Bordeaux (34),Sochaux (34),0-4,0-4
+?,(Sat) May/7 2011 (18),Brest (34),Nice (34),0-0,0-0
+?,(Sat) May/7 2011 (18),Caen (34),Lens (34),1-1,1-1
+?,(Sat) May/7 2011 (18),Lorient (34),Toulouse (34),0-0,0-0
+?,(Sat) May/7 2011 (18),Monaco (34),Paris SG (34),1-1,1-0
+?,(Sat) May/7 2011 (18),Nancy (34),Lille (34),0-1,0-1
+?,(Sun) May/8 2011 (18),Lyon (34),Marseille (34),3-2,1-0
+?,(Sun) May/8 2011 (18),Valenciennes (34),Rennes (34),2-0,1-0
+?,(Tue) May/10 2011 (19),Paris SG (35),Nancy (35),2-2,2-1
+?,(Tue) May/10 2011 (19),St Etienne (35),Lille (35),1-2,1-1
+?,(Wed) May/11 2011 (19),Auxerre (35),Lyon (35),4-0,2-0
+?,(Wed) May/11 2011 (19),Lens (35),Bordeaux (35),1-0,0-0
+?,(Wed) May/11 2011 (19),Marseille (35),Brest (35),3-0,1-0
+?,(Wed) May/11 2011 (19),Montpellier (35),Lorient (35),3-1,1-1
+?,(Wed) May/11 2011 (19),Nice (35),Arles (35),3-2,1-1
+?,(Wed) May/11 2011 (19),Rennes (35),Caen (35),1-1,1-0
+?,(Wed) May/11 2011 (19),Sochaux (35),Monaco (35),3-0,2-0
+?,(Wed) May/11 2011 (19),Toulouse (35),Valenciennes (35),0-0,0-0
+?,(Sun) May/15 2011 (19),Arles (36),Toulouse (36),1-0,1-0
+?,(Sun) May/15 2011 (19),Caen (36),Montpellier (36),2-0,1-0
+?,(Sun) May/15 2011 (19),Lorient (36),Marseille (36),2-2,0-1
+?,(Sun) May/15 2011 (19),Monaco (36),Lens (36),1-1,1-0
+?,(Sun) May/15 2011 (19),Nancy (36),Nice (36),3-0,1-0
+?,(Sun) May/15 2011 (19),St Etienne (36),Rennes (36),1-2,1-2
+?,(Sun) May/15 2011 (19),Valenciennes (36),Auxerre (36),1-1,0-0
+?,(Mon) May/16 2011 (20),Brest (36),Lyon (36),1-1,0-1
+?,(Wed) May/18 2011 (20),Bordeaux (36),Paris SG (36),1-0,1-0
+?,(Wed) May/18 2011 (20),Lille (36),Sochaux (36),1-0,0-0
+?,(Sat) May/21 2011 (20),Auxerre (37),Brest (37),0-1,0-0
+?,(Sat) May/21 2011 (20),Lens (37),Arles (37),0-1,0-1
+?,(Sat) May/21 2011 (20),Lyon (37),Caen (37),0-0,0-0
+?,(Sat) May/21 2011 (20),Marseille (37),Valenciennes (37),2-2,2-1
+?,(Sat) May/21 2011 (20),Montpellier (37),Monaco (37),0-1,0-0
+?,(Sat) May/21 2011 (20),Nice (37),Lorient (37),2-0,2-0
+?,(Sat) May/21 2011 (20),Paris SG (37),Lille (37),2-2,1-1
+?,(Sat) May/21 2011 (20),Rennes (37),Nancy (37),0-2,0-1
+?,(Sat) May/21 2011 (20),Sochaux (37),St Etienne (37),2-1,1-1
+?,(Sat) May/21 2011 (20),Toulouse (37),Bordeaux (37),2-0,1-0
+?,(Sun) May/29 2011 (21),Arles (38),Sochaux (38),1-3,1-1
+?,(Sun) May/29 2011 (21),Bordeaux (38),Montpellier (38),2-0,2-0
+?,(Sun) May/29 2011 (21),Brest (38),Toulouse (38),0-2,0-1
+?,(Sun) May/29 2011 (21),Caen (38),Marseille (38),2-2,2-0
+?,(Sun) May/29 2011 (21),Lille (38),Rennes (38),3-2,1-1
+?,(Sun) May/29 2011 (21),Lorient (38),Auxerre (38),1-2,1-1
+?,(Sun) May/29 2011 (21),Monaco (38),Lyon (38),0-2,0-0
+?,(Sun) May/29 2011 (21),Nancy (38),Lens (38),4-0,2-0
+?,(Sun) May/29 2011 (21),St Etienne (38),Paris SG (38),1-1,0-0
+?,(Sun) May/29 2011 (21),Valenciennes (38),Nice (38),2-1,0-0

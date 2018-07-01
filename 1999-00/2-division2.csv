@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,1999-07-31,Ajaccio,Lorient,0-1,0-1,Sat,30
-?,1999-07-31,Chateauroux,Valence,3-3,0-2,Sat,30
-?,1999-07-31,Creteil,Niort,1-1,1-0,Sat,30
-?,1999-07-31,Guingamp,Amiens,2-3,2-0,Sat,30
-?,1999-07-31,Laval,Lille,0-1,0-1,Sat,30
-?,1999-07-31,Louhans-Cuis.,Cannes,0-1,0-0,Sat,30
-?,1999-07-31,Nice,Gueugnon,1-1,0-0,Sat,30
-?,1999-07-31,Nimes,Sochaux,2-1,1-0,Sat,30
-?,1999-07-31,Toulouse,Caen,0-1,0-1,Sat,30
-?,1999-07-31,Wasquehal,Le Mans,1-2,0-1,Sat,30
-?,1999-08-05,Lorient,Chateauroux,1-1,1-0,Thu,31
-?,1999-08-07,Amiens,Laval,1-1,0-0,Sat,31
-?,1999-08-07,Caen,Wasquehal,0-0,0-0,Sat,31
-?,1999-08-07,Cannes,Toulouse,0-2,0-1,Sat,31
-?,1999-08-07,Gueugnon,Ajaccio,2-2,1-2,Sat,31
-?,1999-08-07,Guingamp,Creteil,0-2,0-1,Sat,31
-?,1999-08-07,Le Mans,Niort,2-2,2-1,Sat,31
-?,1999-08-07,Lille,Nimes,1-0,0-0,Sat,31
-?,1999-08-07,Sochaux,Nice,2-1,1-1,Sat,31
-?,1999-08-07,Valence,Louhans-Cuis.,3-0,0-0,Sat,31
-?,1999-08-13,Ajaccio,Sochaux,0-2,0-0,Fri,32
-?,1999-08-13,Chateauroux,Gueugnon,0-1,0-0,Fri,32
-?,1999-08-13,Creteil,Le Mans,1-1,1-0,Fri,32
-?,1999-08-13,Laval,Guingamp,0-2,0-0,Fri,32
-?,1999-08-13,Louhans-Cuis.,Lorient,0-1,0-1,Fri,32
-?,1999-08-13,Nimes,Amiens,2-2,1-1,Fri,32
-?,1999-08-13,Niort,Caen,0-0,0-0,Fri,32
-?,1999-08-13,Toulouse,Valence,2-0,1-0,Fri,32
-?,1999-08-13,Wasquehal,Cannes,0-2,0-1,Fri,32
-?,1999-08-14,Nice,Lille,0-0,0-0,Sat,32
-?,1999-08-17,Amiens,Nice,4-1,2-1,Tue,33
-?,1999-08-17,Caen,Le Mans,1-1,1-0,Tue,33
-?,1999-08-17,Cannes,Niort,2-1,1-1,Tue,33
-?,1999-08-17,Gueugnon,Louhans-Cuis.,0-1,0-0,Tue,33
-?,1999-08-17,Guingamp,Nimes,1-0,0-0,Tue,33
-?,1999-08-17,Laval,Creteil,1-0,0-0,Tue,33
-?,1999-08-17,Lille,Ajaccio,4-2,0-0,Tue,33
-?,1999-08-17,Lorient,Toulouse,1-1,1-0,Tue,33
-?,1999-08-17,Sochaux,Chateauroux,1-2,0-0,Tue,33
-?,1999-08-17,Valence,Wasquehal,1-0,1-0,Tue,33
-?,1999-08-20,Nice,Guingamp,0-0,0-0,Fri,33
-?,1999-08-21,Ajaccio,Amiens,1-3,0-0,Sat,33
-?,1999-08-21,Chateauroux,Lille,2-3,0-0,Sat,33
-?,1999-08-21,Creteil,Caen,2-1,2-1,Sat,33
-?,1999-08-21,Le Mans,Cannes,2-1,1-0,Sat,33
-?,1999-08-21,Louhans-Cuis.,Sochaux,2-2,1-2,Sat,33
-?,1999-08-21,Nimes,Laval,0-0,0-0,Sat,33
-?,1999-08-21,Niort,Valence,1-1,1-1,Sat,33
-?,1999-08-21,Toulouse,Gueugnon,2-0,1-0,Sat,33
-?,1999-08-21,Wasquehal,Lorient,1-0,0-0,Sat,33
-?,1999-08-27,Amiens,Chateauroux,1-0,0-0,Fri,34
-?,1999-08-27,Cannes,Caen,1-0,1-0,Fri,34
-?,1999-08-27,Gueugnon,Wasquehal,1-1,1-1,Fri,34
-?,1999-08-27,Guingamp,Ajaccio,1-1,0-1,Fri,34
-?,1999-08-27,Laval,Nice,1-1,0-1,Fri,34
-?,1999-08-27,Lille,Louhans-Cuis.,1-0,0-0,Fri,34
-?,1999-08-27,Lorient,Niort,2-0,2-0,Fri,34
-?,1999-08-27,Nimes,Creteil,2-1,1-0,Fri,34
-?,1999-08-27,Valence,Le Mans,0-0,0-0,Fri,34
-?,1999-08-28,Sochaux,Toulouse,0-2,0-2,Sat,34
-?,1999-09-03,Ajaccio,Laval,1-0,0-0,Fri,35
-?,1999-09-03,Caen,Valence,1-0,0-0,Fri,35
-?,1999-09-03,Chateauroux,Guingamp,2-3,2-1,Fri,35
-?,1999-09-03,Creteil,Cannes,1-1,0-0,Fri,35
-?,1999-09-03,Le Mans,Lorient,2-1,0-0,Fri,35
-?,1999-09-03,Louhans-Cuis.,Amiens,0-0,0-0,Fri,35
-?,1999-09-03,Nice,Nimes,1-1,0-1,Fri,35
-?,1999-09-03,Niort,Gueugnon,1-0,1-0,Fri,35
-?,1999-09-03,Toulouse,Lille,0-2,0-1,Fri,35
-?,1999-09-03,Wasquehal,Sochaux,0-0,0-0,Fri,35
-?,1999-09-07,Amiens,Toulouse,1-1,1-1,Tue,36
-?,1999-09-07,Gueugnon,Le Mans,2-1,1-0,Tue,36
-?,1999-09-07,Guingamp,Louhans-Cuis.,2-2,1-1,Tue,36
-?,1999-09-07,Laval,Chateauroux,4-0,2-0,Tue,36
-?,1999-09-07,Lille,Wasquehal,1-0,1-0,Tue,36
-?,1999-09-07,Lorient,Caen,1-2,1-2,Tue,36
-?,1999-09-07,Nice,Creteil,2-0,0-0,Tue,36
-?,1999-09-07,Nimes,Ajaccio,1-0,0-0,Tue,36
-?,1999-09-07,Sochaux,Niort,1-0,1-0,Tue,36
-?,1999-09-07,Valence,Cannes,0-0,0-0,Tue,36
-?,1999-09-11,Ajaccio,Nice,1-0,0-0,Sat,36
-?,1999-09-11,Caen,Gueugnon,2-2,1-1,Sat,36
-?,1999-09-11,Cannes,Lorient,1-0,1-0,Sat,36
-?,1999-09-11,Chateauroux,Nimes,0-0,0-0,Sat,36
-?,1999-09-11,Creteil,Valence,2-1,1-1,Sat,36
-?,1999-09-11,Le Mans,Sochaux,2-1,1-0,Sat,36
-?,1999-09-11,Louhans-Cuis.,Laval,2-0,1-0,Sat,36
-?,1999-09-11,Niort,Lille,0-3,0-0,Sat,36
-?,1999-09-11,Toulouse,Guingamp,1-2,0-1,Sat,36
-?,1999-09-11,Wasquehal,Amiens,0-0,0-0,Sat,36
-?,1999-09-18,Ajaccio,Creteil,2-0,1-0,Sat,37
-?,1999-09-18,Amiens,Niort,0-0,0-0,Sat,37
-?,1999-09-18,Gueugnon,Cannes,1-1,1-1,Sat,37
-?,1999-09-18,Guingamp,Wasquehal,3-1,1-1,Sat,37
-?,1999-09-18,Lille,Le Mans,2-0,0-0,Sat,37
-?,1999-09-18,Lorient,Valence,3-1,1-1,Sat,37
-?,1999-09-18,Nice,Chateauroux,0-0,0-0,Sat,37
-?,1999-09-18,Nimes,Louhans-Cuis.,2-1,1-0,Sat,37
-?,1999-09-18,Sochaux,Caen,1-2,1-1,Sat,37
-?,1999-09-19,Laval,Toulouse,0-3,0-1,Sun,37
-?,1999-09-24,Caen,Lille,1-0,1-0,Fri,38
-?,1999-09-24,Creteil,Lorient,0-1,0-0,Fri,38
-?,1999-09-25,Cannes,Sochaux,1-3,1-0,Sat,38
-?,1999-09-25,Chateauroux,Ajaccio,1-0,0-0,Sat,38
-?,1999-09-25,Le Mans,Amiens,1-1,1-1,Sat,38
-?,1999-09-25,Louhans-Cuis.,Nice,0-0,0-0,Sat,38
-?,1999-09-25,Niort,Guingamp,3-3,2-2,Sat,38
-?,1999-09-25,Toulouse,Nimes,0-1,0-0,Sat,38
-?,1999-09-25,Wasquehal,Laval,1-1,0-0,Sat,38
-?,1999-09-26,Valence,Gueugnon,0-1,0-0,Sun,38
-?,1999-10-01,Ajaccio,Louhans-Cuis.,3-0,0-0,Fri,39
-?,1999-10-01,Amiens,Caen,0-4,0-2,Fri,39
-?,1999-10-01,Chateauroux,Creteil,0-0,0-0,Fri,39
-?,1999-10-01,Gueugnon,Lorient,3-0,2-0,Fri,39
-?,1999-10-01,Guingamp,Le Mans,3-1,2-1,Fri,39
-?,1999-10-01,Laval,Niort,3-1,1-0,Fri,39
-?,1999-10-01,Lille,Cannes,2-0,2-0,Fri,39
-?,1999-10-01,Nice,Toulouse,2-0,0-0,Fri,39
-?,1999-10-01,Nimes,Wasquehal,1-2,1-1,Fri,39
-?,1999-10-01,Sochaux,Valence,2-0,0-0,Fri,39
-?,1999-10-07,Lorient,Sochaux,0-0,0-0,Thu,40
-?,1999-10-08,Caen,Guingamp,1-2,1-1,Fri,40
-?,1999-10-08,Cannes,Amiens,1-0,1-0,Fri,40
-?,1999-10-08,Creteil,Gueugnon,1-4,1-2,Fri,40
-?,1999-10-08,Le Mans,Laval,0-0,0-0,Fri,40
-?,1999-10-08,Louhans-Cuis.,Chateauroux,1-3,0-1,Fri,40
-?,1999-10-08,Niort,Nimes,0-1,0-1,Fri,40
-?,1999-10-08,Toulouse,Ajaccio,4-1,0-0,Fri,40
-?,1999-10-08,Valence,Lille,2-2,1-1,Fri,40
-?,1999-10-08,Wasquehal,Nice,2-2,0-2,Fri,40
-?,1999-10-14,Chateauroux,Toulouse,0-3,0-1,Thu,41
-?,1999-10-16,Ajaccio,Wasquehal,2-1,0-0,Sat,41
-?,1999-10-16,Amiens,Valence,0-0,0-0,Sat,41
-?,1999-10-16,Guingamp,Cannes,2-1,0-0,Sat,41
-?,1999-10-16,Laval,Caen,1-1,1-1,Sat,41
-?,1999-10-16,Lille,Lorient,1-0,0-0,Sat,41
-?,1999-10-16,Louhans-Cuis.,Creteil,1-2,0-1,Sat,41
-?,1999-10-16,Nice,Niort,0-0,0-0,Sat,41
-?,1999-10-16,Nimes,Le Mans,1-2,0-1,Sat,41
-?,1999-10-16,Sochaux,Gueugnon,0-1,0-0,Sat,41
-?,1999-10-23,Caen,Nimes,2-1,1-1,Sat,42
-?,1999-10-23,Cannes,Laval,0-0,0-0,Sat,42
-?,1999-10-23,Creteil,Sochaux,0-0,0-0,Sat,42
-?,1999-10-23,Gueugnon,Lille,0-1,0-1,Sat,42
-?,1999-10-23,Le Mans,Nice,0-0,0-0,Sat,42
-?,1999-10-23,Lorient,Amiens,2-0,0-0,Sat,42
-?,1999-10-23,Niort,Ajaccio,1-0,0-0,Sat,42
-?,1999-10-23,Toulouse,Louhans-Cuis.,2-0,0-0,Sat,42
-?,1999-10-23,Valence,Guingamp,1-1,0-1,Sat,42
-?,1999-10-23,Wasquehal,Chateauroux,0-0,0-0,Sat,42
-?,1999-10-30,Ajaccio,Le Mans,0-1,0-0,Sat,43
-?,1999-10-30,Amiens,Gueugnon,1-1,1-1,Sat,43
-?,1999-10-30,Chateauroux,Niort,1-0,0-0,Sat,43
-?,1999-10-30,Guingamp,Lorient,3-0,3-0,Sat,43
-?,1999-10-30,Laval,Valence,3-2,1-2,Sat,43
-?,1999-10-30,Lille,Sochaux,0-1,0-1,Sat,43
-?,1999-10-30,Louhans-Cuis.,Wasquehal,2-1,2-0,Sat,43
-?,1999-10-30,Nice,Caen,0-0,0-0,Sat,43
-?,1999-10-30,Nimes,Cannes,1-1,1-0,Sat,43
-?,1999-10-30,Toulouse,Creteil,1-1,0-0,Sat,43
-?,1999-11-06,Caen,Ajaccio,1-1,1-0,Sat,44
-?,1999-11-06,Cannes,Nice,0-1,0-0,Sat,44
-?,1999-11-06,Creteil,Lille,1-0,0-0,Sat,44
-?,1999-11-06,Gueugnon,Guingamp,1-1,0-0,Sat,44
-?,1999-11-06,Le Mans,Chateauroux,2-1,1-1,Sat,44
-?,1999-11-06,Lorient,Laval,0-0,0-0,Sat,44
-?,1999-11-06,Niort,Louhans-Cuis.,1-0,1-0,Sat,44
-?,1999-11-06,Sochaux,Amiens,3-2,1-0,Sat,44
-?,1999-11-06,Valence,Nimes,0-2,0-0,Sat,44
-?,1999-11-06,Wasquehal,Toulouse,0-1,0-1,Sat,44
-?,1999-11-09,Ajaccio,Cannes,1-0,0-0,Tue,45
-?,1999-11-09,Amiens,Lille,0-1,0-0,Tue,45
-?,1999-11-09,Chateauroux,Caen,0-0,0-0,Tue,45
-?,1999-11-09,Guingamp,Sochaux,1-2,1-0,Tue,45
-?,1999-11-09,Laval,Gueugnon,2-1,1-0,Tue,45
-?,1999-11-09,Louhans-Cuis.,Le Mans,0-1,0-0,Tue,45
-?,1999-11-09,Nice,Valence,0-0,0-0,Tue,45
-?,1999-11-09,Nimes,Lorient,1-2,0-1,Tue,45
-?,1999-11-09,Toulouse,Niort,1-1,0-1,Tue,45
-?,1999-11-09,Wasquehal,Creteil,1-0,1-0,Tue,45
-?,1999-11-12,Caen,Louhans-Cuis.,6-1,4-0,Fri,45
-?,1999-11-12,Cannes,Chateauroux,0-1,0-0,Fri,45
-?,1999-11-12,Creteil,Amiens,2-0,0-0,Fri,45
-?,1999-11-12,Gueugnon,Nimes,3-1,1-0,Fri,45
-?,1999-11-12,Le Mans,Toulouse,1-1,0-0,Fri,45
-?,1999-11-12,Lille,Guingamp,2-0,1-0,Fri,45
-?,1999-11-12,Lorient,Nice,0-1,0-0,Fri,45
-?,1999-11-12,Niort,Wasquehal,0-0,0-0,Fri,45
-?,1999-11-12,Sochaux,Laval,0-2,0-2,Fri,45
-?,1999-11-12,Valence,Ajaccio,1-2,0-2,Fri,45
-?,1999-11-20,Ajaccio,Gueugnon,0-0,0-0,Sat,46
-?,1999-11-20,Chateauroux,Lorient,1-0,1-0,Sat,46
-?,1999-11-20,Creteil,Guingamp,1-3,1-2,Sat,46
-?,1999-11-20,Laval,Amiens,1-0,0-0,Sat,46
-?,1999-11-20,Louhans-Cuis.,Valence,3-2,1-0,Sat,46
-?,1999-11-20,Nice,Sochaux,2-1,0-0,Sat,46
-?,1999-11-20,Niort,Le Mans,4-3,3-1,Sat,46
-?,1999-11-20,Toulouse,Cannes,2-1,0-1,Sat,46
-?,1999-11-20,Wasquehal,Caen,0-0,0-0,Sat,46
-?,1999-11-21,Nimes,Lille,3-3,1-0,Sun,46
-?,1999-12-04,Amiens,Nimes,0-0,0-0,Sat,48
-?,1999-12-04,Caen,Niort,2-1,2-1,Sat,48
-?,1999-12-04,Cannes,Wasquehal,0-0,0-0,Sat,48
-?,1999-12-04,Gueugnon,Chateauroux,1-1,1-1,Sat,48
-?,1999-12-04,Guingamp,Laval,2-2,2-0,Sat,48
-?,1999-12-04,Le Mans,Creteil,2-0,1-0,Sat,48
-?,1999-12-04,Lille,Nice,1-0,0-0,Sat,48
-?,1999-12-04,Lorient,Louhans-Cuis.,5-1,2-0,Sat,48
-?,1999-12-04,Sochaux,Ajaccio,1-2,1-1,Sat,48
-?,1999-12-04,Valence,Toulouse,0-2,0-1,Sat,48
-?,1999-12-11,Ajaccio,Lille,0-1,0-0,Sat,49
-?,1999-12-11,Chateauroux,Sochaux,1-1,1-1,Sat,49
-?,1999-12-11,Creteil,Laval,2-0,0-0,Sat,49
-?,1999-12-11,Le Mans,Caen,0-0,0-0,Sat,49
-?,1999-12-11,Louhans-Cuis.,Gueugnon,1-1,0-1,Sat,49
-?,1999-12-11,Nice,Amiens,0-0,0-0,Sat,49
-?,1999-12-11,Nimes,Guingamp,2-0,0-0,Sat,49
-?,1999-12-11,Niort,Cannes,1-1,0-1,Sat,49
-?,1999-12-11,Toulouse,Lorient,5-0,1-0,Sat,49
-?,1999-12-11,Wasquehal,Valence,3-3,0-2,Sat,49
-?,2000-01-14,Guingamp,Nice,5-0,4-0,Fri,2
-?,2000-01-15,Amiens,Ajaccio,0-1,0-0,Sat,2
-?,2000-01-15,Caen,Creteil,1-1,0-1,Sat,2
-?,2000-01-15,Cannes,Le Mans,2-1,1-1,Sat,2
-?,2000-01-15,Gueugnon,Toulouse,0-0,0-0,Sat,2
-?,2000-01-15,Laval,Nimes,1-1,0-1,Sat,2
-?,2000-01-15,Lille,Chateauroux,1-0,0-0,Sat,2
-?,2000-01-15,Lorient,Wasquehal,0-0,0-0,Sat,2
-?,2000-01-15,Sochaux,Louhans-Cuis.,1-1,0-0,Sat,2
-?,2000-01-15,Valence,Niort,0-0,0-0,Sat,2
-?,2000-01-26,Ajaccio,Guingamp,1-0,1-0,Wed,4
-?,2000-01-26,Caen,Cannes,1-1,1-1,Wed,4
-?,2000-01-26,Chateauroux,Amiens,0-0,0-0,Wed,4
-?,2000-01-26,Creteil,Nimes,3-2,2-0,Wed,4
-?,2000-01-26,Le Mans,Valence,4-0,2-0,Wed,4
-?,2000-01-26,Louhans-Cuis.,Lille,1-2,1-1,Wed,4
-?,2000-01-26,Nice,Laval,2-2,1-0,Wed,4
-?,2000-01-26,Niort,Lorient,1-0,0-0,Wed,4
-?,2000-01-26,Toulouse,Sochaux,3-0,3-0,Wed,4
-?,2000-01-26,Wasquehal,Gueugnon,1-0,0-0,Wed,4
-?,2000-02-02,Amiens,Louhans-Cuis.,1-1,1-0,Wed,5
-?,2000-02-02,Cannes,Creteil,1-0,0-0,Wed,5
-?,2000-02-02,Gueugnon,Niort,2-2,0-1,Wed,5
-?,2000-02-02,Guingamp,Chateauroux,3-2,1-2,Wed,5
-?,2000-02-02,Laval,Ajaccio,1-0,0-0,Wed,5
-?,2000-02-02,Lille,Toulouse,2-0,1-0,Wed,5
-?,2000-02-02,Lorient,Le Mans,0-0,0-0,Wed,5
-?,2000-02-02,Nimes,Nice,1-1,1-1,Wed,5
-?,2000-02-02,Sochaux,Wasquehal,2-1,0-0,Wed,5
-?,2000-02-02,Valence,Caen,0-0,0-0,Wed,5
-?,2000-02-05,Ajaccio,Nimes,2-1,1-1,Sat,5
-?,2000-02-05,Caen,Lorient,1-2,1-0,Sat,5
-?,2000-02-05,Cannes,Valence,0-0,0-0,Sat,5
-?,2000-02-05,Chateauroux,Laval,3-1,3-1,Sat,5
-?,2000-02-05,Creteil,Nice,0-0,0-0,Sat,5
-?,2000-02-05,Le Mans,Gueugnon,1-1,0-1,Sat,5
-?,2000-02-05,Louhans-Cuis.,Guingamp,0-0,0-0,Sat,5
-?,2000-02-05,Niort,Sochaux,2-1,1-1,Sat,5
-?,2000-02-05,Toulouse,Amiens,2-0,1-0,Sat,5
-?,2000-02-05,Wasquehal,Lille,2-1,0-1,Sat,5
-?,2000-02-16,Amiens,Wasquehal,4-1,1-0,Wed,7
-?,2000-02-16,Laval,Louhans-Cuis.,1-0,0-0,Wed,7
-?,2000-02-16,Lille,Niort,1-0,0-0,Wed,7
-?,2000-02-16,Lorient,Cannes,1-1,0-0,Wed,7
-?,2000-02-16,Nice,Ajaccio,0-1,0-0,Wed,7
-?,2000-02-16,Nimes,Chateauroux,1-1,0-1,Wed,7
-?,2000-02-16,Sochaux,Le Mans,3-1,1-0,Wed,7
-?,2000-02-16,Valence,Creteil,3-1,0-0,Wed,7
-?,2000-02-17,Guingamp,Toulouse,2-0,2-0,Thu,7
-?,2000-02-24,Caen,Sochaux,1-2,1-0,Thu,8
-?,2000-02-26,Cannes,Gueugnon,1-1,1-1,Sat,8
-?,2000-02-26,Chateauroux,Nice,3-0,1-0,Sat,8
-?,2000-02-26,Creteil,Ajaccio,1-1,0-1,Sat,8
-?,2000-02-26,Le Mans,Lille,1-1,1-0,Sat,8
-?,2000-02-26,Louhans-Cuis.,Nimes,1-0,0-0,Sat,8
-?,2000-02-26,Niort,Amiens,1-2,0-0,Sat,8
-?,2000-02-26,Toulouse,Laval,0-2,0-1,Sat,8
-?,2000-02-26,Valence,Lorient,0-1,0-1,Sat,8
-?,2000-02-26,Wasquehal,Guingamp,2-3,2-2,Sat,8
-?,2000-03-10,Lille,Caen,3-2,2-1,Fri,10
-?,2000-03-11,Ajaccio,Chateauroux,1-0,0-0,Sat,10
-?,2000-03-11,Amiens,Le Mans,2-0,1-0,Sat,10
-?,2000-03-11,Gueugnon,Valence,0-0,0-0,Sat,10
-?,2000-03-11,Guingamp,Niort,1-1,0-0,Sat,10
-?,2000-03-11,Laval,Wasquehal,0-1,0-1,Sat,10
-?,2000-03-11,Lorient,Creteil,3-0,2-0,Sat,10
-?,2000-03-11,Nice,Louhans-Cuis.,2-0,0-0,Sat,10
-?,2000-03-11,Nimes,Toulouse,3-0,2-0,Sat,10
-?,2000-03-11,Sochaux,Cannes,1-0,1-0,Sat,10
-?,2000-03-17,Gueugnon,Caen,4-0,2-0,Fri,11
-?,2000-03-24,Caen,Amiens,4-1,2-1,Fri,12
-?,2000-03-24,Creteil,Chateauroux,0-1,0-1,Fri,12
-?,2000-03-24,Le Mans,Guingamp,1-1,0-1,Fri,12
-?,2000-03-24,Lorient,Gueugnon,0-3,0-1,Fri,12
-?,2000-03-24,Louhans-Cuis.,Ajaccio,1-1,1-1,Fri,12
-?,2000-03-24,Niort,Laval,3-2,2-0,Fri,12
-?,2000-03-24,Valence,Sochaux,2-1,0-0,Fri,12
-?,2000-03-24,Wasquehal,Nimes,0-0,0-0,Fri,12
-?,2000-03-25,Cannes,Lille,2-2,0-1,Sat,12
-?,2000-03-25,Toulouse,Nice,0-0,0-0,Sat,12
-?,2000-03-28,Gueugnon,Creteil,1-0,0-0,Tue,13
-?,2000-03-29,Ajaccio,Toulouse,0-1,0-0,Wed,13
-?,2000-03-29,Amiens,Cannes,0-2,0-0,Wed,13
-?,2000-03-29,Chateauroux,Louhans-Cuis.,3-2,0-1,Wed,13
-?,2000-03-29,Laval,Le Mans,2-1,2-0,Wed,13
-?,2000-03-29,Lille,Valence,4-1,1-0,Wed,13
-?,2000-03-29,Nice,Wasquehal,1-1,0-0,Wed,13
-?,2000-03-29,Sochaux,Lorient,1-1,1-0,Wed,13
-?,2000-03-30,Guingamp,Caen,3-1,0-1,Thu,13
-?,2000-04-01,Nimes,Niort,1-4,0-2,Sat,13
-?,2000-04-08,Caen,Laval,1-1,1-0,Sat,14
-?,2000-04-08,Cannes,Guingamp,0-2,0-1,Sat,14
-?,2000-04-08,Creteil,Louhans-Cuis.,2-1,2-1,Sat,14
-?,2000-04-08,Gueugnon,Sochaux,1-2,1-0,Sat,14
-?,2000-04-08,Le Mans,Nimes,1-0,0-0,Sat,14
-?,2000-04-08,Lorient,Lille,0-0,0-0,Sat,14
-?,2000-04-08,Niort,Nice,1-2,0-1,Sat,14
-?,2000-04-08,Toulouse,Chateauroux,0-1,0-1,Sat,14
-?,2000-04-08,Valence,Amiens,2-1,0-1,Sat,14
-?,2000-04-08,Wasquehal,Ajaccio,3-1,2-1,Sat,14
-?,2000-04-15,Ajaccio,Niort,2-2,0-1,Sat,15
-?,2000-04-15,Amiens,Lorient,0-0,0-0,Sat,15
-?,2000-04-15,Chateauroux,Wasquehal,1-1,0-1,Sat,15
-?,2000-04-15,Guingamp,Valence,1-0,0-0,Sat,15
-?,2000-04-15,Laval,Cannes,2-1,0-1,Sat,15
-?,2000-04-15,Lille,Gueugnon,1-1,0-0,Sat,15
-?,2000-04-15,Louhans-Cuis.,Toulouse,1-2,1-1,Sat,15
-?,2000-04-15,Nice,Le Mans,1-1,0-1,Sat,15
-?,2000-04-15,Nimes,Caen,0-0,0-0,Sat,15
-?,2000-04-15,Sochaux,Creteil,5-1,4-0,Sat,15
-?,2000-04-21,Caen,Nice,1-1,1-1,Fri,16
-?,2000-04-21,Cannes,Nimes,2-0,1-0,Fri,16
-?,2000-04-21,Creteil,Toulouse,3-1,2-1,Fri,16
-?,2000-04-21,Le Mans,Ajaccio,1-1,0-0,Fri,16
-?,2000-04-21,Lorient,Guingamp,0-2,0-0,Fri,16
-?,2000-04-21,Niort,Chateauroux,1-0,0-0,Fri,16
-?,2000-04-21,Sochaux,Lille,2-0,1-0,Fri,16
-?,2000-04-21,Valence,Laval,1-1,0-0,Fri,16
-?,2000-04-21,Wasquehal,Louhans-Cuis.,2-1,2-0,Fri,16
-?,2000-04-27,Amiens,Sochaux,0-2,0-0,Thu,17
-?,2000-04-28,Ajaccio,Caen,1-0,0-0,Fri,17
-?,2000-04-28,Chateauroux,Le Mans,3-2,1-1,Fri,17
-?,2000-04-28,Guingamp,Gueugnon,0-2,0-1,Fri,17
-?,2000-04-28,Laval,Lorient,1-1,1-1,Fri,17
-?,2000-04-28,Lille,Creteil,5-0,1-0,Fri,17
-?,2000-04-28,Louhans-Cuis.,Niort,2-3,2-0,Fri,17
-?,2000-04-28,Nice,Cannes,2-0,1-0,Fri,17
-?,2000-04-28,Nimes,Valence,3-2,0-0,Fri,17
-?,2000-04-28,Toulouse,Wasquehal,2-0,1-0,Fri,17
-?,2000-05-03,Gueugnon,Amiens,2-0,1-0,Wed,18
-?,2000-05-05,Caen,Chateauroux,4-1,0-1,Fri,18
-?,2000-05-05,Cannes,Ajaccio,2-0,1-0,Fri,18
-?,2000-05-05,Creteil,Wasquehal,1-1,1-0,Fri,18
-?,2000-05-05,Gueugnon,Laval,1-1,1-0,Fri,18
-?,2000-05-05,Le Mans,Louhans-Cuis.,2-1,0-0,Fri,18
-?,2000-05-05,Lille,Amiens,1-0,0-0,Fri,18
-?,2000-05-05,Lorient,Nimes,0-1,0-1,Fri,18
-?,2000-05-05,Niort,Toulouse,1-1,0-0,Fri,18
-?,2000-05-05,Sochaux,Guingamp,1-1,0-0,Fri,18
-?,2000-05-05,Valence,Nice,2-0,1-0,Fri,18
-?,2000-05-12,Ajaccio,Valence,2-0,2-0,Fri,19
-?,2000-05-12,Amiens,Creteil,0-0,0-0,Fri,19
-?,2000-05-12,Chateauroux,Cannes,3-0,1-0,Fri,19
-?,2000-05-12,Guingamp,Lille,1-1,0-1,Fri,19
-?,2000-05-12,Laval,Sochaux,1-2,0-1,Fri,19
-?,2000-05-12,Louhans-Cuis.,Caen,0-4,0-1,Fri,19
-?,2000-05-12,Nice,Lorient,3-1,2-0,Fri,19
-?,2000-05-12,Nimes,Gueugnon,0-1,0-1,Fri,19
-?,2000-05-12,Toulouse,Le Mans,3-0,2-0,Fri,19
-?,2000-05-12,Wasquehal,Niort,2-0,1-0,Fri,19
-?,2000-05-20,Amiens,Guingamp,0-0,0-0,Sat,20
-?,2000-05-20,Caen,Toulouse,1-1,0-0,Sat,20
-?,2000-05-20,Cannes,Louhans-Cuis.,2-1,0-1,Sat,20
-?,2000-05-20,Gueugnon,Nice,0-4,0-1,Sat,20
-?,2000-05-20,Le Mans,Wasquehal,0-0,0-0,Sat,20
-?,2000-05-20,Lille,Laval,1-0,0-0,Sat,20
-?,2000-05-20,Lorient,Ajaccio,1-0,0-0,Sat,20
-?,2000-05-20,Niort,Creteil,1-3,1-0,Sat,20
-?,2000-05-20,Sochaux,Nimes,2-0,0-0,Sat,20
-?,2000-05-20,Valence,Chateauroux,2-2,1-1,Sat,20
+Round,Date,Team 1,Team 2,FT,HT
+?,(Sat) Jul/31 1999 (30),Ajaccio (1),Lorient (1),0-1,0-1
+?,(Sat) Jul/31 1999 (30),Chateauroux (1),Valence (1),3-3,0-2
+?,(Sat) Jul/31 1999 (30),Creteil (1),Niort (1),1-1,1-0
+?,(Sat) Jul/31 1999 (30),Guingamp (1),Amiens (1),2-3,2-0
+?,(Sat) Jul/31 1999 (30),Laval (1),Lille (1),0-1,0-1
+?,(Sat) Jul/31 1999 (30),Louhans-Cuis. (1),Cannes (1),0-1,0-0
+?,(Sat) Jul/31 1999 (30),Nice (1),Gueugnon (1),1-1,0-0
+?,(Sat) Jul/31 1999 (30),Nimes (1),Sochaux (1),2-1,1-0
+?,(Sat) Jul/31 1999 (30),Toulouse (1),Caen (1),0-1,0-1
+?,(Sat) Jul/31 1999 (30),Wasquehal (1),Le Mans (1),1-2,0-1
+?,(Thu) Aug/5 1999 (31),Lorient (2),Chateauroux (2),1-1,1-0
+?,(Sat) Aug/7 1999 (31),Amiens (2),Laval (2),1-1,0-0
+?,(Sat) Aug/7 1999 (31),Caen (2),Wasquehal (2),0-0,0-0
+?,(Sat) Aug/7 1999 (31),Cannes (2),Toulouse (2),0-2,0-1
+?,(Sat) Aug/7 1999 (31),Gueugnon (2),Ajaccio (2),2-2,1-2
+?,(Sat) Aug/7 1999 (31),Guingamp (2),Creteil (2),0-2,0-1
+?,(Sat) Aug/7 1999 (31),Le Mans (2),Niort (2),2-2,2-1
+?,(Sat) Aug/7 1999 (31),Lille (2),Nimes (2),1-0,0-0
+?,(Sat) Aug/7 1999 (31),Sochaux (2),Nice (2),2-1,1-1
+?,(Sat) Aug/7 1999 (31),Valence (2),Louhans-Cuis. (2),3-0,0-0
+?,(Fri) Aug/13 1999 (32),Ajaccio (3),Sochaux (3),0-2,0-0
+?,(Fri) Aug/13 1999 (32),Chateauroux (3),Gueugnon (3),0-1,0-0
+?,(Fri) Aug/13 1999 (32),Creteil (3),Le Mans (3),1-1,1-0
+?,(Fri) Aug/13 1999 (32),Laval (3),Guingamp (3),0-2,0-0
+?,(Fri) Aug/13 1999 (32),Louhans-Cuis. (3),Lorient (3),0-1,0-1
+?,(Fri) Aug/13 1999 (32),Nimes (3),Amiens (3),2-2,1-1
+?,(Fri) Aug/13 1999 (32),Niort (3),Caen (3),0-0,0-0
+?,(Fri) Aug/13 1999 (32),Toulouse (3),Valence (3),2-0,1-0
+?,(Fri) Aug/13 1999 (32),Wasquehal (3),Cannes (3),0-2,0-1
+?,(Sat) Aug/14 1999 (32),Nice (3),Lille (3),0-0,0-0
+?,(Tue) Aug/17 1999 (33),Amiens (4),Nice (4),4-1,2-1
+?,(Tue) Aug/17 1999 (33),Caen (4),Le Mans (4),1-1,1-0
+?,(Tue) Aug/17 1999 (33),Cannes (4),Niort (4),2-1,1-1
+?,(Tue) Aug/17 1999 (33),Gueugnon (4),Louhans-Cuis. (4),0-1,0-0
+?,(Tue) Aug/17 1999 (33),Guingamp (4),Nimes (4),1-0,0-0
+?,(Tue) Aug/17 1999 (33),Laval (4),Creteil (4),1-0,0-0
+?,(Tue) Aug/17 1999 (33),Lille (4),Ajaccio (4),4-2,0-0
+?,(Tue) Aug/17 1999 (33),Lorient (4),Toulouse (4),1-1,1-0
+?,(Tue) Aug/17 1999 (33),Sochaux (4),Chateauroux (4),1-2,0-0
+?,(Tue) Aug/17 1999 (33),Valence (4),Wasquehal (4),1-0,1-0
+?,(Fri) Aug/20 1999 (33),Nice (5),Guingamp (5),0-0,0-0
+?,(Sat) Aug/21 1999 (33),Ajaccio (5),Amiens (5),1-3,0-0
+?,(Sat) Aug/21 1999 (33),Chateauroux (5),Lille (5),2-3,0-0
+?,(Sat) Aug/21 1999 (33),Creteil (5),Caen (5),2-1,2-1
+?,(Sat) Aug/21 1999 (33),Le Mans (5),Cannes (5),2-1,1-0
+?,(Sat) Aug/21 1999 (33),Louhans-Cuis. (5),Sochaux (5),2-2,1-2
+?,(Sat) Aug/21 1999 (33),Nimes (5),Laval (5),0-0,0-0
+?,(Sat) Aug/21 1999 (33),Niort (5),Valence (5),1-1,1-1
+?,(Sat) Aug/21 1999 (33),Toulouse (5),Gueugnon (5),2-0,1-0
+?,(Sat) Aug/21 1999 (33),Wasquehal (5),Lorient (5),1-0,0-0
+?,(Fri) Aug/27 1999 (34),Amiens (6),Chateauroux (6),1-0,0-0
+?,(Fri) Aug/27 1999 (34),Cannes (6),Caen (6),1-0,1-0
+?,(Fri) Aug/27 1999 (34),Gueugnon (6),Wasquehal (6),1-1,1-1
+?,(Fri) Aug/27 1999 (34),Guingamp (6),Ajaccio (6),1-1,0-1
+?,(Fri) Aug/27 1999 (34),Laval (6),Nice (6),1-1,0-1
+?,(Fri) Aug/27 1999 (34),Lille (6),Louhans-Cuis. (6),1-0,0-0
+?,(Fri) Aug/27 1999 (34),Lorient (6),Niort (6),2-0,2-0
+?,(Fri) Aug/27 1999 (34),Nimes (6),Creteil (6),2-1,1-0
+?,(Fri) Aug/27 1999 (34),Valence (6),Le Mans (6),0-0,0-0
+?,(Sat) Aug/28 1999 (34),Sochaux (6),Toulouse (6),0-2,0-2
+?,(Fri) Sep/3 1999 (35),Ajaccio (7),Laval (7),1-0,0-0
+?,(Fri) Sep/3 1999 (35),Caen (7),Valence (7),1-0,0-0
+?,(Fri) Sep/3 1999 (35),Chateauroux (7),Guingamp (7),2-3,2-1
+?,(Fri) Sep/3 1999 (35),Creteil (7),Cannes (7),1-1,0-0
+?,(Fri) Sep/3 1999 (35),Le Mans (7),Lorient (7),2-1,0-0
+?,(Fri) Sep/3 1999 (35),Louhans-Cuis. (7),Amiens (7),0-0,0-0
+?,(Fri) Sep/3 1999 (35),Nice (7),Nimes (7),1-1,0-1
+?,(Fri) Sep/3 1999 (35),Niort (7),Gueugnon (7),1-0,1-0
+?,(Fri) Sep/3 1999 (35),Toulouse (7),Lille (7),0-2,0-1
+?,(Fri) Sep/3 1999 (35),Wasquehal (7),Sochaux (7),0-0,0-0
+?,(Tue) Sep/7 1999 (36),Amiens (8),Toulouse (8),1-1,1-1
+?,(Tue) Sep/7 1999 (36),Gueugnon (8),Le Mans (8),2-1,1-0
+?,(Tue) Sep/7 1999 (36),Guingamp (8),Louhans-Cuis. (8),2-2,1-1
+?,(Tue) Sep/7 1999 (36),Laval (8),Chateauroux (8),4-0,2-0
+?,(Tue) Sep/7 1999 (36),Lille (8),Wasquehal (8),1-0,1-0
+?,(Tue) Sep/7 1999 (36),Lorient (8),Caen (8),1-2,1-2
+?,(Tue) Sep/7 1999 (36),Nice (8),Creteil (8),2-0,0-0
+?,(Tue) Sep/7 1999 (36),Nimes (8),Ajaccio (8),1-0,0-0
+?,(Tue) Sep/7 1999 (36),Sochaux (8),Niort (8),1-0,1-0
+?,(Tue) Sep/7 1999 (36),Valence (8),Cannes (8),0-0,0-0
+?,(Sat) Sep/11 1999 (36),Ajaccio (9),Nice (9),1-0,0-0
+?,(Sat) Sep/11 1999 (36),Caen (9),Gueugnon (9),2-2,1-1
+?,(Sat) Sep/11 1999 (36),Cannes (9),Lorient (9),1-0,1-0
+?,(Sat) Sep/11 1999 (36),Chateauroux (9),Nimes (9),0-0,0-0
+?,(Sat) Sep/11 1999 (36),Creteil (9),Valence (9),2-1,1-1
+?,(Sat) Sep/11 1999 (36),Le Mans (9),Sochaux (9),2-1,1-0
+?,(Sat) Sep/11 1999 (36),Louhans-Cuis. (9),Laval (9),2-0,1-0
+?,(Sat) Sep/11 1999 (36),Niort (9),Lille (9),0-3,0-0
+?,(Sat) Sep/11 1999 (36),Toulouse (9),Guingamp (9),1-2,0-1
+?,(Sat) Sep/11 1999 (36),Wasquehal (9),Amiens (9),0-0,0-0
+?,(Sat) Sep/18 1999 (37),Ajaccio (10),Creteil (10),2-0,1-0
+?,(Sat) Sep/18 1999 (37),Amiens (10),Niort (10),0-0,0-0
+?,(Sat) Sep/18 1999 (37),Gueugnon (10),Cannes (10),1-1,1-1
+?,(Sat) Sep/18 1999 (37),Guingamp (10),Wasquehal (10),3-1,1-1
+?,(Sat) Sep/18 1999 (37),Lille (10),Le Mans (10),2-0,0-0
+?,(Sat) Sep/18 1999 (37),Lorient (10),Valence (10),3-1,1-1
+?,(Sat) Sep/18 1999 (37),Nice (10),Chateauroux (10),0-0,0-0
+?,(Sat) Sep/18 1999 (37),Nimes (10),Louhans-Cuis. (10),2-1,1-0
+?,(Sat) Sep/18 1999 (37),Sochaux (10),Caen (10),1-2,1-1
+?,(Sun) Sep/19 1999 (37),Laval (10),Toulouse (10),0-3,0-1
+?,(Fri) Sep/24 1999 (38),Caen (11),Lille (11),1-0,1-0
+?,(Fri) Sep/24 1999 (38),Creteil (11),Lorient (11),0-1,0-0
+?,(Sat) Sep/25 1999 (38),Cannes (11),Sochaux (11),1-3,1-0
+?,(Sat) Sep/25 1999 (38),Chateauroux (11),Ajaccio (11),1-0,0-0
+?,(Sat) Sep/25 1999 (38),Le Mans (11),Amiens (11),1-1,1-1
+?,(Sat) Sep/25 1999 (38),Louhans-Cuis. (11),Nice (11),0-0,0-0
+?,(Sat) Sep/25 1999 (38),Niort (11),Guingamp (11),3-3,2-2
+?,(Sat) Sep/25 1999 (38),Toulouse (11),Nimes (11),0-1,0-0
+?,(Sat) Sep/25 1999 (38),Wasquehal (11),Laval (11),1-1,0-0
+?,(Sun) Sep/26 1999 (38),Valence (11),Gueugnon (11),0-1,0-0
+?,(Fri) Oct/1 1999 (39),Ajaccio (12),Louhans-Cuis. (12),3-0,0-0
+?,(Fri) Oct/1 1999 (39),Amiens (12),Caen (12),0-4,0-2
+?,(Fri) Oct/1 1999 (39),Chateauroux (12),Creteil (12),0-0,0-0
+?,(Fri) Oct/1 1999 (39),Gueugnon (12),Lorient (12),3-0,2-0
+?,(Fri) Oct/1 1999 (39),Guingamp (12),Le Mans (12),3-1,2-1
+?,(Fri) Oct/1 1999 (39),Laval (12),Niort (12),3-1,1-0
+?,(Fri) Oct/1 1999 (39),Lille (12),Cannes (12),2-0,2-0
+?,(Fri) Oct/1 1999 (39),Nice (12),Toulouse (12),2-0,0-0
+?,(Fri) Oct/1 1999 (39),Nimes (12),Wasquehal (12),1-2,1-1
+?,(Fri) Oct/1 1999 (39),Sochaux (12),Valence (12),2-0,0-0
+?,(Thu) Oct/7 1999 (40),Lorient (13),Sochaux (13),0-0,0-0
+?,(Fri) Oct/8 1999 (40),Caen (13),Guingamp (13),1-2,1-1
+?,(Fri) Oct/8 1999 (40),Cannes (13),Amiens (13),1-0,1-0
+?,(Fri) Oct/8 1999 (40),Creteil (13),Gueugnon (13),1-4,1-2
+?,(Fri) Oct/8 1999 (40),Le Mans (13),Laval (13),0-0,0-0
+?,(Fri) Oct/8 1999 (40),Louhans-Cuis. (13),Chateauroux (13),1-3,0-1
+?,(Fri) Oct/8 1999 (40),Niort (13),Nimes (13),0-1,0-1
+?,(Fri) Oct/8 1999 (40),Toulouse (13),Ajaccio (13),4-1,0-0
+?,(Fri) Oct/8 1999 (40),Valence (13),Lille (13),2-2,1-1
+?,(Fri) Oct/8 1999 (40),Wasquehal (13),Nice (13),2-2,0-2
+?,(Thu) Oct/14 1999 (41),Chateauroux (14),Toulouse (14),0-3,0-1
+?,(Sat) Oct/16 1999 (41),Ajaccio (14),Wasquehal (14),2-1,0-0
+?,(Sat) Oct/16 1999 (41),Amiens (14),Valence (14),0-0,0-0
+?,(Sat) Oct/16 1999 (41),Guingamp (14),Cannes (14),2-1,0-0
+?,(Sat) Oct/16 1999 (41),Laval (14),Caen (14),1-1,1-1
+?,(Sat) Oct/16 1999 (41),Lille (14),Lorient (14),1-0,0-0
+?,(Sat) Oct/16 1999 (41),Louhans-Cuis. (14),Creteil (14),1-2,0-1
+?,(Sat) Oct/16 1999 (41),Nice (14),Niort (14),0-0,0-0
+?,(Sat) Oct/16 1999 (41),Nimes (14),Le Mans (14),1-2,0-1
+?,(Sat) Oct/16 1999 (41),Sochaux (14),Gueugnon (14),0-1,0-0
+?,(Sat) Oct/23 1999 (42),Caen (15),Nimes (15),2-1,1-1
+?,(Sat) Oct/23 1999 (42),Cannes (15),Laval (15),0-0,0-0
+?,(Sat) Oct/23 1999 (42),Creteil (15),Sochaux (15),0-0,0-0
+?,(Sat) Oct/23 1999 (42),Gueugnon (15),Lille (15),0-1,0-1
+?,(Sat) Oct/23 1999 (42),Le Mans (15),Nice (15),0-0,0-0
+?,(Sat) Oct/23 1999 (42),Lorient (15),Amiens (15),2-0,0-0
+?,(Sat) Oct/23 1999 (42),Niort (15),Ajaccio (15),1-0,0-0
+?,(Sat) Oct/23 1999 (42),Toulouse (15),Louhans-Cuis. (15),2-0,0-0
+?,(Sat) Oct/23 1999 (42),Valence (15),Guingamp (15),1-1,0-1
+?,(Sat) Oct/23 1999 (42),Wasquehal (15),Chateauroux (15),0-0,0-0
+?,(Sat) Oct/30 1999 (43),Ajaccio (16),Le Mans (16),0-1,0-0
+?,(Sat) Oct/30 1999 (43),Amiens (16),Gueugnon (16),1-1,1-1
+?,(Sat) Oct/30 1999 (43),Chateauroux (16),Niort (16),1-0,0-0
+?,(Sat) Oct/30 1999 (43),Guingamp (16),Lorient (16),3-0,3-0
+?,(Sat) Oct/30 1999 (43),Laval (16),Valence (16),3-2,1-2
+?,(Sat) Oct/30 1999 (43),Lille (16),Sochaux (16),0-1,0-1
+?,(Sat) Oct/30 1999 (43),Louhans-Cuis. (16),Wasquehal (16),2-1,2-0
+?,(Sat) Oct/30 1999 (43),Nice (16),Caen (16),0-0,0-0
+?,(Sat) Oct/30 1999 (43),Nimes (16),Cannes (16),1-1,1-0
+?,(Sat) Oct/30 1999 (43),Toulouse (16),Creteil (16),1-1,0-0
+?,(Sat) Nov/6 1999 (44),Caen (17),Ajaccio (17),1-1,1-0
+?,(Sat) Nov/6 1999 (44),Cannes (17),Nice (17),0-1,0-0
+?,(Sat) Nov/6 1999 (44),Creteil (17),Lille (17),1-0,0-0
+?,(Sat) Nov/6 1999 (44),Gueugnon (17),Guingamp (17),1-1,0-0
+?,(Sat) Nov/6 1999 (44),Le Mans (17),Chateauroux (17),2-1,1-1
+?,(Sat) Nov/6 1999 (44),Lorient (17),Laval (17),0-0,0-0
+?,(Sat) Nov/6 1999 (44),Niort (17),Louhans-Cuis. (17),1-0,1-0
+?,(Sat) Nov/6 1999 (44),Sochaux (17),Amiens (17),3-2,1-0
+?,(Sat) Nov/6 1999 (44),Valence (17),Nimes (17),0-2,0-0
+?,(Sat) Nov/6 1999 (44),Wasquehal (17),Toulouse (17),0-1,0-1
+?,(Tue) Nov/9 1999 (45),Ajaccio (18),Cannes (18),1-0,0-0
+?,(Tue) Nov/9 1999 (45),Amiens (18),Lille (18),0-1,0-0
+?,(Tue) Nov/9 1999 (45),Chateauroux (18),Caen (18),0-0,0-0
+?,(Tue) Nov/9 1999 (45),Guingamp (18),Sochaux (18),1-2,1-0
+?,(Tue) Nov/9 1999 (45),Laval (18),Gueugnon (18),2-1,1-0
+?,(Tue) Nov/9 1999 (45),Louhans-Cuis. (18),Le Mans (18),0-1,0-0
+?,(Tue) Nov/9 1999 (45),Nice (18),Valence (18),0-0,0-0
+?,(Tue) Nov/9 1999 (45),Nimes (18),Lorient (18),1-2,0-1
+?,(Tue) Nov/9 1999 (45),Toulouse (18),Niort (18),1-1,0-1
+?,(Tue) Nov/9 1999 (45),Wasquehal (18),Creteil (18),1-0,1-0
+?,(Fri) Nov/12 1999 (45),Caen (19),Louhans-Cuis. (19),6-1,4-0
+?,(Fri) Nov/12 1999 (45),Cannes (19),Chateauroux (19),0-1,0-0
+?,(Fri) Nov/12 1999 (45),Creteil (19),Amiens (19),2-0,0-0
+?,(Fri) Nov/12 1999 (45),Gueugnon (19),Nimes (19),3-1,1-0
+?,(Fri) Nov/12 1999 (45),Le Mans (19),Toulouse (19),1-1,0-0
+?,(Fri) Nov/12 1999 (45),Lille (19),Guingamp (19),2-0,1-0
+?,(Fri) Nov/12 1999 (45),Lorient (19),Nice (19),0-1,0-0
+?,(Fri) Nov/12 1999 (45),Niort (19),Wasquehal (19),0-0,0-0
+?,(Fri) Nov/12 1999 (45),Sochaux (19),Laval (19),0-2,0-2
+?,(Fri) Nov/12 1999 (45),Valence (19),Ajaccio (19),1-2,0-2
+?,(Sat) Nov/20 1999 (46),Ajaccio (20),Gueugnon (20),0-0,0-0
+?,(Sat) Nov/20 1999 (46),Chateauroux (20),Lorient (20),1-0,1-0
+?,(Sat) Nov/20 1999 (46),Creteil (20),Guingamp (20),1-3,1-2
+?,(Sat) Nov/20 1999 (46),Laval (20),Amiens (20),1-0,0-0
+?,(Sat) Nov/20 1999 (46),Louhans-Cuis. (20),Valence (20),3-2,1-0
+?,(Sat) Nov/20 1999 (46),Nice (20),Sochaux (20),2-1,0-0
+?,(Sat) Nov/20 1999 (46),Niort (20),Le Mans (20),4-3,3-1
+?,(Sat) Nov/20 1999 (46),Toulouse (20),Cannes (20),2-1,0-1
+?,(Sat) Nov/20 1999 (46),Wasquehal (20),Caen (20),0-0,0-0
+?,(Sun) Nov/21 1999 (46),Nimes (20),Lille (20),3-3,1-0
+?,(Sat) Dec/4 1999 (48),Amiens (21),Nimes (21),0-0,0-0
+?,(Sat) Dec/4 1999 (48),Caen (21),Niort (21),2-1,2-1
+?,(Sat) Dec/4 1999 (48),Cannes (21),Wasquehal (21),0-0,0-0
+?,(Sat) Dec/4 1999 (48),Gueugnon (21),Chateauroux (21),1-1,1-1
+?,(Sat) Dec/4 1999 (48),Guingamp (21),Laval (21),2-2,2-0
+?,(Sat) Dec/4 1999 (48),Le Mans (21),Creteil (21),2-0,1-0
+?,(Sat) Dec/4 1999 (48),Lille (21),Nice (21),1-0,0-0
+?,(Sat) Dec/4 1999 (48),Lorient (21),Louhans-Cuis. (21),5-1,2-0
+?,(Sat) Dec/4 1999 (48),Sochaux (21),Ajaccio (21),1-2,1-1
+?,(Sat) Dec/4 1999 (48),Valence (21),Toulouse (21),0-2,0-1
+?,(Sat) Dec/11 1999 (49),Ajaccio (22),Lille (22),0-1,0-0
+?,(Sat) Dec/11 1999 (49),Chateauroux (22),Sochaux (22),1-1,1-1
+?,(Sat) Dec/11 1999 (49),Creteil (22),Laval (22),2-0,0-0
+?,(Sat) Dec/11 1999 (49),Le Mans (22),Caen (22),0-0,0-0
+?,(Sat) Dec/11 1999 (49),Louhans-Cuis. (22),Gueugnon (22),1-1,0-1
+?,(Sat) Dec/11 1999 (49),Nice (22),Amiens (22),0-0,0-0
+?,(Sat) Dec/11 1999 (49),Nimes (22),Guingamp (22),2-0,0-0
+?,(Sat) Dec/11 1999 (49),Niort (22),Cannes (22),1-1,0-1
+?,(Sat) Dec/11 1999 (49),Toulouse (22),Lorient (22),5-0,1-0
+?,(Sat) Dec/11 1999 (49),Wasquehal (22),Valence (22),3-3,0-2
+?,(Fri) Jan/14 2000 (2),Guingamp (23),Nice (23),5-0,4-0
+?,(Sat) Jan/15 2000 (2),Amiens (23),Ajaccio (23),0-1,0-0
+?,(Sat) Jan/15 2000 (2),Caen (23),Creteil (23),1-1,0-1
+?,(Sat) Jan/15 2000 (2),Cannes (23),Le Mans (23),2-1,1-1
+?,(Sat) Jan/15 2000 (2),Gueugnon (23),Toulouse (23),0-0,0-0
+?,(Sat) Jan/15 2000 (2),Laval (23),Nimes (23),1-1,0-1
+?,(Sat) Jan/15 2000 (2),Lille (23),Chateauroux (23),1-0,0-0
+?,(Sat) Jan/15 2000 (2),Lorient (23),Wasquehal (23),0-0,0-0
+?,(Sat) Jan/15 2000 (2),Sochaux (23),Louhans-Cuis. (23),1-1,0-0
+?,(Sat) Jan/15 2000 (2),Valence (23),Niort (23),0-0,0-0
+?,(Wed) Jan/26 2000 (4),Ajaccio (24),Guingamp (24),1-0,1-0
+?,(Wed) Jan/26 2000 (4),Caen (24),Cannes (24),1-1,1-1
+?,(Wed) Jan/26 2000 (4),Chateauroux (24),Amiens (24),0-0,0-0
+?,(Wed) Jan/26 2000 (4),Creteil (24),Nimes (24),3-2,2-0
+?,(Wed) Jan/26 2000 (4),Le Mans (24),Valence (24),4-0,2-0
+?,(Wed) Jan/26 2000 (4),Louhans-Cuis. (24),Lille (24),1-2,1-1
+?,(Wed) Jan/26 2000 (4),Nice (24),Laval (24),2-2,1-0
+?,(Wed) Jan/26 2000 (4),Niort (24),Lorient (24),1-0,0-0
+?,(Wed) Jan/26 2000 (4),Toulouse (24),Sochaux (24),3-0,3-0
+?,(Wed) Jan/26 2000 (4),Wasquehal (24),Gueugnon (24),1-0,0-0
+?,(Wed) Feb/2 2000 (5),Amiens (25),Louhans-Cuis. (25),1-1,1-0
+?,(Wed) Feb/2 2000 (5),Cannes (25),Creteil (25),1-0,0-0
+?,(Wed) Feb/2 2000 (5),Gueugnon (25),Niort (25),2-2,0-1
+?,(Wed) Feb/2 2000 (5),Guingamp (25),Chateauroux (25),3-2,1-2
+?,(Wed) Feb/2 2000 (5),Laval (25),Ajaccio (25),1-0,0-0
+?,(Wed) Feb/2 2000 (5),Lille (25),Toulouse (25),2-0,1-0
+?,(Wed) Feb/2 2000 (5),Lorient (25),Le Mans (25),0-0,0-0
+?,(Wed) Feb/2 2000 (5),Nimes (25),Nice (25),1-1,1-1
+?,(Wed) Feb/2 2000 (5),Sochaux (25),Wasquehal (25),2-1,0-0
+?,(Wed) Feb/2 2000 (5),Valence (25),Caen (25),0-0,0-0
+?,(Sat) Feb/5 2000 (5),Ajaccio (26),Nimes (26),2-1,1-1
+?,(Sat) Feb/5 2000 (5),Caen (26),Lorient (26),1-2,1-0
+?,(Sat) Feb/5 2000 (5),Cannes (26),Valence (26),0-0,0-0
+?,(Sat) Feb/5 2000 (5),Chateauroux (26),Laval (26),3-1,3-1
+?,(Sat) Feb/5 2000 (5),Creteil (26),Nice (26),0-0,0-0
+?,(Sat) Feb/5 2000 (5),Le Mans (26),Gueugnon (26),1-1,0-1
+?,(Sat) Feb/5 2000 (5),Louhans-Cuis. (26),Guingamp (26),0-0,0-0
+?,(Sat) Feb/5 2000 (5),Niort (26),Sochaux (26),2-1,1-1
+?,(Sat) Feb/5 2000 (5),Toulouse (26),Amiens (26),2-0,1-0
+?,(Sat) Feb/5 2000 (5),Wasquehal (26),Lille (26),2-1,0-1
+?,(Wed) Feb/16 2000 (7),Amiens (27),Wasquehal (27),4-1,1-0
+?,(Wed) Feb/16 2000 (7),Laval (27),Louhans-Cuis. (27),1-0,0-0
+?,(Wed) Feb/16 2000 (7),Lille (27),Niort (27),1-0,0-0
+?,(Wed) Feb/16 2000 (7),Lorient (27),Cannes (27),1-1,0-0
+?,(Wed) Feb/16 2000 (7),Nice (27),Ajaccio (27),0-1,0-0
+?,(Wed) Feb/16 2000 (7),Nimes (27),Chateauroux (27),1-1,0-1
+?,(Wed) Feb/16 2000 (7),Sochaux (27),Le Mans (27),3-1,1-0
+?,(Wed) Feb/16 2000 (7),Valence (27),Creteil (27),3-1,0-0
+?,(Thu) Feb/17 2000 (7),Guingamp (27),Toulouse (27),2-0,2-0
+?,(Thu) Feb/24 2000 (8),Caen (27),Sochaux (28),1-2,1-0
+?,(Sat) Feb/26 2000 (8),Cannes (28),Gueugnon (27),1-1,1-1
+?,(Sat) Feb/26 2000 (8),Chateauroux (28),Nice (28),3-0,1-0
+?,(Sat) Feb/26 2000 (8),Creteil (28),Ajaccio (28),1-1,0-1
+?,(Sat) Feb/26 2000 (8),Le Mans (28),Lille (28),1-1,1-0
+?,(Sat) Feb/26 2000 (8),Louhans-Cuis. (28),Nimes (28),1-0,0-0
+?,(Sat) Feb/26 2000 (8),Niort (28),Amiens (28),1-2,0-0
+?,(Sat) Feb/26 2000 (8),Toulouse (28),Laval (28),0-2,0-1
+?,(Sat) Feb/26 2000 (8),Valence (28),Lorient (28),0-1,0-1
+?,(Sat) Feb/26 2000 (8),Wasquehal (28),Guingamp (28),2-3,2-2
+?,(Fri) Mar/10 2000 (10),Lille (29),Caen (28),3-2,2-1
+?,(Sat) Mar/11 2000 (10),Ajaccio (29),Chateauroux (29),1-0,0-0
+?,(Sat) Mar/11 2000 (10),Amiens (29),Le Mans (29),2-0,1-0
+?,(Sat) Mar/11 2000 (10),Gueugnon (28),Valence (29),0-0,0-0
+?,(Sat) Mar/11 2000 (10),Guingamp (29),Niort (29),1-1,0-0
+?,(Sat) Mar/11 2000 (10),Laval (29),Wasquehal (29),0-1,0-1
+?,(Sat) Mar/11 2000 (10),Lorient (29),Creteil (29),3-0,2-0
+?,(Sat) Mar/11 2000 (10),Nice (29),Louhans-Cuis. (29),2-0,0-0
+?,(Sat) Mar/11 2000 (10),Nimes (29),Toulouse (29),3-0,2-0
+?,(Sat) Mar/11 2000 (10),Sochaux (29),Cannes (29),1-0,1-0
+?,(Fri) Mar/17 2000 (11),Gueugnon (29),Caen (29),4-0,2-0
+?,(Fri) Mar/24 2000 (12),Caen (30),Amiens (30),4-1,2-1
+?,(Fri) Mar/24 2000 (12),Creteil (30),Chateauroux (30),0-1,0-1
+?,(Fri) Mar/24 2000 (12),Le Mans (30),Guingamp (30),1-1,0-1
+?,(Fri) Mar/24 2000 (12),Lorient (30),Gueugnon (30),0-3,0-1
+?,(Fri) Mar/24 2000 (12),Louhans-Cuis. (30),Ajaccio (30),1-1,1-1
+?,(Fri) Mar/24 2000 (12),Niort (30),Laval (30),3-2,2-0
+?,(Fri) Mar/24 2000 (12),Valence (30),Sochaux (30),2-1,0-0
+?,(Fri) Mar/24 2000 (12),Wasquehal (30),Nimes (30),0-0,0-0
+?,(Sat) Mar/25 2000 (12),Cannes (30),Lille (30),2-2,0-1
+?,(Sat) Mar/25 2000 (12),Toulouse (30),Nice (30),0-0,0-0
+?,(Tue) Mar/28 2000 (13),Gueugnon (31),Creteil (31),1-0,0-0
+?,(Wed) Mar/29 2000 (13),Ajaccio (31),Toulouse (31),0-1,0-0
+?,(Wed) Mar/29 2000 (13),Amiens (31),Cannes (31),0-2,0-0
+?,(Wed) Mar/29 2000 (13),Chateauroux (31),Louhans-Cuis. (31),3-2,0-1
+?,(Wed) Mar/29 2000 (13),Laval (31),Le Mans (31),2-1,2-0
+?,(Wed) Mar/29 2000 (13),Lille (31),Valence (31),4-1,1-0
+?,(Wed) Mar/29 2000 (13),Nice (31),Wasquehal (31),1-1,0-0
+?,(Wed) Mar/29 2000 (13),Sochaux (31),Lorient (31),1-1,1-0
+?,(Thu) Mar/30 2000 (13),Guingamp (31),Caen (31),3-1,0-1
+?,(Sat) Apr/1 2000 (13),Nimes (31),Niort (31),1-4,0-2
+?,(Sat) Apr/8 2000 (14),Caen (32),Laval (32),1-1,1-0
+?,(Sat) Apr/8 2000 (14),Cannes (32),Guingamp (32),0-2,0-1
+?,(Sat) Apr/8 2000 (14),Creteil (32),Louhans-Cuis. (32),2-1,2-1
+?,(Sat) Apr/8 2000 (14),Gueugnon (32),Sochaux (32),1-2,1-0
+?,(Sat) Apr/8 2000 (14),Le Mans (32),Nimes (32),1-0,0-0
+?,(Sat) Apr/8 2000 (14),Lorient (32),Lille (32),0-0,0-0
+?,(Sat) Apr/8 2000 (14),Niort (32),Nice (32),1-2,0-1
+?,(Sat) Apr/8 2000 (14),Toulouse (32),Chateauroux (32),0-1,0-1
+?,(Sat) Apr/8 2000 (14),Valence (32),Amiens (32),2-1,0-1
+?,(Sat) Apr/8 2000 (14),Wasquehal (32),Ajaccio (32),3-1,2-1
+?,(Sat) Apr/15 2000 (15),Ajaccio (33),Niort (33),2-2,0-1
+?,(Sat) Apr/15 2000 (15),Amiens (33),Lorient (33),0-0,0-0
+?,(Sat) Apr/15 2000 (15),Chateauroux (33),Wasquehal (33),1-1,0-1
+?,(Sat) Apr/15 2000 (15),Guingamp (33),Valence (33),1-0,0-0
+?,(Sat) Apr/15 2000 (15),Laval (33),Cannes (33),2-1,0-1
+?,(Sat) Apr/15 2000 (15),Lille (33),Gueugnon (33),1-1,0-0
+?,(Sat) Apr/15 2000 (15),Louhans-Cuis. (33),Toulouse (33),1-2,1-1
+?,(Sat) Apr/15 2000 (15),Nice (33),Le Mans (33),1-1,0-1
+?,(Sat) Apr/15 2000 (15),Nimes (33),Caen (33),0-0,0-0
+?,(Sat) Apr/15 2000 (15),Sochaux (33),Creteil (33),5-1,4-0
+?,(Fri) Apr/21 2000 (16),Caen (34),Nice (34),1-1,1-1
+?,(Fri) Apr/21 2000 (16),Cannes (34),Nimes (34),2-0,1-0
+?,(Fri) Apr/21 2000 (16),Creteil (34),Toulouse (34),3-1,2-1
+?,(Fri) Apr/21 2000 (16),Le Mans (34),Ajaccio (34),1-1,0-0
+?,(Fri) Apr/21 2000 (16),Lorient (34),Guingamp (34),0-2,0-0
+?,(Fri) Apr/21 2000 (16),Niort (34),Chateauroux (34),1-0,0-0
+?,(Fri) Apr/21 2000 (16),Sochaux (34),Lille (34),2-0,1-0
+?,(Fri) Apr/21 2000 (16),Valence (34),Laval (34),1-1,0-0
+?,(Fri) Apr/21 2000 (16),Wasquehal (34),Louhans-Cuis. (34),2-1,2-0
+?,(Thu) Apr/27 2000 (17),Amiens (34),Sochaux (35),0-2,0-0
+?,(Fri) Apr/28 2000 (17),Ajaccio (35),Caen (35),1-0,0-0
+?,(Fri) Apr/28 2000 (17),Chateauroux (35),Le Mans (35),3-2,1-1
+?,(Fri) Apr/28 2000 (17),Guingamp (35),Gueugnon (34),0-2,0-1
+?,(Fri) Apr/28 2000 (17),Laval (35),Lorient (35),1-1,1-1
+?,(Fri) Apr/28 2000 (17),Lille (35),Creteil (35),5-0,1-0
+?,(Fri) Apr/28 2000 (17),Louhans-Cuis. (35),Niort (35),2-3,2-0
+?,(Fri) Apr/28 2000 (17),Nice (35),Cannes (35),2-0,1-0
+?,(Fri) Apr/28 2000 (17),Nimes (35),Valence (35),3-2,0-0
+?,(Fri) Apr/28 2000 (17),Toulouse (35),Wasquehal (35),2-0,1-0
+?,(Wed) May/3 2000 (18),Gueugnon (35),Amiens (35),2-0,1-0
+?,(Fri) May/5 2000 (18),Caen (36),Chateauroux (36),4-1,0-1
+?,(Fri) May/5 2000 (18),Cannes (36),Ajaccio (36),2-0,1-0
+?,(Fri) May/5 2000 (18),Creteil (36),Wasquehal (36),1-1,1-0
+?,(Fri) May/5 2000 (18),Gueugnon (36),Laval (36),1-1,1-0
+?,(Fri) May/5 2000 (18),Le Mans (36),Louhans-Cuis. (36),2-1,0-0
+?,(Fri) May/5 2000 (18),Lille (36),Amiens (36),1-0,0-0
+?,(Fri) May/5 2000 (18),Lorient (36),Nimes (36),0-1,0-1
+?,(Fri) May/5 2000 (18),Niort (36),Toulouse (36),1-1,0-0
+?,(Fri) May/5 2000 (18),Sochaux (36),Guingamp (36),1-1,0-0
+?,(Fri) May/5 2000 (18),Valence (36),Nice (36),2-0,1-0
+?,(Fri) May/12 2000 (19),Ajaccio (37),Valence (37),2-0,2-0
+?,(Fri) May/12 2000 (19),Amiens (37),Creteil (37),0-0,0-0
+?,(Fri) May/12 2000 (19),Chateauroux (37),Cannes (37),3-0,1-0
+?,(Fri) May/12 2000 (19),Guingamp (37),Lille (37),1-1,0-1
+?,(Fri) May/12 2000 (19),Laval (37),Sochaux (37),1-2,0-1
+?,(Fri) May/12 2000 (19),Louhans-Cuis. (37),Caen (37),0-4,0-1
+?,(Fri) May/12 2000 (19),Nice (37),Lorient (37),3-1,2-0
+?,(Fri) May/12 2000 (19),Nimes (37),Gueugnon (37),0-1,0-1
+?,(Fri) May/12 2000 (19),Toulouse (37),Le Mans (37),3-0,2-0
+?,(Fri) May/12 2000 (19),Wasquehal (37),Niort (37),2-0,1-0
+?,(Sat) May/20 2000 (20),Amiens (38),Guingamp (38),0-0,0-0
+?,(Sat) May/20 2000 (20),Caen (38),Toulouse (38),1-1,0-0
+?,(Sat) May/20 2000 (20),Cannes (38),Louhans-Cuis. (38),2-1,0-1
+?,(Sat) May/20 2000 (20),Gueugnon (38),Nice (38),0-4,0-1
+?,(Sat) May/20 2000 (20),Le Mans (38),Wasquehal (38),0-0,0-0
+?,(Sat) May/20 2000 (20),Lille (38),Laval (38),1-0,0-0
+?,(Sat) May/20 2000 (20),Lorient (38),Ajaccio (38),1-0,0-0
+?,(Sat) May/20 2000 (20),Niort (38),Creteil (38),1-3,1-0
+?,(Sat) May/20 2000 (20),Sochaux (38),Nimes (38),2-0,0-0
+?,(Sat) May/20 2000 (20),Valence (38),Chateauroux (38),2-2,1-1

@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,2009-08-07,Ajaccio,Guingamp,0-1,0-0,Fri,31
-?,2009-08-07,Angers,Dijon,3-0,0-0,Fri,31
-?,2009-08-07,Brest,Laval,2-1,1-1,Fri,31
-?,2009-08-07,Clermont,Arles,1-2,1-1,Fri,31
-?,2009-08-07,Istres,Bastia,1-0,0-0,Fri,31
-?,2009-08-07,Sedan,Le Havre,1-1,0-1,Fri,31
-?,2009-08-07,Strasbourg,Chateauroux,1-2,1-1,Fri,31
-?,2009-08-07,Tours,Nimes,0-0,0-0,Fri,31
-?,2009-08-07,Vannes,Metz,3-0,1-0,Fri,31
-?,2009-08-10,Caen,Nantes,1-0,1-0,Mon,32
-?,2009-08-13,Laval,Strasbourg,3-2,1-1,Thu,32
-?,2009-08-14,Arles,Ajaccio,2-1,0-0,Fri,32
-?,2009-08-14,Bastia,Caen,1-2,0-1,Fri,32
-?,2009-08-14,Chateauroux,Sedan,1-0,1-0,Fri,32
-?,2009-08-14,Dijon,Tours,2-2,0-1,Fri,32
-?,2009-08-14,Guingamp,Angers,0-0,0-0,Fri,32
-?,2009-08-14,Le Havre,Brest,1-0,1-0,Fri,32
-?,2009-08-14,Metz,Istres,2-0,0-0,Fri,32
-?,2009-08-14,Nantes,Clermont,3-2,1-1,Fri,32
-?,2009-08-14,Nimes,Vannes,1-1,0-0,Fri,32
-?,2009-08-17,Brest,Metz,2-1,0-0,Mon,33
-?,2009-08-18,Angers,Chateauroux,0-3,0-2,Tue,33
-?,2009-08-18,Bastia,Nimes,6-1,2-1,Tue,33
-?,2009-08-18,Caen,Dijon,1-0,1-0,Tue,33
-?,2009-08-18,Clermont,Laval,0-0,0-0,Tue,33
-?,2009-08-18,Sedan,Ajaccio,1-3,1-1,Tue,33
-?,2009-08-18,Strasbourg,Arles,1-1,1-0,Tue,33
-?,2009-08-18,Tours,Le Havre,2-0,2-0,Tue,33
-?,2009-08-18,Vannes,Nantes,1-1,0-1,Tue,33
-?,2009-08-21,Ajaccio,Strasbourg,2-2,0-1,Fri,33
-?,2009-08-21,Arles,Brest,3-2,2-1,Fri,33
-?,2009-08-21,Chateauroux,Caen,1-1,0-1,Fri,33
-?,2009-08-21,Dijon,Nimes,1-0,1-0,Fri,33
-?,2009-08-21,Laval,Tours,1-0,0-0,Fri,33
-?,2009-08-21,Le Havre,Angers,3-2,1-2,Fri,33
-?,2009-08-21,Nantes,Istres,5-0,1-0,Fri,33
-?,2009-08-21,Sedan,Clermont,2-1,1-0,Fri,33
-?,2009-08-23,Guingamp,Vannes,4-1,3-0,Sun,33
-?,2009-08-24,Metz,Bastia,1-0,0-0,Mon,34
-?,2009-08-28,Bastia,Laval,0-1,0-1,Fri,34
-?,2009-08-28,Caen,Arles,1-0,0-0,Fri,34
-?,2009-08-28,Clermont,Chateauroux,0-0,0-0,Fri,34
-?,2009-08-28,Istres,Dijon,1-1,1-0,Fri,34
-?,2009-08-28,Strasbourg,Sedan,2-2,0-1,Fri,34
-?,2009-08-29,Angers,Ajaccio,2-1,1-1,Sat,34
-?,2009-08-30,Nimes,Metz,1-1,0-0,Sun,34
-?,2009-08-30,Tours,Guingamp,2-0,0-0,Sun,34
-?,2009-08-30,Vannes,Le Havre,1-1,0-1,Sun,34
-?,2009-08-31,Brest,Nantes,1-2,0-1,Mon,35
-?,2009-09-04,Istres,Guingamp,0-0,0-0,Fri,35
-?,2009-09-11,Ajaccio,Clermont,1-1,1-0,Fri,36
-?,2009-09-11,Arles,Angers,1-1,1-1,Fri,36
-?,2009-09-11,Chateauroux,Brest,1-1,0-0,Fri,36
-?,2009-09-11,Dijon,Bastia,1-0,1-0,Fri,36
-?,2009-09-11,Guingamp,Caen,0-0,0-0,Fri,36
-?,2009-09-11,Laval,Istres,2-2,1-1,Fri,36
-?,2009-09-11,Le Havre,Nimes,0-2,0-0,Fri,36
-?,2009-09-11,Metz,Tours,1-1,0-0,Fri,36
-?,2009-09-11,Sedan,Vannes,0-1,0-0,Fri,36
-?,2009-09-14,Nantes,Strasbourg,2-1,2-1,Mon,37
-?,2009-09-18,Angers,Sedan,1-1,1-1,Fri,37
-?,2009-09-18,Bastia,Nantes,1-1,1-1,Fri,37
-?,2009-09-18,Brest,Guingamp,2-0,0-0,Fri,37
-?,2009-09-18,Clermont,Strasbourg,3-0,0-0,Fri,37
-?,2009-09-18,Istres,Le Havre,0-1,0-1,Fri,37
-?,2009-09-18,Metz,Dijon,0-0,0-0,Fri,37
-?,2009-09-18,Nimes,Laval,1-1,0-0,Fri,37
-?,2009-09-18,Tours,Arles,4-2,2-1,Fri,37
-?,2009-09-18,Vannes,Chateauroux,3-2,1-1,Fri,37
-?,2009-09-21,Caen,Ajaccio,1-0,1-0,Mon,38
-?,2009-09-25,Ajaccio,Tours,2-2,1-0,Fri,38
-?,2009-09-25,Arles,Vannes,1-1,0-0,Fri,38
-?,2009-09-25,Chateauroux,Istres,0-2,0-1,Fri,38
-?,2009-09-25,Clermont,Angers,3-2,0-0,Fri,38
-?,2009-09-25,Guingamp,Bastia,1-1,0-1,Fri,38
-?,2009-09-25,Laval,Dijon,2-2,1-1,Fri,38
-?,2009-09-26,Le Havre,Metz,2-0,0-0,Sat,38
-?,2009-09-26,Nantes,Nimes,2-1,2-1,Sat,38
-?,2009-09-26,Sedan,Brest,0-0,0-0,Sat,38
-?,2009-09-28,Strasbourg,Caen,2-2,0-0,Mon,39
-?,2009-10-02,Angers,Strasbourg,0-0,0-0,Fri,39
-?,2009-10-02,Bastia,Chateauroux,0-1,0-1,Fri,39
-?,2009-10-02,Brest,Clermont,2-0,1-0,Fri,39
-?,2009-10-02,Caen,Sedan,3-1,0-1,Fri,39
-?,2009-10-02,Dijon,Le Havre,1-2,1-0,Fri,39
-?,2009-10-02,Istres,Arles,1-1,1-0,Fri,39
-?,2009-10-02,Metz,Laval,3-2,0-2,Fri,39
-?,2009-10-02,Nimes,Guingamp,2-0,0-0,Fri,39
-?,2009-10-02,Vannes,Ajaccio,0-3,0-2,Fri,39
-?,2009-10-05,Tours,Nantes,1-1,0-0,Mon,40
-?,2009-10-16,Ajaccio,Brest,0-0,0-0,Fri,41
-?,2009-10-16,Angers,Istres,1-0,1-0,Fri,41
-?,2009-10-16,Arles,Bastia,1-0,1-0,Fri,41
-?,2009-10-16,Chateauroux,Nimes,1-2,1-1,Fri,41
-?,2009-10-16,Clermont,Caen,1-3,0-0,Fri,41
-?,2009-10-16,Guingamp,Dijon,1-1,1-0,Fri,41
-?,2009-10-16,Le Havre,Laval,0-2,0-2,Fri,41
-?,2009-10-16,Sedan,Tours,2-0,2-0,Fri,41
-?,2009-10-16,Strasbourg,Vannes,1-0,1-0,Fri,41
-?,2009-10-19,Nantes,Metz,2-2,1-2,Mon,42
-?,2009-10-23,Bastia,Le Havre,1-1,1-1,Fri,42
-?,2009-10-23,Brest,Strasbourg,1-1,0-0,Fri,42
-?,2009-10-23,Caen,Angers,2-1,2-1,Fri,42
-?,2009-10-23,Dijon,Nantes,1-2,0-1,Fri,42
-?,2009-10-23,Istres,Ajaccio,0-2,0-1,Fri,42
-?,2009-10-23,Laval,Arles,0-1,0-0,Fri,42
-?,2009-10-23,Metz,Guingamp,2-0,0-0,Fri,42
-?,2009-10-23,Nimes,Sedan,3-0,1-0,Fri,42
-?,2009-10-23,Tours,Chateauroux,2-2,1-1,Fri,42
-?,2009-10-23,Vannes,Clermont,1-2,1-2,Fri,42
-?,2009-10-26,Guingamp,Le Havre,1-2,1-2,Mon,43
-?,2009-10-27,Ajaccio,Nimes,2-0,0-0,Tue,43
-?,2009-10-27,Angers,Brest,1-2,0-1,Tue,43
-?,2009-10-27,Arles,Dijon,0-0,0-0,Tue,43
-?,2009-10-27,Caen,Vannes,4-2,1-1,Tue,43
-?,2009-10-27,Chateauroux,Metz,1-2,0-1,Tue,43
-?,2009-10-27,Clermont,Istres,2-0,0-0,Tue,43
-?,2009-10-27,Nantes,Laval,0-0,0-0,Tue,43
-?,2009-10-27,Sedan,Bastia,1-0,1-0,Tue,43
-?,2009-10-27,Strasbourg,Tours,0-1,0-0,Tue,43
-?,2009-10-30,Bastia,Ajaccio,1-0,0-0,Fri,43
-?,2009-10-30,Brest,Caen,2-0,2-0,Fri,43
-?,2009-10-30,Dijon,Chateauroux,5-4,1-3,Fri,43
-?,2009-10-30,Istres,Sedan,3-1,2-0,Fri,43
-?,2009-10-30,Laval,Guingamp,3-0,1-0,Fri,43
-?,2009-10-30,Metz,Strasbourg,1-0,0-0,Fri,43
-?,2009-10-30,Nimes,Arles,1-1,0-0,Fri,43
-?,2009-10-30,Tours,Clermont,1-1,1-1,Fri,43
-?,2009-10-30,Vannes,Angers,1-0,1-0,Fri,43
-?,2009-11-02,Le Havre,Nantes,4-0,0-0,Mon,44
-?,2009-11-06,Ajaccio,Dijon,0-0,0-0,Fri,44
-?,2009-11-06,Angers,Bastia,2-0,1-0,Fri,44
-?,2009-11-06,Arles,Le Havre,1-0,1-0,Fri,44
-?,2009-11-06,Brest,Vannes,3-4,1-2,Fri,44
-?,2009-11-06,Caen,Tours,0-0,0-0,Fri,44
-?,2009-11-06,Chateauroux,Laval,2-1,0-0,Fri,44
-?,2009-11-06,Clermont,Nimes,0-1,0-0,Fri,44
-?,2009-11-06,Sedan,Metz,1-1,1-1,Fri,44
-?,2009-11-06,Strasbourg,Istres,2-0,1-0,Fri,44
-?,2009-11-09,Nantes,Guingamp,0-2,0-1,Mon,45
-?,2009-11-26,Metz,Clermont,2-1,0-0,Thu,47
-?,2009-11-27,Bastia,Brest,1-1,1-0,Fri,47
-?,2009-11-27,Dijon,Strasbourg,0-0,0-0,Fri,47
-?,2009-11-27,Guingamp,Arles,4-1,1-0,Fri,47
-?,2009-11-27,Istres,Vannes,1-1,0-0,Fri,47
-?,2009-11-27,Laval,Sedan,1-1,0-0,Fri,47
-?,2009-11-27,Le Havre,Ajaccio,1-0,0-0,Fri,47
-?,2009-11-27,Nantes,Chateauroux,2-2,0-1,Fri,47
-?,2009-11-27,Nimes,Caen,0-4,0-2,Fri,47
-?,2009-11-27,Tours,Angers,2-0,1-0,Fri,47
-?,2009-11-30,Caen,Le Havre,2-0,1-0,Mon,48
-?,2009-12-01,Ajaccio,Laval,1-1,0-1,Tue,48
-?,2009-12-01,Angers,Nimes,1-0,0-0,Tue,48
-?,2009-12-01,Arles,Metz,2-0,1-0,Tue,48
-?,2009-12-01,Brest,Istres,1-0,1-0,Tue,48
-?,2009-12-01,Chateauroux,Guingamp,0-1,0-0,Tue,48
-?,2009-12-01,Clermont,Dijon,0-2,0-0,Tue,48
-?,2009-12-01,Sedan,Nantes,3-0,0-0,Tue,48
-?,2009-12-01,Strasbourg,Bastia,2-1,0-0,Tue,48
-?,2009-12-01,Vannes,Tours,1-2,0-2,Tue,48
-?,2009-12-04,Bastia,Clermont,1-3,0-3,Fri,48
-?,2009-12-04,Dijon,Vannes,0-0,0-0,Fri,48
-?,2009-12-04,Guingamp,Sedan,2-2,0-1,Fri,48
-?,2009-12-04,Istres,Caen,2-1,2-0,Fri,48
-?,2009-12-04,Laval,Angers,2-2,0-0,Fri,48
-?,2009-12-04,Le Havre,Chateauroux,2-2,1-0,Fri,48
-?,2009-12-04,Metz,Ajaccio,2-0,1-0,Fri,48
-?,2009-12-04,Nimes,Strasbourg,2-1,2-1,Fri,48
-?,2009-12-04,Tours,Brest,0-1,0-1,Fri,48
-?,2009-12-07,Nantes,Arles,1-0,0-0,Mon,49
-?,2009-12-18,Ajaccio,Nantes,2-1,1-1,Fri,50
-?,2009-12-18,Arles,Chateauroux,3-0,1-0,Fri,50
-?,2009-12-18,Brest,Nimes,1-0,1-0,Fri,50
-?,2009-12-18,Caen,Laval,1-1,1-0,Fri,50
-?,2009-12-18,Clermont,Le Havre,1-0,1-0,Fri,50
-?,2009-12-18,Sedan,Dijon,2-1,2-0,Fri,50
-?,2009-12-18,Strasbourg,Guingamp,2-1,1-0,Fri,50
-?,2009-12-18,Vannes,Bastia,3-0,1-0,Fri,50
-?,2009-12-22,Bastia,Tours,3-1,2-0,Tue,51
-?,2009-12-22,Chateauroux,Ajaccio,1-2,1-2,Tue,51
-?,2009-12-22,Dijon,Brest,1-3,0-1,Tue,51
-?,2009-12-22,Guingamp,Clermont,1-1,0-0,Tue,51
-?,2009-12-22,Laval,Vannes,2-1,0-0,Tue,51
-?,2009-12-22,Le Havre,Strasbourg,3-0,0-0,Tue,51
-?,2009-12-22,Nantes,Angers,1-2,1-1,Tue,51
-?,2009-12-22,Nimes,Istres,2-1,1-0,Tue,51
-?,2010-01-14,Brest,Le Havre,2-1,1-1,Thu,2
-?,2010-01-15,Ajaccio,Arles,1-0,0-0,Fri,2
-?,2010-01-15,Caen,Bastia,1-0,0-0,Fri,2
-?,2010-01-15,Clermont,Nantes,2-0,1-0,Fri,2
-?,2010-01-15,Sedan,Chateauroux,1-1,0-1,Fri,2
-?,2010-01-15,Strasbourg,Laval,4-1,2-0,Fri,2
-?,2010-01-15,Tours,Dijon,1-4,0-2,Fri,2
-?,2010-01-15,Vannes,Nimes,0-2,0-2,Fri,2
-?,2010-01-16,Angers,Guingamp,1-0,0-0,Sat,2
-?,2010-01-16,Istres,Metz,2-2,0-1,Sat,2
-?,2010-01-18,Le Havre,Tours,1-1,1-0,Mon,3
-?,2010-01-19,Ajaccio,Sedan,2-0,2-0,Tue,3
-?,2010-01-19,Arles,Strasbourg,1-1,0-1,Tue,3
-?,2010-01-19,Chateauroux,Angers,2-0,1-0,Tue,3
-?,2010-01-19,Dijon,Caen,1-1,1-0,Tue,3
-?,2010-01-19,Guingamp,Istres,0-0,0-0,Tue,3
-?,2010-01-19,Laval,Clermont,0-0,0-0,Tue,3
-?,2010-01-19,Metz,Brest,0-0,0-0,Tue,3
-?,2010-01-19,Nantes,Vannes,0-0,0-0,Tue,3
-?,2010-01-19,Nimes,Bastia,2-1,1-1,Tue,3
-?,2010-01-23,Tours,Istres,4-0,0-0,Sat,3
-?,2010-01-25,Metz,Caen,1-3,1-1,Mon,4
-?,2010-01-29,Angers,Le Havre,0-0,0-0,Fri,4
-?,2010-01-29,Bastia,Metz,1-0,0-0,Fri,4
-?,2010-01-29,Caen,Chateauroux,1-1,0-0,Fri,4
-?,2010-01-29,Clermont,Sedan,0-3,0-2,Fri,4
-?,2010-01-29,Istres,Nantes,1-0,0-0,Fri,4
-?,2010-01-29,Nimes,Dijon,2-1,0-1,Fri,4
-?,2010-01-29,Strasbourg,Ajaccio,2-0,2-0,Fri,4
-?,2010-01-29,Tours,Laval,0-3,0-1,Fri,4
-?,2010-01-30,Vannes,Guingamp,2-2,2-0,Sat,4
-?,2010-02-01,Brest,Arles,3-1,1-1,Mon,5
-?,2010-02-05,Ajaccio,Angers,0-2,0-2,Fri,5
-?,2010-02-05,Chateauroux,Clermont,1-3,0-0,Fri,5
-?,2010-02-05,Dijon,Istres,1-1,1-0,Fri,5
-?,2010-02-05,Guingamp,Tours,2-2,2-1,Fri,5
-?,2010-02-05,Laval,Bastia,1-1,0-1,Fri,5
-?,2010-02-05,Le Havre,Vannes,0-1,0-1,Fri,5
-?,2010-02-05,Metz,Nimes,3-1,2-1,Fri,5
-?,2010-02-05,Nantes,Brest,1-4,1-2,Fri,5
-?,2010-02-05,Sedan,Strasbourg,3-3,2-1,Fri,5
-?,2010-02-08,Arles,Caen,0-0,0-0,Mon,6
-?,2010-02-09,Angers,Metz,0-1,0-0,Tue,6
-?,2010-02-12,Angers,Arles,3-1,2-0,Fri,6
-?,2010-02-12,Bastia,Dijon,3-4,2-1,Fri,6
-?,2010-02-12,Caen,Guingamp,2-0,1-0,Fri,6
-?,2010-02-12,Istres,Laval,0-2,0-0,Fri,6
-?,2010-02-12,Nimes,Le Havre,1-1,0-0,Fri,6
-?,2010-02-12,Tours,Metz,1-1,1-0,Fri,6
-?,2010-02-13,Brest,Chateauroux,2-1,0-1,Sat,6
-?,2010-02-13,Vannes,Sedan,0-2,0-1,Sat,6
-?,2010-02-15,Strasbourg,Nantes,1-0,0-0,Mon,7
-?,2010-02-19,Ajaccio,Caen,2-0,0-0,Fri,7
-?,2010-02-19,Arles,Tours,1-2,0-1,Fri,7
-?,2010-02-19,Chateauroux,Vannes,0-0,0-0,Fri,7
-?,2010-02-19,Dijon,Metz,0-1,0-1,Fri,7
-?,2010-02-19,Laval,Nimes,0-0,0-0,Fri,7
-?,2010-02-19,Le Havre,Istres,2-1,0-0,Fri,7
-?,2010-02-19,Nantes,Bastia,3-1,2-1,Fri,7
-?,2010-02-19,Sedan,Angers,2-2,1-1,Fri,7
-?,2010-02-19,Strasbourg,Clermont,1-1,0-1,Fri,7
-?,2010-02-21,Guingamp,Brest,0-0,0-0,Sun,7
-?,2010-02-26,Angers,Clermont,2-1,1-1,Fri,8
-?,2010-02-26,Bastia,Guingamp,0-0,0-0,Fri,8
-?,2010-02-26,Brest,Sedan,1-3,0-2,Fri,8
-?,2010-02-26,Caen,Strasbourg,0-0,0-0,Fri,8
-?,2010-02-26,Dijon,Laval,0-0,0-0,Fri,8
-?,2010-02-26,Istres,Chateauroux,2-0,1-0,Fri,8
-?,2010-02-26,Nimes,Nantes,2-1,0-1,Fri,8
-?,2010-02-26,Tours,Ajaccio,1-3,1-0,Fri,8
-?,2010-02-26,Vannes,Arles,0-0,0-0,Fri,8
-?,2010-03-01,Metz,Le Havre,2-0,1-0,Mon,9
-?,2010-03-02,Arles,Sedan,1-0,0-0,Tue,9
-?,2010-03-05,Ajaccio,Vannes,1-1,0-0,Fri,9
-?,2010-03-05,Arles,Istres,3-0,2-0,Fri,9
-?,2010-03-05,Chateauroux,Bastia,2-2,1-2,Fri,9
-?,2010-03-05,Clermont,Brest,0-1,0-0,Fri,9
-?,2010-03-05,Guingamp,Nimes,0-0,0-0,Fri,9
-?,2010-03-05,Le Havre,Dijon,1-1,1-0,Fri,9
-?,2010-03-05,Nantes,Tours,2-1,1-0,Fri,9
-?,2010-03-05,Sedan,Caen,0-0,0-0,Fri,9
-?,2010-03-05,Strasbourg,Angers,1-2,0-0,Fri,9
-?,2010-03-08,Laval,Metz,3-3,1-1,Mon,10
-?,2010-03-12,Bastia,Arles,3-0,1-0,Fri,10
-?,2010-03-12,Brest,Ajaccio,0-1,0-1,Fri,10
-?,2010-03-12,Caen,Clermont,2-1,1-1,Fri,10
-?,2010-03-12,Dijon,Guingamp,1-0,0-0,Fri,10
-?,2010-03-12,Istres,Angers,1-1,1-1,Fri,10
-?,2010-03-12,Laval,Le Havre,4-0,2-0,Fri,10
-?,2010-03-12,Nimes,Chateauroux,1-4,1-2,Fri,10
-?,2010-03-12,Tours,Sedan,1-3,0-2,Fri,10
-?,2010-03-12,Vannes,Strasbourg,1-1,1-0,Fri,10
-?,2010-03-15,Metz,Nantes,0-0,0-0,Mon,11
-?,2010-03-19,Ajaccio,Istres,1-2,0-1,Fri,11
-?,2010-03-19,Arles,Laval,2-0,2-0,Fri,11
-?,2010-03-19,Chateauroux,Tours,0-3,0-1,Fri,11
-?,2010-03-19,Clermont,Vannes,1-0,0-0,Fri,11
-?,2010-03-19,Guingamp,Metz,2-1,1-1,Fri,11
-?,2010-03-19,Le Havre,Bastia,3-1,2-0,Fri,11
-?,2010-03-19,Nantes,Dijon,0-1,0-1,Fri,11
-?,2010-03-19,Sedan,Nimes,0-0,0-0,Fri,11
-?,2010-03-19,Strasbourg,Brest,1-0,0-0,Fri,11
-?,2010-03-22,Angers,Caen,2-2,0-1,Mon,12
-?,2010-03-23,Clermont,Ajaccio,3-0,0-0,Tue,12
-?,2010-03-26,Bastia,Sedan,2-0,2-0,Fri,12
-?,2010-03-26,Brest,Angers,2-0,2-0,Fri,12
-?,2010-03-26,Dijon,Arles,1-1,0-0,Fri,12
-?,2010-03-26,Istres,Clermont,1-3,1-1,Fri,12
-?,2010-03-26,Laval,Nantes,0-1,0-1,Fri,12
-?,2010-03-26,Metz,Chateauroux,0-0,0-0,Fri,12
-?,2010-03-26,Nimes,Ajaccio,2-0,0-0,Fri,12
-?,2010-03-26,Tours,Strasbourg,2-0,0-0,Fri,12
-?,2010-03-26,Vannes,Caen,0-3,0-2,Fri,12
-?,2010-03-29,Le Havre,Guingamp,2-1,1-0,Mon,13
-?,2010-04-02,Ajaccio,Bastia,0-1,0-1,Fri,13
-?,2010-04-02,Angers,Vannes,2-0,0-0,Fri,13
-?,2010-04-02,Arles,Nimes,2-0,1-0,Fri,13
-?,2010-04-02,Caen,Brest,1-0,0-0,Fri,13
-?,2010-04-02,Chateauroux,Dijon,1-3,0-1,Fri,13
-?,2010-04-02,Clermont,Tours,0-0,0-0,Fri,13
-?,2010-04-02,Guingamp,Laval,0-0,0-0,Fri,13
-?,2010-04-02,Nantes,Le Havre,4-1,2-1,Fri,13
-?,2010-04-02,Sedan,Istres,1-1,1-0,Fri,13
-?,2010-04-05,Strasbourg,Metz,1-1,1-0,Mon,14
-?,2010-04-09,Bastia,Angers,3-1,1-1,Fri,14
-?,2010-04-09,Dijon,Ajaccio,3-0,2-0,Fri,14
-?,2010-04-09,Istres,Strasbourg,2-0,1-0,Fri,14
-?,2010-04-09,Laval,Chateauroux,0-0,0-0,Fri,14
-?,2010-04-09,Le Havre,Arles,1-2,1-0,Fri,14
-?,2010-04-09,Metz,Sedan,1-1,1-0,Fri,14
-?,2010-04-09,Nimes,Clermont,0-1,0-1,Fri,14
-?,2010-04-09,Tours,Caen,1-1,1-1,Fri,14
-?,2010-04-09,Vannes,Brest,0-2,0-1,Fri,14
-?,2010-04-12,Guingamp,Nantes,2-0,1-0,Mon,15
-?,2010-04-16,Angers,Tours,0-1,0-0,Fri,15
-?,2010-04-16,Arles,Guingamp,1-1,0-0,Fri,15
-?,2010-04-16,Brest,Bastia,4-0,1-0,Fri,15
-?,2010-04-16,Chateauroux,Nantes,2-2,2-0,Fri,15
-?,2010-04-16,Clermont,Metz,2-0,0-0,Fri,15
-?,2010-04-16,Sedan,Laval,0-0,0-0,Fri,15
-?,2010-04-16,Strasbourg,Dijon,3-1,3-0,Fri,15
-?,2010-04-16,Vannes,Istres,2-0,0-0,Fri,15
-?,2010-04-19,Caen,Nimes,0-0,0-0,Mon,16
-?,2010-04-23,Bastia,Strasbourg,1-0,0-0,Fri,16
-?,2010-04-23,Dijon,Clermont,2-3,1-1,Fri,16
-?,2010-04-23,Guingamp,Chateauroux,1-1,0-0,Fri,16
-?,2010-04-23,Istres,Brest,1-0,1-0,Fri,16
-?,2010-04-23,Laval,Ajaccio,2-2,0-1,Fri,16
-?,2010-04-23,Metz,Arles,1-2,1-1,Fri,16
-?,2010-04-23,Nantes,Sedan,1-3,1-2,Fri,16
-?,2010-04-23,Nimes,Angers,0-1,0-0,Fri,16
-?,2010-04-23,Tours,Vannes,1-1,0-1,Fri,16
-?,2010-04-26,Le Havre,Caen,1-1,1-1,Mon,17
-?,2010-04-30,Ajaccio,Metz,1-1,0-0,Fri,17
-?,2010-04-30,Angers,Laval,2-1,1-1,Fri,17
-?,2010-04-30,Arles,Nantes,1-0,0-0,Fri,17
-?,2010-04-30,Brest,Tours,2-0,1-0,Fri,17
-?,2010-04-30,Caen,Istres,1-1,1-0,Fri,17
-?,2010-04-30,Chateauroux,Le Havre,3-1,2-0,Fri,17
-?,2010-04-30,Clermont,Bastia,0-0,0-0,Fri,17
-?,2010-04-30,Sedan,Guingamp,1-0,1-0,Fri,17
-?,2010-04-30,Strasbourg,Nimes,1-1,1-1,Fri,17
-?,2010-04-30,Vannes,Dijon,1-0,1-0,Fri,17
-?,2010-05-03,Metz,Angers,1-0,0-0,Mon,18
-?,2010-05-04,Bastia,Vannes,1-2,1-0,Tue,18
-?,2010-05-04,Chateauroux,Arles,3-0,1-0,Tue,18
-?,2010-05-04,Dijon,Sedan,3-1,1-1,Tue,18
-?,2010-05-04,Guingamp,Strasbourg,2-0,1-0,Tue,18
-?,2010-05-04,Istres,Tours,2-1,1-1,Tue,18
-?,2010-05-04,Laval,Caen,2-1,1-1,Tue,18
-?,2010-05-04,Le Havre,Clermont,2-1,1-0,Tue,18
-?,2010-05-04,Nantes,Ajaccio,1-0,0-0,Tue,18
-?,2010-05-04,Nimes,Brest,1-0,0-0,Tue,18
-?,2010-05-07,Ajaccio,Chateauroux,1-0,1-0,Fri,18
-?,2010-05-07,Angers,Nantes,2-0,1-0,Fri,18
-?,2010-05-07,Brest,Dijon,1-4,0-1,Fri,18
-?,2010-05-07,Caen,Metz,0-2,0-0,Fri,18
-?,2010-05-07,Clermont,Guingamp,3-1,0-1,Fri,18
-?,2010-05-07,Istres,Nimes,2-1,1-1,Fri,18
-?,2010-05-07,Sedan,Arles,0-0,0-0,Fri,18
-?,2010-05-07,Strasbourg,Le Havre,1-1,0-0,Fri,18
-?,2010-05-07,Tours,Bastia,0-0,0-0,Fri,18
-?,2010-05-07,Vannes,Laval,2-3,1-3,Fri,18
-?,2010-05-11,Ajaccio,Le Havre,3-0,?,Tue,19
-?,2010-05-14,Arles,Clermont,1-0,1-0,Fri,19
-?,2010-05-14,Bastia,Istres,2-0,1-0,Fri,19
-?,2010-05-14,Chateauroux,Strasbourg,2-1,2-1,Fri,19
-?,2010-05-14,Dijon,Angers,2-2,1-0,Fri,19
-?,2010-05-14,Guingamp,Ajaccio,2-1,2-0,Fri,19
-?,2010-05-14,Laval,Brest,1-2,0-1,Fri,19
-?,2010-05-14,Le Havre,Sedan,3-1,3-1,Fri,19
-?,2010-05-14,Metz,Vannes,0-1,0-1,Fri,19
-?,2010-05-14,Nantes,Caen,1-3,1-1,Fri,19
-?,2010-05-14,Nimes,Tours,1-1,0-0,Fri,19
+Round,Date,Team 1,Team 2,FT,HT
+?,(Fri) Aug/7 2009 (31),Ajaccio (1),Guingamp (1),0-1,0-0
+?,(Fri) Aug/7 2009 (31),Angers (1),Dijon (1),3-0,0-0
+?,(Fri) Aug/7 2009 (31),Brest (1),Laval (1),2-1,1-1
+?,(Fri) Aug/7 2009 (31),Clermont (1),Arles (1),1-2,1-1
+?,(Fri) Aug/7 2009 (31),Istres (1),Bastia (1),1-0,0-0
+?,(Fri) Aug/7 2009 (31),Sedan (1),Le Havre (1),1-1,0-1
+?,(Fri) Aug/7 2009 (31),Strasbourg (1),Chateauroux (1),1-2,1-1
+?,(Fri) Aug/7 2009 (31),Tours (1),Nimes (1),0-0,0-0
+?,(Fri) Aug/7 2009 (31),Vannes (1),Metz (1),3-0,1-0
+?,(Mon) Aug/10 2009 (32),Caen (1),Nantes (1),1-0,1-0
+?,(Thu) Aug/13 2009 (32),Laval (2),Strasbourg (2),3-2,1-1
+?,(Fri) Aug/14 2009 (32),Arles (2),Ajaccio (2),2-1,0-0
+?,(Fri) Aug/14 2009 (32),Bastia (2),Caen (2),1-2,0-1
+?,(Fri) Aug/14 2009 (32),Chateauroux (2),Sedan (2),1-0,1-0
+?,(Fri) Aug/14 2009 (32),Dijon (2),Tours (2),2-2,0-1
+?,(Fri) Aug/14 2009 (32),Guingamp (2),Angers (2),0-0,0-0
+?,(Fri) Aug/14 2009 (32),Le Havre (2),Brest (2),1-0,1-0
+?,(Fri) Aug/14 2009 (32),Metz (2),Istres (2),2-0,0-0
+?,(Fri) Aug/14 2009 (32),Nantes (2),Clermont (2),3-2,1-1
+?,(Fri) Aug/14 2009 (32),Nimes (2),Vannes (2),1-1,0-0
+?,(Mon) Aug/17 2009 (33),Brest (3),Metz (3),2-1,0-0
+?,(Tue) Aug/18 2009 (33),Angers (3),Chateauroux (3),0-3,0-2
+?,(Tue) Aug/18 2009 (33),Bastia (3),Nimes (3),6-1,2-1
+?,(Tue) Aug/18 2009 (33),Caen (3),Dijon (3),1-0,1-0
+?,(Tue) Aug/18 2009 (33),Clermont (3),Laval (3),0-0,0-0
+?,(Tue) Aug/18 2009 (33),Sedan (3),Ajaccio (3),1-3,1-1
+?,(Tue) Aug/18 2009 (33),Strasbourg (3),Arles (3),1-1,1-0
+?,(Tue) Aug/18 2009 (33),Tours (3),Le Havre (3),2-0,2-0
+?,(Tue) Aug/18 2009 (33),Vannes (3),Nantes (3),1-1,0-1
+?,(Fri) Aug/21 2009 (33),Ajaccio (4),Strasbourg (4),2-2,0-1
+?,(Fri) Aug/21 2009 (33),Arles (4),Brest (4),3-2,2-1
+?,(Fri) Aug/21 2009 (33),Chateauroux (4),Caen (4),1-1,0-1
+?,(Fri) Aug/21 2009 (33),Dijon (4),Nimes (4),1-0,1-0
+?,(Fri) Aug/21 2009 (33),Laval (4),Tours (4),1-0,0-0
+?,(Fri) Aug/21 2009 (33),Le Havre (4),Angers (4),3-2,1-2
+?,(Fri) Aug/21 2009 (33),Nantes (4),Istres (3),5-0,1-0
+?,(Fri) Aug/21 2009 (33),Sedan (4),Clermont (4),2-1,1-0
+?,(Sun) Aug/23 2009 (33),Guingamp (3),Vannes (4),4-1,3-0
+?,(Mon) Aug/24 2009 (34),Metz (4),Bastia (4),1-0,0-0
+?,(Fri) Aug/28 2009 (34),Bastia (5),Laval (5),0-1,0-1
+?,(Fri) Aug/28 2009 (34),Caen (5),Arles (5),1-0,0-0
+?,(Fri) Aug/28 2009 (34),Clermont (5),Chateauroux (5),0-0,0-0
+?,(Fri) Aug/28 2009 (34),Istres (4),Dijon (5),1-1,1-0
+?,(Fri) Aug/28 2009 (34),Strasbourg (5),Sedan (5),2-2,0-1
+?,(Sat) Aug/29 2009 (34),Angers (5),Ajaccio (5),2-1,1-1
+?,(Sun) Aug/30 2009 (34),Nimes (5),Metz (5),1-1,0-0
+?,(Sun) Aug/30 2009 (34),Tours (5),Guingamp (4),2-0,0-0
+?,(Sun) Aug/30 2009 (34),Vannes (5),Le Havre (5),1-1,0-1
+?,(Mon) Aug/31 2009 (35),Brest (5),Nantes (5),1-2,0-1
+?,(Fri) Sep/4 2009 (35),Istres (5),Guingamp (5),0-0,0-0
+?,(Fri) Sep/11 2009 (36),Ajaccio (6),Clermont (6),1-1,1-0
+?,(Fri) Sep/11 2009 (36),Arles (6),Angers (6),1-1,1-1
+?,(Fri) Sep/11 2009 (36),Chateauroux (6),Brest (6),1-1,0-0
+?,(Fri) Sep/11 2009 (36),Dijon (6),Bastia (6),1-0,1-0
+?,(Fri) Sep/11 2009 (36),Guingamp (6),Caen (6),0-0,0-0
+?,(Fri) Sep/11 2009 (36),Laval (6),Istres (6),2-2,1-1
+?,(Fri) Sep/11 2009 (36),Le Havre (6),Nimes (6),0-2,0-0
+?,(Fri) Sep/11 2009 (36),Metz (6),Tours (6),1-1,0-0
+?,(Fri) Sep/11 2009 (36),Sedan (6),Vannes (6),0-1,0-0
+?,(Mon) Sep/14 2009 (37),Nantes (6),Strasbourg (6),2-1,2-1
+?,(Fri) Sep/18 2009 (37),Angers (7),Sedan (7),1-1,1-1
+?,(Fri) Sep/18 2009 (37),Bastia (7),Nantes (7),1-1,1-1
+?,(Fri) Sep/18 2009 (37),Brest (7),Guingamp (7),2-0,0-0
+?,(Fri) Sep/18 2009 (37),Clermont (7),Strasbourg (7),3-0,0-0
+?,(Fri) Sep/18 2009 (37),Istres (7),Le Havre (7),0-1,0-1
+?,(Fri) Sep/18 2009 (37),Metz (7),Dijon (7),0-0,0-0
+?,(Fri) Sep/18 2009 (37),Nimes (7),Laval (7),1-1,0-0
+?,(Fri) Sep/18 2009 (37),Tours (7),Arles (7),4-2,2-1
+?,(Fri) Sep/18 2009 (37),Vannes (7),Chateauroux (7),3-2,1-1
+?,(Mon) Sep/21 2009 (38),Caen (7),Ajaccio (7),1-0,1-0
+?,(Fri) Sep/25 2009 (38),Ajaccio (8),Tours (8),2-2,1-0
+?,(Fri) Sep/25 2009 (38),Arles (8),Vannes (8),1-1,0-0
+?,(Fri) Sep/25 2009 (38),Chateauroux (8),Istres (8),0-2,0-1
+?,(Fri) Sep/25 2009 (38),Clermont (8),Angers (8),3-2,0-0
+?,(Fri) Sep/25 2009 (38),Guingamp (8),Bastia (8),1-1,0-1
+?,(Fri) Sep/25 2009 (38),Laval (8),Dijon (8),2-2,1-1
+?,(Sat) Sep/26 2009 (38),Le Havre (8),Metz (8),2-0,0-0
+?,(Sat) Sep/26 2009 (38),Nantes (8),Nimes (8),2-1,2-1
+?,(Sat) Sep/26 2009 (38),Sedan (8),Brest (8),0-0,0-0
+?,(Mon) Sep/28 2009 (39),Strasbourg (8),Caen (8),2-2,0-0
+?,(Fri) Oct/2 2009 (39),Angers (9),Strasbourg (9),0-0,0-0
+?,(Fri) Oct/2 2009 (39),Bastia (9),Chateauroux (9),0-1,0-1
+?,(Fri) Oct/2 2009 (39),Brest (9),Clermont (9),2-0,1-0
+?,(Fri) Oct/2 2009 (39),Caen (9),Sedan (9),3-1,0-1
+?,(Fri) Oct/2 2009 (39),Dijon (9),Le Havre (9),1-2,1-0
+?,(Fri) Oct/2 2009 (39),Istres (9),Arles (9),1-1,1-0
+?,(Fri) Oct/2 2009 (39),Metz (9),Laval (9),3-2,0-2
+?,(Fri) Oct/2 2009 (39),Nimes (9),Guingamp (9),2-0,0-0
+?,(Fri) Oct/2 2009 (39),Vannes (9),Ajaccio (9),0-3,0-2
+?,(Mon) Oct/5 2009 (40),Tours (9),Nantes (9),1-1,0-0
+?,(Fri) Oct/16 2009 (41),Ajaccio (10),Brest (10),0-0,0-0
+?,(Fri) Oct/16 2009 (41),Angers (10),Istres (10),1-0,1-0
+?,(Fri) Oct/16 2009 (41),Arles (10),Bastia (10),1-0,1-0
+?,(Fri) Oct/16 2009 (41),Chateauroux (10),Nimes (10),1-2,1-1
+?,(Fri) Oct/16 2009 (41),Clermont (10),Caen (10),1-3,0-0
+?,(Fri) Oct/16 2009 (41),Guingamp (10),Dijon (10),1-1,1-0
+?,(Fri) Oct/16 2009 (41),Le Havre (10),Laval (10),0-2,0-2
+?,(Fri) Oct/16 2009 (41),Sedan (10),Tours (10),2-0,2-0
+?,(Fri) Oct/16 2009 (41),Strasbourg (10),Vannes (10),1-0,1-0
+?,(Mon) Oct/19 2009 (42),Nantes (10),Metz (10),2-2,1-2
+?,(Fri) Oct/23 2009 (42),Bastia (11),Le Havre (11),1-1,1-1
+?,(Fri) Oct/23 2009 (42),Brest (11),Strasbourg (11),1-1,0-0
+?,(Fri) Oct/23 2009 (42),Caen (11),Angers (11),2-1,2-1
+?,(Fri) Oct/23 2009 (42),Dijon (11),Nantes (11),1-2,0-1
+?,(Fri) Oct/23 2009 (42),Istres (11),Ajaccio (11),0-2,0-1
+?,(Fri) Oct/23 2009 (42),Laval (11),Arles (11),0-1,0-0
+?,(Fri) Oct/23 2009 (42),Metz (11),Guingamp (11),2-0,0-0
+?,(Fri) Oct/23 2009 (42),Nimes (11),Sedan (11),3-0,1-0
+?,(Fri) Oct/23 2009 (42),Tours (11),Chateauroux (11),2-2,1-1
+?,(Fri) Oct/23 2009 (42),Vannes (11),Clermont (11),1-2,1-2
+?,(Mon) Oct/26 2009 (43),Guingamp (12),Le Havre (12),1-2,1-2
+?,(Tue) Oct/27 2009 (43),Ajaccio (12),Nimes (12),2-0,0-0
+?,(Tue) Oct/27 2009 (43),Angers (12),Brest (12),1-2,0-1
+?,(Tue) Oct/27 2009 (43),Arles (12),Dijon (12),0-0,0-0
+?,(Tue) Oct/27 2009 (43),Caen (12),Vannes (12),4-2,1-1
+?,(Tue) Oct/27 2009 (43),Chateauroux (12),Metz (12),1-2,0-1
+?,(Tue) Oct/27 2009 (43),Clermont (12),Istres (12),2-0,0-0
+?,(Tue) Oct/27 2009 (43),Nantes (12),Laval (12),0-0,0-0
+?,(Tue) Oct/27 2009 (43),Sedan (12),Bastia (12),1-0,1-0
+?,(Tue) Oct/27 2009 (43),Strasbourg (12),Tours (12),0-1,0-0
+?,(Fri) Oct/30 2009 (43),Bastia (13),Ajaccio (13),1-0,0-0
+?,(Fri) Oct/30 2009 (43),Brest (13),Caen (13),2-0,2-0
+?,(Fri) Oct/30 2009 (43),Dijon (13),Chateauroux (13),5-4,1-3
+?,(Fri) Oct/30 2009 (43),Istres (13),Sedan (13),3-1,2-0
+?,(Fri) Oct/30 2009 (43),Laval (13),Guingamp (13),3-0,1-0
+?,(Fri) Oct/30 2009 (43),Metz (13),Strasbourg (13),1-0,0-0
+?,(Fri) Oct/30 2009 (43),Nimes (13),Arles (13),1-1,0-0
+?,(Fri) Oct/30 2009 (43),Tours (13),Clermont (13),1-1,1-1
+?,(Fri) Oct/30 2009 (43),Vannes (13),Angers (13),1-0,1-0
+?,(Mon) Nov/2 2009 (44),Le Havre (13),Nantes (13),4-0,0-0
+?,(Fri) Nov/6 2009 (44),Ajaccio (14),Dijon (14),0-0,0-0
+?,(Fri) Nov/6 2009 (44),Angers (14),Bastia (14),2-0,1-0
+?,(Fri) Nov/6 2009 (44),Arles (14),Le Havre (14),1-0,1-0
+?,(Fri) Nov/6 2009 (44),Brest (14),Vannes (14),3-4,1-2
+?,(Fri) Nov/6 2009 (44),Caen (14),Tours (14),0-0,0-0
+?,(Fri) Nov/6 2009 (44),Chateauroux (14),Laval (14),2-1,0-0
+?,(Fri) Nov/6 2009 (44),Clermont (14),Nimes (14),0-1,0-0
+?,(Fri) Nov/6 2009 (44),Sedan (14),Metz (14),1-1,1-1
+?,(Fri) Nov/6 2009 (44),Strasbourg (14),Istres (14),2-0,1-0
+?,(Mon) Nov/9 2009 (45),Nantes (14),Guingamp (14),0-2,0-1
+?,(Thu) Nov/26 2009 (47),Metz (15),Clermont (15),2-1,0-0
+?,(Fri) Nov/27 2009 (47),Bastia (15),Brest (15),1-1,1-0
+?,(Fri) Nov/27 2009 (47),Dijon (15),Strasbourg (15),0-0,0-0
+?,(Fri) Nov/27 2009 (47),Guingamp (15),Arles (15),4-1,1-0
+?,(Fri) Nov/27 2009 (47),Istres (15),Vannes (15),1-1,0-0
+?,(Fri) Nov/27 2009 (47),Laval (15),Sedan (15),1-1,0-0
+?,(Fri) Nov/27 2009 (47),Le Havre (15),Ajaccio (15),1-0,0-0
+?,(Fri) Nov/27 2009 (47),Nantes (15),Chateauroux (15),2-2,0-1
+?,(Fri) Nov/27 2009 (47),Nimes (15),Caen (15),0-4,0-2
+?,(Fri) Nov/27 2009 (47),Tours (15),Angers (15),2-0,1-0
+?,(Mon) Nov/30 2009 (48),Caen (16),Le Havre (16),2-0,1-0
+?,(Tue) Dec/1 2009 (48),Ajaccio (16),Laval (16),1-1,0-1
+?,(Tue) Dec/1 2009 (48),Angers (16),Nimes (16),1-0,0-0
+?,(Tue) Dec/1 2009 (48),Arles (16),Metz (16),2-0,1-0
+?,(Tue) Dec/1 2009 (48),Brest (16),Istres (16),1-0,1-0
+?,(Tue) Dec/1 2009 (48),Chateauroux (16),Guingamp (16),0-1,0-0
+?,(Tue) Dec/1 2009 (48),Clermont (16),Dijon (16),0-2,0-0
+?,(Tue) Dec/1 2009 (48),Sedan (16),Nantes (16),3-0,0-0
+?,(Tue) Dec/1 2009 (48),Strasbourg (16),Bastia (16),2-1,0-0
+?,(Tue) Dec/1 2009 (48),Vannes (16),Tours (16),1-2,0-2
+?,(Fri) Dec/4 2009 (48),Bastia (17),Clermont (17),1-3,0-3
+?,(Fri) Dec/4 2009 (48),Dijon (17),Vannes (17),0-0,0-0
+?,(Fri) Dec/4 2009 (48),Guingamp (17),Sedan (17),2-2,0-1
+?,(Fri) Dec/4 2009 (48),Istres (17),Caen (17),2-1,2-0
+?,(Fri) Dec/4 2009 (48),Laval (17),Angers (17),2-2,0-0
+?,(Fri) Dec/4 2009 (48),Le Havre (17),Chateauroux (17),2-2,1-0
+?,(Fri) Dec/4 2009 (48),Metz (17),Ajaccio (17),2-0,1-0
+?,(Fri) Dec/4 2009 (48),Nimes (17),Strasbourg (17),2-1,2-1
+?,(Fri) Dec/4 2009 (48),Tours (17),Brest (17),0-1,0-1
+?,(Mon) Dec/7 2009 (49),Nantes (17),Arles (17),1-0,0-0
+?,(Fri) Dec/18 2009 (50),Ajaccio (18),Nantes (18),2-1,1-1
+?,(Fri) Dec/18 2009 (50),Arles (18),Chateauroux (18),3-0,1-0
+?,(Fri) Dec/18 2009 (50),Brest (18),Nimes (18),1-0,1-0
+?,(Fri) Dec/18 2009 (50),Caen (18),Laval (18),1-1,1-0
+?,(Fri) Dec/18 2009 (50),Clermont (18),Le Havre (18),1-0,1-0
+?,(Fri) Dec/18 2009 (50),Sedan (18),Dijon (18),2-1,2-0
+?,(Fri) Dec/18 2009 (50),Strasbourg (18),Guingamp (18),2-1,1-0
+?,(Fri) Dec/18 2009 (50),Vannes (18),Bastia (18),3-0,1-0
+?,(Tue) Dec/22 2009 (51),Bastia (19),Tours (18),3-1,2-0
+?,(Tue) Dec/22 2009 (51),Chateauroux (19),Ajaccio (19),1-2,1-2
+?,(Tue) Dec/22 2009 (51),Dijon (19),Brest (19),1-3,0-1
+?,(Tue) Dec/22 2009 (51),Guingamp (19),Clermont (19),1-1,0-0
+?,(Tue) Dec/22 2009 (51),Laval (19),Vannes (19),2-1,0-0
+?,(Tue) Dec/22 2009 (51),Le Havre (19),Strasbourg (19),3-0,0-0
+?,(Tue) Dec/22 2009 (51),Nantes (19),Angers (18),1-2,1-1
+?,(Tue) Dec/22 2009 (51),Nimes (19),Istres (18),2-1,1-0
+?,(Thu) Jan/14 2010 (2),Brest (20),Le Havre (20),2-1,1-1
+?,(Fri) Jan/15 2010 (2),Ajaccio (20),Arles (19),1-0,0-0
+?,(Fri) Jan/15 2010 (2),Caen (19),Bastia (20),1-0,0-0
+?,(Fri) Jan/15 2010 (2),Clermont (20),Nantes (20),2-0,1-0
+?,(Fri) Jan/15 2010 (2),Sedan (19),Chateauroux (20),1-1,0-1
+?,(Fri) Jan/15 2010 (2),Strasbourg (20),Laval (20),4-1,2-0
+?,(Fri) Jan/15 2010 (2),Tours (19),Dijon (20),1-4,0-2
+?,(Fri) Jan/15 2010 (2),Vannes (20),Nimes (20),0-2,0-2
+?,(Sat) Jan/16 2010 (2),Angers (19),Guingamp (20),1-0,0-0
+?,(Sat) Jan/16 2010 (2),Istres (19),Metz (18),2-2,0-1
+?,(Mon) Jan/18 2010 (3),Le Havre (21),Tours (20),1-1,1-0
+?,(Tue) Jan/19 2010 (3),Ajaccio (21),Sedan (20),2-0,2-0
+?,(Tue) Jan/19 2010 (3),Arles (20),Strasbourg (21),1-1,0-1
+?,(Tue) Jan/19 2010 (3),Chateauroux (21),Angers (20),2-0,1-0
+?,(Tue) Jan/19 2010 (3),Dijon (21),Caen (20),1-1,1-0
+?,(Tue) Jan/19 2010 (3),Guingamp (21),Istres (20),0-0,0-0
+?,(Tue) Jan/19 2010 (3),Laval (21),Clermont (21),0-0,0-0
+?,(Tue) Jan/19 2010 (3),Metz (19),Brest (21),0-0,0-0
+?,(Tue) Jan/19 2010 (3),Nantes (21),Vannes (21),0-0,0-0
+?,(Tue) Jan/19 2010 (3),Nimes (21),Bastia (21),2-1,1-1
+?,(Sat) Jan/23 2010 (3),Tours (21),Istres (21),4-0,0-0
+?,(Mon) Jan/25 2010 (4),Metz (20),Caen (21),1-3,1-1
+?,(Fri) Jan/29 2010 (4),Angers (21),Le Havre (22),0-0,0-0
+?,(Fri) Jan/29 2010 (4),Bastia (22),Metz (21),1-0,0-0
+?,(Fri) Jan/29 2010 (4),Caen (22),Chateauroux (22),1-1,0-0
+?,(Fri) Jan/29 2010 (4),Clermont (22),Sedan (21),0-3,0-2
+?,(Fri) Jan/29 2010 (4),Istres (22),Nantes (22),1-0,0-0
+?,(Fri) Jan/29 2010 (4),Nimes (22),Dijon (22),2-1,0-1
+?,(Fri) Jan/29 2010 (4),Strasbourg (22),Ajaccio (22),2-0,2-0
+?,(Fri) Jan/29 2010 (4),Tours (22),Laval (22),0-3,0-1
+?,(Sat) Jan/30 2010 (4),Vannes (22),Guingamp (22),2-2,2-0
+?,(Mon) Feb/1 2010 (5),Brest (22),Arles (21),3-1,1-1
+?,(Fri) Feb/5 2010 (5),Ajaccio (23),Angers (22),0-2,0-2
+?,(Fri) Feb/5 2010 (5),Chateauroux (23),Clermont (23),1-3,0-0
+?,(Fri) Feb/5 2010 (5),Dijon (23),Istres (23),1-1,1-0
+?,(Fri) Feb/5 2010 (5),Guingamp (23),Tours (23),2-2,2-1
+?,(Fri) Feb/5 2010 (5),Laval (23),Bastia (23),1-1,0-1
+?,(Fri) Feb/5 2010 (5),Le Havre (23),Vannes (23),0-1,0-1
+?,(Fri) Feb/5 2010 (5),Metz (22),Nimes (23),3-1,2-1
+?,(Fri) Feb/5 2010 (5),Nantes (23),Brest (23),1-4,1-2
+?,(Fri) Feb/5 2010 (5),Sedan (22),Strasbourg (23),3-3,2-1
+?,(Mon) Feb/8 2010 (6),Arles (22),Caen (23),0-0,0-0
+?,(Tue) Feb/9 2010 (6),Angers (23),Metz (23),0-1,0-0
+?,(Fri) Feb/12 2010 (6),Angers (24),Arles (23),3-1,2-0
+?,(Fri) Feb/12 2010 (6),Bastia (24),Dijon (24),3-4,2-1
+?,(Fri) Feb/12 2010 (6),Caen (24),Guingamp (24),2-0,1-0
+?,(Fri) Feb/12 2010 (6),Istres (24),Laval (24),0-2,0-0
+?,(Fri) Feb/12 2010 (6),Nimes (24),Le Havre (24),1-1,0-0
+?,(Fri) Feb/12 2010 (6),Tours (24),Metz (24),1-1,1-0
+?,(Sat) Feb/13 2010 (6),Brest (24),Chateauroux (24),2-1,0-1
+?,(Sat) Feb/13 2010 (6),Vannes (24),Sedan (23),0-2,0-1
+?,(Mon) Feb/15 2010 (7),Strasbourg (24),Nantes (24),1-0,0-0
+?,(Fri) Feb/19 2010 (7),Ajaccio (24),Caen (25),2-0,0-0
+?,(Fri) Feb/19 2010 (7),Arles (24),Tours (25),1-2,0-1
+?,(Fri) Feb/19 2010 (7),Chateauroux (25),Vannes (25),0-0,0-0
+?,(Fri) Feb/19 2010 (7),Dijon (25),Metz (25),0-1,0-1
+?,(Fri) Feb/19 2010 (7),Laval (25),Nimes (25),0-0,0-0
+?,(Fri) Feb/19 2010 (7),Le Havre (25),Istres (25),2-1,0-0
+?,(Fri) Feb/19 2010 (7),Nantes (25),Bastia (25),3-1,2-1
+?,(Fri) Feb/19 2010 (7),Sedan (24),Angers (25),2-2,1-1
+?,(Fri) Feb/19 2010 (7),Strasbourg (25),Clermont (24),1-1,0-1
+?,(Sun) Feb/21 2010 (7),Guingamp (25),Brest (25),0-0,0-0
+?,(Fri) Feb/26 2010 (8),Angers (26),Clermont (25),2-1,1-1
+?,(Fri) Feb/26 2010 (8),Bastia (26),Guingamp (26),0-0,0-0
+?,(Fri) Feb/26 2010 (8),Brest (26),Sedan (25),1-3,0-2
+?,(Fri) Feb/26 2010 (8),Caen (26),Strasbourg (26),0-0,0-0
+?,(Fri) Feb/26 2010 (8),Dijon (26),Laval (26),0-0,0-0
+?,(Fri) Feb/26 2010 (8),Istres (26),Chateauroux (26),2-0,1-0
+?,(Fri) Feb/26 2010 (8),Nimes (26),Nantes (26),2-1,0-1
+?,(Fri) Feb/26 2010 (8),Tours (26),Ajaccio (25),1-3,1-0
+?,(Fri) Feb/26 2010 (8),Vannes (26),Arles (25),0-0,0-0
+?,(Mon) Mar/1 2010 (9),Metz (26),Le Havre (26),2-0,1-0
+?,(Tue) Mar/2 2010 (9),Arles (26),Sedan (26),1-0,0-0
+?,(Fri) Mar/5 2010 (9),Ajaccio (26),Vannes (27),1-1,0-0
+?,(Fri) Mar/5 2010 (9),Arles (27),Istres (27),3-0,2-0
+?,(Fri) Mar/5 2010 (9),Chateauroux (27),Bastia (27),2-2,1-2
+?,(Fri) Mar/5 2010 (9),Clermont (26),Brest (27),0-1,0-0
+?,(Fri) Mar/5 2010 (9),Guingamp (27),Nimes (27),0-0,0-0
+?,(Fri) Mar/5 2010 (9),Le Havre (27),Dijon (27),1-1,1-0
+?,(Fri) Mar/5 2010 (9),Nantes (27),Tours (27),2-1,1-0
+?,(Fri) Mar/5 2010 (9),Sedan (27),Caen (27),0-0,0-0
+?,(Fri) Mar/5 2010 (9),Strasbourg (27),Angers (27),1-2,0-0
+?,(Mon) Mar/8 2010 (10),Laval (27),Metz (27),3-3,1-1
+?,(Fri) Mar/12 2010 (10),Bastia (28),Arles (28),3-0,1-0
+?,(Fri) Mar/12 2010 (10),Brest (28),Ajaccio (27),0-1,0-1
+?,(Fri) Mar/12 2010 (10),Caen (28),Clermont (27),2-1,1-1
+?,(Fri) Mar/12 2010 (10),Dijon (28),Guingamp (28),1-0,0-0
+?,(Fri) Mar/12 2010 (10),Istres (28),Angers (28),1-1,1-1
+?,(Fri) Mar/12 2010 (10),Laval (28),Le Havre (28),4-0,2-0
+?,(Fri) Mar/12 2010 (10),Nimes (28),Chateauroux (28),1-4,1-2
+?,(Fri) Mar/12 2010 (10),Tours (28),Sedan (28),1-3,0-2
+?,(Fri) Mar/12 2010 (10),Vannes (28),Strasbourg (28),1-1,1-0
+?,(Mon) Mar/15 2010 (11),Metz (28),Nantes (28),0-0,0-0
+?,(Fri) Mar/19 2010 (11),Ajaccio (28),Istres (29),1-2,0-1
+?,(Fri) Mar/19 2010 (11),Arles (29),Laval (29),2-0,2-0
+?,(Fri) Mar/19 2010 (11),Chateauroux (29),Tours (29),0-3,0-1
+?,(Fri) Mar/19 2010 (11),Clermont (28),Vannes (29),1-0,0-0
+?,(Fri) Mar/19 2010 (11),Guingamp (29),Metz (29),2-1,1-1
+?,(Fri) Mar/19 2010 (11),Le Havre (29),Bastia (29),3-1,2-0
+?,(Fri) Mar/19 2010 (11),Nantes (29),Dijon (29),0-1,0-1
+?,(Fri) Mar/19 2010 (11),Sedan (29),Nimes (29),0-0,0-0
+?,(Fri) Mar/19 2010 (11),Strasbourg (29),Brest (29),1-0,0-0
+?,(Mon) Mar/22 2010 (12),Angers (29),Caen (29),2-2,0-1
+?,(Tue) Mar/23 2010 (12),Clermont (29),Ajaccio (29),3-0,0-0
+?,(Fri) Mar/26 2010 (12),Bastia (30),Sedan (30),2-0,2-0
+?,(Fri) Mar/26 2010 (12),Brest (30),Angers (30),2-0,2-0
+?,(Fri) Mar/26 2010 (12),Dijon (30),Arles (30),1-1,0-0
+?,(Fri) Mar/26 2010 (12),Istres (30),Clermont (30),1-3,1-1
+?,(Fri) Mar/26 2010 (12),Laval (30),Nantes (30),0-1,0-1
+?,(Fri) Mar/26 2010 (12),Metz (30),Chateauroux (30),0-0,0-0
+?,(Fri) Mar/26 2010 (12),Nimes (30),Ajaccio (30),2-0,0-0
+?,(Fri) Mar/26 2010 (12),Tours (30),Strasbourg (30),2-0,0-0
+?,(Fri) Mar/26 2010 (12),Vannes (30),Caen (30),0-3,0-2
+?,(Mon) Mar/29 2010 (13),Le Havre (30),Guingamp (30),2-1,1-0
+?,(Fri) Apr/2 2010 (13),Ajaccio (31),Bastia (31),0-1,0-1
+?,(Fri) Apr/2 2010 (13),Angers (31),Vannes (31),2-0,0-0
+?,(Fri) Apr/2 2010 (13),Arles (31),Nimes (31),2-0,1-0
+?,(Fri) Apr/2 2010 (13),Caen (31),Brest (31),1-0,0-0
+?,(Fri) Apr/2 2010 (13),Chateauroux (31),Dijon (31),1-3,0-1
+?,(Fri) Apr/2 2010 (13),Clermont (31),Tours (31),0-0,0-0
+?,(Fri) Apr/2 2010 (13),Guingamp (31),Laval (31),0-0,0-0
+?,(Fri) Apr/2 2010 (13),Nantes (31),Le Havre (31),4-1,2-1
+?,(Fri) Apr/2 2010 (13),Sedan (31),Istres (31),1-1,1-0
+?,(Mon) Apr/5 2010 (14),Strasbourg (31),Metz (31),1-1,1-0
+?,(Fri) Apr/9 2010 (14),Bastia (32),Angers (32),3-1,1-1
+?,(Fri) Apr/9 2010 (14),Dijon (32),Ajaccio (32),3-0,2-0
+?,(Fri) Apr/9 2010 (14),Istres (32),Strasbourg (32),2-0,1-0
+?,(Fri) Apr/9 2010 (14),Laval (32),Chateauroux (32),0-0,0-0
+?,(Fri) Apr/9 2010 (14),Le Havre (32),Arles (32),1-2,1-0
+?,(Fri) Apr/9 2010 (14),Metz (32),Sedan (32),1-1,1-0
+?,(Fri) Apr/9 2010 (14),Nimes (32),Clermont (32),0-1,0-1
+?,(Fri) Apr/9 2010 (14),Tours (32),Caen (32),1-1,1-1
+?,(Fri) Apr/9 2010 (14),Vannes (32),Brest (32),0-2,0-1
+?,(Mon) Apr/12 2010 (15),Guingamp (32),Nantes (32),2-0,1-0
+?,(Fri) Apr/16 2010 (15),Angers (33),Tours (33),0-1,0-0
+?,(Fri) Apr/16 2010 (15),Arles (33),Guingamp (33),1-1,0-0
+?,(Fri) Apr/16 2010 (15),Brest (33),Bastia (33),4-0,1-0
+?,(Fri) Apr/16 2010 (15),Chateauroux (33),Nantes (33),2-2,2-0
+?,(Fri) Apr/16 2010 (15),Clermont (33),Metz (33),2-0,0-0
+?,(Fri) Apr/16 2010 (15),Sedan (33),Laval (33),0-0,0-0
+?,(Fri) Apr/16 2010 (15),Strasbourg (33),Dijon (33),3-1,3-0
+?,(Fri) Apr/16 2010 (15),Vannes (33),Istres (33),2-0,0-0
+?,(Mon) Apr/19 2010 (16),Caen (33),Nimes (33),0-0,0-0
+?,(Fri) Apr/23 2010 (16),Bastia (34),Strasbourg (34),1-0,0-0
+?,(Fri) Apr/23 2010 (16),Dijon (34),Clermont (34),2-3,1-1
+?,(Fri) Apr/23 2010 (16),Guingamp (34),Chateauroux (34),1-1,0-0
+?,(Fri) Apr/23 2010 (16),Istres (34),Brest (34),1-0,1-0
+?,(Fri) Apr/23 2010 (16),Laval (34),Ajaccio (33),2-2,0-1
+?,(Fri) Apr/23 2010 (16),Metz (34),Arles (34),1-2,1-1
+?,(Fri) Apr/23 2010 (16),Nantes (34),Sedan (34),1-3,1-2
+?,(Fri) Apr/23 2010 (16),Nimes (34),Angers (34),0-1,0-0
+?,(Fri) Apr/23 2010 (16),Tours (34),Vannes (34),1-1,0-1
+?,(Mon) Apr/26 2010 (17),Le Havre (33),Caen (34),1-1,1-1
+?,(Fri) Apr/30 2010 (17),Ajaccio (34),Metz (35),1-1,0-0
+?,(Fri) Apr/30 2010 (17),Angers (35),Laval (35),2-1,1-1
+?,(Fri) Apr/30 2010 (17),Arles (35),Nantes (35),1-0,0-0
+?,(Fri) Apr/30 2010 (17),Brest (35),Tours (35),2-0,1-0
+?,(Fri) Apr/30 2010 (17),Caen (35),Istres (35),1-1,1-0
+?,(Fri) Apr/30 2010 (17),Chateauroux (35),Le Havre (34),3-1,2-0
+?,(Fri) Apr/30 2010 (17),Clermont (35),Bastia (35),0-0,0-0
+?,(Fri) Apr/30 2010 (17),Sedan (35),Guingamp (35),1-0,1-0
+?,(Fri) Apr/30 2010 (17),Strasbourg (35),Nimes (35),1-1,1-1
+?,(Fri) Apr/30 2010 (17),Vannes (35),Dijon (35),1-0,1-0
+?,(Mon) May/3 2010 (18),Metz (36),Angers (36),1-0,0-0
+?,(Tue) May/4 2010 (18),Bastia (36),Vannes (36),1-2,1-0
+?,(Tue) May/4 2010 (18),Chateauroux (36),Arles (36),3-0,1-0
+?,(Tue) May/4 2010 (18),Dijon (36),Sedan (36),3-1,1-1
+?,(Tue) May/4 2010 (18),Guingamp (36),Strasbourg (36),2-0,1-0
+?,(Tue) May/4 2010 (18),Istres (36),Tours (36),2-1,1-1
+?,(Tue) May/4 2010 (18),Laval (36),Caen (36),2-1,1-1
+?,(Tue) May/4 2010 (18),Le Havre (35),Clermont (36),2-1,1-0
+?,(Tue) May/4 2010 (18),Nantes (36),Ajaccio (35),1-0,0-0
+?,(Tue) May/4 2010 (18),Nimes (36),Brest (36),1-0,0-0
+?,(Fri) May/7 2010 (18),Ajaccio (36),Chateauroux (37),1-0,1-0
+?,(Fri) May/7 2010 (18),Angers (37),Nantes (37),2-0,1-0
+?,(Fri) May/7 2010 (18),Brest (37),Dijon (37),1-4,0-1
+?,(Fri) May/7 2010 (18),Caen (37),Metz (37),0-2,0-0
+?,(Fri) May/7 2010 (18),Clermont (37),Guingamp (37),3-1,0-1
+?,(Fri) May/7 2010 (18),Istres (37),Nimes (37),2-1,1-1
+?,(Fri) May/7 2010 (18),Sedan (37),Arles (37),0-0,0-0
+?,(Fri) May/7 2010 (18),Strasbourg (37),Le Havre (36),1-1,0-0
+?,(Fri) May/7 2010 (18),Tours (37),Bastia (37),0-0,0-0
+?,(Fri) May/7 2010 (18),Vannes (37),Laval (37),2-3,1-3
+?,(Tue) May/11 2010 (19),Ajaccio (37),Le Havre (37),3-0,?
+?,(Fri) May/14 2010 (19),Arles (38),Clermont (38),1-0,1-0
+?,(Fri) May/14 2010 (19),Bastia (38),Istres (38),2-0,1-0
+?,(Fri) May/14 2010 (19),Chateauroux (38),Strasbourg (38),2-1,2-1
+?,(Fri) May/14 2010 (19),Dijon (38),Angers (38),2-2,1-0
+?,(Fri) May/14 2010 (19),Guingamp (38),Ajaccio (38),2-1,2-0
+?,(Fri) May/14 2010 (19),Laval (38),Brest (38),1-2,0-1
+?,(Fri) May/14 2010 (19),Le Havre (38),Sedan (38),3-1,3-1
+?,(Fri) May/14 2010 (19),Metz (38),Vannes (38),0-1,0-1
+?,(Fri) May/14 2010 (19),Nantes (38),Caen (38),1-3,1-1
+?,(Fri) May/14 2010 (19),Nimes (38),Tours (38),1-1,0-0

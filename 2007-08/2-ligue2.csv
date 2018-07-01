@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,2007-07-27,Bastia,Le Havre,0-2,0-1,Fri,30
-?,2007-07-27,Brest,Angers,1-0,0-0,Fri,30
-?,2007-07-27,Clermont,Chateauroux,0-0,0-0,Fri,30
-?,2007-07-27,Dijon,Ajaccio,1-1,1-1,Fri,30
-?,2007-07-27,Grenoble,Sedan,0-0,0-0,Fri,30
-?,2007-07-27,Gueugnon,Amiens,1-2,0-1,Fri,30
-?,2007-07-27,Libourne,Montpellier,1-3,0-2,Fri,30
-?,2007-07-27,Niort,Boulogne,2-1,1-1,Fri,30
-?,2007-07-27,Troyes,Guingamp,1-0,0-0,Fri,30
-?,2007-07-30,Nantes,Reims,5-0,2-0,Mon,31
-?,2007-08-03,Ajaccio,Boulogne,2-2,1-1,Fri,31
-?,2007-08-03,Angers,Grenoble,0-2,0-1,Fri,31
-?,2007-08-03,Chateauroux,Nantes,1-2,1-1,Fri,31
-?,2007-08-03,Clermont,Bastia,2-3,1-0,Fri,31
-?,2007-08-03,Guingamp,Niort,0-0,0-0,Fri,31
-?,2007-08-03,Le Havre,Brest,1-1,1-0,Fri,31
-?,2007-08-03,Montpellier,Dijon,1-1,1-1,Fri,31
-?,2007-08-03,Reims,Libourne,2-1,2-1,Fri,31
-?,2007-08-03,Sedan,Gueugnon,3-1,0-0,Fri,31
-?,2007-08-06,Amiens,Troyes,0-0,0-0,Mon,32
-?,2007-08-10,Ajaccio,Guingamp,1-1,1-0,Fri,32
-?,2007-08-10,Boulogne,Montpellier,2-0,1-0,Fri,32
-?,2007-08-10,Dijon,Amiens,1-0,0-0,Fri,32
-?,2007-08-10,Grenoble,Reims,2-0,2-0,Fri,32
-?,2007-08-10,Gueugnon,Chateauroux,3-1,0-0,Fri,32
-?,2007-08-10,Libourne,Le Havre,3-1,1-0,Fri,32
-?,2007-08-10,Nantes,Clermont,2-2,2-1,Fri,32
-?,2007-08-10,Niort,Sedan,0-1,0-1,Fri,32
-?,2007-08-10,Troyes,Angers,2-2,2-2,Fri,32
-?,2007-08-13,Brest,Bastia,3-1,2-1,Mon,33
-?,2007-08-17,Amiens,Grenoble,1-2,1-1,Fri,33
-?,2007-08-17,Angers,Ajaccio,1-0,0-0,Fri,33
-?,2007-08-17,Bastia,Gueugnon,1-0,1-0,Fri,33
-?,2007-08-17,Chateauroux,Libourne,2-0,0-0,Fri,33
-?,2007-08-17,Clermont,Brest,1-0,1-0,Fri,33
-?,2007-08-17,Guingamp,Boulogne,4-2,2-0,Fri,33
-?,2007-08-17,Montpellier,Troyes,3-0,2-0,Fri,33
-?,2007-08-17,Reims,Niort,3-1,1-0,Fri,33
-?,2007-08-17,Sedan,Dijon,0-1,0-1,Fri,33
-?,2007-08-20,Le Havre,Nantes,1-0,1-0,Mon,34
-?,2007-08-24,Ajaccio,Sedan,2-1,1-0,Fri,34
-?,2007-08-24,Boulogne,Angers,1-0,0-0,Fri,34
-?,2007-08-24,Dijon,Chateauroux,0-0,0-0,Fri,34
-?,2007-08-24,Grenoble,Le Havre,0-2,0-2,Fri,34
-?,2007-08-24,Gueugnon,Reims,0-1,0-0,Fri,34
-?,2007-08-24,Guingamp,Amiens,1-0,0-0,Fri,34
-?,2007-08-24,Libourne,Clermont,1-1,1-1,Fri,34
-?,2007-08-24,Nantes,Brest,3-0,3-0,Fri,34
-?,2007-08-24,Niort,Montpellier,1-0,1-0,Fri,34
-?,2007-08-24,Troyes,Bastia,2-0,0-0,Fri,34
-?,2007-08-31,Amiens,Niort,0-2,0-2,Fri,35
-?,2007-08-31,Angers,Guingamp,2-1,1-0,Fri,35
-?,2007-08-31,Brest,Libourne,1-0,1-0,Fri,35
-?,2007-08-31,Chateauroux,Troyes,1-3,1-1,Fri,35
-?,2007-08-31,Clermont,Grenoble,0-0,0-0,Fri,35
-?,2007-08-31,Le Havre,Gueugnon,4-1,2-0,Fri,35
-?,2007-08-31,Montpellier,Ajaccio,1-0,1-0,Fri,35
-?,2007-08-31,Reims,Dijon,0-1,0-0,Fri,35
-?,2007-08-31,Sedan,Boulogne,1-1,0-1,Fri,35
-?,2007-09-03,Bastia,Nantes,0-1,0-1,Mon,36
-?,2007-09-14,Ajaccio,Amiens,1-0,1-0,Fri,37
-?,2007-09-14,Boulogne,Chateauroux,1-3,0-0,Fri,37
-?,2007-09-14,Dijon,Le Havre,2-3,1-0,Fri,37
-?,2007-09-14,Grenoble,Brest,3-1,2-1,Fri,37
-?,2007-09-14,Gueugnon,Clermont,1-1,0-1,Fri,37
-?,2007-09-14,Guingamp,Montpellier,0-2,0-0,Fri,37
-?,2007-09-14,Libourne,Bastia,2-4,0-0,Fri,37
-?,2007-09-14,Niort,Angers,0-1,0-0,Fri,37
-?,2007-09-14,Troyes,Reims,4-2,1-0,Fri,37
-?,2007-09-17,Nantes,Sedan,2-1,1-1,Mon,38
-?,2007-09-21,Amiens,Boulogne,2-1,2-0,Fri,38
-?,2007-09-21,Angers,Montpellier,1-1,1-0,Fri,38
-?,2007-09-21,Bastia,Grenoble,0-0,0-0,Fri,38
-?,2007-09-21,Brest,Gueugnon,2-1,2-0,Fri,38
-?,2007-09-21,Chateauroux,Niort,1-0,0-0,Fri,38
-?,2007-09-21,Clermont,Dijon,3-0,1-0,Fri,38
-?,2007-09-21,Le Havre,Troyes,0-0,0-0,Fri,38
-?,2007-09-21,Reims,Ajaccio,0-0,0-0,Fri,38
-?,2007-09-21,Sedan,Guingamp,1-0,0-0,Fri,38
-?,2007-09-24,Libourne,Nantes,2-3,0-2,Mon,39
-?,2007-09-28,Ajaccio,Le Havre,0-3,0-0,Fri,39
-?,2007-09-28,Boulogne,Reims,1-0,0-0,Fri,39
-?,2007-09-28,Dijon,Brest,2-2,0-0,Fri,39
-?,2007-09-28,Gueugnon,Libourne,2-2,1-0,Fri,39
-?,2007-09-28,Guingamp,Chateauroux,2-2,1-1,Fri,39
-?,2007-09-28,Niort,Bastia,1-3,1-2,Fri,39
-?,2007-09-29,Angers,Amiens,2-0,2-0,Sat,39
-?,2007-09-29,Troyes,Clermont,2-2,0-0,Sat,39
-?,2007-10-01,Grenoble,Nantes,0-3,0-2,Mon,40
-?,2007-10-02,Amiens,Montpellier,1-1,0-0,Tue,40
-?,2007-10-02,Bastia,Dijon,0-0,0-0,Tue,40
-?,2007-10-02,Brest,Troyes,0-0,0-0,Tue,40
-?,2007-10-02,Chateauroux,Ajaccio,0-0,0-0,Tue,40
-?,2007-10-02,Clermont,Boulogne,0-0,0-0,Tue,40
-?,2007-10-02,Le Havre,Niort,1-1,0-0,Tue,40
-?,2007-10-02,Reims,Guingamp,3-2,1-1,Tue,40
-?,2007-10-02,Sedan,Angers,2-2,1-0,Tue,40
-?,2007-10-04,Libourne,Grenoble,1-2,1-2,Thu,40
-?,2007-10-04,Nantes,Gueugnon,0-0,0-0,Thu,40
-?,2007-10-05,Ajaccio,Clermont,3-1,0-1,Fri,40
-?,2007-10-05,Amiens,Sedan,2-1,1-0,Fri,40
-?,2007-10-05,Angers,Reims,1-0,1-0,Fri,40
-?,2007-10-05,Boulogne,Le Havre,0-3,0-1,Fri,40
-?,2007-10-05,Guingamp,Bastia,0-1,0-0,Fri,40
-?,2007-10-05,Montpellier,Chateauroux,1-0,1-0,Fri,40
-?,2007-10-05,Niort,Brest,0-1,0-0,Fri,40
-?,2007-10-07,Grenoble,Gueugnon,3-1,1-1,Sun,40
-?,2007-10-07,Troyes,Libourne,2-0,1-0,Sun,40
-?,2007-10-08,Dijon,Nantes,0-0,0-0,Mon,41
-?,2007-10-19,Bastia,Boulogne,4-0,2-0,Fri,42
-?,2007-10-19,Brest,Ajaccio,0-1,0-1,Fri,42
-?,2007-10-19,Chateauroux,Sedan,1-1,1-0,Fri,42
-?,2007-10-19,Clermont,Angers,2-0,1-0,Fri,42
-?,2007-10-19,Grenoble,Guingamp,0-0,0-0,Fri,42
-?,2007-10-19,Gueugnon,Dijon,4-0,1-0,Fri,42
-?,2007-10-19,Libourne,Niort,0-2,0-1,Fri,42
-?,2007-10-19,Nantes,Troyes,2-0,1-0,Fri,42
-?,2007-10-19,Reims,Montpellier,2-1,2-0,Fri,42
-?,2007-10-22,Le Havre,Amiens,2-2,1-1,Mon,43
-?,2007-10-26,Ajaccio,Bastia,1-3,0-1,Fri,43
-?,2007-10-26,Amiens,Chateauroux,1-2,0-1,Fri,43
-?,2007-10-26,Angers,Le Havre,1-2,0-1,Fri,43
-?,2007-10-26,Boulogne,Gueugnon,0-0,0-0,Fri,43
-?,2007-10-26,Dijon,Libourne,3-1,1-0,Fri,43
-?,2007-10-26,Guingamp,Brest,1-0,0-0,Fri,43
-?,2007-10-26,Montpellier,Clermont,2-3,2-2,Fri,43
-?,2007-10-26,Sedan,Reims,2-1,1-1,Fri,43
-?,2007-10-26,Troyes,Grenoble,2-2,0-1,Fri,43
-?,2007-10-29,Niort,Nantes,0-1,0-0,Mon,44
-?,2007-11-02,Brest,Sedan,1-1,1-0,Fri,44
-?,2007-11-02,Chateauroux,Angers,2-2,1-1,Fri,44
-?,2007-11-02,Grenoble,Dijon,2-0,1-0,Fri,44
-?,2007-11-02,Gueugnon,Troyes,1-1,1-0,Fri,44
-?,2007-11-02,Libourne,Boulogne,2-2,0-1,Fri,44
-?,2007-11-02,Nantes,Ajaccio,2-1,0-1,Fri,44
-?,2007-11-02,Reims,Amiens,0-0,0-0,Fri,44
-?,2007-11-03,Bastia,Montpellier,1-1,0-1,Sat,44
-?,2007-11-03,Le Havre,Guingamp,2-1,2-1,Sat,44
-?,2007-11-04,Clermont,Niort,1-0,0-0,Sun,44
-?,2007-11-05,Boulogne,Nantes,4-0,2-0,Mon,45
-?,2007-11-06,Ajaccio,Libourne,2-3,0-2,Tue,45
-?,2007-11-06,Amiens,Bastia,1-1,0-0,Tue,45
-?,2007-11-06,Angers,Gueugnon,2-0,2-0,Tue,45
-?,2007-11-06,Chateauroux,Reims,0-1,0-0,Tue,45
-?,2007-11-06,Montpellier,Brest,2-1,1-0,Tue,45
-?,2007-11-06,Sedan,Le Havre,2-1,0-0,Tue,45
-?,2007-11-06,Troyes,Dijon,3-0,1-0,Tue,45
-?,2007-11-07,Guingamp,Clermont,0-0,0-0,Wed,45
-?,2007-11-07,Niort,Grenoble,2-1,1-1,Wed,45
-?,2007-11-09,Bastia,Sedan,3-1,2-1,Fri,45
-?,2007-11-09,Brest,Reims,1-0,1-0,Fri,45
-?,2007-11-09,Dijon,Boulogne,0-2,0-0,Fri,45
-?,2007-11-09,Gueugnon,Ajaccio,0-2,0-0,Fri,45
-?,2007-11-09,Le Havre,Chateauroux,2-0,1-0,Fri,45
-?,2007-11-09,Nantes,Angers,1-1,0-1,Fri,45
-?,2007-11-10,Clermont,Amiens,4-2,2-0,Sat,45
-?,2007-11-10,Libourne,Guingamp,2-1,2-1,Sat,45
-?,2007-11-10,Troyes,Niort,1-1,0-0,Sat,45
-?,2007-11-12,Grenoble,Montpellier,2-0,1-0,Mon,46
-?,2007-11-17,Montpellier,Sedan,0-0,0-0,Sat,46
-?,2007-11-30,Ajaccio,Grenoble,2-1,1-1,Fri,48
-?,2007-11-30,Amiens,Brest,1-1,1-0,Fri,48
-?,2007-11-30,Angers,Libourne,1-0,0-0,Fri,48
-?,2007-11-30,Boulogne,Troyes,1-2,0-0,Fri,48
-?,2007-11-30,Chateauroux,Bastia,1-1,0-1,Fri,48
-?,2007-11-30,Guingamp,Dijon,0-0,0-0,Fri,48
-?,2007-11-30,Niort,Gueugnon,2-2,2-2,Fri,48
-?,2007-11-30,Reims,Le Havre,3-3,2-1,Fri,48
-?,2007-11-30,Sedan,Clermont,2-2,1-1,Fri,48
-?,2007-12-03,Montpellier,Nantes,0-0,0-0,Mon,49
-?,2007-12-07,Bastia,Angers,0-1,0-1,Fri,49
-?,2007-12-07,Brest,Chateauroux,2-1,1-1,Fri,49
-?,2007-12-07,Clermont,Reims,4-1,0-0,Fri,49
-?,2007-12-07,Dijon,Niort,1-3,1-2,Fri,49
-?,2007-12-07,Grenoble,Boulogne,1-2,1-0,Fri,49
-?,2007-12-07,Gueugnon,Guingamp,0-1,0-1,Fri,49
-?,2007-12-07,Libourne,Sedan,1-1,1-1,Fri,49
-?,2007-12-07,Nantes,Amiens,3-1,0-1,Fri,49
-?,2007-12-07,Troyes,Ajaccio,0-1,0-0,Fri,49
-?,2007-12-10,Le Havre,Montpellier,0-0,0-0,Mon,50
-?,2007-12-21,Ajaccio,Niort,2-1,0-1,Fri,51
-?,2007-12-21,Angers,Dijon,0-0,0-0,Fri,51
-?,2007-12-21,Boulogne,Brest,2-0,2-0,Fri,51
-?,2007-12-21,Chateauroux,Grenoble,1-0,1-0,Fri,51
-?,2007-12-21,Montpellier,Gueugnon,0-0,0-0,Fri,51
-?,2007-12-22,Guingamp,Nantes,0-0,0-0,Sat,51
-?,2008-01-11,Bastia,Clermont,0-0,0-0,Fri,1
-?,2008-01-11,Boulogne,Ajaccio,0-0,0-0,Fri,1
-?,2008-01-11,Dijon,Montpellier,0-2,0-0,Fri,1
-?,2008-01-11,Grenoble,Angers,0-0,0-0,Fri,1
-?,2008-01-11,Gueugnon,Sedan,2-3,1-1,Fri,1
-?,2008-01-11,Libourne,Reims,1-1,1-1,Fri,1
-?,2008-01-11,Nantes,Chateauroux,2-1,1-0,Fri,1
-?,2008-01-11,Niort,Guingamp,1-3,0-1,Fri,1
-?,2008-01-11,Troyes,Amiens,1-0,1-0,Fri,1
-?,2008-01-14,Brest,Le Havre,0-2,0-0,Mon,2
-?,2008-01-18,Amiens,Dijon,2-2,0-2,Fri,2
-?,2008-01-18,Angers,Troyes,0-1,0-0,Fri,2
-?,2008-01-18,Bastia,Brest,4-0,1-0,Fri,2
-?,2008-01-18,Chateauroux,Gueugnon,1-1,0-0,Fri,2
-?,2008-01-18,Guingamp,Ajaccio,1-1,0-1,Fri,2
-?,2008-01-18,Le Havre,Libourne,1-1,0-1,Fri,2
-?,2008-01-18,Montpellier,Boulogne,3-0,0-0,Fri,2
-?,2008-01-18,Reims,Grenoble,3-4,2-3,Fri,2
-?,2008-01-18,Sedan,Niort,1-0,0-0,Fri,2
-?,2008-01-21,Clermont,Nantes,2-1,1-1,Mon,3
-?,2008-01-25,Ajaccio,Angers,1-1,0-0,Fri,3
-?,2008-01-25,Boulogne,Guingamp,0-2,0-1,Fri,3
-?,2008-01-25,Brest,Clermont,1-1,0-0,Fri,3
-?,2008-01-25,Dijon,Sedan,1-1,0-1,Fri,3
-?,2008-01-25,Grenoble,Amiens,2-2,2-2,Fri,3
-?,2008-01-25,Gueugnon,Bastia,0-1,0-0,Fri,3
-?,2008-01-25,Libourne,Chateauroux,1-0,0-0,Fri,3
-?,2008-01-25,Niort,Reims,0-1,0-1,Fri,3
-?,2008-01-25,Troyes,Montpellier,2-1,1-0,Fri,3
-?,2008-01-28,Nantes,Le Havre,0-1,0-0,Mon,4
-?,2008-01-29,Amiens,Libourne,1-0,1-0,Tue,4
-?,2008-01-29,Sedan,Troyes,0-1,0-1,Tue,4
-?,2008-02-01,Le Havre,Clermont,1-0,0-0,Fri,4
-?,2008-02-08,Amiens,Guingamp,3-1,1-1,Fri,5
-?,2008-02-08,Angers,Boulogne,2-1,1-0,Fri,5
-?,2008-02-08,Bastia,Troyes,1-0,1-0,Fri,5
-?,2008-02-08,Chateauroux,Dijon,2-0,0-0,Fri,5
-?,2008-02-08,Clermont,Libourne,1-1,1-0,Fri,5
-?,2008-02-08,Le Havre,Grenoble,0-0,0-0,Fri,5
-?,2008-02-08,Montpellier,Niort,1-0,0-0,Fri,5
-?,2008-02-08,Reims,Gueugnon,2-1,1-1,Fri,5
-?,2008-02-08,Sedan,Ajaccio,2-1,1-1,Fri,5
-?,2008-02-11,Brest,Nantes,1-2,0-1,Mon,6
-?,2008-02-15,Ajaccio,Montpellier,2-1,1-0,Fri,6
-?,2008-02-15,Boulogne,Sedan,0-1,0-0,Fri,6
-?,2008-02-15,Dijon,Reims,2-2,1-0,Fri,6
-?,2008-02-15,Grenoble,Clermont,2-0,2-0,Fri,6
-?,2008-02-15,Gueugnon,Le Havre,3-4,1-2,Fri,6
-?,2008-02-15,Guingamp,Angers,1-0,0-0,Fri,6
-?,2008-02-15,Libourne,Brest,0-0,0-0,Fri,6
-?,2008-02-15,Niort,Amiens,1-3,1-1,Fri,6
-?,2008-02-15,Troyes,Chateauroux,2-0,1-0,Fri,6
-?,2008-02-18,Nantes,Bastia,2-0,0-0,Mon,7
-?,2008-02-22,Amiens,Ajaccio,4-0,3-0,Fri,7
-?,2008-02-22,Angers,Niort,1-1,0-0,Fri,7
-?,2008-02-22,Bastia,Libourne,2-1,1-1,Fri,7
-?,2008-02-22,Brest,Grenoble,1-0,0-0,Fri,7
-?,2008-02-22,Chateauroux,Boulogne,1-0,0-0,Fri,7
-?,2008-02-22,Clermont,Gueugnon,1-0,0-0,Fri,7
-?,2008-02-22,Le Havre,Dijon,1-0,1-0,Fri,7
-?,2008-02-22,Montpellier,Guingamp,0-0,0-0,Fri,7
-?,2008-02-22,Reims,Troyes,0-1,0-0,Fri,7
-?,2008-02-25,Sedan,Nantes,1-2,0-0,Mon,8
-?,2008-02-29,Ajaccio,Reims,0-0,0-0,Fri,8
-?,2008-02-29,Boulogne,Amiens,2-1,0-1,Fri,8
-?,2008-02-29,Dijon,Clermont,3-1,1-0,Fri,8
-?,2008-02-29,Grenoble,Bastia,1-0,0-0,Fri,8
-?,2008-02-29,Gueugnon,Brest,0-1,0-1,Fri,8
-?,2008-02-29,Guingamp,Sedan,2-1,2-0,Fri,8
-?,2008-02-29,Montpellier,Angers,1-0,0-0,Fri,8
-?,2008-02-29,Nantes,Libourne,2-2,1-1,Fri,8
-?,2008-02-29,Niort,Chateauroux,2-1,0-0,Fri,8
-?,2008-03-03,Troyes,Le Havre,4-1,0-1,Mon,9
-?,2008-03-07,Amiens,Angers,2-0,0-0,Fri,9
-?,2008-03-07,Bastia,Niort,2-2,1-0,Fri,9
-?,2008-03-07,Brest,Dijon,0-0,0-0,Fri,9
-?,2008-03-07,Chateauroux,Guingamp,0-0,0-0,Fri,9
-?,2008-03-07,Clermont,Troyes,1-2,1-1,Fri,9
-?,2008-03-07,Le Havre,Ajaccio,2-0,0-0,Fri,9
-?,2008-03-07,Libourne,Gueugnon,2-0,1-0,Fri,9
-?,2008-03-07,Reims,Boulogne,4-1,3-0,Fri,9
-?,2008-03-07,Sedan,Montpellier,3-1,2-1,Fri,9
-?,2008-03-10,Nantes,Grenoble,1-0,1-0,Mon,10
-?,2008-03-14,Ajaccio,Chateauroux,0-1,0-1,Fri,10
-?,2008-03-14,Angers,Sedan,1-1,0-1,Fri,10
-?,2008-03-14,Boulogne,Clermont,1-2,1-1,Fri,10
-?,2008-03-14,Dijon,Bastia,2-1,0-0,Fri,10
-?,2008-03-14,Guingamp,Reims,2-1,1-0,Fri,10
-?,2008-03-14,Montpellier,Amiens,2-0,1-0,Fri,10
-?,2008-03-14,Niort,Le Havre,0-3,0-2,Fri,10
-?,2008-03-14,Troyes,Brest,1-3,0-1,Fri,10
-?,2008-03-15,Grenoble,Libourne,1-0,0-0,Sat,10
-?,2008-03-17,Gueugnon,Nantes,1-1,0-1,Mon,11
-?,2008-03-21,Bastia,Guingamp,0-1,0-1,Fri,11
-?,2008-03-21,Brest,Niort,4-2,3-1,Fri,11
-?,2008-03-21,Chateauroux,Montpellier,1-0,1-0,Fri,11
-?,2008-03-21,Clermont,Ajaccio,2-0,2-0,Fri,11
-?,2008-03-21,Gueugnon,Grenoble,1-1,0-0,Fri,11
-?,2008-03-21,Libourne,Troyes,2-0,0-0,Fri,11
-?,2008-03-21,Nantes,Dijon,2-1,1-1,Fri,11
-?,2008-03-21,Reims,Angers,0-1,0-0,Fri,11
-?,2008-03-22,Sedan,Amiens,1-1,1-0,Sat,11
-?,2008-03-24,Le Havre,Boulogne,2-0,1-0,Mon,12
-?,2008-03-28,Ajaccio,Brest,1-1,1-0,Fri,12
-?,2008-03-28,Amiens,Le Havre,1-3,1-1,Fri,12
-?,2008-03-28,Angers,Clermont,2-1,2-1,Fri,12
-?,2008-03-28,Boulogne,Bastia,2-0,0-0,Fri,12
-?,2008-03-28,Dijon,Gueugnon,2-1,1-0,Fri,12
-?,2008-03-28,Guingamp,Grenoble,1-2,0-0,Fri,12
-?,2008-03-28,Montpellier,Reims,0-0,0-0,Fri,12
-?,2008-03-28,Niort,Libourne,2-1,1-0,Fri,12
-?,2008-03-30,Sedan,Chateauroux,2-1,1-1,Sun,12
-?,2008-03-31,Troyes,Nantes,0-2,0-0,Mon,13
-?,2008-04-01,Reims,Bastia,1-2,1-2,Tue,13
-?,2008-04-04,Brest,Guingamp,1-1,0-1,Fri,13
-?,2008-04-04,Chateauroux,Amiens,1-1,0-1,Fri,13
-?,2008-04-04,Clermont,Montpellier,3-2,3-1,Fri,13
-?,2008-04-04,Gueugnon,Boulogne,0-1,0-0,Fri,13
-?,2008-04-04,Le Havre,Angers,3-2,1-1,Fri,13
-?,2008-04-04,Libourne,Dijon,2-0,2-0,Fri,13
-?,2008-04-04,Nantes,Niort,1-1,1-1,Fri,13
-?,2008-04-04,Reims,Sedan,3-1,2-1,Fri,13
-?,2008-04-05,Bastia,Ajaccio,0-1,0-0,Sat,13
-?,2008-04-07,Grenoble,Troyes,2-0,1-0,Mon,14
-?,2008-04-10,Montpellier,Bastia,2-1,1-1,Thu,14
-?,2008-04-11,Ajaccio,Nantes,2-1,1-1,Fri,14
-?,2008-04-11,Amiens,Reims,1-0,0-0,Fri,14
-?,2008-04-11,Angers,Chateauroux,3-0,1-0,Fri,14
-?,2008-04-11,Boulogne,Libourne,1-0,0-0,Fri,14
-?,2008-04-11,Dijon,Grenoble,0-0,0-0,Fri,14
-?,2008-04-11,Guingamp,Le Havre,1-1,1-0,Fri,14
-?,2008-04-11,Niort,Clermont,1-0,0-0,Fri,14
-?,2008-04-11,Sedan,Brest,2-0,1-0,Fri,14
-?,2008-04-11,Troyes,Gueugnon,2-2,2-0,Fri,14
-?,2008-04-14,Nantes,Boulogne,3-0,1-0,Mon,15
-?,2008-04-15,Brest,Montpellier,1-0,1-0,Tue,15
-?,2008-04-15,Clermont,Guingamp,3-3,1-1,Tue,15
-?,2008-04-15,Grenoble,Niort,3-1,1-0,Tue,15
-?,2008-04-15,Gueugnon,Angers,2-1,1-0,Tue,15
-?,2008-04-15,Libourne,Ajaccio,1-2,1-1,Tue,15
-?,2008-04-15,Reims,Chateauroux,2-0,0-0,Tue,15
-?,2008-04-18,Ajaccio,Gueugnon,2-0,0-0,Fri,15
-?,2008-04-18,Amiens,Clermont,0-0,0-0,Fri,15
-?,2008-04-18,Boulogne,Dijon,0-1,0-1,Fri,15
-?,2008-04-18,Chateauroux,Le Havre,0-0,0-0,Fri,15
-?,2008-04-18,Guingamp,Libourne,1-1,1-1,Fri,15
-?,2008-04-18,Montpellier,Grenoble,0-1,0-0,Fri,15
-?,2008-04-18,Niort,Troyes,0-0,0-0,Fri,15
-?,2008-04-18,Reims,Brest,0-0,0-0,Fri,15
-?,2008-04-19,Sedan,Bastia,0-0,0-0,Sat,15
-?,2008-04-21,Angers,Nantes,0-0,0-0,Mon,16
-?,2008-04-22,Bastia,Amiens,1-0,0-0,Tue,16
-?,2008-04-22,Dijon,Troyes,2-2,2-1,Tue,16
-?,2008-04-22,Le Havre,Sedan,0-0,0-0,Tue,16
-?,2008-04-25,Bastia,Chateauroux,2-3,0-2,Fri,16
-?,2008-04-25,Brest,Amiens,1-0,0-0,Fri,16
-?,2008-04-25,Clermont,Sedan,2-1,1-0,Fri,16
-?,2008-04-25,Dijon,Guingamp,1-0,1-0,Fri,16
-?,2008-04-25,Gueugnon,Niort,1-0,1-0,Fri,16
-?,2008-04-25,Le Havre,Reims,2-0,0-0,Fri,16
-?,2008-04-25,Libourne,Angers,1-1,1-1,Fri,16
-?,2008-04-25,Nantes,Montpellier,1-1,0-0,Fri,16
-?,2008-04-25,Troyes,Boulogne,2-2,2-1,Fri,16
-?,2008-04-28,Grenoble,Ajaccio,0-0,0-0,Mon,17
-?,2008-05-02,Ajaccio,Troyes,1-0,1-0,Fri,17
-?,2008-05-02,Amiens,Nantes,2-1,2-0,Fri,17
-?,2008-05-02,Angers,Bastia,1-1,1-1,Fri,17
-?,2008-05-02,Chateauroux,Brest,1-2,0-1,Fri,17
-?,2008-05-02,Guingamp,Gueugnon,0-1,0-1,Fri,17
-?,2008-05-02,Montpellier,Le Havre,0-0,0-0,Fri,17
-?,2008-05-02,Niort,Dijon,3-0,1-0,Fri,17
-?,2008-05-02,Reims,Clermont,0-0,0-0,Fri,17
-?,2008-05-02,Sedan,Libourne,1-0,0-0,Fri,17
-?,2008-05-05,Boulogne,Grenoble,0-1,0-1,Mon,18
-?,2008-05-12,Bastia,Reims,1-2,0-1,Mon,19
-?,2008-05-12,Brest,Boulogne,3-0,0-0,Mon,19
-?,2008-05-12,Clermont,Le Havre,1-0,0-0,Mon,19
-?,2008-05-12,Dijon,Angers,1-3,0-2,Mon,19
-?,2008-05-12,Grenoble,Chateauroux,0-0,0-0,Mon,19
-?,2008-05-12,Gueugnon,Montpellier,1-2,1-1,Mon,19
-?,2008-05-12,Libourne,Amiens,2-5,2-2,Mon,19
-?,2008-05-12,Nantes,Guingamp,1-1,0-1,Mon,19
-?,2008-05-12,Niort,Ajaccio,2-0,1-0,Mon,19
-?,2008-05-12,Troyes,Sedan,0-1,0-1,Mon,19
-?,2008-05-16,Ajaccio,Dijon,1-1,0-0,Fri,19
-?,2008-05-16,Amiens,Gueugnon,4-4,2-0,Fri,19
-?,2008-05-16,Angers,Brest,0-0,0-0,Fri,19
-?,2008-05-16,Boulogne,Niort,1-0,0-0,Fri,19
-?,2008-05-16,Chateauroux,Clermont,1-0,0-0,Fri,19
-?,2008-05-16,Guingamp,Troyes,5-0,3-0,Fri,19
-?,2008-05-16,Le Havre,Bastia,6-0,3-0,Fri,19
-?,2008-05-16,Montpellier,Libourne,5-0,3-0,Fri,19
-?,2008-05-16,Reims,Nantes,3-3,2-1,Fri,19
-?,2008-05-16,Sedan,Grenoble,2-1,2-1,Fri,19
+Round,Date,Team 1,Team 2,FT,HT
+?,(Fri) Jul/27 2007 (30),Bastia (1),Le Havre (1),0-2,0-1
+?,(Fri) Jul/27 2007 (30),Brest (1),Angers (1),1-0,0-0
+?,(Fri) Jul/27 2007 (30),Clermont (1),Chateauroux (1),0-0,0-0
+?,(Fri) Jul/27 2007 (30),Dijon (1),Ajaccio (1),1-1,1-1
+?,(Fri) Jul/27 2007 (30),Grenoble (1),Sedan (1),0-0,0-0
+?,(Fri) Jul/27 2007 (30),Gueugnon (1),Amiens (1),1-2,0-1
+?,(Fri) Jul/27 2007 (30),Libourne (1),Montpellier (1),1-3,0-2
+?,(Fri) Jul/27 2007 (30),Niort (1),Boulogne (1),2-1,1-1
+?,(Fri) Jul/27 2007 (30),Troyes (1),Guingamp (1),1-0,0-0
+?,(Mon) Jul/30 2007 (31),Nantes (1),Reims (1),5-0,2-0
+?,(Fri) Aug/3 2007 (31),Ajaccio (2),Boulogne (2),2-2,1-1
+?,(Fri) Aug/3 2007 (31),Angers (2),Grenoble (2),0-2,0-1
+?,(Fri) Aug/3 2007 (31),Chateauroux (2),Nantes (2),1-2,1-1
+?,(Fri) Aug/3 2007 (31),Clermont (2),Bastia (2),2-3,1-0
+?,(Fri) Aug/3 2007 (31),Guingamp (2),Niort (2),0-0,0-0
+?,(Fri) Aug/3 2007 (31),Le Havre (2),Brest (2),1-1,1-0
+?,(Fri) Aug/3 2007 (31),Montpellier (2),Dijon (2),1-1,1-1
+?,(Fri) Aug/3 2007 (31),Reims (2),Libourne (2),2-1,2-1
+?,(Fri) Aug/3 2007 (31),Sedan (2),Gueugnon (2),3-1,0-0
+?,(Mon) Aug/6 2007 (32),Amiens (2),Troyes (2),0-0,0-0
+?,(Fri) Aug/10 2007 (32),Ajaccio (3),Guingamp (3),1-1,1-0
+?,(Fri) Aug/10 2007 (32),Boulogne (3),Montpellier (3),2-0,1-0
+?,(Fri) Aug/10 2007 (32),Dijon (3),Amiens (3),1-0,0-0
+?,(Fri) Aug/10 2007 (32),Grenoble (3),Reims (3),2-0,2-0
+?,(Fri) Aug/10 2007 (32),Gueugnon (3),Chateauroux (3),3-1,0-0
+?,(Fri) Aug/10 2007 (32),Libourne (3),Le Havre (3),3-1,1-0
+?,(Fri) Aug/10 2007 (32),Nantes (3),Clermont (3),2-2,2-1
+?,(Fri) Aug/10 2007 (32),Niort (3),Sedan (3),0-1,0-1
+?,(Fri) Aug/10 2007 (32),Troyes (3),Angers (3),2-2,2-2
+?,(Mon) Aug/13 2007 (33),Brest (3),Bastia (3),3-1,2-1
+?,(Fri) Aug/17 2007 (33),Amiens (4),Grenoble (4),1-2,1-1
+?,(Fri) Aug/17 2007 (33),Angers (4),Ajaccio (4),1-0,0-0
+?,(Fri) Aug/17 2007 (33),Bastia (4),Gueugnon (4),1-0,1-0
+?,(Fri) Aug/17 2007 (33),Chateauroux (4),Libourne (4),2-0,0-0
+?,(Fri) Aug/17 2007 (33),Clermont (4),Brest (4),1-0,1-0
+?,(Fri) Aug/17 2007 (33),Guingamp (4),Boulogne (4),4-2,2-0
+?,(Fri) Aug/17 2007 (33),Montpellier (4),Troyes (4),3-0,2-0
+?,(Fri) Aug/17 2007 (33),Reims (4),Niort (4),3-1,1-0
+?,(Fri) Aug/17 2007 (33),Sedan (4),Dijon (4),0-1,0-1
+?,(Mon) Aug/20 2007 (34),Le Havre (4),Nantes (4),1-0,1-0
+?,(Fri) Aug/24 2007 (34),Ajaccio (5),Sedan (5),2-1,1-0
+?,(Fri) Aug/24 2007 (34),Boulogne (5),Angers (5),1-0,0-0
+?,(Fri) Aug/24 2007 (34),Dijon (5),Chateauroux (5),0-0,0-0
+?,(Fri) Aug/24 2007 (34),Grenoble (5),Le Havre (5),0-2,0-2
+?,(Fri) Aug/24 2007 (34),Gueugnon (5),Reims (5),0-1,0-0
+?,(Fri) Aug/24 2007 (34),Guingamp (5),Amiens (5),1-0,0-0
+?,(Fri) Aug/24 2007 (34),Libourne (5),Clermont (5),1-1,1-1
+?,(Fri) Aug/24 2007 (34),Nantes (5),Brest (5),3-0,3-0
+?,(Fri) Aug/24 2007 (34),Niort (5),Montpellier (5),1-0,1-0
+?,(Fri) Aug/24 2007 (34),Troyes (5),Bastia (5),2-0,0-0
+?,(Fri) Aug/31 2007 (35),Amiens (6),Niort (6),0-2,0-2
+?,(Fri) Aug/31 2007 (35),Angers (6),Guingamp (6),2-1,1-0
+?,(Fri) Aug/31 2007 (35),Brest (6),Libourne (6),1-0,1-0
+?,(Fri) Aug/31 2007 (35),Chateauroux (6),Troyes (6),1-3,1-1
+?,(Fri) Aug/31 2007 (35),Clermont (6),Grenoble (6),0-0,0-0
+?,(Fri) Aug/31 2007 (35),Le Havre (6),Gueugnon (6),4-1,2-0
+?,(Fri) Aug/31 2007 (35),Montpellier (6),Ajaccio (6),1-0,1-0
+?,(Fri) Aug/31 2007 (35),Reims (6),Dijon (6),0-1,0-0
+?,(Fri) Aug/31 2007 (35),Sedan (6),Boulogne (6),1-1,0-1
+?,(Mon) Sep/3 2007 (36),Bastia (6),Nantes (6),0-1,0-1
+?,(Fri) Sep/14 2007 (37),Ajaccio (7),Amiens (7),1-0,1-0
+?,(Fri) Sep/14 2007 (37),Boulogne (7),Chateauroux (7),1-3,0-0
+?,(Fri) Sep/14 2007 (37),Dijon (7),Le Havre (7),2-3,1-0
+?,(Fri) Sep/14 2007 (37),Grenoble (7),Brest (7),3-1,2-1
+?,(Fri) Sep/14 2007 (37),Gueugnon (7),Clermont (7),1-1,0-1
+?,(Fri) Sep/14 2007 (37),Guingamp (7),Montpellier (7),0-2,0-0
+?,(Fri) Sep/14 2007 (37),Libourne (7),Bastia (7),2-4,0-0
+?,(Fri) Sep/14 2007 (37),Niort (7),Angers (7),0-1,0-0
+?,(Fri) Sep/14 2007 (37),Troyes (7),Reims (7),4-2,1-0
+?,(Mon) Sep/17 2007 (38),Nantes (7),Sedan (7),2-1,1-1
+?,(Fri) Sep/21 2007 (38),Amiens (8),Boulogne (8),2-1,2-0
+?,(Fri) Sep/21 2007 (38),Angers (8),Montpellier (8),1-1,1-0
+?,(Fri) Sep/21 2007 (38),Bastia (8),Grenoble (8),0-0,0-0
+?,(Fri) Sep/21 2007 (38),Brest (8),Gueugnon (8),2-1,2-0
+?,(Fri) Sep/21 2007 (38),Chateauroux (8),Niort (8),1-0,0-0
+?,(Fri) Sep/21 2007 (38),Clermont (8),Dijon (8),3-0,1-0
+?,(Fri) Sep/21 2007 (38),Le Havre (8),Troyes (8),0-0,0-0
+?,(Fri) Sep/21 2007 (38),Reims (8),Ajaccio (8),0-0,0-0
+?,(Fri) Sep/21 2007 (38),Sedan (8),Guingamp (8),1-0,0-0
+?,(Mon) Sep/24 2007 (39),Libourne (8),Nantes (8),2-3,0-2
+?,(Fri) Sep/28 2007 (39),Ajaccio (9),Le Havre (9),0-3,0-0
+?,(Fri) Sep/28 2007 (39),Boulogne (9),Reims (9),1-0,0-0
+?,(Fri) Sep/28 2007 (39),Dijon (9),Brest (9),2-2,0-0
+?,(Fri) Sep/28 2007 (39),Gueugnon (9),Libourne (9),2-2,1-0
+?,(Fri) Sep/28 2007 (39),Guingamp (9),Chateauroux (9),2-2,1-1
+?,(Fri) Sep/28 2007 (39),Niort (9),Bastia (9),1-3,1-2
+?,(Sat) Sep/29 2007 (39),Angers (9),Amiens (9),2-0,2-0
+?,(Sat) Sep/29 2007 (39),Troyes (9),Clermont (9),2-2,0-0
+?,(Mon) Oct/1 2007 (40),Grenoble (9),Nantes (9),0-3,0-2
+?,(Tue) Oct/2 2007 (40),Amiens (10),Montpellier (9),1-1,0-0
+?,(Tue) Oct/2 2007 (40),Bastia (10),Dijon (10),0-0,0-0
+?,(Tue) Oct/2 2007 (40),Brest (10),Troyes (10),0-0,0-0
+?,(Tue) Oct/2 2007 (40),Chateauroux (10),Ajaccio (10),0-0,0-0
+?,(Tue) Oct/2 2007 (40),Clermont (10),Boulogne (10),0-0,0-0
+?,(Tue) Oct/2 2007 (40),Le Havre (10),Niort (10),1-1,0-0
+?,(Tue) Oct/2 2007 (40),Reims (10),Guingamp (10),3-2,1-1
+?,(Tue) Oct/2 2007 (40),Sedan (9),Angers (10),2-2,1-0
+?,(Thu) Oct/4 2007 (40),Libourne (10),Grenoble (10),1-2,1-2
+?,(Thu) Oct/4 2007 (40),Nantes (10),Gueugnon (10),0-0,0-0
+?,(Fri) Oct/5 2007 (40),Ajaccio (11),Clermont (11),3-1,0-1
+?,(Fri) Oct/5 2007 (40),Amiens (11),Sedan (10),2-1,1-0
+?,(Fri) Oct/5 2007 (40),Angers (11),Reims (11),1-0,1-0
+?,(Fri) Oct/5 2007 (40),Boulogne (11),Le Havre (11),0-3,0-1
+?,(Fri) Oct/5 2007 (40),Guingamp (11),Bastia (11),0-1,0-0
+?,(Fri) Oct/5 2007 (40),Montpellier (10),Chateauroux (11),1-0,1-0
+?,(Fri) Oct/5 2007 (40),Niort (11),Brest (11),0-1,0-0
+?,(Sun) Oct/7 2007 (40),Grenoble (11),Gueugnon (11),3-1,1-1
+?,(Sun) Oct/7 2007 (40),Troyes (11),Libourne (11),2-0,1-0
+?,(Mon) Oct/8 2007 (41),Dijon (11),Nantes (11),0-0,0-0
+?,(Fri) Oct/19 2007 (42),Bastia (12),Boulogne (12),4-0,2-0
+?,(Fri) Oct/19 2007 (42),Brest (12),Ajaccio (12),0-1,0-1
+?,(Fri) Oct/19 2007 (42),Chateauroux (12),Sedan (11),1-1,1-0
+?,(Fri) Oct/19 2007 (42),Clermont (12),Angers (12),2-0,1-0
+?,(Fri) Oct/19 2007 (42),Grenoble (12),Guingamp (12),0-0,0-0
+?,(Fri) Oct/19 2007 (42),Gueugnon (12),Dijon (12),4-0,1-0
+?,(Fri) Oct/19 2007 (42),Libourne (12),Niort (12),0-2,0-1
+?,(Fri) Oct/19 2007 (42),Nantes (12),Troyes (12),2-0,1-0
+?,(Fri) Oct/19 2007 (42),Reims (12),Montpellier (11),2-1,2-0
+?,(Mon) Oct/22 2007 (43),Le Havre (12),Amiens (12),2-2,1-1
+?,(Fri) Oct/26 2007 (43),Ajaccio (13),Bastia (13),1-3,0-1
+?,(Fri) Oct/26 2007 (43),Amiens (13),Chateauroux (13),1-2,0-1
+?,(Fri) Oct/26 2007 (43),Angers (13),Le Havre (13),1-2,0-1
+?,(Fri) Oct/26 2007 (43),Boulogne (13),Gueugnon (13),0-0,0-0
+?,(Fri) Oct/26 2007 (43),Dijon (13),Libourne (13),3-1,1-0
+?,(Fri) Oct/26 2007 (43),Guingamp (13),Brest (13),1-0,0-0
+?,(Fri) Oct/26 2007 (43),Montpellier (12),Clermont (13),2-3,2-2
+?,(Fri) Oct/26 2007 (43),Sedan (12),Reims (13),2-1,1-1
+?,(Fri) Oct/26 2007 (43),Troyes (13),Grenoble (13),2-2,0-1
+?,(Mon) Oct/29 2007 (44),Niort (13),Nantes (13),0-1,0-0
+?,(Fri) Nov/2 2007 (44),Brest (14),Sedan (13),1-1,1-0
+?,(Fri) Nov/2 2007 (44),Chateauroux (14),Angers (14),2-2,1-1
+?,(Fri) Nov/2 2007 (44),Grenoble (14),Dijon (14),2-0,1-0
+?,(Fri) Nov/2 2007 (44),Gueugnon (14),Troyes (14),1-1,1-0
+?,(Fri) Nov/2 2007 (44),Libourne (14),Boulogne (14),2-2,0-1
+?,(Fri) Nov/2 2007 (44),Nantes (14),Ajaccio (14),2-1,0-1
+?,(Fri) Nov/2 2007 (44),Reims (14),Amiens (14),0-0,0-0
+?,(Sat) Nov/3 2007 (44),Bastia (14),Montpellier (13),1-1,0-1
+?,(Sat) Nov/3 2007 (44),Le Havre (14),Guingamp (14),2-1,2-1
+?,(Sun) Nov/4 2007 (44),Clermont (14),Niort (14),1-0,0-0
+?,(Mon) Nov/5 2007 (45),Boulogne (15),Nantes (15),4-0,2-0
+?,(Tue) Nov/6 2007 (45),Ajaccio (15),Libourne (15),2-3,0-2
+?,(Tue) Nov/6 2007 (45),Amiens (15),Bastia (15),1-1,0-0
+?,(Tue) Nov/6 2007 (45),Angers (15),Gueugnon (15),2-0,2-0
+?,(Tue) Nov/6 2007 (45),Chateauroux (15),Reims (15),0-1,0-0
+?,(Tue) Nov/6 2007 (45),Montpellier (14),Brest (15),2-1,1-0
+?,(Tue) Nov/6 2007 (45),Sedan (14),Le Havre (15),2-1,0-0
+?,(Tue) Nov/6 2007 (45),Troyes (15),Dijon (15),3-0,1-0
+?,(Wed) Nov/7 2007 (45),Guingamp (15),Clermont (15),0-0,0-0
+?,(Wed) Nov/7 2007 (45),Niort (15),Grenoble (15),2-1,1-1
+?,(Fri) Nov/9 2007 (45),Bastia (16),Sedan (15),3-1,2-1
+?,(Fri) Nov/9 2007 (45),Brest (16),Reims (16),1-0,1-0
+?,(Fri) Nov/9 2007 (45),Dijon (16),Boulogne (16),0-2,0-0
+?,(Fri) Nov/9 2007 (45),Gueugnon (16),Ajaccio (16),0-2,0-0
+?,(Fri) Nov/9 2007 (45),Le Havre (16),Chateauroux (16),2-0,1-0
+?,(Fri) Nov/9 2007 (45),Nantes (16),Angers (16),1-1,0-1
+?,(Sat) Nov/10 2007 (45),Clermont (16),Amiens (16),4-2,2-0
+?,(Sat) Nov/10 2007 (45),Libourne (16),Guingamp (16),2-1,2-1
+?,(Sat) Nov/10 2007 (45),Troyes (16),Niort (16),1-1,0-0
+?,(Mon) Nov/12 2007 (46),Grenoble (16),Montpellier (15),2-0,1-0
+?,(Sat) Nov/17 2007 (46),Montpellier (16),Sedan (16),0-0,0-0
+?,(Fri) Nov/30 2007 (48),Ajaccio (17),Grenoble (17),2-1,1-1
+?,(Fri) Nov/30 2007 (48),Amiens (17),Brest (17),1-1,1-0
+?,(Fri) Nov/30 2007 (48),Angers (17),Libourne (17),1-0,0-0
+?,(Fri) Nov/30 2007 (48),Boulogne (17),Troyes (17),1-2,0-0
+?,(Fri) Nov/30 2007 (48),Chateauroux (17),Bastia (17),1-1,0-1
+?,(Fri) Nov/30 2007 (48),Guingamp (17),Dijon (17),0-0,0-0
+?,(Fri) Nov/30 2007 (48),Niort (17),Gueugnon (17),2-2,2-2
+?,(Fri) Nov/30 2007 (48),Reims (17),Le Havre (17),3-3,2-1
+?,(Fri) Nov/30 2007 (48),Sedan (17),Clermont (17),2-2,1-1
+?,(Mon) Dec/3 2007 (49),Montpellier (17),Nantes (17),0-0,0-0
+?,(Fri) Dec/7 2007 (49),Bastia (18),Angers (18),0-1,0-1
+?,(Fri) Dec/7 2007 (49),Brest (18),Chateauroux (18),2-1,1-1
+?,(Fri) Dec/7 2007 (49),Clermont (18),Reims (18),4-1,0-0
+?,(Fri) Dec/7 2007 (49),Dijon (18),Niort (18),1-3,1-2
+?,(Fri) Dec/7 2007 (49),Grenoble (18),Boulogne (18),1-2,1-0
+?,(Fri) Dec/7 2007 (49),Gueugnon (18),Guingamp (18),0-1,0-1
+?,(Fri) Dec/7 2007 (49),Libourne (18),Sedan (18),1-1,1-1
+?,(Fri) Dec/7 2007 (49),Nantes (18),Amiens (18),3-1,0-1
+?,(Fri) Dec/7 2007 (49),Troyes (18),Ajaccio (18),0-1,0-0
+?,(Mon) Dec/10 2007 (50),Le Havre (18),Montpellier (18),0-0,0-0
+?,(Fri) Dec/21 2007 (51),Ajaccio (19),Niort (19),2-1,0-1
+?,(Fri) Dec/21 2007 (51),Angers (19),Dijon (19),0-0,0-0
+?,(Fri) Dec/21 2007 (51),Boulogne (19),Brest (19),2-0,2-0
+?,(Fri) Dec/21 2007 (51),Chateauroux (19),Grenoble (19),1-0,1-0
+?,(Fri) Dec/21 2007 (51),Montpellier (19),Gueugnon (19),0-0,0-0
+?,(Sat) Dec/22 2007 (51),Guingamp (19),Nantes (19),0-0,0-0
+?,(Fri) Jan/11 2008 (1),Bastia (19),Clermont (19),0-0,0-0
+?,(Fri) Jan/11 2008 (1),Boulogne (20),Ajaccio (20),0-0,0-0
+?,(Fri) Jan/11 2008 (1),Dijon (20),Montpellier (20),0-2,0-0
+?,(Fri) Jan/11 2008 (1),Grenoble (20),Angers (20),0-0,0-0
+?,(Fri) Jan/11 2008 (1),Gueugnon (20),Sedan (19),2-3,1-1
+?,(Fri) Jan/11 2008 (1),Libourne (19),Reims (19),1-1,1-1
+?,(Fri) Jan/11 2008 (1),Nantes (20),Chateauroux (20),2-1,1-0
+?,(Fri) Jan/11 2008 (1),Niort (20),Guingamp (20),1-3,0-1
+?,(Fri) Jan/11 2008 (1),Troyes (19),Amiens (19),1-0,1-0
+?,(Mon) Jan/14 2008 (2),Brest (20),Le Havre (19),0-2,0-0
+?,(Fri) Jan/18 2008 (2),Amiens (20),Dijon (21),2-2,0-2
+?,(Fri) Jan/18 2008 (2),Angers (21),Troyes (20),0-1,0-0
+?,(Fri) Jan/18 2008 (2),Bastia (20),Brest (21),4-0,1-0
+?,(Fri) Jan/18 2008 (2),Chateauroux (21),Gueugnon (21),1-1,0-0
+?,(Fri) Jan/18 2008 (2),Guingamp (21),Ajaccio (21),1-1,0-1
+?,(Fri) Jan/18 2008 (2),Le Havre (20),Libourne (20),1-1,0-1
+?,(Fri) Jan/18 2008 (2),Montpellier (21),Boulogne (21),3-0,0-0
+?,(Fri) Jan/18 2008 (2),Reims (20),Grenoble (21),3-4,2-3
+?,(Fri) Jan/18 2008 (2),Sedan (20),Niort (21),1-0,0-0
+?,(Mon) Jan/21 2008 (3),Clermont (20),Nantes (21),2-1,1-1
+?,(Fri) Jan/25 2008 (3),Ajaccio (22),Angers (22),1-1,0-0
+?,(Fri) Jan/25 2008 (3),Boulogne (22),Guingamp (22),0-2,0-1
+?,(Fri) Jan/25 2008 (3),Brest (22),Clermont (21),1-1,0-0
+?,(Fri) Jan/25 2008 (3),Dijon (22),Sedan (21),1-1,0-1
+?,(Fri) Jan/25 2008 (3),Grenoble (22),Amiens (21),2-2,2-2
+?,(Fri) Jan/25 2008 (3),Gueugnon (22),Bastia (21),0-1,0-0
+?,(Fri) Jan/25 2008 (3),Libourne (21),Chateauroux (22),1-0,0-0
+?,(Fri) Jan/25 2008 (3),Niort (22),Reims (21),0-1,0-1
+?,(Fri) Jan/25 2008 (3),Troyes (21),Montpellier (22),2-1,1-0
+?,(Mon) Jan/28 2008 (4),Nantes (22),Le Havre (21),0-1,0-0
+?,(Tue) Jan/29 2008 (4),Amiens (22),Libourne (22),1-0,1-0
+?,(Tue) Jan/29 2008 (4),Sedan (22),Troyes (22),0-1,0-1
+?,(Fri) Feb/1 2008 (4),Le Havre (22),Clermont (22),1-0,0-0
+?,(Fri) Feb/8 2008 (5),Amiens (23),Guingamp (23),3-1,1-1
+?,(Fri) Feb/8 2008 (5),Angers (23),Boulogne (23),2-1,1-0
+?,(Fri) Feb/8 2008 (5),Bastia (22),Troyes (23),1-0,1-0
+?,(Fri) Feb/8 2008 (5),Chateauroux (23),Dijon (23),2-0,0-0
+?,(Fri) Feb/8 2008 (5),Clermont (23),Libourne (23),1-1,1-0
+?,(Fri) Feb/8 2008 (5),Le Havre (23),Grenoble (23),0-0,0-0
+?,(Fri) Feb/8 2008 (5),Montpellier (23),Niort (23),1-0,0-0
+?,(Fri) Feb/8 2008 (5),Reims (22),Gueugnon (23),2-1,1-1
+?,(Fri) Feb/8 2008 (5),Sedan (23),Ajaccio (23),2-1,1-1
+?,(Mon) Feb/11 2008 (6),Brest (23),Nantes (23),1-2,0-1
+?,(Fri) Feb/15 2008 (6),Ajaccio (24),Montpellier (24),2-1,1-0
+?,(Fri) Feb/15 2008 (6),Boulogne (24),Sedan (24),0-1,0-0
+?,(Fri) Feb/15 2008 (6),Dijon (24),Reims (23),2-2,1-0
+?,(Fri) Feb/15 2008 (6),Grenoble (24),Clermont (24),2-0,2-0
+?,(Fri) Feb/15 2008 (6),Gueugnon (24),Le Havre (24),3-4,1-2
+?,(Fri) Feb/15 2008 (6),Guingamp (24),Angers (24),1-0,0-0
+?,(Fri) Feb/15 2008 (6),Libourne (24),Brest (24),0-0,0-0
+?,(Fri) Feb/15 2008 (6),Niort (24),Amiens (24),1-3,1-1
+?,(Fri) Feb/15 2008 (6),Troyes (24),Chateauroux (24),2-0,1-0
+?,(Mon) Feb/18 2008 (7),Nantes (24),Bastia (23),2-0,0-0
+?,(Fri) Feb/22 2008 (7),Amiens (25),Ajaccio (25),4-0,3-0
+?,(Fri) Feb/22 2008 (7),Angers (25),Niort (25),1-1,0-0
+?,(Fri) Feb/22 2008 (7),Bastia (24),Libourne (25),2-1,1-1
+?,(Fri) Feb/22 2008 (7),Brest (25),Grenoble (25),1-0,0-0
+?,(Fri) Feb/22 2008 (7),Chateauroux (25),Boulogne (25),1-0,0-0
+?,(Fri) Feb/22 2008 (7),Clermont (25),Gueugnon (25),1-0,0-0
+?,(Fri) Feb/22 2008 (7),Le Havre (25),Dijon (25),1-0,1-0
+?,(Fri) Feb/22 2008 (7),Montpellier (25),Guingamp (25),0-0,0-0
+?,(Fri) Feb/22 2008 (7),Reims (24),Troyes (25),0-1,0-0
+?,(Mon) Feb/25 2008 (8),Sedan (25),Nantes (25),1-2,0-0
+?,(Fri) Feb/29 2008 (8),Ajaccio (26),Reims (25),0-0,0-0
+?,(Fri) Feb/29 2008 (8),Boulogne (26),Amiens (26),2-1,0-1
+?,(Fri) Feb/29 2008 (8),Dijon (26),Clermont (26),3-1,1-0
+?,(Fri) Feb/29 2008 (8),Grenoble (26),Bastia (25),1-0,0-0
+?,(Fri) Feb/29 2008 (8),Gueugnon (26),Brest (26),0-1,0-1
+?,(Fri) Feb/29 2008 (8),Guingamp (26),Sedan (26),2-1,2-0
+?,(Fri) Feb/29 2008 (8),Montpellier (26),Angers (26),1-0,0-0
+?,(Fri) Feb/29 2008 (8),Nantes (26),Libourne (26),2-2,1-1
+?,(Fri) Feb/29 2008 (8),Niort (26),Chateauroux (26),2-1,0-0
+?,(Mon) Mar/3 2008 (9),Troyes (26),Le Havre (26),4-1,0-1
+?,(Fri) Mar/7 2008 (9),Amiens (27),Angers (27),2-0,0-0
+?,(Fri) Mar/7 2008 (9),Bastia (26),Niort (27),2-2,1-0
+?,(Fri) Mar/7 2008 (9),Brest (27),Dijon (27),0-0,0-0
+?,(Fri) Mar/7 2008 (9),Chateauroux (27),Guingamp (27),0-0,0-0
+?,(Fri) Mar/7 2008 (9),Clermont (27),Troyes (27),1-2,1-1
+?,(Fri) Mar/7 2008 (9),Le Havre (27),Ajaccio (27),2-0,0-0
+?,(Fri) Mar/7 2008 (9),Libourne (27),Gueugnon (27),2-0,1-0
+?,(Fri) Mar/7 2008 (9),Reims (26),Boulogne (27),4-1,3-0
+?,(Fri) Mar/7 2008 (9),Sedan (27),Montpellier (27),3-1,2-1
+?,(Mon) Mar/10 2008 (10),Nantes (27),Grenoble (27),1-0,1-0
+?,(Fri) Mar/14 2008 (10),Ajaccio (28),Chateauroux (28),0-1,0-1
+?,(Fri) Mar/14 2008 (10),Angers (28),Sedan (28),1-1,0-1
+?,(Fri) Mar/14 2008 (10),Boulogne (28),Clermont (28),1-2,1-1
+?,(Fri) Mar/14 2008 (10),Dijon (28),Bastia (27),2-1,0-0
+?,(Fri) Mar/14 2008 (10),Guingamp (28),Reims (27),2-1,1-0
+?,(Fri) Mar/14 2008 (10),Montpellier (28),Amiens (28),2-0,1-0
+?,(Fri) Mar/14 2008 (10),Niort (28),Le Havre (28),0-3,0-2
+?,(Fri) Mar/14 2008 (10),Troyes (28),Brest (28),1-3,0-1
+?,(Sat) Mar/15 2008 (10),Grenoble (28),Libourne (28),1-0,0-0
+?,(Mon) Mar/17 2008 (11),Gueugnon (28),Nantes (28),1-1,0-1
+?,(Fri) Mar/21 2008 (11),Bastia (28),Guingamp (29),0-1,0-1
+?,(Fri) Mar/21 2008 (11),Brest (29),Niort (29),4-2,3-1
+?,(Fri) Mar/21 2008 (11),Chateauroux (29),Montpellier (29),1-0,1-0
+?,(Fri) Mar/21 2008 (11),Clermont (29),Ajaccio (29),2-0,2-0
+?,(Fri) Mar/21 2008 (11),Gueugnon (29),Grenoble (29),1-1,0-0
+?,(Fri) Mar/21 2008 (11),Libourne (29),Troyes (29),2-0,0-0
+?,(Fri) Mar/21 2008 (11),Nantes (29),Dijon (29),2-1,1-1
+?,(Fri) Mar/21 2008 (11),Reims (28),Angers (29),0-1,0-0
+?,(Sat) Mar/22 2008 (11),Sedan (29),Amiens (29),1-1,1-0
+?,(Mon) Mar/24 2008 (12),Le Havre (29),Boulogne (29),2-0,1-0
+?,(Fri) Mar/28 2008 (12),Ajaccio (30),Brest (30),1-1,1-0
+?,(Fri) Mar/28 2008 (12),Amiens (30),Le Havre (30),1-3,1-1
+?,(Fri) Mar/28 2008 (12),Angers (30),Clermont (30),2-1,2-1
+?,(Fri) Mar/28 2008 (12),Boulogne (30),Bastia (29),2-0,0-0
+?,(Fri) Mar/28 2008 (12),Dijon (30),Gueugnon (30),2-1,1-0
+?,(Fri) Mar/28 2008 (12),Guingamp (30),Grenoble (30),1-2,0-0
+?,(Fri) Mar/28 2008 (12),Montpellier (30),Reims (29),0-0,0-0
+?,(Fri) Mar/28 2008 (12),Niort (30),Libourne (30),2-1,1-0
+?,(Sun) Mar/30 2008 (12),Sedan (30),Chateauroux (30),2-1,1-1
+?,(Mon) Mar/31 2008 (13),Troyes (30),Nantes (30),0-2,0-0
+?,(Tue) Apr/1 2008 (13),Reims (30),Bastia (30),1-2,1-2
+?,(Fri) Apr/4 2008 (13),Brest (31),Guingamp (31),1-1,0-1
+?,(Fri) Apr/4 2008 (13),Chateauroux (31),Amiens (31),1-1,0-1
+?,(Fri) Apr/4 2008 (13),Clermont (31),Montpellier (31),3-2,3-1
+?,(Fri) Apr/4 2008 (13),Gueugnon (31),Boulogne (31),0-1,0-0
+?,(Fri) Apr/4 2008 (13),Le Havre (31),Angers (31),3-2,1-1
+?,(Fri) Apr/4 2008 (13),Libourne (31),Dijon (31),2-0,2-0
+?,(Fri) Apr/4 2008 (13),Nantes (31),Niort (31),1-1,1-1
+?,(Fri) Apr/4 2008 (13),Reims (31),Sedan (31),3-1,2-1
+?,(Sat) Apr/5 2008 (13),Bastia (31),Ajaccio (31),0-1,0-0
+?,(Mon) Apr/7 2008 (14),Grenoble (31),Troyes (31),2-0,1-0
+?,(Thu) Apr/10 2008 (14),Montpellier (32),Bastia (32),2-1,1-1
+?,(Fri) Apr/11 2008 (14),Ajaccio (32),Nantes (32),2-1,1-1
+?,(Fri) Apr/11 2008 (14),Amiens (32),Reims (32),1-0,0-0
+?,(Fri) Apr/11 2008 (14),Angers (32),Chateauroux (32),3-0,1-0
+?,(Fri) Apr/11 2008 (14),Boulogne (32),Libourne (32),1-0,0-0
+?,(Fri) Apr/11 2008 (14),Dijon (32),Grenoble (32),0-0,0-0
+?,(Fri) Apr/11 2008 (14),Guingamp (32),Le Havre (32),1-1,1-0
+?,(Fri) Apr/11 2008 (14),Niort (32),Clermont (32),1-0,0-0
+?,(Fri) Apr/11 2008 (14),Sedan (32),Brest (32),2-0,1-0
+?,(Fri) Apr/11 2008 (14),Troyes (32),Gueugnon (32),2-2,2-0
+?,(Mon) Apr/14 2008 (15),Nantes (33),Boulogne (33),3-0,1-0
+?,(Tue) Apr/15 2008 (15),Brest (33),Montpellier (33),1-0,1-0
+?,(Tue) Apr/15 2008 (15),Clermont (33),Guingamp (33),3-3,1-1
+?,(Tue) Apr/15 2008 (15),Grenoble (33),Niort (33),3-1,1-0
+?,(Tue) Apr/15 2008 (15),Gueugnon (33),Angers (33),2-1,1-0
+?,(Tue) Apr/15 2008 (15),Libourne (33),Ajaccio (33),1-2,1-1
+?,(Tue) Apr/15 2008 (15),Reims (33),Chateauroux (33),2-0,0-0
+?,(Fri) Apr/18 2008 (15),Ajaccio (34),Gueugnon (34),2-0,0-0
+?,(Fri) Apr/18 2008 (15),Amiens (33),Clermont (34),0-0,0-0
+?,(Fri) Apr/18 2008 (15),Boulogne (34),Dijon (33),0-1,0-1
+?,(Fri) Apr/18 2008 (15),Chateauroux (34),Le Havre (33),0-0,0-0
+?,(Fri) Apr/18 2008 (15),Guingamp (34),Libourne (34),1-1,1-1
+?,(Fri) Apr/18 2008 (15),Montpellier (34),Grenoble (34),0-1,0-0
+?,(Fri) Apr/18 2008 (15),Niort (34),Troyes (33),0-0,0-0
+?,(Fri) Apr/18 2008 (15),Reims (34),Brest (34),0-0,0-0
+?,(Sat) Apr/19 2008 (15),Sedan (33),Bastia (33),0-0,0-0
+?,(Mon) Apr/21 2008 (16),Angers (34),Nantes (34),0-0,0-0
+?,(Tue) Apr/22 2008 (16),Bastia (34),Amiens (34),1-0,0-0
+?,(Tue) Apr/22 2008 (16),Dijon (34),Troyes (34),2-2,2-1
+?,(Tue) Apr/22 2008 (16),Le Havre (34),Sedan (34),0-0,0-0
+?,(Fri) Apr/25 2008 (16),Bastia (35),Chateauroux (35),2-3,0-2
+?,(Fri) Apr/25 2008 (16),Brest (35),Amiens (35),1-0,0-0
+?,(Fri) Apr/25 2008 (16),Clermont (35),Sedan (35),2-1,1-0
+?,(Fri) Apr/25 2008 (16),Dijon (35),Guingamp (35),1-0,1-0
+?,(Fri) Apr/25 2008 (16),Gueugnon (35),Niort (35),1-0,1-0
+?,(Fri) Apr/25 2008 (16),Le Havre (35),Reims (35),2-0,0-0
+?,(Fri) Apr/25 2008 (16),Libourne (35),Angers (35),1-1,1-1
+?,(Fri) Apr/25 2008 (16),Nantes (35),Montpellier (35),1-1,0-0
+?,(Fri) Apr/25 2008 (16),Troyes (35),Boulogne (35),2-2,2-1
+?,(Mon) Apr/28 2008 (17),Grenoble (35),Ajaccio (35),0-0,0-0
+?,(Fri) May/2 2008 (17),Ajaccio (36),Troyes (36),1-0,1-0
+?,(Fri) May/2 2008 (17),Amiens (36),Nantes (36),2-1,2-0
+?,(Fri) May/2 2008 (17),Angers (36),Bastia (36),1-1,1-1
+?,(Fri) May/2 2008 (17),Chateauroux (36),Brest (36),1-2,0-1
+?,(Fri) May/2 2008 (17),Guingamp (36),Gueugnon (36),0-1,0-1
+?,(Fri) May/2 2008 (17),Montpellier (36),Le Havre (36),0-0,0-0
+?,(Fri) May/2 2008 (17),Niort (36),Dijon (36),3-0,1-0
+?,(Fri) May/2 2008 (17),Reims (36),Clermont (36),0-0,0-0
+?,(Fri) May/2 2008 (17),Sedan (36),Libourne (36),1-0,0-0
+?,(Mon) May/5 2008 (18),Boulogne (36),Grenoble (36),0-1,0-1
+?,(Mon) May/12 2008 (19),Bastia (37),Reims (37),1-2,0-1
+?,(Mon) May/12 2008 (19),Brest (37),Boulogne (37),3-0,0-0
+?,(Mon) May/12 2008 (19),Clermont (37),Le Havre (37),1-0,0-0
+?,(Mon) May/12 2008 (19),Dijon (37),Angers (37),1-3,0-2
+?,(Mon) May/12 2008 (19),Grenoble (37),Chateauroux (37),0-0,0-0
+?,(Mon) May/12 2008 (19),Gueugnon (37),Montpellier (37),1-2,1-1
+?,(Mon) May/12 2008 (19),Libourne (37),Amiens (37),2-5,2-2
+?,(Mon) May/12 2008 (19),Nantes (37),Guingamp (37),1-1,0-1
+?,(Mon) May/12 2008 (19),Niort (37),Ajaccio (37),2-0,1-0
+?,(Mon) May/12 2008 (19),Troyes (37),Sedan (37),0-1,0-1
+?,(Fri) May/16 2008 (19),Ajaccio (38),Dijon (38),1-1,0-0
+?,(Fri) May/16 2008 (19),Amiens (38),Gueugnon (38),4-4,2-0
+?,(Fri) May/16 2008 (19),Angers (38),Brest (38),0-0,0-0
+?,(Fri) May/16 2008 (19),Boulogne (38),Niort (38),1-0,0-0
+?,(Fri) May/16 2008 (19),Chateauroux (38),Clermont (38),1-0,0-0
+?,(Fri) May/16 2008 (19),Guingamp (38),Troyes (38),5-0,3-0
+?,(Fri) May/16 2008 (19),Le Havre (38),Bastia (38),6-0,3-0
+?,(Fri) May/16 2008 (19),Montpellier (38),Libourne (38),5-0,3-0
+?,(Fri) May/16 2008 (19),Reims (38),Nantes (38),3-3,2-1
+?,(Fri) May/16 2008 (19),Sedan (38),Grenoble (38),2-1,2-1

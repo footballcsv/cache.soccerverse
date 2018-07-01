@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,1996-08-11,Bastia,Rennes,2-0,1-0,Sun,32
-?,1996-08-11,Bordeaux,Le Havre,1-0,1-0,Sun,32
-?,1996-08-11,Caen,Lens,0-2,0-1,Sun,32
-?,1996-08-11,Guingamp,Montpellier,0-0,0-0,Sun,32
-?,1996-08-11,Lille,Metz,1-0,0-0,Sun,32
-?,1996-08-11,Marseille,Lyon,3-1,1-1,Sun,32
-?,1996-08-11,Nancy,Cannes,1-2,0-1,Sun,32
-?,1996-08-11,Nantes,Monaco,1-3,0-1,Sun,32
-?,1996-08-11,Nice,Auxerre,0-1,0-1,Sun,32
-?,1996-08-11,Strasbourg,Paris SG,0-1,0-1,Sun,32
-?,1996-08-17,Auxerre,Lille,2-0,0-0,Sat,33
-?,1996-08-17,Bastia,Guingamp,1-0,1-0,Sat,33
-?,1996-08-17,Cannes,Nantes,1-1,1-0,Sat,33
-?,1996-08-17,Le Havre,Marseille,1-1,0-1,Sat,33
-?,1996-08-17,Lens,Nancy,3-1,0-1,Sat,33
-?,1996-08-17,Lyon,Strasbourg,2-0,1-0,Sat,33
-?,1996-08-17,Metz,Bordeaux,1-1,0-0,Sat,33
-?,1996-08-17,Monaco,Montpellier,1-1,1-1,Sat,33
-?,1996-08-17,Paris SG,Caen,2-0,0-0,Sat,33
-?,1996-08-17,Rennes,Nice,3-1,1-0,Sat,33
-?,1996-08-23,Nancy,Paris SG,0-0,0-0,Fri,34
-?,1996-08-24,Bordeaux,Auxerre,0-0,0-0,Sat,34
-?,1996-08-24,Caen,Lyon,1-1,0-0,Sat,34
-?,1996-08-24,Guingamp,Monaco,2-1,2-1,Sat,34
-?,1996-08-24,Lille,Rennes,3-1,0-0,Sat,34
-?,1996-08-24,Marseille,Metz,1-2,1-0,Sat,34
-?,1996-08-24,Montpellier,Cannes,0-1,0-1,Sat,34
-?,1996-08-24,Nantes,Lens,0-1,0-0,Sat,34
-?,1996-08-24,Nice,Bastia,1-1,1-0,Sat,34
-?,1996-08-24,Strasbourg,Le Havre,1-0,0-0,Sat,34
-?,1996-08-27,Auxerre,Marseille,0-0,0-0,Tue,35
-?,1996-08-28,Bastia,Lille,0-0,0-0,Wed,35
-?,1996-08-28,Cannes,Monaco,0-2,0-1,Wed,35
-?,1996-08-28,Le Havre,Caen,1-1,1-1,Wed,35
-?,1996-08-28,Lens,Montpellier,3-2,1-2,Wed,35
-?,1996-08-28,Lyon,Nancy,2-0,2-0,Wed,35
-?,1996-08-28,Metz,Strasbourg,3-1,1-0,Wed,35
-?,1996-08-28,Nice,Guingamp,1-2,0-1,Wed,35
-?,1996-08-28,Paris SG,Nantes,1-0,1-0,Wed,35
-?,1996-08-28,Rennes,Bordeaux,1-1,1-0,Wed,35
-?,1996-09-02,Nantes,Lyon,2-2,1-1,Mon,36
-?,1996-09-03,Bordeaux,Bastia,3-1,1-0,Tue,36
-?,1996-09-03,Caen,Metz,0-0,0-0,Tue,36
-?,1996-09-03,Guingamp,Cannes,0-1,0-0,Tue,36
-?,1996-09-03,Lille,Nice,3-2,1-1,Tue,36
-?,1996-09-03,Marseille,Rennes,3-1,3-0,Tue,36
-?,1996-09-03,Monaco,Lens,5-1,4-0,Tue,36
-?,1996-09-03,Montpellier,Paris SG,0-3,0-0,Tue,36
-?,1996-09-03,Nancy,Le Havre,0-1,0-1,Tue,36
-?,1996-09-03,Strasbourg,Auxerre,2-1,2-0,Tue,36
-?,1996-09-06,Auxerre,Caen,2-0,2-0,Fri,36
-?,1996-09-06,Le Havre,Nantes,3-1,1-1,Fri,36
-?,1996-09-06,Lens,Cannes,0-0,0-0,Fri,36
-?,1996-09-06,Lille,Guingamp,1-1,0-0,Fri,36
-?,1996-09-06,Lyon,Montpellier,1-1,1-0,Fri,36
-?,1996-09-06,Metz,Nancy,1-0,0-0,Fri,36
-?,1996-09-06,Paris SG,Monaco,0-0,0-0,Fri,36
-?,1996-09-06,Rennes,Strasbourg,2-0,1-0,Fri,36
-?,1996-09-08,Bastia,Marseille,2-0,2-0,Sun,36
-?,1996-09-09,Nice,Bordeaux,0-1,0-1,Mon,37
-?,1996-09-14,Bordeaux,Lille,3-0,0-0,Sat,37
-?,1996-09-14,Caen,Rennes,0-0,0-0,Sat,37
-?,1996-09-14,Guingamp,Lens,1-0,0-0,Sat,37
-?,1996-09-14,Marseille,Nice,1-0,0-0,Sat,37
-?,1996-09-14,Monaco,Lyon,0-0,0-0,Sat,37
-?,1996-09-14,Montpellier,Le Havre,2-1,1-1,Sat,37
-?,1996-09-14,Nancy,Auxerre,0-0,0-0,Sat,37
-?,1996-09-14,Nantes,Metz,0-1,0-1,Sat,37
-?,1996-09-14,Strasbourg,Bastia,1-3,1-1,Sat,37
-?,1996-09-15,Cannes,Paris SG,0-1,0-0,Sun,37
-?,1996-09-19,Auxerre,Nantes,2-2,2-2,Thu,38
-?,1996-09-20,Bastia,Caen,4-2,1-1,Fri,38
-?,1996-09-20,Bordeaux,Guingamp,0-0,0-0,Fri,38
-?,1996-09-20,Le Havre,Monaco,1-2,0-0,Fri,38
-?,1996-09-20,Lille,Marseille,1-1,1-0,Fri,38
-?,1996-09-20,Lyon,Cannes,3-1,2-0,Fri,38
-?,1996-09-20,Metz,Montpellier,1-1,1-1,Fri,38
-?,1996-09-20,Nice,Strasbourg,1-1,0-1,Fri,38
-?,1996-09-20,Paris SG,Lens,4-0,2-0,Fri,38
-?,1996-09-20,Rennes,Nancy,1-0,0-0,Fri,38
-?,1996-09-28,Caen,Nice,1-2,?,Sat,39
-?,1996-09-28,Cannes,Le Havre,2-0,2-0,Sat,39
-?,1996-09-28,Lens,Lyon,0-1,0-0,Sat,39
-?,1996-09-28,Marseille,Bordeaux,0-0,0-0,Sat,39
-?,1996-09-28,Monaco,Metz,1-1,0-1,Sat,39
-?,1996-09-28,Montpellier,Auxerre,0-0,0-0,Sat,39
-?,1996-09-28,Nancy,Bastia,2-2,2-1,Sat,39
-?,1996-09-28,Nantes,Rennes,3-3,1-1,Sat,39
-?,1996-09-28,Strasbourg,Lille,3-0,0-0,Sat,39
-?,1996-09-29,Guingamp,Paris SG,2-2,2-1,Sun,39
-?,1996-10-01,Le Havre,Lens,0-0,0-0,Tue,40
-?,1996-10-02,Auxerre,Monaco,2-0,0-0,Wed,40
-?,1996-10-02,Bastia,Nantes,0-0,0-0,Wed,40
-?,1996-10-02,Bordeaux,Strasbourg,1-2,0-0,Wed,40
-?,1996-10-02,Lille,Caen,1-0,1-0,Wed,40
-?,1996-10-02,Lyon,Paris SG,1-1,0-0,Wed,40
-?,1996-10-02,Marseille,Guingamp,2-1,1-0,Wed,40
-?,1996-10-02,Metz,Cannes,0-0,0-0,Wed,40
-?,1996-10-02,Nice,Nancy,1-0,1-0,Wed,40
-?,1996-10-02,Rennes,Montpellier,2-0,1-0,Wed,40
-?,1996-10-05,Caen,Bordeaux,0-0,0-0,Sat,40
-?,1996-10-05,Cannes,Auxerre,1-1,1-0,Sat,40
-?,1996-10-05,Guingamp,Lyon,1-0,1-0,Sat,40
-?,1996-10-05,Lens,Metz,2-2,0-2,Sat,40
-?,1996-10-05,Monaco,Rennes,3-1,2-1,Sat,40
-?,1996-10-05,Montpellier,Bastia,3-1,2-0,Sat,40
-?,1996-10-05,Nancy,Lille,2-2,1-1,Sat,40
-?,1996-10-05,Nantes,Nice,7-0,3-0,Sat,40
-?,1996-10-05,Paris SG,Le Havre,2-0,1-0,Sat,40
-?,1996-10-05,Strasbourg,Marseille,2-1,0-0,Sat,40
-?,1996-10-12,Auxerre,Lens,1-0,0-0,Sat,41
-?,1996-10-12,Bastia,Monaco,0-0,0-0,Sat,41
-?,1996-10-12,Bordeaux,Nancy,0-1,0-1,Sat,41
-?,1996-10-12,Le Havre,Lyon,4-1,2-1,Sat,41
-?,1996-10-12,Lille,Nantes,3-3,2-1,Sat,41
-?,1996-10-12,Marseille,Caen,0-1,0-0,Sat,41
-?,1996-10-12,Metz,Paris SG,0-1,0-1,Sat,41
-?,1996-10-12,Nice,Montpellier,1-1,1-1,Sat,41
-?,1996-10-12,Strasbourg,Guingamp,2-1,2-1,Sat,41
-?,1996-10-13,Rennes,Cannes,3-0,1-0,Sun,41
-?,1996-10-19,Caen,Strasbourg,3-0,1-0,Sat,42
-?,1996-10-19,Cannes,Bastia,1-1,1-0,Sat,42
-?,1996-10-19,Guingamp,Le Havre,2-2,1-0,Sat,42
-?,1996-10-19,Lens,Rennes,2-0,1-0,Sat,42
-?,1996-10-19,Lyon,Metz,0-0,0-0,Sat,42
-?,1996-10-19,Monaco,Nice,4-1,1-1,Sat,42
-?,1996-10-19,Montpellier,Lille,0-1,0-1,Sat,42
-?,1996-10-19,Nancy,Marseille,0-0,0-0,Sat,42
-?,1996-10-19,Nantes,Bordeaux,3-1,2-0,Sat,42
-?,1996-10-19,Paris SG,Auxerre,1-1,1-0,Sat,42
-?,1996-10-25,Bordeaux,Montpellier,3-1,2-0,Fri,43
-?,1996-10-26,Auxerre,Lyon,7-0,1-0,Sat,43
-?,1996-10-26,Bastia,Lens,0-1,0-1,Sat,43
-?,1996-10-26,Caen,Guingamp,0-1,0-0,Sat,43
-?,1996-10-26,Lille,Monaco,1-4,0-1,Sat,43
-?,1996-10-26,Marseille,Nantes,0-1,0-0,Sat,43
-?,1996-10-26,Metz,Le Havre,1-2,1-1,Sat,43
-?,1996-10-26,Nice,Cannes,0-0,0-0,Sat,43
-?,1996-10-26,Rennes,Paris SG,2-1,0-0,Sat,43
-?,1996-10-26,Strasbourg,Nancy,3-1,1-1,Sat,43
-?,1996-11-02,Cannes,Lille,0-1,0-1,Sat,44
-?,1996-11-02,Guingamp,Metz,0-1,0-0,Sat,44
-?,1996-11-02,Le Havre,Auxerre,0-2,0-1,Sat,44
-?,1996-11-02,Lens,Nice,3-2,0-1,Sat,44
-?,1996-11-02,Lyon,Rennes,2-0,1-0,Sat,44
-?,1996-11-02,Monaco,Bordeaux,3-1,2-0,Sat,44
-?,1996-11-02,Montpellier,Marseille,2-0,1-0,Sat,44
-?,1996-11-02,Nancy,Caen,1-2,0-0,Sat,44
-?,1996-11-02,Nantes,Strasbourg,3-0,2-0,Sat,44
-?,1996-11-03,Paris SG,Bastia,3-0,1-0,Sun,44
-?,1996-11-05,Marseille,Monaco,3-1,3-0,Tue,45
-?,1996-11-06,Auxerre,Metz,2-3,1-1,Wed,45
-?,1996-11-06,Bastia,Lyon,3-1,2-1,Wed,45
-?,1996-11-06,Bordeaux,Cannes,1-0,0-0,Wed,45
-?,1996-11-06,Caen,Nantes,0-0,0-0,Wed,45
-?,1996-11-06,Lille,Lens,2-1,2-0,Wed,45
-?,1996-11-06,Nancy,Guingamp,2-0,1-0,Wed,45
-?,1996-11-06,Nice,Paris SG,0-1,0-0,Wed,45
-?,1996-11-06,Rennes,Le Havre,1-1,1-1,Wed,45
-?,1996-11-06,Strasbourg,Montpellier,2-1,1-0,Wed,45
-?,1996-11-12,Nantes,Nancy,2-0,1-0,Tue,46
-?,1996-11-13,Cannes,Marseille,0-0,0-0,Wed,46
-?,1996-11-13,Guingamp,Auxerre,0-0,0-0,Wed,46
-?,1996-11-13,Le Havre,Bastia,0-1,0-0,Wed,46
-?,1996-11-13,Lens,Bordeaux,3-4,1-3,Wed,46
-?,1996-11-13,Lyon,Nice,3-1,2-1,Wed,46
-?,1996-11-13,Metz,Rennes,2-0,1-0,Wed,46
-?,1996-11-13,Monaco,Strasbourg,2-0,0-0,Wed,46
-?,1996-11-13,Montpellier,Caen,0-0,0-0,Wed,46
-?,1996-11-13,Paris SG,Lille,3-1,2-1,Wed,46
-?,1996-11-16,Bastia,Metz,2-1,0-0,Sat,46
-?,1996-11-16,Bordeaux,Paris SG,5-3,2-2,Sat,46
-?,1996-11-16,Caen,Monaco,0-1,0-0,Sat,46
-?,1996-11-16,Marseille,Lens,2-1,2-1,Sat,46
-?,1996-11-16,Nancy,Montpellier,0-0,0-0,Sat,46
-?,1996-11-16,Nantes,Guingamp,1-1,1-1,Sat,46
-?,1996-11-16,Nice,Le Havre,0-3,0-1,Sat,46
-?,1996-11-16,Rennes,Auxerre,1-0,0-0,Sat,46
-?,1996-11-16,Strasbourg,Cannes,2-0,0-0,Sat,46
-?,1996-11-17,Lille,Lyon,1-1,0-0,Sun,46
-?,1996-11-22,Paris SG,Marseille,0-0,0-0,Fri,47
-?,1996-11-23,Auxerre,Bastia,1-2,1-1,Sat,47
-?,1996-11-23,Cannes,Caen,2-0,1-0,Sat,47
-?,1996-11-23,Guingamp,Rennes,1-0,1-0,Sat,47
-?,1996-11-23,Le Havre,Lille,0-0,0-0,Sat,47
-?,1996-11-23,Lens,Strasbourg,1-2,0-0,Sat,47
-?,1996-11-23,Lyon,Bordeaux,2-2,2-1,Sat,47
-?,1996-11-23,Metz,Nice,1-0,0-0,Sat,47
-?,1996-11-23,Monaco,Nancy,2-0,1-0,Sat,47
-?,1996-11-23,Montpellier,Nantes,2-2,1-1,Sat,47
-?,1996-11-28,Bordeaux,Metz,1-0,1-0,Thu,48
-?,1996-11-28,Montpellier,Monaco,0-1,0-0,Thu,48
-?,1996-11-29,Caen,Paris SG,1-3,1-1,Fri,48
-?,1996-11-29,Guingamp,Bastia,2-1,1-0,Fri,48
-?,1996-11-29,Lille,Auxerre,0-1,0-1,Fri,48
-?,1996-11-29,Marseille,Le Havre,0-0,0-0,Fri,48
-?,1996-11-29,Nancy,Lens,1-1,0-0,Fri,48
-?,1996-11-29,Nantes,Cannes,5-1,2-0,Fri,48
-?,1996-11-29,Nice,Rennes,3-1,1-1,Fri,48
-?,1996-11-29,Strasbourg,Lyon,3-0,1-0,Fri,48
-?,1996-12-06,Lens,Nantes,0-4,0-2,Fri,49
-?,1996-12-06,Paris SG,Nancy,1-2,1-0,Fri,49
-?,1996-12-07,Auxerre,Bordeaux,2-1,1-1,Sat,49
-?,1996-12-07,Bastia,Nice,1-0,1-0,Sat,49
-?,1996-12-07,Cannes,Montpellier,1-0,1-0,Sat,49
-?,1996-12-07,Le Havre,Strasbourg,2-0,1-0,Sat,49
-?,1996-12-07,Lyon,Caen,3-0,0-0,Sat,49
-?,1996-12-07,Metz,Marseille,1-1,1-0,Sat,49
-?,1996-12-07,Monaco,Guingamp,0-0,0-0,Sat,49
-?,1996-12-07,Rennes,Lille,2-0,0-0,Sat,49
-?,1996-12-14,Bordeaux,Rennes,2-0,1-0,Sat,50
-?,1996-12-14,Caen,Le Havre,4-0,2-0,Sat,50
-?,1996-12-14,Guingamp,Nice,0-1,0-0,Sat,50
-?,1996-12-14,Lille,Bastia,1-2,0-1,Sat,50
-?,1996-12-14,Monaco,Cannes,1-0,0-0,Sat,50
-?,1996-12-14,Montpellier,Lens,1-0,0-0,Sat,50
-?,1996-12-14,Nancy,Lyon,2-3,1-1,Sat,50
-?,1996-12-14,Nantes,Paris SG,0-0,0-0,Sat,50
-?,1996-12-14,Strasbourg,Metz,0-1,0-1,Sat,50
-?,1996-12-15,Marseille,Auxerre,3-0,1-0,Sun,50
-?,1996-12-19,Bastia,Bordeaux,3-1,3-1,Thu,51
-?,1996-12-20,Auxerre,Strasbourg,0-1,0-0,Fri,51
-?,1996-12-20,Cannes,Guingamp,1-0,0-0,Fri,51
-?,1996-12-20,Le Havre,Nancy,1-3,1-1,Fri,51
-?,1996-12-20,Lens,Monaco,1-3,0-3,Fri,51
-?,1996-12-20,Lyon,Nantes,0-1,0-0,Fri,51
-?,1996-12-20,Metz,Caen,2-2,0-1,Fri,51
-?,1996-12-20,Nice,Lille,1-1,1-0,Fri,51
-?,1996-12-20,Paris SG,Montpellier,1-1,1-0,Fri,51
-?,1996-12-20,Rennes,Marseille,4-2,1-2,Fri,51
-?,1997-01-25,Bordeaux,Nice,4-1,0-0,Sat,3
-?,1997-01-25,Cannes,Lens,0-0,0-0,Sat,3
-?,1997-01-25,Guingamp,Lille,1-0,0-0,Sat,3
-?,1997-01-25,Marseille,Bastia,1-0,1-0,Sat,3
-?,1997-01-25,Montpellier,Lyon,2-1,2-0,Sat,3
-?,1997-01-25,Nancy,Metz,2-3,0-1,Sat,3
-?,1997-01-25,Nantes,Le Havre,1-1,0-0,Sat,3
-?,1997-01-25,Strasbourg,Rennes,3-0,1-0,Sat,3
-?,1997-01-26,Caen,Auxerre,2-3,0-1,Sun,3
-?,1997-01-26,Monaco,Paris SG,2-0,0-0,Sun,3
-?,1997-02-01,Auxerre,Nancy,1-0,0-0,Sat,4
-?,1997-02-01,Le Havre,Montpellier,0-0,0-0,Sat,4
-?,1997-02-01,Lens,Guingamp,2-1,1-0,Sat,4
-?,1997-02-01,Lille,Bordeaux,0-0,0-0,Sat,4
-?,1997-02-01,Metz,Nantes,0-1,0-0,Sat,4
-?,1997-02-01,Nice,Marseille,0-0,0-0,Sat,4
-?,1997-02-01,Paris SG,Cannes,1-1,1-0,Sat,4
-?,1997-02-01,Rennes,Caen,1-1,?,Sat,4
-?,1997-02-02,Bastia,Strasbourg,3-1,2-0,Sun,4
-?,1997-02-02,Lyon,Monaco,3-3,1-1,Sun,4
-?,1997-02-13,Lens,Paris SG,1-2,1-0,Thu,6
-?,1997-02-13,Nantes,Auxerre,0-0,0-0,Thu,6
-?,1997-02-14,Cannes,Lyon,0-1,0-1,Fri,6
-?,1997-02-14,Guingamp,Bordeaux,2-2,0-1,Fri,6
-?,1997-02-14,Marseille,Lille,5-1,0-1,Fri,6
-?,1997-02-14,Monaco,Le Havre,3-0,2-0,Fri,6
-?,1997-02-14,Montpellier,Metz,1-0,1-0,Fri,6
-?,1997-02-14,Nancy,Rennes,1-0,0-0,Fri,6
-?,1997-02-14,Strasbourg,Nice,3-1,2-1,Fri,6
-?,1997-02-21,Lyon,Lens,0-0,0-0,Fri,7
-?,1997-02-21,Rennes,Nantes,0-1,0-0,Fri,7
-?,1997-02-22,Auxerre,Montpellier,0-2,0-0,Sat,7
-?,1997-02-22,Bastia,Nancy,2-0,0-0,Sat,7
-?,1997-02-22,Bordeaux,Marseille,4-0,2-0,Sat,7
-?,1997-02-22,Le Havre,Cannes,0-0,0-0,Sat,7
-?,1997-02-22,Lille,Strasbourg,2-4,1-2,Sat,7
-?,1997-02-22,Metz,Monaco,2-0,1-0,Sat,7
-?,1997-02-22,Nice,Caen,1-1,1-1,Sat,7
-?,1997-02-22,Paris SG,Guingamp,1-1,0-1,Sat,7
-?,1997-03-08,Caen,Lille,1-0,1-0,Sat,9
-?,1997-03-08,Cannes,Metz,0-0,0-0,Sat,9
-?,1997-03-08,Guingamp,Marseille,3-1,2-0,Sat,9
-?,1997-03-08,Lens,Le Havre,0-1,0-1,Sat,9
-?,1997-03-08,Montpellier,Rennes,0-0,0-0,Sat,9
-?,1997-03-08,Nancy,Nice,1-0,0-0,Sat,9
-?,1997-03-08,Nantes,Bastia,3-0,2-0,Sat,9
-?,1997-03-08,Strasbourg,Bordeaux,1-1,1-1,Sat,9
-?,1997-03-09,Monaco,Auxerre,0-0,0-0,Sun,9
-?,1997-03-09,Paris SG,Lyon,3-1,0-1,Sun,9
-?,1997-03-14,Auxerre,Cannes,3-1,2-0,Fri,10
-?,1997-03-14,Bastia,Montpellier,2-2,0-1,Fri,10
-?,1997-03-14,Le Havre,Paris SG,1-0,0-0,Fri,10
-?,1997-03-14,Lille,Nancy,2-0,1-0,Fri,10
-?,1997-03-14,Marseille,Strasbourg,0-1,0-0,Fri,10
-?,1997-03-14,Nice,Nantes,1-2,0-1,Fri,10
-?,1997-03-14,Rennes,Monaco,0-3,0-1,Fri,10
-?,1997-03-15,Bordeaux,Caen,3-1,2-1,Sat,10
-?,1997-03-15,Lyon,Guingamp,2-1,1-0,Sat,10
-?,1997-03-15,Metz,Lens,2-0,1-0,Sat,10
-?,1997-03-22,Cannes,Rennes,1-0,1-0,Sat,11
-?,1997-03-22,Guingamp,Strasbourg,2-1,1-1,Sat,11
-?,1997-03-22,Lens,Auxerre,2-1,1-0,Sat,11
-?,1997-03-22,Lyon,Le Havre,2-1,1-0,Sat,11
-?,1997-03-22,Monaco,Bastia,3-1,1-1,Sat,11
-?,1997-03-22,Montpellier,Nice,2-1,2-0,Sat,11
-?,1997-03-22,Nancy,Bordeaux,1-1,0-0,Sat,11
-?,1997-03-22,Nantes,Lille,1-0,0-0,Sat,11
-?,1997-03-23,Caen,Marseille,1-0,1-0,Sun,11
-?,1997-03-23,Paris SG,Metz,2-0,2-0,Sun,11
-?,1997-03-25,Bordeaux,Nantes,0-0,0-0,Tue,12
-?,1997-03-25,Lille,Montpellier,0-4,?,Tue,12
-?,1997-03-26,Auxerre,Paris SG,2-1,1-1,Wed,12
-?,1997-03-26,Bastia,Cannes,1-0,?,Wed,12
-?,1997-03-26,Le Havre,Guingamp,0-1,?,Wed,12
-?,1997-03-26,Marseille,Nancy,4-1,?,Wed,12
-?,1997-03-26,Metz,Lyon,0-1,?,Wed,12
-?,1997-03-26,Nice,Monaco,0-2,0-1,Wed,12
-?,1997-03-26,Rennes,Lens,2-2,?,Wed,12
-?,1997-03-26,Strasbourg,Caen,2-0,?,Wed,12
-?,1997-04-04,Monaco,Lille,2-0,0-0,Fri,13
-?,1997-04-05,Cannes,Nice,1-1,0-1,Sat,13
-?,1997-04-05,Le Havre,Metz,0-0,0-0,Sat,13
-?,1997-04-05,Lyon,Auxerre,2-0,0-0,Sat,13
-?,1997-04-05,Montpellier,Bordeaux,2-0,2-0,Sat,13
-?,1997-04-05,Nancy,Strasbourg,2-0,1-0,Sat,13
-?,1997-04-05,Nantes,Marseille,1-1,1-0,Sat,13
-?,1997-04-05,Paris SG,Rennes,1-1,0-1,Sat,13
-?,1997-04-06,Guingamp,Caen,1-1,?,Sun,13
-?,1997-04-06,Lens,Bastia,1-1,?,Sun,13
-?,1997-04-11,Caen,Bastia,2-2,?,Fri,14
-?,1997-04-15,Bastia,Paris SG,1-1,1-1,Tue,15
-?,1997-04-16,Auxerre,Le Havre,2-0,1-0,Wed,15
-?,1997-04-16,Bordeaux,Monaco,2-1,0-0,Wed,15
-?,1997-04-16,Caen,Nancy,1-1,1-1,Wed,15
-?,1997-04-16,Marseille,Montpellier,2-2,0-1,Wed,15
-?,1997-04-16,Metz,Guingamp,2-0,1-0,Wed,15
-?,1997-04-16,Nice,Lens,1-2,1-0,Wed,15
-?,1997-04-16,Rennes,Lyon,2-1,2-0,Wed,15
-?,1997-04-16,Strasbourg,Nantes,0-1,0-0,Wed,15
-?,1997-04-17,Lille,Cannes,1-2,?,Thu,15
-?,1997-04-26,Cannes,Bordeaux,1-1,0-1,Sat,16
-?,1997-04-26,Guingamp,Nancy,0-1,0-1,Sat,16
-?,1997-04-26,Le Havre,Rennes,1-1,0-1,Sat,16
-?,1997-04-26,Lens,Lille,1-0,1-0,Sat,16
-?,1997-04-26,Lyon,Bastia,4-2,1-2,Sat,16
-?,1997-04-26,Metz,Auxerre,1-0,1-0,Sat,16
-?,1997-04-26,Monaco,Marseille,1-1,0-1,Sat,16
-?,1997-04-26,Montpellier,Strasbourg,1-4,1-2,Sat,16
-?,1997-04-26,Nantes,Caen,1-1,0-0,Sat,16
-?,1997-04-27,Paris SG,Nice,5-0,1-0,Sun,16
-?,1997-04-29,Caen,Montpellier,0-1,0-0,Tue,17
-?,1997-04-29,Strasbourg,Monaco,0-2,0-0,Tue,17
-?,1997-04-30,Auxerre,Guingamp,1-0,?,Wed,17
-?,1997-04-30,Bastia,Le Havre,1-2,?,Wed,17
-?,1997-04-30,Bordeaux,Lens,2-1,?,Wed,17
-?,1997-04-30,Lille,Paris SG,0-1,0-1,Wed,17
-?,1997-04-30,Marseille,Cannes,3-1,?,Wed,17
-?,1997-04-30,Nancy,Nantes,1-3,?,Wed,17
-?,1997-04-30,Nice,Lyon,0-1,?,Wed,17
-?,1997-04-30,Rennes,Metz,1-3,?,Wed,17
-?,1997-05-03,Auxerre,Rennes,4-1,2-0,Sat,17
-?,1997-05-03,Guingamp,Nantes,0-0,0-0,Sat,17
-?,1997-05-03,Le Havre,Nice,1-0,?,Sat,17
-?,1997-05-03,Lens,Marseille,2-0,?,Sat,17
-?,1997-05-03,Lyon,Lille,0-0,0-0,Sat,17
-?,1997-05-03,Metz,Bastia,1-0,0-0,Sat,17
-?,1997-05-03,Montpellier,Nancy,1-1,?,Sat,17
-?,1997-05-03,Paris SG,Bordeaux,2-2,1-1,Sat,17
-?,1997-05-04,Cannes,Strasbourg,2-2,?,Sun,17
-?,1997-05-04,Monaco,Caen,2-2,0-0,Sun,17
-?,1997-05-17,Bastia,Auxerre,2-1,0-1,Sat,19
-?,1997-05-17,Bordeaux,Lyon,2-2,2-1,Sat,19
-?,1997-05-17,Caen,Cannes,3-0,?,Sat,19
-?,1997-05-17,Lille,Le Havre,2-2,?,Sat,19
-?,1997-05-17,Marseille,Paris SG,1-0,1-0,Sat,19
-?,1997-05-17,Nancy,Monaco,1-3,1-0,Sat,19
-?,1997-05-17,Nantes,Montpellier,3-0,2-0,Sat,19
-?,1997-05-17,Nice,Metz,3-0,2-0,Sat,19
-?,1997-05-17,Rennes,Guingamp,1-1,?,Sat,19
-?,1997-05-17,Strasbourg,Lens,1-0,0-0,Sat,19
-?,1997-05-24,Auxerre,Nice,3-1,1-0,Sat,20
-?,1997-05-24,Cannes,Nancy,0-1,0-0,Sat,20
-?,1997-05-24,Le Havre,Bordeaux,1-2,0-2,Sat,20
-?,1997-05-24,Lens,Caen,0-0,0-0,Sat,20
-?,1997-05-24,Lyon,Marseille,8-0,7-0,Sat,20
-?,1997-05-24,Metz,Lille,1-0,0-0,Sat,20
-?,1997-05-24,Monaco,Nantes,2-1,0-1,Sat,20
-?,1997-05-24,Montpellier,Guingamp,1-0,0-0,Sat,20
-?,1997-05-24,Paris SG,Strasbourg,2-1,0-0,Sat,20
-?,1997-05-24,Rennes,Bastia,1-3,0-2,Sat,20
+Round,Date,Team 1,Team 2,FT,HT
+?,(Sun) Aug/11 1996 (32),Bastia (1),Rennes (1),2-0,1-0
+?,(Sun) Aug/11 1996 (32),Bordeaux (1),Le Havre (1),1-0,1-0
+?,(Sun) Aug/11 1996 (32),Caen (1),Lens (1),0-2,0-1
+?,(Sun) Aug/11 1996 (32),Guingamp (1),Montpellier (1),0-0,0-0
+?,(Sun) Aug/11 1996 (32),Lille (1),Metz (1),1-0,0-0
+?,(Sun) Aug/11 1996 (32),Marseille (1),Lyon (1),3-1,1-1
+?,(Sun) Aug/11 1996 (32),Nancy (1),Cannes (1),1-2,0-1
+?,(Sun) Aug/11 1996 (32),Nantes (1),Monaco (1),1-3,0-1
+?,(Sun) Aug/11 1996 (32),Nice (1),Auxerre (1),0-1,0-1
+?,(Sun) Aug/11 1996 (32),Strasbourg (1),Paris SG (1),0-1,0-1
+?,(Sat) Aug/17 1996 (33),Auxerre (2),Lille (2),2-0,0-0
+?,(Sat) Aug/17 1996 (33),Bastia (2),Guingamp (2),1-0,1-0
+?,(Sat) Aug/17 1996 (33),Cannes (2),Nantes (2),1-1,1-0
+?,(Sat) Aug/17 1996 (33),Le Havre (2),Marseille (2),1-1,0-1
+?,(Sat) Aug/17 1996 (33),Lens (2),Nancy (2),3-1,0-1
+?,(Sat) Aug/17 1996 (33),Lyon (2),Strasbourg (2),2-0,1-0
+?,(Sat) Aug/17 1996 (33),Metz (2),Bordeaux (2),1-1,0-0
+?,(Sat) Aug/17 1996 (33),Monaco (2),Montpellier (2),1-1,1-1
+?,(Sat) Aug/17 1996 (33),Paris SG (2),Caen (2),2-0,0-0
+?,(Sat) Aug/17 1996 (33),Rennes (2),Nice (2),3-1,1-0
+?,(Fri) Aug/23 1996 (34),Nancy (3),Paris SG (3),0-0,0-0
+?,(Sat) Aug/24 1996 (34),Bordeaux (3),Auxerre (3),0-0,0-0
+?,(Sat) Aug/24 1996 (34),Caen (3),Lyon (3),1-1,0-0
+?,(Sat) Aug/24 1996 (34),Guingamp (3),Monaco (3),2-1,2-1
+?,(Sat) Aug/24 1996 (34),Lille (3),Rennes (3),3-1,0-0
+?,(Sat) Aug/24 1996 (34),Marseille (3),Metz (3),1-2,1-0
+?,(Sat) Aug/24 1996 (34),Montpellier (3),Cannes (3),0-1,0-1
+?,(Sat) Aug/24 1996 (34),Nantes (3),Lens (3),0-1,0-0
+?,(Sat) Aug/24 1996 (34),Nice (3),Bastia (3),1-1,1-0
+?,(Sat) Aug/24 1996 (34),Strasbourg (3),Le Havre (3),1-0,0-0
+?,(Tue) Aug/27 1996 (35),Auxerre (4),Marseille (4),0-0,0-0
+?,(Wed) Aug/28 1996 (35),Bastia (4),Lille (4),0-0,0-0
+?,(Wed) Aug/28 1996 (35),Cannes (4),Monaco (4),0-2,0-1
+?,(Wed) Aug/28 1996 (35),Le Havre (4),Caen (4),1-1,1-1
+?,(Wed) Aug/28 1996 (35),Lens (4),Montpellier (4),3-2,1-2
+?,(Wed) Aug/28 1996 (35),Lyon (4),Nancy (4),2-0,2-0
+?,(Wed) Aug/28 1996 (35),Metz (4),Strasbourg (4),3-1,1-0
+?,(Wed) Aug/28 1996 (35),Nice (4),Guingamp (4),1-2,0-1
+?,(Wed) Aug/28 1996 (35),Paris SG (4),Nantes (4),1-0,1-0
+?,(Wed) Aug/28 1996 (35),Rennes (4),Bordeaux (4),1-1,1-0
+?,(Mon) Sep/2 1996 (36),Nantes (5),Lyon (5),2-2,1-1
+?,(Tue) Sep/3 1996 (36),Bordeaux (5),Bastia (5),3-1,1-0
+?,(Tue) Sep/3 1996 (36),Caen (5),Metz (5),0-0,0-0
+?,(Tue) Sep/3 1996 (36),Guingamp (5),Cannes (5),0-1,0-0
+?,(Tue) Sep/3 1996 (36),Lille (5),Nice (5),3-2,1-1
+?,(Tue) Sep/3 1996 (36),Marseille (5),Rennes (5),3-1,3-0
+?,(Tue) Sep/3 1996 (36),Monaco (5),Lens (5),5-1,4-0
+?,(Tue) Sep/3 1996 (36),Montpellier (5),Paris SG (5),0-3,0-0
+?,(Tue) Sep/3 1996 (36),Nancy (5),Le Havre (5),0-1,0-1
+?,(Tue) Sep/3 1996 (36),Strasbourg (5),Auxerre (5),2-1,2-0
+?,(Fri) Sep/6 1996 (36),Auxerre (6),Caen (6),2-0,2-0
+?,(Fri) Sep/6 1996 (36),Le Havre (6),Nantes (6),3-1,1-1
+?,(Fri) Sep/6 1996 (36),Lens (6),Cannes (6),0-0,0-0
+?,(Fri) Sep/6 1996 (36),Lille (6),Guingamp (6),1-1,0-0
+?,(Fri) Sep/6 1996 (36),Lyon (6),Montpellier (6),1-1,1-0
+?,(Fri) Sep/6 1996 (36),Metz (6),Nancy (6),1-0,0-0
+?,(Fri) Sep/6 1996 (36),Paris SG (6),Monaco (6),0-0,0-0
+?,(Fri) Sep/6 1996 (36),Rennes (6),Strasbourg (6),2-0,1-0
+?,(Sun) Sep/8 1996 (36),Bastia (6),Marseille (6),2-0,2-0
+?,(Mon) Sep/9 1996 (37),Nice (6),Bordeaux (6),0-1,0-1
+?,(Sat) Sep/14 1996 (37),Bordeaux (7),Lille (7),3-0,0-0
+?,(Sat) Sep/14 1996 (37),Caen (7),Rennes (7),0-0,0-0
+?,(Sat) Sep/14 1996 (37),Guingamp (7),Lens (7),1-0,0-0
+?,(Sat) Sep/14 1996 (37),Marseille (7),Nice (7),1-0,0-0
+?,(Sat) Sep/14 1996 (37),Monaco (7),Lyon (7),0-0,0-0
+?,(Sat) Sep/14 1996 (37),Montpellier (7),Le Havre (7),2-1,1-1
+?,(Sat) Sep/14 1996 (37),Nancy (7),Auxerre (7),0-0,0-0
+?,(Sat) Sep/14 1996 (37),Nantes (7),Metz (7),0-1,0-1
+?,(Sat) Sep/14 1996 (37),Strasbourg (7),Bastia (7),1-3,1-1
+?,(Sun) Sep/15 1996 (37),Cannes (7),Paris SG (7),0-1,0-0
+?,(Thu) Sep/19 1996 (38),Auxerre (8),Nantes (8),2-2,2-2
+?,(Fri) Sep/20 1996 (38),Bastia (8),Caen (8),4-2,1-1
+?,(Fri) Sep/20 1996 (38),Bordeaux (8),Guingamp (8),0-0,0-0
+?,(Fri) Sep/20 1996 (38),Le Havre (8),Monaco (8),1-2,0-0
+?,(Fri) Sep/20 1996 (38),Lille (8),Marseille (8),1-1,1-0
+?,(Fri) Sep/20 1996 (38),Lyon (8),Cannes (8),3-1,2-0
+?,(Fri) Sep/20 1996 (38),Metz (8),Montpellier (8),1-1,1-1
+?,(Fri) Sep/20 1996 (38),Nice (8),Strasbourg (8),1-1,0-1
+?,(Fri) Sep/20 1996 (38),Paris SG (8),Lens (8),4-0,2-0
+?,(Fri) Sep/20 1996 (38),Rennes (8),Nancy (8),1-0,0-0
+?,(Sat) Sep/28 1996 (39),Caen (9),Nice (9),1-2,?
+?,(Sat) Sep/28 1996 (39),Cannes (9),Le Havre (9),2-0,2-0
+?,(Sat) Sep/28 1996 (39),Lens (9),Lyon (9),0-1,0-0
+?,(Sat) Sep/28 1996 (39),Marseille (9),Bordeaux (9),0-0,0-0
+?,(Sat) Sep/28 1996 (39),Monaco (9),Metz (9),1-1,0-1
+?,(Sat) Sep/28 1996 (39),Montpellier (9),Auxerre (9),0-0,0-0
+?,(Sat) Sep/28 1996 (39),Nancy (9),Bastia (9),2-2,2-1
+?,(Sat) Sep/28 1996 (39),Nantes (9),Rennes (9),3-3,1-1
+?,(Sat) Sep/28 1996 (39),Strasbourg (9),Lille (9),3-0,0-0
+?,(Sun) Sep/29 1996 (39),Guingamp (9),Paris SG (9),2-2,2-1
+?,(Tue) Oct/1 1996 (40),Le Havre (10),Lens (10),0-0,0-0
+?,(Wed) Oct/2 1996 (40),Auxerre (10),Monaco (10),2-0,0-0
+?,(Wed) Oct/2 1996 (40),Bastia (10),Nantes (10),0-0,0-0
+?,(Wed) Oct/2 1996 (40),Bordeaux (10),Strasbourg (10),1-2,0-0
+?,(Wed) Oct/2 1996 (40),Lille (10),Caen (10),1-0,1-0
+?,(Wed) Oct/2 1996 (40),Lyon (10),Paris SG (10),1-1,0-0
+?,(Wed) Oct/2 1996 (40),Marseille (10),Guingamp (10),2-1,1-0
+?,(Wed) Oct/2 1996 (40),Metz (10),Cannes (10),0-0,0-0
+?,(Wed) Oct/2 1996 (40),Nice (10),Nancy (10),1-0,1-0
+?,(Wed) Oct/2 1996 (40),Rennes (10),Montpellier (10),2-0,1-0
+?,(Sat) Oct/5 1996 (40),Caen (11),Bordeaux (11),0-0,0-0
+?,(Sat) Oct/5 1996 (40),Cannes (11),Auxerre (11),1-1,1-0
+?,(Sat) Oct/5 1996 (40),Guingamp (11),Lyon (11),1-0,1-0
+?,(Sat) Oct/5 1996 (40),Lens (11),Metz (11),2-2,0-2
+?,(Sat) Oct/5 1996 (40),Monaco (11),Rennes (11),3-1,2-1
+?,(Sat) Oct/5 1996 (40),Montpellier (11),Bastia (11),3-1,2-0
+?,(Sat) Oct/5 1996 (40),Nancy (11),Lille (11),2-2,1-1
+?,(Sat) Oct/5 1996 (40),Nantes (11),Nice (11),7-0,3-0
+?,(Sat) Oct/5 1996 (40),Paris SG (11),Le Havre (11),2-0,1-0
+?,(Sat) Oct/5 1996 (40),Strasbourg (11),Marseille (11),2-1,0-0
+?,(Sat) Oct/12 1996 (41),Auxerre (12),Lens (12),1-0,0-0
+?,(Sat) Oct/12 1996 (41),Bastia (12),Monaco (12),0-0,0-0
+?,(Sat) Oct/12 1996 (41),Bordeaux (12),Nancy (12),0-1,0-1
+?,(Sat) Oct/12 1996 (41),Le Havre (12),Lyon (12),4-1,2-1
+?,(Sat) Oct/12 1996 (41),Lille (12),Nantes (12),3-3,2-1
+?,(Sat) Oct/12 1996 (41),Marseille (12),Caen (12),0-1,0-0
+?,(Sat) Oct/12 1996 (41),Metz (12),Paris SG (12),0-1,0-1
+?,(Sat) Oct/12 1996 (41),Nice (12),Montpellier (12),1-1,1-1
+?,(Sat) Oct/12 1996 (41),Strasbourg (12),Guingamp (12),2-1,2-1
+?,(Sun) Oct/13 1996 (41),Rennes (12),Cannes (12),3-0,1-0
+?,(Sat) Oct/19 1996 (42),Caen (13),Strasbourg (13),3-0,1-0
+?,(Sat) Oct/19 1996 (42),Cannes (13),Bastia (13),1-1,1-0
+?,(Sat) Oct/19 1996 (42),Guingamp (13),Le Havre (13),2-2,1-0
+?,(Sat) Oct/19 1996 (42),Lens (13),Rennes (13),2-0,1-0
+?,(Sat) Oct/19 1996 (42),Lyon (13),Metz (13),0-0,0-0
+?,(Sat) Oct/19 1996 (42),Monaco (13),Nice (13),4-1,1-1
+?,(Sat) Oct/19 1996 (42),Montpellier (13),Lille (13),0-1,0-1
+?,(Sat) Oct/19 1996 (42),Nancy (13),Marseille (13),0-0,0-0
+?,(Sat) Oct/19 1996 (42),Nantes (13),Bordeaux (13),3-1,2-0
+?,(Sat) Oct/19 1996 (42),Paris SG (13),Auxerre (13),1-1,1-0
+?,(Fri) Oct/25 1996 (43),Bordeaux (14),Montpellier (14),3-1,2-0
+?,(Sat) Oct/26 1996 (43),Auxerre (14),Lyon (14),7-0,1-0
+?,(Sat) Oct/26 1996 (43),Bastia (14),Lens (14),0-1,0-1
+?,(Sat) Oct/26 1996 (43),Caen (14),Guingamp (14),0-1,0-0
+?,(Sat) Oct/26 1996 (43),Lille (14),Monaco (14),1-4,0-1
+?,(Sat) Oct/26 1996 (43),Marseille (14),Nantes (14),0-1,0-0
+?,(Sat) Oct/26 1996 (43),Metz (14),Le Havre (14),1-2,1-1
+?,(Sat) Oct/26 1996 (43),Nice (14),Cannes (14),0-0,0-0
+?,(Sat) Oct/26 1996 (43),Rennes (14),Paris SG (14),2-1,0-0
+?,(Sat) Oct/26 1996 (43),Strasbourg (14),Nancy (14),3-1,1-1
+?,(Sat) Nov/2 1996 (44),Cannes (15),Lille (15),0-1,0-1
+?,(Sat) Nov/2 1996 (44),Guingamp (15),Metz (15),0-1,0-0
+?,(Sat) Nov/2 1996 (44),Le Havre (15),Auxerre (15),0-2,0-1
+?,(Sat) Nov/2 1996 (44),Lens (15),Nice (15),3-2,0-1
+?,(Sat) Nov/2 1996 (44),Lyon (15),Rennes (15),2-0,1-0
+?,(Sat) Nov/2 1996 (44),Monaco (15),Bordeaux (15),3-1,2-0
+?,(Sat) Nov/2 1996 (44),Montpellier (15),Marseille (15),2-0,1-0
+?,(Sat) Nov/2 1996 (44),Nancy (15),Caen (15),1-2,0-0
+?,(Sat) Nov/2 1996 (44),Nantes (15),Strasbourg (15),3-0,2-0
+?,(Sun) Nov/3 1996 (44),Paris SG (15),Bastia (15),3-0,1-0
+?,(Tue) Nov/5 1996 (45),Marseille (16),Monaco (16),3-1,3-0
+?,(Wed) Nov/6 1996 (45),Auxerre (16),Metz (16),2-3,1-1
+?,(Wed) Nov/6 1996 (45),Bastia (16),Lyon (16),3-1,2-1
+?,(Wed) Nov/6 1996 (45),Bordeaux (16),Cannes (16),1-0,0-0
+?,(Wed) Nov/6 1996 (45),Caen (16),Nantes (16),0-0,0-0
+?,(Wed) Nov/6 1996 (45),Lille (16),Lens (16),2-1,2-0
+?,(Wed) Nov/6 1996 (45),Nancy (16),Guingamp (16),2-0,1-0
+?,(Wed) Nov/6 1996 (45),Nice (16),Paris SG (16),0-1,0-0
+?,(Wed) Nov/6 1996 (45),Rennes (16),Le Havre (16),1-1,1-1
+?,(Wed) Nov/6 1996 (45),Strasbourg (16),Montpellier (16),2-1,1-0
+?,(Tue) Nov/12 1996 (46),Nantes (17),Nancy (17),2-0,1-0
+?,(Wed) Nov/13 1996 (46),Cannes (17),Marseille (17),0-0,0-0
+?,(Wed) Nov/13 1996 (46),Guingamp (17),Auxerre (17),0-0,0-0
+?,(Wed) Nov/13 1996 (46),Le Havre (17),Bastia (17),0-1,0-0
+?,(Wed) Nov/13 1996 (46),Lens (17),Bordeaux (17),3-4,1-3
+?,(Wed) Nov/13 1996 (46),Lyon (17),Nice (17),3-1,2-1
+?,(Wed) Nov/13 1996 (46),Metz (17),Rennes (17),2-0,1-0
+?,(Wed) Nov/13 1996 (46),Monaco (17),Strasbourg (17),2-0,0-0
+?,(Wed) Nov/13 1996 (46),Montpellier (17),Caen (17),0-0,0-0
+?,(Wed) Nov/13 1996 (46),Paris SG (17),Lille (17),3-1,2-1
+?,(Sat) Nov/16 1996 (46),Bastia (18),Metz (18),2-1,0-0
+?,(Sat) Nov/16 1996 (46),Bordeaux (18),Paris SG (18),5-3,2-2
+?,(Sat) Nov/16 1996 (46),Caen (18),Monaco (18),0-1,0-0
+?,(Sat) Nov/16 1996 (46),Marseille (18),Lens (18),2-1,2-1
+?,(Sat) Nov/16 1996 (46),Nancy (18),Montpellier (18),0-0,0-0
+?,(Sat) Nov/16 1996 (46),Nantes (18),Guingamp (18),1-1,1-1
+?,(Sat) Nov/16 1996 (46),Nice (18),Le Havre (18),0-3,0-1
+?,(Sat) Nov/16 1996 (46),Rennes (18),Auxerre (18),1-0,0-0
+?,(Sat) Nov/16 1996 (46),Strasbourg (18),Cannes (18),2-0,0-0
+?,(Sun) Nov/17 1996 (46),Lille (18),Lyon (18),1-1,0-0
+?,(Fri) Nov/22 1996 (47),Paris SG (19),Marseille (19),0-0,0-0
+?,(Sat) Nov/23 1996 (47),Auxerre (19),Bastia (19),1-2,1-1
+?,(Sat) Nov/23 1996 (47),Cannes (19),Caen (19),2-0,1-0
+?,(Sat) Nov/23 1996 (47),Guingamp (19),Rennes (19),1-0,1-0
+?,(Sat) Nov/23 1996 (47),Le Havre (19),Lille (19),0-0,0-0
+?,(Sat) Nov/23 1996 (47),Lens (19),Strasbourg (19),1-2,0-0
+?,(Sat) Nov/23 1996 (47),Lyon (19),Bordeaux (19),2-2,2-1
+?,(Sat) Nov/23 1996 (47),Metz (19),Nice (19),1-0,0-0
+?,(Sat) Nov/23 1996 (47),Monaco (19),Nancy (19),2-0,1-0
+?,(Sat) Nov/23 1996 (47),Montpellier (19),Nantes (19),2-2,1-1
+?,(Thu) Nov/28 1996 (48),Bordeaux (20),Metz (20),1-0,1-0
+?,(Thu) Nov/28 1996 (48),Montpellier (20),Monaco (20),0-1,0-0
+?,(Fri) Nov/29 1996 (48),Caen (20),Paris SG (20),1-3,1-1
+?,(Fri) Nov/29 1996 (48),Guingamp (20),Bastia (20),2-1,1-0
+?,(Fri) Nov/29 1996 (48),Lille (20),Auxerre (20),0-1,0-1
+?,(Fri) Nov/29 1996 (48),Marseille (20),Le Havre (20),0-0,0-0
+?,(Fri) Nov/29 1996 (48),Nancy (20),Lens (20),1-1,0-0
+?,(Fri) Nov/29 1996 (48),Nantes (20),Cannes (20),5-1,2-0
+?,(Fri) Nov/29 1996 (48),Nice (20),Rennes (20),3-1,1-1
+?,(Fri) Nov/29 1996 (48),Strasbourg (20),Lyon (20),3-0,1-0
+?,(Fri) Dec/6 1996 (49),Lens (21),Nantes (21),0-4,0-2
+?,(Fri) Dec/6 1996 (49),Paris SG (21),Nancy (21),1-2,1-0
+?,(Sat) Dec/7 1996 (49),Auxerre (21),Bordeaux (21),2-1,1-1
+?,(Sat) Dec/7 1996 (49),Bastia (21),Nice (21),1-0,1-0
+?,(Sat) Dec/7 1996 (49),Cannes (21),Montpellier (21),1-0,1-0
+?,(Sat) Dec/7 1996 (49),Le Havre (21),Strasbourg (21),2-0,1-0
+?,(Sat) Dec/7 1996 (49),Lyon (21),Caen (21),3-0,0-0
+?,(Sat) Dec/7 1996 (49),Metz (21),Marseille (21),1-1,1-0
+?,(Sat) Dec/7 1996 (49),Monaco (21),Guingamp (21),0-0,0-0
+?,(Sat) Dec/7 1996 (49),Rennes (21),Lille (21),2-0,0-0
+?,(Sat) Dec/14 1996 (50),Bordeaux (22),Rennes (22),2-0,1-0
+?,(Sat) Dec/14 1996 (50),Caen (22),Le Havre (22),4-0,2-0
+?,(Sat) Dec/14 1996 (50),Guingamp (22),Nice (22),0-1,0-0
+?,(Sat) Dec/14 1996 (50),Lille (22),Bastia (22),1-2,0-1
+?,(Sat) Dec/14 1996 (50),Monaco (22),Cannes (22),1-0,0-0
+?,(Sat) Dec/14 1996 (50),Montpellier (22),Lens (22),1-0,0-0
+?,(Sat) Dec/14 1996 (50),Nancy (22),Lyon (22),2-3,1-1
+?,(Sat) Dec/14 1996 (50),Nantes (22),Paris SG (22),0-0,0-0
+?,(Sat) Dec/14 1996 (50),Strasbourg (22),Metz (22),0-1,0-1
+?,(Sun) Dec/15 1996 (50),Marseille (22),Auxerre (22),3-0,1-0
+?,(Thu) Dec/19 1996 (51),Bastia (23),Bordeaux (23),3-1,3-1
+?,(Fri) Dec/20 1996 (51),Auxerre (23),Strasbourg (23),0-1,0-0
+?,(Fri) Dec/20 1996 (51),Cannes (23),Guingamp (23),1-0,0-0
+?,(Fri) Dec/20 1996 (51),Le Havre (23),Nancy (23),1-3,1-1
+?,(Fri) Dec/20 1996 (51),Lens (23),Monaco (23),1-3,0-3
+?,(Fri) Dec/20 1996 (51),Lyon (23),Nantes (23),0-1,0-0
+?,(Fri) Dec/20 1996 (51),Metz (23),Caen (23),2-2,0-1
+?,(Fri) Dec/20 1996 (51),Nice (23),Lille (23),1-1,1-0
+?,(Fri) Dec/20 1996 (51),Paris SG (23),Montpellier (23),1-1,1-0
+?,(Fri) Dec/20 1996 (51),Rennes (23),Marseille (23),4-2,1-2
+?,(Sat) Jan/25 1997 (3),Bordeaux (24),Nice (24),4-1,0-0
+?,(Sat) Jan/25 1997 (3),Cannes (24),Lens (24),0-0,0-0
+?,(Sat) Jan/25 1997 (3),Guingamp (24),Lille (24),1-0,0-0
+?,(Sat) Jan/25 1997 (3),Marseille (24),Bastia (24),1-0,1-0
+?,(Sat) Jan/25 1997 (3),Montpellier (24),Lyon (24),2-1,2-0
+?,(Sat) Jan/25 1997 (3),Nancy (24),Metz (24),2-3,0-1
+?,(Sat) Jan/25 1997 (3),Nantes (24),Le Havre (24),1-1,0-0
+?,(Sat) Jan/25 1997 (3),Strasbourg (24),Rennes (24),3-0,1-0
+?,(Sun) Jan/26 1997 (3),Caen (24),Auxerre (24),2-3,0-1
+?,(Sun) Jan/26 1997 (3),Monaco (24),Paris SG (24),2-0,0-0
+?,(Sat) Feb/1 1997 (4),Auxerre (25),Nancy (25),1-0,0-0
+?,(Sat) Feb/1 1997 (4),Le Havre (25),Montpellier (25),0-0,0-0
+?,(Sat) Feb/1 1997 (4),Lens (25),Guingamp (25),2-1,1-0
+?,(Sat) Feb/1 1997 (4),Lille (25),Bordeaux (25),0-0,0-0
+?,(Sat) Feb/1 1997 (4),Metz (25),Nantes (25),0-1,0-0
+?,(Sat) Feb/1 1997 (4),Nice (25),Marseille (25),0-0,0-0
+?,(Sat) Feb/1 1997 (4),Paris SG (25),Cannes (25),1-1,1-0
+?,(Sat) Feb/1 1997 (4),Rennes (25),Caen (25),1-1,?
+?,(Sun) Feb/2 1997 (4),Bastia (25),Strasbourg (25),3-1,2-0
+?,(Sun) Feb/2 1997 (4),Lyon (25),Monaco (25),3-3,1-1
+?,(Thu) Feb/13 1997 (6),Lens (26),Paris SG (26),1-2,1-0
+?,(Thu) Feb/13 1997 (6),Nantes (26),Auxerre (26),0-0,0-0
+?,(Fri) Feb/14 1997 (6),Cannes (26),Lyon (26),0-1,0-1
+?,(Fri) Feb/14 1997 (6),Guingamp (26),Bordeaux (26),2-2,0-1
+?,(Fri) Feb/14 1997 (6),Marseille (26),Lille (26),5-1,0-1
+?,(Fri) Feb/14 1997 (6),Monaco (26),Le Havre (26),3-0,2-0
+?,(Fri) Feb/14 1997 (6),Montpellier (26),Metz (26),1-0,1-0
+?,(Fri) Feb/14 1997 (6),Nancy (26),Rennes (26),1-0,0-0
+?,(Fri) Feb/14 1997 (6),Strasbourg (26),Nice (26),3-1,2-1
+?,(Fri) Feb/21 1997 (7),Lyon (27),Lens (27),0-0,0-0
+?,(Fri) Feb/21 1997 (7),Rennes (27),Nantes (27),0-1,0-0
+?,(Sat) Feb/22 1997 (7),Auxerre (27),Montpellier (27),0-2,0-0
+?,(Sat) Feb/22 1997 (7),Bastia (26),Nancy (27),2-0,0-0
+?,(Sat) Feb/22 1997 (7),Bordeaux (27),Marseille (27),4-0,2-0
+?,(Sat) Feb/22 1997 (7),Le Havre (27),Cannes (27),0-0,0-0
+?,(Sat) Feb/22 1997 (7),Lille (27),Strasbourg (27),2-4,1-2
+?,(Sat) Feb/22 1997 (7),Metz (27),Monaco (27),2-0,1-0
+?,(Sat) Feb/22 1997 (7),Nice (27),Caen (26),1-1,1-1
+?,(Sat) Feb/22 1997 (7),Paris SG (27),Guingamp (27),1-1,0-1
+?,(Sat) Mar/8 1997 (9),Caen (27),Lille (28),1-0,1-0
+?,(Sat) Mar/8 1997 (9),Cannes (28),Metz (28),0-0,0-0
+?,(Sat) Mar/8 1997 (9),Guingamp (28),Marseille (28),3-1,2-0
+?,(Sat) Mar/8 1997 (9),Lens (28),Le Havre (28),0-1,0-1
+?,(Sat) Mar/8 1997 (9),Montpellier (28),Rennes (28),0-0,0-0
+?,(Sat) Mar/8 1997 (9),Nancy (28),Nice (28),1-0,0-0
+?,(Sat) Mar/8 1997 (9),Nantes (28),Bastia (27),3-0,2-0
+?,(Sat) Mar/8 1997 (9),Strasbourg (28),Bordeaux (28),1-1,1-1
+?,(Sun) Mar/9 1997 (9),Monaco (28),Auxerre (28),0-0,0-0
+?,(Sun) Mar/9 1997 (9),Paris SG (28),Lyon (28),3-1,0-1
+?,(Fri) Mar/14 1997 (10),Auxerre (29),Cannes (29),3-1,2-0
+?,(Fri) Mar/14 1997 (10),Bastia (28),Montpellier (29),2-2,0-1
+?,(Fri) Mar/14 1997 (10),Le Havre (29),Paris SG (29),1-0,0-0
+?,(Fri) Mar/14 1997 (10),Lille (29),Nancy (29),2-0,1-0
+?,(Fri) Mar/14 1997 (10),Marseille (29),Strasbourg (29),0-1,0-0
+?,(Fri) Mar/14 1997 (10),Nice (29),Nantes (29),1-2,0-1
+?,(Fri) Mar/14 1997 (10),Rennes (29),Monaco (29),0-3,0-1
+?,(Sat) Mar/15 1997 (10),Bordeaux (29),Caen (28),3-1,2-1
+?,(Sat) Mar/15 1997 (10),Lyon (29),Guingamp (29),2-1,1-0
+?,(Sat) Mar/15 1997 (10),Metz (29),Lens (29),2-0,1-0
+?,(Sat) Mar/22 1997 (11),Cannes (30),Rennes (30),1-0,1-0
+?,(Sat) Mar/22 1997 (11),Guingamp (30),Strasbourg (30),2-1,1-1
+?,(Sat) Mar/22 1997 (11),Lens (30),Auxerre (30),2-1,1-0
+?,(Sat) Mar/22 1997 (11),Lyon (30),Le Havre (30),2-1,1-0
+?,(Sat) Mar/22 1997 (11),Monaco (30),Bastia (29),3-1,1-1
+?,(Sat) Mar/22 1997 (11),Montpellier (30),Nice (30),2-1,2-0
+?,(Sat) Mar/22 1997 (11),Nancy (30),Bordeaux (30),1-1,0-0
+?,(Sat) Mar/22 1997 (11),Nantes (30),Lille (30),1-0,0-0
+?,(Sun) Mar/23 1997 (11),Caen (29),Marseille (30),1-0,1-0
+?,(Sun) Mar/23 1997 (11),Paris SG (30),Metz (30),2-0,2-0
+?,(Tue) Mar/25 1997 (12),Bordeaux (31),Nantes (31),0-0,0-0
+?,(Tue) Mar/25 1997 (12),Lille (31),Montpellier (31),0-4,?
+?,(Wed) Mar/26 1997 (12),Auxerre (31),Paris SG (31),2-1,1-1
+?,(Wed) Mar/26 1997 (12),Bastia (30),Cannes (31),1-0,?
+?,(Wed) Mar/26 1997 (12),Le Havre (31),Guingamp (31),0-1,?
+?,(Wed) Mar/26 1997 (12),Marseille (31),Nancy (31),4-1,?
+?,(Wed) Mar/26 1997 (12),Metz (31),Lyon (31),0-1,?
+?,(Wed) Mar/26 1997 (12),Nice (31),Monaco (31),0-2,0-1
+?,(Wed) Mar/26 1997 (12),Rennes (31),Lens (31),2-2,?
+?,(Wed) Mar/26 1997 (12),Strasbourg (31),Caen (30),2-0,?
+?,(Fri) Apr/4 1997 (13),Monaco (32),Lille (32),2-0,0-0
+?,(Sat) Apr/5 1997 (13),Cannes (32),Nice (32),1-1,0-1
+?,(Sat) Apr/5 1997 (13),Le Havre (32),Metz (32),0-0,0-0
+?,(Sat) Apr/5 1997 (13),Lyon (32),Auxerre (32),2-0,0-0
+?,(Sat) Apr/5 1997 (13),Montpellier (32),Bordeaux (32),2-0,2-0
+?,(Sat) Apr/5 1997 (13),Nancy (32),Strasbourg (32),2-0,1-0
+?,(Sat) Apr/5 1997 (13),Nantes (32),Marseille (32),1-1,1-0
+?,(Sat) Apr/5 1997 (13),Paris SG (32),Rennes (32),1-1,0-1
+?,(Sun) Apr/6 1997 (13),Guingamp (32),Caen (31),1-1,?
+?,(Sun) Apr/6 1997 (13),Lens (32),Bastia (31),1-1,?
+?,(Fri) Apr/11 1997 (14),Caen (32),Bastia (32),2-2,?
+?,(Tue) Apr/15 1997 (15),Bastia (33),Paris SG (33),1-1,1-1
+?,(Wed) Apr/16 1997 (15),Auxerre (33),Le Havre (33),2-0,1-0
+?,(Wed) Apr/16 1997 (15),Bordeaux (33),Monaco (33),2-1,0-0
+?,(Wed) Apr/16 1997 (15),Caen (33),Nancy (33),1-1,1-1
+?,(Wed) Apr/16 1997 (15),Marseille (33),Montpellier (33),2-2,0-1
+?,(Wed) Apr/16 1997 (15),Metz (33),Guingamp (33),2-0,1-0
+?,(Wed) Apr/16 1997 (15),Nice (33),Lens (33),1-2,1-0
+?,(Wed) Apr/16 1997 (15),Rennes (33),Lyon (33),2-1,2-0
+?,(Wed) Apr/16 1997 (15),Strasbourg (33),Nantes (33),0-1,0-0
+?,(Thu) Apr/17 1997 (15),Lille (33),Cannes (33),1-2,?
+?,(Sat) Apr/26 1997 (16),Cannes (34),Bordeaux (34),1-1,0-1
+?,(Sat) Apr/26 1997 (16),Guingamp (34),Nancy (34),0-1,0-1
+?,(Sat) Apr/26 1997 (16),Le Havre (34),Rennes (34),1-1,0-1
+?,(Sat) Apr/26 1997 (16),Lens (34),Lille (34),1-0,1-0
+?,(Sat) Apr/26 1997 (16),Lyon (34),Bastia (34),4-2,1-2
+?,(Sat) Apr/26 1997 (16),Metz (34),Auxerre (34),1-0,1-0
+?,(Sat) Apr/26 1997 (16),Monaco (34),Marseille (34),1-1,0-1
+?,(Sat) Apr/26 1997 (16),Montpellier (34),Strasbourg (34),1-4,1-2
+?,(Sat) Apr/26 1997 (16),Nantes (34),Caen (34),1-1,0-0
+?,(Sun) Apr/27 1997 (16),Paris SG (34),Nice (34),5-0,1-0
+?,(Tue) Apr/29 1997 (17),Caen (35),Montpellier (35),0-1,0-0
+?,(Tue) Apr/29 1997 (17),Strasbourg (35),Monaco (35),0-2,0-0
+?,(Wed) Apr/30 1997 (17),Auxerre (35),Guingamp (35),1-0,?
+?,(Wed) Apr/30 1997 (17),Bastia (35),Le Havre (35),1-2,?
+?,(Wed) Apr/30 1997 (17),Bordeaux (35),Lens (35),2-1,?
+?,(Wed) Apr/30 1997 (17),Lille (35),Paris SG (35),0-1,0-1
+?,(Wed) Apr/30 1997 (17),Marseille (35),Cannes (35),3-1,?
+?,(Wed) Apr/30 1997 (17),Nancy (35),Nantes (35),1-3,?
+?,(Wed) Apr/30 1997 (17),Nice (35),Lyon (35),0-1,?
+?,(Wed) Apr/30 1997 (17),Rennes (35),Metz (35),1-3,?
+?,(Sat) May/3 1997 (17),Auxerre (36),Rennes (36),4-1,2-0
+?,(Sat) May/3 1997 (17),Guingamp (36),Nantes (36),0-0,0-0
+?,(Sat) May/3 1997 (17),Le Havre (36),Nice (36),1-0,?
+?,(Sat) May/3 1997 (17),Lens (36),Marseille (36),2-0,?
+?,(Sat) May/3 1997 (17),Lyon (36),Lille (36),0-0,0-0
+?,(Sat) May/3 1997 (17),Metz (36),Bastia (36),1-0,0-0
+?,(Sat) May/3 1997 (17),Montpellier (36),Nancy (36),1-1,?
+?,(Sat) May/3 1997 (17),Paris SG (36),Bordeaux (36),2-2,1-1
+?,(Sun) May/4 1997 (17),Cannes (36),Strasbourg (36),2-2,?
+?,(Sun) May/4 1997 (17),Monaco (36),Caen (36),2-2,0-0
+?,(Sat) May/17 1997 (19),Bastia (37),Auxerre (37),2-1,0-1
+?,(Sat) May/17 1997 (19),Bordeaux (37),Lyon (37),2-2,2-1
+?,(Sat) May/17 1997 (19),Caen (37),Cannes (37),3-0,?
+?,(Sat) May/17 1997 (19),Lille (37),Le Havre (37),2-2,?
+?,(Sat) May/17 1997 (19),Marseille (37),Paris SG (37),1-0,1-0
+?,(Sat) May/17 1997 (19),Nancy (37),Monaco (37),1-3,1-0
+?,(Sat) May/17 1997 (19),Nantes (37),Montpellier (37),3-0,2-0
+?,(Sat) May/17 1997 (19),Nice (37),Metz (37),3-0,2-0
+?,(Sat) May/17 1997 (19),Rennes (37),Guingamp (37),1-1,?
+?,(Sat) May/17 1997 (19),Strasbourg (37),Lens (37),1-0,0-0
+?,(Sat) May/24 1997 (20),Auxerre (38),Nice (38),3-1,1-0
+?,(Sat) May/24 1997 (20),Cannes (38),Nancy (38),0-1,0-0
+?,(Sat) May/24 1997 (20),Le Havre (38),Bordeaux (38),1-2,0-2
+?,(Sat) May/24 1997 (20),Lens (38),Caen (38),0-0,0-0
+?,(Sat) May/24 1997 (20),Lyon (38),Marseille (38),8-0,7-0
+?,(Sat) May/24 1997 (20),Metz (38),Lille (38),1-0,0-0
+?,(Sat) May/24 1997 (20),Monaco (38),Nantes (38),2-1,0-1
+?,(Sat) May/24 1997 (20),Montpellier (38),Guingamp (38),1-0,0-0
+?,(Sat) May/24 1997 (20),Paris SG (38),Strasbourg (38),2-1,0-0
+?,(Sat) May/24 1997 (20),Rennes (38),Bastia (38),1-3,0-2

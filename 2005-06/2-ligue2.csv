@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,2005-07-29,Amiens,Grenoble,3-0,1-0,Fri,30
-?,2005-07-29,Brest,Gueugnon,0-0,0-0,Fri,30
-?,2005-07-29,Chateauroux,Bastia,1-1,0-0,Fri,30
-?,2005-07-29,Clermont,Sete,0-0,0-0,Fri,30
-?,2005-07-29,Creteil,Caen,3-2,1-0,Fri,30
-?,2005-07-29,Laval,Istres,0-1,0-0,Fri,30
-?,2005-07-29,Montpellier,Le Havre,2-1,1-0,Fri,30
-?,2005-07-29,Reims,Lorient,1-2,0-1,Fri,30
-?,2005-07-29,Valenciennes,Dijon,2-1,2-1,Fri,30
-?,2005-08-01,Guingamp,Sedan,1-1,0-1,Mon,31
-?,2005-08-03,Lorient,Laval,2-1,1-1,Wed,31
-?,2005-08-05,Bastia,Creteil,1-1,1-0,Fri,31
-?,2005-08-05,Grenoble,Reims,1-0,0-0,Fri,31
-?,2005-08-05,Gueugnon,Valenciennes,2-0,1-0,Fri,31
-?,2005-08-05,Istres,Guingamp,0-0,0-0,Fri,31
-?,2005-08-05,Le Havre,Chateauroux,0-3,0-0,Fri,31
-?,2005-08-05,Montpellier,Brest,1-1,0-1,Fri,31
-?,2005-08-05,Sedan,Sete,2-1,0-1,Fri,31
-?,2005-08-08,Dijon,Clermont,1-1,0-0,Mon,32
-?,2005-08-12,Amiens,Bastia,1-2,0-1,Fri,32
-?,2005-08-12,Brest,Le Havre,2-2,1-1,Fri,32
-?,2005-08-12,Chateauroux,Montpellier,2-1,0-1,Fri,32
-?,2005-08-12,Clermont,Sedan,1-0,0-0,Fri,32
-?,2005-08-12,Creteil,Gueugnon,4-0,3-0,Fri,32
-?,2005-08-12,Guingamp,Lorient,1-1,0-0,Fri,32
-?,2005-08-12,Laval,Dijon,0-1,0-1,Fri,32
-?,2005-08-12,Reims,Caen,2-0,1-0,Fri,32
-?,2005-08-12,Sete,Istres,1-2,1-1,Fri,32
-?,2005-08-12,Valenciennes,Grenoble,2-0,2-0,Fri,32
-?,2005-08-15,Chateauroux,Reims,1-0,0-0,Mon,33
-?,2005-08-16,Bastia,Brest,4-1,1-1,Tue,33
-?,2005-08-16,Caen,Valenciennes,0-2,0-0,Tue,33
-?,2005-08-16,Dijon,Guingamp,1-2,1-1,Tue,33
-?,2005-08-16,Grenoble,Laval,2-1,0-1,Tue,33
-?,2005-08-16,Gueugnon,Clermont,2-0,2-0,Tue,33
-?,2005-08-16,Istres,Sedan,2-2,0-2,Tue,33
-?,2005-08-16,Le Havre,Creteil,1-1,0-1,Tue,33
-?,2005-08-16,Lorient,Sete,3-1,0-1,Tue,33
-?,2005-08-18,Montpellier,Amiens,2-1,2-1,Thu,33
-?,2005-08-19,Brest,Chateauroux,1-0,0-0,Fri,33
-?,2005-08-19,Clermont,Istres,1-0,0-0,Fri,33
-?,2005-08-19,Guingamp,Grenoble,0-1,0-1,Fri,33
-?,2005-08-19,Laval,Caen,1-0,0-0,Fri,33
-?,2005-08-19,Reims,Gueugnon,0-0,0-0,Fri,33
-?,2005-08-19,Sedan,Lorient,1-0,1-0,Fri,33
-?,2005-08-19,Sete,Dijon,0-0,0-0,Fri,33
-?,2005-08-21,Amiens,Le Havre,3-0,1-0,Sun,33
-?,2005-08-21,Creteil,Montpellier,3-0,1-0,Sun,33
-?,2005-08-22,Valenciennes,Bastia,0-1,0-1,Mon,34
-?,2005-08-26,Bastia,Reims,0-1,0-1,Fri,34
-?,2005-08-26,Brest,Clermont,2-0,2-0,Fri,34
-?,2005-08-26,Caen,Guingamp,0-0,0-0,Fri,34
-?,2005-08-26,Chateauroux,Creteil,0-2,0-1,Fri,34
-?,2005-08-26,Dijon,Sedan,0-1,0-1,Fri,34
-?,2005-08-26,Grenoble,Sete,0-0,0-0,Fri,34
-?,2005-08-26,Le Havre,Valenciennes,3-0,1-0,Fri,34
-?,2005-08-26,Lorient,Istres,1-1,0-1,Fri,34
-?,2005-08-26,Montpellier,Laval,1-2,0-1,Fri,34
-?,2005-08-29,Gueugnon,Amiens,0-0,0-0,Mon,35
-?,2005-09-02,Caen,Amiens,3-0,3-0,Fri,35
-?,2005-09-08,Amiens,Chateauroux,1-1,0-1,Thu,36
-?,2005-09-09,Clermont,Lorient,0-3,0-1,Fri,36
-?,2005-09-09,Creteil,Brest,0-0,0-0,Fri,36
-?,2005-09-09,Guingamp,Gueugnon,0-0,0-0,Fri,36
-?,2005-09-09,Istres,Dijon,1-1,1-0,Fri,36
-?,2005-09-09,Reims,Le Havre,0-2,0-1,Fri,36
-?,2005-09-09,Sedan,Grenoble,2-1,0-0,Fri,36
-?,2005-09-09,Sete,Caen,1-1,0-0,Fri,36
-?,2005-09-09,Valenciennes,Montpellier,2-1,0-0,Fri,36
-?,2005-09-12,Laval,Bastia,1-2,1-0,Mon,37
-?,2005-09-16,Bastia,Clermont,4-0,2-0,Fri,37
-?,2005-09-16,Brest,Amiens,0-1,0-1,Fri,37
-?,2005-09-16,Chateauroux,Valenciennes,1-1,0-1,Fri,37
-?,2005-09-16,Creteil,Guingamp,2-1,1-0,Fri,37
-?,2005-09-16,Dijon,Lorient,0-0,0-0,Fri,37
-?,2005-09-16,Grenoble,Istres,0-0,0-0,Fri,37
-?,2005-09-16,Gueugnon,Sete,3-3,1-2,Fri,37
-?,2005-09-16,Le Havre,Laval,4-0,2-0,Fri,37
-?,2005-09-16,Montpellier,Reims,0-0,0-0,Fri,37
-?,2005-09-19,Caen,Sedan,1-1,0-0,Mon,38
-?,2005-09-23,Amiens,Creteil,1-0,1-0,Fri,38
-?,2005-09-23,Clermont,Le Havre,2-2,1-1,Fri,38
-?,2005-09-23,Guingamp,Bastia,0-1,0-1,Fri,38
-?,2005-09-23,Laval,Chateauroux,1-1,1-0,Fri,38
-?,2005-09-23,Lorient,Grenoble,1-2,0-1,Fri,38
-?,2005-09-23,Reims,Dijon,0-1,0-0,Fri,38
-?,2005-09-25,Sedan,Gueugnon,2-0,2-0,Sun,38
-?,2005-09-25,Valenciennes,Brest,1-1,1-1,Sun,38
-?,2005-09-26,Sete,Montpellier,2-0,1-0,Mon,39
-?,2005-09-30,Amiens,Clermont,0-0,0-0,Fri,39
-?,2005-09-30,Brest,Reims,1-1,0-1,Fri,39
-?,2005-09-30,Caen,Lorient,1-0,0-0,Fri,39
-?,2005-09-30,Chateauroux,Istres,4-3,3-2,Fri,39
-?,2005-09-30,Creteil,Valenciennes,1-1,1-1,Fri,39
-?,2005-09-30,Grenoble,Dijon,1-2,0-2,Fri,39
-?,2005-09-30,Gueugnon,Laval,1-1,0-0,Fri,39
-?,2005-09-30,Le Havre,Sete,1-0,1-0,Fri,39
-?,2005-09-30,Montpellier,Guingamp,0-0,0-0,Fri,39
-?,2005-10-07,Clermont,Grenoble,1-0,0-0,Fri,40
-?,2005-10-07,Dijon,Caen,0-2,0-1,Fri,40
-?,2005-10-07,Guingamp,Le Havre,1-1,1-1,Fri,40
-?,2005-10-07,Istres,Gueugnon,0-1,0-0,Fri,40
-?,2005-10-07,Laval,Brest,1-0,1-0,Fri,40
-?,2005-10-07,Reims,Creteil,1-0,0-0,Fri,40
-?,2005-10-07,Sedan,Montpellier,2-0,0-0,Fri,40
-?,2005-10-07,Sete,Bastia,1-0,0-0,Fri,40
-?,2005-10-07,Valenciennes,Amiens,0-0,0-0,Fri,40
-?,2005-10-10,Lorient,Chateauroux,2-1,0-0,Mon,41
-?,2005-10-14,Amiens,Reims,0-0,0-0,Fri,41
-?,2005-10-14,Bastia,Lorient,1-1,0-1,Fri,41
-?,2005-10-14,Caen,Grenoble,1-1,1-1,Fri,41
-?,2005-10-14,Chateauroux,Sete,1-0,1-0,Fri,41
-?,2005-10-14,Creteil,Laval,3-1,1-1,Fri,41
-?,2005-10-14,Le Havre,Sedan,0-2,0-2,Fri,41
-?,2005-10-14,Montpellier,Istres,3-1,1-1,Fri,41
-?,2005-10-14,Valenciennes,Clermont,3-0,1-0,Fri,41
-?,2005-10-16,Gueugnon,Dijon,0-0,0-0,Sun,41
-?,2005-10-17,Brest,Guingamp,2-1,1-1,Mon,42
-?,2005-10-18,Istres,Caen,0-0,0-0,Tue,42
-?,2005-10-21,Clermont,Caen,0-3,0-0,Fri,42
-?,2005-10-21,Dijon,Montpellier,2-2,2-1,Fri,42
-?,2005-10-21,Grenoble,Gueugnon,3-0,1-0,Fri,42
-?,2005-10-21,Guingamp,Chateauroux,0-1,0-0,Fri,42
-?,2005-10-21,Laval,Amiens,2-1,1-0,Fri,42
-?,2005-10-21,Lorient,Le Havre,0-0,0-0,Fri,42
-?,2005-10-21,Reims,Valenciennes,0-0,0-0,Fri,42
-?,2005-10-21,Sedan,Creteil,2-1,1-1,Fri,42
-?,2005-10-21,Sete,Brest,1-1,1-1,Fri,42
-?,2005-10-24,Istres,Bastia,1-0,1-0,Mon,43
-?,2005-10-28,Amiens,Istres,2-1,2-0,Fri,43
-?,2005-10-29,Bastia,Grenoble,2-0,0-0,Sat,43
-?,2005-10-29,Chateauroux,Clermont,3-3,0-3,Sat,43
-?,2005-10-29,Creteil,Sete,3-0,1-0,Sat,43
-?,2005-10-29,Gueugnon,Caen,2-2,2-1,Sat,43
-?,2005-10-29,Le Havre,Dijon,1-2,1-0,Sat,43
-?,2005-10-29,Montpellier,Lorient,0-3,0-1,Sat,43
-?,2005-10-29,Reims,Guingamp,0-0,0-0,Sat,43
-?,2005-10-29,Valenciennes,Laval,2-1,2-1,Sat,43
-?,2005-10-31,Brest,Sedan,4-1,1-0,Mon,44
-?,2005-11-04,Clermont,Creteil,2-0,2-0,Fri,44
-?,2005-11-04,Dijon,Bastia,0-2,0-1,Fri,44
-?,2005-11-04,Grenoble,Le Havre,1-1,0-1,Fri,44
-?,2005-11-04,Guingamp,Valenciennes,0-2,0-1,Fri,44
-?,2005-11-04,Istres,Brest,1-0,0-0,Fri,44
-?,2005-11-04,Laval,Reims,2-2,2-1,Fri,44
-?,2005-11-04,Lorient,Gueugnon,2-0,0-0,Fri,44
-?,2005-11-04,Sedan,Chateauroux,1-1,0-0,Fri,44
-?,2005-11-04,Sete,Amiens,4-4,0-2,Fri,44
-?,2005-11-07,Caen,Montpellier,0-0,0-0,Mon,45
-?,2005-11-11,Amiens,Guingamp,0-2,0-1,Fri,45
-?,2005-11-11,Bastia,Gueugnon,2-0,0-0,Fri,45
-?,2005-11-11,Chateauroux,Dijon,1-1,0-0,Fri,45
-?,2005-11-11,Creteil,Istres,4-1,1-0,Fri,45
-?,2005-11-11,Laval,Sedan,0-2,0-0,Fri,45
-?,2005-11-11,Le Havre,Caen,2-0,0-0,Fri,45
-?,2005-11-11,Montpellier,Grenoble,1-1,1-1,Fri,45
-?,2005-11-11,Reims,Clermont,4-1,3-0,Fri,45
-?,2005-11-11,Valenciennes,Sete,2-1,1-1,Fri,45
-?,2005-11-14,Brest,Lorient,0-1,0-0,Mon,46
-?,2005-11-25,Caen,Bastia,4-1,2-0,Fri,47
-?,2005-11-25,Clermont,Montpellier,0-1,0-1,Fri,47
-?,2005-11-25,Dijon,Brest,1-2,0-1,Fri,47
-?,2005-11-25,Gueugnon,Le Havre,1-0,0-0,Fri,47
-?,2005-11-25,Guingamp,Laval,0-2,0-0,Fri,47
-?,2005-11-25,Istres,Valenciennes,1-4,0-0,Fri,47
-?,2005-11-25,Lorient,Creteil,0-0,0-0,Fri,47
-?,2005-11-25,Sete,Reims,1-1,0-0,Fri,47
-?,2005-11-27,Sedan,Amiens,1-1,1-0,Sun,47
-?,2005-11-28,Grenoble,Chateauroux,2-1,0-0,Mon,48
-?,2005-12-02,Amiens,Lorient,1-1,0-0,Fri,48
-?,2005-12-02,Brest,Grenoble,3-1,1-0,Fri,48
-?,2005-12-02,Chateauroux,Caen,1-1,0-1,Fri,48
-?,2005-12-02,Creteil,Dijon,1-2,1-1,Fri,48
-?,2005-12-02,Guingamp,Clermont,3-1,2-1,Fri,48
-?,2005-12-02,Laval,Sete,2-0,1-0,Fri,48
-?,2005-12-02,Montpellier,Gueugnon,3-1,1-0,Fri,48
-?,2005-12-02,Reims,Istres,0-0,0-0,Fri,48
-?,2005-12-04,Valenciennes,Sedan,1-1,1-1,Sun,48
-?,2005-12-05,Le Havre,Bastia,2-2,0-0,Mon,49
-?,2005-12-13,Bastia,Sedan,1-1,1-1,Tue,50
-?,2005-12-16,Caen,Brest,3-1,1-1,Fri,50
-?,2005-12-16,Clermont,Laval,1-0,1-0,Fri,50
-?,2005-12-16,Dijon,Amiens,2-1,0-1,Fri,50
-?,2005-12-16,Gueugnon,Chateauroux,2-1,1-0,Fri,50
-?,2005-12-16,Istres,Le Havre,1-1,1-0,Fri,50
-?,2005-12-16,Sedan,Reims,1-1,1-1,Fri,50
-?,2005-12-16,Sete,Guingamp,1-2,0-1,Fri,50
-?,2005-12-18,Bastia,Montpellier,0-0,0-0,Sun,50
-?,2005-12-18,Lorient,Valenciennes,1-1,1-0,Sun,50
-?,2005-12-19,Grenoble,Creteil,1-0,0-0,Mon,51
-?,2006-01-03,Amiens,Caen,1-1,0-1,Tue,1
-?,2006-01-03,Brest,Montpellier,0-1,0-0,Tue,1
-?,2006-01-03,Chateauroux,Le Havre,3-0,2-0,Tue,1
-?,2006-01-03,Clermont,Dijon,3-3,2-1,Tue,1
-?,2006-01-03,Creteil,Bastia,1-1,0-0,Tue,1
-?,2006-01-03,Guingamp,Istres,2-0,0-0,Tue,1
-?,2006-01-03,Laval,Lorient,0-2,0-0,Tue,1
-?,2006-01-03,Sete,Sedan,0-1,0-1,Tue,1
-?,2006-01-03,Valenciennes,Gueugnon,0-0,0-0,Tue,1
-?,2006-01-09,Sedan,Clermont,3-0,0-0,Mon,2
-?,2006-01-10,Bastia,Amiens,2-0,1-0,Tue,2
-?,2006-01-10,Caen,Reims,1-3,1-1,Tue,2
-?,2006-01-10,Gueugnon,Creteil,0-0,0-0,Tue,2
-?,2006-01-10,Istres,Sete,1-0,1-0,Tue,2
-?,2006-01-10,Lorient,Guingamp,2-1,0-0,Tue,2
-?,2006-01-10,Montpellier,Chateauroux,2-1,1-0,Tue,2
-?,2006-01-11,Grenoble,Valenciennes,2-3,0-0,Wed,2
-?,2006-01-11,Le Havre,Brest,2-0,1-0,Wed,2
-?,2006-01-13,Amiens,Montpellier,1-0,0-0,Fri,2
-?,2006-01-13,Clermont,Gueugnon,0-1,0-1,Fri,2
-?,2006-01-13,Guingamp,Dijon,0-0,0-0,Fri,2
-?,2006-01-13,Reims,Chateauroux,3-0,1-0,Fri,2
-?,2006-01-13,Sedan,Istres,3-1,2-1,Fri,2
-?,2006-01-13,Sete,Lorient,0-2,0-1,Fri,2
-?,2006-01-14,Creteil,Le Havre,1-1,0-0,Sat,2
-?,2006-01-14,Laval,Grenoble,0-0,0-0,Sat,2
-?,2006-01-15,Valenciennes,Caen,2-1,1-0,Sun,2
-?,2006-01-16,Brest,Bastia,0-2,0-1,Mon,3
-?,2006-01-20,Caen,Laval,2-1,1-0,Fri,3
-?,2006-01-20,Chateauroux,Brest,0-0,0-0,Fri,3
-?,2006-01-20,Dijon,Sete,3-0,0-0,Fri,3
-?,2006-01-20,Grenoble,Guingamp,0-0,0-0,Fri,3
-?,2006-01-20,Gueugnon,Reims,0-0,0-0,Fri,3
-?,2006-01-20,Istres,Clermont,1-1,0-1,Fri,3
-?,2006-01-20,Le Havre,Amiens,1-1,1-0,Fri,3
-?,2006-01-20,Lorient,Sedan,0-0,0-0,Fri,3
-?,2006-01-20,Montpellier,Creteil,0-0,0-0,Fri,3
-?,2006-01-23,Bastia,Valenciennes,1-0,0-0,Mon,4
-?,2006-01-24,Dijon,Laval,1-0,0-0,Tue,4
-?,2006-01-27,Reims,Grenoble,0-0,0-0,Fri,4
-?,2006-02-03,Amiens,Gueugnon,0-0,0-0,Fri,5
-?,2006-02-03,Clermont,Brest,0-1,0-0,Fri,5
-?,2006-02-03,Creteil,Chateauroux,1-1,0-0,Fri,5
-?,2006-02-03,Guingamp,Caen,0-0,0-0,Fri,5
-?,2006-02-03,Laval,Montpellier,0-2,0-0,Fri,5
-?,2006-02-03,Sedan,Dijon,0-2,0-0,Fri,5
-?,2006-02-03,Sete,Grenoble,1-3,1-2,Fri,5
-?,2006-02-05,Valenciennes,Le Havre,0-1,0-0,Sun,5
-?,2006-02-06,Istres,Lorient,2-1,2-0,Mon,6
-?,2006-02-09,Montpellier,Valenciennes,0-0,0-0,Thu,6
-?,2006-02-10,Bastia,Laval,3-0,0-0,Fri,6
-?,2006-02-10,Brest,Creteil,0-2,0-1,Fri,6
-?,2006-02-10,Caen,Sete,1-0,1-0,Fri,6
-?,2006-02-10,Chateauroux,Amiens,0-0,0-0,Fri,6
-?,2006-02-10,Dijon,Istres,2-0,1-0,Fri,6
-?,2006-02-10,Grenoble,Sedan,1-3,0-1,Fri,6
-?,2006-02-10,Gueugnon,Guingamp,1-0,1-0,Fri,6
-?,2006-02-10,Le Havre,Reims,1-1,1-0,Fri,6
-?,2006-02-10,Lorient,Clermont,0-2,0-0,Fri,6
-?,2006-02-17,Amiens,Brest,1-1,1-0,Fri,7
-?,2006-02-17,Clermont,Bastia,2-0,1-0,Fri,7
-?,2006-02-17,Guingamp,Creteil,0-0,0-0,Fri,7
-?,2006-02-17,Istres,Grenoble,2-1,0-0,Fri,7
-?,2006-02-17,Laval,Le Havre,0-0,0-0,Fri,7
-?,2006-02-17,Lorient,Dijon,1-0,0-0,Fri,7
-?,2006-02-17,Reims,Montpellier,0-1,0-0,Fri,7
-?,2006-02-17,Sedan,Caen,1-1,1-1,Fri,7
-?,2006-02-17,Sete,Gueugnon,2-0,0-0,Fri,7
-?,2006-02-17,Valenciennes,Chateauroux,2-0,2-0,Fri,7
-?,2006-02-24,Bastia,Guingamp,1-2,1-1,Fri,8
-?,2006-02-24,Brest,Valenciennes,1-1,0-0,Fri,8
-?,2006-02-24,Caen,Istres,1-0,1-0,Fri,8
-?,2006-02-24,Chateauroux,Laval,2-3,1-0,Fri,8
-?,2006-02-24,Creteil,Amiens,1-0,1-0,Fri,8
-?,2006-02-24,Dijon,Reims,2-0,0-0,Fri,8
-?,2006-02-24,Grenoble,Lorient,1-0,0-0,Fri,8
-?,2006-02-24,Gueugnon,Sedan,1-0,1-0,Fri,8
-?,2006-02-24,Le Havre,Clermont,2-1,1-1,Fri,8
-?,2006-02-27,Montpellier,Sete,2-1,1-0,Mon,9
-?,2006-03-03,Dijon,Grenoble,0-0,0-0,Fri,9
-?,2006-03-03,Guingamp,Montpellier,1-0,0-0,Fri,9
-?,2006-03-03,Istres,Chateauroux,2-1,1-0,Fri,9
-?,2006-03-03,Laval,Gueugnon,1-1,1-0,Fri,9
-?,2006-03-03,Reims,Brest,1-0,1-0,Fri,9
-?,2006-03-03,Sedan,Bastia,1-1,0-0,Fri,9
-?,2006-03-03,Sete,Le Havre,0-3,0-0,Fri,9
-?,2006-03-03,Valenciennes,Creteil,1-1,0-1,Fri,9
-?,2006-03-04,Clermont,Amiens,2-0,0-0,Sat,9
-?,2006-03-06,Lorient,Caen,1-3,0-0,Mon,10
-?,2006-03-07,Reims,Bastia,0-1,0-0,Tue,10
-?,2006-03-10,Bastia,Sete,1-0,0-0,Fri,10
-?,2006-03-10,Brest,Laval,2-2,0-0,Fri,10
-?,2006-03-10,Caen,Dijon,1-1,0-0,Fri,10
-?,2006-03-10,Chateauroux,Lorient,0-1,0-1,Fri,10
-?,2006-03-10,Grenoble,Clermont,2-0,1-0,Fri,10
-?,2006-03-10,Gueugnon,Istres,2-0,1-0,Fri,10
-?,2006-03-10,Le Havre,Guingamp,1-1,0-1,Fri,10
-?,2006-03-10,Montpellier,Sedan,0-1,0-1,Fri,10
-?,2006-03-12,Creteil,Reims,0-2,0-1,Sun,10
-?,2006-03-13,Amiens,Valenciennes,1-2,1-0,Mon,11
-?,2006-03-17,Clermont,Valenciennes,1-2,1-1,Fri,11
-?,2006-03-17,Dijon,Gueugnon,3-0,2-0,Fri,11
-?,2006-03-17,Grenoble,Caen,0-2,0-0,Fri,11
-?,2006-03-17,Guingamp,Brest,1-0,0-0,Fri,11
-?,2006-03-17,Istres,Montpellier,1-0,1-0,Fri,11
-?,2006-03-17,Lorient,Bastia,1-0,1-0,Fri,11
-?,2006-03-17,Reims,Amiens,0-0,0-0,Fri,11
-?,2006-03-17,Sete,Chateauroux,2-2,0-0,Fri,11
-?,2006-03-19,Laval,Creteil,2-1,1-1,Sun,11
-?,2006-03-20,Sedan,Le Havre,2-1,0-1,Mon,12
-?,2006-03-24,Amiens,Laval,3-2,1-0,Fri,12
-?,2006-03-24,Bastia,Istres,3-0,0-0,Fri,12
-?,2006-03-24,Caen,Clermont,2-1,1-0,Fri,12
-?,2006-03-24,Chateauroux,Guingamp,1-1,0-0,Fri,12
-?,2006-03-24,Creteil,Sedan,0-1,0-0,Fri,12
-?,2006-03-24,Gueugnon,Grenoble,1-1,0-1,Fri,12
-?,2006-03-24,Valenciennes,Reims,1-0,1-0,Fri,12
-?,2006-03-26,Le Havre,Lorient,0-0,0-0,Sun,12
-?,2006-03-27,Montpellier,Dijon,2-0,1-0,Mon,13
-?,2006-03-31,Caen,Gueugnon,1-0,0-0,Fri,13
-?,2006-03-31,Clermont,Chateauroux,0-2,0-1,Fri,13
-?,2006-03-31,Dijon,Le Havre,1-2,0-1,Fri,13
-?,2006-03-31,Guingamp,Reims,2-1,1-1,Fri,13
-?,2006-03-31,Istres,Amiens,1-0,1-0,Fri,13
-?,2006-03-31,Laval,Valenciennes,0-2,0-1,Fri,13
-?,2006-03-31,Lorient,Montpellier,3-0,1-0,Fri,13
-?,2006-03-31,Sedan,Brest,2-2,0-1,Fri,13
-?,2006-03-31,Sete,Creteil,1-1,1-0,Fri,13
-?,2006-04-03,Grenoble,Bastia,5-1,4-0,Mon,14
-?,2006-04-07,Amiens,Sete,1-0,1-0,Fri,14
-?,2006-04-07,Bastia,Dijon,0-2,0-0,Fri,14
-?,2006-04-07,Brest,Istres,0-0,0-0,Fri,14
-?,2006-04-07,Chateauroux,Sedan,0-1,0-1,Fri,14
-?,2006-04-07,Creteil,Clermont,3-1,2-0,Fri,14
-?,2006-04-07,Gueugnon,Lorient,0-1,0-0,Fri,14
-?,2006-04-07,Le Havre,Grenoble,4-1,2-1,Fri,14
-?,2006-04-07,Montpellier,Caen,1-3,0-1,Fri,14
-?,2006-04-07,Reims,Laval,3-1,1-0,Fri,14
-?,2006-04-10,Valenciennes,Guingamp,2-0,1-0,Mon,15
-?,2006-04-11,Brest,Sete,1-1,1-1,Tue,15
-?,2006-04-14,Caen,Le Havre,4-1,3-0,Fri,15
-?,2006-04-14,Clermont,Reims,0-0,0-0,Fri,15
-?,2006-04-14,Dijon,Chateauroux,2-1,2-0,Fri,15
-?,2006-04-14,Gueugnon,Bastia,2-0,1-0,Fri,15
-?,2006-04-14,Guingamp,Amiens,6-0,1-0,Fri,15
-?,2006-04-14,Istres,Creteil,0-1,0-0,Fri,15
-?,2006-04-14,Sedan,Laval,1-1,0-1,Fri,15
-?,2006-04-14,Sete,Valenciennes,1-2,1-1,Fri,15
-?,2006-04-15,Grenoble,Montpellier,2-2,1-2,Sat,15
-?,2006-04-17,Lorient,Brest,5-0,2-0,Mon,16
-?,2006-04-21,Bastia,Caen,0-2,0-0,Fri,16
-?,2006-04-21,Brest,Dijon,0-4,0-1,Fri,16
-?,2006-04-21,Chateauroux,Grenoble,3-1,2-0,Fri,16
-?,2006-04-21,Creteil,Lorient,1-1,0-1,Fri,16
-?,2006-04-21,Laval,Guingamp,1-2,1-2,Fri,16
-?,2006-04-21,Le Havre,Gueugnon,2-1,1-1,Fri,16
-?,2006-04-21,Montpellier,Clermont,1-0,0-0,Fri,16
-?,2006-04-21,Reims,Sete,2-0,2-0,Fri,16
-?,2006-04-21,Valenciennes,Istres,1-0,1-0,Fri,16
-?,2006-04-24,Amiens,Sedan,0-0,0-0,Mon,17
-?,2006-04-28,Bastia,Le Havre,1-1,0-0,Fri,17
-?,2006-04-28,Caen,Chateauroux,2-1,1-1,Fri,17
-?,2006-04-28,Clermont,Guingamp,3-2,0-1,Fri,17
-?,2006-04-28,Dijon,Creteil,1-1,0-0,Fri,17
-?,2006-04-28,Grenoble,Brest,1-1,0-0,Fri,17
-?,2006-04-28,Gueugnon,Montpellier,3-1,0-0,Fri,17
-?,2006-04-28,Istres,Reims,3-0,1-0,Fri,17
-?,2006-04-28,Sedan,Valenciennes,0-3,0-1,Fri,17
-?,2006-04-28,Sete,Laval,3-2,1-0,Fri,17
-?,2006-05-01,Lorient,Amiens,1-1,0-1,Mon,18
-?,2006-05-05,Amiens,Dijon,1-0,1-0,Fri,18
-?,2006-05-05,Brest,Caen,2-1,1-0,Fri,18
-?,2006-05-05,Chateauroux,Gueugnon,1-1,1-1,Fri,18
-?,2006-05-05,Creteil,Grenoble,1-0,0-0,Fri,18
-?,2006-05-05,Guingamp,Sete,1-0,0-0,Fri,18
-?,2006-05-05,Laval,Clermont,2-1,1-0,Fri,18
-?,2006-05-05,Le Havre,Istres,0-0,0-0,Fri,18
-?,2006-05-05,Montpellier,Bastia,1-1,0-0,Fri,18
-?,2006-05-05,Reims,Sedan,1-2,0-2,Fri,18
-?,2006-05-05,Valenciennes,Lorient,1-0,0-0,Fri,18
-?,2006-05-12,Bastia,Chateauroux,1-4,0-0,Fri,19
-?,2006-05-12,Caen,Creteil,3-1,3-1,Fri,19
-?,2006-05-12,Dijon,Valenciennes,2-0,0-0,Fri,19
-?,2006-05-12,Grenoble,Amiens,3-0,1-0,Fri,19
-?,2006-05-12,Gueugnon,Brest,0-1,0-0,Fri,19
-?,2006-05-12,Istres,Laval,2-1,0-1,Fri,19
-?,2006-05-12,Le Havre,Montpellier,1-0,1-0,Fri,19
-?,2006-05-12,Lorient,Reims,3-1,0-0,Fri,19
-?,2006-05-12,Sedan,Guingamp,2-0,0-0,Fri,19
-?,2006-05-12,Sete,Clermont,1-3,0-2,Fri,19
+Round,Date,Team 1,Team 2,FT,HT
+?,(Fri) Jul/29 2005 (30),Amiens (1),Grenoble (1),3-0,1-0
+?,(Fri) Jul/29 2005 (30),Brest (1),Gueugnon (1),0-0,0-0
+?,(Fri) Jul/29 2005 (30),Chateauroux (1),Bastia (1),1-1,0-0
+?,(Fri) Jul/29 2005 (30),Clermont (1),Sete (1),0-0,0-0
+?,(Fri) Jul/29 2005 (30),Creteil (1),Caen (1),3-2,1-0
+?,(Fri) Jul/29 2005 (30),Laval (1),Istres (1),0-1,0-0
+?,(Fri) Jul/29 2005 (30),Montpellier (1),Le Havre (1),2-1,1-0
+?,(Fri) Jul/29 2005 (30),Reims (1),Lorient (1),1-2,0-1
+?,(Fri) Jul/29 2005 (30),Valenciennes (1),Dijon (1),2-1,2-1
+?,(Mon) Aug/1 2005 (31),Guingamp (1),Sedan (1),1-1,0-1
+?,(Wed) Aug/3 2005 (31),Lorient (2),Laval (2),2-1,1-1
+?,(Fri) Aug/5 2005 (31),Bastia (2),Creteil (2),1-1,1-0
+?,(Fri) Aug/5 2005 (31),Grenoble (2),Reims (2),1-0,0-0
+?,(Fri) Aug/5 2005 (31),Gueugnon (2),Valenciennes (2),2-0,1-0
+?,(Fri) Aug/5 2005 (31),Istres (2),Guingamp (2),0-0,0-0
+?,(Fri) Aug/5 2005 (31),Le Havre (2),Chateauroux (2),0-3,0-0
+?,(Fri) Aug/5 2005 (31),Montpellier (2),Brest (2),1-1,0-1
+?,(Fri) Aug/5 2005 (31),Sedan (2),Sete (2),2-1,0-1
+?,(Mon) Aug/8 2005 (32),Dijon (2),Clermont (2),1-1,0-0
+?,(Fri) Aug/12 2005 (32),Amiens (2),Bastia (3),1-2,0-1
+?,(Fri) Aug/12 2005 (32),Brest (3),Le Havre (3),2-2,1-1
+?,(Fri) Aug/12 2005 (32),Chateauroux (3),Montpellier (3),2-1,0-1
+?,(Fri) Aug/12 2005 (32),Clermont (3),Sedan (3),1-0,0-0
+?,(Fri) Aug/12 2005 (32),Creteil (3),Gueugnon (3),4-0,3-0
+?,(Fri) Aug/12 2005 (32),Guingamp (3),Lorient (3),1-1,0-0
+?,(Fri) Aug/12 2005 (32),Laval (3),Dijon (3),0-1,0-1
+?,(Fri) Aug/12 2005 (32),Reims (3),Caen (2),2-0,1-0
+?,(Fri) Aug/12 2005 (32),Sete (3),Istres (3),1-2,1-1
+?,(Fri) Aug/12 2005 (32),Valenciennes (3),Grenoble (3),2-0,2-0
+?,(Mon) Aug/15 2005 (33),Chateauroux (4),Reims (4),1-0,0-0
+?,(Tue) Aug/16 2005 (33),Bastia (4),Brest (4),4-1,1-1
+?,(Tue) Aug/16 2005 (33),Caen (3),Valenciennes (4),0-2,0-0
+?,(Tue) Aug/16 2005 (33),Dijon (4),Guingamp (4),1-2,1-1
+?,(Tue) Aug/16 2005 (33),Grenoble (4),Laval (4),2-1,0-1
+?,(Tue) Aug/16 2005 (33),Gueugnon (4),Clermont (4),2-0,2-0
+?,(Tue) Aug/16 2005 (33),Istres (4),Sedan (4),2-2,0-2
+?,(Tue) Aug/16 2005 (33),Le Havre (4),Creteil (4),1-1,0-1
+?,(Tue) Aug/16 2005 (33),Lorient (4),Sete (4),3-1,0-1
+?,(Thu) Aug/18 2005 (33),Montpellier (4),Amiens (3),2-1,2-1
+?,(Fri) Aug/19 2005 (33),Brest (5),Chateauroux (5),1-0,0-0
+?,(Fri) Aug/19 2005 (33),Clermont (5),Istres (5),1-0,0-0
+?,(Fri) Aug/19 2005 (33),Guingamp (5),Grenoble (5),0-1,0-1
+?,(Fri) Aug/19 2005 (33),Laval (5),Caen (4),1-0,0-0
+?,(Fri) Aug/19 2005 (33),Reims (5),Gueugnon (5),0-0,0-0
+?,(Fri) Aug/19 2005 (33),Sedan (5),Lorient (5),1-0,1-0
+?,(Fri) Aug/19 2005 (33),Sete (5),Dijon (5),0-0,0-0
+?,(Sun) Aug/21 2005 (33),Amiens (4),Le Havre (5),3-0,1-0
+?,(Sun) Aug/21 2005 (33),Creteil (5),Montpellier (5),3-0,1-0
+?,(Mon) Aug/22 2005 (34),Valenciennes (5),Bastia (5),0-1,0-1
+?,(Fri) Aug/26 2005 (34),Bastia (6),Reims (6),0-1,0-1
+?,(Fri) Aug/26 2005 (34),Brest (6),Clermont (6),2-0,2-0
+?,(Fri) Aug/26 2005 (34),Caen (5),Guingamp (6),0-0,0-0
+?,(Fri) Aug/26 2005 (34),Chateauroux (6),Creteil (6),0-2,0-1
+?,(Fri) Aug/26 2005 (34),Dijon (6),Sedan (6),0-1,0-1
+?,(Fri) Aug/26 2005 (34),Grenoble (6),Sete (6),0-0,0-0
+?,(Fri) Aug/26 2005 (34),Le Havre (6),Valenciennes (6),3-0,1-0
+?,(Fri) Aug/26 2005 (34),Lorient (6),Istres (6),1-1,0-1
+?,(Fri) Aug/26 2005 (34),Montpellier (6),Laval (6),1-2,0-1
+?,(Mon) Aug/29 2005 (35),Gueugnon (6),Amiens (5),0-0,0-0
+?,(Fri) Sep/2 2005 (35),Caen (6),Amiens (6),3-0,3-0
+?,(Thu) Sep/8 2005 (36),Amiens (7),Chateauroux (7),1-1,0-1
+?,(Fri) Sep/9 2005 (36),Clermont (7),Lorient (7),0-3,0-1
+?,(Fri) Sep/9 2005 (36),Creteil (7),Brest (7),0-0,0-0
+?,(Fri) Sep/9 2005 (36),Guingamp (7),Gueugnon (7),0-0,0-0
+?,(Fri) Sep/9 2005 (36),Istres (7),Dijon (7),1-1,1-0
+?,(Fri) Sep/9 2005 (36),Reims (7),Le Havre (7),0-2,0-1
+?,(Fri) Sep/9 2005 (36),Sedan (7),Grenoble (7),2-1,0-0
+?,(Fri) Sep/9 2005 (36),Sete (7),Caen (7),1-1,0-0
+?,(Fri) Sep/9 2005 (36),Valenciennes (7),Montpellier (7),2-1,0-0
+?,(Mon) Sep/12 2005 (37),Laval (7),Bastia (7),1-2,1-0
+?,(Fri) Sep/16 2005 (37),Bastia (8),Clermont (8),4-0,2-0
+?,(Fri) Sep/16 2005 (37),Brest (8),Amiens (8),0-1,0-1
+?,(Fri) Sep/16 2005 (37),Chateauroux (8),Valenciennes (8),1-1,0-1
+?,(Fri) Sep/16 2005 (37),Creteil (8),Guingamp (8),2-1,1-0
+?,(Fri) Sep/16 2005 (37),Dijon (8),Lorient (8),0-0,0-0
+?,(Fri) Sep/16 2005 (37),Grenoble (8),Istres (8),0-0,0-0
+?,(Fri) Sep/16 2005 (37),Gueugnon (8),Sete (8),3-3,1-2
+?,(Fri) Sep/16 2005 (37),Le Havre (8),Laval (8),4-0,2-0
+?,(Fri) Sep/16 2005 (37),Montpellier (8),Reims (8),0-0,0-0
+?,(Mon) Sep/19 2005 (38),Caen (8),Sedan (8),1-1,0-0
+?,(Fri) Sep/23 2005 (38),Amiens (9),Creteil (9),1-0,1-0
+?,(Fri) Sep/23 2005 (38),Clermont (9),Le Havre (9),2-2,1-1
+?,(Fri) Sep/23 2005 (38),Guingamp (9),Bastia (9),0-1,0-1
+?,(Fri) Sep/23 2005 (38),Laval (9),Chateauroux (9),1-1,1-0
+?,(Fri) Sep/23 2005 (38),Lorient (9),Grenoble (9),1-2,0-1
+?,(Fri) Sep/23 2005 (38),Reims (9),Dijon (9),0-1,0-0
+?,(Sun) Sep/25 2005 (38),Sedan (9),Gueugnon (9),2-0,2-0
+?,(Sun) Sep/25 2005 (38),Valenciennes (9),Brest (9),1-1,1-1
+?,(Mon) Sep/26 2005 (39),Sete (9),Montpellier (9),2-0,1-0
+?,(Fri) Sep/30 2005 (39),Amiens (10),Clermont (10),0-0,0-0
+?,(Fri) Sep/30 2005 (39),Brest (10),Reims (10),1-1,0-1
+?,(Fri) Sep/30 2005 (39),Caen (9),Lorient (10),1-0,0-0
+?,(Fri) Sep/30 2005 (39),Chateauroux (10),Istres (9),4-3,3-2
+?,(Fri) Sep/30 2005 (39),Creteil (10),Valenciennes (10),1-1,1-1
+?,(Fri) Sep/30 2005 (39),Grenoble (10),Dijon (10),1-2,0-2
+?,(Fri) Sep/30 2005 (39),Gueugnon (10),Laval (10),1-1,0-0
+?,(Fri) Sep/30 2005 (39),Le Havre (10),Sete (10),1-0,1-0
+?,(Fri) Sep/30 2005 (39),Montpellier (10),Guingamp (10),0-0,0-0
+?,(Fri) Oct/7 2005 (40),Clermont (11),Grenoble (11),1-0,0-0
+?,(Fri) Oct/7 2005 (40),Dijon (11),Caen (10),0-2,0-1
+?,(Fri) Oct/7 2005 (40),Guingamp (11),Le Havre (11),1-1,1-1
+?,(Fri) Oct/7 2005 (40),Istres (10),Gueugnon (11),0-1,0-0
+?,(Fri) Oct/7 2005 (40),Laval (11),Brest (11),1-0,1-0
+?,(Fri) Oct/7 2005 (40),Reims (11),Creteil (11),1-0,0-0
+?,(Fri) Oct/7 2005 (40),Sedan (10),Montpellier (11),2-0,0-0
+?,(Fri) Oct/7 2005 (40),Sete (11),Bastia (10),1-0,0-0
+?,(Fri) Oct/7 2005 (40),Valenciennes (11),Amiens (11),0-0,0-0
+?,(Mon) Oct/10 2005 (41),Lorient (11),Chateauroux (11),2-1,0-0
+?,(Fri) Oct/14 2005 (41),Amiens (12),Reims (12),0-0,0-0
+?,(Fri) Oct/14 2005 (41),Bastia (11),Lorient (12),1-1,0-1
+?,(Fri) Oct/14 2005 (41),Caen (11),Grenoble (12),1-1,1-1
+?,(Fri) Oct/14 2005 (41),Chateauroux (12),Sete (12),1-0,1-0
+?,(Fri) Oct/14 2005 (41),Creteil (12),Laval (12),3-1,1-1
+?,(Fri) Oct/14 2005 (41),Le Havre (12),Sedan (11),0-2,0-2
+?,(Fri) Oct/14 2005 (41),Montpellier (12),Istres (11),3-1,1-1
+?,(Fri) Oct/14 2005 (41),Valenciennes (12),Clermont (12),3-0,1-0
+?,(Sun) Oct/16 2005 (41),Gueugnon (12),Dijon (12),0-0,0-0
+?,(Mon) Oct/17 2005 (42),Brest (12),Guingamp (12),2-1,1-1
+?,(Tue) Oct/18 2005 (42),Istres (12),Caen (12),0-0,0-0
+?,(Fri) Oct/21 2005 (42),Clermont (13),Caen (13),0-3,0-0
+?,(Fri) Oct/21 2005 (42),Dijon (13),Montpellier (13),2-2,2-1
+?,(Fri) Oct/21 2005 (42),Grenoble (13),Gueugnon (13),3-0,1-0
+?,(Fri) Oct/21 2005 (42),Guingamp (13),Chateauroux (13),0-1,0-0
+?,(Fri) Oct/21 2005 (42),Laval (13),Amiens (13),2-1,1-0
+?,(Fri) Oct/21 2005 (42),Lorient (13),Le Havre (13),0-0,0-0
+?,(Fri) Oct/21 2005 (42),Reims (13),Valenciennes (13),0-0,0-0
+?,(Fri) Oct/21 2005 (42),Sedan (12),Creteil (13),2-1,1-1
+?,(Fri) Oct/21 2005 (42),Sete (13),Brest (13),1-1,1-1
+?,(Mon) Oct/24 2005 (43),Istres (13),Bastia (12),1-0,1-0
+?,(Fri) Oct/28 2005 (43),Amiens (14),Istres (14),2-1,2-0
+?,(Sat) Oct/29 2005 (43),Bastia (13),Grenoble (14),2-0,0-0
+?,(Sat) Oct/29 2005 (43),Chateauroux (14),Clermont (14),3-3,0-3
+?,(Sat) Oct/29 2005 (43),Creteil (14),Sete (14),3-0,1-0
+?,(Sat) Oct/29 2005 (43),Gueugnon (14),Caen (14),2-2,2-1
+?,(Sat) Oct/29 2005 (43),Le Havre (14),Dijon (14),1-2,1-0
+?,(Sat) Oct/29 2005 (43),Montpellier (14),Lorient (14),0-3,0-1
+?,(Sat) Oct/29 2005 (43),Reims (14),Guingamp (14),0-0,0-0
+?,(Sat) Oct/29 2005 (43),Valenciennes (14),Laval (14),2-1,2-1
+?,(Mon) Oct/31 2005 (44),Brest (14),Sedan (13),4-1,1-0
+?,(Fri) Nov/4 2005 (44),Clermont (15),Creteil (15),2-0,2-0
+?,(Fri) Nov/4 2005 (44),Dijon (15),Bastia (14),0-2,0-1
+?,(Fri) Nov/4 2005 (44),Grenoble (15),Le Havre (15),1-1,0-1
+?,(Fri) Nov/4 2005 (44),Guingamp (15),Valenciennes (15),0-2,0-1
+?,(Fri) Nov/4 2005 (44),Istres (15),Brest (15),1-0,0-0
+?,(Fri) Nov/4 2005 (44),Laval (15),Reims (15),2-2,2-1
+?,(Fri) Nov/4 2005 (44),Lorient (15),Gueugnon (15),2-0,0-0
+?,(Fri) Nov/4 2005 (44),Sedan (14),Chateauroux (15),1-1,0-0
+?,(Fri) Nov/4 2005 (44),Sete (15),Amiens (15),4-4,0-2
+?,(Mon) Nov/7 2005 (45),Caen (15),Montpellier (15),0-0,0-0
+?,(Fri) Nov/11 2005 (45),Amiens (16),Guingamp (16),0-2,0-1
+?,(Fri) Nov/11 2005 (45),Bastia (15),Gueugnon (16),2-0,0-0
+?,(Fri) Nov/11 2005 (45),Chateauroux (16),Dijon (16),1-1,0-0
+?,(Fri) Nov/11 2005 (45),Creteil (16),Istres (16),4-1,1-0
+?,(Fri) Nov/11 2005 (45),Laval (16),Sedan (15),0-2,0-0
+?,(Fri) Nov/11 2005 (45),Le Havre (16),Caen (16),2-0,0-0
+?,(Fri) Nov/11 2005 (45),Montpellier (16),Grenoble (16),1-1,1-1
+?,(Fri) Nov/11 2005 (45),Reims (16),Clermont (16),4-1,3-0
+?,(Fri) Nov/11 2005 (45),Valenciennes (16),Sete (16),2-1,1-1
+?,(Mon) Nov/14 2005 (46),Brest (16),Lorient (16),0-1,0-0
+?,(Fri) Nov/25 2005 (47),Caen (17),Bastia (16),4-1,2-0
+?,(Fri) Nov/25 2005 (47),Clermont (17),Montpellier (17),0-1,0-1
+?,(Fri) Nov/25 2005 (47),Dijon (17),Brest (17),1-2,0-1
+?,(Fri) Nov/25 2005 (47),Gueugnon (17),Le Havre (17),1-0,0-0
+?,(Fri) Nov/25 2005 (47),Guingamp (17),Laval (17),0-2,0-0
+?,(Fri) Nov/25 2005 (47),Istres (17),Valenciennes (17),1-4,0-0
+?,(Fri) Nov/25 2005 (47),Lorient (17),Creteil (17),0-0,0-0
+?,(Fri) Nov/25 2005 (47),Sete (17),Reims (17),1-1,0-0
+?,(Sun) Nov/27 2005 (47),Sedan (16),Amiens (17),1-1,1-0
+?,(Mon) Nov/28 2005 (48),Grenoble (17),Chateauroux (17),2-1,0-0
+?,(Fri) Dec/2 2005 (48),Amiens (18),Lorient (18),1-1,0-0
+?,(Fri) Dec/2 2005 (48),Brest (18),Grenoble (18),3-1,1-0
+?,(Fri) Dec/2 2005 (48),Chateauroux (18),Caen (18),1-1,0-1
+?,(Fri) Dec/2 2005 (48),Creteil (18),Dijon (18),1-2,1-1
+?,(Fri) Dec/2 2005 (48),Guingamp (18),Clermont (18),3-1,2-1
+?,(Fri) Dec/2 2005 (48),Laval (18),Sete (18),2-0,1-0
+?,(Fri) Dec/2 2005 (48),Montpellier (18),Gueugnon (18),3-1,1-0
+?,(Fri) Dec/2 2005 (48),Reims (18),Istres (18),0-0,0-0
+?,(Sun) Dec/4 2005 (48),Valenciennes (18),Sedan (17),1-1,1-1
+?,(Mon) Dec/5 2005 (49),Le Havre (18),Bastia (17),2-2,0-0
+?,(Tue) Dec/13 2005 (50),Bastia (18),Sedan (18),1-1,1-1
+?,(Fri) Dec/16 2005 (50),Caen (19),Brest (19),3-1,1-1
+?,(Fri) Dec/16 2005 (50),Clermont (19),Laval (19),1-0,1-0
+?,(Fri) Dec/16 2005 (50),Dijon (19),Amiens (19),2-1,0-1
+?,(Fri) Dec/16 2005 (50),Gueugnon (19),Chateauroux (19),2-1,1-0
+?,(Fri) Dec/16 2005 (50),Istres (19),Le Havre (19),1-1,1-0
+?,(Fri) Dec/16 2005 (50),Sedan (19),Reims (19),1-1,1-1
+?,(Fri) Dec/16 2005 (50),Sete (19),Guingamp (19),1-2,0-1
+?,(Sun) Dec/18 2005 (50),Bastia (19),Montpellier (19),0-0,0-0
+?,(Sun) Dec/18 2005 (50),Lorient (19),Valenciennes (19),1-1,1-0
+?,(Mon) Dec/19 2005 (51),Grenoble (19),Creteil (19),1-0,0-0
+?,(Tue) Jan/3 2006 (1),Amiens (20),Caen (20),1-1,0-1
+?,(Tue) Jan/3 2006 (1),Brest (20),Montpellier (20),0-1,0-0
+?,(Tue) Jan/3 2006 (1),Chateauroux (20),Le Havre (20),3-0,2-0
+?,(Tue) Jan/3 2006 (1),Clermont (20),Dijon (20),3-3,2-1
+?,(Tue) Jan/3 2006 (1),Creteil (20),Bastia (20),1-1,0-0
+?,(Tue) Jan/3 2006 (1),Guingamp (20),Istres (20),2-0,0-0
+?,(Tue) Jan/3 2006 (1),Laval (20),Lorient (20),0-2,0-0
+?,(Tue) Jan/3 2006 (1),Sete (20),Sedan (20),0-1,0-1
+?,(Tue) Jan/3 2006 (1),Valenciennes (20),Gueugnon (20),0-0,0-0
+?,(Mon) Jan/9 2006 (2),Sedan (21),Clermont (21),3-0,0-0
+?,(Tue) Jan/10 2006 (2),Bastia (21),Amiens (21),2-0,1-0
+?,(Tue) Jan/10 2006 (2),Caen (21),Reims (20),1-3,1-1
+?,(Tue) Jan/10 2006 (2),Gueugnon (21),Creteil (21),0-0,0-0
+?,(Tue) Jan/10 2006 (2),Istres (21),Sete (21),1-0,1-0
+?,(Tue) Jan/10 2006 (2),Lorient (21),Guingamp (21),2-1,0-0
+?,(Tue) Jan/10 2006 (2),Montpellier (21),Chateauroux (21),2-1,1-0
+?,(Wed) Jan/11 2006 (2),Grenoble (20),Valenciennes (21),2-3,0-0
+?,(Wed) Jan/11 2006 (2),Le Havre (21),Brest (21),2-0,1-0
+?,(Fri) Jan/13 2006 (2),Amiens (22),Montpellier (22),1-0,0-0
+?,(Fri) Jan/13 2006 (2),Clermont (22),Gueugnon (22),0-1,0-1
+?,(Fri) Jan/13 2006 (2),Guingamp (22),Dijon (21),0-0,0-0
+?,(Fri) Jan/13 2006 (2),Reims (21),Chateauroux (22),3-0,1-0
+?,(Fri) Jan/13 2006 (2),Sedan (22),Istres (22),3-1,2-1
+?,(Fri) Jan/13 2006 (2),Sete (22),Lorient (22),0-2,0-1
+?,(Sat) Jan/14 2006 (2),Creteil (22),Le Havre (22),1-1,0-0
+?,(Sat) Jan/14 2006 (2),Laval (21),Grenoble (21),0-0,0-0
+?,(Sun) Jan/15 2006 (2),Valenciennes (22),Caen (22),2-1,1-0
+?,(Mon) Jan/16 2006 (3),Brest (22),Bastia (22),0-2,0-1
+?,(Fri) Jan/20 2006 (3),Caen (23),Laval (22),2-1,1-0
+?,(Fri) Jan/20 2006 (3),Chateauroux (23),Brest (23),0-0,0-0
+?,(Fri) Jan/20 2006 (3),Dijon (22),Sete (23),3-0,0-0
+?,(Fri) Jan/20 2006 (3),Grenoble (22),Guingamp (23),0-0,0-0
+?,(Fri) Jan/20 2006 (3),Gueugnon (23),Reims (22),0-0,0-0
+?,(Fri) Jan/20 2006 (3),Istres (23),Clermont (23),1-1,0-1
+?,(Fri) Jan/20 2006 (3),Le Havre (23),Amiens (23),1-1,1-0
+?,(Fri) Jan/20 2006 (3),Lorient (23),Sedan (23),0-0,0-0
+?,(Fri) Jan/20 2006 (3),Montpellier (23),Creteil (23),0-0,0-0
+?,(Mon) Jan/23 2006 (4),Bastia (23),Valenciennes (23),1-0,0-0
+?,(Tue) Jan/24 2006 (4),Dijon (23),Laval (23),1-0,0-0
+?,(Fri) Jan/27 2006 (4),Reims (23),Grenoble (23),0-0,0-0
+?,(Fri) Feb/3 2006 (5),Amiens (24),Gueugnon (24),0-0,0-0
+?,(Fri) Feb/3 2006 (5),Clermont (24),Brest (24),0-1,0-0
+?,(Fri) Feb/3 2006 (5),Creteil (24),Chateauroux (24),1-1,0-0
+?,(Fri) Feb/3 2006 (5),Guingamp (24),Caen (24),0-0,0-0
+?,(Fri) Feb/3 2006 (5),Laval (24),Montpellier (24),0-2,0-0
+?,(Fri) Feb/3 2006 (5),Sedan (24),Dijon (24),0-2,0-0
+?,(Fri) Feb/3 2006 (5),Sete (24),Grenoble (24),1-3,1-2
+?,(Sun) Feb/5 2006 (5),Valenciennes (24),Le Havre (24),0-1,0-0
+?,(Mon) Feb/6 2006 (6),Istres (24),Lorient (24),2-1,2-0
+?,(Thu) Feb/9 2006 (6),Montpellier (25),Valenciennes (25),0-0,0-0
+?,(Fri) Feb/10 2006 (6),Bastia (24),Laval (25),3-0,0-0
+?,(Fri) Feb/10 2006 (6),Brest (25),Creteil (25),0-2,0-1
+?,(Fri) Feb/10 2006 (6),Caen (25),Sete (25),1-0,1-0
+?,(Fri) Feb/10 2006 (6),Chateauroux (25),Amiens (25),0-0,0-0
+?,(Fri) Feb/10 2006 (6),Dijon (25),Istres (25),2-0,1-0
+?,(Fri) Feb/10 2006 (6),Grenoble (25),Sedan (25),1-3,0-1
+?,(Fri) Feb/10 2006 (6),Gueugnon (25),Guingamp (25),1-0,1-0
+?,(Fri) Feb/10 2006 (6),Le Havre (25),Reims (24),1-1,1-0
+?,(Fri) Feb/10 2006 (6),Lorient (25),Clermont (25),0-2,0-0
+?,(Fri) Feb/17 2006 (7),Amiens (26),Brest (26),1-1,1-0
+?,(Fri) Feb/17 2006 (7),Clermont (26),Bastia (25),2-0,1-0
+?,(Fri) Feb/17 2006 (7),Guingamp (26),Creteil (26),0-0,0-0
+?,(Fri) Feb/17 2006 (7),Istres (26),Grenoble (26),2-1,0-0
+?,(Fri) Feb/17 2006 (7),Laval (26),Le Havre (26),0-0,0-0
+?,(Fri) Feb/17 2006 (7),Lorient (26),Dijon (26),1-0,0-0
+?,(Fri) Feb/17 2006 (7),Reims (25),Montpellier (26),0-1,0-0
+?,(Fri) Feb/17 2006 (7),Sedan (26),Caen (26),1-1,1-1
+?,(Fri) Feb/17 2006 (7),Sete (26),Gueugnon (26),2-0,0-0
+?,(Fri) Feb/17 2006 (7),Valenciennes (26),Chateauroux (26),2-0,2-0
+?,(Fri) Feb/24 2006 (8),Bastia (26),Guingamp (27),1-2,1-1
+?,(Fri) Feb/24 2006 (8),Brest (27),Valenciennes (27),1-1,0-0
+?,(Fri) Feb/24 2006 (8),Caen (27),Istres (27),1-0,1-0
+?,(Fri) Feb/24 2006 (8),Chateauroux (27),Laval (27),2-3,1-0
+?,(Fri) Feb/24 2006 (8),Creteil (27),Amiens (27),1-0,1-0
+?,(Fri) Feb/24 2006 (8),Dijon (27),Reims (26),2-0,0-0
+?,(Fri) Feb/24 2006 (8),Grenoble (27),Lorient (27),1-0,0-0
+?,(Fri) Feb/24 2006 (8),Gueugnon (27),Sedan (27),1-0,1-0
+?,(Fri) Feb/24 2006 (8),Le Havre (27),Clermont (27),2-1,1-1
+?,(Mon) Feb/27 2006 (9),Montpellier (27),Sete (27),2-1,1-0
+?,(Fri) Mar/3 2006 (9),Dijon (28),Grenoble (28),0-0,0-0
+?,(Fri) Mar/3 2006 (9),Guingamp (28),Montpellier (28),1-0,0-0
+?,(Fri) Mar/3 2006 (9),Istres (28),Chateauroux (28),2-1,1-0
+?,(Fri) Mar/3 2006 (9),Laval (28),Gueugnon (28),1-1,1-0
+?,(Fri) Mar/3 2006 (9),Reims (27),Brest (28),1-0,1-0
+?,(Fri) Mar/3 2006 (9),Sedan (28),Bastia (27),1-1,0-0
+?,(Fri) Mar/3 2006 (9),Sete (28),Le Havre (28),0-3,0-0
+?,(Fri) Mar/3 2006 (9),Valenciennes (28),Creteil (28),1-1,0-1
+?,(Sat) Mar/4 2006 (9),Clermont (28),Amiens (28),2-0,0-0
+?,(Mon) Mar/6 2006 (10),Lorient (28),Caen (28),1-3,0-0
+?,(Tue) Mar/7 2006 (10),Reims (28),Bastia (28),0-1,0-0
+?,(Fri) Mar/10 2006 (10),Bastia (29),Sete (29),1-0,0-0
+?,(Fri) Mar/10 2006 (10),Brest (29),Laval (29),2-2,0-0
+?,(Fri) Mar/10 2006 (10),Caen (29),Dijon (29),1-1,0-0
+?,(Fri) Mar/10 2006 (10),Chateauroux (29),Lorient (29),0-1,0-1
+?,(Fri) Mar/10 2006 (10),Grenoble (29),Clermont (29),2-0,1-0
+?,(Fri) Mar/10 2006 (10),Gueugnon (29),Istres (29),2-0,1-0
+?,(Fri) Mar/10 2006 (10),Le Havre (29),Guingamp (29),1-1,0-1
+?,(Fri) Mar/10 2006 (10),Montpellier (29),Sedan (29),0-1,0-1
+?,(Sun) Mar/12 2006 (10),Creteil (29),Reims (29),0-2,0-1
+?,(Mon) Mar/13 2006 (11),Amiens (29),Valenciennes (29),1-2,1-0
+?,(Fri) Mar/17 2006 (11),Clermont (30),Valenciennes (30),1-2,1-1
+?,(Fri) Mar/17 2006 (11),Dijon (30),Gueugnon (30),3-0,2-0
+?,(Fri) Mar/17 2006 (11),Grenoble (30),Caen (30),0-2,0-0
+?,(Fri) Mar/17 2006 (11),Guingamp (30),Brest (30),1-0,0-0
+?,(Fri) Mar/17 2006 (11),Istres (30),Montpellier (30),1-0,1-0
+?,(Fri) Mar/17 2006 (11),Lorient (30),Bastia (30),1-0,1-0
+?,(Fri) Mar/17 2006 (11),Reims (30),Amiens (30),0-0,0-0
+?,(Fri) Mar/17 2006 (11),Sete (30),Chateauroux (30),2-2,0-0
+?,(Sun) Mar/19 2006 (11),Laval (30),Creteil (30),2-1,1-1
+?,(Mon) Mar/20 2006 (12),Sedan (30),Le Havre (30),2-1,0-1
+?,(Fri) Mar/24 2006 (12),Amiens (31),Laval (31),3-2,1-0
+?,(Fri) Mar/24 2006 (12),Bastia (31),Istres (31),3-0,0-0
+?,(Fri) Mar/24 2006 (12),Caen (31),Clermont (31),2-1,1-0
+?,(Fri) Mar/24 2006 (12),Chateauroux (31),Guingamp (31),1-1,0-0
+?,(Fri) Mar/24 2006 (12),Creteil (31),Sedan (31),0-1,0-0
+?,(Fri) Mar/24 2006 (12),Gueugnon (31),Grenoble (31),1-1,0-1
+?,(Fri) Mar/24 2006 (12),Valenciennes (31),Reims (31),1-0,1-0
+?,(Sun) Mar/26 2006 (12),Le Havre (31),Lorient (31),0-0,0-0
+?,(Mon) Mar/27 2006 (13),Montpellier (31),Dijon (31),2-0,1-0
+?,(Fri) Mar/31 2006 (13),Caen (32),Gueugnon (32),1-0,0-0
+?,(Fri) Mar/31 2006 (13),Clermont (32),Chateauroux (32),0-2,0-1
+?,(Fri) Mar/31 2006 (13),Dijon (32),Le Havre (32),1-2,0-1
+?,(Fri) Mar/31 2006 (13),Guingamp (32),Reims (32),2-1,1-1
+?,(Fri) Mar/31 2006 (13),Istres (32),Amiens (32),1-0,1-0
+?,(Fri) Mar/31 2006 (13),Laval (32),Valenciennes (32),0-2,0-1
+?,(Fri) Mar/31 2006 (13),Lorient (32),Montpellier (32),3-0,1-0
+?,(Fri) Mar/31 2006 (13),Sedan (32),Brest (31),2-2,0-1
+?,(Fri) Mar/31 2006 (13),Sete (31),Creteil (32),1-1,1-0
+?,(Mon) Apr/3 2006 (14),Grenoble (32),Bastia (32),5-1,4-0
+?,(Fri) Apr/7 2006 (14),Amiens (33),Sete (32),1-0,1-0
+?,(Fri) Apr/7 2006 (14),Bastia (33),Dijon (33),0-2,0-0
+?,(Fri) Apr/7 2006 (14),Brest (32),Istres (33),0-0,0-0
+?,(Fri) Apr/7 2006 (14),Chateauroux (33),Sedan (33),0-1,0-1
+?,(Fri) Apr/7 2006 (14),Creteil (33),Clermont (33),3-1,2-0
+?,(Fri) Apr/7 2006 (14),Gueugnon (33),Lorient (33),0-1,0-0
+?,(Fri) Apr/7 2006 (14),Le Havre (33),Grenoble (33),4-1,2-1
+?,(Fri) Apr/7 2006 (14),Montpellier (33),Caen (33),1-3,0-1
+?,(Fri) Apr/7 2006 (14),Reims (33),Laval (33),3-1,1-0
+?,(Mon) Apr/10 2006 (15),Valenciennes (33),Guingamp (33),2-0,1-0
+?,(Tue) Apr/11 2006 (15),Brest (33),Sete (33),1-1,1-1
+?,(Fri) Apr/14 2006 (15),Caen (34),Le Havre (34),4-1,3-0
+?,(Fri) Apr/14 2006 (15),Clermont (34),Reims (34),0-0,0-0
+?,(Fri) Apr/14 2006 (15),Dijon (34),Chateauroux (34),2-1,2-0
+?,(Fri) Apr/14 2006 (15),Gueugnon (34),Bastia (34),2-0,1-0
+?,(Fri) Apr/14 2006 (15),Guingamp (34),Amiens (34),6-0,1-0
+?,(Fri) Apr/14 2006 (15),Istres (34),Creteil (34),0-1,0-0
+?,(Fri) Apr/14 2006 (15),Sedan (34),Laval (34),1-1,0-1
+?,(Fri) Apr/14 2006 (15),Sete (34),Valenciennes (34),1-2,1-1
+?,(Sat) Apr/15 2006 (15),Grenoble (34),Montpellier (34),2-2,1-2
+?,(Mon) Apr/17 2006 (16),Lorient (34),Brest (34),5-0,2-0
+?,(Fri) Apr/21 2006 (16),Bastia (35),Caen (35),0-2,0-0
+?,(Fri) Apr/21 2006 (16),Brest (35),Dijon (35),0-4,0-1
+?,(Fri) Apr/21 2006 (16),Chateauroux (35),Grenoble (35),3-1,2-0
+?,(Fri) Apr/21 2006 (16),Creteil (35),Lorient (35),1-1,0-1
+?,(Fri) Apr/21 2006 (16),Laval (35),Guingamp (35),1-2,1-2
+?,(Fri) Apr/21 2006 (16),Le Havre (35),Gueugnon (35),2-1,1-1
+?,(Fri) Apr/21 2006 (16),Montpellier (35),Clermont (35),1-0,0-0
+?,(Fri) Apr/21 2006 (16),Reims (35),Sete (35),2-0,2-0
+?,(Fri) Apr/21 2006 (16),Valenciennes (35),Istres (35),1-0,1-0
+?,(Mon) Apr/24 2006 (17),Amiens (35),Sedan (35),0-0,0-0
+?,(Fri) Apr/28 2006 (17),Bastia (36),Le Havre (36),1-1,0-0
+?,(Fri) Apr/28 2006 (17),Caen (36),Chateauroux (36),2-1,1-1
+?,(Fri) Apr/28 2006 (17),Clermont (36),Guingamp (36),3-2,0-1
+?,(Fri) Apr/28 2006 (17),Dijon (36),Creteil (36),1-1,0-0
+?,(Fri) Apr/28 2006 (17),Grenoble (36),Brest (36),1-1,0-0
+?,(Fri) Apr/28 2006 (17),Gueugnon (36),Montpellier (36),3-1,0-0
+?,(Fri) Apr/28 2006 (17),Istres (36),Reims (36),3-0,1-0
+?,(Fri) Apr/28 2006 (17),Sedan (36),Valenciennes (36),0-3,0-1
+?,(Fri) Apr/28 2006 (17),Sete (36),Laval (36),3-2,1-0
+?,(Mon) May/1 2006 (18),Lorient (36),Amiens (36),1-1,0-1
+?,(Fri) May/5 2006 (18),Amiens (37),Dijon (37),1-0,1-0
+?,(Fri) May/5 2006 (18),Brest (37),Caen (37),2-1,1-0
+?,(Fri) May/5 2006 (18),Chateauroux (37),Gueugnon (37),1-1,1-1
+?,(Fri) May/5 2006 (18),Creteil (37),Grenoble (37),1-0,0-0
+?,(Fri) May/5 2006 (18),Guingamp (37),Sete (37),1-0,0-0
+?,(Fri) May/5 2006 (18),Laval (37),Clermont (37),2-1,1-0
+?,(Fri) May/5 2006 (18),Le Havre (37),Istres (37),0-0,0-0
+?,(Fri) May/5 2006 (18),Montpellier (37),Bastia (37),1-1,0-0
+?,(Fri) May/5 2006 (18),Reims (37),Sedan (37),1-2,0-2
+?,(Fri) May/5 2006 (18),Valenciennes (37),Lorient (37),1-0,0-0
+?,(Fri) May/12 2006 (19),Bastia (38),Chateauroux (38),1-4,0-0
+?,(Fri) May/12 2006 (19),Caen (38),Creteil (38),3-1,3-1
+?,(Fri) May/12 2006 (19),Dijon (38),Valenciennes (38),2-0,0-0
+?,(Fri) May/12 2006 (19),Grenoble (38),Amiens (38),3-0,1-0
+?,(Fri) May/12 2006 (19),Gueugnon (38),Brest (38),0-1,0-0
+?,(Fri) May/12 2006 (19),Istres (38),Laval (38),2-1,0-1
+?,(Fri) May/12 2006 (19),Le Havre (38),Montpellier (38),1-0,1-0
+?,(Fri) May/12 2006 (19),Lorient (38),Reims (38),3-1,0-0
+?,(Fri) May/12 2006 (19),Sedan (38),Guingamp (38),2-0,0-0
+?,(Fri) May/12 2006 (19),Sete (38),Clermont (38),1-3,0-2

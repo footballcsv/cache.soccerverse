@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,2011-08-06,Ajaccio,Toulouse,0-2,0-1,Sat,31
-?,2011-08-06,Brest,Evian Thonon Gaillard,2-2,2-2,Sat,31
-?,2011-08-06,Caen,Valenciennes,1-0,1-0,Sat,31
-?,2011-08-06,Marseille,Sochaux,2-2,1-0,Sat,31
-?,2011-08-06,Montpellier,Auxerre,3-1,1-1,Sat,31
-?,2011-08-06,Nancy,Lille,1-1,0-0,Sat,31
-?,2011-08-06,Nice,Lyon,1-3,1-2,Sat,31
-?,2011-08-06,Paris SG,Lorient,0-1,0-1,Sat,31
-?,2011-08-07,Bordeaux,St Etienne,1-2,0-2,Sun,31
-?,2011-08-07,Dijon,Rennes,1-5,1-2,Sun,31
-?,2011-08-13,Lorient,Bordeaux,1-1,0-0,Sat,32
-?,2011-08-13,Lyon,Ajaccio,1-1,0-0,Sat,32
-?,2011-08-13,Rennes,Paris SG,1-1,0-0,Sat,32
-?,2011-08-13,Sochaux,Caen,1-2,0-1,Sat,32
-?,2011-08-13,St Etienne,Nancy,1-0,0-0,Sat,32
-?,2011-08-13,Toulouse,Dijon,2-0,0-0,Sat,32
-?,2011-08-13,Valenciennes,Brest,0-0,0-0,Sat,32
-?,2011-08-14,Auxerre,Marseille,2-2,0-2,Sun,32
-?,2011-08-14,Evian Thonon Gaillard,Nice,1-0,0-0,Sun,32
-?,2011-08-14,Lille,Montpellier,0-1,0-0,Sun,32
-?,2011-08-20,Ajaccio,Evian Thonon Gaillard,1-1,1-0,Sat,33
-?,2011-08-20,Bordeaux,Auxerre,1-1,1-0,Sat,33
-?,2011-08-20,Brest,Lyon,1-1,1-0,Sat,33
-?,2011-08-20,Caen,Lille,1-2,0-0,Sat,33
-?,2011-08-20,Dijon,Lorient,2-0,1-0,Sat,33
-?,2011-08-20,Nice,Toulouse,1-1,1-0,Sat,33
-?,2011-08-21,Marseille,St Etienne,0-0,0-0,Sun,33
-?,2011-08-21,Montpellier,Rennes,4-0,1-0,Sun,33
-?,2011-08-21,Nancy,Sochaux,1-2,0-0,Sun,33
-?,2011-08-21,Paris SG,Valenciennes,2-1,1-1,Sun,33
-?,2011-08-27,Auxerre,Ajaccio,4-1,1-0,Sat,34
-?,2011-08-27,Evian Thonon Gaillard,Dijon,0-1,0-0,Sat,34
-?,2011-08-27,Lorient,Nancy,2-1,0-1,Sat,34
-?,2011-08-27,Lyon,Montpellier,2-1,0-0,Sat,34
-?,2011-08-27,Nice,Brest,0-0,0-0,Sat,34
-?,2011-08-27,Valenciennes,Bordeaux,1-2,1-0,Sat,34
-?,2011-08-28,Lille,Marseille,3-2,1-0,Sun,34
-?,2011-08-28,Rennes,Caen,3-2,3-0,Sun,34
-?,2011-08-28,Sochaux,St Etienne,2-1,2-1,Sun,34
-?,2011-08-28,Toulouse,Paris SG,1-3,1-0,Sun,34
-?,2011-09-10,Ajaccio,Valenciennes,3-1,0-1,Sat,36
-?,2011-09-10,Bordeaux,Evian Thonon Gaillard,0-0,0-0,Sat,36
-?,2011-09-10,Caen,Toulouse,0-1,0-0,Sat,36
-?,2011-09-10,Dijon,Lyon,1-2,1-1,Sat,36
-?,2011-09-10,Marseille,Rennes,0-1,0-0,Sat,36
-?,2011-09-10,Sochaux,Lorient,1-1,1-0,Sat,36
-?,2011-09-10,St Etienne,Lille,1-3,1-0,Sat,36
-?,2011-09-11,Montpellier,Nice,1-0,0-0,Sun,36
-?,2011-09-11,Nancy,Auxerre,0-0,0-0,Sun,36
-?,2011-09-11,Paris SG,Brest,1-0,0-0,Sun,36
-?,2011-09-17,Auxerre,Caen,1-1,1-1,Sat,37
-?,2011-09-17,Brest,Montpellier,2-2,0-2,Sat,37
-?,2011-09-17,Lille,Sochaux,2-2,0-0,Sat,37
-?,2011-09-17,Lorient,St Etienne,3-0,1-0,Sat,37
-?,2011-09-17,Nice,Ajaccio,3-0,1-0,Sat,37
-?,2011-09-17,Toulouse,Bordeaux,3-2,0-2,Sat,37
-?,2011-09-17,Valenciennes,Dijon,4-0,0-0,Sat,37
-?,2011-09-18,Evian Thonon Gaillard,Paris SG,2-2,2-1,Sun,37
-?,2011-09-18,Lyon,Marseille,2-0,2-0,Sun,37
-?,2011-09-18,Rennes,Nancy,1-1,1-0,Sun,37
-?,2011-09-20,Bordeaux,Lille,1-1,1-0,Tue,38
-?,2011-09-21,Ajaccio,Montpellier,1-3,0-3,Wed,38
-?,2011-09-21,Caen,Lyon,1-0,1-0,Wed,38
-?,2011-09-21,Dijon,Brest,1-0,1-0,Wed,38
-?,2011-09-21,Lorient,Auxerre,1-1,1-0,Wed,38
-?,2011-09-21,Marseille,Evian Thonon Gaillard,2-0,1-0,Wed,38
-?,2011-09-21,Nancy,Valenciennes,1-1,1-0,Wed,38
-?,2011-09-21,Paris SG,Nice,2-1,1-0,Wed,38
-?,2011-09-21,Sochaux,Rennes,2-6,2-2,Wed,38
-?,2011-09-21,St Etienne,Toulouse,1-1,0-1,Wed,38
-?,2011-09-24,Evian Thonon Gaillard,Caen,2-4,2-2,Sat,38
-?,2011-09-24,Lille,Lorient,1-1,1-0,Sat,38
-?,2011-09-24,Lyon,Bordeaux,3-1,2-0,Sat,38
-?,2011-09-24,Montpellier,Paris SG,0-3,0-2,Sat,38
-?,2011-09-24,Nice,Dijon,1-1,0-1,Sat,38
-?,2011-09-24,Toulouse,Nancy,1-0,0-0,Sat,38
-?,2011-09-24,Valenciennes,Marseille,1-1,0-1,Sat,38
-?,2011-09-25,Auxerre,Sochaux,4-1,0-1,Sun,38
-?,2011-09-25,Brest,Ajaccio,1-1,0-0,Sun,38
-?,2011-09-25,Rennes,St Etienne,1-1,1-0,Sun,38
-?,2011-10-01,Bordeaux,Montpellier,2-2,1-0,Sat,39
-?,2011-10-01,Caen,Nice,1-1,0-0,Sat,39
-?,2011-10-01,Dijon,Ajaccio,1-1,1-1,Sat,39
-?,2011-10-01,Lorient,Valenciennes,2-0,1-0,Sat,39
-?,2011-10-01,Nancy,Evian Thonon Gaillard,1-1,0-0,Sat,39
-?,2011-10-01,Sochaux,Toulouse,3-0,1-0,Sat,39
-?,2011-10-01,St Etienne,Auxerre,1-1,1-1,Sat,39
-?,2011-10-02,Lille,Rennes,2-0,2-0,Sun,39
-?,2011-10-02,Marseille,Brest,1-1,1-1,Sun,39
-?,2011-10-02,Paris SG,Lyon,2-0,0-0,Sun,39
-?,2011-10-15,Auxerre,Lille,1-3,1-0,Sat,41
-?,2011-10-15,Brest,Caen,1-1,1-0,Sat,41
-?,2011-10-15,Evian Thonon Gaillard,St Etienne,1-2,0-0,Sat,41
-?,2011-10-15,Lyon,Nancy,3-1,3-0,Sat,41
-?,2011-10-15,Montpellier,Dijon,5-3,1-2,Sat,41
-?,2011-10-15,Nice,Bordeaux,3-0,2-0,Sat,41
-?,2011-10-15,Toulouse,Marseille,0-0,0-0,Sat,41
-?,2011-10-16,Ajaccio,Paris SG,1-3,1-1,Sun,41
-?,2011-10-16,Rennes,Lorient,2-0,1-0,Sun,41
-?,2011-10-16,Valenciennes,Sochaux,3-0,1-0,Sun,41
-?,2011-10-22,Bordeaux,Brest,1-1,0-0,Sat,42
-?,2011-10-22,Caen,Montpellier,1-3,0-2,Sat,42
-?,2011-10-22,Lorient,Toulouse,0-0,0-0,Sat,42
-?,2011-10-22,Marseille,Ajaccio,2-0,1-0,Sat,42
-?,2011-10-22,Nancy,Nice,1-0,0-0,Sat,42
-?,2011-10-22,Sochaux,Evian Thonon Gaillard,1-1,0-0,Sat,42
-?,2011-10-22,St Etienne,Valenciennes,1-0,0-0,Sat,42
-?,2011-10-23,Auxerre,Rennes,0-1,0-0,Sun,42
-?,2011-10-23,Lille,Lyon,3-1,1-1,Sun,42
-?,2011-10-23,Paris SG,Dijon,2-0,1-0,Sun,42
-?,2011-10-29,Ajaccio,Bordeaux,0-2,0-2,Sat,43
-?,2011-10-29,Brest,Lorient,3-1,3-0,Sat,43
-?,2011-10-29,Dijon,Marseille,2-3,0-2,Sat,43
-?,2011-10-29,Evian Thonon Gaillard,Auxerre,3-1,2-0,Sat,43
-?,2011-10-29,Lyon,St Etienne,2-0,0-0,Sat,43
-?,2011-10-29,Montpellier,Nancy,2-0,0-0,Sat,43
-?,2011-10-29,Paris SG,Caen,4-2,1-1,Sat,43
-?,2011-10-30,Nice,Sochaux,1-1,1-1,Sun,43
-?,2011-10-30,Toulouse,Rennes,1-0,1-0,Sun,43
-?,2011-10-30,Valenciennes,Lille,0-0,0-0,Sun,43
-?,2011-11-05,Lille,Evian Thonon Gaillard,1-1,0-1,Sat,44
-?,2011-11-06,Auxerre,Toulouse,2-0,0-0,Sun,44
-?,2011-11-06,Bordeaux,Paris SG,1-1,1-1,Sun,44
-?,2011-11-06,Caen,Dijon,3-0,1-0,Sun,44
-?,2011-11-06,Lorient,Ajaccio,2-0,0-0,Sun,44
-?,2011-11-06,Marseille,Nice,2-0,0-0,Sun,44
-?,2011-11-06,Nancy,Brest,2-1,0-0,Sun,44
-?,2011-11-06,Rennes,Valenciennes,1-1,1-1,Sun,44
-?,2011-11-06,Sochaux,Lyon,2-1,2-1,Sun,44
-?,2011-11-06,St Etienne,Montpellier,1-1,1-0,Sun,44
-?,2011-11-18,Lyon,Rennes,1-2,1-1,Fri,46
-?,2011-11-18,Toulouse,Lille,0-0,0-0,Fri,46
-?,2011-11-19,Ajaccio,Caen,2-2,0-0,Sat,46
-?,2011-11-19,Dijon,Bordeaux,2-0,0-0,Sat,46
-?,2011-11-19,Evian Thonon Gaillard,Lorient,2-1,1-0,Sat,46
-?,2011-11-19,Montpellier,Marseille,1-0,0-0,Sat,46
-?,2011-11-19,Nice,St Etienne,0-2,0-2,Sat,46
-?,2011-11-20,Brest,Sochaux,2-0,0-0,Sun,46
-?,2011-11-20,Paris SG,Nancy,0-1,0-0,Sun,46
-?,2011-11-20,Valenciennes,Auxerre,2-1,0-1,Sun,46
-?,2011-11-26,Bordeaux,Caen,2-0,0-0,Sat,47
-?,2011-11-26,Lille,Brest,2-0,1-0,Sat,47
-?,2011-11-26,Nancy,Dijon,1-2,1-1,Sat,47
-?,2011-11-26,Rennes,Evian Thonon Gaillard,3-2,1-2,Sat,47
-?,2011-11-26,Sochaux,Montpellier,1-3,0-0,Sat,47
-?,2011-11-26,St Etienne,Ajaccio,3-1,2-0,Sat,47
-?,2011-11-26,Toulouse,Valenciennes,2-0,1-0,Sat,47
-?,2011-11-27,Auxerre,Lyon,0-3,0-1,Sun,47
-?,2011-11-27,Lorient,Nice,1-0,0-0,Sun,47
-?,2011-11-27,Marseille,Paris SG,3-0,1-0,Sun,47
-?,2011-12-02,Caen,Marseille,1-2,1-1,Fri,48
-?,2011-12-03,Ajaccio,Lille,2-3,2-2,Sat,48
-?,2011-12-03,Brest,St Etienne,2-2,2-1,Sat,48
-?,2011-12-03,Dijon,Sochaux,0-0,0-0,Sat,48
-?,2011-12-03,Evian Thonon Gaillard,Valenciennes,2-1,2-0,Sat,48
-?,2011-12-03,Montpellier,Lorient,4-0,1-0,Sat,48
-?,2011-12-03,Nice,Rennes,2-0,2-0,Sat,48
-?,2011-12-04,Bordeaux,Nancy,2-0,1-0,Sun,48
-?,2011-12-04,Lyon,Toulouse,3-2,1-0,Sun,48
-?,2011-12-04,Paris SG,Auxerre,3-2,0-0,Sun,48
-?,2011-12-10,Marseille,Bordeaux,0-0,0-0,Sat,49
-?,2011-12-10,Nancy,Ajaccio,2-2,1-1,Sat,49
-?,2011-12-10,Rennes,Brest,1-1,1-1,Sat,49
-?,2011-12-10,Sochaux,Paris SG,0-1,0-1,Sat,49
-?,2011-12-10,St Etienne,Caen,2-0,1-0,Sat,49
-?,2011-12-10,Toulouse,Evian Thonon Gaillard,2-1,1-0,Sat,49
-?,2011-12-10,Valenciennes,Montpellier,1-0,0-0,Sat,49
-?,2011-12-11,Auxerre,Nice,2-1,1-1,Sun,49
-?,2011-12-11,Lille,Dijon,2-0,1-0,Sun,49
-?,2011-12-11,Lorient,Lyon,0-1,0-0,Sun,49
-?,2011-12-17,Brest,Auxerre,1-0,1-0,Sat,50
-?,2011-12-17,Caen,Nancy,1-2,0-1,Sat,50
-?,2011-12-17,Dijon,St Etienne,1-2,0-1,Sat,50
-?,2011-12-17,Lyon,Evian Thonon Gaillard,2-1,1-1,Sat,50
-?,2011-12-17,Marseille,Lorient,2-1,0-0,Sat,50
-?,2011-12-17,Montpellier,Toulouse,1-1,1-1,Sat,50
-?,2011-12-17,Nice,Valenciennes,2-0,0-0,Sat,50
-?,2011-12-18,Ajaccio,Rennes,1-0,0-0,Sun,50
-?,2011-12-18,Bordeaux,Sochaux,1-0,1-0,Sun,50
-?,2011-12-18,Paris SG,Lille,0-0,0-0,Sun,50
-?,2011-12-20,Nancy,Marseille,1-3,1-2,Tue,51
-?,2011-12-21,Auxerre,Dijon,2-2,0-2,Wed,51
-?,2011-12-21,Evian Thonon Gaillard,Montpellier,4-2,0-0,Wed,51
-?,2011-12-21,Lille,Nice,4-4,2-3,Wed,51
-?,2011-12-21,Lorient,Caen,0-0,0-0,Wed,51
-?,2011-12-21,Rennes,Bordeaux,1-0,0-0,Wed,51
-?,2011-12-21,Sochaux,Ajaccio,0-2,0-0,Wed,51
-?,2011-12-21,St Etienne,Paris SG,0-1,0-1,Wed,51
-?,2011-12-21,Toulouse,Brest,0-0,0-0,Wed,51
-?,2011-12-21,Valenciennes,Lyon,1-0,1-0,Wed,51
-?,2012-01-14,Ajaccio,Auxerre,2-1,2-1,Sat,2
-?,2012-01-14,Bordeaux,Valenciennes,2-1,2-0,Sat,2
-?,2012-01-14,Brest,Nice,1-0,1-0,Sat,2
-?,2012-01-14,Caen,Rennes,0-2,0-1,Sat,2
-?,2012-01-14,Dijon,Evian Thonon Gaillard,3-1,1-0,Sat,2
-?,2012-01-14,Montpellier,Lyon,1-0,0-0,Sat,2
-?,2012-01-14,Nancy,Lorient,2-2,1-0,Sat,2
-?,2012-01-14,Paris SG,Toulouse,3-1,1-0,Sat,2
-?,2012-01-14,St Etienne,Sochaux,1-0,0-0,Sat,2
-?,2012-01-15,Marseille,Lille,2-0,0-0,Sun,2
-?,2012-01-28,Auxerre,Nancy,1-3,0-0,Sat,4
-?,2012-01-28,Brest,Paris SG,0-1,0-1,Sat,4
-?,2012-01-28,Lille,St Etienne,3-0,0-0,Sat,4
-?,2012-01-28,Lorient,Sochaux,1-1,0-0,Sat,4
-?,2012-01-28,Lyon,Dijon,3-1,1-0,Sat,4
-?,2012-01-28,Nice,Montpellier,0-1,0-0,Sat,4
-?,2012-01-28,Toulouse,Caen,1-0,1-0,Sat,4
-?,2012-01-29,Evian Thonon Gaillard,Bordeaux,0-0,0-0,Sun,4
-?,2012-01-29,Rennes,Marseille,1-2,1-1,Sun,4
-?,2012-01-29,Valenciennes,Ajaccio,1-2,0-1,Sun,4
-?,2012-02-04,Ajaccio,Nice,1-1,0-0,Sat,5
-?,2012-02-04,Bordeaux,Toulouse,2-0,2-0,Sat,5
-?,2012-02-04,Dijon,Valenciennes,1-2,0-2,Sat,5
-?,2012-02-04,Montpellier,Brest,1-0,1-0,Sat,5
-?,2012-02-04,Nancy,Rennes,0-0,0-0,Sat,5
-?,2012-02-04,Paris SG,Evian Thonon Gaillard,3-1,0-1,Sat,5
-?,2012-02-05,Marseille,Lyon,2-2,2-2,Sun,5
-?,2012-02-11,Auxerre,Lorient,1-1,1-0,Sat,6
-?,2012-02-11,Brest,Dijon,1-1,0-0,Sat,6
-?,2012-02-11,Lyon,Caen,1-2,0-1,Sat,6
-?,2012-02-11,Montpellier,Ajaccio,3-0,0-0,Sat,6
-?,2012-02-11,Rennes,Sochaux,1-0,1-0,Sat,6
-?,2012-02-11,Valenciennes,Nancy,1-0,0-0,Sat,6
-?,2012-02-12,Lille,Bordeaux,4-5,1-2,Sun,6
-?,2012-02-12,Nice,Paris SG,0-0,0-0,Sun,6
-?,2012-02-12,Toulouse,St Etienne,0-1,0-0,Sun,6
-?,2012-02-18,Ajaccio,Brest,0-0,0-0,Sat,7
-?,2012-02-18,Caen,Evian Thonon Gaillard,2-2,1-0,Sat,7
-?,2012-02-18,Dijon,Nice,3-0,1-0,Sat,7
-?,2012-02-18,Lorient,Lille,0-1,0-0,Sat,7
-?,2012-02-18,Marseille,Valenciennes,1-1,1-0,Sat,7
-?,2012-02-18,Nancy,Toulouse,0-3,0-2,Sat,7
-?,2012-02-18,Sochaux,Auxerre,0-0,0-0,Sat,7
-?,2012-02-19,Bordeaux,Lyon,1-0,1-0,Sun,7
-?,2012-02-19,Paris SG,Montpellier,2-2,1-1,Sun,7
-?,2012-02-19,St Etienne,Rennes,4-0,1-0,Sun,7
-?,2012-02-22,Caen,Auxerre,2-1,0-0,Wed,8
-?,2012-02-22,Sochaux,Lille,0-1,0-0,Wed,8
-?,2012-02-22,St Etienne,Lorient,4-2,0-0,Wed,8
-?,2012-02-25,Ajaccio,Dijon,2-1,0-0,Sat,8
-?,2012-02-25,Auxerre,St Etienne,0-0,0-0,Sat,8
-?,2012-02-25,Evian Thonon Gaillard,Nancy,2-0,2-0,Sat,8
-?,2012-02-25,Lyon,Paris SG,4-4,3-2,Sat,8
-?,2012-02-25,Montpellier,Bordeaux,1-0,0-0,Sat,8
-?,2012-02-25,Nice,Caen,1-0,0-0,Sat,8
-?,2012-02-25,Valenciennes,Lorient,2-0,0-0,Sat,8
-?,2012-02-26,Brest,Marseille,1-0,1-0,Sun,8
-?,2012-02-26,Rennes,Lille,1-1,0-1,Sun,8
-?,2012-02-26,Toulouse,Sochaux,2-0,1-0,Sun,8
-?,2012-03-03,Bordeaux,Nice,1-2,0-2,Sat,9
-?,2012-03-03,Dijon,Montpellier,1-1,0-0,Sat,9
-?,2012-03-03,Lille,Auxerre,2-2,1-0,Sat,9
-?,2012-03-03,Marseille,Toulouse,0-1,0-0,Sat,9
-?,2012-03-03,Nancy,Lyon,2-0,0-0,Sat,9
-?,2012-03-03,Sochaux,Valenciennes,1-1,0-0,Sat,9
-?,2012-03-03,St Etienne,Evian Thonon Gaillard,0-2,0-1,Sat,9
-?,2012-03-04,Caen,Brest,0-0,0-0,Sun,9
-?,2012-03-04,Lorient,Rennes,0-2,0-1,Sun,9
-?,2012-03-04,Paris SG,Ajaccio,4-1,2-1,Sun,9
-?,2012-03-06,Evian Thonon Gaillard,Marseille,2-0,2-0,Tue,10
-?,2012-03-09,Ajaccio,Marseille,1-0,0-0,Fri,10
-?,2012-03-10,Brest,Bordeaux,0-2,0-1,Sat,10
-?,2012-03-10,Evian Thonon Gaillard,Sochaux,2-3,1-2,Sat,10
-?,2012-03-10,Lyon,Lille,2-1,2-1,Sat,10
-?,2012-03-10,Nice,Nancy,1-1,1-1,Sat,10
-?,2012-03-10,Toulouse,Lorient,1-1,0-0,Sat,10
-?,2012-03-10,Valenciennes,St Etienne,1-2,0-0,Sat,10
-?,2012-03-11,Dijon,Paris SG,1-2,0-0,Sun,10
-?,2012-03-11,Montpellier,Caen,3-0,0-0,Sun,10
-?,2012-03-11,Rennes,Auxerre,1-1,0-1,Sun,10
-?,2012-03-17,Auxerre,Evian Thonon Gaillard,0-2,0-1,Sat,11
-?,2012-03-17,Bordeaux,Ajaccio,1-1,0-0,Sat,11
-?,2012-03-17,Caen,Paris SG,2-2,0-0,Sat,11
-?,2012-03-17,Lorient,Brest,2-1,0-1,Sat,11
-?,2012-03-17,Marseille,Dijon,1-2,1-1,Sat,11
-?,2012-03-17,Nancy,Montpellier,1-0,0-0,Sat,11
-?,2012-03-17,St Etienne,Lyon,0-1,0-0,Sat,11
-?,2012-03-18,Lille,Valenciennes,4-0,1-0,Sun,11
-?,2012-03-18,Rennes,Toulouse,0-1,0-1,Sun,11
-?,2012-03-18,Sochaux,Nice,2-0,1-0,Sun,11
-?,2012-03-24,Ajaccio,Lorient,1-1,0-1,Sat,12
-?,2012-03-24,Brest,Nancy,0-1,0-1,Sat,12
-?,2012-03-24,Evian Thonon Gaillard,Lille,0-3,0-1,Sat,12
-?,2012-03-24,Lyon,Sochaux,2-1,1-0,Sat,12
-?,2012-03-24,Montpellier,St Etienne,1-0,0-0,Sat,12
-?,2012-03-24,Nice,Marseille,1-1,0-0,Sat,12
-?,2012-03-24,Valenciennes,Rennes,1-0,1-0,Sat,12
-?,2012-03-25,Dijon,Caen,2-0,1-0,Sun,12
-?,2012-03-25,Paris SG,Bordeaux,1-1,0-0,Sun,12
-?,2012-03-25,Toulouse,Auxerre,1-0,1-0,Sun,12
-?,2012-03-31,Auxerre,Valenciennes,2-0,1-0,Sat,13
-?,2012-03-31,Bordeaux,Dijon,1-1,0-0,Sat,13
-?,2012-03-31,Lorient,Evian Thonon Gaillard,0-1,0-1,Sat,13
-?,2012-03-31,Nancy,Paris SG,2-1,1-0,Sat,13
-?,2012-03-31,Sochaux,Brest,2-1,0-1,Sat,13
-?,2012-03-31,St Etienne,Nice,2-3,2-1,Sat,13
-?,2012-04-01,Caen,Ajaccio,0-0,0-0,Sun,13
-?,2012-04-01,Lille,Toulouse,2-1,2-0,Sun,13
-?,2012-04-01,Rennes,Lyon,1-1,1-0,Sun,13
-?,2012-04-07,Ajaccio,St Etienne,1-1,0-0,Sat,14
-?,2012-04-07,Brest,Lille,3-1,2-1,Sat,14
-?,2012-04-07,Dijon,Nancy,0-2,0-1,Sat,14
-?,2012-04-07,Evian Thonon Gaillard,Rennes,1-3,1-0,Sat,14
-?,2012-04-07,Lyon,Auxerre,2-1,1-1,Sat,14
-?,2012-04-07,Montpellier,Sochaux,2-1,1-1,Sat,14
-?,2012-04-07,Valenciennes,Toulouse,2-0,0-0,Sat,14
-?,2012-04-08,Caen,Bordeaux,1-0,1-0,Sun,14
-?,2012-04-08,Nice,Lorient,2-0,0-0,Sun,14
-?,2012-04-08,Paris SG,Marseille,2-1,1-0,Sun,14
-?,2012-04-11,Marseille,Montpellier,1-3,1-1,Wed,15
-?,2012-04-15,Auxerre,Paris SG,1-1,0-1,Sun,15
-?,2012-04-15,Lille,Ajaccio,4-1,2-0,Sun,15
-?,2012-04-15,Lorient,Montpellier,2-1,0-0,Sun,15
-?,2012-04-15,Nancy,Bordeaux,2-2,0-1,Sun,15
-?,2012-04-15,Sochaux,Dijon,1-0,0-0,Sun,15
-?,2012-04-15,St Etienne,Brest,2-1,0-0,Sun,15
-?,2012-04-15,Valenciennes,Evian Thonon Gaillard,0-3,0-3,Sun,15
-?,2012-04-16,Rennes,Nice,3-1,1-1,Mon,16
-?,2012-04-18,Marseille,Caen,1-1,1-1,Wed,16
-?,2012-04-18,Toulouse,Lyon,3-0,2-0,Wed,16
-?,2012-04-21,Bordeaux,Marseille,2-1,2-0,Sat,16
-?,2012-04-21,Brest,Rennes,0-1,0-1,Sat,16
-?,2012-04-21,Caen,St Etienne,1-4,0-1,Sat,16
-?,2012-04-21,Dijon,Lille,0-2,0-2,Sat,16
-?,2012-04-21,Evian Thonon Gaillard,Toulouse,2-1,1-0,Sat,16
-?,2012-04-21,Montpellier,Valenciennes,1-0,1-0,Sat,16
-?,2012-04-21,Nice,Auxerre,1-0,1-0,Sat,16
-?,2012-04-22,Ajaccio,Nancy,0-0,0-0,Sun,16
-?,2012-04-22,Lyon,Lorient,3-2,1-2,Sun,16
-?,2012-04-22,Paris SG,Sochaux,6-1,3-1,Sun,16
-?,2012-04-27,Lorient,Marseille,2-1,1-0,Fri,17
-?,2012-04-27,Toulouse,Montpellier,0-1,0-1,Fri,17
-?,2012-04-29,Auxerre,Brest,4-0,4-0,Sun,17
-?,2012-04-29,Lille,Paris SG,2-1,0-0,Sun,17
-?,2012-04-29,Nancy,Caen,1-1,0-0,Sun,17
-?,2012-04-29,Rennes,Ajaccio,3-1,1-0,Sun,17
-?,2012-04-29,Sochaux,Bordeaux,0-3,0-1,Sun,17
-?,2012-04-29,St Etienne,Dijon,1-0,1-0,Sun,17
-?,2012-04-29,Valenciennes,Nice,2-0,1-0,Sun,17
-?,2012-05-01,Montpellier,Evian Thonon Gaillard,2-2,1-1,Tue,18
-?,2012-05-02,Ajaccio,Sochaux,2-1,0-0,Wed,18
-?,2012-05-02,Bordeaux,Rennes,2-0,0-0,Wed,18
-?,2012-05-02,Brest,Toulouse,0-0,0-0,Wed,18
-?,2012-05-02,Caen,Lorient,1-0,0-0,Wed,18
-?,2012-05-02,Lyon,Valenciennes,4-1,1-1,Wed,18
-?,2012-05-02,Marseille,Nancy,1-0,1-0,Wed,18
-?,2012-05-02,Nice,Lille,0-1,0-1,Wed,18
-?,2012-05-02,Paris SG,St Etienne,2-0,1-0,Wed,18
-?,2012-05-03,Dijon,Auxerre,0-2,0-1,Thu,18
-?,2012-05-06,Evian Thonon Gaillard,Ajaccio,2-1,1-1,Sun,18
-?,2012-05-06,Lyon,Brest,1-1,1-0,Sun,18
-?,2012-05-06,Valenciennes,Paris SG,3-4,2-3,Sun,18
-?,2012-05-07,Auxerre,Bordeaux,2-4,0-3,Mon,19
-?,2012-05-07,Lille,Caen,3-0,2-0,Mon,19
-?,2012-05-07,Lorient,Dijon,0-0,0-0,Mon,19
-?,2012-05-07,Rennes,Montpellier,0-2,0-1,Mon,19
-?,2012-05-07,Sochaux,Nancy,1-0,0-0,Mon,19
-?,2012-05-07,St Etienne,Marseille,0-0,0-0,Mon,19
-?,2012-05-07,Toulouse,Nice,0-0,0-0,Mon,19
-?,2012-05-10,Evian Thonon Gaillard,Lyon,1-3,1-1,Thu,19
-?,2012-05-13,Ajaccio,Lyon,1-1,0-0,Sun,19
-?,2012-05-13,Bordeaux,Lorient,1-0,0-0,Sun,19
-?,2012-05-13,Brest,Valenciennes,1-0,1-0,Sun,19
-?,2012-05-13,Caen,Sochaux,1-3,0-2,Sun,19
-?,2012-05-13,Dijon,Toulouse,1-1,1-1,Sun,19
-?,2012-05-13,Marseille,Auxerre,3-0,1-0,Sun,19
-?,2012-05-13,Montpellier,Lille,1-0,0-0,Sun,19
-?,2012-05-13,Nancy,St Etienne,3-2,3-1,Sun,19
-?,2012-05-13,Nice,Evian Thonon Gaillard,1-1,1-1,Sun,19
-?,2012-05-13,Paris SG,Rennes,3-0,0-0,Sun,19
-?,2012-05-20,Auxerre,Montpellier,1-2,1-1,Sun,20
-?,2012-05-20,Evian Thonon Gaillard,Brest,0-1,0-0,Sun,20
-?,2012-05-20,Lille,Nancy,4-1,4-1,Sun,20
-?,2012-05-20,Lorient,Paris SG,1-2,1-0,Sun,20
-?,2012-05-20,Lyon,Nice,3-4,2-2,Sun,20
-?,2012-05-20,Rennes,Dijon,5-0,1-0,Sun,20
-?,2012-05-20,Sochaux,Marseille,1-0,0-0,Sun,20
-?,2012-05-20,St Etienne,Bordeaux,2-3,1-2,Sun,20
-?,2012-05-20,Toulouse,Ajaccio,0-2,0-2,Sun,20
-?,2012-05-20,Valenciennes,Caen,3-1,1-0,Sun,20
+Round,Date,Team 1,Team 2,FT,HT
+?,(Sat) Aug/6 2011 (31),Ajaccio (1),Toulouse (1),0-2,0-1
+?,(Sat) Aug/6 2011 (31),Brest (1),Evian Thonon Gaillard (1),2-2,2-2
+?,(Sat) Aug/6 2011 (31),Caen (1),Valenciennes (1),1-0,1-0
+?,(Sat) Aug/6 2011 (31),Marseille (1),Sochaux (1),2-2,1-0
+?,(Sat) Aug/6 2011 (31),Montpellier (1),Auxerre (1),3-1,1-1
+?,(Sat) Aug/6 2011 (31),Nancy (1),Lille (1),1-1,0-0
+?,(Sat) Aug/6 2011 (31),Nice (1),Lyon (1),1-3,1-2
+?,(Sat) Aug/6 2011 (31),Paris SG (1),Lorient (1),0-1,0-1
+?,(Sun) Aug/7 2011 (31),Bordeaux (1),St Etienne (1),1-2,0-2
+?,(Sun) Aug/7 2011 (31),Dijon (1),Rennes (1),1-5,1-2
+?,(Sat) Aug/13 2011 (32),Lorient (2),Bordeaux (2),1-1,0-0
+?,(Sat) Aug/13 2011 (32),Lyon (2),Ajaccio (2),1-1,0-0
+?,(Sat) Aug/13 2011 (32),Rennes (2),Paris SG (2),1-1,0-0
+?,(Sat) Aug/13 2011 (32),Sochaux (2),Caen (2),1-2,0-1
+?,(Sat) Aug/13 2011 (32),St Etienne (2),Nancy (2),1-0,0-0
+?,(Sat) Aug/13 2011 (32),Toulouse (2),Dijon (2),2-0,0-0
+?,(Sat) Aug/13 2011 (32),Valenciennes (2),Brest (2),0-0,0-0
+?,(Sun) Aug/14 2011 (32),Auxerre (2),Marseille (2),2-2,0-2
+?,(Sun) Aug/14 2011 (32),Evian Thonon Gaillard (2),Nice (2),1-0,0-0
+?,(Sun) Aug/14 2011 (32),Lille (2),Montpellier (2),0-1,0-0
+?,(Sat) Aug/20 2011 (33),Ajaccio (3),Evian Thonon Gaillard (3),1-1,1-0
+?,(Sat) Aug/20 2011 (33),Bordeaux (3),Auxerre (3),1-1,1-0
+?,(Sat) Aug/20 2011 (33),Brest (3),Lyon (3),1-1,1-0
+?,(Sat) Aug/20 2011 (33),Caen (3),Lille (3),1-2,0-0
+?,(Sat) Aug/20 2011 (33),Dijon (3),Lorient (3),2-0,1-0
+?,(Sat) Aug/20 2011 (33),Nice (3),Toulouse (3),1-1,1-0
+?,(Sun) Aug/21 2011 (33),Marseille (3),St Etienne (3),0-0,0-0
+?,(Sun) Aug/21 2011 (33),Montpellier (3),Rennes (3),4-0,1-0
+?,(Sun) Aug/21 2011 (33),Nancy (3),Sochaux (3),1-2,0-0
+?,(Sun) Aug/21 2011 (33),Paris SG (3),Valenciennes (3),2-1,1-1
+?,(Sat) Aug/27 2011 (34),Auxerre (4),Ajaccio (4),4-1,1-0
+?,(Sat) Aug/27 2011 (34),Evian Thonon Gaillard (4),Dijon (4),0-1,0-0
+?,(Sat) Aug/27 2011 (34),Lorient (4),Nancy (4),2-1,0-1
+?,(Sat) Aug/27 2011 (34),Lyon (4),Montpellier (4),2-1,0-0
+?,(Sat) Aug/27 2011 (34),Nice (4),Brest (4),0-0,0-0
+?,(Sat) Aug/27 2011 (34),Valenciennes (4),Bordeaux (4),1-2,1-0
+?,(Sun) Aug/28 2011 (34),Lille (4),Marseille (4),3-2,1-0
+?,(Sun) Aug/28 2011 (34),Rennes (4),Caen (4),3-2,3-0
+?,(Sun) Aug/28 2011 (34),Sochaux (4),St Etienne (4),2-1,2-1
+?,(Sun) Aug/28 2011 (34),Toulouse (4),Paris SG (4),1-3,1-0
+?,(Sat) Sep/10 2011 (36),Ajaccio (5),Valenciennes (5),3-1,0-1
+?,(Sat) Sep/10 2011 (36),Bordeaux (5),Evian Thonon Gaillard (5),0-0,0-0
+?,(Sat) Sep/10 2011 (36),Caen (5),Toulouse (5),0-1,0-0
+?,(Sat) Sep/10 2011 (36),Dijon (5),Lyon (5),1-2,1-1
+?,(Sat) Sep/10 2011 (36),Marseille (5),Rennes (5),0-1,0-0
+?,(Sat) Sep/10 2011 (36),Sochaux (5),Lorient (5),1-1,1-0
+?,(Sat) Sep/10 2011 (36),St Etienne (5),Lille (5),1-3,1-0
+?,(Sun) Sep/11 2011 (36),Montpellier (5),Nice (5),1-0,0-0
+?,(Sun) Sep/11 2011 (36),Nancy (5),Auxerre (5),0-0,0-0
+?,(Sun) Sep/11 2011 (36),Paris SG (5),Brest (5),1-0,0-0
+?,(Sat) Sep/17 2011 (37),Auxerre (6),Caen (6),1-1,1-1
+?,(Sat) Sep/17 2011 (37),Brest (6),Montpellier (6),2-2,0-2
+?,(Sat) Sep/17 2011 (37),Lille (6),Sochaux (6),2-2,0-0
+?,(Sat) Sep/17 2011 (37),Lorient (6),St Etienne (6),3-0,1-0
+?,(Sat) Sep/17 2011 (37),Nice (6),Ajaccio (6),3-0,1-0
+?,(Sat) Sep/17 2011 (37),Toulouse (6),Bordeaux (6),3-2,0-2
+?,(Sat) Sep/17 2011 (37),Valenciennes (6),Dijon (6),4-0,0-0
+?,(Sun) Sep/18 2011 (37),Evian Thonon Gaillard (6),Paris SG (6),2-2,2-1
+?,(Sun) Sep/18 2011 (37),Lyon (6),Marseille (6),2-0,2-0
+?,(Sun) Sep/18 2011 (37),Rennes (6),Nancy (6),1-1,1-0
+?,(Tue) Sep/20 2011 (38),Bordeaux (7),Lille (7),1-1,1-0
+?,(Wed) Sep/21 2011 (38),Ajaccio (7),Montpellier (7),1-3,0-3
+?,(Wed) Sep/21 2011 (38),Caen (7),Lyon (7),1-0,1-0
+?,(Wed) Sep/21 2011 (38),Dijon (7),Brest (7),1-0,1-0
+?,(Wed) Sep/21 2011 (38),Lorient (7),Auxerre (7),1-1,1-0
+?,(Wed) Sep/21 2011 (38),Marseille (7),Evian Thonon Gaillard (7),2-0,1-0
+?,(Wed) Sep/21 2011 (38),Nancy (7),Valenciennes (7),1-1,1-0
+?,(Wed) Sep/21 2011 (38),Paris SG (7),Nice (7),2-1,1-0
+?,(Wed) Sep/21 2011 (38),Sochaux (7),Rennes (7),2-6,2-2
+?,(Wed) Sep/21 2011 (38),St Etienne (7),Toulouse (7),1-1,0-1
+?,(Sat) Sep/24 2011 (38),Evian Thonon Gaillard (8),Caen (8),2-4,2-2
+?,(Sat) Sep/24 2011 (38),Lille (8),Lorient (8),1-1,1-0
+?,(Sat) Sep/24 2011 (38),Lyon (8),Bordeaux (8),3-1,2-0
+?,(Sat) Sep/24 2011 (38),Montpellier (8),Paris SG (8),0-3,0-2
+?,(Sat) Sep/24 2011 (38),Nice (8),Dijon (8),1-1,0-1
+?,(Sat) Sep/24 2011 (38),Toulouse (8),Nancy (8),1-0,0-0
+?,(Sat) Sep/24 2011 (38),Valenciennes (8),Marseille (8),1-1,0-1
+?,(Sun) Sep/25 2011 (38),Auxerre (8),Sochaux (8),4-1,0-1
+?,(Sun) Sep/25 2011 (38),Brest (8),Ajaccio (8),1-1,0-0
+?,(Sun) Sep/25 2011 (38),Rennes (8),St Etienne (8),1-1,1-0
+?,(Sat) Oct/1 2011 (39),Bordeaux (9),Montpellier (9),2-2,1-0
+?,(Sat) Oct/1 2011 (39),Caen (9),Nice (9),1-1,0-0
+?,(Sat) Oct/1 2011 (39),Dijon (9),Ajaccio (9),1-1,1-1
+?,(Sat) Oct/1 2011 (39),Lorient (9),Valenciennes (9),2-0,1-0
+?,(Sat) Oct/1 2011 (39),Nancy (9),Evian Thonon Gaillard (9),1-1,0-0
+?,(Sat) Oct/1 2011 (39),Sochaux (9),Toulouse (9),3-0,1-0
+?,(Sat) Oct/1 2011 (39),St Etienne (9),Auxerre (9),1-1,1-1
+?,(Sun) Oct/2 2011 (39),Lille (9),Rennes (9),2-0,2-0
+?,(Sun) Oct/2 2011 (39),Marseille (9),Brest (9),1-1,1-1
+?,(Sun) Oct/2 2011 (39),Paris SG (9),Lyon (9),2-0,0-0
+?,(Sat) Oct/15 2011 (41),Auxerre (10),Lille (10),1-3,1-0
+?,(Sat) Oct/15 2011 (41),Brest (10),Caen (10),1-1,1-0
+?,(Sat) Oct/15 2011 (41),Evian Thonon Gaillard (10),St Etienne (10),1-2,0-0
+?,(Sat) Oct/15 2011 (41),Lyon (10),Nancy (10),3-1,3-0
+?,(Sat) Oct/15 2011 (41),Montpellier (10),Dijon (10),5-3,1-2
+?,(Sat) Oct/15 2011 (41),Nice (10),Bordeaux (10),3-0,2-0
+?,(Sat) Oct/15 2011 (41),Toulouse (10),Marseille (10),0-0,0-0
+?,(Sun) Oct/16 2011 (41),Ajaccio (10),Paris SG (10),1-3,1-1
+?,(Sun) Oct/16 2011 (41),Rennes (10),Lorient (10),2-0,1-0
+?,(Sun) Oct/16 2011 (41),Valenciennes (10),Sochaux (10),3-0,1-0
+?,(Sat) Oct/22 2011 (42),Bordeaux (11),Brest (11),1-1,0-0
+?,(Sat) Oct/22 2011 (42),Caen (11),Montpellier (11),1-3,0-2
+?,(Sat) Oct/22 2011 (42),Lorient (11),Toulouse (11),0-0,0-0
+?,(Sat) Oct/22 2011 (42),Marseille (11),Ajaccio (11),2-0,1-0
+?,(Sat) Oct/22 2011 (42),Nancy (11),Nice (11),1-0,0-0
+?,(Sat) Oct/22 2011 (42),Sochaux (11),Evian Thonon Gaillard (11),1-1,0-0
+?,(Sat) Oct/22 2011 (42),St Etienne (11),Valenciennes (11),1-0,0-0
+?,(Sun) Oct/23 2011 (42),Auxerre (11),Rennes (11),0-1,0-0
+?,(Sun) Oct/23 2011 (42),Lille (11),Lyon (11),3-1,1-1
+?,(Sun) Oct/23 2011 (42),Paris SG (11),Dijon (11),2-0,1-0
+?,(Sat) Oct/29 2011 (43),Ajaccio (12),Bordeaux (12),0-2,0-2
+?,(Sat) Oct/29 2011 (43),Brest (12),Lorient (12),3-1,3-0
+?,(Sat) Oct/29 2011 (43),Dijon (12),Marseille (12),2-3,0-2
+?,(Sat) Oct/29 2011 (43),Evian Thonon Gaillard (12),Auxerre (12),3-1,2-0
+?,(Sat) Oct/29 2011 (43),Lyon (12),St Etienne (12),2-0,0-0
+?,(Sat) Oct/29 2011 (43),Montpellier (12),Nancy (12),2-0,0-0
+?,(Sat) Oct/29 2011 (43),Paris SG (12),Caen (12),4-2,1-1
+?,(Sun) Oct/30 2011 (43),Nice (12),Sochaux (12),1-1,1-1
+?,(Sun) Oct/30 2011 (43),Toulouse (12),Rennes (12),1-0,1-0
+?,(Sun) Oct/30 2011 (43),Valenciennes (12),Lille (12),0-0,0-0
+?,(Sat) Nov/5 2011 (44),Lille (13),Evian Thonon Gaillard (13),1-1,0-1
+?,(Sun) Nov/6 2011 (44),Auxerre (13),Toulouse (13),2-0,0-0
+?,(Sun) Nov/6 2011 (44),Bordeaux (13),Paris SG (13),1-1,1-1
+?,(Sun) Nov/6 2011 (44),Caen (13),Dijon (13),3-0,1-0
+?,(Sun) Nov/6 2011 (44),Lorient (13),Ajaccio (13),2-0,0-0
+?,(Sun) Nov/6 2011 (44),Marseille (13),Nice (13),2-0,0-0
+?,(Sun) Nov/6 2011 (44),Nancy (13),Brest (13),2-1,0-0
+?,(Sun) Nov/6 2011 (44),Rennes (13),Valenciennes (13),1-1,1-1
+?,(Sun) Nov/6 2011 (44),Sochaux (13),Lyon (13),2-1,2-1
+?,(Sun) Nov/6 2011 (44),St Etienne (13),Montpellier (13),1-1,1-0
+?,(Fri) Nov/18 2011 (46),Lyon (14),Rennes (14),1-2,1-1
+?,(Fri) Nov/18 2011 (46),Toulouse (14),Lille (14),0-0,0-0
+?,(Sat) Nov/19 2011 (46),Ajaccio (14),Caen (14),2-2,0-0
+?,(Sat) Nov/19 2011 (46),Dijon (14),Bordeaux (14),2-0,0-0
+?,(Sat) Nov/19 2011 (46),Evian Thonon Gaillard (14),Lorient (14),2-1,1-0
+?,(Sat) Nov/19 2011 (46),Montpellier (14),Marseille (14),1-0,0-0
+?,(Sat) Nov/19 2011 (46),Nice (14),St Etienne (14),0-2,0-2
+?,(Sun) Nov/20 2011 (46),Brest (14),Sochaux (14),2-0,0-0
+?,(Sun) Nov/20 2011 (46),Paris SG (14),Nancy (14),0-1,0-0
+?,(Sun) Nov/20 2011 (46),Valenciennes (14),Auxerre (14),2-1,0-1
+?,(Sat) Nov/26 2011 (47),Bordeaux (15),Caen (15),2-0,0-0
+?,(Sat) Nov/26 2011 (47),Lille (15),Brest (15),2-0,1-0
+?,(Sat) Nov/26 2011 (47),Nancy (15),Dijon (15),1-2,1-1
+?,(Sat) Nov/26 2011 (47),Rennes (15),Evian Thonon Gaillard (15),3-2,1-2
+?,(Sat) Nov/26 2011 (47),Sochaux (15),Montpellier (15),1-3,0-0
+?,(Sat) Nov/26 2011 (47),St Etienne (15),Ajaccio (15),3-1,2-0
+?,(Sat) Nov/26 2011 (47),Toulouse (15),Valenciennes (15),2-0,1-0
+?,(Sun) Nov/27 2011 (47),Auxerre (15),Lyon (15),0-3,0-1
+?,(Sun) Nov/27 2011 (47),Lorient (15),Nice (15),1-0,0-0
+?,(Sun) Nov/27 2011 (47),Marseille (15),Paris SG (15),3-0,1-0
+?,(Fri) Dec/2 2011 (48),Caen (16),Marseille (16),1-2,1-1
+?,(Sat) Dec/3 2011 (48),Ajaccio (16),Lille (16),2-3,2-2
+?,(Sat) Dec/3 2011 (48),Brest (16),St Etienne (16),2-2,2-1
+?,(Sat) Dec/3 2011 (48),Dijon (16),Sochaux (16),0-0,0-0
+?,(Sat) Dec/3 2011 (48),Evian Thonon Gaillard (16),Valenciennes (16),2-1,2-0
+?,(Sat) Dec/3 2011 (48),Montpellier (16),Lorient (16),4-0,1-0
+?,(Sat) Dec/3 2011 (48),Nice (16),Rennes (16),2-0,2-0
+?,(Sun) Dec/4 2011 (48),Bordeaux (16),Nancy (16),2-0,1-0
+?,(Sun) Dec/4 2011 (48),Lyon (16),Toulouse (16),3-2,1-0
+?,(Sun) Dec/4 2011 (48),Paris SG (16),Auxerre (16),3-2,0-0
+?,(Sat) Dec/10 2011 (49),Marseille (17),Bordeaux (17),0-0,0-0
+?,(Sat) Dec/10 2011 (49),Nancy (17),Ajaccio (17),2-2,1-1
+?,(Sat) Dec/10 2011 (49),Rennes (17),Brest (17),1-1,1-1
+?,(Sat) Dec/10 2011 (49),Sochaux (17),Paris SG (17),0-1,0-1
+?,(Sat) Dec/10 2011 (49),St Etienne (17),Caen (17),2-0,1-0
+?,(Sat) Dec/10 2011 (49),Toulouse (17),Evian Thonon Gaillard (17),2-1,1-0
+?,(Sat) Dec/10 2011 (49),Valenciennes (17),Montpellier (17),1-0,0-0
+?,(Sun) Dec/11 2011 (49),Auxerre (17),Nice (17),2-1,1-1
+?,(Sun) Dec/11 2011 (49),Lille (17),Dijon (17),2-0,1-0
+?,(Sun) Dec/11 2011 (49),Lorient (17),Lyon (17),0-1,0-0
+?,(Sat) Dec/17 2011 (50),Brest (18),Auxerre (18),1-0,1-0
+?,(Sat) Dec/17 2011 (50),Caen (18),Nancy (18),1-2,0-1
+?,(Sat) Dec/17 2011 (50),Dijon (18),St Etienne (18),1-2,0-1
+?,(Sat) Dec/17 2011 (50),Lyon (18),Evian Thonon Gaillard (18),2-1,1-1
+?,(Sat) Dec/17 2011 (50),Marseille (18),Lorient (18),2-1,0-0
+?,(Sat) Dec/17 2011 (50),Montpellier (18),Toulouse (18),1-1,1-1
+?,(Sat) Dec/17 2011 (50),Nice (18),Valenciennes (18),2-0,0-0
+?,(Sun) Dec/18 2011 (50),Ajaccio (18),Rennes (18),1-0,0-0
+?,(Sun) Dec/18 2011 (50),Bordeaux (18),Sochaux (18),1-0,1-0
+?,(Sun) Dec/18 2011 (50),Paris SG (18),Lille (18),0-0,0-0
+?,(Tue) Dec/20 2011 (51),Nancy (19),Marseille (19),1-3,1-2
+?,(Wed) Dec/21 2011 (51),Auxerre (19),Dijon (19),2-2,0-2
+?,(Wed) Dec/21 2011 (51),Evian Thonon Gaillard (19),Montpellier (19),4-2,0-0
+?,(Wed) Dec/21 2011 (51),Lille (19),Nice (19),4-4,2-3
+?,(Wed) Dec/21 2011 (51),Lorient (19),Caen (19),0-0,0-0
+?,(Wed) Dec/21 2011 (51),Rennes (19),Bordeaux (19),1-0,0-0
+?,(Wed) Dec/21 2011 (51),Sochaux (19),Ajaccio (19),0-2,0-0
+?,(Wed) Dec/21 2011 (51),St Etienne (19),Paris SG (19),0-1,0-1
+?,(Wed) Dec/21 2011 (51),Toulouse (19),Brest (19),0-0,0-0
+?,(Wed) Dec/21 2011 (51),Valenciennes (19),Lyon (19),1-0,1-0
+?,(Sat) Jan/14 2012 (2),Ajaccio (20),Auxerre (20),2-1,2-1
+?,(Sat) Jan/14 2012 (2),Bordeaux (20),Valenciennes (20),2-1,2-0
+?,(Sat) Jan/14 2012 (2),Brest (20),Nice (20),1-0,1-0
+?,(Sat) Jan/14 2012 (2),Caen (20),Rennes (20),0-2,0-1
+?,(Sat) Jan/14 2012 (2),Dijon (20),Evian Thonon Gaillard (20),3-1,1-0
+?,(Sat) Jan/14 2012 (2),Montpellier (20),Lyon (20),1-0,0-0
+?,(Sat) Jan/14 2012 (2),Nancy (20),Lorient (20),2-2,1-0
+?,(Sat) Jan/14 2012 (2),Paris SG (20),Toulouse (20),3-1,1-0
+?,(Sat) Jan/14 2012 (2),St Etienne (20),Sochaux (20),1-0,0-0
+?,(Sun) Jan/15 2012 (2),Marseille (20),Lille (20),2-0,0-0
+?,(Sat) Jan/28 2012 (4),Auxerre (21),Nancy (21),1-3,0-0
+?,(Sat) Jan/28 2012 (4),Brest (21),Paris SG (21),0-1,0-1
+?,(Sat) Jan/28 2012 (4),Lille (21),St Etienne (21),3-0,0-0
+?,(Sat) Jan/28 2012 (4),Lorient (21),Sochaux (21),1-1,0-0
+?,(Sat) Jan/28 2012 (4),Lyon (21),Dijon (21),3-1,1-0
+?,(Sat) Jan/28 2012 (4),Nice (21),Montpellier (21),0-1,0-0
+?,(Sat) Jan/28 2012 (4),Toulouse (21),Caen (21),1-0,1-0
+?,(Sun) Jan/29 2012 (4),Evian Thonon Gaillard (21),Bordeaux (21),0-0,0-0
+?,(Sun) Jan/29 2012 (4),Rennes (21),Marseille (21),1-2,1-1
+?,(Sun) Jan/29 2012 (4),Valenciennes (21),Ajaccio (21),1-2,0-1
+?,(Sat) Feb/4 2012 (5),Ajaccio (22),Nice (22),1-1,0-0
+?,(Sat) Feb/4 2012 (5),Bordeaux (22),Toulouse (22),2-0,2-0
+?,(Sat) Feb/4 2012 (5),Dijon (22),Valenciennes (22),1-2,0-2
+?,(Sat) Feb/4 2012 (5),Montpellier (22),Brest (22),1-0,1-0
+?,(Sat) Feb/4 2012 (5),Nancy (22),Rennes (22),0-0,0-0
+?,(Sat) Feb/4 2012 (5),Paris SG (22),Evian Thonon Gaillard (22),3-1,0-1
+?,(Sun) Feb/5 2012 (5),Marseille (22),Lyon (22),2-2,2-2
+?,(Sat) Feb/11 2012 (6),Auxerre (22),Lorient (22),1-1,1-0
+?,(Sat) Feb/11 2012 (6),Brest (23),Dijon (23),1-1,0-0
+?,(Sat) Feb/11 2012 (6),Lyon (23),Caen (22),1-2,0-1
+?,(Sat) Feb/11 2012 (6),Montpellier (23),Ajaccio (23),3-0,0-0
+?,(Sat) Feb/11 2012 (6),Rennes (23),Sochaux (22),1-0,1-0
+?,(Sat) Feb/11 2012 (6),Valenciennes (23),Nancy (23),1-0,0-0
+?,(Sun) Feb/12 2012 (6),Lille (22),Bordeaux (23),4-5,1-2
+?,(Sun) Feb/12 2012 (6),Nice (23),Paris SG (23),0-0,0-0
+?,(Sun) Feb/12 2012 (6),Toulouse (23),St Etienne (22),0-1,0-0
+?,(Sat) Feb/18 2012 (7),Ajaccio (24),Brest (24),0-0,0-0
+?,(Sat) Feb/18 2012 (7),Caen (23),Evian Thonon Gaillard (23),2-2,1-0
+?,(Sat) Feb/18 2012 (7),Dijon (24),Nice (24),3-0,1-0
+?,(Sat) Feb/18 2012 (7),Lorient (23),Lille (23),0-1,0-0
+?,(Sat) Feb/18 2012 (7),Marseille (23),Valenciennes (24),1-1,1-0
+?,(Sat) Feb/18 2012 (7),Nancy (24),Toulouse (24),0-3,0-2
+?,(Sat) Feb/18 2012 (7),Sochaux (23),Auxerre (23),0-0,0-0
+?,(Sun) Feb/19 2012 (7),Bordeaux (24),Lyon (24),1-0,1-0
+?,(Sun) Feb/19 2012 (7),Paris SG (24),Montpellier (24),2-2,1-1
+?,(Sun) Feb/19 2012 (7),St Etienne (23),Rennes (24),4-0,1-0
+?,(Wed) Feb/22 2012 (8),Caen (24),Auxerre (24),2-1,0-0
+?,(Wed) Feb/22 2012 (8),Sochaux (24),Lille (24),0-1,0-0
+?,(Wed) Feb/22 2012 (8),St Etienne (24),Lorient (24),4-2,0-0
+?,(Sat) Feb/25 2012 (8),Ajaccio (25),Dijon (25),2-1,0-0
+?,(Sat) Feb/25 2012 (8),Auxerre (25),St Etienne (25),0-0,0-0
+?,(Sat) Feb/25 2012 (8),Evian Thonon Gaillard (24),Nancy (25),2-0,2-0
+?,(Sat) Feb/25 2012 (8),Lyon (25),Paris SG (25),4-4,3-2
+?,(Sat) Feb/25 2012 (8),Montpellier (25),Bordeaux (25),1-0,0-0
+?,(Sat) Feb/25 2012 (8),Nice (25),Caen (25),1-0,0-0
+?,(Sat) Feb/25 2012 (8),Valenciennes (25),Lorient (25),2-0,0-0
+?,(Sun) Feb/26 2012 (8),Brest (25),Marseille (24),1-0,1-0
+?,(Sun) Feb/26 2012 (8),Rennes (25),Lille (25),1-1,0-1
+?,(Sun) Feb/26 2012 (8),Toulouse (25),Sochaux (25),2-0,1-0
+?,(Sat) Mar/3 2012 (9),Bordeaux (26),Nice (26),1-2,0-2
+?,(Sat) Mar/3 2012 (9),Dijon (26),Montpellier (26),1-1,0-0
+?,(Sat) Mar/3 2012 (9),Lille (26),Auxerre (26),2-2,1-0
+?,(Sat) Mar/3 2012 (9),Marseille (25),Toulouse (26),0-1,0-0
+?,(Sat) Mar/3 2012 (9),Nancy (26),Lyon (26),2-0,0-0
+?,(Sat) Mar/3 2012 (9),Sochaux (26),Valenciennes (26),1-1,0-0
+?,(Sat) Mar/3 2012 (9),St Etienne (26),Evian Thonon Gaillard (25),0-2,0-1
+?,(Sun) Mar/4 2012 (9),Caen (26),Brest (26),0-0,0-0
+?,(Sun) Mar/4 2012 (9),Lorient (26),Rennes (26),0-2,0-1
+?,(Sun) Mar/4 2012 (9),Paris SG (26),Ajaccio (26),4-1,2-1
+?,(Tue) Mar/6 2012 (10),Evian Thonon Gaillard (26),Marseille (26),2-0,2-0
+?,(Fri) Mar/9 2012 (10),Ajaccio (27),Marseille (27),1-0,0-0
+?,(Sat) Mar/10 2012 (10),Brest (27),Bordeaux (27),0-2,0-1
+?,(Sat) Mar/10 2012 (10),Evian Thonon Gaillard (27),Sochaux (27),2-3,1-2
+?,(Sat) Mar/10 2012 (10),Lyon (27),Lille (27),2-1,2-1
+?,(Sat) Mar/10 2012 (10),Nice (27),Nancy (27),1-1,1-1
+?,(Sat) Mar/10 2012 (10),Toulouse (27),Lorient (27),1-1,0-0
+?,(Sat) Mar/10 2012 (10),Valenciennes (27),St Etienne (27),1-2,0-0
+?,(Sun) Mar/11 2012 (10),Dijon (27),Paris SG (27),1-2,0-0
+?,(Sun) Mar/11 2012 (10),Montpellier (27),Caen (27),3-0,0-0
+?,(Sun) Mar/11 2012 (10),Rennes (27),Auxerre (27),1-1,0-1
+?,(Sat) Mar/17 2012 (11),Auxerre (28),Evian Thonon Gaillard (28),0-2,0-1
+?,(Sat) Mar/17 2012 (11),Bordeaux (28),Ajaccio (28),1-1,0-0
+?,(Sat) Mar/17 2012 (11),Caen (28),Paris SG (28),2-2,0-0
+?,(Sat) Mar/17 2012 (11),Lorient (28),Brest (28),2-1,0-1
+?,(Sat) Mar/17 2012 (11),Marseille (28),Dijon (28),1-2,1-1
+?,(Sat) Mar/17 2012 (11),Nancy (28),Montpellier (28),1-0,0-0
+?,(Sat) Mar/17 2012 (11),St Etienne (28),Lyon (28),0-1,0-0
+?,(Sun) Mar/18 2012 (11),Lille (28),Valenciennes (28),4-0,1-0
+?,(Sun) Mar/18 2012 (11),Rennes (28),Toulouse (28),0-1,0-1
+?,(Sun) Mar/18 2012 (11),Sochaux (28),Nice (28),2-0,1-0
+?,(Sat) Mar/24 2012 (12),Ajaccio (29),Lorient (29),1-1,0-1
+?,(Sat) Mar/24 2012 (12),Brest (29),Nancy (29),0-1,0-1
+?,(Sat) Mar/24 2012 (12),Evian Thonon Gaillard (29),Lille (29),0-3,0-1
+?,(Sat) Mar/24 2012 (12),Lyon (29),Sochaux (29),2-1,1-0
+?,(Sat) Mar/24 2012 (12),Montpellier (29),St Etienne (29),1-0,0-0
+?,(Sat) Mar/24 2012 (12),Nice (29),Marseille (29),1-1,0-0
+?,(Sat) Mar/24 2012 (12),Valenciennes (29),Rennes (29),1-0,1-0
+?,(Sun) Mar/25 2012 (12),Dijon (29),Caen (29),2-0,1-0
+?,(Sun) Mar/25 2012 (12),Paris SG (29),Bordeaux (29),1-1,0-0
+?,(Sun) Mar/25 2012 (12),Toulouse (29),Auxerre (29),1-0,1-0
+?,(Sat) Mar/31 2012 (13),Auxerre (30),Valenciennes (30),2-0,1-0
+?,(Sat) Mar/31 2012 (13),Bordeaux (30),Dijon (30),1-1,0-0
+?,(Sat) Mar/31 2012 (13),Lorient (30),Evian Thonon Gaillard (30),0-1,0-1
+?,(Sat) Mar/31 2012 (13),Nancy (30),Paris SG (30),2-1,1-0
+?,(Sat) Mar/31 2012 (13),Sochaux (30),Brest (30),2-1,0-1
+?,(Sat) Mar/31 2012 (13),St Etienne (30),Nice (30),2-3,2-1
+?,(Sun) Apr/1 2012 (13),Caen (30),Ajaccio (30),0-0,0-0
+?,(Sun) Apr/1 2012 (13),Lille (30),Toulouse (30),2-1,2-0
+?,(Sun) Apr/1 2012 (13),Rennes (30),Lyon (30),1-1,1-0
+?,(Sat) Apr/7 2012 (14),Ajaccio (31),St Etienne (31),1-1,0-0
+?,(Sat) Apr/7 2012 (14),Brest (31),Lille (31),3-1,2-1
+?,(Sat) Apr/7 2012 (14),Dijon (31),Nancy (31),0-2,0-1
+?,(Sat) Apr/7 2012 (14),Evian Thonon Gaillard (31),Rennes (31),1-3,1-0
+?,(Sat) Apr/7 2012 (14),Lyon (31),Auxerre (31),2-1,1-1
+?,(Sat) Apr/7 2012 (14),Montpellier (30),Sochaux (31),2-1,1-1
+?,(Sat) Apr/7 2012 (14),Valenciennes (31),Toulouse (31),2-0,0-0
+?,(Sun) Apr/8 2012 (14),Caen (31),Bordeaux (31),1-0,1-0
+?,(Sun) Apr/8 2012 (14),Nice (31),Lorient (31),2-0,0-0
+?,(Sun) Apr/8 2012 (14),Paris SG (31),Marseille (30),2-1,1-0
+?,(Wed) Apr/11 2012 (15),Marseille (31),Montpellier (31),1-3,1-1
+?,(Sun) Apr/15 2012 (15),Auxerre (32),Paris SG (32),1-1,0-1
+?,(Sun) Apr/15 2012 (15),Lille (32),Ajaccio (32),4-1,2-0
+?,(Sun) Apr/15 2012 (15),Lorient (32),Montpellier (32),2-1,0-0
+?,(Sun) Apr/15 2012 (15),Nancy (32),Bordeaux (32),2-2,0-1
+?,(Sun) Apr/15 2012 (15),Sochaux (32),Dijon (32),1-0,0-0
+?,(Sun) Apr/15 2012 (15),St Etienne (32),Brest (32),2-1,0-0
+?,(Sun) Apr/15 2012 (15),Valenciennes (32),Evian Thonon Gaillard (32),0-3,0-3
+?,(Mon) Apr/16 2012 (16),Rennes (32),Nice (32),3-1,1-1
+?,(Wed) Apr/18 2012 (16),Marseille (32),Caen (32),1-1,1-1
+?,(Wed) Apr/18 2012 (16),Toulouse (32),Lyon (32),3-0,2-0
+?,(Sat) Apr/21 2012 (16),Bordeaux (33),Marseille (33),2-1,2-0
+?,(Sat) Apr/21 2012 (16),Brest (33),Rennes (33),0-1,0-1
+?,(Sat) Apr/21 2012 (16),Caen (33),St Etienne (33),1-4,0-1
+?,(Sat) Apr/21 2012 (16),Dijon (33),Lille (33),0-2,0-2
+?,(Sat) Apr/21 2012 (16),Evian Thonon Gaillard (33),Toulouse (33),2-1,1-0
+?,(Sat) Apr/21 2012 (16),Montpellier (33),Valenciennes (33),1-0,1-0
+?,(Sat) Apr/21 2012 (16),Nice (33),Auxerre (33),1-0,1-0
+?,(Sun) Apr/22 2012 (16),Ajaccio (33),Nancy (33),0-0,0-0
+?,(Sun) Apr/22 2012 (16),Lyon (33),Lorient (33),3-2,1-2
+?,(Sun) Apr/22 2012 (16),Paris SG (33),Sochaux (33),6-1,3-1
+?,(Fri) Apr/27 2012 (17),Lorient (34),Marseille (34),2-1,1-0
+?,(Fri) Apr/27 2012 (17),Toulouse (34),Montpellier (34),0-1,0-1
+?,(Sun) Apr/29 2012 (17),Auxerre (34),Brest (34),4-0,4-0
+?,(Sun) Apr/29 2012 (17),Lille (34),Paris SG (34),2-1,0-0
+?,(Sun) Apr/29 2012 (17),Nancy (34),Caen (34),1-1,0-0
+?,(Sun) Apr/29 2012 (17),Rennes (34),Ajaccio (34),3-1,1-0
+?,(Sun) Apr/29 2012 (17),Sochaux (34),Bordeaux (34),0-3,0-1
+?,(Sun) Apr/29 2012 (17),St Etienne (34),Dijon (34),1-0,1-0
+?,(Sun) Apr/29 2012 (17),Valenciennes (34),Nice (34),2-0,1-0
+?,(Tue) May/1 2012 (18),Montpellier (35),Evian Thonon Gaillard (34),2-2,1-1
+?,(Wed) May/2 2012 (18),Ajaccio (35),Sochaux (35),2-1,0-0
+?,(Wed) May/2 2012 (18),Bordeaux (35),Rennes (35),2-0,0-0
+?,(Wed) May/2 2012 (18),Brest (35),Toulouse (35),0-0,0-0
+?,(Wed) May/2 2012 (18),Caen (35),Lorient (35),1-0,0-0
+?,(Wed) May/2 2012 (18),Lyon (34),Valenciennes (35),4-1,1-1
+?,(Wed) May/2 2012 (18),Marseille (35),Nancy (35),1-0,1-0
+?,(Wed) May/2 2012 (18),Nice (35),Lille (35),0-1,0-1
+?,(Wed) May/2 2012 (18),Paris SG (35),St Etienne (35),2-0,1-0
+?,(Thu) May/3 2012 (18),Dijon (35),Auxerre (35),0-2,0-1
+?,(Sun) May/6 2012 (18),Evian Thonon Gaillard (35),Ajaccio (36),2-1,1-1
+?,(Sun) May/6 2012 (18),Lyon (35),Brest (36),1-1,1-0
+?,(Sun) May/6 2012 (18),Valenciennes (36),Paris SG (36),3-4,2-3
+?,(Mon) May/7 2012 (19),Auxerre (36),Bordeaux (36),2-4,0-3
+?,(Mon) May/7 2012 (19),Lille (36),Caen (36),3-0,2-0
+?,(Mon) May/7 2012 (19),Lorient (36),Dijon (36),0-0,0-0
+?,(Mon) May/7 2012 (19),Rennes (36),Montpellier (36),0-2,0-1
+?,(Mon) May/7 2012 (19),Sochaux (36),Nancy (36),1-0,0-0
+?,(Mon) May/7 2012 (19),St Etienne (36),Marseille (36),0-0,0-0
+?,(Mon) May/7 2012 (19),Toulouse (36),Nice (36),0-0,0-0
+?,(Thu) May/10 2012 (19),Evian Thonon Gaillard (36),Lyon (36),1-3,1-1
+?,(Sun) May/13 2012 (19),Ajaccio (37),Lyon (37),1-1,0-0
+?,(Sun) May/13 2012 (19),Bordeaux (37),Lorient (37),1-0,0-0
+?,(Sun) May/13 2012 (19),Brest (37),Valenciennes (37),1-0,1-0
+?,(Sun) May/13 2012 (19),Caen (37),Sochaux (37),1-3,0-2
+?,(Sun) May/13 2012 (19),Dijon (37),Toulouse (37),1-1,1-1
+?,(Sun) May/13 2012 (19),Marseille (37),Auxerre (37),3-0,1-0
+?,(Sun) May/13 2012 (19),Montpellier (37),Lille (37),1-0,0-0
+?,(Sun) May/13 2012 (19),Nancy (37),St Etienne (37),3-2,3-1
+?,(Sun) May/13 2012 (19),Nice (37),Evian Thonon Gaillard (37),1-1,1-1
+?,(Sun) May/13 2012 (19),Paris SG (37),Rennes (37),3-0,0-0
+?,(Sun) May/20 2012 (20),Auxerre (38),Montpellier (38),1-2,1-1
+?,(Sun) May/20 2012 (20),Evian Thonon Gaillard (38),Brest (38),0-1,0-0
+?,(Sun) May/20 2012 (20),Lille (38),Nancy (38),4-1,4-1
+?,(Sun) May/20 2012 (20),Lorient (38),Paris SG (38),1-2,1-0
+?,(Sun) May/20 2012 (20),Lyon (38),Nice (38),3-4,2-2
+?,(Sun) May/20 2012 (20),Rennes (38),Dijon (38),5-0,1-0
+?,(Sun) May/20 2012 (20),Sochaux (38),Marseille (38),1-0,0-0
+?,(Sun) May/20 2012 (20),St Etienne (38),Bordeaux (38),2-3,1-2
+?,(Sun) May/20 2012 (20),Toulouse (38),Ajaccio (38),0-2,0-2
+?,(Sun) May/20 2012 (20),Valenciennes (38),Caen (38),3-1,1-0

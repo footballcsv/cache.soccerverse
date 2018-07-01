@@ -1,307 +1,307 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,1997-08-01,Bordeaux,Monaco,1-0,?,Fri,30
-?,1997-08-01,Toulouse,Rennes,1-0,?,Fri,30
-?,1997-08-02,Guingamp,Cannes,3-1,?,Sat,30
-?,1997-08-02,Lens,Auxerre,3-0,?,Sat,30
-?,1997-08-02,Lyon,Metz,0-1,?,Sat,30
-?,1997-08-02,Marseille,Le Havre,3-1,?,Sat,30
-?,1997-08-02,Montpellier,Strasbourg,1-1,?,Sat,30
-?,1997-08-02,Nantes,Bastia,0-1,?,Sat,30
-?,1997-08-02,Paris SG,Chateauroux,2-0,?,Sat,30
-?,1997-08-08,Auxerre,Paris SG,2-3,2-0,Fri,31
-?,1997-08-08,Rennes,Lyon,0-3,?,Fri,31
-?,1997-08-09,Bastia,Guingamp,1-0,0-0,Sat,31
-?,1997-08-09,Cannes,Toulouse,0-1,?,Sat,31
-?,1997-08-09,Le Havre,Montpellier,4-0,?,Sat,31
-?,1997-08-09,Marseille,Nantes,1-0,1-0,Sat,31
-?,1997-08-09,Metz,Bordeaux,4-1,1-0,Sat,31
-?,1997-08-09,Monaco,Chateauroux,2-2,1-0,Sat,31
-?,1997-08-09,Strasbourg,Lens,2-1,0-0,Sat,31
-?,1997-08-15,Chateauroux,Metz,1-2,?,Fri,32
-?,1997-08-15,Lens,Le Havre,0-0,0-0,Fri,32
-?,1997-08-16,Bordeaux,Rennes,2-2,?,Sat,32
-?,1997-08-16,Guingamp,Strasbourg,0-0,0-0,Sat,32
-?,1997-08-16,Lyon,Monaco,0-3,?,Sat,32
-?,1997-08-16,Montpellier,Marseille,0-0,0-0,Sat,32
-?,1997-08-16,Nantes,Auxerre,0-2,?,Sat,32
-?,1997-08-16,Paris SG,Cannes,3-1,?,Sat,32
-?,1997-08-16,Toulouse,Bastia,1-1,?,Sat,32
-?,1997-08-21,Cannes,Bordeaux,0-2,?,Thu,33
-?,1997-08-21,Strasbourg,Nantes,1-2,?,Thu,33
-?,1997-08-22,Auxerre,Guingamp,1-0,?,Fri,33
-?,1997-08-22,Bastia,Chateauroux,1-1,?,Fri,33
-?,1997-08-22,Le Havre,Lyon,1-3,?,Fri,33
-?,1997-08-22,Marseille,Lens,2-3,?,Fri,33
-?,1997-08-22,Metz,Paris SG,2-1,?,Fri,33
-?,1997-08-22,Montpellier,Toulouse,4-0,?,Fri,33
-?,1997-08-22,Rennes,Monaco,2-1,?,Fri,33
-?,1997-08-29,Guingamp,Marseille,1-1,0-1,Fri,34
-?,1997-08-29,Monaco,Metz,1-2,0-1,Fri,34
-?,1997-08-30,Bordeaux,Auxerre,3-2,1-2,Sat,34
-?,1997-08-30,Chateauroux,Cannes,1-2,?,Sat,34
-?,1997-08-30,Lens,Montpellier,0-0,0-0,Sat,34
-?,1997-08-30,Lyon,Bastia,0-2,0-2,Sat,34
-?,1997-08-30,Nantes,Le Havre,2-0,2-0,Sat,34
-?,1997-08-30,Paris SG,Rennes,4-1,1-0,Sat,34
-?,1997-08-30,Toulouse,Strasbourg,1-1,?,Sat,34
-?,1997-09-04,Le Havre,Toulouse,1-1,1-0,Thu,35
-?,1997-09-04,Marseille,Lyon,1-0,0-0,Thu,35
-?,1997-09-05,Auxerre,Chateauroux,5-0,2-0,Fri,35
-?,1997-09-05,Bastia,Bordeaux,4-1,2-1,Fri,35
-?,1997-09-05,Cannes,Monaco,1-2,0-0,Fri,35
-?,1997-09-05,Lens,Nantes,0-0,0-0,Fri,35
-?,1997-09-05,Montpellier,Guingamp,2-3,2-2,Fri,35
-?,1997-09-05,Rennes,Metz,2-2,2-1,Fri,35
-?,1997-09-05,Strasbourg,Paris SG,0-3,0-1,Fri,35
-?,1997-09-11,Chateauroux,Rennes,1-0,?,Thu,36
-?,1997-09-11,Guingamp,Lens,2-1,?,Thu,36
-?,1997-09-12,Bordeaux,Le Havre,2-1,0-1,Fri,36
-?,1997-09-12,Lyon,Strasbourg,3-1,1-1,Fri,36
-?,1997-09-12,Metz,Cannes,2-0,0-0,Fri,36
-?,1997-09-12,Monaco,Marseille,2-0,0-0,Fri,36
-?,1997-09-12,Nantes,Montpellier,1-1,?,Fri,36
-?,1997-09-12,Paris SG,Bastia,2-0,1-0,Fri,36
-?,1997-09-12,Toulouse,Auxerre,2-1,1-1,Fri,36
-?,1997-09-20,Auxerre,Lyon,1-2,1-1,Sat,37
-?,1997-09-20,Cannes,Rennes,1-1,0-0,Sat,37
-?,1997-09-20,Guingamp,Nantes,1-0,0-0,Sat,37
-?,1997-09-20,Le Havre,Paris SG,1-1,1-1,Sat,37
-?,1997-09-20,Lens,Toulouse,2-0,1-0,Sat,37
-?,1997-09-20,Marseille,Chateauroux,2-0,1-0,Sat,37
-?,1997-09-20,Strasbourg,Bordeaux,0-0,0-0,Sat,37
-?,1997-09-21,Bastia,Metz,0-0,0-0,Sun,37
-?,1997-09-21,Montpellier,Monaco,0-2,0-1,Sun,37
-?,1997-09-25,Bordeaux,Marseille,2-0,1-0,Thu,38
-?,1997-09-25,Lyon,Lens,1-3,0-2,Thu,38
-?,1997-09-26,Chateauroux,Le Havre,2-1,?,Fri,38
-?,1997-09-26,Metz,Auxerre,3-0,2-0,Fri,38
-?,1997-09-26,Monaco,Strasbourg,3-2,1-1,Fri,38
-?,1997-09-26,Nantes,Cannes,1-2,0-1,Fri,38
-?,1997-09-26,Paris SG,Montpellier,1-1,1-0,Fri,38
-?,1997-09-26,Rennes,Bastia,2-0,1-0,Fri,38
-?,1997-09-26,Toulouse,Guingamp,3-0,?,Fri,38
-?,1997-10-04,Auxerre,Rennes,4-0,2-0,Sat,39
-?,1997-10-04,Bastia,Cannes,5-1,3-1,Sat,39
-?,1997-10-04,Guingamp,Lyon,0-1,0-1,Sat,39
-?,1997-10-04,Le Havre,Monaco,1-1,0-0,Sat,39
-?,1997-10-04,Lens,Chateauroux,1-0,1-0,Sat,39
-?,1997-10-04,Marseille,Toulouse,2-0,1-0,Sat,39
-?,1997-10-04,Montpellier,Bordeaux,0-1,0-0,Sat,39
-?,1997-10-05,Nantes,Paris SG,0-0,0-0,Sun,39
-?,1997-10-05,Strasbourg,Metz,2-0,0-0,Sun,39
-?,1997-10-07,Cannes,Auxerre,2-3,1-2,Tue,40
-?,1997-10-07,Monaco,Bastia,1-0,0-0,Tue,40
-?,1997-10-08,Bordeaux,Lens,3-0,2-0,Wed,40
-?,1997-10-08,Chateauroux,Strasbourg,2-0,1-0,Wed,40
-?,1997-10-08,Lyon,Montpellier,1-2,0-0,Wed,40
-?,1997-10-08,Metz,Le Havre,2-0,0-0,Wed,40
-?,1997-10-08,Paris SG,Guingamp,4-2,1-2,Wed,40
-?,1997-10-08,Rennes,Marseille,0-2,0-1,Wed,40
-?,1997-10-08,Toulouse,Nantes,1-0,1-0,Wed,40
-?,1997-10-16,Guingamp,Bordeaux,0-1,0-0,Thu,41
-?,1997-10-16,Marseille,Metz,2-0,2-0,Thu,41
-?,1997-10-17,Auxerre,Bastia,2-0,2-0,Fri,41
-?,1997-10-17,Le Havre,Rennes,1-1,1-1,Fri,41
-?,1997-10-17,Lens,Monaco,1-0,0-0,Fri,41
-?,1997-10-17,Montpellier,Chateauroux,1-0,1-0,Fri,41
-?,1997-10-17,Nantes,Lyon,3-2,0-1,Fri,41
-?,1997-10-17,Strasbourg,Cannes,2-0,0-0,Fri,41
-?,1997-10-17,Toulouse,Paris SG,0-2,0-1,Fri,41
-?,1997-10-25,Bastia,Marseille,1-1,1-0,Sat,42
-?,1997-10-25,Cannes,Le Havre,1-1,0-0,Sat,42
-?,1997-10-25,Chateauroux,Guingamp,2-2,0-0,Sat,42
-?,1997-10-25,Lyon,Toulouse,0-0,0-0,Sat,42
-?,1997-10-25,Metz,Montpellier,0-1,0-0,Sat,42
-?,1997-10-25,Paris SG,Lens,2-0,1-0,Sat,42
-?,1997-10-25,Rennes,Strasbourg,3-1,3-0,Sat,42
-?,1997-10-26,Bordeaux,Nantes,1-1,1-0,Sun,42
-?,1997-10-26,Monaco,Auxerre,0-1,0-1,Sun,42
-?,1997-10-31,Guingamp,Monaco,1-2,0-0,Fri,43
-?,1997-10-31,Le Havre,Bastia,2-1,2-0,Fri,43
-?,1997-10-31,Lens,Metz,1-1,1-1,Fri,43
-?,1997-10-31,Lyon,Paris SG,1-0,0-0,Fri,43
-?,1997-10-31,Marseille,Cannes,2-0,2-0,Fri,43
-?,1997-10-31,Nantes,Chateauroux,3-1,1-0,Fri,43
-?,1997-10-31,Strasbourg,Auxerre,1-1,1-1,Fri,43
-?,1997-11-02,Montpellier,Rennes,2-0,1-0,Sun,43
-?,1997-11-02,Toulouse,Bordeaux,2-2,2-0,Sun,43
-?,1997-11-08,Auxerre,Le Havre,0-0,0-0,Sat,44
-?,1997-11-08,Bastia,Strasbourg,2-0,0-0,Sat,44
-?,1997-11-08,Bordeaux,Lyon,0-0,0-0,Sat,44
-?,1997-11-08,Cannes,Montpellier,1-0,0-0,Sat,44
-?,1997-11-08,Chateauroux,Toulouse,2-1,0-1,Sat,44
-?,1997-11-08,Metz,Guingamp,2-1,1-0,Sat,44
-?,1997-11-08,Rennes,Lens,2-3,1-1,Sat,44
-?,1997-11-09,Monaco,Nantes,3-2,1-0,Sun,44
-?,1997-11-09,Paris SG,Marseille,1-2,1-1,Sun,44
-?,1997-11-14,Lyon,Chateauroux,2-1,1-0,Fri,45
-?,1997-11-15,Bordeaux,Paris SG,0-0,0-0,Sat,45
-?,1997-11-15,Lens,Cannes,5-4,4-1,Sat,45
-?,1997-11-15,Marseille,Auxerre,4-0,2-0,Sat,45
-?,1997-11-15,Montpellier,Bastia,1-1,1-0,Sat,45
-?,1997-11-15,Nantes,Metz,1-1,1-1,Sat,45
-?,1997-11-15,Toulouse,Monaco,1-3,0-1,Sat,45
-?,1997-11-16,Guingamp,Rennes,1-0,0-0,Sun,45
-?,1997-11-16,Le Havre,Strasbourg,1-1,0-0,Sun,45
-?,1997-11-20,Auxerre,Montpellier,3-1,1-0,Thu,46
-?,1997-11-20,Monaco,Paris SG,3-0,3-0,Thu,46
-?,1997-11-20,Strasbourg,Marseille,2-0,0-0,Thu,46
-?,1997-11-21,Bastia,Lens,1-0,0-0,Fri,46
-?,1997-11-21,Cannes,Lyon,1-0,1-0,Fri,46
-?,1997-11-21,Chateauroux,Bordeaux,1-0,0-0,Fri,46
-?,1997-11-21,Le Havre,Guingamp,0-0,0-0,Fri,46
-?,1997-11-21,Metz,Toulouse,2-1,1-0,Fri,46
-?,1997-11-21,Rennes,Nantes,3-0,1-0,Fri,46
-?,1997-11-29,Chateauroux,Monaco,0-2,0-1,Sat,47
-?,1997-11-29,Guingamp,Bastia,0-0,0-0,Sat,47
-?,1997-11-29,Lens,Strasbourg,3-2,2-1,Sat,47
-?,1997-11-29,Lyon,Rennes,3-1,2-0,Sat,47
-?,1997-11-29,Montpellier,Le Havre,1-1,0-0,Sat,47
-?,1997-11-29,Nantes,Marseille,1-0,0-0,Sat,47
-?,1997-11-29,Toulouse,Cannes,1-0,1-0,Sat,47
-?,1997-11-30,Bordeaux,Metz,2-2,1-1,Sun,47
-?,1997-11-30,Paris SG,Auxerre,1-0,0-0,Sun,47
-?,1997-12-04,Auxerre,Nantes,3-1,1-0,Thu,48
-?,1997-12-05,Cannes,Paris SG,0-1,0-0,Fri,48
-?,1997-12-05,Metz,Chateauroux,2-0,2-0,Fri,48
-?,1997-12-05,Monaco,Lyon,2-1,0-1,Fri,48
-?,1997-12-06,Le Havre,Lens,0-1,0-0,Sat,48
-?,1997-12-06,Rennes,Bordeaux,0-0,0-0,Sat,48
-?,1997-12-06,Strasbourg,Guingamp,0-1,0-1,Sat,48
-?,1997-12-07,Bastia,Toulouse,0-0,0-0,Sun,48
-?,1997-12-07,Marseille,Montpellier,0-0,0-0,Sun,48
-?,1997-12-13,Bordeaux,Cannes,0-1,0-1,Sat,49
-?,1997-12-13,Chateauroux,Bastia,1-1,0-1,Sat,49
-?,1997-12-13,Guingamp,Auxerre,1-1,1-1,Sat,49
-?,1997-12-13,Lens,Marseille,0-1,0-1,Sat,49
-?,1997-12-13,Lyon,Le Havre,0-1,0-0,Sat,49
-?,1997-12-13,Nantes,Strasbourg,2-1,1-0,Sat,49
-?,1997-12-13,Toulouse,Montpellier,1-1,1-0,Sat,49
-?,1997-12-14,Monaco,Rennes,1-0,0-0,Sun,49
-?,1997-12-14,Paris SG,Metz,1-1,0-0,Sun,49
-?,1997-12-19,Auxerre,Bordeaux,4-2,2-1,Fri,50
-?,1997-12-19,Bastia,Lyon,0-1,0-0,Fri,50
-?,1997-12-19,Le Havre,Nantes,1-0,0-0,Fri,50
-?,1997-12-19,Metz,Monaco,3-0,1-0,Fri,50
-?,1997-12-19,Montpellier,Lens,1-2,0-0,Fri,50
-?,1997-12-19,Rennes,Paris SG,1-2,0-1,Fri,50
-?,1997-12-19,Strasbourg,Toulouse,2-0,1-0,Fri,50
-?,1998-01-10,Bordeaux,Bastia,2-0,1-0,Sat,1
-?,1998-01-10,Chateauroux,Auxerre,3-2,0-1,Sat,1
-?,1998-01-10,Guingamp,Montpellier,1-2,0-0,Sat,1
-?,1998-01-10,Lyon,Marseille,2-1,0-1,Sat,1
-?,1998-01-10,Metz,Rennes,1-0,1-0,Sat,1
-?,1998-01-10,Monaco,Cannes,0-1,0-0,Sat,1
-?,1998-01-10,Toulouse,Le Havre,1-0,1-0,Sat,1
-?,1998-01-11,Nantes,Lens,1-0,0-0,Sun,1
-?,1998-01-11,Paris SG,Strasbourg,2-1,0-0,Sun,1
-?,1998-01-14,Cannes,Chateauroux,2-2,1-2,Wed,2
-?,1998-01-14,Marseille,Guingamp,3-0,3-0,Wed,2
-?,1998-01-20,Cannes,Metz,1-1,0-1,Tue,3
-?,1998-01-20,Marseille,Monaco,1-1,1-0,Tue,3
-?,1998-01-21,Auxerre,Toulouse,3-1,1-1,Wed,3
-?,1998-01-21,Bastia,Paris SG,2-0,1-0,Wed,3
-?,1998-01-21,Le Havre,Bordeaux,0-0,0-0,Wed,3
-?,1998-01-21,Lens,Guingamp,1-0,1-0,Wed,3
-?,1998-01-21,Montpellier,Nantes,2-0,2-0,Wed,3
-?,1998-01-21,Rennes,Chateauroux,3-0,0-0,Wed,3
-?,1998-01-21,Strasbourg,Lyon,1-2,0-2,Wed,3
-?,1998-01-24,Bordeaux,Strasbourg,4-4,2-2,Sat,3
-?,1998-01-24,Chateauroux,Marseille,0-3,0-1,Sat,3
-?,1998-01-24,Lyon,Auxerre,1-0,0-0,Sat,3
-?,1998-01-24,Metz,Bastia,0-1,0-1,Sat,3
-?,1998-01-24,Monaco,Montpellier,4-0,1-0,Sat,3
-?,1998-01-24,Nantes,Guingamp,2-0,0-0,Sat,3
-?,1998-01-24,Paris SG,Le Havre,0-2,0-1,Sat,3
-?,1998-01-24,Rennes,Cannes,2-0,0-0,Sat,3
-?,1998-01-24,Toulouse,Lens,1-2,0-1,Sat,3
-?,1998-02-03,Bastia,Rennes,0-0,0-0,Tue,5
-?,1998-02-03,Strasbourg,Monaco,0-0,0-0,Tue,5
-?,1998-02-04,Auxerre,Metz,0-0,0-0,Wed,5
-?,1998-02-04,Guingamp,Toulouse,2-0,2-0,Wed,5
-?,1998-02-04,Lens,Lyon,3-0,2-0,Wed,5
-?,1998-02-04,Marseille,Bordeaux,1-0,1-0,Wed,5
-?,1998-02-04,Montpellier,Paris SG,2-1,0-1,Wed,5
-?,1998-02-05,Cannes,Nantes,2-3,0-3,Thu,5
-?,1998-02-05,Le Havre,Chateauroux,5-0,2-0,Thu,5
-?,1998-02-12,Chateauroux,Lens,2-1,1-0,Thu,6
-?,1998-02-12,Rennes,Auxerre,1-1,1-0,Thu,6
-?,1998-02-13,Bordeaux,Montpellier,3-1,0-1,Fri,6
-?,1998-02-13,Cannes,Bastia,1-1,0-0,Fri,6
-?,1998-02-13,Lyon,Guingamp,1-0,0-0,Fri,6
-?,1998-02-13,Metz,Strasbourg,1-0,0-0,Fri,6
-?,1998-02-13,Monaco,Le Havre,2-0,0-0,Fri,6
-?,1998-02-13,Paris SG,Nantes,0-1,0-0,Fri,6
-?,1998-02-13,Toulouse,Marseille,0-4,0-1,Fri,6
-?,1998-02-20,Bastia,Monaco,1-0,0-0,Fri,7
-?,1998-02-20,Strasbourg,Chateauroux,2-0,1-0,Fri,7
-?,1998-02-21,Auxerre,Cannes,1-1,1-0,Sat,7
-?,1998-02-21,Guingamp,Paris SG,0-0,0-0,Sat,7
-?,1998-02-21,Le Havre,Metz,2-1,2-0,Sat,7
-?,1998-02-21,Lens,Bordeaux,1-0,0-0,Sat,7
-?,1998-02-21,Marseille,Rennes,0-1,0-0,Sat,7
-?,1998-02-21,Montpellier,Lyon,1-1,0-1,Sat,7
-?,1998-02-21,Nantes,Toulouse,0-1,0-1,Sat,7
-?,1998-03-07,Bastia,Auxerre,1-2,1-0,Sat,9
-?,1998-03-07,Bordeaux,Guingamp,4-2,2-1,Sat,9
-?,1998-03-07,Cannes,Strasbourg,1-0,0-0,Sat,9
-?,1998-03-07,Chateauroux,Montpellier,0-1,0-0,Sat,9
-?,1998-03-07,Lyon,Nantes,0-0,0-0,Sat,9
-?,1998-03-07,Metz,Marseille,3-2,1-0,Sat,9
-?,1998-03-07,Monaco,Lens,0-1,0-0,Sat,9
-?,1998-03-07,Paris SG,Toulouse,1-1,0-0,Sat,9
-?,1998-03-07,Rennes,Le Havre,2-2,1-1,Sat,9
-?,1998-03-13,Auxerre,Monaco,3-1,1-0,Fri,10
-?,1998-03-13,Guingamp,Chateauroux,0-0,0-0,Fri,10
-?,1998-03-13,Le Havre,Cannes,2-0,0-0,Fri,10
-?,1998-03-13,Montpellier,Metz,0-1,0-0,Fri,10
-?,1998-03-13,Nantes,Bordeaux,1-2,0-1,Fri,10
-?,1998-03-13,Strasbourg,Rennes,3-1,0-0,Fri,10
-?,1998-03-13,Toulouse,Lyon,0-2,0-2,Fri,10
-?,1998-03-15,Lens,Paris SG,3-0,2-0,Sun,10
-?,1998-03-15,Marseille,Bastia,1-0,0-0,Sun,10
-?,1998-03-28,Auxerre,Strasbourg,1-2,1-1,Sat,12
-?,1998-03-28,Bastia,Le Havre,2-0,2-0,Sat,12
-?,1998-03-28,Bordeaux,Toulouse,3-1,2-0,Sat,12
-?,1998-03-28,Chateauroux,Nantes,1-2,0-0,Sat,12
-?,1998-03-28,Monaco,Guingamp,1-0,0-0,Sat,12
-?,1998-03-28,Paris SG,Lyon,3-0,2-0,Sat,12
-?,1998-03-28,Rennes,Montpellier,2-0,0-0,Sat,12
-?,1998-03-29,Cannes,Marseille,3-3,2-1,Sun,12
-?,1998-03-29,Metz,Lens,0-2,0-2,Sun,12
-?,1998-04-07,Le Havre,Auxerre,2-2,1-1,Tue,14
-?,1998-04-07,Lens,Rennes,3-0,1-0,Tue,14
-?,1998-04-07,Lyon,Bordeaux,1-1,1-0,Tue,14
-?,1998-04-07,Montpellier,Cannes,1-0,0-0,Tue,14
-?,1998-04-07,Nantes,Monaco,1-1,0-0,Tue,14
-?,1998-04-07,Strasbourg,Bastia,1-1,1-0,Tue,14
-?,1998-04-07,Toulouse,Chateauroux,1-1,1-1,Tue,14
-?,1998-04-08,Guingamp,Metz,0-1,0-1,Wed,14
-?,1998-04-08,Marseille,Paris SG,0-0,0-0,Wed,14
-?,1998-04-17,Cannes,Lens,0-2,0-0,Fri,15
-?,1998-04-17,Metz,Nantes,3-2,1-1,Fri,15
-?,1998-04-18,Auxerre,Marseille,2-1,1-1,Sat,15
-?,1998-04-18,Bastia,Montpellier,2-1,1-1,Sat,15
-?,1998-04-18,Chateauroux,Lyon,2-3,0-1,Sat,15
-?,1998-04-18,Monaco,Toulouse,0-1,0-1,Sat,15
-?,1998-04-18,Paris SG,Bordeaux,0-1,0-1,Sat,15
-?,1998-04-18,Rennes,Guingamp,1-2,1-0,Sat,15
-?,1998-04-18,Strasbourg,Le Havre,0-1,0-0,Sat,15
-?,1998-04-25,Bordeaux,Chateauroux,1-0,1-0,Sat,16
-?,1998-04-25,Guingamp,Le Havre,1-2,1-1,Sat,16
-?,1998-04-25,Lens,Bastia,5-1,1-0,Sat,16
-?,1998-04-25,Lyon,Cannes,2-0,0-0,Sat,16
-?,1998-04-25,Marseille,Strasbourg,0-0,0-0,Sat,16
-?,1998-04-25,Montpellier,Auxerre,1-1,1-1,Sat,16
-?,1998-04-25,Nantes,Rennes,1-1,1-0,Sat,16
-?,1998-04-25,Paris SG,Monaco,1-2,1-1,Sat,16
-?,1998-04-25,Toulouse,Metz,0-1,0-0,Sat,16
-?,1998-05-09,Auxerre,Lens,1-1,1-0,Sat,18
-?,1998-05-09,Bastia,Nantes,2-1,2-1,Sat,18
-?,1998-05-09,Cannes,Guingamp,1-3,1-0,Sat,18
-?,1998-05-09,Chateauroux,Paris SG,2-1,1-1,Sat,18
-?,1998-05-09,Le Havre,Marseille,1-1,1-1,Sat,18
-?,1998-05-09,Metz,Lyon,1-0,1-0,Sat,18
-?,1998-05-09,Monaco,Bordeaux,5-2,4-1,Sat,18
-?,1998-05-09,Rennes,Toulouse,1-0,0-0,Sat,18
-?,1998-05-09,Strasbourg,Montpellier,3-0,1-0,Sat,18
+Round,Date,Team 1,Team 2,FT,HT
+?,(Fri) Aug/1 1997 (30),Bordeaux (1),Monaco (1),1-0,?
+?,(Fri) Aug/1 1997 (30),Toulouse (1),Rennes (1),1-0,?
+?,(Sat) Aug/2 1997 (30),Guingamp (1),Cannes (1),3-1,?
+?,(Sat) Aug/2 1997 (30),Lens (1),Auxerre (1),3-0,?
+?,(Sat) Aug/2 1997 (30),Lyon (1),Metz (1),0-1,?
+?,(Sat) Aug/2 1997 (30),Marseille (1),Le Havre (1),3-1,?
+?,(Sat) Aug/2 1997 (30),Montpellier (1),Strasbourg (1),1-1,?
+?,(Sat) Aug/2 1997 (30),Nantes (1),Bastia (1),0-1,?
+?,(Sat) Aug/2 1997 (30),Paris SG (1),Chateauroux (1),2-0,?
+?,(Fri) Aug/8 1997 (31),Auxerre (2),Paris SG (2),2-3,2-0
+?,(Fri) Aug/8 1997 (31),Rennes (2),Lyon (2),0-3,?
+?,(Sat) Aug/9 1997 (31),Bastia (2),Guingamp (2),1-0,0-0
+?,(Sat) Aug/9 1997 (31),Cannes (2),Toulouse (2),0-1,?
+?,(Sat) Aug/9 1997 (31),Le Havre (2),Montpellier (2),4-0,?
+?,(Sat) Aug/9 1997 (31),Marseille (2),Nantes (2),1-0,1-0
+?,(Sat) Aug/9 1997 (31),Metz (2),Bordeaux (2),4-1,1-0
+?,(Sat) Aug/9 1997 (31),Monaco (2),Chateauroux (2),2-2,1-0
+?,(Sat) Aug/9 1997 (31),Strasbourg (2),Lens (2),2-1,0-0
+?,(Fri) Aug/15 1997 (32),Chateauroux (3),Metz (3),1-2,?
+?,(Fri) Aug/15 1997 (32),Lens (3),Le Havre (3),0-0,0-0
+?,(Sat) Aug/16 1997 (32),Bordeaux (3),Rennes (3),2-2,?
+?,(Sat) Aug/16 1997 (32),Guingamp (3),Strasbourg (3),0-0,0-0
+?,(Sat) Aug/16 1997 (32),Lyon (3),Monaco (3),0-3,?
+?,(Sat) Aug/16 1997 (32),Montpellier (3),Marseille (3),0-0,0-0
+?,(Sat) Aug/16 1997 (32),Nantes (3),Auxerre (3),0-2,?
+?,(Sat) Aug/16 1997 (32),Paris SG (3),Cannes (3),3-1,?
+?,(Sat) Aug/16 1997 (32),Toulouse (3),Bastia (3),1-1,?
+?,(Thu) Aug/21 1997 (33),Cannes (4),Bordeaux (4),0-2,?
+?,(Thu) Aug/21 1997 (33),Strasbourg (4),Nantes (4),1-2,?
+?,(Fri) Aug/22 1997 (33),Auxerre (4),Guingamp (4),1-0,?
+?,(Fri) Aug/22 1997 (33),Bastia (4),Chateauroux (4),1-1,?
+?,(Fri) Aug/22 1997 (33),Le Havre (4),Lyon (4),1-3,?
+?,(Fri) Aug/22 1997 (33),Marseille (4),Lens (4),2-3,?
+?,(Fri) Aug/22 1997 (33),Metz (4),Paris SG (4),2-1,?
+?,(Fri) Aug/22 1997 (33),Montpellier (4),Toulouse (4),4-0,?
+?,(Fri) Aug/22 1997 (33),Rennes (4),Monaco (4),2-1,?
+?,(Fri) Aug/29 1997 (34),Guingamp (5),Marseille (5),1-1,0-1
+?,(Fri) Aug/29 1997 (34),Monaco (5),Metz (5),1-2,0-1
+?,(Sat) Aug/30 1997 (34),Bordeaux (5),Auxerre (5),3-2,1-2
+?,(Sat) Aug/30 1997 (34),Chateauroux (5),Cannes (5),1-2,?
+?,(Sat) Aug/30 1997 (34),Lens (5),Montpellier (5),0-0,0-0
+?,(Sat) Aug/30 1997 (34),Lyon (5),Bastia (5),0-2,0-2
+?,(Sat) Aug/30 1997 (34),Nantes (5),Le Havre (5),2-0,2-0
+?,(Sat) Aug/30 1997 (34),Paris SG (5),Rennes (5),4-1,1-0
+?,(Sat) Aug/30 1997 (34),Toulouse (5),Strasbourg (5),1-1,?
+?,(Thu) Sep/4 1997 (35),Le Havre (6),Toulouse (6),1-1,1-0
+?,(Thu) Sep/4 1997 (35),Marseille (6),Lyon (6),1-0,0-0
+?,(Fri) Sep/5 1997 (35),Auxerre (6),Chateauroux (6),5-0,2-0
+?,(Fri) Sep/5 1997 (35),Bastia (6),Bordeaux (6),4-1,2-1
+?,(Fri) Sep/5 1997 (35),Cannes (6),Monaco (6),1-2,0-0
+?,(Fri) Sep/5 1997 (35),Lens (6),Nantes (6),0-0,0-0
+?,(Fri) Sep/5 1997 (35),Montpellier (6),Guingamp (6),2-3,2-2
+?,(Fri) Sep/5 1997 (35),Rennes (6),Metz (6),2-2,2-1
+?,(Fri) Sep/5 1997 (35),Strasbourg (6),Paris SG (6),0-3,0-1
+?,(Thu) Sep/11 1997 (36),Chateauroux (7),Rennes (7),1-0,?
+?,(Thu) Sep/11 1997 (36),Guingamp (7),Lens (7),2-1,?
+?,(Fri) Sep/12 1997 (36),Bordeaux (7),Le Havre (7),2-1,0-1
+?,(Fri) Sep/12 1997 (36),Lyon (7),Strasbourg (7),3-1,1-1
+?,(Fri) Sep/12 1997 (36),Metz (7),Cannes (7),2-0,0-0
+?,(Fri) Sep/12 1997 (36),Monaco (7),Marseille (7),2-0,0-0
+?,(Fri) Sep/12 1997 (36),Nantes (7),Montpellier (7),1-1,?
+?,(Fri) Sep/12 1997 (36),Paris SG (7),Bastia (7),2-0,1-0
+?,(Fri) Sep/12 1997 (36),Toulouse (7),Auxerre (7),2-1,1-1
+?,(Sat) Sep/20 1997 (37),Auxerre (8),Lyon (8),1-2,1-1
+?,(Sat) Sep/20 1997 (37),Cannes (8),Rennes (8),1-1,0-0
+?,(Sat) Sep/20 1997 (37),Guingamp (8),Nantes (8),1-0,0-0
+?,(Sat) Sep/20 1997 (37),Le Havre (8),Paris SG (8),1-1,1-1
+?,(Sat) Sep/20 1997 (37),Lens (8),Toulouse (8),2-0,1-0
+?,(Sat) Sep/20 1997 (37),Marseille (8),Chateauroux (8),2-0,1-0
+?,(Sat) Sep/20 1997 (37),Strasbourg (8),Bordeaux (8),0-0,0-0
+?,(Sun) Sep/21 1997 (37),Bastia (8),Metz (8),0-0,0-0
+?,(Sun) Sep/21 1997 (37),Montpellier (8),Monaco (8),0-2,0-1
+?,(Thu) Sep/25 1997 (38),Bordeaux (9),Marseille (9),2-0,1-0
+?,(Thu) Sep/25 1997 (38),Lyon (9),Lens (9),1-3,0-2
+?,(Fri) Sep/26 1997 (38),Chateauroux (9),Le Havre (9),2-1,?
+?,(Fri) Sep/26 1997 (38),Metz (9),Auxerre (9),3-0,2-0
+?,(Fri) Sep/26 1997 (38),Monaco (9),Strasbourg (9),3-2,1-1
+?,(Fri) Sep/26 1997 (38),Nantes (9),Cannes (9),1-2,0-1
+?,(Fri) Sep/26 1997 (38),Paris SG (9),Montpellier (9),1-1,1-0
+?,(Fri) Sep/26 1997 (38),Rennes (9),Bastia (9),2-0,1-0
+?,(Fri) Sep/26 1997 (38),Toulouse (9),Guingamp (9),3-0,?
+?,(Sat) Oct/4 1997 (39),Auxerre (10),Rennes (10),4-0,2-0
+?,(Sat) Oct/4 1997 (39),Bastia (10),Cannes (10),5-1,3-1
+?,(Sat) Oct/4 1997 (39),Guingamp (10),Lyon (10),0-1,0-1
+?,(Sat) Oct/4 1997 (39),Le Havre (10),Monaco (10),1-1,0-0
+?,(Sat) Oct/4 1997 (39),Lens (10),Chateauroux (10),1-0,1-0
+?,(Sat) Oct/4 1997 (39),Marseille (10),Toulouse (10),2-0,1-0
+?,(Sat) Oct/4 1997 (39),Montpellier (10),Bordeaux (10),0-1,0-0
+?,(Sun) Oct/5 1997 (39),Nantes (10),Paris SG (10),0-0,0-0
+?,(Sun) Oct/5 1997 (39),Strasbourg (10),Metz (10),2-0,0-0
+?,(Tue) Oct/7 1997 (40),Cannes (11),Auxerre (11),2-3,1-2
+?,(Tue) Oct/7 1997 (40),Monaco (11),Bastia (11),1-0,0-0
+?,(Wed) Oct/8 1997 (40),Bordeaux (11),Lens (11),3-0,2-0
+?,(Wed) Oct/8 1997 (40),Chateauroux (11),Strasbourg (11),2-0,1-0
+?,(Wed) Oct/8 1997 (40),Lyon (11),Montpellier (11),1-2,0-0
+?,(Wed) Oct/8 1997 (40),Metz (11),Le Havre (11),2-0,0-0
+?,(Wed) Oct/8 1997 (40),Paris SG (11),Guingamp (11),4-2,1-2
+?,(Wed) Oct/8 1997 (40),Rennes (11),Marseille (11),0-2,0-1
+?,(Wed) Oct/8 1997 (40),Toulouse (11),Nantes (11),1-0,1-0
+?,(Thu) Oct/16 1997 (41),Guingamp (12),Bordeaux (12),0-1,0-0
+?,(Thu) Oct/16 1997 (41),Marseille (12),Metz (12),2-0,2-0
+?,(Fri) Oct/17 1997 (41),Auxerre (12),Bastia (12),2-0,2-0
+?,(Fri) Oct/17 1997 (41),Le Havre (12),Rennes (12),1-1,1-1
+?,(Fri) Oct/17 1997 (41),Lens (12),Monaco (12),1-0,0-0
+?,(Fri) Oct/17 1997 (41),Montpellier (12),Chateauroux (12),1-0,1-0
+?,(Fri) Oct/17 1997 (41),Nantes (12),Lyon (12),3-2,0-1
+?,(Fri) Oct/17 1997 (41),Strasbourg (12),Cannes (12),2-0,0-0
+?,(Fri) Oct/17 1997 (41),Toulouse (12),Paris SG (12),0-2,0-1
+?,(Sat) Oct/25 1997 (42),Bastia (13),Marseille (13),1-1,1-0
+?,(Sat) Oct/25 1997 (42),Cannes (13),Le Havre (13),1-1,0-0
+?,(Sat) Oct/25 1997 (42),Chateauroux (13),Guingamp (13),2-2,0-0
+?,(Sat) Oct/25 1997 (42),Lyon (13),Toulouse (13),0-0,0-0
+?,(Sat) Oct/25 1997 (42),Metz (13),Montpellier (13),0-1,0-0
+?,(Sat) Oct/25 1997 (42),Paris SG (13),Lens (13),2-0,1-0
+?,(Sat) Oct/25 1997 (42),Rennes (13),Strasbourg (13),3-1,3-0
+?,(Sun) Oct/26 1997 (42),Bordeaux (13),Nantes (13),1-1,1-0
+?,(Sun) Oct/26 1997 (42),Monaco (13),Auxerre (13),0-1,0-1
+?,(Fri) Oct/31 1997 (43),Guingamp (14),Monaco (14),1-2,0-0
+?,(Fri) Oct/31 1997 (43),Le Havre (14),Bastia (14),2-1,2-0
+?,(Fri) Oct/31 1997 (43),Lens (14),Metz (14),1-1,1-1
+?,(Fri) Oct/31 1997 (43),Lyon (14),Paris SG (14),1-0,0-0
+?,(Fri) Oct/31 1997 (43),Marseille (14),Cannes (14),2-0,2-0
+?,(Fri) Oct/31 1997 (43),Nantes (14),Chateauroux (14),3-1,1-0
+?,(Fri) Oct/31 1997 (43),Strasbourg (14),Auxerre (14),1-1,1-1
+?,(Sun) Nov/2 1997 (43),Montpellier (14),Rennes (14),2-0,1-0
+?,(Sun) Nov/2 1997 (43),Toulouse (14),Bordeaux (14),2-2,2-0
+?,(Sat) Nov/8 1997 (44),Auxerre (15),Le Havre (15),0-0,0-0
+?,(Sat) Nov/8 1997 (44),Bastia (15),Strasbourg (15),2-0,0-0
+?,(Sat) Nov/8 1997 (44),Bordeaux (15),Lyon (15),0-0,0-0
+?,(Sat) Nov/8 1997 (44),Cannes (15),Montpellier (15),1-0,0-0
+?,(Sat) Nov/8 1997 (44),Chateauroux (15),Toulouse (15),2-1,0-1
+?,(Sat) Nov/8 1997 (44),Metz (15),Guingamp (15),2-1,1-0
+?,(Sat) Nov/8 1997 (44),Rennes (15),Lens (15),2-3,1-1
+?,(Sun) Nov/9 1997 (44),Monaco (15),Nantes (15),3-2,1-0
+?,(Sun) Nov/9 1997 (44),Paris SG (15),Marseille (15),1-2,1-1
+?,(Fri) Nov/14 1997 (45),Lyon (16),Chateauroux (16),2-1,1-0
+?,(Sat) Nov/15 1997 (45),Bordeaux (16),Paris SG (16),0-0,0-0
+?,(Sat) Nov/15 1997 (45),Lens (16),Cannes (16),5-4,4-1
+?,(Sat) Nov/15 1997 (45),Marseille (16),Auxerre (16),4-0,2-0
+?,(Sat) Nov/15 1997 (45),Montpellier (16),Bastia (16),1-1,1-0
+?,(Sat) Nov/15 1997 (45),Nantes (16),Metz (16),1-1,1-1
+?,(Sat) Nov/15 1997 (45),Toulouse (16),Monaco (16),1-3,0-1
+?,(Sun) Nov/16 1997 (45),Guingamp (16),Rennes (16),1-0,0-0
+?,(Sun) Nov/16 1997 (45),Le Havre (16),Strasbourg (16),1-1,0-0
+?,(Thu) Nov/20 1997 (46),Auxerre (17),Montpellier (17),3-1,1-0
+?,(Thu) Nov/20 1997 (46),Monaco (17),Paris SG (17),3-0,3-0
+?,(Thu) Nov/20 1997 (46),Strasbourg (17),Marseille (17),2-0,0-0
+?,(Fri) Nov/21 1997 (46),Bastia (17),Lens (17),1-0,0-0
+?,(Fri) Nov/21 1997 (46),Cannes (17),Lyon (17),1-0,1-0
+?,(Fri) Nov/21 1997 (46),Chateauroux (17),Bordeaux (17),1-0,0-0
+?,(Fri) Nov/21 1997 (46),Le Havre (17),Guingamp (17),0-0,0-0
+?,(Fri) Nov/21 1997 (46),Metz (17),Toulouse (17),2-1,1-0
+?,(Fri) Nov/21 1997 (46),Rennes (17),Nantes (17),3-0,1-0
+?,(Sat) Nov/29 1997 (47),Chateauroux (18),Monaco (18),0-2,0-1
+?,(Sat) Nov/29 1997 (47),Guingamp (18),Bastia (18),0-0,0-0
+?,(Sat) Nov/29 1997 (47),Lens (18),Strasbourg (18),3-2,2-1
+?,(Sat) Nov/29 1997 (47),Lyon (18),Rennes (18),3-1,2-0
+?,(Sat) Nov/29 1997 (47),Montpellier (18),Le Havre (18),1-1,0-0
+?,(Sat) Nov/29 1997 (47),Nantes (18),Marseille (18),1-0,0-0
+?,(Sat) Nov/29 1997 (47),Toulouse (18),Cannes (18),1-0,1-0
+?,(Sun) Nov/30 1997 (47),Bordeaux (18),Metz (18),2-2,1-1
+?,(Sun) Nov/30 1997 (47),Paris SG (18),Auxerre (18),1-0,0-0
+?,(Thu) Dec/4 1997 (48),Auxerre (19),Nantes (19),3-1,1-0
+?,(Fri) Dec/5 1997 (48),Cannes (19),Paris SG (19),0-1,0-0
+?,(Fri) Dec/5 1997 (48),Metz (19),Chateauroux (19),2-0,2-0
+?,(Fri) Dec/5 1997 (48),Monaco (19),Lyon (19),2-1,0-1
+?,(Sat) Dec/6 1997 (48),Le Havre (19),Lens (19),0-1,0-0
+?,(Sat) Dec/6 1997 (48),Rennes (19),Bordeaux (19),0-0,0-0
+?,(Sat) Dec/6 1997 (48),Strasbourg (19),Guingamp (19),0-1,0-1
+?,(Sun) Dec/7 1997 (48),Bastia (19),Toulouse (19),0-0,0-0
+?,(Sun) Dec/7 1997 (48),Marseille (19),Montpellier (19),0-0,0-0
+?,(Sat) Dec/13 1997 (49),Bordeaux (20),Cannes (20),0-1,0-1
+?,(Sat) Dec/13 1997 (49),Chateauroux (20),Bastia (20),1-1,0-1
+?,(Sat) Dec/13 1997 (49),Guingamp (20),Auxerre (20),1-1,1-1
+?,(Sat) Dec/13 1997 (49),Lens (20),Marseille (20),0-1,0-1
+?,(Sat) Dec/13 1997 (49),Lyon (20),Le Havre (20),0-1,0-0
+?,(Sat) Dec/13 1997 (49),Nantes (20),Strasbourg (20),2-1,1-0
+?,(Sat) Dec/13 1997 (49),Toulouse (20),Montpellier (20),1-1,1-0
+?,(Sun) Dec/14 1997 (49),Monaco (20),Rennes (20),1-0,0-0
+?,(Sun) Dec/14 1997 (49),Paris SG (20),Metz (20),1-1,0-0
+?,(Fri) Dec/19 1997 (50),Auxerre (21),Bordeaux (21),4-2,2-1
+?,(Fri) Dec/19 1997 (50),Bastia (21),Lyon (21),0-1,0-0
+?,(Fri) Dec/19 1997 (50),Le Havre (21),Nantes (21),1-0,0-0
+?,(Fri) Dec/19 1997 (50),Metz (21),Monaco (21),3-0,1-0
+?,(Fri) Dec/19 1997 (50),Montpellier (21),Lens (21),1-2,0-0
+?,(Fri) Dec/19 1997 (50),Rennes (21),Paris SG (21),1-2,0-1
+?,(Fri) Dec/19 1997 (50),Strasbourg (21),Toulouse (21),2-0,1-0
+?,(Sat) Jan/10 1998 (1),Bordeaux (22),Bastia (22),2-0,1-0
+?,(Sat) Jan/10 1998 (1),Chateauroux (21),Auxerre (22),3-2,0-1
+?,(Sat) Jan/10 1998 (1),Guingamp (21),Montpellier (22),1-2,0-0
+?,(Sat) Jan/10 1998 (1),Lyon (22),Marseille (21),2-1,0-1
+?,(Sat) Jan/10 1998 (1),Metz (22),Rennes (22),1-0,1-0
+?,(Sat) Jan/10 1998 (1),Monaco (22),Cannes (21),0-1,0-0
+?,(Sat) Jan/10 1998 (1),Toulouse (22),Le Havre (22),1-0,1-0
+?,(Sun) Jan/11 1998 (1),Nantes (22),Lens (22),1-0,0-0
+?,(Sun) Jan/11 1998 (1),Paris SG (22),Strasbourg (22),2-1,0-0
+?,(Wed) Jan/14 1998 (2),Cannes (22),Chateauroux (22),2-2,1-2
+?,(Wed) Jan/14 1998 (2),Marseille (22),Guingamp (22),3-0,3-0
+?,(Tue) Jan/20 1998 (3),Cannes (23),Metz (23),1-1,0-1
+?,(Tue) Jan/20 1998 (3),Marseille (23),Monaco (23),1-1,1-0
+?,(Wed) Jan/21 1998 (3),Auxerre (23),Toulouse (23),3-1,1-1
+?,(Wed) Jan/21 1998 (3),Bastia (23),Paris SG (23),2-0,1-0
+?,(Wed) Jan/21 1998 (3),Le Havre (23),Bordeaux (23),0-0,0-0
+?,(Wed) Jan/21 1998 (3),Lens (23),Guingamp (23),1-0,1-0
+?,(Wed) Jan/21 1998 (3),Montpellier (23),Nantes (23),2-0,2-0
+?,(Wed) Jan/21 1998 (3),Rennes (23),Chateauroux (23),3-0,0-0
+?,(Wed) Jan/21 1998 (3),Strasbourg (23),Lyon (23),1-2,0-2
+?,(Sat) Jan/24 1998 (3),Bordeaux (24),Strasbourg (24),4-4,2-2
+?,(Sat) Jan/24 1998 (3),Chateauroux (24),Marseille (24),0-3,0-1
+?,(Sat) Jan/24 1998 (3),Lyon (24),Auxerre (24),1-0,0-0
+?,(Sat) Jan/24 1998 (3),Metz (24),Bastia (24),0-1,0-1
+?,(Sat) Jan/24 1998 (3),Monaco (24),Montpellier (24),4-0,1-0
+?,(Sat) Jan/24 1998 (3),Nantes (24),Guingamp (24),2-0,0-0
+?,(Sat) Jan/24 1998 (3),Paris SG (24),Le Havre (24),0-2,0-1
+?,(Sat) Jan/24 1998 (3),Rennes (24),Cannes (24),2-0,0-0
+?,(Sat) Jan/24 1998 (3),Toulouse (24),Lens (24),1-2,0-1
+?,(Tue) Feb/3 1998 (5),Bastia (25),Rennes (25),0-0,0-0
+?,(Tue) Feb/3 1998 (5),Strasbourg (25),Monaco (25),0-0,0-0
+?,(Wed) Feb/4 1998 (5),Auxerre (25),Metz (25),0-0,0-0
+?,(Wed) Feb/4 1998 (5),Guingamp (25),Toulouse (25),2-0,2-0
+?,(Wed) Feb/4 1998 (5),Lens (25),Lyon (25),3-0,2-0
+?,(Wed) Feb/4 1998 (5),Marseille (25),Bordeaux (25),1-0,1-0
+?,(Wed) Feb/4 1998 (5),Montpellier (25),Paris SG (25),2-1,0-1
+?,(Thu) Feb/5 1998 (5),Cannes (25),Nantes (25),2-3,0-3
+?,(Thu) Feb/5 1998 (5),Le Havre (25),Chateauroux (25),5-0,2-0
+?,(Thu) Feb/12 1998 (6),Chateauroux (26),Lens (26),2-1,1-0
+?,(Thu) Feb/12 1998 (6),Rennes (26),Auxerre (26),1-1,1-0
+?,(Fri) Feb/13 1998 (6),Bordeaux (26),Montpellier (26),3-1,0-1
+?,(Fri) Feb/13 1998 (6),Cannes (26),Bastia (26),1-1,0-0
+?,(Fri) Feb/13 1998 (6),Lyon (26),Guingamp (26),1-0,0-0
+?,(Fri) Feb/13 1998 (6),Metz (26),Strasbourg (26),1-0,0-0
+?,(Fri) Feb/13 1998 (6),Monaco (26),Le Havre (26),2-0,0-0
+?,(Fri) Feb/13 1998 (6),Paris SG (26),Nantes (26),0-1,0-0
+?,(Fri) Feb/13 1998 (6),Toulouse (26),Marseille (26),0-4,0-1
+?,(Fri) Feb/20 1998 (7),Bastia (27),Monaco (27),1-0,0-0
+?,(Fri) Feb/20 1998 (7),Strasbourg (27),Chateauroux (27),2-0,1-0
+?,(Sat) Feb/21 1998 (7),Auxerre (27),Cannes (27),1-1,1-0
+?,(Sat) Feb/21 1998 (7),Guingamp (27),Paris SG (27),0-0,0-0
+?,(Sat) Feb/21 1998 (7),Le Havre (27),Metz (27),2-1,2-0
+?,(Sat) Feb/21 1998 (7),Lens (27),Bordeaux (27),1-0,0-0
+?,(Sat) Feb/21 1998 (7),Marseille (27),Rennes (27),0-1,0-0
+?,(Sat) Feb/21 1998 (7),Montpellier (27),Lyon (27),1-1,0-1
+?,(Sat) Feb/21 1998 (7),Nantes (27),Toulouse (27),0-1,0-1
+?,(Sat) Mar/7 1998 (9),Bastia (28),Auxerre (28),1-2,1-0
+?,(Sat) Mar/7 1998 (9),Bordeaux (28),Guingamp (28),4-2,2-1
+?,(Sat) Mar/7 1998 (9),Cannes (28),Strasbourg (28),1-0,0-0
+?,(Sat) Mar/7 1998 (9),Chateauroux (28),Montpellier (28),0-1,0-0
+?,(Sat) Mar/7 1998 (9),Lyon (28),Nantes (28),0-0,0-0
+?,(Sat) Mar/7 1998 (9),Metz (28),Marseille (28),3-2,1-0
+?,(Sat) Mar/7 1998 (9),Monaco (28),Lens (28),0-1,0-0
+?,(Sat) Mar/7 1998 (9),Paris SG (28),Toulouse (28),1-1,0-0
+?,(Sat) Mar/7 1998 (9),Rennes (28),Le Havre (28),2-2,1-1
+?,(Fri) Mar/13 1998 (10),Auxerre (29),Monaco (29),3-1,1-0
+?,(Fri) Mar/13 1998 (10),Guingamp (29),Chateauroux (29),0-0,0-0
+?,(Fri) Mar/13 1998 (10),Le Havre (29),Cannes (29),2-0,0-0
+?,(Fri) Mar/13 1998 (10),Montpellier (29),Metz (29),0-1,0-0
+?,(Fri) Mar/13 1998 (10),Nantes (29),Bordeaux (29),1-2,0-1
+?,(Fri) Mar/13 1998 (10),Strasbourg (29),Rennes (29),3-1,0-0
+?,(Fri) Mar/13 1998 (10),Toulouse (29),Lyon (29),0-2,0-2
+?,(Sun) Mar/15 1998 (10),Lens (29),Paris SG (29),3-0,2-0
+?,(Sun) Mar/15 1998 (10),Marseille (29),Bastia (29),1-0,0-0
+?,(Sat) Mar/28 1998 (12),Auxerre (30),Strasbourg (30),1-2,1-1
+?,(Sat) Mar/28 1998 (12),Bastia (30),Le Havre (30),2-0,2-0
+?,(Sat) Mar/28 1998 (12),Bordeaux (30),Toulouse (30),3-1,2-0
+?,(Sat) Mar/28 1998 (12),Chateauroux (30),Nantes (30),1-2,0-0
+?,(Sat) Mar/28 1998 (12),Monaco (30),Guingamp (30),1-0,0-0
+?,(Sat) Mar/28 1998 (12),Paris SG (30),Lyon (30),3-0,2-0
+?,(Sat) Mar/28 1998 (12),Rennes (30),Montpellier (30),2-0,0-0
+?,(Sun) Mar/29 1998 (12),Cannes (30),Marseille (30),3-3,2-1
+?,(Sun) Mar/29 1998 (12),Metz (30),Lens (30),0-2,0-2
+?,(Tue) Apr/7 1998 (14),Le Havre (31),Auxerre (31),2-2,1-1
+?,(Tue) Apr/7 1998 (14),Lens (31),Rennes (31),3-0,1-0
+?,(Tue) Apr/7 1998 (14),Lyon (31),Bordeaux (31),1-1,1-0
+?,(Tue) Apr/7 1998 (14),Montpellier (31),Cannes (31),1-0,0-0
+?,(Tue) Apr/7 1998 (14),Nantes (31),Monaco (31),1-1,0-0
+?,(Tue) Apr/7 1998 (14),Strasbourg (31),Bastia (31),1-1,1-0
+?,(Tue) Apr/7 1998 (14),Toulouse (31),Chateauroux (31),1-1,1-1
+?,(Wed) Apr/8 1998 (14),Guingamp (31),Metz (31),0-1,0-1
+?,(Wed) Apr/8 1998 (14),Marseille (31),Paris SG (31),0-0,0-0
+?,(Fri) Apr/17 1998 (15),Cannes (32),Lens (32),0-2,0-0
+?,(Fri) Apr/17 1998 (15),Metz (32),Nantes (32),3-2,1-1
+?,(Sat) Apr/18 1998 (15),Auxerre (32),Marseille (32),2-1,1-1
+?,(Sat) Apr/18 1998 (15),Bastia (32),Montpellier (32),2-1,1-1
+?,(Sat) Apr/18 1998 (15),Chateauroux (32),Lyon (32),2-3,0-1
+?,(Sat) Apr/18 1998 (15),Monaco (32),Toulouse (32),0-1,0-1
+?,(Sat) Apr/18 1998 (15),Paris SG (32),Bordeaux (32),0-1,0-1
+?,(Sat) Apr/18 1998 (15),Rennes (32),Guingamp (32),1-2,1-0
+?,(Sat) Apr/18 1998 (15),Strasbourg (32),Le Havre (32),0-1,0-0
+?,(Sat) Apr/25 1998 (16),Bordeaux (33),Chateauroux (33),1-0,1-0
+?,(Sat) Apr/25 1998 (16),Guingamp (33),Le Havre (33),1-2,1-1
+?,(Sat) Apr/25 1998 (16),Lens (33),Bastia (33),5-1,1-0
+?,(Sat) Apr/25 1998 (16),Lyon (33),Cannes (33),2-0,0-0
+?,(Sat) Apr/25 1998 (16),Marseille (33),Strasbourg (33),0-0,0-0
+?,(Sat) Apr/25 1998 (16),Montpellier (33),Auxerre (33),1-1,1-1
+?,(Sat) Apr/25 1998 (16),Nantes (33),Rennes (33),1-1,1-0
+?,(Sat) Apr/25 1998 (16),Paris SG (33),Monaco (33),1-2,1-1
+?,(Sat) Apr/25 1998 (16),Toulouse (33),Metz (33),0-1,0-0
+?,(Sat) May/9 1998 (18),Auxerre (34),Lens (34),1-1,1-0
+?,(Sat) May/9 1998 (18),Bastia (34),Nantes (34),2-1,2-1
+?,(Sat) May/9 1998 (18),Cannes (34),Guingamp (34),1-3,1-0
+?,(Sat) May/9 1998 (18),Chateauroux (34),Paris SG (34),2-1,1-1
+?,(Sat) May/9 1998 (18),Le Havre (34),Marseille (34),1-1,1-1
+?,(Sat) May/9 1998 (18),Metz (34),Lyon (34),1-0,1-0
+?,(Sat) May/9 1998 (18),Monaco (34),Bordeaux (34),5-2,4-1
+?,(Sat) May/9 1998 (18),Rennes (34),Toulouse (34),1-0,0-0
+?,(Sat) May/9 1998 (18),Strasbourg (34),Montpellier (34),3-0,1-0

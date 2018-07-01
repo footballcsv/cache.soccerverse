@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,1993-07-23,Nantes,Monaco,1-0,?,Fri,29
-?,1993-07-24,Bordeaux,Paris SG,1-0,?,Sat,29
-?,1993-07-24,Caen,Metz,1-1,?,Sat,29
-?,1993-07-24,Lille,Martigues,1-1,?,Sat,29
-?,1993-07-24,Marseille,Lens,1-0,?,Sat,29
-?,1993-07-24,Montpellier,Lyon,1-1,?,Sat,29
-?,1993-07-24,Sochaux,Angers,4-1,?,Sat,29
-?,1993-07-24,St Etienne,Cannes,1-2,?,Sat,29
-?,1993-07-24,Strasbourg,Auxerre,1-1,?,Sat,29
-?,1993-07-24,Toulouse,Le Havre,0-0,?,Sat,29
-?,1993-07-31,Auxerre,Montpellier,3-1,?,Sat,30
-?,1993-07-31,Le Havre,Bordeaux,0-3,?,Sat,30
-?,1993-07-31,Lens,Strasbourg,0-0,?,Sat,30
-?,1993-07-31,Lyon,Caen,2-0,?,Sat,30
-?,1993-07-31,Martigues,Sochaux,1-1,?,Sat,30
-?,1993-07-31,Metz,Angers,2-0,?,Sat,30
-?,1993-07-31,Monaco,Toulouse,3-0,?,Sat,30
-?,1993-07-31,Nantes,St Etienne,1-0,?,Sat,30
-?,1993-07-31,Paris SG,Lille,2-1,?,Sat,30
-?,1993-08-01,Cannes,Marseille,2-1,?,Sun,30
-?,1993-08-06,Lille,Lens,0-0,?,Fri,31
-?,1993-08-07,Angers,Lyon,3-1,?,Sat,31
-?,1993-08-07,Bordeaux,Cannes,0-0,?,Sat,31
-?,1993-08-07,Caen,Auxerre,1-0,?,Sat,31
-?,1993-08-07,Marseille,Le Havre,1-1,?,Sat,31
-?,1993-08-07,Montpellier,Martigues,1-0,?,Sat,31
-?,1993-08-07,Sochaux,Metz,2-1,?,Sat,31
-?,1993-08-07,St Etienne,Monaco,2-0,?,Sat,31
-?,1993-08-07,Strasbourg,Paris SG,2-2,?,Sat,31
-?,1993-08-07,Toulouse,Nantes,0-3,?,Sat,31
-?,1993-08-10,Monaco,Bordeaux,3-2,?,Tue,32
-?,1993-08-11,Auxerre,Angers,0-0,?,Wed,32
-?,1993-08-11,Cannes,Lille,2-1,?,Wed,32
-?,1993-08-11,Le Havre,St Etienne,0-0,?,Wed,32
-?,1993-08-11,Lens,Montpellier,2-1,?,Wed,32
-?,1993-08-11,Lyon,Metz,2-0,?,Wed,32
-?,1993-08-11,Martigues,Caen,4-1,?,Wed,32
-?,1993-08-11,Nantes,Marseille,0-0,?,Wed,32
-?,1993-08-11,Paris SG,Sochaux,1-0,?,Wed,32
-?,1993-08-11,Toulouse,Strasbourg,0-0,?,Wed,32
-?,1993-08-14,Angers,Martigues,1-3,?,Sat,32
-?,1993-08-14,Bordeaux,Nantes,2-0,?,Sat,32
-?,1993-08-14,Caen,Lens,1-0,?,Sat,32
-?,1993-08-14,Lille,Le Havre,2-2,?,Sat,32
-?,1993-08-14,Metz,Auxerre,0-0,?,Sat,32
-?,1993-08-14,Montpellier,Monaco,0-3,?,Sat,32
-?,1993-08-14,Sochaux,Lyon,0-1,?,Sat,32
-?,1993-08-14,St Etienne,Toulouse,2-2,?,Sat,32
-?,1993-08-14,Strasbourg,Cannes,2-2,?,Sat,32
-?,1993-08-15,Marseille,Paris SG,1-0,?,Sun,32
-?,1993-08-27,Monaco,Marseille,0-0,?,Fri,34
-?,1993-08-28,Auxerre,Lyon,3-2,?,Sat,34
-?,1993-08-28,Cannes,Sochaux,1-1,?,Sat,34
-?,1993-08-28,Le Havre,Strasbourg,0-1,?,Sat,34
-?,1993-08-28,Lens,Angers,0-1,?,Sat,34
-?,1993-08-28,Martigues,Metz,1-1,?,Sat,34
-?,1993-08-28,Nantes,Montpellier,0-0,?,Sat,34
-?,1993-08-28,Paris SG,Caen,2-0,?,Sat,34
-?,1993-08-28,St Etienne,Bordeaux,0-0,?,Sat,34
-?,1993-08-28,Toulouse,Lille,1-1,?,Sat,34
-?,1993-08-31,Bordeaux,Toulouse,2-0,?,Tue,35
-?,1993-09-01,Angers,Paris SG,1-1,?,Wed,35
-?,1993-09-01,Caen,Cannes,1-1,?,Wed,35
-?,1993-09-01,Lille,Nantes,0-0,?,Wed,35
-?,1993-09-01,Lyon,Martigues,0-0,?,Wed,35
-?,1993-09-01,Marseille,St Etienne,3-1,?,Wed,35
-?,1993-09-01,Metz,Lens,2-1,?,Wed,35
-?,1993-09-01,Montpellier,Le Havre,2-1,?,Wed,35
-?,1993-09-01,Sochaux,Auxerre,1-0,?,Wed,35
-?,1993-09-01,Strasbourg,Monaco,1-1,?,Wed,35
-?,1993-09-10,Le Havre,Caen,1-2,?,Fri,36
-?,1993-09-11,Bordeaux,Metz,2-0,?,Sat,36
-?,1993-09-11,Cannes,Angers,4-3,?,Sat,36
-?,1993-09-11,Lens,Lyon,2-0,?,Sat,36
-?,1993-09-11,Martigues,Auxerre,0-1,?,Sat,36
-?,1993-09-11,Monaco,Lille,1-0,?,Sat,36
-?,1993-09-11,Nantes,Strasbourg,2-2,?,Sat,36
-?,1993-09-11,Paris SG,Montpellier,1-0,?,Sat,36
-?,1993-09-11,St Etienne,Sochaux,0-0,?,Sat,36
-?,1993-09-11,Toulouse,Marseille,0-0,?,Sat,36
-?,1993-09-18,Auxerre,Lens,1-0,?,Sat,37
-?,1993-09-18,Caen,Toulouse,1-0,?,Sat,37
-?,1993-09-18,Lille,St Etienne,0-2,?,Sat,37
-?,1993-09-18,Lyon,Paris SG,1-3,?,Sat,37
-?,1993-09-18,Marseille,Bordeaux,3-1,?,Sat,37
-?,1993-09-18,Metz,Le Havre,2-0,?,Sat,37
-?,1993-09-18,Montpellier,Cannes,2-1,?,Sat,37
-?,1993-09-18,Sochaux,Monaco,2-0,?,Sat,37
-?,1993-09-18,Strasbourg,Martigues,3-0,?,Sat,37
-?,1993-09-19,Angers,Nantes,0-0,?,Sun,37
-?,1993-09-23,Paris SG,Auxerre,4-0,?,Thu,38
-?,1993-09-24,Bordeaux,Lille,2-1,?,Fri,38
-?,1993-09-24,Cannes,Lyon,1-0,?,Fri,38
-?,1993-09-24,Le Havre,Sochaux,0-0,?,Fri,38
-?,1993-09-24,Lens,Martigues,1-1,?,Fri,38
-?,1993-09-24,Marseille,Metz,0-3,?,Fri,38
-?,1993-09-24,Monaco,Angers,3-0,?,Fri,38
-?,1993-09-24,Nantes,Caen,1-0,?,Fri,38
-?,1993-09-24,St Etienne,Strasbourg,0-0,?,Fri,38
-?,1993-09-24,Toulouse,Montpellier,0-0,?,Fri,38
-?,1993-10-02,Angers,Le Havre,0-0,?,Sat,39
-?,1993-10-02,Auxerre,Toulouse,5-1,?,Sat,39
-?,1993-10-02,Caen,Monaco,0-1,?,Sat,39
-?,1993-10-02,Lille,Marseille,1-2,?,Sat,39
-?,1993-10-02,Martigues,Paris SG,1-1,?,Sat,39
-?,1993-10-02,Metz,Cannes,0-0,?,Sat,39
-?,1993-10-02,Montpellier,St Etienne,3-0,?,Sat,39
-?,1993-10-02,Sochaux,Lens,1-1,?,Sat,39
-?,1993-10-02,Strasbourg,Bordeaux,0-2,?,Sat,39
-?,1993-10-03,Lyon,Nantes,2-1,?,Sun,39
-?,1993-10-05,Bordeaux,Montpellier,1-1,?,Tue,40
-?,1993-10-06,Cannes,Martigues,2-1,?,Wed,40
-?,1993-10-06,Le Havre,Auxerre,1-0,?,Wed,40
-?,1993-10-06,Lille,Sochaux,3-1,?,Wed,40
-?,1993-10-06,Marseille,Strasbourg,2-1,?,Wed,40
-?,1993-10-06,Monaco,Lyon,1-1,?,Wed,40
-?,1993-10-06,Nantes,Metz,2-0,?,Wed,40
-?,1993-10-06,Paris SG,Lens,1-0,?,Wed,40
-?,1993-10-06,St Etienne,Caen,5-0,?,Wed,40
-?,1993-10-06,Toulouse,Angers,2-1,?,Wed,40
-?,1993-10-16,Angers,St Etienne,1-1,?,Sat,41
-?,1993-10-16,Auxerre,Monaco,4-0,?,Sat,41
-?,1993-10-16,Caen,Bordeaux,1-0,?,Sat,41
-?,1993-10-16,Lens,Cannes,2-1,?,Sat,41
-?,1993-10-16,Lyon,Le Havre,1-1,?,Sat,41
-?,1993-10-16,Martigues,Toulouse,1-1,?,Sat,41
-?,1993-10-16,Metz,Paris SG,0-1,?,Sat,41
-?,1993-10-16,Strasbourg,Lille,1-1,?,Sat,41
-?,1993-10-17,Sochaux,Nantes,1-1,?,Sun,41
-?,1993-10-22,Strasbourg,Caen,3-0,?,Fri,42
-?,1993-10-23,Bordeaux,Angers,1-0,?,Sat,42
-?,1993-10-23,Cannes,Paris SG,0-1,?,Sat,42
-?,1993-10-23,Le Havre,Lens,1-1,?,Sat,42
-?,1993-10-23,Lille,Montpellier,0-0,?,Sat,42
-?,1993-10-23,Marseille,Sochaux,1-1,?,Sat,42
-?,1993-10-23,Monaco,Martigues,7-0,?,Sat,42
-?,1993-10-23,Nantes,Auxerre,1-2,?,Sat,42
-?,1993-10-23,St Etienne,Metz,1-0,?,Sat,42
-?,1993-10-23,Toulouse,Lyon,2-0,?,Sat,42
-?,1993-10-28,Auxerre,Cannes,0-0,?,Thu,43
-?,1993-10-29,Angers,Marseille,0-1,?,Fri,43
-?,1993-10-29,Caen,Lille,2-3,?,Fri,43
-?,1993-10-29,Lens,Monaco,3-3,?,Fri,43
-?,1993-10-29,Lyon,St Etienne,1-0,?,Fri,43
-?,1993-10-29,Martigues,Le Havre,3-0,?,Fri,43
-?,1993-10-29,Metz,Toulouse,1-0,?,Fri,43
-?,1993-10-29,Montpellier,Strasbourg,4-0,?,Fri,43
-?,1993-10-29,Paris SG,Nantes,1-0,?,Fri,43
-?,1993-10-29,Sochaux,Bordeaux,2-2,?,Fri,43
-?,1993-11-06,Bordeaux,Lyon,2-0,?,Sat,44
-?,1993-11-06,Le Havre,Cannes,3-1,?,Sat,44
-?,1993-11-06,Lille,Angers,1-1,?,Sat,44
-?,1993-11-06,Marseille,Caen,2-0,?,Sat,44
-?,1993-11-06,Monaco,Paris SG,1-1,?,Sat,44
-?,1993-11-06,Nantes,Martigues,2-1,?,Sat,44
-?,1993-11-06,St Etienne,Auxerre,1-0,?,Sat,44
-?,1993-11-06,Strasbourg,Sochaux,2-0,?,Sat,44
-?,1993-11-07,Montpellier,Metz,3-2,?,Sun,44
-?,1993-11-07,Toulouse,Lens,1-1,?,Sun,44
-?,1993-11-10,Angers,Strasbourg,1-3,?,Wed,45
-?,1993-11-10,Auxerre,Bordeaux,0-1,?,Wed,45
-?,1993-11-10,Caen,Montpellier,0-0,?,Wed,45
-?,1993-11-10,Cannes,Monaco,0-2,?,Wed,45
-?,1993-11-10,Lens,Nantes,1-1,?,Wed,45
-?,1993-11-10,Lyon,Marseille,1-0,?,Wed,45
-?,1993-11-10,Martigues,St Etienne,2-1,?,Wed,45
-?,1993-11-10,Metz,Lille,1-1,?,Wed,45
-?,1993-11-10,Paris SG,Le Havre,0-0,?,Wed,45
-?,1993-11-10,Sochaux,Toulouse,0-0,?,Wed,45
-?,1993-11-21,Bordeaux,Martigues,1-1,?,Sun,46
-?,1993-11-21,Caen,Sochaux,2-1,?,Sun,46
-?,1993-11-21,Lille,Lyon,2-1,?,Sun,46
-?,1993-11-21,Marseille,Auxerre,0-3,?,Sun,46
-?,1993-11-21,Monaco,Le Havre,1-1,?,Sun,46
-?,1993-11-21,Montpellier,Angers,2-1,?,Sun,46
-?,1993-11-21,Nantes,Cannes,0-0,?,Sun,46
-?,1993-11-21,St Etienne,Lens,0-0,?,Sun,46
-?,1993-11-21,Strasbourg,Metz,0-0,?,Sun,46
-?,1993-11-21,Toulouse,Paris SG,1-2,?,Sun,46
-?,1993-11-27,Angers,Caen,2-0,?,Sat,47
-?,1993-11-27,Auxerre,Lille,5-0,?,Sat,47
-?,1993-11-27,Cannes,Toulouse,2-1,?,Sat,47
-?,1993-11-27,Le Havre,Nantes,0-0,?,Sat,47
-?,1993-11-27,Lens,Bordeaux,1-0,?,Sat,47
-?,1993-11-27,Lyon,Strasbourg,2-1,?,Sat,47
-?,1993-11-27,Martigues,Marseille,0-3,?,Sat,47
-?,1993-11-27,Metz,Monaco,1-1,?,Sat,47
-?,1993-11-27,Paris SG,St Etienne,1-0,?,Sat,47
-?,1993-11-27,Sochaux,Montpellier,2-1,?,Sat,47
-?,1993-12-02,St Etienne,Nantes,1-1,?,Thu,48
-?,1993-12-03,Angers,Metz,1-2,?,Fri,48
-?,1993-12-03,Bordeaux,Le Havre,2-1,?,Fri,48
-?,1993-12-03,Caen,Lyon,1-0,?,Fri,48
-?,1993-12-03,Lille,Paris SG,0-2,?,Fri,48
-?,1993-12-03,Marseille,Cannes,3-1,?,Fri,48
-?,1993-12-03,Montpellier,Auxerre,1-0,?,Fri,48
-?,1993-12-03,Sochaux,Martigues,1-0,?,Fri,48
-?,1993-12-03,Strasbourg,Lens,2-0,?,Fri,48
-?,1993-12-03,Toulouse,Monaco,2-1,?,Fri,48
-?,1993-12-10,Lens,Lille,1-1,?,Fri,49
-?,1993-12-11,Auxerre,Caen,1-0,?,Sat,49
-?,1993-12-11,Cannes,Bordeaux,2-1,?,Sat,49
-?,1993-12-11,Le Havre,Marseille,1-3,?,Sat,49
-?,1993-12-11,Lyon,Angers,1-1,?,Sat,49
-?,1993-12-11,Martigues,Montpellier,1-1,?,Sat,49
-?,1993-12-11,Metz,Sochaux,1-1,?,Sat,49
-?,1993-12-11,Monaco,St Etienne,1-1,?,Sat,49
-?,1993-12-11,Nantes,Toulouse,4-0,?,Sat,49
-?,1993-12-11,Paris SG,Strasbourg,2-0,?,Sat,49
-?,1993-12-16,Montpellier,Marseille,0-2,?,Thu,50
-?,1993-12-18,Angers,Auxerre,2-2,?,Sat,50
-?,1993-12-18,Caen,Martigues,4-1,?,Sat,50
-?,1993-12-18,Lille,Cannes,1-0,?,Sat,50
-?,1993-12-18,Marseille,Nantes,3-1,?,Sat,50
-?,1993-12-18,Metz,Lyon,0-1,?,Sat,50
-?,1993-12-18,Montpellier,Lens,0-0,?,Sat,50
-?,1993-12-18,Sochaux,Paris SG,1-2,?,Sat,50
-?,1993-12-18,St Etienne,Le Havre,0-0,?,Sat,50
-?,1993-12-18,Strasbourg,Toulouse,1-0,?,Sat,50
-?,1993-12-19,Bordeaux,Monaco,1-0,?,Sun,50
-?,1994-01-14,Paris SG,Marseille,1-1,?,Fri,2
-?,1994-01-15,Auxerre,Metz,2-0,?,Sat,2
-?,1994-01-15,Cannes,Strasbourg,1-1,?,Sat,2
-?,1994-01-15,Le Havre,Lille,1-0,?,Sat,2
-?,1994-01-15,Lens,Caen,2-0,?,Sat,2
-?,1994-01-15,Lyon,Sochaux,1-0,?,Sat,2
-?,1994-01-15,Martigues,Angers,0-0,?,Sat,2
-?,1994-01-15,Monaco,Montpellier,1-2,?,Sat,2
-?,1994-01-15,Nantes,Bordeaux,4-1,?,Sat,2
-?,1994-01-15,Toulouse,St Etienne,1-2,?,Sat,2
-?,1994-01-28,Marseille,Monaco,2-1,?,Fri,4
-?,1994-01-29,Angers,Lens,1-2,?,Sat,4
-?,1994-01-29,Bordeaux,St Etienne,1-2,?,Sat,4
-?,1994-01-29,Caen,Paris SG,0-2,?,Sat,4
-?,1994-01-29,Lille,Toulouse,3-0,?,Sat,4
-?,1994-01-29,Lyon,Auxerre,1-0,?,Sat,4
-?,1994-01-29,Metz,Martigues,0-0,?,Sat,4
-?,1994-01-29,Montpellier,Nantes,1-0,?,Sat,4
-?,1994-01-29,Sochaux,Cannes,1-1,?,Sat,4
-?,1994-01-29,Strasbourg,Le Havre,0-3,?,Sat,4
-?,1994-02-04,Toulouse,Bordeaux,0-0,?,Fri,5
-?,1994-02-05,Auxerre,Sochaux,1-0,?,Sat,5
-?,1994-02-05,Cannes,Caen,3-0,?,Sat,5
-?,1994-02-05,Le Havre,Montpellier,0-0,?,Sat,5
-?,1994-02-05,Lens,Metz,2-0,?,Sat,5
-?,1994-02-05,Martigues,Lyon,0-1,?,Sat,5
-?,1994-02-05,Nantes,Lille,2-0,?,Sat,5
-?,1994-02-05,Paris SG,Angers,3-0,?,Sat,5
-?,1994-02-05,St Etienne,Marseille,0-0,?,Sat,5
-?,1994-02-06,Monaco,Strasbourg,2-1,?,Sun,5
-?,1994-02-08,Caen,Le Havre,1-1,?,Tue,6
-?,1994-02-09,Angers,Cannes,1-1,?,Wed,6
-?,1994-02-09,Auxerre,Martigues,3-0,?,Wed,6
-?,1994-02-09,Lille,Monaco,1-1,?,Wed,6
-?,1994-02-09,Lyon,Lens,1-2,?,Wed,6
-?,1994-02-09,Marseille,Toulouse,5-1,?,Wed,6
-?,1994-02-09,Metz,Bordeaux,1-0,?,Wed,6
-?,1994-02-09,Montpellier,Paris SG,0-0,?,Wed,6
-?,1994-02-09,Sochaux,St Etienne,3-2,?,Wed,6
-?,1994-02-09,Strasbourg,Nantes,0-3,?,Wed,6
-?,1994-02-19,Cannes,Montpellier,2-0,?,Sat,7
-?,1994-02-19,Le Havre,Metz,0-1,?,Sat,7
-?,1994-02-19,Lens,Auxerre,1-1,?,Sat,7
-?,1994-02-19,Martigues,Strasbourg,0-3,?,Sat,7
-?,1994-02-19,Monaco,Sochaux,2-0,?,Sat,7
-?,1994-02-19,Nantes,Angers,2-1,?,Sat,7
-?,1994-02-19,Paris SG,Lyon,0-0,?,Sat,7
-?,1994-02-19,St Etienne,Lille,2-1,?,Sat,7
-?,1994-02-19,Toulouse,Caen,0-1,?,Sat,7
-?,1994-02-20,Bordeaux,Marseille,1-0,?,Sun,7
-?,1994-02-24,Auxerre,Paris SG,0-0,?,Thu,8
-?,1994-02-25,Angers,Monaco,1-1,?,Fri,8
-?,1994-02-25,Caen,Nantes,0-0,?,Fri,8
-?,1994-02-25,Lille,Bordeaux,1-1,?,Fri,8
-?,1994-02-25,Lyon,Cannes,2-2,?,Fri,8
-?,1994-02-25,Martigues,Lens,1-2,?,Fri,8
-?,1994-02-25,Metz,Marseille,0-0,?,Fri,8
-?,1994-02-25,Montpellier,Toulouse,3-1,?,Fri,8
-?,1994-02-25,Sochaux,Le Havre,4-2,?,Fri,8
-?,1994-02-25,Strasbourg,St Etienne,2-0,?,Fri,8
-?,1994-03-05,Bordeaux,Strasbourg,2-0,?,Sat,9
-?,1994-03-05,Cannes,Metz,2-0,?,Sat,9
-?,1994-03-05,Le Havre,Angers,2-1,?,Sat,9
-?,1994-03-05,Lens,Sochaux,2-0,?,Sat,9
-?,1994-03-05,Marseille,Lille,3-2,?,Sat,9
-?,1994-03-05,Monaco,Caen,3-0,?,Sat,9
-?,1994-03-05,Nantes,Lyon,1-0,?,Sat,9
-?,1994-03-05,St Etienne,Montpellier,2-0,?,Sat,9
-?,1994-03-05,Toulouse,Auxerre,0-0,?,Sat,9
-?,1994-03-06,Paris SG,Martigues,2-2,?,Sun,9
-?,1994-03-11,Angers,Toulouse,0-0,?,Fri,10
-?,1994-03-11,Auxerre,Le Havre,3-0,?,Fri,10
-?,1994-03-11,Caen,St Etienne,1-0,?,Fri,10
-?,1994-03-11,Lens,Paris SG,1-2,?,Fri,10
-?,1994-03-11,Lyon,Monaco,1-0,?,Fri,10
-?,1994-03-11,Martigues,Cannes,4-0,?,Fri,10
-?,1994-03-11,Montpellier,Bordeaux,1-0,?,Fri,10
-?,1994-03-11,Sochaux,Lille,1-0,?,Fri,10
-?,1994-03-11,Strasbourg,Marseille,1-1,?,Fri,10
-?,1994-03-13,Metz,Nantes,2-0,?,Sun,10
-?,1994-03-25,Monaco,Auxerre,0-1,?,Fri,12
-?,1994-03-25,Paris SG,Metz,1-0,?,Fri,12
-?,1994-03-26,Bordeaux,Caen,3-0,?,Sat,12
-?,1994-03-26,Cannes,Lens,3-1,?,Sat,12
-?,1994-03-26,Le Havre,Lyon,0-1,?,Sat,12
-?,1994-03-26,Lille,Strasbourg,1-1,?,Sat,12
-?,1994-03-26,Marseille,Montpellier,1-1,?,Sat,12
-?,1994-03-26,Nantes,Sochaux,2-0,?,Sat,12
-?,1994-03-26,St Etienne,Angers,2-0,?,Sat,12
-?,1994-03-26,Toulouse,Martigues,2-2,?,Sat,12
-?,1994-04-01,Auxerre,Nantes,3-1,?,Fri,13
-?,1994-04-02,Angers,Bordeaux,1-3,?,Sat,13
-?,1994-04-02,Caen,Strasbourg,3-1,?,Sat,13
-?,1994-04-02,Lens,Le Havre,5-1,?,Sat,13
-?,1994-04-02,Lyon,Toulouse,1-0,?,Sat,13
-?,1994-04-02,Martigues,Monaco,1-3,?,Sat,13
-?,1994-04-02,Metz,St Etienne,0-1,?,Sat,13
-?,1994-04-02,Montpellier,Lille,1-3,?,Sat,13
-?,1994-04-02,Paris SG,Cannes,2-1,?,Sat,13
-?,1994-04-02,Sochaux,Marseille,1-1,?,Sat,13
-?,1994-04-05,Bordeaux,Sochaux,4-1,?,Tue,14
-?,1994-04-05,Cannes,Auxerre,2-1,?,Tue,14
-?,1994-04-05,Le Havre,Martigues,2-0,?,Tue,14
-?,1994-04-05,Lille,Caen,3-1,?,Tue,14
-?,1994-04-05,Marseille,Angers,2-1,?,Tue,14
-?,1994-04-05,Monaco,Lens,0-0,?,Tue,14
-?,1994-04-05,Nantes,Paris SG,3-0,?,Tue,14
-?,1994-04-05,Strasbourg,Montpellier,0-1,?,Tue,14
-?,1994-04-05,Toulouse,Metz,2-2,?,Tue,14
-?,1994-04-06,St Etienne,Lyon,3-0,?,Wed,14
-?,1994-04-12,Angers,Lille,1-2,?,Tue,15
-?,1994-04-12,Auxerre,St Etienne,3-0,?,Tue,15
-?,1994-04-12,Caen,Marseille,1-0,?,Tue,15
-?,1994-04-12,Cannes,Le Havre,1-0,?,Tue,15
-?,1994-04-12,Lens,Toulouse,4-0,?,Tue,15
-?,1994-04-12,Lyon,Bordeaux,4-2,?,Tue,15
-?,1994-04-12,Martigues,Nantes,1-2,?,Tue,15
-?,1994-04-12,Metz,Montpellier,1-1,?,Tue,15
-?,1994-04-12,Paris SG,Monaco,1-1,?,Tue,15
-?,1994-04-12,Sochaux,Strasbourg,1-3,?,Tue,15
-?,1994-04-22,Monaco,Cannes,2-0,?,Fri,16
-?,1994-04-26,Bordeaux,Auxerre,2-0,?,Tue,17
-?,1994-04-26,Le Havre,Paris SG,0-2,?,Tue,17
-?,1994-04-26,Lille,Metz,0-4,?,Tue,17
-?,1994-04-26,Marseille,Lyon,3-0,?,Tue,17
-?,1994-04-26,Montpellier,Caen,0-0,?,Tue,17
-?,1994-04-26,Nantes,Lens,2-1,?,Tue,17
-?,1994-04-26,St Etienne,Martigues,1-1,?,Tue,17
-?,1994-04-26,Strasbourg,Angers,2-2,?,Tue,17
-?,1994-04-26,Toulouse,Sochaux,3-2,?,Tue,17
-?,1994-04-29,Cannes,Nantes,4-0,?,Fri,17
-?,1994-04-30,Angers,Montpellier,2-3,?,Sat,17
-?,1994-04-30,Auxerre,Marseille,2-2,?,Sat,17
-?,1994-04-30,Le Havre,Monaco,1-0,?,Sat,17
-?,1994-04-30,Lens,St Etienne,3-1,?,Sat,17
-?,1994-04-30,Lyon,Lille,0-0,?,Sat,17
-?,1994-04-30,Martigues,Bordeaux,0-0,?,Sat,17
-?,1994-04-30,Metz,Strasbourg,2-1,?,Sat,17
-?,1994-04-30,Paris SG,Toulouse,1-0,?,Sat,17
-?,1994-04-30,Sochaux,Caen,0-0,?,Sat,17
-?,1994-05-07,Bordeaux,Lens,4-2,?,Sat,18
-?,1994-05-07,Caen,Angers,2-3,?,Sat,18
-?,1994-05-07,Lille,Auxerre,1-1,?,Sat,18
-?,1994-05-07,Marseille,Martigues,0-0,?,Sat,18
-?,1994-05-07,Monaco,Metz,1-1,?,Sat,18
-?,1994-05-07,Montpellier,Sochaux,1-0,?,Sat,18
-?,1994-05-07,Nantes,Le Havre,3-1,?,Sat,18
-?,1994-05-07,St Etienne,Paris SG,1-2,?,Sat,18
-?,1994-05-07,Strasbourg,Lyon,0-1,?,Sat,18
-?,1994-05-07,Toulouse,Cannes,1-2,?,Sat,18
-?,1994-05-21,Angers,Sochaux,1-2,?,Sat,20
-?,1994-05-21,Auxerre,Strasbourg,2-1,?,Sat,20
-?,1994-05-21,Cannes,St Etienne,0-0,?,Sat,20
-?,1994-05-21,Le Havre,Toulouse,1-1,?,Sat,20
-?,1994-05-21,Lens,Marseille,2-3,?,Sat,20
-?,1994-05-21,Lyon,Montpellier,3-2,?,Sat,20
-?,1994-05-21,Martigues,Lille,2-2,?,Sat,20
-?,1994-05-21,Metz,Caen,2-1,?,Sat,20
-?,1994-05-21,Monaco,Nantes,1-0,?,Sat,20
-?,1994-05-21,Paris SG,Bordeaux,4-1,?,Sat,20
+Round,Date,Team 1,Team 2,FT,HT
+?,(Fri) Jul/23 1993 (29),Nantes (1),Monaco (1),1-0,?
+?,(Sat) Jul/24 1993 (29),Bordeaux (1),Paris SG (1),1-0,?
+?,(Sat) Jul/24 1993 (29),Caen (1),Metz (1),1-1,?
+?,(Sat) Jul/24 1993 (29),Lille (1),Martigues (1),1-1,?
+?,(Sat) Jul/24 1993 (29),Marseille (1),Lens (1),1-0,?
+?,(Sat) Jul/24 1993 (29),Montpellier (1),Lyon (1),1-1,?
+?,(Sat) Jul/24 1993 (29),Sochaux (1),Angers (1),4-1,?
+?,(Sat) Jul/24 1993 (29),St Etienne (1),Cannes (1),1-2,?
+?,(Sat) Jul/24 1993 (29),Strasbourg (1),Auxerre (1),1-1,?
+?,(Sat) Jul/24 1993 (29),Toulouse (1),Le Havre (1),0-0,?
+?,(Sat) Jul/31 1993 (30),Auxerre (2),Montpellier (2),3-1,?
+?,(Sat) Jul/31 1993 (30),Le Havre (2),Bordeaux (2),0-3,?
+?,(Sat) Jul/31 1993 (30),Lens (2),Strasbourg (2),0-0,?
+?,(Sat) Jul/31 1993 (30),Lyon (2),Caen (2),2-0,?
+?,(Sat) Jul/31 1993 (30),Martigues (2),Sochaux (2),1-1,?
+?,(Sat) Jul/31 1993 (30),Metz (2),Angers (2),2-0,?
+?,(Sat) Jul/31 1993 (30),Monaco (2),Toulouse (2),3-0,?
+?,(Sat) Jul/31 1993 (30),Nantes (2),St Etienne (2),1-0,?
+?,(Sat) Jul/31 1993 (30),Paris SG (2),Lille (2),2-1,?
+?,(Sun) Aug/1 1993 (30),Cannes (2),Marseille (2),2-1,?
+?,(Fri) Aug/6 1993 (31),Lille (3),Lens (3),0-0,?
+?,(Sat) Aug/7 1993 (31),Angers (3),Lyon (3),3-1,?
+?,(Sat) Aug/7 1993 (31),Bordeaux (3),Cannes (3),0-0,?
+?,(Sat) Aug/7 1993 (31),Caen (3),Auxerre (3),1-0,?
+?,(Sat) Aug/7 1993 (31),Marseille (3),Le Havre (3),1-1,?
+?,(Sat) Aug/7 1993 (31),Montpellier (3),Martigues (3),1-0,?
+?,(Sat) Aug/7 1993 (31),Sochaux (3),Metz (3),2-1,?
+?,(Sat) Aug/7 1993 (31),St Etienne (3),Monaco (3),2-0,?
+?,(Sat) Aug/7 1993 (31),Strasbourg (3),Paris SG (3),2-2,?
+?,(Sat) Aug/7 1993 (31),Toulouse (3),Nantes (3),0-3,?
+?,(Tue) Aug/10 1993 (32),Monaco (4),Bordeaux (4),3-2,?
+?,(Wed) Aug/11 1993 (32),Auxerre (4),Angers (4),0-0,?
+?,(Wed) Aug/11 1993 (32),Cannes (4),Lille (4),2-1,?
+?,(Wed) Aug/11 1993 (32),Le Havre (4),St Etienne (4),0-0,?
+?,(Wed) Aug/11 1993 (32),Lens (4),Montpellier (4),2-1,?
+?,(Wed) Aug/11 1993 (32),Lyon (4),Metz (4),2-0,?
+?,(Wed) Aug/11 1993 (32),Martigues (4),Caen (4),4-1,?
+?,(Wed) Aug/11 1993 (32),Nantes (4),Marseille (4),0-0,?
+?,(Wed) Aug/11 1993 (32),Paris SG (4),Sochaux (4),1-0,?
+?,(Wed) Aug/11 1993 (32),Toulouse (4),Strasbourg (4),0-0,?
+?,(Sat) Aug/14 1993 (32),Angers (5),Martigues (5),1-3,?
+?,(Sat) Aug/14 1993 (32),Bordeaux (5),Nantes (5),2-0,?
+?,(Sat) Aug/14 1993 (32),Caen (5),Lens (5),1-0,?
+?,(Sat) Aug/14 1993 (32),Lille (5),Le Havre (5),2-2,?
+?,(Sat) Aug/14 1993 (32),Metz (5),Auxerre (5),0-0,?
+?,(Sat) Aug/14 1993 (32),Montpellier (5),Monaco (5),0-3,?
+?,(Sat) Aug/14 1993 (32),Sochaux (5),Lyon (5),0-1,?
+?,(Sat) Aug/14 1993 (32),St Etienne (5),Toulouse (5),2-2,?
+?,(Sat) Aug/14 1993 (32),Strasbourg (5),Cannes (5),2-2,?
+?,(Sun) Aug/15 1993 (32),Marseille (5),Paris SG (5),1-0,?
+?,(Fri) Aug/27 1993 (34),Monaco (6),Marseille (6),0-0,?
+?,(Sat) Aug/28 1993 (34),Auxerre (6),Lyon (6),3-2,?
+?,(Sat) Aug/28 1993 (34),Cannes (6),Sochaux (6),1-1,?
+?,(Sat) Aug/28 1993 (34),Le Havre (6),Strasbourg (6),0-1,?
+?,(Sat) Aug/28 1993 (34),Lens (6),Angers (6),0-1,?
+?,(Sat) Aug/28 1993 (34),Martigues (6),Metz (6),1-1,?
+?,(Sat) Aug/28 1993 (34),Nantes (6),Montpellier (6),0-0,?
+?,(Sat) Aug/28 1993 (34),Paris SG (6),Caen (6),2-0,?
+?,(Sat) Aug/28 1993 (34),St Etienne (6),Bordeaux (6),0-0,?
+?,(Sat) Aug/28 1993 (34),Toulouse (6),Lille (6),1-1,?
+?,(Tue) Aug/31 1993 (35),Bordeaux (7),Toulouse (7),2-0,?
+?,(Wed) Sep/1 1993 (35),Angers (7),Paris SG (7),1-1,?
+?,(Wed) Sep/1 1993 (35),Caen (7),Cannes (7),1-1,?
+?,(Wed) Sep/1 1993 (35),Lille (7),Nantes (7),0-0,?
+?,(Wed) Sep/1 1993 (35),Lyon (7),Martigues (7),0-0,?
+?,(Wed) Sep/1 1993 (35),Marseille (7),St Etienne (7),3-1,?
+?,(Wed) Sep/1 1993 (35),Metz (7),Lens (7),2-1,?
+?,(Wed) Sep/1 1993 (35),Montpellier (7),Le Havre (7),2-1,?
+?,(Wed) Sep/1 1993 (35),Sochaux (7),Auxerre (7),1-0,?
+?,(Wed) Sep/1 1993 (35),Strasbourg (7),Monaco (7),1-1,?
+?,(Fri) Sep/10 1993 (36),Le Havre (8),Caen (8),1-2,?
+?,(Sat) Sep/11 1993 (36),Bordeaux (8),Metz (8),2-0,?
+?,(Sat) Sep/11 1993 (36),Cannes (8),Angers (8),4-3,?
+?,(Sat) Sep/11 1993 (36),Lens (8),Lyon (8),2-0,?
+?,(Sat) Sep/11 1993 (36),Martigues (8),Auxerre (8),0-1,?
+?,(Sat) Sep/11 1993 (36),Monaco (8),Lille (8),1-0,?
+?,(Sat) Sep/11 1993 (36),Nantes (8),Strasbourg (8),2-2,?
+?,(Sat) Sep/11 1993 (36),Paris SG (8),Montpellier (8),1-0,?
+?,(Sat) Sep/11 1993 (36),St Etienne (8),Sochaux (8),0-0,?
+?,(Sat) Sep/11 1993 (36),Toulouse (8),Marseille (8),0-0,?
+?,(Sat) Sep/18 1993 (37),Auxerre (9),Lens (9),1-0,?
+?,(Sat) Sep/18 1993 (37),Caen (9),Toulouse (9),1-0,?
+?,(Sat) Sep/18 1993 (37),Lille (9),St Etienne (9),0-2,?
+?,(Sat) Sep/18 1993 (37),Lyon (9),Paris SG (9),1-3,?
+?,(Sat) Sep/18 1993 (37),Marseille (9),Bordeaux (9),3-1,?
+?,(Sat) Sep/18 1993 (37),Metz (9),Le Havre (9),2-0,?
+?,(Sat) Sep/18 1993 (37),Montpellier (9),Cannes (9),2-1,?
+?,(Sat) Sep/18 1993 (37),Sochaux (9),Monaco (9),2-0,?
+?,(Sat) Sep/18 1993 (37),Strasbourg (9),Martigues (9),3-0,?
+?,(Sun) Sep/19 1993 (37),Angers (9),Nantes (9),0-0,?
+?,(Thu) Sep/23 1993 (38),Paris SG (10),Auxerre (10),4-0,?
+?,(Fri) Sep/24 1993 (38),Bordeaux (10),Lille (10),2-1,?
+?,(Fri) Sep/24 1993 (38),Cannes (10),Lyon (10),1-0,?
+?,(Fri) Sep/24 1993 (38),Le Havre (10),Sochaux (10),0-0,?
+?,(Fri) Sep/24 1993 (38),Lens (10),Martigues (10),1-1,?
+?,(Fri) Sep/24 1993 (38),Marseille (10),Metz (10),0-3,?
+?,(Fri) Sep/24 1993 (38),Monaco (10),Angers (10),3-0,?
+?,(Fri) Sep/24 1993 (38),Nantes (10),Caen (10),1-0,?
+?,(Fri) Sep/24 1993 (38),St Etienne (10),Strasbourg (10),0-0,?
+?,(Fri) Sep/24 1993 (38),Toulouse (10),Montpellier (10),0-0,?
+?,(Sat) Oct/2 1993 (39),Angers (11),Le Havre (11),0-0,?
+?,(Sat) Oct/2 1993 (39),Auxerre (11),Toulouse (11),5-1,?
+?,(Sat) Oct/2 1993 (39),Caen (11),Monaco (11),0-1,?
+?,(Sat) Oct/2 1993 (39),Lille (11),Marseille (11),1-2,?
+?,(Sat) Oct/2 1993 (39),Martigues (11),Paris SG (11),1-1,?
+?,(Sat) Oct/2 1993 (39),Metz (11),Cannes (11),0-0,?
+?,(Sat) Oct/2 1993 (39),Montpellier (11),St Etienne (11),3-0,?
+?,(Sat) Oct/2 1993 (39),Sochaux (11),Lens (11),1-1,?
+?,(Sat) Oct/2 1993 (39),Strasbourg (11),Bordeaux (11),0-2,?
+?,(Sun) Oct/3 1993 (39),Lyon (11),Nantes (11),2-1,?
+?,(Tue) Oct/5 1993 (40),Bordeaux (12),Montpellier (12),1-1,?
+?,(Wed) Oct/6 1993 (40),Cannes (12),Martigues (12),2-1,?
+?,(Wed) Oct/6 1993 (40),Le Havre (12),Auxerre (12),1-0,?
+?,(Wed) Oct/6 1993 (40),Lille (12),Sochaux (12),3-1,?
+?,(Wed) Oct/6 1993 (40),Marseille (12),Strasbourg (12),2-1,?
+?,(Wed) Oct/6 1993 (40),Monaco (12),Lyon (12),1-1,?
+?,(Wed) Oct/6 1993 (40),Nantes (12),Metz (12),2-0,?
+?,(Wed) Oct/6 1993 (40),Paris SG (12),Lens (12),1-0,?
+?,(Wed) Oct/6 1993 (40),St Etienne (12),Caen (12),5-0,?
+?,(Wed) Oct/6 1993 (40),Toulouse (12),Angers (12),2-1,?
+?,(Sat) Oct/16 1993 (41),Angers (13),St Etienne (13),1-1,?
+?,(Sat) Oct/16 1993 (41),Auxerre (13),Monaco (13),4-0,?
+?,(Sat) Oct/16 1993 (41),Caen (13),Bordeaux (13),1-0,?
+?,(Sat) Oct/16 1993 (41),Lens (13),Cannes (13),2-1,?
+?,(Sat) Oct/16 1993 (41),Lyon (13),Le Havre (13),1-1,?
+?,(Sat) Oct/16 1993 (41),Martigues (13),Toulouse (13),1-1,?
+?,(Sat) Oct/16 1993 (41),Metz (13),Paris SG (13),0-1,?
+?,(Sat) Oct/16 1993 (41),Strasbourg (13),Lille (13),1-1,?
+?,(Sun) Oct/17 1993 (41),Sochaux (13),Nantes (13),1-1,?
+?,(Fri) Oct/22 1993 (42),Strasbourg (14),Caen (14),3-0,?
+?,(Sat) Oct/23 1993 (42),Bordeaux (14),Angers (14),1-0,?
+?,(Sat) Oct/23 1993 (42),Cannes (14),Paris SG (14),0-1,?
+?,(Sat) Oct/23 1993 (42),Le Havre (14),Lens (14),1-1,?
+?,(Sat) Oct/23 1993 (42),Lille (14),Montpellier (13),0-0,?
+?,(Sat) Oct/23 1993 (42),Marseille (13),Sochaux (14),1-1,?
+?,(Sat) Oct/23 1993 (42),Monaco (14),Martigues (14),7-0,?
+?,(Sat) Oct/23 1993 (42),Nantes (14),Auxerre (14),1-2,?
+?,(Sat) Oct/23 1993 (42),St Etienne (14),Metz (14),1-0,?
+?,(Sat) Oct/23 1993 (42),Toulouse (14),Lyon (14),2-0,?
+?,(Thu) Oct/28 1993 (43),Auxerre (15),Cannes (15),0-0,?
+?,(Fri) Oct/29 1993 (43),Angers (15),Marseille (14),0-1,?
+?,(Fri) Oct/29 1993 (43),Caen (15),Lille (15),2-3,?
+?,(Fri) Oct/29 1993 (43),Lens (15),Monaco (15),3-3,?
+?,(Fri) Oct/29 1993 (43),Lyon (15),St Etienne (15),1-0,?
+?,(Fri) Oct/29 1993 (43),Martigues (15),Le Havre (15),3-0,?
+?,(Fri) Oct/29 1993 (43),Metz (15),Toulouse (15),1-0,?
+?,(Fri) Oct/29 1993 (43),Montpellier (14),Strasbourg (15),4-0,?
+?,(Fri) Oct/29 1993 (43),Paris SG (15),Nantes (15),1-0,?
+?,(Fri) Oct/29 1993 (43),Sochaux (15),Bordeaux (15),2-2,?
+?,(Sat) Nov/6 1993 (44),Bordeaux (16),Lyon (16),2-0,?
+?,(Sat) Nov/6 1993 (44),Le Havre (16),Cannes (16),3-1,?
+?,(Sat) Nov/6 1993 (44),Lille (16),Angers (16),1-1,?
+?,(Sat) Nov/6 1993 (44),Marseille (15),Caen (16),2-0,?
+?,(Sat) Nov/6 1993 (44),Monaco (16),Paris SG (16),1-1,?
+?,(Sat) Nov/6 1993 (44),Nantes (16),Martigues (16),2-1,?
+?,(Sat) Nov/6 1993 (44),St Etienne (16),Auxerre (16),1-0,?
+?,(Sat) Nov/6 1993 (44),Strasbourg (16),Sochaux (16),2-0,?
+?,(Sun) Nov/7 1993 (44),Montpellier (15),Metz (16),3-2,?
+?,(Sun) Nov/7 1993 (44),Toulouse (16),Lens (16),1-1,?
+?,(Wed) Nov/10 1993 (45),Angers (17),Strasbourg (17),1-3,?
+?,(Wed) Nov/10 1993 (45),Auxerre (17),Bordeaux (17),0-1,?
+?,(Wed) Nov/10 1993 (45),Caen (17),Montpellier (16),0-0,?
+?,(Wed) Nov/10 1993 (45),Cannes (17),Monaco (17),0-2,?
+?,(Wed) Nov/10 1993 (45),Lens (17),Nantes (17),1-1,?
+?,(Wed) Nov/10 1993 (45),Lyon (17),Marseille (16),1-0,?
+?,(Wed) Nov/10 1993 (45),Martigues (17),St Etienne (17),2-1,?
+?,(Wed) Nov/10 1993 (45),Metz (17),Lille (17),1-1,?
+?,(Wed) Nov/10 1993 (45),Paris SG (17),Le Havre (17),0-0,?
+?,(Wed) Nov/10 1993 (45),Sochaux (17),Toulouse (17),0-0,?
+?,(Sun) Nov/21 1993 (46),Bordeaux (18),Martigues (18),1-1,?
+?,(Sun) Nov/21 1993 (46),Caen (18),Sochaux (18),2-1,?
+?,(Sun) Nov/21 1993 (46),Lille (18),Lyon (18),2-1,?
+?,(Sun) Nov/21 1993 (46),Marseille (17),Auxerre (18),0-3,?
+?,(Sun) Nov/21 1993 (46),Monaco (18),Le Havre (18),1-1,?
+?,(Sun) Nov/21 1993 (46),Montpellier (17),Angers (18),2-1,?
+?,(Sun) Nov/21 1993 (46),Nantes (18),Cannes (18),0-0,?
+?,(Sun) Nov/21 1993 (46),St Etienne (18),Lens (18),0-0,?
+?,(Sun) Nov/21 1993 (46),Strasbourg (18),Metz (18),0-0,?
+?,(Sun) Nov/21 1993 (46),Toulouse (18),Paris SG (18),1-2,?
+?,(Sat) Nov/27 1993 (47),Angers (19),Caen (19),2-0,?
+?,(Sat) Nov/27 1993 (47),Auxerre (19),Lille (19),5-0,?
+?,(Sat) Nov/27 1993 (47),Cannes (19),Toulouse (19),2-1,?
+?,(Sat) Nov/27 1993 (47),Le Havre (19),Nantes (19),0-0,?
+?,(Sat) Nov/27 1993 (47),Lens (19),Bordeaux (19),1-0,?
+?,(Sat) Nov/27 1993 (47),Lyon (19),Strasbourg (19),2-1,?
+?,(Sat) Nov/27 1993 (47),Martigues (19),Marseille (18),0-3,?
+?,(Sat) Nov/27 1993 (47),Metz (19),Monaco (19),1-1,?
+?,(Sat) Nov/27 1993 (47),Paris SG (19),St Etienne (19),1-0,?
+?,(Sat) Nov/27 1993 (47),Sochaux (19),Montpellier (18),2-1,?
+?,(Thu) Dec/2 1993 (48),St Etienne (20),Nantes (20),1-1,?
+?,(Fri) Dec/3 1993 (48),Angers (20),Metz (20),1-2,?
+?,(Fri) Dec/3 1993 (48),Bordeaux (20),Le Havre (20),2-1,?
+?,(Fri) Dec/3 1993 (48),Caen (20),Lyon (20),1-0,?
+?,(Fri) Dec/3 1993 (48),Lille (20),Paris SG (20),0-2,?
+?,(Fri) Dec/3 1993 (48),Marseille (19),Cannes (20),3-1,?
+?,(Fri) Dec/3 1993 (48),Montpellier (19),Auxerre (20),1-0,?
+?,(Fri) Dec/3 1993 (48),Sochaux (20),Martigues (20),1-0,?
+?,(Fri) Dec/3 1993 (48),Strasbourg (20),Lens (20),2-0,?
+?,(Fri) Dec/3 1993 (48),Toulouse (20),Monaco (20),2-1,?
+?,(Fri) Dec/10 1993 (49),Lens (21),Lille (21),1-1,?
+?,(Sat) Dec/11 1993 (49),Auxerre (21),Caen (21),1-0,?
+?,(Sat) Dec/11 1993 (49),Cannes (21),Bordeaux (21),2-1,?
+?,(Sat) Dec/11 1993 (49),Le Havre (21),Marseille (20),1-3,?
+?,(Sat) Dec/11 1993 (49),Lyon (21),Angers (21),1-1,?
+?,(Sat) Dec/11 1993 (49),Martigues (21),Montpellier (20),1-1,?
+?,(Sat) Dec/11 1993 (49),Metz (21),Sochaux (21),1-1,?
+?,(Sat) Dec/11 1993 (49),Monaco (21),St Etienne (21),1-1,?
+?,(Sat) Dec/11 1993 (49),Nantes (21),Toulouse (21),4-0,?
+?,(Sat) Dec/11 1993 (49),Paris SG (21),Strasbourg (21),2-0,?
+?,(Thu) Dec/16 1993 (50),Montpellier (21),Marseille (21),0-2,?
+?,(Sat) Dec/18 1993 (50),Angers (22),Auxerre (22),2-2,?
+?,(Sat) Dec/18 1993 (50),Caen (22),Martigues (22),4-1,?
+?,(Sat) Dec/18 1993 (50),Lille (22),Cannes (22),1-0,?
+?,(Sat) Dec/18 1993 (50),Marseille (22),Nantes (22),3-1,?
+?,(Sat) Dec/18 1993 (50),Metz (22),Lyon (22),0-1,?
+?,(Sat) Dec/18 1993 (50),Montpellier (22),Lens (22),0-0,?
+?,(Sat) Dec/18 1993 (50),Sochaux (22),Paris SG (22),1-2,?
+?,(Sat) Dec/18 1993 (50),St Etienne (22),Le Havre (22),0-0,?
+?,(Sat) Dec/18 1993 (50),Strasbourg (22),Toulouse (22),1-0,?
+?,(Sun) Dec/19 1993 (50),Bordeaux (22),Monaco (22),1-0,?
+?,(Fri) Jan/14 1994 (2),Paris SG (23),Marseille (23),1-1,?
+?,(Sat) Jan/15 1994 (2),Auxerre (23),Metz (23),2-0,?
+?,(Sat) Jan/15 1994 (2),Cannes (23),Strasbourg (23),1-1,?
+?,(Sat) Jan/15 1994 (2),Le Havre (23),Lille (23),1-0,?
+?,(Sat) Jan/15 1994 (2),Lens (23),Caen (23),2-0,?
+?,(Sat) Jan/15 1994 (2),Lyon (23),Sochaux (23),1-0,?
+?,(Sat) Jan/15 1994 (2),Martigues (23),Angers (23),0-0,?
+?,(Sat) Jan/15 1994 (2),Monaco (23),Montpellier (23),1-2,?
+?,(Sat) Jan/15 1994 (2),Nantes (23),Bordeaux (23),4-1,?
+?,(Sat) Jan/15 1994 (2),Toulouse (23),St Etienne (23),1-2,?
+?,(Fri) Jan/28 1994 (4),Marseille (24),Monaco (24),2-1,?
+?,(Sat) Jan/29 1994 (4),Angers (24),Lens (24),1-2,?
+?,(Sat) Jan/29 1994 (4),Bordeaux (24),St Etienne (24),1-2,?
+?,(Sat) Jan/29 1994 (4),Caen (24),Paris SG (24),0-2,?
+?,(Sat) Jan/29 1994 (4),Lille (24),Toulouse (24),3-0,?
+?,(Sat) Jan/29 1994 (4),Lyon (24),Auxerre (24),1-0,?
+?,(Sat) Jan/29 1994 (4),Metz (24),Martigues (24),0-0,?
+?,(Sat) Jan/29 1994 (4),Montpellier (24),Nantes (24),1-0,?
+?,(Sat) Jan/29 1994 (4),Sochaux (24),Cannes (24),1-1,?
+?,(Sat) Jan/29 1994 (4),Strasbourg (24),Le Havre (24),0-3,?
+?,(Fri) Feb/4 1994 (5),Toulouse (25),Bordeaux (25),0-0,?
+?,(Sat) Feb/5 1994 (5),Auxerre (25),Sochaux (25),1-0,?
+?,(Sat) Feb/5 1994 (5),Cannes (25),Caen (25),3-0,?
+?,(Sat) Feb/5 1994 (5),Le Havre (25),Montpellier (25),0-0,?
+?,(Sat) Feb/5 1994 (5),Lens (25),Metz (25),2-0,?
+?,(Sat) Feb/5 1994 (5),Martigues (25),Lyon (25),0-1,?
+?,(Sat) Feb/5 1994 (5),Nantes (25),Lille (25),2-0,?
+?,(Sat) Feb/5 1994 (5),Paris SG (25),Angers (25),3-0,?
+?,(Sat) Feb/5 1994 (5),St Etienne (25),Marseille (25),0-0,?
+?,(Sun) Feb/6 1994 (5),Monaco (25),Strasbourg (25),2-1,?
+?,(Tue) Feb/8 1994 (6),Caen (26),Le Havre (26),1-1,?
+?,(Wed) Feb/9 1994 (6),Angers (26),Cannes (26),1-1,?
+?,(Wed) Feb/9 1994 (6),Auxerre (26),Martigues (26),3-0,?
+?,(Wed) Feb/9 1994 (6),Lille (26),Monaco (26),1-1,?
+?,(Wed) Feb/9 1994 (6),Lyon (26),Lens (26),1-2,?
+?,(Wed) Feb/9 1994 (6),Marseille (26),Toulouse (26),5-1,?
+?,(Wed) Feb/9 1994 (6),Metz (26),Bordeaux (26),1-0,?
+?,(Wed) Feb/9 1994 (6),Montpellier (26),Paris SG (26),0-0,?
+?,(Wed) Feb/9 1994 (6),Sochaux (26),St Etienne (26),3-2,?
+?,(Wed) Feb/9 1994 (6),Strasbourg (26),Nantes (26),0-3,?
+?,(Sat) Feb/19 1994 (7),Cannes (27),Montpellier (27),2-0,?
+?,(Sat) Feb/19 1994 (7),Le Havre (27),Metz (27),0-1,?
+?,(Sat) Feb/19 1994 (7),Lens (27),Auxerre (27),1-1,?
+?,(Sat) Feb/19 1994 (7),Martigues (27),Strasbourg (27),0-3,?
+?,(Sat) Feb/19 1994 (7),Monaco (27),Sochaux (27),2-0,?
+?,(Sat) Feb/19 1994 (7),Nantes (27),Angers (27),2-1,?
+?,(Sat) Feb/19 1994 (7),Paris SG (27),Lyon (27),0-0,?
+?,(Sat) Feb/19 1994 (7),St Etienne (27),Lille (27),2-1,?
+?,(Sat) Feb/19 1994 (7),Toulouse (27),Caen (27),0-1,?
+?,(Sun) Feb/20 1994 (7),Bordeaux (27),Marseille (27),1-0,?
+?,(Thu) Feb/24 1994 (8),Auxerre (28),Paris SG (28),0-0,?
+?,(Fri) Feb/25 1994 (8),Angers (28),Monaco (28),1-1,?
+?,(Fri) Feb/25 1994 (8),Caen (28),Nantes (28),0-0,?
+?,(Fri) Feb/25 1994 (8),Lille (28),Bordeaux (28),1-1,?
+?,(Fri) Feb/25 1994 (8),Lyon (28),Cannes (28),2-2,?
+?,(Fri) Feb/25 1994 (8),Martigues (28),Lens (28),1-2,?
+?,(Fri) Feb/25 1994 (8),Metz (28),Marseille (28),0-0,?
+?,(Fri) Feb/25 1994 (8),Montpellier (28),Toulouse (28),3-1,?
+?,(Fri) Feb/25 1994 (8),Sochaux (28),Le Havre (28),4-2,?
+?,(Fri) Feb/25 1994 (8),Strasbourg (28),St Etienne (28),2-0,?
+?,(Sat) Mar/5 1994 (9),Bordeaux (29),Strasbourg (29),2-0,?
+?,(Sat) Mar/5 1994 (9),Cannes (29),Metz (29),2-0,?
+?,(Sat) Mar/5 1994 (9),Le Havre (29),Angers (29),2-1,?
+?,(Sat) Mar/5 1994 (9),Lens (29),Sochaux (29),2-0,?
+?,(Sat) Mar/5 1994 (9),Marseille (29),Lille (29),3-2,?
+?,(Sat) Mar/5 1994 (9),Monaco (29),Caen (29),3-0,?
+?,(Sat) Mar/5 1994 (9),Nantes (29),Lyon (29),1-0,?
+?,(Sat) Mar/5 1994 (9),St Etienne (29),Montpellier (29),2-0,?
+?,(Sat) Mar/5 1994 (9),Toulouse (29),Auxerre (29),0-0,?
+?,(Sun) Mar/6 1994 (9),Paris SG (29),Martigues (29),2-2,?
+?,(Fri) Mar/11 1994 (10),Angers (30),Toulouse (30),0-0,?
+?,(Fri) Mar/11 1994 (10),Auxerre (30),Le Havre (30),3-0,?
+?,(Fri) Mar/11 1994 (10),Caen (30),St Etienne (30),1-0,?
+?,(Fri) Mar/11 1994 (10),Lens (30),Paris SG (30),1-2,?
+?,(Fri) Mar/11 1994 (10),Lyon (30),Monaco (30),1-0,?
+?,(Fri) Mar/11 1994 (10),Martigues (30),Cannes (30),4-0,?
+?,(Fri) Mar/11 1994 (10),Montpellier (30),Bordeaux (30),1-0,?
+?,(Fri) Mar/11 1994 (10),Sochaux (30),Lille (30),1-0,?
+?,(Fri) Mar/11 1994 (10),Strasbourg (30),Marseille (30),1-1,?
+?,(Sun) Mar/13 1994 (10),Metz (30),Nantes (30),2-0,?
+?,(Fri) Mar/25 1994 (12),Monaco (31),Auxerre (31),0-1,?
+?,(Fri) Mar/25 1994 (12),Paris SG (31),Metz (31),1-0,?
+?,(Sat) Mar/26 1994 (12),Bordeaux (31),Caen (31),3-0,?
+?,(Sat) Mar/26 1994 (12),Cannes (31),Lens (31),3-1,?
+?,(Sat) Mar/26 1994 (12),Le Havre (31),Lyon (31),0-1,?
+?,(Sat) Mar/26 1994 (12),Lille (31),Strasbourg (31),1-1,?
+?,(Sat) Mar/26 1994 (12),Marseille (31),Montpellier (31),1-1,?
+?,(Sat) Mar/26 1994 (12),Nantes (31),Sochaux (31),2-0,?
+?,(Sat) Mar/26 1994 (12),St Etienne (31),Angers (31),2-0,?
+?,(Sat) Mar/26 1994 (12),Toulouse (31),Martigues (31),2-2,?
+?,(Fri) Apr/1 1994 (13),Auxerre (32),Nantes (32),3-1,?
+?,(Sat) Apr/2 1994 (13),Angers (32),Bordeaux (32),1-3,?
+?,(Sat) Apr/2 1994 (13),Caen (32),Strasbourg (32),3-1,?
+?,(Sat) Apr/2 1994 (13),Lens (32),Le Havre (32),5-1,?
+?,(Sat) Apr/2 1994 (13),Lyon (32),Toulouse (32),1-0,?
+?,(Sat) Apr/2 1994 (13),Martigues (32),Monaco (32),1-3,?
+?,(Sat) Apr/2 1994 (13),Metz (32),St Etienne (32),0-1,?
+?,(Sat) Apr/2 1994 (13),Montpellier (32),Lille (32),1-3,?
+?,(Sat) Apr/2 1994 (13),Paris SG (32),Cannes (32),2-1,?
+?,(Sat) Apr/2 1994 (13),Sochaux (32),Marseille (32),1-1,?
+?,(Tue) Apr/5 1994 (14),Bordeaux (33),Sochaux (33),4-1,?
+?,(Tue) Apr/5 1994 (14),Cannes (33),Auxerre (33),2-1,?
+?,(Tue) Apr/5 1994 (14),Le Havre (33),Martigues (33),2-0,?
+?,(Tue) Apr/5 1994 (14),Lille (33),Caen (33),3-1,?
+?,(Tue) Apr/5 1994 (14),Marseille (33),Angers (33),2-1,?
+?,(Tue) Apr/5 1994 (14),Monaco (33),Lens (33),0-0,?
+?,(Tue) Apr/5 1994 (14),Nantes (33),Paris SG (33),3-0,?
+?,(Tue) Apr/5 1994 (14),Strasbourg (33),Montpellier (33),0-1,?
+?,(Tue) Apr/5 1994 (14),Toulouse (33),Metz (33),2-2,?
+?,(Wed) Apr/6 1994 (14),St Etienne (33),Lyon (33),3-0,?
+?,(Tue) Apr/12 1994 (15),Angers (34),Lille (34),1-2,?
+?,(Tue) Apr/12 1994 (15),Auxerre (34),St Etienne (34),3-0,?
+?,(Tue) Apr/12 1994 (15),Caen (34),Marseille (34),1-0,?
+?,(Tue) Apr/12 1994 (15),Cannes (34),Le Havre (34),1-0,?
+?,(Tue) Apr/12 1994 (15),Lens (34),Toulouse (34),4-0,?
+?,(Tue) Apr/12 1994 (15),Lyon (34),Bordeaux (34),4-2,?
+?,(Tue) Apr/12 1994 (15),Martigues (34),Nantes (34),1-2,?
+?,(Tue) Apr/12 1994 (15),Metz (34),Montpellier (34),1-1,?
+?,(Tue) Apr/12 1994 (15),Paris SG (34),Monaco (34),1-1,?
+?,(Tue) Apr/12 1994 (15),Sochaux (34),Strasbourg (34),1-3,?
+?,(Fri) Apr/22 1994 (16),Monaco (35),Cannes (35),2-0,?
+?,(Tue) Apr/26 1994 (17),Bordeaux (35),Auxerre (35),2-0,?
+?,(Tue) Apr/26 1994 (17),Le Havre (35),Paris SG (35),0-2,?
+?,(Tue) Apr/26 1994 (17),Lille (35),Metz (35),0-4,?
+?,(Tue) Apr/26 1994 (17),Marseille (35),Lyon (35),3-0,?
+?,(Tue) Apr/26 1994 (17),Montpellier (35),Caen (35),0-0,?
+?,(Tue) Apr/26 1994 (17),Nantes (35),Lens (35),2-1,?
+?,(Tue) Apr/26 1994 (17),St Etienne (35),Martigues (35),1-1,?
+?,(Tue) Apr/26 1994 (17),Strasbourg (35),Angers (35),2-2,?
+?,(Tue) Apr/26 1994 (17),Toulouse (35),Sochaux (35),3-2,?
+?,(Fri) Apr/29 1994 (17),Cannes (36),Nantes (36),4-0,?
+?,(Sat) Apr/30 1994 (17),Angers (36),Montpellier (36),2-3,?
+?,(Sat) Apr/30 1994 (17),Auxerre (36),Marseille (36),2-2,?
+?,(Sat) Apr/30 1994 (17),Le Havre (36),Monaco (36),1-0,?
+?,(Sat) Apr/30 1994 (17),Lens (36),St Etienne (36),3-1,?
+?,(Sat) Apr/30 1994 (17),Lyon (36),Lille (36),0-0,?
+?,(Sat) Apr/30 1994 (17),Martigues (36),Bordeaux (36),0-0,?
+?,(Sat) Apr/30 1994 (17),Metz (36),Strasbourg (36),2-1,?
+?,(Sat) Apr/30 1994 (17),Paris SG (36),Toulouse (36),1-0,?
+?,(Sat) Apr/30 1994 (17),Sochaux (36),Caen (36),0-0,?
+?,(Sat) May/7 1994 (18),Bordeaux (37),Lens (37),4-2,?
+?,(Sat) May/7 1994 (18),Caen (37),Angers (37),2-3,?
+?,(Sat) May/7 1994 (18),Lille (37),Auxerre (37),1-1,?
+?,(Sat) May/7 1994 (18),Marseille (37),Martigues (37),0-0,?
+?,(Sat) May/7 1994 (18),Monaco (37),Metz (37),1-1,?
+?,(Sat) May/7 1994 (18),Montpellier (37),Sochaux (37),1-0,?
+?,(Sat) May/7 1994 (18),Nantes (37),Le Havre (37),3-1,?
+?,(Sat) May/7 1994 (18),St Etienne (37),Paris SG (37),1-2,?
+?,(Sat) May/7 1994 (18),Strasbourg (37),Lyon (37),0-1,?
+?,(Sat) May/7 1994 (18),Toulouse (37),Cannes (37),1-2,?
+?,(Sat) May/21 1994 (20),Angers (38),Sochaux (38),1-2,?
+?,(Sat) May/21 1994 (20),Auxerre (38),Strasbourg (38),2-1,?
+?,(Sat) May/21 1994 (20),Cannes (38),St Etienne (38),0-0,?
+?,(Sat) May/21 1994 (20),Le Havre (38),Toulouse (38),1-1,?
+?,(Sat) May/21 1994 (20),Lens (38),Marseille (38),2-3,?
+?,(Sat) May/21 1994 (20),Lyon (38),Montpellier (38),3-2,?
+?,(Sat) May/21 1994 (20),Martigues (38),Lille (38),2-2,?
+?,(Sat) May/21 1994 (20),Metz (38),Caen (38),2-1,?
+?,(Sat) May/21 1994 (20),Monaco (38),Nantes (38),1-0,?
+?,(Sat) May/21 1994 (20),Paris SG (38),Bordeaux (38),4-1,?

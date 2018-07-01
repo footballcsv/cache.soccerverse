@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT,Day,Week
-?,2013-08-09,Montpellier,Paris SG,1-1,1-0,Fri,31
-?,2013-08-10,Bordeaux,Monaco,0-2,0-0,Sat,31
-?,2013-08-10,Evian Thonon Gaillard,Sochaux,1-1,1-0,Sat,31
-?,2013-08-10,Lille,Lorient,1-0,1-0,Sat,31
-?,2013-08-10,Lyon,Nice,4-0,1-0,Sat,31
-?,2013-08-10,Nantes,Bastia,2-0,1-0,Sat,31
-?,2013-08-10,Rennes,Reims,2-1,1-1,Sat,31
-?,2013-08-10,Valenciennes,Toulouse,3-0,1-0,Sat,31
-?,2013-08-11,Ajaccio,St Etienne,0-1,0-1,Sun,31
-?,2013-08-11,Guingamp,Marseille,1-3,0-3,Sun,31
-?,2013-08-16,Sochaux,Lyon,1-3,1-2,Fri,32
-?,2013-08-17,Bastia,Valenciennes,2-0,0-0,Sat,32
-?,2013-08-17,Marseille,Evian Thonon Gaillard,2-0,1-0,Sat,32
-?,2013-08-17,Nice,Rennes,2-1,1-1,Sat,32
-?,2013-08-17,Reims,Lille,2-1,1-0,Sat,32
-?,2013-08-17,St Etienne,Guingamp,1-0,0-0,Sat,32
-?,2013-08-17,Toulouse,Bordeaux,1-1,1-1,Sat,32
-?,2013-08-18,Lorient,Nantes,2-1,1-1,Sun,32
-?,2013-08-18,Monaco,Montpellier,4-1,2-1,Sun,32
-?,2013-08-18,Paris SG,Ajaccio,1-1,0-1,Sun,32
-?,2013-08-23,Monaco,Toulouse,0-0,0-0,Fri,33
-?,2013-08-24,Bordeaux,Bastia,1-0,1-0,Sat,33
-?,2013-08-24,Evian Thonon Gaillard,Rennes,1-2,0-2,Sat,33
-?,2013-08-24,Guingamp,Lorient,2-0,1-0,Sat,33
-?,2013-08-24,Lyon,Reims,0-1,0-0,Sat,33
-?,2013-08-24,Montpellier,Sochaux,2-1,1-1,Sat,33
-?,2013-08-24,Valenciennes,Marseille,0-1,0-0,Sat,33
-?,2013-08-25,Ajaccio,Nice,0-0,0-0,Sun,33
-?,2013-08-25,Lille,St Etienne,1-0,1-0,Sun,33
-?,2013-08-25,Nantes,Paris SG,1-2,0-1,Sun,33
-?,2013-08-31,Bastia,Toulouse,2-1,1-0,Sat,34
-?,2013-08-31,Evian Thonon Gaillard,Lyon,2-1,2-0,Sat,34
-?,2013-08-31,Lorient,Valenciennes,1-0,1-0,Sat,34
-?,2013-08-31,Paris SG,Guingamp,2-0,0-0,Sat,34
-?,2013-08-31,Reims,Nantes,0-0,0-0,Sat,34
-?,2013-08-31,Rennes,Lille,0-0,0-0,Sat,34
-?,2013-08-31,Sochaux,Ajaccio,0-0,0-0,Sat,34
-?,2013-09-01,Marseille,Monaco,1-2,1-0,Sun,34
-?,2013-09-01,Nice,Montpellier,2-2,2-1,Sun,34
-?,2013-09-01,St Etienne,Bordeaux,2-1,1-0,Sun,34
-?,2013-09-13,Bordeaux,Paris SG,0-2,0-1,Fri,36
-?,2013-09-14,Ajaccio,Evian Thonon Gaillard,2-3,0-2,Sat,36
-?,2013-09-14,Guingamp,Bastia,1-1,0-0,Sat,36
-?,2013-09-14,Montpellier,Reims,0-0,0-0,Sat,36
-?,2013-09-14,Nantes,Sochaux,1-0,0-0,Sat,36
-?,2013-09-14,Toulouse,Marseille,1-1,0-0,Sat,36
-?,2013-09-14,Valenciennes,St Etienne,1-3,0-1,Sat,36
-?,2013-09-15,Lille,Nice,0-2,0-2,Sun,36
-?,2013-09-15,Lyon,Rennes,0-0,0-0,Sun,36
-?,2013-09-15,Monaco,Lorient,1-0,1-0,Sun,36
-?,2013-09-20,St Etienne,Toulouse,1-2,1-0,Fri,37
-?,2013-09-21,Bastia,Marseille,0-0,0-0,Sat,37
-?,2013-09-21,Evian Thonon Gaillard,Montpellier,2-2,0-1,Sat,37
-?,2013-09-21,Reims,Guingamp,1-1,0-1,Sat,37
-?,2013-09-21,Rennes,Ajaccio,2-0,2-0,Sat,37
-?,2013-09-21,Sochaux,Lille,0-2,0-2,Sat,37
-?,2013-09-22,Lorient,Bordeaux,3-3,2-3,Sun,37
-?,2013-09-22,Lyon,Nantes,3-1,1-1,Sun,37
-?,2013-09-22,Nice,Valenciennes,4-0,2-0,Sun,37
-?,2013-09-22,Paris SG,Monaco,1-1,1-1,Sun,37
-?,2013-09-24,Lille,Evian Thonon Gaillard,3-0,2-0,Tue,38
-?,2013-09-24,Marseille,St Etienne,2-1,2-1,Tue,38
-?,2013-09-25,Ajaccio,Lyon,2-1,1-0,Wed,38
-?,2013-09-25,Bordeaux,Reims,0-0,0-0,Wed,38
-?,2013-09-25,Guingamp,Sochaux,5-1,3-0,Wed,38
-?,2013-09-25,Monaco,Bastia,3-0,2-0,Wed,38
-?,2013-09-25,Nantes,Nice,2-0,1-0,Wed,38
-?,2013-09-25,Toulouse,Lorient,1-0,0-0,Wed,38
-?,2013-09-25,Valenciennes,Paris SG,0-1,0-1,Wed,38
-?,2013-09-26,Montpellier,Rennes,0-0,0-0,Thu,38
-?,2013-09-28,Evian Thonon Gaillard,Bordeaux,1-1,1-0,Sat,38
-?,2013-09-28,Lorient,Marseille,0-2,0-0,Sat,38
-?,2013-09-28,Lyon,Lille,0-0,0-0,Sat,38
-?,2013-09-28,Nice,Guingamp,1-0,0-0,Sat,38
-?,2013-09-28,Paris SG,Toulouse,2-0,1-0,Sat,38
-?,2013-09-28,Sochaux,Valenciennes,2-0,2-0,Sat,38
-?,2013-09-28,St Etienne,Bastia,2-2,1-0,Sat,38
-?,2013-09-29,Ajaccio,Montpellier,1-1,1-1,Sun,38
-?,2013-09-29,Reims,Monaco,1-1,1-1,Sun,38
-?,2013-09-29,Rennes,Nantes,1-3,0-2,Sun,38
-?,2013-10-04,Bastia,Lorient,4-1,2-1,Fri,39
-?,2013-10-05,Guingamp,Rennes,2-0,0-0,Sat,39
-?,2013-10-05,Lille,Ajaccio,3-0,1-0,Sat,39
-?,2013-10-05,Monaco,St Etienne,2-1,1-0,Sat,39
-?,2013-10-05,Nantes,Evian Thonon Gaillard,3-0,2-0,Sat,39
-?,2013-10-05,Toulouse,Nice,1-0,1-0,Sat,39
-?,2013-10-05,Valenciennes,Reims,1-1,0-1,Sat,39
-?,2013-10-06,Bordeaux,Sochaux,4-1,2-1,Sun,39
-?,2013-10-06,Marseille,Paris SG,1-2,1-1,Sun,39
-?,2013-10-06,Montpellier,Lyon,5-1,2-0,Sun,39
-?,2013-10-18,Nice,Marseille,1-0,1-0,Fri,41
-?,2013-10-18,Reims,Toulouse,1-2,0-1,Fri,41
-?,2013-10-19,Ajaccio,Nantes,0-1,0-0,Sat,41
-?,2013-10-19,Evian Thonon Gaillard,Guingamp,1-2,1-0,Sat,41
-?,2013-10-19,Montpellier,Lille,0-1,0-1,Sat,41
-?,2013-10-19,Paris SG,Bastia,4-0,2-0,Sat,41
-?,2013-10-19,Rennes,Valenciennes,2-2,1-0,Sat,41
-?,2013-10-20,Lyon,Bordeaux,1-1,0-0,Sun,41
-?,2013-10-20,Sochaux,Monaco,2-2,0-2,Sun,41
-?,2013-10-20,St Etienne,Lorient,3-2,2-1,Sun,41
-?,2013-10-25,Nantes,Lille,0-1,0-1,Fri,42
-?,2013-10-26,Bastia,Nice,1-0,1-0,Sat,42
-?,2013-10-26,Guingamp,Ajaccio,2-1,0-1,Sat,42
-?,2013-10-26,Lorient,Sochaux,2-1,1-0,Sat,42
-?,2013-10-26,Marseille,Reims,2-3,0-2,Sat,42
-?,2013-10-26,Toulouse,Rennes,0-5,0-3,Sat,42
-?,2013-10-26,Valenciennes,Evian Thonon Gaillard,0-1,0-0,Sat,42
-?,2013-10-27,Bordeaux,Montpellier,2-0,0-0,Sun,42
-?,2013-10-27,Monaco,Lyon,2-1,2-0,Sun,42
-?,2013-10-27,St Etienne,Paris SG,2-2,1-0,Sun,42
-?,2013-11-01,Paris SG,Lorient,4-0,3-0,Fri,43
-?,2013-11-02,Ajaccio,Valenciennes,1-3,1-1,Sat,43
-?,2013-11-02,Evian Thonon Gaillard,Toulouse,2-1,0-0,Sat,43
-?,2013-11-02,Lyon,Guingamp,2-0,2-0,Sat,43
-?,2013-11-02,Reims,Bastia,4-2,2-0,Sat,43
-?,2013-11-02,Rennes,Marseille,1-1,1-1,Sat,43
-?,2013-11-02,Sochaux,St Etienne,0-0,0-0,Sat,43
-?,2013-11-03,Lille,Monaco,2-0,1-0,Sun,43
-?,2013-11-03,Montpellier,Nantes,1-1,0-1,Sun,43
-?,2013-11-03,Nice,Bordeaux,1-2,0-1,Sun,43
-?,2013-11-08,Monaco,Evian Thonon Gaillard,1-1,1-1,Fri,44
-?,2013-11-09,Bastia,Rennes,1-0,1-0,Sat,44
-?,2013-11-09,Guingamp,Lille,0-0,0-0,Sat,44
-?,2013-11-09,Lorient,Reims,0-0,0-0,Sat,44
-?,2013-11-09,Paris SG,Nice,3-1,1-0,Sat,44
-?,2013-11-09,Toulouse,Ajaccio,1-1,1-1,Sat,44
-?,2013-11-09,Valenciennes,Montpellier,1-1,1-0,Sat,44
-?,2013-11-10,Bordeaux,Nantes,0-3,0-1,Sun,44
-?,2013-11-10,Marseille,Sochaux,2-1,1-0,Sun,44
-?,2013-11-10,St Etienne,Lyon,1-2,0-0,Sun,44
-?,2013-11-22,Ajaccio,Marseille,1-3,1-2,Fri,46
-?,2013-11-23,Evian Thonon Gaillard,Lorient,0-4,0-2,Sat,46
-?,2013-11-23,Lyon,Valenciennes,1-1,1-0,Sat,46
-?,2013-11-23,Montpellier,Guingamp,1-1,0-0,Sat,46
-?,2013-11-23,Reims,Paris SG,0-3,0-1,Sat,46
-?,2013-11-23,Rennes,Bordeaux,1-1,0-0,Sat,46
-?,2013-11-23,Sochaux,Bastia,1-1,0-1,Sat,46
-?,2013-11-24,Lille,Toulouse,1-0,0-0,Sun,46
-?,2013-11-24,Nantes,Monaco,0-1,0-0,Sun,46
-?,2013-11-24,Nice,St Etienne,0-1,0-1,Sun,46
-?,2013-11-29,Marseille,Montpellier,2-0,1-0,Fri,47
-?,2013-11-30,Guingamp,Nantes,1-0,0-0,Sat,47
-?,2013-11-30,Lorient,Nice,3-0,1-0,Sat,47
-?,2013-11-30,Monaco,Rennes,2-0,2-0,Sat,47
-?,2013-11-30,St Etienne,Reims,4-0,0-0,Sat,47
-?,2013-11-30,Toulouse,Sochaux,5-1,2-1,Sat,47
-?,2013-11-30,Valenciennes,Lille,0-1,0-0,Sat,47
-?,2013-12-01,Bastia,Evian Thonon Gaillard,2-0,0-0,Sun,47
-?,2013-12-01,Bordeaux,Ajaccio,4-0,1-0,Sun,47
-?,2013-12-01,Paris SG,Lyon,4-0,2-0,Sun,47
-?,2013-12-03,Lille,Marseille,1-0,0-0,Tue,48
-?,2013-12-03,Nantes,Valenciennes,2-1,0-0,Tue,48
-?,2013-12-03,Nice,Monaco,0-3,0-2,Tue,48
-?,2013-12-04,Ajaccio,Bastia,1-1,0-1,Wed,48
-?,2013-12-04,Evian Thonon Gaillard,Paris SG,2-0,0-0,Wed,48
-?,2013-12-04,Guingamp,Bordeaux,0-1,0-1,Wed,48
-?,2013-12-04,Montpellier,Lorient,0-2,0-0,Wed,48
-?,2013-12-04,Rennes,St Etienne,3-1,1-0,Wed,48
-?,2013-12-04,Sochaux,Reims,0-2,0-1,Wed,48
-?,2013-12-05,Lyon,Toulouse,1-1,1-0,Thu,48
-?,2013-12-06,Marseille,Nantes,0-1,0-1,Fri,48
-?,2013-12-07,Lorient,Rennes,2-0,1-0,Sat,48
-?,2013-12-07,Paris SG,Sochaux,5-0,1-0,Sat,48
-?,2013-12-07,Reims,Nice,1-0,0-0,Sat,48
-?,2013-12-07,Valenciennes,Guingamp,1-1,1-0,Sat,48
-?,2013-12-08,Bastia,Lyon,1-3,1-0,Sun,48
-?,2013-12-08,Bordeaux,Lille,1-0,1-0,Sun,48
-?,2013-12-08,Monaco,Ajaccio,1-0,0-0,Sun,48
-?,2013-12-08,Toulouse,Montpellier,1-1,0-1,Sun,48
-?,2013-12-13,Montpellier,St Etienne,0-1,0-0,Fri,49
-?,2013-12-14,Ajaccio,Lorient,1-2,1-1,Sat,49
-?,2013-12-14,Evian Thonon Gaillard,Reims,1-1,0-0,Sat,49
-?,2013-12-14,Guingamp,Monaco,0-2,0-2,Sat,49
-?,2013-12-14,Nantes,Toulouse,1-2,0-0,Sat,49
-?,2013-12-14,Nice,Sochaux,1-0,1-0,Sat,49
-?,2013-12-14,Rennes,Paris SG,1-3,0-1,Sat,49
-?,2013-12-15,Bordeaux,Valenciennes,2-1,0-0,Sun,49
-?,2013-12-15,Lille,Bastia,2-1,2-1,Sun,49
-?,2013-12-15,Lyon,Marseille,2-2,2-1,Sun,49
-?,2013-12-20,Monaco,Valenciennes,1-2,0-1,Fri,50
-?,2013-12-21,Bastia,Montpellier,0-0,0-0,Sat,50
-?,2013-12-21,Nice,Evian Thonon Gaillard,3-1,0-1,Sat,50
-?,2013-12-21,Reims,Ajaccio,4-1,0-0,Sat,50
-?,2013-12-21,Sochaux,Rennes,2-1,1-1,Sat,50
-?,2013-12-21,St Etienne,Nantes,2-0,1-0,Sat,50
-?,2013-12-21,Toulouse,Guingamp,0-0,0-0,Sat,50
-?,2013-12-22,Lorient,Lyon,2-2,0-1,Sun,50
-?,2013-12-22,Marseille,Bordeaux,2-2,0-1,Sun,50
-?,2013-12-22,Paris SG,Lille,2-2,1-1,Sun,50
-?,2014-01-08,St Etienne,Evian Thonon Gaillard,1-0,1-0,Wed,1
-?,2014-01-10,Montpellier,Monaco,1-1,0-0,Fri,1
-?,2014-01-11,Ajaccio,Paris SG,1-2,1-1,Sat,1
-?,2014-01-11,Bordeaux,Toulouse,0-1,0-0,Sat,1
-?,2014-01-11,Guingamp,St Etienne,0-0,0-0,Sat,1
-?,2014-01-11,Lyon,Sochaux,2-0,0-0,Sat,1
-?,2014-01-11,Rennes,Nice,0-0,0-0,Sat,1
-?,2014-01-11,Valenciennes,Bastia,3-2,2-0,Sat,1
-?,2014-01-12,Evian Thonon Gaillard,Marseille,1-2,1-2,Sun,1
-?,2014-01-12,Lille,Reims,1-2,0-0,Sun,1
-?,2014-01-12,Nantes,Lorient,1-0,0-0,Sun,1
-?,2014-01-17,St Etienne,Lille,2-0,0-0,Fri,2
-?,2014-01-18,Bastia,Bordeaux,1-0,1-0,Sat,2
-?,2014-01-18,Lorient,Guingamp,2-0,2-0,Sat,2
-?,2014-01-18,Nice,Ajaccio,2-0,1-0,Sat,2
-?,2014-01-18,Rennes,Evian Thonon Gaillard,0-0,0-0,Sat,2
-?,2014-01-18,Sochaux,Montpellier,0-2,0-1,Sat,2
-?,2014-01-19,Paris SG,Nantes,5-0,2-0,Sun,2
-?,2014-01-19,Reims,Lyon,0-2,0-1,Sun,2
-?,2014-01-19,Toulouse,Monaco,0-2,0-1,Sun,2
-?,2014-01-24,Lille,Rennes,1-1,1-1,Fri,3
-?,2014-01-25,Ajaccio,Sochaux,1-1,1-0,Sat,3
-?,2014-01-25,Guingamp,Paris SG,1-1,0-0,Sat,3
-?,2014-01-25,Montpellier,Nice,3-1,1-0,Sat,3
-?,2014-01-25,Nantes,Reims,0-0,0-0,Sat,3
-?,2014-01-25,Valenciennes,Lorient,1-1,0-1,Sat,3
-?,2014-01-26,Bordeaux,St Etienne,2-0,1-0,Sun,3
-?,2014-01-26,Lyon,Evian Thonon Gaillard,3-0,2-0,Sun,3
-?,2014-01-26,Monaco,Marseille,2-0,1-0,Sun,3
-?,2014-01-29,Marseille,Valenciennes,2-1,1-1,Wed,4
-?,2014-01-31,Paris SG,Bordeaux,2-0,0-0,Fri,4
-?,2014-02-01,Bastia,Guingamp,3-2,0-0,Sat,4
-?,2014-02-01,Evian Thonon Gaillard,Ajaccio,1-1,0-0,Sat,4
-?,2014-02-01,Lorient,Monaco,2-2,1-1,Sat,4
-?,2014-02-01,Reims,Montpellier,2-4,0-1,Sat,4
-?,2014-02-01,Sochaux,Nantes,1-0,1-0,Sat,4
-?,2014-02-01,St Etienne,Valenciennes,3-0,1-0,Sat,4
-?,2014-02-02,Marseille,Toulouse,2-2,2-1,Sun,4
-?,2014-02-02,Nice,Lille,1-0,1-0,Sun,4
-?,2014-02-02,Rennes,Lyon,2-0,1-0,Sun,4
-?,2014-02-07,Toulouse,St Etienne,0-0,0-0,Fri,5
-?,2014-02-08,Ajaccio,Rennes,3-1,2-1,Sat,5
-?,2014-02-08,Guingamp,Reims,1-2,0-0,Sat,5
-?,2014-02-08,Lille,Sochaux,2-0,1-0,Sat,5
-?,2014-02-08,Marseille,Bastia,3-0,2-0,Sat,5
-?,2014-02-08,Montpellier,Evian Thonon Gaillard,1-1,1-1,Sat,5
-?,2014-02-08,Valenciennes,Nice,2-1,1-0,Sat,5
-?,2014-02-09,Monaco,Paris SG,1-1,0-1,Sun,5
-?,2014-02-09,Nantes,Lyon,1-2,0-1,Sun,5
-?,2014-02-11,Toulouse,Bastia,1-3,1-2,Tue,6
-?,2014-02-14,Paris SG,Valenciennes,3-0,1-0,Fri,6
-?,2014-02-15,Bastia,Monaco,0-2,0-1,Sat,6
-?,2014-02-15,Lorient,Toulouse,1-3,1-0,Sat,6
-?,2014-02-15,Nice,Nantes,0-0,0-0,Sat,6
-?,2014-02-15,Reims,Bordeaux,1-0,0-0,Sat,6
-?,2014-02-15,Rennes,Montpellier,2-2,1-0,Sat,6
-?,2014-02-15,Sochaux,Guingamp,1-0,0-0,Sat,6
-?,2014-02-16,Evian Thonon Gaillard,Lille,2-2,1-1,Sun,6
-?,2014-02-16,Lyon,Ajaccio,3-1,1-0,Sun,6
-?,2014-02-16,St Etienne,Marseille,1-1,0-0,Sun,6
-?,2014-02-21,Monaco,Reims,3-2,1-0,Fri,7
-?,2014-02-22,Bastia,St Etienne,0-2,0-1,Sat,7
-?,2014-02-22,Bordeaux,Evian Thonon Gaillard,2-1,0-0,Sat,7
-?,2014-02-22,Guingamp,Nice,1-0,0-0,Sat,7
-?,2014-02-22,Marseille,Lorient,1-0,0-0,Sat,7
-?,2014-02-22,Montpellier,Ajaccio,2-0,0-0,Sat,7
-?,2014-02-22,Valenciennes,Sochaux,2-2,0-0,Sat,7
-?,2014-02-23,Lille,Lyon,0-0,0-0,Sun,7
-?,2014-02-23,Nantes,Rennes,0-3,0-1,Sun,7
-?,2014-02-23,Toulouse,Paris SG,2-4,1-1,Sun,7
-?,2014-02-25,Bordeaux,Lorient,3-2,2-1,Tue,8
-?,2014-02-28,Evian Thonon Gaillard,Nantes,2-0,0-0,Fri,8
-?,2014-03-01,Lorient,Bastia,1-1,1-0,Sat,8
-?,2014-03-01,Nice,Toulouse,0-2,0-0,Sat,8
-?,2014-03-01,Reims,Valenciennes,3-1,2-0,Sat,8
-?,2014-03-01,Rennes,Guingamp,0-2,0-1,Sat,8
-?,2014-03-01,Sochaux,Bordeaux,2-0,0-0,Sat,8
-?,2014-03-01,St Etienne,Monaco,2-0,1-0,Sat,8
-?,2014-03-02,Ajaccio,Lille,2-3,2-2,Sun,8
-?,2014-03-02,Lyon,Montpellier,0-0,0-0,Sun,8
-?,2014-03-02,Paris SG,Marseille,2-0,0-0,Sun,8
-?,2014-03-07,Marseille,Nice,0-1,0-0,Fri,9
-?,2014-03-08,Bastia,Paris SG,0-3,0-2,Sat,9
-?,2014-03-08,Guingamp,Evian Thonon Gaillard,0-1,0-0,Sat,9
-?,2014-03-08,Monaco,Sochaux,2-1,1-0,Sat,9
-?,2014-03-08,Nantes,Ajaccio,2-2,1-1,Sat,9
-?,2014-03-08,Toulouse,Reims,3-2,0-2,Sat,9
-?,2014-03-08,Valenciennes,Rennes,2-1,0-0,Sat,9
-?,2014-03-09,Bordeaux,Lyon,1-2,1-0,Sun,9
-?,2014-03-09,Lille,Montpellier,2-0,1-0,Sun,9
-?,2014-03-09,Lorient,St Etienne,1-0,0-0,Sun,9
-?,2014-03-14,Reims,Marseille,1-1,0-0,Fri,10
-?,2014-03-15,Ajaccio,Guingamp,1-2,1-1,Sat,10
-?,2014-03-15,Evian Thonon Gaillard,Valenciennes,0-1,0-0,Sat,10
-?,2014-03-15,Lille,Nantes,0-0,0-0,Sat,10
-?,2014-03-15,Nice,Bastia,2-0,1-0,Sat,10
-?,2014-03-15,Rennes,Toulouse,2-3,0-2,Sat,10
-?,2014-03-15,Sochaux,Lorient,2-0,1-0,Sat,10
-?,2014-03-16,Lyon,Monaco,2-3,1-2,Sun,10
-?,2014-03-16,Montpellier,Bordeaux,1-1,1-1,Sun,10
-?,2014-03-16,Paris SG,St Etienne,2-0,2-0,Sun,10
-?,2014-03-21,Lorient,Paris SG,0-1,0-1,Fri,11
-?,2014-03-22,Bastia,Reims,2-0,2-0,Sat,11
-?,2014-03-22,Bordeaux,Nice,1-1,0-0,Sat,11
-?,2014-03-22,Marseille,Rennes,0-1,0-0,Sat,11
-?,2014-03-22,Nantes,Montpellier,2-1,2-1,Sat,11
-?,2014-03-22,Toulouse,Evian Thonon Gaillard,1-1,0-0,Sat,11
-?,2014-03-22,Valenciennes,Ajaccio,2-3,0-0,Sat,11
-?,2014-03-23,Guingamp,Lyon,0-1,0-0,Sun,11
-?,2014-03-23,Monaco,Lille,1-1,1-1,Sun,11
-?,2014-03-23,St Etienne,Sochaux,3-1,0-0,Sun,11
-?,2014-03-28,Nice,Paris SG,0-1,0-0,Fri,12
-?,2014-03-29,Ajaccio,Toulouse,2-2,2-1,Sat,12
-?,2014-03-29,Evian Thonon Gaillard,Monaco,1-0,0-0,Sat,12
-?,2014-03-29,Montpellier,Valenciennes,0-0,0-0,Sat,12
-?,2014-03-29,Nantes,Bordeaux,0-0,0-0,Sat,12
-?,2014-03-29,Reims,Lorient,1-1,0-1,Sat,12
-?,2014-03-29,Sochaux,Marseille,1-1,1-0,Sat,12
-?,2014-03-30,Lille,Guingamp,1-0,0-0,Sun,12
-?,2014-03-30,Lyon,St Etienne,1-2,1-1,Sun,12
-?,2014-03-30,Rennes,Bastia,3-0,2-0,Sun,12
-?,2014-04-04,Marseille,Ajaccio,3-1,1-0,Fri,13
-?,2014-04-05,Bastia,Sochaux,2-2,0-2,Sat,13
-?,2014-04-05,Bordeaux,Rennes,2-2,1-0,Sat,13
-?,2014-04-05,Guingamp,Montpellier,1-2,0-2,Sat,13
-?,2014-04-05,Lorient,Evian Thonon Gaillard,1-1,1-0,Sat,13
-?,2014-04-05,Paris SG,Reims,3-0,1-0,Sat,13
-?,2014-04-05,Toulouse,Lille,1-2,0-2,Sat,13
-?,2014-04-06,Monaco,Nantes,3-1,1-0,Sun,13
-?,2014-04-06,St Etienne,Nice,1-1,0-0,Sun,13
-?,2014-04-06,Valenciennes,Lyon,1-2,0-1,Sun,13
-?,2014-04-11,Montpellier,Marseille,2-3,0-1,Fri,14
-?,2014-04-12,Ajaccio,Bordeaux,1-1,0-0,Sat,14
-?,2014-04-12,Evian Thonon Gaillard,Bastia,2-1,1-1,Sat,14
-?,2014-04-12,Lille,Valenciennes,1-0,0-0,Sat,14
-?,2014-04-12,Nice,Lorient,1-2,1-1,Sat,14
-?,2014-04-12,Rennes,Monaco,0-1,0-0,Sat,14
-?,2014-04-12,Sochaux,Toulouse,2-0,1-0,Sat,14
-?,2014-04-13,Lyon,Paris SG,1-0,1-0,Sun,14
-?,2014-04-13,Nantes,Guingamp,1-0,1-0,Sun,14
-?,2014-04-13,Reims,St Etienne,2-2,1-0,Sun,14
-?,2014-04-18,St Etienne,Rennes,0-0,0-0,Fri,15
-?,2014-04-20,Bastia,Ajaccio,2-1,1-1,Sun,15
-?,2014-04-20,Bordeaux,Guingamp,5-1,3-1,Sun,15
-?,2014-04-20,Lorient,Montpellier,4-4,1-1,Sun,15
-?,2014-04-20,Marseille,Lille,0-0,0-0,Sun,15
-?,2014-04-20,Monaco,Nice,1-0,1-0,Sun,15
-?,2014-04-20,Reims,Sochaux,0-1,0-1,Sun,15
-?,2014-04-20,Valenciennes,Nantes,2-6,0-3,Sun,15
-?,2014-04-23,Paris SG,Evian Thonon Gaillard,1-0,0-0,Wed,16
-?,2014-04-23,Toulouse,Lyon,0-0,0-0,Wed,16
-?,2014-04-25,Nantes,Marseille,1-1,0-1,Fri,16
-?,2014-04-26,Ajaccio,Monaco,1-4,0-0,Sat,16
-?,2014-04-26,Evian Thonon Gaillard,St Etienne,1-2,0-2,Sat,16
-?,2014-04-26,Guingamp,Valenciennes,1-0,0-0,Sat,16
-?,2014-04-26,Montpellier,Toulouse,2-1,0-1,Sat,16
-?,2014-04-26,Nice,Reims,1-0,0-0,Sat,16
-?,2014-04-26,Rennes,Lorient,1-1,0-1,Sat,16
-?,2014-04-27,Lille,Bordeaux,2-1,1-0,Sun,16
-?,2014-04-27,Lyon,Bastia,4-1,2-0,Sun,16
-?,2014-04-27,Sochaux,Paris SG,1-1,0-1,Sun,16
-?,2014-05-02,Bastia,Lille,1-1,0-1,Fri,17
-?,2014-05-04,Lorient,Ajaccio,1-0,1-0,Sun,17
-?,2014-05-04,Marseille,Lyon,4-2,2-1,Sun,17
-?,2014-05-04,Reims,Evian Thonon Gaillard,1-0,1-0,Sun,17
-?,2014-05-04,Sochaux,Nice,2-0,1-0,Sun,17
-?,2014-05-04,St Etienne,Montpellier,2-0,0-0,Sun,17
-?,2014-05-04,Toulouse,Nantes,1-1,0-1,Sun,17
-?,2014-05-04,Valenciennes,Bordeaux,0-1,0-0,Sun,17
-?,2014-05-07,Monaco,Guingamp,1-1,0-0,Wed,18
-?,2014-05-07,Paris SG,Rennes,1-2,1-2,Wed,18
-?,2014-05-10,Ajaccio,Reims,2-1,2-1,Sat,18
-?,2014-05-10,Bordeaux,Marseille,1-1,0-1,Sat,18
-?,2014-05-10,Evian Thonon Gaillard,Nice,2-0,1-0,Sat,18
-?,2014-05-10,Guingamp,Toulouse,2-0,2-0,Sat,18
-?,2014-05-10,Lille,Paris SG,1-3,0-1,Sat,18
-?,2014-05-10,Lyon,Lorient,0-1,0-0,Sat,18
-?,2014-05-10,Montpellier,Bastia,0-2,0-1,Sat,18
-?,2014-05-10,Nantes,St Etienne,1-3,0-3,Sat,18
-?,2014-05-10,Rennes,Sochaux,1-2,0-1,Sat,18
-?,2014-05-10,Valenciennes,Monaco,1-2,0-1,Sat,18
-?,2014-05-17,Bastia,Nantes,0-0,0-0,Sat,19
-?,2014-05-17,Lorient,Lille,1-4,1-1,Sat,19
-?,2014-05-17,Marseille,Guingamp,1-0,0-0,Sat,19
-?,2014-05-17,Monaco,Bordeaux,1-1,0-1,Sat,19
-?,2014-05-17,Nice,Lyon,0-1,0-1,Sat,19
-?,2014-05-17,Paris SG,Montpellier,4-0,2-0,Sat,19
-?,2014-05-17,Reims,Rennes,1-3,0-1,Sat,19
-?,2014-05-17,Sochaux,Evian Thonon Gaillard,0-3,0-2,Sat,19
-?,2014-05-17,St Etienne,Ajaccio,3-1,2-0,Sat,19
-?,2014-05-17,Toulouse,Valenciennes,3-1,2-0,Sat,19
+Round,Date,Team 1,Team 2,FT,HT
+?,(Fri) Aug/9 2013 (31),Montpellier (1),Paris SG (1),1-1,1-0
+?,(Sat) Aug/10 2013 (31),Bordeaux (1),Monaco (1),0-2,0-0
+?,(Sat) Aug/10 2013 (31),Evian Thonon Gaillard (1),Sochaux (1),1-1,1-0
+?,(Sat) Aug/10 2013 (31),Lille (1),Lorient (1),1-0,1-0
+?,(Sat) Aug/10 2013 (31),Lyon (1),Nice (1),4-0,1-0
+?,(Sat) Aug/10 2013 (31),Nantes (1),Bastia (1),2-0,1-0
+?,(Sat) Aug/10 2013 (31),Rennes (1),Reims (1),2-1,1-1
+?,(Sat) Aug/10 2013 (31),Valenciennes (1),Toulouse (1),3-0,1-0
+?,(Sun) Aug/11 2013 (31),Ajaccio (1),St Etienne (1),0-1,0-1
+?,(Sun) Aug/11 2013 (31),Guingamp (1),Marseille (1),1-3,0-3
+?,(Fri) Aug/16 2013 (32),Sochaux (2),Lyon (2),1-3,1-2
+?,(Sat) Aug/17 2013 (32),Bastia (2),Valenciennes (2),2-0,0-0
+?,(Sat) Aug/17 2013 (32),Marseille (2),Evian Thonon Gaillard (2),2-0,1-0
+?,(Sat) Aug/17 2013 (32),Nice (2),Rennes (2),2-1,1-1
+?,(Sat) Aug/17 2013 (32),Reims (2),Lille (2),2-1,1-0
+?,(Sat) Aug/17 2013 (32),St Etienne (2),Guingamp (2),1-0,0-0
+?,(Sat) Aug/17 2013 (32),Toulouse (2),Bordeaux (2),1-1,1-1
+?,(Sun) Aug/18 2013 (32),Lorient (2),Nantes (2),2-1,1-1
+?,(Sun) Aug/18 2013 (32),Monaco (2),Montpellier (2),4-1,2-1
+?,(Sun) Aug/18 2013 (32),Paris SG (2),Ajaccio (2),1-1,0-1
+?,(Fri) Aug/23 2013 (33),Monaco (3),Toulouse (3),0-0,0-0
+?,(Sat) Aug/24 2013 (33),Bordeaux (3),Bastia (3),1-0,1-0
+?,(Sat) Aug/24 2013 (33),Evian Thonon Gaillard (3),Rennes (3),1-2,0-2
+?,(Sat) Aug/24 2013 (33),Guingamp (3),Lorient (3),2-0,1-0
+?,(Sat) Aug/24 2013 (33),Lyon (3),Reims (3),0-1,0-0
+?,(Sat) Aug/24 2013 (33),Montpellier (3),Sochaux (3),2-1,1-1
+?,(Sat) Aug/24 2013 (33),Valenciennes (3),Marseille (3),0-1,0-0
+?,(Sun) Aug/25 2013 (33),Ajaccio (3),Nice (3),0-0,0-0
+?,(Sun) Aug/25 2013 (33),Lille (3),St Etienne (3),1-0,1-0
+?,(Sun) Aug/25 2013 (33),Nantes (3),Paris SG (3),1-2,0-1
+?,(Sat) Aug/31 2013 (34),Bastia (4),Toulouse (4),2-1,1-0
+?,(Sat) Aug/31 2013 (34),Evian Thonon Gaillard (4),Lyon (4),2-1,2-0
+?,(Sat) Aug/31 2013 (34),Lorient (4),Valenciennes (4),1-0,1-0
+?,(Sat) Aug/31 2013 (34),Paris SG (4),Guingamp (4),2-0,0-0
+?,(Sat) Aug/31 2013 (34),Reims (4),Nantes (4),0-0,0-0
+?,(Sat) Aug/31 2013 (34),Rennes (4),Lille (4),0-0,0-0
+?,(Sat) Aug/31 2013 (34),Sochaux (4),Ajaccio (4),0-0,0-0
+?,(Sun) Sep/1 2013 (34),Marseille (4),Monaco (4),1-2,1-0
+?,(Sun) Sep/1 2013 (34),Nice (4),Montpellier (4),2-2,2-1
+?,(Sun) Sep/1 2013 (34),St Etienne (4),Bordeaux (4),2-1,1-0
+?,(Fri) Sep/13 2013 (36),Bordeaux (5),Paris SG (5),0-2,0-1
+?,(Sat) Sep/14 2013 (36),Ajaccio (5),Evian Thonon Gaillard (5),2-3,0-2
+?,(Sat) Sep/14 2013 (36),Guingamp (5),Bastia (5),1-1,0-0
+?,(Sat) Sep/14 2013 (36),Montpellier (5),Reims (5),0-0,0-0
+?,(Sat) Sep/14 2013 (36),Nantes (5),Sochaux (5),1-0,0-0
+?,(Sat) Sep/14 2013 (36),Toulouse (5),Marseille (5),1-1,0-0
+?,(Sat) Sep/14 2013 (36),Valenciennes (5),St Etienne (5),1-3,0-1
+?,(Sun) Sep/15 2013 (36),Lille (5),Nice (5),0-2,0-2
+?,(Sun) Sep/15 2013 (36),Lyon (5),Rennes (5),0-0,0-0
+?,(Sun) Sep/15 2013 (36),Monaco (5),Lorient (5),1-0,1-0
+?,(Fri) Sep/20 2013 (37),St Etienne (6),Toulouse (6),1-2,1-0
+?,(Sat) Sep/21 2013 (37),Bastia (6),Marseille (6),0-0,0-0
+?,(Sat) Sep/21 2013 (37),Evian Thonon Gaillard (6),Montpellier (6),2-2,0-1
+?,(Sat) Sep/21 2013 (37),Reims (6),Guingamp (6),1-1,0-1
+?,(Sat) Sep/21 2013 (37),Rennes (6),Ajaccio (6),2-0,2-0
+?,(Sat) Sep/21 2013 (37),Sochaux (6),Lille (6),0-2,0-2
+?,(Sun) Sep/22 2013 (37),Lorient (6),Bordeaux (6),3-3,2-3
+?,(Sun) Sep/22 2013 (37),Lyon (6),Nantes (6),3-1,1-1
+?,(Sun) Sep/22 2013 (37),Nice (6),Valenciennes (6),4-0,2-0
+?,(Sun) Sep/22 2013 (37),Paris SG (6),Monaco (6),1-1,1-1
+?,(Tue) Sep/24 2013 (38),Lille (7),Evian Thonon Gaillard (7),3-0,2-0
+?,(Tue) Sep/24 2013 (38),Marseille (7),St Etienne (7),2-1,2-1
+?,(Wed) Sep/25 2013 (38),Ajaccio (7),Lyon (7),2-1,1-0
+?,(Wed) Sep/25 2013 (38),Bordeaux (7),Reims (7),0-0,0-0
+?,(Wed) Sep/25 2013 (38),Guingamp (7),Sochaux (7),5-1,3-0
+?,(Wed) Sep/25 2013 (38),Monaco (7),Bastia (7),3-0,2-0
+?,(Wed) Sep/25 2013 (38),Nantes (7),Nice (7),2-0,1-0
+?,(Wed) Sep/25 2013 (38),Toulouse (7),Lorient (7),1-0,0-0
+?,(Wed) Sep/25 2013 (38),Valenciennes (7),Paris SG (7),0-1,0-1
+?,(Thu) Sep/26 2013 (38),Montpellier (7),Rennes (7),0-0,0-0
+?,(Sat) Sep/28 2013 (38),Evian Thonon Gaillard (8),Bordeaux (8),1-1,1-0
+?,(Sat) Sep/28 2013 (38),Lorient (8),Marseille (8),0-2,0-0
+?,(Sat) Sep/28 2013 (38),Lyon (8),Lille (8),0-0,0-0
+?,(Sat) Sep/28 2013 (38),Nice (8),Guingamp (8),1-0,0-0
+?,(Sat) Sep/28 2013 (38),Paris SG (8),Toulouse (8),2-0,1-0
+?,(Sat) Sep/28 2013 (38),Sochaux (8),Valenciennes (8),2-0,2-0
+?,(Sat) Sep/28 2013 (38),St Etienne (8),Bastia (8),2-2,1-0
+?,(Sun) Sep/29 2013 (38),Ajaccio (8),Montpellier (8),1-1,1-1
+?,(Sun) Sep/29 2013 (38),Reims (8),Monaco (8),1-1,1-1
+?,(Sun) Sep/29 2013 (38),Rennes (8),Nantes (8),1-3,0-2
+?,(Fri) Oct/4 2013 (39),Bastia (9),Lorient (9),4-1,2-1
+?,(Sat) Oct/5 2013 (39),Guingamp (9),Rennes (9),2-0,0-0
+?,(Sat) Oct/5 2013 (39),Lille (9),Ajaccio (9),3-0,1-0
+?,(Sat) Oct/5 2013 (39),Monaco (9),St Etienne (9),2-1,1-0
+?,(Sat) Oct/5 2013 (39),Nantes (9),Evian Thonon Gaillard (9),3-0,2-0
+?,(Sat) Oct/5 2013 (39),Toulouse (9),Nice (9),1-0,1-0
+?,(Sat) Oct/5 2013 (39),Valenciennes (9),Reims (9),1-1,0-1
+?,(Sun) Oct/6 2013 (39),Bordeaux (9),Sochaux (9),4-1,2-1
+?,(Sun) Oct/6 2013 (39),Marseille (9),Paris SG (9),1-2,1-1
+?,(Sun) Oct/6 2013 (39),Montpellier (9),Lyon (9),5-1,2-0
+?,(Fri) Oct/18 2013 (41),Nice (10),Marseille (10),1-0,1-0
+?,(Fri) Oct/18 2013 (41),Reims (10),Toulouse (10),1-2,0-1
+?,(Sat) Oct/19 2013 (41),Ajaccio (10),Nantes (10),0-1,0-0
+?,(Sat) Oct/19 2013 (41),Evian Thonon Gaillard (10),Guingamp (10),1-2,1-0
+?,(Sat) Oct/19 2013 (41),Montpellier (10),Lille (10),0-1,0-1
+?,(Sat) Oct/19 2013 (41),Paris SG (10),Bastia (10),4-0,2-0
+?,(Sat) Oct/19 2013 (41),Rennes (10),Valenciennes (10),2-2,1-0
+?,(Sun) Oct/20 2013 (41),Lyon (10),Bordeaux (10),1-1,0-0
+?,(Sun) Oct/20 2013 (41),Sochaux (10),Monaco (10),2-2,0-2
+?,(Sun) Oct/20 2013 (41),St Etienne (10),Lorient (10),3-2,2-1
+?,(Fri) Oct/25 2013 (42),Nantes (11),Lille (11),0-1,0-1
+?,(Sat) Oct/26 2013 (42),Bastia (11),Nice (11),1-0,1-0
+?,(Sat) Oct/26 2013 (42),Guingamp (11),Ajaccio (11),2-1,0-1
+?,(Sat) Oct/26 2013 (42),Lorient (11),Sochaux (11),2-1,1-0
+?,(Sat) Oct/26 2013 (42),Marseille (11),Reims (11),2-3,0-2
+?,(Sat) Oct/26 2013 (42),Toulouse (11),Rennes (11),0-5,0-3
+?,(Sat) Oct/26 2013 (42),Valenciennes (11),Evian Thonon Gaillard (11),0-1,0-0
+?,(Sun) Oct/27 2013 (42),Bordeaux (11),Montpellier (11),2-0,0-0
+?,(Sun) Oct/27 2013 (42),Monaco (11),Lyon (11),2-1,2-0
+?,(Sun) Oct/27 2013 (42),St Etienne (11),Paris SG (11),2-2,1-0
+?,(Fri) Nov/1 2013 (43),Paris SG (12),Lorient (12),4-0,3-0
+?,(Sat) Nov/2 2013 (43),Ajaccio (12),Valenciennes (12),1-3,1-1
+?,(Sat) Nov/2 2013 (43),Evian Thonon Gaillard (12),Toulouse (12),2-1,0-0
+?,(Sat) Nov/2 2013 (43),Lyon (12),Guingamp (12),2-0,2-0
+?,(Sat) Nov/2 2013 (43),Reims (12),Bastia (12),4-2,2-0
+?,(Sat) Nov/2 2013 (43),Rennes (12),Marseille (12),1-1,1-1
+?,(Sat) Nov/2 2013 (43),Sochaux (12),St Etienne (12),0-0,0-0
+?,(Sun) Nov/3 2013 (43),Lille (12),Monaco (12),2-0,1-0
+?,(Sun) Nov/3 2013 (43),Montpellier (12),Nantes (12),1-1,0-1
+?,(Sun) Nov/3 2013 (43),Nice (12),Bordeaux (12),1-2,0-1
+?,(Fri) Nov/8 2013 (44),Monaco (13),Evian Thonon Gaillard (13),1-1,1-1
+?,(Sat) Nov/9 2013 (44),Bastia (13),Rennes (13),1-0,1-0
+?,(Sat) Nov/9 2013 (44),Guingamp (13),Lille (13),0-0,0-0
+?,(Sat) Nov/9 2013 (44),Lorient (13),Reims (13),0-0,0-0
+?,(Sat) Nov/9 2013 (44),Paris SG (13),Nice (13),3-1,1-0
+?,(Sat) Nov/9 2013 (44),Toulouse (13),Ajaccio (13),1-1,1-1
+?,(Sat) Nov/9 2013 (44),Valenciennes (13),Montpellier (13),1-1,1-0
+?,(Sun) Nov/10 2013 (44),Bordeaux (13),Nantes (13),0-3,0-1
+?,(Sun) Nov/10 2013 (44),Marseille (13),Sochaux (13),2-1,1-0
+?,(Sun) Nov/10 2013 (44),St Etienne (13),Lyon (13),1-2,0-0
+?,(Fri) Nov/22 2013 (46),Ajaccio (14),Marseille (14),1-3,1-2
+?,(Sat) Nov/23 2013 (46),Evian Thonon Gaillard (14),Lorient (14),0-4,0-2
+?,(Sat) Nov/23 2013 (46),Lyon (14),Valenciennes (14),1-1,1-0
+?,(Sat) Nov/23 2013 (46),Montpellier (14),Guingamp (14),1-1,0-0
+?,(Sat) Nov/23 2013 (46),Reims (14),Paris SG (14),0-3,0-1
+?,(Sat) Nov/23 2013 (46),Rennes (14),Bordeaux (14),1-1,0-0
+?,(Sat) Nov/23 2013 (46),Sochaux (14),Bastia (14),1-1,0-1
+?,(Sun) Nov/24 2013 (46),Lille (14),Toulouse (14),1-0,0-0
+?,(Sun) Nov/24 2013 (46),Nantes (14),Monaco (14),0-1,0-0
+?,(Sun) Nov/24 2013 (46),Nice (14),St Etienne (14),0-1,0-1
+?,(Fri) Nov/29 2013 (47),Marseille (15),Montpellier (15),2-0,1-0
+?,(Sat) Nov/30 2013 (47),Guingamp (15),Nantes (15),1-0,0-0
+?,(Sat) Nov/30 2013 (47),Lorient (15),Nice (15),3-0,1-0
+?,(Sat) Nov/30 2013 (47),Monaco (15),Rennes (15),2-0,2-0
+?,(Sat) Nov/30 2013 (47),St Etienne (15),Reims (15),4-0,0-0
+?,(Sat) Nov/30 2013 (47),Toulouse (15),Sochaux (15),5-1,2-1
+?,(Sat) Nov/30 2013 (47),Valenciennes (15),Lille (15),0-1,0-0
+?,(Sun) Dec/1 2013 (47),Bastia (15),Evian Thonon Gaillard (15),2-0,0-0
+?,(Sun) Dec/1 2013 (47),Bordeaux (15),Ajaccio (15),4-0,1-0
+?,(Sun) Dec/1 2013 (47),Paris SG (15),Lyon (15),4-0,2-0
+?,(Tue) Dec/3 2013 (48),Lille (16),Marseille (16),1-0,0-0
+?,(Tue) Dec/3 2013 (48),Nantes (16),Valenciennes (16),2-1,0-0
+?,(Tue) Dec/3 2013 (48),Nice (16),Monaco (16),0-3,0-2
+?,(Wed) Dec/4 2013 (48),Ajaccio (16),Bastia (16),1-1,0-1
+?,(Wed) Dec/4 2013 (48),Evian Thonon Gaillard (16),Paris SG (16),2-0,0-0
+?,(Wed) Dec/4 2013 (48),Guingamp (16),Bordeaux (16),0-1,0-1
+?,(Wed) Dec/4 2013 (48),Montpellier (16),Lorient (16),0-2,0-0
+?,(Wed) Dec/4 2013 (48),Rennes (16),St Etienne (16),3-1,1-0
+?,(Wed) Dec/4 2013 (48),Sochaux (16),Reims (16),0-2,0-1
+?,(Thu) Dec/5 2013 (48),Lyon (16),Toulouse (16),1-1,1-0
+?,(Fri) Dec/6 2013 (48),Marseille (17),Nantes (17),0-1,0-1
+?,(Sat) Dec/7 2013 (48),Lorient (17),Rennes (17),2-0,1-0
+?,(Sat) Dec/7 2013 (48),Paris SG (17),Sochaux (17),5-0,1-0
+?,(Sat) Dec/7 2013 (48),Reims (17),Nice (17),1-0,0-0
+?,(Sat) Dec/7 2013 (48),Valenciennes (17),Guingamp (17),1-1,1-0
+?,(Sun) Dec/8 2013 (48),Bastia (17),Lyon (17),1-3,1-0
+?,(Sun) Dec/8 2013 (48),Bordeaux (17),Lille (17),1-0,1-0
+?,(Sun) Dec/8 2013 (48),Monaco (17),Ajaccio (17),1-0,0-0
+?,(Sun) Dec/8 2013 (48),Toulouse (17),Montpellier (17),1-1,0-1
+?,(Fri) Dec/13 2013 (49),Montpellier (18),St Etienne (17),0-1,0-0
+?,(Sat) Dec/14 2013 (49),Ajaccio (18),Lorient (18),1-2,1-1
+?,(Sat) Dec/14 2013 (49),Evian Thonon Gaillard (17),Reims (18),1-1,0-0
+?,(Sat) Dec/14 2013 (49),Guingamp (18),Monaco (18),0-2,0-2
+?,(Sat) Dec/14 2013 (49),Nantes (18),Toulouse (18),1-2,0-0
+?,(Sat) Dec/14 2013 (49),Nice (18),Sochaux (18),1-0,1-0
+?,(Sat) Dec/14 2013 (49),Rennes (18),Paris SG (18),1-3,0-1
+?,(Sun) Dec/15 2013 (49),Bordeaux (18),Valenciennes (18),2-1,0-0
+?,(Sun) Dec/15 2013 (49),Lille (18),Bastia (18),2-1,2-1
+?,(Sun) Dec/15 2013 (49),Lyon (18),Marseille (18),2-2,2-1
+?,(Fri) Dec/20 2013 (50),Monaco (19),Valenciennes (19),1-2,0-1
+?,(Sat) Dec/21 2013 (50),Bastia (19),Montpellier (19),0-0,0-0
+?,(Sat) Dec/21 2013 (50),Nice (19),Evian Thonon Gaillard (18),3-1,0-1
+?,(Sat) Dec/21 2013 (50),Reims (19),Ajaccio (19),4-1,0-0
+?,(Sat) Dec/21 2013 (50),Sochaux (19),Rennes (19),2-1,1-1
+?,(Sat) Dec/21 2013 (50),St Etienne (18),Nantes (19),2-0,1-0
+?,(Sat) Dec/21 2013 (50),Toulouse (19),Guingamp (19),0-0,0-0
+?,(Sun) Dec/22 2013 (50),Lorient (19),Lyon (19),2-2,0-1
+?,(Sun) Dec/22 2013 (50),Marseille (19),Bordeaux (19),2-2,0-1
+?,(Sun) Dec/22 2013 (50),Paris SG (19),Lille (19),2-2,1-1
+?,(Wed) Jan/8 2014 (1),St Etienne (19),Evian Thonon Gaillard (19),1-0,1-0
+?,(Fri) Jan/10 2014 (1),Montpellier (20),Monaco (20),1-1,0-0
+?,(Sat) Jan/11 2014 (1),Ajaccio (20),Paris SG (20),1-2,1-1
+?,(Sat) Jan/11 2014 (1),Bordeaux (20),Toulouse (20),0-1,0-0
+?,(Sat) Jan/11 2014 (1),Guingamp (20),St Etienne (20),0-0,0-0
+?,(Sat) Jan/11 2014 (1),Lyon (20),Sochaux (20),2-0,0-0
+?,(Sat) Jan/11 2014 (1),Rennes (20),Nice (20),0-0,0-0
+?,(Sat) Jan/11 2014 (1),Valenciennes (20),Bastia (20),3-2,2-0
+?,(Sun) Jan/12 2014 (1),Evian Thonon Gaillard (20),Marseille (20),1-2,1-2
+?,(Sun) Jan/12 2014 (1),Lille (20),Reims (20),1-2,0-0
+?,(Sun) Jan/12 2014 (1),Nantes (20),Lorient (20),1-0,0-0
+?,(Fri) Jan/17 2014 (2),St Etienne (21),Lille (21),2-0,0-0
+?,(Sat) Jan/18 2014 (2),Bastia (21),Bordeaux (21),1-0,1-0
+?,(Sat) Jan/18 2014 (2),Lorient (21),Guingamp (21),2-0,2-0
+?,(Sat) Jan/18 2014 (2),Nice (21),Ajaccio (21),2-0,1-0
+?,(Sat) Jan/18 2014 (2),Rennes (21),Evian Thonon Gaillard (21),0-0,0-0
+?,(Sat) Jan/18 2014 (2),Sochaux (21),Montpellier (21),0-2,0-1
+?,(Sun) Jan/19 2014 (2),Paris SG (21),Nantes (21),5-0,2-0
+?,(Sun) Jan/19 2014 (2),Reims (21),Lyon (21),0-2,0-1
+?,(Sun) Jan/19 2014 (2),Toulouse (21),Monaco (21),0-2,0-1
+?,(Fri) Jan/24 2014 (3),Lille (22),Rennes (22),1-1,1-1
+?,(Sat) Jan/25 2014 (3),Ajaccio (22),Sochaux (22),1-1,1-0
+?,(Sat) Jan/25 2014 (3),Guingamp (22),Paris SG (22),1-1,0-0
+?,(Sat) Jan/25 2014 (3),Montpellier (22),Nice (22),3-1,1-0
+?,(Sat) Jan/25 2014 (3),Nantes (22),Reims (22),0-0,0-0
+?,(Sat) Jan/25 2014 (3),Valenciennes (21),Lorient (22),1-1,0-1
+?,(Sun) Jan/26 2014 (3),Bordeaux (22),St Etienne (22),2-0,1-0
+?,(Sun) Jan/26 2014 (3),Lyon (22),Evian Thonon Gaillard (22),3-0,2-0
+?,(Sun) Jan/26 2014 (3),Monaco (22),Marseille (21),2-0,1-0
+?,(Wed) Jan/29 2014 (4),Marseille (22),Valenciennes (22),2-1,1-1
+?,(Fri) Jan/31 2014 (4),Paris SG (23),Bordeaux (23),2-0,0-0
+?,(Sat) Feb/1 2014 (4),Bastia (22),Guingamp (23),3-2,0-0
+?,(Sat) Feb/1 2014 (4),Evian Thonon Gaillard (23),Ajaccio (23),1-1,0-0
+?,(Sat) Feb/1 2014 (4),Lorient (23),Monaco (23),2-2,1-1
+?,(Sat) Feb/1 2014 (4),Reims (23),Montpellier (23),2-4,0-1
+?,(Sat) Feb/1 2014 (4),Sochaux (23),Nantes (23),1-0,1-0
+?,(Sat) Feb/1 2014 (4),St Etienne (23),Valenciennes (23),3-0,1-0
+?,(Sun) Feb/2 2014 (4),Marseille (23),Toulouse (22),2-2,2-1
+?,(Sun) Feb/2 2014 (4),Nice (23),Lille (23),1-0,1-0
+?,(Sun) Feb/2 2014 (4),Rennes (23),Lyon (23),2-0,1-0
+?,(Fri) Feb/7 2014 (5),Toulouse (23),St Etienne (24),0-0,0-0
+?,(Sat) Feb/8 2014 (5),Ajaccio (24),Rennes (24),3-1,2-1
+?,(Sat) Feb/8 2014 (5),Guingamp (24),Reims (24),1-2,0-0
+?,(Sat) Feb/8 2014 (5),Lille (24),Sochaux (24),2-0,1-0
+?,(Sat) Feb/8 2014 (5),Marseille (24),Bastia (23),3-0,2-0
+?,(Sat) Feb/8 2014 (5),Montpellier (24),Evian Thonon Gaillard (24),1-1,1-1
+?,(Sat) Feb/8 2014 (5),Valenciennes (24),Nice (24),2-1,1-0
+?,(Sun) Feb/9 2014 (5),Monaco (24),Paris SG (24),1-1,0-1
+?,(Sun) Feb/9 2014 (5),Nantes (24),Lyon (24),1-2,0-1
+?,(Tue) Feb/11 2014 (6),Toulouse (24),Bastia (24),1-3,1-2
+?,(Fri) Feb/14 2014 (6),Paris SG (25),Valenciennes (25),3-0,1-0
+?,(Sat) Feb/15 2014 (6),Bastia (25),Monaco (25),0-2,0-1
+?,(Sat) Feb/15 2014 (6),Lorient (24),Toulouse (25),1-3,1-0
+?,(Sat) Feb/15 2014 (6),Nice (25),Nantes (25),0-0,0-0
+?,(Sat) Feb/15 2014 (6),Reims (25),Bordeaux (24),1-0,0-0
+?,(Sat) Feb/15 2014 (6),Rennes (25),Montpellier (25),2-2,1-0
+?,(Sat) Feb/15 2014 (6),Sochaux (25),Guingamp (25),1-0,0-0
+?,(Sun) Feb/16 2014 (6),Evian Thonon Gaillard (25),Lille (25),2-2,1-1
+?,(Sun) Feb/16 2014 (6),Lyon (25),Ajaccio (25),3-1,1-0
+?,(Sun) Feb/16 2014 (6),St Etienne (25),Marseille (25),1-1,0-0
+?,(Fri) Feb/21 2014 (7),Monaco (26),Reims (26),3-2,1-0
+?,(Sat) Feb/22 2014 (7),Bastia (26),St Etienne (26),0-2,0-1
+?,(Sat) Feb/22 2014 (7),Bordeaux (25),Evian Thonon Gaillard (26),2-1,0-0
+?,(Sat) Feb/22 2014 (7),Guingamp (26),Nice (26),1-0,0-0
+?,(Sat) Feb/22 2014 (7),Marseille (26),Lorient (25),1-0,0-0
+?,(Sat) Feb/22 2014 (7),Montpellier (26),Ajaccio (26),2-0,0-0
+?,(Sat) Feb/22 2014 (7),Valenciennes (26),Sochaux (26),2-2,0-0
+?,(Sun) Feb/23 2014 (7),Lille (26),Lyon (26),0-0,0-0
+?,(Sun) Feb/23 2014 (7),Nantes (26),Rennes (26),0-3,0-1
+?,(Sun) Feb/23 2014 (7),Toulouse (26),Paris SG (26),2-4,1-1
+?,(Tue) Feb/25 2014 (8),Bordeaux (26),Lorient (26),3-2,2-1
+?,(Fri) Feb/28 2014 (8),Evian Thonon Gaillard (27),Nantes (27),2-0,0-0
+?,(Sat) Mar/1 2014 (8),Lorient (27),Bastia (27),1-1,1-0
+?,(Sat) Mar/1 2014 (8),Nice (27),Toulouse (27),0-2,0-0
+?,(Sat) Mar/1 2014 (8),Reims (27),Valenciennes (27),3-1,2-0
+?,(Sat) Mar/1 2014 (8),Rennes (27),Guingamp (27),0-2,0-1
+?,(Sat) Mar/1 2014 (8),Sochaux (27),Bordeaux (27),2-0,0-0
+?,(Sat) Mar/1 2014 (8),St Etienne (27),Monaco (27),2-0,1-0
+?,(Sun) Mar/2 2014 (8),Ajaccio (27),Lille (27),2-3,2-2
+?,(Sun) Mar/2 2014 (8),Lyon (27),Montpellier (27),0-0,0-0
+?,(Sun) Mar/2 2014 (8),Paris SG (27),Marseille (27),2-0,0-0
+?,(Fri) Mar/7 2014 (9),Marseille (28),Nice (28),0-1,0-0
+?,(Sat) Mar/8 2014 (9),Bastia (28),Paris SG (28),0-3,0-2
+?,(Sat) Mar/8 2014 (9),Guingamp (28),Evian Thonon Gaillard (28),0-1,0-0
+?,(Sat) Mar/8 2014 (9),Monaco (28),Sochaux (28),2-1,1-0
+?,(Sat) Mar/8 2014 (9),Nantes (28),Ajaccio (28),2-2,1-1
+?,(Sat) Mar/8 2014 (9),Toulouse (28),Reims (28),3-2,0-2
+?,(Sat) Mar/8 2014 (9),Valenciennes (28),Rennes (28),2-1,0-0
+?,(Sun) Mar/9 2014 (9),Bordeaux (28),Lyon (28),1-2,1-0
+?,(Sun) Mar/9 2014 (9),Lille (28),Montpellier (28),2-0,1-0
+?,(Sun) Mar/9 2014 (9),Lorient (28),St Etienne (28),1-0,0-0
+?,(Fri) Mar/14 2014 (10),Reims (29),Marseille (29),1-1,0-0
+?,(Sat) Mar/15 2014 (10),Ajaccio (29),Guingamp (29),1-2,1-1
+?,(Sat) Mar/15 2014 (10),Evian Thonon Gaillard (29),Valenciennes (29),0-1,0-0
+?,(Sat) Mar/15 2014 (10),Lille (29),Nantes (29),0-0,0-0
+?,(Sat) Mar/15 2014 (10),Nice (29),Bastia (29),2-0,1-0
+?,(Sat) Mar/15 2014 (10),Rennes (29),Toulouse (29),2-3,0-2
+?,(Sat) Mar/15 2014 (10),Sochaux (29),Lorient (29),2-0,1-0
+?,(Sun) Mar/16 2014 (10),Lyon (29),Monaco (29),2-3,1-2
+?,(Sun) Mar/16 2014 (10),Montpellier (29),Bordeaux (29),1-1,1-1
+?,(Sun) Mar/16 2014 (10),Paris SG (29),St Etienne (29),2-0,2-0
+?,(Fri) Mar/21 2014 (11),Lorient (30),Paris SG (30),0-1,0-1
+?,(Sat) Mar/22 2014 (11),Bastia (30),Reims (30),2-0,2-0
+?,(Sat) Mar/22 2014 (11),Bordeaux (30),Nice (30),1-1,0-0
+?,(Sat) Mar/22 2014 (11),Marseille (30),Rennes (30),0-1,0-0
+?,(Sat) Mar/22 2014 (11),Nantes (30),Montpellier (30),2-1,2-1
+?,(Sat) Mar/22 2014 (11),Toulouse (30),Evian Thonon Gaillard (30),1-1,0-0
+?,(Sat) Mar/22 2014 (11),Valenciennes (30),Ajaccio (30),2-3,0-0
+?,(Sun) Mar/23 2014 (11),Guingamp (30),Lyon (30),0-1,0-0
+?,(Sun) Mar/23 2014 (11),Monaco (30),Lille (30),1-1,1-1
+?,(Sun) Mar/23 2014 (11),St Etienne (30),Sochaux (30),3-1,0-0
+?,(Fri) Mar/28 2014 (12),Nice (31),Paris SG (31),0-1,0-0
+?,(Sat) Mar/29 2014 (12),Ajaccio (31),Toulouse (31),2-2,2-1
+?,(Sat) Mar/29 2014 (12),Evian Thonon Gaillard (31),Monaco (31),1-0,0-0
+?,(Sat) Mar/29 2014 (12),Montpellier (31),Valenciennes (31),0-0,0-0
+?,(Sat) Mar/29 2014 (12),Nantes (31),Bordeaux (31),0-0,0-0
+?,(Sat) Mar/29 2014 (12),Reims (31),Lorient (31),1-1,0-1
+?,(Sat) Mar/29 2014 (12),Sochaux (31),Marseille (31),1-1,1-0
+?,(Sun) Mar/30 2014 (12),Lille (31),Guingamp (31),1-0,0-0
+?,(Sun) Mar/30 2014 (12),Lyon (31),St Etienne (31),1-2,1-1
+?,(Sun) Mar/30 2014 (12),Rennes (31),Bastia (31),3-0,2-0
+?,(Fri) Apr/4 2014 (13),Marseille (32),Ajaccio (32),3-1,1-0
+?,(Sat) Apr/5 2014 (13),Bastia (32),Sochaux (32),2-2,0-2
+?,(Sat) Apr/5 2014 (13),Bordeaux (32),Rennes (32),2-2,1-0
+?,(Sat) Apr/5 2014 (13),Guingamp (32),Montpellier (32),1-2,0-2
+?,(Sat) Apr/5 2014 (13),Lorient (32),Evian Thonon Gaillard (32),1-1,1-0
+?,(Sat) Apr/5 2014 (13),Paris SG (32),Reims (32),3-0,1-0
+?,(Sat) Apr/5 2014 (13),Toulouse (32),Lille (32),1-2,0-2
+?,(Sun) Apr/6 2014 (13),Monaco (32),Nantes (32),3-1,1-0
+?,(Sun) Apr/6 2014 (13),St Etienne (32),Nice (32),1-1,0-0
+?,(Sun) Apr/6 2014 (13),Valenciennes (32),Lyon (32),1-2,0-1
+?,(Fri) Apr/11 2014 (14),Montpellier (33),Marseille (33),2-3,0-1
+?,(Sat) Apr/12 2014 (14),Ajaccio (33),Bordeaux (33),1-1,0-0
+?,(Sat) Apr/12 2014 (14),Evian Thonon Gaillard (33),Bastia (33),2-1,1-1
+?,(Sat) Apr/12 2014 (14),Lille (33),Valenciennes (33),1-0,0-0
+?,(Sat) Apr/12 2014 (14),Nice (33),Lorient (33),1-2,1-1
+?,(Sat) Apr/12 2014 (14),Rennes (33),Monaco (33),0-1,0-0
+?,(Sat) Apr/12 2014 (14),Sochaux (33),Toulouse (33),2-0,1-0
+?,(Sun) Apr/13 2014 (14),Lyon (33),Paris SG (33),1-0,1-0
+?,(Sun) Apr/13 2014 (14),Nantes (33),Guingamp (33),1-0,1-0
+?,(Sun) Apr/13 2014 (14),Reims (33),St Etienne (33),2-2,1-0
+?,(Fri) Apr/18 2014 (15),St Etienne (34),Rennes (34),0-0,0-0
+?,(Sun) Apr/20 2014 (15),Bastia (34),Ajaccio (34),2-1,1-1
+?,(Sun) Apr/20 2014 (15),Bordeaux (34),Guingamp (34),5-1,3-1
+?,(Sun) Apr/20 2014 (15),Lorient (34),Montpellier (34),4-4,1-1
+?,(Sun) Apr/20 2014 (15),Marseille (34),Lille (34),0-0,0-0
+?,(Sun) Apr/20 2014 (15),Monaco (34),Nice (34),1-0,1-0
+?,(Sun) Apr/20 2014 (15),Reims (34),Sochaux (34),0-1,0-1
+?,(Sun) Apr/20 2014 (15),Valenciennes (34),Nantes (34),2-6,0-3
+?,(Wed) Apr/23 2014 (16),Paris SG (34),Evian Thonon Gaillard (34),1-0,0-0
+?,(Wed) Apr/23 2014 (16),Toulouse (34),Lyon (34),0-0,0-0
+?,(Fri) Apr/25 2014 (16),Nantes (35),Marseille (35),1-1,0-1
+?,(Sat) Apr/26 2014 (16),Ajaccio (35),Monaco (35),1-4,0-0
+?,(Sat) Apr/26 2014 (16),Evian Thonon Gaillard (35),St Etienne (35),1-2,0-2
+?,(Sat) Apr/26 2014 (16),Guingamp (35),Valenciennes (35),1-0,0-0
+?,(Sat) Apr/26 2014 (16),Montpellier (35),Toulouse (35),2-1,0-1
+?,(Sat) Apr/26 2014 (16),Nice (35),Reims (35),1-0,0-0
+?,(Sat) Apr/26 2014 (16),Rennes (35),Lorient (35),1-1,0-1
+?,(Sun) Apr/27 2014 (16),Lille (35),Bordeaux (35),2-1,1-0
+?,(Sun) Apr/27 2014 (16),Lyon (35),Bastia (35),4-1,2-0
+?,(Sun) Apr/27 2014 (16),Sochaux (35),Paris SG (35),1-1,0-1
+?,(Fri) May/2 2014 (17),Bastia (36),Lille (36),1-1,0-1
+?,(Sun) May/4 2014 (17),Lorient (36),Ajaccio (36),1-0,1-0
+?,(Sun) May/4 2014 (17),Marseille (36),Lyon (36),4-2,2-1
+?,(Sun) May/4 2014 (17),Reims (36),Evian Thonon Gaillard (36),1-0,1-0
+?,(Sun) May/4 2014 (17),Sochaux (36),Nice (36),2-0,1-0
+?,(Sun) May/4 2014 (17),St Etienne (36),Montpellier (36),2-0,0-0
+?,(Sun) May/4 2014 (17),Toulouse (36),Nantes (36),1-1,0-1
+?,(Sun) May/4 2014 (17),Valenciennes (36),Bordeaux (36),0-1,0-0
+?,(Wed) May/7 2014 (18),Monaco (36),Guingamp (36),1-1,0-0
+?,(Wed) May/7 2014 (18),Paris SG (36),Rennes (36),1-2,1-2
+?,(Sat) May/10 2014 (18),Ajaccio (37),Reims (37),2-1,2-1
+?,(Sat) May/10 2014 (18),Bordeaux (37),Marseille (37),1-1,0-1
+?,(Sat) May/10 2014 (18),Evian Thonon Gaillard (37),Nice (37),2-0,1-0
+?,(Sat) May/10 2014 (18),Guingamp (37),Toulouse (37),2-0,2-0
+?,(Sat) May/10 2014 (18),Lille (37),Paris SG (37),1-3,0-1
+?,(Sat) May/10 2014 (18),Lyon (37),Lorient (37),0-1,0-0
+?,(Sat) May/10 2014 (18),Montpellier (37),Bastia (37),0-2,0-1
+?,(Sat) May/10 2014 (18),Nantes (37),St Etienne (37),1-3,0-3
+?,(Sat) May/10 2014 (18),Rennes (37),Sochaux (37),1-2,0-1
+?,(Sat) May/10 2014 (18),Valenciennes (37),Monaco (37),1-2,0-1
+?,(Sat) May/17 2014 (19),Bastia (38),Nantes (38),0-0,0-0
+?,(Sat) May/17 2014 (19),Lorient (38),Lille (38),1-4,1-1
+?,(Sat) May/17 2014 (19),Marseille (38),Guingamp (38),1-0,0-0
+?,(Sat) May/17 2014 (19),Monaco (38),Bordeaux (38),1-1,0-1
+?,(Sat) May/17 2014 (19),Nice (38),Lyon (38),0-1,0-1
+?,(Sat) May/17 2014 (19),Paris SG (38),Montpellier (38),4-0,2-0
+?,(Sat) May/17 2014 (19),Reims (38),Rennes (38),1-3,0-1
+?,(Sat) May/17 2014 (19),Sochaux (38),Evian Thonon Gaillard (38),0-3,0-2
+?,(Sat) May/17 2014 (19),St Etienne (38),Ajaccio (38),3-1,2-0
+?,(Sat) May/17 2014 (19),Toulouse (38),Valenciennes (38),3-1,2-0
