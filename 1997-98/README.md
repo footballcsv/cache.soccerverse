@@ -3,55 +3,63 @@
 ### Standings
 
 
-~~~
- 1. Lens                          34  21   5   8  55:30   68
- 2. Metz                          34  20   8   6  48:28   68
- 3. Monaco                        34  18   5  11  51:33   59
- 4. Marseille                     34  16   9   9  47:27   57
- 5. Bordeaux                      34  15  11   8  49:41   56
- 6. Lyon                          34  16   5  13  39:37   53
- 7. Auxerre                       34  14   9  11  55:45   51
- 8. Paris SG                      34  14   8  12  43:35   50
- 9. Bastia                        34  13  11  10  36:31   50
-10. Le Havre                      34  10  14  10  38:35   44
-11. Nantes                        34  11   8  15  35:41   41
-12. Montpellier                   34  10  11  13  32:42   41
-13. Strasbourg                    34   9  10  15  39:43   37
-14. Rennes                        34   9   9  16  36:48   36
-15. Toulouse                      34   9   9  16  26:46   36
-16. Guingamp                      34   9   8  17  30:42   35
-17. Chateauroux                   34   8   7  19  31:59   31
-18. Cannes                        34   7   7  20  32:59   28
-~~~
+```
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. RC Lens                       34  12  4  1  32:9     9  1  7  23:21    55:30  +25   68
+ 2. FC Metz                       34  14  0  3  31:12    6  8  3  17:16    48:28  +20   68
+ 3. AS Monaco                     34  11  1  5  30:15    7  4  6  21:18    51:33  +18   59
+ 4. Olympique de Marseille        34  11  4  2  25:6     5  5  7  22:21    47:27  +20   57
+ 5. Girondins de Bordeaux         34  10  6  1  33:17    5  5  7  16:24    49:41   +8   56
+ 6. Olympique Lyonnais            34   8  3  6  18:17    8  2  7  21:20    39:37   +2   53
+ 7. AJ Auxerre                    34  10  4  3  36:16    4  5  8  19:29    55:45  +10   51
+ 8. Paris Saint-Germain           34   9  3  5  28:16    5  5  7  15:19    43:35   +8   50
+ 9. SC Bastia                     34  10  5  2  25:9     3  6  8  11:22    36:31   +5   50
+10. Le Havre AC                   34   6  9  2  25:14    4  5  8  13:21    38:35   +3   44
+11. FC Nantes                     34   7  5  5  20:16    4  3 10  15:25    35:41   -6   41
+12. Montpellier HSC               34   6  6  5  20:15    4  5  8  12:27    32:42  -10   41
+13. RC Strasbourg                 34   8  4  5  22:13    1  6 10  17:30    39:43   -4   37
+14. Stade Rennais FC              34   8  4  5  27:19    1  5 11   9:29    36:48  -12   36
+15. Toulouse FC                   34   6  5  6  17:21    3  4 10   9:25    26:46  -20   36
+16. EA Guingamp                   34   5  6  6  14:13    4  2 11  16:29    30:42  -12   35
+17. LB Châteauroux                34   8  2  7  23:24    0  5 12   8:35    31:59  -28   31
+18. AS Cannes                     34   3  6  8  18:26    4  1 12  14:33    32:59  -27   28
+```
 
-(Source: `1-division1.csv`)
+(Source: [`1-division1.csv`](1-division1.csv))
 
 
-~~~
- 1. Nancy                         42  20  16   6  64:37   76
- 2. Lorient                       42  21  12   9  68:38   75
- 3. Sochaux                       42  18  12  12  56:37   66
- 4. Lille                         42  17  14  11  62:44   65
- 5. Troyes                        42  16  15  11  48:38   63
- 6. Le Mans                       42  16  14  12  54:46   62
- 7. Valence                       42  12  22   8  51:45   58
- 8. Red Star 93                   42  15  12  15  51:61   57
- 9. Caen                          42  15  11  16  61:55   56
-10. Niort                         42  12  19  11  42:38   55
-11. Gueugnon                      42  16   7  19  47:54   55
-12. Amiens                        42  14  13  15  41:49   55
-13. Laval                         42  14  12  16  50:48   54
-14. Nice                          42  11  19  12  40:40   52
-15. Nimes                         42  13  13  16  41:51   52
-16. Beauvais                      42  11  18  13  40:47   51
-17. St Etienne                    42  12  15  15  47:60   51
-18. Wasquehal                     42  14   9  19  49:64   51
-19. Louhans-Cuis.                 42  13  10  19  41:51   49
-20. Toulon                        42  12  10  20  43:62   46
-21. Martigues                     42  10  15  17  37:63   45
-22. Mulhouse                      42   9  14  19  51:56   41
-~~~
+```
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. AS Nancy Lorraine             42  14  5  2  37:13    6 11  4  27:24    64:37  +27   76
+ 2. FC Lorient                    42  13  6  2  46:16    8  6  7  22:22    68:38  +30   75
+ 3. FC Sochaux-Montbéliard        42  12  5  4  36:13    6  7  8  20:24    56:37  +19   66
+ 4. Lille OSC                     42  14  3  4  42:16    3 11  7  20:28    62:44  +18   65
+ 5. ES Troyes AC                  42   9  7  5  26:17    7  8  6  22:21    48:38  +10   63
+ 6. Le Mans FC                    42  10  7  4  35:19    6  7  8  19:27    54:46   +8   62
+ 7. ASOA Valence                  42   9  8  4  30:22    3 14  4  21:23    51:45   +6   58
+ 8. Red Star FC                   42  13  6  2  30:15    2  6 13  21:46    51:61  -10   57
+ 9. Stade Malherbe Caen           42  10  8  3  40:15    5  3 13  21:40    61:55   +6   56
+10. Chamois Niortais FC           42  11  8  2  29:12    1 11  9  13:26    42:38   +4   55
+11. FC Gueugnon                   42  12  5  4  32:15    4  2 15  15:39    47:54   -7   55
+12. Amiens SC                     42  10  8  3  26:15    4  5 12  15:34    41:49   -8   55
+13. Stade Lavallois               42   9  7  5  32:19    5  5 11  18:29    50:48   +2   54
+14. OGC Nice                      42   9  9  3  23:13    2 10  9  17:27    40:40        52
+15. Nîmes Olympique               42   8 10  3  23:16    5  3 13  18:35    41:51  -10   52
+16. AS Beauvais Oise              42   8  9  4  27:22    3  9  9  13:25    40:47   -7   51
+17. AS Saint-Étienne              42   8 10  3  33:25    4  5 12  14:35    47:60  -13   51
+18. Wasquehal Foot                42  12  4  5  34:27    2  5 14  15:37    49:64  -15   51
+19. CS Louhans-Cuiseaux           42  11  5  5  26:13    2  5 14  15:38    41:51  -10   49
+20. Sporting Toulon Var           42   9  6  6  26:19    3  4 14  17:43    43:62  -19   46
+21. FC Martigues                  42   8  8  5  23:20    2  7 12  14:43    37:63  -26   45
+22. FC Mulhouse                   42   8  7  6  39:27    1  7 13  12:29    51:56   -5   41
+```
 
-(Source: `2-division2.csv`)
+(Source: [`2-division2.csv`](2-division2.csv))
 
+
+
+---
+Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points
 

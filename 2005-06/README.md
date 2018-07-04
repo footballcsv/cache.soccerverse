@@ -3,55 +3,63 @@
 ### Standings
 
 
-~~~
- 1. Lyon                          38  25   9   4  73:31   84
- 2. Bordeaux                      38  18  15   5  43:25   69
- 3. Lille                         38  16  14   8  56:31   62
- 4. Lens                          38  14  18   6  48:34   60
- 5. Marseille                     38  16  12  10  44:35   60
- 6. Auxerre                       38  17   8  13  50:39   59
- 7. Rennes                        38  18   5  15  48:49   59
- 8. Nice                          38  16  10  12  36:31   58
- 9. Paris SG                      38  13  13  12  44:38   52
-10. Monaco                        38  13  13  12  42:36   52
-11. Le Mans                       38  13  13  12  33:36   52
-12. Nancy                         38  12  12  14  35:37   48
-13. St Etienne                    38  11  14  13  29:39   47
-14. Nantes                        38  11  12  15  37:41   45
-15. Sochaux                       38  11  11  16  34:47   44
-16. Toulouse                      38  10  11  17  36:47   41
-17. Troyes                        38   9  12  17  37:47   39
-18. Ajaccio                       38   8   9  21  27:53   33
-19. Strasbourg                    38   5  14  19  33:56   29
-20. Metz                          38   6  11  21  26:59   29
-~~~
+```
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Olympique Lyonnais            38  13  4  2  40:18   12  5  2  33:13    73:31  +42   84
+ 2. Girondins de Bordeaux         38  11  7  1  23:11    7  8  4  20:14    43:25  +18   69
+ 3. Lille OSC                     38  12  5  2  33:7     4  9  6  23:24    56:31  +25   62
+ 4. RC Lens                       38  11  7  1  34:14    3 11  5  14:20    48:34  +14   60
+ 5. Olympique de Marseille        38  10  8  1  28:13    6  4  9  16:22    44:35   +9   60
+ 6. AJ Auxerre                    38  13  3  3  33:9     4  5 10  17:30    50:39  +11   59
+ 7. Stade Rennais FC              38  11  3  5  34:25    7  2 10  14:24    48:49   -1   59
+ 8. OGC Nice                      38  11  4  4  22:12    5  6  8  14:19    36:31   +5   58
+ 9. Paris Saint-Germain           38  11  3  5  34:20    2 10  7  10:18    44:38   +6   52
+10. AS Monaco                     38   8  7  4  23:14    5  6  8  19:22    42:36   +6   52
+11. Le Mans FC                    38   9  7  3  21:8     4  6  9  12:28    33:36   -3   52
+12. AS Nancy Lorraine             38   5  8  6  19:17    7  4  8  16:20    35:37   -2   48
+13. AS Saint-Étienne              38   6  8  5  18:15    5  6  8  11:24    29:39  -10   47
+14. FC Nantes                     38   7  7  5  22:18    4  5 10  15:23    37:41   -4   45
+15. FC Sochaux-Montbéliard        38   6  7  6  17:19    5  4 10  17:28    34:47  -13   44
+16. Toulouse FC                   38   7  6  6  21:18    3  5 11  15:29    36:47  -11   41
+17. ES Troyes AC                  38   6  7  6  20:18    3  5 11  17:29    37:47  -10   39
+18. AC Ajaccio                    38   6  5  8  15:20    2  4 13  12:33    27:53  -26   33
+19. RC Strasbourg                 38   2  8  9  15:26    3  6 10  18:30    33:56  -23   29
+20. FC Metz                       38   5  4 10  13:24    1  7 11  13:35    26:59  -33   29
+```
 
-(Source: `1-ligue1.csv`)
+(Source: [`1-ligue1.csv`](1-ligue1.csv))
 
 
-~~~
- 1. Valenciennes                  38  21  11   6  51:28   74
- 2. Sedan                         38  19  14   5  50:32   71
- 3. Lorient                       38  18  12   8  49:26   66
- 4. Caen                          38  18  12   8  56:35   66
- 5. Dijon                         38  16  12  10  47:32   60
- 6. Bastia                        38  16  10  12  47:40   58
- 7. Le Havre                      38  13  16   9  48:41   55
- 8. Creteil                       38  13  15  10  46:33   54
- 9. Guingamp                      38  12  14  12  36:32   50
-10. Grenoble                      38  12  12  14  42:45   48
-11. Gueugnon                      38  11  15  12  29:37   48
-12. Montpellier                   38  12  11  15  34:43   47
-13. Istres                        38  12  11  15  33:45   47
-14. Reims                         38  10  15  13  32:31   45
-15. Chateauroux                   38  10  14  14  48:48   44
-16. Amiens                        38   9  16  13  32:44   43
-17. Brest                         38   9  15  14  34:48   42
-18. Clermont                      38  10   8  20  35:59   38
-19. Laval                         38   9   8  21  38:59   35
-20. Sete                          38   4  11  23  31:60   23
-~~~
+```
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Valenciennes FC               38  12  5  2  25:10    9  6  4  26:18    51:28  +23   74
+ 2. CS Sedan-Ardennes             38  10  7  2  29:18    9  7  3  21:14    50:32  +18   71
+ 3. FC Lorient                    38  10  6  3  29:15    8  6  5  20:11    49:26  +23   66
+ 4. Stade Malherbe Caen           38  12  5  2  31:15    6  7  6  25:20    56:35  +21   66
+ 5. Dijon FCO                     38   8  5  6  24:17    8  7  4  23:15    47:32  +15   60
+ 6. SC Bastia                     38   9  5  5  28:16    7  5  7  19:24    47:40   +7   58
+ 7. Le Havre AC                   38   9  7  3  28:16    4  9  6  20:25    48:41   +7   55
+ 8. US Créteil                    38  10  6  3  33:16    3  9  7  13:17    46:33  +13   54
+ 9. EA Guingamp                   38   7  7  5  19:12    5  7  7  17:20    36:32   +4   50
+10. Grenoble Foot 38              38   9  6  4  28:17    3  6 10  14:28    42:45   -3   48
+11. FC Gueugnon                   38   9  8  2  23:11    2  7 10   6:26    29:37   -8   48
+12. Montpellier HSC               38   8  7  4  22:18    4  4 11  12:25    34:43   -9   47
+13. FC Istres                     38  10  6  3  22:15    2  5 12  11:30    33:45  -12   47
+14. Stade de Reims                38   7  6  6  18:11    3  9  7  14:20    32:31   +1   45
+15. LB Châteauroux                38   6  9  4  25:21    4  5 10  23:27    48:48        44
+16. Amiens SC                     38   8  8  3  21:13    1  8 10  11:31    32:44  -12   43
+17. Stade Brestois 29             38   6  7  6  21:22    3  8  8  13:26    34:48  -14   42
+18. Clermont Foot 63              38   8  4  7  19:20    2  4 13  16:39    35:59  -24   38
+19. Stade Lavallois               38   6  5  8  16:21    3  3 13  22:38    38:59  -21   35
+20. FC Sète                       38   4  7  8  23:30    0  4 15   8:30    31:60  -29   23
+```
 
-(Source: `2-ligue2.csv`)
+(Source: [`2-ligue2.csv`](2-ligue2.csv))
 
+
+
+---
+Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points
 
