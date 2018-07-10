@@ -431,45 +431,6 @@ Wasquehal Foot              => Wasquehal
 
 ### Teams by City
 
-- ? (38): 
-  - AC Arles-Avignon  (1) Arles
-  - AJ Auxerre  (1) Auxerre
-  - AS Beauvais Oise  (1) Beauvais
-  - AS Saint-Étienne  (1) St Etienne
-  - Amiens SC  (1) Amiens
-  - Angers SCO  (1) Angers
-  - Bourg-en-Bresse 01  (1) Bourg Peronnas
-  - CS Louhans-Cuiseaux  (1) Louhans-Cuis.
-  - CS Sedan-Ardennes  (1) Sedan
-  - Chamois Niortais FC  (1) Niort
-  - EA Guingamp  (1) Guingamp
-  - ES Troyes AC  (1) Troyes
-  - FC Gueugnon  (1) Gueugnon
-  - FC Istres  (1) Istres
-  - FC Libourne-Saint-Seurin  (1) Libourne
-  - FC Lorient  (1) Lorient
-  - FC Martigues  (1) Martigues
-  - FC Rouen  (1) Rouen
-  - FC Sochaux-Montbéliard  (1) Sochaux
-  - FC Sète  (1) Sete
-  - FCO Charleville  (1) Charleville
-  - LB Châteauroux  (1) Chateauroux
-  - Perpignan FC  (1) Perpignan
-  - RC Lens  (1) Lens
-  - Racing Besançon  (1) Besancon
-  - Red Star FC  (2) Red Star • Red Star 93
-  - SAS Épinal  (1) Epinal
-  - Sporting Toulon Var  (1) Toulon
-  - Stade Briochin  (1) St Brieuc
-  - Stade Lavallois  (1) Laval
-  - Stade Malherbe Caen  (1) Caen
-  - US Boulogne  (1) Boulogne
-  - US Créteil  (1) Creteil
-  - US Quevilly-Rouen Métropole  (1) Quevilly Rouen
-  - Valenciennes FC  (1) Valenciennes
-  - Vannes OC  (1) Vannes
-  - Wasquehal Foot  (1) Wasquehal
-  - Évian TG FC  (1) Evian Thonon Gaillard
 - **Ajaccio** (2): 
   - AC Ajaccio  (1) Ajaccio
   - GFC Ajaccio  (1) Ajaccio GFCO
@@ -479,32 +440,70 @@ Wasquehal Foot              => Wasquehal
 - **Paris** (2): 
   - Paris FC 
   - Paris Saint-Germain  (1) Paris SG
+- **Amiens** (1): Amiens SC  (1) Amiens
+- **Angers** (1): Angers SCO  (1) Angers
+- **Auxerre** (1): AJ Auxerre  (1) Auxerre
+- **Avignon** (1): AC Arles-Avignon  (1) Arles
+- **Beauvais Oise** (1): AS Beauvais Oise  (1) Beauvais
+- **Besançon** (1): Racing Besançon  (1) Besancon
 - **Bordeaux** (1): Girondins de Bordeaux  (1) Bordeaux
+- **Boulogne-sur-Mer** (1): US Boulogne  (1) Boulogne
+- **Bourg-en-Bresse** (1): Bourg-en-Bresse 01  (1) Bourg Peronnas
 - **Brest** (1): Stade Brestois 29  (1) Brest
+- **Caen** (1): Stade Malherbe Caen  (1) Caen
+- **Canet-en-Roussillon** (1): Perpignan FC  (1) Perpignan
 - **Cannes** (1): AS Cannes  (1) Cannes
+- **Charleville-Mézières** (1): FCO Charleville  (1) Charleville
+- **Châteauroux** (1): LB Châteauroux  (1) Chateauroux
 - **Clermont** (1): Clermont Foot 63  (1) Clermont
+- **Créteil** (1): US Créteil  (1) Creteil
 - **Dijon** (1): Dijon FCO  (1) Dijon
 - **Grenoble** (1): Grenoble Foot 38  (1) Grenoble
+- **Gueugnon** (1): FC Gueugnon  (1) Gueugnon
+- **Guingamp** (1): EA Guingamp  (1) Guingamp
+- **Istres** (1): FC Istres  (1) Istres
+- **Laval** (1): Stade Lavallois  (1) Laval
 - **Le Havre** (1): Le Havre AC  (1) Le Havre
 - **Le Mans** (1): Le Mans FC  (1) Le Mans
+- **Lens** (1): RC Lens  (1) Lens
+- **Libourne** (1): FC Libourne-Saint-Seurin  (1) Libourne
 - **Lille** (1): Lille OSC  (1) Lille
+- **Lorient** (1): FC Lorient  (1) Lorient
+- **Louhans** (1): CS Louhans-Cuiseaux  (1) Louhans-Cuis.
 - **Lyon** (1): Olympique Lyonnais  (1) Lyon
 - **Marseille** (1): Olympique de Marseille  (1) Marseille
+- **Martigues** (1): FC Martigues  (1) Martigues
 - **Metz** (1): FC Metz  (1) Metz
 - **Monaco** (1): AS Monaco  (1) Monaco
+- **Montbéliard** (1): FC Sochaux-Montbéliard  (1) Sochaux
 - **Montpellier** (1): Montpellier HSC  (1) Montpellier
 - **Mulhouse** (1): FC Mulhouse  (1) Mulhouse
 - **Nancy** (1): AS Nancy Lorraine  (1) Nancy
 - **Nantes** (1): FC Nantes  (1) Nantes
 - **Nice** (1): OGC Nice  (1) Nice
+- **Niort** (1): Chamois Niortais FC  (1) Niort
 - **Nîmes** (1): Nîmes Olympique  (1) Nimes
 - **Orléans** (1): US Orléans  (1) Orleans
+- **Petit-Quevilly** (1): US Quevilly-Rouen Métropole  (1) Quevilly Rouen
 - **Reims** (1): Stade de Reims  (1) Reims
 - **Rennes** (1): Stade Rennais FC  (1) Rennes
+- **Rouen** (1): FC Rouen  (1) Rouen
+- **Saint-Brieuc** (1): Stade Briochin  (1) St Brieuc
+- **Saint-Ouen** (1): Red Star FC  (2) Red Star • Red Star 93
+- **Saint-Étienne** (1): AS Saint-Étienne  (1) St Etienne
+- **Sedan** (1): CS Sedan-Ardennes  (1) Sedan
 - **Strasbourg** (1): RC Strasbourg  (1) Strasbourg
+- **Sète** (1): FC Sète  (1) Sete
+- **Thonon-les-Bains** (1): Évian TG FC  (1) Evian Thonon Gaillard
+- **Toulon** (1): Sporting Toulon Var  (1) Toulon
 - **Toulouse** (1): Toulouse FC  (1) Toulouse
 - **Tours** (1): Tours FC  (1) Tours
+- **Troyes** (1): ES Troyes AC  (1) Troyes
 - **Valence** (1): ASOA Valence  (1) Valence
+- **Valenciennes** (1): Valenciennes FC  (1) Valenciennes
+- **Vannes** (1): Vannes OC  (1) Vannes
+- **Wasquehal** (1): Wasquehal Foot  (1) Wasquehal
+- **Épinal** (1): SAS Épinal  (1) Epinal
 
 
 
