@@ -1,5 +1,59 @@
 # Summary
 
+2 levels: 1 2
+
+level 1
+- 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
+- 43 teams: AC Ajaccio (7) AC Arles-Avignon (1) AJ Auxerre (19) AS Cannes (5) AS Monaco (23) AS Nancy Lorraine (12) AS Saint-Étienne (19) Amiens SC (1) Angers SCO (4) CS Sedan-Ardennes (5) Dijon FCO (3) EA Guingamp (12) ES Troyes AC (9) FC Gueugnon (1) FC Istres (1) FC Lorient (13) FC Martigues (3) FC Metz (16) FC Nantes (20) FC Sochaux-Montbéliard (16) GFC Ajaccio (1) Girondins de Bordeaux (25) Grenoble Foot 38 (2) LB Châteauroux (1) Le Havre AC (9) Le Mans FC (6) Lille OSC (22) Montpellier HSC (19) OGC Nice (19) Olympique Lyonnais (25) Olympique de Marseille (23) Paris Saint-Germain (25) RC Lens (18) RC Strasbourg (14) SC Bastia (16) Stade Brestois 29 (3) Stade Malherbe Caen (12) Stade Rennais FC (24) Stade de Reims (4) Toulouse FC (19) US Boulogne (1) Valenciennes FC (8) Évian TG FC (4) 
+  - 25 seasons: Girondins de Bordeaux, Olympique Lyonnais, Paris Saint-Germain
+  - 24 seasons: Stade Rennais FC
+  - 23 seasons: AS Monaco, Olympique de Marseille
+  - 22 seasons: Lille OSC
+  - 20 seasons: FC Nantes
+  - 19 seasons: AJ Auxerre, AS Saint-Étienne, Montpellier HSC, OGC Nice, Toulouse FC
+  - 18 seasons: RC Lens
+  - 16 seasons: FC Metz, FC Sochaux-Montbéliard, SC Bastia
+  - 14 seasons: RC Strasbourg
+  - 13 seasons: FC Lorient
+  - 12 seasons: AS Nancy Lorraine, EA Guingamp, Stade Malherbe Caen
+  - 9 seasons: ES Troyes AC, Le Havre AC
+  - 8 seasons: Valenciennes FC
+  - 7 seasons: AC Ajaccio
+  - 6 seasons: Le Mans FC
+  - 5 seasons: AS Cannes, CS Sedan-Ardennes
+  - 4 seasons: Angers SCO, Stade de Reims, Évian TG FC
+  - 3 seasons: Dijon FCO, FC Martigues, Stade Brestois 29
+  - 2 seasons: Grenoble Foot 38
+  - 1 seasons: AC Arles-Avignon, Amiens SC, FC Gueugnon, FC Istres, GFC Ajaccio, LB Châteauroux, US Boulogne
+
+
+level 2
+- 22 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 
+- 65 teams: AC Ajaccio (13) AC Arles-Avignon (5) AJ Auxerre (6) AS Beauvais Oise (6) AS Cannes (3) AS Monaco (2) AS Nancy Lorraine (10) AS Saint-Étienne (6) ASOA Valence (6) Amiens SC (14) Angers SCO (11) Bourg-en-Bresse 01 (3) CA Bastia (1) CS Louhans-Cuiseaux (3) CS Sedan-Ardennes (10) Chamois Niortais FC (17) Clermont Foot 63 (15) Dijon FCO (11) EA Guingamp (10) ES Troyes AC (12) FC Gueugnon (12) FC Istres (10) FC Libourne-Saint-Seurin (2) FC Lorient (9) FC Martigues (4) FC Metz (8) FC Mulhouse (2) FC Nantes (5) FC Rouen (1) FC Sochaux-Montbéliard (8) FC Sète (1) FCO Charleville (1) GFC Ajaccio (4) Grenoble Foot 38 (8) LB Châteauroux (19) Le Havre AC (16) Le Mans FC (11) Lille OSC (3) Montpellier HSC (6) Nîmes Olympique (14) OGC Nice (5) Paris FC (2) Perpignan FC (1) RC Lens (7) RC Strasbourg (5) Racing Besançon (1) Red Star FC (5) SAS Épinal (1) SC Bastia (6) Sporting Toulon Var (2) Stade Brestois 29 (11) Stade Briochin (1) Stade Lavallois (18) Stade Malherbe Caen (12) Stade de Reims (10) Toulouse FC (3) Tours FC (11) US Boulogne (4) US Créteil (11) US Orléans (3) US Quevilly-Rouen Métropole (1) Valenciennes FC (5) Vannes OC (3) Wasquehal Foot (6) Évian TG FC (2) 
+  - 19 seasons: LB Châteauroux
+  - 18 seasons: Stade Lavallois
+  - 17 seasons: Chamois Niortais FC
+  - 16 seasons: Le Havre AC
+  - 15 seasons: Clermont Foot 63
+  - 14 seasons: Amiens SC, Nîmes Olympique
+  - 13 seasons: AC Ajaccio
+  - 12 seasons: ES Troyes AC, FC Gueugnon, Stade Malherbe Caen
+  - 11 seasons: Angers SCO, Dijon FCO, Le Mans FC, Stade Brestois 29, Tours FC, US Créteil
+  - 10 seasons: AS Nancy Lorraine, CS Sedan-Ardennes, EA Guingamp, FC Istres, Stade de Reims
+  - 9 seasons: FC Lorient
+  - 8 seasons: FC Metz, FC Sochaux-Montbéliard, Grenoble Foot 38
+  - 7 seasons: RC Lens
+  - 6 seasons: AJ Auxerre, AS Beauvais Oise, AS Saint-Étienne, ASOA Valence, Montpellier HSC, SC Bastia, Wasquehal Foot
+  - 5 seasons: AC Arles-Avignon, FC Nantes, OGC Nice, RC Strasbourg, Red Star FC, Valenciennes FC
+  - 4 seasons: FC Martigues, GFC Ajaccio, US Boulogne
+  - 3 seasons: AS Cannes, Bourg-en-Bresse 01, CS Louhans-Cuiseaux, Lille OSC, Toulouse FC, US Orléans, Vannes OC
+  - 2 seasons: AS Monaco, FC Libourne-Saint-Seurin, FC Mulhouse, Paris FC, Sporting Toulon Var, Évian TG FC
+  - 1 seasons: CA Bastia, FC Rouen, FC Sète, FCO Charleville, Perpignan FC, Racing Besançon, SAS Épinal, Stade Briochin, US Quevilly-Rouen Métropole
+
+
+
+
+
 ## Datafiles
 
 - [`2017-18/1-ligue1.csv`](2017-18/1-ligue1.csv) => 20 teams / 380 matches / 1033 goals / start: Fri 04 Aug 2017, end: Sat 19 May 2018
