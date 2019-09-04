@@ -5,7 +5,7 @@
 
 Free open public domain football datafiles / datasets in text using
 the world's most popular tabular data interchange format, that is, comma-separated values (.csv).
-Example - [`2013-14/ligue1.csv`](2013-14/1-ligue1.csv):
+Example - [`2013-14/fr.1.csv`](2013-14/fr.1.csv):
 
 ```
 2013-08-09,Montpellier,Paris SG,1-1,1-0
