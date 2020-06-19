@@ -1,40 +1,20 @@
-# France (and Monaco) - Ligue 1, Ligue 2
+# Cache - Soccerverse
+
+A cache for datasets from [David Schoch's Soccerverse](https://github.com/schochastics/football-data).
 
 
-## What's `football.csv`?
+## Why Cache the Datasets?
 
-Free open public domain football datafiles / datasets in text using
-the world's most popular tabular data interchange format, that is, comma-separated values (.csv).
-Example - [`2013-14/fr.1.csv`](2013-14/fr.1.csv):
+### What's unchanged?
 
-```
-2013-08-09,Montpellier,Paris SG,1-1,1-0
-2013-08-10,Bordeaux,Monaco,0-2,0-0
-2013-08-10,Evian Thonon Gaillard,Sochaux,1-1,1-0
-2013-08-10,Lille,Lorient,1-0,1-0
-2013-08-10,Lyon,Nice,4-0,1-0
-2013-08-10,Nantes,Bastia,2-0,1-0
-2013-08-10,Rennes,Reims,2-1,1-1
-2013-08-10,Valenciennes,Toulouse,3-0,1-0
-2013-08-11,Ajaccio,St Etienne,0-1,0-1
-2013-08-11,Guingamp,Marseille,1-3,0-3
-...
-```
-
-More [`football.csv` Project Site »](http://footballcsv.github.io)
+The club names get copied as is incl. typos.
 
 
-## Intro
+### What's changed?
 
-Football data for France (and Monaco) includes:
-
-| Level |                               |
-| ----: | ----------------------------- | 
-|     I |  Ligue 1                      |
-|    II |  Ligue 2                      |
-
-Note: The French Division 1 and Division 2 changed
-to Ligue 1 and Ligue 2 starting with the 2002/03 season.
+The datasets here use the football.csv "standard", that is, one datafile
+per season and league. The league code becomes the file name and the season the
+directory name e.g. `2018-19/eng.csv` or `2018-19/es.csv`
 
 
 
