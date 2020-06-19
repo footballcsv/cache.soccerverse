@@ -1,0 +1,91 @@
+Date,Team 1,FT,Team 2
+Sun Dec 1 1929,Racing Santander,4-1,Espanyol Barcelona
+Sun Dec 1 1929,FC Barcelona,3-0,Real Sociedad
+Sun Dec 1 1929,Real Union,3-2,Arenas De Getxo
+Sun Dec 1 1929,Atletico Madrid,5-3,Ce Europa
+Sun Dec 1 1929,Athletic Bilbao,2-1,Real Madrid
+Sun Dec 8 1929,Arenas De Getxo,1-3,FC Barcelona
+Sun Dec 8 1929,Ce Europa,2-2,Athletic Bilbao
+Sun Dec 8 1929,Espanyol Barcelona,1-0,Atletico Madrid
+Sun Dec 8 1929,Real Sociedad,7-0,Racing Santander
+Sun Dec 8 1929,Real Madrid,2-2,Real Union
+Sun Dec 15 1929,Atletico Madrid,2-1,Real Madrid
+Sun Dec 15 1929,FC Barcelona,2-1,Ce Europa
+Sun Dec 15 1929,Racing Santander,2-5,Arenas De Getxo
+Sun Dec 15 1929,Real Union,3-3,Espanyol Barcelona
+Sun Dec 15 1929,Athletic Bilbao,2-2,Real Sociedad
+Sun Dec 22 1929,Real Sociedad,4-0,Real Madrid
+Sun Dec 22 1929,Espanyol Barcelona,2-2,Athletic Bilbao
+Sun Dec 22 1929,FC Barcelona,5-0,Racing Santander
+Sun Dec 22 1929,Atletico Madrid,3-3,Real Union
+Sun Dec 22 1929,Arenas De Getxo,2-3,Ce Europa
+Sun Dec 29 1929,Ce Europa,3-2,Real Sociedad
+Sun Dec 29 1929,Arenas De Getxo,3-3,Athletic Bilbao
+Sun Dec 29 1929,Real Union,1-3,FC Barcelona
+Sun Dec 29 1929,Racing Santander,3-2,Atletico Madrid
+Sun Dec 29 1929,Real Madrid,2-4,Espanyol Barcelona
+Sun Jan 5 1930,FC Barcelona,4-2,Atletico Madrid
+Sun Jan 5 1930,Real Madrid,6-0,Racing Santander
+Sun Jan 5 1930,Real Sociedad,4-4,Arenas De Getxo
+Sun Jan 5 1930,Athletic Bilbao,5-2,Real Union
+Thu Jan 9 1930,Espanyol Barcelona,1-2,Ce Europa
+Sun Jan 12 1930,Arenas De Getxo,2-0,Espanyol Barcelona
+Sun Jan 12 1930,Atletico Madrid,1-1,Real Sociedad
+Sun Jan 12 1930,FC Barcelona,1-1,Athletic Bilbao
+Sun Jan 12 1930,Ce Europa,1-2,Real Madrid
+Sun Jan 12 1930,Real Union,6-3,Racing Santander
+Sun Jan 19 1930,Espanyol Barcelona,4-0,FC Barcelona
+Sun Jan 19 1930,Athletic Bilbao,6-1,Atletico Madrid
+Sun Jan 19 1930,Real Madrid,5-2,Arenas De Getxo
+Sun Jan 19 1930,Real Sociedad,2-3,Real Union
+Sun Jan 19 1930,Racing Santander,6-0,Ce Europa
+Sun Jan 26 1930,Ce Europa,0-1,Real Union
+Sun Jan 26 1930,FC Barcelona,1-4,Real Madrid
+Sun Jan 26 1930,Real Sociedad,1-0,Espanyol Barcelona
+Sun Jan 26 1930,Athletic Bilbao,4-0,Racing Santander
+Sun Jan 26 1930,Atletico Madrid,1-3,Arenas De Getxo
+Sun Feb 2 1930,Real Madrid,2-3,Athletic Bilbao
+Sun Feb 2 1930,Ce Europa,2-0,Atletico Madrid
+Sun Feb 2 1930,Espanyol Barcelona,3-0,Racing Santander
+Sun Feb 2 1930,Arenas De Getxo,7-2,Real Union
+Sun Feb 2 1930,Real Sociedad,1-2,FC Barcelona
+Sun Feb 9 1930,Real Union,2-2,Real Madrid
+Sun Feb 9 1930,Racing Santander,2-0,Real Sociedad
+Sun Feb 9 1930,FC Barcelona,3-1,Arenas De Getxo
+Sun Feb 9 1930,Athletic Bilbao,3-0,Ce Europa
+Wed Feb 12 1930,Atletico Madrid,2-0,Espanyol Barcelona
+Sun Feb 16 1930,Ce Europa,0-3,FC Barcelona
+Sun Feb 16 1930,Espanyol Barcelona,3-1,Real Union
+Sun Feb 16 1930,Arenas De Getxo,5-1,Racing Santander
+Sun Feb 16 1930,Real Sociedad,1-7,Athletic Bilbao
+Sun Feb 16 1930,Real Madrid,4-1,Atletico Madrid
+Sun Feb 23 1930,Racing Santander,2-1,FC Barcelona
+Sun Feb 23 1930,Athletic Bilbao,6-0,Espanyol Barcelona
+Sun Feb 23 1930,Real Union,8-2,Atletico Madrid
+Sun Feb 23 1930,Real Madrid,1-1,Real Sociedad
+Sun Feb 23 1930,Ce Europa,1-2,Arenas De Getxo
+Sun Mar 2 1930,Athletic Bilbao,5-2,Arenas De Getxo
+Sun Mar 2 1930,Atletico Madrid,3-1,Racing Santander
+Sun Mar 2 1930,Real Sociedad,2-0,Ce Europa
+Wed Mar 5 1930,FC Barcelona,4-2,Real Union
+Wed Mar 5 1930,Espanyol Barcelona,8-1,Real Madrid
+Sun Mar 9 1930,Racing Santander,2-0,Real Madrid
+Sun Mar 9 1930,Atletico Madrid,3-2,FC Barcelona
+Sun Mar 9 1930,Real Union,1-1,Athletic Bilbao
+Sun Mar 9 1930,Ce Europa,1-2,Espanyol Barcelona
+Sun Mar 9 1930,Arenas De Getxo,3-1,Real Sociedad
+Sun Mar 16 1930,Espanyol Barcelona,1-0,Arenas De Getxo
+Sun Mar 16 1930,Racing Santander,4-2,Real Union
+Sun Mar 16 1930,Real Sociedad,2-0,Atletico Madrid
+Sun Mar 16 1930,Athletic Bilbao,4-3,FC Barcelona
+Sun Mar 16 1930,Real Madrid,6-1,Ce Europa
+Sat Mar 22 1930,Ce Europa,5-0,Racing Santander
+Sun Mar 23 1930,Arenas De Getxo,5-1,Real Madrid
+Sun Mar 23 1930,Atletico Madrid,3-4,Athletic Bilbao
+Sun Mar 23 1930,FC Barcelona,5-4,Espanyol Barcelona
+Sun Mar 23 1930,Real Union,3-2,Real Sociedad
+Sun Mar 30 1930,Real Union,3-4,Ce Europa
+Sun Mar 30 1930,Real Madrid,5-1,FC Barcelona
+Sun Mar 30 1930,Racing Santander,2-3,Athletic Bilbao
+Sun Mar 30 1930,Arenas De Getxo,2-1,Atletico Madrid
+Sun Mar 30 1930,Espanyol Barcelona,3-1,Real Sociedad

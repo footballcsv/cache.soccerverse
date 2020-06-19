@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Fri Aug 9 2013,Montpellier HSC,1-1,Paris Saint Germain
+Sat Aug 10 2013,Girondins Bordeaux,0-2,As Monaco
+Sat Aug 10 2013,Evian Thonon Gaillard,1-1,FC Sochaux
+Sat Aug 10 2013,Lille OSC,1-0,FC Lorient
+Sat Aug 10 2013,Olympique Lyon,4-0,OGC Nice
+Sat Aug 10 2013,FC Nantes,0-0,SC Bastia
+Sat Aug 10 2013,Stade Rennes,2-1,Stade Reims
+Sat Aug 10 2013,Valenciennes FC,3-0,Toulouse FC
+Sun Aug 11 2013,AC Ajaccio,0-1,As Saint Etienne
+Sun Aug 11 2013,EA Guingamp,1-3,Olympique Marseille
+Fri Aug 16 2013,FC Sochaux,1-3,Olympique Lyon
+Sat Aug 17 2013,Olympique Marseille,2-0,Evian Thonon Gaillard
+Sat Aug 17 2013,SC Bastia,2-0,Valenciennes FC
+Sat Aug 17 2013,OGC Nice,2-1,Stade Rennes
+Sat Aug 17 2013,Stade Reims,2-1,Lille OSC
+Sat Aug 17 2013,As Saint Etienne,1-0,EA Guingamp
+Sat Aug 17 2013,Toulouse FC,1-1,Girondins Bordeaux
+Sun Aug 18 2013,As Monaco,4-1,Montpellier HSC
+Sun Aug 18 2013,FC Lorient,2-1,FC Nantes
+Sun Aug 18 2013,Paris Saint Germain,1-1,AC Ajaccio
+Fri Aug 23 2013,As Monaco,0-0,Toulouse FC
+Sat Aug 24 2013,Valenciennes FC,0-1,Olympique Marseille
+Sat Aug 24 2013,Girondins Bordeaux,1-0,SC Bastia
+Sat Aug 24 2013,Evian Thonon Gaillard,1-2,Stade Rennes
+Sat Aug 24 2013,EA Guingamp,2-0,FC Lorient
+Sat Aug 24 2013,Olympique Lyon,0-1,Stade Reims
+Sat Aug 24 2013,Montpellier HSC,2-1,FC Sochaux
+Sun Aug 25 2013,Lille OSC,1-0,As Saint Etienne
+Sun Aug 25 2013,AC Ajaccio,0-0,OGC Nice
+Sun Aug 25 2013,FC Nantes,1-2,Paris Saint Germain
+Sat Aug 31 2013,Evian Thonon Gaillard,2-1,Olympique Lyon
+Sat Aug 31 2013,Paris Saint Germain,2-0,EA Guingamp
+Sat Aug 31 2013,SC Bastia,2-1,Toulouse FC
+Sat Aug 31 2013,FC Lorient,1-0,Valenciennes FC
+Sat Aug 31 2013,Stade Reims,0-0,FC Nantes
+Sat Aug 31 2013,Stade Rennes,0-0,Lille OSC
+Sat Aug 31 2013,FC Sochaux,0-0,AC Ajaccio
+Sun Sep 1 2013,As Saint Etienne,2-1,Girondins Bordeaux
+Sun Sep 1 2013,OGC Nice,2-2,Montpellier HSC
+Sun Sep 1 2013,Olympique Marseille,1-2,As Monaco
+Fri Sep 13 2013,Girondins Bordeaux,0-2,Paris Saint Germain
+Sat Sep 14 2013,Toulouse FC,1-1,Olympique Marseille
+Sat Sep 14 2013,AC Ajaccio,2-3,Evian Thonon Gaillard
+Sat Sep 14 2013,EA Guingamp,1-1,SC Bastia
+Sat Sep 14 2013,Montpellier HSC,0-0,Stade Reims
+Sat Sep 14 2013,FC Nantes,1-0,FC Sochaux
+Sat Sep 14 2013,Valenciennes FC,1-3,As Saint Etienne
+Sun Sep 15 2013,As Monaco,1-0,FC Lorient
+Sun Sep 15 2013,Lille OSC,0-2,OGC Nice
+Sun Sep 15 2013,Olympique Lyon,0-0,Stade Rennes
+Fri Sep 20 2013,As Saint Etienne,1-2,Toulouse FC
+Sat Sep 21 2013,SC Bastia,0-0,Olympique Marseille
+Sat Sep 21 2013,Evian Thonon Gaillard,2-2,Montpellier HSC
+Sat Sep 21 2013,Stade Reims,1-1,EA Guingamp
+Sat Sep 21 2013,Stade Rennes,2-0,AC Ajaccio
+Sat Sep 21 2013,FC Sochaux,0-2,Lille OSC
+Sun Sep 22 2013,FC Lorient,3-3,Girondins Bordeaux
+Sun Sep 22 2013,Olympique Lyon,3-1,FC Nantes
+Sun Sep 22 2013,OGC Nice,4-0,Valenciennes FC
+Sun Sep 22 2013,Paris Saint Germain,1-1,As Monaco
+Tue Sep 24 2013,Lille OSC,3-0,Evian Thonon Gaillard
+Tue Sep 24 2013,Olympique Marseille,2-1,As Saint Etienne
+Wed Sep 25 2013,AC Ajaccio,2-1,Olympique Lyon
+Wed Sep 25 2013,Girondins Bordeaux,0-0,Stade Reims
+Wed Sep 25 2013,EA Guingamp,5-1,FC Sochaux
+Wed Sep 25 2013,FC Nantes,2-0,OGC Nice
+Wed Sep 25 2013,Toulouse FC,1-0,FC Lorient
+Wed Sep 25 2013,Valenciennes FC,0-1,Paris Saint Germain
+Wed Sep 25 2013,As Monaco,3-0,SC Bastia
+Thu Sep 26 2013,Montpellier HSC,0-0,Stade Rennes
+Sat Sep 28 2013,FC Lorient,0-2,Olympique Marseille
+Sat Sep 28 2013,Paris Saint Germain,2-0,Toulouse FC
+Sat Sep 28 2013,Evian Thonon Gaillard,1-1,Girondins Bordeaux
+Sat Sep 28 2013,Olympique Lyon,0-0,Lille OSC
+Sat Sep 28 2013,OGC Nice,1-0,EA Guingamp
+Sat Sep 28 2013,As Saint Etienne,2-2,SC Bastia
+Sat Sep 28 2013,FC Sochaux,2-0,Valenciennes FC
+Sun Sep 29 2013,Stade Rennes,1-3,FC Nantes
+Sun Sep 29 2013,AC Ajaccio,1-1,Montpellier HSC
+Sun Sep 29 2013,Stade Reims,1-1,As Monaco
+Fri Oct 4 2013,SC Bastia,4-1,FC Lorient
+Sat Oct 5 2013,As Monaco,2-1,As Saint Etienne
+Sat Oct 5 2013,EA Guingamp,2-0,Stade Rennes
+Sat Oct 5 2013,Lille OSC,3-0,AC Ajaccio
+Sat Oct 5 2013,FC Nantes,3-0,Evian Thonon Gaillard
+Sat Oct 5 2013,Toulouse FC,1-0,OGC Nice
+Sat Oct 5 2013,Valenciennes FC,1-1,Stade Reims
+Sun Oct 6 2013,Montpellier HSC,5-1,Olympique Lyon
+Sun Oct 6 2013,Girondins Bordeaux,4-1,FC Sochaux
+Sun Oct 6 2013,Olympique Marseille,1-2,Paris Saint Germain
+Fri Oct 18 2013,OGC Nice,1-0,Olympique Marseille
+Fri Oct 18 2013,Stade Reims,1-2,Toulouse FC
+Sat Oct 19 2013,Paris Saint Germain,4-0,SC Bastia
+Sat Oct 19 2013,AC Ajaccio,0-1,FC Nantes
+Sat Oct 19 2013,Evian Thonon Gaillard,1-2,EA Guingamp
+Sat Oct 19 2013,Montpellier HSC,0-1,Lille OSC
+Sat Oct 19 2013,Stade Rennes,2-2,Valenciennes FC
+Sun Oct 20 2013,FC Sochaux,2-2,As Monaco
+Sun Oct 20 2013,As Saint Etienne,3-2,FC Lorient
+Sun Oct 20 2013,Olympique Lyon,1-1,Girondins Bordeaux
+Fri Oct 25 2013,FC Nantes,0-1,Lille OSC
+Sat Oct 26 2013,Olympique Marseille,2-3,Stade Reims
+Sat Oct 26 2013,SC Bastia,1-0,OGC Nice
+Sat Oct 26 2013,EA Guingamp,2-1,AC Ajaccio
+Sat Oct 26 2013,FC Lorient,2-1,FC Sochaux
+Sat Oct 26 2013,Toulouse FC,0-5,Stade Rennes
+Sat Oct 26 2013,Valenciennes FC,0-1,Evian Thonon Gaillard
+Sun Oct 27 2013,Girondins Bordeaux,2-0,Montpellier HSC
+Sun Oct 27 2013,As Monaco,2-1,Olympique Lyon
+Sun Oct 27 2013,As Saint Etienne,2-2,Paris Saint Germain
+Fri Nov 1 2013,Paris Saint Germain,4-0,FC Lorient
+Sat Nov 2 2013,Stade Rennes,1-1,Olympique Marseille
+Sat Nov 2 2013,AC Ajaccio,1-3,Valenciennes FC
+Sat Nov 2 2013,Evian Thonon Gaillard,2-1,Toulouse FC
+Sat Nov 2 2013,Olympique Lyon,2-0,EA Guingamp
+Sat Nov 2 2013,Stade Reims,4-2,SC Bastia
+Sat Nov 2 2013,FC Sochaux,0-0,As Saint Etienne
+Sun Nov 3 2013,OGC Nice,1-2,Girondins Bordeaux
+Sun Nov 3 2013,Montpellier HSC,1-1,FC Nantes
+Sun Nov 3 2013,Lille OSC,2-0,As Monaco
+Fri Nov 8 2013,As Monaco,1-1,Evian Thonon Gaillard
+Sat Nov 9 2013,Paris Saint Germain,3-1,OGC Nice
+Sat Nov 9 2013,SC Bastia,1-0,Stade Rennes
+Sat Nov 9 2013,EA Guingamp,0-0,Lille OSC
+Sat Nov 9 2013,FC Lorient,0-0,Stade Reims
+Sat Nov 9 2013,Toulouse FC,1-1,AC Ajaccio
+Sat Nov 9 2013,Valenciennes FC,1-1,Montpellier HSC
+Sun Nov 10 2013,Girondins Bordeaux,0-3,FC Nantes
+Sun Nov 10 2013,Olympique Marseille,2-1,FC Sochaux
+Sun Nov 10 2013,As Saint Etienne,1-2,Olympique Lyon
+Fri Nov 22 2013,AC Ajaccio,1-3,Olympique Marseille
+Sat Nov 23 2013,Stade Reims,0-3,Paris Saint Germain
+Sat Nov 23 2013,Evian Thonon Gaillard,0-4,FC Lorient
+Sat Nov 23 2013,Olympique Lyon,1-1,Valenciennes FC
+Sat Nov 23 2013,Montpellier HSC,1-1,EA Guingamp
+Sat Nov 23 2013,Stade Rennes,1-1,Girondins Bordeaux
+Sat Nov 23 2013,FC Sochaux,1-1,SC Bastia
+Sun Nov 24 2013,Lille OSC,1-0,Toulouse FC
+Sun Nov 24 2013,OGC Nice,0-1,As Saint Etienne
+Sun Nov 24 2013,FC Nantes,0-1,As Monaco
+Fri Nov 29 2013,Olympique Marseille,2-0,Montpellier HSC
+Sat Nov 30 2013,As Saint Etienne,4-0,Stade Reims
+Sat Nov 30 2013,As Monaco,2-0,Stade Rennes
+Sat Nov 30 2013,EA Guingamp,1-0,FC Nantes
+Sat Nov 30 2013,FC Lorient,3-0,OGC Nice
+Sat Nov 30 2013,Toulouse FC,5-1,FC Sochaux
+Sat Nov 30 2013,Valenciennes FC,0-1,Lille OSC
+Sun Dec 1 2013,Girondins Bordeaux,4-0,AC Ajaccio
+Sun Dec 1 2013,SC Bastia,2-0,Evian Thonon Gaillard
+Sun Dec 1 2013,Paris Saint Germain,4-0,Olympique Lyon
+Tue Dec 3 2013,Lille OSC,1-0,Olympique Marseille
+Tue Dec 3 2013,FC Nantes,2-1,Valenciennes FC
+Tue Dec 3 2013,OGC Nice,0-3,As Monaco
+Wed Dec 4 2013,AC Ajaccio,1-1,SC Bastia
+Wed Dec 4 2013,EA Guingamp,0-1,Girondins Bordeaux
+Wed Dec 4 2013,Montpellier HSC,0-2,FC Lorient
+Wed Dec 4 2013,Stade Rennes,3-1,As Saint Etienne
+Wed Dec 4 2013,FC Sochaux,0-2,Stade Reims
+Wed Dec 4 2013,Evian Thonon Gaillard,2-0,Paris Saint Germain
+Thu Dec 5 2013,Olympique Lyon,1-1,Toulouse FC
+Fri Dec 6 2013,Olympique Marseille,0-1,FC Nantes
+Sat Dec 7 2013,Paris Saint Germain,5-0,FC Sochaux
+Sat Dec 7 2013,FC Lorient,2-0,Stade Rennes
+Sat Dec 7 2013,Stade Reims,1-0,OGC Nice
+Sat Dec 7 2013,Valenciennes FC,1-1,EA Guingamp
+Sun Dec 8 2013,Girondins Bordeaux,1-0,Lille OSC
+Sun Dec 8 2013,SC Bastia,1-3,Olympique Lyon
+Sun Dec 8 2013,Toulouse FC,1-1,Montpellier HSC
+Sun Dec 8 2013,As Monaco,1-0,AC Ajaccio
+Fri Dec 13 2013,Montpellier HSC,0-1,As Saint Etienne
+Sat Dec 14 2013,Stade Rennes,1-3,Paris Saint Germain
+Sat Dec 14 2013,AC Ajaccio,1-2,FC Lorient
+Sat Dec 14 2013,Evian Thonon Gaillard,1-1,Stade Reims
+Sat Dec 14 2013,EA Guingamp,0-2,As Monaco
+Sat Dec 14 2013,FC Nantes,1-2,Toulouse FC
+Sat Dec 14 2013,OGC Nice,1-0,FC Sochaux
+Sun Dec 15 2013,Girondins Bordeaux,2-1,Valenciennes FC
+Sun Dec 15 2013,Lille OSC,2-1,SC Bastia
+Sun Dec 15 2013,Olympique Lyon,2-2,Olympique Marseille
+Fri Dec 20 2013,As Monaco,1-2,Valenciennes FC
+Sat Dec 21 2013,As Saint Etienne,2-0,FC Nantes
+Sat Dec 21 2013,SC Bastia,0-0,Montpellier HSC
+Sat Dec 21 2013,OGC Nice,3-1,Evian Thonon Gaillard
+Sat Dec 21 2013,Stade Reims,4-1,AC Ajaccio
+Sat Dec 21 2013,FC Sochaux,2-1,Stade Rennes
+Sat Dec 21 2013,Toulouse FC,0-0,EA Guingamp
+Sun Dec 22 2013,Olympique Marseille,2-2,Girondins Bordeaux
+Sun Dec 22 2013,FC Lorient,2-2,Olympique Lyon
+Sun Dec 22 2013,Paris Saint Germain,2-2,Lille OSC
+Wed Jan 8 2014,As Saint Etienne,1-0,Evian Thonon Gaillard
+Fri Jan 10 2014,Montpellier HSC,1-1,As Monaco
+Sat Jan 11 2014,AC Ajaccio,1-2,Paris Saint Germain
+Sat Jan 11 2014,Girondins Bordeaux,0-1,Toulouse FC
+Sat Jan 11 2014,EA Guingamp,0-0,As Saint Etienne
+Sat Jan 11 2014,Olympique Lyon,2-0,FC Sochaux
+Sat Jan 11 2014,Stade Rennes,0-0,OGC Nice
+Sat Jan 11 2014,Valenciennes FC,3-2,SC Bastia
+Sun Jan 12 2014,FC Nantes,1-0,FC Lorient
+Sun Jan 12 2014,Evian Thonon Gaillard,1-2,Olympique Marseille
+Sun Jan 12 2014,Lille OSC,1-2,Stade Reims
+Fri Jan 17 2014,As Saint Etienne,2-0,Lille OSC
+Sat Jan 18 2014,SC Bastia,1-0,Girondins Bordeaux
+Sat Jan 18 2014,FC Lorient,2-0,EA Guingamp
+Sat Jan 18 2014,OGC Nice,2-0,AC Ajaccio
+Sat Jan 18 2014,Stade Rennes,0-0,Evian Thonon Gaillard
+Sat Jan 18 2014,FC Sochaux,0-2,Montpellier HSC
+Sun Jan 19 2014,Stade Reims,0-2,Olympique Lyon
+Sun Jan 19 2014,Toulouse FC,0-2,As Monaco
+Sun Jan 19 2014,Paris Saint Germain,5-0,FC Nantes
+Fri Jan 24 2014,Lille OSC,1-1,Stade Rennes
+Sat Jan 25 2014,EA Guingamp,1-1,Paris Saint Germain
+Sat Jan 25 2014,AC Ajaccio,1-1,FC Sochaux
+Sat Jan 25 2014,Montpellier HSC,3-1,OGC Nice
+Sat Jan 25 2014,FC Nantes,0-0,Stade Reims
+Sat Jan 25 2014,Valenciennes FC,1-1,FC Lorient
+Sun Jan 26 2014,Olympique Lyon,3-0,Evian Thonon Gaillard
+Sun Jan 26 2014,Girondins Bordeaux,2-0,As Saint Etienne
+Sun Jan 26 2014,As Monaco,2-0,Olympique Marseille
+Wed Jan 29 2014,Olympique Marseille,2-1,Valenciennes FC
+Fri Jan 31 2014,Paris Saint Germain,2-0,Girondins Bordeaux
+Sat Feb 1 2014,FC Lorient,2-2,As Monaco
+Sat Feb 1 2014,SC Bastia,3-2,EA Guingamp
+Sat Feb 1 2014,Evian Thonon Gaillard,1-1,AC Ajaccio
+Sat Feb 1 2014,Stade Reims,2-4,Montpellier HSC
+Sat Feb 1 2014,As Saint Etienne,3-0,Valenciennes FC
+Sat Feb 1 2014,FC Sochaux,1-0,FC Nantes
+Sun Feb 2 2014,OGC Nice,1-0,Lille OSC
+Sun Feb 2 2014,Stade Rennes,2-0,Olympique Lyon
+Sun Feb 2 2014,Olympique Marseille,2-2,Toulouse FC
+Fri Feb 7 2014,Toulouse FC,0-0,As Saint Etienne
+Sat Feb 8 2014,Olympique Marseille,3-0,SC Bastia
+Sat Feb 8 2014,AC Ajaccio,3-1,Stade Rennes
+Sat Feb 8 2014,EA Guingamp,1-2,Stade Reims
+Sat Feb 8 2014,Lille OSC,2-0,FC Sochaux
+Sat Feb 8 2014,Montpellier HSC,1-1,Evian Thonon Gaillard
+Sat Feb 8 2014,Valenciennes FC,2-1,OGC Nice
+Sun Feb 9 2014,FC Nantes,1-2,Olympique Lyon
+Sun Feb 9 2014,As Monaco,1-1,Paris Saint Germain
+Tue Feb 11 2014,Toulouse FC,1-3,SC Bastia
+Fri Feb 14 2014,Paris Saint Germain,3-0,Valenciennes FC
+Sat Feb 15 2014,SC Bastia,0-2,As Monaco
+Sat Feb 15 2014,FC Lorient,1-3,Toulouse FC
+Sat Feb 15 2014,OGC Nice,0-0,FC Nantes
+Sat Feb 15 2014,Stade Reims,1-0,Girondins Bordeaux
+Sat Feb 15 2014,Stade Rennes,2-2,Montpellier HSC
+Sat Feb 15 2014,FC Sochaux,1-0,EA Guingamp
+Sun Feb 16 2014,Olympique Lyon,3-1,AC Ajaccio
+Sun Feb 16 2014,Evian Thonon Gaillard,2-2,Lille OSC
+Sun Feb 16 2014,As Saint Etienne,1-1,Olympique Marseille
+Fri Feb 21 2014,As Monaco,3-2,Stade Reims
+Sat Feb 22 2014,Olympique Marseille,1-0,FC Lorient
+Sat Feb 22 2014,SC Bastia,0-2,As Saint Etienne
+Sat Feb 22 2014,Girondins Bordeaux,2-1,Evian Thonon Gaillard
+Sat Feb 22 2014,EA Guingamp,1-0,OGC Nice
+Sat Feb 22 2014,Montpellier HSC,2-0,AC Ajaccio
+Sat Feb 22 2014,Valenciennes FC,2-2,FC Sochaux
+Sun Feb 23 2014,Toulouse FC,2-4,Paris Saint Germain
+Sun Feb 23 2014,FC Nantes,0-3,Stade Rennes
+Sun Feb 23 2014,Lille OSC,0-0,Olympique Lyon
+Tue Feb 25 2014,Girondins Bordeaux,3-2,FC Lorient
+Fri Feb 28 2014,Evian Thonon Gaillard,2-0,FC Nantes
+Sat Mar 1 2014,As Saint Etienne,2-0,As Monaco
+Sat Mar 1 2014,FC Lorient,1-1,SC Bastia
+Sat Mar 1 2014,OGC Nice,0-2,Toulouse FC
+Sat Mar 1 2014,Stade Reims,3-1,Valenciennes FC
+Sat Mar 1 2014,Stade Rennes,0-2,EA Guingamp
+Sat Mar 1 2014,FC Sochaux,2-0,Girondins Bordeaux
+Sun Mar 2 2014,AC Ajaccio,2-3,Lille OSC
+Sun Mar 2 2014,Olympique Lyon,0-0,Montpellier HSC
+Sun Mar 2 2014,Paris Saint Germain,2-0,Olympique Marseille
+Fri Mar 7 2014,Olympique Marseille,0-1,OGC Nice
+Sat Mar 8 2014,SC Bastia,0-3,Paris Saint Germain
+Sat Mar 8 2014,EA Guingamp,0-1,Evian Thonon Gaillard
+Sat Mar 8 2014,As Monaco,2-1,FC Sochaux
+Sat Mar 8 2014,FC Nantes,2-2,AC Ajaccio
+Sat Mar 8 2014,Toulouse FC,3-2,Stade Reims
+Sat Mar 8 2014,Valenciennes FC,2-1,Stade Rennes
+Sun Mar 9 2014,Lille OSC,2-0,Montpellier HSC
+Sun Mar 9 2014,FC Lorient,1-0,As Saint Etienne
+Sun Mar 9 2014,Girondins Bordeaux,1-2,Olympique Lyon
+Fri Mar 14 2014,Stade Reims,1-1,Olympique Marseille
+Sat Mar 15 2014,Lille OSC,0-0,FC Nantes
+Sat Mar 15 2014,AC Ajaccio,1-2,EA Guingamp
+Sat Mar 15 2014,Evian Thonon Gaillard,0-1,Valenciennes FC
+Sat Mar 15 2014,OGC Nice,2-0,SC Bastia
+Sat Mar 15 2014,Stade Rennes,2-3,Toulouse FC
+Sat Mar 15 2014,FC Sochaux,2-0,FC Lorient
+Sun Mar 16 2014,Montpellier HSC,1-1,Girondins Bordeaux
+Sun Mar 16 2014,Olympique Lyon,2-3,As Monaco
+Sun Mar 16 2014,Paris Saint Germain,2-0,As Saint Etienne
+Fri Mar 21 2014,FC Lorient,0-1,Paris Saint Germain
+Sat Mar 22 2014,Olympique Marseille,0-1,Stade Rennes
+Sat Mar 22 2014,SC Bastia,2-0,Stade Reims
+Sat Mar 22 2014,Girondins Bordeaux,1-1,OGC Nice
+Sat Mar 22 2014,FC Nantes,2-1,Montpellier HSC
+Sat Mar 22 2014,Toulouse FC,1-1,Evian Thonon Gaillard
+Sat Mar 22 2014,Valenciennes FC,2-3,AC Ajaccio
+Sun Mar 23 2014,As Saint Etienne,3-1,FC Sochaux
+Sun Mar 23 2014,EA Guingamp,0-1,Olympique Lyon
+Sun Mar 23 2014,As Monaco,1-1,Lille OSC
+Fri Mar 28 2014,OGC Nice,0-1,Paris Saint Germain
+Sat Mar 29 2014,FC Sochaux,1-1,Olympique Marseille
+Sat Mar 29 2014,AC Ajaccio,2-2,Toulouse FC
+Sat Mar 29 2014,Evian Thonon Gaillard,1-0,As Monaco
+Sat Mar 29 2014,Montpellier HSC,0-0,Valenciennes FC
+Sat Mar 29 2014,FC Nantes,0-0,Girondins Bordeaux
+Sat Mar 29 2014,Stade Reims,1-1,FC Lorient
+Sun Mar 30 2014,Stade Rennes,3-0,SC Bastia
+Sun Mar 30 2014,Lille OSC,1-0,EA Guingamp
+Sun Mar 30 2014,Olympique Lyon,1-2,As Saint Etienne
+Fri Apr 4 2014,Olympique Marseille,3-1,AC Ajaccio
+Sat Apr 5 2014,Paris Saint Germain,3-0,Stade Reims
+Sat Apr 5 2014,SC Bastia,2-2,FC Sochaux
+Sat Apr 5 2014,Girondins Bordeaux,2-2,Stade Rennes
+Sat Apr 5 2014,EA Guingamp,1-2,Montpellier HSC
+Sat Apr 5 2014,FC Lorient,1-1,Evian Thonon Gaillard
+Sat Apr 5 2014,Toulouse FC,1-2,Lille OSC
+Sun Apr 6 2014,As Saint Etienne,1-1,OGC Nice
+Sun Apr 6 2014,Valenciennes FC,1-2,Olympique Lyon
+Sun Apr 6 2014,As Monaco,3-1,FC Nantes
+Fri Apr 11 2014,Montpellier HSC,2-3,Olympique Marseille
+Sat Apr 12 2014,Lille OSC,1-0,Valenciennes FC
+Sat Apr 12 2014,AC Ajaccio,1-1,Girondins Bordeaux
+Sat Apr 12 2014,Evian Thonon Gaillard,2-1,SC Bastia
+Sat Apr 12 2014,OGC Nice,1-2,FC Lorient
+Sat Apr 12 2014,Stade Rennes,0-1,As Monaco
+Sat Apr 12 2014,FC Sochaux,2-0,Toulouse FC
+Sun Apr 13 2014,FC Nantes,1-0,EA Guingamp
+Sun Apr 13 2014,Stade Reims,2-2,As Saint Etienne
+Sun Apr 13 2014,Olympique Lyon,1-0,Paris Saint Germain
+Fri Apr 18 2014,As Saint Etienne,0-0,Stade Rennes
+Sun Apr 20 2014,As Monaco,1-0,OGC Nice
+Sun Apr 20 2014,SC Bastia,2-1,AC Ajaccio
+Sun Apr 20 2014,Girondins Bordeaux,5-1,EA Guingamp
+Sun Apr 20 2014,FC Lorient,4-4,Montpellier HSC
+Sun Apr 20 2014,Stade Reims,0-1,FC Sochaux
+Sun Apr 20 2014,Valenciennes FC,2-6,FC Nantes
+Sun Apr 20 2014,Olympique Marseille,0-0,Lille OSC
+Wed Apr 23 2014,Paris Saint Germain,1-0,Evian Thonon Gaillard
+Wed Apr 23 2014,Toulouse FC,0-0,Olympique Lyon
+Fri Apr 25 2014,FC Nantes,1-1,Olympique Marseille
+Sat Apr 26 2014,AC Ajaccio,1-4,As Monaco
+Sat Apr 26 2014,Evian Thonon Gaillard,1-2,As Saint Etienne
+Sat Apr 26 2014,EA Guingamp,1-0,Valenciennes FC
+Sat Apr 26 2014,Montpellier HSC,2-1,Toulouse FC
+Sat Apr 26 2014,OGC Nice,1-0,Stade Reims
+Sat Apr 26 2014,Stade Rennes,1-1,FC Lorient
+Sun Apr 27 2014,FC Sochaux,1-1,Paris Saint Germain
+Sun Apr 27 2014,Olympique Lyon,4-1,SC Bastia
+Sun Apr 27 2014,Lille OSC,2-1,Girondins Bordeaux
+Fri May 2 2014,SC Bastia,1-1,Lille OSC
+Sun May 4 2014,As Saint Etienne,2-0,Montpellier HSC
+Sun May 4 2014,FC Lorient,1-0,AC Ajaccio
+Sun May 4 2014,Stade Reims,1-0,Evian Thonon Gaillard
+Sun May 4 2014,FC Sochaux,2-0,OGC Nice
+Sun May 4 2014,Toulouse FC,1-1,FC Nantes
+Sun May 4 2014,Valenciennes FC,0-1,Girondins Bordeaux
+Sun May 4 2014,Olympique Marseille,4-2,Olympique Lyon
+Wed May 7 2014,As Monaco,1-1,EA Guingamp
+Wed May 7 2014,Paris Saint Germain,1-2,Stade Rennes
+Sat May 10 2014,AC Ajaccio,2-1,Stade Reims
+Sat May 10 2014,Girondins Bordeaux,1-1,Olympique Marseille
+Sat May 10 2014,Evian Thonon Gaillard,2-0,OGC Nice
+Sat May 10 2014,EA Guingamp,2-0,Toulouse FC
+Sat May 10 2014,Lille OSC,1-3,Paris Saint Germain
+Sat May 10 2014,Olympique Lyon,0-1,FC Lorient
+Sat May 10 2014,Montpellier HSC,0-2,SC Bastia
+Sat May 10 2014,FC Nantes,1-3,As Saint Etienne
+Sat May 10 2014,Stade Rennes,1-2,FC Sochaux
+Sat May 10 2014,Valenciennes FC,1-2,As Monaco
+Sat May 17 2014,SC Bastia,0-0,FC Nantes
+Sat May 17 2014,FC Lorient,1-4,Lille OSC
+Sat May 17 2014,Olympique Marseille,1-0,EA Guingamp
+Sat May 17 2014,As Monaco,1-1,Girondins Bordeaux
+Sat May 17 2014,OGC Nice,0-1,Olympique Lyon
+Sat May 17 2014,Paris Saint Germain,4-0,Montpellier HSC
+Sat May 17 2014,Stade Reims,1-3,Stade Rennes
+Sat May 17 2014,As Saint Etienne,3-1,AC Ajaccio
+Sat May 17 2014,FC Sochaux,0-3,Evian Thonon Gaillard
+Sat May 17 2014,Toulouse FC,3-1,Valenciennes FC

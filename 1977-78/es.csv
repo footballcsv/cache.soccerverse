@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sat Sep 3 1977,Ud Las Palmas,0-0,Burgos CF
+Sat Sep 3 1977,Sevilla FC,3-1,Espanyol Barcelona
+Sun Sep 4 1977,Ud Salamanca,2-1,Real Madrid
+Sun Sep 4 1977,Atletico Madrid,3-0,Valencia CF
+Sun Sep 4 1977,FC Barcelona,1-0,Real Sociedad
+Sun Sep 4 1977,Athletic Bilbao,0-0,Real Betis
+Sun Sep 4 1977,Hercules CF,1-0,Sporting Gijon
+Sun Sep 4 1977,Racing Santander,2-0,Elche CF
+Sun Sep 4 1977,Cadiz CF,2-1,Rayo Vallecano
+Sat Sep 10 1977,Real Sociedad,4-1,Atletico Madrid
+Sat Sep 10 1977,Valencia CF,3-0,Cadiz CF
+Sat Sep 10 1977,Elche CF,2-0,Hercules CF
+Sat Sep 10 1977,Real Madrid,3-0,Sevilla FC
+Sat Sep 10 1977,Real Betis,0-0,FC Barcelona
+Sat Sep 10 1977,Sporting Gijon,0-0,Ud Las Palmas
+Sun Sep 11 1977,Burgos CF,0-2,Ud Salamanca
+Sun Sep 11 1977,Rayo Vallecano,1-0,Racing Santander
+Sun Sep 11 1977,Espanyol Barcelona,2-1,Athletic Bilbao
+Sat Sep 17 1977,Sevilla FC,1-0,Burgos CF
+Sun Sep 18 1977,Atletico Madrid,1-1,Real Betis
+Sun Sep 18 1977,Espanyol Barcelona,1-4,Real Madrid
+Sun Sep 18 1977,Hercules CF,1-1,Rayo Vallecano
+Sun Sep 18 1977,Ud Las Palmas,4-1,Elche CF
+Sun Sep 18 1977,Ud Salamanca,2-3,Sporting Gijon
+Sun Sep 18 1977,Athletic Bilbao,0-0,FC Barcelona
+Sun Sep 18 1977,Racing Santander,2-2,Valencia CF
+Sun Sep 18 1977,Cadiz CF,2-0,Real Sociedad
+Sat Sep 24 1977,Real Betis,3-0,Cadiz CF
+Sat Sep 24 1977,Elche CF,2-1,Ud Salamanca
+Sat Sep 24 1977,Valencia CF,6-1,Hercules CF
+Sat Sep 24 1977,Rayo Vallecano,1-1,Ud Las Palmas
+Sun Sep 25 1977,Real Madrid,1-0,Athletic Bilbao
+Sun Sep 25 1977,Real Sociedad,2-0,Racing Santander
+Sun Sep 25 1977,Sporting Gijon,1-0,Sevilla FC
+Sun Sep 25 1977,Burgos CF,3-2,Espanyol Barcelona
+Sun Sep 25 1977,FC Barcelona,1-0,Atletico Madrid
+Sun Oct 2 1977,Ud Las Palmas,1-0,Valencia CF
+Sun Oct 2 1977,Espanyol Barcelona,2-1,Sporting Gijon
+Sun Oct 2 1977,Ud Salamanca,1-0,Rayo Vallecano
+Sun Oct 2 1977,Real Madrid,3-0,Burgos CF
+Sun Oct 2 1977,Sevilla FC,3-3,Elche CF
+Sun Oct 2 1977,Cadiz CF,0-2,FC Barcelona
+Sun Oct 2 1977,Athletic Bilbao,1-0,Atletico Madrid
+Sun Oct 2 1977,Hercules CF,1-0,Real Sociedad
+Sun Oct 2 1977,Racing Santander,1-1,Real Betis
+Sat Oct 8 1977,Valencia CF,3-1,Ud Salamanca
+Sat Oct 8 1977,Elche CF,2-0,Espanyol Barcelona
+Sun Oct 9 1977,Burgos CF,2-2,Athletic Bilbao
+Sun Oct 9 1977,Atletico Madrid,4-0,Cadiz CF
+Sun Oct 9 1977,Real Betis,1-1,Hercules CF
+Sun Oct 9 1977,FC Barcelona,3-0,Racing Santander
+Sun Oct 9 1977,Rayo Vallecano,4-1,Sevilla FC
+Sun Oct 9 1977,Sporting Gijon,0-2,Real Madrid
+Sun Oct 9 1977,Real Sociedad,4-1,Ud Las Palmas
+Sat Oct 15 1977,Athletic Bilbao,6-1,Cadiz CF
+Sat Oct 15 1977,Ud Las Palmas,3-2,Real Betis
+Sun Oct 16 1977,Sevilla FC,1-0,Valencia CF
+Sun Oct 16 1977,Real Madrid,5-1,Elche CF
+Sun Oct 16 1977,Burgos CF,0-0,Sporting Gijon
+Sun Oct 16 1977,Espanyol Barcelona,2-1,Rayo Vallecano
+Sun Oct 16 1977,Hercules CF,2-1,FC Barcelona
+Sun Oct 16 1977,Ud Salamanca,0-0,Real Sociedad
+Sun Oct 16 1977,Racing Santander,2-0,Atletico Madrid
+Sat Oct 29 1977,Atletico Madrid,3-1,Hercules CF
+Sat Oct 29 1977,Valencia CF,3-0,Espanyol Barcelona
+Sun Oct 30 1977,Sporting Gijon,2-2,Athletic Bilbao
+Sun Oct 30 1977,Elche CF,1-0,Burgos CF
+Sun Oct 30 1977,Real Betis,0-1,Ud Salamanca
+Sun Oct 30 1977,Cadiz CF,0-0,Racing Santander
+Sun Oct 30 1977,Real Sociedad,4-0,Sevilla FC
+Sun Oct 30 1977,Rayo Vallecano,3-2,Real Madrid
+Sun Oct 30 1977,FC Barcelona,5-0,Ud Las Palmas
+Sun Nov 6 1977,Espanyol Barcelona,2-0,Real Sociedad
+Sun Nov 6 1977,Sporting Gijon,3-0,Elche CF
+Sun Nov 6 1977,Burgos CF,2-1,Rayo Vallecano
+Sun Nov 6 1977,Hercules CF,0-0,Cadiz CF
+Sun Nov 6 1977,Ud Salamanca,1-0,FC Barcelona
+Sun Nov 6 1977,Sevilla FC,1-0,Real Betis
+Sun Nov 6 1977,Ud Las Palmas,3-0,Atletico Madrid
+Sun Nov 6 1977,Real Madrid,1-0,Valencia CF
+Sun Nov 6 1977,Athletic Bilbao,3-0,Racing Santander
+Sat Nov 12 1977,Valencia CF,1-0,Burgos CF
+Sat Nov 12 1977,Elche CF,2-1,Athletic Bilbao
+Sun Nov 13 1977,Real Betis,3-1,Espanyol Barcelona
+Sun Nov 13 1977,Atletico Madrid,4-2,Ud Salamanca
+Sun Nov 13 1977,Racing Santander,1-0,Hercules CF
+Sun Nov 13 1977,Rayo Vallecano,3-1,Sporting Gijon
+Sun Nov 13 1977,FC Barcelona,3-1,Sevilla FC
+Sun Nov 13 1977,Real Sociedad,2-3,Real Madrid
+Sun Nov 13 1977,Cadiz CF,3-2,Ud Las Palmas
+Sat Nov 19 1977,Ud Las Palmas,3-0,Racing Santander
+Sun Nov 20 1977,Athletic Bilbao,2-1,Hercules CF
+Sun Nov 20 1977,Sevilla FC,3-0,Atletico Madrid
+Sun Nov 20 1977,Elche CF,3-0,Rayo Vallecano
+Sun Nov 20 1977,Ud Salamanca,2-1,Cadiz CF
+Sun Nov 20 1977,Sporting Gijon,0-0,Valencia CF
+Sun Nov 20 1977,Espanyol Barcelona,1-1,FC Barcelona
+Sun Nov 20 1977,Real Madrid,4-0,Real Betis
+Sun Nov 20 1977,Burgos CF,3-2,Real Sociedad
+Sun Dec 4 1977,Cadiz CF,0-0,Sevilla FC
+Sun Dec 4 1977,Real Betis,2-1,Burgos CF
+Sun Dec 4 1977,Racing Santander,0-3,Ud Salamanca
+Sun Dec 4 1977,Valencia CF,4-1,Elche CF
+Sun Dec 4 1977,Hercules CF,1-2,Ud Las Palmas
+Sun Dec 4 1977,Atletico Madrid,2-1,Espanyol Barcelona
+Sun Dec 4 1977,Rayo Vallecano,3-2,Athletic Bilbao
+Sun Dec 4 1977,FC Barcelona,2-3,Real Madrid
+Sun Dec 4 1977,Real Sociedad,1-1,Sporting Gijon
+Sun Dec 11 1977,Athletic Bilbao,2-1,Ud Las Palmas
+Sun Dec 11 1977,Sporting Gijon,4-3,Real Betis
+Sun Dec 11 1977,Sevilla FC,1-0,Racing Santander
+Sun Dec 11 1977,Espanyol Barcelona,4-2,Cadiz CF
+Sun Dec 11 1977,Real Madrid,4-2,Atletico Madrid
+Sun Dec 11 1977,Rayo Vallecano,3-0,Valencia CF
+Sun Dec 11 1977,Burgos CF,1-1,FC Barcelona
+Sun Dec 11 1977,Elche CF,1-2,Real Sociedad
+Sun Dec 11 1977,Ud Salamanca,2-0,Hercules CF
+Sat Dec 17 1977,Ud Las Palmas,0-0,Ud Salamanca
+Sun Dec 18 1977,Racing Santander,4-0,Espanyol Barcelona
+Sun Dec 18 1977,Real Sociedad,1-1,Rayo Vallecano
+Sun Dec 18 1977,Atletico Madrid,2-1,Burgos CF
+Sun Dec 18 1977,Real Betis,4-0,Elche CF
+Sun Dec 18 1977,Hercules CF,2-2,Sevilla FC
+Sun Dec 18 1977,Valencia CF,3-1,Athletic Bilbao
+Sun Dec 18 1977,Cadiz CF,1-0,Real Madrid
+Sun Dec 18 1977,FC Barcelona,1-0,Sporting Gijon
+Sun Jan 1 1978,Sevilla FC,1-0,Ud Las Palmas
+Sun Jan 1 1978,Real Madrid,2-0,Racing Santander
+Sun Jan 1 1978,Espanyol Barcelona,2-1,Hercules CF
+Sun Jan 1 1978,Burgos CF,2-1,Cadiz CF
+Sun Jan 1 1978,Valencia CF,0-1,Real Sociedad
+Sun Jan 1 1978,Sporting Gijon,3-2,Atletico Madrid
+Sun Jan 1 1978,Elche CF,1-3,FC Barcelona
+Sun Jan 1 1978,Athletic Bilbao,3-1,Ud Salamanca
+Sun Jan 1 1978,Rayo Vallecano,4-2,Real Betis
+Sun Jan 8 1978,Cadiz CF,1-1,Sporting Gijon
+Sun Jan 8 1978,FC Barcelona,1-1,Rayo Vallecano
+Sun Jan 8 1978,Atletico Madrid,3-1,Elche CF
+Sun Jan 8 1978,Athletic Bilbao,1-0,Real Sociedad
+Sun Jan 8 1978,Ud Salamanca,1-1,Sevilla FC
+Sun Jan 8 1978,Real Betis,1-1,Valencia CF
+Sun Jan 8 1978,Ud Las Palmas,4-2,Espanyol Barcelona
+Sun Jan 8 1978,Hercules CF,2-3,Real Madrid
+Sun Jan 8 1978,Racing Santander,1-1,Burgos CF
+Sun Jan 15 1978,Elche CF,1-1,Cadiz CF
+Sun Jan 15 1978,Valencia CF,1-0,FC Barcelona
+Sun Jan 15 1978,Sevilla FC,0-0,Athletic Bilbao
+Sun Jan 15 1978,Rayo Vallecano,2-0,Atletico Madrid
+Sun Jan 15 1978,Real Sociedad,3-0,Real Betis
+Sun Jan 15 1978,Real Madrid,1-1,Ud Las Palmas
+Sun Jan 15 1978,Sporting Gijon,3-1,Racing Santander
+Sun Jan 15 1978,Burgos CF,0-0,Hercules CF
+Sun Jan 15 1978,Espanyol Barcelona,2-1,Ud Salamanca
+Sun Jan 22 1978,Real Betis,2-2,Athletic Bilbao
+Sun Jan 22 1978,Valencia CF,1-1,Atletico Madrid
+Sun Jan 22 1978,Espanyol Barcelona,2-1,Sevilla FC
+Sun Jan 22 1978,Burgos CF,2-1,Ud Las Palmas
+Sun Jan 22 1978,Elche CF,3-1,Racing Santander
+Sun Jan 22 1978,Sporting Gijon,2-1,Hercules CF
+Sun Jan 22 1978,Real Madrid,0-0,Ud Salamanca
+Sun Jan 22 1978,Rayo Vallecano,6-1,Cadiz CF
+Sun Jan 22 1978,Real Sociedad,1-2,FC Barcelona
+Sat Jan 28 1978,Ud Las Palmas,2-2,Sporting Gijon
+Sun Jan 29 1978,Sevilla FC,1-1,Real Madrid
+Sun Jan 29 1978,Racing Santander,2-1,Rayo Vallecano
+Sun Jan 29 1978,Ud Salamanca,2-0,Burgos CF
+Sun Jan 29 1978,Hercules CF,0-0,Elche CF
+Sun Jan 29 1978,FC Barcelona,1-0,Real Betis
+Sun Jan 29 1978,Atletico Madrid,2-1,Real Sociedad
+Sun Jan 29 1978,Athletic Bilbao,4-0,Espanyol Barcelona
+Sun Jan 29 1978,Cadiz CF,1-2,Valencia CF
+Sat Feb 4 1978,Real Sociedad,6-1,Cadiz CF
+Sun Feb 5 1978,Elche CF,2-0,Ud Las Palmas
+Sun Feb 5 1978,FC Barcelona,3-1,Athletic Bilbao
+Sun Feb 5 1978,Sporting Gijon,3-0,Ud Salamanca
+Sun Feb 5 1978,Rayo Vallecano,2-1,Hercules CF
+Sun Feb 5 1978,Valencia CF,0-0,Racing Santander
+Sun Feb 5 1978,Real Madrid,2-1,Espanyol Barcelona
+Sun Feb 5 1978,Real Betis,4-3,Atletico Madrid
+Sun Feb 5 1978,Burgos CF,1-0,Sevilla FC
+Sun Feb 12 1978,Cadiz CF,0-5,Real Betis
+Sun Feb 12 1978,Ud Las Palmas,1-1,Rayo Vallecano
+Sun Feb 12 1978,Espanyol Barcelona,4-1,Burgos CF
+Sun Feb 12 1978,Sevilla FC,1-2,Sporting Gijon
+Sun Feb 12 1978,Racing Santander,2-2,Real Sociedad
+Sun Feb 12 1978,Hercules CF,1-0,Valencia CF
+Sun Feb 12 1978,Atletico Madrid,1-0,FC Barcelona
+Sun Feb 12 1978,Athletic Bilbao,2-0,Real Madrid
+Sun Feb 12 1978,Ud Salamanca,1-0,Elche CF
+Sun Feb 19 1978,Atletico Madrid,0-1,Athletic Bilbao
+Sun Feb 19 1978,FC Barcelona,1-1,Cadiz CF
+Sun Feb 19 1978,Rayo Vallecano,3-3,Ud Salamanca
+Sun Feb 19 1978,Real Sociedad,0-0,Hercules CF
+Sun Feb 19 1978,Real Betis,3-1,Racing Santander
+Sun Feb 19 1978,Sporting Gijon,1-0,Espanyol Barcelona
+Sun Feb 19 1978,Elche CF,1-2,Sevilla FC
+Sun Feb 19 1978,Burgos CF,3-2,Real Madrid
+Sun Feb 19 1978,Valencia CF,0-1,Ud Las Palmas
+Sun Feb 26 1978,Ud Las Palmas,1-1,Real Sociedad
+Sun Feb 26 1978,Sevilla FC,2-0,Rayo Vallecano
+Sun Feb 26 1978,Athletic Bilbao,1-1,Burgos CF
+Sun Feb 26 1978,Espanyol Barcelona,3-1,Elche CF
+Sun Feb 26 1978,Hercules CF,2-0,Real Betis
+Sun Feb 26 1978,Cadiz CF,2-1,Atletico Madrid
+Sun Feb 26 1978,Ud Salamanca,0-1,Valencia CF
+Sun Feb 26 1978,Racing Santander,0-0,FC Barcelona
+Sun Feb 26 1978,Real Madrid,3-2,Sporting Gijon
+Sat Mar 4 1978,Real Sociedad,2-0,Ud Salamanca
+Sun Mar 5 1978,Rayo Vallecano,1-1,Espanyol Barcelona
+Sun Mar 5 1978,FC Barcelona,2-1,Hercules CF
+Sun Mar 5 1978,Atletico Madrid,3-0,Racing Santander
+Sun Mar 5 1978,Sporting Gijon,3-2,Burgos CF
+Sun Mar 5 1978,Cadiz CF,2-1,Athletic Bilbao
+Sun Mar 5 1978,Elche CF,3-1,Real Madrid
+Sun Mar 5 1978,Real Betis,1-2,Ud Las Palmas
+Sun Mar 5 1978,Valencia CF,3-0,Sevilla FC
+Sun Mar 12 1978,Sevilla FC,1-1,Real Sociedad
+Sun Mar 12 1978,Real Madrid,5-2,Rayo Vallecano
+Sun Mar 12 1978,Racing Santander,3-0,Cadiz CF
+Sun Mar 12 1978,Burgos CF,1-0,Elche CF
+Sun Mar 12 1978,Ud Salamanca,1-0,Real Betis
+Sun Mar 12 1978,Hercules CF,1-0,Atletico Madrid
+Sun Mar 12 1978,Espanyol Barcelona,2-2,Valencia CF
+Sun Mar 12 1978,Ud Las Palmas,0-0,FC Barcelona
+Sun Mar 12 1978,Athletic Bilbao,1-0,Sporting Gijon
+Sat Mar 18 1978,Real Sociedad,1-1,Espanyol Barcelona
+Sun Mar 19 1978,Real Betis,3-2,Sevilla FC
+Sun Mar 19 1978,Rayo Vallecano,0-0,Burgos CF
+Sun Mar 19 1978,FC Barcelona,3-1,Ud Salamanca
+Sun Mar 19 1978,Cadiz CF,0-0,Hercules CF
+Sun Mar 19 1978,Atletico Madrid,2-1,Ud Las Palmas
+Sun Mar 19 1978,Racing Santander,1-0,Athletic Bilbao
+Sun Mar 19 1978,Valencia CF,2-0,Real Madrid
+Sun Mar 19 1978,Elche CF,1-2,Sporting Gijon
+Sun Mar 26 1978,Real Madrid,5-0,Real Sociedad
+Sun Mar 26 1978,Sporting Gijon,1-1,Rayo Vallecano
+Sun Mar 26 1978,Ud Las Palmas,2-1,Cadiz CF
+Sun Mar 26 1978,Athletic Bilbao,4-1,Elche CF
+Sun Mar 26 1978,Espanyol Barcelona,2-0,Real Betis
+Sun Mar 26 1978,Ud Salamanca,0-1,Atletico Madrid
+Sun Mar 26 1978,Burgos CF,2-0,Valencia CF
+Sun Mar 26 1978,Sevilla FC,2-1,FC Barcelona
+Sun Mar 26 1978,Hercules CF,4-0,Racing Santander
+Sat Apr 1 1978,FC Barcelona,1-1,Espanyol Barcelona
+Sat Apr 1 1978,Valencia CF,1-0,Sporting Gijon
+Sat Apr 1 1978,Racing Santander,1-0,Ud Las Palmas
+Sun Apr 2 1978,Rayo Vallecano,0-1,Elche CF
+Sun Apr 2 1978,Real Betis,4-2,Real Madrid
+Sun Apr 2 1978,Real Sociedad,3-1,Burgos CF
+Sun Apr 2 1978,Cadiz CF,0-1,Ud Salamanca
+Sun Apr 2 1978,Atletico Madrid,1-0,Sevilla FC
+Sun Apr 2 1978,Hercules CF,1-0,Athletic Bilbao
+Wed Apr 5 1978,Sporting Gijon,6-2,Real Sociedad
+Wed Apr 5 1978,Athletic Bilbao,6-0,Rayo Vallecano
+Wed Apr 5 1978,Sevilla FC,1-0,Cadiz CF
+Wed Apr 5 1978,Ud Las Palmas,0-1,Hercules CF
+Wed Apr 5 1978,Burgos CF,1-0,Real Betis
+Wed Apr 5 1978,Espanyol Barcelona,1-3,Atletico Madrid
+Wed Apr 5 1978,Elche CF,0-2,Valencia CF
+Wed Apr 5 1978,Real Madrid,4-0,FC Barcelona
+Wed Apr 5 1978,Ud Salamanca,3-0,Racing Santander
+Sat Apr 8 1978,Valencia CF,7-0,Rayo Vallecano
+Sat Apr 8 1978,FC Barcelona,3-0,Burgos CF
+Sun Apr 9 1978,Racing Santander,1-1,Sevilla FC
+Sun Apr 9 1978,Cadiz CF,2-4,Espanyol Barcelona
+Sun Apr 9 1978,Real Betis,1-1,Sporting Gijon
+Sun Apr 9 1978,Hercules CF,2-0,Ud Salamanca
+Sun Apr 9 1978,Atletico Madrid,1-3,Real Madrid
+Sun Apr 9 1978,Ud Las Palmas,2-2,Athletic Bilbao
+Sun Apr 9 1978,Real Sociedad,3-2,Elche CF
+Sat Apr 15 1978,Ud Salamanca,0-0,Ud Las Palmas
+Sat Apr 15 1978,Athletic Bilbao,4-1,Valencia CF
+Sun Apr 16 1978,Burgos CF,2-2,Atletico Madrid
+Sun Apr 16 1978,Real Madrid,2-0,Cadiz CF
+Sun Apr 16 1978,Sevilla FC,2-1,Hercules CF
+Sun Apr 16 1978,Espanyol Barcelona,0-1,Racing Santander
+Sun Apr 16 1978,Rayo Vallecano,1-0,Real Sociedad
+Sun Apr 16 1978,Sporting Gijon,1-0,FC Barcelona
+Sun Apr 16 1978,Elche CF,2-1,Real Betis
+Sun Apr 23 1978,Ud Las Palmas,2-0,Sevilla FC
+Sun Apr 23 1978,Atletico Madrid,5-1,Sporting Gijon
+Sun Apr 23 1978,FC Barcelona,5-1,Elche CF
+Sun Apr 23 1978,Real Betis,1-0,Rayo Vallecano
+Sun Apr 23 1978,Hercules CF,1-1,Espanyol Barcelona
+Sun Apr 23 1978,Ud Salamanca,0-3,Athletic Bilbao
+Sun Apr 23 1978,Racing Santander,1-0,Real Madrid
+Sun Apr 23 1978,Cadiz CF,4-0,Burgos CF
+Sun Apr 23 1978,Real Sociedad,1-1,Valencia CF
+Sun Apr 30 1978,Burgos CF,0-0,Racing Santander
+Sun Apr 30 1978,Sporting Gijon,3-0,Cadiz CF
+Sun Apr 30 1978,Real Madrid,3-0,Hercules CF
+Sun Apr 30 1978,Espanyol Barcelona,0-1,Ud Las Palmas
+Sun Apr 30 1978,Valencia CF,4-2,Real Betis
+Sun Apr 30 1978,Elche CF,4-4,Atletico Madrid
+Sun Apr 30 1978,Real Sociedad,2-1,Athletic Bilbao
+Sun Apr 30 1978,Rayo Vallecano,2-1,FC Barcelona
+Sun Apr 30 1978,Sevilla FC,2-1,Ud Salamanca
+Sat May 6 1978,Ud Las Palmas,1-2,Real Madrid
+Sat May 6 1978,Athletic Bilbao,2-1,Sevilla FC
+Sun May 7 1978,Atletico Madrid,4-0,Rayo Vallecano
+Sun May 7 1978,Ud Salamanca,1-0,Espanyol Barcelona
+Sun May 7 1978,FC Barcelona,1-0,Valencia CF
+Sun May 7 1978,Real Betis,1-0,Real Sociedad
+Sun May 7 1978,Racing Santander,1-0,Sporting Gijon
+Sun May 7 1978,Cadiz CF,0-0,Elche CF
+Sun May 7 1978,Hercules CF,0-0,Burgos CF

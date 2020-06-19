@@ -1,0 +1,183 @@
+Date,Team 1,FT,Team 2
+Sun Sep 22 1946,Athletic Bilbao,4-1,Espanyol Barcelona
+Sun Sep 22 1946,Deportivo La Coruna,0-0,Sevilla FC
+Sun Sep 22 1946,FC Barcelona,1-1,Celta Vigo
+Sun Sep 22 1946,Atletico Madrid,2-2,Sporting Gijon
+Sun Sep 22 1946,Valencia CF,1-0,Ce Sabadell
+Sun Sep 22 1946,Real Murcia,2-0,Cd Castellon
+Sun Sep 22 1946,Real Oviedo,0-0,Real Madrid
+Sun Sep 29 1946,Sporting Gijon,1-1,Real Oviedo
+Sun Sep 29 1946,Espanyol Barcelona,3-1,Deportivo La Coruna
+Sun Sep 29 1946,Ce Sabadell,1-1,Atletico Madrid
+Sun Sep 29 1946,Celta Vigo,1-2,Valencia CF
+Sun Sep 29 1946,Cd Castellon,2-2,Athletic Bilbao
+Sun Sep 29 1946,Sevilla FC,3-1,FC Barcelona
+Sun Sep 29 1946,Real Madrid,5-0,Real Murcia
+Sun Oct 6 1946,Athletic Bilbao,2-0,Real Madrid
+Sun Oct 6 1946,Deportivo La Coruna,3-2,FC Barcelona
+Sun Oct 6 1946,Valencia CF,4-1,Sevilla FC
+Sun Oct 6 1946,Atletico Madrid,3-2,Celta Vigo
+Sun Oct 6 1946,Real Murcia,5-4,Sporting Gijon
+Sun Oct 6 1946,Real Oviedo,0-1,Ce Sabadell
+Sun Oct 6 1946,Espanyol Barcelona,5-0,Cd Castellon
+Sun Oct 13 1946,Sporting Gijon,1-0,Athletic Bilbao
+Sun Oct 13 1946,Celta Vigo,3-3,Real Oviedo
+Sun Oct 13 1946,Ce Sabadell,1-1,Real Murcia
+Sun Oct 13 1946,Cd Castellon,1-1,Deportivo La Coruna
+Sun Oct 13 1946,Real Madrid,2-0,Espanyol Barcelona
+Sun Oct 13 1946,Sevilla FC,1-2,Atletico Madrid
+Sun Oct 13 1946,FC Barcelona,2-1,Valencia CF
+Sun Oct 20 1946,Athletic Bilbao,2-1,Ce Sabadell
+Sun Oct 20 1946,Cd Castellon,2-3,Real Madrid
+Sun Oct 20 1946,Atletico Madrid,2-2,FC Barcelona
+Sun Oct 20 1946,Deportivo La Coruna,0-0,Valencia CF
+Sun Oct 20 1946,Real Oviedo,4-2,Sevilla FC
+Sun Oct 20 1946,Real Murcia,0-2,Celta Vigo
+Sun Oct 20 1946,Espanyol Barcelona,2-1,Sporting Gijon
+Sun Oct 27 1946,Sporting Gijon,4-0,Cd Castellon
+Sun Oct 27 1946,Sevilla FC,1-1,Real Murcia
+Sun Oct 27 1946,Real Madrid,5-0,Deportivo La Coruna
+Sun Oct 27 1946,FC Barcelona,2-0,Real Oviedo
+Sun Oct 27 1946,Valencia CF,0-2,Atletico Madrid
+Sun Oct 27 1946,Celta Vigo,3-2,Athletic Bilbao
+Sun Oct 27 1946,Ce Sabadell,3-1,Espanyol Barcelona
+Sun Nov 3 1946,Real Madrid,4-0,Sporting Gijon
+Sun Nov 3 1946,Deportivo La Coruna,1-0,Atletico Madrid
+Sun Nov 3 1946,Cd Castellon,4-0,Ce Sabadell
+Sun Nov 3 1946,Real Murcia,0-1,FC Barcelona
+Sun Nov 3 1946,Espanyol Barcelona,2-0,Celta Vigo
+Sun Nov 3 1946,Real Oviedo,4-1,Valencia CF
+Sun Nov 3 1946,Athletic Bilbao,5-0,Sevilla FC
+Sun Nov 10 1946,Valencia CF,1-2,Real Murcia
+Sun Nov 10 1946,Celta Vigo,0-0,Cd Castellon
+Sun Nov 10 1946,Sporting Gijon,2-0,Deportivo La Coruna
+Sun Nov 10 1946,Atletico Madrid,5-2,Real Oviedo
+Sun Nov 10 1946,Sevilla FC,3-1,Espanyol Barcelona
+Sun Nov 10 1946,FC Barcelona,2-1,Athletic Bilbao
+Sun Nov 10 1946,Ce Sabadell,3-3,Real Madrid
+Sun Nov 17 1946,Athletic Bilbao,0-1,Valencia CF
+Sun Nov 17 1946,Real Murcia,1-2,Atletico Madrid
+Sun Nov 17 1946,Cd Castellon,1-4,Sevilla FC
+Sun Nov 17 1946,Real Madrid,3-3,Celta Vigo
+Sun Nov 17 1946,Deportivo La Coruna,2-2,Real Oviedo
+Sun Nov 17 1946,Sporting Gijon,3-1,Ce Sabadell
+Sun Nov 17 1946,Espanyol Barcelona,0-1,FC Barcelona
+Sun Nov 24 1946,Ce Sabadell,3-0,Deportivo La Coruna
+Sun Nov 24 1946,Celta Vigo,6-2,Sporting Gijon
+Sun Nov 24 1946,Real Oviedo,3-0,Real Murcia
+Sun Nov 24 1946,Atletico Madrid,4-0,Athletic Bilbao
+Sun Nov 24 1946,Sevilla FC,5-0,Real Madrid
+Sun Nov 24 1946,Valencia CF,3-2,Espanyol Barcelona
+Sun Nov 24 1946,FC Barcelona,3-3,Cd Castellon
+Sun Dec 1 1946,Real Madrid,2-1,FC Barcelona
+Sun Dec 1 1946,Cd Castellon,2-4,Valencia CF
+Sun Dec 1 1946,Espanyol Barcelona,4-1,Atletico Madrid
+Sun Dec 1 1946,Sporting Gijon,1-4,Sevilla FC
+Sun Dec 1 1946,Ce Sabadell,2-0,Celta Vigo
+Sun Dec 1 1946,Athletic Bilbao,4-1,Real Oviedo
+Sun Dec 1 1946,Deportivo La Coruna,3-1,Real Murcia
+Sun Dec 8 1946,Valencia CF,4-1,Real Madrid
+Sun Dec 8 1946,Atletico Madrid,3-2,Cd Castellon
+Sun Dec 8 1946,Sevilla FC,4-0,Ce Sabadell
+Sun Dec 8 1946,FC Barcelona,4-1,Sporting Gijon
+Sun Dec 8 1946,Deportivo La Coruna,1-4,Celta Vigo
+Sun Dec 8 1946,Real Murcia,2-4,Athletic Bilbao
+Sun Dec 8 1946,Real Oviedo,4-0,Espanyol Barcelona
+Sun Dec 15 1946,Espanyol Barcelona,2-3,Real Murcia
+Sun Dec 15 1946,Ce Sabadell,1-4,FC Barcelona
+Sun Dec 15 1946,Sporting Gijon,4-1,Valencia CF
+Sun Dec 15 1946,Real Madrid,1-2,Atletico Madrid
+Sun Dec 15 1946,Celta Vigo,3-0,Sevilla FC
+Sun Dec 15 1946,Cd Castellon,3-3,Real Oviedo
+Sun Dec 15 1946,Athletic Bilbao,6-0,Deportivo La Coruna
+Sun Dec 29 1946,Espanyol Barcelona,0-3,Athletic Bilbao
+Sun Dec 29 1946,Ce Sabadell,3-0,Valencia CF
+Sun Dec 29 1946,Sporting Gijon,1-2,Atletico Madrid
+Sun Dec 29 1946,Real Madrid,2-0,Real Oviedo
+Sun Dec 29 1946,Sevilla FC,4-0,Deportivo La Coruna
+Sun Dec 29 1946,Cd Castellon,1-0,Real Murcia
+Sun Dec 29 1946,Celta Vigo,2-1,FC Barcelona
+Wed Jan 1 1947,Athletic Bilbao,6-0,Cd Castellon
+Sun Jan 5 1947,Valencia CF,2-1,Celta Vigo
+Sun Jan 5 1947,FC Barcelona,5-1,Sevilla FC
+Tue Jan 7 1947,Deportivo La Coruna,1-0,Espanyol Barcelona
+Tue Jan 7 1947,Real Oviedo,3-2,Sporting Gijon
+Tue Jan 7 1947,Real Murcia,1-1,Real Madrid
+Tue Jan 7 1947,Atletico Madrid,1-3,Ce Sabadell
+Sun Jan 12 1947,Real Madrid,3-6,Athletic Bilbao
+Sun Jan 12 1947,Cd Castellon,4-3,Espanyol Barcelona
+Sun Jan 12 1947,Sevilla FC,3-1,Valencia CF
+Sun Jan 12 1947,Celta Vigo,0-4,Atletico Madrid
+Sun Jan 12 1947,Ce Sabadell,1-1,Real Oviedo
+Sun Jan 12 1947,FC Barcelona,5-0,Deportivo La Coruna
+Sun Jan 12 1947,Sporting Gijon,4-1,Real Murcia
+Sun Jan 19 1947,Espanyol Barcelona,4-2,Real Madrid
+Sun Jan 19 1947,Athletic Bilbao,6-2,Sporting Gijon
+Sun Jan 19 1947,Deportivo La Coruna,8-1,Cd Castellon
+Sun Jan 19 1947,Real Murcia,0-0,Ce Sabadell
+Sun Jan 19 1947,Valencia CF,4-0,FC Barcelona
+Sun Jan 19 1947,Real Oviedo,2-0,Celta Vigo
+Sun Jan 19 1947,Atletico Madrid,1-1,Sevilla FC
+Sun Feb 2 1947,Real Madrid,7-4,Cd Castellon
+Sun Feb 2 1947,Ce Sabadell,1-1,Athletic Bilbao
+Sun Feb 2 1947,Sporting Gijon,1-1,Espanyol Barcelona
+Sun Feb 2 1947,FC Barcelona,3-2,Atletico Madrid
+Sun Feb 2 1947,Sevilla FC,2-1,Real Oviedo
+Sun Feb 2 1947,Valencia CF,3-0,Deportivo La Coruna
+Sun Feb 2 1947,Celta Vigo,6-0,Real Murcia
+Sun Feb 9 1947,Espanyol Barcelona,1-2,Ce Sabadell
+Sun Feb 9 1947,Cd Castellon,0-2,Sporting Gijon
+Sun Feb 9 1947,Athletic Bilbao,3-2,Celta Vigo
+Sun Feb 9 1947,Real Murcia,1-1,Sevilla FC
+Sun Feb 9 1947,Atletico Madrid,1-1,Valencia CF
+Sun Feb 9 1947,Deportivo La Coruna,2-2,Real Madrid
+Sun Feb 9 1947,Real Oviedo,2-3,FC Barcelona
+Sun Feb 16 1947,Celta Vigo,3-2,Espanyol Barcelona
+Sun Feb 16 1947,Ce Sabadell,4-1,Cd Castellon
+Sun Feb 16 1947,FC Barcelona,6-2,Real Murcia
+Sun Feb 16 1947,Atletico Madrid,3-1,Deportivo La Coruna
+Sun Feb 16 1947,Sevilla FC,2-2,Athletic Bilbao
+Sun Feb 16 1947,Sporting Gijon,2-1,Real Madrid
+Sun Feb 16 1947,Valencia CF,4-1,Real Oviedo
+Sun Mar 9 1947,Real Madrid,1-3,Ce Sabadell
+Sun Mar 9 1947,Deportivo La Coruna,1-1,Sporting Gijon
+Sun Mar 9 1947,Espanyol Barcelona,4-0,Sevilla FC
+Sun Mar 9 1947,Real Oviedo,4-0,Atletico Madrid
+Sun Mar 9 1947,Real Murcia,1-0,Valencia CF
+Sun Mar 9 1947,Athletic Bilbao,1-0,FC Barcelona
+Tue Mar 11 1947,Cd Castellon,1-2,Celta Vigo
+Sun Mar 16 1947,Valencia CF,1-0,Athletic Bilbao
+Sun Mar 16 1947,FC Barcelona,5-0,Espanyol Barcelona
+Sun Mar 16 1947,Ce Sabadell,2-2,Sporting Gijon
+Sun Mar 16 1947,Real Oviedo,3-1,Deportivo La Coruna
+Sun Mar 16 1947,Atletico Madrid,2-2,Real Murcia
+Sun Mar 16 1947,Sevilla FC,4-2,Cd Castellon
+Sun Mar 16 1947,Celta Vigo,3-4,Real Madrid
+Sun Mar 23 1947,Sporting Gijon,3-0,Celta Vigo
+Sun Mar 23 1947,Real Madrid,3-0,Sevilla FC
+Sun Mar 23 1947,Real Murcia,0-0,Real Oviedo
+Sun Mar 23 1947,Espanyol Barcelona,1-2,Valencia CF
+Sun Mar 23 1947,Cd Castellon,4-1,FC Barcelona
+Sun Mar 23 1947,Athletic Bilbao,3-1,Atletico Madrid
+Sun Mar 23 1947,Deportivo La Coruna,1-1,Ce Sabadell
+Sun Mar 30 1947,FC Barcelona,3-2,Real Madrid
+Sun Mar 30 1947,Real Oviedo,3-0,Athletic Bilbao
+Sun Mar 30 1947,Atletico Madrid,8-3,Espanyol Barcelona
+Sun Mar 30 1947,Sevilla FC,5-2,Sporting Gijon
+Sun Mar 30 1947,Real Murcia,1-0,Deportivo La Coruna
+Sun Mar 30 1947,Valencia CF,3-0,Cd Castellon
+Sun Apr 6 1947,Sporting Gijon,3-1,FC Barcelona
+Sun Apr 6 1947,Athletic Bilbao,6-2,Real Murcia
+Sun Apr 6 1947,Celta Vigo,4-2,Deportivo La Coruna
+Sun Apr 6 1947,Espanyol Barcelona,2-1,Real Oviedo
+Sun Apr 6 1947,Ce Sabadell,3-1,Sevilla FC
+Sun Apr 6 1947,Real Madrid,2-4,Valencia CF
+Sun Apr 6 1947,Cd Castellon,0-2,Atletico Madrid
+Sun Apr 13 1947,Real Oviedo,4-1,Cd Castellon
+Sun Apr 13 1947,Atletico Madrid,2-3,Real Madrid
+Sun Apr 13 1947,Deportivo La Coruna,3-3,Athletic Bilbao
+Sun Apr 13 1947,Real Murcia,1-2,Espanyol Barcelona
+Sun Apr 13 1947,Sevilla FC,2-0,Celta Vigo
+Sun Apr 13 1947,Valencia CF,6-0,Sporting Gijon
+Sun Apr 13 1947,FC Barcelona,0-1,Ce Sabadell
+Wed Apr 23 1947,Celta Vigo,2-1,Ce Sabadell

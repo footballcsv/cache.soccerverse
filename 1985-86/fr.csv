@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Tue Jul 16 1985,Toulouse FC,4-1,As Nancy
+Tue Jul 16 1985,SC Bastia,2-4,Paris Saint Germain
+Tue Jul 16 1985,Lille OSC,3-1,Stade Brest
+Tue Jul 16 1985,FC Metz,2-3,RC Lens
+Tue Jul 16 1985,Le Havre Ac,1-0,Olympique Marseille
+Tue Jul 16 1985,Girondins Bordeaux,1-0,OGC Nice
+Tue Jul 16 1985,RC Strasbourg,1-1,Stade Rennes
+Tue Jul 16 1985,As Monaco,1-1,FC Sochaux
+Tue Jul 16 1985,Sporting Toulon Var,0-0,FC Nantes
+Tue Jul 16 1985,Stade Laval,0-0,Aj Auxerre
+Fri Jul 19 1985,RC Lens,6-0,SC Bastia
+Fri Jul 19 1985,Paris Saint Germain,3-0,Lille OSC
+Fri Jul 19 1985,Stade Brest,0-1,Girondins Bordeaux
+Fri Jul 19 1985,FC Sochaux,4-1,Toulouse FC
+Fri Jul 19 1985,Aj Auxerre,2-0,Olympique Marseille
+Fri Jul 19 1985,Sporting Toulon Var,1-0,RC Strasbourg
+Fri Jul 19 1985,As Nancy,3-0,Le Havre Ac
+Fri Jul 19 1985,FC Nantes,1-1,As Monaco
+Fri Jul 19 1985,Stade Rennes,0-0,FC Metz
+Fri Jul 19 1985,OGC Nice,0-0,Stade Laval
+Fri Jul 26 1985,Toulouse FC,1-3,Paris Saint Germain
+Fri Jul 26 1985,Girondins Bordeaux,2-1,RC Lens
+Fri Jul 26 1985,As Monaco,0-2,Sporting Toulon Var
+Fri Jul 26 1985,Le Havre Ac,3-3,Aj Auxerre
+Fri Jul 26 1985,SC Bastia,0-2,Stade Rennes
+Fri Jul 26 1985,Lille OSC,3-1,As Nancy
+Fri Jul 26 1985,RC Strasbourg,1-2,FC Nantes
+Fri Jul 26 1985,FC Metz,2-0,FC Sochaux
+Fri Jul 26 1985,Stade Laval,0-0,Stade Brest
+Fri Jul 26 1985,Olympique Marseille,2-1,OGC Nice
+Tue Jul 30 1985,Paris Saint Germain,1-0,Girondins Bordeaux
+Tue Jul 30 1985,Sporting Toulon Var,2-1,FC Metz
+Tue Jul 30 1985,RC Lens,2-0,Toulouse FC
+Tue Jul 30 1985,FC Nantes,2-0,SC Bastia
+Tue Jul 30 1985,OGC Nice,1-1,Aj Auxerre
+Tue Jul 30 1985,FC Sochaux,1-1,Le Havre Ac
+Tue Jul 30 1985,Stade Rennes,0-1,As Monaco
+Tue Jul 30 1985,RC Strasbourg,2-1,Lille OSC
+Tue Jul 30 1985,As Nancy,1-0,Stade Laval
+Tue Jul 30 1985,Stade Brest,2-1,Olympique Marseille
+Fri Aug 2 1985,Stade Laval,2-2,Paris Saint Germain
+Fri Aug 2 1985,Girondins Bordeaux,1-0,As Nancy
+Fri Aug 2 1985,Olympique Marseille,3-3,RC Lens
+Fri Aug 2 1985,SC Bastia,2-1,Sporting Toulon Var
+Fri Aug 2 1985,FC Metz,0-0,FC Nantes
+Fri Aug 2 1985,Lille OSC,2-1,FC Sochaux
+Fri Aug 2 1985,As Monaco,2-0,RC Strasbourg
+Fri Aug 2 1985,Aj Auxerre,1-2,Stade Brest
+Fri Aug 2 1985,Toulouse FC,4-1,Stade Rennes
+Fri Aug 2 1985,Le Havre Ac,1-2,OGC Nice
+Tue Aug 6 1985,FC Sochaux,2-0,SC Bastia
+Fri Aug 9 1985,Paris Saint Germain,2-0,Olympique Marseille
+Fri Aug 9 1985,RC Lens,3-1,Stade Laval
+Fri Aug 9 1985,FC Nantes,1-0,Toulouse FC
+Fri Aug 9 1985,Sporting Toulon Var,1-1,Girondins Bordeaux
+Fri Aug 9 1985,As Monaco,0-0,FC Metz
+Fri Aug 9 1985,RC Strasbourg,2-1,Le Havre Ac
+Fri Aug 9 1985,Stade Rennes,2-0,Lille OSC
+Fri Aug 9 1985,As Nancy,1-0,Aj Auxerre
+Fri Aug 9 1985,Stade Brest,1-1,OGC Nice
+Thu Aug 15 1985,FC Metz,0-0,RC Strasbourg
+Fri Aug 16 1985,Aj Auxerre,0-1,Paris Saint Germain
+Fri Aug 16 1985,Lille OSC,0-1,FC Nantes
+Fri Aug 16 1985,Girondins Bordeaux,3-2,Stade Rennes
+Fri Aug 16 1985,OGC Nice,1-1,RC Lens
+Fri Aug 16 1985,SC Bastia,0-0,As Monaco
+Fri Aug 16 1985,Olympique Marseille,2-3,As Nancy
+Fri Aug 16 1985,Toulouse FC,4-0,Sporting Toulon Var
+Fri Aug 16 1985,Stade Laval,3-1,FC Sochaux
+Fri Aug 16 1985,Le Havre Ac,2-0,Stade Brest
+Fri Aug 23 1985,As Nancy,3-0,OGC Nice
+Sat Aug 24 1985,Paris Saint Germain,2-0,Stade Brest
+Sat Aug 24 1985,FC Nantes,1-0,Stade Laval
+Sat Aug 24 1985,RC Lens,4-1,Le Havre Ac
+Sat Aug 24 1985,RC Strasbourg,3-2,Girondins Bordeaux
+Sat Aug 24 1985,As Monaco,3-0,Toulouse FC
+Sat Aug 24 1985,Sporting Toulon Var,1-1,Lille OSC
+Sat Aug 24 1985,FC Metz,3-0,SC Bastia
+Sat Aug 24 1985,Stade Rennes,4-1,Aj Auxerre
+Sat Aug 24 1985,FC Sochaux,1-1,Olympique Marseille
+Tue Aug 27 1985,Stade Laval,2-0,Sporting Toulon Var
+Fri Aug 30 1985,OGC Nice,0-0,Paris Saint Germain
+Fri Aug 30 1985,Girondins Bordeaux,5-1,As Monaco
+Fri Aug 30 1985,Olympique Marseille,1-0,FC Nantes
+Fri Aug 30 1985,Lille OSC,1-0,RC Lens
+Fri Aug 30 1985,Stade Brest,0-2,As Nancy
+Fri Aug 30 1985,Toulouse FC,2-0,FC Metz
+Fri Aug 30 1985,Le Havre Ac,1-0,Stade Rennes
+Fri Aug 30 1985,SC Bastia,2-0,RC Strasbourg
+Fri Aug 30 1985,Aj Auxerre,3-2,FC Sochaux
+Tue Sep 3 1985,Paris Saint Germain,2-0,As Nancy
+Tue Sep 3 1985,FC Nantes,2-1,Le Havre Ac
+Tue Sep 3 1985,RC Lens,1-0,Stade Brest
+Tue Sep 3 1985,FC Sochaux,2-1,Girondins Bordeaux
+Tue Sep 3 1985,FC Metz,4-0,Lille OSC
+Tue Sep 3 1985,RC Strasbourg,0-3,Toulouse FC
+Tue Sep 3 1985,Stade Rennes,1-0,Stade Laval
+Tue Sep 3 1985,As Monaco,0-1,OGC Nice
+Tue Sep 3 1985,Sporting Toulon Var,0-0,Olympique Marseille
+Tue Sep 3 1985,SC Bastia,0-0,Aj Auxerre
+Fri Sep 13 1985,Stade Laval,1-1,FC Metz
+Fri Sep 13 1985,Aj Auxerre,2-0,RC Strasbourg
+Fri Sep 13 1985,Stade Brest,2-1,Sporting Toulon Var
+Fri Sep 13 1985,Olympique Marseille,1-2,Stade Rennes
+Fri Sep 13 1985,As Nancy,2-1,RC Lens
+Sat Sep 14 1985,Le Havre Ac,1-2,Paris Saint Germain
+Sat Sep 14 1985,Girondins Bordeaux,2-1,FC Nantes
+Sat Sep 14 1985,Toulouse FC,3-1,SC Bastia
+Sat Sep 14 1985,Lille OSC,2-2,As Monaco
+Sat Sep 14 1985,OGC Nice,2-0,FC Sochaux
+Fri Sep 20 1985,RC Lens,2-3,Paris Saint Germain
+Fri Sep 20 1985,FC Sochaux,1-1,As Nancy
+Fri Sep 20 1985,Toulouse FC,1-0,Le Havre Ac
+Fri Sep 20 1985,Stade Rennes,0-4,Stade Brest
+Fri Sep 20 1985,SC Bastia,2-0,Lille OSC
+Fri Sep 20 1985,RC Strasbourg,0-0,Olympique Marseille
+Sat Sep 21 1985,FC Metz,2-3,Girondins Bordeaux
+Sat Sep 21 1985,FC Nantes,1-1,OGC Nice
+Sat Sep 21 1985,Sporting Toulon Var,0-1,Aj Auxerre
+Sat Sep 21 1985,As Monaco,1-1,Stade Laval
+Fri Sep 27 1985,Paris Saint Germain,4-1,FC Sochaux
+Fri Sep 27 1985,Girondins Bordeaux,2-2,SC Bastia
+Fri Sep 27 1985,Stade Brest,1-3,FC Nantes
+Fri Sep 27 1985,As Nancy,5-3,Sporting Toulon Var
+Fri Sep 27 1985,Aj Auxerre,0-0,RC Lens
+Fri Sep 27 1985,Lille OSC,2-0,Toulouse FC
+Fri Sep 27 1985,OGC Nice,2-1,Stade Rennes
+Fri Sep 27 1985,Olympique Marseille,2-2,As Monaco
+Fri Sep 27 1985,Le Havre Ac,0-0,FC Metz
+Fri Sep 27 1985,Stade Laval,4-1,RC Strasbourg
+Fri Oct 4 1985,Stade Rennes,2-3,Paris Saint Germain
+Fri Oct 4 1985,FC Sochaux,1-3,RC Lens
+Fri Oct 4 1985,Lille OSC,1-3,Stade Laval
+Fri Oct 4 1985,Sporting Toulon Var,4-0,OGC Nice
+Fri Oct 4 1985,RC Strasbourg,0-1,Stade Brest
+Fri Oct 4 1985,SC Bastia,2-1,Le Havre Ac
+Sat Oct 5 1985,Toulouse FC,1-2,Girondins Bordeaux
+Sat Oct 5 1985,FC Nantes,2-0,As Nancy
+Sat Oct 5 1985,As Monaco,1-0,Aj Auxerre
+Sat Oct 5 1985,FC Metz,3-0,Olympique Marseille
+Fri Oct 11 1985,Paris Saint Germain,2-1,FC Nantes
+Fri Oct 11 1985,Girondins Bordeaux,1-1,Lille OSC
+Fri Oct 11 1985,RC Lens,1-1,Sporting Toulon Var
+Fri Oct 11 1985,As Nancy,0-0,Stade Rennes
+Fri Oct 11 1985,OGC Nice,5-1,RC Strasbourg
+Fri Oct 11 1985,Le Havre Ac,1-1,As Monaco
+Fri Oct 11 1985,Aj Auxerre,2-1,FC Metz
+Fri Oct 11 1985,Stade Brest,3-1,FC Sochaux
+Fri Oct 11 1985,Olympique Marseille,0-0,SC Bastia
+Sat Oct 12 1985,Stade Laval,3-2,Toulouse FC
+Fri Oct 18 1985,Sporting Toulon Var,1-1,Paris Saint Germain
+Fri Oct 18 1985,FC Nantes,4-0,RC Lens
+Fri Oct 18 1985,Girondins Bordeaux,0-0,Aj Auxerre
+Fri Oct 18 1985,RC Strasbourg,1-0,As Nancy
+Fri Oct 18 1985,As Monaco,3-1,Stade Brest
+Fri Oct 18 1985,SC Bastia,0-0,Stade Laval
+Fri Oct 18 1985,FC Metz,3-0,OGC Nice
+Fri Oct 18 1985,Toulouse FC,1-0,Olympique Marseille
+Fri Oct 18 1985,Stade Rennes,0-0,FC Sochaux
+Fri Oct 18 1985,Lille OSC,0-0,Le Havre Ac
+Fri Oct 25 1985,Paris Saint Germain,1-1,RC Strasbourg
+Fri Oct 25 1985,RC Lens,0-0,Stade Rennes
+Fri Oct 25 1985,As Nancy,1-1,As Monaco
+Fri Oct 25 1985,Aj Auxerre,2-1,Toulouse FC
+Fri Oct 25 1985,OGC Nice,1-0,SC Bastia
+Fri Oct 25 1985,Stade Brest,1-1,FC Metz
+Fri Oct 25 1985,Le Havre Ac,4-3,Sporting Toulon Var
+Fri Oct 25 1985,Olympique Marseille,1-0,Lille OSC
+Fri Oct 25 1985,FC Sochaux,1-1,FC Nantes
+Fri Oct 25 1985,Stade Laval,0-0,Girondins Bordeaux
+Sat Nov 2 1985,As Monaco,1-1,Paris Saint Germain
+Sat Nov 2 1985,FC Nantes,1-0,Stade Rennes
+Sat Nov 2 1985,Girondins Bordeaux,2-1,Olympique Marseille
+Sat Nov 2 1985,RC Strasbourg,0-0,RC Lens
+Sat Nov 2 1985,Lille OSC,0-1,Aj Auxerre
+Sat Nov 2 1985,FC Metz,3-1,As Nancy
+Sat Nov 2 1985,Stade Laval,2-2,Le Havre Ac
+Sat Nov 2 1985,Toulouse FC,0-0,OGC Nice
+Sat Nov 2 1985,Sporting Toulon Var,2-2,FC Sochaux
+Sat Nov 2 1985,SC Bastia,3-2,Stade Brest
+Fri Nov 8 1985,Paris Saint Germain,2-1,FC Metz
+Fri Nov 8 1985,Le Havre Ac,0-1,Girondins Bordeaux
+Fri Nov 8 1985,RC Lens,1-1,As Monaco
+Fri Nov 8 1985,As Nancy,4-1,SC Bastia
+Fri Nov 8 1985,OGC Nice,0-0,Lille OSC
+Fri Nov 8 1985,Olympique Marseille,4-0,Stade Laval
+Fri Nov 8 1985,Stade Brest,2-2,Toulouse FC
+Fri Nov 8 1985,Stade Rennes,1-0,Sporting Toulon Var
+Fri Nov 8 1985,FC Sochaux,3-1,RC Strasbourg
+Sat Nov 9 1985,Aj Auxerre,0-0,FC Nantes
+Tue Nov 19 1985,Girondins Bordeaux,4-0,Stade Brest
+Tue Nov 19 1985,SC Bastia,0-1,RC Lens
+Tue Nov 19 1985,FC Metz,4-1,Stade Rennes
+Tue Nov 19 1985,Le Havre Ac,2-0,As Nancy
+Tue Nov 19 1985,Stade Laval,2-1,OGC Nice
+Tue Nov 19 1985,Olympique Marseille,2-1,Aj Auxerre
+Tue Nov 19 1985,Toulouse FC,3-0,FC Sochaux
+Tue Nov 19 1985,RC Strasbourg,1-1,Sporting Toulon Var
+Wed Nov 20 1985,As Monaco,1-1,FC Nantes
+Fri Nov 22 1985,Paris Saint Germain,3-0,Toulouse FC
+Fri Nov 22 1985,RC Lens,1-0,Girondins Bordeaux
+Fri Nov 22 1985,FC Sochaux,1-2,FC Metz
+Fri Nov 22 1985,As Nancy,3-0,Lille OSC
+Fri Nov 22 1985,Aj Auxerre,3-0,Le Havre Ac
+Fri Nov 22 1985,OGC Nice,1-0,Olympique Marseille
+Fri Nov 22 1985,Stade Brest,2-1,Stade Laval
+Fri Nov 22 1985,Stade Rennes,3-1,SC Bastia
+Sat Nov 23 1985,FC Nantes,2-0,RC Strasbourg
+Sat Nov 23 1985,Sporting Toulon Var,1-1,As Monaco
+Fri Nov 29 1985,Girondins Bordeaux,0-0,Paris Saint Germain
+Fri Nov 29 1985,Toulouse FC,1-1,RC Lens
+Fri Nov 29 1985,As Monaco,1-0,Stade Rennes
+Fri Nov 29 1985,Stade Laval,2-0,As Nancy
+Fri Nov 29 1985,Olympique Marseille,3-0,Stade Brest
+Fri Nov 29 1985,Le Havre Ac,1-0,FC Sochaux
+Fri Nov 29 1985,Lille OSC,2-0,RC Strasbourg
+Sat Nov 30 1985,SC Bastia,2-3,FC Nantes
+Sat Nov 30 1985,Aj Auxerre,1-2,OGC Nice
+Sat Nov 30 1985,FC Metz,0-2,Sporting Toulon Var
+Fri Dec 6 1985,FC Nantes,1-0,FC Metz
+Sat Dec 7 1985,Paris Saint Germain,5-1,Stade Laval
+Sat Dec 7 1985,As Nancy,1-1,Girondins Bordeaux
+Sat Dec 7 1985,RC Lens,2-1,Olympique Marseille
+Sat Dec 7 1985,RC Strasbourg,1-1,As Monaco
+Sat Dec 7 1985,Stade Brest,1-3,Aj Auxerre
+Sat Dec 7 1985,OGC Nice,0-3,Le Havre Ac
+Sat Dec 7 1985,Stade Rennes,2-1,Toulouse FC
+Sat Dec 7 1985,Sporting Toulon Var,1-1,SC Bastia
+Sun Dec 8 1985,FC Sochaux,3-1,Lille OSC
+Sat Dec 14 1985,Girondins Bordeaux,2-1,Sporting Toulon Var
+Sat Dec 14 1985,Toulouse FC,4-2,FC Nantes
+Sat Dec 14 1985,Stade Laval,2-1,RC Lens
+Sat Dec 14 1985,Aj Auxerre,3-0,As Nancy
+Sat Dec 14 1985,OGC Nice,2-2,Stade Brest
+Sat Dec 14 1985,Le Havre Ac,4-1,RC Strasbourg
+Sat Dec 14 1985,Lille OSC,2-0,Stade Rennes
+Sat Dec 14 1985,SC Bastia,0-0,FC Sochaux
+Sun Dec 15 1985,Olympique Marseille,0-0,Paris Saint Germain
+Sun Dec 15 1985,FC Metz,3-2,As Monaco
+Sat Dec 21 1985,Paris Saint Germain,4-0,Aj Auxerre
+Sat Dec 21 1985,FC Nantes,5-1,Lille OSC
+Sat Dec 21 1985,Stade Rennes,0-0,Girondins Bordeaux
+Sat Dec 21 1985,RC Lens,2-0,OGC Nice
+Sat Dec 21 1985,As Monaco,2-1,SC Bastia
+Sat Dec 21 1985,Sporting Toulon Var,1-1,Toulouse FC
+Sat Dec 21 1985,Stade Brest,1-1,Le Havre Ac
+Sun Dec 22 1985,RC Strasbourg,0-0,FC Metz
+Sun Dec 22 1985,FC Sochaux,1-0,Stade Laval
+Sun Dec 22 1985,As Nancy,0-2,Olympique Marseille
+Sat Jan 11 1986,Stade Brest,1-1,Paris Saint Germain
+Sat Jan 11 1986,Stade Laval,0-0,FC Nantes
+Sat Jan 11 1986,Girondins Bordeaux,1-0,RC Strasbourg
+Sat Jan 11 1986,Le Havre Ac,3-0,RC Lens
+Sat Jan 11 1986,Aj Auxerre,1-0,Stade Rennes
+Sat Jan 11 1986,Toulouse FC,2-1,As Monaco
+Sat Jan 11 1986,SC Bastia,0-0,FC Metz
+Sat Jan 11 1986,OGC Nice,3-1,As Nancy
+Sat Jan 11 1986,Lille OSC,1-0,Sporting Toulon Var
+Sun Jan 12 1986,Olympique Marseille,1-2,FC Sochaux
+Sat Jan 18 1986,Paris Saint Germain,3-2,OGC Nice
+Sat Jan 18 1986,FC Nantes,0-2,Olympique Marseille
+Sat Jan 18 1986,As Monaco,9-0,Girondins Bordeaux
+Sat Jan 18 1986,RC Lens,1-4,Lille OSC
+Sat Jan 18 1986,Sporting Toulon Var,3-0,Stade Laval
+Sat Jan 18 1986,Stade Rennes,2-1,Le Havre Ac
+Sun Jan 19 1986,FC Sochaux,2-0,Aj Auxerre
+Sun Jan 19 1986,FC Metz,1-1,Toulouse FC
+Sun Jan 19 1986,As Nancy,2-0,Stade Brest
+Sun Jan 19 1986,RC Strasbourg,6-1,SC Bastia
+Wed Jan 22 1986,Lille OSC,2-0,Paris Saint Germain
+Fri Jan 31 1986,Le Havre Ac,0-1,FC Nantes
+Sat Feb 1 1986,Girondins Bordeaux,1-1,FC Sochaux
+Sat Feb 1 1986,Aj Auxerre,2-0,SC Bastia
+Sat Feb 1 1986,OGC Nice,1-0,As Monaco
+Sat Feb 1 1986,Stade Brest,2-0,RC Lens
+Sat Feb 1 1986,Toulouse FC,3-0,RC Strasbourg
+Sat Feb 1 1986,Lille OSC,1-0,FC Metz
+Sat Feb 1 1986,Stade Laval,1-0,Stade Rennes
+Sun Feb 2 1986,As Nancy,1-0,Paris Saint Germain
+Sun Feb 2 1986,Olympique Marseille,2-3,Sporting Toulon Var
+Sat Feb 8 1986,Paris Saint Germain,1-0,Le Havre Ac
+Sat Feb 8 1986,FC Nantes,0-0,Girondins Bordeaux
+Sat Feb 8 1986,As Monaco,3-2,Lille OSC
+Sat Feb 8 1986,RC Lens,1-0,As Nancy
+Sat Feb 8 1986,SC Bastia,0-2,Toulouse FC
+Sat Feb 8 1986,Stade Rennes,1-2,Olympique Marseille
+Sat Feb 8 1986,Sporting Toulon Var,2-3,Stade Brest
+Sun Feb 9 1986,RC Strasbourg,1-3,Aj Auxerre
+Sun Feb 9 1986,FC Metz,2-1,Stade Laval
+Sun Feb 9 1986,FC Sochaux,2-0,OGC Nice
+Sat Feb 22 1986,Paris Saint Germain,2-2,RC Lens
+Sat Feb 22 1986,OGC Nice,0-0,FC Nantes
+Sat Feb 22 1986,Girondins Bordeaux,3-1,FC Metz
+Sat Feb 22 1986,Aj Auxerre,0-0,Sporting Toulon Var
+Sat Feb 22 1986,Stade Laval,0-0,As Monaco
+Sat Feb 22 1986,Le Havre Ac,1-0,Toulouse FC
+Sat Feb 22 1986,Lille OSC,2-2,SC Bastia
+Sun Feb 23 1986,As Nancy,3-0,FC Sochaux
+Sun Feb 23 1986,Olympique Marseille,0-1,RC Strasbourg
+Sat Mar 1 1986,Sporting Toulon Var,1-0,As Nancy
+Sat Mar 1 1986,Stade Rennes,2-0,OGC Nice
+Sat Mar 1 1986,As Monaco,0-0,Olympique Marseille
+Sat Mar 1 1986,Toulouse FC,1-0,Lille OSC
+Fri Mar 7 1986,OGC Nice,2-1,Sporting Toulon Var
+Fri Mar 7 1986,Le Havre Ac,5-2,SC Bastia
+Fri Mar 7 1986,Stade Brest,2-1,RC Strasbourg
+Sat Mar 8 1986,Paris Saint Germain,1-0,Stade Rennes
+Sat Mar 8 1986,As Nancy,1-3,FC Nantes
+Sat Mar 8 1986,Girondins Bordeaux,1-1,Toulouse FC
+Sat Mar 8 1986,Aj Auxerre,1-0,As Monaco
+Sat Mar 8 1986,RC Lens,3-1,FC Sochaux
+Sat Mar 8 1986,Olympique Marseille,0-0,FC Metz
+Sat Mar 8 1986,Stade Laval,2-2,Lille OSC
+Tue Mar 11 1986,Stade Brest,2-1,Stade Rennes
+Tue Mar 11 1986,SC Bastia,0-2,Girondins Bordeaux
+Fri Mar 14 1986,FC Nantes,2-0,Paris Saint Germain
+Fri Mar 14 1986,Lille OSC,1-0,Girondins Bordeaux
+Fri Mar 14 1986,Sporting Toulon Var,0-0,RC Lens
+Fri Mar 14 1986,As Monaco,2-2,Le Havre Ac
+Fri Mar 14 1986,RC Strasbourg,2-0,OGC Nice
+Fri Mar 14 1986,SC Bastia,0-3,Olympique Marseille
+Sat Mar 15 1986,Toulouse FC,2-0,Stade Laval
+Sat Mar 15 1986,FC Metz,2-0,Aj Auxerre
+Sat Mar 15 1986,Stade Rennes,1-0,As Nancy
+Sat Mar 15 1986,FC Sochaux,4-2,Stade Brest
+Fri Mar 21 1986,Stade Brest,2-1,As Monaco
+Fri Mar 21 1986,OGC Nice,2-0,FC Metz
+Fri Mar 21 1986,Le Havre Ac,0-0,Lille OSC
+Fri Mar 21 1986,As Nancy,1-1,RC Strasbourg
+Sat Mar 22 1986,Paris Saint Germain,1-0,Sporting Toulon Var
+Sat Mar 22 1986,RC Lens,0-0,FC Nantes
+Sat Mar 22 1986,Aj Auxerre,2-2,Girondins Bordeaux
+Sat Mar 22 1986,Olympique Marseille,1-1,Toulouse FC
+Sat Mar 22 1986,Stade Laval,1-0,SC Bastia
+Sat Mar 22 1986,FC Sochaux,0-0,Stade Rennes
+Fri Mar 28 1986,FC Metz,3-0,Le Havre Ac
+Fri Apr 4 1986,RC Strasbourg,1-0,Paris Saint Germain
+Fri Apr 4 1986,FC Nantes,3-2,FC Sochaux
+Fri Apr 4 1986,Girondins Bordeaux,2-1,Stade Laval
+Fri Apr 4 1986,Toulouse FC,2-0,Aj Auxerre
+Fri Apr 4 1986,FC Metz,3-1,Stade Brest
+Fri Apr 4 1986,Stade Rennes,2-0,RC Lens
+Fri Apr 4 1986,As Monaco,1-1,As Nancy
+Fri Apr 4 1986,SC Bastia,0-1,OGC Nice
+Fri Apr 4 1986,Lille OSC,0-0,Olympique Marseille
+Fri Apr 4 1986,Sporting Toulon Var,1-0,Le Havre Ac
+Tue Apr 8 1986,FC Sochaux,1-1,Paris Saint Germain
+Tue Apr 8 1986,RC Lens,2-1,Aj Auxerre
+Tue Apr 8 1986,RC Strasbourg,2-1,Stade Laval
+Tue Apr 8 1986,FC Nantes,3-1,Stade Brest
+Fri Apr 11 1986,Paris Saint Germain,1-0,As Monaco
+Fri Apr 11 1986,Stade Rennes,0-0,FC Nantes
+Fri Apr 11 1986,Olympique Marseille,4-0,Girondins Bordeaux
+Fri Apr 11 1986,RC Lens,0-0,RC Strasbourg
+Fri Apr 11 1986,As Nancy,0-2,FC Metz
+Fri Apr 11 1986,OGC Nice,3-1,Toulouse FC
+Fri Apr 11 1986,Aj Auxerre,2-0,Lille OSC
+Fri Apr 11 1986,Stade Brest,7-0,SC Bastia
+Fri Apr 11 1986,Le Havre Ac,1-1,Stade Laval
+Sat Apr 12 1986,FC Sochaux,1-0,Sporting Toulon Var
+Fri Apr 18 1986,FC Metz,3-1,Paris Saint Germain
+Fri Apr 18 1986,FC Nantes,2-1,Aj Auxerre
+Fri Apr 18 1986,Girondins Bordeaux,5-3,Le Havre Ac
+Fri Apr 18 1986,As Monaco,1-2,RC Lens
+Fri Apr 18 1986,Toulouse FC,2-0,Stade Brest
+Fri Apr 18 1986,Lille OSC,1-0,OGC Nice
+Fri Apr 18 1986,Stade Laval,1-0,Olympique Marseille
+Fri Apr 18 1986,SC Bastia,2-2,As Nancy
+Fri Apr 18 1986,Sporting Toulon Var,1-1,Stade Rennes
+Fri Apr 18 1986,RC Strasbourg,3-0,FC Sochaux
+Fri Apr 25 1986,Paris Saint Germain,3-1,SC Bastia
+Fri Apr 25 1986,FC Nantes,1-1,Sporting Toulon Var
+Fri Apr 25 1986,OGC Nice,1-1,Girondins Bordeaux
+Fri Apr 25 1986,As Nancy,0-1,Toulouse FC
+Fri Apr 25 1986,RC Lens,0-0,FC Metz
+Fri Apr 25 1986,Aj Auxerre,2-0,Stade Laval
+Fri Apr 25 1986,FC Sochaux,1-1,As Monaco
+Fri Apr 25 1986,Stade Brest,1-1,Lille OSC
+Fri Apr 25 1986,Olympique Marseille,1-1,Le Havre Ac
+Fri Apr 25 1986,Stade Rennes,1-1,RC Strasbourg

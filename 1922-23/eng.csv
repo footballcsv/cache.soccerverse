@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 26 1922,Aston Villa,2-0,Blackburn Rovers
+Sat Aug 26 1922,Burnley FC,3-0,West Bromwich Albion
+Sat Aug 26 1922,Chelsea FC,1-1,Birmingham City
+Sat Aug 26 1922,Liverpool FC,5-2,Arsenal FC
+Sat Aug 26 1922,Middlesbrough FC,2-2,Huddersfield Town
+Sat Aug 26 1922,Newcastle United,2-0,Everton FC
+Sat Aug 26 1922,Nottingham Forest,1-0,Sunderland Afc
+Sat Aug 26 1922,Oldham Athletic,4-1,Stoke City
+Sat Aug 26 1922,Preston North End,3-1,Bolton Wanderers
+Sat Aug 26 1922,Sheffield United,2-0,Manchester City
+Sat Aug 26 1922,Tottenham Hotspur,1-1,Cardiff City
+Mon Aug 28 1922,Arsenal FC,1-1,Burnley FC
+Mon Aug 28 1922,Birmingham City,0-2,Newcastle United
+Mon Aug 28 1922,Cardiff City,3-0,Aston Villa
+Mon Aug 28 1922,Huddersfield Town,2-1,Nottingham Forest
+Mon Aug 28 1922,Manchester City,2-1,Middlesbrough FC
+Mon Aug 28 1922,Stoke City,1-2,Chelsea FC
+Mon Aug 28 1922,West Bromwich Albion,2-2,Preston North End
+Wed Aug 30 1922,Sunderland Afc,1-0,Liverpool FC
+Sat Sep 2 1922,Arsenal FC,1-0,Liverpool FC
+Sat Sep 2 1922,Birmingham City,0-1,Chelsea FC
+Sat Sep 2 1922,Blackburn Rovers,4-2,Aston Villa
+Sat Sep 2 1922,Bolton Wanderers,1-1,Preston North End
+Sat Sep 2 1922,Cardiff City,2-3,Tottenham Hotspur
+Sat Sep 2 1922,Everton FC,3-2,Newcastle United
+Sat Sep 2 1922,Huddersfield Town,0-2,Middlesbrough FC
+Sat Sep 2 1922,Manchester City,3-3,Sheffield United
+Sat Sep 2 1922,Stoke City,2-2,Oldham Athletic
+Sat Sep 2 1922,Sunderland Afc,0-0,Nottingham Forest
+Sat Sep 2 1922,West Bromwich Albion,2-1,Burnley FC
+Mon Sep 4 1922,Aston Villa,1-3,Cardiff City
+Mon Sep 4 1922,Bolton Wanderers,3-1,Oldham Athletic
+Mon Sep 4 1922,Burnley FC,4-1,Arsenal FC
+Mon Sep 4 1922,Chelsea FC,3-2,Stoke City
+Mon Sep 4 1922,Middlesbrough FC,5-0,Manchester City
+Mon Sep 4 1922,Nottingham Forest,0-1,Huddersfield Town
+Mon Sep 4 1922,Preston North End,0-0,West Bromwich Albion
+Mon Sep 4 1922,Sheffield United,1-1,Blackburn Rovers
+Mon Sep 4 1922,Tottenham Hotspur,2-0,Everton FC
+Wed Sep 6 1922,Liverpool FC,5-1,Sunderland Afc
+Wed Sep 6 1922,Newcastle United,0-0,Birmingham City
+Sat Sep 9 1922,Aston Villa,2-0,West Bromwich Albion
+Sat Sep 9 1922,Bolton Wanderers,1-1,Sunderland Afc
+Sat Sep 9 1922,Cardiff City,4-1,Arsenal FC
+Sat Sep 9 1922,Chelsea FC,1-1,Middlesbrough FC
+Sat Sep 9 1922,Everton FC,2-0,Blackburn Rovers
+Sat Sep 9 1922,Manchester City,0-1,Birmingham City
+Sat Sep 9 1922,Newcastle United,3-0,Sheffield United
+Sat Sep 9 1922,Oldham Athletic,2-0,Nottingham Forest
+Sat Sep 9 1922,Preston North End,1-3,Liverpool FC
+Sat Sep 9 1922,Stoke City,2-2,Huddersfield Town
+Sat Sep 9 1922,Tottenham Hotspur,1-3,Burnley FC
+Mon Sep 11 1922,Oldham Athletic,3-1,Bolton Wanderers
+Wed Sep 13 1922,Birmingham City,2-0,Stoke City
+Sat Sep 16 1922,Arsenal FC,2-1,Cardiff City
+Sat Sep 16 1922,Birmingham City,0-1,Manchester City
+Sat Sep 16 1922,Blackburn Rovers,5-1,Everton FC
+Sat Sep 16 1922,Burnley FC,0-1,Tottenham Hotspur
+Sat Sep 16 1922,Huddersfield Town,1-0,Stoke City
+Sat Sep 16 1922,Liverpool FC,5-2,Preston North End
+Sat Sep 16 1922,Middlesbrough FC,2-1,Chelsea FC
+Sat Sep 16 1922,Nottingham Forest,1-0,Oldham Athletic
+Sat Sep 16 1922,Sheffield United,2-0,Newcastle United
+Sat Sep 16 1922,Sunderland Afc,5-1,Bolton Wanderers
+Sat Sep 16 1922,West Bromwich Albion,3-0,Aston Villa
+Mon Sep 18 1922,Blackburn Rovers,1-0,Sheffield United
+Sat Sep 23 1922,Aston Villa,2-2,Middlesbrough FC
+Sat Sep 23 1922,Blackburn Rovers,0-0,Sunderland Afc
+Sat Sep 23 1922,Bolton Wanderers,3-0,Birmingham City
+Sat Sep 23 1922,Cardiff City,0-2,Everton FC
+Sat Sep 23 1922,Chelsea FC,4-0,Oldham Athletic
+Sat Sep 23 1922,Liverpool FC,3-0,Burnley FC
+Sat Sep 23 1922,Manchester City,3-1,Huddersfield Town
+Sat Sep 23 1922,Newcastle United,3-1,Preston North End
+Sat Sep 23 1922,Nottingham Forest,1-0,Sheffield United
+Sat Sep 23 1922,Stoke City,0-2,West Bromwich Albion
+Sat Sep 23 1922,Tottenham Hotspur,1-2,Arsenal FC
+Sat Sep 30 1922,Arsenal FC,0-2,Tottenham Hotspur
+Sat Sep 30 1922,Birmingham City,2-0,Bolton Wanderers
+Sat Sep 30 1922,Burnley FC,2-0,Liverpool FC
+Sat Sep 30 1922,Everton FC,3-1,Cardiff City
+Sat Sep 30 1922,Huddersfield Town,0-0,Manchester City
+Sat Sep 30 1922,Middlesbrough FC,2-2,Aston Villa
+Sat Sep 30 1922,Oldham Athletic,2-0,Chelsea FC
+Sat Sep 30 1922,Preston North End,1-0,Newcastle United
+Sat Sep 30 1922,Sheffield United,0-0,Nottingham Forest
+Sat Sep 30 1922,Sunderland Afc,4-3,Blackburn Rovers
+Sat Sep 30 1922,West Bromwich Albion,0-1,Stoke City
+Mon Oct 2 1922,Sheffield United,2-1,Arsenal FC
+Thu Oct 5 1922,Nottingham Forest,1-1,Bolton Wanderers
+Sat Oct 7 1922,Arsenal FC,3-1,West Bromwich Albion
+Sat Oct 7 1922,Aston Villa,2-0,Tottenham Hotspur
+Sat Oct 7 1922,Blackburn Rovers,1-1,Birmingham City
+Sat Oct 7 1922,Bolton Wanderers,1-0,Huddersfield Town
+Sat Oct 7 1922,Cardiff City,2-4,Sunderland Afc
+Sat Oct 7 1922,Chelsea FC,0-0,Sheffield United
+Sat Oct 7 1922,Liverpool FC,5-1,Everton FC
+Sat Oct 7 1922,Newcastle United,0-2,Burnley FC
+Sat Oct 7 1922,Nottingham Forest,3-0,Preston North End
+Sat Oct 7 1922,Oldham Athletic,0-0,Middlesbrough FC
+Sat Oct 7 1922,Stoke City,1-1,Manchester City
+Sat Oct 14 1922,Birmingham City,1-1,Blackburn Rovers
+Sat Oct 14 1922,Burnley FC,0-0,Newcastle United
+Sat Oct 14 1922,Everton FC,0-1,Liverpool FC
+Sat Oct 14 1922,Huddersfield Town,0-2,Bolton Wanderers
+Sat Oct 14 1922,Manchester City,2-1,Stoke City
+Sat Oct 14 1922,Middlesbrough FC,2-1,Oldham Athletic
+Sat Oct 14 1922,Preston North End,2-2,Nottingham Forest
+Sat Oct 14 1922,Sheffield United,0-2,Chelsea FC
+Sat Oct 14 1922,Sunderland Afc,2-1,Cardiff City
+Sat Oct 14 1922,Tottenham Hotspur,1-2,Aston Villa
+Sat Oct 14 1922,West Bromwich Albion,7-0,Arsenal FC
+Sat Oct 21 1922,Aston Villa,2-0,Bolton Wanderers
+Sat Oct 21 1922,Burnley FC,3-1,Blackburn Rovers
+Sat Oct 21 1922,Chelsea FC,1-3,Sunderland Afc
+Sat Oct 21 1922,Liverpool FC,3-1,Cardiff City
+Sat Oct 21 1922,Middlesbrough FC,2-1,Birmingham City
+Sat Oct 21 1922,Newcastle United,1-1,Arsenal FC
+Sat Oct 21 1922,Nottingham Forest,2-1,Everton FC
+Sat Oct 21 1922,Oldham Athletic,0-3,Huddersfield Town
+Sat Oct 21 1922,Preston North End,0-2,Manchester City
+Sat Oct 21 1922,Sheffield United,2-0,Stoke City
+Sat Oct 21 1922,Tottenham Hotspur,3-1,West Bromwich Albion
+Sat Oct 28 1922,Arsenal FC,1-2,Newcastle United
+Sat Oct 28 1922,Birmingham City,2-0,Middlesbrough FC
+Sat Oct 28 1922,Blackburn Rovers,2-1,Burnley FC
+Sat Oct 28 1922,Bolton Wanderers,3-0,Aston Villa
+Sat Oct 28 1922,Cardiff City,3-0,Liverpool FC
+Sat Oct 28 1922,Everton FC,4-2,Nottingham Forest
+Sat Oct 28 1922,Huddersfield Town,3-0,Oldham Athletic
+Sat Oct 28 1922,Manchester City,2-1,Preston North End
+Sat Oct 28 1922,Stoke City,4-0,Sheffield United
+Sat Oct 28 1922,Sunderland Afc,1-1,Chelsea FC
+Sat Oct 28 1922,West Bromwich Albion,5-1,Tottenham Hotspur
+Sat Nov 4 1922,Birmingham City,0-0,Cardiff City
+Sat Nov 4 1922,Bolton Wanderers,1-1,Stoke City
+Sat Nov 4 1922,Burnley FC,8-2,Nottingham Forest
+Sat Nov 4 1922,Everton FC,1-0,Arsenal FC
+Sat Nov 4 1922,Huddersfield Town,0-2,Blackburn Rovers
+Sat Nov 4 1922,Middlesbrough FC,3-2,Sheffield United
+Sat Nov 4 1922,Newcastle United,2-1,Sunderland Afc
+Sat Nov 4 1922,Oldham Athletic,0-2,Aston Villa
+Sat Nov 4 1922,Preston North End,2-0,Chelsea FC
+Sat Nov 4 1922,Tottenham Hotspur,2-4,Liverpool FC
+Sat Nov 4 1922,West Bromwich Albion,2-0,Manchester City
+Sat Nov 11 1922,Arsenal FC,1-2,Everton FC
+Sat Nov 11 1922,Aston Villa,3-0,Oldham Athletic
+Sat Nov 11 1922,Blackburn Rovers,0-0,Huddersfield Town
+Sat Nov 11 1922,Cardiff City,1-1,Birmingham City
+Sat Nov 11 1922,Chelsea FC,0-1,Preston North End
+Sat Nov 11 1922,Liverpool FC,0-0,Tottenham Hotspur
+Sat Nov 11 1922,Manchester City,1-1,West Bromwich Albion
+Sat Nov 11 1922,Nottingham Forest,1-0,Burnley FC
+Sat Nov 11 1922,Sheffield United,4-1,Middlesbrough FC
+Sat Nov 11 1922,Stoke City,2-0,Bolton Wanderers
+Sat Nov 11 1922,Sunderland Afc,2-0,Newcastle United
+Sat Nov 18 1922,Birmingham City,2-0,Nottingham Forest
+Sat Nov 18 1922,Burnley FC,1-0,Chelsea FC
+Sat Nov 18 1922,Huddersfield Town,1-0,Cardiff City
+Sat Nov 18 1922,Liverpool FC,3-0,Aston Villa
+Sat Nov 18 1922,Manchester City,2-0,Bolton Wanderers
+Sat Nov 18 1922,Preston North End,1-2,Middlesbrough FC
+Sat Nov 18 1922,Sheffield United,2-2,Oldham Athletic
+Sat Nov 18 1922,Stoke City,1-1,Blackburn Rovers
+Sat Nov 18 1922,Sunderland Afc,3-3,Arsenal FC
+Sat Nov 18 1922,Tottenham Hotspur,0-1,Newcastle United
+Sat Nov 18 1922,West Bromwich Albion,0-0,Everton FC
+Sat Nov 25 1922,Arsenal FC,2-3,Sunderland Afc
+Sat Nov 25 1922,Aston Villa,0-1,Liverpool FC
+Sat Nov 25 1922,Bolton Wanderers,2-1,Manchester City
+Sat Nov 25 1922,Cardiff City,0-1,Huddersfield Town
+Sat Nov 25 1922,Chelsea FC,0-1,Burnley FC
+Sat Nov 25 1922,Everton FC,0-1,West Bromwich Albion
+Sat Nov 25 1922,Middlesbrough FC,1-1,Preston North End
+Sat Nov 25 1922,Newcastle United,1-1,Tottenham Hotspur
+Sat Nov 25 1922,Nottingham Forest,1-1,Birmingham City
+Sat Nov 25 1922,Oldham Athletic,0-2,Sheffield United
+Sat Dec 2 1922,Birmingham City,3-2,Arsenal FC
+Sat Dec 2 1922,Blackburn Rovers,0-0,Manchester City
+Sat Dec 2 1922,Cardiff City,2-1,Stoke City
+Sat Dec 2 1922,Chelsea FC,2-2,Huddersfield Town
+Sat Dec 2 1922,Liverpool FC,0-2,Newcastle United
+Sat Dec 2 1922,Middlesbrough FC,4-1,Burnley FC
+Sat Dec 2 1922,Preston North End,5-1,Oldham Athletic
+Sat Dec 2 1922,Sheffield United,1-1,Aston Villa
+Sat Dec 2 1922,Sunderland Afc,3-1,Everton FC
+Sat Dec 2 1922,Tottenham Hotspur,2-1,Nottingham Forest
+Sat Dec 2 1922,West Bromwich Albion,1-1,Bolton Wanderers
+Sat Dec 9 1922,Arsenal FC,1-0,Birmingham City
+Sat Dec 9 1922,Aston Villa,0-1,Sheffield United
+Sat Dec 9 1922,Bolton Wanderers,3-0,West Bromwich Albion
+Sat Dec 9 1922,Burnley FC,3-0,Middlesbrough FC
+Sat Dec 9 1922,Everton FC,1-1,Sunderland Afc
+Sat Dec 9 1922,Huddersfield Town,3-0,Chelsea FC
+Sat Dec 9 1922,Manchester City,2-1,Blackburn Rovers
+Sat Dec 9 1922,Newcastle United,0-1,Liverpool FC
+Sat Dec 9 1922,Nottingham Forest,0-1,Tottenham Hotspur
+Sat Dec 9 1922,Oldham Athletic,2-1,Preston North End
+Sat Dec 9 1922,Stoke City,3-1,Cardiff City
+Sat Dec 16 1922,Arsenal FC,1-1,Huddersfield Town
+Sat Dec 16 1922,Aston Villa,1-1,Newcastle United
+Sat Dec 16 1922,Birmingham City,1-1,Everton FC
+Sat Dec 16 1922,Blackburn Rovers,1-0,Bolton Wanderers
+Sat Dec 16 1922,Burnley FC,1-1,Oldham Athletic
+Sat Dec 16 1922,Cardiff City,3-1,Manchester City
+Sat Dec 16 1922,Chelsea FC,0-0,Tottenham Hotspur
+Sat Dec 16 1922,Liverpool FC,2-1,Nottingham Forest
+Sat Dec 16 1922,Middlesbrough FC,3-1,Stoke City
+Sat Dec 16 1922,Sheffield United,2-2,Preston North End
+Sat Dec 16 1922,Sunderland Afc,3-2,West Bromwich Albion
+Sat Dec 23 1922,Bolton Wanderers,3-0,Blackburn Rovers
+Sat Dec 23 1922,Everton FC,2-1,Birmingham City
+Sat Dec 23 1922,Huddersfield Town,4-0,Arsenal FC
+Sat Dec 23 1922,Manchester City,5-1,Cardiff City
+Sat Dec 23 1922,Newcastle United,0-0,Aston Villa
+Sat Dec 23 1922,Nottingham Forest,1-3,Liverpool FC
+Sat Dec 23 1922,Oldham Athletic,1-1,Burnley FC
+Sat Dec 23 1922,Preston North End,2-3,Sheffield United
+Sat Dec 23 1922,Stoke City,0-0,Middlesbrough FC
+Sat Dec 23 1922,Tottenham Hotspur,3-1,Chelsea FC
+Sat Dec 23 1922,West Bromwich Albion,1-1,Sunderland Afc
+Mon Dec 25 1922,Birmingham City,0-0,Huddersfield Town
+Mon Dec 25 1922,Blackburn Rovers,1-1,Preston North End
+Mon Dec 25 1922,Bolton Wanderers,4-1,Arsenal FC
+Mon Dec 25 1922,Burnley FC,1-1,Aston Villa
+Mon Dec 25 1922,Chelsea FC,2-2,Nottingham Forest
+Mon Dec 25 1922,Everton FC,0-0,Manchester City
+Mon Dec 25 1922,Newcastle United,1-1,Middlesbrough FC
+Mon Dec 25 1922,Oldham Athletic,0-2,Liverpool FC
+Mon Dec 25 1922,Tottenham Hotspur,2-1,Sheffield United
+Tue Dec 26 1922,Arsenal FC,5-0,Bolton Wanderers
+Tue Dec 26 1922,Aston Villa,3-1,Burnley FC
+Tue Dec 26 1922,Cardiff City,3-0,West Bromwich Albion
+Tue Dec 26 1922,Huddersfield Town,4-0,Birmingham City
+Tue Dec 26 1922,Liverpool FC,2-1,Oldham Athletic
+Tue Dec 26 1922,Manchester City,2-1,Everton FC
+Tue Dec 26 1922,Middlesbrough FC,1-1,Newcastle United
+Tue Dec 26 1922,Nottingham Forest,0-4,Chelsea FC
+Tue Dec 26 1922,Preston North End,1-0,Blackburn Rovers
+Tue Dec 26 1922,Sheffield United,2-0,Tottenham Hotspur
+Tue Dec 26 1922,Stoke City,1-2,Sunderland Afc
+Wed Dec 27 1922,West Bromwich Albion,3-0,Cardiff City
+Sat Dec 30 1922,Arsenal FC,3-0,Stoke City
+Sat Dec 30 1922,Aston Villa,1-0,Preston North End
+Sat Dec 30 1922,Blackburn Rovers,5-1,West Bromwich Albion
+Sat Dec 30 1922,Bolton Wanderers,0-0,Cardiff City
+Sat Dec 30 1922,Chelsea FC,0-0,Liverpool FC
+Sat Dec 30 1922,Everton FC,0-3,Huddersfield Town
+Sat Dec 30 1922,Manchester City,3-2,Oldham Athletic
+Sat Dec 30 1922,Middlesbrough FC,2-0,Tottenham Hotspur
+Sat Dec 30 1922,Nottingham Forest,0-1,Newcastle United
+Sat Dec 30 1922,Sheffield United,2-1,Burnley FC
+Sat Dec 30 1922,Sunderland Afc,5-3,Birmingham City
+Mon Jan 1 1923,Blackburn Rovers,0-5,Arsenal FC
+Mon Jan 1 1923,Everton FC,3-1,Tottenham Hotspur
+Mon Jan 1 1923,Newcastle United,1-0,Oldham Athletic
+Mon Jan 1 1923,Sunderland Afc,2-0,Stoke City
+Tue Jan 2 1923,Bolton Wanderers,4-2,Nottingham Forest
+Sat Jan 6 1923,Birmingham City,1-2,Sunderland Afc
+Sat Jan 6 1923,Burnley FC,1-4,Sheffield United
+Sat Jan 6 1923,Cardiff City,1-0,Bolton Wanderers
+Sat Jan 6 1923,Huddersfield Town,1-0,Everton FC
+Sat Jan 6 1923,Liverpool FC,1-0,Chelsea FC
+Sat Jan 6 1923,Newcastle United,1-0,Nottingham Forest
+Sat Jan 6 1923,Oldham Athletic,0-3,Manchester City
+Sat Jan 6 1923,Preston North End,3-2,Aston Villa
+Sat Jan 6 1923,Stoke City,1-0,Arsenal FC
+Sat Jan 6 1923,Tottenham Hotspur,2-0,Middlesbrough FC
+Sat Jan 6 1923,West Bromwich Albion,3-0,Blackburn Rovers
+Sat Jan 20 1923,Arsenal FC,1-0,Manchester City
+Sat Jan 20 1923,Birmingham City,0-2,West Bromwich Albion
+Sat Jan 20 1923,Blackburn Rovers,3-1,Cardiff City
+Sat Jan 20 1923,Bolton Wanderers,1-1,Sheffield United
+Sat Jan 20 1923,Burnley FC,2-0,Preston North End
+Sat Jan 20 1923,Chelsea FC,3-0,Newcastle United
+Sat Jan 20 1923,Everton FC,4-0,Stoke City
+Sat Jan 20 1923,Middlesbrough FC,0-2,Liverpool FC
+Sat Jan 20 1923,Nottingham Forest,3-1,Aston Villa
+Sat Jan 20 1923,Oldham Athletic,0-3,Tottenham Hotspur
+Sat Jan 20 1923,Sunderland Afc,1-1,Huddersfield Town
+Mon Jan 22 1923,Blackburn Rovers,1-5,Stoke City
+Sat Jan 27 1923,Aston Villa,4-0,Nottingham Forest
+Sat Jan 27 1923,Cardiff City,5-0,Blackburn Rovers
+Sat Jan 27 1923,Huddersfield Town,0-1,Sunderland Afc
+Sat Jan 27 1923,Liverpool FC,2-0,Middlesbrough FC
+Sat Jan 27 1923,Manchester City,0-0,Arsenal FC
+Sat Jan 27 1923,Newcastle United,0-0,Chelsea FC
+Sat Jan 27 1923,Preston North End,3-1,Burnley FC
+Sat Jan 27 1923,Sheffield United,2-2,Bolton Wanderers
+Sat Jan 27 1923,Stoke City,4-1,Everton FC
+Sat Jan 27 1923,Tottenham Hotspur,3-0,Oldham Athletic
+Sat Jan 27 1923,West Bromwich Albion,1-0,Birmingham City
+Sat Feb 3 1923,Aston Villa,2-0,Manchester City
+Sat Feb 3 1923,Nottingham Forest,2-1,Arsenal FC
+Sat Feb 3 1923,Oldham Athletic,2-0,Birmingham City
+Wed Feb 7 1923,Liverpool FC,2-0,West Bromwich Albion
+Thu Feb 8 1923,Preston North End,4-2,Stoke City
+Sat Feb 10 1923,Arsenal FC,2-0,Nottingham Forest
+Sat Feb 10 1923,Birmingham City,2-3,Oldham Athletic
+Sat Feb 10 1923,Blackburn Rovers,1-0,Tottenham Hotspur
+Sat Feb 10 1923,Bolton Wanderers,2-1,Burnley FC
+Sat Feb 10 1923,Cardiff City,5-0,Newcastle United
+Sat Feb 10 1923,Everton FC,3-1,Chelsea FC
+Sat Feb 10 1923,Huddersfield Town,2-1,Sheffield United
+Sat Feb 10 1923,Manchester City,1-1,Aston Villa
+Sat Feb 10 1923,Stoke City,4-2,Preston North End
+Sat Feb 10 1923,Sunderland Afc,2-1,Middlesbrough FC
+Sat Feb 10 1923,West Bromwich Albion,0-0,Liverpool FC
+Wed Feb 14 1923,Chelsea FC,3-1,Everton FC
+Wed Feb 14 1923,Newcastle United,2-0,West Bromwich Albion
+Wed Feb 14 1923,Tottenham Hotspur,2-0,Blackburn Rovers
+Sat Feb 17 1923,Aston Villa,6-0,Stoke City
+Sat Feb 17 1923,Burnley FC,2-0,Manchester City
+Sat Feb 17 1923,Chelsea FC,0-0,Arsenal FC
+Sat Feb 17 1923,Liverpool FC,3-0,Blackburn Rovers
+Sat Feb 17 1923,Middlesbrough FC,2-4,Everton FC
+Sat Feb 17 1923,Nottingham Forest,3-2,Cardiff City
+Sat Feb 17 1923,Oldham Athletic,0-0,Sunderland Afc
+Sat Feb 17 1923,Preston North End,1-0,Huddersfield Town
+Sat Feb 17 1923,Sheffield United,7-1,Birmingham City
+Sat Feb 17 1923,Tottenham Hotspur,0-1,Bolton Wanderers
+Sat Feb 24 1923,Arsenal FC,3-1,Chelsea FC
+Sat Feb 24 1923,Manchester City,1-0,Burnley FC
+Sat Feb 24 1923,Stoke City,1-1,Aston Villa
+Sat Feb 24 1923,Sunderland Afc,2-0,Oldham Athletic
+Wed Feb 28 1923,Everton FC,5-3,Middlesbrough FC
+Wed Feb 28 1923,Newcastle United,3-1,Cardiff City
+Sat Mar 3 1923,Aston Villa,2-1,Huddersfield Town
+Sat Mar 3 1923,Burnley FC,3-2,Stoke City
+Sat Mar 3 1923,Chelsea FC,1-1,Cardiff City
+Sat Mar 3 1923,Liverpool FC,3-0,Bolton Wanderers
+Sat Mar 3 1923,Middlesbrough FC,2-0,Arsenal FC
+Sat Mar 3 1923,Newcastle United,5-1,Blackburn Rovers
+Sat Mar 3 1923,Nottingham Forest,0-4,West Bromwich Albion
+Sat Mar 3 1923,Oldham Athletic,1-0,Everton FC
+Sat Mar 3 1923,Preston North End,2-3,Birmingham City
+Sat Mar 3 1923,Sheffield United,3-1,Sunderland Afc
+Sat Mar 3 1923,Tottenham Hotspur,3-1,Manchester City
+Sat Mar 10 1923,Arsenal FC,3-0,Middlesbrough FC
+Sat Mar 10 1923,Birmingham City,1-0,Preston North End
+Sat Mar 10 1923,Blackburn Rovers,1-1,Newcastle United
+Sat Mar 10 1923,Cardiff City,6-1,Chelsea FC
+Sat Mar 10 1923,Everton FC,0-0,Oldham Athletic
+Sat Mar 10 1923,Huddersfield Town,3-5,Aston Villa
+Sat Mar 10 1923,Stoke City,0-1,Burnley FC
+Sat Mar 10 1923,West Bromwich Albion,0-0,Nottingham Forest
+Mon Mar 12 1923,Birmingham City,4-2,Sheffield United
+Mon Mar 12 1923,Blackburn Rovers,1-0,Liverpool FC
+Mon Mar 12 1923,Burnley FC,2-1,Bolton Wanderers
+Wed Mar 14 1923,Manchester City,3-0,Tottenham Hotspur
+Wed Mar 14 1923,West Bromwich Albion,2-1,Newcastle United
+Sat Mar 17 1923,Arsenal FC,2-0,Oldham Athletic
+Sat Mar 17 1923,Birmingham City,1-0,Aston Villa
+Sat Mar 17 1923,Blackburn Rovers,2-0,Nottingham Forest
+Sat Mar 17 1923,Bolton Wanderers,1-0,Newcastle United
+Sat Mar 17 1923,Cardiff City,2-0,Middlesbrough FC
+Sat Mar 17 1923,Everton FC,5-1,Sheffield United
+Sat Mar 17 1923,Huddersfield Town,2-0,Burnley FC
+Sat Mar 17 1923,Manchester City,1-0,Liverpool FC
+Sat Mar 17 1923,Stoke City,0-0,Tottenham Hotspur
+Sat Mar 17 1923,Sunderland Afc,2-2,Preston North End
+Sat Mar 17 1923,West Bromwich Albion,0-0,Chelsea FC
+Wed Mar 21 1923,Huddersfield Town,2-0,Preston North End
+Sat Mar 24 1923,Aston Villa,3-0,Birmingham City
+Sat Mar 24 1923,Burnley FC,0-2,Huddersfield Town
+Sat Mar 24 1923,Liverpool FC,2-0,Manchester City
+Sat Mar 24 1923,Middlesbrough FC,0-1,Cardiff City
+Sat Mar 24 1923,Nottingham Forest,1-0,Blackburn Rovers
+Sat Mar 24 1923,Oldham Athletic,0-0,Arsenal FC
+Sat Mar 24 1923,Preston North End,2-0,Sunderland Afc
+Sat Mar 24 1923,Tottenham Hotspur,3-1,Stoke City
+Fri Mar 30 1923,Aston Villa,1-0,Chelsea FC
+Fri Mar 30 1923,Bolton Wanderers,0-2,Everton FC
+Fri Mar 30 1923,Burnley FC,1-5,Cardiff City
+Fri Mar 30 1923,Liverpool FC,2-1,Sheffield United
+Fri Mar 30 1923,Nottingham Forest,2-1,Middlesbrough FC
+Fri Mar 30 1923,Oldham Athletic,0-0,Newcastle United
+Fri Mar 30 1923,Sunderland Afc,2-0,Manchester City
+Fri Mar 30 1923,Tottenham Hotspur,1-1,Preston North End
+Sat Mar 31 1923,Arsenal FC,2-0,Aston Villa
+Sat Mar 31 1923,Birmingham City,0-1,Liverpool FC
+Sat Mar 31 1923,Blackburn Rovers,1-0,Oldham Athletic
+Sat Mar 31 1923,Bolton Wanderers,1-1,Middlesbrough FC
+Sat Mar 31 1923,Cardiff City,1-0,Preston North End
+Sat Mar 31 1923,Everton FC,1-0,Burnley FC
+Sat Mar 31 1923,Huddersfield Town,2-0,Newcastle United
+Sat Mar 31 1923,Manchester City,3-0,Chelsea FC
+Sat Mar 31 1923,Stoke City,0-1,Nottingham Forest
+Sat Mar 31 1923,Sunderland Afc,2-0,Tottenham Hotspur
+Sat Mar 31 1923,West Bromwich Albion,4-0,Sheffield United
+Mon Apr 2 1923,Arsenal FC,1-1,Blackburn Rovers
+Mon Apr 2 1923,Cardiff City,2-2,Burnley FC
+Mon Apr 2 1923,Chelsea FC,1-1,Aston Villa
+Mon Apr 2 1923,Everton FC,1-1,Bolton Wanderers
+Mon Apr 2 1923,Manchester City,1-0,Sunderland Afc
+Mon Apr 2 1923,Middlesbrough FC,4-0,Nottingham Forest
+Mon Apr 2 1923,Preston North End,2-0,Tottenham Hotspur
+Mon Apr 2 1923,Sheffield United,4-1,Liverpool FC
+Mon Apr 2 1923,Stoke City,0-0,Birmingham City
+Mon Apr 2 1923,West Bromwich Albion,0-2,Huddersfield Town
+Tue Apr 3 1923,Huddersfield Town,4-1,West Bromwich Albion
+Sat Apr 7 1923,Aston Villa,1-1,Arsenal FC
+Sat Apr 7 1923,Burnley FC,0-1,Everton FC
+Sat Apr 7 1923,Chelsea FC,1-1,Manchester City
+Sat Apr 7 1923,Liverpool FC,0-0,Birmingham City
+Sat Apr 7 1923,Middlesbrough FC,1-2,Bolton Wanderers
+Sat Apr 7 1923,Newcastle United,1-0,Huddersfield Town
+Sat Apr 7 1923,Nottingham Forest,0-1,Stoke City
+Sat Apr 7 1923,Oldham Athletic,1-0,Blackburn Rovers
+Sat Apr 7 1923,Preston North End,3-0,Cardiff City
+Sat Apr 7 1923,Sheffield United,3-1,West Bromwich Albion
+Sat Apr 7 1923,Tottenham Hotspur,0-1,Sunderland Afc
+Mon Apr 9 1923,Sheffield United,0-2,Huddersfield Town
+Wed Apr 11 1923,Bolton Wanderers,0-2,Tottenham Hotspur
+Wed Apr 11 1923,Sunderland Afc,3-5,Sheffield United
+Sat Apr 14 1923,Arsenal FC,1-1,Preston North End
+Sat Apr 14 1923,Birmingham City,2-1,Tottenham Hotspur
+Sat Apr 14 1923,Blackburn Rovers,2-0,Middlesbrough FC
+Sat Apr 14 1923,Bolton Wanderers,1-1,Chelsea FC
+Sat Apr 14 1923,Cardiff City,1-0,Sheffield United
+Sat Apr 14 1923,Everton FC,2-1,Aston Villa
+Sat Apr 14 1923,Huddersfield Town,0-0,Liverpool FC
+Sat Apr 14 1923,Manchester City,1-1,Nottingham Forest
+Sat Apr 14 1923,Stoke City,1-0,Newcastle United
+Sat Apr 14 1923,Sunderland Afc,3-1,Burnley FC
+Sat Apr 14 1923,West Bromwich Albion,1-0,Oldham Athletic
+Mon Apr 16 1923,Newcastle United,1-0,Bolton Wanderers
+Mon Apr 16 1923,Sheffield United,0-1,Everton FC
+Wed Apr 18 1923,Bolton Wanderers,1-1,Liverpool FC
+Wed Apr 18 1923,Middlesbrough FC,2-0,Sunderland Afc
+Sat Apr 21 1923,Aston Villa,3-0,Everton FC
+Sat Apr 21 1923,Burnley FC,2-0,Sunderland Afc
+Sat Apr 21 1923,Chelsea FC,3-0,Bolton Wanderers
+Sat Apr 21 1923,Liverpool FC,1-1,Huddersfield Town
+Sat Apr 21 1923,Middlesbrough FC,1-2,Blackburn Rovers
+Sat Apr 21 1923,Newcastle United,1-0,Stoke City
+Sat Apr 21 1923,Nottingham Forest,2-0,Manchester City
+Sat Apr 21 1923,Oldham Athletic,0-0,West Bromwich Albion
+Sat Apr 21 1923,Preston North End,1-2,Arsenal FC
+Sat Apr 21 1923,Sheffield United,0-0,Cardiff City
+Sat Apr 21 1923,Tottenham Hotspur,2-0,Birmingham City
+Wed Apr 25 1923,Cardiff City,3-1,Nottingham Forest
+Wed Apr 25 1923,Chelsea FC,2-2,West Bromwich Albion
+Sat Apr 28 1923,Arsenal FC,2-0,Sheffield United
+Sat Apr 28 1923,Birmingham City,1-0,Burnley FC
+Sat Apr 28 1923,Blackburn Rovers,0-0,Chelsea FC
+Sat Apr 28 1923,Cardiff City,2-0,Oldham Athletic
+Sat Apr 28 1923,Everton FC,1-0,Preston North End
+Sat Apr 28 1923,Huddersfield Town,1-0,Tottenham Hotspur
+Sat Apr 28 1923,Manchester City,0-0,Newcastle United
+Sat Apr 28 1923,Stoke City,0-0,Liverpool FC
+Sat Apr 28 1923,Sunderland Afc,2-0,Aston Villa
+Sat Apr 28 1923,West Bromwich Albion,1-0,Middlesbrough FC
+Sat May 5 1923,Aston Villa,1-0,Sunderland Afc
+Sat May 5 1923,Burnley FC,0-2,Birmingham City
+Sat May 5 1923,Chelsea FC,1-1,Blackburn Rovers
+Sat May 5 1923,Liverpool FC,1-0,Stoke City
+Sat May 5 1923,Middlesbrough FC,0-1,West Bromwich Albion
+Sat May 5 1923,Newcastle United,3-1,Manchester City
+Sat May 5 1923,Oldham Athletic,3-1,Cardiff City
+Sat May 5 1923,Preston North End,2-2,Everton FC
+Sat May 5 1923,Tottenham Hotspur,0-0,Huddersfield Town

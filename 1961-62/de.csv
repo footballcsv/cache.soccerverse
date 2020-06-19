@@ -1,0 +1,975 @@
+Date,Team 1,FT,Team 2
+Sat Aug 5 1961,Hamburger SV,1-0,VFB Oldenburg
+Sat Aug 5 1961,Hannover 96,2-2,Tus Bremerhaven 93
+Sun Aug 6 1961,SSV Reutlingen,0-1,1 FC Nuernberg
+Sun Aug 6 1961,TSV 1860 Muenchen,1-6,Eintracht Frankfurt
+Sun Aug 6 1961,FSV Frankfurt,1-0,Karlsruher SC
+Sun Aug 6 1961,Kickers Offenbach,4-2,TSV Schwaben Augsburg
+Sun Aug 6 1961,Spvgg Bayern Hof,3-1,Vfb Stuttgart
+Sun Aug 6 1961,FC Augsburg,3-1,Bayern Muenchen
+Sun Aug 6 1961,Spvgg Greuther Fuerth,0-0,VFR Mannheim
+Sun Aug 6 1961,Waldhof Mannheim,3-1,1 FC Schweinfurt 05
+Sun Aug 6 1961,Tus Koblenz,5-1,1 FC Kaiserslautern
+Sun Aug 6 1961,Ludwigshafener SC,1-1,FK Pirmasens
+Sun Aug 6 1961,Saar 05 Saarbruecken,3-1,1 Fsv Mainz 05
+Sun Aug 6 1961,Eintracht Trier,1-1,Tura Ludwigshafen
+Sun Aug 6 1961,Phoenix Ludwigshafen,2-2,1 FC Saarbruecken
+Sun Aug 6 1961,VFR Kaiserslautern,1-3,Borussia Neunkirchen
+Sun Aug 6 1961,Eintracht Bad Kreuznach,0-0,BSC Oppau
+Sun Aug 6 1961,Sportfreunde Saarbruecken,2-3,Wormatia Worms
+Sun Aug 6 1961,TSV Marl Huels,3-3,Fortuna Duesseldorf
+Sun Aug 6 1961,Alemannia Aachen,1-1,MSV Duisburg
+Sun Aug 6 1961,Westfalia Herne,4-0,Borussia Dortmund
+Sun Aug 6 1961,Schwarz Weiss Essen,3-0,Viktoria Koeln
+Sun Aug 6 1961,Preussen Munster,1-1,Rot Weiss Oberhausen
+Sun Aug 6 1961,Hamborn 07,0-4,FC Schalke 04
+Sun Aug 6 1961,Duisburger SV,0-3,Bor Moenchengladbach
+Sun Aug 6 1961,1 FC Koeln,5-3,SV Sodingen
+Sun Aug 6 1961,Eintracht Braunschweig,1-1,Werder Bremen
+Sun Aug 6 1961,VFL Osnabrueck,1-5,Holstein Kiel
+Sun Aug 6 1961,Bremer SV,0-4,FC St Pauli
+Sun Aug 6 1961,VFR Neumuenster,3-0,Atona 93
+Sun Aug 6 1961,WTSV Concordia,1-3,VFV Hildesheim
+Sun Aug 6 1961,Eintracht Nordhorn,2-4,FC Bergedorf 85
+Sat Aug 12 1961,Atona 93,1-1,Hannover 96
+Sun Aug 13 1961,1 FC Schweinfurt 05,0-2,SSV Reutlingen
+Sun Aug 13 1961,Eintracht Frankfurt,5-4,Kickers Offenbach
+Sun Aug 13 1961,Vfb Stuttgart,2-1,Spvgg Greuther Fuerth
+Sun Aug 13 1961,Karlsruher SC,2-2,FC Augsburg
+Sun Aug 13 1961,1 FC Nuernberg,2-0,TSV 1860 Muenchen
+Sun Aug 13 1961,TSV Schwaben Augsburg,2-2,Waldhof Mannheim
+Sun Aug 13 1961,Bayern Muenchen,0-5,Spvgg Bayern Hof
+Sun Aug 13 1961,VFR Mannheim,7-3,FSV Frankfurt
+Sun Aug 13 1961,Borussia Neunkirchen,8-1,Saar 05 Saarbruecken
+Sun Aug 13 1961,Wormatia Worms,1-2,Tus Koblenz
+Sun Aug 13 1961,1 FC Kaiserslautern,1-1,VFR Kaiserslautern
+Sun Aug 13 1961,1 Fsv Mainz 05,1-2,Ludwigshafener SC
+Sun Aug 13 1961,1 FC Saarbruecken,6-2,Eintracht Bad Kreuznach
+Sun Aug 13 1961,BSC Oppau,4-2,Eintracht Trier
+Sun Aug 13 1961,Tura Ludwigshafen,2-3,Sportfreunde Saarbruecken
+Sun Aug 13 1961,FK Pirmasens,5-0,Phoenix Ludwigshafen
+Sun Aug 13 1961,Rot Weiss Oberhausen,1-1,Alemannia Aachen
+Sun Aug 13 1961,Viktoria Koeln,7-2,Duisburger SV
+Sun Aug 13 1961,SV Sodingen,2-3,TSV Marl Huels
+Sun Aug 13 1961,Fortuna Duesseldorf,2-2,Preussen Munster
+Sun Aug 13 1961,MSV Duisburg,0-1,1 FC Koeln
+Sun Aug 13 1961,Borussia Dortmund,2-1,Schwarz Weiss Essen
+Sun Aug 13 1961,Bor Moenchengladbach,0-1,Hamborn 07
+Sun Aug 13 1961,FC Schalke 04,2-1,Westfalia Herne
+Sun Aug 13 1961,FC St Pauli,3-1,VFL Osnabrueck
+Sun Aug 13 1961,FC Bergedorf 85,1-7,Hamburger SV
+Sun Aug 13 1961,Holstein Kiel,0-2,WTSV Concordia
+Sun Aug 13 1961,Werder Bremen,5-3,Eintracht Nordhorn
+Sun Aug 13 1961,Tus Bremerhaven 93,0-3,Eintracht Braunschweig
+Sun Aug 13 1961,VFV Hildesheim,4-3,Bremer SV
+Sun Aug 13 1961,VFB Oldenburg,2-1,VFR Neumuenster
+Sat Aug 19 1961,FSV Frankfurt,0-0,Vfb Stuttgart
+Sat Aug 19 1961,Waldhof Mannheim,1-3,Eintracht Frankfurt
+Sat Aug 19 1961,Bremer SV,2-2,VFB Oldenburg
+Sat Aug 19 1961,WTSV Concordia,0-0,Hannover 96
+Sun Aug 20 1961,Spvgg Bayern Hof,0-4,Karlsruher SC
+Sun Aug 20 1961,Kickers Offenbach,2-2,1 FC Nuernberg
+Sun Aug 20 1961,SSV Reutlingen,5-0,TSV Schwaben Augsburg
+Sun Aug 20 1961,Spvgg Greuther Fuerth,1-2,Bayern Muenchen
+Sun Aug 20 1961,FC Augsburg,4-3,VFR Mannheim
+Sun Aug 20 1961,TSV 1860 Muenchen,1-2,1 FC Schweinfurt 05
+Sun Aug 20 1961,VFR Kaiserslautern,1-0,Wormatia Worms
+Sun Aug 20 1961,Saar 05 Saarbruecken,2-3,1 FC Kaiserslautern
+Sun Aug 20 1961,Eintracht Bad Kreuznach,1-4,FK Pirmasens
+Sun Aug 20 1961,Phoenix Ludwigshafen,1-2,1 Fsv Mainz 05
+Sun Aug 20 1961,Ludwigshafener SC,1-3,Borussia Neunkirchen
+Sun Aug 20 1961,Eintracht Trier,0-1,1 FC Saarbruecken
+Sun Aug 20 1961,Sportfreunde Saarbruecken,5-2,BSC Oppau
+Sun Aug 20 1961,Tus Koblenz,2-2,Tura Ludwigshafen
+Sun Aug 20 1961,Preussen Munster,3-1,SV Sodingen
+Sun Aug 20 1961,Schwarz Weiss Essen,1-1,FC Schalke 04
+Sun Aug 20 1961,Westfalia Herne,1-0,Bor Moenchengladbach
+Sun Aug 20 1961,Alemannia Aachen,1-2,Fortuna Duesseldorf
+Sun Aug 20 1961,Duisburger SV,1-0,Borussia Dortmund
+Sun Aug 20 1961,TSV Marl Huels,1-0,MSV Duisburg
+Sun Aug 20 1961,Hamborn 07,3-3,Viktoria Koeln
+Sun Aug 20 1961,1 FC Koeln,3-2,Rot Weiss Oberhausen
+Sun Aug 20 1961,Eintracht Nordhorn,2-5,Hamburger SV
+Sun Aug 20 1961,VFV Hildesheim,3-3,FC St Pauli
+Sun Aug 20 1961,Atona 93,2-5,Holstein Kiel
+Sun Aug 20 1961,Tus Bremerhaven 93,0-0,Werder Bremen
+Sun Aug 20 1961,FC Bergedorf 85,3-1,VFL Osnabrueck
+Sun Aug 20 1961,VFR Neumuenster,1-1,Eintracht Braunschweig
+Sat Aug 26 1961,Hamburger SV,4-3,WTSV Concordia
+Sun Aug 27 1961,1 FC Schweinfurt 05,2-1,Kickers Offenbach
+Sun Aug 27 1961,Eintracht Frankfurt,2-2,SSV Reutlingen
+Sun Aug 27 1961,Vfb Stuttgart,3-3,FC Augsburg
+Sun Aug 27 1961,Karlsruher SC,1-1,Spvgg Greuther Fuerth
+Sun Aug 27 1961,1 FC Nuernberg,7-1,Waldhof Mannheim
+Sun Aug 27 1961,TSV Schwaben Augsburg,1-5,TSV 1860 Muenchen
+Sun Aug 27 1961,Bayern Muenchen,3-1,FSV Frankfurt
+Sun Aug 27 1961,VFR Mannheim,4-0,Spvgg Bayern Hof
+Sun Aug 27 1961,BSC Oppau,4-0,Tus Koblenz
+Sun Aug 27 1961,1 Fsv Mainz 05,0-0,Eintracht Bad Kreuznach
+Sun Aug 27 1961,Tura Ludwigshafen,5-0,VFR Kaiserslautern
+Sun Aug 27 1961,Wormatia Worms,3-1,Saar 05 Saarbruecken
+Sun Aug 27 1961,FK Pirmasens,7-0,Eintracht Trier
+Sun Aug 27 1961,Borussia Neunkirchen,3-0,Phoenix Ludwigshafen
+Sun Aug 27 1961,1 FC Kaiserslautern,6-4,Ludwigshafener SC
+Sun Aug 27 1961,1 FC Saarbruecken,2-1,Sportfreunde Saarbruecken
+Sun Aug 27 1961,Fortuna Duesseldorf,4-1,1 FC Koeln
+Sun Aug 27 1961,Rot Weiss Oberhausen,4-2,TSV Marl Huels
+Sun Aug 27 1961,MSV Duisburg,2-2,Preussen Munster
+Sun Aug 27 1961,Viktoria Koeln,3-0,Westfalia Herne
+Sun Aug 27 1961,Bor Moenchengladbach,0-3,Schwarz Weiss Essen
+Sun Aug 27 1961,Borussia Dortmund,10-3,Hamborn 07
+Sun Aug 27 1961,SV Sodingen,1-2,Alemannia Aachen
+Sun Aug 27 1961,FC Schalke 04,3-1,Duisburger SV
+Sun Aug 27 1961,FC St Pauli,3-1,Atona 93
+Sun Aug 27 1961,Hannover 96,1-3,VFV Hildesheim
+Sun Aug 27 1961,Holstein Kiel,6-1,Bremer SV
+Sun Aug 27 1961,Eintracht Braunschweig,7-4,FC Bergedorf 85
+Sun Aug 27 1961,Werder Bremen,2-0,VFR Neumuenster
+Sun Aug 27 1961,VFL Osnabrueck,3-1,Tus Bremerhaven 93
+Sun Aug 27 1961,VFB Oldenburg,1-0,Eintracht Nordhorn
+Sat Sep 2 1961,Waldhof Mannheim,1-2,Karlsruher SC
+Sun Sep 3 1961,1 FC Nuernberg,5-0,1 FC Schweinfurt 05
+Sun Sep 3 1961,TSV 1860 Muenchen,2-2,Vfb Stuttgart
+Sun Sep 3 1961,Spvgg Bayern Hof,4-0,Spvgg Greuther Fuerth
+Sun Sep 3 1961,FC Augsburg,2-2,Eintracht Frankfurt
+Sun Sep 3 1961,Kickers Offenbach,4-3,Bayern Muenchen
+Sun Sep 3 1961,SSV Reutlingen,5-0,VFR Mannheim
+Sun Sep 3 1961,FSV Frankfurt,0-3,TSV Schwaben Augsburg
+Sun Sep 3 1961,Phoenix Ludwigshafen,0-0,1 FC Kaiserslautern
+Sun Sep 3 1961,Sportfreunde Saarbruecken,1-6,FK Pirmasens
+Sun Sep 3 1961,Ludwigshafener SC,2-2,Wormatia Worms
+Sun Sep 3 1961,Eintracht Trier,3-2,1 Fsv Mainz 05
+Sun Sep 3 1961,Saar 05 Saarbruecken,4-1,Tura Ludwigshafen
+Sun Sep 3 1961,VFR Kaiserslautern,8-3,BSC Oppau
+Sun Sep 3 1961,Eintracht Bad Kreuznach,1-1,Borussia Neunkirchen
+Sun Sep 3 1961,Tus Koblenz,5-2,1 FC Saarbruecken
+Sun Sep 3 1961,Hamborn 07,1-2,Rot Weiss Oberhausen
+Sun Sep 3 1961,Schwarz Weiss Essen,3-1,SV Sodingen
+Sun Sep 3 1961,Alemannia Aachen,2-4,1 FC Koeln
+Sun Sep 3 1961,Viktoria Koeln,3-1,Borussia Dortmund
+Sun Sep 3 1961,Westfalia Herne,3-2,Fortuna Duesseldorf
+Sun Sep 3 1961,TSV Marl Huels,1-8,FC Schalke 04
+Sun Sep 3 1961,Duisburger SV,0-2,MSV Duisburg
+Sun Sep 3 1961,Preussen Munster,3-0,Bor Moenchengladbach
+Sun Sep 3 1961,Hamburger SV,5-3,Eintracht Braunschweig
+Sun Sep 3 1961,Tus Bremerhaven 93,2-1,FC St Pauli
+Sun Sep 3 1961,FC Bergedorf 85,4-1,Hannover 96
+Sun Sep 3 1961,VFB Oldenburg,2-2,Werder Bremen
+Sun Sep 3 1961,Bremer SV,2-2,WTSV Concordia
+Sun Sep 3 1961,VFV Hildesheim,4-0,Eintracht Nordhorn
+Sun Sep 3 1961,VFR Neumuenster,0-3,Holstein Kiel
+Sun Sep 3 1961,VFL Osnabrueck,3-2,Atona 93
+Sat Sep 9 1961,Karlsruher SC,0-4,SSV Reutlingen
+Sat Sep 9 1961,Spvgg Greuther Fuerth,0-0,1 FC Nuernberg
+Sat Sep 9 1961,FC St Pauli,2-1,VFR Neumuenster
+Sat Sep 9 1961,Hannover 96,0-1,Hamburger SV
+Sun Sep 10 1961,1 FC Schweinfurt 05,0-1,Spvgg Bayern Hof
+Sun Sep 10 1961,FSV Frankfurt,0-5,Eintracht Frankfurt
+Sun Sep 10 1961,Vfb Stuttgart,1-1,Kickers Offenbach
+Sun Sep 10 1961,TSV Schwaben Augsburg,2-0,FC Augsburg
+Sun Sep 10 1961,Bayern Muenchen,0-4,TSV 1860 Muenchen
+Sun Sep 10 1961,VFR Mannheim,3-2,Waldhof Mannheim
+Sun Sep 10 1961,Borussia Neunkirchen,3-0,Eintracht Trier
+Sun Sep 10 1961,Wormatia Worms,0-1,Phoenix Ludwigshafen
+Sun Sep 10 1961,BSC Oppau,4-2,Saar 05 Saarbruecken
+Sun Sep 10 1961,1 FC Kaiserslautern,5-0,Eintracht Bad Kreuznach
+Sun Sep 10 1961,1 FC Saarbruecken,3-1,VFR Kaiserslautern
+Sun Sep 10 1961,Tura Ludwigshafen,3-3,Ludwigshafener SC
+Sun Sep 10 1961,Sportfreunde Saarbruecken,0-1,1 Fsv Mainz 05
+Sun Sep 10 1961,FK Pirmasens,3-1,Tus Koblenz
+Sun Sep 10 1961,FC Schalke 04,1-5,Preussen Munster
+Sun Sep 10 1961,MSV Duisburg,0-2,Hamborn 07
+Sun Sep 10 1961,Fortuna Duesseldorf,3-0,Schwarz Weiss Essen
+Sun Sep 10 1961,Bor Moenchengladbach,3-1,TSV Marl Huels
+Sun Sep 10 1961,Rot Weiss Oberhausen,3-0,Duisburger SV
+Sun Sep 10 1961,SV Sodingen,0-2,Westfalia Herne
+Sun Sep 10 1961,1 FC Koeln,5-0,Viktoria Koeln
+Sun Sep 10 1961,Borussia Dortmund,4-1,Alemannia Aachen
+Sun Sep 10 1961,Atona 93,3-1,Tus Bremerhaven 93
+Sun Sep 10 1961,WTSV Concordia,1-1,VFL Osnabrueck
+Sun Sep 10 1961,Holstein Kiel,1-0,FC Bergedorf 85
+Sun Sep 10 1961,Eintracht Nordhorn,3-3,Bremer SV
+Sun Sep 10 1961,Eintracht Braunschweig,2-0,VFB Oldenburg
+Sun Sep 10 1961,Werder Bremen,0-1,VFV Hildesheim
+Sat Sep 16 1961,Eintracht Frankfurt,9-0,VFR Mannheim
+Sat Sep 16 1961,Hamburger SV,3-1,FC St Pauli
+Sun Sep 17 1961,1 FC Schweinfurt 05,0-3,Bayern Muenchen
+Sun Sep 17 1961,SSV Reutlingen,2-0,Spvgg Bayern Hof
+Sun Sep 17 1961,Kickers Offenbach,3-2,FSV Frankfurt
+Sun Sep 17 1961,1 FC Nuernberg,5-0,Vfb Stuttgart
+Sun Sep 17 1961,TSV Schwaben Augsburg,2-0,Karlsruher SC
+Sun Sep 17 1961,TSV 1860 Muenchen,3-1,Spvgg Greuther Fuerth
+Sun Sep 17 1961,Waldhof Mannheim,3-0,FC Augsburg
+Sun Sep 17 1961,Tus Koblenz,2-2,Sportfreunde Saarbruecken
+Sun Sep 17 1961,1 FC Kaiserslautern,3-0,Wormatia Worms
+Sun Sep 17 1961,Phoenix Ludwigshafen,0-3,Ludwigshafener SC
+Sun Sep 17 1961,Eintracht Trier,2-3,Eintracht Bad Kreuznach
+Sun Sep 17 1961,1 FC Saarbruecken,1-4,FK Pirmasens
+Sun Sep 17 1961,Saar 05 Saarbruecken,5-0,VFR Kaiserslautern
+Sun Sep 17 1961,Tura Ludwigshafen,3-1,BSC Oppau
+Sun Sep 17 1961,1 Fsv Mainz 05,1-3,Borussia Neunkirchen
+Sun Sep 17 1961,FC Schalke 04,3-1,Fortuna Duesseldorf
+Sun Sep 17 1961,Schwarz Weiss Essen,2-2,Alemannia Aachen
+Sun Sep 17 1961,Borussia Dortmund,1-2,Rot Weiss Oberhausen
+Sun Sep 17 1961,Viktoria Koeln,3-2,MSV Duisburg
+Sun Sep 17 1961,Westfalia Herne,0-0,Preussen Munster
+Sun Sep 17 1961,Bor Moenchengladbach,3-1,SV Sodingen
+Sun Sep 17 1961,Hamborn 07,2-1,TSV Marl Huels
+Sun Sep 17 1961,Duisburger SV,0-3,1 FC Koeln
+Sun Sep 17 1961,FC Bergedorf 85,4-2,Bremer SV
+Sun Sep 17 1961,WTSV Concordia,1-2,Eintracht Braunschweig
+Sun Sep 17 1961,Eintracht Nordhorn,1-2,Atona 93
+Sun Sep 17 1961,Werder Bremen,4-2,Holstein Kiel
+Sun Sep 17 1961,VFL Osnabrueck,2-1,VFB Oldenburg
+Sun Sep 17 1961,VFV Hildesheim,7-1,Tus Bremerhaven 93
+Sun Sep 17 1961,VFR Neumuenster,3-1,Hannover 96
+Sat Sep 23 1961,Vfb Stuttgart,8-4,1 FC Schweinfurt 05
+Sat Sep 23 1961,Bayern Muenchen,4-0,TSV Schwaben Augsburg
+Sat Sep 23 1961,Bremer SV,2-3,Werder Bremen
+Sat Sep 23 1961,Atona 93,5-3,VFV Hildesheim
+Sun Sep 24 1961,VFR Mannheim,1-4,1 FC Nuernberg
+Sun Sep 24 1961,Spvgg Bayern Hof,3-1,Waldhof Mannheim
+Sun Sep 24 1961,FSV Frankfurt,1-2,TSV 1860 Muenchen
+Sun Sep 24 1961,Karlsruher SC,1-2,Eintracht Frankfurt
+Sun Sep 24 1961,Spvgg Greuther Fuerth,1-1,SSV Reutlingen
+Sun Sep 24 1961,FC Augsburg,4-2,Kickers Offenbach
+Sun Sep 24 1961,Tus Koblenz,3-0,1 Fsv Mainz 05
+Sun Sep 24 1961,Eintracht Trier,1-1,1 FC Kaiserslautern
+Sun Sep 24 1961,Phoenix Ludwigshafen,0-4,Tura Ludwigshafen
+Sun Sep 24 1961,VFR Kaiserslautern,0-5,FK Pirmasens
+Sun Sep 24 1961,Eintracht Bad Kreuznach,1-1,Wormatia Worms
+Sun Sep 24 1961,Ludwigshafener SC,1-0,BSC Oppau
+Sun Sep 24 1961,Preussen Munster,6-0,Hamborn 07
+Sun Sep 24 1961,Rot Weiss Oberhausen,1-2,FC Schalke 04
+Sun Sep 24 1961,1 FC Koeln,2-0,Schwarz Weiss Essen
+Sun Sep 24 1961,MSV Duisburg,2-0,Borussia Dortmund
+Sun Sep 24 1961,SV Sodingen,1-3,Viktoria Koeln
+Sun Sep 24 1961,Fortuna Duesseldorf,1-1,Bor Moenchengladbach
+Sun Sep 24 1961,TSV Marl Huels,4-1,Duisburger SV
+Sun Sep 24 1961,Alemannia Aachen,0-0,Westfalia Herne
+Sun Sep 24 1961,Tus Bremerhaven 93,1-3,WTSV Concordia
+Sun Sep 24 1961,VFB Oldenburg,0-1,FC Bergedorf 85
+Sun Sep 24 1961,FC St Pauli,2-3,Eintracht Nordhorn
+Sun Sep 24 1961,Eintracht Braunschweig,4-3,Holstein Kiel
+Sun Sep 24 1961,VFR Neumuenster,1-6,Hamburger SV
+Sun Sep 24 1961,Hannover 96,0-0,VFL Osnabrueck
+Sat Sep 30 1961,Kickers Offenbach,4-0,Spvgg Bayern Hof
+Sat Sep 30 1961,WTSV Concordia,0-1,FC St Pauli
+Sun Oct 1 1961,1 FC Schweinfurt 05,0-1,VFR Mannheim
+Sun Oct 1 1961,Eintracht Frankfurt,2-2,Bayern Muenchen
+Sun Oct 1 1961,SSV Reutlingen,4-0,FSV Frankfurt
+Sun Oct 1 1961,1 FC Nuernberg,3-0,Karlsruher SC
+Sun Oct 1 1961,TSV Schwaben Augsburg,4-2,Vfb Stuttgart
+Sun Oct 1 1961,Waldhof Mannheim,2-0,Spvgg Greuther Fuerth
+Sun Oct 1 1961,TSV 1860 Muenchen,6-2,FC Augsburg
+Sun Oct 1 1961,Borussia Neunkirchen,4-1,Tus Koblenz
+Sun Oct 1 1961,1 Fsv Mainz 05,1-1,VFR Kaiserslautern
+Sun Oct 1 1961,Wormatia Worms,4-0,Eintracht Trier
+Sun Oct 1 1961,1 FC Saarbruecken,2-2,Ludwigshafener SC
+Sun Oct 1 1961,FK Pirmasens,6-2,Saar 05 Saarbruecken
+Sun Oct 1 1961,1 FC Kaiserslautern,2-0,Sportfreunde Saarbruecken
+Sun Oct 1 1961,Westfalia Herne,2-1,1 FC Koeln
+Sun Oct 1 1961,Bor Moenchengladbach,0-1,Rot Weiss Oberhausen
+Sun Oct 1 1961,FC Schalke 04,0-0,MSV Duisburg
+Sun Oct 1 1961,Viktoria Koeln,2-0,Fortuna Duesseldorf
+Sun Oct 1 1961,Duisburger SV,2-5,Preussen Munster
+Sun Oct 1 1961,Hamborn 07,1-3,Alemannia Aachen
+Sun Oct 1 1961,Schwarz Weiss Essen,5-0,TSV Marl Huels
+Sun Oct 1 1961,Borussia Dortmund,1-1,SV Sodingen
+Sun Oct 1 1961,Hamburger SV,8-0,Bremer SV
+Sun Oct 1 1961,FC Bergedorf 85,3-1,Tus Bremerhaven 93
+Sun Oct 1 1961,Holstein Kiel,0-2,Hannover 96
+Sun Oct 1 1961,Eintracht Nordhorn,0-4,VFR Neumuenster
+Sun Oct 1 1961,Werder Bremen,8-0,Atona 93
+Sun Oct 1 1961,VFL Osnabrueck,1-4,Eintracht Braunschweig
+Sun Oct 1 1961,VFV Hildesheim,3-0,VFB Oldenburg
+Sat Oct 7 1961,VFR Neumuenster,4-1,VFV Hildesheim
+Sat Oct 7 1961,Hannover 96,3-0,Eintracht Nordhorn
+Sat Oct 7 1961,VFB Oldenburg,0-1,FC St Pauli
+Sat Oct 7 1961,Bremer SV,2-1,Eintracht Braunschweig
+Sat Oct 7 1961,Atona 93,1-2,FC Bergedorf 85
+Sun Oct 8 1961,Tura Ludwigshafen,1-1,Eintracht Bad Kreuznach
+Sun Oct 8 1961,BSC Oppau,1-1,Phoenix Ludwigshafen
+Sat Oct 14 1961,Vfb Stuttgart,0-3,Eintracht Frankfurt
+Sat Oct 14 1961,Bayern Muenchen,1-1,1 FC Nuernberg
+Sat Oct 14 1961,Atona 93,2-1,WTSV Concordia
+Sun Oct 15 1961,Karlsruher SC,2-1,1 FC Schweinfurt 05
+Sun Oct 15 1961,Spvgg Bayern Hof,2-1,TSV 1860 Muenchen
+Sun Oct 15 1961,FSV Frankfurt,1-1,Waldhof Mannheim
+Sun Oct 15 1961,VFR Mannheim,2-0,TSV Schwaben Augsburg
+Sun Oct 15 1961,Spvgg Greuther Fuerth,4-0,Kickers Offenbach
+Sun Oct 15 1961,FC Augsburg,4-2,SSV Reutlingen
+Sun Oct 15 1961,1 FC Saarbruecken,2-0,1 FC Kaiserslautern
+Sun Oct 15 1961,Ludwigshafener SC,0-2,Sportfreunde Saarbruecken
+Sun Oct 15 1961,VFR Kaiserslautern,2-1,Eintracht Bad Kreuznach
+Sun Oct 15 1961,1 Fsv Mainz 05,0-0,Tura Ludwigshafen
+Sun Oct 15 1961,Borussia Neunkirchen,2-2,BSC Oppau
+Sun Oct 15 1961,FK Pirmasens,4-0,Wormatia Worms
+Sun Oct 15 1961,Phoenix Ludwigshafen,1-1,Tus Koblenz
+Sun Oct 15 1961,Saar 05 Saarbruecken,2-0,Eintracht Trier
+Sun Oct 15 1961,Preussen Munster,2-2,Schwarz Weiss Essen
+Sun Oct 15 1961,TSV Marl Huels,3-1,Westfalia Herne
+Sun Oct 15 1961,Rot Weiss Oberhausen,3-2,Viktoria Koeln
+Sun Oct 15 1961,SV Sodingen,1-2,FC Schalke 04
+Sun Oct 15 1961,Alemannia Aachen,4-1,Duisburger SV
+Sun Oct 15 1961,1 FC Koeln,2-1,Hamborn 07
+Sun Oct 15 1961,Fortuna Duesseldorf,2-1,Borussia Dortmund
+Sun Oct 15 1961,MSV Duisburg,3-0,Bor Moenchengladbach
+Sun Oct 15 1961,Holstein Kiel,2-6,Hamburger SV
+Sun Oct 15 1961,Eintracht Braunschweig,2-2,Hannover 96
+Sun Oct 15 1961,FC St Pauli,2-3,Werder Bremen
+Sun Oct 15 1961,Tus Bremerhaven 93,1-0,VFB Oldenburg
+Sun Oct 15 1961,Eintracht Nordhorn,1-1,VFL Osnabrueck
+Sun Oct 15 1961,Bremer SV,2-0,VFR Neumuenster
+Sun Oct 15 1961,FC Bergedorf 85,0-0,VFV Hildesheim
+Sun Oct 22 1961,Wormatia Worms,3-3,1 FC Saarbruecken
+Sun Oct 22 1961,BSC Oppau,2-1,1 Fsv Mainz 05
+Sun Oct 22 1961,Tura Ludwigshafen,3-3,FK Pirmasens
+Sun Oct 22 1961,Eintracht Trier,1-2,Ludwigshafener SC
+Sun Oct 22 1961,1 FC Kaiserslautern,2-0,Borussia Neunkirchen
+Sun Oct 22 1961,Tus Koblenz,2-3,VFR Kaiserslautern
+Sun Oct 22 1961,Eintracht Bad Kreuznach,2-0,Saar 05 Saarbruecken
+Sun Oct 22 1961,Sportfreunde Saarbruecken,4-0,Phoenix Ludwigshafen
+Sat Oct 28 1961,Kickers Offenbach,3-1,VFR Mannheim
+Sun Oct 29 1961,1 FC Schweinfurt 05,3-0,FSV Frankfurt
+Sun Oct 29 1961,Eintracht Frankfurt,1-0,Spvgg Greuther Fuerth
+Sun Oct 29 1961,Karlsruher SC,1-1,Vfb Stuttgart
+Sun Oct 29 1961,Waldhof Mannheim,5-3,Bayern Muenchen
+Sun Oct 29 1961,1 FC Nuernberg,5-0,FC Augsburg
+Sun Oct 29 1961,TSV Schwaben Augsburg,2-3,Spvgg Bayern Hof
+Sun Oct 29 1961,TSV 1860 Muenchen,2-1,SSV Reutlingen
+Sun Oct 29 1961,Borussia Neunkirchen,4-2,Wormatia Worms
+Sun Oct 29 1961,1 Fsv Mainz 05,2-2,1 FC Kaiserslautern
+Sun Oct 29 1961,Phoenix Ludwigshafen,0-3,Eintracht Trier
+Sun Oct 29 1961,FK Pirmasens,4-1,BSC Oppau
+Sun Oct 29 1961,Saar 05 Saarbruecken,1-0,Tus Koblenz
+Sun Oct 29 1961,VFR Kaiserslautern,1-3,Sportfreunde Saarbruecken
+Sun Oct 29 1961,Ludwigshafener SC,1-0,Eintracht Bad Kreuznach
+Sun Oct 29 1961,1 FC Saarbruecken,5-0,Tura Ludwigshafen
+Sun Oct 29 1961,Westfalia Herne,3-1,Rot Weiss Oberhausen
+Sun Oct 29 1961,Fortuna Duesseldorf,0-2,MSV Duisburg
+Sun Oct 29 1961,Viktoria Koeln,2-4,Preussen Munster
+Sun Oct 29 1961,FC Schalke 04,2-2,Alemannia Aachen
+Sun Oct 29 1961,Borussia Dortmund,5-0,TSV Marl Huels
+Sun Oct 29 1961,Hamborn 07,1-0,SV Sodingen
+Sun Oct 29 1961,Duisburger SV,2-4,Schwarz Weiss Essen
+Sun Oct 29 1961,Bor Moenchengladbach,1-6,1 FC Koeln
+Sun Oct 29 1961,Hamburger SV,6-0,Tus Bremerhaven 93
+Sun Oct 29 1961,Eintracht Nordhorn,4-2,Eintracht Braunschweig
+Sun Oct 29 1961,Hannover 96,2-2,FC St Pauli
+Sun Oct 29 1961,VFR Neumuenster,2-1,WTSV Concordia
+Sun Oct 29 1961,Werder Bremen,1-1,FC Bergedorf 85
+Sun Oct 29 1961,VFL Osnabrueck,1-0,Bremer SV
+Sun Oct 29 1961,VFV Hildesheim,2-0,Holstein Kiel
+Sun Oct 29 1961,VFB Oldenburg,1-2,Atona 93
+Sun Nov 5 1961,FC Augsburg,2-2,1 FC Schweinfurt 05
+Sun Nov 5 1961,Spvgg Bayern Hof,1-2,Eintracht Frankfurt
+Sun Nov 5 1961,Vfb Stuttgart,2-1,Waldhof Mannheim
+Sun Nov 5 1961,Bayern Muenchen,2-2,Karlsruher SC
+Sun Nov 5 1961,FSV Frankfurt,3-0,1 FC Nuernberg
+Sun Nov 5 1961,Spvgg Greuther Fuerth,2-2,TSV Schwaben Augsburg
+Sun Nov 5 1961,VFR Mannheim,0-0,TSV 1860 Muenchen
+Sun Nov 5 1961,SSV Reutlingen,1-0,Kickers Offenbach
+Sun Nov 5 1961,Wormatia Worms,8-1,1 Fsv Mainz 05
+Sun Nov 5 1961,BSC Oppau,0-4,1 FC Saarbruecken
+Sun Nov 5 1961,Tura Ludwigshafen,2-2,Borussia Neunkirchen
+Sun Nov 5 1961,1 FC Kaiserslautern,2-0,FK Pirmasens
+Sun Nov 5 1961,Eintracht Trier,3-0,VFR Kaiserslautern
+Sun Nov 5 1961,Eintracht Bad Kreuznach,2-1,Phoenix Ludwigshafen
+Sun Nov 5 1961,Tus Koblenz,1-0,Ludwigshafener SC
+Sun Nov 5 1961,Sportfreunde Saarbruecken,1-0,Saar 05 Saarbruecken
+Sun Nov 5 1961,Alemannia Aachen,0-3,Bor Moenchengladbach
+Sun Nov 5 1961,Preussen Munster,1-2,Borussia Dortmund
+Sun Nov 5 1961,1 FC Koeln,0-1,FC Schalke 04
+Sun Nov 5 1961,Rot Weiss Oberhausen,2-2,Fortuna Duesseldorf
+Sun Nov 5 1961,SV Sodingen,0-0,Duisburger SV
+Sun Nov 5 1961,TSV Marl Huels,2-4,Viktoria Koeln
+Sun Nov 5 1961,Schwarz Weiss Essen,2-0,Hamborn 07
+Sun Nov 5 1961,MSV Duisburg,1-5,Westfalia Herne
+Sun Nov 5 1961,WTSV Concordia,1-3,Werder Bremen
+Sun Nov 5 1961,Holstein Kiel,4-0,VFB Oldenburg
+Sun Nov 5 1961,Bremer SV,2-6,Hannover 96
+Sun Nov 5 1961,Tus Bremerhaven 93,3-2,Eintracht Nordhorn
+Sun Nov 5 1961,VFV Hildesheim,3-0,Hamburger SV
+Sun Nov 5 1961,VFL Osnabrueck,2-1,VFR Neumuenster
+Sun Nov 5 1961,Eintracht Braunschweig,3-3,FC St Pauli
+Sat Nov 11 1961,Eintracht Frankfurt,5-1,TSV Schwaben Augsburg
+Sat Nov 11 1961,Atona 93,1-2,Hamburger SV
+Sun Nov 12 1961,1 FC Schweinfurt 05,0-1,Spvgg Greuther Fuerth
+Sun Nov 12 1961,FC Augsburg,3-0,FSV Frankfurt
+Sun Nov 12 1961,Vfb Stuttgart,1-3,Bayern Muenchen
+Sun Nov 12 1961,1 FC Nuernberg,3-2,Spvgg Bayern Hof
+Sun Nov 12 1961,Karlsruher SC,1-2,VFR Mannheim
+Sun Nov 12 1961,TSV 1860 Muenchen,1-2,Kickers Offenbach
+Sun Nov 12 1961,Waldhof Mannheim,1-1,SSV Reutlingen
+Sun Nov 12 1961,1 FC Saarbruecken,3-3,Borussia Neunkirchen
+Sun Nov 12 1961,Wormatia Worms,1-1,Tura Ludwigshafen
+Sun Nov 12 1961,FK Pirmasens,8-1,1 Fsv Mainz 05
+Sun Nov 12 1961,1 FC Kaiserslautern,4-0,BSC Oppau
+Sun Nov 12 1961,Ludwigshafener SC,0-1,Saar 05 Saarbruecken
+Sun Nov 12 1961,Tus Koblenz,0-0,Eintracht Bad Kreuznach
+Sun Nov 12 1961,Sportfreunde Saarbruecken,4-1,Eintracht Trier
+Sun Nov 12 1961,Phoenix Ludwigshafen,1-2,VFR Kaiserslautern
+Sun Nov 12 1961,Borussia Dortmund,0-4,1 FC Koeln
+Sun Nov 12 1961,Duisburger SV,2-4,Hamborn 07
+Sun Nov 12 1961,Westfalia Herne,2-2,Schwarz Weiss Essen
+Sun Nov 12 1961,Fortuna Duesseldorf,0-0,SV Sodingen
+Sun Nov 12 1961,Viktoria Koeln,1-1,Alemannia Aachen
+Sun Nov 12 1961,MSV Duisburg,2-1,Rot Weiss Oberhausen
+Sun Nov 12 1961,Bor Moenchengladbach,2-3,FC Schalke 04
+Sun Nov 12 1961,Preussen Munster,1-1,TSV Marl Huels
+Sun Nov 12 1961,Werder Bremen,1-2,VFL Osnabrueck
+Sun Nov 12 1961,FC St Pauli,3-2,Holstein Kiel
+Sun Nov 12 1961,FC Bergedorf 85,0-0,WTSV Concordia
+Sun Nov 12 1961,VFR Neumuenster,1-0,Tus Bremerhaven 93
+Sun Nov 12 1961,VFB Oldenburg,0-1,Hannover 96
+Sun Nov 12 1961,Eintracht Braunschweig,2-1,VFV Hildesheim
+Sat Nov 18 1961,Hamburger SV,2-0,VFL Osnabrueck
+Sun Nov 19 1961,Eintracht Frankfurt,1-1,1 FC Schweinfurt 05
+Sun Nov 19 1961,TSV Schwaben Augsburg,1-0,1 FC Nuernberg
+Sun Nov 19 1961,VFR Mannheim,3-3,Vfb Stuttgart
+Sun Nov 19 1961,TSV 1860 Muenchen,3-2,Waldhof Mannheim
+Sun Nov 19 1961,Kickers Offenbach,2-0,Karlsruher SC
+Sun Nov 19 1961,Spvgg Bayern Hof,0-0,FC Augsburg
+Sun Nov 19 1961,Spvgg Greuther Fuerth,0-1,FSV Frankfurt
+Sun Nov 19 1961,SSV Reutlingen,1-3,Bayern Muenchen
+Sun Nov 19 1961,Eintracht Bad Kreuznach,2-2,Sportfreunde Saarbruecken
+Sun Nov 19 1961,VFR Kaiserslautern,1-0,Ludwigshafener SC
+Sun Nov 19 1961,BSC Oppau,0-3,Wormatia Worms
+Sun Nov 19 1961,Saar 05 Saarbruecken,1-0,Phoenix Ludwigshafen
+Sun Nov 19 1961,Borussia Neunkirchen,2-2,FK Pirmasens
+Sun Nov 19 1961,1 Fsv Mainz 05,3-1,1 FC Saarbruecken
+Sun Nov 19 1961,Tura Ludwigshafen,0-0,1 FC Kaiserslautern
+Sun Nov 19 1961,Eintracht Trier,2-1,Tus Koblenz
+Sun Nov 19 1961,Schwarz Weiss Essen,3-1,Rot Weiss Oberhausen
+Sun Nov 19 1961,Bor Moenchengladbach,0-0,Borussia Dortmund
+Sun Nov 19 1961,SV Sodingen,0-0,MSV Duisburg
+Sun Nov 19 1961,Duisburger SV,1-5,Westfalia Herne
+Sun Nov 19 1961,FC Schalke 04,2-1,Viktoria Koeln
+Sun Nov 19 1961,Alemannia Aachen,3-3,Preussen Munster
+Sun Nov 19 1961,1 FC Koeln,6-1,TSV Marl Huels
+Sun Nov 19 1961,Hamborn 07,2-4,Fortuna Duesseldorf
+Sun Nov 19 1961,Tus Bremerhaven 93,1-0,Bremer SV
+Sun Nov 19 1961,Hannover 96,1-3,Werder Bremen
+Sun Nov 19 1961,FC Bergedorf 85,0-0,VFR Neumuenster
+Sun Nov 19 1961,Holstein Kiel,4-2,Eintracht Nordhorn
+Sun Nov 19 1961,WTSV Concordia,6-1,VFB Oldenburg
+Sun Nov 19 1961,Atona 93,2-2,Eintracht Braunschweig
+Wed Nov 22 1961,Sportfreunde Saarbruecken,0-0,Borussia Neunkirchen
+Wed Nov 22 1961,Bremer SV,1-0,Atona 93
+Wed Nov 22 1961,Tus Bremerhaven 93,2-2,Holstein Kiel
+Sat Nov 25 1961,Vfb Stuttgart,5-1,SSV Reutlingen
+Sat Nov 25 1961,FSV Frankfurt,1-1,Spvgg Bayern Hof
+Sat Nov 25 1961,Karlsruher SC,2-3,TSV 1860 Muenchen
+Sat Nov 25 1961,Waldhof Mannheim,1-1,Kickers Offenbach
+Sun Nov 26 1961,1 FC Schweinfurt 05,1-0,TSV Schwaben Augsburg
+Sun Nov 26 1961,1 FC Nuernberg,0-3,Eintracht Frankfurt
+Sun Nov 26 1961,Bayern Muenchen,3-3,VFR Mannheim
+Sun Nov 26 1961,FC Augsburg,2-2,Spvgg Greuther Fuerth
+Sun Nov 26 1961,Saar 05 Saarbruecken,2-6,1 FC Saarbruecken
+Sun Nov 26 1961,Borussia Dortmund,2-2,FC Schalke 04
+Sun Nov 26 1961,Preussen Munster,1-0,1 FC Koeln
+Sun Nov 26 1961,Westfalia Herne,4-0,Hamborn 07
+Sun Nov 26 1961,Fortuna Duesseldorf,3-1,Duisburger SV
+Sun Nov 26 1961,MSV Duisburg,1-1,Schwarz Weiss Essen
+Sun Nov 26 1961,TSV Marl Huels,0-1,Alemannia Aachen
+Sun Nov 26 1961,Rot Weiss Oberhausen,2-1,SV Sodingen
+Sun Nov 26 1961,Viktoria Koeln,4-2,Bor Moenchengladbach
+Sun Nov 26 1961,Werder Bremen,2-1,Hamburger SV
+Sun Nov 26 1961,FC St Pauli,2-1,FC Bergedorf 85
+Sun Nov 26 1961,Eintracht Nordhorn,4-2,WTSV Concordia
+Sun Nov 26 1961,VFL Osnabrueck,1-0,VFV Hildesheim
+Sat Dec 2 1961,BSC Oppau,1-1,Eintracht Bad Kreuznach
+Sat Dec 2 1961,1 FC Saarbruecken,3-1,Phoenix Ludwigshafen
+Sat Dec 2 1961,Wormatia Worms,5-1,Sportfreunde Saarbruecken
+Sat Dec 2 1961,FK Pirmasens,4-1,Ludwigshafener SC
+Sat Dec 2 1961,1 FC Kaiserslautern,4-1,Tus Koblenz
+Sat Dec 2 1961,Borussia Neunkirchen,4-1,VFR Kaiserslautern
+Sat Dec 2 1961,1 Fsv Mainz 05,2-1,Saar 05 Saarbruecken
+Sat Dec 2 1961,Tura Ludwigshafen,8-0,Eintracht Trier
+Sat Dec 2 1961,Hamburger SV,4-0,Hannover 96
+Sun Dec 3 1961,WTSV Concordia,2-0,Tus Bremerhaven 93
+Sun Dec 3 1961,Holstein Kiel,3-0,VFL Osnabrueck
+Sun Dec 3 1961,VFV Hildesheim,2-0,FC Bergedorf 85
+Sun Dec 3 1961,VFB Oldenburg,6-0,Bremer SV
+Sun Dec 3 1961,Werder Bremen,1-1,FC St Pauli
+Sun Dec 3 1961,Eintracht Braunschweig,3-1,Eintracht Nordhorn
+Sun Dec 3 1961,Atona 93,2-1,VFR Neumuenster
+Sat Dec 9 1961,Bremer SV,2-3,Hamburger SV
+Sat Dec 9 1961,FC Bergedorf 85,1-1,Atona 93
+Sun Dec 10 1961,Vfb Stuttgart,6-0,Spvgg Bayern Hof
+Sun Dec 10 1961,Karlsruher SC,3-1,FSV Frankfurt
+Sun Dec 10 1961,TSV Schwaben Augsburg,1-2,Kickers Offenbach
+Sun Dec 10 1961,1 FC Nuernberg,5-0,SSV Reutlingen
+Sun Dec 10 1961,VFR Mannheim,0-2,Spvgg Greuther Fuerth
+Sun Dec 10 1961,Bayern Muenchen,4-3,FC Augsburg
+Sun Dec 10 1961,Eintracht Frankfurt,4-2,TSV 1860 Muenchen
+Sun Dec 10 1961,1 FC Schweinfurt 05,4-1,Waldhof Mannheim
+Sun Dec 10 1961,VFR Kaiserslautern,2-4,1 FC Kaiserslautern
+Sun Dec 10 1961,Eintracht Trier,1-2,BSC Oppau
+Sun Dec 10 1961,Tus Koblenz,2-4,Wormatia Worms
+Sun Dec 10 1961,Eintracht Bad Kreuznach,2-3,1 FC Saarbruecken
+Sun Dec 10 1961,Sportfreunde Saarbruecken,6-2,Tura Ludwigshafen
+Sun Dec 10 1961,Saar 05 Saarbruecken,0-2,Borussia Neunkirchen
+Sun Dec 10 1961,Ludwigshafener SC,2-0,1 Fsv Mainz 05
+Sun Dec 10 1961,Phoenix Ludwigshafen,3-2,FK Pirmasens
+Sun Dec 10 1961,Borussia Dortmund,3-2,Westfalia Herne
+Sun Dec 10 1961,Bor Moenchengladbach,4-0,Duisburger SV
+Sun Dec 10 1961,FC Schalke 04,3-1,Hamborn 07
+Sun Dec 10 1961,Fortuna Duesseldorf,1-0,TSV Marl Huels
+Sun Dec 10 1961,SV Sodingen,1-5,1 FC Koeln
+Sun Dec 10 1961,Rot Weiss Oberhausen,0-0,Preussen Munster
+Sun Dec 10 1961,Viktoria Koeln,1-6,Schwarz Weiss Essen
+Sun Dec 10 1961,MSV Duisburg,1-0,Alemannia Aachen
+Sun Dec 10 1961,Hannover 96,0-2,VFB Oldenburg
+Sun Dec 10 1961,Tus Bremerhaven 93,2-0,VFV Hildesheim
+Sun Dec 10 1961,VFL Osnabrueck,1-2,WTSV Concordia
+Sun Dec 10 1961,FC St Pauli,2-1,Eintracht Braunschweig
+Sun Dec 10 1961,Eintracht Nordhorn,1-5,Holstein Kiel
+Sun Dec 10 1961,VFR Neumuenster,1-7,Werder Bremen
+Sat Dec 16 1961,FSV Frankfurt,3-0,VFR Mannheim
+Sun Dec 17 1961,SSV Reutlingen,6-1,1 FC Schweinfurt 05
+Sun Dec 17 1961,Kickers Offenbach,1-0,Eintracht Frankfurt
+Sun Dec 17 1961,Spvgg Greuther Fuerth,1-0,Vfb Stuttgart
+Sun Dec 17 1961,FC Augsburg,2-1,Karlsruher SC
+Sun Dec 17 1961,TSV 1860 Muenchen,2-3,1 FC Nuernberg
+Sun Dec 17 1961,Waldhof Mannheim,0-1,TSV Schwaben Augsburg
+Sun Dec 17 1961,Spvgg Bayern Hof,1-1,Bayern Muenchen
+Sun Dec 17 1961,1 FC Kaiserslautern,4-0,Saar 05 Saarbruecken
+Sun Dec 17 1961,Borussia Neunkirchen,4-0,Ludwigshafener SC
+Sun Dec 17 1961,1 FC Saarbruecken,4-0,Eintracht Trier
+Sun Dec 17 1961,1 Fsv Mainz 05,1-1,Phoenix Ludwigshafen
+Sun Dec 17 1961,FK Pirmasens,5-0,Eintracht Bad Kreuznach
+Sun Dec 17 1961,Wormatia Worms,1-0,VFR Kaiserslautern
+Sun Dec 17 1961,BSC Oppau,3-1,Sportfreunde Saarbruecken
+Sun Dec 17 1961,Tura Ludwigshafen,3-1,Tus Koblenz
+Sun Dec 17 1961,Hamborn 07,3-2,Bor Moenchengladbach
+Sun Dec 17 1961,Duisburger SV,0-3,Viktoria Koeln
+Sun Dec 17 1961,Westfalia Herne,3-2,FC Schalke 04
+Sun Dec 17 1961,1 FC Koeln,3-0,MSV Duisburg
+Sun Dec 17 1961,Preussen Munster,4-1,Fortuna Duesseldorf
+Sun Dec 17 1961,Schwarz Weiss Essen,1-1,Borussia Dortmund
+Sun Dec 17 1961,Alemannia Aachen,1-1,Rot Weiss Oberhausen
+Sun Dec 17 1961,TSV Marl Huels,1-2,SV Sodingen
+Sat Dec 23 1961,MSV Duisburg,3-1,TSV Marl Huels
+Sat Dec 23 1961,Fortuna Duesseldorf,3-0,Alemannia Aachen
+Sat Dec 23 1961,Bor Moenchengladbach,2-1,Westfalia Herne
+Sat Dec 23 1961,Viktoria Koeln,3-0,Hamborn 07
+Sat Dec 23 1961,Rot Weiss Oberhausen,4-1,1 FC Koeln
+Sat Dec 23 1961,Borussia Dortmund,6-2,Duisburger SV
+Sat Dec 23 1961,SV Sodingen,2-0,Preussen Munster
+Sat Dec 23 1961,FC Schalke 04,3-0,Schwarz Weiss Essen
+Sat Dec 30 1961,Preussen Munster,0-3,MSV Duisburg
+Sat Dec 30 1961,Duisburger SV,3-1,FC Schalke 04
+Sat Dec 30 1961,1 FC Koeln,5-0,Fortuna Duesseldorf
+Sat Dec 30 1961,Schwarz Weiss Essen,4-0,Bor Moenchengladbach
+Sat Dec 30 1961,Alemannia Aachen,3-1,SV Sodingen
+Sun Dec 31 1961,Phoenix Ludwigshafen,1-3,Borussia Neunkirchen
+Sun Dec 31 1961,Tus Koblenz,3-0,BSC Oppau
+Sun Dec 31 1961,Ludwigshafener SC,1-1,1 FC Kaiserslautern
+Sun Dec 31 1961,Eintracht Bad Kreuznach,0-1,1 Fsv Mainz 05
+Sat Jan 6 1962,1 FC Koeln,5-3,Alemannia Aachen
+Sat Jan 6 1962,Werder Bremen,8-1,Tus Bremerhaven 93
+Sun Jan 7 1962,Vfb Stuttgart,7-1,FSV Frankfurt
+Sun Jan 7 1962,Eintracht Frankfurt,3-0,Waldhof Mannheim
+Sun Jan 7 1962,Karlsruher SC,3-3,Spvgg Bayern Hof
+Sun Jan 7 1962,1 FC Nuernberg,2-0,Kickers Offenbach
+Sun Jan 7 1962,TSV Schwaben Augsburg,1-3,SSV Reutlingen
+Sun Jan 7 1962,Bayern Muenchen,2-1,Spvgg Greuther Fuerth
+Sun Jan 7 1962,VFR Mannheim,1-1,FC Augsburg
+Sun Jan 7 1962,1 FC Schweinfurt 05,4-1,TSV 1860 Muenchen
+Sun Jan 7 1962,1 FC Saarbruecken,2-1,Tus Koblenz
+Sun Jan 7 1962,BSC Oppau,1-0,VFR Kaiserslautern
+Sun Jan 7 1962,FK Pirmasens,5-0,Sportfreunde Saarbruecken
+Sun Jan 7 1962,Borussia Neunkirchen,11-0,Eintracht Bad Kreuznach
+Sun Jan 7 1962,1 FC Kaiserslautern,1-1,Phoenix Ludwigshafen
+Sun Jan 7 1962,Wormatia Worms,4-1,Ludwigshafener SC
+Sun Jan 7 1962,1 Fsv Mainz 05,3-0,Eintracht Trier
+Sun Jan 7 1962,Tura Ludwigshafen,1-1,Saar 05 Saarbruecken
+Sun Jan 7 1962,Eintracht Braunschweig,3-1,VFR Neumuenster
+Sun Jan 7 1962,VFV Hildesheim,3-1,Hannover 96
+Sun Jan 7 1962,VFB Oldenburg,0-0,WTSV Concordia
+Sat Jan 13 1962,Kickers Offenbach,4-0,1 FC Schweinfurt 05
+Sat Jan 13 1962,Preussen Munster,0-3,FC Schalke 04
+Sat Jan 13 1962,Schwarz Weiss Essen,3-1,Fortuna Duesseldorf
+Sat Jan 13 1962,Alemannia Aachen,2-2,Borussia Dortmund
+Sat Jan 13 1962,Hamborn 07,2-4,MSV Duisburg
+Sat Jan 13 1962,Viktoria Koeln,0-4,1 FC Koeln
+Sat Jan 13 1962,Westfalia Herne,1-1,SV Sodingen
+Sat Jan 13 1962,TSV Marl Huels,5-1,Bor Moenchengladbach
+Sat Jan 13 1962,WTSV Concordia,0-4,Hamburger SV
+Sun Jan 14 1962,SSV Reutlingen,4-2,Eintracht Frankfurt
+Sun Jan 14 1962,Spvgg Greuther Fuerth,1-1,Karlsruher SC
+Sun Jan 14 1962,Waldhof Mannheim,0-1,1 FC Nuernberg
+Sun Jan 14 1962,TSV 1860 Muenchen,5-1,TSV Schwaben Augsburg
+Sun Jan 14 1962,FSV Frankfurt,2-3,Bayern Muenchen
+Sun Jan 14 1962,Spvgg Bayern Hof,1-1,VFR Mannheim
+Sun Jan 14 1962,VFR Kaiserslautern,0-2,1 FC Saarbruecken
+Sun Jan 14 1962,Ludwigshafener SC,0-1,Tura Ludwigshafen
+Sun Jan 14 1962,Tus Koblenz,3-2,FK Pirmasens
+Sun Jan 14 1962,1 Fsv Mainz 05,2-0,Sportfreunde Saarbruecken
+Sun Jan 14 1962,Eintracht Bad Kreuznach,1-2,1 FC Kaiserslautern
+Sun Jan 14 1962,Eintracht Trier,0-4,Borussia Neunkirchen
+Sun Jan 14 1962,Phoenix Ludwigshafen,0-1,Wormatia Worms
+Sun Jan 14 1962,Saar 05 Saarbruecken,3-3,BSC Oppau
+Sun Jan 14 1962,FC Bergedorf 85,0-2,Eintracht Braunschweig
+Sun Jan 14 1962,Eintracht Nordhorn,0-5,VFV Hildesheim
+Sun Jan 14 1962,VFL Osnabrueck,1-1,Werder Bremen
+Sun Jan 14 1962,VFR Neumuenster,2-0,VFB Oldenburg
+Sun Jan 14 1962,Tus Bremerhaven 93,2-2,Atona 93
+Sun Jan 14 1962,Hannover 96,1-4,Holstein Kiel
+Sat Jan 20 1962,Fortuna Duesseldorf,1-2,FC Schalke 04
+Sat Jan 20 1962,1 FC Koeln,2-2,Duisburger SV
+Sat Jan 20 1962,Preussen Munster,0-0,Westfalia Herne
+Sat Jan 20 1962,Rot Weiss Oberhausen,1-1,Borussia Dortmund
+Sat Jan 20 1962,TSV Marl Huels,1-1,Hamborn 07
+Sat Jan 20 1962,MSV Duisburg,2-4,Viktoria Koeln
+Sat Jan 20 1962,Alemannia Aachen,1-1,Schwarz Weiss Essen
+Sat Jan 20 1962,SV Sodingen,1-0,Bor Moenchengladbach
+Sat Jan 20 1962,Hamburger SV,6-2,Atona 93
+Sun Jan 21 1962,Karlsruher SC,1-1,Waldhof Mannheim
+Sun Jan 21 1962,1 FC Schweinfurt 05,1-3,1 FC Nuernberg
+Sun Jan 21 1962,Vfb Stuttgart,1-1,TSV 1860 Muenchen
+Sun Jan 21 1962,Spvgg Greuther Fuerth,0-0,Spvgg Bayern Hof
+Sun Jan 21 1962,Eintracht Frankfurt,1-0,FC Augsburg
+Sun Jan 21 1962,Bayern Muenchen,3-1,Kickers Offenbach
+Sun Jan 21 1962,VFR Mannheim,1-0,SSV Reutlingen
+Sun Jan 21 1962,TSV Schwaben Augsburg,4-4,FSV Frankfurt
+Sun Jan 21 1962,Wormatia Worms,3-1,1 FC Kaiserslautern
+Sun Jan 21 1962,VFR Kaiserslautern,1-0,Saar 05 Saarbruecken
+Sun Jan 21 1962,BSC Oppau,1-5,Tura Ludwigshafen
+Sun Jan 21 1962,Sportfreunde Saarbruecken,3-2,Tus Koblenz
+Sun Jan 21 1962,FK Pirmasens,0-1,1 FC Saarbruecken
+Sun Jan 21 1962,Borussia Neunkirchen,6-0,1 Fsv Mainz 05
+Sun Jan 21 1962,Eintracht Bad Kreuznach,0-0,Eintracht Trier
+Sun Jan 21 1962,Ludwigshafener SC,2-1,Phoenix Ludwigshafen
+Sun Jan 21 1962,FC St Pauli,4-3,VFV Hildesheim
+Sun Jan 21 1962,VFB Oldenburg,2-0,Tus Bremerhaven 93
+Sun Jan 21 1962,Hannover 96,1-1,FC Bergedorf 85
+Sun Jan 21 1962,Werder Bremen,5-0,Bremer SV
+Sun Jan 21 1962,Eintracht Braunschweig,2-2,VFL Osnabrueck
+Sun Jan 21 1962,WTSV Concordia,2-0,Eintracht Nordhorn
+Sat Jan 27 1962,Eintracht Frankfurt,4-0,FSV Frankfurt
+Sat Jan 27 1962,1 FC Nuernberg,2-0,Spvgg Greuther Fuerth
+Sat Jan 27 1962,Duisburger SV,1-1,TSV Marl Huels
+Sat Jan 27 1962,FC Schalke 04,0-2,Rot Weiss Oberhausen
+Sat Jan 27 1962,Bor Moenchengladbach,2-3,Fortuna Duesseldorf
+Sat Jan 27 1962,Borussia Dortmund,5-2,MSV Duisburg
+Sat Jan 27 1962,Schwarz Weiss Essen,2-2,1 FC Koeln
+Sat Jan 27 1962,Westfalia Herne,2-1,Alemannia Aachen
+Sat Jan 27 1962,Hamborn 07,1-1,Preussen Munster
+Sat Jan 27 1962,Viktoria Koeln,3-2,SV Sodingen
+Sat Jan 27 1962,Atona 93,0-2,VFB Oldenburg
+Sat Jan 27 1962,Tus Bremerhaven 93,2-3,Hamburger SV
+Sun Jan 28 1962,Spvgg Bayern Hof,1-1,1 FC Schweinfurt 05
+Sun Jan 28 1962,Kickers Offenbach,2-0,Vfb Stuttgart
+Sun Jan 28 1962,SSV Reutlingen,1-1,Karlsruher SC
+Sun Jan 28 1962,FC Augsburg,0-1,TSV Schwaben Augsburg
+Sun Jan 28 1962,Waldhof Mannheim,0-0,VFR Mannheim
+Sun Jan 28 1962,TSV 1860 Muenchen,2-3,Bayern Muenchen
+Sun Jan 28 1962,Eintracht Trier,1-0,FK Pirmasens
+Sun Jan 28 1962,FC Bergedorf 85,2-4,Holstein Kiel
+Sun Jan 28 1962,VFR Neumuenster,3-2,FC St Pauli
+Sun Jan 28 1962,Bremer SV,2-1,Eintracht Nordhorn
+Sun Jan 28 1962,VFL Osnabrueck,0-2,Hannover 96
+Sun Jan 28 1962,VFV Hildesheim,3-1,Werder Bremen
+Sun Jan 28 1962,Eintracht Braunschweig,1-1,WTSV Concordia
+Sat Feb 3 1962,TSV Marl Huels,3-3,Schwarz Weiss Essen
+Sat Feb 3 1962,Fortuna Duesseldorf,4-0,Viktoria Koeln
+Sat Feb 3 1962,Preussen Munster,2-0,Duisburger SV
+Sat Feb 3 1962,Alemannia Aachen,3-1,Hamborn 07
+Sun Feb 4 1962,VFR Mannheim,1-1,Eintracht Frankfurt
+Sun Feb 4 1962,Bayern Muenchen,2-0,1 FC Schweinfurt 05
+Sun Feb 4 1962,Spvgg Bayern Hof,0-2,SSV Reutlingen
+Sun Feb 4 1962,FSV Frankfurt,1-0,Kickers Offenbach
+Sun Feb 4 1962,Vfb Stuttgart,1-2,1 FC Nuernberg
+Sun Feb 4 1962,Karlsruher SC,6-0,TSV Schwaben Augsburg
+Sun Feb 4 1962,Spvgg Greuther Fuerth,2-2,TSV 1860 Muenchen
+Sun Feb 4 1962,FC Augsburg,3-0,Waldhof Mannheim
+Sun Feb 4 1962,BSC Oppau,1-1,Ludwigshafener SC
+Sun Feb 4 1962,FK Pirmasens,7-1,VFR Kaiserslautern
+Sun Feb 4 1962,1 FC Saarbruecken,2-1,Saar 05 Saarbruecken
+Sun Feb 4 1962,1 FC Kaiserslautern,7-0,Eintracht Trier
+Sun Feb 4 1962,Wormatia Worms,4-1,Eintracht Bad Kreuznach
+Sun Feb 4 1962,Borussia Neunkirchen,11-0,Sportfreunde Saarbruecken
+Sun Feb 4 1962,1 Fsv Mainz 05,5-1,Tus Koblenz
+Sun Feb 4 1962,Tura Ludwigshafen,4-3,Phoenix Ludwigshafen
+Sun Feb 4 1962,VFL Osnabrueck,4-4,FC St Pauli
+Sun Feb 4 1962,WTSV Concordia,1-3,FC Bergedorf 85
+Sun Feb 4 1962,Holstein Kiel,7-2,Atona 93
+Sun Feb 4 1962,Eintracht Nordhorn,2-1,Tus Bremerhaven 93
+Sun Feb 4 1962,VFB Oldenburg,0-6,VFV Hildesheim
+Sun Feb 4 1962,Hannover 96,4-4,Bremer SV
+Wed Feb 7 1962,TSV Marl Huels,3-2,Rot Weiss Oberhausen
+Wed Feb 7 1962,Hamborn 07,1-0,Borussia Dortmund
+Wed Feb 7 1962,Westfalia Herne,3-2,Viktoria Koeln
+Wed Feb 7 1962,MSV Duisburg,0-0,FC Schalke 04
+Fri Feb 9 1962,1 FC Kaiserslautern,1-0,1 FC Saarbruecken
+Fri Feb 9 1962,Wormatia Worms,1-1,FK Pirmasens
+Fri Feb 9 1962,BSC Oppau,2-0,Borussia Neunkirchen
+Fri Feb 9 1962,Tura Ludwigshafen,3-0,1 Fsv Mainz 05
+Fri Feb 9 1962,Eintracht Trier,1-1,Saar 05 Saarbruecken
+Fri Feb 9 1962,Eintracht Bad Kreuznach,2-1,VFR Kaiserslautern
+Fri Feb 9 1962,Tus Koblenz,2-2,Phoenix Ludwigshafen
+Fri Feb 9 1962,Sportfreunde Saarbruecken,1-1,Ludwigshafener SC
+Sat Feb 10 1962,Eintracht Frankfurt,3-1,Karlsruher SC
+Sat Feb 10 1962,FC St Pauli,2-1,Hannover 96
+Sun Feb 11 1962,1 FC Schweinfurt 05,2-3,Vfb Stuttgart
+Sun Feb 11 1962,1 FC Nuernberg,1-0,VFR Mannheim
+Sun Feb 11 1962,Waldhof Mannheim,2-2,Spvgg Bayern Hof
+Sun Feb 11 1962,TSV 1860 Muenchen,1-1,FSV Frankfurt
+Sun Feb 11 1962,TSV Schwaben Augsburg,1-2,Bayern Muenchen
+Sun Feb 11 1962,SSV Reutlingen,2-0,Spvgg Greuther Fuerth
+Sun Feb 11 1962,Kickers Offenbach,2-1,FC Augsburg
+Sun Feb 11 1962,Atona 93,0-3,Werder Bremen
+Sun Feb 11 1962,VFR Neumuenster,2-3,VFL Osnabrueck
+Sun Feb 11 1962,Eintracht Braunschweig,2-2,Hamburger SV
+Sun Feb 11 1962,Bremer SV,2-4,Holstein Kiel
+Sun Feb 11 1962,Tus Bremerhaven 93,2-0,FC Bergedorf 85
+Sun Feb 11 1962,VFV Hildesheim,3-1,WTSV Concordia
+Sun Feb 11 1962,Eintracht Nordhorn,2-4,VFB Oldenburg
+Wed Feb 14 1962,Rot Weiss Oberhausen,1-0,Hamborn 07
+Wed Feb 14 1962,SV Sodingen,1-1,Schwarz Weiss Essen
+Wed Feb 14 1962,Bor Moenchengladbach,4-0,Preussen Munster
+Wed Feb 14 1962,Fortuna Duesseldorf,2-0,Westfalia Herne
+Wed Feb 14 1962,FC Schalke 04,2-2,TSV Marl Huels
+Wed Feb 14 1962,Borussia Dortmund,5-0,Viktoria Koeln
+Wed Feb 14 1962,MSV Duisburg,5-0,Duisburger SV
+Sat Feb 17 1962,Karlsruher SC,3-0,1 FC Nuernberg
+Sat Feb 17 1962,Vfb Stuttgart,4-0,TSV Schwaben Augsburg
+Sat Feb 17 1962,Borussia Dortmund,3-1,Fortuna Duesseldorf
+Sat Feb 17 1962,FC Schalke 04,1-2,SV Sodingen
+Sat Feb 17 1962,Hamborn 07,0-2,1 FC Koeln
+Sat Feb 17 1962,Viktoria Koeln,1-2,Rot Weiss Oberhausen
+Sat Feb 17 1962,Westfalia Herne,4-0,TSV Marl Huels
+Sat Feb 17 1962,Duisburger SV,1-4,Alemannia Aachen
+Sat Feb 17 1962,Bor Moenchengladbach,1-1,MSV Duisburg
+Sat Feb 17 1962,Schwarz Weiss Essen,2-0,Preussen Munster
+Sun Feb 18 1962,VFR Mannheim,5-0,1 FC Schweinfurt 05
+Sun Feb 18 1962,Bayern Muenchen,2-0,Eintracht Frankfurt
+Sun Feb 18 1962,FSV Frankfurt,2-0,SSV Reutlingen
+Sun Feb 18 1962,Spvgg Greuther Fuerth,0-0,Waldhof Mannheim
+Sun Feb 18 1962,FC Augsburg,2-2,TSV 1860 Muenchen
+Sat Feb 24 1962,Kickers Offenbach,1-1,Spvgg Greuther Fuerth
+Sat Feb 24 1962,SSV Reutlingen,1-2,FC Augsburg
+Sat Feb 24 1962,Werder Bremen,7-1,VFB Oldenburg
+Sun Feb 25 1962,1 FC Schweinfurt 05,0-1,Karlsruher SC
+Sun Feb 25 1962,Eintracht Frankfurt,1-2,Vfb Stuttgart
+Sun Feb 25 1962,TSV 1860 Muenchen,3-1,Spvgg Bayern Hof
+Sun Feb 25 1962,Waldhof Mannheim,1-0,FSV Frankfurt
+Sun Feb 25 1962,TSV Schwaben Augsburg,4-1,VFR Mannheim
+Sun Feb 25 1962,VFR Neumuenster,1-2,FC Bergedorf 85
+Sun Feb 25 1962,Eintracht Nordhorn,2-4,Hannover 96
+Sun Feb 25 1962,Eintracht Braunschweig,2-0,Bremer SV
+Sun Feb 25 1962,Tus Bremerhaven 93,0-3,VFL Osnabrueck
+Sun Feb 25 1962,VFV Hildesheim,3-0,Atona 93
+Mon Feb 26 1962,Borussia Neunkirchen,2-0,1 FC Kaiserslautern
+Mon Feb 26 1962,FK Pirmasens,2-1,Tura Ludwigshafen
+Mon Feb 26 1962,1 FC Saarbruecken,1-2,Wormatia Worms
+Mon Feb 26 1962,1 Fsv Mainz 05,4-2,BSC Oppau
+Mon Feb 26 1962,VFR Kaiserslautern,2-1,Tus Koblenz
+Mon Feb 26 1962,Saar 05 Saarbruecken,0-1,Eintracht Bad Kreuznach
+Mon Feb 26 1962,Phoenix Ludwigshafen,3-1,Sportfreunde Saarbruecken
+Mon Feb 26 1962,Ludwigshafener SC,3-0,Eintracht Trier
+Wed Feb 28 1962,SV Sodingen,1-0,Borussia Dortmund
+Wed Feb 28 1962,Rot Weiss Oberhausen,1-0,Bor Moenchengladbach
+Wed Feb 28 1962,1 FC Koeln,4-2,Westfalia Herne
+Wed Feb 28 1962,Hamburger SV,1-1,VFR Neumuenster
+Sat Mar 3 1962,Duisburger SV,1-2,Rot Weiss Oberhausen
+Sat Mar 3 1962,FC Bergedorf 85,1-2,Werder Bremen
+Sun Mar 4 1962,Saar 05 Saarbruecken,0-0,Wormatia Worms
+Sun Mar 4 1962,VFR Kaiserslautern,0-0,Tura Ludwigshafen
+Sun Mar 4 1962,Sportfreunde Saarbruecken,0-2,1 FC Saarbruecken
+Sun Mar 4 1962,Holstein Kiel,1-0,FC St Pauli
+Sun Mar 4 1962,Hannover 96,3-3,Eintracht Braunschweig
+Sun Mar 4 1962,Atona 93,3-2,Eintracht Nordhorn
+Sun Mar 4 1962,VFL Osnabrueck,0-1,Hamburger SV
+Sun Mar 4 1962,WTSV Concordia,0-2,Bremer SV
+Sat Mar 10 1962,Vfb Stuttgart,1-1,Karlsruher SC
+Sat Mar 10 1962,Alemannia Aachen,2-2,FC Schalke 04
+Sat Mar 10 1962,Schwarz Weiss Essen,1-1,Duisburger SV
+Sat Mar 10 1962,Preussen Munster,3-2,Viktoria Koeln
+Sat Mar 10 1962,MSV Duisburg,3-2,Fortuna Duesseldorf
+Sat Mar 10 1962,SV Sodingen,1-1,Hamborn 07
+Sat Mar 10 1962,TSV Marl Huels,3-4,Borussia Dortmund
+Sat Mar 10 1962,1 FC Koeln,3-0,Bor Moenchengladbach
+Sat Mar 10 1962,Rot Weiss Oberhausen,2-1,Westfalia Herne
+Sat Mar 10 1962,Werder Bremen,0-1,Eintracht Braunschweig
+Sat Mar 10 1962,WTSV Concordia,7-1,Atona 93
+Sun Mar 11 1962,VFR Mannheim,1-2,Kickers Offenbach
+Sun Mar 11 1962,FSV Frankfurt,2-2,1 FC Schweinfurt 05
+Sun Mar 11 1962,Spvgg Greuther Fuerth,1-0,Eintracht Frankfurt
+Sun Mar 11 1962,Bayern Muenchen,3-1,Waldhof Mannheim
+Sun Mar 11 1962,FC Augsburg,0-3,1 FC Nuernberg
+Sun Mar 11 1962,Spvgg Bayern Hof,5-1,TSV Schwaben Augsburg
+Sun Mar 11 1962,SSV Reutlingen,2-2,TSV 1860 Muenchen
+Sun Mar 11 1962,Wormatia Worms,0-0,Borussia Neunkirchen
+Sun Mar 11 1962,BSC Oppau,1-1,FK Pirmasens
+Sun Mar 11 1962,Tus Koblenz,0-0,Saar 05 Saarbruecken
+Sun Mar 11 1962,Eintracht Trier,1-0,Phoenix Ludwigshafen
+Sun Mar 11 1962,Eintracht Bad Kreuznach,4-0,Ludwigshafener SC
+Sun Mar 11 1962,Sportfreunde Saarbruecken,3-1,VFR Kaiserslautern
+Sun Mar 11 1962,1 FC Kaiserslautern,3-2,1 Fsv Mainz 05
+Sun Mar 11 1962,Tura Ludwigshafen,2-2,1 FC Saarbruecken
+Sun Mar 11 1962,Hannover 96,3-5,VFR Neumuenster
+Sun Mar 11 1962,Holstein Kiel,2-2,Tus Bremerhaven 93
+Sun Mar 11 1962,Bremer SV,0-1,VFV Hildesheim
+Sun Mar 11 1962,VFB Oldenburg,3-0,VFL Osnabrueck
+Sun Mar 11 1962,FC St Pauli,1-2,Hamburger SV
+Sun Mar 11 1962,FC Bergedorf 85,5-0,Eintracht Nordhorn
+Sat Mar 17 1962,Fortuna Duesseldorf,2-3,Rot Weiss Oberhausen
+Sat Mar 17 1962,Westfalia Herne,0-2,MSV Duisburg
+Sat Mar 17 1962,Duisburger SV,2-1,SV Sodingen
+Sat Mar 17 1962,Hamborn 07,0-1,Schwarz Weiss Essen
+Sat Mar 17 1962,FC Schalke 04,2-1,1 FC Koeln
+Sat Mar 17 1962,Bor Moenchengladbach,2-0,Alemannia Aachen
+Sat Mar 17 1962,Viktoria Koeln,1-1,TSV Marl Huels
+Sat Mar 17 1962,Borussia Dortmund,2-2,Preussen Munster
+Sat Mar 17 1962,Atona 93,1-2,FC St Pauli
+Sun Mar 18 1962,1 FC Nuernberg,1-2,Bayern Muenchen
+Sun Mar 18 1962,Eintracht Trier,2-2,Wormatia Worms
+Sun Mar 18 1962,Ludwigshafener SC,0-0,1 FC Saarbruecken
+Sun Mar 18 1962,VFR Kaiserslautern,1-0,1 Fsv Mainz 05
+Sun Mar 18 1962,Sportfreunde Saarbruecken,2-4,1 FC Kaiserslautern
+Sun Mar 18 1962,Tus Koblenz,1-3,Borussia Neunkirchen
+Sun Mar 18 1962,Saar 05 Saarbruecken,0-3,FK Pirmasens
+Sun Mar 18 1962,Eintracht Bad Kreuznach,1-2,Tura Ludwigshafen
+Sun Mar 18 1962,Phoenix Ludwigshafen,3-0,BSC Oppau
+Sun Mar 18 1962,Bremer SV,1-1,FC Bergedorf 85
+Sun Mar 18 1962,VFL Osnabrueck,3-2,Eintracht Nordhorn
+Sun Mar 18 1962,Hamburger SV,1-2,Werder Bremen
+Sun Mar 18 1962,VFB Oldenburg,3-2,Holstein Kiel
+Sun Mar 18 1962,Eintracht Braunschweig,1-1,Tus Bremerhaven 93
+Wed Mar 21 1962,Hamburger SV,1-2,Holstein Kiel
+Sat Mar 24 1962,Eintracht Frankfurt,5-2,Spvgg Bayern Hof
+Sat Mar 24 1962,1 FC Koeln,0-0,Borussia Dortmund
+Sat Mar 24 1962,TSV Marl Huels,3-2,Preussen Munster
+Sat Mar 24 1962,Schwarz Weiss Essen,5-1,Westfalia Herne
+Sat Mar 24 1962,Alemannia Aachen,1-2,Viktoria Koeln
+Sat Mar 24 1962,Hamborn 07,3-0,Duisburger SV
+Sat Mar 24 1962,SV Sodingen,0-3,Fortuna Duesseldorf
+Sat Mar 24 1962,Rot Weiss Oberhausen,0-0,MSV Duisburg
+Sat Mar 24 1962,FC Schalke 04,3-0,Bor Moenchengladbach
+Sat Mar 24 1962,FC St Pauli,5-0,Bremer SV
+Sun Mar 25 1962,1 FC Schweinfurt 05,1-0,FC Augsburg
+Sun Mar 25 1962,Waldhof Mannheim,1-3,Vfb Stuttgart
+Sun Mar 25 1962,Karlsruher SC,3-0,Bayern Muenchen
+Sun Mar 25 1962,1 FC Nuernberg,2-1,FSV Frankfurt
+Sun Mar 25 1962,TSV Schwaben Augsburg,3-2,Spvgg Greuther Fuerth
+Sun Mar 25 1962,TSV 1860 Muenchen,1-2,VFR Mannheim
+Sun Mar 25 1962,Kickers Offenbach,8-2,SSV Reutlingen
+Sun Mar 25 1962,Borussia Neunkirchen,3-0,Tura Ludwigshafen
+Sun Mar 25 1962,Phoenix Ludwigshafen,0-2,Eintracht Bad Kreuznach
+Sun Mar 25 1962,Ludwigshafener SC,3-1,Tus Koblenz
+Sun Mar 25 1962,1 FC Saarbruecken,6-0,BSC Oppau
+Sun Mar 25 1962,FK Pirmasens,2-0,1 FC Kaiserslautern
+Sun Mar 25 1962,1 Fsv Mainz 05,4-1,Wormatia Worms
+Sun Mar 25 1962,VFR Kaiserslautern,0-1,Eintracht Trier
+Sun Mar 25 1962,Saar 05 Saarbruecken,3-0,Sportfreunde Saarbruecken
+Sun Mar 25 1962,Atona 93,2-0,VFL Osnabrueck
+Sun Mar 25 1962,Holstein Kiel,3-0,VFV Hildesheim
+Sun Mar 25 1962,VFB Oldenburg,2-1,Eintracht Braunschweig
+Sun Mar 25 1962,Hamburger SV,4-0,FC Bergedorf 85
+Sun Mar 25 1962,Tus Bremerhaven 93,2-1,Hannover 96
+Sun Mar 25 1962,Eintracht Nordhorn,0-6,Werder Bremen
+Wed Mar 28 1962,FC St Pauli,1-0,WTSV Concordia
+Sat Mar 31 1962,FSV Frankfurt,2-1,FC Augsburg
+Sat Mar 31 1962,Viktoria Koeln,1-3,FC Schalke 04
+Sat Mar 31 1962,TSV Marl Huels,2-5,1 FC Koeln
+Sat Mar 31 1962,Rot Weiss Oberhausen,4-1,Schwarz Weiss Essen
+Sat Mar 31 1962,MSV Duisburg,5-1,SV Sodingen
+Sat Mar 31 1962,Westfalia Herne,3-1,Duisburger SV
+Sat Mar 31 1962,Fortuna Duesseldorf,1-1,Hamborn 07
+Sat Mar 31 1962,Preussen Munster,3-1,Alemannia Aachen
+Sat Mar 31 1962,Borussia Dortmund,3-1,Bor Moenchengladbach
+Sat Mar 31 1962,Hamburger SV,4-0,Eintracht Nordhorn
+Sat Mar 31 1962,Hannover 96,0-2,Atona 93
+Sun Apr 1 1962,Spvgg Greuther Fuerth,2-3,1 FC Schweinfurt 05
+Sun Apr 1 1962,TSV Schwaben Augsburg,1-4,Eintracht Frankfurt
+Sun Apr 1 1962,Bayern Muenchen,1-2,Vfb Stuttgart
+Sun Apr 1 1962,Spvgg Bayern Hof,3-1,1 FC Nuernberg
+Sun Apr 1 1962,VFR Mannheim,0-0,Karlsruher SC
+Sun Apr 1 1962,Kickers Offenbach,2-1,TSV 1860 Muenchen
+Sun Apr 1 1962,SSV Reutlingen,1-3,Waldhof Mannheim
+Sun Apr 1 1962,1 Fsv Mainz 05,4-5,FK Pirmasens
+Sun Apr 1 1962,VFR Kaiserslautern,3-0,Phoenix Ludwigshafen
+Sun Apr 1 1962,Saar 05 Saarbruecken,2-0,Ludwigshafener SC
+Sun Apr 1 1962,BSC Oppau,1-1,1 FC Kaiserslautern
+Sun Apr 1 1962,Borussia Neunkirchen,4-2,1 FC Saarbruecken
+Sun Apr 1 1962,Tura Ludwigshafen,0-7,Wormatia Worms
+Sun Apr 1 1962,Eintracht Trier,2-3,Sportfreunde Saarbruecken
+Sun Apr 1 1962,Eintracht Bad Kreuznach,1-2,Tus Koblenz
+Sun Apr 1 1962,FC St Pauli,7-4,VFB Oldenburg
+Sun Apr 1 1962,Holstein Kiel,6-1,Eintracht Braunschweig
+Sun Apr 1 1962,VFR Neumuenster,2-3,Bremer SV
+Sun Apr 1 1962,VFV Hildesheim,3-0,VFL Osnabrueck
+Sun Apr 1 1962,Werder Bremen,3-0,WTSV Concordia
+Wed Apr 4 1962,FC Bergedorf 85,1-3,FC St Pauli
+Wed Apr 4 1962,Bremer SV,0-0,Tus Bremerhaven 93
+Sat Apr 7 1962,Vfb Stuttgart,3-1,VFR Mannheim
+Sat Apr 7 1962,Waldhof Mannheim,0-2,TSV 1860 Muenchen
+Sat Apr 7 1962,FC Schalke 04,5-3,Borussia Dortmund
+Sat Apr 7 1962,Hamborn 07,2-2,Westfalia Herne
+Sat Apr 7 1962,1 FC Koeln,4-4,Preussen Munster
+Sat Apr 7 1962,Alemannia Aachen,4-3,TSV Marl Huels
+Sat Apr 7 1962,Duisburger SV,0-3,Fortuna Duesseldorf
+Sun Apr 8 1962,1 FC Schweinfurt 05,3-0,Eintracht Frankfurt
+Sun Apr 8 1962,1 FC Nuernberg,5-1,TSV Schwaben Augsburg
+Sun Apr 8 1962,Karlsruher SC,1-1,Kickers Offenbach
+Sun Apr 8 1962,FC Augsburg,4-5,Spvgg Bayern Hof
+Sun Apr 8 1962,FSV Frankfurt,1-1,Spvgg Greuther Fuerth
+Sun Apr 8 1962,Bayern Muenchen,3-1,SSV Reutlingen
+Sun Apr 8 1962,Tus Bremerhaven 93,2-0,VFR Neumuenster
+Sun Apr 8 1962,VFV Hildesheim,3-1,Eintracht Braunschweig
+Sun Apr 8 1962,VFL Osnabrueck,2-0,FC Bergedorf 85
+Sun Apr 8 1962,VFB Oldenburg,0-3,Hamburger SV
+Sun Apr 8 1962,WTSV Concordia,4-1,Holstein Kiel
+Sun Apr 8 1962,Werder Bremen,2-2,Hannover 96
+Sun Apr 8 1962,Atona 93,4-2,Bremer SV
+Sun Apr 8 1962,Eintracht Nordhorn,2-2,FC St Pauli
+Thu Apr 12 1962,VFV Hildesheim,3-2,VFR Neumuenster
+Sat Apr 14 1962,FC Schalke 04,4-1,Werder Bremen
+Sat Apr 14 1962,Kickers Offenbach,5-2,Waldhof Mannheim
+Sat Apr 14 1962,SSV Reutlingen,0-1,Vfb Stuttgart
+Sat Apr 14 1962,TSV 1860 Muenchen,3-3,Karlsruher SC
+Sat Apr 14 1962,VFR Mannheim,3-3,Bayern Muenchen
+Sat Apr 14 1962,SV Sodingen,1-1,Rot Weiss Oberhausen
+Sat Apr 14 1962,Bor Moenchengladbach,5-1,Viktoria Koeln
+Sat Apr 14 1962,Schwarz Weiss Essen,1-1,MSV Duisburg
+Sun Apr 15 1962,Spvgg Bayern Hof,1-0,FSV Frankfurt
+Sun Apr 15 1962,TSV Schwaben Augsburg,1-0,1 FC Schweinfurt 05
+Sun Apr 15 1962,Eintracht Frankfurt,2-1,1 FC Nuernberg
+Sun Apr 15 1962,Spvgg Greuther Fuerth,3-1,FC Augsburg
+Sun Apr 15 1962,Hamburger SV,4-1,VFV Hildesheim
+Sun Apr 15 1962,FC St Pauli,3-2,Tus Bremerhaven 93
+Sun Apr 15 1962,FC Bergedorf 85,0-3,VFB Oldenburg
+Sun Apr 15 1962,Hannover 96,1-1,WTSV Concordia
+Sun Apr 15 1962,Holstein Kiel,1-1,Werder Bremen
+Sun Apr 15 1962,Eintracht Braunschweig,4-1,Atona 93
+Sun Apr 15 1962,Bremer SV,0-1,VFL Osnabrueck
+Sun Apr 15 1962,VFR Neumuenster,1-0,Eintracht Nordhorn
+Thu Apr 19 1962,WTSV Concordia,2-3,VFR Neumuenster
+Sat Apr 21 1962,Tasmania 1900 Berlin,1-2,1 FC Nuernberg
+Sat Apr 21 1962,Eintracht Frankfurt,1-3,1 FC Koeln
+Sat Apr 21 1962,FK Pirmasens,3-6,Hamburger SV
+Sat Apr 21 1962,FC Augsburg,4-1,Vfb Stuttgart
+Sat Apr 21 1962,Spvgg Bayern Hof,5-1,Kickers Offenbach
+Mon Apr 23 1962,FC Schalke 04,3-2,Borussia Neunkirchen
+Wed Apr 25 1962,1 FC Saarbruecken,6-2,1 Fsv Mainz 05
+Wed Apr 25 1962,Ludwigshafener SC,1-0,VFR Kaiserslautern
+Wed Apr 25 1962,1 FC Kaiserslautern,1-2,Tura Ludwigshafen
+Wed Apr 25 1962,Wormatia Worms,0-0,BSC Oppau
+Wed Apr 25 1962,FK Pirmasens,3-0,Borussia Neunkirchen
+Wed Apr 25 1962,Sportfreunde Saarbruecken,1-1,Eintracht Bad Kreuznach
+Wed Apr 25 1962,Tus Koblenz,6-0,Eintracht Trier
+Wed Apr 25 1962,Phoenix Ludwigshafen,1-3,Saar 05 Saarbruecken
+Sat Apr 28 1962,1 FC Nuernberg,3-2,Borussia Neunkirchen
+Sat Apr 28 1962,Tasmania 1900 Berlin,1-1,FC Schalke 04
+Sat Apr 28 1962,1 FC Koeln,1-0,Hamburger SV
+Sat Apr 28 1962,Eintracht Frankfurt,8-1,FK Pirmasens
+Sun Apr 29 1962,Holstein Kiel,0-1,VFR Neumuenster
+Sat May 5 1962,1 FC Nuernberg,3-1,FC Schalke 04
+Sat May 5 1962,Borussia Neunkirchen,0-1,Tasmania 1900 Berlin
+Sat May 5 1962,1 FC Koeln,10-0,FK Pirmasens
+Sat May 5 1962,Hamburger SV,1-2,Eintracht Frankfurt
+Sat May 12 1962,1 FC Koeln,4-0,1 FC Nuernberg

@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Fri Aug 18 2017,CD Leganes,1-0,Cd Alaves
+Fri Aug 18 2017,Valencia CF,1-0,Ud Las Palmas
+Sat Aug 19 2017,Celta Vigo,2-3,Real Sociedad
+Sat Aug 19 2017,Girona FC,2-2,Atletico Madrid
+Sat Aug 19 2017,Sevilla FC,1-1,Espanyol Barcelona
+Sun Aug 20 2017,Athletic Bilbao,0-0,Getafe CF
+Sun Aug 20 2017,FC Barcelona,2-0,Real Betis
+Sun Aug 20 2017,Deportivo La Coruna,0-3,Real Madrid
+Mon Aug 21 2017,Levante Ud,1-0,Villarreal CF
+Mon Aug 21 2017,Malaga CF,0-1,Sd Eibar
+Fri Aug 25 2017,Real Sociedad,3-0,Villarreal CF
+Fri Aug 25 2017,Real Betis,2-1,Celta Vigo
+Sat Aug 26 2017,Cd Alaves,0-2,FC Barcelona
+Sat Aug 26 2017,Levante Ud,2-2,Deportivo La Coruna
+Sat Aug 26 2017,Girona FC,1-0,Malaga CF
+Sat Aug 26 2017,Ud Las Palmas,1-5,Atletico Madrid
+Sun Aug 27 2017,Espanyol Barcelona,0-1,CD Leganes
+Sun Aug 27 2017,Sd Eibar,0-1,Athletic Bilbao
+Sun Aug 27 2017,Getafe CF,0-1,Sevilla FC
+Sun Aug 27 2017,Real Madrid,2-2,Valencia CF
+Fri Sep 8 2017,CD Leganes,1-2,Getafe CF
+Sat Sep 9 2017,Real Madrid,1-1,Levante Ud
+Sat Sep 9 2017,Valencia CF,0-0,Atletico Madrid
+Sat Sep 9 2017,Sevilla FC,3-0,Sd Eibar
+Sat Sep 9 2017,FC Barcelona,5-0,Espanyol Barcelona
+Sun Sep 10 2017,Deportivo La Coruna,2-4,Real Sociedad
+Sun Sep 10 2017,Athletic Bilbao,2-0,Girona FC
+Sun Sep 10 2017,Celta Vigo,1-0,Cd Alaves
+Sun Sep 10 2017,Villarreal CF,3-1,Real Betis
+Mon Sep 11 2017,Malaga CF,1-3,Ud Las Palmas
+Fri Sep 15 2017,Sd Eibar,1-0,CD Leganes
+Sat Sep 16 2017,Levante Ud,1-1,Valencia CF
+Sat Sep 16 2017,Getafe CF,1-2,FC Barcelona
+Sat Sep 16 2017,Real Betis,2-1,Deportivo La Coruna
+Sat Sep 16 2017,Atletico Madrid,1-0,Malaga CF
+Sun Sep 17 2017,Cd Alaves,0-3,Villarreal CF
+Sun Sep 17 2017,Girona FC,0-1,Sevilla FC
+Sun Sep 17 2017,Ud Las Palmas,1-0,Athletic Bilbao
+Sun Sep 17 2017,Real Sociedad,1-3,Real Madrid
+Mon Sep 18 2017,Espanyol Barcelona,2-1,Celta Vigo
+Tue Sep 19 2017,Valencia CF,5-0,Malaga CF
+Tue Sep 19 2017,FC Barcelona,6-1,Sd Eibar
+Wed Sep 20 2017,Athletic Bilbao,1-2,Atletico Madrid
+Wed Sep 20 2017,CD Leganes,0-0,Girona FC
+Wed Sep 20 2017,Deportivo La Coruna,1-0,Cd Alaves
+Wed Sep 20 2017,Sevilla FC,1-0,Ud Las Palmas
+Wed Sep 20 2017,Real Madrid,0-1,Real Betis
+Thu Sep 21 2017,Villarreal CF,0-0,Espanyol Barcelona
+Thu Sep 21 2017,Celta Vigo,1-1,Getafe CF
+Thu Sep 21 2017,Levante Ud,3-0,Real Sociedad
+Sat Sep 23 2017,Atletico Madrid,2-0,Sevilla FC
+Sat Sep 23 2017,Cd Alaves,1-2,Real Madrid
+Sat Sep 23 2017,Malaga CF,3-3,Athletic Bilbao
+Sat Sep 23 2017,Girona FC,0-3,FC Barcelona
+Sun Sep 24 2017,Espanyol Barcelona,4-1,Deportivo La Coruna
+Sun Sep 24 2017,Getafe CF,4-0,Villarreal CF
+Sun Sep 24 2017,Ud Las Palmas,0-2,CD Leganes
+Sun Sep 24 2017,Sd Eibar,0-4,Celta Vigo
+Sun Sep 24 2017,Real Sociedad,2-3,Valencia CF
+Mon Sep 25 2017,Real Betis,4-0,Levante Ud
+Fri Sep 29 2017,Celta Vigo,3-3,Girona FC
+Sat Sep 30 2017,Deportivo La Coruna,2-1,Getafe CF
+Sat Sep 30 2017,Sevilla FC,2-0,Malaga CF
+Sat Sep 30 2017,Levante Ud,0-2,Cd Alaves
+Sat Sep 30 2017,CD Leganes,0-0,Atletico Madrid
+Sun Oct 1 2017,Real Sociedad,4-4,Real Betis
+Sun Oct 1 2017,FC Barcelona,3-0,Ud Las Palmas
+Sun Oct 1 2017,Valencia CF,3-2,Athletic Bilbao
+Sun Oct 1 2017,Villarreal CF,3-0,Sd Eibar
+Sun Oct 1 2017,Real Madrid,2-0,Espanyol Barcelona
+Fri Oct 13 2017,Espanyol Barcelona,0-0,Levante Ud
+Sat Oct 14 2017,Athletic Bilbao,1-0,Sevilla FC
+Sat Oct 14 2017,Getafe CF,1-2,Real Madrid
+Sat Oct 14 2017,Cd Alaves,0-2,Real Sociedad
+Sat Oct 14 2017,Atletico Madrid,1-1,FC Barcelona
+Sun Oct 15 2017,Sd Eibar,0-0,Deportivo La Coruna
+Sun Oct 15 2017,Girona FC,1-2,Villarreal CF
+Sun Oct 15 2017,Malaga CF,0-2,CD Leganes
+Sun Oct 15 2017,Real Betis,3-6,Valencia CF
+Mon Oct 16 2017,Ud Las Palmas,2-5,Celta Vigo
+Sat Oct 21 2017,Levante Ud,1-1,Getafe CF
+Sat Oct 21 2017,Real Betis,2-0,Cd Alaves
+Sat Oct 21 2017,Valencia CF,4-0,Sevilla FC
+Sat Oct 21 2017,FC Barcelona,2-0,Malaga CF
+Sun Oct 22 2017,Villarreal CF,4-0,Ud Las Palmas
+Sun Oct 22 2017,Celta Vigo,0-1,Atletico Madrid
+Sun Oct 22 2017,CD Leganes,1-0,Athletic Bilbao
+Sun Oct 22 2017,Real Madrid,3-0,Sd Eibar
+Mon Oct 23 2017,Real Sociedad,1-1,Espanyol Barcelona
+Mon Oct 23 2017,Deportivo La Coruna,1-2,Girona FC
+Sat Oct 28 2017,Cd Alaves,1-2,Valencia CF
+Sat Oct 28 2017,Atletico Madrid,1-1,Villarreal CF
+Sat Oct 28 2017,Athletic Bilbao,0-2,FC Barcelona
+Sat Oct 28 2017,Sevilla FC,2-1,CD Leganes
+Sun Oct 29 2017,Getafe CF,2-1,Real Sociedad
+Sun Oct 29 2017,Girona FC,2-1,Real Madrid
+Sun Oct 29 2017,Sd Eibar,2-2,Levante Ud
+Sun Oct 29 2017,Malaga CF,2-1,Celta Vigo
+Mon Oct 30 2017,Espanyol Barcelona,1-0,Real Betis
+Mon Oct 30 2017,Ud Las Palmas,1-3,Deportivo La Coruna
+Fri Nov 3 2017,Real Betis,2-2,Getafe CF
+Sat Nov 4 2017,Valencia CF,3-0,CD Leganes
+Sat Nov 4 2017,Deportivo La Coruna,0-1,Atletico Madrid
+Sat Nov 4 2017,Cd Alaves,1-0,Espanyol Barcelona
+Sat Nov 4 2017,FC Barcelona,2-1,Sevilla FC
+Sun Nov 5 2017,Levante Ud,1-2,Girona FC
+Sun Nov 5 2017,Celta Vigo,3-1,Athletic Bilbao
+Sun Nov 5 2017,Real Sociedad,3-1,Sd Eibar
+Sun Nov 5 2017,Villarreal CF,2-0,Malaga CF
+Sun Nov 5 2017,Real Madrid,3-0,Ud Las Palmas
+Fri Nov 17 2017,Girona FC,1-1,Real Sociedad
+Sat Nov 18 2017,Getafe CF,4-1,Cd Alaves
+Sat Nov 18 2017,CD Leganes,0-3,FC Barcelona
+Sat Nov 18 2017,Sevilla FC,2-1,Celta Vigo
+Sat Nov 18 2017,Atletico Madrid,0-0,Real Madrid
+Sun Nov 19 2017,Malaga CF,3-2,Deportivo La Coruna
+Sun Nov 19 2017,Espanyol Barcelona,0-2,Valencia CF
+Sun Nov 19 2017,Ud Las Palmas,0-2,Levante Ud
+Sun Nov 19 2017,Athletic Bilbao,1-1,Villarreal CF
+Mon Nov 20 2017,Sd Eibar,5-0,Real Betis
+Fri Nov 24 2017,Celta Vigo,1-0,CD Leganes
+Sat Nov 25 2017,Cd Alaves,1-2,Sd Eibar
+Sat Nov 25 2017,Real Madrid,3-2,Malaga CF
+Sat Nov 25 2017,Real Betis,2-2,Girona FC
+Sat Nov 25 2017,Levante Ud,0-5,Atletico Madrid
+Sun Nov 26 2017,Deportivo La Coruna,2-2,Athletic Bilbao
+Sun Nov 26 2017,Real Sociedad,2-2,Ud Las Palmas
+Sun Nov 26 2017,Villarreal CF,2-3,Sevilla FC
+Sun Nov 26 2017,Valencia CF,1-1,FC Barcelona
+Mon Nov 27 2017,Espanyol Barcelona,1-0,Getafe CF
+Fri Dec 1 2017,Malaga CF,0-0,Levante Ud
+Sat Dec 2 2017,FC Barcelona,2-2,Celta Vigo
+Sat Dec 2 2017,Atletico Madrid,2-1,Real Sociedad
+Sat Dec 2 2017,Sevilla FC,2-0,Deportivo La Coruna
+Sat Dec 2 2017,Athletic Bilbao,0-0,Real Madrid
+Sun Dec 3 2017,CD Leganes,3-1,Villarreal CF
+Sun Dec 3 2017,Getafe CF,1-0,Valencia CF
+Sun Dec 3 2017,Sd Eibar,3-1,Espanyol Barcelona
+Sun Dec 3 2017,Ud Las Palmas,1-0,Real Betis
+Mon Dec 4 2017,Girona FC,2-3,Cd Alaves
+Fri Dec 8 2017,Cd Alaves,2-0,Ud Las Palmas
+Sat Dec 9 2017,Getafe CF,0-0,Sd Eibar
+Sat Dec 9 2017,Real Madrid,5-0,Sevilla FC
+Sat Dec 9 2017,Deportivo La Coruna,1-0,CD Leganes
+Sat Dec 9 2017,Valencia CF,2-1,Celta Vigo
+Sun Dec 10 2017,Real Sociedad,0-2,Malaga CF
+Sun Dec 10 2017,Real Betis,0-1,Atletico Madrid
+Sun Dec 10 2017,Levante Ud,1-2,Athletic Bilbao
+Sun Dec 10 2017,Villarreal CF,0-2,FC Barcelona
+Mon Dec 11 2017,Espanyol Barcelona,0-1,Girona FC
+Fri Dec 15 2017,Sevilla FC,0-0,Levante Ud
+Sat Dec 16 2017,Athletic Bilbao,0-0,Real Sociedad
+Sat Dec 16 2017,Sd Eibar,2-1,Valencia CF
+Sat Dec 16 2017,Atletico Madrid,1-0,Cd Alaves
+Sun Dec 17 2017,Girona FC,1-0,Getafe CF
+Sun Dec 17 2017,Celta Vigo,0-1,Villarreal CF
+Sun Dec 17 2017,Ud Las Palmas,2-2,Espanyol Barcelona
+Sun Dec 17 2017,FC Barcelona,4-0,Deportivo La Coruna
+Mon Dec 18 2017,Malaga CF,0-2,Real Betis
+Tue Dec 19 2017,Levante Ud,0-0,CD Leganes
+Wed Dec 20 2017,Getafe CF,2-0,Ud Las Palmas
+Wed Dec 20 2017,Real Sociedad,3-1,Sevilla FC
+Thu Dec 21 2017,Sd Eibar,4-1,Girona FC
+Thu Dec 21 2017,Cd Alaves,1-0,Malaga CF
+Fri Dec 22 2017,Real Betis,0-2,Athletic Bilbao
+Fri Dec 22 2017,Espanyol Barcelona,1-0,Atletico Madrid
+Sat Dec 23 2017,Real Madrid,0-3,FC Barcelona
+Sat Dec 23 2017,Valencia CF,0-1,Villarreal CF
+Sat Dec 23 2017,Deportivo La Coruna,1-3,Celta Vigo
+Sat Jan 6 2018,Atletico Madrid,2-0,Getafe CF
+Sat Jan 6 2018,Valencia CF,2-1,Girona FC
+Sat Jan 6 2018,Ud Las Palmas,1-2,Sd Eibar
+Sat Jan 6 2018,Sevilla FC,3-5,Real Betis
+Sun Jan 7 2018,CD Leganes,1-0,Real Sociedad
+Sun Jan 7 2018,FC Barcelona,3-0,Levante Ud
+Sun Jan 7 2018,Villarreal CF,1-1,Deportivo La Coruna
+Sun Jan 7 2018,Athletic Bilbao,2-0,Cd Alaves
+Sun Jan 7 2018,Celta Vigo,2-2,Real Madrid
+Mon Jan 8 2018,Malaga CF,0-1,Espanyol Barcelona
+Fri Jan 12 2018,Getafe CF,1-0,Malaga CF
+Sat Jan 13 2018,Girona FC,6-0,Ud Las Palmas
+Sat Jan 13 2018,Real Madrid,0-1,Villarreal CF
+Sat Jan 13 2018,Sd Eibar,0-1,Atletico Madrid
+Sat Jan 13 2018,Deportivo La Coruna,1-2,Valencia CF
+Sun Jan 14 2018,Levante Ud,0-1,Celta Vigo
+Sun Jan 14 2018,Cd Alaves,1-0,Sevilla FC
+Sun Jan 14 2018,Espanyol Barcelona,1-1,Athletic Bilbao
+Sun Jan 14 2018,Real Sociedad,2-4,FC Barcelona
+Mon Jan 15 2018,Real Betis,3-2,CD Leganes
+Fri Jan 19 2018,Getafe CF,2-2,Athletic Bilbao
+Sat Jan 20 2018,Espanyol Barcelona,0-3,Sevilla FC
+Sat Jan 20 2018,Atletico Madrid,1-1,Girona FC
+Sat Jan 20 2018,Villarreal CF,2-1,Levante Ud
+Sat Jan 20 2018,Ud Las Palmas,2-1,Valencia CF
+Sun Jan 21 2018,Cd Alaves,2-2,CD Leganes
+Sun Jan 21 2018,Real Madrid,7-1,Deportivo La Coruna
+Sun Jan 21 2018,Real Sociedad,1-2,Celta Vigo
+Sun Jan 21 2018,Real Betis,0-5,FC Barcelona
+Mon Jan 22 2018,Sd Eibar,1-1,Malaga CF
+Fri Jan 26 2018,Athletic Bilbao,1-1,Sd Eibar
+Sat Jan 27 2018,Deportivo La Coruna,2-2,Levante Ud
+Sat Jan 27 2018,Valencia CF,1-4,Real Madrid
+Sat Jan 27 2018,Malaga CF,0-0,Girona FC
+Sat Jan 27 2018,Villarreal CF,4-2,Real Sociedad
+Sun Jan 28 2018,CD Leganes,3-2,Espanyol Barcelona
+Sun Jan 28 2018,Atletico Madrid,3-0,Ud Las Palmas
+Sun Jan 28 2018,Sevilla FC,1-1,Getafe CF
+Sun Jan 28 2018,FC Barcelona,2-1,Cd Alaves
+Mon Jan 29 2018,Celta Vigo,3-2,Real Betis
+Fri Feb 2 2018,Real Sociedad,5-0,Deportivo La Coruna
+Sat Feb 3 2018,Sd Eibar,5-1,Sevilla FC
+Sat Feb 3 2018,Real Betis,2-1,Villarreal CF
+Sat Feb 3 2018,Cd Alaves,2-1,Celta Vigo
+Sat Feb 3 2018,Levante Ud,2-2,Real Madrid
+Sun Feb 4 2018,Getafe CF,0-0,CD Leganes
+Sun Feb 4 2018,Espanyol Barcelona,1-1,FC Barcelona
+Sun Feb 4 2018,Girona FC,2-0,Athletic Bilbao
+Sun Feb 4 2018,Atletico Madrid,1-0,Valencia CF
+Mon Feb 5 2018,Ud Las Palmas,1-0,Malaga CF
+Fri Feb 9 2018,Athletic Bilbao,0-0,Ud Las Palmas
+Sat Feb 10 2018,Villarreal CF,1-2,Cd Alaves
+Sat Feb 10 2018,Malaga CF,0-1,Atletico Madrid
+Sat Feb 10 2018,CD Leganes,0-1,Sd Eibar
+Sat Feb 10 2018,Real Madrid,5-2,Real Sociedad
+Sun Feb 11 2018,Sevilla FC,1-0,Girona FC
+Sun Feb 11 2018,FC Barcelona,0-0,Getafe CF
+Sun Feb 11 2018,Celta Vigo,2-2,Espanyol Barcelona
+Sun Feb 11 2018,Valencia CF,3-1,Levante Ud
+Mon Feb 12 2018,Deportivo La Coruna,0-1,Real Betis
+Fri Feb 16 2018,Girona FC,3-0,CD Leganes
+Sat Feb 17 2018,Ud Las Palmas,1-2,Sevilla FC
+Sat Feb 17 2018,Sd Eibar,0-2,FC Barcelona
+Sat Feb 17 2018,Cd Alaves,1-0,Deportivo La Coruna
+Sat Feb 17 2018,Malaga CF,1-2,Valencia CF
+Sun Feb 18 2018,Real Sociedad,3-0,Levante Ud
+Sun Feb 18 2018,Atletico Madrid,2-0,Athletic Bilbao
+Sun Feb 18 2018,Espanyol Barcelona,1-1,Villarreal CF
+Sun Feb 18 2018,Real Betis,3-5,Real Madrid
+Mon Feb 19 2018,Getafe CF,3-0,Celta Vigo
+Wed Feb 21 2018,CD Leganes,1-3,Real Madrid
+Fri Feb 23 2018,Deportivo La Coruna,0-0,Espanyol Barcelona
+Sat Feb 24 2018,Celta Vigo,2-0,Sd Eibar
+Sat Feb 24 2018,Real Madrid,4-0,Cd Alaves
+Sat Feb 24 2018,CD Leganes,0-0,Ud Las Palmas
+Sat Feb 24 2018,FC Barcelona,6-1,Girona FC
+Sun Feb 25 2018,Villarreal CF,1-0,Getafe CF
+Sun Feb 25 2018,Athletic Bilbao,2-1,Malaga CF
+Sun Feb 25 2018,Valencia CF,2-1,Real Sociedad
+Sun Feb 25 2018,Sevilla FC,2-5,Atletico Madrid
+Mon Feb 26 2018,Levante Ud,0-2,Real Betis
+Tue Feb 27 2018,Espanyol Barcelona,1-0,Real Madrid
+Tue Feb 27 2018,Girona FC,1-0,Celta Vigo
+Wed Feb 28 2018,Getafe CF,3-0,Deportivo La Coruna
+Wed Feb 28 2018,Athletic Bilbao,1-1,Valencia CF
+Wed Feb 28 2018,Malaga CF,0-1,Sevilla FC
+Wed Feb 28 2018,Atletico Madrid,4-0,CD Leganes
+Wed Feb 28 2018,Sd Eibar,1-0,Villarreal CF
+Thu Mar 1 2018,Real Betis,0-0,Real Sociedad
+Thu Mar 1 2018,Ud Las Palmas,1-1,FC Barcelona
+Thu Mar 1 2018,Cd Alaves,1-0,Levante Ud
+Sat Mar 3 2018,Villarreal CF,0-2,Girona FC
+Sat Mar 3 2018,Sevilla FC,2-0,Athletic Bilbao
+Sat Mar 3 2018,CD Leganes,2-0,Malaga CF
+Sat Mar 3 2018,Deportivo La Coruna,1-1,Sd Eibar
+Sat Mar 3 2018,Real Madrid,3-1,Getafe CF
+Sun Mar 4 2018,Levante Ud,1-1,Espanyol Barcelona
+Sun Mar 4 2018,FC Barcelona,1-0,Atletico Madrid
+Sun Mar 4 2018,Real Sociedad,2-1,Cd Alaves
+Sun Mar 4 2018,Valencia CF,2-0,Real Betis
+Mon Mar 5 2018,Celta Vigo,2-1,Ud Las Palmas
+Fri Mar 9 2018,Girona FC,2-0,Deportivo La Coruna
+Sat Mar 10 2018,Sd Eibar,1-2,Real Madrid
+Sat Mar 10 2018,Sevilla FC,0-2,Valencia CF
+Sat Mar 10 2018,Getafe CF,0-1,Levante Ud
+Sat Mar 10 2018,Malaga CF,0-2,FC Barcelona
+Sun Mar 11 2018,Espanyol Barcelona,2-1,Real Sociedad
+Sun Mar 11 2018,Atletico Madrid,3-0,Celta Vigo
+Sun Mar 11 2018,Ud Las Palmas,0-2,Villarreal CF
+Sun Mar 11 2018,Athletic Bilbao,2-0,CD Leganes
+Mon Mar 12 2018,Cd Alaves,1-3,Real Betis
+Fri Mar 16 2018,Levante Ud,2-1,Sd Eibar
+Sat Mar 17 2018,Deportivo La Coruna,1-1,Ud Las Palmas
+Sat Mar 17 2018,Valencia CF,3-1,Cd Alaves
+Sat Mar 17 2018,Real Sociedad,1-2,Getafe CF
+Sat Mar 17 2018,Real Betis,3-0,Espanyol Barcelona
+Sun Mar 18 2018,CD Leganes,2-1,Sevilla FC
+Sun Mar 18 2018,FC Barcelona,2-0,Athletic Bilbao
+Sun Mar 18 2018,Villarreal CF,2-1,Atletico Madrid
+Sun Mar 18 2018,Celta Vigo,0-0,Malaga CF
+Sun Mar 18 2018,Real Madrid,6-3,Girona FC
+Sat Mar 31 2018,Girona FC,1-1,Levante Ud
+Sat Mar 31 2018,Athletic Bilbao,1-1,Celta Vigo
+Sat Mar 31 2018,Ud Las Palmas,0-3,Real Madrid
+Sat Mar 31 2018,Sevilla FC,2-2,FC Barcelona
+Sun Apr 1 2018,Espanyol Barcelona,0-0,Cd Alaves
+Sun Apr 1 2018,CD Leganes,0-1,Valencia CF
+Sun Apr 1 2018,Sd Eibar,0-0,Real Sociedad
+Sun Apr 1 2018,Malaga CF,1-0,Villarreal CF
+Sun Apr 1 2018,Atletico Madrid,1-0,Deportivo La Coruna
+Mon Apr 2 2018,Getafe CF,0-1,Real Betis
+Fri Apr 6 2018,Deportivo La Coruna,3-2,Malaga CF
+Sat Apr 7 2018,Cd Alaves,2-0,Getafe CF
+Sat Apr 7 2018,Celta Vigo,4-0,Sevilla FC
+Sat Apr 7 2018,Real Betis,2-0,Sd Eibar
+Sat Apr 7 2018,FC Barcelona,3-1,CD Leganes
+Sun Apr 8 2018,Levante Ud,2-1,Ud Las Palmas
+Sun Apr 8 2018,Real Madrid,1-1,Atletico Madrid
+Sun Apr 8 2018,Real Sociedad,5-0,Girona FC
+Sun Apr 8 2018,Valencia CF,1-0,Espanyol Barcelona
+Mon Apr 9 2018,Villarreal CF,1-3,Athletic Bilbao
+Fri Apr 13 2018,Girona FC,0-1,Real Betis
+Sat Apr 14 2018,Sevilla FC,2-2,Villarreal CF
+Sat Apr 14 2018,FC Barcelona,2-1,Valencia CF
+Sat Apr 14 2018,Ud Las Palmas,0-1,Real Sociedad
+Sat Apr 14 2018,CD Leganes,1-0,Celta Vigo
+Sat Apr 14 2018,Athletic Bilbao,2-3,Deportivo La Coruna
+Sun Apr 15 2018,Sd Eibar,0-1,Cd Alaves
+Sun Apr 15 2018,Atletico Madrid,3-0,Levante Ud
+Sun Apr 15 2018,Getafe CF,1-0,Espanyol Barcelona
+Sun Apr 15 2018,Malaga CF,1-2,Real Madrid
+Tue Apr 17 2018,Deportivo La Coruna,0-0,Sevilla FC
+Tue Apr 17 2018,Celta Vigo,2-2,FC Barcelona
+Tue Apr 17 2018,Villarreal CF,2-1,CD Leganes
+Wed Apr 18 2018,Espanyol Barcelona,0-1,Sd Eibar
+Wed Apr 18 2018,Valencia CF,1-2,Getafe CF
+Wed Apr 18 2018,Real Madrid,1-1,Athletic Bilbao
+Thu Apr 19 2018,Real Sociedad,3-0,Atletico Madrid
+Thu Apr 19 2018,Cd Alaves,1-2,Girona FC
+Thu Apr 19 2018,Levante Ud,1-0,Malaga CF
+Thu Apr 19 2018,Real Betis,1-0,Ud Las Palmas
+Fri Apr 20 2018,CD Leganes,0-0,Deportivo La Coruna
+Sat Apr 21 2018,Sd Eibar,0-1,Getafe CF
+Sat Apr 21 2018,Celta Vigo,1-1,Valencia CF
+Sun Apr 22 2018,Girona FC,0-2,Espanyol Barcelona
+Sun Apr 22 2018,Malaga CF,2-0,Real Sociedad
+Sun Apr 22 2018,Ud Las Palmas,0-4,Cd Alaves
+Sun Apr 22 2018,Atletico Madrid,0-0,Real Betis
+Mon Apr 23 2018,Athletic Bilbao,1-3,Levante Ud
+Fri Apr 27 2018,Levante Ud,2-1,Sevilla FC
+Sat Apr 28 2018,Espanyol Barcelona,1-1,Ud Las Palmas
+Sat Apr 28 2018,Real Sociedad,3-1,Athletic Bilbao
+Sat Apr 28 2018,Real Madrid,2-1,CD Leganes
+Sat Apr 28 2018,Villarreal CF,4-1,Celta Vigo
+Sun Apr 29 2018,Getafe CF,1-1,Girona FC
+Sun Apr 29 2018,Cd Alaves,0-1,Atletico Madrid
+Sun Apr 29 2018,Valencia CF,0-0,Sd Eibar
+Sun Apr 29 2018,Deportivo La Coruna,2-4,FC Barcelona
+Mon Apr 30 2018,Real Betis,2-1,Malaga CF
+Fri May 4 2018,Sevilla FC,1-0,Real Sociedad
+Sat May 5 2018,Girona FC,1-4,Sd Eibar
+Sat May 5 2018,Athletic Bilbao,2-0,Real Betis
+Sat May 5 2018,Celta Vigo,1-1,Deportivo La Coruna
+Sat May 5 2018,Villarreal CF,1-0,Valencia CF
+Sun May 6 2018,Malaga CF,0-3,Cd Alaves
+Sun May 6 2018,Atletico Madrid,0-2,Espanyol Barcelona
+Sun May 6 2018,Ud Las Palmas,0-1,Getafe CF
+Sun May 6 2018,FC Barcelona,2-2,Real Madrid
+Mon May 7 2018,CD Leganes,0-3,Levante Ud
+Wed May 9 2018,FC Barcelona,5-1,Villarreal CF
+Wed May 9 2018,Sevilla FC,3-2,Real Madrid
+Sat May 12 2018,Real Sociedad,3-2,CD Leganes
+Sat May 12 2018,Girona FC,0-1,Valencia CF
+Sat May 12 2018,Cd Alaves,3-1,Athletic Bilbao
+Sat May 12 2018,Deportivo La Coruna,2-4,Villarreal CF
+Sat May 12 2018,Getafe CF,0-1,Atletico Madrid
+Sat May 12 2018,Real Betis,2-2,Sevilla FC
+Sat May 12 2018,Sd Eibar,1-0,Ud Las Palmas
+Sat May 12 2018,Real Madrid,6-0,Celta Vigo
+Sun May 13 2018,Espanyol Barcelona,4-1,Malaga CF
+Sun May 13 2018,Levante Ud,5-4,FC Barcelona
+Sat May 19 2018,Celta Vigo,4-2,Levante Ud
+Sat May 19 2018,CD Leganes,3-2,Real Betis
+Sat May 19 2018,Sevilla FC,1-0,Cd Alaves
+Sat May 19 2018,Malaga CF,0-1,Getafe CF
+Sat May 19 2018,Ud Las Palmas,1-2,Girona FC
+Sat May 19 2018,Villarreal CF,2-2,Real Madrid
+Sun May 20 2018,Valencia CF,2-1,Deportivo La Coruna
+Sun May 20 2018,Athletic Bilbao,0-1,Espanyol Barcelona
+Sun May 20 2018,Atletico Madrid,2-2,Sd Eibar
+Sun May 20 2018,FC Barcelona,1-0,Real Sociedad

@@ -1,0 +1,91 @@
+Date,Team 1,FT,Team 2
+Sun Nov 22 1931,Real Madrid,1-1,Athletic Bilbao
+Sun Nov 22 1931,Espanyol Barcelona,3-0,Valencia CF
+Sun Nov 22 1931,Arenas De Getxo,2-1,Real Sociedad
+Sun Nov 22 1931,Cd Alaves,1-2,Racing Santander
+Sun Nov 22 1931,Real Union,1-3,FC Barcelona
+Sun Nov 29 1931,Real Sociedad,1-2,Real Madrid
+Sun Nov 29 1931,Racing Santander,2-1,Espanyol Barcelona
+Sun Nov 29 1931,FC Barcelona,2-2,Arenas De Getxo
+Sun Nov 29 1931,Athletic Bilbao,3-2,Cd Alaves
+Sun Nov 29 1931,Valencia CF,5-1,Real Union
+Sun Dec 20 1931,Valencia CF,1-1,Real Madrid
+Sun Dec 20 1931,Arenas De Getxo,3-1,Racing Santander
+Sun Dec 20 1931,Cd Alaves,1-2,Real Sociedad
+Sun Dec 20 1931,Espanyol Barcelona,0-3,FC Barcelona
+Sun Dec 20 1931,Real Union,1-5,Athletic Bilbao
+Sun Dec 27 1931,Athletic Bilbao,3-0,FC Barcelona
+Sun Dec 27 1931,Real Sociedad,7-1,Valencia CF
+Sun Dec 27 1931,Espanyol Barcelona,4-2,Arenas De Getxo
+Sun Dec 27 1931,Real Madrid,5-0,Cd Alaves
+Sun Dec 27 1931,Racing Santander,2-2,Real Union
+Sun Jan 3 1932,Valencia CF,0-0,Athletic Bilbao
+Sun Jan 3 1932,Arenas De Getxo,2-2,Real Madrid
+Sun Jan 3 1932,Real Sociedad,5-0,Real Union
+Sun Jan 3 1932,FC Barcelona,4-2,Racing Santander
+Wed Jan 6 1932,Cd Alaves,4-1,Espanyol Barcelona
+Sun Jan 10 1932,Real Madrid,3-0,Espanyol Barcelona
+Sun Jan 10 1932,Racing Santander,4-1,Valencia CF
+Sun Jan 10 1932,Athletic Bilbao,5-1,Real Sociedad
+Sun Jan 10 1932,Real Union,1-0,Arenas De Getxo
+Sun Jan 10 1932,FC Barcelona,6-0,Cd Alaves
+Sun Jan 17 1932,Real Sociedad,1-5,Racing Santander
+Sun Jan 17 1932,Arenas De Getxo,4-2,Cd Alaves
+Sun Jan 17 1932,Espanyol Barcelona,1-0,Athletic Bilbao
+Sun Jan 17 1932,Valencia CF,0-0,FC Barcelona
+Sun Jan 17 1932,Real Madrid,3-2,Real Union
+Sun Jan 24 1932,Racing Santander,0-0,Real Madrid
+Sun Jan 24 1932,Real Union,4-1,Espanyol Barcelona
+Sun Jan 24 1932,Cd Alaves,2-1,Valencia CF
+Sun Jan 24 1932,FC Barcelona,2-0,Real Sociedad
+Sun Jan 24 1932,Athletic Bilbao,4-1,Arenas De Getxo
+Sun Jan 31 1932,Real Union,0-2,Cd Alaves
+Sun Jan 31 1932,Real Madrid,2-0,FC Barcelona
+Sun Jan 31 1932,Espanyol Barcelona,2-0,Real Sociedad
+Sun Jan 31 1932,Athletic Bilbao,3-2,Racing Santander
+Sun Jan 31 1932,Valencia CF,3-2,Arenas De Getxo
+Sun Feb 7 1932,Valencia CF,3-1,Espanyol Barcelona
+Sun Feb 7 1932,Real Sociedad,7-0,Arenas De Getxo
+Sun Feb 7 1932,Racing Santander,1-1,Cd Alaves
+Sun Feb 7 1932,FC Barcelona,3-2,Real Union
+Sun Feb 7 1932,Athletic Bilbao,3-3,Real Madrid
+Sun Feb 14 1932,Arenas De Getxo,1-3,FC Barcelona
+Sun Feb 14 1932,Cd Alaves,0-1,Athletic Bilbao
+Sun Feb 14 1932,Real Madrid,1-0,Real Sociedad
+Tue Feb 16 1932,Real Union,3-2,Valencia CF
+Tue Feb 16 1932,Espanyol Barcelona,6-1,Racing Santander
+Sun Feb 21 1932,FC Barcelona,2-2,Espanyol Barcelona
+Sun Feb 21 1932,Athletic Bilbao,2-1,Real Union
+Sun Feb 21 1932,Real Sociedad,4-1,Cd Alaves
+Sun Feb 21 1932,Real Madrid,4-1,Valencia CF
+Sun Feb 21 1932,Racing Santander,1-1,Arenas De Getxo
+Sun Feb 28 1932,Cd Alaves,0-1,Real Madrid
+Sun Feb 28 1932,FC Barcelona,1-3,Athletic Bilbao
+Sun Feb 28 1932,Arenas De Getxo,3-2,Espanyol Barcelona
+Sun Feb 28 1932,Valencia CF,4-0,Real Sociedad
+Sun Feb 28 1932,Real Union,2-2,Racing Santander
+Sun Mar 6 1932,Athletic Bilbao,7-2,Valencia CF
+Sun Mar 6 1932,Espanyol Barcelona,4-0,Cd Alaves
+Sun Mar 6 1932,Real Madrid,4-0,Arenas De Getxo
+Sun Mar 6 1932,Racing Santander,3-2,FC Barcelona
+Sun Mar 6 1932,Real Union,2-0,Real Sociedad
+Sun Mar 13 1932,Espanyol Barcelona,1-2,Real Madrid
+Sun Mar 13 1932,Cd Alaves,1-3,FC Barcelona
+Sun Mar 13 1932,Real Sociedad,3-2,Athletic Bilbao
+Sun Mar 13 1932,Valencia CF,6-4,Racing Santander
+Sun Mar 13 1932,Arenas De Getxo,5-0,Real Union
+Sun Mar 20 1932,FC Barcelona,3-2,Valencia CF
+Sun Mar 20 1932,Racing Santander,2-1,Real Sociedad
+Sun Mar 20 1932,Athletic Bilbao,4-0,Espanyol Barcelona
+Sun Mar 20 1932,Real Union,1-1,Real Madrid
+Sun Mar 20 1932,Cd Alaves,3-1,Arenas De Getxo
+Sun Mar 27 1932,Real Sociedad,0-1,FC Barcelona
+Sun Mar 27 1932,Arenas De Getxo,2-1,Athletic Bilbao
+Sun Mar 27 1932,Real Madrid,0-0,Racing Santander
+Sun Mar 27 1932,Valencia CF,5-1,Cd Alaves
+Sun Mar 27 1932,Espanyol Barcelona,3-1,Real Union
+Sun Apr 3 1932,Cd Alaves,1-0,Real Union
+Sun Apr 3 1932,FC Barcelona,2-2,Real Madrid
+Sun Apr 3 1932,Racing Santander,2-0,Athletic Bilbao
+Sun Apr 3 1932,Real Sociedad,5-2,Espanyol Barcelona
+Sun Apr 3 1932,Arenas De Getxo,4-1,Valencia CF

@@ -1,0 +1,241 @@
+Date,Team 1,FT,Team 2
+Sun Sep 13 1987,Inter,0-2,Pescara Calcio
+Sun Sep 13 1987,Pisa SC,1-3,AC Milan
+Sun Sep 13 1987,Sampdoria,2-0,Empoli FC
+Sun Sep 13 1987,Juventus,1-0,Calcio Como
+Sun Sep 13 1987,Ac Cesena,0-1,Ssc Napoli
+Sun Sep 13 1987,US Avellino,2-1,Torino FC
+Sun Sep 13 1987,Ascoli Calcio,1-1,As Roma
+Sun Sep 13 1987,Acf Fiorentina,0-0,Hellas Verona
+Sun Sep 20 1987,AC Milan,0-2,Acf Fiorentina
+Sun Sep 20 1987,Hellas Verona,4-1,US Avellino
+Sun Sep 20 1987,Torino FC,4-1,Sampdoria
+Sun Sep 20 1987,As Roma,2-0,Ac Cesena
+Sun Sep 20 1987,Ssc Napoli,2-1,Ascoli Calcio
+Sun Sep 20 1987,Empoli FC,1-0,Juventus
+Sun Sep 20 1987,Calcio Como,1-2,Inter
+Sun Sep 20 1987,Pescara Calcio,2-1,Pisa SC
+Sun Sep 27 1987,Juventus,3-1,Pescara Calcio
+Sun Sep 27 1987,Ac Cesena,0-0,AC Milan
+Sun Sep 27 1987,Sampdoria,3-1,Hellas Verona
+Sun Sep 27 1987,Pisa SC,0-2,Ssc Napoli
+Sun Sep 27 1987,US Avellino,2-3,As Roma
+Sun Sep 27 1987,Ascoli Calcio,3-0,Torino FC
+Sun Sep 27 1987,Inter,2-0,Empoli FC
+Sun Sep 27 1987,Acf Fiorentina,1-1,Calcio Como
+Sun Oct 4 1987,Empoli FC,0-0,Acf Fiorentina
+Sun Oct 4 1987,Pescara Calcio,1-0,Ac Cesena
+Sun Oct 4 1987,AC Milan,2-0,Ascoli Calcio
+Sun Oct 4 1987,Hellas Verona,2-1,Juventus
+Sun Oct 4 1987,As Roma,1-0,Pisa SC
+Sun Oct 4 1987,Calcio Como,0-1,Sampdoria
+Sun Oct 4 1987,US Avellino,0-1,Ssc Napoli
+Sun Oct 4 1987,Torino FC,1-1,Inter
+Sun Oct 11 1987,Sampdoria,1-1,AC Milan
+Sun Oct 11 1987,Pisa SC,1-1,Calcio Como
+Sun Oct 11 1987,Juventus,1-0,As Roma
+Sun Oct 11 1987,Ssc Napoli,6-0,Pescara Calcio
+Sun Oct 11 1987,Acf Fiorentina,2-1,US Avellino
+Sun Oct 11 1987,Inter,1-1,Hellas Verona
+Sun Oct 11 1987,Ac Cesena,0-0,Torino FC
+Sun Oct 11 1987,Ascoli Calcio,2-0,Empoli FC
+Sun Oct 25 1987,Empoli FC,0-1,Pisa SC
+Sun Oct 25 1987,Hellas Verona,0-1,AC Milan
+Sun Oct 25 1987,Torino FC,2-1,Acf Fiorentina
+Sun Oct 25 1987,As Roma,1-1,Ssc Napoli
+Sun Oct 25 1987,Inter,2-1,Juventus
+Sun Oct 25 1987,Calcio Como,3-1,Ascoli Calcio
+Sun Oct 25 1987,US Avellino,1-1,Ac Cesena
+Sun Oct 25 1987,Pescara Calcio,0-0,Sampdoria
+Sun Nov 1 1987,Ssc Napoli,2-1,Empoli FC
+Sun Nov 1 1987,As Roma,3-1,Calcio Como
+Sun Nov 1 1987,Sampdoria,4-1,Ac Cesena
+Sun Nov 1 1987,Pisa SC,2-1,Inter
+Sun Nov 1 1987,Juventus,3-0,US Avellino
+Sun Nov 1 1987,Acf Fiorentina,4-0,Pescara Calcio
+Sun Nov 1 1987,Ascoli Calcio,1-1,Hellas Verona
+Sun Nov 1 1987,AC Milan,0-0,Torino FC
+Sun Nov 8 1987,Pisa SC,1-2,Juventus
+Sun Nov 8 1987,US Avellino,1-2,Sampdoria
+Sun Nov 8 1987,Torino FC,1-1,Hellas Verona
+Sun Nov 8 1987,Pescara Calcio,0-2,AC Milan
+Sun Nov 8 1987,Inter,2-2,Ascoli Calcio
+Sun Nov 8 1987,Empoli FC,2-1,As Roma
+Sun Nov 8 1987,Calcio Como,0-0,Ssc Napoli
+Sun Nov 8 1987,Ac Cesena,1-0,Acf Fiorentina
+Sun Nov 22 1987,Calcio Como,3-2,Empoli FC
+Sun Nov 22 1987,Acf Fiorentina,1-1,Sampdoria
+Sun Nov 22 1987,Juventus,0-2,Ac Cesena
+Sun Nov 22 1987,AC Milan,3-0,US Avellino
+Sun Nov 22 1987,Ssc Napoli,3-1,Torino FC
+Sun Nov 22 1987,As Roma,3-2,Inter
+Sun Nov 22 1987,Hellas Verona,2-0,Pescara Calcio
+Sun Nov 22 1987,Ascoli Calcio,2-2,Pisa SC
+Sun Nov 29 1987,Sampdoria,0-0,As Roma
+Sun Nov 29 1987,Juventus,1-0,Ascoli Calcio
+Sun Nov 29 1987,Pisa SC,2-1,Acf Fiorentina
+Sun Nov 29 1987,Pescara Calcio,2-2,Torino FC
+Sun Nov 29 1987,Empoli FC,0-0,AC Milan
+Sun Nov 29 1987,Ac Cesena,1-0,Hellas Verona
+Sun Nov 29 1987,US Avellino,1-1,Calcio Como
+Sun Nov 29 1987,Inter,1-1,Ssc Napoli
+Sun Dec 13 1987,AC Milan,0-2,As Roma
+Sun Dec 13 1987,Hellas Verona,0-0,Pisa SC
+Sun Dec 13 1987,Torino FC,0-1,Empoli FC
+Sun Dec 13 1987,Sampdoria,2-0,Ascoli Calcio
+Sun Dec 13 1987,Ssc Napoli,2-1,Juventus
+Sun Dec 13 1987,Acf Fiorentina,1-2,Inter
+Sun Dec 13 1987,Ac Cesena,3-0,Calcio Como
+Sun Dec 13 1987,Pescara Calcio,2-0,US Avellino
+Sun Dec 20 1987,Ssc Napoli,4-1,Hellas Verona
+Sun Dec 20 1987,Empoli FC,2-2,Ac Cesena
+Sun Dec 20 1987,As Roma,5-1,Pescara Calcio
+Sun Dec 20 1987,Pisa SC,0-0,US Avellino
+Sun Dec 20 1987,Calcio Como,0-0,Torino FC
+Sun Dec 20 1987,Ascoli Calcio,3-0,Acf Fiorentina
+Sun Dec 20 1987,Juventus,1-1,Sampdoria
+Sun Dec 20 1987,Inter,0-1,AC Milan
+Sun Jan 3 1988,Acf Fiorentina,1-0,As Roma
+Sun Jan 3 1988,Hellas Verona,1-0,Empoli FC
+Sun Jan 3 1988,Torino FC,2-2,Juventus
+Sun Jan 3 1988,Sampdoria,1-1,Inter
+Sun Jan 3 1988,AC Milan,4-1,Ssc Napoli
+Sun Jan 3 1988,Ac Cesena,1-1,Pisa SC
+Sun Jan 3 1988,US Avellino,1-1,Ascoli Calcio
+Sun Jan 3 1988,Pescara Calcio,2-0,Calcio Como
+Sun Jan 10 1988,Ssc Napoli,4-0,Acf Fiorentina
+Sun Jan 10 1988,Inter,2-0,Ac Cesena
+Sun Jan 10 1988,Pisa SC,0-1,Sampdoria
+Sun Jan 10 1988,Juventus,0-1,AC Milan
+Sun Jan 10 1988,Calcio Como,1-1,Hellas Verona
+Sun Jan 10 1988,As Roma,1-1,Torino FC
+Sun Jan 10 1988,Ascoli Calcio,2-1,Pescara Calcio
+Sun Jan 10 1988,Empoli FC,0-0,US Avellino
+Sun Jan 17 1988,Sampdoria,0-1,Ssc Napoli
+Sun Jan 17 1988,Torino FC,3-1,Pisa SC
+Sun Jan 17 1988,Pescara Calcio,0-0,Empoli FC
+Sun Jan 17 1988,AC Milan,5-0,Calcio Como
+Sun Jan 17 1988,Acf Fiorentina,1-1,Juventus
+Sun Jan 17 1988,Ac Cesena,1-0,Ascoli Calcio
+Sun Jan 17 1988,US Avellino,1-3,Inter
+Sun Jan 17 1988,Hellas Verona,0-1,As Roma
+Sun Jan 24 1988,Hellas Verona,1-0,Acf Fiorentina
+Sun Jan 24 1988,Calcio Como,1-1,Juventus
+Sun Jan 24 1988,Empoli FC,2-2,Sampdoria
+Sun Jan 24 1988,AC Milan,1-0,Pisa SC
+Sun Jan 24 1988,As Roma,3-0,Ascoli Calcio
+Sun Jan 24 1988,Torino FC,0-0,US Avellino
+Sun Jan 24 1988,Ssc Napoli,2-0,Ac Cesena
+Sun Jan 24 1988,Pescara Calcio,1-1,Inter
+Sun Jan 31 1988,Juventus,4-0,Empoli FC
+Sun Jan 31 1988,Sampdoria,1-1,Torino FC
+Sun Jan 31 1988,Pisa SC,2-0,Pescara Calcio
+Sun Jan 31 1988,Acf Fiorentina,1-1,AC Milan
+Sun Jan 31 1988,Ac Cesena,0-0,As Roma
+Sun Jan 31 1988,Ascoli Calcio,1-3,Ssc Napoli
+Sun Jan 31 1988,US Avellino,1-0,Hellas Verona
+Sun Jan 31 1988,Inter,1-0,Calcio Como
+Sun Feb 7 1988,Ssc Napoli,2-1,Pisa SC
+Sun Feb 7 1988,Hellas Verona,3-1,Sampdoria
+Sun Feb 7 1988,Torino FC,2-1,Ascoli Calcio
+Sun Feb 7 1988,Pescara Calcio,2-0,Juventus
+Sun Feb 7 1988,AC Milan,3-0,Ac Cesena
+Sun Feb 7 1988,Empoli FC,1-1,Inter
+Sun Feb 7 1988,Calcio Como,1-0,Acf Fiorentina
+Sun Feb 7 1988,As Roma,0-0,US Avellino
+Sun Feb 14 1988,Ssc Napoli,4-0,US Avellino
+Sun Feb 14 1988,Juventus,0-0,Hellas Verona
+Sun Feb 14 1988,Sampdoria,3-0,Calcio Como
+Sun Feb 14 1988,Inter,0-1,Torino FC
+Sun Feb 14 1988,Ascoli Calcio,1-1,AC Milan
+Sun Feb 14 1988,Acf Fiorentina,0-0,Empoli FC
+Sun Feb 14 1988,Pisa SC,1-1,As Roma
+Sun Feb 14 1988,Ac Cesena,0-1,Pescara Calcio
+Sun Feb 28 1988,AC Milan,2-1,Sampdoria
+Sun Feb 28 1988,Torino FC,2-2,Ac Cesena
+Sun Feb 28 1988,Pescara Calcio,0-1,Ssc Napoli
+Sun Feb 28 1988,Hellas Verona,1-1,Inter
+Sun Feb 28 1988,Empoli FC,2-0,Ascoli Calcio
+Sun Feb 28 1988,Calcio Como,0-0,Pisa SC
+Sun Feb 28 1988,US Avellino,1-1,Acf Fiorentina
+Sun Feb 28 1988,As Roma,2-0,Juventus
+Sun Mar 6 1988,AC Milan,0-0,Hellas Verona
+Sun Mar 6 1988,Pisa SC,0-0,Empoli FC
+Sun Mar 6 1988,Ssc Napoli,1-2,As Roma
+Sun Mar 6 1988,Juventus,1-0,Inter
+Sun Mar 6 1988,Acf Fiorentina,1-0,Torino FC
+Sun Mar 6 1988,Ascoli Calcio,0-0,Calcio Como
+Sun Mar 6 1988,Sampdoria,2-1,Pescara Calcio
+Sun Mar 6 1988,Ac Cesena,1-1,US Avellino
+Sun Mar 13 1988,Pescara Calcio,1-1,Acf Fiorentina
+Sun Mar 13 1988,Hellas Verona,2-1,Ascoli Calcio
+Sun Mar 13 1988,Torino FC,1-1,AC Milan
+Sun Mar 13 1988,Empoli FC,0-0,Ssc Napoli
+Sun Mar 13 1988,Calcio Como,0-1,As Roma
+Sun Mar 13 1988,US Avellino,1-0,Juventus
+Sun Mar 13 1988,Ac Cesena,2-0,Sampdoria
+Sun Mar 13 1988,Inter,2-1,Pisa SC
+Sun Mar 20 1988,AC Milan,2-0,Pescara Calcio
+Sun Mar 20 1988,Hellas Verona,0-2,Torino FC
+Sun Mar 20 1988,Sampdoria,2-0,US Avellino
+Sun Mar 20 1988,Ssc Napoli,3-0,Calcio Como
+Sun Mar 20 1988,Juventus,2-1,Pisa SC
+Sun Mar 20 1988,Acf Fiorentina,3-1,Ac Cesena
+Sun Mar 20 1988,Ascoli Calcio,2-1,Inter
+Sun Mar 20 1988,As Roma,1-0,Empoli FC
+Sun Mar 27 1988,Torino FC,0-0,Ssc Napoli
+Sun Mar 27 1988,Pisa SC,1-1,Ascoli Calcio
+Sun Mar 27 1988,Sampdoria,1-0,Acf Fiorentina
+Sun Mar 27 1988,Inter,4-2,As Roma
+Sun Mar 27 1988,Empoli FC,1-1,Calcio Como
+Sun Mar 27 1988,US Avellino,0-0,AC Milan
+Sun Mar 27 1988,Ac Cesena,0-0,Juventus
+Sun Mar 27 1988,Pescara Calcio,3-0,Hellas Verona
+Sun Apr 10 1988,AC Milan,1-0,Empoli FC
+Sun Apr 10 1988,Hellas Verona,0-1,Ac Cesena
+Sun Apr 10 1988,Torino FC,2-0,Pescara Calcio
+Sun Apr 10 1988,Ssc Napoli,1-0,Inter
+Sun Apr 10 1988,Acf Fiorentina,0-0,Pisa SC
+Sun Apr 10 1988,Calcio Como,0-0,US Avellino
+Sun Apr 10 1988,Ascoli Calcio,1-1,Juventus
+Sun Apr 10 1988,As Roma,0-2,Sampdoria
+Sun Apr 17 1988,Empoli FC,0-0,Torino FC
+Sun Apr 17 1988,As Roma,0-2,AC Milan
+Sun Apr 17 1988,Pisa SC,0-0,Hellas Verona
+Sun Apr 17 1988,Calcio Como,2-0,Ac Cesena
+Sun Apr 17 1988,US Avellino,1-1,Pescara Calcio
+Sun Apr 17 1988,Ascoli Calcio,1-1,Sampdoria
+Sun Apr 17 1988,Juventus,3-1,Ssc Napoli
+Sun Apr 17 1988,Inter,3-0,Acf Fiorentina
+Sun Apr 24 1988,AC Milan,2-0,Inter
+Sun Apr 24 1988,Hellas Verona,1-1,Ssc Napoli
+Sun Apr 24 1988,Torino FC,1-1,Calcio Como
+Sun Apr 24 1988,Pescara Calcio,0-0,As Roma
+Sun Apr 24 1988,Acf Fiorentina,1-0,Ascoli Calcio
+Sun Apr 24 1988,Ac Cesena,1-1,Empoli FC
+Sun Apr 24 1988,US Avellino,1-0,Pisa SC
+Sun Apr 24 1988,Sampdoria,2-2,Juventus
+Sun May 1 1988,Calcio Como,2-1,Pescara Calcio
+Sun May 1 1988,Ssc Napoli,2-3,AC Milan
+Sun May 1 1988,As Roma,2-1,Acf Fiorentina
+Sun May 1 1988,Pisa SC,1-0,Ac Cesena
+Sun May 1 1988,Ascoli Calcio,2-0,US Avellino
+Sun May 1 1988,Empoli FC,1-0,Hellas Verona
+Sun May 1 1988,Juventus,2-1,Torino FC
+Sun May 1 1988,Inter,3-1,Sampdoria
+Sun May 8 1988,US Avellino,1-0,Empoli FC
+Sun May 8 1988,Ac Cesena,2-2,Inter
+Sun May 8 1988,Acf Fiorentina,3-2,Ssc Napoli
+Sun May 8 1988,AC Milan,0-0,Juventus
+Sun May 8 1988,Pescara Calcio,0-0,Ascoli Calcio
+Sun May 8 1988,Sampdoria,0-0,Pisa SC
+Sun May 8 1988,Torino FC,2-0,As Roma
+Sun May 8 1988,Hellas Verona,0-1,Calcio Como
+Sun May 15 1988,Juventus,1-2,Acf Fiorentina
+Sun May 15 1988,As Roma,1-0,Hellas Verona
+Sun May 15 1988,Ssc Napoli,1-2,Sampdoria
+Sun May 15 1988,Inter,1-1,US Avellino
+Sun May 15 1988,Ascoli Calcio,0-0,Ac Cesena
+Sun May 15 1988,Empoli FC,3-2,Pescara Calcio
+Sun May 15 1988,Calcio Como,1-1,AC Milan
+Sun May 15 1988,Pisa SC,2-0,Torino FC

@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 6 2011,AC Ajaccio,0-2,Toulouse FC
+Sat Aug 6 2011,Stade Brest,2-2,Evian Thonon Gaillard
+Sat Aug 6 2011,SM Caen,1-0,Valenciennes FC
+Sat Aug 6 2011,Olympique Marseille,2-2,FC Sochaux
+Sat Aug 6 2011,Montpellier HSC,3-1,Aj Auxerre
+Sat Aug 6 2011,As Nancy,1-1,Lille OSC
+Sat Aug 6 2011,OGC Nice,1-3,Olympique Lyon
+Sat Aug 6 2011,Paris Saint Germain,0-1,FC Lorient
+Sun Aug 7 2011,Dijon FCO,1-5,Stade Rennes
+Sun Aug 7 2011,Girondins Bordeaux,1-2,As Saint Etienne
+Sat Aug 13 2011,FC Lorient,1-1,Girondins Bordeaux
+Sat Aug 13 2011,Olympique Lyon,1-1,AC Ajaccio
+Sat Aug 13 2011,Stade Rennes,1-1,Paris Saint Germain
+Sat Aug 13 2011,As Saint Etienne,1-0,As Nancy
+Sat Aug 13 2011,FC Sochaux,1-2,SM Caen
+Sat Aug 13 2011,Toulouse FC,2-0,Dijon FCO
+Sat Aug 13 2011,Valenciennes FC,0-0,Stade Brest
+Sun Aug 14 2011,Aj Auxerre,2-2,Olympique Marseille
+Sun Aug 14 2011,Evian Thonon Gaillard,1-0,OGC Nice
+Sun Aug 14 2011,Lille OSC,0-1,Montpellier HSC
+Sat Aug 20 2011,Girondins Bordeaux,1-1,Aj Auxerre
+Sat Aug 20 2011,Stade Brest,1-1,Olympique Lyon
+Sat Aug 20 2011,SM Caen,1-2,Lille OSC
+Sat Aug 20 2011,Dijon FCO,2-0,FC Lorient
+Sat Aug 20 2011,OGC Nice,1-1,Toulouse FC
+Sat Aug 20 2011,AC Ajaccio,1-1,Evian Thonon Gaillard
+Sun Aug 21 2011,Montpellier HSC,4-0,Stade Rennes
+Sun Aug 21 2011,As Nancy,1-2,FC Sochaux
+Sun Aug 21 2011,Paris Saint Germain,2-1,Valenciennes FC
+Sun Aug 21 2011,Olympique Marseille,0-0,As Saint Etienne
+Sat Aug 27 2011,Aj Auxerre,4-1,AC Ajaccio
+Sat Aug 27 2011,Evian Thonon Gaillard,0-1,Dijon FCO
+Sat Aug 27 2011,FC Lorient,2-1,As Nancy
+Sat Aug 27 2011,OGC Nice,0-0,Stade Brest
+Sat Aug 27 2011,Valenciennes FC,1-2,Girondins Bordeaux
+Sat Aug 27 2011,Olympique Lyon,2-1,Montpellier HSC
+Sun Aug 28 2011,Stade Rennes,3-2,SM Caen
+Sun Aug 28 2011,FC Sochaux,2-1,As Saint Etienne
+Sun Aug 28 2011,Toulouse FC,1-3,Paris Saint Germain
+Sun Aug 28 2011,Lille OSC,3-2,Olympique Marseille
+Sat Sep 10 2011,AC Ajaccio,3-1,Valenciennes FC
+Sat Sep 10 2011,Girondins Bordeaux,0-0,Evian Thonon Gaillard
+Sat Sep 10 2011,SM Caen,0-1,Toulouse FC
+Sat Sep 10 2011,Dijon FCO,1-2,Olympique Lyon
+Sat Sep 10 2011,As Saint Etienne,1-3,Lille OSC
+Sat Sep 10 2011,FC Sochaux,1-1,FC Lorient
+Sat Sep 10 2011,Olympique Marseille,0-1,Stade Rennes
+Sun Sep 11 2011,Montpellier HSC,1-0,OGC Nice
+Sun Sep 11 2011,As Nancy,0-0,Aj Auxerre
+Sun Sep 11 2011,Paris Saint Germain,1-0,Stade Brest
+Sat Sep 17 2011,Aj Auxerre,1-1,SM Caen
+Sat Sep 17 2011,Stade Brest,2-2,Montpellier HSC
+Sat Sep 17 2011,FC Lorient,3-0,As Saint Etienne
+Sat Sep 17 2011,OGC Nice,3-0,AC Ajaccio
+Sat Sep 17 2011,Toulouse FC,3-2,Girondins Bordeaux
+Sat Sep 17 2011,Valenciennes FC,4-0,Dijon FCO
+Sat Sep 17 2011,Lille OSC,2-2,FC Sochaux
+Sun Sep 18 2011,Evian Thonon Gaillard,2-2,Paris Saint Germain
+Sun Sep 18 2011,Stade Rennes,1-1,As Nancy
+Sun Sep 18 2011,Olympique Lyon,2-0,Olympique Marseille
+Tue Sep 20 2011,Girondins Bordeaux,1-1,Lille OSC
+Wed Sep 21 2011,AC Ajaccio,1-3,Montpellier HSC
+Wed Sep 21 2011,SM Caen,1-0,Olympique Lyon
+Wed Sep 21 2011,Dijon FCO,1-0,Stade Brest
+Wed Sep 21 2011,FC Lorient,1-1,Aj Auxerre
+Wed Sep 21 2011,Olympique Marseille,2-0,Evian Thonon Gaillard
+Wed Sep 21 2011,As Nancy,1-1,Valenciennes FC
+Wed Sep 21 2011,Paris Saint Germain,2-1,OGC Nice
+Wed Sep 21 2011,FC Sochaux,2-6,Stade Rennes
+Wed Sep 21 2011,As Saint Etienne,1-1,Toulouse FC
+Sat Sep 24 2011,Evian Thonon Gaillard,2-4,SM Caen
+Sat Sep 24 2011,Lille OSC,1-1,FC Lorient
+Sat Sep 24 2011,Olympique Lyon,3-1,Girondins Bordeaux
+Sat Sep 24 2011,OGC Nice,1-1,Dijon FCO
+Sat Sep 24 2011,Toulouse FC,1-0,As Nancy
+Sat Sep 24 2011,Valenciennes FC,1-1,Olympique Marseille
+Sat Sep 24 2011,Montpellier HSC,0-3,Paris Saint Germain
+Sun Sep 25 2011,Aj Auxerre,4-1,FC Sochaux
+Sun Sep 25 2011,Stade Brest,1-1,AC Ajaccio
+Sun Sep 25 2011,Stade Rennes,1-1,As Saint Etienne
+Sat Oct 1 2011,SM Caen,1-1,OGC Nice
+Sat Oct 1 2011,Dijon FCO,1-1,AC Ajaccio
+Sat Oct 1 2011,FC Lorient,2-0,Valenciennes FC
+Sat Oct 1 2011,As Nancy,1-1,Evian Thonon Gaillard
+Sat Oct 1 2011,As Saint Etienne,1-1,Aj Auxerre
+Sat Oct 1 2011,FC Sochaux,3-0,Toulouse FC
+Sat Oct 1 2011,Girondins Bordeaux,2-2,Montpellier HSC
+Sun Oct 2 2011,Lille OSC,2-0,Stade Rennes
+Sun Oct 2 2011,Olympique Marseille,1-1,Stade Brest
+Sun Oct 2 2011,Paris Saint Germain,2-0,Olympique Lyon
+Sat Oct 15 2011,Aj Auxerre,1-3,Lille OSC
+Sat Oct 15 2011,Stade Brest,1-1,SM Caen
+Sat Oct 15 2011,Evian Thonon Gaillard,1-2,As Saint Etienne
+Sat Oct 15 2011,Olympique Lyon,3-1,As Nancy
+Sat Oct 15 2011,Montpellier HSC,5-3,Dijon FCO
+Sat Oct 15 2011,Toulouse FC,0-0,Olympique Marseille
+Sat Oct 15 2011,OGC Nice,3-0,Girondins Bordeaux
+Sun Oct 16 2011,AC Ajaccio,1-3,Paris Saint Germain
+Sun Oct 16 2011,Valenciennes FC,3-0,FC Sochaux
+Sun Oct 16 2011,Stade Rennes,2-0,FC Lorient
+Sat Oct 22 2011,Girondins Bordeaux,1-1,Stade Brest
+Sat Oct 22 2011,SM Caen,1-3,Montpellier HSC
+Sat Oct 22 2011,Olympique Marseille,2-0,AC Ajaccio
+Sat Oct 22 2011,As Nancy,1-0,OGC Nice
+Sat Oct 22 2011,As Saint Etienne,1-0,Valenciennes FC
+Sat Oct 22 2011,FC Sochaux,1-1,Evian Thonon Gaillard
+Sat Oct 22 2011,FC Lorient,0-0,Toulouse FC
+Sun Oct 23 2011,Aj Auxerre,0-1,Stade Rennes
+Sun Oct 23 2011,Paris Saint Germain,2-0,Dijon FCO
+Sun Oct 23 2011,Lille OSC,3-1,Olympique Lyon
+Sat Oct 29 2011,AC Ajaccio,0-2,Girondins Bordeaux
+Sat Oct 29 2011,Stade Brest,3-1,FC Lorient
+Sat Oct 29 2011,Dijon FCO,2-3,Olympique Marseille
+Sat Oct 29 2011,Evian Thonon Gaillard,3-1,Aj Auxerre
+Sat Oct 29 2011,Montpellier HSC,2-0,As Nancy
+Sat Oct 29 2011,Paris Saint Germain,4-2,SM Caen
+Sat Oct 29 2011,Olympique Lyon,2-0,As Saint Etienne
+Sun Oct 30 2011,OGC Nice,1-1,FC Sochaux
+Sun Oct 30 2011,Toulouse FC,1-0,Stade Rennes
+Sun Oct 30 2011,Valenciennes FC,0-0,Lille OSC
+Sat Nov 5 2011,Lille OSC,1-1,Evian Thonon Gaillard
+Sun Nov 6 2011,SM Caen,3-0,Dijon FCO
+Sun Nov 6 2011,FC Lorient,2-0,AC Ajaccio
+Sun Nov 6 2011,Olympique Marseille,2-0,OGC Nice
+Sun Nov 6 2011,As Nancy,2-1,Stade Brest
+Sun Nov 6 2011,Stade Rennes,1-1,Valenciennes FC
+Sun Nov 6 2011,As Saint Etienne,1-1,Montpellier HSC
+Sun Nov 6 2011,FC Sochaux,2-1,Olympique Lyon
+Sun Nov 6 2011,Aj Auxerre,2-0,Toulouse FC
+Sun Nov 6 2011,Girondins Bordeaux,1-1,Paris Saint Germain
+Fri Nov 18 2011,Olympique Lyon,1-2,Stade Rennes
+Fri Nov 18 2011,Toulouse FC,0-0,Lille OSC
+Sat Nov 19 2011,AC Ajaccio,2-2,SM Caen
+Sat Nov 19 2011,Dijon FCO,2-0,Girondins Bordeaux
+Sat Nov 19 2011,Evian Thonon Gaillard,2-1,FC Lorient
+Sat Nov 19 2011,OGC Nice,0-2,As Saint Etienne
+Sat Nov 19 2011,Montpellier HSC,1-0,Olympique Marseille
+Sun Nov 20 2011,Stade Brest,2-0,FC Sochaux
+Sun Nov 20 2011,Valenciennes FC,2-1,Aj Auxerre
+Sun Nov 20 2011,Paris Saint Germain,0-1,As Nancy
+Sat Nov 26 2011,Girondins Bordeaux,2-0,SM Caen
+Sat Nov 26 2011,As Nancy,1-2,Dijon FCO
+Sat Nov 26 2011,Stade Rennes,3-2,Evian Thonon Gaillard
+Sat Nov 26 2011,As Saint Etienne,3-1,AC Ajaccio
+Sat Nov 26 2011,FC Sochaux,1-3,Montpellier HSC
+Sat Nov 26 2011,Toulouse FC,2-0,Valenciennes FC
+Sat Nov 26 2011,Lille OSC,2-0,Stade Brest
+Sun Nov 27 2011,Aj Auxerre,0-3,Olympique Lyon
+Sun Nov 27 2011,FC Lorient,1-0,OGC Nice
+Sun Nov 27 2011,Olympique Marseille,3-0,Paris Saint Germain
+Fri Dec 2 2011,SM Caen,1-2,Olympique Marseille
+Sat Dec 3 2011,AC Ajaccio,2-3,Lille OSC
+Sat Dec 3 2011,Stade Brest,2-2,As Saint Etienne
+Sat Dec 3 2011,Dijon FCO,0-0,FC Sochaux
+Sat Dec 3 2011,Evian Thonon Gaillard,2-1,Valenciennes FC
+Sat Dec 3 2011,Montpellier HSC,4-0,FC Lorient
+Sat Dec 3 2011,OGC Nice,2-0,Stade Rennes
+Sun Dec 4 2011,Girondins Bordeaux,2-0,As Nancy
+Sun Dec 4 2011,Paris Saint Germain,3-2,Aj Auxerre
+Sun Dec 4 2011,Olympique Lyon,3-2,Toulouse FC
+Sat Dec 10 2011,As Nancy,2-2,AC Ajaccio
+Sat Dec 10 2011,Stade Rennes,1-1,Stade Brest
+Sat Dec 10 2011,As Saint Etienne,2-0,SM Caen
+Sat Dec 10 2011,FC Sochaux,0-1,Paris Saint Germain
+Sat Dec 10 2011,Toulouse FC,2-1,Evian Thonon Gaillard
+Sat Dec 10 2011,Valenciennes FC,1-0,Montpellier HSC
+Sat Dec 10 2011,Olympique Marseille,0-0,Girondins Bordeaux
+Sun Dec 11 2011,Aj Auxerre,2-1,OGC Nice
+Sun Dec 11 2011,Lille OSC,2-0,Dijon FCO
+Sun Dec 11 2011,FC Lorient,0-1,Olympique Lyon
+Sat Dec 17 2011,Stade Brest,1-0,Aj Auxerre
+Sat Dec 17 2011,SM Caen,1-2,As Nancy
+Sat Dec 17 2011,Dijon FCO,1-2,As Saint Etienne
+Sat Dec 17 2011,Olympique Marseille,2-1,FC Lorient
+Sat Dec 17 2011,Montpellier HSC,1-1,Toulouse FC
+Sat Dec 17 2011,OGC Nice,2-0,Valenciennes FC
+Sat Dec 17 2011,Olympique Lyon,2-1,Evian Thonon Gaillard
+Sun Dec 18 2011,AC Ajaccio,1-0,Stade Rennes
+Sun Dec 18 2011,Girondins Bordeaux,1-0,FC Sochaux
+Sun Dec 18 2011,Paris Saint Germain,0-0,Lille OSC
+Tue Dec 20 2011,As Nancy,1-3,Olympique Marseille
+Wed Dec 21 2011,Aj Auxerre,2-2,Dijon FCO
+Wed Dec 21 2011,Evian Thonon Gaillard,4-2,Montpellier HSC
+Wed Dec 21 2011,Lille OSC,4-4,OGC Nice
+Wed Dec 21 2011,FC Lorient,0-0,SM Caen
+Wed Dec 21 2011,Stade Rennes,1-0,Girondins Bordeaux
+Wed Dec 21 2011,FC Sochaux,0-2,AC Ajaccio
+Wed Dec 21 2011,Toulouse FC,0-0,Stade Brest
+Wed Dec 21 2011,Valenciennes FC,1-0,Olympique Lyon
+Wed Dec 21 2011,As Saint Etienne,0-1,Paris Saint Germain
+Sat Jan 14 2012,AC Ajaccio,2-1,Aj Auxerre
+Sat Jan 14 2012,Girondins Bordeaux,2-1,Valenciennes FC
+Sat Jan 14 2012,Stade Brest,1-0,OGC Nice
+Sat Jan 14 2012,SM Caen,0-2,Stade Rennes
+Sat Jan 14 2012,Dijon FCO,3-1,Evian Thonon Gaillard
+Sat Jan 14 2012,Montpellier HSC,1-0,Olympique Lyon
+Sat Jan 14 2012,As Nancy,2-2,FC Lorient
+Sat Jan 14 2012,Paris Saint Germain,3-1,Toulouse FC
+Sat Jan 14 2012,As Saint Etienne,1-0,FC Sochaux
+Sun Jan 15 2012,Olympique Marseille,2-0,Lille OSC
+Sat Jan 28 2012,Aj Auxerre,1-3,As Nancy
+Sat Jan 28 2012,Stade Brest,0-1,Paris Saint Germain
+Sat Jan 28 2012,FC Lorient,1-1,FC Sochaux
+Sat Jan 28 2012,Olympique Lyon,3-1,Dijon FCO
+Sat Jan 28 2012,OGC Nice,0-1,Montpellier HSC
+Sat Jan 28 2012,Toulouse FC,1-0,SM Caen
+Sat Jan 28 2012,Lille OSC,3-0,As Saint Etienne
+Sun Jan 29 2012,Evian Thonon Gaillard,0-0,Girondins Bordeaux
+Sun Jan 29 2012,Valenciennes FC,1-2,AC Ajaccio
+Sun Jan 29 2012,Stade Rennes,1-2,Olympique Marseille
+Sat Feb 4 2012,Dijon FCO,1-2,Valenciennes FC
+Sat Feb 4 2012,As Nancy,0-0,Stade Rennes
+Sat Feb 4 2012,AC Ajaccio,1-1,OGC Nice
+Sat Feb 4 2012,Montpellier HSC,1-0,Stade Brest
+Sat Feb 4 2012,Paris Saint Germain,3-1,Evian Thonon Gaillard
+Sat Feb 4 2012,Girondins Bordeaux,2-0,Toulouse FC
+Sun Feb 5 2012,Olympique Marseille,2-2,Olympique Lyon
+Sat Feb 11 2012,Aj Auxerre,1-1,FC Lorient
+Sat Feb 11 2012,Olympique Lyon,1-2,SM Caen
+Sat Feb 11 2012,Montpellier HSC,3-0,AC Ajaccio
+Sat Feb 11 2012,Valenciennes FC,1-0,As Nancy
+Sat Feb 11 2012,Stade Rennes,1-0,FC Sochaux
+Sat Feb 11 2012,Stade Brest,1-1,Dijon FCO
+Sun Feb 12 2012,Lille OSC,4-5,Girondins Bordeaux
+Sun Feb 12 2012,OGC Nice,0-0,Paris Saint Germain
+Sun Feb 12 2012,Toulouse FC,0-1,As Saint Etienne
+Sat Feb 18 2012,AC Ajaccio,0-0,Stade Brest
+Sat Feb 18 2012,SM Caen,2-2,Evian Thonon Gaillard
+Sat Feb 18 2012,Dijon FCO,3-0,OGC Nice
+Sat Feb 18 2012,FC Lorient,0-1,Lille OSC
+Sat Feb 18 2012,As Nancy,0-3,Toulouse FC
+Sat Feb 18 2012,FC Sochaux,0-0,Aj Auxerre
+Sat Feb 18 2012,Olympique Marseille,1-1,Valenciennes FC
+Sun Feb 19 2012,Girondins Bordeaux,1-0,Olympique Lyon
+Sun Feb 19 2012,As Saint Etienne,4-0,Stade Rennes
+Sun Feb 19 2012,Paris Saint Germain,2-2,Montpellier HSC
+Wed Feb 22 2012,SM Caen,2-1,Aj Auxerre
+Wed Feb 22 2012,As Saint Etienne,4-2,FC Lorient
+Wed Feb 22 2012,FC Sochaux,0-1,Lille OSC
+Sat Feb 25 2012,AC Ajaccio,2-1,Dijon FCO
+Sat Feb 25 2012,Aj Auxerre,0-0,As Saint Etienne
+Sat Feb 25 2012,Evian Thonon Gaillard,2-0,As Nancy
+Sat Feb 25 2012,Montpellier HSC,1-0,Girondins Bordeaux
+Sat Feb 25 2012,OGC Nice,1-0,SM Caen
+Sat Feb 25 2012,Valenciennes FC,2-0,FC Lorient
+Sat Feb 25 2012,Olympique Lyon,4-4,Paris Saint Germain
+Sun Feb 26 2012,Stade Brest,1-0,Olympique Marseille
+Sun Feb 26 2012,Toulouse FC,2-0,FC Sochaux
+Sun Feb 26 2012,Stade Rennes,1-1,Lille OSC
+Sat Mar 3 2012,Dijon FCO,1-1,Montpellier HSC
+Sat Mar 3 2012,Lille OSC,2-2,Aj Auxerre
+Sat Mar 3 2012,Olympique Marseille,0-1,Toulouse FC
+Sat Mar 3 2012,As Nancy,2-0,Olympique Lyon
+Sat Mar 3 2012,As Saint Etienne,0-2,Evian Thonon Gaillard
+Sat Mar 3 2012,FC Sochaux,1-1,Valenciennes FC
+Sat Mar 3 2012,Girondins Bordeaux,1-2,OGC Nice
+Sun Mar 4 2012,SM Caen,0-0,Stade Brest
+Sun Mar 4 2012,Paris Saint Germain,4-1,AC Ajaccio
+Sun Mar 4 2012,FC Lorient,0-2,Stade Rennes
+Tue Mar 6 2012,Evian Thonon Gaillard,2-0,Olympique Marseille
+Fri Mar 9 2012,AC Ajaccio,1-0,Olympique Marseille
+Sat Mar 10 2012,Stade Brest,0-2,Girondins Bordeaux
+Sat Mar 10 2012,Evian Thonon Gaillard,2-3,FC Sochaux
+Sat Mar 10 2012,OGC Nice,1-1,As Nancy
+Sat Mar 10 2012,Toulouse FC,1-1,FC Lorient
+Sat Mar 10 2012,Valenciennes FC,1-2,As Saint Etienne
+Sat Mar 10 2012,Olympique Lyon,2-1,Lille OSC
+Sun Mar 11 2012,Dijon FCO,1-2,Paris Saint Germain
+Sun Mar 11 2012,Stade Rennes,1-1,Aj Auxerre
+Sun Mar 11 2012,Montpellier HSC,3-0,SM Caen
+Sat Mar 17 2012,Aj Auxerre,0-2,Evian Thonon Gaillard
+Sat Mar 17 2012,Girondins Bordeaux,1-1,AC Ajaccio
+Sat Mar 17 2012,SM Caen,2-2,Paris Saint Germain
+Sat Mar 17 2012,FC Lorient,2-1,Stade Brest
+Sat Mar 17 2012,Olympique Marseille,1-2,Dijon FCO
+Sat Mar 17 2012,As Nancy,1-0,Montpellier HSC
+Sat Mar 17 2012,As Saint Etienne,0-1,Olympique Lyon
+Sun Mar 18 2012,Stade Rennes,0-1,Toulouse FC
+Sun Mar 18 2012,FC Sochaux,2-0,OGC Nice
+Sun Mar 18 2012,Lille OSC,4-0,Valenciennes FC
+Sat Mar 24 2012,AC Ajaccio,1-1,FC Lorient
+Sat Mar 24 2012,Stade Brest,0-1,As Nancy
+Sat Mar 24 2012,Evian Thonon Gaillard,0-3,Lille OSC
+Sat Mar 24 2012,Olympique Lyon,2-1,FC Sochaux
+Sat Mar 24 2012,Montpellier HSC,1-0,As Saint Etienne
+Sat Mar 24 2012,OGC Nice,1-1,Olympique Marseille
+Sat Mar 24 2012,Valenciennes FC,1-0,Stade Rennes
+Sun Mar 25 2012,Dijon FCO,2-0,SM Caen
+Sun Mar 25 2012,Toulouse FC,1-0,Aj Auxerre
+Sun Mar 25 2012,Paris Saint Germain,1-1,Girondins Bordeaux
+Sat Mar 31 2012,Aj Auxerre,2-0,Valenciennes FC
+Sat Mar 31 2012,Girondins Bordeaux,1-1,Dijon FCO
+Sat Mar 31 2012,FC Lorient,0-1,Evian Thonon Gaillard
+Sat Mar 31 2012,As Saint Etienne,2-3,OGC Nice
+Sat Mar 31 2012,FC Sochaux,2-1,Stade Brest
+Sat Mar 31 2012,As Nancy,2-1,Paris Saint Germain
+Sun Apr 1 2012,SM Caen,0-0,AC Ajaccio
+Sun Apr 1 2012,Lille OSC,2-1,Toulouse FC
+Sun Apr 1 2012,Stade Rennes,1-1,Olympique Lyon
+Sat Apr 7 2012,AC Ajaccio,1-1,As Saint Etienne
+Sat Apr 7 2012,Stade Brest,3-1,Lille OSC
+Sat Apr 7 2012,Dijon FCO,0-2,As Nancy
+Sat Apr 7 2012,Evian Thonon Gaillard,1-3,Stade Rennes
+Sat Apr 7 2012,Montpellier HSC,2-1,FC Sochaux
+Sat Apr 7 2012,Valenciennes FC,2-0,Toulouse FC
+Sat Apr 7 2012,Olympique Lyon,2-1,Aj Auxerre
+Sun Apr 8 2012,SM Caen,1-0,Girondins Bordeaux
+Sun Apr 8 2012,OGC Nice,2-0,FC Lorient
+Sun Apr 8 2012,Paris Saint Germain,2-1,Olympique Marseille
+Wed Apr 11 2012,Olympique Marseille,1-3,Montpellier HSC
+Sun Apr 15 2012,Lille OSC,4-1,AC Ajaccio
+Sun Apr 15 2012,FC Lorient,2-1,Montpellier HSC
+Sun Apr 15 2012,As Nancy,2-2,Girondins Bordeaux
+Sun Apr 15 2012,As Saint Etienne,2-1,Stade Brest
+Sun Apr 15 2012,FC Sochaux,1-0,Dijon FCO
+Sun Apr 15 2012,Valenciennes FC,0-3,Evian Thonon Gaillard
+Sun Apr 15 2012,Aj Auxerre,1-1,Paris Saint Germain
+Mon Apr 16 2012,Stade Rennes,3-1,OGC Nice
+Wed Apr 18 2012,Olympique Marseille,1-1,SM Caen
+Wed Apr 18 2012,Toulouse FC,3-0,Olympique Lyon
+Sat Apr 21 2012,Stade Brest,0-1,Stade Rennes
+Sat Apr 21 2012,SM Caen,1-4,As Saint Etienne
+Sat Apr 21 2012,Dijon FCO,0-2,Lille OSC
+Sat Apr 21 2012,Evian Thonon Gaillard,2-1,Toulouse FC
+Sat Apr 21 2012,Montpellier HSC,1-0,Valenciennes FC
+Sat Apr 21 2012,OGC Nice,1-0,Aj Auxerre
+Sat Apr 21 2012,Girondins Bordeaux,2-1,Olympique Marseille
+Sun Apr 22 2012,AC Ajaccio,0-0,As Nancy
+Sun Apr 22 2012,Paris Saint Germain,6-1,FC Sochaux
+Sun Apr 22 2012,Olympique Lyon,3-2,FC Lorient
+Fri Apr 27 2012,Toulouse FC,0-1,Montpellier HSC
+Fri Apr 27 2012,FC Lorient,2-1,Olympique Marseille
+Sun Apr 29 2012,Aj Auxerre,4-0,Stade Brest
+Sun Apr 29 2012,As Nancy,1-1,SM Caen
+Sun Apr 29 2012,Stade Rennes,3-1,AC Ajaccio
+Sun Apr 29 2012,As Saint Etienne,1-0,Dijon FCO
+Sun Apr 29 2012,FC Sochaux,0-3,Girondins Bordeaux
+Sun Apr 29 2012,Valenciennes FC,2-0,OGC Nice
+Sun Apr 29 2012,Lille OSC,2-1,Paris Saint Germain
+Tue May 1 2012,Montpellier HSC,2-2,Evian Thonon Gaillard
+Wed May 2 2012,AC Ajaccio,2-1,FC Sochaux
+Wed May 2 2012,Girondins Bordeaux,2-0,Stade Rennes
+Wed May 2 2012,Stade Brest,0-0,Toulouse FC
+Wed May 2 2012,SM Caen,1-0,FC Lorient
+Wed May 2 2012,Olympique Lyon,4-1,Valenciennes FC
+Wed May 2 2012,Olympique Marseille,1-0,As Nancy
+Wed May 2 2012,OGC Nice,0-1,Lille OSC
+Wed May 2 2012,Paris Saint Germain,2-0,As Saint Etienne
+Thu May 3 2012,Dijon FCO,0-2,Aj Auxerre
+Sun May 6 2012,Evian Thonon Gaillard,2-1,AC Ajaccio
+Sun May 6 2012,Olympique Lyon,1-1,Stade Brest
+Sun May 6 2012,Valenciennes FC,3-4,Paris Saint Germain
+Mon May 7 2012,Aj Auxerre,2-4,Girondins Bordeaux
+Mon May 7 2012,Lille OSC,3-0,SM Caen
+Mon May 7 2012,FC Lorient,0-0,Dijon FCO
+Mon May 7 2012,As Saint Etienne,0-0,Olympique Marseille
+Mon May 7 2012,FC Sochaux,1-0,As Nancy
+Mon May 7 2012,Toulouse FC,0-0,OGC Nice
+Mon May 7 2012,Stade Rennes,0-2,Montpellier HSC
+Thu May 10 2012,Evian Thonon Gaillard,1-3,Olympique Lyon
+Sun May 13 2012,AC Ajaccio,1-1,Olympique Lyon
+Sun May 13 2012,Girondins Bordeaux,1-0,FC Lorient
+Sun May 13 2012,Stade Brest,1-0,Valenciennes FC
+Sun May 13 2012,SM Caen,1-3,FC Sochaux
+Sun May 13 2012,Dijon FCO,1-1,Toulouse FC
+Sun May 13 2012,Olympique Marseille,3-0,Aj Auxerre
+Sun May 13 2012,Montpellier HSC,1-0,Lille OSC
+Sun May 13 2012,As Nancy,3-2,As Saint Etienne
+Sun May 13 2012,OGC Nice,1-1,Evian Thonon Gaillard
+Sun May 13 2012,Paris Saint Germain,3-0,Stade Rennes
+Sun May 20 2012,Aj Auxerre,1-2,Montpellier HSC
+Sun May 20 2012,Evian Thonon Gaillard,0-1,Stade Brest
+Sun May 20 2012,Lille OSC,4-1,As Nancy
+Sun May 20 2012,FC Lorient,1-2,Paris Saint Germain
+Sun May 20 2012,Olympique Lyon,3-4,OGC Nice
+Sun May 20 2012,Stade Rennes,5-0,Dijon FCO
+Sun May 20 2012,As Saint Etienne,2-3,Girondins Bordeaux
+Sun May 20 2012,FC Sochaux,1-0,Olympique Marseille
+Sun May 20 2012,Toulouse FC,0-2,AC Ajaccio
+Sun May 20 2012,Valenciennes FC,3-1,SM Caen

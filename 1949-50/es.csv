@@ -1,0 +1,183 @@
+Date,Team 1,FT,Team 2
+Sun Sep 4 1949,Malaga CF,1-2,Valencia CF
+Sun Sep 4 1949,Real Madrid,4-2,Sevilla FC
+Sun Sep 4 1949,Espanyol Barcelona,2-2,Real Sociedad
+Sun Sep 4 1949,Celta Vigo,3-1,Real Oviedo
+Sun Sep 4 1949,Gimnastic,3-2,Deportivo La Coruna
+Sun Sep 4 1949,Athletic Bilbao,3-1,FC Barcelona
+Sun Sep 11 1949,Sevilla FC,2-3,Real Valladolid
+Sun Sep 11 1949,Atletico Madrid,3-2,Malaga CF
+Sun Sep 11 1949,Valencia CF,1-2,Celta Vigo
+Sun Sep 11 1949,Real Oviedo,2-3,Espanyol Barcelona
+Sun Sep 11 1949,Real Sociedad,2-3,Athletic Bilbao
+Sun Sep 11 1949,Deportivo La Coruna,3-0,Real Madrid
+Sun Sep 11 1949,FC Barcelona,10-1,Gimnastic
+Sun Sep 18 1949,Real Madrid,6-1,FC Barcelona
+Sun Sep 18 1949,Espanyol Barcelona,6-4,Valencia CF
+Sun Sep 18 1949,Celta Vigo,2-0,Atletico Madrid
+Sun Sep 18 1949,Gimnastic,2-1,Real Sociedad
+Sun Sep 18 1949,Athletic Bilbao,3-0,Real Oviedo
+Sun Sep 18 1949,Sevilla FC,2-2,Deportivo La Coruna
+Sun Sep 18 1949,Real Valladolid,3-3,Malaga CF
+Sun Sep 25 1949,Real Sociedad,1-1,Real Madrid
+Sun Sep 25 1949,Malaga CF,2-0,Celta Vigo
+Sun Sep 25 1949,Real Oviedo,1-1,Gimnastic
+Sun Sep 25 1949,Deportivo La Coruna,1-0,Real Valladolid
+Sun Sep 25 1949,Valencia CF,4-1,Athletic Bilbao
+Sun Sep 25 1949,FC Barcelona,7-0,Sevilla FC
+Sun Sep 25 1949,Atletico Madrid,5-2,Espanyol Barcelona
+Sun Oct 2 1949,Espanyol Barcelona,2-2,Malaga CF
+Sun Oct 2 1949,Deportivo La Coruna,3-0,FC Barcelona
+Sun Oct 2 1949,Gimnastic,1-1,Valencia CF
+Sun Oct 2 1949,Athletic Bilbao,1-0,Atletico Madrid
+Sun Oct 2 1949,Sevilla FC,3-4,Real Sociedad
+Sun Oct 2 1949,Real Valladolid,4-1,Celta Vigo
+Sun Oct 2 1949,Real Madrid,6-2,Real Oviedo
+Sun Oct 9 1949,Atletico Madrid,5-1,Gimnastic
+Sun Oct 9 1949,Real Sociedad,0-1,Deportivo La Coruna
+Sun Oct 9 1949,FC Barcelona,2-2,Real Valladolid
+Sun Oct 9 1949,Real Oviedo,1-0,Sevilla FC
+Sun Oct 9 1949,Celta Vigo,4-1,Espanyol Barcelona
+Sun Oct 9 1949,Valencia CF,2-2,Real Madrid
+Sun Oct 9 1949,Malaga CF,2-3,Athletic Bilbao
+Sun Oct 16 1949,Deportivo La Coruna,2-2,Real Oviedo
+Sun Oct 16 1949,Real Madrid,4-2,Atletico Madrid
+Sun Oct 16 1949,Gimnastic,5-1,Malaga CF
+Sun Oct 16 1949,Real Valladolid,4-0,Espanyol Barcelona
+Sun Oct 16 1949,Athletic Bilbao,4-1,Celta Vigo
+Sun Oct 16 1949,Sevilla FC,2-2,Valencia CF
+Sun Oct 16 1949,FC Barcelona,2-0,Real Sociedad
+Sun Oct 23 1949,Valencia CF,3-0,Deportivo La Coruna
+Sun Oct 23 1949,Celta Vigo,10-1,Gimnastic
+Sun Oct 23 1949,Real Sociedad,1-1,Real Valladolid
+Sun Oct 23 1949,Atletico Madrid,0-1,Sevilla FC
+Sun Oct 23 1949,Espanyol Barcelona,4-1,Athletic Bilbao
+Sun Oct 23 1949,Real Oviedo,0-2,FC Barcelona
+Sun Oct 23 1949,Malaga CF,1-3,Real Madrid
+Sun Oct 30 1949,Gimnastic,3-1,Espanyol Barcelona
+Sun Oct 30 1949,FC Barcelona,2-0,Valencia CF
+Sun Oct 30 1949,Deportivo La Coruna,3-1,Atletico Madrid
+Sun Oct 30 1949,Real Madrid,1-0,Celta Vigo
+Sun Oct 30 1949,Real Sociedad,7-0,Real Oviedo
+Sun Oct 30 1949,Sevilla FC,3-1,Malaga CF
+Sun Oct 30 1949,Real Valladolid,6-2,Athletic Bilbao
+Sun Nov 6 1949,Real Oviedo,2-2,Real Valladolid
+Sun Nov 6 1949,Valencia CF,0-0,Real Sociedad
+Sun Nov 6 1949,Malaga CF,2-1,Deportivo La Coruna
+Sun Nov 6 1949,Atletico Madrid,4-1,FC Barcelona
+Sun Nov 6 1949,Espanyol Barcelona,1-1,Real Madrid
+Sun Nov 6 1949,Celta Vigo,4-2,Sevilla FC
+Sun Nov 6 1949,Athletic Bilbao,7-0,Gimnastic
+Sun Nov 13 1949,Real Madrid,2-2,Athletic Bilbao
+Sun Nov 13 1949,Sevilla FC,2-1,Espanyol Barcelona
+Sun Nov 13 1949,Real Oviedo,2-0,Valencia CF
+Sun Nov 13 1949,Real Sociedad,4-1,Atletico Madrid
+Sun Nov 13 1949,Deportivo La Coruna,1-1,Celta Vigo
+Sun Nov 13 1949,FC Barcelona,4-0,Malaga CF
+Sun Nov 13 1949,Real Valladolid,3-0,Gimnastic
+Sun Nov 20 1949,Gimnastic,0-3,Real Madrid
+Sun Nov 20 1949,Espanyol Barcelona,3-2,Deportivo La Coruna
+Sun Nov 20 1949,Atletico Madrid,4-1,Real Oviedo
+Sun Nov 20 1949,Malaga CF,5-2,Real Sociedad
+Sun Nov 20 1949,Athletic Bilbao,2-3,Sevilla FC
+Sun Nov 20 1949,Celta Vigo,6-4,FC Barcelona
+Sun Nov 20 1949,Real Valladolid,3-2,Valencia CF
+Sun Nov 27 1949,Real Valladolid,0-1,Atletico Madrid
+Sun Dec 4 1949,Sevilla FC,9-0,Gimnastic
+Sun Dec 4 1949,Deportivo La Coruna,1-1,Athletic Bilbao
+Sun Dec 4 1949,FC Barcelona,1-2,Espanyol Barcelona
+Sun Dec 4 1949,Valencia CF,6-0,Atletico Madrid
+Sun Dec 4 1949,Real Sociedad,4-0,Celta Vigo
+Sun Dec 4 1949,Real Madrid,1-1,Real Valladolid
+Sun Dec 4 1949,Real Oviedo,2-2,Malaga CF
+Sun Dec 11 1949,FC Barcelona,5-0,Athletic Bilbao
+Sun Dec 11 1949,Real Sociedad,5-0,Espanyol Barcelona
+Sun Dec 11 1949,Real Oviedo,1-2,Celta Vigo
+Sun Dec 11 1949,Atletico Madrid,2-1,Real Valladolid
+Sun Dec 11 1949,Valencia CF,4-0,Malaga CF
+Sun Dec 11 1949,Deportivo La Coruna,1-0,Gimnastic
+Sun Dec 11 1949,Sevilla FC,2-1,Real Madrid
+Sun Dec 18 1949,Athletic Bilbao,5-2,Real Sociedad
+Sun Dec 18 1949,Espanyol Barcelona,1-1,Real Oviedo
+Sun Dec 18 1949,Real Valladolid,1-1,Sevilla FC
+Sun Dec 18 1949,Malaga CF,3-3,Atletico Madrid
+Sun Dec 18 1949,Celta Vigo,3-2,Valencia CF
+Sun Dec 18 1949,Gimnastic,1-4,FC Barcelona
+Sun Dec 18 1949,Real Madrid,1-1,Deportivo La Coruna
+Sun Jan 15 1950,FC Barcelona,2-3,Real Madrid
+Sun Jan 15 1950,Real Oviedo,3-1,Athletic Bilbao
+Sun Jan 15 1950,Valencia CF,4-0,Espanyol Barcelona
+Sun Jan 15 1950,Deportivo La Coruna,3-0,Sevilla FC
+Sun Jan 15 1950,Atletico Madrid,4-2,Celta Vigo
+Sun Jan 15 1950,Malaga CF,2-1,Real Valladolid
+Sun Jan 15 1950,Real Sociedad,3-1,Gimnastic
+Sun Jan 22 1950,Sevilla FC,5-2,FC Barcelona
+Sun Jan 22 1950,Gimnastic,3-2,Real Oviedo
+Sun Jan 22 1950,Celta Vigo,1-0,Malaga CF
+Sun Jan 22 1950,Real Valladolid,1-1,Deportivo La Coruna
+Sun Jan 22 1950,Athletic Bilbao,3-6,Valencia CF
+Sun Jan 22 1950,Real Madrid,2-2,Real Sociedad
+Sun Jan 22 1950,Espanyol Barcelona,0-2,Atletico Madrid
+Sun Jan 29 1950,Valencia CF,5-1,Gimnastic
+Sun Jan 29 1950,Real Oviedo,2-0,Real Madrid
+Sun Jan 29 1950,Atletico Madrid,6-6,Athletic Bilbao
+Sun Jan 29 1950,Malaga CF,4-1,Espanyol Barcelona
+Sun Jan 29 1950,Real Sociedad,5-0,Sevilla FC
+Sun Jan 29 1950,Celta Vigo,4-0,Real Valladolid
+Sun Jan 29 1950,FC Barcelona,2-0,Deportivo La Coruna
+Sun Feb 5 1950,Athletic Bilbao,2-1,Malaga CF
+Sun Feb 5 1950,Sevilla FC,7-0,Real Oviedo
+Sun Feb 5 1950,Espanyol Barcelona,3-0,Celta Vigo
+Sun Feb 5 1950,Deportivo La Coruna,4-4,Real Sociedad
+Sun Feb 5 1950,Gimnastic,0-4,Atletico Madrid
+Sun Feb 5 1950,Real Valladolid,2-1,FC Barcelona
+Sun Feb 5 1950,Real Madrid,2-2,Valencia CF
+Sun Feb 12 1950,Celta Vigo,1-1,Athletic Bilbao
+Sun Feb 12 1950,Malaga CF,5-1,Gimnastic
+Sun Feb 12 1950,Real Oviedo,0-2,Deportivo La Coruna
+Sun Feb 12 1950,Espanyol Barcelona,0-4,Real Valladolid
+Sun Feb 12 1950,Real Sociedad,2-4,FC Barcelona
+Sun Feb 12 1950,Atletico Madrid,5-1,Real Madrid
+Sun Feb 12 1950,Valencia CF,5-0,Sevilla FC
+Sun Feb 19 1950,FC Barcelona,5-0,Real Oviedo
+Sun Feb 19 1950,Real Madrid,2-1,Malaga CF
+Sun Feb 19 1950,Gimnastic,1-5,Celta Vigo
+Sun Feb 19 1950,Real Valladolid,0-0,Real Sociedad
+Sun Feb 19 1950,Sevilla FC,0-1,Atletico Madrid
+Sun Feb 19 1950,Deportivo La Coruna,5-1,Valencia CF
+Sun Feb 19 1950,Athletic Bilbao,4-0,Espanyol Barcelona
+Sun Feb 26 1950,Valencia CF,4-0,FC Barcelona
+Sun Feb 26 1950,Malaga CF,2-0,Sevilla FC
+Sun Feb 26 1950,Real Oviedo,0-0,Real Sociedad
+Sun Feb 26 1950,Athletic Bilbao,3-2,Real Valladolid
+Sun Feb 26 1950,Atletico Madrid,6-1,Deportivo La Coruna
+Sun Feb 26 1950,Espanyol Barcelona,3-1,Gimnastic
+Sun Feb 26 1950,Celta Vigo,5-2,Real Madrid
+Sun Mar 5 1950,Sevilla FC,4-3,Celta Vigo
+Sun Mar 5 1950,FC Barcelona,1-0,Atletico Madrid
+Sun Mar 5 1950,Real Valladolid,2-2,Real Oviedo
+Sun Mar 5 1950,Real Madrid,1-1,Espanyol Barcelona
+Sun Mar 5 1950,Gimnastic,5-3,Athletic Bilbao
+Sun Mar 5 1950,Real Sociedad,1-1,Valencia CF
+Sun Mar 5 1950,Deportivo La Coruna,1-0,Malaga CF
+Sun Mar 12 1950,Athletic Bilbao,6-2,Real Madrid
+Sun Mar 12 1950,Malaga CF,0-0,FC Barcelona
+Sun Mar 12 1950,Espanyol Barcelona,2-1,Sevilla FC
+Sun Mar 12 1950,Atletico Madrid,5-3,Real Sociedad
+Sun Mar 12 1950,Valencia CF,2-1,Real Oviedo
+Sun Mar 12 1950,Gimnastic,4-1,Real Valladolid
+Sun Mar 12 1950,Celta Vigo,2-3,Deportivo La Coruna
+Sun Apr 16 1950,Sevilla FC,5-3,Athletic Bilbao
+Sun Apr 16 1950,Real Madrid,5-1,Gimnastic
+Sun Apr 16 1950,Real Sociedad,1-0,Malaga CF
+Sun Apr 16 1950,Valencia CF,4-1,Real Valladolid
+Sun Apr 16 1950,FC Barcelona,2-1,Celta Vigo
+Sun Apr 16 1950,Deportivo La Coruna,2-1,Espanyol Barcelona
+Sun Apr 16 1950,Real Oviedo,1-3,Atletico Madrid
+Sun Apr 23 1950,Athletic Bilbao,2-2,Deportivo La Coruna
+Sun Apr 23 1950,Real Valladolid,1-4,Real Madrid
+Sun Apr 23 1950,Espanyol Barcelona,2-2,FC Barcelona
+Sun Apr 23 1950,Atletico Madrid,4-4,Valencia CF
+Sun Apr 23 1950,Gimnastic,2-4,Sevilla FC
+Sun Apr 23 1950,Celta Vigo,0-1,Real Sociedad
+Sun Apr 23 1950,Malaga CF,2-1,Real Oviedo

@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Wed Aug 12 1970,AC Ajaccio,5-0,As Nancy
+Wed Aug 12 1970,CS Sedan,6-2,Angers Sco
+Wed Aug 12 1970,Nimes Olympique,3-1,Angouleme CFc
+Wed Aug 12 1970,OGC Nice,2-0,Olympique Lyon
+Wed Aug 12 1970,As Saint Etienne,2-3,FC Nantes
+Wed Aug 12 1970,Red Star Olympique,3-2,Valenciennes FC
+Wed Aug 12 1970,RC Strasbourg,1-2,Olympique Marseille
+Wed Aug 12 1970,Girondins Bordeaux,1-2,FC Sochaux
+Wed Aug 12 1970,FC Metz,1-0,SC Bastia
+Wed Aug 12 1970,Stade Rennes,0-0,Stade Reims
+Wed Aug 19 1970,FC Nantes,2-0,CS Sedan
+Wed Aug 19 1970,FC Sochaux,2-1,Red Star Olympique
+Wed Aug 19 1970,Olympique Marseille,1-0,AC Ajaccio
+Wed Aug 19 1970,Stade Reims,3-0,Girondins Bordeaux
+Wed Aug 19 1970,FC Metz,0-0,OGC Nice
+Wed Aug 19 1970,Valenciennes FC,3-1,Nimes Olympique
+Wed Aug 19 1970,SC Bastia,2-2,Stade Rennes
+Wed Aug 19 1970,Angers Sco,2-1,As Nancy
+Wed Aug 19 1970,Angouleme CFc,1-1,As Saint Etienne
+Wed Aug 19 1970,Olympique Lyon,2-2,RC Strasbourg
+Sat Aug 22 1970,As Nancy,1-2,FC Nantes
+Sat Aug 22 1970,OGC Nice,2-0,SC Bastia
+Sat Aug 22 1970,Nimes Olympique,3-0,Olympique Marseille
+Sat Aug 22 1970,As Saint Etienne,1-0,FC Sochaux
+Sat Aug 22 1970,Stade Rennes,0-0,FC Metz
+Sat Aug 22 1970,AC Ajaccio,0-0,Angers Sco
+Sat Aug 22 1970,CS Sedan,1-1,Angouleme CFc
+Sat Aug 22 1970,RC Strasbourg,0-0,Valenciennes FC
+Sat Aug 22 1970,Girondins Bordeaux,3-0,Olympique Lyon
+Sun Aug 23 1970,Red Star Olympique,2-1,Stade Reims
+Wed Aug 26 1970,FC Nantes,1-0,Angers Sco
+Wed Aug 26 1970,Olympique Marseille,5-0,CS Sedan
+Wed Aug 26 1970,Stade Reims,1-1,OGC Nice
+Wed Aug 26 1970,FC Sochaux,1-0,RC Strasbourg
+Wed Aug 26 1970,FC Metz,1-0,Girondins Bordeaux
+Wed Aug 26 1970,Stade Rennes,2-0,Nimes Olympique
+Wed Aug 26 1970,Valenciennes FC,0-1,As Saint Etienne
+Wed Aug 26 1970,SC Bastia,2-1,Red Star Olympique
+Wed Aug 26 1970,Angouleme CFc,1-0,As Nancy
+Wed Aug 26 1970,Olympique Lyon,3-0,AC Ajaccio
+Sat Aug 29 1970,AC Ajaccio,2-1,FC Nantes
+Sat Aug 29 1970,OGC Nice,0-1,Stade Rennes
+Sat Aug 29 1970,Angers Sco,1-4,Angouleme CFc
+Sat Aug 29 1970,As Nancy,2-1,FC Sochaux
+Sat Aug 29 1970,Nimes Olympique,1-1,Olympique Lyon
+Sat Aug 29 1970,CS Sedan,0-1,Valenciennes FC
+Sat Aug 29 1970,Girondins Bordeaux,2-0,SC Bastia
+Sat Aug 29 1970,RC Strasbourg,2-0,Stade Reims
+Sun Aug 30 1970,Red Star Olympique,0-0,FC Metz
+Wed Sep 9 1970,Stade Rennes,3-0,Girondins Bordeaux
+Wed Sep 9 1970,Olympique Marseille,5-1,Angers Sco
+Wed Sep 9 1970,Angouleme CFc,1-0,FC Nantes
+Wed Sep 9 1970,FC Sochaux,3-1,CS Sedan
+Wed Sep 9 1970,FC Metz,2-2,As Saint Etienne
+Wed Sep 9 1970,OGC Nice,2-3,AC Ajaccio
+Wed Sep 9 1970,Stade Reims,1-1,Nimes Olympique
+Wed Sep 9 1970,Valenciennes FC,1-1,As Nancy
+Wed Sep 9 1970,Olympique Lyon,2-1,Red Star Olympique
+Wed Sep 9 1970,SC Bastia,3-1,RC Strasbourg
+Sat Sep 19 1970,FC Nantes,1-1,FC Sochaux
+Sat Sep 19 1970,As Nancy,2-0,Olympique Marseille
+Sat Sep 19 1970,Nimes Olympique,2-0,SC Bastia
+Sat Sep 19 1970,As Saint Etienne,3-1,Stade Reims
+Sat Sep 19 1970,RC Strasbourg,2-1,FC Metz
+Sat Sep 19 1970,Angers Sco,5-3,Valenciennes FC
+Sat Sep 19 1970,CS Sedan,3-1,Olympique Lyon
+Sun Sep 20 1970,AC Ajaccio,0-0,Angouleme CFc
+Sun Sep 20 1970,Girondins Bordeaux,3-1,OGC Nice
+Sun Sep 20 1970,Red Star Olympique,1-5,Stade Rennes
+Wed Sep 23 1970,Stade Rennes,2-0,RC Strasbourg
+Wed Sep 23 1970,Valenciennes FC,1-2,FC Nantes
+Wed Sep 23 1970,Olympique Marseille,5-0,Angouleme CFc
+Wed Sep 23 1970,SC Bastia,4-2,As Saint Etienne
+Wed Sep 23 1970,Olympique Lyon,2-1,As Nancy
+Wed Sep 23 1970,Stade Reims,3-1,Angers Sco
+Wed Sep 23 1970,OGC Nice,1-1,Red Star Olympique
+Wed Sep 23 1970,Girondins Bordeaux,1-2,CS Sedan
+Sat Sep 26 1970,FC Sochaux,5-1,AC Ajaccio
+Sat Sep 26 1970,FC Metz,4-2,Nimes Olympique
+Sat Oct 3 1970,Angers Sco,2-1,Stade Rennes
+Sat Oct 3 1970,FC Nantes,1-3,Olympique Marseille
+Sat Oct 3 1970,Nimes Olympique,4-3,FC Sochaux
+Sat Oct 3 1970,As Nancy,1-1,FC Metz
+Sat Oct 3 1970,Angouleme CFc,1-0,Valenciennes FC
+Sat Oct 3 1970,As Saint Etienne,1-0,Olympique Lyon
+Sat Oct 3 1970,CS Sedan,1-1,Stade Reims
+Sat Oct 3 1970,RC Strasbourg,2-2,OGC Nice
+Sat Oct 3 1970,Red Star Olympique,3-1,Girondins Bordeaux
+Sun Oct 4 1970,AC Ajaccio,6-1,SC Bastia
+Sat Oct 10 1970,FC Sochaux,3-0,Angouleme CFc
+Sat Oct 10 1970,FC Metz,1-0,CS Sedan
+Sat Oct 10 1970,Olympique Lyon,2-0,FC Nantes
+Sat Oct 10 1970,Stade Reims,1-0,AC Ajaccio
+Sat Oct 10 1970,OGC Nice,3-0,Nimes Olympique
+Sat Oct 10 1970,Girondins Bordeaux,1-4,RC Strasbourg
+Sun Oct 11 1970,Valenciennes FC,1-2,Olympique Marseille
+Sun Oct 11 1970,Stade Rennes,0-3,As Saint Etienne
+Sun Oct 11 1970,Red Star Olympique,0-5,Angers Sco
+Sun Oct 11 1970,SC Bastia,0-2,As Nancy
+Sun Oct 18 1970,As Saint Etienne,2-1,Olympique Marseille
+Sat Oct 24 1970,FC Metz,2-1,Angers Sco
+Sat Oct 24 1970,Stade Rennes,5-1,As Nancy
+Sat Oct 24 1970,FC Sochaux,0-1,Valenciennes FC
+Sat Oct 24 1970,Stade Reims,2-0,Angouleme CFc
+Sat Oct 24 1970,RC Strasbourg,0-2,Nimes Olympique
+Sun Oct 25 1970,OGC Nice,2-0,CS Sedan
+Sun Oct 25 1970,Red Star Olympique,3-0,AC Ajaccio
+Sun Oct 25 1970,SC Bastia,1-0,FC Nantes
+Sun Oct 25 1970,Girondins Bordeaux,1-2,As Saint Etienne
+Sun Oct 25 1970,Olympique Lyon,1-4,Olympique Marseille
+Wed Oct 28 1970,As Saint Etienne,2-1,RC Strasbourg
+Wed Oct 28 1970,FC Nantes,3-0,Stade Reims
+Fri Oct 30 1970,As Nancy,0-0,OGC Nice
+Sat Oct 31 1970,Angouleme CFc,2-2,SC Bastia
+Sat Oct 31 1970,Nimes Olympique,1-2,Red Star Olympique
+Sun Nov 1 1970,Olympique Marseille,2-1,FC Metz
+Sun Nov 1 1970,CS Sedan,0-1,Stade Rennes
+Sun Nov 1 1970,AC Ajaccio,2-0,Girondins Bordeaux
+Sun Nov 1 1970,Valenciennes FC,1-2,Olympique Lyon
+Thu Nov 12 1970,Nimes Olympique,1-1,Girondins Bordeaux
+Thu Nov 12 1970,Angers Sco,3-2,Olympique Lyon
+Thu Nov 12 1970,CS Sedan,5-1,SC Bastia
+Sat Nov 14 1970,Olympique Marseille,2-2,FC Sochaux
+Sat Nov 14 1970,As Saint Etienne,2-1,OGC Nice
+Sat Nov 14 1970,FC Nantes,0-0,FC Metz
+Sat Nov 14 1970,RC Strasbourg,2-1,Red Star Olympique
+Sat Nov 14 1970,As Nancy,2-2,Stade Reims
+Wed Nov 18 1970,Angouleme CFc,1-0,Stade Rennes
+Wed Nov 18 1970,AC Ajaccio,1-0,Valenciennes FC
+Wed Nov 18 1970,SC Bastia,0-3,Olympique Marseille
+Wed Nov 18 1970,Red Star Olympique,1-1,As Saint Etienne
+Wed Nov 18 1970,Stade Rennes,4-0,FC Nantes
+Wed Nov 18 1970,FC Metz,1-0,Angouleme CFc
+Wed Nov 18 1970,OGC Nice,2-1,Angers Sco
+Wed Nov 18 1970,Nimes Olympique,4-0,CS Sedan
+Wed Nov 18 1970,Stade Reims,2-0,Valenciennes FC
+Wed Nov 18 1970,Olympique Lyon,2-0,FC Sochaux
+Wed Nov 18 1970,RC Strasbourg,3-0,AC Ajaccio
+Wed Nov 18 1970,Girondins Bordeaux,2-3,As Nancy
+Sun Nov 22 1970,Olympique Marseille,1-0,Stade Reims
+Sun Nov 22 1970,As Saint Etienne,0-0,Nimes Olympique
+Sun Nov 22 1970,AC Ajaccio,3-0,Stade Rennes
+Sun Nov 22 1970,FC Sochaux,5-1,FC Metz
+Sun Nov 22 1970,FC Nantes,3-1,OGC Nice
+Sun Nov 22 1970,Angouleme CFc,2-2,Olympique Lyon
+Sun Nov 22 1970,As Nancy,0-0,Red Star Olympique
+Sun Nov 22 1970,CS Sedan,1-0,RC Strasbourg
+Sun Nov 22 1970,Angers Sco,0-3,Girondins Bordeaux
+Sun Nov 22 1970,Valenciennes FC,2-0,SC Bastia
+Sun Nov 29 1970,Stade Rennes,2-2,Olympique Marseille
+Sun Nov 29 1970,As Saint Etienne,3-1,Angers Sco
+Sun Nov 29 1970,FC Metz,2-2,Valenciennes FC
+Sun Nov 29 1970,Nimes Olympique,4-0,AC Ajaccio
+Sun Nov 29 1970,Girondins Bordeaux,2-3,FC Nantes
+Sun Nov 29 1970,SC Bastia,2-2,FC Sochaux
+Sun Nov 29 1970,OGC Nice,3-1,Angouleme CFc
+Sun Nov 29 1970,Stade Reims,1-0,Olympique Lyon
+Sun Nov 29 1970,Red Star Olympique,4-2,CS Sedan
+Sun Nov 29 1970,RC Strasbourg,0-2,As Nancy
+Sat Dec 5 1970,As Nancy,2-0,Nimes Olympique
+Sat Dec 5 1970,Angouleme CFc,1-1,Girondins Bordeaux
+Sun Dec 6 1970,Olympique Marseille,4-0,OGC Nice
+Sun Dec 6 1970,CS Sedan,3-1,As Saint Etienne
+Sun Dec 6 1970,Valenciennes FC,0-0,Stade Rennes
+Sun Dec 6 1970,FC Sochaux,2-1,Stade Reims
+Sun Dec 6 1970,FC Nantes,1-1,Red Star Olympique
+Sun Dec 6 1970,AC Ajaccio,2-0,FC Metz
+Sun Dec 6 1970,Olympique Lyon,1-1,SC Bastia
+Sun Dec 6 1970,Angers Sco,1-3,RC Strasbourg
+Wed Dec 9 1970,Angers Sco,1-0,FC Sochaux
+Sun Dec 13 1970,Girondins Bordeaux,3-1,Olympique Marseille
+Sun Dec 13 1970,As Saint Etienne,4-1,As Nancy
+Sun Dec 13 1970,Stade Rennes,4-0,FC Sochaux
+Sun Dec 13 1970,FC Metz,6-1,Olympique Lyon
+Sun Dec 13 1970,RC Strasbourg,2-2,FC Nantes
+Sun Dec 13 1970,SC Bastia,0-6,Stade Reims
+Sun Dec 13 1970,OGC Nice,4-2,Valenciennes FC
+Sun Dec 13 1970,Nimes Olympique,0-1,Angers Sco
+Sun Dec 13 1970,CS Sedan,3-1,AC Ajaccio
+Sun Dec 13 1970,Red Star Olympique,0-0,Angouleme CFc
+Sun Dec 20 1970,Angouleme CFc,0-1,RC Strasbourg
+Sun Dec 20 1970,Olympique Marseille,1-1,Red Star Olympique
+Sun Dec 20 1970,AC Ajaccio,1-1,As Saint Etienne
+Sun Dec 20 1970,Olympique Lyon,3-2,Stade Rennes
+Sun Dec 20 1970,FC Nantes,5-1,Nimes Olympique
+Sun Dec 20 1970,Stade Reims,1-1,FC Metz
+Sun Dec 20 1970,FC Sochaux,1-0,OGC Nice
+Sun Dec 20 1970,As Nancy,1-0,CS Sedan
+Sun Dec 20 1970,Angers Sco,3-0,SC Bastia
+Sun Dec 20 1970,Valenciennes FC,1-1,Girondins Bordeaux
+Sat Jan 30 1971,As Nancy,0-1,Angers Sco
+Sun Jan 31 1971,AC Ajaccio,1-2,Olympique Marseille
+Sun Jan 31 1971,As Saint Etienne,1-0,Angouleme CFc
+Sun Jan 31 1971,Stade Rennes,3-2,SC Bastia
+Sun Jan 31 1971,OGC Nice,0-1,FC Metz
+Sun Jan 31 1971,CS Sedan,0-0,FC Nantes
+Sun Jan 31 1971,Red Star Olympique,0-0,FC Sochaux
+Sun Jan 31 1971,Girondins Bordeaux,3-1,Stade Reims
+Sun Jan 31 1971,Nimes Olympique,4-1,Valenciennes FC
+Sun Jan 31 1971,RC Strasbourg,0-1,Olympique Lyon
+Sun Feb 14 1971,Olympique Marseille,2-2,Nimes Olympique
+Sun Feb 14 1971,FC Sochaux,1-1,As Saint Etienne
+Sun Feb 14 1971,FC Metz,2-1,Stade Rennes
+Sun Feb 14 1971,FC Nantes,7-0,As Nancy
+Sun Feb 14 1971,Olympique Lyon,2-2,Girondins Bordeaux
+Sun Feb 14 1971,Angers Sco,1-1,AC Ajaccio
+Sun Feb 14 1971,SC Bastia,3-1,OGC Nice
+Sun Feb 14 1971,Angouleme CFc,1-0,CS Sedan
+Sun Feb 14 1971,Valenciennes FC,3-0,RC Strasbourg
+Sat Feb 20 1971,OGC Nice,2-0,Stade Reims
+Sun Feb 21 1971,CS Sedan,1-2,Olympique Marseille
+Sun Feb 21 1971,As Saint Etienne,4-0,Valenciennes FC
+Sun Feb 21 1971,Angers Sco,0-1,FC Nantes
+Sun Feb 21 1971,Girondins Bordeaux,1-1,FC Metz
+Sun Feb 21 1971,Nimes Olympique,3-2,Stade Rennes
+Sun Feb 21 1971,RC Strasbourg,2-1,FC Sochaux
+Sun Feb 21 1971,AC Ajaccio,0-0,Olympique Lyon
+Sun Feb 21 1971,Red Star Olympique,1-1,SC Bastia
+Sun Feb 21 1971,As Nancy,2-1,Angouleme CFc
+Sat Mar 6 1971,Olympique Marseille,2-2,As Saint Etienne
+Sat Mar 6 1971,FC Nantes,3-0,AC Ajaccio
+Sat Mar 6 1971,FC Metz,2-2,Red Star Olympique
+Sat Mar 6 1971,Stade Reims,1-0,RC Strasbourg
+Sun Mar 7 1971,Stade Rennes,1-3,OGC Nice
+Sun Mar 7 1971,FC Sochaux,1-0,As Nancy
+Sun Mar 7 1971,Olympique Lyon,0-1,Nimes Olympique
+Sun Mar 7 1971,Angouleme CFc,1-1,Angers Sco
+Wed Mar 10 1971,Angers Sco,2-1,Olympique Marseille
+Wed Mar 10 1971,Girondins Bordeaux,0-1,Stade Rennes
+Wed Mar 10 1971,Nimes Olympique,1-1,Stade Reims
+Wed Mar 10 1971,Red Star Olympique,1-3,Olympique Lyon
+Thu Mar 11 1971,FC Nantes,0-0,Angouleme CFc
+Fri Mar 12 1971,As Nancy,0-2,Valenciennes FC
+Fri Mar 19 1971,Valenciennes FC,1-3,Angers Sco
+Sat Mar 20 1971,Olympique Marseille,3-0,As Nancy
+Sat Mar 20 1971,Stade Reims,2-2,As Saint Etienne
+Sat Mar 20 1971,FC Sochaux,2-0,FC Nantes
+Sat Mar 20 1971,SC Bastia,2-2,Nimes Olympique
+Sat Mar 20 1971,Olympique Lyon,0-0,CS Sedan
+Sat Mar 20 1971,OGC Nice,0-1,Girondins Bordeaux
+Sat Mar 20 1971,Angouleme CFc,2-0,AC Ajaccio
+Sun Mar 21 1971,FC Metz,2-1,RC Strasbourg
+Sun Mar 21 1971,Stade Rennes,3-0,Red Star Olympique
+Wed Mar 24 1971,Angouleme CFc,0-0,Olympique Marseille
+Wed Mar 24 1971,As Saint Etienne,6-0,SC Bastia
+Wed Mar 24 1971,FC Nantes,2-0,Valenciennes FC
+Wed Mar 24 1971,RC Strasbourg,3-4,Stade Rennes
+Wed Mar 24 1971,AC Ajaccio,1-0,FC Sochaux
+Wed Mar 24 1971,Angers Sco,0-3,Stade Reims
+Wed Mar 24 1971,As Nancy,0-0,Olympique Lyon
+Wed Mar 24 1971,Red Star Olympique,0-0,OGC Nice
+Wed Mar 24 1971,CS Sedan,0-2,Girondins Bordeaux
+Fri Mar 26 1971,Nimes Olympique,4-0,FC Metz
+Sun Mar 28 1971,RC Strasbourg,2-2,SC Bastia
+Sun Mar 28 1971,Olympique Lyon,1-2,As Saint Etienne
+Sat Apr 3 1971,Olympique Marseille,2-2,FC Nantes
+Sat Apr 3 1971,Stade Rennes,1-0,Angers Sco
+Sat Apr 3 1971,FC Metz,1-1,As Nancy
+Sat Apr 3 1971,FC Sochaux,3-0,Nimes Olympique
+Sat Apr 3 1971,Stade Reims,2-1,CS Sedan
+Sat Apr 3 1971,OGC Nice,1-0,RC Strasbourg
+Sat Apr 3 1971,Valenciennes FC,2-1,Angouleme CFc
+Sat Apr 3 1971,Girondins Bordeaux,4-1,Red Star Olympique
+Sun Apr 4 1971,SC Bastia,1-4,AC Ajaccio
+Fri Apr 9 1971,Valenciennes FC,0-0,CS Sedan
+Wed Apr 14 1971,As Saint Etienne,1-0,Stade Rennes
+Wed Apr 14 1971,Olympique Marseille,5-2,Valenciennes FC
+Wed Apr 14 1971,FC Nantes,1-1,Olympique Lyon
+Wed Apr 14 1971,CS Sedan,1-0,FC Metz
+Wed Apr 14 1971,Nimes Olympique,1-1,OGC Nice
+Wed Apr 14 1971,Angouleme CFc,1-0,FC Sochaux
+Wed Apr 14 1971,AC Ajaccio,1-0,Stade Reims
+Wed Apr 14 1971,Angers Sco,3-1,Red Star Olympique
+Wed Apr 14 1971,RC Strasbourg,0-1,Girondins Bordeaux
+Wed Apr 14 1971,As Nancy,3-0,SC Bastia
+Sat Apr 17 1971,FC Sochaux,1-1,Olympique Marseille
+Sat Apr 17 1971,FC Metz,0-0,FC Nantes
+Sat Apr 17 1971,Stade Rennes,0-0,Angouleme CFc
+Sat Apr 17 1971,Stade Reims,2-1,As Nancy
+Sat Apr 17 1971,Girondins Bordeaux,3-0,Nimes Olympique
+Sat Apr 17 1971,Olympique Lyon,1-0,Angers Sco
+Sat Apr 17 1971,SC Bastia,4-0,CS Sedan
+Sun Apr 18 1971,Valenciennes FC,0-0,AC Ajaccio
+Sun Apr 18 1971,Red Star Olympique,2-1,RC Strasbourg
+Sun Apr 18 1971,OGC Nice,0-0,As Saint Etienne
+Tue Apr 27 1971,Olympique Lyon,3-1,Valenciennes FC
+Wed Apr 28 1971,FC Metz,2-1,Olympique Marseille
+Wed Apr 28 1971,Stade Reims,0-0,FC Nantes
+Wed Apr 28 1971,Stade Rennes,0-0,CS Sedan
+Wed Apr 28 1971,FC Sochaux,0-0,Angers Sco
+Wed Apr 28 1971,OGC Nice,0-0,As Nancy
+Wed Apr 28 1971,Girondins Bordeaux,2-2,AC Ajaccio
+Wed Apr 28 1971,SC Bastia,3-1,Angouleme CFc
+Fri Apr 30 1971,RC Strasbourg,1-0,As Saint Etienne
+Sat May 1 1971,AC Ajaccio,3-1,OGC Nice
+Sun May 2 1971,Red Star Olympique,1-2,Nimes Olympique
+Tue May 4 1971,As Saint Etienne,6-0,FC Metz
+Wed May 5 1971,Stade Reims,0-1,Red Star Olympique
+Sat May 8 1971,As Saint Etienne,2-3,Girondins Bordeaux
+Sat May 8 1971,Olympique Marseille,2-2,Olympique Lyon
+Sat May 8 1971,FC Nantes,3-1,SC Bastia
+Sat May 8 1971,As Nancy,5-0,Stade Rennes
+Sat May 8 1971,Nimes Olympique,3-0,RC Strasbourg
+Sat May 8 1971,Angers Sco,5-0,FC Metz
+Sat May 8 1971,Angouleme CFc,1-3,Stade Reims
+Sat May 8 1971,Valenciennes FC,4-0,FC Sochaux
+Sat May 8 1971,CS Sedan,0-1,OGC Nice
+Sun May 9 1971,AC Ajaccio,0-1,Red Star Olympique
+Wed May 12 1971,SC Bastia,2-0,Girondins Bordeaux
+Wed May 12 1971,CS Sedan,2-1,FC Sochaux
+Sat May 15 1971,As Saint Etienne,2-1,Red Star Olympique
+Sat May 15 1971,Olympique Marseille,5-2,SC Bastia
+Sat May 15 1971,FC Nantes,1-0,Stade Rennes
+Sat May 15 1971,CS Sedan,1-1,Nimes Olympique
+Sat May 15 1971,Angouleme CFc,1-0,FC Metz
+Sat May 15 1971,Valenciennes FC,3-1,Stade Reims
+Sat May 15 1971,AC Ajaccio,4-0,RC Strasbourg
+Sat May 15 1971,FC Sochaux,0-0,Olympique Lyon
+Sat May 15 1971,Angers Sco,6-0,OGC Nice
+Sat May 15 1971,As Nancy,0-0,Girondins Bordeaux
+Tue May 18 1971,Stade Reims,1-2,Olympique Marseille
+Tue May 18 1971,Nimes Olympique,5-3,As Saint Etienne
+Tue May 18 1971,OGC Nice,3-1,FC Nantes
+Tue May 18 1971,Stade Rennes,0-1,AC Ajaccio
+Tue May 18 1971,Olympique Lyon,3-0,Angouleme CFc
+Tue May 18 1971,FC Metz,3-3,FC Sochaux
+Tue May 18 1971,Girondins Bordeaux,3-0,Angers Sco
+Tue May 18 1971,Red Star Olympique,3-1,As Nancy
+Tue May 18 1971,RC Strasbourg,3-0,CS Sedan
+Tue May 18 1971,SC Bastia,1-0,Valenciennes FC
+Fri May 21 1971,Olympique Lyon,0-0,Stade Reims
+Sat May 22 1971,Angers Sco,2-2,As Saint Etienne
+Sat May 22 1971,FC Nantes,2-2,Girondins Bordeaux
+Sat May 22 1971,AC Ajaccio,2-2,Nimes Olympique
+Sat May 22 1971,Valenciennes FC,2-2,FC Metz
+Sat May 22 1971,FC Sochaux,1-1,SC Bastia
+Sat May 22 1971,Angouleme CFc,1-1,OGC Nice
+Sat May 22 1971,As Nancy,3-2,RC Strasbourg
+Sat May 22 1971,CS Sedan,5-0,Red Star Olympique
+Sun May 23 1971,Olympique Marseille,5-0,Stade Rennes
+Fri Jun 4 1971,As Saint Etienne,8-0,CS Sedan
+Sat Jun 5 1971,OGC Nice,1-2,Olympique Marseille
+Sat Jun 5 1971,Nimes Olympique,1-0,As Nancy
+Sat Jun 5 1971,FC Metz,1-3,AC Ajaccio
+Sat Jun 5 1971,Stade Reims,4-1,FC Sochaux
+Sat Jun 5 1971,Girondins Bordeaux,1-0,Angouleme CFc
+Sat Jun 5 1971,Stade Rennes,1-1,Valenciennes FC
+Sat Jun 5 1971,SC Bastia,2-1,Olympique Lyon
+Sat Jun 5 1971,RC Strasbourg,6-2,Angers Sco
+Sun Jun 6 1971,Red Star Olympique,0-3,FC Nantes
+Fri Jun 11 1971,Olympique Marseille,3-0,Girondins Bordeaux
+Fri Jun 11 1971,As Nancy,1-1,As Saint Etienne
+Fri Jun 11 1971,Olympique Lyon,1-2,FC Metz
+Sat Jun 12 1971,FC Nantes,1-2,RC Strasbourg
+Sat Jun 12 1971,Angers Sco,1-2,Nimes Olympique
+Sat Jun 12 1971,AC Ajaccio,1-0,CS Sedan
+Sat Jun 12 1971,Stade Reims,5-2,SC Bastia
+Sat Jun 12 1971,FC Sochaux,4-2,Stade Rennes
+Sat Jun 12 1971,Valenciennes FC,3-1,OGC Nice
+Sat Jun 12 1971,Angouleme CFc,1-0,Red Star Olympique
+Sat Jun 19 1971,Red Star Olympique,3-4,Olympique Marseille
+Sat Jun 19 1971,As Saint Etienne,5-2,AC Ajaccio
+Sat Jun 19 1971,Nimes Olympique,2-2,FC Nantes
+Sat Jun 19 1971,FC Metz,2-0,Stade Reims
+Sat Jun 19 1971,OGC Nice,4-5,FC Sochaux
+Sat Jun 19 1971,Girondins Bordeaux,1-0,Valenciennes FC
+Sat Jun 19 1971,SC Bastia,2-0,Angers Sco
+Sat Jun 19 1971,CS Sedan,2-2,As Nancy
+Sat Jun 19 1971,RC Strasbourg,2-1,Angouleme CFc
+Wed Jun 23 1971,Stade Rennes,2-3,Olympique Lyon
+Sat Jun 26 1971,Olympique Marseille,6-3,RC Strasbourg
+Sat Jun 26 1971,FC Nantes,2-1,As Saint Etienne
+Sat Jun 26 1971,Angouleme CFc,0-2,Nimes Olympique
+Sat Jun 26 1971,FC Sochaux,1-3,Girondins Bordeaux
+Sat Jun 26 1971,As Nancy,3-1,AC Ajaccio
+Sat Jun 26 1971,Olympique Lyon,2-1,OGC Nice
+Sat Jun 26 1971,SC Bastia,2-0,FC Metz
+Sat Jun 26 1971,Stade Reims,1-1,Stade Rennes
+Sat Jun 26 1971,Angers Sco,3-1,CS Sedan
+Sat Jun 26 1971,Valenciennes FC,1-2,Red Star Olympique

@@ -1,0 +1,241 @@
+Date,Team 1,FT,Team 2
+Sun Oct 3 1976,Hellas Verona,3-3,Bologna FC
+Sun Oct 3 1976,Torino FC,3-1,Sampdoria
+Sun Oct 3 1976,Lazio Roma,2-3,Juventus
+Sun Oct 3 1976,AC Milan,2-1,Ac Perugia Calcio
+Sun Oct 3 1976,US Foggia,0-0,Inter
+Sun Oct 3 1976,US Catanzaro,0-0,Ssc Napoli
+Sun Oct 3 1976,Genoa CFc,2-2,As Roma
+Sun Oct 3 1976,Ac Cesena,1-2,Acf Fiorentina
+Sun Oct 10 1976,Juventus,1-0,Genoa CFc
+Sun Oct 10 1976,Sampdoria,0-0,AC Milan
+Sun Oct 10 1976,As Roma,2-0,Ac Cesena
+Sun Oct 10 1976,Ssc Napoli,3-0,Hellas Verona
+Sun Oct 10 1976,Inter,2-1,US Catanzaro
+Sun Oct 10 1976,Acf Fiorentina,0-1,Lazio Roma
+Sun Oct 10 1976,Bologna FC,0-3,Torino FC
+Sun Oct 10 1976,Ac Perugia Calcio,1-0,US Foggia
+Sun Oct 24 1976,Genoa CFc,2-3,Ssc Napoli
+Sun Oct 24 1976,Lazio Roma,3-0,Bologna FC
+Sun Oct 24 1976,Hellas Verona,1-0,Inter
+Sun Oct 24 1976,Torino FC,2-0,As Roma
+Sun Oct 24 1976,US Catanzaro,1-0,Sampdoria
+Sun Oct 24 1976,US Foggia,0-1,Juventus
+Sun Oct 24 1976,Ac Cesena,0-3,Ac Perugia Calcio
+Sun Oct 24 1976,AC Milan,0-0,Acf Fiorentina
+Sun Oct 31 1976,Juventus,3-0,US Catanzaro
+Sun Oct 31 1976,Sampdoria,0-0,Lazio Roma
+Sun Oct 31 1976,As Roma,0-0,Hellas Verona
+Sun Oct 31 1976,Ssc Napoli,3-1,AC Milan
+Sun Oct 31 1976,Inter,1-1,Ac Cesena
+Sun Oct 31 1976,Acf Fiorentina,0-1,Torino FC
+Sun Oct 31 1976,Bologna FC,0-0,US Foggia
+Sun Oct 31 1976,Ac Perugia Calcio,2-1,Genoa CFc
+Sun Nov 7 1976,Genoa CFc,1-1,Sampdoria
+Sun Nov 7 1976,Lazio Roma,1-0,Ac Perugia Calcio
+Sun Nov 7 1976,Hellas Verona,1-2,Acf Fiorentina
+Sun Nov 7 1976,Torino FC,1-0,Inter
+Sun Nov 7 1976,US Catanzaro,1-1,As Roma
+Sun Nov 7 1976,US Foggia,2-2,Ssc Napoli
+Sun Nov 7 1976,Ac Cesena,0-0,Bologna FC
+Sun Nov 7 1976,AC Milan,2-3,Juventus
+Sun Nov 21 1976,Juventus,2-1,Hellas Verona
+Sun Nov 21 1976,Sampdoria,2-1,Ac Cesena
+Sun Nov 21 1976,As Roma,3-1,US Foggia
+Sun Nov 21 1976,Ssc Napoli,1-1,Lazio Roma
+Sun Nov 21 1976,Inter,1-0,Genoa CFc
+Sun Nov 21 1976,Acf Fiorentina,1-1,US Catanzaro
+Sun Nov 21 1976,Bologna FC,2-2,AC Milan
+Sun Nov 21 1976,Ac Perugia Calcio,1-1,Torino FC
+Sun Nov 28 1976,Genoa CFc,1-1,Acf Fiorentina
+Sun Nov 28 1976,Lazio Roma,1-0,As Roma
+Sun Nov 28 1976,Hellas Verona,2-0,Ac Perugia Calcio
+Sun Nov 28 1976,Torino FC,2-1,Ssc Napoli
+Sun Nov 28 1976,US Foggia,2-0,Sampdoria
+Sun Nov 28 1976,Ac Cesena,0-1,Juventus
+Sun Nov 28 1976,US Catanzaro,1-2,Bologna FC
+Sun Nov 28 1976,AC Milan,1-1,Inter
+Sun Dec 5 1976,Juventus,0-2,Torino FC
+Sun Dec 5 1976,As Roma,1-1,AC Milan
+Sun Dec 5 1976,Ssc Napoli,3-1,Ac Cesena
+Sun Dec 5 1976,Sampdoria,3-1,Hellas Verona
+Sun Dec 5 1976,Inter,1-1,Lazio Roma
+Sun Dec 5 1976,Acf Fiorentina,4-1,US Foggia
+Sun Dec 5 1976,Bologna FC,0-0,Genoa CFc
+Sun Dec 5 1976,Ac Perugia Calcio,1-1,US Catanzaro
+Sun Dec 12 1976,Sampdoria,0-1,Inter
+Sun Dec 12 1976,Ac Perugia Calcio,1-0,Bologna FC
+Sun Dec 12 1976,AC Milan,2-2,Genoa CFc
+Sun Dec 12 1976,Ssc Napoli,1-0,As Roma
+Sun Dec 12 1976,Juventus,0-0,Acf Fiorentina
+Sun Dec 12 1976,US Catanzaro,0-4,Torino FC
+Sun Dec 12 1976,Ac Cesena,0-1,Hellas Verona
+Sun Dec 12 1976,Lazio Roma,0-0,US Foggia
+Sun Dec 19 1976,Genoa CFc,3-1,Lazio Roma
+Sun Dec 19 1976,Hellas Verona,0-0,US Catanzaro
+Sun Dec 19 1976,Torino FC,2-0,Ac Cesena
+Sun Dec 19 1976,Inter,3-2,Ssc Napoli
+Sun Dec 19 1976,US Foggia,2-1,AC Milan
+Sun Dec 19 1976,Acf Fiorentina,1-1,Sampdoria
+Sun Dec 19 1976,Bologna FC,0-1,Juventus
+Sun Dec 19 1976,As Roma,2-2,Ac Perugia Calcio
+Sun Jan 2 1977,Inter,3-0,As Roma
+Sun Jan 2 1977,Juventus,1-0,Ac Perugia Calcio
+Sun Jan 2 1977,Hellas Verona,0-0,Torino FC
+Sun Jan 2 1977,Sampdoria,2-2,Ssc Napoli
+Sun Jan 2 1977,Ac Cesena,1-0,US Catanzaro
+Sun Jan 2 1977,US Foggia,2-3,Genoa CFc
+Sun Jan 2 1977,Acf Fiorentina,3-0,Bologna FC
+Sun Jan 2 1977,Lazio Roma,1-2,AC Milan
+Sun Jan 9 1977,AC Milan,0-0,Hellas Verona
+Sun Jan 9 1977,As Roma,3-0,Sampdoria
+Sun Jan 9 1977,Ssc Napoli,0-2,Juventus
+Sun Jan 9 1977,Torino FC,3-3,Lazio Roma
+Sun Jan 9 1977,Genoa CFc,4-1,Ac Cesena
+Sun Jan 9 1977,US Catanzaro,3-1,US Foggia
+Sun Jan 9 1977,Bologna FC,1-5,Inter
+Sun Jan 9 1977,Ac Perugia Calcio,0-0,Acf Fiorentina
+Sun Jan 16 1977,Juventus,2-0,Inter
+Sun Jan 16 1977,AC Milan,0-0,Torino FC
+Sun Jan 16 1977,Ac Perugia Calcio,0-0,Sampdoria
+Sun Jan 16 1977,Lazio Roma,1-1,Hellas Verona
+Sun Jan 16 1977,US Foggia,0-2,Ac Cesena
+Sun Jan 16 1977,Bologna FC,0-1,Ssc Napoli
+Sun Jan 16 1977,Acf Fiorentina,1-1,As Roma
+Sun Jan 16 1977,Genoa CFc,2-0,US Catanzaro
+Sun Jan 30 1977,Ssc Napoli,1-1,Ac Perugia Calcio
+Sun Jan 30 1977,Torino FC,1-0,US Foggia
+Sun Jan 30 1977,As Roma,3-1,Juventus
+Sun Jan 30 1977,Hellas Verona,3-2,Genoa CFc
+Sun Jan 30 1977,Inter,1-1,Acf Fiorentina
+Sun Jan 30 1977,Ac Cesena,0-0,Lazio Roma
+Sun Jan 30 1977,US Catanzaro,1-0,AC Milan
+Sun Jan 30 1977,Sampdoria,0-0,Bologna FC
+Sun Feb 6 1977,Juventus,3-0,Sampdoria
+Sun Feb 6 1977,AC Milan,0-0,Ac Cesena
+Sun Feb 6 1977,Ac Perugia Calcio,0-1,Inter
+Sun Feb 6 1977,Lazio Roma,0-1,US Catanzaro
+Sun Feb 6 1977,Genoa CFc,1-1,Torino FC
+Sun Feb 6 1977,US Foggia,4-1,Hellas Verona
+Sun Feb 6 1977,Bologna FC,2-0,As Roma
+Sun Feb 6 1977,Acf Fiorentina,2-1,Ssc Napoli
+Sun Feb 13 1977,Acf Fiorentina,2-1,Ac Cesena
+Sun Feb 13 1977,As Roma,1-0,Genoa CFc
+Sun Feb 13 1977,Sampdoria,2-3,Torino FC
+Sun Feb 13 1977,Ac Perugia Calcio,3-1,AC Milan
+Sun Feb 13 1977,Inter,1-1,US Foggia
+Sun Feb 13 1977,Bologna FC,0-0,Hellas Verona
+Sun Feb 13 1977,Juventus,2-0,Lazio Roma
+Sun Feb 13 1977,Ssc Napoli,1-0,US Catanzaro
+Mon Feb 21 1977,Genoa CFc,2-2,Juventus
+Mon Feb 21 1977,Torino FC,1-0,Bologna FC
+Mon Feb 21 1977,Lazio Roma,4-1,Acf Fiorentina
+Mon Feb 21 1977,Hellas Verona,1-0,Ssc Napoli
+Mon Feb 21 1977,US Foggia,2-1,Ac Perugia Calcio
+Mon Feb 21 1977,Ac Cesena,4-0,As Roma
+Mon Feb 21 1977,US Catanzaro,1-3,Inter
+Mon Feb 21 1977,AC Milan,3-0,Sampdoria
+Mon Feb 28 1977,Ssc Napoli,1-1,Genoa CFc
+Mon Feb 28 1977,Sampdoria,3-1,US Catanzaro
+Mon Feb 28 1977,As Roma,1-0,Torino FC
+Mon Feb 28 1977,Ac Perugia Calcio,1-0,Ac Cesena
+Mon Feb 28 1977,Juventus,1-0,US Foggia
+Mon Feb 28 1977,Inter,0-0,Hellas Verona
+Mon Feb 28 1977,Bologna FC,1-0,Lazio Roma
+Mon Feb 28 1977,Acf Fiorentina,1-1,AC Milan
+Sun Mar 6 1977,Lazio Roma,1-0,Sampdoria
+Sun Mar 6 1977,Torino FC,2-0,Acf Fiorentina
+Sun Mar 6 1977,Hellas Verona,1-1,As Roma
+Sun Mar 6 1977,AC Milan,1-1,Ssc Napoli
+Sun Mar 6 1977,US Foggia,1-0,Bologna FC
+Sun Mar 6 1977,US Catanzaro,0-2,Juventus
+Sun Mar 6 1977,Ac Cesena,0-0,Inter
+Sun Mar 6 1977,Genoa CFc,0-0,Ac Perugia Calcio
+Sun Mar 13 1977,Juventus,2-1,AC Milan
+Sun Mar 13 1977,Sampdoria,1-2,Genoa CFc
+Sun Mar 13 1977,As Roma,1-0,US Catanzaro
+Sun Mar 13 1977,Bologna FC,0-0,Ac Cesena
+Sun Mar 13 1977,Ssc Napoli,3-2,US Foggia
+Sun Mar 13 1977,Inter,0-1,Torino FC
+Sun Mar 13 1977,Acf Fiorentina,2-1,Hellas Verona
+Sun Mar 13 1977,Ac Perugia Calcio,2-0,Lazio Roma
+Sun Mar 20 1977,US Foggia,1-0,As Roma
+Sun Mar 20 1977,Torino FC,2-1,Ac Perugia Calcio
+Sun Mar 20 1977,AC Milan,1-1,Bologna FC
+Sun Mar 20 1977,Hellas Verona,0-0,Juventus
+Sun Mar 20 1977,Genoa CFc,2-2,Inter
+Sun Mar 20 1977,Ac Cesena,1-1,Sampdoria
+Sun Mar 20 1977,US Catanzaro,0-1,Acf Fiorentina
+Sun Mar 20 1977,Lazio Roma,0-0,Ssc Napoli
+Sun Mar 27 1977,Bologna FC,0-0,US Catanzaro
+Sun Mar 27 1977,Acf Fiorentina,1-2,Genoa CFc
+Sun Mar 27 1977,Inter,0-0,AC Milan
+Sun Mar 27 1977,Juventus,3-2,Ac Cesena
+Sun Mar 27 1977,Ssc Napoli,0-0,Torino FC
+Sun Mar 27 1977,Ac Perugia Calcio,1-1,Hellas Verona
+Sun Mar 27 1977,As Roma,1-0,Lazio Roma
+Sun Mar 27 1977,Sampdoria,2-1,US Foggia
+Sun Apr 3 1977,Lazio Roma,2-1,Inter
+Sun Apr 3 1977,Torino FC,1-1,Juventus
+Sun Apr 3 1977,AC Milan,1-1,As Roma
+Sun Apr 3 1977,US Foggia,2-3,Acf Fiorentina
+Sun Apr 3 1977,Ac Cesena,0-2,Ssc Napoli
+Sun Apr 3 1977,US Catanzaro,1-1,Ac Perugia Calcio
+Sun Apr 3 1977,Hellas Verona,2-2,Sampdoria
+Sun Apr 3 1977,Genoa CFc,0-2,Bologna FC
+Sun Apr 10 1977,US Foggia,1-0,Lazio Roma
+Sun Apr 10 1977,Hellas Verona,2-1,Ac Cesena
+Sun Apr 10 1977,Torino FC,3-1,US Catanzaro
+Sun Apr 10 1977,As Roma,0-0,Ssc Napoli
+Sun Apr 10 1977,Genoa CFc,1-0,AC Milan
+Sun Apr 10 1977,Acf Fiorentina,1-3,Juventus
+Sun Apr 10 1977,Bologna FC,1-0,Ac Perugia Calcio
+Sun Apr 10 1977,Inter,0-0,Sampdoria
+Sun Apr 17 1977,Ssc Napoli,0-3,Inter
+Sun Apr 17 1977,Juventus,2-1,Bologna FC
+Sun Apr 17 1977,Sampdoria,2-2,Acf Fiorentina
+Sun Apr 17 1977,Ac Perugia Calcio,3-0,As Roma
+Sun Apr 17 1977,Lazio Roma,4-1,Genoa CFc
+Sun Apr 17 1977,US Catanzaro,2-1,Hellas Verona
+Sun Apr 17 1977,Ac Cesena,0-3,Torino FC
+Sun Apr 17 1977,AC Milan,0-0,US Foggia
+Sun Apr 24 1977,AC Milan,2-2,Lazio Roma
+Sun Apr 24 1977,Torino FC,1-0,Hellas Verona
+Sun Apr 24 1977,As Roma,2-3,Inter
+Sun Apr 24 1977,Ssc Napoli,1-1,Sampdoria
+Sun Apr 24 1977,Genoa CFc,1-2,US Foggia
+Sun Apr 24 1977,US Catanzaro,4-2,Ac Cesena
+Sun Apr 24 1977,Bologna FC,2-0,Acf Fiorentina
+Sun Apr 24 1977,Ac Perugia Calcio,1-1,Juventus
+Mon May 2 1977,Lazio Roma,0-0,Torino FC
+Mon May 2 1977,Ac Cesena,1-1,Genoa CFc
+Mon May 2 1977,Sampdoria,1-0,As Roma
+Mon May 2 1977,Hellas Verona,0-0,AC Milan
+Mon May 2 1977,Inter,0-0,Bologna FC
+Mon May 2 1977,Acf Fiorentina,1-0,Ac Perugia Calcio
+Mon May 2 1977,Juventus,2-1,Ssc Napoli
+Mon May 2 1977,US Foggia,1-0,US Catanzaro
+Sun May 8 1977,Ssc Napoli,1-2,Bologna FC
+Sun May 8 1977,Hellas Verona,0-0,Lazio Roma
+Sun May 8 1977,Torino FC,2-0,AC Milan
+Sun May 8 1977,As Roma,0-0,Acf Fiorentina
+Sun May 8 1977,Inter,0-2,Juventus
+Sun May 8 1977,Ac Cesena,2-3,US Foggia
+Sun May 8 1977,US Catanzaro,2-1,Genoa CFc
+Sun May 8 1977,Sampdoria,2-0,Ac Perugia Calcio
+Sun May 15 1977,Acf Fiorentina,3-0,Inter
+Sun May 15 1977,AC Milan,3-2,US Catanzaro
+Sun May 15 1977,Ac Perugia Calcio,4-2,Ssc Napoli
+Sun May 15 1977,Lazio Roma,3-0,Ac Cesena
+Sun May 15 1977,Juventus,1-0,As Roma
+Sun May 15 1977,US Foggia,0-1,Torino FC
+Sun May 15 1977,Bologna FC,4-1,Sampdoria
+Sun May 15 1977,Genoa CFc,1-0,Hellas Verona
+Sun May 22 1977,Hellas Verona,2-1,US Foggia
+Sun May 22 1977,US Catanzaro,1-2,Lazio Roma
+Sun May 22 1977,Ac Cesena,0-2,AC Milan
+Sun May 22 1977,Inter,1-1,Ac Perugia Calcio
+Sun May 22 1977,Ssc Napoli,0-2,Acf Fiorentina
+Sun May 22 1977,As Roma,1-0,Bologna FC
+Sun May 22 1977,Sampdoria,0-2,Juventus
+Sun May 22 1977,Torino FC,5-1,Genoa CFc

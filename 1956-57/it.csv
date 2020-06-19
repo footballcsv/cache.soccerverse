@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sun Sep 16 1956,Udinese Calcio,2-5,Acf Fiorentina
+Sun Sep 16 1956,Torino FC,1-1,Bologna FC
+Sun Sep 16 1956,US Palermo,3-1,Vicenza Calcio
+Sun Sep 16 1956,SPAL Ferrara,1-0,Inter
+Sun Sep 16 1956,Ssc Napoli,2-0,Atalanta
+Sun Sep 16 1956,AC Milan,2-1,Unione Triestina
+Sun Sep 16 1956,Genoa CFc,1-1,As Roma
+Sun Sep 16 1956,Lazio Roma,0-3,Juventus
+Sun Sep 16 1956,Calcio Padova,2-6,Sampdoria
+Sun Sep 23 1956,Inter,2-0,Calcio Padova
+Sun Sep 23 1956,Unione Triestina,1-2,Ssc Napoli
+Sun Sep 23 1956,Sampdoria,1-0,Torino FC
+Sun Sep 23 1956,As Roma,2-1,US Palermo
+Sun Sep 23 1956,Juventus,2-0,SPAL Ferrara
+Sun Sep 23 1956,Acf Fiorentina,0-0,Lazio Roma
+Sun Sep 23 1956,Bologna FC,1-2,AC Milan
+Sun Sep 23 1956,Atalanta,0-1,Genoa CFc
+Sun Sep 23 1956,Vicenza Calcio,1-1,Udinese Calcio
+Sun Sep 30 1956,SPAL Ferrara,0-3,Sampdoria
+Sun Sep 30 1956,AC Milan,1-0,US Palermo
+Sun Sep 30 1956,Udinese Calcio,2-2,As Roma
+Sun Sep 30 1956,Torino FC,2-1,Acf Fiorentina
+Sun Sep 30 1956,Atalanta,3-2,Bologna FC
+Sun Sep 30 1956,Lazio Roma,2-0,Vicenza Calcio
+Sun Sep 30 1956,Genoa CFc,1-1,Juventus
+Sun Sep 30 1956,Calcio Padova,1-1,Unione Triestina
+Sun Sep 30 1956,Ssc Napoli,1-1,Inter
+Sun Oct 7 1956,Juventus,1-1,Sampdoria
+Sun Oct 7 1956,Unione Triestina,1-0,Torino FC
+Sun Oct 7 1956,As Roma,2-2,Calcio Padova
+Sun Oct 7 1956,US Palermo,1-1,Inter
+Sun Oct 7 1956,Vicenza Calcio,2-0,Atalanta
+Sun Oct 7 1956,Genoa CFc,1-1,Udinese Calcio
+Sun Oct 7 1956,Acf Fiorentina,2-0,SPAL Ferrara
+Sun Oct 7 1956,Bologna FC,3-1,Lazio Roma
+Sun Oct 7 1956,AC Milan,3-5,Ssc Napoli
+Sun Oct 14 1956,Torino FC,2-1,Vicenza Calcio
+Sun Oct 14 1956,Sampdoria,2-2,Acf Fiorentina
+Sun Oct 14 1956,Udinese Calcio,0-1,Unione Triestina
+Sun Oct 14 1956,SPAL Ferrara,0-0,Atalanta
+Sun Oct 14 1956,Calcio Padova,2-0,AC Milan
+Sun Oct 14 1956,Ssc Napoli,0-0,Bologna FC
+Sun Oct 14 1956,Inter,1-1,Juventus
+Sun Oct 14 1956,Lazio Roma,0-3,As Roma
+Sun Oct 14 1956,US Palermo,1-0,Genoa CFc
+Sun Oct 21 1956,Juventus,2-3,Udinese Calcio
+Sun Oct 21 1956,Unione Triestina,1-1,Sampdoria
+Sun Oct 21 1956,SPAL Ferrara,1-0,Lazio Roma
+Sun Oct 21 1956,As Roma,0-2,Torino FC
+Sun Oct 21 1956,Vicenza Calcio,0-0,Ssc Napoli
+Sun Oct 21 1956,Genoa CFc,1-1,Calcio Padova
+Sun Oct 21 1956,Acf Fiorentina,2-1,Bologna FC
+Sun Oct 21 1956,Atalanta,1-0,US Palermo
+Sun Oct 21 1956,AC Milan,1-1,Inter
+Sun Oct 28 1956,Calcio Padova,1-1,Ssc Napoli
+Sun Oct 28 1956,Unione Triestina,1-1,As Roma
+Sun Oct 28 1956,Udinese Calcio,3-2,SPAL Ferrara
+Sun Oct 28 1956,Sampdoria,3-2,Genoa CFc
+Sun Oct 28 1956,Juventus,1-1,Torino FC
+Sun Oct 28 1956,Inter,3-1,Vicenza Calcio
+Sun Oct 28 1956,Acf Fiorentina,0-3,AC Milan
+Sun Oct 28 1956,Bologna FC,1-1,US Palermo
+Sun Oct 28 1956,Lazio Roma,2-2,Atalanta
+Sun Nov 18 1956,As Roma,0-2,Acf Fiorentina
+Sun Nov 18 1956,Atalanta,0-0,Juventus
+Sun Nov 18 1956,Torino FC,1-1,Inter
+Sun Nov 18 1956,US Palermo,1-1,Calcio Padova
+Sun Nov 18 1956,Ssc Napoli,0-0,Lazio Roma
+Sun Nov 18 1956,Vicenza Calcio,3-2,Sampdoria
+Sun Nov 18 1956,Genoa CFc,0-1,Unione Triestina
+Sun Nov 18 1956,Bologna FC,3-0,SPAL Ferrara
+Sun Nov 18 1956,AC Milan,2-0,Udinese Calcio
+Sun Nov 25 1956,Lazio Roma,2-1,Udinese Calcio
+Sun Nov 25 1956,Unione Triestina,0-0,Bologna FC
+Sun Nov 25 1956,SPAL Ferrara,2-0,Ssc Napoli
+Sun Nov 25 1956,Sampdoria,2-2,Atalanta
+Sun Nov 25 1956,Acf Fiorentina,1-0,Genoa CFc
+Sun Nov 25 1956,Calcio Padova,1-1,Vicenza Calcio
+Sun Nov 25 1956,Juventus,0-1,AC Milan
+Sun Nov 25 1956,Inter,3-2,As Roma
+Sun Nov 25 1956,US Palermo,1-0,Torino FC
+Sun Dec 2 1956,As Roma,5-1,SPAL Ferrara
+Sun Dec 2 1956,Udinese Calcio,2-0,US Palermo
+Sun Dec 2 1956,Torino FC,2-2,Genoa CFc
+Sun Dec 2 1956,Sampdoria,0-1,Lazio Roma
+Sun Dec 2 1956,Vicenza Calcio,1-1,Juventus
+Sun Dec 2 1956,Inter,1-0,Unione Triestina
+Sun Dec 2 1956,Bologna FC,1-2,Calcio Padova
+Sun Dec 2 1956,Atalanta,2-2,AC Milan
+Sun Dec 2 1956,Ssc Napoli,1-1,Acf Fiorentina
+Sun Dec 16 1956,AC Milan,3-2,Lazio Roma
+Sun Dec 16 1956,Udinese Calcio,2-1,Ssc Napoli
+Sun Dec 16 1956,Unione Triestina,2-1,Vicenza Calcio
+Sun Dec 16 1956,SPAL Ferrara,2-1,Torino FC
+Sun Dec 16 1956,Calcio Padova,0-0,Atalanta
+Sun Dec 16 1956,Juventus,3-1,Bologna FC
+Sun Dec 16 1956,Genoa CFc,0-0,Inter
+Sun Dec 16 1956,Acf Fiorentina,3-1,US Palermo
+Sun Dec 16 1956,As Roma,5-1,Sampdoria
+Sun Dec 23 1956,Vicenza Calcio,1-0,As Roma
+Sun Dec 23 1956,Torino FC,0-2,Calcio Padova
+Sun Dec 23 1956,Sampdoria,3-2,AC Milan
+Sun Dec 23 1956,US Palermo,0-0,SPAL Ferrara
+Sun Dec 23 1956,Inter,2-1,Acf Fiorentina
+Sun Dec 23 1956,Bologna FC,3-1,Genoa CFc
+Sun Dec 23 1956,Atalanta,1-1,Udinese Calcio
+Sun Dec 23 1956,Ssc Napoli,1-2,Juventus
+Sun Dec 23 1956,Lazio Roma,2-0,Unione Triestina
+Sun Dec 30 1956,US Palermo,0-2,Juventus
+Sun Dec 30 1956,Udinese Calcio,1-0,Inter
+Sun Dec 30 1956,Torino FC,2-0,Atalanta
+Sun Dec 30 1956,SPAL Ferrara,5-2,Vicenza Calcio
+Sun Dec 30 1956,As Roma,1-3,Ssc Napoli
+Sun Dec 30 1956,Calcio Padova,0-1,Lazio Roma
+Sun Dec 30 1956,AC Milan,2-0,Genoa CFc
+Sun Dec 30 1956,Acf Fiorentina,3-0,Unione Triestina
+Sun Dec 30 1956,Sampdoria,1-1,Bologna FC
+Sun Jan 6 1957,Juventus,1-2,As Roma
+Sun Jan 6 1957,Calcio Padova,4-1,Udinese Calcio
+Sun Jan 6 1957,Ssc Napoli,2-0,Sampdoria
+Sun Jan 6 1957,Unione Triestina,1-1,US Palermo
+Sun Jan 6 1957,Genoa CFc,2-1,SPAL Ferrara
+Sun Jan 6 1957,Bologna FC,1-1,Vicenza Calcio
+Sun Jan 6 1957,Atalanta,1-1,Acf Fiorentina
+Sun Jan 6 1957,AC Milan,3-1,Torino FC
+Sun Jan 6 1957,Lazio Roma,1-1,Inter
+Sun Jan 13 1957,Vicenza Calcio,4-0,Acf Fiorentina
+Sun Jan 13 1957,Udinese Calcio,1-5,Bologna FC
+Sun Jan 13 1957,SPAL Ferrara,0-1,Unione Triestina
+Sun Jan 13 1957,As Roma,0-0,AC Milan
+Sun Jan 13 1957,Ssc Napoli,2-1,Torino FC
+Sun Jan 13 1957,Juventus,0-0,Calcio Padova
+Sun Jan 13 1957,Inter,2-2,Atalanta
+Sun Jan 13 1957,Genoa CFc,1-1,Lazio Roma
+Sun Jan 13 1957,US Palermo,1-1,Sampdoria
+Sun Jan 20 1957,US Palermo,0-0,Ssc Napoli
+Sun Jan 20 1957,Torino FC,0-1,Lazio Roma
+Sun Jan 20 1957,SPAL Ferrara,1-3,AC Milan
+Sun Jan 20 1957,Unione Triestina,3-0,Juventus
+Sun Jan 20 1957,Vicenza Calcio,0-1,Genoa CFc
+Sun Jan 20 1957,Inter,2-2,Bologna FC
+Sun Jan 20 1957,Acf Fiorentina,3-0,Calcio Padova
+Sun Jan 20 1957,Sampdoria,3-0,Udinese Calcio
+Sun Jan 20 1957,As Roma,1-0,Atalanta
+Sun Jan 27 1957,Lazio Roma,3-0,US Palermo
+Sun Jan 27 1957,Udinese Calcio,5-1,Torino FC
+Sun Jan 27 1957,Sampdoria,2-2,Inter
+Sun Jan 27 1957,Calcio Padova,1-2,SPAL Ferrara
+Sun Jan 27 1957,AC Milan,4-2,Vicenza Calcio
+Sun Jan 27 1957,Juventus,1-1,Acf Fiorentina
+Sun Jan 27 1957,Bologna FC,1-0,As Roma
+Sun Jan 27 1957,Atalanta,3-1,Unione Triestina
+Sun Jan 27 1957,Ssc Napoli,1-2,Genoa CFc
+Sun Feb 3 1957,Vicenza Calcio,4-1,US Palermo
+Sun Feb 3 1957,Sampdoria,2-0,Calcio Padova
+Sun Feb 3 1957,Bologna FC,0-0,Torino FC
+Sun Feb 3 1957,As Roma,1-1,Genoa CFc
+Sun Feb 3 1957,Unione Triestina,1-3,AC Milan
+Sun Feb 3 1957,Acf Fiorentina,2-1,Udinese Calcio
+Sun Feb 3 1957,Atalanta,2-0,Ssc Napoli
+Sun Feb 3 1957,Inter,2-0,SPAL Ferrara
+Sun Feb 3 1957,Juventus,3-3,Lazio Roma
+Sun Feb 10 1957,Ssc Napoli,2-1,Unione Triestina
+Sun Feb 10 1957,Udinese Calcio,3-2,Vicenza Calcio
+Sun Feb 10 1957,Torino FC,0-0,Sampdoria
+Sun Feb 10 1957,SPAL Ferrara,3-1,Juventus
+Sun Feb 10 1957,Calcio Padova,3-2,Inter
+Sun Feb 10 1957,AC Milan,1-0,Bologna FC
+Sun Feb 10 1957,Lazio Roma,3-0,Acf Fiorentina
+Sun Feb 10 1957,Genoa CFc,2-1,Atalanta
+Sun Feb 10 1957,US Palermo,1-0,As Roma
+Sun Feb 17 1957,As Roma,6-1,Udinese Calcio
+Sun Feb 17 1957,Juventus,2-0,Genoa CFc
+Sun Feb 17 1957,Unione Triestina,0-0,Calcio Padova
+Sun Feb 17 1957,Sampdoria,0-3,SPAL Ferrara
+Sun Feb 17 1957,Bologna FC,1-0,Atalanta
+Sun Feb 17 1957,Inter,3-1,Ssc Napoli
+Sun Feb 17 1957,Acf Fiorentina,1-0,Torino FC
+Sun Feb 17 1957,US Palermo,1-2,AC Milan
+Sun Feb 17 1957,Vicenza Calcio,1-1,Lazio Roma
+Sun Feb 24 1957,Ssc Napoli,2-2,AC Milan
+Sun Feb 24 1957,Udinese Calcio,5-1,Genoa CFc
+Sun Feb 24 1957,Torino FC,1-0,Unione Triestina
+Sun Feb 24 1957,SPAL Ferrara,2-1,Acf Fiorentina
+Sun Feb 24 1957,Calcio Padova,0-1,As Roma
+Sun Feb 24 1957,Lazio Roma,3-2,Bologna FC
+Sun Feb 24 1957,Inter,1-0,US Palermo
+Sun Feb 24 1957,Atalanta,1-1,Vicenza Calcio
+Sun Feb 24 1957,Sampdoria,2-1,Juventus
+Sun Mar 3 1957,Genoa CFc,2-2,US Palermo
+Sun Mar 3 1957,AC Milan,2-0,Calcio Padova
+Sun Mar 3 1957,Unione Triestina,1-0,Udinese Calcio
+Sun Mar 3 1957,As Roma,2-2,Lazio Roma
+Sun Mar 3 1957,Atalanta,1-0,SPAL Ferrara
+Sun Mar 3 1957,Vicenza Calcio,1-2,Torino FC
+Sun Mar 3 1957,Acf Fiorentina,3-0,Sampdoria
+Sun Mar 3 1957,Bologna FC,2-1,Ssc Napoli
+Sun Mar 3 1957,Juventus,5-1,Inter
+Sun Mar 10 1957,Ssc Napoli,1-0,Vicenza Calcio
+Sun Mar 10 1957,Udinese Calcio,3-0,Juventus
+Sun Mar 10 1957,Torino FC,1-0,As Roma
+Sun Mar 10 1957,Sampdoria,1-1,Unione Triestina
+Sun Mar 10 1957,Calcio Padova,2-0,Genoa CFc
+Sun Mar 10 1957,Lazio Roma,1-2,SPAL Ferrara
+Sun Mar 10 1957,Inter,1-1,AC Milan
+Sun Mar 10 1957,Bologna FC,2-2,Acf Fiorentina
+Sun Mar 10 1957,US Palermo,3-1,Atalanta
+Sun Mar 17 1957,AC Milan,2-0,Acf Fiorentina
+Sun Mar 17 1957,SPAL Ferrara,1-1,Udinese Calcio
+Sun Mar 17 1957,As Roma,3-1,Unione Triestina
+Sun Mar 17 1957,Torino FC,4-1,Juventus
+Sun Mar 17 1957,Vicenza Calcio,2-1,Inter
+Sun Mar 17 1957,Genoa CFc,1-1,Sampdoria
+Sun Mar 17 1957,Atalanta,0-1,Lazio Roma
+Sun Mar 17 1957,US Palermo,2-1,Bologna FC
+Sun Mar 17 1957,Ssc Napoli,1-0,Calcio Padova
+Sun Mar 24 1957,Lazio Roma,1-1,Ssc Napoli
+Sun Mar 24 1957,Udinese Calcio,2-1,AC Milan
+Sun Mar 24 1957,Unione Triestina,2-1,Genoa CFc
+Sun Mar 24 1957,SPAL Ferrara,1-0,Bologna FC
+Sun Mar 24 1957,Calcio Padova,1-0,US Palermo
+Sun Mar 24 1957,Juventus,2-2,Atalanta
+Sun Mar 24 1957,Inter,3-0,Torino FC
+Sun Mar 24 1957,Acf Fiorentina,2-2,As Roma
+Sun Mar 24 1957,Sampdoria,5-0,Vicenza Calcio
+Sun Mar 31 1957,As Roma,0-0,Inter
+Sun Mar 31 1957,Torino FC,5-1,US Palermo
+Sun Mar 31 1957,AC Milan,4-1,Juventus
+Sun Mar 31 1957,Ssc Napoli,0-1,SPAL Ferrara
+Sun Mar 31 1957,Genoa CFc,1-2,Acf Fiorentina
+Sun Mar 31 1957,Bologna FC,0-0,Unione Triestina
+Sun Mar 31 1957,Atalanta,3-3,Sampdoria
+Sun Mar 31 1957,Vicenza Calcio,0-0,Calcio Padova
+Sun Mar 31 1957,Udinese Calcio,2-0,Lazio Roma
+Sun Apr 7 1957,Lazio Roma,2-1,Sampdoria
+Sun Apr 7 1957,Unione Triestina,2-2,Inter
+Sun Apr 7 1957,SPAL Ferrara,1-1,As Roma
+Sun Apr 7 1957,US Palermo,0-1,Udinese Calcio
+Sun Apr 7 1957,AC Milan,4-0,Atalanta
+Sun Apr 7 1957,Juventus,0-1,Vicenza Calcio
+Sun Apr 7 1957,Genoa CFc,1-0,Torino FC
+Sun Apr 7 1957,Acf Fiorentina,4-0,Ssc Napoli
+Sun Apr 7 1957,Calcio Padova,1-1,Bologna FC
+Sun Apr 14 1957,US Palermo,0-1,Acf Fiorentina
+Sun Apr 14 1957,Lazio Roma,3-0,AC Milan
+Sun Apr 14 1957,Torino FC,3-2,SPAL Ferrara
+Sun Apr 14 1957,Sampdoria,1-0,As Roma
+Sun Apr 14 1957,Atalanta,0-0,Calcio Padova
+Sun Apr 14 1957,Inter,2-0,Genoa CFc
+Sun Apr 14 1957,Bologna FC,1-0,Juventus
+Sun Apr 14 1957,Ssc Napoli,2-1,Udinese Calcio
+Sun Apr 14 1957,Vicenza Calcio,3-1,Unione Triestina
+Sun Apr 28 1957,AC Milan,2-1,Sampdoria
+Sun Apr 28 1957,Udinese Calcio,3-0,Atalanta
+Sun Apr 28 1957,Unione Triestina,1-1,Lazio Roma
+Sun Apr 28 1957,SPAL Ferrara,1-0,US Palermo
+Sun Apr 28 1957,Calcio Padova,1-3,Torino FC
+Sun Apr 28 1957,Juventus,1-0,Ssc Napoli
+Sun Apr 28 1957,Genoa CFc,5-2,Bologna FC
+Sun Apr 28 1957,Acf Fiorentina,3-1,Inter
+Sun Apr 28 1957,As Roma,2-2,Vicenza Calcio
+Sun May 5 1957,Vicenza Calcio,4-1,SPAL Ferrara
+Sun May 5 1957,Juventus,6-4,US Palermo
+Sun May 5 1957,Lazio Roma,1-1,Calcio Padova
+Sun May 5 1957,Unione Triestina,0-0,Acf Fiorentina
+Sun May 5 1957,Genoa CFc,0-1,AC Milan
+Sun May 5 1957,Bologna FC,4-2,Sampdoria
+Sun May 5 1957,Atalanta,0-1,Torino FC
+Sun May 5 1957,Inter,2-3,Udinese Calcio
+Sun May 5 1957,Ssc Napoli,1-2,As Roma
+Sun May 19 1957,US Palermo,2-1,Unione Triestina
+Sun May 19 1957,Udinese Calcio,0-0,Calcio Padova
+Sun May 19 1957,Torino FC,2-2,AC Milan
+Sun May 19 1957,SPAL Ferrara,1-2,Genoa CFc
+Sun May 19 1957,As Roma,2-3,Juventus
+Sun May 19 1957,Vicenza Calcio,2-1,Bologna FC
+Sun May 19 1957,Inter,0-1,Lazio Roma
+Sun May 19 1957,Acf Fiorentina,0-1,Atalanta
+Sun May 19 1957,Sampdoria,1-0,Ssc Napoli
+Sun Jun 2 1957,AC Milan,3-1,As Roma
+Sun Jun 2 1957,Calcio Padova,2-1,Juventus
+Sun Jun 2 1957,Sampdoria,6-0,US Palermo
+Sun Jun 2 1957,Unione Triestina,2-0,SPAL Ferrara
+Sun Jun 2 1957,Acf Fiorentina,2-1,Vicenza Calcio
+Sun Jun 2 1957,Bologna FC,4-3,Udinese Calcio
+Sun Jun 2 1957,Atalanta,2-1,Inter
+Sun Jun 2 1957,Torino FC,1-1,Ssc Napoli
+Sun Jun 2 1957,Lazio Roma,2-2,Genoa CFc
+Sun Jun 9 1957,AC Milan,0-1,SPAL Ferrara
+Sun Jun 9 1957,Udinese Calcio,3-0,Sampdoria
+Sun Jun 9 1957,Ssc Napoli,4-1,US Palermo
+Sun Jun 9 1957,Lazio Roma,2-2,Torino FC
+Sun Jun 9 1957,Juventus,4-3,Unione Triestina
+Sun Jun 9 1957,Genoa CFc,0-0,Vicenza Calcio
+Sun Jun 9 1957,Bologna FC,3-2,Inter
+Sun Jun 9 1957,Atalanta,4-1,As Roma
+Sun Jun 9 1957,Calcio Padova,2-2,Acf Fiorentina
+Sun Jun 16 1957,Unione Triestina,0-1,Atalanta
+Sun Jun 16 1957,Acf Fiorentina,2-2,Juventus
+Sun Jun 16 1957,Genoa CFc,1-0,Ssc Napoli
+Sun Jun 16 1957,Inter,6-1,Sampdoria
+Sun Jun 16 1957,Vicenza Calcio,3-1,AC Milan
+Sun Jun 16 1957,US Palermo,2-6,Lazio Roma
+Sun Jun 16 1957,As Roma,2-3,Bologna FC
+Sun Jun 16 1957,SPAL Ferrara,0-0,Calcio Padova
+Sun Jun 16 1957,Torino FC,3-1,Udinese Calcio

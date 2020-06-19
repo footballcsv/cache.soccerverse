@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 18 2018,Chievo Verona,2-3,Juventus
+Sat Aug 18 2018,Lazio Roma,1-2,Ssc Napoli
+Sun Aug 19 2018,Torino FC,0-1,As Roma
+Sun Aug 19 2018,Bologna FC,0-1,SPAL Ferrara
+Sun Aug 19 2018,Empoli FC,2-0,Cagliari Calcio
+Sun Aug 19 2018,Parma FC,2-2,Udinese Calcio
+Sun Aug 19 2018,Sassuolo Calcio,1-0,Inter
+Mon Aug 20 2018,Atalanta,4-0,Frosinone Calcio
+Sat Aug 25 2018,Juventus,2-0,Lazio Roma
+Sat Aug 25 2018,Ssc Napoli,3-2,AC Milan
+Sun Aug 26 2018,SPAL Ferrara,1-0,Parma FC
+Sun Aug 26 2018,Cagliari Calcio,2-2,Sassuolo Calcio
+Sun Aug 26 2018,Acf Fiorentina,6-1,Chievo Verona
+Sun Aug 26 2018,Frosinone Calcio,0-0,Bologna FC
+Sun Aug 26 2018,Genoa CFc,2-1,Empoli FC
+Sun Aug 26 2018,Inter,2-2,Torino FC
+Sun Aug 26 2018,Udinese Calcio,1-0,Sampdoria
+Mon Aug 27 2018,As Roma,3-3,Atalanta
+Fri Aug 31 2018,AC Milan,2-1,As Roma
+Sat Sep 1 2018,Bologna FC,0-3,Inter
+Sat Sep 1 2018,Parma FC,1-2,Juventus
+Sun Sep 2 2018,Acf Fiorentina,1-0,Udinese Calcio
+Sun Sep 2 2018,Atalanta,0-1,Cagliari Calcio
+Sun Sep 2 2018,Chievo Verona,0-0,Empoli FC
+Sun Sep 2 2018,Lazio Roma,1-0,Frosinone Calcio
+Sun Sep 2 2018,Sampdoria,3-0,Ssc Napoli
+Sun Sep 2 2018,Sassuolo Calcio,5-3,Genoa CFc
+Sun Sep 2 2018,Torino FC,1-0,SPAL Ferrara
+Sat Sep 15 2018,Inter,0-1,Parma FC
+Sat Sep 15 2018,Ssc Napoli,1-0,Acf Fiorentina
+Sat Sep 15 2018,Frosinone Calcio,0-5,Sampdoria
+Sun Sep 16 2018,As Roma,2-2,Chievo Verona
+Sun Sep 16 2018,Genoa CFc,1-0,Bologna FC
+Sun Sep 16 2018,Juventus,2-1,Sassuolo Calcio
+Sun Sep 16 2018,Udinese Calcio,1-1,Torino FC
+Sun Sep 16 2018,Empoli FC,0-1,Lazio Roma
+Sun Sep 16 2018,Cagliari Calcio,1-1,AC Milan
+Mon Sep 17 2018,SPAL Ferrara,2-0,Atalanta
+Wed Sep 19 2018,Sampdoria,1-1,Acf Fiorentina
+Fri Sep 21 2018,Sassuolo Calcio,3-1,Empoli FC
+Sat Sep 22 2018,Parma FC,2-0,Cagliari Calcio
+Sat Sep 22 2018,Acf Fiorentina,3-0,SPAL Ferrara
+Sat Sep 22 2018,Sampdoria,0-1,Inter
+Sun Sep 23 2018,Torino FC,1-3,Ssc Napoli
+Sun Sep 23 2018,Bologna FC,2-0,As Roma
+Sun Sep 23 2018,Chievo Verona,0-2,Udinese Calcio
+Sun Sep 23 2018,Lazio Roma,4-1,Genoa CFc
+Sun Sep 23 2018,AC Milan,2-2,Atalanta
+Sun Sep 23 2018,Frosinone Calcio,0-2,Juventus
+Tue Sep 25 2018,Inter,2-1,Acf Fiorentina
+Wed Sep 26 2018,Udinese Calcio,1-2,Lazio Roma
+Wed Sep 26 2018,Atalanta,0-0,Torino FC
+Wed Sep 26 2018,Cagliari Calcio,0-0,Sampdoria
+Wed Sep 26 2018,Genoa CFc,2-0,Chievo Verona
+Wed Sep 26 2018,Juventus,2-0,Bologna FC
+Wed Sep 26 2018,Ssc Napoli,3-0,Parma FC
+Wed Sep 26 2018,As Roma,4-0,Frosinone Calcio
+Thu Sep 27 2018,SPAL Ferrara,0-2,Sassuolo Calcio
+Thu Sep 27 2018,Empoli FC,1-1,AC Milan
+Sat Sep 29 2018,As Roma,3-1,Lazio Roma
+Sat Sep 29 2018,Juventus,3-1,Ssc Napoli
+Sat Sep 29 2018,Inter,2-0,Cagliari Calcio
+Sun Sep 30 2018,Bologna FC,2-1,Udinese Calcio
+Sun Sep 30 2018,Chievo Verona,0-1,Torino FC
+Sun Sep 30 2018,Acf Fiorentina,2-0,Atalanta
+Sun Sep 30 2018,Frosinone Calcio,1-2,Genoa CFc
+Sun Sep 30 2018,Parma FC,1-0,Empoli FC
+Sun Sep 30 2018,Sassuolo Calcio,1-4,AC Milan
+Mon Oct 1 2018,Sampdoria,2-1,SPAL Ferrara
+Fri Oct 5 2018,Torino FC,3-2,Frosinone Calcio
+Sat Oct 6 2018,Cagliari Calcio,2-0,Bologna FC
+Sat Oct 6 2018,Udinese Calcio,0-2,Juventus
+Sat Oct 6 2018,Empoli FC,0-2,As Roma
+Sun Oct 7 2018,Genoa CFc,1-3,Parma FC
+Sun Oct 7 2018,Atalanta,0-1,Sampdoria
+Sun Oct 7 2018,Lazio Roma,1-0,Acf Fiorentina
+Sun Oct 7 2018,AC Milan,3-1,Chievo Verona
+Sun Oct 7 2018,Ssc Napoli,2-0,Sassuolo Calcio
+Sun Oct 7 2018,SPAL Ferrara,1-2,Inter
+Sat Oct 20 2018,As Roma,0-2,SPAL Ferrara
+Sat Oct 20 2018,Juventus,1-1,Genoa CFc
+Sat Oct 20 2018,Udinese Calcio,0-3,Ssc Napoli
+Sun Oct 21 2018,Frosinone Calcio,3-3,Empoli FC
+Sun Oct 21 2018,Bologna FC,2-2,Torino FC
+Sun Oct 21 2018,Chievo Verona,1-5,Atalanta
+Sun Oct 21 2018,Parma FC,0-2,Lazio Roma
+Sun Oct 21 2018,Acf Fiorentina,1-1,Cagliari Calcio
+Sun Oct 21 2018,Inter,1-0,AC Milan
+Mon Oct 22 2018,Sampdoria,0-0,Sassuolo Calcio
+Sat Oct 27 2018,Atalanta,3-0,Parma FC
+Sat Oct 27 2018,Empoli FC,1-2,Juventus
+Sat Oct 27 2018,Torino FC,1-1,Acf Fiorentina
+Sun Oct 28 2018,Sassuolo Calcio,2-2,Bologna FC
+Sun Oct 28 2018,Cagliari Calcio,2-1,Chievo Verona
+Sun Oct 28 2018,Genoa CFc,2-2,Udinese Calcio
+Sun Oct 28 2018,SPAL Ferrara,0-3,Frosinone Calcio
+Sun Oct 28 2018,AC Milan,3-2,Sampdoria
+Sun Oct 28 2018,Ssc Napoli,1-1,As Roma
+Mon Oct 29 2018,Lazio Roma,0-3,Inter
+Wed Oct 31 2018,AC Milan,2-1,Genoa CFc
+Fri Nov 2 2018,Ssc Napoli,5-1,Empoli FC
+Sat Nov 3 2018,Inter,5-0,Genoa CFc
+Sat Nov 3 2018,Acf Fiorentina,1-1,As Roma
+Sat Nov 3 2018,Juventus,3-1,Cagliari Calcio
+Sun Nov 4 2018,Lazio Roma,4-1,SPAL Ferrara
+Sun Nov 4 2018,Chievo Verona,0-2,Sassuolo Calcio
+Sun Nov 4 2018,Parma FC,0-0,Frosinone Calcio
+Sun Nov 4 2018,Sampdoria,1-4,Torino FC
+Sun Nov 4 2018,Bologna FC,1-2,Atalanta
+Sun Nov 4 2018,Udinese Calcio,0-1,AC Milan
+Fri Nov 9 2018,Frosinone Calcio,1-1,Acf Fiorentina
+Sat Nov 10 2018,Torino FC,1-2,Parma FC
+Sat Nov 10 2018,SPAL Ferrara,2-2,Cagliari Calcio
+Sat Nov 10 2018,Genoa CFc,1-2,Ssc Napoli
+Sun Nov 11 2018,Atalanta,4-1,Inter
+Sun Nov 11 2018,Chievo Verona,2-2,Bologna FC
+Sun Nov 11 2018,Empoli FC,2-1,Udinese Calcio
+Sun Nov 11 2018,As Roma,4-1,Sampdoria
+Sun Nov 11 2018,Sassuolo Calcio,1-1,Lazio Roma
+Sun Nov 11 2018,AC Milan,0-2,Juventus
+Sat Nov 24 2018,Udinese Calcio,1-0,As Roma
+Sat Nov 24 2018,Juventus,2-0,SPAL Ferrara
+Sat Nov 24 2018,Inter,3-0,Frosinone Calcio
+Sun Nov 25 2018,Parma FC,2-1,Sassuolo Calcio
+Sun Nov 25 2018,Bologna FC,0-0,Acf Fiorentina
+Sun Nov 25 2018,Empoli FC,3-2,Atalanta
+Sun Nov 25 2018,Ssc Napoli,0-0,Chievo Verona
+Sun Nov 25 2018,Lazio Roma,1-1,AC Milan
+Sun Nov 25 2018,Genoa CFc,1-1,Sampdoria
+Mon Nov 26 2018,Cagliari Calcio,0-0,Torino FC
+Sat Dec 1 2018,SPAL Ferrara,2-2,Empoli FC
+Sat Dec 1 2018,Acf Fiorentina,0-3,Juventus
+Sat Dec 1 2018,Sampdoria,4-1,Bologna FC
+Sun Dec 2 2018,AC Milan,2-1,Parma FC
+Sun Dec 2 2018,Frosinone Calcio,1-1,Cagliari Calcio
+Sun Dec 2 2018,Sassuolo Calcio,0-0,Udinese Calcio
+Sun Dec 2 2018,Torino FC,2-1,Genoa CFc
+Sun Dec 2 2018,Chievo Verona,1-1,Lazio Roma
+Sun Dec 2 2018,As Roma,2-2,Inter
+Mon Dec 3 2018,Atalanta,1-2,Ssc Napoli
+Fri Dec 7 2018,Juventus,1-0,Inter
+Sat Dec 8 2018,Ssc Napoli,4-0,Frosinone Calcio
+Sat Dec 8 2018,Cagliari Calcio,2-2,As Roma
+Sat Dec 8 2018,Lazio Roma,2-2,Sampdoria
+Sun Dec 9 2018,Sassuolo Calcio,3-3,Acf Fiorentina
+Sun Dec 9 2018,Empoli FC,2-1,Bologna FC
+Sun Dec 9 2018,Parma FC,1-1,Chievo Verona
+Sun Dec 9 2018,Udinese Calcio,1-3,Atalanta
+Sun Dec 9 2018,Genoa CFc,1-1,SPAL Ferrara
+Sun Dec 9 2018,AC Milan,0-0,Torino FC
+Sat Dec 15 2018,Inter,1-0,Udinese Calcio
+Sat Dec 15 2018,Torino FC,0-1,Juventus
+Sun Dec 16 2018,SPAL Ferrara,0-0,Chievo Verona
+Sun Dec 16 2018,Acf Fiorentina,3-1,Empoli FC
+Sun Dec 16 2018,Frosinone Calcio,0-2,Sassuolo Calcio
+Sun Dec 16 2018,Sampdoria,2-0,Parma FC
+Sun Dec 16 2018,Cagliari Calcio,0-1,Ssc Napoli
+Sun Dec 16 2018,As Roma,3-2,Genoa CFc
+Mon Dec 17 2018,Atalanta,1-0,Lazio Roma
+Tue Dec 18 2018,Bologna FC,0-0,AC Milan
+Sat Dec 22 2018,Lazio Roma,3-1,Cagliari Calcio
+Sat Dec 22 2018,Empoli FC,2-4,Sampdoria
+Sat Dec 22 2018,Genoa CFc,3-1,Atalanta
+Sat Dec 22 2018,AC Milan,0-1,Acf Fiorentina
+Sat Dec 22 2018,Ssc Napoli,1-0,SPAL Ferrara
+Sat Dec 22 2018,Sassuolo Calcio,1-1,Torino FC
+Sat Dec 22 2018,Udinese Calcio,1-1,Frosinone Calcio
+Sat Dec 22 2018,Chievo Verona,1-1,Inter
+Sat Dec 22 2018,Parma FC,0-0,Bologna FC
+Sat Dec 22 2018,Juventus,1-0,As Roma
+Wed Dec 26 2018,Frosinone Calcio,0-0,AC Milan
+Wed Dec 26 2018,Atalanta,2-2,Juventus
+Wed Dec 26 2018,Bologna FC,0-2,Lazio Roma
+Wed Dec 26 2018,Cagliari Calcio,1-0,Genoa CFc
+Wed Dec 26 2018,Acf Fiorentina,0-1,Parma FC
+Wed Dec 26 2018,Sampdoria,2-0,Chievo Verona
+Wed Dec 26 2018,As Roma,3-1,Sassuolo Calcio
+Wed Dec 26 2018,SPAL Ferrara,0-0,Udinese Calcio
+Wed Dec 26 2018,Torino FC,3-0,Empoli FC
+Wed Dec 26 2018,Inter,1-0,Ssc Napoli
+Sat Dec 29 2018,Juventus,2-1,Sampdoria
+Sat Dec 29 2018,Chievo Verona,1-0,Frosinone Calcio
+Sat Dec 29 2018,Empoli FC,0-1,Inter
+Sat Dec 29 2018,Genoa CFc,0-0,Acf Fiorentina
+Sat Dec 29 2018,Lazio Roma,1-1,Torino FC
+Sat Dec 29 2018,Parma FC,0-2,As Roma
+Sat Dec 29 2018,Sassuolo Calcio,2-6,Atalanta
+Sat Dec 29 2018,Udinese Calcio,2-0,Cagliari Calcio
+Sat Dec 29 2018,Ssc Napoli,3-2,Bologna FC
+Sat Dec 29 2018,AC Milan,2-1,SPAL Ferrara
+Sat Jan 19 2019,As Roma,3-2,Torino FC
+Sat Jan 19 2019,Udinese Calcio,1-2,Parma FC
+Sat Jan 19 2019,Inter,0-0,Sassuolo Calcio
+Sun Jan 20 2019,Frosinone Calcio,0-5,Atalanta
+Sun Jan 20 2019,SPAL Ferrara,1-1,Bologna FC
+Sun Jan 20 2019,Acf Fiorentina,3-3,Sampdoria
+Sun Jan 20 2019,Cagliari Calcio,2-2,Empoli FC
+Sun Jan 20 2019,Ssc Napoli,2-1,Lazio Roma
+Mon Jan 21 2019,Genoa CFc,0-2,AC Milan
+Mon Jan 21 2019,Juventus,3-0,Chievo Verona
+Sat Jan 26 2019,Sassuolo Calcio,3-0,Cagliari Calcio
+Sat Jan 26 2019,Sampdoria,4-0,Udinese Calcio
+Sat Jan 26 2019,AC Milan,0-0,Ssc Napoli
+Sun Jan 27 2019,Chievo Verona,3-4,Acf Fiorentina
+Sun Jan 27 2019,Bologna FC,0-4,Frosinone Calcio
+Sun Jan 27 2019,Atalanta,3-3,As Roma
+Sun Jan 27 2019,Parma FC,2-3,SPAL Ferrara
+Sun Jan 27 2019,Torino FC,1-0,Inter
+Sun Jan 27 2019,Lazio Roma,1-2,Juventus
+Mon Jan 28 2019,Empoli FC,1-3,Genoa CFc
+Sat Feb 2 2019,Empoli FC,2-2,Chievo Verona
+Sat Feb 2 2019,Ssc Napoli,3-0,Sampdoria
+Sat Feb 2 2019,Juventus,3-3,Parma FC
+Sun Feb 3 2019,SPAL Ferrara,0-0,Torino FC
+Sun Feb 3 2019,Udinese Calcio,1-1,Acf Fiorentina
+Sun Feb 3 2019,Genoa CFc,1-1,Sassuolo Calcio
+Sun Feb 3 2019,Inter,0-1,Bologna FC
+Sun Feb 3 2019,As Roma,1-1,AC Milan
+Mon Feb 4 2019,Frosinone Calcio,0-1,Lazio Roma
+Mon Feb 4 2019,Cagliari Calcio,0-1,Atalanta
+Thu Feb 7 2019,Lazio Roma,1-0,Empoli FC
+Fri Feb 8 2019,Chievo Verona,0-3,As Roma
+Sat Feb 9 2019,Acf Fiorentina,0-0,Ssc Napoli
+Sat Feb 9 2019,Parma FC,0-1,Inter
+Sun Feb 10 2019,Bologna FC,1-1,Genoa CFc
+Sun Feb 10 2019,Sampdoria,0-1,Frosinone Calcio
+Sun Feb 10 2019,Atalanta,2-1,SPAL Ferrara
+Sun Feb 10 2019,Torino FC,1-0,Udinese Calcio
+Sun Feb 10 2019,Sassuolo Calcio,0-3,Juventus
+Sun Feb 10 2019,AC Milan,3-0,Cagliari Calcio
+Fri Feb 15 2019,Juventus,3-0,Frosinone Calcio
+Sat Feb 16 2019,Cagliari Calcio,2-1,Parma FC
+Sat Feb 16 2019,Atalanta,1-3,AC Milan
+Sun Feb 17 2019,SPAL Ferrara,1-4,Acf Fiorentina
+Sun Feb 17 2019,Udinese Calcio,1-0,Chievo Verona
+Sun Feb 17 2019,Genoa CFc,2-1,Lazio Roma
+Sun Feb 17 2019,Empoli FC,3-0,Sassuolo Calcio
+Sun Feb 17 2019,Inter,2-1,Sampdoria
+Sun Feb 17 2019,Ssc Napoli,0-0,Torino FC
+Mon Feb 18 2019,As Roma,2-1,Bologna FC
+Fri Feb 22 2019,AC Milan,3-0,Empoli FC
+Sat Feb 23 2019,Torino FC,2-0,Atalanta
+Sat Feb 23 2019,Frosinone Calcio,2-3,As Roma
+Sun Feb 24 2019,Sampdoria,1-0,Cagliari Calcio
+Sun Feb 24 2019,Chievo Verona,0-0,Genoa CFc
+Sun Feb 24 2019,Bologna FC,0-1,Juventus
+Sun Feb 24 2019,Sassuolo Calcio,1-1,SPAL Ferrara
+Sun Feb 24 2019,Parma FC,0-4,Ssc Napoli
+Sun Feb 24 2019,Acf Fiorentina,3-3,Inter
+Fri Mar 1 2019,Cagliari Calcio,2-1,Inter
+Sat Mar 2 2019,Empoli FC,3-3,Parma FC
+Sat Mar 2 2019,AC Milan,1-0,Sassuolo Calcio
+Sat Mar 2 2019,Lazio Roma,3-0,As Roma
+Sun Mar 3 2019,Torino FC,3-0,Chievo Verona
+Sun Mar 3 2019,Udinese Calcio,2-1,Bologna FC
+Sun Mar 3 2019,Genoa CFc,0-0,Frosinone Calcio
+Sun Mar 3 2019,SPAL Ferrara,1-2,Sampdoria
+Sun Mar 3 2019,Atalanta,3-1,Acf Fiorentina
+Sun Mar 3 2019,Ssc Napoli,1-2,Juventus
+Fri Mar 8 2019,Juventus,4-1,Udinese Calcio
+Sat Mar 9 2019,Parma FC,1-0,Genoa CFc
+Sat Mar 9 2019,Chievo Verona,1-2,AC Milan
+Sun Mar 10 2019,Bologna FC,2-0,Cagliari Calcio
+Sun Mar 10 2019,Sampdoria,1-2,Atalanta
+Sun Mar 10 2019,Inter,2-0,SPAL Ferrara
+Sun Mar 10 2019,Frosinone Calcio,1-2,Torino FC
+Sun Mar 10 2019,Sassuolo Calcio,1-1,Ssc Napoli
+Sun Mar 10 2019,Acf Fiorentina,1-1,Lazio Roma
+Mon Mar 11 2019,As Roma,2-1,Empoli FC
+Fri Mar 15 2019,Cagliari Calcio,2-1,Acf Fiorentina
+Sat Mar 16 2019,Sassuolo Calcio,3-5,Sampdoria
+Sat Mar 16 2019,SPAL Ferrara,2-1,As Roma
+Sat Mar 16 2019,Torino FC,2-3,Bologna FC
+Sun Mar 17 2019,Genoa CFc,2-0,Juventus
+Sun Mar 17 2019,Atalanta,1-1,Chievo Verona
+Sun Mar 17 2019,Empoli FC,2-1,Frosinone Calcio
+Sun Mar 17 2019,Lazio Roma,4-1,Parma FC
+Sun Mar 17 2019,Ssc Napoli,4-2,Udinese Calcio
+Sun Mar 17 2019,AC Milan,2-3,Inter
+Fri Mar 29 2019,Chievo Verona,0-3,Cagliari Calcio
+Sat Mar 30 2019,Udinese Calcio,2-0,Genoa CFc
+Sat Mar 30 2019,Juventus,1-0,Empoli FC
+Sat Mar 30 2019,Sampdoria,1-0,AC Milan
+Sun Mar 31 2019,Parma FC,1-3,Atalanta
+Sun Mar 31 2019,As Roma,1-4,Ssc Napoli
+Sun Mar 31 2019,Frosinone Calcio,0-1,SPAL Ferrara
+Sun Mar 31 2019,Acf Fiorentina,1-1,Torino FC
+Sun Mar 31 2019,Bologna FC,2-1,Sassuolo Calcio
+Sun Mar 31 2019,Inter,0-1,Lazio Roma
+Tue Apr 2 2019,AC Milan,1-1,Udinese Calcio
+Tue Apr 2 2019,Cagliari Calcio,0-2,Juventus
+Wed Apr 3 2019,Empoli FC,2-1,Ssc Napoli
+Wed Apr 3 2019,As Roma,2-2,Acf Fiorentina
+Wed Apr 3 2019,Genoa CFc,0-4,Inter
+Wed Apr 3 2019,SPAL Ferrara,1-0,Lazio Roma
+Wed Apr 3 2019,Frosinone Calcio,3-2,Parma FC
+Wed Apr 3 2019,Torino FC,2-1,Sampdoria
+Thu Apr 4 2019,Sassuolo Calcio,4-0,Chievo Verona
+Thu Apr 4 2019,Atalanta,4-1,Bologna FC
+Sat Apr 6 2019,Parma FC,0-0,Torino FC
+Sat Apr 6 2019,Juventus,2-1,AC Milan
+Sat Apr 6 2019,Sampdoria,0-1,As Roma
+Sun Apr 7 2019,Acf Fiorentina,0-1,Frosinone Calcio
+Sun Apr 7 2019,Udinese Calcio,3-2,Empoli FC
+Sun Apr 7 2019,Cagliari Calcio,2-1,SPAL Ferrara
+Sun Apr 7 2019,Inter,0-0,Atalanta
+Sun Apr 7 2019,Lazio Roma,2-2,Sassuolo Calcio
+Sun Apr 7 2019,Ssc Napoli,1-1,Genoa CFc
+Mon Apr 8 2019,Bologna FC,3-0,Chievo Verona
+Sat Apr 13 2019,SPAL Ferrara,2-1,Juventus
+Sat Apr 13 2019,As Roma,1-0,Udinese Calcio
+Sat Apr 13 2019,AC Milan,1-0,Lazio Roma
+Sun Apr 14 2019,Torino FC,1-1,Cagliari Calcio
+Sun Apr 14 2019,Acf Fiorentina,0-0,Bologna FC
+Sun Apr 14 2019,Sampdoria,2-0,Genoa CFc
+Sun Apr 14 2019,Sassuolo Calcio,0-0,Parma FC
+Sun Apr 14 2019,Chievo Verona,1-3,Ssc Napoli
+Sun Apr 14 2019,Frosinone Calcio,1-3,Inter
+Mon Apr 15 2019,Atalanta,0-0,Empoli FC
+Wed Apr 17 2019,Lazio Roma,2-0,Udinese Calcio
+Sat Apr 20 2019,Parma FC,1-1,AC Milan
+Sat Apr 20 2019,Lazio Roma,1-2,Chievo Verona
+Sat Apr 20 2019,Cagliari Calcio,1-0,Frosinone Calcio
+Sat Apr 20 2019,Bologna FC,3-0,Sampdoria
+Sat Apr 20 2019,Udinese Calcio,1-1,Sassuolo Calcio
+Sat Apr 20 2019,Empoli FC,2-4,SPAL Ferrara
+Sat Apr 20 2019,Genoa CFc,0-1,Torino FC
+Sat Apr 20 2019,Juventus,2-1,Acf Fiorentina
+Sat Apr 20 2019,Inter,1-1,As Roma
+Mon Apr 22 2019,Ssc Napoli,1-2,Atalanta
+Sat Apr 27 2019,Bologna FC,3-1,Empoli FC
+Sat Apr 27 2019,As Roma,3-0,Cagliari Calcio
+Sat Apr 27 2019,Inter,1-1,Juventus
+Sun Apr 28 2019,Frosinone Calcio,0-2,Ssc Napoli
+Sun Apr 28 2019,SPAL Ferrara,1-1,Genoa CFc
+Sun Apr 28 2019,Chievo Verona,1-1,Parma FC
+Sun Apr 28 2019,Sampdoria,1-2,Lazio Roma
+Sun Apr 28 2019,Torino FC,2-0,AC Milan
+Mon Apr 29 2019,Atalanta,2-0,Udinese Calcio
+Mon Apr 29 2019,Acf Fiorentina,0-1,Sassuolo Calcio
+Fri May 3 2019,Juventus,1-1,Torino FC
+Sat May 4 2019,Chievo Verona,0-4,SPAL Ferrara
+Sat May 4 2019,Udinese Calcio,0-0,Inter
+Sun May 5 2019,Empoli FC,1-0,Acf Fiorentina
+Sun May 5 2019,Lazio Roma,1-3,Atalanta
+Sun May 5 2019,Sassuolo Calcio,2-2,Frosinone Calcio
+Sun May 5 2019,Parma FC,3-3,Sampdoria
+Sun May 5 2019,Genoa CFc,1-1,As Roma
+Sun May 5 2019,Ssc Napoli,2-1,Cagliari Calcio
+Mon May 6 2019,AC Milan,2-1,Bologna FC
+Sat May 11 2019,Atalanta,2-1,Genoa CFc
+Sat May 11 2019,Cagliari Calcio,1-2,Lazio Roma
+Sat May 11 2019,Acf Fiorentina,0-1,AC Milan
+Sun May 12 2019,Torino FC,3-2,Sassuolo Calcio
+Sun May 12 2019,Sampdoria,1-2,Empoli FC
+Sun May 12 2019,Frosinone Calcio,1-3,Udinese Calcio
+Sun May 12 2019,SPAL Ferrara,1-2,Ssc Napoli
+Sun May 12 2019,As Roma,2-0,Juventus
+Mon May 13 2019,Bologna FC,4-1,Parma FC
+Mon May 13 2019,Inter,2-0,Chievo Verona
+Sat May 18 2019,Udinese Calcio,3-2,SPAL Ferrara
+Sat May 18 2019,Genoa CFc,1-1,Cagliari Calcio
+Sat May 18 2019,Sassuolo Calcio,0-0,As Roma
+Sun May 19 2019,Chievo Verona,0-0,Sampdoria
+Sun May 19 2019,Parma FC,1-0,Acf Fiorentina
+Sun May 19 2019,Empoli FC,4-1,Torino FC
+Sun May 19 2019,AC Milan,2-0,Frosinone Calcio
+Sun May 19 2019,Juventus,1-1,Atalanta
+Sun May 19 2019,Ssc Napoli,4-1,Inter
+Mon May 20 2019,Lazio Roma,3-3,Bologna FC
+Sat May 25 2019,Frosinone Calcio,0-0,Chievo Verona
+Sat May 25 2019,Bologna FC,3-2,Ssc Napoli
+Sun May 26 2019,Torino FC,3-1,Lazio Roma
+Sun May 26 2019,Sampdoria,2-0,Juventus
+Sun May 26 2019,Inter,2-1,Empoli FC
+Sun May 26 2019,Acf Fiorentina,0-0,Genoa CFc
+Sun May 26 2019,SPAL Ferrara,2-3,AC Milan
+Sun May 26 2019,As Roma,2-1,Parma FC
+Sun May 26 2019,Atalanta,3-1,Sassuolo Calcio
+Sun May 26 2019,Cagliari Calcio,1-2,Udinese Calcio

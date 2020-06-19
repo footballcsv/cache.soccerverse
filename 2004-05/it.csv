@@ -1,0 +1,383 @@
+Date,Team 1,FT,Team 2
+Sat Sep 11 2004,AC Milan,2-2,As Livorno
+Sat Sep 11 2004,Chievo Verona,2-2,Inter
+Sun Sep 12 2004,As Roma,1-0,Acf Fiorentina
+Sun Sep 12 2004,Parma FC,0-0,Acr Messina
+Sun Sep 12 2004,Sampdoria,0-1,Lazio Roma
+Sun Sep 12 2004,Brescia Calcio,0-3,Juventus
+Sun Sep 12 2004,Reggina Calcio,0-0,Udinese Calcio
+Sun Sep 12 2004,US Palermo,1-0,AC Siena
+Sun Sep 12 2004,Atalanta,2-2,US Lecce
+Sun Sep 12 2004,Cagliari Calcio,1-0,Bologna FC
+Sat Sep 18 2004,Inter,1-1,US Palermo
+Sat Sep 18 2004,US Lecce,4-1,Brescia Calcio
+Sun Sep 19 2004,Juventus,2-0,Atalanta
+Sun Sep 19 2004,Lazio Roma,1-1,Reggina Calcio
+Sun Sep 19 2004,Udinese Calcio,4-0,Parma FC
+Sun Sep 19 2004,Bologna FC,0-2,AC Milan
+Sun Sep 19 2004,AC Siena,2-1,Sampdoria
+Sun Sep 19 2004,Acr Messina,4-3,As Roma
+Sun Sep 19 2004,As Livorno,1-2,Chievo Verona
+Sun Sep 19 2004,Acf Fiorentina,2-1,Cagliari Calcio
+Wed Sep 22 2004,AC Milan,1-2,Acr Messina
+Wed Sep 22 2004,As Roma,2-2,US Lecce
+Wed Sep 22 2004,Parma FC,1-2,Bologna FC
+Wed Sep 22 2004,Sampdoria,0-3,Juventus
+Wed Sep 22 2004,Chievo Verona,0-0,Udinese Calcio
+Wed Sep 22 2004,Brescia Calcio,0-2,Lazio Roma
+Wed Sep 22 2004,Reggina Calcio,2-1,As Livorno
+Wed Sep 22 2004,US Palermo,0-0,Acf Fiorentina
+Wed Sep 22 2004,Atalanta,2-3,Inter
+Wed Sep 22 2004,Cagliari Calcio,2-0,AC Siena
+Sat Sep 25 2004,Juventus,1-1,US Palermo
+Sat Sep 25 2004,Bologna FC,3-1,As Roma
+Sun Sep 26 2004,Inter,2-2,Parma FC
+Sun Sep 26 2004,Lazio Roma,1-2,AC Milan
+Sun Sep 26 2004,Udinese Calcio,1-2,Brescia Calcio
+Sun Sep 26 2004,US Lecce,3-1,Cagliari Calcio
+Sun Sep 26 2004,AC Siena,0-0,Reggina Calcio
+Sun Sep 26 2004,Acr Messina,0-0,Chievo Verona
+Sun Sep 26 2004,As Livorno,1-1,Atalanta
+Sun Sep 26 2004,Acf Fiorentina,0-2,Sampdoria
+Sat Oct 2 2004,Chievo Verona,2-1,US Lecce
+Sat Oct 2 2004,Cagliari Calcio,2-1,Brescia Calcio
+Sun Oct 3 2004,AC Milan,3-1,Reggina Calcio
+Sun Oct 3 2004,As Roma,3-3,Inter
+Sun Oct 3 2004,Parma FC,0-0,Acf Fiorentina
+Sun Oct 3 2004,Udinese Calcio,0-1,Juventus
+Sun Oct 3 2004,Sampdoria,2-0,As Livorno
+Sun Oct 3 2004,US Palermo,1-0,Bologna FC
+Sun Oct 3 2004,Atalanta,1-1,Lazio Roma
+Sun Oct 3 2004,Acr Messina,4-1,AC Siena
+Sat Oct 16 2004,Juventus,2-1,Acr Messina
+Sat Oct 16 2004,As Livorno,0-2,As Roma
+Sun Oct 17 2004,Inter,3-1,Udinese Calcio
+Sun Oct 17 2004,Lazio Roma,0-1,Chievo Verona
+Sun Oct 17 2004,Bologna FC,2-1,Atalanta
+Sun Oct 17 2004,Brescia Calcio,3-1,Parma FC
+Sun Oct 17 2004,US Lecce,2-0,US Palermo
+Sun Oct 17 2004,Reggina Calcio,0-1,Sampdoria
+Sun Oct 17 2004,Cagliari Calcio,0-1,AC Milan
+Sun Oct 17 2004,Acf Fiorentina,0-0,AC Siena
+Sat Oct 23 2004,AC Siena,0-3,Juventus
+Sat Oct 23 2004,Atalanta,2-2,Cagliari Calcio
+Sun Oct 24 2004,AC Milan,0-0,Inter
+Sun Oct 24 2004,As Roma,1-1,US Palermo
+Sun Oct 24 2004,Parma FC,3-1,Lazio Roma
+Sun Oct 24 2004,Udinese Calcio,2-2,Acf Fiorentina
+Sun Oct 24 2004,Sampdoria,0-1,Brescia Calcio
+Sun Oct 24 2004,Chievo Verona,0-0,Reggina Calcio
+Sun Oct 24 2004,Acr Messina,1-4,US Lecce
+Sun Oct 24 2004,As Livorno,1-0,Bologna FC
+Wed Oct 27 2004,AC Milan,3-0,Atalanta
+Wed Oct 27 2004,Lazio Roma,2-0,Acr Messina
+Wed Oct 27 2004,Chievo Verona,0-2,Sampdoria
+Wed Oct 27 2004,Bologna FC,0-1,Udinese Calcio
+Wed Oct 27 2004,Brescia Calcio,0-1,AC Siena
+Wed Oct 27 2004,US Lecce,2-2,Inter
+Wed Oct 27 2004,Reggina Calcio,1-2,Acf Fiorentina
+Wed Oct 27 2004,US Palermo,1-2,As Livorno
+Wed Oct 27 2004,Cagliari Calcio,2-1,Parma FC
+Thu Oct 28 2004,Juventus,2-0,As Roma
+Sat Oct 30 2004,Inter,1-1,Lazio Roma
+Sat Oct 30 2004,Sampdoria,0-1,AC Milan
+Sun Oct 31 2004,As Roma,5-1,Cagliari Calcio
+Sun Oct 31 2004,Juventus,3-0,Chievo Verona
+Sun Oct 31 2004,Parma FC,2-2,Atalanta
+Sun Oct 31 2004,Udinese Calcio,1-0,US Palermo
+Sun Oct 31 2004,AC Siena,1-1,Bologna FC
+Sun Oct 31 2004,Acr Messina,2-1,Reggina Calcio
+Sun Oct 31 2004,As Livorno,2-1,Brescia Calcio
+Sun Oct 31 2004,Acf Fiorentina,4-0,US Lecce
+Sat Nov 6 2004,Brescia Calcio,1-0,Chievo Verona
+Sat Nov 6 2004,Reggina Calcio,2-1,Juventus
+Sun Nov 7 2004,AC Milan,1-1,As Roma
+Sun Nov 7 2004,Lazio Roma,1-1,AC Siena
+Sun Nov 7 2004,Bologna FC,2-2,Acr Messina
+Sun Nov 7 2004,US Lecce,3-4,Udinese Calcio
+Sun Nov 7 2004,US Palermo,1-1,Parma FC
+Sun Nov 7 2004,Atalanta,0-0,Sampdoria
+Sun Nov 7 2004,Cagliari Calcio,0-0,As Livorno
+Sun Nov 7 2004,Acf Fiorentina,1-1,Inter
+Wed Nov 10 2004,As Roma,0-3,Udinese Calcio
+Wed Nov 10 2004,Juventus,1-0,Acf Fiorentina
+Wed Nov 10 2004,Parma FC,1-0,Reggina Calcio
+Wed Nov 10 2004,Inter,2-2,Bologna FC
+Wed Nov 10 2004,Sampdoria,0-0,Cagliari Calcio
+Wed Nov 10 2004,Chievo Verona,1-0,Atalanta
+Wed Nov 10 2004,Brescia Calcio,0-0,AC Milan
+Wed Nov 10 2004,AC Siena,1-1,US Lecce
+Wed Nov 10 2004,As Livorno,1-0,Lazio Roma
+Thu Nov 11 2004,Acr Messina,0-0,US Palermo
+Sun Nov 14 2004,AC Milan,2-1,AC Siena
+Sun Nov 14 2004,Parma FC,2-2,Chievo Verona
+Sun Nov 14 2004,Lazio Roma,2-1,Bologna FC
+Sun Nov 14 2004,Udinese Calcio,1-1,Acr Messina
+Sun Nov 14 2004,US Lecce,0-1,Juventus
+Sun Nov 14 2004,Reggina Calcio,1-0,As Roma
+Sun Nov 14 2004,US Palermo,2-0,Sampdoria
+Sun Nov 14 2004,Atalanta,0-0,Brescia Calcio
+Sun Nov 14 2004,Cagliari Calcio,3-3,Inter
+Sun Nov 14 2004,Acf Fiorentina,1-1,As Livorno
+Sat Nov 27 2004,AC Siena,0-4,As Roma
+Sat Nov 27 2004,As Livorno,1-2,Udinese Calcio
+Sun Nov 28 2004,Inter,2-2,Juventus
+Sun Nov 28 2004,Lazio Roma,2-3,Cagliari Calcio
+Sun Nov 28 2004,Sampdoria,1-0,Parma FC
+Sun Nov 28 2004,Chievo Verona,0-1,AC Milan
+Sun Nov 28 2004,Bologna FC,0-0,US Lecce
+Sun Nov 28 2004,Brescia Calcio,0-2,US Palermo
+Sun Nov 28 2004,Atalanta,0-1,Reggina Calcio
+Sun Nov 28 2004,Acr Messina,1-1,Acf Fiorentina
+Sat Dec 4 2004,Parma FC,1-2,AC Milan
+Sat Dec 4 2004,Inter,5-0,Acr Messina
+Sun Dec 5 2004,As Roma,1-1,Sampdoria
+Sun Dec 5 2004,Juventus,2-1,Lazio Roma
+Sun Dec 5 2004,Udinese Calcio,1-0,AC Siena
+Sun Dec 5 2004,US Lecce,3-2,As Livorno
+Sun Dec 5 2004,Reggina Calcio,1-3,Brescia Calcio
+Sun Dec 5 2004,US Palermo,1-0,Atalanta
+Sun Dec 5 2004,Cagliari Calcio,4-2,Chievo Verona
+Sun Dec 5 2004,Acf Fiorentina,1-0,Bologna FC
+Sat Dec 11 2004,Lazio Roma,3-3,US Lecce
+Sat Dec 11 2004,Atalanta,0-1,Udinese Calcio
+Sun Dec 12 2004,AC Milan,6-0,Acf Fiorentina
+Sun Dec 12 2004,Sampdoria,1-0,Acr Messina
+Sun Dec 12 2004,Chievo Verona,2-1,US Palermo
+Sun Dec 12 2004,Bologna FC,0-1,Juventus
+Sun Dec 12 2004,Brescia Calcio,0-1,As Roma
+Sun Dec 12 2004,AC Siena,2-2,Inter
+Sun Dec 12 2004,Reggina Calcio,3-2,Cagliari Calcio
+Sun Dec 12 2004,As Livorno,2-0,Parma FC
+Sat Dec 18 2004,Juventus,0-0,AC Milan
+Sun Dec 19 2004,As Roma,5-1,Parma FC
+Sun Dec 19 2004,Inter,1-0,Brescia Calcio
+Sun Dec 19 2004,Udinese Calcio,3-0,Lazio Roma
+Sun Dec 19 2004,Bologna FC,2-0,Reggina Calcio
+Sun Dec 19 2004,US Lecce,1-4,Sampdoria
+Sun Dec 19 2004,AC Siena,1-1,As Livorno
+Sun Dec 19 2004,US Palermo,3-0,Cagliari Calcio
+Sun Dec 19 2004,Acf Fiorentina,2-0,Chievo Verona
+Thu Jan 6 2005,AC Milan,5-2,US Lecce
+Thu Jan 6 2005,Parma FC,1-1,Juventus
+Thu Jan 6 2005,Lazio Roma,3-1,As Roma
+Thu Jan 6 2005,Sampdoria,2-0,Udinese Calcio
+Thu Jan 6 2005,Chievo Verona,1-3,AC Siena
+Thu Jan 6 2005,Brescia Calcio,1-1,Bologna FC
+Thu Jan 6 2005,Reggina Calcio,1-0,US Palermo
+Thu Jan 6 2005,Atalanta,1-0,Acf Fiorentina
+Thu Jan 6 2005,Cagliari Calcio,2-1,Acr Messina
+Thu Jan 6 2005,As Livorno,0-2,Inter
+Sun Jan 9 2005,As Roma,2-1,Atalanta
+Sun Jan 9 2005,Juventus,4-2,As Livorno
+Sun Jan 9 2005,Inter,3-2,Sampdoria
+Sun Jan 9 2005,Udinese Calcio,2-0,Cagliari Calcio
+Sun Jan 9 2005,Bologna FC,3-1,Chievo Verona
+Sun Jan 9 2005,US Lecce,1-1,Reggina Calcio
+Sun Jan 9 2005,AC Siena,0-1,Parma FC
+Sun Jan 9 2005,US Palermo,0-0,AC Milan
+Sun Jan 9 2005,Acr Messina,2-0,Brescia Calcio
+Sun Jan 9 2005,Acf Fiorentina,2-3,Lazio Roma
+Sat Jan 15 2005,Brescia Calcio,1-1,Acf Fiorentina
+Sat Jan 15 2005,Reggina Calcio,0-0,Inter
+Sun Jan 16 2005,AC Milan,3-1,Udinese Calcio
+Sun Jan 16 2005,Parma FC,2-1,US Lecce
+Sun Jan 16 2005,Lazio Roma,1-3,US Palermo
+Sun Jan 16 2005,Sampdoria,0-0,Bologna FC
+Sun Jan 16 2005,Chievo Verona,2-2,As Roma
+Sun Jan 16 2005,Atalanta,1-1,AC Siena
+Sun Jan 16 2005,Cagliari Calcio,1-1,Juventus
+Sun Jan 16 2005,As Livorno,3-1,Acr Messina
+Wed Jan 19 2005,Acr Messina,1-0,Atalanta
+Sat Jan 22 2005,Inter,1-1,Chievo Verona
+Sat Jan 22 2005,Bologna FC,1-0,Cagliari Calcio
+Sun Jan 23 2005,Juventus,2-0,Brescia Calcio
+Sun Jan 23 2005,Lazio Roma,1-2,Sampdoria
+Sun Jan 23 2005,Udinese Calcio,0-2,Reggina Calcio
+Sun Jan 23 2005,US Lecce,1-0,Atalanta
+Sun Jan 23 2005,AC Siena,0-0,US Palermo
+Sun Jan 23 2005,Acr Messina,1-0,Parma FC
+Sun Jan 23 2005,As Livorno,1-0,AC Milan
+Sun Jan 23 2005,Acf Fiorentina,1-2,As Roma
+Sat Jan 29 2005,Parma FC,1-0,Udinese Calcio
+Sat Jan 29 2005,Chievo Verona,1-0,As Livorno
+Sun Jan 30 2005,AC Milan,0-1,Bologna FC
+Sun Jan 30 2005,As Roma,3-2,Acr Messina
+Sun Jan 30 2005,Sampdoria,1-1,AC Siena
+Sun Jan 30 2005,Brescia Calcio,0-1,US Lecce
+Sun Jan 30 2005,Reggina Calcio,2-1,Lazio Roma
+Sun Jan 30 2005,US Palermo,0-2,Inter
+Sun Jan 30 2005,Atalanta,1-2,Juventus
+Sun Jan 30 2005,Cagliari Calcio,1-0,Acf Fiorentina
+Wed Feb 2 2005,Juventus,0-1,Sampdoria
+Wed Feb 2 2005,Inter,1-0,Atalanta
+Wed Feb 2 2005,Lazio Roma,0-0,Brescia Calcio
+Wed Feb 2 2005,Udinese Calcio,3-0,Chievo Verona
+Wed Feb 2 2005,US Lecce,1-1,As Roma
+Wed Feb 2 2005,AC Siena,2-2,Cagliari Calcio
+Wed Feb 2 2005,Acr Messina,1-4,AC Milan
+Wed Feb 2 2005,As Livorno,1-1,Reggina Calcio
+Wed Feb 2 2005,Acf Fiorentina,1-2,US Palermo
+Thu Feb 3 2005,Bologna FC,3-1,Parma FC
+Sat Feb 5 2005,Sampdoria,3-0,Acf Fiorentina
+Sat Feb 5 2005,US Palermo,1-0,Juventus
+Sun Feb 6 2005,AC Milan,2-1,Lazio Roma
+Sun Feb 6 2005,As Roma,1-1,Bologna FC
+Sun Feb 6 2005,Parma FC,2-2,Inter
+Sun Feb 6 2005,Chievo Verona,1-0,Acr Messina
+Sun Feb 6 2005,Brescia Calcio,0-1,Udinese Calcio
+Sun Feb 6 2005,Reggina Calcio,3-3,AC Siena
+Sun Feb 6 2005,Atalanta,1-0,As Livorno
+Sun Feb 6 2005,Cagliari Calcio,3-1,US Lecce
+Sat Feb 12 2005,Inter,2-0,As Roma
+Sat Feb 12 2005,Lazio Roma,2-1,Atalanta
+Sun Feb 13 2005,Juventus,2-1,Udinese Calcio
+Sun Feb 13 2005,Bologna FC,1-1,US Palermo
+Sun Feb 13 2005,Brescia Calcio,2-0,Cagliari Calcio
+Sun Feb 13 2005,US Lecce,3-0,Chievo Verona
+Sun Feb 13 2005,AC Siena,2-2,Acr Messina
+Sun Feb 13 2005,Reggina Calcio,0-1,AC Milan
+Sun Feb 13 2005,As Livorno,1-0,Sampdoria
+Sun Feb 13 2005,Acf Fiorentina,2-1,Parma FC
+Sat Feb 19 2005,AC Milan,1-0,Cagliari Calcio
+Sat Feb 19 2005,Udinese Calcio,1-1,Inter
+Sat Feb 19 2005,Acr Messina,0-0,Juventus
+Sun Feb 20 2005,As Roma,3-0,As Livorno
+Sun Feb 20 2005,Parma FC,2-1,Brescia Calcio
+Sun Feb 20 2005,Sampdoria,3-2,Reggina Calcio
+Sun Feb 20 2005,Chievo Verona,0-1,Lazio Roma
+Sun Feb 20 2005,AC Siena,1-0,Acf Fiorentina
+Sun Feb 20 2005,US Palermo,3-2,US Lecce
+Sun Feb 20 2005,Atalanta,2-0,Bologna FC
+Sat Feb 26 2005,Brescia Calcio,0-1,Sampdoria
+Sat Feb 26 2005,Acf Fiorentina,2-2,Udinese Calcio
+Sun Feb 27 2005,Juventus,3-0,AC Siena
+Sun Feb 27 2005,Inter,0-1,AC Milan
+Sun Feb 27 2005,Lazio Roma,2-0,Parma FC
+Sun Feb 27 2005,Bologna FC,0-0,As Livorno
+Sun Feb 27 2005,US Lecce,1-0,Acr Messina
+Sun Feb 27 2005,Reggina Calcio,1-0,Chievo Verona
+Sun Feb 27 2005,US Palermo,2-0,As Roma
+Sun Feb 27 2005,Cagliari Calcio,3-3,Atalanta
+Sat Mar 5 2005,As Roma,1-2,Juventus
+Sat Mar 5 2005,Atalanta,1-2,AC Milan
+Sun Mar 6 2005,Parma FC,3-2,Cagliari Calcio
+Sun Mar 6 2005,Inter,2-1,US Lecce
+Sun Mar 6 2005,Udinese Calcio,0-1,Bologna FC
+Sun Mar 6 2005,Sampdoria,1-0,Chievo Verona
+Sun Mar 6 2005,AC Siena,2-3,Brescia Calcio
+Sun Mar 6 2005,Acr Messina,1-0,Lazio Roma
+Sun Mar 6 2005,As Livorno,2-2,US Palermo
+Sun Mar 6 2005,Acf Fiorentina,2-1,Reggina Calcio
+Sat Mar 12 2005,Lazio Roma,1-1,Inter
+Sat Mar 12 2005,US Lecce,2-2,Acf Fiorentina
+Sun Mar 13 2005,AC Milan,1-0,Sampdoria
+Sun Mar 13 2005,Chievo Verona,0-1,Juventus
+Sun Mar 13 2005,Bologna FC,1-1,AC Siena
+Sun Mar 13 2005,Brescia Calcio,2-3,As Livorno
+Sun Mar 13 2005,Reggina Calcio,0-2,Acr Messina
+Sun Mar 13 2005,US Palermo,1-5,Udinese Calcio
+Sun Mar 13 2005,Atalanta,1-0,Parma FC
+Sun Mar 13 2005,Cagliari Calcio,3-0,As Roma
+Sat Mar 19 2005,Juventus,1-0,Reggina Calcio
+Sat Mar 19 2005,AC Siena,1-0,Lazio Roma
+Sun Mar 20 2005,As Roma,0-2,AC Milan
+Sun Mar 20 2005,Parma FC,3-3,US Palermo
+Sun Mar 20 2005,Inter,3-2,Acf Fiorentina
+Sun Mar 20 2005,Udinese Calcio,2-1,US Lecce
+Sun Mar 20 2005,Sampdoria,1-2,Atalanta
+Sun Mar 20 2005,Chievo Verona,3-1,Brescia Calcio
+Sun Mar 20 2005,Acr Messina,0-0,Bologna FC
+Sun Mar 20 2005,As Livorno,3-3,Cagliari Calcio
+Sat Apr 9 2005,AC Milan,1-1,Brescia Calcio
+Sat Apr 9 2005,Bologna FC,0-1,Inter
+Sat Apr 9 2005,Acf Fiorentina,3-3,Juventus
+Sun Apr 10 2005,Lazio Roma,3-1,As Livorno
+Sun Apr 10 2005,Udinese Calcio,3-3,As Roma
+Sun Apr 10 2005,US Lecce,2-2,AC Siena
+Sun Apr 10 2005,Reggina Calcio,1-3,Parma FC
+Sun Apr 10 2005,US Palermo,2-1,Acr Messina
+Sun Apr 10 2005,Atalanta,3-0,Chievo Verona
+Sun Apr 10 2005,Cagliari Calcio,0-0,Sampdoria
+Sat Apr 16 2005,As Roma,1-2,Reggina Calcio
+Sat Apr 16 2005,Sampdoria,1-0,US Palermo
+Sat Apr 16 2005,Acr Messina,1-0,Udinese Calcio
+Sun Apr 17 2005,Juventus,5-2,US Lecce
+Sun Apr 17 2005,Inter,2-0,Cagliari Calcio
+Sun Apr 17 2005,Chievo Verona,2-0,Parma FC
+Sun Apr 17 2005,Bologna FC,1-2,Lazio Roma
+Sun Apr 17 2005,Brescia Calcio,1-0,Atalanta
+Sun Apr 17 2005,AC Siena,2-1,AC Milan
+Sun Apr 17 2005,As Livorno,2-0,Acf Fiorentina
+Wed Apr 20 2005,AC Milan,1-0,Chievo Verona
+Wed Apr 20 2005,As Roma,0-2,AC Siena
+Wed Apr 20 2005,Juventus,0-1,Inter
+Wed Apr 20 2005,Parma FC,1-1,Sampdoria
+Wed Apr 20 2005,Udinese Calcio,1-1,As Livorno
+Wed Apr 20 2005,US Lecce,1-1,Bologna FC
+Wed Apr 20 2005,Reggina Calcio,0-0,Atalanta
+Wed Apr 20 2005,US Palermo,3-3,Brescia Calcio
+Wed Apr 20 2005,Cagliari Calcio,1-1,Lazio Roma
+Wed Apr 20 2005,Acf Fiorentina,1-1,Acr Messina
+Sat Apr 23 2005,AC Milan,3-0,Parma FC
+Sat Apr 23 2005,AC Siena,2-3,Udinese Calcio
+Sun Apr 24 2005,Lazio Roma,0-1,Juventus
+Sun Apr 24 2005,Sampdoria,2-1,As Roma
+Sun Apr 24 2005,Chievo Verona,1-1,Cagliari Calcio
+Sun Apr 24 2005,Bologna FC,0-0,Acf Fiorentina
+Sun Apr 24 2005,Brescia Calcio,2-0,Reggina Calcio
+Sun Apr 24 2005,Atalanta,1-0,US Palermo
+Sun Apr 24 2005,Acr Messina,2-1,Inter
+Sun Apr 24 2005,As Livorno,1-0,US Lecce
+Sat Apr 30 2005,Cagliari Calcio,1-1,Reggina Calcio
+Sat Apr 30 2005,Acf Fiorentina,1-2,AC Milan
+Sun May 1 2005,As Roma,2-2,Brescia Calcio
+Sun May 1 2005,Juventus,2-1,Bologna FC
+Sun May 1 2005,Parma FC,6-4,As Livorno
+Sun May 1 2005,Inter,2-0,AC Siena
+Sun May 1 2005,Udinese Calcio,2-1,Atalanta
+Sun May 1 2005,US Lecce,5-3,Lazio Roma
+Sun May 1 2005,US Palermo,2-2,Chievo Verona
+Sun May 1 2005,Acr Messina,2-2,Sampdoria
+Sun May 8 2005,AC Milan,0-1,Juventus
+Sun May 8 2005,Parma FC,2-1,As Roma
+Sun May 8 2005,Lazio Roma,0-1,Udinese Calcio
+Sun May 8 2005,Sampdoria,3-0,US Lecce
+Sun May 8 2005,Chievo Verona,1-2,Acf Fiorentina
+Sun May 8 2005,Brescia Calcio,0-3,Inter
+Sun May 8 2005,Reggina Calcio,1-1,Bologna FC
+Sun May 8 2005,Atalanta,2-1,Acr Messina
+Sun May 8 2005,Cagliari Calcio,0-0,US Palermo
+Sun May 8 2005,As Livorno,3-6,AC Siena
+Sun May 15 2005,As Roma,0-0,Lazio Roma
+Sun May 15 2005,Juventus,2-0,Parma FC
+Sun May 15 2005,Inter,1-0,As Livorno
+Sun May 15 2005,Udinese Calcio,1-1,Sampdoria
+Sun May 15 2005,Bologna FC,1-2,Brescia Calcio
+Sun May 15 2005,US Lecce,2-2,AC Milan
+Sun May 15 2005,AC Siena,0-1,Chievo Verona
+Sun May 15 2005,US Palermo,1-1,Reggina Calcio
+Sun May 15 2005,Acr Messina,2-1,Cagliari Calcio
+Sun May 15 2005,Acf Fiorentina,0-0,Atalanta
+Fri May 20 2005,AC Milan,3-3,US Palermo
+Sun May 22 2005,Parma FC,0-0,AC Siena
+Sun May 22 2005,Lazio Roma,1-1,Acf Fiorentina
+Sun May 22 2005,Sampdoria,0-1,Inter
+Sun May 22 2005,Chievo Verona,1-0,Bologna FC
+Sun May 22 2005,Brescia Calcio,2-1,Acr Messina
+Sun May 22 2005,Reggina Calcio,2-2,US Lecce
+Sun May 22 2005,Atalanta,0-1,As Roma
+Sun May 22 2005,Cagliari Calcio,1-1,Udinese Calcio
+Sun May 22 2005,As Livorno,2-2,Juventus
+Sun May 29 2005,As Roma,0-0,Chievo Verona
+Sun May 29 2005,Juventus,4-2,Cagliari Calcio
+Sun May 29 2005,Inter,0-0,Reggina Calcio
+Sun May 29 2005,Udinese Calcio,1-1,AC Milan
+Sun May 29 2005,Bologna FC,0-0,Sampdoria
+Sun May 29 2005,US Lecce,3-3,Parma FC
+Sun May 29 2005,AC Siena,2-1,Atalanta
+Sun May 29 2005,US Palermo,3-3,Lazio Roma
+Sun May 29 2005,Acr Messina,1-1,As Livorno
+Sun May 29 2005,Acf Fiorentina,3-0,Brescia Calcio
+Tue Jun 14 2005,Parma FC,0-1,Bologna FC
+Sat Jun 18 2005,Bologna FC,0-2,Parma FC

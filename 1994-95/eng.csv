@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 20 1994,Arsenal FC,3-0,Manchester City
+Sat Aug 20 1994,Chelsea FC,2-0,Norwich City
+Sat Aug 20 1994,Manchester United,2-0,Queens Park Rangers
+Sat Aug 20 1994,Southampton FC,1-1,Blackburn Rovers
+Sat Aug 20 1994,Everton FC,2-2,Aston Villa
+Sat Aug 20 1994,Crystal Palace,1-6,Liverpool FC
+Sat Aug 20 1994,West Ham United,0-0,Leeds United
+Sat Aug 20 1994,Ipswich Town,0-1,Nottingham Forest
+Sat Aug 20 1994,Coventry City,1-1,Afc Wimbledon
+Sat Aug 20 1994,Sheffield Wednesday,3-4,Tottenham Hotspur
+Sun Aug 21 1994,Leicester City,1-3,Newcastle United
+Mon Aug 22 1994,Nottingham Forest,1-1,Manchester United
+Tue Aug 23 1994,Blackburn Rovers,3-0,Leicester City
+Tue Aug 23 1994,Leeds United,1-0,Arsenal FC
+Tue Aug 23 1994,Afc Wimbledon,1-1,Ipswich Town
+Wed Aug 24 1994,Newcastle United,4-0,Coventry City
+Wed Aug 24 1994,Aston Villa,1-1,Southampton FC
+Wed Aug 24 1994,Tottenham Hotspur,2-1,Everton FC
+Wed Aug 24 1994,Manchester City,3-0,West Ham United
+Wed Aug 24 1994,Norwich City,0-0,Crystal Palace
+Wed Aug 24 1994,Queens Park Rangers,3-2,Sheffield Wednesday
+Sat Aug 27 1994,Newcastle United,5-1,Southampton FC
+Sat Aug 27 1994,Aston Villa,1-1,Crystal Palace
+Sat Aug 27 1994,Blackburn Rovers,4-0,Coventry City
+Sat Aug 27 1994,Tottenham Hotspur,0-1,Manchester United
+Sat Aug 27 1994,Manchester City,4-0,Everton FC
+Sat Aug 27 1994,Norwich City,1-0,West Ham United
+Sat Aug 27 1994,Leeds United,2-3,Chelsea FC
+Sat Aug 27 1994,Nottingham Forest,1-0,Leicester City
+Sat Aug 27 1994,Queens Park Rangers,1-2,Ipswich Town
+Sat Aug 27 1994,Afc Wimbledon,0-1,Sheffield Wednesday
+Sun Aug 28 1994,Liverpool FC,3-0,Arsenal FC
+Mon Aug 29 1994,Coventry City,0-1,Aston Villa
+Tue Aug 30 1994,Everton FC,1-2,Nottingham Forest
+Tue Aug 30 1994,Crystal Palace,1-2,Leeds United
+Tue Aug 30 1994,Ipswich Town,1-3,Tottenham Hotspur
+Wed Aug 31 1994,Arsenal FC,0-0,Blackburn Rovers
+Wed Aug 31 1994,Chelsea FC,3-0,Manchester City
+Wed Aug 31 1994,Manchester United,3-0,Afc Wimbledon
+Wed Aug 31 1994,Southampton FC,0-2,Liverpool FC
+Wed Aug 31 1994,Leicester City,1-1,Queens Park Rangers
+Wed Aug 31 1994,West Ham United,1-3,Newcastle United
+Wed Aug 31 1994,Sheffield Wednesday,0-0,Norwich City
+Sat Sep 10 1994,Liverpool FC,0-0,West Ham United
+Sat Sep 10 1994,Newcastle United,4-2,Chelsea FC
+Sat Sep 10 1994,Aston Villa,2-0,Ipswich Town
+Sat Sep 10 1994,Blackburn Rovers,3-0,Everton FC
+Sat Sep 10 1994,Manchester City,1-1,Crystal Palace
+Sat Sep 10 1994,Norwich City,0-0,Arsenal FC
+Sat Sep 10 1994,Nottingham Forest,4-1,Sheffield Wednesday
+Sat Sep 10 1994,Queens Park Rangers,2-2,Coventry City
+Sat Sep 10 1994,Afc Wimbledon,2-1,Leicester City
+Sun Sep 11 1994,Leeds United,2-1,Manchester United
+Mon Sep 12 1994,Tottenham Hotspur,1-2,Southampton FC
+Sat Sep 17 1994,Manchester United,2-0,Liverpool FC
+Sat Sep 17 1994,Southampton FC,1-1,Nottingham Forest
+Sat Sep 17 1994,Everton FC,2-2,Queens Park Rangers
+Sat Sep 17 1994,Crystal Palace,0-0,Afc Wimbledon
+Sat Sep 17 1994,Leicester City,3-1,Tottenham Hotspur
+Sat Sep 17 1994,West Ham United,1-0,Aston Villa
+Sat Sep 17 1994,Coventry City,2-1,Leeds United
+Sat Sep 17 1994,Sheffield Wednesday,1-1,Manchester City
+Sun Sep 18 1994,Arsenal FC,2-3,Newcastle United
+Sun Sep 18 1994,Chelsea FC,1-2,Blackburn Rovers
+Mon Sep 19 1994,Ipswich Town,1-2,Norwich City
+Sat Sep 24 1994,Newcastle United,1-1,Liverpool FC
+Sat Sep 24 1994,Blackburn Rovers,3-1,Aston Villa
+Sat Sep 24 1994,Everton FC,1-1,Leicester City
+Sat Sep 24 1994,Tottenham Hotspur,1-4,Nottingham Forest
+Sat Sep 24 1994,Manchester City,2-0,Norwich City
+Sat Sep 24 1994,Crystal Palace,0-1,Chelsea FC
+Sat Sep 24 1994,Ipswich Town,3-2,Manchester United
+Sat Sep 24 1994,Coventry City,1-3,Southampton FC
+Sat Sep 24 1994,Queens Park Rangers,0-1,Afc Wimbledon
+Sun Sep 25 1994,West Ham United,0-2,Arsenal FC
+Mon Sep 26 1994,Sheffield Wednesday,1-1,Leeds United
+Sat Oct 1 1994,Arsenal FC,1-2,Crystal Palace
+Sat Oct 1 1994,Manchester United,2-0,Everton FC
+Sat Oct 1 1994,Liverpool FC,4-1,Sheffield Wednesday
+Sat Oct 1 1994,Aston Villa,0-2,Newcastle United
+Sat Oct 1 1994,Southampton FC,3-1,Ipswich Town
+Sat Oct 1 1994,Norwich City,2-1,Blackburn Rovers
+Sat Oct 1 1994,Leeds United,2-0,Manchester City
+Sat Oct 1 1994,Afc Wimbledon,1-2,Tottenham Hotspur
+Sun Oct 2 1994,Chelsea FC,1-2,West Ham United
+Sun Oct 2 1994,Nottingham Forest,3-2,Queens Park Rangers
+Mon Oct 3 1994,Leicester City,2-2,Coventry City
+Sat Oct 8 1994,Chelsea FC,4-0,Leicester City
+Sat Oct 8 1994,Liverpool FC,3-2,Aston Villa
+Sat Oct 8 1994,Southampton FC,2-0,Everton FC
+Sat Oct 8 1994,Tottenham Hotspur,1-1,Queens Park Rangers
+Sat Oct 8 1994,Manchester City,3-3,Nottingham Forest
+Sat Oct 8 1994,Norwich City,2-1,Leeds United
+Sat Oct 8 1994,West Ham United,1-0,Crystal Palace
+Sat Oct 8 1994,Sheffield Wednesday,1-0,Manchester United
+Sat Oct 8 1994,Afc Wimbledon,1-3,Arsenal FC
+Sun Oct 9 1994,Newcastle United,1-1,Blackburn Rovers
+Mon Oct 10 1994,Coventry City,2-0,Ipswich Town
+Sat Oct 15 1994,Arsenal FC,3-1,Chelsea FC
+Sat Oct 15 1994,Manchester United,1-0,West Ham United
+Sat Oct 15 1994,Aston Villa,1-1,Norwich City
+Sat Oct 15 1994,Blackburn Rovers,3-2,Liverpool FC
+Sat Oct 15 1994,Everton FC,0-2,Coventry City
+Sat Oct 15 1994,Crystal Palace,0-1,Newcastle United
+Sat Oct 15 1994,Leeds United,1-1,Tottenham Hotspur
+Sat Oct 15 1994,Leicester City,4-3,Southampton FC
+Sat Oct 15 1994,Queens Park Rangers,1-2,Manchester City
+Sun Oct 16 1994,Ipswich Town,1-2,Sheffield Wednesday
+Mon Oct 17 1994,Nottingham Forest,3-1,Afc Wimbledon
+Sat Oct 22 1994,Liverpool FC,3-0,Afc Wimbledon
+Sat Oct 22 1994,Newcastle United,2-1,Sheffield Wednesday
+Sat Oct 22 1994,Aston Villa,0-2,Nottingham Forest
+Sat Oct 22 1994,Manchester City,5-2,Tottenham Hotspur
+Sat Oct 22 1994,Norwich City,4-2,Queens Park Rangers
+Sat Oct 22 1994,Crystal Palace,1-0,Everton FC
+Sat Oct 22 1994,West Ham United,2-0,Southampton FC
+Sun Oct 23 1994,Arsenal FC,2-1,Coventry City
+Sun Oct 23 1994,Chelsea FC,2-0,Ipswich Town
+Sun Oct 23 1994,Blackburn Rovers,2-4,Manchester United
+Mon Oct 24 1994,Leeds United,2-1,Leicester City
+Sat Oct 29 1994,Manchester United,2-0,Newcastle United
+Sat Oct 29 1994,Southampton FC,1-3,Leeds United
+Sat Oct 29 1994,Everton FC,1-1,Arsenal FC
+Sat Oct 29 1994,Tottenham Hotspur,3-1,West Ham United
+Sat Oct 29 1994,Leicester City,0-1,Crystal Palace
+Sat Oct 29 1994,Ipswich Town,1-3,Liverpool FC
+Sat Oct 29 1994,Coventry City,1-0,Manchester City
+Sat Oct 29 1994,Nottingham Forest,0-2,Blackburn Rovers
+Sat Oct 29 1994,Queens Park Rangers,2-0,Aston Villa
+Sat Oct 29 1994,Sheffield Wednesday,1-1,Chelsea FC
+Sun Oct 30 1994,Afc Wimbledon,1-0,Norwich City
+Mon Oct 31 1994,Queens Park Rangers,2-1,Liverpool FC
+Tue Nov 1 1994,Everton FC,1-0,West Ham United
+Tue Nov 1 1994,Ipswich Town,2-0,Leeds United
+Wed Nov 2 1994,Southampton FC,1-1,Norwich City
+Wed Nov 2 1994,Coventry City,1-4,Crystal Palace
+Wed Nov 2 1994,Sheffield Wednesday,0-1,Blackburn Rovers
+Sat Nov 5 1994,Liverpool FC,1-0,Nottingham Forest
+Sat Nov 5 1994,Newcastle United,2-1,Queens Park Rangers
+Sat Nov 5 1994,Blackburn Rovers,2-0,Tottenham Hotspur
+Sat Nov 5 1994,Manchester City,3-3,Southampton FC
+Sat Nov 5 1994,Norwich City,0-0,Everton FC
+Sat Nov 5 1994,Crystal Palace,3-0,Ipswich Town
+Sat Nov 5 1994,Leeds United,3-1,Afc Wimbledon
+Sat Nov 5 1994,West Ham United,1-0,Leicester City
+Sun Nov 6 1994,Arsenal FC,0-0,Sheffield Wednesday
+Sun Nov 6 1994,Chelsea FC,2-2,Coventry City
+Sun Nov 6 1994,Aston Villa,1-2,Manchester United
+Mon Nov 7 1994,Nottingham Forest,0-0,Newcastle United
+Wed Nov 9 1994,Liverpool FC,3-1,Chelsea FC
+Wed Nov 9 1994,Afc Wimbledon,4-3,Aston Villa
+Thu Nov 10 1994,Manchester United,5-0,Manchester City
+Sat Nov 19 1994,Manchester United,3-0,Crystal Palace
+Sat Nov 19 1994,Southampton FC,1-0,Arsenal FC
+Sat Nov 19 1994,Tottenham Hotspur,3-4,Aston Villa
+Sat Nov 19 1994,Ipswich Town,1-3,Blackburn Rovers
+Sat Nov 19 1994,Coventry City,1-0,Norwich City
+Sat Nov 19 1994,Nottingham Forest,0-1,Chelsea FC
+Sat Nov 19 1994,Queens Park Rangers,3-2,Leeds United
+Sat Nov 19 1994,Sheffield Wednesday,1-0,West Ham United
+Sat Nov 19 1994,Afc Wimbledon,3-2,Newcastle United
+Sun Nov 20 1994,Leicester City,0-1,Manchester City
+Mon Nov 21 1994,Everton FC,2-0,Liverpool FC
+Wed Nov 23 1994,Tottenham Hotspur,0-0,Chelsea FC
+Wed Nov 23 1994,Leicester City,2-1,Arsenal FC
+Sat Nov 26 1994,Arsenal FC,0-0,Manchester United
+Sat Nov 26 1994,Chelsea FC,0-1,Everton FC
+Sat Nov 26 1994,Liverpool FC,1-1,Tottenham Hotspur
+Sat Nov 26 1994,Newcastle United,1-1,Ipswich Town
+Sat Nov 26 1994,Blackburn Rovers,4-0,Queens Park Rangers
+Sat Nov 26 1994,Manchester City,2-0,Afc Wimbledon
+Sat Nov 26 1994,Norwich City,2-1,Leicester City
+Sat Nov 26 1994,Crystal Palace,0-0,Southampton FC
+Sat Nov 26 1994,Leeds United,1-0,Nottingham Forest
+Sat Nov 26 1994,West Ham United,0-1,Coventry City
+Sun Nov 27 1994,Aston Villa,1-1,Sheffield Wednesday
+Sat Dec 3 1994,Manchester United,1-0,Norwich City
+Sat Dec 3 1994,Southampton FC,0-1,Chelsea FC
+Sat Dec 3 1994,Tottenham Hotspur,4-2,Newcastle United
+Sat Dec 3 1994,Leicester City,1-1,Aston Villa
+Sat Dec 3 1994,Ipswich Town,1-2,Manchester City
+Sat Dec 3 1994,Coventry City,1-1,Liverpool FC
+Sat Dec 3 1994,Nottingham Forest,2-2,Arsenal FC
+Sat Dec 3 1994,Sheffield Wednesday,1-0,Crystal Palace
+Sat Dec 3 1994,Afc Wimbledon,0-3,Blackburn Rovers
+Sun Dec 4 1994,Everton FC,3-0,Leeds United
+Sun Dec 4 1994,Queens Park Rangers,2-1,West Ham United
+Sat Dec 10 1994,Newcastle United,3-1,Leicester City
+Sat Dec 10 1994,Aston Villa,0-0,Everton FC
+Sat Dec 10 1994,Blackburn Rovers,3-2,Southampton FC
+Sat Dec 10 1994,Tottenham Hotspur,3-1,Sheffield Wednesday
+Sat Dec 10 1994,Norwich City,3-0,Chelsea FC
+Sat Dec 10 1994,Leeds United,2-2,West Ham United
+Sat Dec 10 1994,Nottingham Forest,4-1,Ipswich Town
+Sat Dec 10 1994,Queens Park Rangers,2-3,Manchester United
+Sat Dec 10 1994,Afc Wimbledon,2-0,Coventry City
+Sun Dec 11 1994,Liverpool FC,0-0,Crystal Palace
+Mon Dec 12 1994,Manchester City,1-2,Arsenal FC
+Fri Dec 16 1994,Ipswich Town,2-2,Afc Wimbledon
+Sat Dec 17 1994,Arsenal FC,1-3,Leeds United
+Sat Dec 17 1994,Manchester United,1-2,Nottingham Forest
+Sat Dec 17 1994,Everton FC,0-0,Tottenham Hotspur
+Sat Dec 17 1994,Crystal Palace,0-1,Norwich City
+Sat Dec 17 1994,Leicester City,0-0,Blackburn Rovers
+Sat Dec 17 1994,West Ham United,3-0,Manchester City
+Sat Dec 17 1994,Coventry City,0-0,Newcastle United
+Sat Dec 17 1994,Sheffield Wednesday,0-2,Queens Park Rangers
+Sun Dec 18 1994,Chelsea FC,0-0,Liverpool FC
+Mon Dec 19 1994,Southampton FC,2-1,Aston Villa
+Mon Dec 26 1994,Arsenal FC,0-0,Aston Villa
+Mon Dec 26 1994,Chelsea FC,2-3,Manchester United
+Mon Dec 26 1994,Southampton FC,2-3,Afc Wimbledon
+Mon Dec 26 1994,Everton FC,1-4,Sheffield Wednesday
+Mon Dec 26 1994,Manchester City,1-3,Blackburn Rovers
+Mon Dec 26 1994,Norwich City,0-2,Tottenham Hotspur
+Mon Dec 26 1994,Crystal Palace,0-0,Queens Park Rangers
+Mon Dec 26 1994,Leeds United,0-0,Newcastle United
+Mon Dec 26 1994,Leicester City,1-2,Liverpool FC
+Mon Dec 26 1994,West Ham United,1-1,Ipswich Town
+Mon Dec 26 1994,Coventry City,0-0,Nottingham Forest
+Tue Dec 27 1994,Tottenham Hotspur,0-0,Crystal Palace
+Tue Dec 27 1994,Nottingham Forest,1-0,Norwich City
+Wed Dec 28 1994,Manchester United,1-1,Leicester City
+Wed Dec 28 1994,Liverpool FC,2-0,Manchester City
+Wed Dec 28 1994,Aston Villa,3-0,Chelsea FC
+Wed Dec 28 1994,Ipswich Town,0-2,Arsenal FC
+Wed Dec 28 1994,Queens Park Rangers,2-2,Southampton FC
+Wed Dec 28 1994,Sheffield Wednesday,5-1,Coventry City
+Wed Dec 28 1994,Afc Wimbledon,1-0,West Ham United
+Sat Dec 31 1994,Arsenal FC,1-3,Queens Park Rangers
+Sat Dec 31 1994,Chelsea FC,1-1,Afc Wimbledon
+Sat Dec 31 1994,Southampton FC,2-2,Manchester United
+Sat Dec 31 1994,Everton FC,4-1,Ipswich Town
+Sat Dec 31 1994,Manchester City,2-2,Aston Villa
+Sat Dec 31 1994,Norwich City,2-1,Newcastle United
+Sat Dec 31 1994,Crystal Palace,0-1,Blackburn Rovers
+Sat Dec 31 1994,Leeds United,0-2,Liverpool FC
+Sat Dec 31 1994,Leicester City,0-1,Sheffield Wednesday
+Sat Dec 31 1994,West Ham United,3-1,Nottingham Forest
+Sat Dec 31 1994,Coventry City,0-4,Tottenham Hotspur
+Mon Jan 2 1995,Liverpool FC,4-0,Norwich City
+Mon Jan 2 1995,Newcastle United,0-0,Manchester City
+Mon Jan 2 1995,Aston Villa,0-0,Leeds United
+Mon Jan 2 1995,Blackburn Rovers,4-2,West Ham United
+Mon Jan 2 1995,Tottenham Hotspur,1-0,Arsenal FC
+Mon Jan 2 1995,Ipswich Town,4-1,Leicester City
+Mon Jan 2 1995,Nottingham Forest,1-0,Crystal Palace
+Mon Jan 2 1995,Sheffield Wednesday,1-1,Southampton FC
+Mon Jan 2 1995,Afc Wimbledon,2-1,Everton FC
+Tue Jan 3 1995,Manchester United,2-0,Coventry City
+Sat Jan 14 1995,Arsenal FC,1-1,Everton FC
+Sat Jan 14 1995,Chelsea FC,1-1,Sheffield Wednesday
+Sat Jan 14 1995,Liverpool FC,0-1,Ipswich Town
+Sat Jan 14 1995,Aston Villa,2-1,Queens Park Rangers
+Sat Jan 14 1995,Blackburn Rovers,3-0,Nottingham Forest
+Sat Jan 14 1995,Manchester City,0-0,Coventry City
+Sat Jan 14 1995,Norwich City,1-2,Afc Wimbledon
+Sat Jan 14 1995,Crystal Palace,2-0,Leicester City
+Sat Jan 14 1995,Leeds United,0-0,Southampton FC
+Sat Jan 14 1995,West Ham United,1-2,Tottenham Hotspur
+Sun Jan 15 1995,Newcastle United,1-1,Manchester United
+Sat Jan 21 1995,Everton FC,3-1,Crystal Palace
+Sat Jan 21 1995,Ipswich Town,2-2,Chelsea FC
+Sat Jan 21 1995,Coventry City,0-1,Arsenal FC
+Sat Jan 21 1995,Nottingham Forest,1-2,Aston Villa
+Sat Jan 21 1995,Sheffield Wednesday,0-0,Newcastle United
+Sun Jan 22 1995,Manchester United,1-0,Blackburn Rovers
+Mon Jan 23 1995,West Ham United,0-2,Sheffield Wednesday
+Tue Jan 24 1995,Arsenal FC,1-1,Southampton FC
+Tue Jan 24 1995,Liverpool FC,0-0,Everton FC
+Tue Jan 24 1995,Leeds United,4-0,Queens Park Rangers
+Wed Jan 25 1995,Chelsea FC,0-2,Nottingham Forest
+Wed Jan 25 1995,Newcastle United,2-1,Afc Wimbledon
+Wed Jan 25 1995,Aston Villa,1-0,Tottenham Hotspur
+Wed Jan 25 1995,Manchester City,0-1,Leicester City
+Wed Jan 25 1995,Norwich City,2-2,Coventry City
+Wed Jan 25 1995,Crystal Palace,1-1,Manchester United
+Sat Jan 28 1995,Blackburn Rovers,4-1,Ipswich Town
+Wed Feb 1 1995,Newcastle United,2-0,Everton FC
+Wed Feb 1 1995,Blackburn Rovers,1-1,Leeds United
+Sat Feb 4 1995,Manchester United,1-0,Aston Villa
+Sat Feb 4 1995,Southampton FC,2-2,Manchester City
+Sat Feb 4 1995,Everton FC,2-1,Norwich City
+Sat Feb 4 1995,Leicester City,1-2,West Ham United
+Sat Feb 4 1995,Ipswich Town,0-2,Crystal Palace
+Sat Feb 4 1995,Coventry City,2-2,Chelsea FC
+Sat Feb 4 1995,Nottingham Forest,1-1,Liverpool FC
+Sat Feb 4 1995,Queens Park Rangers,3-0,Newcastle United
+Sat Feb 4 1995,Sheffield Wednesday,3-1,Arsenal FC
+Sat Feb 4 1995,Afc Wimbledon,0-0,Leeds United
+Sun Feb 5 1995,Tottenham Hotspur,3-1,Blackburn Rovers
+Sat Feb 11 1995,Arsenal FC,1-1,Leicester City
+Sat Feb 11 1995,Chelsea FC,1-1,Tottenham Hotspur
+Sat Feb 11 1995,Liverpool FC,1-1,Queens Park Rangers
+Sat Feb 11 1995,Newcastle United,2-1,Nottingham Forest
+Sat Feb 11 1995,Aston Villa,7-1,Afc Wimbledon
+Sat Feb 11 1995,Manchester City,0-3,Manchester United
+Sat Feb 11 1995,Norwich City,2-2,Southampton FC
+Sat Feb 11 1995,Crystal Palace,0-2,Coventry City
+Sun Feb 12 1995,Blackburn Rovers,3-1,Sheffield Wednesday
+Mon Feb 13 1995,West Ham United,2-2,Everton FC
+Sat Feb 18 1995,Coventry City,2-0,West Ham United
+Sat Feb 18 1995,Sheffield Wednesday,1-2,Aston Villa
+Tue Feb 21 1995,Arsenal FC,1-0,Nottingham Forest
+Wed Feb 22 1995,Aston Villa,4-4,Leicester City
+Wed Feb 22 1995,Blackburn Rovers,2-1,Afc Wimbledon
+Wed Feb 22 1995,Manchester City,2-0,Ipswich Town
+Wed Feb 22 1995,Norwich City,0-2,Manchester United
+Wed Feb 22 1995,Leeds United,1-0,Everton FC
+Sat Feb 25 1995,Newcastle United,3-1,Aston Villa
+Sat Feb 25 1995,Blackburn Rovers,0-0,Norwich City
+Sat Feb 25 1995,Everton FC,1-0,Manchester United
+Sat Feb 25 1995,Tottenham Hotspur,1-2,Afc Wimbledon
+Sat Feb 25 1995,Manchester City,0-0,Leeds United
+Sat Feb 25 1995,Crystal Palace,0-3,Arsenal FC
+Sat Feb 25 1995,West Ham United,1-2,Chelsea FC
+Sat Feb 25 1995,Ipswich Town,2-1,Southampton FC
+Sat Feb 25 1995,Coventry City,4-2,Leicester City
+Sat Feb 25 1995,Sheffield Wednesday,1-2,Liverpool FC
+Sun Feb 26 1995,Queens Park Rangers,1-1,Nottingham Forest
+Tue Feb 28 1995,Ipswich Town,0-2,Newcastle United
+Sat Mar 4 1995,Manchester United,9-0,Ipswich Town
+Sat Mar 4 1995,Liverpool FC,2-0,Newcastle United
+Sat Mar 4 1995,Aston Villa,0-1,Blackburn Rovers
+Sat Mar 4 1995,Southampton FC,0-0,Coventry City
+Sat Mar 4 1995,Norwich City,1-1,Manchester City
+Sat Mar 4 1995,Leeds United,0-1,Sheffield Wednesday
+Sat Mar 4 1995,Leicester City,2-2,Everton FC
+Sat Mar 4 1995,Nottingham Forest,2-2,Tottenham Hotspur
+Sat Mar 4 1995,Afc Wimbledon,1-3,Queens Park Rangers
+Sun Mar 5 1995,Arsenal FC,0-1,West Ham United
+Sun Mar 5 1995,Chelsea FC,0-0,Crystal Palace
+Mon Mar 6 1995,Aston Villa,0-0,Coventry City
+Tue Mar 7 1995,Afc Wimbledon,0-1,Manchester United
+Wed Mar 8 1995,Newcastle United,2-0,West Ham United
+Wed Mar 8 1995,Blackburn Rovers,3-1,Arsenal FC
+Wed Mar 8 1995,Tottenham Hotspur,3-0,Ipswich Town
+Wed Mar 8 1995,Manchester City,1-2,Chelsea FC
+Wed Mar 8 1995,Norwich City,0-0,Sheffield Wednesday
+Wed Mar 8 1995,Nottingham Forest,2-1,Everton FC
+Wed Mar 8 1995,Queens Park Rangers,2-0,Leicester City
+Sat Mar 11 1995,Chelsea FC,0-3,Leeds United
+Sat Mar 11 1995,Leicester City,2-4,Nottingham Forest
+Sat Mar 11 1995,West Ham United,2-2,Norwich City
+Sat Mar 11 1995,Coventry City,1-1,Blackburn Rovers
+Sat Mar 11 1995,Sheffield Wednesday,0-1,Afc Wimbledon
+Tue Mar 14 1995,Liverpool FC,2-3,Coventry City
+Tue Mar 14 1995,Crystal Palace,2-1,Sheffield Wednesday
+Wed Mar 15 1995,Manchester United,0-0,Tottenham Hotspur
+Wed Mar 15 1995,Southampton FC,1-1,West Ham United
+Wed Mar 15 1995,Everton FC,1-1,Manchester City
+Wed Mar 15 1995,Leicester City,1-3,Leeds United
+Wed Mar 15 1995,Queens Park Rangers,2-0,Norwich City
+Sat Mar 18 1995,Aston Villa,0-2,West Ham United
+Sat Mar 18 1995,Blackburn Rovers,2-1,Chelsea FC
+Sat Mar 18 1995,Tottenham Hotspur,1-0,Leicester City
+Sat Mar 18 1995,Manchester City,3-2,Sheffield Wednesday
+Sat Mar 18 1995,Leeds United,3-0,Coventry City
+Sat Mar 18 1995,Nottingham Forest,3-0,Southampton FC
+Sat Mar 18 1995,Queens Park Rangers,2-3,Everton FC
+Sat Mar 18 1995,Afc Wimbledon,2-0,Crystal Palace
+Sun Mar 19 1995,Liverpool FC,2-0,Manchester United
+Sun Mar 19 1995,Newcastle United,1-0,Arsenal FC
+Mon Mar 20 1995,Norwich City,3-0,Ipswich Town
+Tue Mar 21 1995,Afc Wimbledon,2-0,Manchester City
+Wed Mar 22 1995,Manchester United,3-0,Arsenal FC
+Wed Mar 22 1995,Southampton FC,3-1,Newcastle United
+Wed Mar 22 1995,Tottenham Hotspur,0-0,Liverpool FC
+Wed Mar 22 1995,Nottingham Forest,3-0,Leeds United
+Wed Mar 22 1995,Queens Park Rangers,1-0,Chelsea FC
+Sat Apr 1 1995,Arsenal FC,5-1,Norwich City
+Sat Apr 1 1995,Chelsea FC,1-1,Newcastle United
+Sat Apr 1 1995,Everton FC,1-2,Blackburn Rovers
+Sat Apr 1 1995,Crystal Palace,2-1,Manchester City
+Sat Apr 1 1995,Leicester City,3-4,Afc Wimbledon
+Sat Apr 1 1995,Ipswich Town,0-1,Aston Villa
+Sat Apr 1 1995,Coventry City,0-1,Queens Park Rangers
+Sat Apr 1 1995,Sheffield Wednesday,1-7,Nottingham Forest
+Sun Apr 2 1995,Manchester United,0-0,Leeds United
+Sun Apr 2 1995,Southampton FC,4-3,Tottenham Hotspur
+Tue Apr 4 1995,Crystal Palace,0-0,Aston Villa
+Tue Apr 4 1995,Queens Park Rangers,0-1,Blackburn Rovers
+Wed Apr 5 1995,Liverpool FC,3-1,Southampton FC
+Wed Apr 5 1995,Leeds United,4-0,Ipswich Town
+Wed Apr 5 1995,Leicester City,1-0,Norwich City
+Sat Apr 8 1995,Newcastle United,3-0,Norwich City
+Sat Apr 8 1995,Nottingham Forest,1-1,West Ham United
+Sat Apr 8 1995,Queens Park Rangers,3-1,Arsenal FC
+Sat Apr 8 1995,Sheffield Wednesday,1-0,Leicester City
+Sun Apr 9 1995,Liverpool FC,0-1,Leeds United
+Mon Apr 10 1995,Afc Wimbledon,1-1,Chelsea FC
+Tue Apr 11 1995,Tottenham Hotspur,2-1,Manchester City
+Tue Apr 11 1995,Ipswich Town,0-1,Queens Park Rangers
+Wed Apr 12 1995,Arsenal FC,0-1,Liverpool FC
+Wed Apr 12 1995,Chelsea FC,0-2,Southampton FC
+Wed Apr 12 1995,Norwich City,0-1,Nottingham Forest
+Thu Apr 13 1995,West Ham United,3-0,Afc Wimbledon
+Fri Apr 14 1995,Everton FC,2-0,Newcastle United
+Fri Apr 14 1995,Manchester City,2-1,Liverpool FC
+Fri Apr 14 1995,Crystal Palace,1-1,Tottenham Hotspur
+Sat Apr 15 1995,Arsenal FC,4-1,Ipswich Town
+Sat Apr 15 1995,Chelsea FC,1-0,Aston Villa
+Sat Apr 15 1995,Southampton FC,2-1,Queens Park Rangers
+Sat Apr 15 1995,Leeds United,1-1,Blackburn Rovers
+Sat Apr 15 1995,Leicester City,0-4,Manchester United
+Sat Apr 15 1995,Coventry City,2-0,Sheffield Wednesday
+Mon Apr 17 1995,Manchester United,0-0,Chelsea FC
+Mon Apr 17 1995,Liverpool FC,2-0,Leicester City
+Mon Apr 17 1995,Newcastle United,1-2,Leeds United
+Mon Apr 17 1995,Aston Villa,0-4,Arsenal FC
+Mon Apr 17 1995,Blackburn Rovers,2-3,Manchester City
+Mon Apr 17 1995,Tottenham Hotspur,1-0,Norwich City
+Mon Apr 17 1995,Ipswich Town,1-1,West Ham United
+Mon Apr 17 1995,Nottingham Forest,2-0,Coventry City
+Mon Apr 17 1995,Queens Park Rangers,0-1,Crystal Palace
+Mon Apr 17 1995,Sheffield Wednesday,0-0,Everton FC
+Mon Apr 17 1995,Afc Wimbledon,0-2,Southampton FC
+Wed Apr 19 1995,Blackburn Rovers,2-1,Crystal Palace
+Sat Apr 29 1995,Arsenal FC,1-1,Tottenham Hotspur
+Sat Apr 29 1995,Chelsea FC,1-0,Queens Park Rangers
+Sat Apr 29 1995,Southampton FC,0-0,Sheffield Wednesday
+Sat Apr 29 1995,Everton FC,0-0,Afc Wimbledon
+Sat Apr 29 1995,Manchester City,0-0,Newcastle United
+Sat Apr 29 1995,Norwich City,1-2,Liverpool FC
+Sat Apr 29 1995,Crystal Palace,1-2,Nottingham Forest
+Sat Apr 29 1995,Leeds United,1-0,Aston Villa
+Sat Apr 29 1995,Leicester City,2-0,Ipswich Town
+Sun Apr 30 1995,West Ham United,2-0,Blackburn Rovers
+Mon May 1 1995,Coventry City,2-3,Manchester United
+Tue May 2 1995,Afc Wimbledon,0-0,Liverpool FC
+Wed May 3 1995,Newcastle United,3-3,Tottenham Hotspur
+Wed May 3 1995,Aston Villa,1-1,Manchester City
+Wed May 3 1995,Southampton FC,3-1,Crystal Palace
+Wed May 3 1995,Everton FC,3-3,Chelsea FC
+Wed May 3 1995,West Ham United,0-0,Queens Park Rangers
+Thu May 4 1995,Arsenal FC,0-0,Afc Wimbledon
+Sat May 6 1995,Aston Villa,2-0,Liverpool FC
+Sat May 6 1995,Everton FC,0-0,Southampton FC
+Sat May 6 1995,Crystal Palace,1-0,West Ham United
+Sat May 6 1995,Leeds United,2-1,Norwich City
+Sat May 6 1995,Leicester City,1-1,Chelsea FC
+Sat May 6 1995,Ipswich Town,2-0,Coventry City
+Sat May 6 1995,Nottingham Forest,1-0,Manchester City
+Sat May 6 1995,Queens Park Rangers,2-1,Tottenham Hotspur
+Sun May 7 1995,Manchester United,1-0,Sheffield Wednesday
+Mon May 8 1995,Blackburn Rovers,1-0,Newcastle United
+Tue May 9 1995,Tottenham Hotspur,1-3,Coventry City
+Tue May 9 1995,Leeds United,3-1,Crystal Palace
+Tue May 9 1995,Ipswich Town,0-1,Everton FC
+Wed May 10 1995,Manchester United,2-1,Southampton FC
+Wed May 10 1995,West Ham United,3-0,Liverpool FC
+Sat May 13 1995,Afc Wimbledon,2-2,Nottingham Forest
+Sun May 14 1995,Chelsea FC,2-1,Arsenal FC
+Sun May 14 1995,Liverpool FC,2-1,Blackburn Rovers
+Sun May 14 1995,Newcastle United,3-2,Crystal Palace
+Sun May 14 1995,Southampton FC,2-2,Leicester City
+Sun May 14 1995,Tottenham Hotspur,1-1,Leeds United
+Sun May 14 1995,Manchester City,2-3,Queens Park Rangers
+Sun May 14 1995,Norwich City,1-1,Aston Villa
+Sun May 14 1995,West Ham United,1-1,Manchester United
+Sun May 14 1995,Coventry City,0-0,Everton FC
+Sun May 14 1995,Sheffield Wednesday,4-1,Ipswich Town

@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Wed Aug 9 1972,Angers Sco,4-0,AC Ajaccio
+Wed Aug 9 1972,OGC Nice,4-1,FC Sochaux
+Wed Aug 9 1972,RC Strasbourg,4-1,Stade Reims
+Wed Aug 9 1972,FC Metz,3-0,Red Star Olympique
+Wed Aug 9 1972,Olympique Lyon,3-1,Stade Rennes
+Wed Aug 9 1972,CS Sedan,0-2,Olympique Marseille
+Wed Aug 9 1972,Paris FC,3-2,As Nancy
+Wed Aug 9 1972,Girondins Bordeaux,1-1,As Saint Etienne
+Wed Aug 9 1972,Nimes Olympique,1-1,Valenciennes FC
+Wed Aug 9 1972,SC Bastia,0-0,FC Nantes
+Wed Aug 16 1972,Olympique Marseille,5-2,Olympique Lyon
+Wed Aug 16 1972,Red Star Olympique,1-2,Angers Sco
+Wed Aug 16 1972,AC Ajaccio,0-2,RC Strasbourg
+Wed Aug 16 1972,Stade Reims,2-3,OGC Nice
+Wed Aug 16 1972,FC Metz,1-1,Girondins Bordeaux
+Wed Aug 16 1972,As Saint Etienne,3-1,Nimes Olympique
+Wed Aug 16 1972,FC Nantes,2-0,Paris FC
+Wed Aug 16 1972,Valenciennes FC,0-1,As Nancy
+Wed Aug 16 1972,Stade Rennes,2-1,SC Bastia
+Wed Aug 16 1972,FC Sochaux,1-0,CS Sedan
+Wed Aug 23 1972,OGC Nice,5-3,AC Ajaccio
+Wed Aug 23 1972,Angers Sco,3-2,FC Metz
+Wed Aug 23 1972,SC Bastia,0-0,Olympique Marseille
+Wed Aug 23 1972,RC Strasbourg,0-0,As Saint Etienne
+Wed Aug 23 1972,As Nancy,1-1,FC Nantes
+Wed Aug 23 1972,Stade Rennes,2-1,Paris FC
+Wed Aug 23 1972,Nimes Olympique,3-0,FC Sochaux
+Wed Aug 23 1972,Girondins Bordeaux,1-1,Red Star Olympique
+Wed Aug 23 1972,Olympique Lyon,1-1,Stade Reims
+Wed Aug 23 1972,CS Sedan,3-1,Valenciennes FC
+Sat Aug 26 1972,Red Star Olympique,1-1,OGC Nice
+Sat Aug 26 1972,Angers Sco,2-2,CS Sedan
+Sat Aug 26 1972,Olympique Marseille,1-0,FC Nantes
+Sat Aug 26 1972,FC Metz,1-1,RC Strasbourg
+Sat Aug 26 1972,As Saint Etienne,3-0,Paris FC
+Sat Aug 26 1972,Stade Rennes,4-1,As Nancy
+Sat Aug 26 1972,Stade Reims,0-1,Nimes Olympique
+Sat Aug 26 1972,AC Ajaccio,2-2,Girondins Bordeaux
+Sat Aug 26 1972,FC Sochaux,3-1,Olympique Lyon
+Sat Aug 26 1972,Valenciennes FC,1-0,SC Bastia
+Wed Sep 6 1972,OGC Nice,6-0,FC Metz
+Wed Sep 6 1972,Paris FC,1-3,Olympique Marseille
+Wed Sep 6 1972,Girondins Bordeaux,1-2,Angers Sco
+Wed Sep 6 1972,CS Sedan,1-3,As Saint Etienne
+Wed Sep 6 1972,RC Strasbourg,2-2,Red Star Olympique
+Wed Sep 6 1972,Nimes Olympique,2-1,AC Ajaccio
+Wed Sep 6 1972,FC Nantes,1-0,Stade Rennes
+Wed Sep 6 1972,As Nancy,3-0,Stade Reims
+Wed Sep 6 1972,Olympique Lyon,1-0,Valenciennes FC
+Wed Sep 6 1972,SC Bastia,3-1,FC Sochaux
+Fri Sep 15 1972,As Saint Etienne,0-1,OGC Nice
+Sat Sep 16 1972,Olympique Marseille,3-0,Stade Rennes
+Sat Sep 16 1972,Angers Sco,1-0,RC Strasbourg
+Sat Sep 16 1972,Red Star Olympique,1-1,Nimes Olympique
+Sat Sep 16 1972,Valenciennes FC,1-1,FC Nantes
+Sat Sep 16 1972,FC Sochaux,2-2,As Nancy
+Sat Sep 16 1972,FC Metz,2-2,Olympique Lyon
+Sat Sep 16 1972,Girondins Bordeaux,0-1,Paris FC
+Sat Sep 16 1972,Stade Reims,2-0,SC Bastia
+Sat Sep 16 1972,AC Ajaccio,2-1,CS Sedan
+Wed Sep 20 1972,OGC Nice,2-4,Angers Sco
+Wed Sep 20 1972,As Nancy,1-0,Olympique Marseille
+Wed Sep 20 1972,SC Bastia,3-3,As Saint Etienne
+Wed Sep 20 1972,Nimes Olympique,0-0,FC Metz
+Wed Sep 20 1972,FC Nantes,4-3,FC Sochaux
+Wed Sep 20 1972,RC Strasbourg,2-2,Girondins Bordeaux
+Wed Sep 20 1972,Stade Rennes,1-0,Stade Reims
+Wed Sep 20 1972,Olympique Lyon,1-0,AC Ajaccio
+Wed Sep 20 1972,CS Sedan,0-1,Red Star Olympique
+Wed Sep 20 1972,Paris FC,1-1,Valenciennes FC
+Fri Sep 29 1972,Girondins Bordeaux,0-1,OGC Nice
+Fri Sep 29 1972,As Saint Etienne,1-0,As Nancy
+Fri Sep 29 1972,RC Strasbourg,0-4,SC Bastia
+Sat Sep 30 1972,Angers Sco,0-1,Nimes Olympique
+Sat Sep 30 1972,Valenciennes FC,1-0,Olympique Marseille
+Sat Sep 30 1972,AC Ajaccio,1-1,FC Nantes
+Sat Sep 30 1972,Red Star Olympique,0-1,Olympique Lyon
+Sat Sep 30 1972,FC Sochaux,2-1,Stade Rennes
+Sat Sep 30 1972,FC Metz,4-2,CS Sedan
+Sat Sep 30 1972,Stade Reims,1-1,Paris FC
+Wed Oct 4 1972,OGC Nice,3-0,RC Strasbourg
+Wed Oct 4 1972,Olympique Lyon,2-1,Angers Sco
+Wed Oct 4 1972,Nimes Olympique,2-0,Girondins Bordeaux
+Wed Oct 4 1972,Olympique Marseille,1-1,FC Sochaux
+Wed Oct 4 1972,FC Nantes,1-0,As Saint Etienne
+Wed Oct 4 1972,Stade Rennes,2-0,Valenciennes FC
+Wed Oct 4 1972,As Nancy,0-2,FC Metz
+Wed Oct 4 1972,SC Bastia,1-0,AC Ajaccio
+Wed Oct 4 1972,Paris FC,3-0,Red Star Olympique
+Wed Oct 4 1972,CS Sedan,2-0,Stade Reims
+Sat Oct 7 1972,OGC Nice,3-0,FC Nantes
+Sat Oct 7 1972,Angers Sco,0-2,Stade Rennes
+Sat Oct 7 1972,RC Strasbourg,2-1,Nimes Olympique
+Sat Oct 7 1972,As Saint Etienne,1-1,Olympique Lyon
+Sat Oct 7 1972,Stade Reims,2-1,Olympique Marseille
+Sat Oct 7 1972,FC Metz,3-2,SC Bastia
+Sat Oct 7 1972,Red Star Olympique,0-1,As Nancy
+Sat Oct 7 1972,FC Sochaux,3-0,Valenciennes FC
+Sat Oct 7 1972,AC Ajaccio,2-1,Paris FC
+Sat Oct 7 1972,Girondins Bordeaux,6-1,CS Sedan
+Tue Oct 17 1972,Nimes Olympique,0-1,OGC Nice
+Tue Oct 17 1972,Olympique Marseille,5-0,FC Metz
+Tue Oct 17 1972,FC Nantes,2-0,Angers Sco
+Tue Oct 17 1972,Stade Rennes,2-2,As Saint Etienne
+Tue Oct 17 1972,Olympique Lyon,0-1,Girondins Bordeaux
+Tue Oct 17 1972,Paris FC,0-2,FC Sochaux
+Tue Oct 17 1972,As Nancy,2-1,AC Ajaccio
+Tue Oct 17 1972,SC Bastia,3-0,Red Star Olympique
+Tue Oct 17 1972,CS Sedan,0-0,RC Strasbourg
+Tue Oct 17 1972,Valenciennes FC,1-2,Stade Reims
+Fri Oct 20 1972,RC Strasbourg,0-2,Olympique Lyon
+Fri Oct 20 1972,Angers Sco,0-0,As Nancy
+Fri Oct 20 1972,Girondins Bordeaux,1-1,SC Bastia
+Fri Oct 20 1972,Stade Reims,1-0,FC Sochaux
+Fri Oct 20 1972,Nimes Olympique,2-1,CS Sedan
+Sat Oct 21 1972,FC Metz,0-2,FC Nantes
+Sun Oct 22 1972,OGC Nice,3-2,Paris FC
+Sun Oct 22 1972,As Saint Etienne,3-2,Valenciennes FC
+Sun Oct 22 1972,AC Ajaccio,1-0,Olympique Marseille
+Sun Oct 22 1972,Red Star Olympique,2-0,Stade Rennes
+Fri Oct 27 1972,Olympique Lyon,1-0,Nimes Olympique
+Fri Oct 27 1972,As Nancy,2-1,Girondins Bordeaux
+Fri Oct 27 1972,Paris FC,1-1,RC Strasbourg
+Sat Oct 28 1972,CS Sedan,0-5,OGC Nice
+Sat Oct 28 1972,FC Nantes,0-0,Stade Reims
+Sat Oct 28 1972,Olympique Marseille,3-0,Red Star Olympique
+Sat Oct 28 1972,FC Sochaux,2-1,As Saint Etienne
+Sat Oct 28 1972,SC Bastia,2-0,Angers Sco
+Sat Oct 28 1972,Stade Rennes,1-1,AC Ajaccio
+Sat Oct 28 1972,Valenciennes FC,1-0,FC Metz
+Wed Nov 1 1972,Angers Sco,0-2,Olympique Marseille
+Wed Nov 1 1972,Girondins Bordeaux,2-1,FC Nantes
+Wed Nov 1 1972,CS Sedan,2-1,SC Bastia
+Wed Nov 1 1972,AC Ajaccio,2-0,FC Sochaux
+Sat Nov 4 1972,Nimes Olympique,2-0,Paris FC
+Sat Nov 4 1972,RC Strasbourg,1-1,As Nancy
+Sun Nov 5 1972,OGC Nice,2-2,Olympique Lyon
+Sun Nov 5 1972,As Saint Etienne,2-1,Stade Reims
+Sun Nov 5 1972,FC Metz,2-1,Stade Rennes
+Sun Nov 5 1972,Red Star Olympique,1-0,Valenciennes FC
+Sat Nov 18 1972,FC Nantes,6-2,RC Strasbourg
+Sun Nov 19 1972,As Nancy,3-0,OGC Nice
+Sun Nov 19 1972,Olympique Marseille,3-1,As Saint Etienne
+Sun Nov 19 1972,Olympique Lyon,1-2,CS Sedan
+Sun Nov 19 1972,SC Bastia,3-0,Nimes Olympique
+Sun Nov 19 1972,Stade Rennes,3-0,Girondins Bordeaux
+Sun Nov 19 1972,Paris FC,1-2,Angers Sco
+Sun Nov 19 1972,FC Sochaux,1-0,Red Star Olympique
+Sun Nov 19 1972,Stade Reims,0-0,FC Metz
+Sun Nov 19 1972,Valenciennes FC,3-2,AC Ajaccio
+Sat Nov 25 1972,Olympique Lyon,2-4,FC Nantes
+Sun Nov 26 1972,OGC Nice,1-0,SC Bastia
+Sun Nov 26 1972,Girondins Bordeaux,2-1,Olympique Marseille
+Sun Nov 26 1972,Nimes Olympique,2-1,As Nancy
+Sun Nov 26 1972,Angers Sco,5-1,Valenciennes FC
+Sun Nov 26 1972,AC Ajaccio,2-0,As Saint Etienne
+Sun Nov 26 1972,FC Metz,2-1,FC Sochaux
+Sun Nov 26 1972,RC Strasbourg,2-1,Stade Rennes
+Sun Nov 26 1972,Red Star Olympique,1-2,Stade Reims
+Sun Nov 26 1972,CS Sedan,3-1,Paris FC
+Sat Dec 9 1972,FC Metz,1-2,As Saint Etienne
+Sun Dec 10 1972,OGC Nice,1-1,Olympique Marseille
+Sun Dec 10 1972,CS Sedan,0-3,FC Nantes
+Sun Dec 10 1972,Angers Sco,1-1,Stade Reims
+Sun Dec 10 1972,Olympique Lyon,2-2,As Nancy
+Sun Dec 10 1972,Nimes Olympique,1-1,Stade Rennes
+Sun Dec 10 1972,SC Bastia,1-0,Paris FC
+Sun Dec 10 1972,Girondins Bordeaux,1-1,FC Sochaux
+Sun Dec 10 1972,RC Strasbourg,1-1,Valenciennes FC
+Sun Dec 10 1972,Red Star Olympique,3-0,AC Ajaccio
+Sat Dec 16 1972,Stade Rennes,1-1,CS Sedan
+Sun Dec 17 1972,Valenciennes FC,1-1,OGC Nice
+Sun Dec 17 1972,FC Nantes,3-1,Red Star Olympique
+Sun Dec 17 1972,Olympique Marseille,1-2,Nimes Olympique
+Sun Dec 17 1972,As Saint Etienne,5-0,Angers Sco
+Sun Dec 17 1972,As Nancy,3-2,SC Bastia
+Sun Dec 17 1972,Paris FC,5-1,Olympique Lyon
+Sun Dec 17 1972,AC Ajaccio,0-0,FC Metz
+Sun Dec 17 1972,FC Sochaux,1-1,RC Strasbourg
+Sun Dec 17 1972,Stade Reims,3-1,Girondins Bordeaux
+Sun Jan 7 1973,OGC Nice,2-2,Stade Reims
+Sun Jan 7 1973,Paris FC,1-2,FC Nantes
+Sun Jan 7 1973,Olympique Lyon,4-4,Olympique Marseille
+Sun Jan 7 1973,Nimes Olympique,4-0,As Saint Etienne
+Sun Jan 7 1973,As Nancy,1-1,Valenciennes FC
+Sun Jan 7 1973,Angers Sco,1-0,Red Star Olympique
+Sun Jan 7 1973,SC Bastia,4-0,Stade Rennes
+Sun Jan 7 1973,CS Sedan,1-1,FC Sochaux
+Sun Jan 7 1973,Girondins Bordeaux,2-0,FC Metz
+Sun Jan 7 1973,RC Strasbourg,6-0,AC Ajaccio
+Sun Jan 14 1973,AC Ajaccio,0-3,OGC Nice
+Sun Jan 14 1973,FC Nantes,2-1,As Nancy
+Sun Jan 14 1973,Olympique Marseille,1-0,SC Bastia
+Sun Jan 14 1973,FC Sochaux,0-0,Nimes Olympique
+Sun Jan 14 1973,As Saint Etienne,5-1,RC Strasbourg
+Sun Jan 14 1973,FC Metz,2-0,Angers Sco
+Sun Jan 14 1973,Stade Reims,2-1,Olympique Lyon
+Sun Jan 14 1973,Valenciennes FC,5-1,CS Sedan
+Sun Jan 14 1973,Red Star Olympique,3-1,Girondins Bordeaux
+Wed Jan 17 1973,Paris FC,2-2,Stade Rennes
+Sun Jan 21 1973,OGC Nice,1-1,Red Star Olympique
+Sun Jan 21 1973,FC Nantes,1-2,Olympique Marseille
+Sun Jan 21 1973,Nimes Olympique,2-1,Stade Reims
+Sun Jan 21 1973,Paris FC,1-1,As Saint Etienne
+Sun Jan 21 1973,RC Strasbourg,0-1,FC Metz
+Sun Jan 21 1973,SC Bastia,2-0,Valenciennes FC
+Sun Jan 21 1973,CS Sedan,2-2,Angers Sco
+Sun Jan 21 1973,Olympique Lyon,2-0,FC Sochaux
+Sun Jan 21 1973,Girondins Bordeaux,3-0,AC Ajaccio
+Sun Feb 4 1973,FC Metz,1-0,OGC Nice
+Sun Feb 4 1973,Stade Rennes,0-0,FC Nantes
+Sun Feb 4 1973,Olympique Marseille,0-0,Paris FC
+Sun Feb 4 1973,AC Ajaccio,1-1,Nimes Olympique
+Sun Feb 4 1973,As Saint Etienne,2-0,CS Sedan
+Sun Feb 4 1973,Stade Reims,2-3,As Nancy
+Sun Feb 4 1973,Angers Sco,3-1,Girondins Bordeaux
+Sun Feb 4 1973,Valenciennes FC,1-2,Olympique Lyon
+Sun Feb 4 1973,FC Sochaux,3-2,SC Bastia
+Sun Feb 4 1973,Red Star Olympique,0-0,RC Strasbourg
+Sun Feb 11 1973,FC Nantes,1-0,Valenciennes FC
+Sun Feb 11 1973,OGC Nice,1-1,As Saint Etienne
+Sun Feb 11 1973,Stade Rennes,2-3,Olympique Marseille
+Sun Feb 11 1973,Nimes Olympique,1-1,Red Star Olympique
+Sun Feb 11 1973,As Nancy,4-2,FC Sochaux
+Sun Feb 11 1973,Olympique Lyon,3-0,FC Metz
+Sun Feb 11 1973,RC Strasbourg,0-0,Angers Sco
+Sun Feb 11 1973,SC Bastia,1-1,Stade Reims
+Sun Feb 11 1973,Paris FC,4-3,Girondins Bordeaux
+Sun Feb 11 1973,CS Sedan,5-0,AC Ajaccio
+Sun Feb 25 1973,FC Sochaux,0-1,FC Nantes
+Sun Feb 25 1973,Angers Sco,0-0,OGC Nice
+Sun Feb 25 1973,Olympique Marseille,0-0,As Nancy
+Sun Feb 25 1973,FC Metz,0-1,Nimes Olympique
+Sun Feb 25 1973,As Saint Etienne,2-1,SC Bastia
+Sun Feb 25 1973,AC Ajaccio,4-3,Olympique Lyon
+Sun Feb 25 1973,Stade Reims,1-1,Stade Rennes
+Sun Feb 25 1973,Girondins Bordeaux,2-1,RC Strasbourg
+Sun Feb 25 1973,Valenciennes FC,1-1,Paris FC
+Sun Feb 25 1973,Red Star Olympique,1-1,CS Sedan
+Fri Mar 9 1973,Stade Rennes,1-0,OGC Nice
+Fri Mar 9 1973,As Nancy,1-1,CS Sedan
+Sat Mar 17 1973,FC Nantes,6-1,AC Ajaccio
+Sat Mar 17 1973,Stade Rennes,0-0,FC Sochaux
+Sat Mar 17 1973,CS Sedan,1-1,FC Metz
+Sun Mar 18 1973,OGC Nice,0-1,Girondins Bordeaux
+Sun Mar 18 1973,Olympique Marseille,1-0,Valenciennes FC
+Sun Mar 18 1973,Nimes Olympique,2-2,Angers Sco
+Sun Mar 18 1973,As Nancy,4-0,As Saint Etienne
+Sun Mar 18 1973,Olympique Lyon,1-2,Red Star Olympique
+Sun Mar 18 1973,SC Bastia,3-0,RC Strasbourg
+Sun Mar 18 1973,Paris FC,0-0,Stade Reims
+Fri Mar 23 1973,As Saint Etienne,1-2,FC Nantes
+Fri Mar 23 1973,RC Strasbourg,0-1,OGC Nice
+Fri Mar 23 1973,Girondins Bordeaux,0-1,Nimes Olympique
+Fri Mar 23 1973,Red Star Olympique,2-3,Paris FC
+Sat Mar 24 1973,FC Sochaux,1-2,Olympique Marseille
+Sat Mar 24 1973,FC Metz,1-0,As Nancy
+Sat Mar 24 1973,Angers Sco,1-0,Olympique Lyon
+Sat Mar 24 1973,Stade Reims,5-1,CS Sedan
+Sat Mar 24 1973,Valenciennes FC,2-0,Stade Rennes
+Sun Mar 25 1973,AC Ajaccio,0-1,SC Bastia
+Tue Mar 27 1973,Nimes Olympique,3-0,RC Strasbourg
+Wed Mar 28 1973,FC Nantes,2-2,OGC Nice
+Wed Mar 28 1973,Olympique Marseille,3-1,Stade Reims
+Wed Mar 28 1973,As Nancy,2-1,Red Star Olympique
+Wed Mar 28 1973,Stade Rennes,1-2,Angers Sco
+Wed Mar 28 1973,SC Bastia,4-0,FC Metz
+Wed Mar 28 1973,Olympique Lyon,2-0,As Saint Etienne
+Wed Mar 28 1973,Valenciennes FC,0-0,FC Sochaux
+Wed Mar 28 1973,CS Sedan,1-0,Girondins Bordeaux
+Wed Mar 28 1973,Paris FC,3-1,AC Ajaccio
+Sat Mar 31 1973,Angers Sco,1-0,FC Nantes
+Sat Mar 31 1973,OGC Nice,2-0,Nimes Olympique
+Sat Mar 31 1973,FC Metz,2-0,Olympique Marseille
+Sat Mar 31 1973,As Saint Etienne,2-0,Stade Rennes
+Sat Mar 31 1973,Red Star Olympique,2-2,SC Bastia
+Sat Mar 31 1973,Girondins Bordeaux,1-0,Olympique Lyon
+Sat Mar 31 1973,Stade Reims,1-0,Valenciennes FC
+Sat Mar 31 1973,FC Sochaux,1-1,Paris FC
+Sat Mar 31 1973,RC Strasbourg,2-1,CS Sedan
+Sun Apr 1 1973,AC Ajaccio,2-2,As Nancy
+Wed Apr 4 1973,FC Nantes,2-1,Nimes Olympique
+Wed Apr 4 1973,Olympique Marseille,3-1,RC Strasbourg
+Wed Apr 4 1973,SC Bastia,1-1,Olympique Lyon
+Wed Apr 4 1973,Paris FC,1-3,FC Metz
+Wed Apr 4 1973,As Saint Etienne,1-1,Red Star Olympique
+Fri Apr 6 1973,As Nancy,0-0,Angers Sco
+Sat Apr 7 1973,FC Nantes,0-0,FC Metz
+Sat Apr 7 1973,Olympique Marseille,3-0,AC Ajaccio
+Sat Apr 7 1973,Paris FC,2-0,OGC Nice
+Sat Apr 7 1973,CS Sedan,2-1,Nimes Olympique
+Sat Apr 7 1973,Valenciennes FC,0-1,As Saint Etienne
+Sat Apr 7 1973,Olympique Lyon,4-0,RC Strasbourg
+Sat Apr 7 1973,SC Bastia,1-1,Girondins Bordeaux
+Sat Apr 7 1973,FC Sochaux,2-1,Stade Reims
+Sat Apr 7 1973,Stade Rennes,1-1,Red Star Olympique
+Tue Apr 10 1973,FC Metz,1-1,Valenciennes FC
+Wed Apr 11 1973,Red Star Olympique,1-2,Olympique Marseille
+Wed Apr 11 1973,Stade Reims,2-1,FC Nantes
+Wed Apr 11 1973,Nimes Olympique,3-1,Olympique Lyon
+Wed Apr 11 1973,Angers Sco,3-0,SC Bastia
+Wed Apr 11 1973,Girondins Bordeaux,3-1,As Nancy
+Wed Apr 11 1973,AC Ajaccio,2-3,Stade Rennes
+Wed Apr 11 1973,RC Strasbourg,2-0,Paris FC
+Fri Apr 13 1973,OGC Nice,4-2,CS Sedan
+Sat Apr 14 1973,Stade Reims,0-0,AC Ajaccio
+Sat Apr 14 1973,Valenciennes FC,3-0,Girondins Bordeaux
+Sat Apr 14 1973,FC Sochaux,1-1,Angers Sco
+Sat Apr 14 1973,As Nancy,4-0,Stade Rennes
+Fri Apr 20 1973,Olympique Lyon,1-2,OGC Nice
+Fri Apr 20 1973,As Nancy,2-1,RC Strasbourg
+Fri Apr 20 1973,Stade Rennes,1-0,FC Metz
+Fri Apr 20 1973,FC Sochaux,4-0,AC Ajaccio
+Sat Apr 21 1973,Olympique Marseille,3-2,Angers Sco
+Sat Apr 21 1973,FC Nantes,3-0,Girondins Bordeaux
+Sat Apr 21 1973,Paris FC,3-1,Nimes Olympique
+Sat Apr 21 1973,SC Bastia,3-0,CS Sedan
+Sat Apr 21 1973,Valenciennes FC,0-0,Red Star Olympique
+Tue Apr 24 1973,Stade Reims,0-0,As Saint Etienne
+Fri Apr 27 1973,RC Strasbourg,0-3,FC Nantes
+Fri Apr 27 1973,OGC Nice,1-0,As Nancy
+Fri Apr 27 1973,Nimes Olympique,2-1,SC Bastia
+Fri Apr 27 1973,Girondins Bordeaux,1-1,Stade Rennes
+Sat Apr 28 1973,As Saint Etienne,2-1,Olympique Marseille
+Sat Apr 28 1973,Angers Sco,1-1,Paris FC
+Sat Apr 28 1973,FC Metz,1-2,Stade Reims
+Sat Apr 28 1973,Red Star Olympique,3-3,FC Sochaux
+Sat Apr 28 1973,AC Ajaccio,3-1,Valenciennes FC
+Sat Apr 28 1973,CS Sedan,4-1,Olympique Lyon
+Tue May 1 1973,FC Nantes,3-0,Olympique Lyon
+Wed May 2 1973,Olympique Marseille,1-1,Girondins Bordeaux
+Wed May 2 1973,SC Bastia,3-0,OGC Nice
+Wed May 2 1973,As Nancy,2-1,Nimes Olympique
+Wed May 2 1973,As Saint Etienne,3-1,AC Ajaccio
+Wed May 2 1973,Valenciennes FC,3-0,Angers Sco
+Wed May 2 1973,Stade Reims,3-0,Red Star Olympique
+Wed May 2 1973,FC Sochaux,4-1,FC Metz
+Wed May 2 1973,Stade Rennes,1-0,RC Strasbourg
+Wed May 2 1973,Paris FC,2-1,CS Sedan
+Sat May 5 1973,Nimes Olympique,1-1,FC Nantes
+Sat May 5 1973,OGC Nice,2-0,Stade Rennes
+Sat May 5 1973,RC Strasbourg,1-1,Olympique Marseille
+Sat May 5 1973,Red Star Olympique,0-3,As Saint Etienne
+Sat May 5 1973,CS Sedan,1-0,As Nancy
+Sat May 5 1973,Angers Sco,1-0,FC Sochaux
+Sat May 5 1973,AC Ajaccio,2-3,Stade Reims
+Sat May 5 1973,Olympique Lyon,2-0,SC Bastia
+Sat May 5 1973,FC Metz,0-1,Paris FC
+Sat May 5 1973,Girondins Bordeaux,2-0,Valenciennes FC
+Tue May 8 1973,As Saint Etienne,2-2,FC Sochaux
+Fri May 11 1973,As Saint Etienne,1-0,FC Metz
+Fri May 11 1973,As Nancy,4-1,Olympique Lyon
+Fri May 11 1973,Paris FC,2-0,SC Bastia
+Sat May 12 1973,FC Nantes,1-0,CS Sedan
+Sat May 12 1973,Olympique Marseille,1-1,OGC Nice
+Sat May 12 1973,Stade Rennes,1-0,Nimes Olympique
+Sat May 12 1973,Stade Reims,3-2,Angers Sco
+Sat May 12 1973,FC Sochaux,0-0,Girondins Bordeaux
+Sat May 12 1973,Valenciennes FC,1-2,RC Strasbourg
+Sat May 12 1973,AC Ajaccio,2-2,Red Star Olympique
+Tue May 29 1973,Red Star Olympique,1-3,FC Nantes
+Tue May 29 1973,OGC Nice,4-1,Valenciennes FC
+Tue May 29 1973,Nimes Olympique,1-1,Olympique Marseille
+Tue May 29 1973,Angers Sco,2-0,As Saint Etienne
+Tue May 29 1973,SC Bastia,3-1,As Nancy
+Tue May 29 1973,Girondins Bordeaux,2-0,Stade Reims
+Tue May 29 1973,CS Sedan,2-3,Stade Rennes
+Tue May 29 1973,RC Strasbourg,4-2,FC Sochaux
+Tue May 29 1973,Olympique Lyon,5-2,Paris FC
+Tue May 29 1973,FC Metz,7-0,AC Ajaccio
+Sat Jun 2 1973,FC Nantes,1-0,SC Bastia
+Sat Jun 2 1973,FC Sochaux,5-1,OGC Nice
+Sat Jun 2 1973,Olympique Marseille,0-1,CS Sedan
+Sat Jun 2 1973,As Saint Etienne,6-2,Girondins Bordeaux
+Sat Jun 2 1973,AC Ajaccio,1-1,Angers Sco
+Sat Jun 2 1973,As Nancy,1-2,Paris FC
+Sat Jun 2 1973,Valenciennes FC,1-0,Nimes Olympique
+Sat Jun 2 1973,Stade Reims,1-0,RC Strasbourg
+Sat Jun 2 1973,Stade Rennes,3-2,Olympique Lyon
+Sat Jun 2 1973,Red Star Olympique,1-0,FC Metz

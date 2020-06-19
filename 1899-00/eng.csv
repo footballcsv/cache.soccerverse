@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sat Sep 2 1899,Blackburn Rovers,4-3,Manchester City
+Sat Sep 2 1899,Bury FC,3-0,Wolverhampton Wanderers
+Sat Sep 2 1899,Derby County,0-1,Notts County
+Sat Sep 2 1899,Everton FC,1-2,Sheffield United
+Sat Sep 2 1899,Glossop North End,2-0,Burnley FC
+Sat Sep 2 1899,Nottingham Forest,3-1,Preston North End
+Sat Sep 2 1899,Stoke City,3-2,Liverpool FC
+Sat Sep 2 1899,Sunderland Afc,0-1,Aston Villa
+Sat Sep 2 1899,West Bromwich Albion,1-1,Newcastle United
+Mon Sep 4 1899,Aston Villa,9-0,Glossop North End
+Sat Sep 9 1899,Aston Villa,0-2,West Bromwich Albion
+Sat Sep 9 1899,Burnley FC,2-2,Stoke City
+Sat Sep 9 1899,Liverpool FC,0-2,Sunderland Afc
+Sat Sep 9 1899,Manchester City,4-0,Derby County
+Sat Sep 9 1899,Newcastle United,2-0,Everton FC
+Sat Sep 9 1899,Notts County,2-2,Bury FC
+Sat Sep 9 1899,Preston North End,1-0,Glossop North End
+Sat Sep 9 1899,Sheffield United,3-0,Blackburn Rovers
+Sat Sep 9 1899,Wolverhampton Wanderers,2-2,Nottingham Forest
+Sat Sep 16 1899,Blackburn Rovers,2-3,Newcastle United
+Sat Sep 16 1899,Bury FC,1-4,Manchester City
+Sat Sep 16 1899,Derby County,0-1,Sheffield United
+Sat Sep 16 1899,Everton FC,1-2,Aston Villa
+Sat Sep 16 1899,Glossop North End,3-0,Nottingham Forest
+Sat Sep 16 1899,Notts County,0-0,Wolverhampton Wanderers
+Sat Sep 16 1899,Stoke City,3-1,Preston North End
+Sat Sep 16 1899,Sunderland Afc,2-1,Burnley FC
+Sat Sep 16 1899,West Bromwich Albion,2-0,Liverpool FC
+Mon Sep 18 1899,Stoke City,1-3,Wolverhampton Wanderers
+Sat Sep 23 1899,Aston Villa,3-1,Blackburn Rovers
+Sat Sep 23 1899,Burnley FC,2-0,West Bromwich Albion
+Sat Sep 23 1899,Liverpool FC,1-2,Everton FC
+Sat Sep 23 1899,Manchester City,5-1,Notts County
+Sat Sep 23 1899,Newcastle United,2-0,Derby County
+Sat Sep 23 1899,Nottingham Forest,1-0,Stoke City
+Sat Sep 23 1899,Preston North End,0-1,Sunderland Afc
+Sat Sep 23 1899,Sheffield United,4-0,Bury FC
+Sat Sep 23 1899,Wolverhampton Wanderers,4-0,Glossop North End
+Sat Sep 30 1899,Blackburn Rovers,2-0,Liverpool FC
+Sat Sep 30 1899,Bury FC,2-1,Newcastle United
+Sat Sep 30 1899,Derby County,2-0,Aston Villa
+Sat Sep 30 1899,Everton FC,2-0,Burnley FC
+Sat Sep 30 1899,Manchester City,1-1,Wolverhampton Wanderers
+Sat Sep 30 1899,Notts County,1-2,Sheffield United
+Sat Sep 30 1899,Stoke City,1-0,Glossop North End
+Sat Sep 30 1899,Sunderland Afc,1-0,Nottingham Forest
+Sat Sep 30 1899,West Bromwich Albion,1-0,Preston North End
+Mon Oct 2 1899,Sheffield United,2-2,Sunderland Afc
+Thu Oct 5 1899,Notts County,2-1,Liverpool FC
+Sat Oct 7 1899,Aston Villa,2-1,Bury FC
+Sat Oct 7 1899,Burnley FC,1-0,Blackburn Rovers
+Sat Oct 7 1899,Glossop North End,0-2,Sunderland Afc
+Sat Oct 7 1899,Liverpool FC,0-2,Derby County
+Sat Oct 7 1899,Newcastle United,6-0,Notts County
+Sat Oct 7 1899,Nottingham Forest,6-1,West Bromwich Albion
+Sat Oct 7 1899,Preston North End,1-1,Everton FC
+Sat Oct 7 1899,Sheffield United,3-0,Manchester City
+Sat Oct 7 1899,Wolverhampton Wanderers,0-2,Stoke City
+Sat Oct 14 1899,Blackburn Rovers,3-0,Preston North End
+Sat Oct 14 1899,Bury FC,2-1,Liverpool FC
+Sat Oct 14 1899,Derby County,4-1,Burnley FC
+Sat Oct 14 1899,Everton FC,2-1,Nottingham Forest
+Sat Oct 14 1899,Manchester City,1-0,Newcastle United
+Sat Oct 14 1899,Notts County,1-4,Aston Villa
+Sat Oct 14 1899,Sheffield United,5-2,Wolverhampton Wanderers
+Sat Oct 14 1899,Sunderland Afc,3-0,Stoke City
+Sat Oct 14 1899,West Bromwich Albion,3-3,Glossop North End
+Sat Oct 21 1899,Aston Villa,2-1,Manchester City
+Sat Oct 21 1899,Burnley FC,1-0,Bury FC
+Sat Oct 21 1899,Glossop North End,1-1,Everton FC
+Sat Oct 21 1899,Liverpool FC,3-1,Notts County
+Sat Oct 21 1899,Newcastle United,0-0,Sheffield United
+Sat Oct 21 1899,Nottingham Forest,3-2,Blackburn Rovers
+Sat Oct 21 1899,Preston North End,0-0,Derby County
+Sat Oct 21 1899,Stoke City,1-0,West Bromwich Albion
+Sat Oct 28 1899,Bury FC,2-0,Preston North End
+Sat Oct 28 1899,Derby County,2-2,Nottingham Forest
+Sat Oct 28 1899,Manchester City,0-1,Liverpool FC
+Sat Oct 28 1899,Newcastle United,0-1,Wolverhampton Wanderers
+Sat Oct 28 1899,Notts County,6-1,Burnley FC
+Sat Oct 28 1899,Sheffield United,2-1,Aston Villa
+Sat Oct 28 1899,Stoke City,1-1,Everton FC
+Sat Oct 28 1899,West Bromwich Albion,1-0,Sunderland Afc
+Sat Nov 4 1899,Aston Villa,2-1,Newcastle United
+Sat Nov 4 1899,Burnley FC,2-0,Manchester City
+Sat Nov 4 1899,Liverpool FC,2-2,Sheffield United
+Sat Nov 4 1899,Nottingham Forest,2-2,Bury FC
+Sat Nov 4 1899,Preston North End,4-3,Notts County
+Sat Nov 4 1899,Stoke City,2-0,Blackburn Rovers
+Sat Nov 4 1899,Sunderland Afc,1-0,Everton FC
+Sat Nov 4 1899,Wolverhampton Wanderers,2-0,West Bromwich Albion
+Mon Nov 6 1899,West Bromwich Albion,1-2,Sheffield United
+Sat Nov 11 1899,Aston Villa,0-0,Wolverhampton Wanderers
+Sat Nov 11 1899,Blackburn Rovers,1-2,Sunderland Afc
+Sat Nov 11 1899,Bury FC,2-1,Glossop North End
+Sat Nov 11 1899,Derby County,2-0,Stoke City
+Sat Nov 11 1899,Everton FC,1-3,West Bromwich Albion
+Sat Nov 11 1899,Manchester City,3-1,Preston North End
+Sat Nov 11 1899,Newcastle United,1-1,Liverpool FC
+Sat Nov 11 1899,Notts County,1-2,Nottingham Forest
+Sat Nov 11 1899,Sheffield United,0-0,Burnley FC
+Mon Nov 13 1899,Stoke City,0-2,Aston Villa
+Sat Nov 18 1899,Burnley FC,1-3,Newcastle United
+Sat Nov 18 1899,Glossop North End,0-0,Notts County
+Sat Nov 18 1899,Liverpool FC,3-3,Aston Villa
+Sat Nov 18 1899,Preston North End,0-1,Sheffield United
+Sat Nov 25 1899,Aston Villa,2-0,Burnley FC
+Sat Nov 25 1899,Blackburn Rovers,3-1,Everton FC
+Sat Nov 25 1899,Bury FC,2-0,Sunderland Afc
+Sat Nov 25 1899,Derby County,4-1,West Bromwich Albion
+Sat Nov 25 1899,Liverpool FC,1-1,Wolverhampton Wanderers
+Sat Nov 25 1899,Manchester City,4-1,Glossop North End
+Sat Nov 25 1899,Newcastle United,0-0,Preston North End
+Sat Nov 25 1899,Notts County,1-3,Stoke City
+Sat Nov 25 1899,Sheffield United,3-0,Nottingham Forest
+Sat Dec 2 1899,Burnley FC,2-1,Liverpool FC
+Sat Dec 2 1899,Everton FC,3-0,Derby County
+Sat Dec 2 1899,Glossop North End,2-2,Sheffield United
+Sat Dec 2 1899,Nottingham Forest,1-0,Newcastle United
+Sat Dec 2 1899,Preston North End,0-5,Aston Villa
+Sat Dec 2 1899,Stoke City,1-0,Manchester City
+Sat Dec 2 1899,Sunderland Afc,5-0,Notts County
+Sat Dec 2 1899,West Bromwich Albion,0-1,Bury FC
+Sat Dec 2 1899,Wolverhampton Wanderers,4-0,Blackburn Rovers
+Sat Dec 9 1899,Aston Villa,2-2,Nottingham Forest
+Sat Dec 9 1899,Burnley FC,0-1,Wolverhampton Wanderers
+Sat Dec 9 1899,Bury FC,4-1,Everton FC
+Sat Dec 9 1899,Derby County,0-2,Blackburn Rovers
+Sat Dec 9 1899,Liverpool FC,1-0,Preston North End
+Sat Dec 9 1899,Manchester City,2-1,Sunderland Afc
+Sat Dec 9 1899,Notts County,1-2,West Bromwich Albion
+Sat Dec 9 1899,Sheffield United,1-0,Stoke City
+Sat Dec 16 1899,Blackburn Rovers,3-2,Bury FC
+Sat Dec 16 1899,Derby County,0-2,Wolverhampton Wanderers
+Sat Dec 16 1899,Everton FC,0-2,Notts County
+Sat Dec 16 1899,Glossop North End,1-0,Aston Villa
+Sat Dec 16 1899,Nottingham Forest,1-0,Liverpool FC
+Sat Dec 16 1899,Preston North End,1-1,Burnley FC
+Sat Dec 16 1899,Stoke City,2-2,Newcastle United
+Sat Dec 16 1899,Sunderland Afc,1-1,Sheffield United
+Sat Dec 16 1899,West Bromwich Albion,0-0,Manchester City
+Sat Dec 23 1899,Aston Villa,4-1,Stoke City
+Sat Dec 23 1899,Burnley FC,2-2,Nottingham Forest
+Sat Dec 23 1899,Bury FC,1-1,Derby County
+Sat Dec 23 1899,Liverpool FC,5-2,Glossop North End
+Sat Dec 23 1899,Manchester City,1-2,Everton FC
+Sat Dec 23 1899,Newcastle United,2-4,Sunderland Afc
+Sat Dec 23 1899,Notts County,5-1,Blackburn Rovers
+Sat Dec 23 1899,Sheffield United,1-1,West Bromwich Albion
+Sat Dec 23 1899,Wolverhampton Wanderers,1-3,Preston North End
+Mon Dec 25 1899,Bury FC,2-1,Nottingham Forest
+Mon Dec 25 1899,Derby County,3-2,Liverpool FC
+Mon Dec 25 1899,Everton FC,2-0,Stoke City
+Mon Dec 25 1899,Manchester City,1-2,Sheffield United
+Tue Dec 26 1899,Derby County,4-1,Glossop North End
+Tue Dec 26 1899,Stoke City,3-0,Burnley FC
+Tue Dec 26 1899,West Bromwich Albion,0-0,Everton FC
+Tue Dec 26 1899,Wolverhampton Wanderers,1-0,Sunderland Afc
+Wed Dec 27 1899,Nottingham Forest,2-0,Manchester City
+Fri Dec 29 1899,Aston Villa,4-2,Sunderland Afc
+Fri Dec 29 1899,Burnley FC,3-1,Glossop North End
+Fri Dec 29 1899,Liverpool FC,0-0,Stoke City
+Fri Dec 29 1899,Manchester City,1-1,Blackburn Rovers
+Fri Dec 29 1899,Newcastle United,4-2,West Bromwich Albion
+Fri Dec 29 1899,Notts County,0-0,Derby County
+Fri Dec 29 1899,Preston North End,3-0,Nottingham Forest
+Fri Dec 29 1899,Sheffield United,5-0,Everton FC
+Fri Dec 29 1899,Wolverhampton Wanderers,1-0,Bury FC
+Mon Jan 1 1900,Blackburn Rovers,2-0,Burnley FC
+Mon Jan 1 1900,Bury FC,2-0,Aston Villa
+Mon Jan 1 1900,Everton FC,1-0,Preston North End
+Mon Jan 1 1900,Sunderland Afc,1-2,Wolverhampton Wanderers
+Sat Jan 6 1900,Bury FC,0-1,Notts County
+Sat Jan 6 1900,Derby County,0-0,Manchester City
+Sat Jan 6 1900,Everton FC,3-2,Newcastle United
+Sat Jan 6 1900,Glossop North End,0-2,Preston North End
+Sat Jan 6 1900,Nottingham Forest,0-0,Wolverhampton Wanderers
+Sat Jan 6 1900,Sunderland Afc,1-0,Liverpool FC
+Sat Jan 6 1900,West Bromwich Albion,0-2,Aston Villa
+Sat Jan 13 1900,Aston Villa,1-1,Everton FC
+Sat Jan 13 1900,Burnley FC,3-1,Sunderland Afc
+Sat Jan 13 1900,Liverpool FC,2-0,West Bromwich Albion
+Sat Jan 13 1900,Manchester City,2-2,Bury FC
+Sat Jan 13 1900,Newcastle United,4-1,Blackburn Rovers
+Sat Jan 13 1900,Nottingham Forest,5-0,Glossop North End
+Sat Jan 13 1900,Preston North End,3-0,Stoke City
+Sat Jan 13 1900,Sheffield United,1-1,Derby County
+Sat Jan 13 1900,Wolverhampton Wanderers,2-2,Notts County
+Sat Jan 20 1900,Blackburn Rovers,0-4,Aston Villa
+Sat Jan 20 1900,Bury FC,2-1,Sheffield United
+Sat Jan 20 1900,Derby County,2-1,Newcastle United
+Sat Jan 20 1900,Everton FC,3-1,Liverpool FC
+Sat Jan 20 1900,Glossop North End,2-3,Wolverhampton Wanderers
+Sat Jan 20 1900,Notts County,1-1,Manchester City
+Sat Jan 20 1900,Stoke City,0-0,Nottingham Forest
+Sat Jan 20 1900,Sunderland Afc,1-0,Preston North End
+Sat Jan 20 1900,West Bromwich Albion,2-0,Burnley FC
+Sat Feb 3 1900,Aston Villa,3-2,Derby County
+Sat Feb 3 1900,Burnley FC,3-1,Everton FC
+Sat Feb 3 1900,Glossop North End,1-2,Stoke City
+Sat Feb 3 1900,Liverpool FC,3-1,Blackburn Rovers
+Sat Feb 3 1900,Newcastle United,2-1,Bury FC
+Sat Feb 3 1900,Preston North End,5-2,West Bromwich Albion
+Sat Feb 3 1900,Sheffield United,1-1,Notts County
+Sat Feb 3 1900,Wolverhampton Wanderers,1-1,Manchester City
+Sat Feb 17 1900,Aston Villa,6-2,Notts County
+Sat Feb 17 1900,Burnley FC,1-2,Derby County
+Sat Feb 17 1900,Nottingham Forest,4-2,Everton FC
+Sat Feb 24 1900,Sunderland Afc,0-0,Glossop North End
+Tue Feb 27 1900,Glossop North End,4-2,Blackburn Rovers
+Sat Mar 3 1900,Aston Villa,1-1,Sheffield United
+Sat Mar 3 1900,Blackburn Rovers,2-2,Glossop North End
+Sat Mar 3 1900,Burnley FC,3-0,Notts County
+Sat Mar 3 1900,Liverpool FC,5-2,Manchester City
+Sat Mar 3 1900,Nottingham Forest,4-1,Derby County
+Sat Mar 3 1900,Preston North End,1-0,Bury FC
+Sat Mar 3 1900,Sunderland Afc,3-1,West Bromwich Albion
+Sat Mar 3 1900,Wolverhampton Wanderers,1-1,Newcastle United
+Mon Mar 5 1900,Blackburn Rovers,2-1,Nottingham Forest
+Sat Mar 10 1900,Blackburn Rovers,3-0,Stoke City
+Sat Mar 10 1900,Everton FC,1-0,Sunderland Afc
+Sat Mar 10 1900,Manchester City,1-0,Burnley FC
+Sat Mar 10 1900,Newcastle United,3-2,Aston Villa
+Sat Mar 10 1900,Notts County,3-0,Preston North End
+Sat Mar 10 1900,Sheffield United,1-2,Liverpool FC
+Sat Mar 10 1900,West Bromwich Albion,3-2,Wolverhampton Wanderers
+Wed Mar 14 1900,Bury FC,1-1,Burnley FC
+Wed Mar 14 1900,Newcastle United,1-0,Glossop North End
+Sat Mar 17 1900,Glossop North End,0-0,Bury FC
+Sat Mar 17 1900,Liverpool FC,2-0,Newcastle United
+Sat Mar 17 1900,Nottingham Forest,0-3,Notts County
+Sat Mar 17 1900,Stoke City,1-1,Derby County
+Sat Mar 17 1900,Wolverhampton Wanderers,2-1,Everton FC
+Mon Mar 19 1900,Manchester City,0-2,Aston Villa
+Mon Mar 19 1900,West Bromwich Albion,4-0,Stoke City
+Wed Mar 21 1900,Sunderland Afc,2-0,Derby County
+Sat Mar 24 1900,Aston Villa,1-0,Liverpool FC
+Sat Mar 24 1900,Blackburn Rovers,2-0,West Bromwich Albion
+Sat Mar 24 1900,Derby County,2-0,Sunderland Afc
+Sat Mar 24 1900,Everton FC,0-1,Wolverhampton Wanderers
+Sat Mar 24 1900,Newcastle United,2-0,Burnley FC
+Sat Mar 24 1900,Notts County,0-0,Glossop North End
+Sat Mar 24 1900,Sheffield United,1-0,Preston North End
+Mon Mar 26 1900,Sheffield United,3-1,Newcastle United
+Mon Mar 26 1900,Stoke City,1-2,Sunderland Afc
+Sat Mar 31 1900,Burnley FC,1-2,Aston Villa
+Sat Mar 31 1900,Everton FC,0-0,Blackburn Rovers
+Sat Mar 31 1900,Glossop North End,0-2,Manchester City
+Sat Mar 31 1900,Nottingham Forest,4-0,Sheffield United
+Sat Mar 31 1900,Preston North End,4-1,Newcastle United
+Sat Mar 31 1900,Stoke City,1-0,Notts County
+Sat Mar 31 1900,Sunderland Afc,1-0,Bury FC
+Sat Mar 31 1900,West Bromwich Albion,0-0,Derby County
+Sat Mar 31 1900,Wolverhampton Wanderers,0-1,Liverpool FC
+Mon Apr 2 1900,West Bromwich Albion,1-0,Blackburn Rovers
+Wed Apr 4 1900,Derby County,2-0,Preston North End
+Sat Apr 7 1900,Aston Villa,3-1,Preston North End
+Sat Apr 7 1900,Blackburn Rovers,2-1,Wolverhampton Wanderers
+Sat Apr 7 1900,Bury FC,1-0,West Bromwich Albion
+Sat Apr 7 1900,Derby County,2-1,Everton FC
+Sat Apr 7 1900,Liverpool FC,0-1,Burnley FC
+Sat Apr 7 1900,Manchester City,1-0,Stoke City
+Sat Apr 7 1900,Newcastle United,3-1,Nottingham Forest
+Sat Apr 7 1900,Notts County,3-1,Sunderland Afc
+Sat Apr 7 1900,Sheffield United,4-0,Glossop North End
+Mon Apr 9 1900,Liverpool FC,2-0,Bury FC
+Mon Apr 9 1900,Manchester City,2-0,Nottingham Forest
+Fri Apr 13 1900,Blackburn Rovers,3-3,Sheffield United
+Fri Apr 13 1900,Bury FC,0-1,Stoke City
+Fri Apr 13 1900,Glossop North End,1-3,Derby County
+Fri Apr 13 1900,Newcastle United,0-0,Manchester City
+Sat Apr 14 1900,Blackburn Rovers,2-0,Derby County
+Sat Apr 14 1900,Everton FC,2-0,Bury FC
+Sat Apr 14 1900,Glossop North End,0-0,Newcastle United
+Sat Apr 14 1900,Nottingham Forest,1-1,Aston Villa
+Sat Apr 14 1900,Preston North End,1-3,Liverpool FC
+Sat Apr 14 1900,Stoke City,1-1,Sheffield United
+Sat Apr 14 1900,Sunderland Afc,3-1,Manchester City
+Sat Apr 14 1900,West Bromwich Albion,0-0,Notts County
+Sat Apr 14 1900,Wolverhampton Wanderers,3-0,Burnley FC
+Mon Apr 16 1900,Everton FC,4-1,Glossop North End
+Mon Apr 16 1900,Notts County,0-0,Newcastle United
+Mon Apr 16 1900,Preston North End,0-2,Manchester City
+Mon Apr 16 1900,Stoke City,2-0,Bury FC
+Mon Apr 16 1900,Sunderland Afc,1-0,Blackburn Rovers
+Mon Apr 16 1900,West Bromwich Albion,8-0,Nottingham Forest
+Mon Apr 16 1900,Wolverhampton Wanderers,0-1,Aston Villa
+Tue Apr 17 1900,Nottingham Forest,1-3,Sunderland Afc
+Tue Apr 17 1900,Wolverhampton Wanderers,1-2,Sheffield United
+Sat Apr 21 1900,Burnley FC,0-1,Preston North End
+Sat Apr 21 1900,Liverpool FC,1-0,Nottingham Forest
+Sat Apr 21 1900,Manchester City,4-0,West Bromwich Albion
+Sat Apr 21 1900,Newcastle United,2-2,Stoke City
+Sat Apr 21 1900,Notts County,2-2,Everton FC
+Sat Apr 21 1900,Wolverhampton Wanderers,3-0,Derby County
+Mon Apr 23 1900,Burnley FC,1-0,Sheffield United
+Tue Apr 24 1900,Glossop North End,1-1,West Bromwich Albion
+Wed Apr 25 1900,Bury FC,2-0,Blackburn Rovers
+Sat Apr 28 1900,Blackburn Rovers,2-0,Notts County
+Sat Apr 28 1900,Derby County,3-0,Bury FC
+Sat Apr 28 1900,Everton FC,4-0,Manchester City
+Sat Apr 28 1900,Glossop North End,1-2,Liverpool FC
+Sat Apr 28 1900,Nottingham Forest,4-0,Burnley FC
+Sat Apr 28 1900,Preston North End,2-0,Wolverhampton Wanderers
+Sat Apr 28 1900,Sunderland Afc,1-2,Newcastle United
+Mon Apr 30 1900,Preston North End,2-0,Blackburn Rovers

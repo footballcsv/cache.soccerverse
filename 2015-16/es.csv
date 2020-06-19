@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Fri Aug 21 2015,Malaga CF,0-0,Sevilla FC
+Sat Aug 22 2015,Espanyol Barcelona,1-0,Getafe CF
+Sat Aug 22 2015,Deportivo La Coruna,0-0,Real Sociedad
+Sat Aug 22 2015,Atletico Madrid,1-0,Ud Las Palmas
+Sat Aug 22 2015,Rayo Vallecano,0-0,Valencia CF
+Sun Aug 23 2015,Athletic Bilbao,0-1,FC Barcelona
+Sun Aug 23 2015,Sporting Gijon,0-0,Real Madrid
+Sun Aug 23 2015,Levante Ud,1-2,Celta Vigo
+Sun Aug 23 2015,Real Betis,1-1,Villarreal CF
+Mon Aug 24 2015,Granada CF,1-3,Sd Eibar
+Fri Aug 28 2015,Villarreal CF,3-1,Espanyol Barcelona
+Sat Aug 29 2015,Real Sociedad,0-0,Sporting Gijon
+Sat Aug 29 2015,FC Barcelona,1-0,Malaga CF
+Sat Aug 29 2015,Celta Vigo,3-0,Rayo Vallecano
+Sat Aug 29 2015,Real Madrid,5-0,Real Betis
+Sun Aug 30 2015,Sd Eibar,2-0,Athletic Bilbao
+Sun Aug 30 2015,Sevilla FC,0-3,Atletico Madrid
+Sun Aug 30 2015,Valencia CF,1-1,Deportivo La Coruna
+Sun Aug 30 2015,Ud Las Palmas,0-0,Levante Ud
+Sun Aug 30 2015,Getafe CF,1-2,Granada CF
+Fri Sep 11 2015,Levante Ud,1-1,Sevilla FC
+Sat Sep 12 2015,Espanyol Barcelona,0-6,Real Madrid
+Sat Sep 12 2015,Sporting Gijon,0-1,Valencia CF
+Sat Sep 12 2015,Atletico Madrid,1-2,FC Barcelona
+Sat Sep 12 2015,Real Betis,1-0,Real Sociedad
+Sun Sep 13 2015,Granada CF,1-3,Villarreal CF
+Sun Sep 13 2015,Athletic Bilbao,3-1,Getafe CF
+Sun Sep 13 2015,Celta Vigo,3-3,Ud Las Palmas
+Sun Sep 13 2015,Malaga CF,0-0,Sd Eibar
+Mon Sep 14 2015,Rayo Vallecano,1-3,Deportivo La Coruna
+Fri Sep 18 2015,Getafe CF,1-0,Malaga CF
+Sat Sep 19 2015,Real Madrid,1-0,Granada CF
+Sat Sep 19 2015,Valencia CF,0-0,Real Betis
+Sat Sep 19 2015,Sd Eibar,0-2,Atletico Madrid
+Sat Sep 19 2015,Real Sociedad,2-3,Espanyol Barcelona
+Sun Sep 20 2015,Sevilla FC,1-2,Celta Vigo
+Sun Sep 20 2015,Deportivo La Coruna,2-3,Sporting Gijon
+Sun Sep 20 2015,Villarreal CF,3-1,Athletic Bilbao
+Sun Sep 20 2015,Ud Las Palmas,0-1,Rayo Vallecano
+Sun Sep 20 2015,FC Barcelona,4-1,Levante Ud
+Tue Sep 22 2015,Atletico Madrid,2-0,Getafe CF
+Tue Sep 22 2015,Espanyol Barcelona,1-0,Valencia CF
+Tue Sep 22 2015,Granada CF,0-3,Real Sociedad
+Wed Sep 23 2015,Celta Vigo,4-1,FC Barcelona
+Wed Sep 23 2015,Levante Ud,2-2,Sd Eibar
+Wed Sep 23 2015,Rayo Vallecano,2-1,Sporting Gijon
+Wed Sep 23 2015,Athletic Bilbao,1-2,Real Madrid
+Wed Sep 23 2015,Ud Las Palmas,2-0,Sevilla FC
+Wed Sep 23 2015,Malaga CF,0-1,Villarreal CF
+Thu Sep 24 2015,Real Betis,1-2,Deportivo La Coruna
+Fri Sep 25 2015,Valencia CF,1-0,Granada CF
+Sat Sep 26 2015,FC Barcelona,2-1,Ud Las Palmas
+Sat Sep 26 2015,Real Madrid,0-0,Malaga CF
+Sat Sep 26 2015,Sevilla FC,3-2,Rayo Vallecano
+Sat Sep 26 2015,Villarreal CF,1-0,Atletico Madrid
+Sat Sep 26 2015,Sd Eibar,1-1,Celta Vigo
+Sun Sep 27 2015,Sporting Gijon,1-2,Real Betis
+Sun Sep 27 2015,Deportivo La Coruna,3-0,Espanyol Barcelona
+Sun Sep 27 2015,Getafe CF,3-0,Levante Ud
+Sun Sep 27 2015,Real Sociedad,0-0,Athletic Bilbao
+Fri Oct 2 2015,Celta Vigo,0-0,Getafe CF
+Sat Oct 3 2015,Sevilla FC,2-1,FC Barcelona
+Sat Oct 3 2015,Granada CF,1-1,Deportivo La Coruna
+Sat Oct 3 2015,Espanyol Barcelona,1-2,Sporting Gijon
+Sat Oct 3 2015,Ud Las Palmas,0-2,Sd Eibar
+Sat Oct 3 2015,Malaga CF,3-1,Real Sociedad
+Sun Oct 4 2015,Rayo Vallecano,0-2,Real Betis
+Sun Oct 4 2015,Athletic Bilbao,3-1,Valencia CF
+Sun Oct 4 2015,Levante Ud,1-0,Villarreal CF
+Sun Oct 4 2015,Atletico Madrid,1-1,Real Madrid
+Sat Oct 17 2015,Real Madrid,3-0,Levante Ud
+Sat Oct 17 2015,Sd Eibar,1-1,Sevilla FC
+Sat Oct 17 2015,FC Barcelona,5-2,Rayo Vallecano
+Sat Oct 17 2015,Valencia CF,3-0,Malaga CF
+Sat Oct 17 2015,Real Betis,1-3,Espanyol Barcelona
+Sun Oct 18 2015,Villarreal CF,1-2,Celta Vigo
+Sun Oct 18 2015,Real Sociedad,0-2,Atletico Madrid
+Sun Oct 18 2015,Getafe CF,4-0,Ud Las Palmas
+Sun Oct 18 2015,Deportivo La Coruna,2-2,Athletic Bilbao
+Mon Oct 19 2015,Sporting Gijon,3-3,Granada CF
+Fri Oct 23 2015,Rayo Vallecano,3-0,Espanyol Barcelona
+Sat Oct 24 2015,Celta Vigo,1-3,Real Madrid
+Sat Oct 24 2015,Granada CF,1-1,Real Betis
+Sat Oct 24 2015,Sevilla FC,5-0,Getafe CF
+Sat Oct 24 2015,Malaga CF,2-0,Deportivo La Coruna
+Sun Oct 25 2015,Levante Ud,0-4,Real Sociedad
+Sun Oct 25 2015,Ud Las Palmas,0-0,Villarreal CF
+Sun Oct 25 2015,FC Barcelona,3-1,Sd Eibar
+Sun Oct 25 2015,Atletico Madrid,2-1,Valencia CF
+Mon Oct 26 2015,Athletic Bilbao,3-0,Sporting Gijon
+Fri Oct 30 2015,Deportivo La Coruna,1-1,Atletico Madrid
+Sat Oct 31 2015,Real Madrid,3-1,Ud Las Palmas
+Sat Oct 31 2015,Villarreal CF,2-1,Sevilla FC
+Sat Oct 31 2015,Valencia CF,3-0,Levante Ud
+Sat Oct 31 2015,Getafe CF,0-2,FC Barcelona
+Sat Oct 31 2015,Real Sociedad,2-3,Celta Vigo
+Sun Nov 1 2015,Sd Eibar,1-0,Rayo Vallecano
+Sun Nov 1 2015,Espanyol Barcelona,1-1,Granada CF
+Sun Nov 1 2015,Sporting Gijon,1-0,Malaga CF
+Sun Nov 1 2015,Real Betis,1-3,Athletic Bilbao
+Fri Nov 6 2015,Ud Las Palmas,2-0,Real Sociedad
+Sat Nov 7 2015,Celta Vigo,1-5,Valencia CF
+Sat Nov 7 2015,Levante Ud,1-1,Deportivo La Coruna
+Sat Nov 7 2015,Sd Eibar,3-1,Getafe CF
+Sat Nov 7 2015,Rayo Vallecano,2-1,Granada CF
+Sat Nov 7 2015,Malaga CF,0-1,Real Betis
+Sun Nov 8 2015,Athletic Bilbao,2-1,Espanyol Barcelona
+Sun Nov 8 2015,FC Barcelona,3-0,Villarreal CF
+Sun Nov 8 2015,Atletico Madrid,1-0,Sporting Gijon
+Sun Nov 8 2015,Sevilla FC,3-2,Real Madrid
+Sat Nov 21 2015,Real Sociedad,2-0,Sevilla FC
+Sat Nov 21 2015,Real Madrid,0-4,FC Barcelona
+Sat Nov 21 2015,Espanyol Barcelona,2-0,Malaga CF
+Sat Nov 21 2015,Valencia CF,1-1,Ud Las Palmas
+Sat Nov 21 2015,Deportivo La Coruna,2-0,Celta Vigo
+Sun Nov 22 2015,Sporting Gijon,0-3,Levante Ud
+Sun Nov 22 2015,Villarreal CF,1-1,Sd Eibar
+Sun Nov 22 2015,Granada CF,2-0,Athletic Bilbao
+Sun Nov 22 2015,Real Betis,0-1,Atletico Madrid
+Mon Nov 23 2015,Getafe CF,1-1,Rayo Vallecano
+Fri Nov 27 2015,Levante Ud,0-1,Real Betis
+Sat Nov 28 2015,FC Barcelona,4-0,Real Sociedad
+Sat Nov 28 2015,Atletico Madrid,1-0,Espanyol Barcelona
+Sat Nov 28 2015,Malaga CF,2-2,Granada CF
+Sat Nov 28 2015,Ud Las Palmas,0-2,Deportivo La Coruna
+Sat Nov 28 2015,Celta Vigo,2-1,Sporting Gijon
+Sun Nov 29 2015,Getafe CF,2-0,Villarreal CF
+Sun Nov 29 2015,Sd Eibar,0-2,Real Madrid
+Sun Nov 29 2015,Rayo Vallecano,0-3,Athletic Bilbao
+Sun Nov 29 2015,Sevilla FC,1-0,Valencia CF
+Sat Dec 5 2015,Real Madrid,4-1,Getafe CF
+Sat Dec 5 2015,Granada CF,0-2,Atletico Madrid
+Sat Dec 5 2015,Valencia CF,1-1,FC Barcelona
+Sat Dec 5 2015,Deportivo La Coruna,1-1,Sevilla FC
+Sat Dec 5 2015,Real Betis,1-1,Celta Vigo
+Sun Dec 6 2015,Real Sociedad,2-1,Sd Eibar
+Sun Dec 6 2015,Villarreal CF,2-1,Rayo Vallecano
+Sun Dec 6 2015,Sporting Gijon,3-1,Ud Las Palmas
+Sun Dec 6 2015,Athletic Bilbao,0-0,Malaga CF
+Mon Dec 7 2015,Espanyol Barcelona,1-1,Levante Ud
+Fri Dec 11 2015,Getafe CF,1-1,Real Sociedad
+Sat Dec 12 2015,FC Barcelona,2-2,Deportivo La Coruna
+Sat Dec 12 2015,Celta Vigo,1-0,Espanyol Barcelona
+Sat Dec 12 2015,Levante Ud,1-2,Granada CF
+Sat Dec 12 2015,Sevilla FC,2-0,Sporting Gijon
+Sat Dec 12 2015,Ud Las Palmas,1-0,Real Betis
+Sun Dec 13 2015,Rayo Vallecano,1-2,Malaga CF
+Sun Dec 13 2015,Sd Eibar,1-1,Valencia CF
+Sun Dec 13 2015,Atletico Madrid,2-1,Athletic Bilbao
+Sun Dec 13 2015,Villarreal CF,1-0,Real Madrid
+Sat Dec 19 2015,Valencia CF,2-2,Getafe CF
+Sat Dec 19 2015,Espanyol Barcelona,1-0,Ud Las Palmas
+Sat Dec 19 2015,Real Betis,0-0,Sevilla FC
+Sat Dec 19 2015,Deportivo La Coruna,2-0,Sd Eibar
+Sun Dec 20 2015,Real Madrid,10-2,Rayo Vallecano
+Sun Dec 20 2015,Real Sociedad,0-2,Villarreal CF
+Sun Dec 20 2015,Granada CF,0-2,Celta Vigo
+Sun Dec 20 2015,Athletic Bilbao,2-0,Levante Ud
+Sun Dec 20 2015,Malaga CF,1-0,Atletico Madrid
+Wed Dec 30 2015,Real Madrid,3-1,Real Sociedad
+Wed Dec 30 2015,Levante Ud,0-1,Malaga CF
+Wed Dec 30 2015,Sevilla FC,2-0,Espanyol Barcelona
+Wed Dec 30 2015,Rayo Vallecano,0-2,Atletico Madrid
+Wed Dec 30 2015,Sd Eibar,2-0,Sporting Gijon
+Wed Dec 30 2015,Getafe CF,0-0,Deportivo La Coruna
+Wed Dec 30 2015,FC Barcelona,4-0,Real Betis
+Wed Dec 30 2015,Celta Vigo,0-1,Athletic Bilbao
+Wed Dec 30 2015,Ud Las Palmas,4-1,Granada CF
+Thu Dec 31 2015,Villarreal CF,1-0,Valencia CF
+Sat Jan 2 2016,Espanyol Barcelona,0-0,FC Barcelona
+Sat Jan 2 2016,Atletico Madrid,1-0,Levante Ud
+Sat Jan 2 2016,Malaga CF,2-0,Celta Vigo
+Sun Jan 3 2016,Rayo Vallecano,2-2,Real Sociedad
+Sun Jan 3 2016,Real Betis,0-4,Sd Eibar
+Sun Jan 3 2016,Granada CF,2-1,Sevilla FC
+Sun Jan 3 2016,Deportivo La Coruna,1-2,Villarreal CF
+Sun Jan 3 2016,Athletic Bilbao,2-2,Ud Las Palmas
+Sun Jan 3 2016,Valencia CF,2-2,Real Madrid
+Mon Jan 4 2016,Sporting Gijon,1-2,Getafe CF
+Sat Jan 9 2016,FC Barcelona,4-0,Granada CF
+Sat Jan 9 2016,Getafe CF,1-0,Real Betis
+Sat Jan 9 2016,Sevilla FC,2-0,Athletic Bilbao
+Sat Jan 9 2016,Real Madrid,5-0,Deportivo La Coruna
+Sat Jan 9 2016,Levante Ud,2-1,Rayo Vallecano
+Sun Jan 10 2016,Villarreal CF,2-0,Sporting Gijon
+Sun Jan 10 2016,Real Sociedad,2-0,Valencia CF
+Sun Jan 10 2016,Sd Eibar,2-1,Espanyol Barcelona
+Sun Jan 10 2016,Ud Las Palmas,1-1,Malaga CF
+Sun Jan 10 2016,Celta Vigo,0-2,Atletico Madrid
+Sat Jan 16 2016,Sevilla FC,2-1,Malaga CF
+Sat Jan 16 2016,Celta Vigo,4-3,Levante Ud
+Sat Jan 16 2016,Villarreal CF,0-0,Real Betis
+Sat Jan 16 2016,Real Sociedad,1-1,Deportivo La Coruna
+Sun Jan 17 2016,Valencia CF,2-2,Rayo Vallecano
+Sun Jan 17 2016,Real Madrid,5-1,Sporting Gijon
+Sun Jan 17 2016,Ud Las Palmas,0-3,Atletico Madrid
+Sun Jan 17 2016,Getafe CF,3-1,Espanyol Barcelona
+Sun Jan 17 2016,FC Barcelona,6-0,Athletic Bilbao
+Mon Jan 18 2016,Sd Eibar,5-1,Granada CF
+Fri Jan 22 2016,Sporting Gijon,5-1,Real Sociedad
+Sat Jan 23 2016,Malaga CF,1-2,FC Barcelona
+Sat Jan 23 2016,Espanyol Barcelona,2-2,Villarreal CF
+Sat Jan 23 2016,Granada CF,3-2,Getafe CF
+Sat Jan 23 2016,Rayo Vallecano,3-0,Celta Vigo
+Sun Jan 24 2016,Athletic Bilbao,5-2,Sd Eibar
+Sun Jan 24 2016,Atletico Madrid,0-0,Sevilla FC
+Sun Jan 24 2016,Deportivo La Coruna,1-1,Valencia CF
+Sun Jan 24 2016,Real Betis,1-1,Real Madrid
+Mon Jan 25 2016,Levante Ud,3-2,Ud Las Palmas
+Sat Jan 30 2016,FC Barcelona,2-1,Atletico Madrid
+Sat Jan 30 2016,Sd Eibar,1-2,Malaga CF
+Sat Jan 30 2016,Getafe CF,0-1,Athletic Bilbao
+Sat Jan 30 2016,Villarreal CF,1-0,Granada CF
+Sat Jan 30 2016,Real Sociedad,2-1,Real Betis
+Sun Jan 31 2016,Sevilla FC,3-1,Levante Ud
+Sun Jan 31 2016,Valencia CF,0-1,Sporting Gijon
+Sun Jan 31 2016,Ud Las Palmas,2-1,Celta Vigo
+Sun Jan 31 2016,Real Madrid,6-0,Espanyol Barcelona
+Mon Feb 1 2016,Deportivo La Coruna,2-2,Rayo Vallecano
+Fri Feb 5 2016,Malaga CF,3-0,Getafe CF
+Sat Feb 6 2016,Atletico Madrid,3-1,Sd Eibar
+Sat Feb 6 2016,Rayo Vallecano,2-0,Ud Las Palmas
+Sat Feb 6 2016,Athletic Bilbao,0-0,Villarreal CF
+Sat Feb 6 2016,Sporting Gijon,1-1,Deportivo La Coruna
+Sun Feb 7 2016,Levante Ud,0-2,FC Barcelona
+Sun Feb 7 2016,Real Betis,1-0,Valencia CF
+Sun Feb 7 2016,Celta Vigo,1-1,Sevilla FC
+Sun Feb 7 2016,Granada CF,1-2,Real Madrid
+Mon Feb 8 2016,Espanyol Barcelona,0-5,Real Sociedad
+Fri Feb 12 2016,Sporting Gijon,2-2,Rayo Vallecano
+Sat Feb 13 2016,Real Madrid,4-2,Athletic Bilbao
+Sat Feb 13 2016,Villarreal CF,1-0,Malaga CF
+Sat Feb 13 2016,Valencia CF,2-1,Espanyol Barcelona
+Sat Feb 13 2016,Deportivo La Coruna,2-2,Real Betis
+Sun Feb 14 2016,Real Sociedad,3-0,Granada CF
+Sun Feb 14 2016,Sevilla FC,2-0,Ud Las Palmas
+Sun Feb 14 2016,Sd Eibar,2-0,Levante Ud
+Sun Feb 14 2016,Getafe CF,0-1,Atletico Madrid
+Sun Feb 14 2016,FC Barcelona,6-1,Celta Vigo
+Wed Feb 17 2016,Sporting Gijon,1-3,FC Barcelona
+Fri Feb 19 2016,Levante Ud,3-0,Getafe CF
+Sat Feb 20 2016,Ud Las Palmas,1-2,FC Barcelona
+Sat Feb 20 2016,Espanyol Barcelona,1-0,Deportivo La Coruna
+Sat Feb 20 2016,Real Betis,1-1,Sporting Gijon
+Sat Feb 20 2016,Celta Vigo,3-2,Sd Eibar
+Sun Feb 21 2016,Rayo Vallecano,2-2,Sevilla FC
+Sun Feb 21 2016,Malaga CF,1-1,Real Madrid
+Sun Feb 21 2016,Athletic Bilbao,0-1,Real Sociedad
+Sun Feb 21 2016,Granada CF,1-2,Valencia CF
+Sun Feb 21 2016,Atletico Madrid,0-0,Villarreal CF
+Fri Feb 26 2016,Sd Eibar,0-1,Ud Las Palmas
+Sat Feb 27 2016,Real Madrid,0-1,Atletico Madrid
+Sat Feb 27 2016,Getafe CF,0-1,Celta Vigo
+Sat Feb 27 2016,Sporting Gijon,2-4,Espanyol Barcelona
+Sat Feb 27 2016,Real Betis,2-2,Rayo Vallecano
+Sat Feb 27 2016,Real Sociedad,1-1,Malaga CF
+Sun Feb 28 2016,Villarreal CF,3-0,Levante Ud
+Sun Feb 28 2016,Valencia CF,0-3,Athletic Bilbao
+Sun Feb 28 2016,Deportivo La Coruna,0-1,Granada CF
+Sun Feb 28 2016,FC Barcelona,2-1,Sevilla FC
+Tue Mar 1 2016,Atletico Madrid,3-0,Real Sociedad
+Tue Mar 1 2016,Ud Las Palmas,4-0,Getafe CF
+Wed Mar 2 2016,Sevilla FC,1-0,Sd Eibar
+Wed Mar 2 2016,Celta Vigo,0-0,Villarreal CF
+Wed Mar 2 2016,Malaga CF,1-2,Valencia CF
+Wed Mar 2 2016,Athletic Bilbao,4-1,Deportivo La Coruna
+Wed Mar 2 2016,Levante Ud,1-3,Real Madrid
+Thu Mar 3 2016,Granada CF,2-0,Sporting Gijon
+Thu Mar 3 2016,Espanyol Barcelona,0-3,Real Betis
+Thu Mar 3 2016,Rayo Vallecano,1-5,FC Barcelona
+Sat Mar 5 2016,Real Madrid,7-1,Celta Vigo
+Sat Mar 5 2016,Villarreal CF,0-1,Ud Las Palmas
+Sat Mar 5 2016,Getafe CF,1-1,Sevilla FC
+Sat Mar 5 2016,Deportivo La Coruna,3-3,Malaga CF
+Sun Mar 6 2016,Real Betis,2-0,Granada CF
+Sun Mar 6 2016,Sd Eibar,0-4,FC Barcelona
+Sun Mar 6 2016,Real Sociedad,1-1,Levante Ud
+Sun Mar 6 2016,Sporting Gijon,0-2,Athletic Bilbao
+Sun Mar 6 2016,Valencia CF,1-3,Atletico Madrid
+Mon Mar 7 2016,Espanyol Barcelona,2-1,Rayo Vallecano
+Fri Mar 11 2016,Malaga CF,1-0,Sporting Gijon
+Sat Mar 12 2016,FC Barcelona,6-0,Getafe CF
+Sat Mar 12 2016,Celta Vigo,1-0,Real Sociedad
+Sat Mar 12 2016,Atletico Madrid,3-0,Deportivo La Coruna
+Sat Mar 12 2016,Rayo Vallecano,1-1,Sd Eibar
+Sun Mar 13 2016,Levante Ud,1-0,Valencia CF
+Sun Mar 13 2016,Sevilla FC,4-2,Villarreal CF
+Sun Mar 13 2016,Athletic Bilbao,3-1,Real Betis
+Sun Mar 13 2016,Ud Las Palmas,1-2,Real Madrid
+Mon Mar 14 2016,Granada CF,1-1,Espanyol Barcelona
+Fri Mar 18 2016,Getafe CF,1-1,Sd Eibar
+Sat Mar 19 2016,Sporting Gijon,2-1,Atletico Madrid
+Sat Mar 19 2016,Real Sociedad,0-1,Ud Las Palmas
+Sat Mar 19 2016,Granada CF,2-2,Rayo Vallecano
+Sat Mar 19 2016,Deportivo La Coruna,2-1,Levante Ud
+Sat Mar 19 2016,Real Betis,0-1,Malaga CF
+Sun Mar 20 2016,Espanyol Barcelona,2-1,Athletic Bilbao
+Sun Mar 20 2016,Villarreal CF,2-2,FC Barcelona
+Sun Mar 20 2016,Valencia CF,0-2,Celta Vigo
+Sun Mar 20 2016,Real Madrid,4-0,Sevilla FC
+Fri Apr 1 2016,Rayo Vallecano,2-0,Getafe CF
+Sat Apr 2 2016,Atletico Madrid,5-1,Real Betis
+Sat Apr 2 2016,Ud Las Palmas,2-1,Valencia CF
+Sat Apr 2 2016,FC Barcelona,1-2,Real Madrid
+Sat Apr 2 2016,Celta Vigo,1-1,Deportivo La Coruna
+Sun Apr 3 2016,Athletic Bilbao,1-1,Granada CF
+Sun Apr 3 2016,Malaga CF,1-1,Espanyol Barcelona
+Sun Apr 3 2016,Sd Eibar,1-2,Villarreal CF
+Sun Apr 3 2016,Sevilla FC,1-2,Real Sociedad
+Mon Apr 4 2016,Levante Ud,0-0,Sporting Gijon
+Fri Apr 8 2016,Granada CF,0-0,Malaga CF
+Sat Apr 9 2016,Real Madrid,4-0,Sd Eibar
+Sat Apr 9 2016,Espanyol Barcelona,1-3,Atletico Madrid
+Sat Apr 9 2016,Real Sociedad,1-0,FC Barcelona
+Sat Apr 9 2016,Real Betis,1-0,Levante Ud
+Sun Apr 10 2016,Sporting Gijon,0-1,Celta Vigo
+Sun Apr 10 2016,Valencia CF,2-1,Sevilla FC
+Sun Apr 10 2016,Villarreal CF,2-0,Getafe CF
+Sun Apr 10 2016,Athletic Bilbao,1-0,Rayo Vallecano
+Mon Apr 11 2016,Deportivo La Coruna,1-3,Ud Las Palmas
+Fri Apr 15 2016,Levante Ud,2-1,Espanyol Barcelona
+Sat Apr 16 2016,Getafe CF,1-5,Real Madrid
+Sat Apr 16 2016,Ud Las Palmas,1-1,Sporting Gijon
+Sat Apr 16 2016,Sd Eibar,2-1,Real Sociedad
+Sat Apr 16 2016,Celta Vigo,1-1,Real Betis
+Sun Apr 17 2016,Malaga CF,0-1,Athletic Bilbao
+Sun Apr 17 2016,Sevilla FC,1-1,Deportivo La Coruna
+Sun Apr 17 2016,Rayo Vallecano,2-1,Villarreal CF
+Sun Apr 17 2016,Atletico Madrid,3-0,Granada CF
+Sun Apr 17 2016,FC Barcelona,1-2,Valencia CF
+Tue Apr 19 2016,Espanyol Barcelona,1-1,Celta Vigo
+Tue Apr 19 2016,Real Betis,1-0,Ud Las Palmas
+Wed Apr 20 2016,Deportivo La Coruna,0-8,FC Barcelona
+Wed Apr 20 2016,Valencia CF,4-0,Sd Eibar
+Wed Apr 20 2016,Sporting Gijon,2-1,Sevilla FC
+Wed Apr 20 2016,Athletic Bilbao,0-1,Atletico Madrid
+Wed Apr 20 2016,Malaga CF,1-1,Rayo Vallecano
+Wed Apr 20 2016,Real Madrid,3-0,Villarreal CF
+Thu Apr 21 2016,Real Sociedad,1-2,Getafe CF
+Thu Apr 21 2016,Granada CF,5-1,Levante Ud
+Fri Apr 22 2016,Ud Las Palmas,4-0,Espanyol Barcelona
+Sat Apr 23 2016,Rayo Vallecano,2-3,Real Madrid
+Sat Apr 23 2016,Atletico Madrid,1-0,Malaga CF
+Sat Apr 23 2016,FC Barcelona,6-0,Sporting Gijon
+Sat Apr 23 2016,Sd Eibar,1-1,Deportivo La Coruna
+Sun Apr 24 2016,Levante Ud,2-2,Athletic Bilbao
+Sun Apr 24 2016,Sevilla FC,2-0,Real Betis
+Sun Apr 24 2016,Getafe CF,2-2,Valencia CF
+Sun Apr 24 2016,Villarreal CF,0-0,Real Sociedad
+Mon Apr 25 2016,Celta Vigo,2-1,Granada CF
+Fri Apr 29 2016,Sporting Gijon,2-0,Sd Eibar
+Sat Apr 30 2016,Real Sociedad,0-1,Real Madrid
+Sat Apr 30 2016,Atletico Madrid,1-0,Rayo Vallecano
+Sat Apr 30 2016,Real Betis,0-2,FC Barcelona
+Sat Apr 30 2016,Granada CF,3-2,Ud Las Palmas
+Sun May 1 2016,Athletic Bilbao,2-1,Celta Vigo
+Sun May 1 2016,Espanyol Barcelona,1-0,Sevilla FC
+Sun May 1 2016,Deportivo La Coruna,0-2,Getafe CF
+Sun May 1 2016,Valencia CF,0-2,Villarreal CF
+Mon May 2 2016,Malaga CF,3-1,Levante Ud
+Sun May 8 2016,Real Sociedad,2-1,Rayo Vallecano
+Sun May 8 2016,Real Madrid,3-2,Valencia CF
+Sun May 8 2016,Villarreal CF,0-2,Deportivo La Coruna
+Sun May 8 2016,Getafe CF,1-1,Sporting Gijon
+Sun May 8 2016,Sd Eibar,1-1,Real Betis
+Sun May 8 2016,FC Barcelona,5-0,Espanyol Barcelona
+Sun May 8 2016,Sevilla FC,1-4,Granada CF
+Sun May 8 2016,Ud Las Palmas,0-0,Athletic Bilbao
+Sun May 8 2016,Celta Vigo,1-0,Malaga CF
+Sun May 8 2016,Levante Ud,2-1,Atletico Madrid
+Fri May 13 2016,Valencia CF,0-1,Real Sociedad
+Sat May 14 2016,Deportivo La Coruna,0-2,Real Madrid
+Sat May 14 2016,Granada CF,0-3,FC Barcelona
+Sat May 14 2016,Athletic Bilbao,3-1,Sevilla FC
+Sat May 14 2016,Atletico Madrid,2-0,Celta Vigo
+Sun May 15 2016,Malaga CF,4-1,Ud Las Palmas
+Sun May 15 2016,Espanyol Barcelona,4-2,Sd Eibar
+Sun May 15 2016,Sporting Gijon,2-0,Villarreal CF
+Sun May 15 2016,Real Betis,2-1,Getafe CF
+Sun May 15 2016,Rayo Vallecano,3-1,Levante Ud

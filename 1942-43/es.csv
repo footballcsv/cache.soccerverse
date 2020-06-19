@@ -1,0 +1,183 @@
+Date,Team 1,FT,Team 2
+Sun Sep 27 1942,Valencia CF,3-0,Atletico Madrid
+Sun Sep 27 1942,Sevilla FC,6-0,Real Zaragoza
+Sun Sep 27 1942,Athletic Bilbao,5-0,Real Betis
+Sun Sep 27 1942,Espanyol Barcelona,1-0,Celta Vigo
+Sun Sep 27 1942,Real Oviedo,4-1,Cd Castellon
+Sun Sep 27 1942,Real Madrid,3-0,FC Barcelona
+Sun Sep 27 1942,Granada CF,1-2,Deportivo La Coruna
+Sun Oct 4 1942,Real Betis,2-5,Sevilla FC
+Sun Oct 4 1942,Celta Vigo,2-0,Real Oviedo
+Sun Oct 4 1942,FC Barcelona,1-2,Valencia CF
+Sun Oct 4 1942,Atletico Madrid,2-3,Espanyol Barcelona
+Sun Oct 4 1942,Cd Castellon,2-2,Athletic Bilbao
+Sun Oct 4 1942,Deportivo La Coruna,1-2,Real Madrid
+Sun Oct 4 1942,Real Zaragoza,2-3,Granada CF
+Sun Oct 11 1942,Valencia CF,3-0,Espanyol Barcelona
+Sun Oct 11 1942,Real Oviedo,2-1,Atletico Madrid
+Sun Oct 11 1942,Real Madrid,2-1,Real Zaragoza
+Sun Oct 11 1942,Granada CF,6-2,Real Betis
+Sun Oct 11 1942,Athletic Bilbao,4-0,Celta Vigo
+Sun Oct 11 1942,FC Barcelona,1-1,Deportivo La Coruna
+Sun Oct 11 1942,Sevilla FC,4-1,Cd Castellon
+Sun Oct 18 1942,Real Betis,3-1,Real Madrid
+Sun Oct 18 1942,Celta Vigo,1-0,Sevilla FC
+Sun Oct 18 1942,Cd Castellon,3-2,Granada CF
+Sun Oct 18 1942,Espanyol Barcelona,5-0,Real Oviedo
+Sun Oct 18 1942,Real Zaragoza,1-1,FC Barcelona
+Sun Oct 18 1942,Deportivo La Coruna,2-2,Valencia CF
+Sun Oct 18 1942,Atletico Madrid,2-3,Athletic Bilbao
+Sun Oct 25 1942,Real Madrid,0-0,Cd Castellon
+Sun Oct 25 1942,Athletic Bilbao,2-1,Espanyol Barcelona
+Sun Oct 25 1942,Sevilla FC,2-1,Atletico Madrid
+Sun Oct 25 1942,Deportivo La Coruna,3-1,Real Zaragoza
+Sun Oct 25 1942,FC Barcelona,4-1,Real Betis
+Sun Oct 25 1942,Granada CF,3-1,Celta Vigo
+Sun Oct 25 1942,Valencia CF,7-0,Real Oviedo
+Sun Nov 1 1942,Atletico Madrid,7-1,Granada CF
+Sun Nov 1 1942,Real Betis,1-1,Deportivo La Coruna
+Sun Nov 1 1942,Espanyol Barcelona,1-2,Sevilla FC
+Sun Nov 1 1942,Real Zaragoza,0-0,Valencia CF
+Sun Nov 1 1942,Real Oviedo,3-3,Athletic Bilbao
+Sun Nov 1 1942,Celta Vigo,2-1,Real Madrid
+Sun Nov 1 1942,Cd Castellon,0-2,FC Barcelona
+Sun Nov 8 1942,Sevilla FC,0-5,Real Oviedo
+Sun Nov 8 1942,Real Madrid,1-3,Atletico Madrid
+Sun Nov 8 1942,Deportivo La Coruna,0-1,Cd Castellon
+Sun Nov 8 1942,Valencia CF,2-2,Athletic Bilbao
+Sun Nov 8 1942,FC Barcelona,8-0,Celta Vigo
+Sun Nov 8 1942,Granada CF,2-2,Espanyol Barcelona
+Sun Nov 8 1942,Real Zaragoza,1-0,Real Betis
+Sun Nov 15 1942,Real Oviedo,4-2,Granada CF
+Sun Nov 15 1942,Celta Vigo,0-1,Deportivo La Coruna
+Sun Nov 15 1942,Athletic Bilbao,5-0,Sevilla FC
+Sun Nov 15 1942,Real Betis,2-2,Valencia CF
+Sun Nov 15 1942,Atletico Madrid,4-0,FC Barcelona
+Sun Nov 15 1942,Espanyol Barcelona,4-2,Real Madrid
+Tue Nov 17 1942,Cd Castellon,3-0,Real Zaragoza
+Sun Nov 22 1942,FC Barcelona,2-0,Espanyol Barcelona
+Sun Nov 22 1942,Deportivo La Coruna,0-0,Atletico Madrid
+Sun Nov 22 1942,Valencia CF,4-2,Sevilla FC
+Sun Nov 22 1942,Real Zaragoza,1-2,Celta Vigo
+Sun Nov 22 1942,Real Madrid,2-1,Real Oviedo
+Sun Nov 22 1942,Real Betis,1-1,Cd Castellon
+Sun Nov 22 1942,Granada CF,1-3,Athletic Bilbao
+Sun Nov 29 1942,Celta Vigo,4-2,Real Betis
+Sun Nov 29 1942,Atletico Madrid,3-1,Real Zaragoza
+Sun Nov 29 1942,Espanyol Barcelona,1-1,Deportivo La Coruna
+Sun Nov 29 1942,Real Oviedo,3-2,FC Barcelona
+Sun Nov 29 1942,Athletic Bilbao,3-2,Real Madrid
+Sun Nov 29 1942,Cd Castellon,1-0,Valencia CF
+Sun Nov 29 1942,Sevilla FC,3-2,Granada CF
+Sun Dec 6 1942,FC Barcelona,1-3,Athletic Bilbao
+Sun Dec 6 1942,Real Zaragoza,4-2,Espanyol Barcelona
+Sun Dec 6 1942,Real Betis,1-2,Atletico Madrid
+Sun Dec 6 1942,Real Madrid,1-1,Sevilla FC
+Sun Dec 6 1942,Cd Castellon,5-0,Celta Vigo
+Sun Dec 6 1942,Deportivo La Coruna,0-1,Real Oviedo
+Sun Dec 6 1942,Valencia CF,3-2,Granada CF
+Sun Dec 13 1942,Granada CF,1-0,Real Madrid
+Sun Dec 13 1942,Atletico Madrid,5-1,Cd Castellon
+Sun Dec 13 1942,Athletic Bilbao,0-2,Deportivo La Coruna
+Sun Dec 13 1942,Valencia CF,1-1,Celta Vigo
+Sun Dec 13 1942,Espanyol Barcelona,3-0,Real Betis
+Sun Dec 13 1942,Sevilla FC,4-2,FC Barcelona
+Sun Dec 13 1942,Real Oviedo,1-1,Real Zaragoza
+Sun Dec 27 1942,FC Barcelona,5-2,Granada CF
+Sun Dec 27 1942,Real Zaragoza,0-1,Athletic Bilbao
+Sun Dec 27 1942,Cd Castellon,2-1,Espanyol Barcelona
+Sun Dec 27 1942,Real Madrid,0-1,Valencia CF
+Sun Dec 27 1942,Celta Vigo,1-1,Atletico Madrid
+Sun Dec 27 1942,Deportivo La Coruna,1-1,Sevilla FC
+Sun Dec 27 1942,Real Betis,1-2,Real Oviedo
+Sun Jan 10 1943,Real Betis,3-1,Athletic Bilbao
+Sun Jan 10 1943,Celta Vigo,3-2,Espanyol Barcelona
+Sun Jan 10 1943,Atletico Madrid,1-1,Valencia CF
+Sun Jan 10 1943,Real Zaragoza,3-4,Sevilla FC
+Sun Jan 10 1943,Cd Castellon,3-0,Real Oviedo
+Sun Jan 10 1943,Deportivo La Coruna,2-2,Granada CF
+Sun Jan 10 1943,FC Barcelona,5-5,Real Madrid
+Sun Jan 17 1943,Real Oviedo,1-0,Celta Vigo
+Sun Jan 17 1943,Real Madrid,4-3,Deportivo La Coruna
+Sun Jan 17 1943,Sevilla FC,5-0,Real Betis
+Sun Jan 17 1943,Granada CF,1-1,Real Zaragoza
+Sun Jan 17 1943,Espanyol Barcelona,4-2,Atletico Madrid
+Sun Jan 17 1943,Valencia CF,2-4,FC Barcelona
+Sun Jan 17 1943,Athletic Bilbao,4-0,Cd Castellon
+Sun Jan 24 1943,Real Zaragoza,0-2,Real Madrid
+Sun Jan 24 1943,Deportivo La Coruna,2-2,FC Barcelona
+Sun Jan 24 1943,Celta Vigo,4-1,Athletic Bilbao
+Sun Jan 24 1943,Espanyol Barcelona,1-0,Valencia CF
+Sun Jan 24 1943,Cd Castellon,2-0,Sevilla FC
+Sun Jan 24 1943,Atletico Madrid,3-0,Real Oviedo
+Sun Jan 24 1943,Real Betis,0-1,Granada CF
+Sun Jan 31 1943,Real Oviedo,3-1,Espanyol Barcelona
+Sun Jan 31 1943,Sevilla FC,2-0,Celta Vigo
+Sun Jan 31 1943,Granada CF,1-2,Cd Castellon
+Sun Jan 31 1943,Valencia CF,1-0,Deportivo La Coruna
+Sun Jan 31 1943,Athletic Bilbao,5-2,Atletico Madrid
+Sun Jan 31 1943,Real Madrid,3-1,Real Betis
+Sun Jan 31 1943,FC Barcelona,4-1,Real Zaragoza
+Sun Feb 7 1943,Celta Vigo,8-3,Granada CF
+Sun Feb 7 1943,Cd Castellon,3-0,Real Madrid
+Sun Feb 7 1943,Real Betis,0-2,FC Barcelona
+Sun Feb 7 1943,Espanyol Barcelona,2-2,Athletic Bilbao
+Sun Feb 7 1943,Real Oviedo,4-1,Valencia CF
+Sun Feb 7 1943,Atletico Madrid,1-0,Sevilla FC
+Sun Feb 7 1943,Real Zaragoza,1-1,Deportivo La Coruna
+Sun Feb 14 1943,FC Barcelona,7-1,Cd Castellon
+Sun Feb 14 1943,Athletic Bilbao,8-1,Real Oviedo
+Sun Feb 14 1943,Real Madrid,2-4,Celta Vigo
+Sun Feb 14 1943,Deportivo La Coruna,0-0,Real Betis
+Sun Feb 14 1943,Valencia CF,7-0,Real Zaragoza
+Sun Feb 14 1943,Sevilla FC,4-2,Espanyol Barcelona
+Sun Feb 14 1943,Granada CF,3-1,Atletico Madrid
+Sun Feb 21 1943,Athletic Bilbao,5-1,Valencia CF
+Sun Feb 21 1943,Espanyol Barcelona,2-1,Granada CF
+Sun Feb 21 1943,Cd Castellon,3-1,Deportivo La Coruna
+Sun Feb 21 1943,Real Betis,1-1,Real Zaragoza
+Sun Feb 21 1943,Celta Vigo,4-2,FC Barcelona
+Sun Feb 21 1943,Atletico Madrid,2-1,Real Madrid
+Sun Feb 21 1943,Real Oviedo,4-4,Sevilla FC
+Sun Feb 28 1943,Granada CF,3-1,Real Oviedo
+Sun Feb 28 1943,Real Zaragoza,0-0,Cd Castellon
+Sun Feb 28 1943,Deportivo La Coruna,3-1,Celta Vigo
+Sun Feb 28 1943,Valencia CF,8-3,Real Betis
+Sun Feb 28 1943,FC Barcelona,5-0,Atletico Madrid
+Sun Feb 28 1943,Real Madrid,7-0,Espanyol Barcelona
+Sun Feb 28 1943,Sevilla FC,2-0,Athletic Bilbao
+Sun Mar 7 1943,Espanyol Barcelona,1-3,FC Barcelona
+Sun Mar 7 1943,Sevilla FC,3-1,Valencia CF
+Sun Mar 7 1943,Celta Vigo,3-2,Real Zaragoza
+Sun Mar 7 1943,Cd Castellon,3-0,Real Betis
+Sun Mar 7 1943,Atletico Madrid,1-2,Deportivo La Coruna
+Sun Mar 7 1943,Athletic Bilbao,4-1,Granada CF
+Sun Mar 7 1943,Real Oviedo,3-4,Real Madrid
+Sun Mar 14 1943,Real Betis,1-3,Celta Vigo
+Sun Mar 14 1943,Granada CF,4-3,Sevilla FC
+Sun Mar 14 1943,FC Barcelona,6-2,Real Oviedo
+Sun Mar 14 1943,Deportivo La Coruna,2-2,Espanyol Barcelona
+Sun Mar 14 1943,Real Madrid,2-0,Athletic Bilbao
+Sun Mar 14 1943,Real Zaragoza,2-2,Atletico Madrid
+Sun Mar 14 1943,Valencia CF,1-2,Cd Castellon
+Sun Mar 21 1943,Sevilla FC,3-0,Real Madrid
+Sun Mar 21 1943,Athletic Bilbao,5-2,FC Barcelona
+Sun Mar 21 1943,Granada CF,4-2,Valencia CF
+Sun Mar 21 1943,Espanyol Barcelona,0-0,Real Zaragoza
+Sun Mar 21 1943,Atletico Madrid,5-1,Real Betis
+Sun Mar 21 1943,Real Oviedo,1-1,Deportivo La Coruna
+Sun Mar 21 1943,Celta Vigo,5-0,Cd Castellon
+Sat Mar 27 1943,Cd Castellon,0-0,Atletico Madrid
+Sun Mar 28 1943,Real Madrid,2-2,Granada CF
+Sun Mar 28 1943,Real Zaragoza,1-3,Real Oviedo
+Sun Mar 28 1943,FC Barcelona,3-1,Sevilla FC
+Sun Mar 28 1943,Celta Vigo,2-0,Valencia CF
+Sun Mar 28 1943,Deportivo La Coruna,2-0,Athletic Bilbao
+Sun Mar 28 1943,Real Betis,1-1,Espanyol Barcelona
+Sun Apr 4 1943,Espanyol Barcelona,3-1,Cd Castellon
+Sun Apr 4 1943,Valencia CF,3-3,Real Madrid
+Sun Apr 4 1943,Granada CF,2-3,FC Barcelona
+Sun Apr 4 1943,Athletic Bilbao,2-0,Real Zaragoza
+Sun Apr 4 1943,Real Oviedo,4-1,Real Betis
+Sun Apr 4 1943,Atletico Madrid,3-1,Celta Vigo
+Sun Apr 4 1943,Sevilla FC,2-1,Deportivo La Coruna

@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 25 1934,Birmingham City,2-1,Aston Villa
+Sat Aug 25 1934,Derby County,3-0,Chelsea FC
+Sat Aug 25 1934,Leeds United,2-4,Middlesbrough FC
+Sat Aug 25 1934,Leicester City,1-1,Wolverhampton Wanderers
+Sat Aug 25 1934,Liverpool FC,2-0,Blackburn Rovers
+Sat Aug 25 1934,Portsmouth FC,3-3,Arsenal FC
+Sat Aug 25 1934,Preston North End,1-0,Grimsby Town
+Sat Aug 25 1934,Sheffield Wednesday,4-1,Stoke City
+Sat Aug 25 1934,Sunderland Afc,4-1,Huddersfield Town
+Sat Aug 25 1934,Tottenham Hotspur,1-1,Everton FC
+Sat Aug 25 1934,West Bromwich Albion,1-1,Manchester City
+Mon Aug 27 1934,Aston Villa,2-1,Wolverhampton Wanderers
+Mon Aug 27 1934,Huddersfield Town,1-0,Derby County
+Mon Aug 27 1934,Stoke City,8-1,Leeds United
+Mon Aug 27 1934,Tottenham Hotspur,1-2,Preston North End
+Tue Aug 28 1934,Grimsby Town,0-0,Sunderland Afc
+Wed Aug 29 1934,Chelsea FC,1-2,Sheffield Wednesday
+Wed Aug 29 1934,Everton FC,2-1,Leicester City
+Wed Aug 29 1934,Manchester City,3-1,Liverpool FC
+Wed Aug 29 1934,Middlesbrough FC,1-1,Portsmouth FC
+Wed Aug 29 1934,West Bromwich Albion,1-2,Birmingham City
+Sat Sep 1 1934,Arsenal FC,8-1,Liverpool FC
+Sat Sep 1 1934,Aston Villa,3-2,Derby County
+Sat Sep 1 1934,Blackburn Rovers,1-1,Leeds United
+Sat Sep 1 1934,Chelsea FC,3-1,Leicester City
+Sat Sep 1 1934,Everton FC,4-1,Preston North End
+Sat Sep 1 1934,Grimsby Town,3-0,Portsmouth FC
+Sat Sep 1 1934,Huddersfield Town,0-0,Tottenham Hotspur
+Sat Sep 1 1934,Manchester City,4-1,Sheffield Wednesday
+Sat Sep 1 1934,Middlesbrough FC,0-0,West Bromwich Albion
+Sat Sep 1 1934,Stoke City,2-0,Birmingham City
+Sat Sep 1 1934,Wolverhampton Wanderers,1-2,Sunderland Afc
+Mon Sep 3 1934,Birmingham City,1-2,West Bromwich Albion
+Mon Sep 3 1934,Leeds United,4-2,Stoke City
+Mon Sep 3 1934,Leicester City,5-2,Everton FC
+Mon Sep 3 1934,Preston North End,1-0,Tottenham Hotspur
+Mon Sep 3 1934,Sheffield Wednesday,3-1,Chelsea FC
+Mon Sep 3 1934,Wolverhampton Wanderers,5-2,Aston Villa
+Wed Sep 5 1934,Arsenal FC,4-0,Blackburn Rovers
+Wed Sep 5 1934,Derby County,4-1,Huddersfield Town
+Wed Sep 5 1934,Liverpool FC,2-1,Manchester City
+Wed Sep 5 1934,Portsmouth FC,1-0,Middlesbrough FC
+Wed Sep 5 1934,Sunderland Afc,3-0,Grimsby Town
+Sat Sep 8 1934,Birmingham City,1-3,Manchester City
+Sat Sep 8 1934,Derby County,0-2,Stoke City
+Sat Sep 8 1934,Grimsby Town,0-0,Everton FC
+Sat Sep 8 1934,Leeds United,1-1,Arsenal FC
+Sat Sep 8 1934,Leicester City,5-0,Aston Villa
+Sat Sep 8 1934,Liverpool FC,0-1,Portsmouth FC
+Sat Sep 8 1934,Preston North End,2-0,Huddersfield Town
+Sat Sep 8 1934,Sheffield Wednesday,3-3,Middlesbrough FC
+Sat Sep 8 1934,Sunderland Afc,4-0,Chelsea FC
+Sat Sep 8 1934,Tottenham Hotspur,3-1,Wolverhampton Wanderers
+Sat Sep 8 1934,West Bromwich Albion,2-2,Blackburn Rovers
+Sat Sep 15 1934,Arsenal FC,4-3,West Bromwich Albion
+Sat Sep 15 1934,Aston Villa,1-1,Sunderland Afc
+Sat Sep 15 1934,Blackburn Rovers,2-1,Sheffield Wednesday
+Sat Sep 15 1934,Chelsea FC,1-3,Tottenham Hotspur
+Sat Sep 15 1934,Derby County,1-1,Leicester City
+Sat Sep 15 1934,Everton FC,1-0,Liverpool FC
+Sat Sep 15 1934,Huddersfield Town,1-5,Grimsby Town
+Sat Sep 15 1934,Manchester City,3-1,Stoke City
+Sat Sep 15 1934,Middlesbrough FC,0-1,Birmingham City
+Sat Sep 15 1934,Portsmouth FC,0-0,Leeds United
+Sat Sep 15 1934,Wolverhampton Wanderers,2-2,Preston North End
+Mon Sep 17 1934,Blackburn Rovers,2-0,Arsenal FC
+Sat Sep 22 1934,Birmingham City,1-0,Blackburn Rovers
+Sat Sep 22 1934,Everton FC,4-2,Huddersfield Town
+Sat Sep 22 1934,Grimsby Town,2-1,Wolverhampton Wanderers
+Sat Sep 22 1934,Leeds United,0-3,Liverpool FC
+Sat Sep 22 1934,Leicester City,1-3,Manchester City
+Sat Sep 22 1934,Preston North End,2-0,Chelsea FC
+Sat Sep 22 1934,Sheffield Wednesday,0-0,Arsenal FC
+Sat Sep 22 1934,Stoke City,2-0,Middlesbrough FC
+Sat Sep 22 1934,Sunderland Afc,1-4,Derby County
+Sat Sep 22 1934,Tottenham Hotspur,0-2,Aston Villa
+Sat Sep 22 1934,West Bromwich Albion,4-2,Portsmouth FC
+Sat Sep 29 1934,Arsenal FC,5-1,Birmingham City
+Sat Sep 29 1934,Aston Villa,4-2,Preston North End
+Sat Sep 29 1934,Blackburn Rovers,0-1,Stoke City
+Sat Sep 29 1934,Chelsea FC,2-0,Grimsby Town
+Sat Sep 29 1934,Derby County,2-1,Tottenham Hotspur
+Sat Sep 29 1934,Leeds United,2-0,Huddersfield Town
+Sat Sep 29 1934,Leicester City,0-2,Sunderland Afc
+Sat Sep 29 1934,Liverpool FC,3-2,West Bromwich Albion
+Sat Sep 29 1934,Middlesbrough FC,1-2,Manchester City
+Sat Sep 29 1934,Portsmouth FC,2-1,Sheffield Wednesday
+Sat Sep 29 1934,Wolverhampton Wanderers,4-2,Everton FC
+Sat Oct 6 1934,Birmingham City,2-1,Portsmouth FC
+Sat Oct 6 1934,Everton FC,3-2,Chelsea FC
+Sat Oct 6 1934,Grimsby Town,5-1,Aston Villa
+Sat Oct 6 1934,Huddersfield Town,4-1,Wolverhampton Wanderers
+Sat Oct 6 1934,Manchester City,3-3,Blackburn Rovers
+Sat Oct 6 1934,Preston North End,0-1,Derby County
+Sat Oct 6 1934,Sheffield Wednesday,4-1,Liverpool FC
+Sat Oct 6 1934,Stoke City,2-2,Arsenal FC
+Sat Oct 6 1934,Sunderland Afc,1-1,Middlesbrough FC
+Sat Oct 6 1934,Tottenham Hotspur,2-2,Leicester City
+Sat Oct 6 1934,West Bromwich Albion,6-3,Leeds United
+Sat Oct 13 1934,Arsenal FC,3-0,Manchester City
+Sat Oct 13 1934,Aston Villa,2-2,Everton FC
+Sat Oct 13 1934,Blackburn Rovers,3-2,Middlesbrough FC
+Sat Oct 13 1934,Chelsea FC,2-1,Huddersfield Town
+Sat Oct 13 1934,Derby County,1-4,Grimsby Town
+Sat Oct 13 1934,Leeds United,0-0,Sheffield Wednesday
+Sat Oct 13 1934,Leicester City,0-0,Preston North End
+Sat Oct 13 1934,Liverpool FC,5-4,Birmingham City
+Sat Oct 13 1934,Portsmouth FC,0-1,Stoke City
+Sat Oct 13 1934,Sunderland Afc,1-2,Tottenham Hotspur
+Sat Oct 13 1934,Wolverhampton Wanderers,3-2,West Bromwich Albion
+Sat Oct 20 1934,Arsenal FC,5-1,Tottenham Hotspur
+Sat Oct 20 1934,Birmingham City,0-1,Chelsea FC
+Sat Oct 20 1934,Blackburn Rovers,0-0,Sunderland Afc
+Sat Oct 20 1934,Leeds United,2-0,Everton FC
+Sat Oct 20 1934,Liverpool FC,1-1,Grimsby Town
+Sat Oct 20 1934,Manchester City,0-1,Derby County
+Sat Oct 20 1934,Middlesbrough FC,1-0,Leicester City
+Sat Oct 20 1934,Sheffield Wednesday,3-1,Wolverhampton Wanderers
+Sat Oct 20 1934,Stoke City,4-1,Aston Villa
+Sat Oct 20 1934,West Bromwich Albion,4-1,Huddersfield Town
+Wed Oct 24 1934,Portsmouth FC,4-0,Preston North End
+Sat Oct 27 1934,Aston Villa,4-2,Manchester City
+Sat Oct 27 1934,Chelsea FC,0-2,Stoke City
+Sat Oct 27 1934,Derby County,2-0,Middlesbrough FC
+Sat Oct 27 1934,Everton FC,4-0,West Bromwich Albion
+Sat Oct 27 1934,Grimsby Town,3-2,Leeds United
+Sat Oct 27 1934,Huddersfield Town,4-0,Sheffield Wednesday
+Sat Oct 27 1934,Leicester City,0-1,Blackburn Rovers
+Sat Oct 27 1934,Preston North End,2-2,Liverpool FC
+Sat Oct 27 1934,Sunderland Afc,2-1,Arsenal FC
+Sat Oct 27 1934,Tottenham Hotspur,4-1,Portsmouth FC
+Sat Oct 27 1934,Wolverhampton Wanderers,3-1,Birmingham City
+Sat Nov 3 1934,Arsenal FC,2-0,Everton FC
+Sat Nov 3 1934,Birmingham City,2-3,Leicester City
+Sat Nov 3 1934,Blackburn Rovers,2-2,Grimsby Town
+Sat Nov 3 1934,Leeds United,5-2,Chelsea FC
+Sat Nov 3 1934,Liverpool FC,2-1,Wolverhampton Wanderers
+Sat Nov 3 1934,Manchester City,3-1,Tottenham Hotspur
+Sat Nov 3 1934,Middlesbrough FC,3-3,Preston North End
+Sat Nov 3 1934,Portsmouth FC,5-0,Huddersfield Town
+Sat Nov 3 1934,Sheffield Wednesday,1-0,Derby County
+Sat Nov 3 1934,Stoke City,0-3,Sunderland Afc
+Sat Nov 3 1934,West Bromwich Albion,2-2,Aston Villa
+Sat Nov 10 1934,Aston Villa,4-0,Sheffield Wednesday
+Sat Nov 10 1934,Chelsea FC,2-3,West Bromwich Albion
+Sat Nov 10 1934,Derby County,1-1,Birmingham City
+Sat Nov 10 1934,Everton FC,3-2,Portsmouth FC
+Sat Nov 10 1934,Grimsby Town,2-2,Arsenal FC
+Sat Nov 10 1934,Huddersfield Town,8-0,Liverpool FC
+Sat Nov 10 1934,Leicester City,0-3,Stoke City
+Sat Nov 10 1934,Preston North End,3-1,Blackburn Rovers
+Sat Nov 10 1934,Sunderland Afc,3-2,Manchester City
+Sat Nov 10 1934,Tottenham Hotspur,3-1,Middlesbrough FC
+Sat Nov 10 1934,Wolverhampton Wanderers,1-2,Leeds United
+Mon Nov 12 1934,Blackburn Rovers,1-2,Chelsea FC
+Sat Nov 17 1934,Arsenal FC,1-2,Aston Villa
+Sat Nov 17 1934,Birmingham City,3-2,Grimsby Town
+Sat Nov 17 1934,Leeds United,2-4,Sunderland Afc
+Sat Nov 17 1934,Liverpool FC,5-1,Leicester City
+Sat Nov 17 1934,Manchester City,0-0,Huddersfield Town
+Sat Nov 17 1934,Middlesbrough FC,2-2,Wolverhampton Wanderers
+Sat Nov 17 1934,Portsmouth FC,5-1,Derby County
+Sat Nov 17 1934,Sheffield Wednesday,2-1,Preston North End
+Sat Nov 17 1934,Stoke City,3-2,Everton FC
+Sat Nov 17 1934,West Bromwich Albion,4-0,Tottenham Hotspur
+Sat Nov 24 1934,Chelsea FC,2-5,Arsenal FC
+Sat Nov 24 1934,Derby County,1-2,Liverpool FC
+Sat Nov 24 1934,Everton FC,1-2,Manchester City
+Sat Nov 24 1934,Grimsby Town,3-1,Stoke City
+Sat Nov 24 1934,Huddersfield Town,3-1,Middlesbrough FC
+Sat Nov 24 1934,Leicester City,1-0,Leeds United
+Sat Nov 24 1934,Preston North End,0-1,Birmingham City
+Sat Nov 24 1934,Sunderland Afc,0-1,West Bromwich Albion
+Sat Nov 24 1934,Tottenham Hotspur,3-2,Sheffield Wednesday
+Sat Nov 24 1934,Wolverhampton Wanderers,2-1,Blackburn Rovers
+Mon Nov 26 1934,Aston Villa,5-4,Portsmouth FC
+Sat Dec 1 1934,Arsenal FC,7-0,Wolverhampton Wanderers
+Sat Dec 1 1934,Birmingham City,2-1,Tottenham Hotspur
+Sat Dec 1 1934,Blackburn Rovers,4-2,Huddersfield Town
+Sat Dec 1 1934,Leeds United,4-2,Derby County
+Sat Dec 1 1934,Liverpool FC,3-1,Aston Villa
+Sat Dec 1 1934,Manchester City,1-0,Grimsby Town
+Sat Dec 1 1934,Middlesbrough FC,3-2,Everton FC
+Sat Dec 1 1934,Portsmouth FC,1-1,Chelsea FC
+Sat Dec 1 1934,Sheffield Wednesday,2-2,Sunderland Afc
+Sat Dec 1 1934,Stoke City,3-1,Preston North End
+Sat Dec 1 1934,West Bromwich Albion,4-1,Leicester City
+Sat Dec 8 1934,Aston Villa,1-1,Leeds United
+Sat Dec 8 1934,Chelsea FC,4-1,Liverpool FC
+Sat Dec 8 1934,Derby County,9-3,West Bromwich Albion
+Sat Dec 8 1934,Everton FC,5-2,Blackburn Rovers
+Sat Dec 8 1934,Grimsby Town,2-2,Middlesbrough FC
+Sat Dec 8 1934,Huddersfield Town,1-1,Arsenal FC
+Sat Dec 8 1934,Leicester City,0-1,Sheffield Wednesday
+Sat Dec 8 1934,Preston North End,2-4,Manchester City
+Sat Dec 8 1934,Sunderland Afc,5-1,Birmingham City
+Sat Dec 8 1934,Tottenham Hotspur,3-2,Stoke City
+Sat Dec 8 1934,Wolverhampton Wanderers,2-3,Portsmouth FC
+Sat Dec 15 1934,Arsenal FC,8-0,Leicester City
+Sat Dec 15 1934,Birmingham City,0-4,Huddersfield Town
+Sat Dec 15 1934,Blackburn Rovers,2-5,Derby County
+Sat Dec 15 1934,Leeds United,3-3,Preston North End
+Sat Dec 15 1934,Liverpool FC,4-1,Tottenham Hotspur
+Sat Dec 15 1934,Manchester City,2-0,Chelsea FC
+Sat Dec 15 1934,Middlesbrough FC,4-1,Aston Villa
+Sat Dec 15 1934,Portsmouth FC,2-4,Sunderland Afc
+Sat Dec 15 1934,Sheffield Wednesday,0-0,Everton FC
+Sat Dec 15 1934,Stoke City,1-2,Wolverhampton Wanderers
+Sat Dec 15 1934,West Bromwich Albion,4-2,Grimsby Town
+Sat Dec 22 1934,Aston Villa,1-1,Blackburn Rovers
+Sat Dec 22 1934,Chelsea FC,2-1,Middlesbrough FC
+Sat Dec 22 1934,Derby County,3-1,Arsenal FC
+Sat Dec 22 1934,Everton FC,2-0,Birmingham City
+Sat Dec 22 1934,Grimsby Town,3-1,Sheffield Wednesday
+Sat Dec 22 1934,Huddersfield Town,1-4,Stoke City
+Sat Dec 22 1934,Leicester City,6-3,Portsmouth FC
+Sat Dec 22 1934,Preston North End,1-2,West Bromwich Albion
+Sat Dec 22 1934,Sunderland Afc,2-3,Liverpool FC
+Sat Dec 22 1934,Tottenham Hotspur,1-1,Leeds United
+Sat Dec 22 1934,Wolverhampton Wanderers,5-0,Manchester City
+Tue Dec 25 1934,Arsenal FC,5-3,Preston North End
+Tue Dec 25 1934,Blackburn Rovers,0-0,Portsmouth FC
+Tue Dec 25 1934,Chelsea FC,2-0,Aston Villa
+Tue Dec 25 1934,Everton FC,6-2,Sunderland Afc
+Tue Dec 25 1934,Grimsby Town,3-0,Tottenham Hotspur
+Tue Dec 25 1934,Leeds United,1-2,Manchester City
+Tue Dec 25 1934,Leicester City,0-3,Huddersfield Town
+Tue Dec 25 1934,Sheffield Wednesday,2-1,Birmingham City
+Tue Dec 25 1934,West Bromwich Albion,3-0,Stoke City
+Tue Dec 25 1934,Wolverhampton Wanderers,5-1,Derby County
+Wed Dec 26 1934,Aston Villa,0-3,Chelsea FC
+Wed Dec 26 1934,Birmingham City,0-4,Sheffield Wednesday
+Wed Dec 26 1934,Derby County,2-0,Wolverhampton Wanderers
+Wed Dec 26 1934,Huddersfield Town,2-3,Leicester City
+Wed Dec 26 1934,Liverpool FC,2-2,Middlesbrough FC
+Wed Dec 26 1934,Manchester City,3-0,Leeds United
+Wed Dec 26 1934,Portsmouth FC,3-1,Blackburn Rovers
+Wed Dec 26 1934,Preston North End,2-1,Arsenal FC
+Wed Dec 26 1934,Stoke City,3-0,West Bromwich Albion
+Wed Dec 26 1934,Sunderland Afc,7-0,Everton FC
+Wed Dec 26 1934,Tottenham Hotspur,2-1,Grimsby Town
+Sat Dec 29 1934,Arsenal FC,1-1,Portsmouth FC
+Sat Dec 29 1934,Aston Villa,2-2,Birmingham City
+Sat Dec 29 1934,Blackburn Rovers,0-2,Liverpool FC
+Sat Dec 29 1934,Chelsea FC,1-1,Derby County
+Sat Dec 29 1934,Everton FC,5-2,Tottenham Hotspur
+Sat Dec 29 1934,Grimsby Town,3-1,Preston North End
+Sat Dec 29 1934,Huddersfield Town,0-3,Sunderland Afc
+Sat Dec 29 1934,Manchester City,3-2,West Bromwich Albion
+Sat Dec 29 1934,Middlesbrough FC,3-3,Leeds United
+Sat Dec 29 1934,Stoke City,1-1,Sheffield Wednesday
+Sat Dec 29 1934,Wolverhampton Wanderers,3-1,Leicester City
+Tue Jan 1 1935,Blackburn Rovers,2-0,Tottenham Hotspur
+Tue Jan 1 1935,Everton FC,2-2,Derby County
+Tue Jan 1 1935,Middlesbrough FC,2-0,Liverpool FC
+Tue Jan 1 1935,Sheffield Wednesday,2-1,West Bromwich Albion
+Sat Jan 5 1935,Birmingham City,0-0,Stoke City
+Sat Jan 5 1935,Derby County,1-1,Aston Villa
+Sat Jan 5 1935,Leeds United,5-1,Blackburn Rovers
+Sat Jan 5 1935,Leicester City,1-0,Chelsea FC
+Sat Jan 5 1935,Liverpool FC,0-2,Arsenal FC
+Sat Jan 5 1935,Portsmouth FC,1-0,Grimsby Town
+Sat Jan 5 1935,Preston North End,2-2,Everton FC
+Sat Jan 5 1935,Sheffield Wednesday,1-0,Manchester City
+Sat Jan 5 1935,Sunderland Afc,0-0,Wolverhampton Wanderers
+Sat Jan 5 1935,Tottenham Hotspur,0-0,Huddersfield Town
+Sat Jan 5 1935,West Bromwich Albion,6-3,Middlesbrough FC
+Sat Jan 19 1935,Arsenal FC,3-0,Leeds United
+Sat Jan 19 1935,Aston Villa,5-0,Leicester City
+Sat Jan 19 1935,Blackburn Rovers,3-0,West Bromwich Albion
+Sat Jan 19 1935,Chelsea FC,2-2,Sunderland Afc
+Sat Jan 19 1935,Everton FC,3-1,Grimsby Town
+Sat Jan 19 1935,Huddersfield Town,3-4,Preston North End
+Sat Jan 19 1935,Manchester City,0-0,Birmingham City
+Sat Jan 19 1935,Middlesbrough FC,5-3,Sheffield Wednesday
+Sat Jan 19 1935,Portsmouth FC,1-2,Liverpool FC
+Sat Jan 19 1935,Stoke City,1-1,Derby County
+Sat Jan 19 1935,Wolverhampton Wanderers,6-2,Tottenham Hotspur
+Sat Jan 26 1935,Stoke City,2-0,Manchester City
+Mon Jan 28 1935,Preston North End,2-1,Wolverhampton Wanderers
+Mon Jan 28 1935,Sheffield Wednesday,2-2,Blackburn Rovers
+Wed Jan 30 1935,Tottenham Hotspur,1-3,Chelsea FC
+Wed Jan 30 1935,West Bromwich Albion,0-3,Arsenal FC
+Thu Jan 31 1935,Leicester City,0-1,Derby County
+Sat Feb 2 1935,Arsenal FC,4-1,Sheffield Wednesday
+Sat Feb 2 1935,Aston Villa,1-0,Tottenham Hotspur
+Sat Feb 2 1935,Blackburn Rovers,3-1,Birmingham City
+Sat Feb 2 1935,Chelsea FC,0-0,Preston North End
+Sat Feb 2 1935,Derby County,3-1,Sunderland Afc
+Sat Feb 2 1935,Huddersfield Town,1-1,Everton FC
+Sat Feb 2 1935,Liverpool FC,4-2,Leeds United
+Sat Feb 2 1935,Manchester City,6-3,Leicester City
+Sat Feb 2 1935,Middlesbrough FC,2-0,Stoke City
+Sat Feb 2 1935,Portsmouth FC,0-2,West Bromwich Albion
+Sat Feb 2 1935,Wolverhampton Wanderers,0-3,Grimsby Town
+Wed Feb 6 1935,Birmingham City,4-2,Middlesbrough FC
+Wed Feb 6 1935,Sunderland Afc,3-3,Aston Villa
+Sat Feb 9 1935,Birmingham City,3-0,Arsenal FC
+Sat Feb 9 1935,Everton FC,5-2,Wolverhampton Wanderers
+Sat Feb 9 1935,Grimsby Town,3-1,Chelsea FC
+Sat Feb 9 1935,Huddersfield Town,3-1,Leeds United
+Sat Feb 9 1935,Manchester City,6-2,Middlesbrough FC
+Sat Feb 9 1935,Preston North End,0-0,Aston Villa
+Sat Feb 9 1935,Sheffield Wednesday,3-0,Portsmouth FC
+Sat Feb 9 1935,Stoke City,3-1,Blackburn Rovers
+Sat Feb 9 1935,Sunderland Afc,2-0,Leicester City
+Sat Feb 9 1935,Tottenham Hotspur,2-2,Derby County
+Sat Feb 9 1935,West Bromwich Albion,1-1,Liverpool FC
+Sat Feb 16 1935,Aston Villa,3-2,Grimsby Town
+Sat Feb 16 1935,Middlesbrough FC,0-0,Sunderland Afc
+Sat Feb 16 1935,Wolverhampton Wanderers,2-3,Huddersfield Town
+Wed Feb 20 1935,Arsenal FC,2-0,Stoke City
+Wed Feb 20 1935,Chelsea FC,3-0,Everton FC
+Wed Feb 20 1935,Leeds United,4-1,West Bromwich Albion
+Wed Feb 20 1935,Liverpool FC,1-2,Sheffield Wednesday
+Sat Feb 23 1935,Birmingham City,1-3,Liverpool FC
+Sat Feb 23 1935,Everton FC,2-2,Aston Villa
+Sat Feb 23 1935,Grimsby Town,1-3,Derby County
+Sat Feb 23 1935,Huddersfield Town,3-0,Chelsea FC
+Sat Feb 23 1935,Manchester City,1-1,Arsenal FC
+Sat Feb 23 1935,Middlesbrough FC,3-3,Blackburn Rovers
+Sat Feb 23 1935,Preston North End,2-0,Leicester City
+Sat Feb 23 1935,Sheffield Wednesday,1-0,Leeds United
+Sat Feb 23 1935,Stoke City,1-2,Portsmouth FC
+Sat Feb 23 1935,Tottenham Hotspur,1-1,Sunderland Afc
+Sat Feb 23 1935,West Bromwich Albion,5-2,Wolverhampton Wanderers
+Sat Mar 2 1935,Aston Villa,4-1,Stoke City
+Sat Mar 2 1935,Derby County,1-2,Manchester City
+Sat Mar 2 1935,Grimsby Town,3-2,Liverpool FC
+Sat Mar 2 1935,Leeds United,3-1,Portsmouth FC
+Sat Mar 2 1935,Leicester City,3-1,Middlesbrough FC
+Sat Mar 2 1935,Sunderland Afc,3-0,Blackburn Rovers
+Mon Mar 4 1935,Blackburn Rovers,1-0,Manchester City
+Mon Mar 4 1935,Wolverhampton Wanderers,2-2,Sheffield Wednesday
+Wed Mar 6 1935,Chelsea FC,2-2,Birmingham City
+Wed Mar 6 1935,Everton FC,4-4,Leeds United
+Wed Mar 6 1935,Huddersfield Town,3-0,West Bromwich Albion
+Wed Mar 6 1935,Preston North End,1-1,Portsmouth FC
+Wed Mar 6 1935,Tottenham Hotspur,0-6,Arsenal FC
+Sat Mar 9 1935,Arsenal FC,0-0,Sunderland Afc
+Sat Mar 9 1935,Birmingham City,1-1,Wolverhampton Wanderers
+Sat Mar 9 1935,Blackburn Rovers,0-0,Leicester City
+Sat Mar 9 1935,Leeds United,3-1,Grimsby Town
+Sat Mar 9 1935,Liverpool FC,0-0,Preston North End
+Sat Mar 9 1935,Manchester City,4-1,Aston Villa
+Sat Mar 9 1935,Middlesbrough FC,1-1,Derby County
+Sat Mar 9 1935,Portsmouth FC,1-1,Tottenham Hotspur
+Sat Mar 9 1935,Sheffield Wednesday,1-1,Huddersfield Town
+Sat Mar 9 1935,Stoke City,0-1,Chelsea FC
+Sat Mar 9 1935,West Bromwich Albion,0-1,Everton FC
+Sat Mar 16 1935,Chelsea FC,7-1,Leeds United
+Sat Mar 16 1935,Everton FC,0-2,Arsenal FC
+Sat Mar 16 1935,Grimsby Town,1-2,Blackburn Rovers
+Sat Mar 16 1935,Huddersfield Town,2-0,Portsmouth FC
+Sat Mar 16 1935,Leicester City,2-1,Birmingham City
+Sat Mar 16 1935,Preston North End,2-0,Middlesbrough FC
+Sat Mar 16 1935,Sunderland Afc,4-1,Stoke City
+Sat Mar 16 1935,Tottenham Hotspur,0-0,Manchester City
+Sat Mar 16 1935,Wolverhampton Wanderers,5-3,Liverpool FC
+Wed Mar 20 1935,Derby County,4-0,Sheffield Wednesday
+Wed Mar 20 1935,Liverpool FC,2-1,Everton FC
+Sat Mar 23 1935,Arsenal FC,1-1,Grimsby Town
+Sat Mar 23 1935,Birmingham City,3-2,Derby County
+Sat Mar 23 1935,Blackburn Rovers,1-0,Preston North End
+Sat Mar 23 1935,Leeds United,1-1,Wolverhampton Wanderers
+Sat Mar 23 1935,Liverpool FC,3-2,Huddersfield Town
+Sat Mar 23 1935,Middlesbrough FC,3-1,Tottenham Hotspur
+Sat Mar 23 1935,Portsmouth FC,5-1,Everton FC
+Sat Mar 23 1935,Sheffield Wednesday,2-1,Aston Villa
+Sat Mar 23 1935,Stoke City,3-0,Leicester City
+Sat Mar 23 1935,West Bromwich Albion,2-2,Chelsea FC
+Thu Mar 28 1935,Leicester City,6-0,Tottenham Hotspur
+Sat Mar 30 1935,Aston Villa,1-3,Arsenal FC
+Sat Mar 30 1935,Chelsea FC,4-2,Blackburn Rovers
+Sat Mar 30 1935,Derby County,0-1,Portsmouth FC
+Sat Mar 30 1935,Everton FC,5-0,Stoke City
+Sat Mar 30 1935,Grimsby Town,4-3,Birmingham City
+Sat Mar 30 1935,Huddersfield Town,3-0,Manchester City
+Sat Mar 30 1935,Leicester City,3-1,Liverpool FC
+Sat Mar 30 1935,Preston North End,2-1,Sheffield Wednesday
+Sat Mar 30 1935,Sunderland Afc,3-0,Leeds United
+Sat Mar 30 1935,Tottenham Hotspur,0-1,West Bromwich Albion
+Sat Mar 30 1935,Wolverhampton Wanderers,5-3,Middlesbrough FC
+Tue Apr 2 1935,Grimsby Town,1-1,Huddersfield Town
+Wed Apr 3 1935,Aston Villa,2-3,West Bromwich Albion
+Sat Apr 6 1935,Arsenal FC,2-2,Chelsea FC
+Sat Apr 6 1935,Birmingham City,3-0,Preston North End
+Sat Apr 6 1935,Blackburn Rovers,4-2,Wolverhampton Wanderers
+Sat Apr 6 1935,Leeds United,0-2,Leicester City
+Sat Apr 6 1935,Liverpool FC,1-3,Derby County
+Sat Apr 6 1935,Manchester City,2-2,Everton FC
+Sat Apr 6 1935,Middlesbrough FC,2-1,Huddersfield Town
+Sat Apr 6 1935,Portsmouth FC,0-1,Aston Villa
+Sat Apr 6 1935,Sheffield Wednesday,4-0,Tottenham Hotspur
+Sat Apr 6 1935,Stoke City,0-0,Grimsby Town
+Sat Apr 6 1935,West Bromwich Albion,1-1,Sunderland Afc
+Wed Apr 10 1935,Derby County,0-3,Preston North End
+Wed Apr 10 1935,Manchester City,1-0,Sunderland Afc
+Wed Apr 10 1935,Portsmouth FC,2-1,Birmingham City
+Sat Apr 13 1935,Aston Villa,4-2,Liverpool FC
+Sat Apr 13 1935,Chelsea FC,1-1,Portsmouth FC
+Sat Apr 13 1935,Derby County,1-2,Leeds United
+Sat Apr 13 1935,Everton FC,1-1,Middlesbrough FC
+Sat Apr 13 1935,Grimsby Town,1-1,Manchester City
+Sat Apr 13 1935,Huddersfield Town,6-0,Blackburn Rovers
+Sat Apr 13 1935,Leicester City,0-0,West Bromwich Albion
+Sat Apr 13 1935,Preston North End,5-2,Stoke City
+Sat Apr 13 1935,Sunderland Afc,2-2,Sheffield Wednesday
+Sat Apr 13 1935,Tottenham Hotspur,1-1,Birmingham City
+Sat Apr 13 1935,Wolverhampton Wanderers,1-1,Arsenal FC
+Fri Apr 19 1935,Arsenal FC,8-0,Middlesbrough FC
+Fri Apr 19 1935,Aston Villa,1-1,Huddersfield Town
+Fri Apr 19 1935,Chelsea FC,4-2,Wolverhampton Wanderers
+Fri Apr 19 1935,Grimsby Town,3-1,Leicester City
+Fri Apr 19 1935,Leeds United,1-1,Birmingham City
+Fri Apr 19 1935,Liverpool FC,5-0,Stoke City
+Fri Apr 19 1935,Manchester City,2-4,Portsmouth FC
+Fri Apr 19 1935,Sunderland Afc,3-1,Preston North End
+Fri Apr 19 1935,Tottenham Hotspur,1-0,Blackburn Rovers
+Sat Apr 20 1935,Arsenal FC,1-0,Huddersfield Town
+Sat Apr 20 1935,Birmingham City,2-2,Sunderland Afc
+Sat Apr 20 1935,Blackburn Rovers,6-2,Everton FC
+Sat Apr 20 1935,Leeds United,1-1,Aston Villa
+Sat Apr 20 1935,Liverpool FC,6-0,Chelsea FC
+Sat Apr 20 1935,Manchester City,1-2,Preston North End
+Sat Apr 20 1935,Middlesbrough FC,0-2,Grimsby Town
+Sat Apr 20 1935,Portsmouth FC,0-1,Wolverhampton Wanderers
+Sat Apr 20 1935,Sheffield Wednesday,1-1,Leicester City
+Sat Apr 20 1935,Stoke City,4-1,Tottenham Hotspur
+Sat Apr 20 1935,West Bromwich Albion,4-3,Derby County
+Mon Apr 22 1935,Birmingham City,3-1,Leeds United
+Mon Apr 22 1935,Derby County,4-1,Everton FC
+Mon Apr 22 1935,Leicester City,2-2,Grimsby Town
+Mon Apr 22 1935,Middlesbrough FC,0-1,Arsenal FC
+Mon Apr 22 1935,Portsmouth FC,4-2,Manchester City
+Mon Apr 22 1935,Preston North End,1-1,Sunderland Afc
+Mon Apr 22 1935,Stoke City,1-1,Liverpool FC
+Mon Apr 22 1935,West Bromwich Albion,1-1,Sheffield Wednesday
+Mon Apr 22 1935,Wolverhampton Wanderers,6-1,Chelsea FC
+Wed Apr 24 1935,Huddersfield Town,1-1,Aston Villa
+Sat Apr 27 1935,Aston Villa,0-3,Middlesbrough FC
+Sat Apr 27 1935,Chelsea FC,4-2,Manchester City
+Sat Apr 27 1935,Derby County,1-1,Blackburn Rovers
+Sat Apr 27 1935,Huddersfield Town,2-2,Birmingham City
+Sat Apr 27 1935,Leicester City,3-5,Arsenal FC
+Sat Apr 27 1935,Preston North End,0-2,Leeds United
+Sat Apr 27 1935,Sunderland Afc,4-1,Portsmouth FC
+Sat Apr 27 1935,Tottenham Hotspur,5-1,Liverpool FC
+Sat Apr 27 1935,Wolverhampton Wanderers,2-1,Stoke City
+Wed May 1 1935,Everton FC,2-2,Sheffield Wednesday
+Wed May 1 1935,Grimsby Town,3-0,West Bromwich Albion
+Sat May 4 1935,Arsenal FC,0-1,Derby County
+Sat May 4 1935,Birmingham City,2-3,Everton FC
+Sat May 4 1935,Blackburn Rovers,5-0,Aston Villa
+Sat May 4 1935,Leeds United,4-3,Tottenham Hotspur
+Sat May 4 1935,Liverpool FC,2-2,Sunderland Afc
+Sat May 4 1935,Manchester City,5-0,Wolverhampton Wanderers
+Sat May 4 1935,Middlesbrough FC,2-2,Chelsea FC
+Sat May 4 1935,Portsmouth FC,1-1,Leicester City
+Sat May 4 1935,Sheffield Wednesday,1-0,Grimsby Town
+Sat May 4 1935,Stoke City,2-0,Huddersfield Town
+Sat May 4 1935,West Bromwich Albion,0-0,Preston North End

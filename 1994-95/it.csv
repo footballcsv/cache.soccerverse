@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sun Sep 4 1994,AC Milan,1-0,Genoa CFc
+Sun Sep 4 1994,As Roma,1-1,US Foggia
+Sun Sep 4 1994,Parma FC,2-0,US Cremonese
+Sun Sep 4 1994,Sampdoria,5-0,Calcio Padova
+Sun Sep 4 1994,Brescia Calcio,1-1,Juventus
+Sun Sep 4 1994,Acf Fiorentina,2-1,Cagliari Calcio
+Sun Sep 4 1994,Torino FC,0-2,Inter
+Sun Sep 4 1994,Ssc Napoli,1-0,AC Reggiana
+Sun Sep 4 1994,As Bari,0-1,Lazio Roma
+Sun Sep 11 1994,Juventus,2-0,As Bari
+Sun Sep 11 1994,Inter,0-1,As Roma
+Sun Sep 11 1994,Lazio Roma,3-0,Torino FC
+Sun Sep 11 1994,Cagliari Calcio,1-1,AC Milan
+Sun Sep 11 1994,Genoa CFc,1-1,Acf Fiorentina
+Sun Sep 11 1994,Calcio Padova,0-3,Parma FC
+Sun Sep 11 1994,AC Reggiana,0-2,Sampdoria
+Sun Sep 11 1994,US Foggia,3-1,Brescia Calcio
+Sun Sep 11 1994,US Cremonese,2-0,Ssc Napoli
+Sun Sep 18 1994,AC Milan,2-1,Lazio Roma
+Sun Sep 18 1994,As Roma,3-0,Genoa CFc
+Sun Sep 18 1994,Parma FC,2-1,Cagliari Calcio
+Sun Sep 18 1994,Sampdoria,1-1,US Foggia
+Sun Sep 18 1994,Brescia Calcio,0-0,Inter
+Sun Sep 18 1994,Acf Fiorentina,3-1,US Cremonese
+Sun Sep 18 1994,Torino FC,2-0,Calcio Padova
+Sun Sep 18 1994,Ssc Napoli,0-2,Juventus
+Sun Sep 18 1994,As Bari,1-0,AC Reggiana
+Sun Sep 25 1994,Juventus,1-0,Sampdoria
+Sun Sep 25 1994,Inter,3-1,Acf Fiorentina
+Sun Sep 25 1994,Lazio Roma,2-2,Parma FC
+Sun Sep 25 1994,Cagliari Calcio,2-0,Brescia Calcio
+Sun Sep 25 1994,Genoa CFc,3-3,Ssc Napoli
+Sun Sep 25 1994,Calcio Padova,0-2,As Bari
+Sun Sep 25 1994,AC Reggiana,1-4,As Roma
+Sun Sep 25 1994,US Foggia,0-2,Torino FC
+Sun Sep 25 1994,US Cremonese,1-0,AC Milan
+Sun Oct 2 1994,AC Milan,1-0,Brescia Calcio
+Sun Oct 2 1994,As Roma,1-0,Sampdoria
+Sun Oct 2 1994,Juventus,0-0,Inter
+Sun Oct 2 1994,Parma FC,2-0,Torino FC
+Sun Oct 2 1994,Acf Fiorentina,1-1,Lazio Roma
+Sun Oct 2 1994,Ssc Napoli,3-3,Calcio Padova
+Sun Oct 2 1994,Genoa CFc,3-1,AC Reggiana
+Sun Oct 2 1994,As Bari,0-0,Cagliari Calcio
+Sun Oct 2 1994,US Cremonese,1-3,US Foggia
+Sat Oct 15 1994,Inter,1-2,As Bari
+Sat Oct 15 1994,Lazio Roma,5-1,Ssc Napoli
+Sat Oct 15 1994,Sampdoria,3-1,Parma FC
+Sat Oct 15 1994,Brescia Calcio,1-2,Genoa CFc
+Sat Oct 15 1994,Cagliari Calcio,1-0,US Cremonese
+Sat Oct 15 1994,Calcio Padova,2-0,AC Milan
+Sat Oct 15 1994,AC Reggiana,1-1,Acf Fiorentina
+Sat Oct 15 1994,US Foggia,2-0,Juventus
+Sun Oct 16 1994,Torino FC,2-2,As Roma
+Sun Oct 23 1994,AC Milan,0-0,Sampdoria
+Sun Oct 23 1994,As Roma,1-1,Cagliari Calcio
+Sun Oct 23 1994,Parma FC,2-1,AC Reggiana
+Sun Oct 23 1994,Acf Fiorentina,4-1,Calcio Padova
+Sun Oct 23 1994,Torino FC,2-0,Brescia Calcio
+Sun Oct 23 1994,Ssc Napoli,3-0,As Bari
+Sun Oct 23 1994,Genoa CFc,1-2,Lazio Roma
+Sun Oct 23 1994,US Foggia,0-0,Inter
+Sun Oct 23 1994,US Cremonese,1-2,Juventus
+Sun Oct 30 1994,Juventus,1-0,AC Milan
+Sun Oct 30 1994,Parma FC,1-0,As Roma
+Sun Oct 30 1994,Inter,1-0,AC Reggiana
+Sun Oct 30 1994,Lazio Roma,1-0,US Cremonese
+Sun Oct 30 1994,Sampdoria,0-0,Ssc Napoli
+Sun Oct 30 1994,Brescia Calcio,2-4,Acf Fiorentina
+Sun Oct 30 1994,Cagliari Calcio,1-0,Torino FC
+Sun Oct 30 1994,Calcio Padova,0-0,US Foggia
+Sun Oct 30 1994,As Bari,4-1,Genoa CFc
+Sun Nov 6 1994,AC Milan,1-1,Parma FC
+Sun Nov 6 1994,As Roma,1-1,Ssc Napoli
+Sun Nov 6 1994,Acf Fiorentina,2-0,As Bari
+Sun Nov 6 1994,Genoa CFc,2-1,Inter
+Sun Nov 6 1994,Calcio Padova,2-0,Brescia Calcio
+Sun Nov 6 1994,AC Reggiana,0-0,Lazio Roma
+Sun Nov 6 1994,US Foggia,2-0,Cagliari Calcio
+Sun Nov 6 1994,US Cremonese,1-0,Sampdoria
+Sun Nov 20 1994,AC Milan,1-1,Inter
+Sun Nov 20 1994,Juventus,3-1,AC Reggiana
+Sun Nov 20 1994,Parma FC,2-0,US Foggia
+Sun Nov 20 1994,Lazio Roma,5-1,Calcio Padova
+Sun Nov 20 1994,Sampdoria,1-1,Torino FC
+Sun Nov 20 1994,Brescia Calcio,0-0,As Roma
+Sun Nov 20 1994,Cagliari Calcio,1-0,Genoa CFc
+Sun Nov 20 1994,Ssc Napoli,2-5,Acf Fiorentina
+Sun Nov 20 1994,As Bari,2-0,US Cremonese
+Sun Nov 27 1994,Inter,1-1,Parma FC
+Sun Nov 27 1994,Lazio Roma,0-3,As Roma
+Sun Nov 27 1994,Brescia Calcio,1-2,As Bari
+Sun Nov 27 1994,Acf Fiorentina,2-2,Sampdoria
+Sun Nov 27 1994,Genoa CFc,0-1,US Cremonese
+Sun Nov 27 1994,Calcio Padova,1-2,Juventus
+Sun Nov 27 1994,AC Reggiana,0-0,Cagliari Calcio
+Sun Nov 27 1994,US Foggia,1-1,Ssc Napoli
+Sun Dec 4 1994,As Roma,2-0,Calcio Padova
+Sun Dec 4 1994,Juventus,3-2,Acf Fiorentina
+Sun Dec 4 1994,Parma FC,4-0,Brescia Calcio
+Sun Dec 4 1994,Sampdoria,3-2,Genoa CFc
+Sun Dec 4 1994,Cagliari Calcio,1-1,Lazio Roma
+Sun Dec 4 1994,Ssc Napoli,1-1,Torino FC
+Sun Dec 4 1994,As Bari,2-1,US Foggia
+Sun Dec 4 1994,US Cremonese,0-1,Inter
+Sun Dec 11 1994,Inter,0-2,Ssc Napoli
+Sun Dec 11 1994,Lazio Roma,3-4,Juventus
+Sun Dec 11 1994,Brescia Calcio,0-0,Sampdoria
+Sun Dec 11 1994,Acf Fiorentina,1-0,As Roma
+Sun Dec 11 1994,Torino FC,2-0,As Bari
+Sun Dec 11 1994,Genoa CFc,0-0,Parma FC
+Sun Dec 11 1994,Calcio Padova,2-1,Cagliari Calcio
+Sun Dec 11 1994,AC Reggiana,2-0,US Cremonese
+Sun Dec 11 1994,US Foggia,1-3,AC Milan
+Sun Dec 18 1994,As Roma,0-0,AC Milan
+Sun Dec 18 1994,Juventus,1-1,Genoa CFc
+Sun Dec 18 1994,Inter,0-2,Lazio Roma
+Sun Dec 18 1994,Sampdoria,5-0,Cagliari Calcio
+Sun Dec 18 1994,Acf Fiorentina,1-1,US Foggia
+Sun Dec 18 1994,AC Reggiana,3-0,Calcio Padova
+Sun Dec 18 1994,As Bari,1-2,Parma FC
+Sun Dec 18 1994,US Cremonese,3-0,Torino FC
+Mon Dec 19 1994,Ssc Napoli,1-1,Brescia Calcio
+Wed Dec 21 1994,Torino FC,0-0,AC Milan
+Sun Jan 8 1995,AC Milan,1-1,Ssc Napoli
+Sun Jan 8 1995,As Roma,2-0,As Bari
+Sun Jan 8 1995,Parma FC,1-3,Juventus
+Sun Jan 8 1995,Sampdoria,3-1,Lazio Roma
+Sun Jan 8 1995,Brescia Calcio,1-0,AC Reggiana
+Sun Jan 8 1995,Cagliari Calcio,1-1,Inter
+Sun Jan 8 1995,Torino FC,1-0,Acf Fiorentina
+Sun Jan 8 1995,Calcio Padova,3-2,US Cremonese
+Sun Jan 8 1995,US Foggia,2-1,Genoa CFc
+Wed Jan 11 1995,AC Milan,2-1,AC Reggiana
+Sun Jan 15 1995,Juventus,3-0,As Roma
+Sun Jan 15 1995,Inter,2-0,Sampdoria
+Sun Jan 15 1995,Lazio Roma,7-1,US Foggia
+Sun Jan 15 1995,Acf Fiorentina,1-1,Parma FC
+Sun Jan 15 1995,Ssc Napoli,1-1,Cagliari Calcio
+Sun Jan 15 1995,Genoa CFc,2-1,Calcio Padova
+Sun Jan 15 1995,AC Reggiana,1-0,Torino FC
+Sun Jan 15 1995,As Bari,3-5,AC Milan
+Sun Jan 15 1995,US Cremonese,0-0,Brescia Calcio
+Sun Jan 22 1995,AC Milan,2-0,Acf Fiorentina
+Sun Jan 22 1995,As Roma,1-1,US Cremonese
+Sun Jan 22 1995,Parma FC,2-0,Ssc Napoli
+Sun Jan 22 1995,Sampdoria,1-1,As Bari
+Sun Jan 22 1995,Brescia Calcio,0-1,Lazio Roma
+Sun Jan 22 1995,Cagliari Calcio,3-0,Juventus
+Sun Jan 22 1995,Torino FC,0-0,Genoa CFc
+Sun Jan 22 1995,Calcio Padova,1-0,Inter
+Sun Jan 22 1995,US Foggia,1-0,AC Reggiana
+Wed Jan 25 1995,Torino FC,3-2,Juventus
+Sun Jan 29 1995,Juventus,2-1,Brescia Calcio
+Sun Jan 29 1995,Inter,2-1,Torino FC
+Sun Jan 29 1995,Lazio Roma,0-2,As Bari
+Sun Jan 29 1995,Cagliari Calcio,2-0,Acf Fiorentina
+Sun Jan 29 1995,Calcio Padova,1-4,Sampdoria
+Sun Jan 29 1995,AC Reggiana,1-2,Ssc Napoli
+Sun Jan 29 1995,US Foggia,0-1,As Roma
+Sun Jan 29 1995,US Cremonese,1-1,Parma FC
+Sun Feb 12 1995,AC Milan,1-1,Cagliari Calcio
+Sun Feb 12 1995,As Roma,3-1,Inter
+Sun Feb 12 1995,Parma FC,1-0,Calcio Padova
+Sun Feb 12 1995,Sampdoria,2-1,AC Reggiana
+Sun Feb 12 1995,Brescia Calcio,1-0,US Foggia
+Sun Feb 12 1995,Acf Fiorentina,3-1,Genoa CFc
+Sun Feb 12 1995,Torino FC,2-0,Lazio Roma
+Sun Feb 12 1995,Ssc Napoli,1-0,US Cremonese
+Sun Feb 12 1995,As Bari,0-2,Juventus
+Wed Feb 15 1995,Genoa CFc,1-1,AC Milan
+Sun Feb 19 1995,Juventus,1-0,Ssc Napoli
+Sun Feb 19 1995,Inter,1-0,Brescia Calcio
+Sun Feb 19 1995,Lazio Roma,4-0,AC Milan
+Sun Feb 19 1995,Cagliari Calcio,2-0,Parma FC
+Sun Feb 19 1995,Genoa CFc,1-0,As Roma
+Sun Feb 19 1995,Calcio Padova,4-2,Torino FC
+Sun Feb 19 1995,AC Reggiana,0-1,As Bari
+Sun Feb 19 1995,US Foggia,1-1,Sampdoria
+Sun Feb 19 1995,US Cremonese,0-0,Acf Fiorentina
+Sun Feb 26 1995,AC Milan,3-1,US Cremonese
+Sun Feb 26 1995,As Roma,2-0,AC Reggiana
+Sun Feb 26 1995,Parma FC,2-0,Lazio Roma
+Sun Feb 26 1995,Sampdoria,0-1,Juventus
+Sun Feb 26 1995,Brescia Calcio,2-3,Cagliari Calcio
+Sun Feb 26 1995,Acf Fiorentina,2-2,Inter
+Sun Feb 26 1995,Torino FC,2-0,US Foggia
+Sun Feb 26 1995,Ssc Napoli,1-0,Genoa CFc
+Sun Feb 26 1995,As Bari,0-1,Calcio Padova
+Sun Mar 5 1995,Inter,0-0,Juventus
+Sun Mar 5 1995,Lazio Roma,8-2,Acf Fiorentina
+Sun Mar 5 1995,Sampdoria,3-0,As Roma
+Sun Mar 5 1995,Brescia Calcio,0-5,AC Milan
+Sun Mar 5 1995,Cagliari Calcio,2-1,As Bari
+Sun Mar 5 1995,Torino FC,0-2,Parma FC
+Sun Mar 5 1995,Calcio Padova,2-0,Ssc Napoli
+Sun Mar 5 1995,AC Reggiana,0-1,Genoa CFc
+Sun Mar 5 1995,US Foggia,0-1,US Cremonese
+Sun Mar 12 1995,AC Milan,1-0,Calcio Padova
+Sun Mar 12 1995,As Roma,1-1,Torino FC
+Sun Mar 12 1995,Juventus,2-0,US Foggia
+Sun Mar 12 1995,Parma FC,3-2,Sampdoria
+Sun Mar 12 1995,Acf Fiorentina,1-1,AC Reggiana
+Sun Mar 12 1995,Ssc Napoli,3-2,Lazio Roma
+Sun Mar 12 1995,Genoa CFc,1-0,Brescia Calcio
+Sun Mar 12 1995,As Bari,0-1,Inter
+Sun Mar 12 1995,US Cremonese,2-0,Cagliari Calcio
+Sun Mar 19 1995,Juventus,1-0,US Cremonese
+Sun Mar 19 1995,Inter,3-0,US Foggia
+Sun Mar 19 1995,Lazio Roma,4-0,Genoa CFc
+Sun Mar 19 1995,Sampdoria,0-3,AC Milan
+Sun Mar 19 1995,Brescia Calcio,1-4,Torino FC
+Sun Mar 19 1995,Cagliari Calcio,0-1,As Roma
+Sun Mar 19 1995,Calcio Padova,0-1,Acf Fiorentina
+Sun Mar 19 1995,AC Reggiana,2-2,Parma FC
+Sun Mar 19 1995,As Bari,1-1,Ssc Napoli
+Sun Apr 2 1995,AC Milan,0-2,Juventus
+Sun Apr 2 1995,As Roma,1-0,Parma FC
+Sun Apr 2 1995,Acf Fiorentina,4-0,Brescia Calcio
+Sun Apr 2 1995,Torino FC,3-2,Cagliari Calcio
+Sun Apr 2 1995,Ssc Napoli,2-0,Sampdoria
+Sun Apr 2 1995,Genoa CFc,1-1,As Bari
+Sun Apr 2 1995,AC Reggiana,0-1,Inter
+Sun Apr 2 1995,US Foggia,4-1,Calcio Padova
+Sun Apr 2 1995,US Cremonese,0-0,Lazio Roma
+Sun Apr 9 1995,Juventus,1-2,Torino FC
+Sun Apr 9 1995,Parma FC,2-3,AC Milan
+Sun Apr 9 1995,Inter,2-0,Genoa CFc
+Sun Apr 9 1995,Lazio Roma,2-0,AC Reggiana
+Sun Apr 9 1995,Sampdoria,2-1,US Cremonese
+Sun Apr 9 1995,Brescia Calcio,1-2,Calcio Padova
+Sun Apr 9 1995,Cagliari Calcio,2-1,US Foggia
+Sun Apr 9 1995,Ssc Napoli,0-0,As Roma
+Sun Apr 9 1995,As Bari,2-2,Acf Fiorentina
+Fri Apr 14 1995,As Roma,3-0,Brescia Calcio
+Fri Apr 14 1995,Inter,3-1,AC Milan
+Fri Apr 14 1995,Acf Fiorentina,4-0,Ssc Napoli
+Fri Apr 14 1995,Torino FC,0-0,Sampdoria
+Fri Apr 14 1995,Genoa CFc,1-1,Cagliari Calcio
+Fri Apr 14 1995,Calcio Padova,2-0,Lazio Roma
+Fri Apr 14 1995,AC Reggiana,1-2,Juventus
+Fri Apr 14 1995,US Foggia,0-0,Parma FC
+Fri Apr 14 1995,US Cremonese,0-0,As Bari
+Sun Apr 23 1995,AC Milan,5-1,Torino FC
+Sun Apr 23 1995,As Roma,0-2,Lazio Roma
+Sun Apr 23 1995,Juventus,0-1,Calcio Padova
+Sun Apr 23 1995,Parma FC,3-0,Inter
+Sun Apr 23 1995,Sampdoria,2-2,Acf Fiorentina
+Sun Apr 23 1995,Cagliari Calcio,4-2,AC Reggiana
+Sun Apr 23 1995,Ssc Napoli,2-1,US Foggia
+Sun Apr 23 1995,As Bari,3-0,Brescia Calcio
+Sun Apr 23 1995,US Cremonese,4-1,Genoa CFc
+Sun Apr 30 1995,Inter,0-0,US Cremonese
+Sun Apr 30 1995,Lazio Roma,0-0,Cagliari Calcio
+Sun Apr 30 1995,Brescia Calcio,1-2,Parma FC
+Sun Apr 30 1995,Acf Fiorentina,1-4,Juventus
+Sun Apr 30 1995,Torino FC,1-1,Ssc Napoli
+Sun Apr 30 1995,Genoa CFc,2-1,Sampdoria
+Sun Apr 30 1995,Calcio Padova,0-0,As Roma
+Sun Apr 30 1995,AC Reggiana,0-4,AC Milan
+Sun Apr 30 1995,US Foggia,2-2,As Bari
+Sun May 7 1995,AC Milan,3-0,US Foggia
+Sun May 7 1995,As Roma,2-0,Acf Fiorentina
+Sun May 7 1995,Juventus,0-3,Lazio Roma
+Sun May 7 1995,Parma FC,0-0,Genoa CFc
+Sun May 7 1995,Sampdoria,2-1,Brescia Calcio
+Sun May 7 1995,Cagliari Calcio,2-0,Calcio Padova
+Sun May 7 1995,Ssc Napoli,1-3,Inter
+Sun May 7 1995,As Bari,3-1,Torino FC
+Sun May 7 1995,US Cremonese,2-1,AC Reggiana
+Sat May 13 1995,Parma FC,1-0,As Bari
+Sat May 13 1995,Genoa CFc,0-4,Juventus
+Sun May 14 1995,AC Milan,1-0,As Roma
+Sun May 14 1995,Lazio Roma,4-1,Inter
+Sun May 14 1995,Brescia Calcio,1-2,Ssc Napoli
+Sun May 14 1995,Cagliari Calcio,0-2,Sampdoria
+Sun May 14 1995,Torino FC,1-1,US Cremonese
+Sun May 14 1995,Calcio Padova,3-0,AC Reggiana
+Sun May 14 1995,US Foggia,2-1,Acf Fiorentina
+Sun May 21 1995,Juventus,4-0,Parma FC
+Sun May 21 1995,Inter,1-2,Cagliari Calcio
+Sun May 21 1995,Lazio Roma,1-0,Sampdoria
+Sun May 21 1995,Acf Fiorentina,6-3,Torino FC
+Sun May 21 1995,Ssc Napoli,1-0,AC Milan
+Sun May 21 1995,Genoa CFc,3-0,US Foggia
+Sun May 21 1995,AC Reggiana,2-0,Brescia Calcio
+Sun May 21 1995,As Bari,2-2,As Roma
+Sun May 21 1995,US Cremonese,3-0,Calcio Padova
+Sun May 28 1995,AC Milan,0-1,As Bari
+Sun May 28 1995,As Roma,3-0,Juventus
+Sun May 28 1995,Parma FC,3-0,Acf Fiorentina
+Sun May 28 1995,Sampdoria,2-2,Inter
+Sun May 28 1995,Brescia Calcio,1-2,US Cremonese
+Sun May 28 1995,Cagliari Calcio,0-1,Ssc Napoli
+Sun May 28 1995,Torino FC,4-0,AC Reggiana
+Sun May 28 1995,Calcio Padova,1-1,Genoa CFc
+Sun May 28 1995,US Foggia,0-1,Lazio Roma
+Sun Jun 4 1995,Juventus,3-1,Cagliari Calcio
+Sun Jun 4 1995,Inter,2-1,Calcio Padova
+Sun Jun 4 1995,Lazio Roma,1-0,Brescia Calcio
+Sun Jun 4 1995,Acf Fiorentina,1-2,AC Milan
+Sun Jun 4 1995,Ssc Napoli,1-0,Parma FC
+Sun Jun 4 1995,Genoa CFc,1-0,Torino FC
+Sun Jun 4 1995,AC Reggiana,1-1,US Foggia
+Sun Jun 4 1995,As Bari,1-2,Sampdoria
+Sun Jun 4 1995,US Cremonese,2-5,As Roma

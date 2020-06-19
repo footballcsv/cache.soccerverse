@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Thu Aug 7 1975,Lille OSC,3-3,As Monaco
+Fri Aug 8 1975,Nimes Olympique,0-0,FC Nantes
+Fri Aug 8 1975,Girondins Bordeaux,1-1,RC Strasbourg
+Fri Aug 8 1975,RC Lens,4-1,FC Metz
+Fri Aug 8 1975,SC Bastia,3-0,Paris Saint Germain
+Fri Aug 8 1975,OGC Nice,3-0,FC Sochaux
+Fri Aug 8 1975,Olympique Marseille,3-1,Avignon Foot 84
+Fri Aug 8 1975,Estac Troyes,3-4,Olympique Lyon
+Fri Aug 8 1975,As Saint Etienne,2-1,Stade Reims
+Fri Aug 8 1975,As Nancy,3-3,Valenciennes FC
+Wed Aug 13 1975,Avignon Foot 84,1-5,OGC Nice
+Wed Aug 13 1975,RC Lens,2-3,Olympique Marseille
+Wed Aug 13 1975,SC Bastia,1-1,Lille OSC
+Wed Aug 13 1975,Olympique Lyon,1-1,Valenciennes FC
+Wed Aug 13 1975,FC Metz,1-1,As Saint Etienne
+Wed Aug 13 1975,RC Strasbourg,0-1,Nimes Olympique
+Wed Aug 13 1975,FC Sochaux,3-0,As Nancy
+Wed Aug 13 1975,Stade Reims,1-1,Paris Saint Germain
+Wed Aug 13 1975,FC Nantes,2-2,Estac Troyes
+Thu Aug 14 1975,As Monaco,1-1,Girondins Bordeaux
+Fri Aug 22 1975,OGC Nice,4-1,As Monaco
+Fri Aug 22 1975,Olympique Marseille,2-1,FC Metz
+Fri Aug 22 1975,As Nancy,1-4,Olympique Lyon
+Fri Aug 22 1975,Nimes Olympique,3-0,SC Bastia
+Fri Aug 22 1975,As Saint Etienne,2-0,RC Lens
+Fri Aug 22 1975,Girondins Bordeaux,1-2,FC Sochaux
+Fri Aug 22 1975,Paris Saint Germain,6-2,Avignon Foot 84
+Fri Aug 22 1975,Lille OSC,2-2,Stade Reims
+Fri Aug 22 1975,Valenciennes FC,1-1,FC Nantes
+Fri Aug 22 1975,Estac Troyes,1-1,RC Strasbourg
+Wed Aug 27 1975,As Saint Etienne,5-2,Girondins Bordeaux
+Wed Aug 27 1975,FC Nantes,2-3,Olympique Lyon
+Wed Aug 27 1975,Stade Reims,3-1,Olympique Marseille
+Wed Aug 27 1975,As Monaco,3-1,Nimes Olympique
+Wed Aug 27 1975,FC Sochaux,2-2,Estac Troyes
+Wed Aug 27 1975,RC Lens,3-3,Paris Saint Germain
+Wed Aug 27 1975,RC Strasbourg,1-0,Valenciennes FC
+Wed Aug 27 1975,FC Metz,5-2,Lille OSC
+Wed Aug 27 1975,Avignon Foot 84,2-3,As Nancy
+Tue Sep 9 1975,Olympique Lyon,2-1,RC Strasbourg
+Tue Sep 9 1975,OGC Nice,2-1,Stade Reims
+Tue Sep 9 1975,Olympique Marseille,4-2,As Saint Etienne
+Tue Sep 9 1975,Nimes Olympique,0-2,FC Sochaux
+Tue Sep 9 1975,Paris Saint Germain,3-1,FC Metz
+Tue Sep 9 1975,Estac Troyes,3-1,As Monaco
+Tue Sep 9 1975,Valenciennes FC,3-1,SC Bastia
+Tue Sep 9 1975,Lille OSC,4-2,RC Lens
+Tue Sep 9 1975,As Nancy,1-1,FC Nantes
+Tue Sep 9 1975,Girondins Bordeaux,2-1,Avignon Foot 84
+Fri Sep 12 1975,FC Metz,2-2,OGC Nice
+Fri Sep 12 1975,FC Sochaux,1-0,Olympique Lyon
+Fri Sep 12 1975,As Saint Etienne,1-1,Paris Saint Germain
+Fri Sep 12 1975,Olympique Marseille,1-3,As Nancy
+Fri Sep 12 1975,As Monaco,3-1,Valenciennes FC
+Fri Sep 12 1975,Stade Reims,0-0,Girondins Bordeaux
+Fri Sep 12 1975,RC Strasbourg,1-1,FC Nantes
+Fri Sep 12 1975,Avignon Foot 84,1-0,Lille OSC
+Sat Sep 13 1975,RC Lens,1-1,Nimes Olympique
+Sat Sep 13 1975,SC Bastia,3-1,Estac Troyes
+Fri Sep 19 1975,Valenciennes FC,3-0,FC Sochaux
+Sat Sep 20 1975,OGC Nice,5-0,RC Lens
+Sat Sep 20 1975,Olympique Lyon,4-1,As Monaco
+Sat Sep 20 1975,Paris Saint Germain,2-3,Olympique Marseille
+Sat Sep 20 1975,Lille OSC,0-0,As Saint Etienne
+Sat Sep 20 1975,Nimes Olympique,0-3,Stade Reims
+Sat Sep 20 1975,FC Nantes,1-0,SC Bastia
+Sat Sep 20 1975,Girondins Bordeaux,3-1,FC Metz
+Sat Sep 20 1975,As Nancy,1-1,RC Strasbourg
+Sat Sep 20 1975,Estac Troyes,1-1,Avignon Foot 84
+Thu Sep 25 1975,As Saint Etienne,1-1,OGC Nice
+Fri Sep 26 1975,Olympique Marseille,3-2,Estac Troyes
+Fri Sep 26 1975,Stade Reims,3-2,Olympique Lyon
+Fri Sep 26 1975,FC Sochaux,1-1,RC Strasbourg
+Fri Sep 26 1975,Avignon Foot 84,1-2,Valenciennes FC
+Fri Sep 26 1975,Paris Saint Germain,2-2,Lille OSC
+Fri Sep 26 1975,As Monaco,4-4,FC Nantes
+Fri Sep 26 1975,SC Bastia,3-0,As Nancy
+Fri Sep 26 1975,RC Lens,3-2,Girondins Bordeaux
+Fri Sep 26 1975,FC Metz,4-3,Nimes Olympique
+Tue Sep 30 1975,SC Bastia,1-1,OGC Nice
+Fri Oct 3 1975,RC Strasbourg,1-0,As Monaco
+Sat Oct 4 1975,OGC Nice,2-1,Paris Saint Germain
+Sat Oct 4 1975,Olympique Lyon,2-0,Avignon Foot 84
+Sat Oct 4 1975,Lille OSC,4-3,Olympique Marseille
+Sat Oct 4 1975,FC Nantes,2-2,FC Sochaux
+Sat Oct 4 1975,Valenciennes FC,1-1,RC Lens
+Sat Oct 4 1975,Nimes Olympique,2-0,As Saint Etienne
+Sat Oct 4 1975,Estac Troyes,2-1,Stade Reims
+Sat Oct 4 1975,Girondins Bordeaux,3-0,SC Bastia
+Sat Oct 4 1975,As Nancy,0-0,FC Metz
+Thu Oct 16 1975,RC Lens,1-1,Estac Troyes
+Fri Oct 17 1975,Olympique Marseille,2-1,OGC Nice
+Fri Oct 17 1975,Lille OSC,2-1,Olympique Lyon
+Fri Oct 17 1975,As Monaco,0-0,FC Sochaux
+Fri Oct 17 1975,As Saint Etienne,2-2,FC Nantes
+Fri Oct 17 1975,Stade Reims,1-1,As Nancy
+Fri Oct 17 1975,Paris Saint Germain,2-2,Girondins Bordeaux
+Fri Oct 17 1975,FC Metz,3-0,Valenciennes FC
+Fri Oct 17 1975,SC Bastia,2-1,RC Strasbourg
+Fri Oct 17 1975,Avignon Foot 84,1-0,Nimes Olympique
+Sat Oct 25 1975,OGC Nice,2-2,Lille OSC
+Sat Oct 25 1975,Olympique Lyon,0-0,As Saint Etienne
+Sat Oct 25 1975,Girondins Bordeaux,3-1,Olympique Marseille
+Sat Oct 25 1975,FC Sochaux,2-2,SC Bastia
+Sat Oct 25 1975,FC Nantes,4-0,Avignon Foot 84
+Sat Oct 25 1975,Valenciennes FC,2-1,Stade Reims
+Sat Oct 25 1975,Estac Troyes,0-1,FC Metz
+Sat Oct 25 1975,As Nancy,3-0,As Monaco
+Sat Oct 25 1975,RC Strasbourg,1-1,RC Lens
+Sat Oct 25 1975,Nimes Olympique,2-1,Paris Saint Germain
+Fri Oct 31 1975,OGC Nice,2-0,Girondins Bordeaux
+Fri Oct 31 1975,RC Lens,3-1,Olympique Lyon
+Fri Oct 31 1975,As Saint Etienne,2-0,Valenciennes FC
+Fri Oct 31 1975,Olympique Marseille,0-1,Nimes Olympique
+Fri Oct 31 1975,FC Metz,3-0,FC Nantes
+Fri Oct 31 1975,SC Bastia,3-0,As Monaco
+Fri Oct 31 1975,Avignon Foot 84,3-1,FC Sochaux
+Fri Oct 31 1975,Stade Reims,6-0,RC Strasbourg
+Fri Oct 31 1975,Paris Saint Germain,1-0,Estac Troyes
+Mon Nov 3 1975,Lille OSC,1-2,As Nancy
+Sat Nov 8 1975,Nimes Olympique,2-1,OGC Nice
+Sat Nov 8 1975,Estac Troyes,0-1,As Saint Etienne
+Sat Nov 8 1975,Olympique Lyon,2-2,SC Bastia
+Sat Nov 8 1975,RC Strasbourg,1-2,FC Metz
+Sat Nov 8 1975,FC Sochaux,3-2,RC Lens
+Sat Nov 8 1975,FC Nantes,4-1,Stade Reims
+Sat Nov 8 1975,Girondins Bordeaux,2-1,Lille OSC
+Sat Nov 8 1975,Valenciennes FC,1-0,Olympique Marseille
+Sat Nov 8 1975,As Nancy,2-4,Paris Saint Germain
+Sat Nov 8 1975,As Monaco,1-0,Avignon Foot 84
+Tue Nov 18 1975,Lille OSC,2-1,Nimes Olympique
+Wed Nov 19 1975,OGC Nice,2-1,As Nancy
+Wed Nov 19 1975,As Saint Etienne,2-1,RC Strasbourg
+Wed Nov 19 1975,FC Metz,3-1,FC Sochaux
+Wed Nov 19 1975,Olympique Marseille,2-0,Olympique Lyon
+Wed Nov 19 1975,Paris Saint Germain,2-0,Valenciennes FC
+Wed Nov 19 1975,Avignon Foot 84,1-1,SC Bastia
+Wed Nov 19 1975,Girondins Bordeaux,2-2,Estac Troyes
+Wed Nov 19 1975,RC Lens,3-2,FC Nantes
+Wed Nov 19 1975,Stade Reims,2-2,As Monaco
+Sat Nov 22 1975,Estac Troyes,2-2,OGC Nice
+Sat Nov 22 1975,As Nancy,0-0,As Saint Etienne
+Sat Nov 22 1975,FC Nantes,0-1,Olympique Marseille
+Sat Nov 22 1975,Olympique Lyon,2-0,Paris Saint Germain
+Sat Nov 22 1975,As Monaco,2-0,FC Metz
+Sat Nov 22 1975,Nimes Olympique,1-2,Girondins Bordeaux
+Sat Nov 22 1975,SC Bastia,0-0,RC Lens
+Sat Nov 22 1975,RC Strasbourg,4-0,Avignon Foot 84
+Sun Nov 23 1975,FC Sochaux,1-0,Stade Reims
+Sun Nov 23 1975,Valenciennes FC,0-1,Lille OSC
+Wed Nov 26 1975,OGC Nice,1-0,Valenciennes FC
+Wed Nov 26 1975,As Saint Etienne,2-0,FC Sochaux
+Wed Nov 26 1975,Olympique Marseille,1-0,RC Strasbourg
+Wed Nov 26 1975,FC Metz,4-1,SC Bastia
+Wed Nov 26 1975,Lille OSC,3-0,Estac Troyes
+Wed Nov 26 1975,Girondins Bordeaux,0-0,As Nancy
+Wed Nov 26 1975,Paris Saint Germain,2-1,FC Nantes
+Wed Nov 26 1975,Nimes Olympique,2-0,Olympique Lyon
+Wed Nov 26 1975,RC Lens,3-0,As Monaco
+Wed Nov 26 1975,Stade Reims,4-1,Avignon Foot 84
+Sat Nov 29 1975,Olympique Lyon,1-0,OGC Nice
+Sat Nov 29 1975,SC Bastia,2-0,Stade Reims
+Sat Nov 29 1975,FC Nantes,4-0,Lille OSC
+Sat Nov 29 1975,Estac Troyes,1-1,Nimes Olympique
+Sat Nov 29 1975,As Nancy,3-0,RC Lens
+Sun Nov 30 1975,As Monaco,0-3,As Saint Etienne
+Sun Nov 30 1975,Avignon Foot 84,0-1,FC Metz
+Sun Nov 30 1975,FC Sochaux,3-0,Olympique Marseille
+Sun Nov 30 1975,Valenciennes FC,1-1,Girondins Bordeaux
+Sun Nov 30 1975,RC Strasbourg,1-0,Paris Saint Germain
+Fri Dec 5 1975,Lille OSC,3-0,RC Strasbourg
+Sat Dec 6 1975,FC Metz,2-4,Stade Reims
+Sat Dec 6 1975,Girondins Bordeaux,3-1,Olympique Lyon
+Sat Dec 6 1975,RC Lens,3-1,Avignon Foot 84
+Sat Dec 6 1975,Estac Troyes,3-0,As Nancy
+Sun Dec 7 1975,As Saint Etienne,4-2,SC Bastia
+Sun Dec 7 1975,OGC Nice,2-2,FC Nantes
+Sun Dec 7 1975,Olympique Marseille,1-0,As Monaco
+Sun Dec 7 1975,Paris Saint Germain,2-3,FC Sochaux
+Sun Dec 7 1975,Nimes Olympique,1-0,Valenciennes FC
+Sat Dec 13 1975,Avignon Foot 84,1-3,As Saint Etienne
+Sat Dec 13 1975,RC Strasbourg,2-2,OGC Nice
+Sat Dec 13 1975,Olympique Lyon,2-3,FC Metz
+Sat Dec 13 1975,Stade Reims,4-0,RC Lens
+Sat Dec 13 1975,Valenciennes FC,3-0,Estac Troyes
+Sun Dec 14 1975,SC Bastia,2-3,Olympique Marseille
+Sun Dec 14 1975,FC Sochaux,4-1,Lille OSC
+Sun Dec 14 1975,FC Nantes,5-1,Girondins Bordeaux
+Sun Dec 14 1975,As Nancy,1-1,Nimes Olympique
+Sun Dec 14 1975,As Monaco,3-0,Paris Saint Germain
+Sat Dec 20 1975,Girondins Bordeaux,3-1,As Monaco
+Sat Dec 20 1975,Nimes Olympique,2-1,RC Strasbourg
+Sat Dec 20 1975,Lille OSC,2-0,SC Bastia
+Sat Dec 20 1975,Estac Troyes,0-0,FC Nantes
+Sat Dec 20 1975,Valenciennes FC,0-0,Olympique Lyon
+Sun Dec 21 1975,As Saint Etienne,1-0,FC Metz
+Sun Dec 21 1975,OGC Nice,2-0,Avignon Foot 84
+Sun Dec 21 1975,Olympique Marseille,3-2,RC Lens
+Sun Dec 21 1975,As Nancy,5-1,FC Sochaux
+Sun Dec 21 1975,Paris Saint Germain,2-3,Stade Reims
+Sat Jan 17 1976,RC Lens,1-1,As Saint Etienne
+Sat Jan 17 1976,FC Metz,1-0,Olympique Marseille
+Sat Jan 17 1976,FC Sochaux,2-0,Girondins Bordeaux
+Sat Jan 17 1976,FC Nantes,2-0,Valenciennes FC
+Sun Jan 18 1976,As Monaco,4-1,OGC Nice
+Sun Jan 18 1976,SC Bastia,1-1,Nimes Olympique
+Sun Jan 18 1976,Olympique Lyon,1-0,As Nancy
+Sun Jan 18 1976,Avignon Foot 84,1-1,Paris Saint Germain
+Sun Jan 18 1976,RC Strasbourg,2-1,Estac Troyes
+Sat Jan 24 1976,Lille OSC,1-1,FC Metz
+Sat Jan 24 1976,Estac Troyes,3-0,FC Sochaux
+Sat Jan 24 1976,Valenciennes FC,2-0,RC Strasbourg
+Sun Jan 25 1976,Girondins Bordeaux,1-1,As Saint Etienne
+Sun Jan 25 1976,OGC Nice,1-1,SC Bastia
+Sun Jan 25 1976,Olympique Marseille,1-0,Stade Reims
+Sun Jan 25 1976,Nimes Olympique,3-2,As Monaco
+Sun Jan 25 1976,Olympique Lyon,3-3,FC Nantes
+Sun Jan 25 1976,As Nancy,6-0,Avignon Foot 84
+Sun Jan 25 1976,Paris Saint Germain,4-2,RC Lens
+Wed Jan 28 1976,Stade Reims,2-0,Lille OSC
+Fri Feb 6 1976,RC Strasbourg,5-0,Olympique Lyon
+Sat Feb 7 1976,FC Sochaux,2-1,Nimes Olympique
+Sat Feb 7 1976,FC Metz,1-2,Paris Saint Germain
+Sat Feb 7 1976,FC Nantes,3-0,As Nancy
+Sat Feb 7 1976,RC Lens,2-0,Lille OSC
+Sun Feb 8 1976,As Saint Etienne,1-0,Olympique Marseille
+Sun Feb 8 1976,Stade Reims,1-0,OGC Nice
+Sun Feb 8 1976,Avignon Foot 84,3-4,Girondins Bordeaux
+Sun Feb 8 1976,SC Bastia,1-1,Valenciennes FC
+Sun Feb 8 1976,As Monaco,1-1,Estac Troyes
+Sat Feb 14 1976,FC Nantes,2-1,RC Strasbourg
+Sat Feb 14 1976,Valenciennes FC,5-1,As Monaco
+Sat Feb 14 1976,Estac Troyes,0-2,SC Bastia
+Sun Feb 15 1976,Paris Saint Germain,2-1,As Saint Etienne
+Sun Feb 15 1976,OGC Nice,4-2,FC Metz
+Sun Feb 15 1976,Olympique Lyon,1-2,FC Sochaux
+Sun Feb 15 1976,As Nancy,4-2,Olympique Marseille
+Sun Feb 15 1976,Girondins Bordeaux,2-3,Stade Reims
+Sun Feb 15 1976,Nimes Olympique,2-2,RC Lens
+Sun Feb 15 1976,Lille OSC,4-0,Avignon Foot 84
+Sat Feb 21 1976,FC Sochaux,3-0,Valenciennes FC
+Sat Feb 21 1976,RC Lens,2-1,OGC Nice
+Sat Feb 21 1976,Stade Reims,2-0,Nimes Olympique
+Sat Feb 21 1976,SC Bastia,0-1,FC Nantes
+Sat Feb 21 1976,FC Metz,2-1,Girondins Bordeaux
+Sat Feb 21 1976,RC Strasbourg,1-5,As Nancy
+Sat Feb 21 1976,Avignon Foot 84,0-1,Estac Troyes
+Sun Feb 22 1976,As Saint Etienne,3-1,Lille OSC
+Sun Feb 22 1976,Olympique Marseille,2-1,Paris Saint Germain
+Sun Feb 22 1976,As Monaco,1-0,Olympique Lyon
+Thu Mar 11 1976,OGC Nice,1-1,As Saint Etienne
+Fri Mar 12 1976,RC Strasbourg,0-0,FC Sochaux
+Fri Mar 12 1976,FC Nantes,3-1,As Monaco
+Fri Mar 12 1976,Olympique Lyon,1-2,Stade Reims
+Fri Mar 12 1976,Estac Troyes,2-2,Olympique Marseille
+Fri Mar 12 1976,Nimes Olympique,3-2,FC Metz
+Fri Mar 12 1976,Lille OSC,2-1,Paris Saint Germain
+Fri Mar 12 1976,Girondins Bordeaux,2-2,RC Lens
+Fri Mar 12 1976,As Nancy,0-1,SC Bastia
+Fri Mar 12 1976,Valenciennes FC,2-0,Avignon Foot 84
+Tue Mar 16 1976,Olympique Marseille,2-0,Lille OSC
+Tue Mar 16 1976,FC Sochaux,1-1,FC Nantes
+Tue Mar 16 1976,Stade Reims,1-1,Estac Troyes
+Tue Mar 16 1976,Paris Saint Germain,0-0,OGC Nice
+Tue Mar 16 1976,FC Metz,4-1,As Nancy
+Tue Mar 16 1976,RC Lens,0-1,Valenciennes FC
+Tue Mar 16 1976,Avignon Foot 84,2-1,Olympique Lyon
+Sat Mar 20 1976,FC Nantes,3-0,As Saint Etienne
+Sat Mar 20 1976,FC Sochaux,4-0,As Monaco
+Sat Mar 20 1976,OGC Nice,2-1,Olympique Marseille
+Sat Mar 20 1976,As Nancy,3-1,Stade Reims
+Sat Mar 20 1976,Valenciennes FC,3-0,FC Metz
+Sat Mar 20 1976,Nimes Olympique,1-0,Avignon Foot 84
+Sat Mar 20 1976,Girondins Bordeaux,2-1,Paris Saint Germain
+Sat Mar 20 1976,RC Strasbourg,1-3,SC Bastia
+Sat Mar 20 1976,Olympique Lyon,3-0,Lille OSC
+Sat Mar 20 1976,Estac Troyes,1-1,RC Lens
+Tue Mar 30 1976,Avignon Foot 84,0-2,FC Nantes
+Tue Mar 30 1976,Lille OSC,0-3,OGC Nice
+Tue Mar 30 1976,SC Bastia,1-1,FC Sochaux
+Tue Mar 30 1976,Olympique Marseille,1-0,Girondins Bordeaux
+Tue Mar 30 1976,Stade Reims,5-1,Valenciennes FC
+Tue Mar 30 1976,FC Metz,0-1,Estac Troyes
+Tue Mar 30 1976,Paris Saint Germain,2-0,Nimes Olympique
+Tue Mar 30 1976,As Monaco,1-0,As Nancy
+Tue Mar 30 1976,RC Lens,1-1,RC Strasbourg
+Fri Apr 2 1976,FC Nantes,2-0,FC Metz
+Fri Apr 2 1976,FC Sochaux,1-1,Avignon Foot 84
+Fri Apr 2 1976,Nimes Olympique,0-1,Olympique Marseille
+Fri Apr 2 1976,Girondins Bordeaux,1-0,OGC Nice
+Fri Apr 2 1976,RC Strasbourg,1-1,Stade Reims
+Fri Apr 2 1976,As Nancy,5-0,Lille OSC
+Fri Apr 2 1976,Estac Troyes,1-1,Paris Saint Germain
+Fri Apr 2 1976,As Monaco,2-0,SC Bastia
+Fri Apr 2 1976,Olympique Lyon,4-1,RC Lens
+Wed Apr 7 1976,As Saint Etienne,3-0,Estac Troyes
+Fri Apr 9 1976,As Monaco,1-2,RC Strasbourg
+Thu Apr 15 1976,Olympique Marseille,3-0,Valenciennes FC
+Thu Apr 15 1976,Stade Reims,1-0,FC Nantes
+Thu Apr 15 1976,OGC Nice,4-0,Nimes Olympique
+Thu Apr 15 1976,RC Lens,1-1,FC Sochaux
+Thu Apr 15 1976,Paris Saint Germain,1-4,As Nancy
+Thu Apr 15 1976,FC Metz,5-0,RC Strasbourg
+Thu Apr 15 1976,SC Bastia,4-1,Olympique Lyon
+Thu Apr 15 1976,Avignon Foot 84,1-1,As Monaco
+Fri Apr 16 1976,Lille OSC,3-2,Girondins Bordeaux
+Fri Apr 30 1976,RC Strasbourg,0-2,As Saint Etienne
+Fri Apr 30 1976,FC Sochaux,3-2,FC Metz
+Fri Apr 30 1976,Olympique Lyon,2-1,Olympique Marseille
+Fri Apr 30 1976,As Nancy,2-0,OGC Nice
+Fri Apr 30 1976,As Monaco,1-0,Stade Reims
+Fri Apr 30 1976,SC Bastia,2-0,Avignon Foot 84
+Fri Apr 30 1976,Nimes Olympique,5-1,Lille OSC
+Fri Apr 30 1976,Estac Troyes,2-0,Girondins Bordeaux
+Fri Apr 30 1976,Valenciennes FC,2-2,Paris Saint Germain
+Sat May 1 1976,FC Nantes,1-1,RC Lens
+Tue May 4 1976,As Saint Etienne,5-2,Nimes Olympique
+Tue May 11 1976,Olympique Marseille,1-2,FC Nantes
+Tue May 11 1976,Stade Reims,1-1,FC Sochaux
+Tue May 11 1976,OGC Nice,5-2,Estac Troyes
+Tue May 11 1976,FC Metz,4-1,As Monaco
+Tue May 11 1976,RC Lens,1-1,SC Bastia
+Tue May 11 1976,Girondins Bordeaux,1-0,Nimes Olympique
+Tue May 11 1976,Paris Saint Germain,2-0,Olympique Lyon
+Tue May 11 1976,Lille OSC,5-1,Valenciennes FC
+Tue May 11 1976,Avignon Foot 84,1-0,RC Strasbourg
+Sat May 15 1976,Valenciennes FC,0-0,OGC Nice
+Sat May 15 1976,FC Nantes,1-2,Paris Saint Germain
+Sat May 15 1976,RC Strasbourg,2-0,Olympique Marseille
+Sat May 15 1976,Avignon Foot 84,1-0,Stade Reims
+Sat May 15 1976,As Nancy,3-2,Girondins Bordeaux
+Sat May 15 1976,SC Bastia,3-2,FC Metz
+Sat May 15 1976,Olympique Lyon,1-1,Nimes Olympique
+Sat May 15 1976,As Monaco,1-1,RC Lens
+Sat May 15 1976,Estac Troyes,1-0,Lille OSC
+Sun May 16 1976,FC Sochaux,1-1,As Saint Etienne
+Tue May 25 1976,As Saint Etienne,2-2,As Monaco
+Tue May 25 1976,Olympique Marseille,0-3,FC Sochaux
+Tue May 25 1976,OGC Nice,1-0,Olympique Lyon
+Tue May 25 1976,Lille OSC,1-0,FC Nantes
+Tue May 25 1976,Stade Reims,1-2,SC Bastia
+Tue May 25 1976,RC Lens,4-2,As Nancy
+Tue May 25 1976,FC Metz,1-0,Avignon Foot 84
+Tue May 25 1976,Paris Saint Germain,0-0,RC Strasbourg
+Tue May 25 1976,Nimes Olympique,1-1,Estac Troyes
+Tue May 25 1976,Girondins Bordeaux,0-1,Valenciennes FC
+Fri May 28 1976,Valenciennes FC,1-1,As Saint Etienne
+Sat May 29 1976,SC Bastia,2-1,Girondins Bordeaux
+Tue Jun 1 1976,As Saint Etienne,1-1,Olympique Lyon
+Fri Jun 4 1976,SC Bastia,2-2,As Saint Etienne
+Fri Jun 4 1976,FC Nantes,1-1,OGC Nice
+Fri Jun 4 1976,FC Sochaux,1-4,Paris Saint Germain
+Fri Jun 4 1976,Stade Reims,3-2,FC Metz
+Fri Jun 4 1976,As Monaco,2-1,Olympique Marseille
+Fri Jun 4 1976,As Nancy,0-0,Estac Troyes
+Fri Jun 4 1976,Valenciennes FC,0-3,Nimes Olympique
+Fri Jun 4 1976,Olympique Lyon,1-2,Girondins Bordeaux
+Fri Jun 4 1976,Avignon Foot 84,0-0,RC Lens
+Fri Jun 4 1976,RC Strasbourg,3-0,Lille OSC
+Tue Jun 8 1976,As Saint Etienne,3-0,As Nancy
+Wed Jun 16 1976,As Saint Etienne,4-0,Avignon Foot 84
+Wed Jun 16 1976,OGC Nice,1-0,RC Strasbourg
+Wed Jun 16 1976,Lille OSC,1-1,FC Sochaux
+Wed Jun 16 1976,Girondins Bordeaux,2-1,FC Nantes
+Wed Jun 16 1976,Olympique Marseille,4-3,SC Bastia
+Wed Jun 16 1976,RC Lens,1-0,Stade Reims
+Wed Jun 16 1976,Nimes Olympique,2-2,As Nancy
+Wed Jun 16 1976,FC Metz,3-1,Olympique Lyon
+Wed Jun 16 1976,Paris Saint Germain,1-2,As Monaco
+Wed Jun 16 1976,Estac Troyes,4-0,Valenciennes FC
+Sat Jun 19 1976,Stade Reims,3-2,As Saint Etienne
+Sat Jun 19 1976,FC Sochaux,0-0,OGC Nice
+Sat Jun 19 1976,FC Nantes,1-0,Nimes Olympique
+Sat Jun 19 1976,Paris Saint Germain,1-1,SC Bastia
+Sat Jun 19 1976,Avignon Foot 84,2-1,Olympique Marseille
+Sat Jun 19 1976,FC Metz,2-1,RC Lens
+Sat Jun 19 1976,RC Strasbourg,0-2,Girondins Bordeaux
+Sat Jun 19 1976,Valenciennes FC,2-0,As Nancy
+Sat Jun 19 1976,As Monaco,3-4,Lille OSC
+Sat Jun 19 1976,Olympique Lyon,2-0,Estac Troyes

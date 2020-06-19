@@ -1,0 +1,241 @@
+Date,Team 1,FT,Team 2
+Sun Oct 5 1975,Bologna FC,1-0,Torino FC
+Sun Oct 5 1975,Inter,0-0,Ac Cesena
+Sun Oct 5 1975,Juventus,2-1,Hellas Verona
+Sun Oct 5 1975,Ssc Napoli,1-0,Calcio Como
+Sun Oct 5 1975,Ac Perugia Calcio,0-0,AC Milan
+Sun Oct 5 1975,As Roma,1-1,Cagliari Calcio
+Sun Oct 5 1975,Sampdoria,0-1,Lazio Roma
+Sun Oct 5 1975,Ascoli Calcio,1-0,Acf Fiorentina
+Sun Oct 12 1975,Lazio Roma,1-1,Inter
+Sun Oct 12 1975,Hellas Verona,1-0,Bologna FC
+Sun Oct 12 1975,AC Milan,1-0,Sampdoria
+Sun Oct 12 1975,Cagliari Calcio,0-0,Ascoli Calcio
+Sun Oct 12 1975,Calcio Como,2-2,Juventus
+Sun Oct 12 1975,Ac Cesena,2-0,As Roma
+Sun Oct 12 1975,Acf Fiorentina,1-1,Ssc Napoli
+Sun Oct 12 1975,Torino FC,3-0,Ac Perugia Calcio
+Sun Oct 19 1975,Inter,1-0,Cagliari Calcio
+Sun Oct 19 1975,Sampdoria,1-0,Calcio Como
+Sun Oct 19 1975,As Roma,2-0,Hellas Verona
+Sun Oct 19 1975,Ac Perugia Calcio,2-0,Lazio Roma
+Sun Oct 19 1975,Juventus,4-2,Acf Fiorentina
+Sun Oct 19 1975,Bologna FC,1-1,AC Milan
+Sun Oct 19 1975,Ascoli Calcio,1-1,Torino FC
+Sun Oct 19 1975,Ssc Napoli,2-0,Ac Cesena
+Sun Nov 2 1975,AC Milan,4-0,Ascoli Calcio
+Sun Nov 2 1975,Lazio Roma,1-1,Bologna FC
+Sun Nov 2 1975,Hellas Verona,2-4,Ssc Napoli
+Sun Nov 2 1975,Cagliari Calcio,0-1,Juventus
+Sun Nov 2 1975,Calcio Como,0-0,As Roma
+Sun Nov 2 1975,Acf Fiorentina,3-1,Ac Perugia Calcio
+Sun Nov 2 1975,Ac Cesena,1-1,Sampdoria
+Sun Nov 2 1975,Torino FC,2-1,Inter
+Sun Nov 9 1975,Inter,3-0,Hellas Verona
+Sun Nov 9 1975,Sampdoria,0-0,Torino FC
+Sun Nov 9 1975,As Roma,0-0,AC Milan
+Sun Nov 9 1975,Ac Perugia Calcio,2-0,Calcio Como
+Sun Nov 9 1975,Juventus,2-0,Lazio Roma
+Sun Nov 9 1975,Bologna FC,1-1,Acf Fiorentina
+Sun Nov 9 1975,Ascoli Calcio,0-0,Ac Cesena
+Sun Nov 9 1975,Ssc Napoli,3-1,Cagliari Calcio
+Sun Nov 16 1975,Calcio Como,3-0,Inter
+Sun Nov 16 1975,Torino FC,3-1,Ssc Napoli
+Sun Nov 16 1975,AC Milan,0-1,Juventus
+Sun Nov 16 1975,Hellas Verona,1-0,Ascoli Calcio
+Sun Nov 16 1975,Acf Fiorentina,0-1,Sampdoria
+Sun Nov 16 1975,Ac Cesena,2-1,Ac Perugia Calcio
+Sun Nov 16 1975,Cagliari Calcio,1-2,Bologna FC
+Sun Nov 16 1975,Lazio Roma,1-1,As Roma
+Sun Nov 30 1975,Ascoli Calcio,2-1,Lazio Roma
+Sun Nov 30 1975,Bologna FC,1-1,Calcio Como
+Sun Nov 30 1975,Cagliari Calcio,0-0,Ac Perugia Calcio
+Sun Nov 30 1975,Inter,1-0,Acf Fiorentina
+Sun Nov 30 1975,Juventus,3-3,Ac Cesena
+Sun Nov 30 1975,Ssc Napoli,1-0,AC Milan
+Sun Nov 30 1975,As Roma,1-1,Torino FC
+Sun Nov 30 1975,Hellas Verona,4-1,Sampdoria
+Sun Dec 7 1975,AC Milan,2-1,Inter
+Sun Dec 7 1975,Ac Perugia Calcio,1-0,Hellas Verona
+Sun Dec 7 1975,Sampdoria,2-1,Cagliari Calcio
+Sun Dec 7 1975,Acf Fiorentina,2-0,As Roma
+Sun Dec 7 1975,Ac Cesena,0-0,Bologna FC
+Sun Dec 7 1975,Calcio Como,0-0,Ascoli Calcio
+Sun Dec 7 1975,Lazio Roma,0-1,Ssc Napoli
+Sun Dec 7 1975,Torino FC,2-0,Juventus
+Sun Dec 14 1975,Calcio Como,0-1,Acf Fiorentina
+Sun Dec 14 1975,Hellas Verona,2-2,Lazio Roma
+Sun Dec 14 1975,As Roma,1-0,Sampdoria
+Sun Dec 14 1975,Ssc Napoli,0-0,Ascoli Calcio
+Sun Dec 14 1975,Juventus,2-0,Inter
+Sun Dec 14 1975,Cagliari Calcio,1-2,Ac Cesena
+Sun Dec 14 1975,Bologna FC,1-1,Ac Perugia Calcio
+Sun Dec 14 1975,AC Milan,1-2,Torino FC
+Sun Dec 21 1975,Acf Fiorentina,0-1,AC Milan
+Sun Dec 21 1975,Torino FC,1-0,Calcio Como
+Sun Dec 21 1975,Sampdoria,0-1,Bologna FC
+Sun Dec 21 1975,Ac Perugia Calcio,0-1,As Roma
+Sun Dec 21 1975,Ac Cesena,3-0,Hellas Verona
+Sun Dec 21 1975,Ascoli Calcio,0-3,Juventus
+Sun Dec 21 1975,Lazio Roma,3-0,Cagliari Calcio
+Sun Dec 21 1975,Inter,2-1,Ssc Napoli
+Tue Dec 30 1975,Inter,3-0,Ascoli Calcio
+Tue Dec 30 1975,Hellas Verona,2-1,Cagliari Calcio
+Tue Dec 30 1975,Ac Perugia Calcio,0-0,Sampdoria
+Tue Dec 30 1975,Juventus,2-1,Ssc Napoli
+Tue Dec 30 1975,Acf Fiorentina,0-1,Torino FC
+Tue Dec 30 1975,Calcio Como,1-4,AC Milan
+Tue Dec 30 1975,Bologna FC,2-1,As Roma
+Tue Dec 30 1975,Lazio Roma,2-2,Ac Cesena
+Mon Jan 12 1976,Ac Cesena,1-1,Acf Fiorentina
+Mon Jan 12 1976,Sampdoria,0-2,Inter
+Mon Jan 12 1976,As Roma,0-1,Juventus
+Mon Jan 12 1976,Torino FC,2-1,Lazio Roma
+Mon Jan 12 1976,Cagliari Calcio,1-0,Calcio Como
+Mon Jan 12 1976,Ascoli Calcio,1-2,Ac Perugia Calcio
+Mon Jan 12 1976,Ssc Napoli,2-2,Bologna FC
+Mon Jan 12 1976,AC Milan,1-0,Hellas Verona
+Sun Jan 18 1976,Inter,2-2,Ac Perugia Calcio
+Sun Jan 18 1976,Hellas Verona,3-2,Calcio Como
+Sun Jan 18 1976,Ssc Napoli,2-1,As Roma
+Sun Jan 18 1976,Juventus,1-0,Bologna FC
+Sun Jan 18 1976,Ac Cesena,2-1,AC Milan
+Sun Jan 18 1976,Cagliari Calcio,0-0,Torino FC
+Sun Jan 18 1976,Ascoli Calcio,1-1,Sampdoria
+Sun Jan 18 1976,Lazio Roma,1-2,Acf Fiorentina
+Sun Jan 25 1976,AC Milan,3-0,Lazio Roma
+Sun Jan 25 1976,Sampdoria,0-2,Juventus
+Sun Jan 25 1976,Torino FC,4-2,Hellas Verona
+Sun Jan 25 1976,Ac Perugia Calcio,2-2,Ssc Napoli
+Sun Jan 25 1976,Calcio Como,0-0,Ac Cesena
+Sun Jan 25 1976,Bologna FC,1-1,Ascoli Calcio
+Sun Jan 25 1976,As Roma,1-1,Inter
+Sun Jan 25 1976,Acf Fiorentina,3-0,Cagliari Calcio
+Mon Feb 2 1976,Inter,1-1,Bologna FC
+Mon Feb 2 1976,Hellas Verona,1-2,Acf Fiorentina
+Mon Feb 2 1976,Ssc Napoli,0-0,Sampdoria
+Mon Feb 2 1976,Juventus,1-0,Ac Perugia Calcio
+Mon Feb 2 1976,Ac Cesena,1-1,Torino FC
+Mon Feb 2 1976,Cagliari Calcio,1-3,AC Milan
+Mon Feb 2 1976,Ascoli Calcio,0-0,As Roma
+Mon Feb 2 1976,Lazio Roma,3-2,Calcio Como
+Mon Feb 9 1976,AC Milan,0-0,Ac Perugia Calcio
+Mon Feb 9 1976,Ac Cesena,2-3,Inter
+Mon Feb 9 1976,Hellas Verona,1-2,Juventus
+Mon Feb 9 1976,Torino FC,3-1,Bologna FC
+Mon Feb 9 1976,Cagliari Calcio,1-5,As Roma
+Mon Feb 9 1976,Calcio Como,0-1,Ssc Napoli
+Mon Feb 9 1976,Acf Fiorentina,0-0,Ascoli Calcio
+Mon Feb 9 1976,Lazio Roma,1-1,Sampdoria
+Sun Feb 15 1976,Juventus,1-1,Calcio Como
+Sun Feb 15 1976,Sampdoria,0-1,AC Milan
+Sun Feb 15 1976,As Roma,2-2,Ac Cesena
+Sun Feb 15 1976,Ssc Napoli,1-2,Acf Fiorentina
+Sun Feb 15 1976,Inter,1-0,Lazio Roma
+Sun Feb 15 1976,Bologna FC,0-0,Hellas Verona
+Sun Feb 15 1976,Ascoli Calcio,1-1,Cagliari Calcio
+Sun Feb 15 1976,Ac Perugia Calcio,2-1,Torino FC
+Sun Feb 22 1976,Acf Fiorentina,1-1,Juventus
+Sun Feb 22 1976,Lazio Roma,1-0,Ac Perugia Calcio
+Sun Feb 22 1976,Hellas Verona,0-1,As Roma
+Sun Feb 22 1976,Torino FC,3-1,Ascoli Calcio
+Sun Feb 22 1976,Cagliari Calcio,0-0,Inter
+Sun Feb 22 1976,Calcio Como,0-0,Sampdoria
+Sun Feb 22 1976,Ac Cesena,0-1,Ssc Napoli
+Sun Feb 22 1976,AC Milan,3-1,Bologna FC
+Sat Feb 28 1976,Juventus,1-0,Cagliari Calcio
+Sat Feb 28 1976,Sampdoria,0-1,Ac Cesena
+Sat Feb 28 1976,As Roma,2-1,Calcio Como
+Sat Feb 28 1976,Ssc Napoli,0-1,Hellas Verona
+Sat Feb 28 1976,Inter,1-0,Torino FC
+Sat Feb 28 1976,Bologna FC,1-0,Lazio Roma
+Sat Feb 28 1976,Ascoli Calcio,0-1,AC Milan
+Sat Feb 28 1976,Ac Perugia Calcio,2-1,Acf Fiorentina
+Sun Mar 7 1976,Acf Fiorentina,1-2,Bologna FC
+Sun Mar 7 1976,Lazio Roma,1-2,Juventus
+Sun Mar 7 1976,Hellas Verona,1-1,Inter
+Sun Mar 7 1976,Torino FC,2-0,Sampdoria
+Sun Mar 7 1976,Cagliari Calcio,1-1,Ssc Napoli
+Sun Mar 7 1976,Calcio Como,0-0,Ac Perugia Calcio
+Sun Mar 7 1976,Ac Cesena,3-1,Ascoli Calcio
+Sun Mar 7 1976,AC Milan,1-0,As Roma
+Sun Mar 14 1976,Juventus,1-1,AC Milan
+Sun Mar 14 1976,Sampdoria,0-0,Acf Fiorentina
+Sun Mar 14 1976,As Roma,0-0,Lazio Roma
+Sun Mar 14 1976,Ssc Napoli,0-0,Torino FC
+Sun Mar 14 1976,Inter,2-1,Calcio Como
+Sun Mar 14 1976,Bologna FC,0-0,Cagliari Calcio
+Sun Mar 14 1976,Ascoli Calcio,2-0,Hellas Verona
+Sun Mar 14 1976,Ac Perugia Calcio,1-0,Ac Cesena
+Sun Mar 21 1976,Lazio Roma,3-1,Ascoli Calcio
+Sun Mar 21 1976,AC Milan,1-1,Ssc Napoli
+Sun Mar 21 1976,Torino FC,1-0,As Roma
+Sun Mar 21 1976,Sampdoria,2-0,Hellas Verona
+Sun Mar 21 1976,Acf Fiorentina,0-0,Inter
+Sun Mar 21 1976,Calcio Como,2-1,Bologna FC
+Sun Mar 21 1976,Ac Cesena,2-1,Juventus
+Sun Mar 21 1976,Ac Perugia Calcio,4-1,Cagliari Calcio
+Sun Mar 28 1976,Inter,0-1,AC Milan
+Sun Mar 28 1976,As Roma,2-2,Acf Fiorentina
+Sun Mar 28 1976,Juventus,0-2,Torino FC
+Sun Mar 28 1976,Hellas Verona,3-1,Ac Perugia Calcio
+Sun Mar 28 1976,Cagliari Calcio,5-3,Sampdoria
+Sun Mar 28 1976,Bologna FC,5-3,Ac Cesena
+Sun Mar 28 1976,Ascoli Calcio,1-1,Calcio Como
+Sun Mar 28 1976,Ssc Napoli,1-0,Lazio Roma
+Sun Apr 4 1976,Lazio Roma,1-1,Hellas Verona
+Sun Apr 4 1976,Sampdoria,1-0,As Roma
+Sun Apr 4 1976,Torino FC,2-1,AC Milan
+Sun Apr 4 1976,Ac Perugia Calcio,1-1,Bologna FC
+Sun Apr 4 1976,Acf Fiorentina,0-2,Calcio Como
+Sun Apr 4 1976,Ascoli Calcio,0-0,Ssc Napoli
+Sun Apr 4 1976,Ac Cesena,0-0,Cagliari Calcio
+Sun Apr 4 1976,Inter,1-0,Juventus
+Sun Apr 11 1976,Juventus,2-1,Ascoli Calcio
+Sun Apr 11 1976,Hellas Verona,2-2,Ac Cesena
+Sun Apr 11 1976,As Roma,1-2,Ac Perugia Calcio
+Sun Apr 11 1976,AC Milan,2-1,Acf Fiorentina
+Sun Apr 11 1976,Calcio Como,0-1,Torino FC
+Sun Apr 11 1976,Cagliari Calcio,2-1,Lazio Roma
+Sun Apr 11 1976,Bologna FC,1-0,Sampdoria
+Sun Apr 11 1976,Ssc Napoli,3-1,Inter
+Sun Apr 18 1976,AC Milan,2-2,Calcio Como
+Sun Apr 18 1976,Ssc Napoli,1-1,Juventus
+Sun Apr 18 1976,Torino FC,4-3,Acf Fiorentina
+Sun Apr 18 1976,Sampdoria,3-1,Ac Perugia Calcio
+Sun Apr 18 1976,Ascoli Calcio,2-0,Inter
+Sun Apr 18 1976,Ac Cesena,0-0,Lazio Roma
+Sun Apr 18 1976,Cagliari Calcio,0-2,Hellas Verona
+Sun Apr 18 1976,As Roma,0-0,Bologna FC
+Sun Apr 25 1976,Inter,2-1,Sampdoria
+Sun Apr 25 1976,Ac Perugia Calcio,1-1,Ascoli Calcio
+Sun Apr 25 1976,Juventus,1-1,As Roma
+Sun Apr 25 1976,Hellas Verona,2-2,AC Milan
+Sun Apr 25 1976,Acf Fiorentina,3-1,Ac Cesena
+Sun Apr 25 1976,Calcio Como,3-0,Cagliari Calcio
+Sun Apr 25 1976,Bologna FC,2-0,Ssc Napoli
+Sun Apr 25 1976,Lazio Roma,1-1,Torino FC
+Sun May 2 1976,Ac Perugia Calcio,1-1,Inter
+Sun May 2 1976,Sampdoria,1-0,Ascoli Calcio
+Sun May 2 1976,Torino FC,5-1,Cagliari Calcio
+Sun May 2 1976,As Roma,0-3,Ssc Napoli
+Sun May 2 1976,Acf Fiorentina,4-3,Lazio Roma
+Sun May 2 1976,Bologna FC,1-4,Juventus
+Sun May 2 1976,AC Milan,2-1,Ac Cesena
+Sun May 2 1976,Calcio Como,2-1,Hellas Verona
+Sun May 9 1976,Hellas Verona,0-0,Torino FC
+Sun May 9 1976,Ascoli Calcio,0-0,Bologna FC
+Sun May 9 1976,Cagliari Calcio,2-1,Acf Fiorentina
+Sun May 9 1976,Ac Cesena,2-0,Calcio Como
+Sun May 9 1976,Inter,2-0,As Roma
+Sun May 9 1976,Juventus,2-0,Sampdoria
+Sun May 9 1976,Lazio Roma,4-0,AC Milan
+Sun May 9 1976,Ssc Napoli,4-0,Ac Perugia Calcio
+Sun May 16 1976,Sampdoria,2-1,Ssc Napoli
+Sun May 16 1976,As Roma,1-1,Ascoli Calcio
+Sun May 16 1976,Ac Perugia Calcio,1-0,Juventus
+Sun May 16 1976,AC Milan,2-3,Cagliari Calcio
+Sun May 16 1976,Acf Fiorentina,2-2,Hellas Verona
+Sun May 16 1976,Bologna FC,1-2,Inter
+Sun May 16 1976,Torino FC,1-1,Ac Cesena
+Sun May 16 1976,Calcio Como,2-2,Lazio Roma

@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sun Sep 18 1955,Bologna FC,4-1,Genoa CFc
+Sun Sep 18 1955,Inter,2-0,Novara Calcio
+Sun Sep 18 1955,Juventus,2-2,SPAL Ferrara
+Sun Sep 18 1955,Ssc Napoli,2-2,Torino FC
+Sun Sep 18 1955,Calcio Padova,1-2,Lazio Roma
+Sun Sep 18 1955,Pro Patria,2-2,Acf Fiorentina
+Sun Sep 18 1955,As Roma,4-1,Vicenza Calcio
+Sun Sep 18 1955,Sampdoria,1-0,Unione Triestina
+Sun Sep 18 1955,Atalanta,4-3,AC Milan
+Sun Sep 25 1955,Genoa CFc,3-3,As Roma
+Sun Sep 25 1955,Unione Triestina,1-1,Juventus
+Sun Sep 25 1955,Torino FC,1-0,Bologna FC
+Sun Sep 25 1955,SPAL Ferrara,2-1,Pro Patria
+Sun Sep 25 1955,Novara Calcio,1-0,Ssc Napoli
+Sun Sep 25 1955,AC Milan,6-1,Sampdoria
+Sun Sep 25 1955,Vicenza Calcio,0-2,Inter
+Sun Sep 25 1955,Acf Fiorentina,1-0,Calcio Padova
+Sun Sep 25 1955,Lazio Roma,2-2,Atalanta
+Sun Oct 2 1955,Calcio Padova,1-5,AC Milan
+Sun Oct 2 1955,Bologna FC,3-2,Novara Calcio
+Sun Oct 2 1955,Unione Triestina,1-0,Lazio Roma
+Sun Oct 2 1955,Sampdoria,1-3,Vicenza Calcio
+Sun Oct 2 1955,As Roma,1-1,SPAL Ferrara
+Sun Oct 2 1955,Atalanta,1-2,Torino FC
+Sun Oct 2 1955,Inter,4-0,Pro Patria
+Sun Oct 2 1955,Juventus,0-4,Acf Fiorentina
+Sun Oct 2 1955,Ssc Napoli,2-1,Genoa CFc
+Sun Oct 9 1955,AC Milan,0-0,Ssc Napoli
+Sun Oct 9 1955,Torino FC,0-0,Juventus
+Sun Oct 9 1955,SPAL Ferrara,4-0,Unione Triestina
+Sun Oct 9 1955,Novara Calcio,2-2,As Roma
+Sun Oct 9 1955,Lazio Roma,1-2,Sampdoria
+Sun Oct 9 1955,Vicenza Calcio,0-0,Calcio Padova
+Sun Oct 9 1955,Genoa CFc,2-1,Atalanta
+Sun Oct 9 1955,Acf Fiorentina,0-0,Inter
+Sun Oct 9 1955,Pro Patria,2-2,Bologna FC
+Sun Oct 16 1955,Bologna FC,0-2,Acf Fiorentina
+Sun Oct 16 1955,Calcio Padova,2-1,Genoa CFc
+Sun Oct 16 1955,Torino FC,0-0,Vicenza Calcio
+Sun Oct 16 1955,Sampdoria,2-0,Juventus
+Sun Oct 16 1955,As Roma,0-0,Lazio Roma
+Sun Oct 16 1955,Atalanta,2-0,Unione Triestina
+Sun Oct 16 1955,AC Milan,1-2,Inter
+Sun Oct 16 1955,Ssc Napoli,8-1,Pro Patria
+Sun Oct 16 1955,Novara Calcio,1-1,SPAL Ferrara
+Sun Oct 23 1955,Juventus,2-2,Novara Calcio
+Sun Oct 23 1955,Unione Triestina,1-3,AC Milan
+Sun Oct 23 1955,SPAL Ferrara,2-1,Bologna FC
+Sun Oct 23 1955,Calcio Padova,2-1,Pro Patria
+Sun Oct 23 1955,Lazio Roma,1-3,Vicenza Calcio
+Sun Oct 23 1955,Inter,1-0,Torino FC
+Sun Oct 23 1955,Genoa CFc,2-1,Sampdoria
+Sun Oct 23 1955,Acf Fiorentina,4-1,Atalanta
+Sun Oct 23 1955,Ssc Napoli,1-1,As Roma
+Sun Oct 30 1955,AC Milan,2-0,SPAL Ferrara
+Sun Oct 30 1955,Sampdoria,3-2,Inter
+Sun Oct 30 1955,As Roma,1-1,Juventus
+Sun Oct 30 1955,Torino FC,5-0,Unione Triestina
+Sun Oct 30 1955,Vicenza Calcio,1-1,Acf Fiorentina
+Sun Oct 30 1955,Bologna FC,0-2,Lazio Roma
+Sun Oct 30 1955,Atalanta,1-2,Ssc Napoli
+Sun Oct 30 1955,Pro Patria,1-0,Genoa CFc
+Sun Oct 30 1955,Novara Calcio,3-0,Calcio Padova
+Sun Nov 6 1955,Juventus,2-1,Atalanta
+Sun Nov 6 1955,Unione Triestina,1-0,Pro Patria
+Sun Nov 6 1955,SPAL Ferrara,1-1,Sampdoria
+Sun Nov 6 1955,As Roma,1-1,Calcio Padova
+Sun Nov 6 1955,Vicenza Calcio,0-0,Novara Calcio
+Sun Nov 6 1955,Inter,2-3,Lazio Roma
+Sun Nov 6 1955,Genoa CFc,3-1,AC Milan
+Sun Nov 6 1955,Acf Fiorentina,2-0,Torino FC
+Sun Nov 6 1955,Ssc Napoli,3-3,Bologna FC
+Sun Nov 13 1955,Calcio Padova,4-0,Unione Triestina
+Sun Nov 13 1955,AC Milan,0-0,Vicenza Calcio
+Sun Nov 13 1955,Pro Patria,3-5,As Roma
+Sun Nov 13 1955,Novara Calcio,1-1,Acf Fiorentina
+Sun Nov 13 1955,Juventus,1-0,Genoa CFc
+Sun Nov 13 1955,Atalanta,4-3,SPAL Ferrara
+Sun Nov 13 1955,Bologna FC,2-3,Inter
+Sun Nov 13 1955,Sampdoria,3-0,Ssc Napoli
+Sun Nov 13 1955,Lazio Roma,0-1,Torino FC
+Sun Nov 20 1955,Ssc Napoli,1-1,Juventus
+Sun Nov 20 1955,Unione Triestina,0-0,Novara Calcio
+Sun Nov 20 1955,Torino FC,6-0,Pro Patria
+Sun Nov 20 1955,SPAL Ferrara,1-0,Lazio Roma
+Sun Nov 20 1955,As Roma,1-0,Inter
+Sun Nov 20 1955,AC Milan,0-2,Acf Fiorentina
+Sun Nov 20 1955,Vicenza Calcio,2-1,Genoa CFc
+Sun Nov 20 1955,Atalanta,1-0,Bologna FC
+Sun Nov 20 1955,Sampdoria,0-1,Calcio Padova
+Thu Dec 8 1955,Vicenza Calcio,2-0,SPAL Ferrara
+Thu Dec 8 1955,Novara Calcio,1-2,Sampdoria
+Thu Dec 8 1955,Pro Patria,1-1,AC Milan
+Thu Dec 8 1955,Lazio Roma,1-1,Ssc Napoli
+Thu Dec 8 1955,Inter,1-2,Atalanta
+Thu Dec 8 1955,Genoa CFc,3-1,Torino FC
+Thu Dec 8 1955,Bologna FC,3-1,Unione Triestina
+Thu Dec 8 1955,Acf Fiorentina,2-0,As Roma
+Thu Dec 8 1955,Juventus,3-0,Calcio Padova
+Sun Dec 25 1955,SPAL Ferrara,1-2,Ssc Napoli
+Sun Dec 25 1955,Atalanta,4-1,Sampdoria
+Sun Dec 25 1955,Torino FC,2-1,As Roma
+Sun Dec 25 1955,Pro Patria,0-1,Vicenza Calcio
+Sun Dec 25 1955,Calcio Padova,3-1,Bologna FC
+Sun Dec 25 1955,Lazio Roma,2-0,Novara Calcio
+Sun Dec 25 1955,Genoa CFc,4-3,Inter
+Sun Dec 25 1955,Acf Fiorentina,1-0,Unione Triestina
+Sun Dec 25 1955,AC Milan,3-1,Juventus
+Sun Jan 1 1956,Ssc Napoli,2-4,Acf Fiorentina
+Sun Jan 1 1956,Unione Triestina,2-0,Genoa CFc
+Sun Jan 1 1956,SPAL Ferrara,1-2,Torino FC
+Sun Jan 1 1956,Sampdoria,7-0,Pro Patria
+Sun Jan 1 1956,Inter,0-1,Calcio Padova
+Sun Jan 1 1956,Novara Calcio,3-4,AC Milan
+Sun Jan 1 1956,Vicenza Calcio,2-3,Bologna FC
+Sun Jan 1 1956,Juventus,1-0,Lazio Roma
+Sun Jan 1 1956,As Roma,3-2,Atalanta
+Sun Jan 8 1956,Lazio Roma,2-0,Pro Patria
+Sun Jan 8 1956,Calcio Padova,2-0,Torino FC
+Sun Jan 8 1956,Unione Triestina,2-1,Ssc Napoli
+Sun Jan 8 1956,AC Milan,4-1,As Roma
+Sun Jan 8 1956,Genoa CFc,2-0,Novara Calcio
+Sun Jan 8 1956,Acf Fiorentina,0-0,SPAL Ferrara
+Sun Jan 8 1956,Atalanta,3-0,Vicenza Calcio
+Sun Jan 8 1956,Bologna FC,5-2,Sampdoria
+Sun Jan 8 1956,Juventus,1-0,Inter
+Sun Jan 15 1956,Vicenza Calcio,0-0,Ssc Napoli
+Sun Jan 15 1956,Torino FC,1-1,AC Milan
+Sun Jan 15 1956,SPAL Ferrara,2-0,Calcio Padova
+Sun Jan 15 1956,As Roma,2-0,Bologna FC
+Sun Jan 15 1956,Novara Calcio,2-1,Atalanta
+Sun Jan 15 1956,Inter,0-0,Unione Triestina
+Sun Jan 15 1956,Genoa CFc,3-3,Lazio Roma
+Sun Jan 15 1956,Acf Fiorentina,0-0,Sampdoria
+Sun Jan 15 1956,Pro Patria,2-2,Juventus
+Sun Jan 22 1956,Ssc Napoli,0-2,Inter
+Sun Jan 22 1956,SPAL Ferrara,1-0,Genoa CFc
+Sun Jan 22 1956,Sampdoria,0-0,Torino FC
+Sun Jan 22 1956,Unione Triestina,0-0,As Roma
+Sun Jan 22 1956,AC Milan,3-0,Bologna FC
+Sun Jan 22 1956,Lazio Roma,2-2,Acf Fiorentina
+Sun Jan 22 1956,Juventus,0-0,Vicenza Calcio
+Sun Jan 22 1956,Pro Patria,0-0,Novara Calcio
+Sun Jan 22 1956,Calcio Padova,5-1,Atalanta
+Sun Jan 29 1956,Inter,3-1,SPAL Ferrara
+Sun Jan 29 1956,Torino FC,2-1,Novara Calcio
+Sun Jan 29 1956,Sampdoria,1-0,As Roma
+Sun Jan 29 1956,Ssc Napoli,1-0,Calcio Padova
+Sun Jan 29 1956,Lazio Roma,2-3,AC Milan
+Sun Jan 29 1956,Acf Fiorentina,3-1,Genoa CFc
+Sun Jan 29 1956,Bologna FC,0-1,Juventus
+Sun Jan 29 1956,Atalanta,4-1,Pro Patria
+Sun Jan 29 1956,Vicenza Calcio,1-1,Unione Triestina
+Sun Feb 12 1956,Novara Calcio,2-2,Inter
+Sun Feb 12 1956,Genoa CFc,2-1,Bologna FC
+Sun Feb 12 1956,Unione Triestina,0-0,Sampdoria
+Sun Feb 12 1956,Torino FC,1-4,Ssc Napoli
+Sun Feb 12 1956,SPAL Ferrara,0-0,Juventus
+Sun Feb 12 1956,Acf Fiorentina,4-1,Pro Patria
+Sun Feb 12 1956,Vicenza Calcio,2-0,As Roma
+Sun Feb 12 1956,Lazio Roma,3-1,Calcio Padova
+Sun Feb 12 1956,AC Milan,4-1,Atalanta
+Sun Feb 19 1956,Juventus,0-1,Unione Triestina
+Sun Feb 19 1956,As Roma,2-0,Genoa CFc
+Sun Feb 19 1956,Pro Patria,1-2,SPAL Ferrara
+Sun Feb 19 1956,Ssc Napoli,0-2,Novara Calcio
+Sun Feb 19 1956,Sampdoria,2-2,AC Milan
+Sun Feb 19 1956,Inter,1-0,Vicenza Calcio
+Sun Feb 19 1956,Bologna FC,6-1,Torino FC
+Sun Feb 19 1956,Atalanta,1-1,Lazio Roma
+Sun Feb 19 1956,Calcio Padova,0-1,Acf Fiorentina
+Sun Feb 26 1956,AC Milan,4-1,Calcio Padova
+Sun Feb 26 1956,SPAL Ferrara,1-0,As Roma
+Sun Feb 26 1956,Pro Patria,0-4,Inter
+Sun Feb 26 1956,Novara Calcio,2-0,Bologna FC
+Sun Feb 26 1956,Vicenza Calcio,0-0,Sampdoria
+Sun Feb 26 1956,Lazio Roma,1-1,Unione Triestina
+Sun Feb 26 1956,Acf Fiorentina,2-0,Juventus
+Sun Feb 26 1956,Torino FC,1-3,Atalanta
+Sun Feb 26 1956,Genoa CFc,3-1,Ssc Napoli
+Sun Mar 4 1956,Calcio Padova,3-1,Vicenza Calcio
+Sun Mar 4 1956,Unione Triestina,3-1,SPAL Ferrara
+Sun Mar 4 1956,Sampdoria,1-1,Lazio Roma
+Sun Mar 4 1956,As Roma,2-1,Novara Calcio
+Sun Mar 4 1956,Juventus,0-2,Torino FC
+Sun Mar 4 1956,Inter,1-3,Acf Fiorentina
+Sun Mar 4 1956,Atalanta,2-2,Genoa CFc
+Sun Mar 4 1956,Bologna FC,6-1,Pro Patria
+Sun Mar 4 1956,Ssc Napoli,2-0,AC Milan
+Sun Mar 11 1956,Juventus,2-2,Sampdoria
+Sun Mar 11 1956,Unione Triestina,0-0,Atalanta
+Sun Mar 11 1956,SPAL Ferrara,2-0,Novara Calcio
+Sun Mar 11 1956,Pro Patria,0-0,Ssc Napoli
+Sun Mar 11 1956,Vicenza Calcio,1-0,Torino FC
+Sun Mar 11 1956,Inter,2-1,AC Milan
+Sun Mar 11 1956,Genoa CFc,0-0,Calcio Padova
+Sun Mar 11 1956,Acf Fiorentina,0-0,Bologna FC
+Sun Mar 11 1956,Lazio Roma,1-0,As Roma
+Sun Mar 18 1956,Pro Patria,0-2,Calcio Padova
+Sun Mar 18 1956,Torino FC,0-2,Inter
+Sun Mar 18 1956,Sampdoria,0-0,Genoa CFc
+Sun Mar 18 1956,As Roma,2-1,Ssc Napoli
+Sun Mar 18 1956,AC Milan,1-0,Unione Triestina
+Sun Mar 18 1956,Vicenza Calcio,0-1,Lazio Roma
+Sun Mar 18 1956,Bologna FC,2-2,SPAL Ferrara
+Sun Mar 18 1956,Atalanta,0-0,Acf Fiorentina
+Sun Mar 18 1956,Novara Calcio,0-0,Juventus
+Sun Mar 25 1956,Juventus,0-0,As Roma
+Sun Mar 25 1956,Unione Triestina,1-0,Torino FC
+Sun Mar 25 1956,SPAL Ferrara,0-0,AC Milan
+Sun Mar 25 1956,Calcio Padova,2-1,Novara Calcio
+Sun Mar 25 1956,Lazio Roma,2-2,Bologna FC
+Sun Mar 25 1956,Inter,7-1,Sampdoria
+Sun Mar 25 1956,Genoa CFc,3-0,Pro Patria
+Sun Mar 25 1956,Acf Fiorentina,2-0,Vicenza Calcio
+Sun Mar 25 1956,Ssc Napoli,0-3,Atalanta
+Sun Apr 1 1956,AC Milan,3-2,Genoa CFc
+Sun Apr 1 1956,Sampdoria,3-1,SPAL Ferrara
+Sun Apr 1 1956,Pro Patria,1-4,Unione Triestina
+Sun Apr 1 1956,Torino FC,0-1,Acf Fiorentina
+Sun Apr 1 1956,Lazio Roma,2-2,Inter
+Sun Apr 1 1956,Bologna FC,3-1,Ssc Napoli
+Sun Apr 1 1956,Atalanta,1-1,Juventus
+Sun Apr 1 1956,Calcio Padova,2-0,As Roma
+Sun Apr 1 1956,Novara Calcio,2-0,Vicenza Calcio
+Sun Apr 8 1956,Vicenza Calcio,1-3,AC Milan
+Sun Apr 8 1956,Unione Triestina,1-0,Calcio Padova
+Sun Apr 8 1956,Torino FC,2-2,Lazio Roma
+Sun Apr 8 1956,SPAL Ferrara,0-0,Atalanta
+Sun Apr 8 1956,Ssc Napoli,3-1,Sampdoria
+Sun Apr 8 1956,Inter,0-3,Bologna FC
+Sun Apr 8 1956,Genoa CFc,0-0,Juventus
+Sun Apr 8 1956,Acf Fiorentina,4-2,Novara Calcio
+Sun Apr 8 1956,As Roma,1-0,Pro Patria
+Sun Apr 15 1956,Lazio Roma,3-0,SPAL Ferrara
+Sun Apr 15 1956,Calcio Padova,1-3,Sampdoria
+Sun Apr 15 1956,Pro Patria,1-1,Torino FC
+Sun Apr 15 1956,Novara Calcio,0-1,Unione Triestina
+Sun Apr 15 1956,Inter,1-1,As Roma
+Sun Apr 15 1956,Genoa CFc,2-2,Vicenza Calcio
+Sun Apr 15 1956,Bologna FC,1-0,Atalanta
+Sun Apr 15 1956,Acf Fiorentina,3-0,AC Milan
+Sun Apr 15 1956,Juventus,0-1,Ssc Napoli
+Sun Apr 29 1956,Calcio Padova,1-1,Juventus
+Sun Apr 29 1956,Unione Triestina,1-3,Bologna FC
+Sun Apr 29 1956,Torino FC,2-2,Genoa CFc
+Sun Apr 29 1956,SPAL Ferrara,5-0,Vicenza Calcio
+Sun Apr 29 1956,As Roma,1-1,Acf Fiorentina
+Sun Apr 29 1956,Ssc Napoli,1-2,Lazio Roma
+Sun Apr 29 1956,AC Milan,3-3,Pro Patria
+Sun Apr 29 1956,Atalanta,1-1,Inter
+Sun Apr 29 1956,Sampdoria,1-1,Novara Calcio
+Sun May 6 1956,Vicenza Calcio,1-1,Pro Patria
+Sun May 6 1956,Unione Triestina,1-1,Acf Fiorentina
+Sun May 6 1956,Sampdoria,4-0,Atalanta
+Sun May 6 1956,As Roma,2-1,Torino FC
+Sun May 6 1956,Juventus,0-0,AC Milan
+Sun May 6 1956,Inter,3-0,Genoa CFc
+Sun May 6 1956,Bologna FC,3-1,Calcio Padova
+Sun May 6 1956,Novara Calcio,6-2,Lazio Roma
+Sun May 6 1956,Ssc Napoli,2-2,SPAL Ferrara
+Thu May 10 1956,Genoa CFc,1-0,Unione Triestina
+Thu May 10 1956,Torino FC,0-0,SPAL Ferrara
+Thu May 10 1956,Pro Patria,2-0,Sampdoria
+Thu May 10 1956,Calcio Padova,1-0,Inter
+Thu May 10 1956,Lazio Roma,2-0,Juventus
+Thu May 10 1956,Acf Fiorentina,0-0,Ssc Napoli
+Thu May 10 1956,Bologna FC,1-1,Vicenza Calcio
+Thu May 10 1956,Atalanta,1-1,As Roma
+Thu May 10 1956,AC Milan,4-2,Novara Calcio
+Sun May 13 1956,Novara Calcio,1-2,Genoa CFc
+Sun May 13 1956,SPAL Ferrara,0-1,Acf Fiorentina
+Sun May 13 1956,Sampdoria,2-5,Bologna FC
+Sun May 13 1956,Torino FC,2-0,Calcio Padova
+Sun May 13 1956,Ssc Napoli,3-2,Unione Triestina
+Sun May 13 1956,Vicenza Calcio,1-0,Atalanta
+Sun May 13 1956,Inter,0-2,Juventus
+Sun May 13 1956,As Roma,0-0,AC Milan
+Sun May 13 1956,Pro Patria,1-2,Lazio Roma
+Sun May 20 1956,Lazio Roma,2-0,Genoa CFc
+Sun May 20 1956,Unione Triestina,0-0,Inter
+Sun May 20 1956,Sampdoria,0-0,Acf Fiorentina
+Sun May 20 1956,Calcio Padova,0-0,SPAL Ferrara
+Sun May 20 1956,AC Milan,3-1,Torino FC
+Sun May 20 1956,Juventus,3-1,Pro Patria
+Sun May 20 1956,Bologna FC,1-0,As Roma
+Sun May 20 1956,Atalanta,2-1,Novara Calcio
+Sun May 20 1956,Ssc Napoli,0-0,Vicenza Calcio
+Sun May 27 1956,Genoa CFc,1-1,SPAL Ferrara
+Sun May 27 1956,As Roma,4-1,Unione Triestina
+Sun May 27 1956,Novara Calcio,2-1,Pro Patria
+Sun May 27 1956,Torino FC,2-1,Sampdoria
+Sun May 27 1956,Acf Fiorentina,4-1,Lazio Roma
+Sun May 27 1956,Bologna FC,2-1,AC Milan
+Sun May 27 1956,Atalanta,0-2,Calcio Padova
+Sun May 27 1956,Vicenza Calcio,3-2,Juventus
+Sun May 27 1956,Inter,3-0,Ssc Napoli
+Sun Jun 3 1956,Novara Calcio,1-2,Torino FC
+Sun Jun 3 1956,SPAL Ferrara,0-1,Inter
+Sun Jun 3 1956,As Roma,1-2,Sampdoria
+Sun Jun 3 1956,Calcio Padova,1-1,Ssc Napoli
+Sun Jun 3 1956,AC Milan,1-3,Lazio Roma
+Sun Jun 3 1956,Juventus,2-2,Bologna FC
+Sun Jun 3 1956,Genoa CFc,3-1,Acf Fiorentina
+Sun Jun 3 1956,Unione Triestina,0-2,Vicenza Calcio
+Sun Jun 3 1956,Pro Patria,2-0,Atalanta

@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 21 1965,Toulouse FC,1-0,Angers Sco
+Sun Aug 22 1965,Ua Sedan Torcy,3-1,Stade Rennes
+Sun Aug 22 1965,FC Nantes,2-0,Olympique Lyon
+Sun Aug 22 1965,Red Star Olympique,2-0,Valenciennes FC
+Sun Aug 22 1965,As Monaco,2-0,Lille OSC
+Sun Aug 22 1965,As Saint Etienne,2-1,Nimes Olympique
+Sun Aug 22 1965,As Cannes,2-1,Girondins Bordeaux
+Sun Aug 22 1965,RC Lens,1-0,Stade Francais
+Sun Aug 22 1965,FC Sochaux,1-0,OGC Nice
+Sun Aug 22 1965,RC Strasbourg,0-0,FC Rouen
+Sat Aug 28 1965,Ua Sedan Torcy,3-0,FC Sochaux
+Sat Aug 28 1965,FC Nantes,4-2,RC Lens
+Sat Aug 28 1965,As Saint Etienne,1-3,As Monaco
+Sat Aug 28 1965,OGC Nice,0-2,RC Strasbourg
+Sat Aug 28 1965,FC Rouen,1-0,As Cannes
+Sat Aug 28 1965,Nimes Olympique,3-1,Red Star Olympique
+Sat Aug 28 1965,Lille OSC,1-0,Toulouse FC
+Sat Aug 28 1965,Valenciennes FC,2-1,Stade Rennes
+Sat Aug 28 1965,Girondins Bordeaux,2-2,Olympique Lyon
+Sun Aug 29 1965,Angers Sco,0-0,Stade Francais
+Wed Sep 1 1965,As Monaco,3-0,FC Rouen
+Wed Sep 1 1965,Stade Francais,0-1,FC Nantes
+Wed Sep 1 1965,RC Strasbourg,3-3,Ua Sedan Torcy
+Wed Sep 1 1965,As Cannes,2-0,Lille OSC
+Wed Sep 1 1965,FC Sochaux,2-3,As Saint Etienne
+Wed Sep 1 1965,Nimes Olympique,2-2,Valenciennes FC
+Wed Sep 1 1965,Olympique Lyon,2-0,OGC Nice
+Wed Sep 1 1965,Toulouse FC,0-0,Girondins Bordeaux
+Wed Sep 1 1965,RC Lens,2-2,Angers Sco
+Wed Sep 1 1965,Stade Rennes,2-1,Red Star Olympique
+Sat Sep 4 1965,FC Nantes,5-3,Angers Sco
+Sat Sep 4 1965,Ua Sedan Torcy,2-0,Nimes Olympique
+Sat Sep 4 1965,As Saint Etienne,3-0,Toulouse FC
+Sat Sep 4 1965,Valenciennes FC,3-2,RC Strasbourg
+Sat Sep 4 1965,Girondins Bordeaux,10-0,Stade Francais
+Sat Sep 4 1965,FC Rouen,0-0,Olympique Lyon
+Sun Sep 5 1965,OGC Nice,1-2,As Monaco
+Sun Sep 5 1965,Stade Rennes,2-2,As Cannes
+Sun Sep 5 1965,Lille OSC,1-1,RC Lens
+Sun Sep 5 1965,Red Star Olympique,1-1,FC Sochaux
+Thu Sep 9 1965,As Monaco,3-3,Ua Sedan Torcy
+Thu Sep 9 1965,RC Lens,0-0,FC Rouen
+Fri Sep 10 1965,Toulouse FC,0-0,FC Nantes
+Fri Sep 10 1965,As Cannes,2-8,As Saint Etienne
+Fri Sep 10 1965,RC Strasbourg,7-1,Red Star Olympique
+Fri Sep 10 1965,Olympique Lyon,6-3,Lille OSC
+Fri Sep 10 1965,FC Sochaux,1-1,Valenciennes FC
+Fri Sep 10 1965,Angers Sco,0-0,Girondins Bordeaux
+Fri Sep 10 1965,Nimes Olympique,2-2,Stade Rennes
+Fri Sep 10 1965,Stade Francais,2-1,OGC Nice
+Fri Sep 17 1965,OGC Nice,2-1,Toulouse FC
+Sat Sep 18 1965,Girondins Bordeaux,1-2,FC Nantes
+Sat Sep 18 1965,As Saint Etienne,5-1,RC Strasbourg
+Sat Sep 18 1965,Ua Sedan Torcy,3-1,As Cannes
+Sat Sep 18 1965,FC Rouen,2-1,Stade Francais
+Sat Sep 18 1965,Stade Rennes,4-3,FC Sochaux
+Sun Sep 19 1965,Valenciennes FC,1-0,As Monaco
+Sun Sep 19 1965,Red Star Olympique,2-2,Olympique Lyon
+Sun Sep 19 1965,Lille OSC,1-0,Angers Sco
+Fri Sep 24 1965,Olympique Lyon,2-1,Ua Sedan Torcy
+Fri Sep 24 1965,As Cannes,0-1,Valenciennes FC
+Sat Sep 25 1965,FC Nantes,2-1,OGC Nice
+Sat Sep 25 1965,Angers Sco,1-1,As Saint Etienne
+Sat Sep 25 1965,As Monaco,2-1,Red Star Olympique
+Sat Sep 25 1965,RC Strasbourg,3-1,Stade Rennes
+Sat Sep 25 1965,RC Lens,0-1,Girondins Bordeaux
+Sat Sep 25 1965,Toulouse FC,6-5,FC Rouen
+Sat Sep 25 1965,FC Sochaux,3-1,Nimes Olympique
+Sun Sep 26 1965,Stade Francais,1-1,Lille OSC
+Tue Sep 28 1965,Valenciennes FC,1-0,Olympique Lyon
+Wed Sep 29 1965,FC Rouen,0-0,FC Nantes
+Wed Sep 29 1965,As Saint Etienne,0-0,Stade Francais
+Wed Sep 29 1965,Ua Sedan Torcy,3-1,Angers Sco
+Wed Sep 29 1965,Lille OSC,0-0,Girondins Bordeaux
+Wed Sep 29 1965,Nimes Olympique,4-1,RC Strasbourg
+Wed Sep 29 1965,FC Sochaux,0-1,Toulouse FC
+Wed Sep 29 1965,OGC Nice,0-3,RC Lens
+Wed Sep 29 1965,Red Star Olympique,3-2,As Cannes
+Sat Oct 2 1965,FC Nantes,3-1,Lille OSC
+Sat Oct 2 1965,As Monaco,4-0,Nimes Olympique
+Sat Oct 2 1965,RC Strasbourg,5-1,FC Sochaux
+Sun Oct 3 1965,Olympique Lyon,1-1,As Saint Etienne
+Sun Oct 3 1965,Toulouse FC,2-2,Ua Sedan Torcy
+Sun Oct 3 1965,RC Lens,1-1,Valenciennes FC
+Sun Oct 3 1965,Girondins Bordeaux,4-1,FC Rouen
+Sun Oct 3 1965,Stade Francais,1-1,Red Star Olympique
+Sun Oct 3 1965,Angers Sco,5-3,Stade Rennes
+Sun Oct 3 1965,As Cannes,1-3,OGC Nice
+Wed Oct 6 1965,Nimes Olympique,4-5,RC Lens
+Tue Oct 12 1965,Stade Rennes,0-1,As Monaco
+Wed Oct 13 1965,Stade Francais,1-1,Ua Sedan Torcy
+Wed Oct 13 1965,RC Lens,2-1,As Saint Etienne
+Sat Oct 16 1965,FC Rouen,1-1,Lille OSC
+Sun Oct 17 1965,As Saint Etienne,0-3,FC Nantes
+Sun Oct 17 1965,FC Sochaux,2-1,As Monaco
+Sun Oct 17 1965,Valenciennes FC,1-0,Stade Francais
+Sun Oct 17 1965,Ua Sedan Torcy,1-3,RC Lens
+Sun Oct 17 1965,OGC Nice,1-2,Girondins Bordeaux
+Sun Oct 17 1965,RC Strasbourg,1-1,Angers Sco
+Sun Oct 17 1965,Stade Rennes,5-2,Olympique Lyon
+Sun Oct 17 1965,Red Star Olympique,1-1,Toulouse FC
+Sun Oct 17 1965,Nimes Olympique,1-1,As Cannes
+Wed Oct 20 1965,FC Nantes,7-2,Red Star Olympique
+Wed Oct 20 1965,Toulouse FC,1-2,Valenciennes FC
+Wed Oct 20 1965,As Monaco,0-0,RC Strasbourg
+Wed Oct 20 1965,Girondins Bordeaux,2-1,Stade Rennes
+Wed Oct 20 1965,Olympique Lyon,3-1,Nimes Olympique
+Wed Oct 20 1965,Lille OSC,2-1,OGC Nice
+Wed Oct 20 1965,Angers Sco,6-0,FC Rouen
+Wed Oct 20 1965,As Cannes,1-1,FC Sochaux
+Sun Oct 24 1965,Valenciennes FC,2-2,FC Nantes
+Sun Oct 24 1965,As Monaco,0-0,As Cannes
+Sun Oct 24 1965,Ua Sedan Torcy,1-1,Girondins Bordeaux
+Sun Oct 24 1965,As Saint Etienne,7-4,Lille OSC
+Sun Oct 24 1965,RC Strasbourg,1-0,RC Lens
+Sun Oct 24 1965,FC Sochaux,7-2,Olympique Lyon
+Sun Oct 24 1965,Red Star Olympique,0-2,Angers Sco
+Sun Oct 24 1965,Stade Rennes,4-3,Stade Francais
+Sun Oct 24 1965,Nimes Olympique,2-0,Toulouse FC
+Sun Oct 24 1965,OGC Nice,6-0,FC Rouen
+Fri Oct 29 1965,Toulouse FC,4-1,Stade Rennes
+Fri Oct 29 1965,Olympique Lyon,1-0,As Monaco
+Sat Oct 30 1965,Lille OSC,3-0,Red Star Olympique
+Sat Oct 30 1965,FC Nantes,4-2,Ua Sedan Torcy
+Sat Oct 30 1965,FC Rouen,2-0,As Saint Etienne
+Sun Oct 31 1965,Girondins Bordeaux,2-0,Valenciennes FC
+Sun Oct 31 1965,As Cannes,2-1,RC Strasbourg
+Sun Oct 31 1965,RC Lens,0-1,FC Sochaux
+Sun Oct 31 1965,Angers Sco,1-0,OGC Nice
+Sun Oct 31 1965,Stade Francais,2-1,Nimes Olympique
+Wed Nov 10 1965,Ua Sedan Torcy,4-4,FC Rouen
+Wed Nov 10 1965,As Monaco,3-0,RC Lens
+Thu Nov 11 1965,Stade Rennes,2-0,FC Nantes
+Thu Nov 11 1965,Valenciennes FC,2-0,Lille OSC
+Thu Nov 11 1965,As Saint Etienne,5-1,OGC Nice
+Thu Nov 11 1965,Red Star Olympique,2-0,Girondins Bordeaux
+Thu Nov 11 1965,RC Strasbourg,0-0,Olympique Lyon
+Thu Nov 11 1965,FC Sochaux,1-0,Stade Francais
+Thu Nov 11 1965,Nimes Olympique,1-0,Angers Sco
+Thu Nov 11 1965,As Cannes,5-3,Toulouse FC
+Sat Nov 13 1965,FC Nantes,4-1,Nimes Olympique
+Sun Nov 14 1965,FC Rouen,1-3,Valenciennes FC
+Sun Nov 14 1965,Girondins Bordeaux,4-0,As Saint Etienne
+Sun Nov 14 1965,Toulouse FC,5-1,As Monaco
+Sun Nov 14 1965,Stade Francais,0-2,RC Strasbourg
+Sun Nov 14 1965,Lille OSC,1-1,Ua Sedan Torcy
+Sun Nov 14 1965,Olympique Lyon,2-0,As Cannes
+Sun Nov 14 1965,RC Lens,4-1,Stade Rennes
+Sun Nov 14 1965,Angers Sco,2-2,FC Sochaux
+Sun Nov 14 1965,OGC Nice,4-0,Red Star Olympique
+Fri Nov 19 1965,As Monaco,3-1,Stade Francais
+Sat Nov 20 1965,FC Sochaux,3-1,FC Nantes
+Sun Nov 21 1965,Valenciennes FC,4-2,OGC Nice
+Sun Nov 21 1965,Nimes Olympique,1-1,Girondins Bordeaux
+Sun Nov 21 1965,Ua Sedan Torcy,4-1,As Saint Etienne
+Sun Nov 21 1965,Olympique Lyon,2-1,Angers Sco
+Sun Nov 21 1965,RC Strasbourg,2-2,Toulouse FC
+Sun Nov 21 1965,As Cannes,1-1,RC Lens
+Sun Nov 21 1965,Stade Rennes,4-0,Lille OSC
+Sun Nov 21 1965,Red Star Olympique,0-1,FC Rouen
+Sun Nov 28 1965,FC Nantes,2-0,RC Strasbourg
+Sun Nov 28 1965,As Saint Etienne,5-1,Valenciennes FC
+Sun Nov 28 1965,Girondins Bordeaux,4-2,FC Sochaux
+Sun Nov 28 1965,Angers Sco,1-1,As Monaco
+Sun Nov 28 1965,OGC Nice,1-0,Ua Sedan Torcy
+Sun Nov 28 1965,RC Lens,3-0,Red Star Olympique
+Sun Nov 28 1965,Toulouse FC,1-0,Olympique Lyon
+Sun Nov 28 1965,FC Rouen,2-2,Stade Rennes
+Sun Nov 28 1965,Lille OSC,1-2,Nimes Olympique
+Sun Nov 28 1965,Stade Francais,3-1,As Cannes
+Sun Dec 5 1965,As Monaco,1-3,FC Nantes
+Sun Dec 5 1965,Valenciennes FC,0-4,Ua Sedan Torcy
+Sun Dec 5 1965,RC Strasbourg,3-0,Girondins Bordeaux
+Sun Dec 5 1965,Red Star Olympique,1-5,As Saint Etienne
+Sun Dec 5 1965,Olympique Lyon,2-0,Stade Francais
+Sun Dec 5 1965,FC Sochaux,1-0,Lille OSC
+Sun Dec 5 1965,Toulouse FC,4-1,RC Lens
+Sun Dec 5 1965,As Cannes,2-5,Angers Sco
+Sun Dec 5 1965,Stade Rennes,3-0,OGC Nice
+Sun Dec 5 1965,Nimes Olympique,2-1,FC Rouen
+Sun Dec 12 1965,FC Nantes,1-0,As Cannes
+Sun Dec 12 1965,Angers Sco,0-1,Valenciennes FC
+Sun Dec 12 1965,Girondins Bordeaux,5-0,As Monaco
+Sun Dec 12 1965,As Saint Etienne,4-0,Stade Rennes
+Sun Dec 12 1965,Ua Sedan Torcy,5-2,Red Star Olympique
+Sun Dec 12 1965,RC Lens,2-1,Olympique Lyon
+Sun Dec 12 1965,FC Rouen,1-1,FC Sochaux
+Sun Dec 12 1965,Lille OSC,2-1,RC Strasbourg
+Sun Dec 12 1965,Stade Francais,2-0,Toulouse FC
+Sun Dec 12 1965,OGC Nice,4-1,Nimes Olympique
+Sun Dec 19 1965,Olympique Lyon,0-2,FC Nantes
+Sun Dec 19 1965,Valenciennes FC,1-0,Red Star Olympique
+Sun Dec 19 1965,Girondins Bordeaux,1-0,As Cannes
+Sun Dec 19 1965,Nimes Olympique,1-1,As Saint Etienne
+Sun Dec 19 1965,Stade Rennes,4-2,Ua Sedan Torcy
+Sun Dec 19 1965,Lille OSC,2-1,As Monaco
+Sun Dec 19 1965,FC Rouen,0-0,RC Strasbourg
+Sun Dec 19 1965,Stade Francais,3-1,RC Lens
+Sun Dec 19 1965,OGC Nice,3-1,FC Sochaux
+Sun Dec 19 1965,Angers Sco,2-0,Toulouse FC
+Sat Jan 8 1966,Toulouse FC,2-0,Lille OSC
+Sun Jan 9 1966,RC Lens,1-1,FC Nantes
+Sun Jan 9 1966,Stade Rennes,1-1,Valenciennes FC
+Sun Jan 9 1966,Olympique Lyon,1-4,Girondins Bordeaux
+Sun Jan 9 1966,As Monaco,1-1,As Saint Etienne
+Sun Jan 9 1966,FC Sochaux,0-1,Ua Sedan Torcy
+Sun Jan 9 1966,RC Strasbourg,1-3,OGC Nice
+Sun Jan 9 1966,Stade Francais,2-1,Angers Sco
+Sun Jan 9 1966,As Cannes,1-2,FC Rouen
+Sun Jan 9 1966,Red Star Olympique,3-3,Nimes Olympique
+Sun Jan 23 1966,FC Nantes,2-1,Stade Francais
+Sun Jan 23 1966,Valenciennes FC,3-0,Nimes Olympique
+Sun Jan 23 1966,Girondins Bordeaux,3-0,Toulouse FC
+Sun Jan 23 1966,As Saint Etienne,3-1,FC Sochaux
+Sun Jan 23 1966,OGC Nice,4-2,Olympique Lyon
+Sun Jan 23 1966,Lille OSC,2-0,As Cannes
+Sun Jan 30 1966,Angers Sco,1-1,FC Nantes
+Sun Jan 30 1966,Stade Francais,2-4,Girondins Bordeaux
+Sun Jan 30 1966,RC Strasbourg,0-0,Valenciennes FC
+Sun Jan 30 1966,Toulouse FC,2-0,As Saint Etienne
+Sun Jan 30 1966,Nimes Olympique,1-0,Ua Sedan Torcy
+Sun Jan 30 1966,RC Lens,2-0,Lille OSC
+Sun Jan 30 1966,As Monaco,0-3,OGC Nice
+Sun Jan 30 1966,FC Sochaux,3-0,Red Star Olympique
+Sun Jan 30 1966,Olympique Lyon,0-0,FC Rouen
+Sun Jan 30 1966,As Cannes,1-0,Stade Rennes
+Sun Feb 6 1966,FC Nantes,2-0,Toulouse FC
+Sun Feb 6 1966,Girondins Bordeaux,2-0,Angers Sco
+Sun Feb 6 1966,Valenciennes FC,0-0,FC Sochaux
+Sun Feb 6 1966,As Saint Etienne,1-1,As Cannes
+Sun Feb 6 1966,FC Rouen,1-3,RC Lens
+Sun Feb 6 1966,Ua Sedan Torcy,0-2,As Monaco
+Sun Feb 6 1966,Red Star Olympique,2-2,RC Strasbourg
+Sun Feb 6 1966,Stade Rennes,3-1,Nimes Olympique
+Sun Feb 6 1966,Lille OSC,1-0,Olympique Lyon
+Sun Feb 6 1966,OGC Nice,1-1,Stade Francais
+Sun Feb 13 1966,FC Rouen,1-2,As Monaco
+Wed Feb 16 1966,Ua Sedan Torcy,0-0,RC Strasbourg
+Sun Feb 20 1966,FC Nantes,2-2,Girondins Bordeaux
+Sun Feb 20 1966,As Monaco,0-2,Valenciennes FC
+Sun Feb 20 1966,RC Strasbourg,0-1,As Saint Etienne
+Sun Feb 20 1966,RC Lens,1-1,Nimes Olympique
+Sun Feb 20 1966,FC Sochaux,3-2,Stade Rennes
+Sun Feb 20 1966,Toulouse FC,2-1,OGC Nice
+Sun Feb 20 1966,Olympique Lyon,0-0,Red Star Olympique
+Sun Feb 20 1966,Angers Sco,3-1,Lille OSC
+Sun Feb 20 1966,Stade Francais,0-0,FC Rouen
+Sun Feb 27 1966,OGC Nice,0-0,FC Nantes
+Sun Feb 27 1966,Girondins Bordeaux,2-1,RC Lens
+Sun Feb 27 1966,Valenciennes FC,3-0,As Cannes
+Sun Feb 27 1966,As Saint Etienne,4-0,Angers Sco
+Sun Feb 27 1966,Ua Sedan Torcy,2-0,Olympique Lyon
+Sun Feb 27 1966,FC Rouen,0-1,Toulouse FC
+Sun Feb 27 1966,Red Star Olympique,2-0,As Monaco
+Sun Feb 27 1966,Nimes Olympique,1-0,FC Sochaux
+Sun Feb 27 1966,Stade Rennes,2-1,RC Strasbourg
+Sun Feb 27 1966,Lille OSC,3-3,Stade Francais
+Wed Mar 2 1966,FC Nantes,2-1,FC Rouen
+Wed Mar 2 1966,Girondins Bordeaux,1-0,Lille OSC
+Wed Mar 2 1966,Stade Francais,1-2,As Saint Etienne
+Wed Mar 2 1966,RC Lens,4-2,OGC Nice
+Wed Mar 2 1966,Angers Sco,2-0,Ua Sedan Torcy
+Wed Mar 2 1966,Toulouse FC,1-1,FC Sochaux
+Wed Mar 2 1966,As Monaco,1-1,Stade Rennes
+Wed Mar 2 1966,RC Strasbourg,1-0,Nimes Olympique
+Wed Mar 2 1966,As Cannes,1-1,Red Star Olympique
+Sun Mar 6 1966,Lille OSC,0-1,FC Nantes
+Sun Mar 6 1966,FC Rouen,0-0,Girondins Bordeaux
+Sun Mar 6 1966,Valenciennes FC,2-0,RC Lens
+Sun Mar 6 1966,As Saint Etienne,2-1,Olympique Lyon
+Sun Mar 6 1966,Ua Sedan Torcy,0-1,Toulouse FC
+Sun Mar 6 1966,FC Sochaux,2-1,RC Strasbourg
+Sun Mar 6 1966,Nimes Olympique,4-0,As Monaco
+Sun Mar 6 1966,Stade Rennes,4-4,Angers Sco
+Sun Mar 6 1966,OGC Nice,1-1,As Cannes
+Sun Mar 6 1966,Red Star Olympique,1-5,Stade Francais
+Wed Mar 23 1966,Angers Sco,3-2,RC Lens
+Sat Mar 26 1966,FC Nantes,5-0,As Saint Etienne
+Sat Mar 26 1966,Girondins Bordeaux,0-2,OGC Nice
+Sat Mar 26 1966,As Monaco,1-1,FC Sochaux
+Sat Mar 26 1966,Olympique Lyon,1-2,Stade Rennes
+Sat Mar 26 1966,Lille OSC,2-1,FC Rouen
+Sun Mar 27 1966,Stade Francais,1-1,Valenciennes FC
+Sun Mar 27 1966,Toulouse FC,1-0,Red Star Olympique
+Sun Mar 27 1966,RC Lens,1-1,Ua Sedan Torcy
+Sun Mar 27 1966,Angers Sco,0-3,RC Strasbourg
+Sun Mar 27 1966,As Cannes,1-2,Nimes Olympique
+Sun Apr 3 1966,As Cannes,2-1,Ua Sedan Torcy
+Fri Apr 8 1966,Red Star Olympique,0-3,FC Nantes
+Fri Apr 8 1966,Valenciennes FC,1-1,Toulouse FC
+Fri Apr 8 1966,As Saint Etienne,2-0,RC Lens
+Fri Apr 8 1966,FC Sochaux,3-1,As Cannes
+Fri Apr 8 1966,RC Strasbourg,1-1,As Monaco
+Fri Apr 8 1966,Nimes Olympique,0-0,Olympique Lyon
+Fri Apr 8 1966,FC Rouen,4-0,Angers Sco
+Sat Apr 9 1966,Stade Rennes,2-0,Girondins Bordeaux
+Sat Apr 9 1966,Ua Sedan Torcy,0-0,Stade Francais
+Sun Apr 10 1966,OGC Nice,2-0,Lille OSC
+Wed Apr 13 1966,FC Nantes,1-1,Valenciennes FC
+Wed Apr 13 1966,Girondins Bordeaux,4-2,Ua Sedan Torcy
+Wed Apr 13 1966,Lille OSC,3-0,As Saint Etienne
+Wed Apr 13 1966,Toulouse FC,3-0,Nimes Olympique
+Wed Apr 13 1966,Olympique Lyon,1-0,FC Sochaux
+Wed Apr 13 1966,As Cannes,0-3,As Monaco
+Wed Apr 13 1966,RC Lens,0-0,RC Strasbourg
+Wed Apr 13 1966,Stade Francais,2-1,Stade Rennes
+Wed Apr 13 1966,Angers Sco,2-2,Red Star Olympique
+Wed Apr 13 1966,FC Rouen,1-0,OGC Nice
+Sun Apr 17 1966,Ua Sedan Torcy,3-0,FC Nantes
+Sun Apr 17 1966,Valenciennes FC,2-2,Girondins Bordeaux
+Sun Apr 17 1966,As Saint Etienne,2-2,FC Rouen
+Sun Apr 17 1966,Stade Rennes,2-1,Toulouse FC
+Sun Apr 17 1966,FC Sochaux,3-2,RC Lens
+Sun Apr 17 1966,As Monaco,2-0,Olympique Lyon
+Sun Apr 17 1966,RC Strasbourg,5-0,As Cannes
+Sun Apr 17 1966,OGC Nice,5-2,Angers Sco
+Sun Apr 17 1966,Nimes Olympique,0-0,Stade Francais
+Sun Apr 17 1966,Red Star Olympique,6-4,Lille OSC
+Fri Apr 22 1966,Toulouse FC,6-1,As Cannes
+Sat Apr 23 1966,FC Nantes,4-0,Stade Rennes
+Sat Apr 23 1966,Girondins Bordeaux,6-0,Red Star Olympique
+Sat Apr 23 1966,Lille OSC,6-1,Valenciennes FC
+Sat Apr 23 1966,Stade Francais,1-1,FC Sochaux
+Sat Apr 23 1966,RC Lens,0-0,As Monaco
+Sat Apr 23 1966,Olympique Lyon,2-0,RC Strasbourg
+Sat Apr 23 1966,FC Rouen,3-1,Ua Sedan Torcy
+Sat Apr 23 1966,Angers Sco,3-0,Nimes Olympique
+Sun Apr 24 1966,OGC Nice,4-2,As Saint Etienne
+Thu Apr 28 1966,Olympique Lyon,0-1,Valenciennes FC
+Fri Apr 29 1966,Red Star Olympique,0-2,Stade Rennes
+Sat May 7 1966,Nimes Olympique,1-2,FC Nantes
+Sat May 7 1966,Valenciennes FC,1-1,FC Rouen
+Sat May 7 1966,As Saint Etienne,2-1,Girondins Bordeaux
+Sat May 7 1966,FC Sochaux,3-2,Angers Sco
+Sat May 7 1966,Stade Rennes,4-1,RC Lens
+Sat May 7 1966,RC Strasbourg,4-0,Stade Francais
+Sat May 7 1966,Ua Sedan Torcy,1-0,Lille OSC
+Sat May 7 1966,As Cannes,0-0,Olympique Lyon
+Sun May 8 1966,Red Star Olympique,2-3,OGC Nice
+Tue May 10 1966,As Monaco,2-3,Toulouse FC
+Sat May 14 1966,FC Nantes,2-1,FC Sochaux
+Sat May 14 1966,Girondins Bordeaux,5-2,Nimes Olympique
+Sat May 14 1966,As Saint Etienne,2-1,Ua Sedan Torcy
+Sat May 14 1966,Lille OSC,1-3,Stade Rennes
+Sat May 14 1966,RC Lens,1-0,As Cannes
+Sat May 14 1966,Angers Sco,4-1,Olympique Lyon
+Sat May 14 1966,FC Rouen,1-0,Red Star Olympique
+Sun May 15 1966,OGC Nice,1-1,Valenciennes FC
+Sun May 15 1966,Toulouse FC,2-0,RC Strasbourg
+Sun May 15 1966,Stade Francais,1-0,As Monaco
+Wed May 18 1966,FC Sochaux,0-1,Girondins Bordeaux
+Wed May 18 1966,Valenciennes FC,3-1,As Saint Etienne
+Wed May 18 1966,Olympique Lyon,0-1,Toulouse FC
+Wed May 18 1966,Ua Sedan Torcy,2-0,OGC Nice
+Wed May 18 1966,As Monaco,1-3,Angers Sco
+Wed May 18 1966,Nimes Olympique,4-1,Lille OSC
+Thu May 19 1966,Red Star Olympique,1-2,RC Lens
+Thu May 19 1966,As Cannes,0-4,Stade Francais
+Sat May 21 1966,Stade Rennes,4-0,FC Rouen
+Wed May 25 1966,RC Strasbourg,1-0,FC Nantes
+Fri May 27 1966,As Saint Etienne,7-0,Red Star Olympique
+Fri May 27 1966,Lille OSC,2-1,FC Sochaux
+Fri May 27 1966,Angers Sco,4-1,As Cannes
+Fri May 27 1966,FC Rouen,1-0,Nimes Olympique
+Fri May 27 1966,Stade Francais,0-1,Olympique Lyon
+Sat May 28 1966,FC Nantes,2-1,As Monaco
+Sat May 28 1966,Girondins Bordeaux,4-0,RC Strasbourg
+Sat May 28 1966,Ua Sedan Torcy,2-2,Valenciennes FC
+Sat May 28 1966,RC Lens,0-1,Toulouse FC
+Fri Jun 10 1966,Valenciennes FC,4-1,Angers Sco
+Fri Jun 10 1966,FC Sochaux,4-0,FC Rouen
+Fri Jun 10 1966,Red Star Olympique,3-3,Ua Sedan Torcy
+Sat Jun 11 1966,As Cannes,1-6,FC Nantes
+Sat Jun 11 1966,Toulouse FC,1-1,Stade Francais
+Sat Jun 11 1966,Stade Rennes,2-0,As Saint Etienne
+Sat Jun 11 1966,RC Strasbourg,4-1,Lille OSC
+Sat Jun 11 1966,Olympique Lyon,3-2,RC Lens
+Sat Jun 11 1966,Nimes Olympique,1-0,OGC Nice
+Sun Jun 12 1966,As Monaco,0-2,Girondins Bordeaux
+Wed Jun 15 1966,OGC Nice,3-2,Stade Rennes

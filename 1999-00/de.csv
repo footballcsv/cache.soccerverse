@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Fri Aug 13 1999,Vfl Wolfsburg,2-1,TSV 1860 Muenchen
+Fri Aug 13 1999,MSV Duisburg,0-0,Bayer Leverkusen
+Sat Aug 14 1999,Bayern Muenchen,2-2,Hamburger SV
+Sat Aug 14 1999,Vfb Stuttgart,0-0,Werder Bremen
+Sat Aug 14 1999,FC Schalke 04,1-1,Arminia Bielefeld
+Sat Aug 14 1999,1 FC Kaiserslautern,1-0,Borussia Dortmund
+Sat Aug 14 1999,Eintracht Frankfurt,3-0,Spvgg Unterhaching
+Sun Aug 15 1999,Hertha BSC Berlin,5-2,Hansa Rostock
+Sun Aug 15 1999,SSV Ulm 1846,1-1,SC Freiburg
+Fri Aug 20 1999,Arminia Bielefeld,1-1,Hertha BSC Berlin
+Fri Aug 20 1999,Spvgg Unterhaching,2-0,MSV Duisburg
+Sat Aug 21 1999,Werder Bremen,0-1,FC Schalke 04
+Sat Aug 21 1999,Borussia Dortmund,2-1,Vfl Wolfsburg
+Sat Aug 21 1999,Hamburger SV,3-0,Vfb Stuttgart
+Sat Aug 21 1999,SC Freiburg,2-3,Eintracht Frankfurt
+Sat Aug 21 1999,TSV 1860 Muenchen,4-1,SSV Ulm 1846
+Sun Aug 22 1999,Bayer Leverkusen,2-0,Bayern Muenchen
+Sun Aug 22 1999,Hansa Rostock,4-2,1 FC Kaiserslautern
+Fri Aug 27 1999,FC Schalke 04,1-3,Hamburger SV
+Fri Aug 27 1999,1 FC Kaiserslautern,0-2,Arminia Bielefeld
+Sat Aug 28 1999,Bayern Muenchen,1-0,Spvgg Unterhaching
+Sat Aug 28 1999,Vfb Stuttgart,1-2,Bayer Leverkusen
+Sat Aug 28 1999,Vfl Wolfsburg,2-0,Hansa Rostock
+Sat Aug 28 1999,SC Freiburg,3-0,TSV 1860 Muenchen
+Sat Aug 28 1999,Hertha BSC Berlin,1-1,Werder Bremen
+Sun Aug 29 1999,Eintracht Frankfurt,2-2,MSV Duisburg
+Sun Aug 29 1999,SSV Ulm 1846,0-1,Borussia Dortmund
+Fri Sep 10 1999,Hansa Rostock,2-1,SSV Ulm 1846
+Fri Sep 10 1999,Arminia Bielefeld,0-0,Vfl Wolfsburg
+Sat Sep 11 1999,Bayer Leverkusen,3-2,FC Schalke 04
+Sat Sep 11 1999,Borussia Dortmund,1-1,SC Freiburg
+Sat Sep 11 1999,Hamburger SV,5-1,Hertha BSC Berlin
+Sat Sep 11 1999,MSV Duisburg,1-2,Bayern Muenchen
+Sat Sep 11 1999,Spvgg Unterhaching,2-0,Vfb Stuttgart
+Sun Sep 12 1999,Werder Bremen,5-0,1 FC Kaiserslautern
+Sun Sep 12 1999,TSV 1860 Muenchen,2-0,Eintracht Frankfurt
+Fri Sep 17 1999,SC Freiburg,5-0,Hansa Rostock
+Fri Sep 17 1999,TSV 1860 Muenchen,0-3,Borussia Dortmund
+Sat Sep 18 1999,Vfb Stuttgart,4-2,MSV Duisburg
+Sat Sep 18 1999,FC Schalke 04,1-0,Spvgg Unterhaching
+Sat Sep 18 1999,Hertha BSC Berlin,0-0,Bayer Leverkusen
+Sat Sep 18 1999,Eintracht Frankfurt,1-2,Bayern Muenchen
+Sat Sep 18 1999,SSV Ulm 1846,2-0,Arminia Bielefeld
+Sun Sep 19 1999,Vfl Wolfsburg,2-7,Werder Bremen
+Sun Sep 19 1999,1 FC Kaiserslautern,2-0,Hamburger SV
+Fri Sep 24 1999,Bayern Muenchen,0-1,Vfb Stuttgart
+Fri Sep 24 1999,Hamburger SV,2-2,Vfl Wolfsburg
+Sat Sep 25 1999,Werder Bremen,2-2,SSV Ulm 1846
+Sat Sep 25 1999,Borussia Dortmund,1-0,Eintracht Frankfurt
+Sat Sep 25 1999,Hansa Rostock,0-0,TSV 1860 Muenchen
+Sat Sep 25 1999,MSV Duisburg,1-1,FC Schalke 04
+Sat Sep 25 1999,Spvgg Unterhaching,1-1,Hertha BSC Berlin
+Sun Sep 26 1999,Bayer Leverkusen,3-1,1 FC Kaiserslautern
+Sun Sep 26 1999,Arminia Bielefeld,2-1,SC Freiburg
+Fri Oct 1 1999,TSV 1860 Muenchen,5-0,Arminia Bielefeld
+Fri Oct 1 1999,Eintracht Frankfurt,0-1,Vfb Stuttgart
+Sat Oct 2 1999,Borussia Dortmund,3-0,Hansa Rostock
+Sat Oct 2 1999,FC Schalke 04,1-1,Bayern Muenchen
+Sat Oct 2 1999,Vfl Wolfsburg,3-1,Bayer Leverkusen
+Sat Oct 2 1999,Hertha BSC Berlin,2-1,MSV Duisburg
+Sat Oct 2 1999,SSV Ulm 1846,1-2,Hamburger SV
+Sun Oct 3 1999,SC Freiburg,2-1,Werder Bremen
+Sun Oct 3 1999,1 FC Kaiserslautern,4-2,Spvgg Unterhaching
+Fri Oct 15 1999,Bayer Leverkusen,4-1,SSV Ulm 1846
+Fri Oct 15 1999,Arminia Bielefeld,0-2,Borussia Dortmund
+Sat Oct 16 1999,Werder Bremen,1-3,TSV 1860 Muenchen
+Sat Oct 16 1999,Bayern Muenchen,3-1,Hertha BSC Berlin
+Sat Oct 16 1999,Hamburger SV,2-0,SC Freiburg
+Sat Oct 16 1999,Hansa Rostock,3-1,Eintracht Frankfurt
+Sat Oct 16 1999,MSV Duisburg,2-2,1 FC Kaiserslautern
+Sun Oct 17 1999,Vfb Stuttgart,0-2,FC Schalke 04
+Sun Oct 17 1999,Spvgg Unterhaching,1-1,Vfl Wolfsburg
+Fri Oct 22 1999,Hansa Rostock,2-1,Arminia Bielefeld
+Fri Oct 22 1999,Eintracht Frankfurt,0-2,FC Schalke 04
+Sat Oct 23 1999,SC Freiburg,0-0,Bayer Leverkusen
+Sat Oct 23 1999,1 FC Kaiserslautern,0-2,Bayern Muenchen
+Sat Oct 23 1999,Hertha BSC Berlin,1-1,Vfb Stuttgart
+Sat Oct 23 1999,TSV 1860 Muenchen,0-0,Hamburger SV
+Sat Oct 23 1999,SSV Ulm 1846,1-0,Spvgg Unterhaching
+Sun Oct 24 1999,Borussia Dortmund,1-3,Werder Bremen
+Sun Oct 24 1999,Vfl Wolfsburg,1-0,MSV Duisburg
+Fri Oct 29 1999,Werder Bremen,2-1,Hansa Rostock
+Fri Oct 29 1999,Arminia Bielefeld,1-1,Eintracht Frankfurt
+Sat Oct 30 1999,Bayern Muenchen,5-0,Vfl Wolfsburg
+Sat Oct 30 1999,Bayer Leverkusen,1-1,TSV 1860 Muenchen
+Sat Oct 30 1999,FC Schalke 04,1-1,Hertha BSC Berlin
+Sat Oct 30 1999,Hamburger SV,1-1,Borussia Dortmund
+Sat Oct 30 1999,MSV Duisburg,0-0,SSV Ulm 1846
+Sun Oct 31 1999,Vfb Stuttgart,0-1,1 FC Kaiserslautern
+Sun Oct 31 1999,Spvgg Unterhaching,1-0,SC Freiburg
+Fri Nov 5 1999,Hansa Rostock,3-3,Hamburger SV
+Fri Nov 5 1999,SC Freiburg,3-0,MSV Duisburg
+Sat Nov 6 1999,Borussia Dortmund,1-1,Bayer Leverkusen
+Sat Nov 6 1999,Vfl Wolfsburg,0-2,Vfb Stuttgart
+Sat Nov 6 1999,TSV 1860 Muenchen,2-1,Spvgg Unterhaching
+Sat Nov 6 1999,Eintracht Frankfurt,4-0,Hertha BSC Berlin
+Sat Nov 6 1999,SSV Ulm 1846,0-1,Bayern Muenchen
+Sun Nov 7 1999,1 FC Kaiserslautern,2-1,FC Schalke 04
+Sun Nov 7 1999,Arminia Bielefeld,2-2,Werder Bremen
+Fri Nov 19 1999,Werder Bremen,3-1,Eintracht Frankfurt
+Sat Nov 20 1999,Bayern Muenchen,6-1,SC Freiburg
+Sat Nov 20 1999,Vfb Stuttgart,2-0,SSV Ulm 1846
+Sat Nov 20 1999,Bayer Leverkusen,1-1,Hansa Rostock
+Sat Nov 20 1999,FC Schalke 04,1-1,Vfl Wolfsburg
+Sat Nov 20 1999,Hertha BSC Berlin,0-1,1 FC Kaiserslautern
+Sun Nov 21 1999,Hamburger SV,5-0,Arminia Bielefeld
+Sun Nov 21 1999,MSV Duisburg,3-0,TSV 1860 Muenchen
+Fri Nov 26 1999,SC Freiburg,0-2,Vfb Stuttgart
+Fri Nov 26 1999,SSV Ulm 1846,1-1,FC Schalke 04
+Sat Nov 27 1999,Vfl Wolfsburg,2-3,Hertha BSC Berlin
+Sat Nov 27 1999,Hansa Rostock,1-1,Spvgg Unterhaching
+Sat Nov 27 1999,Arminia Bielefeld,1-2,Bayer Leverkusen
+Sat Nov 27 1999,TSV 1860 Muenchen,1-0,Bayern Muenchen
+Sun Nov 28 1999,Werder Bremen,2-1,Hamburger SV
+Sun Nov 28 1999,Borussia Dortmund,2-2,MSV Duisburg
+Sun Nov 28 1999,Eintracht Frankfurt,0-1,1 FC Kaiserslautern
+Wed Dec 1 1999,Spvgg Unterhaching,1-0,Borussia Dortmund
+Fri Dec 3 1999,Hamburger SV,1-0,Eintracht Frankfurt
+Fri Dec 3 1999,MSV Duisburg,2-2,Hansa Rostock
+Sat Dec 4 1999,Bayern Muenchen,1-1,Borussia Dortmund
+Sat Dec 4 1999,Vfb Stuttgart,1-3,TSV 1860 Muenchen
+Sat Dec 4 1999,Bayer Leverkusen,3-2,Werder Bremen
+Sat Dec 4 1999,FC Schalke 04,2-2,SC Freiburg
+Sat Dec 4 1999,Hertha BSC Berlin,3-0,SSV Ulm 1846
+Sun Dec 5 1999,1 FC Kaiserslautern,2-2,Vfl Wolfsburg
+Sun Dec 5 1999,Spvgg Unterhaching,2-0,Arminia Bielefeld
+Fri Dec 10 1999,Werder Bremen,2-2,Spvgg Unterhaching
+Fri Dec 10 1999,Arminia Bielefeld,0-1,MSV Duisburg
+Sat Dec 11 1999,Borussia Dortmund,1-1,Vfb Stuttgart
+Sat Dec 11 1999,Hansa Rostock,0-3,Bayern Muenchen
+Sat Dec 11 1999,SC Freiburg,0-1,Hertha BSC Berlin
+Sat Dec 11 1999,TSV 1860 Muenchen,3-3,FC Schalke 04
+Sun Dec 12 1999,Bayer Leverkusen,2-2,Hamburger SV
+Sun Dec 12 1999,Vfl Wolfsburg,1-0,Eintracht Frankfurt
+Sun Dec 12 1999,SSV Ulm 1846,3-1,1 FC Kaiserslautern
+Tue Dec 14 1999,Bayern Muenchen,2-1,Arminia Bielefeld
+Tue Dec 14 1999,Vfb Stuttgart,3-1,Hansa Rostock
+Tue Dec 14 1999,Hertha BSC Berlin,1-1,TSV 1860 Muenchen
+Tue Dec 14 1999,MSV Duisburg,0-1,Werder Bremen
+Wed Dec 15 1999,FC Schalke 04,0-0,Borussia Dortmund
+Wed Dec 15 1999,Vfl Wolfsburg,1-2,SSV Ulm 1846
+Wed Dec 15 1999,1 FC Kaiserslautern,0-2,SC Freiburg
+Wed Dec 15 1999,Eintracht Frankfurt,1-2,Bayer Leverkusen
+Wed Dec 15 1999,Spvgg Unterhaching,1-1,Hamburger SV
+Fri Dec 17 1999,Werder Bremen,0-2,Bayern Muenchen
+Fri Dec 17 1999,Arminia Bielefeld,1-2,Vfb Stuttgart
+Sat Dec 18 1999,Bayer Leverkusen,2-1,Spvgg Unterhaching
+Sat Dec 18 1999,Hamburger SV,6-1,MSV Duisburg
+Sat Dec 18 1999,SC Freiburg,1-1,Vfl Wolfsburg
+Sat Dec 18 1999,TSV 1860 Muenchen,2-1,1 FC Kaiserslautern
+Sat Dec 18 1999,SSV Ulm 1846,3-0,Eintracht Frankfurt
+Sun Dec 19 1999,Borussia Dortmund,4-0,Hertha BSC Berlin
+Sun Dec 19 1999,Hansa Rostock,1-0,FC Schalke 04
+Fri Feb 4 2000,Borussia Dortmund,0-1,1 FC Kaiserslautern
+Fri Feb 4 2000,Hansa Rostock,0-1,Hertha BSC Berlin
+Sat Feb 5 2000,Werder Bremen,2-1,Vfb Stuttgart
+Sat Feb 5 2000,Bayer Leverkusen,3-0,MSV Duisburg
+Sat Feb 5 2000,SC Freiburg,2-0,SSV Ulm 1846
+Sat Feb 5 2000,Arminia Bielefeld,1-2,FC Schalke 04
+Sat Feb 5 2000,TSV 1860 Muenchen,1-2,Vfl Wolfsburg
+Sun Feb 6 2000,Hamburger SV,0-0,Bayern Muenchen
+Sun Feb 6 2000,Spvgg Unterhaching,1-0,Eintracht Frankfurt
+Tue Feb 8 2000,FC Schalke 04,3-1,Werder Bremen
+Tue Feb 8 2000,1 FC Kaiserslautern,2-2,Hansa Rostock
+Tue Feb 8 2000,Hertha BSC Berlin,2-0,Arminia Bielefeld
+Tue Feb 8 2000,SSV Ulm 1846,3-0,TSV 1860 Muenchen
+Wed Feb 9 2000,Bayern Muenchen,4-1,Bayer Leverkusen
+Wed Feb 9 2000,Vfb Stuttgart,1-3,Hamburger SV
+Wed Feb 9 2000,Vfl Wolfsburg,1-0,Borussia Dortmund
+Wed Feb 9 2000,Eintracht Frankfurt,2-0,SC Freiburg
+Wed Feb 9 2000,MSV Duisburg,2-0,Spvgg Unterhaching
+Fri Feb 11 2000,Werder Bremen,4-1,Hertha BSC Berlin
+Fri Feb 11 2000,Arminia Bielefeld,1-2,1 FC Kaiserslautern
+Sat Feb 12 2000,Bayer Leverkusen,1-0,Vfb Stuttgart
+Sat Feb 12 2000,Borussia Dortmund,1-1,SSV Ulm 1846
+Sat Feb 12 2000,Hansa Rostock,1-1,Vfl Wolfsburg
+Sat Feb 12 2000,MSV Duisburg,2-3,Eintracht Frankfurt
+Sat Feb 12 2000,Spvgg Unterhaching,0-2,Bayern Muenchen
+Sun Feb 13 2000,Hamburger SV,3-1,FC Schalke 04
+Sun Feb 13 2000,TSV 1860 Muenchen,3-1,SC Freiburg
+Fri Feb 18 2000,FC Schalke 04,1-1,Bayer Leverkusen
+Fri Feb 18 2000,Hertha BSC Berlin,2-1,Hamburger SV
+Sat Feb 19 2000,Bayern Muenchen,4-1,MSV Duisburg
+Sat Feb 19 2000,Vfb Stuttgart,0-2,Spvgg Unterhaching
+Sat Feb 19 2000,SC Freiburg,1-1,Borussia Dortmund
+Sat Feb 19 2000,1 FC Kaiserslautern,4-3,Werder Bremen
+Sat Feb 19 2000,Eintracht Frankfurt,3-1,TSV 1860 Muenchen
+Sun Feb 20 2000,Vfl Wolfsburg,2-0,Arminia Bielefeld
+Sun Feb 20 2000,SSV Ulm 1846,1-1,Hansa Rostock
+Fri Feb 25 2000,Hansa Rostock,1-1,SC Freiburg
+Sat Feb 26 2000,Werder Bremen,2-2,Vfl Wolfsburg
+Sat Feb 26 2000,Bayern Muenchen,4-1,Eintracht Frankfurt
+Sat Feb 26 2000,Bayer Leverkusen,3-1,Hertha BSC Berlin
+Sat Feb 26 2000,Hamburger SV,2-1,1 FC Kaiserslautern
+Sat Feb 26 2000,MSV Duisburg,1-3,Vfb Stuttgart
+Sun Feb 27 2000,Borussia Dortmund,1-1,TSV 1860 Muenchen
+Sun Feb 27 2000,Spvgg Unterhaching,3-1,FC Schalke 04
+Mon Feb 28 2000,Arminia Bielefeld,4-1,SSV Ulm 1846
+Fri Mar 3 2000,Vfl Wolfsburg,4-4,Hamburger SV
+Fri Mar 3 2000,SC Freiburg,1-1,Arminia Bielefeld
+Sat Mar 4 2000,Vfb Stuttgart,2-0,Bayern Muenchen
+Sat Mar 4 2000,FC Schalke 04,3-0,MSV Duisburg
+Sat Mar 4 2000,1 FC Kaiserslautern,1-3,Bayer Leverkusen
+Sat Mar 4 2000,Hertha BSC Berlin,2-1,Spvgg Unterhaching
+Sat Mar 4 2000,TSV 1860 Muenchen,4-3,Hansa Rostock
+Sun Mar 5 2000,Eintracht Frankfurt,1-1,Borussia Dortmund
+Sun Mar 5 2000,SSV Ulm 1846,2-1,Werder Bremen
+Fri Mar 10 2000,Vfb Stuttgart,0-2,Eintracht Frankfurt
+Fri Mar 10 2000,Spvgg Unterhaching,1-2,1 FC Kaiserslautern
+Sat Mar 11 2000,Bayern Muenchen,4-1,FC Schalke 04
+Sat Mar 11 2000,Bayer Leverkusen,4-1,Vfl Wolfsburg
+Sat Mar 11 2000,Hamburger SV,1-2,SSV Ulm 1846
+Sat Mar 11 2000,Arminia Bielefeld,2-2,TSV 1860 Muenchen
+Sat Mar 11 2000,MSV Duisburg,0-0,Hertha BSC Berlin
+Sun Mar 12 2000,Werder Bremen,5-2,SC Freiburg
+Sun Mar 12 2000,Hansa Rostock,1-0,Borussia Dortmund
+Fri Mar 17 2000,Vfl Wolfsburg,2-2,Spvgg Unterhaching
+Fri Mar 17 2000,Eintracht Frankfurt,0-0,Hansa Rostock
+Sat Mar 18 2000,FC Schalke 04,3-0,Vfb Stuttgart
+Sat Mar 18 2000,SC Freiburg,0-2,Hamburger SV
+Sat Mar 18 2000,1 FC Kaiserslautern,3-2,MSV Duisburg
+Sat Mar 18 2000,Hertha BSC Berlin,1-1,Bayern Muenchen
+Sat Mar 18 2000,SSV Ulm 1846,1-9,Bayer Leverkusen
+Sun Mar 19 2000,Borussia Dortmund,1-3,Arminia Bielefeld
+Sun Mar 19 2000,TSV 1860 Muenchen,1-0,Werder Bremen
+Fri Mar 24 2000,Arminia Bielefeld,2-2,Hansa Rostock
+Fri Mar 24 2000,Spvgg Unterhaching,1-0,SSV Ulm 1846
+Sat Mar 25 2000,Bayern Muenchen,2-2,1 FC Kaiserslautern
+Sat Mar 25 2000,Vfb Stuttgart,1-0,Hertha BSC Berlin
+Sat Mar 25 2000,Bayer Leverkusen,1-1,SC Freiburg
+Sat Mar 25 2000,Hamburger SV,2-0,TSV 1860 Muenchen
+Sat Mar 25 2000,MSV Duisburg,2-3,Vfl Wolfsburg
+Sun Mar 26 2000,Werder Bremen,3-2,Borussia Dortmund
+Sun Mar 26 2000,FC Schalke 04,0-0,Eintracht Frankfurt
+Fri Mar 31 2000,SC Freiburg,4-3,Spvgg Unterhaching
+Fri Mar 31 2000,SSV Ulm 1846,0-3,MSV Duisburg
+Sat Apr 1 2000,Borussia Dortmund,0-1,Hamburger SV
+Sat Apr 1 2000,Vfl Wolfsburg,1-1,Bayern Muenchen
+Sat Apr 1 2000,Hertha BSC Berlin,2-1,FC Schalke 04
+Sat Apr 1 2000,TSV 1860 Muenchen,1-2,Bayer Leverkusen
+Sat Apr 1 2000,Eintracht Frankfurt,2-1,Arminia Bielefeld
+Sun Apr 2 2000,Hansa Rostock,1-1,Werder Bremen
+Sun Apr 2 2000,1 FC Kaiserslautern,1-2,Vfb Stuttgart
+Fri Apr 7 2000,Hamburger SV,1-0,Hansa Rostock
+Fri Apr 7 2000,Spvgg Unterhaching,1-1,TSV 1860 Muenchen
+Sat Apr 8 2000,Bayern Muenchen,4-0,SSV Ulm 1846
+Sat Apr 8 2000,Vfb Stuttgart,2-5,Vfl Wolfsburg
+Sat Apr 8 2000,Bayer Leverkusen,3-1,Borussia Dortmund
+Sat Apr 8 2000,FC Schalke 04,1-2,1 FC Kaiserslautern
+Sat Apr 8 2000,Hertha BSC Berlin,1-0,Eintracht Frankfurt
+Sun Apr 9 2000,Werder Bremen,3-1,Arminia Bielefeld
+Sun Apr 9 2000,MSV Duisburg,1-2,SC Freiburg
+Tue Apr 11 2000,Borussia Dortmund,1-3,Spvgg Unterhaching
+Tue Apr 11 2000,Vfl Wolfsburg,0-0,FC Schalke 04
+Tue Apr 11 2000,1 FC Kaiserslautern,1-2,Hertha BSC Berlin
+Tue Apr 11 2000,SSV Ulm 1846,1-1,Vfb Stuttgart
+Wed Apr 12 2000,Hansa Rostock,1-1,Bayer Leverkusen
+Wed Apr 12 2000,SC Freiburg,1-2,Bayern Muenchen
+Wed Apr 12 2000,Arminia Bielefeld,3-0,Hamburger SV
+Wed Apr 12 2000,TSV 1860 Muenchen,4-1,MSV Duisburg
+Wed Apr 12 2000,Eintracht Frankfurt,1-0,Werder Bremen
+Fri Apr 14 2000,FC Schalke 04,0-0,SSV Ulm 1846
+Fri Apr 14 2000,Hertha BSC Berlin,0-0,Vfl Wolfsburg
+Sat Apr 15 2000,Bayern Muenchen,1-2,TSV 1860 Muenchen
+Sat Apr 15 2000,Vfb Stuttgart,1-0,SC Freiburg
+Sat Apr 15 2000,Hamburger SV,0-0,Werder Bremen
+Sat Apr 15 2000,1 FC Kaiserslautern,1-0,Eintracht Frankfurt
+Sat Apr 15 2000,MSV Duisburg,2-2,Borussia Dortmund
+Sun Apr 16 2000,Bayer Leverkusen,4-1,Arminia Bielefeld
+Sun Apr 16 2000,Spvgg Unterhaching,1-1,Hansa Rostock
+Thu Apr 20 2000,Werder Bremen,1-3,Bayer Leverkusen
+Thu Apr 20 2000,Eintracht Frankfurt,3-0,Hamburger SV
+Sat Apr 22 2000,Vfl Wolfsburg,3-2,1 FC Kaiserslautern
+Sat Apr 22 2000,Hansa Rostock,3-1,MSV Duisburg
+Sat Apr 22 2000,SC Freiburg,2-1,FC Schalke 04
+Sat Apr 22 2000,TSV 1860 Muenchen,1-1,Vfb Stuttgart
+Sat Apr 22 2000,SSV Ulm 1846,0-1,Hertha BSC Berlin
+Sun Apr 23 2000,Borussia Dortmund,0-1,Bayern Muenchen
+Sun Apr 23 2000,Arminia Bielefeld,1-0,Spvgg Unterhaching
+Thu Apr 27 2000,MSV Duisburg,0-3,Arminia Bielefeld
+Fri Apr 28 2000,Hertha BSC Berlin,0-0,SC Freiburg
+Fri Apr 28 2000,Eintracht Frankfurt,4-0,Vfl Wolfsburg
+Sat Apr 29 2000,Bayern Muenchen,4-1,Hansa Rostock
+Sat Apr 29 2000,Vfb Stuttgart,1-2,Borussia Dortmund
+Sat Apr 29 2000,FC Schalke 04,2-2,TSV 1860 Muenchen
+Sat Apr 29 2000,1 FC Kaiserslautern,6-2,SSV Ulm 1846
+Sun Apr 30 2000,Hamburger SV,0-2,Bayer Leverkusen
+Sun Apr 30 2000,Spvgg Unterhaching,1-0,Werder Bremen
+Sat May 13 2000,Werder Bremen,4-0,MSV Duisburg
+Sat May 13 2000,Bayer Leverkusen,4-1,Eintracht Frankfurt
+Sat May 13 2000,Borussia Dortmund,1-1,FC Schalke 04
+Sat May 13 2000,Hamburger SV,3-0,Spvgg Unterhaching
+Sat May 13 2000,Hansa Rostock,1-4,Vfb Stuttgart
+Sat May 13 2000,SC Freiburg,2-1,1 FC Kaiserslautern
+Sat May 13 2000,Arminia Bielefeld,0-3,Bayern Muenchen
+Sat May 13 2000,TSV 1860 Muenchen,2-1,Hertha BSC Berlin
+Sat May 13 2000,SSV Ulm 1846,2-0,Vfl Wolfsburg
+Sat May 20 2000,Bayern Muenchen,3-1,Werder Bremen
+Sat May 20 2000,Vfb Stuttgart,3-3,Arminia Bielefeld
+Sat May 20 2000,FC Schalke 04,0-2,Hansa Rostock
+Sat May 20 2000,Vfl Wolfsburg,2-1,SC Freiburg
+Sat May 20 2000,1 FC Kaiserslautern,1-1,TSV 1860 Muenchen
+Sat May 20 2000,Hertha BSC Berlin,0-3,Borussia Dortmund
+Sat May 20 2000,Eintracht Frankfurt,2-1,SSV Ulm 1846
+Sat May 20 2000,MSV Duisburg,1-1,Hamburger SV
+Sat May 20 2000,Spvgg Unterhaching,2-0,Bayer Leverkusen

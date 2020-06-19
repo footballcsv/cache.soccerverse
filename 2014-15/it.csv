@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 30 2014,Chievo Verona,0-1,Juventus
+Sat Aug 30 2014,As Roma,2-0,Acf Fiorentina
+Sun Aug 31 2014,Atalanta,0-0,Hellas Verona
+Sun Aug 31 2014,AC Milan,3-1,Lazio Roma
+Sun Aug 31 2014,Ac Cesena,1-0,Parma FC
+Sun Aug 31 2014,Genoa CFc,1-2,Ssc Napoli
+Sun Aug 31 2014,US Palermo,1-1,Sampdoria
+Sun Aug 31 2014,Sassuolo Calcio,1-1,Cagliari Calcio
+Sun Aug 31 2014,Torino FC,0-0,Inter
+Sun Aug 31 2014,Udinese Calcio,2-0,Empoli FC
+Sat Sep 13 2014,Empoli FC,0-1,As Roma
+Sat Sep 13 2014,Juventus,2-0,Udinese Calcio
+Sun Sep 14 2014,Sampdoria,2-0,Torino FC
+Sun Sep 14 2014,Cagliari Calcio,1-2,Atalanta
+Sun Sep 14 2014,Acf Fiorentina,0-0,Genoa CFc
+Sun Sep 14 2014,Inter,7-0,Sassuolo Calcio
+Sun Sep 14 2014,Lazio Roma,3-0,Ac Cesena
+Sun Sep 14 2014,Ssc Napoli,0-1,Chievo Verona
+Sun Sep 14 2014,Parma FC,4-5,AC Milan
+Mon Sep 15 2014,Hellas Verona,2-1,US Palermo
+Sat Sep 20 2014,Ac Cesena,2-2,Empoli FC
+Sat Sep 20 2014,AC Milan,0-1,Juventus
+Sun Sep 21 2014,Chievo Verona,2-3,Parma FC
+Sun Sep 21 2014,Genoa CFc,1-0,Lazio Roma
+Sun Sep 21 2014,As Roma,2-0,Cagliari Calcio
+Sun Sep 21 2014,Sassuolo Calcio,0-0,Sampdoria
+Sun Sep 21 2014,Atalanta,0-1,Acf Fiorentina
+Sun Sep 21 2014,Udinese Calcio,1-0,Ssc Napoli
+Sun Sep 21 2014,US Palermo,1-1,Inter
+Sun Sep 21 2014,Torino FC,0-1,Hellas Verona
+Tue Sep 23 2014,Empoli FC,2-2,AC Milan
+Wed Sep 24 2014,Cagliari Calcio,1-2,Torino FC
+Wed Sep 24 2014,Acf Fiorentina,0-0,Sassuolo Calcio
+Wed Sep 24 2014,Hellas Verona,2-2,Genoa CFc
+Wed Sep 24 2014,Inter,2-0,Atalanta
+Wed Sep 24 2014,Juventus,3-0,Ac Cesena
+Wed Sep 24 2014,Ssc Napoli,3-3,US Palermo
+Wed Sep 24 2014,Parma FC,1-2,As Roma
+Wed Sep 24 2014,Sampdoria,2-1,Chievo Verona
+Thu Sep 25 2014,Lazio Roma,0-1,Udinese Calcio
+Sat Sep 27 2014,As Roma,2-0,Hellas Verona
+Sat Sep 27 2014,Atalanta,0-3,Juventus
+Sun Sep 28 2014,Sassuolo Calcio,0-1,Ssc Napoli
+Sun Sep 28 2014,Ac Cesena,1-1,AC Milan
+Sun Sep 28 2014,Chievo Verona,1-1,Empoli FC
+Sun Sep 28 2014,Inter,1-4,Cagliari Calcio
+Sun Sep 28 2014,Torino FC,1-1,Acf Fiorentina
+Sun Sep 28 2014,Genoa CFc,0-1,Sampdoria
+Mon Sep 29 2014,Udinese Calcio,4-2,Parma FC
+Mon Sep 29 2014,US Palermo,0-4,Lazio Roma
+Sat Oct 4 2014,Hellas Verona,1-0,Cagliari Calcio
+Sat Oct 4 2014,AC Milan,2-0,Chievo Verona
+Sun Oct 5 2014,Empoli FC,3-0,US Palermo
+Sun Oct 5 2014,Lazio Roma,3-2,Sassuolo Calcio
+Sun Oct 5 2014,Parma FC,1-2,Genoa CFc
+Sun Oct 5 2014,Sampdoria,1-0,Atalanta
+Sun Oct 5 2014,Udinese Calcio,1-1,Ac Cesena
+Sun Oct 5 2014,Juventus,3-2,As Roma
+Sun Oct 5 2014,Acf Fiorentina,3-0,Inter
+Sun Oct 5 2014,Ssc Napoli,2-1,Torino FC
+Sat Oct 18 2014,As Roma,3-0,Chievo Verona
+Sat Oct 18 2014,Sassuolo Calcio,1-1,Juventus
+Sun Oct 19 2014,Acf Fiorentina,0-2,Lazio Roma
+Sun Oct 19 2014,Atalanta,1-0,Parma FC
+Sun Oct 19 2014,Cagliari Calcio,2-2,Sampdoria
+Sun Oct 19 2014,Hellas Verona,1-3,AC Milan
+Sun Oct 19 2014,US Palermo,2-1,Ac Cesena
+Sun Oct 19 2014,Torino FC,1-0,Udinese Calcio
+Sun Oct 19 2014,Inter,2-2,Ssc Napoli
+Mon Oct 20 2014,Genoa CFc,1-1,Empoli FC
+Sat Oct 25 2014,Empoli FC,0-4,Cagliari Calcio
+Sat Oct 25 2014,Parma FC,1-3,Sassuolo Calcio
+Sat Oct 25 2014,Sampdoria,0-0,As Roma
+Sun Oct 26 2014,Chievo Verona,1-2,Genoa CFc
+Sun Oct 26 2014,Juventus,2-0,US Palermo
+Sun Oct 26 2014,Udinese Calcio,2-0,Atalanta
+Sun Oct 26 2014,Ac Cesena,0-1,Inter
+Sun Oct 26 2014,Lazio Roma,2-1,Torino FC
+Sun Oct 26 2014,Ssc Napoli,6-2,Hellas Verona
+Sun Oct 26 2014,AC Milan,1-1,Acf Fiorentina
+Tue Oct 28 2014,Sassuolo Calcio,3-1,Empoli FC
+Wed Oct 29 2014,Atalanta,1-1,Ssc Napoli
+Wed Oct 29 2014,Cagliari Calcio,1-1,AC Milan
+Wed Oct 29 2014,Acf Fiorentina,3-0,Udinese Calcio
+Wed Oct 29 2014,Genoa CFc,1-0,Juventus
+Wed Oct 29 2014,Inter,1-0,Sampdoria
+Wed Oct 29 2014,US Palermo,1-0,Chievo Verona
+Wed Oct 29 2014,As Roma,2-0,Ac Cesena
+Wed Oct 29 2014,Torino FC,1-0,Parma FC
+Thu Oct 30 2014,Hellas Verona,1-1,Lazio Roma
+Sat Nov 1 2014,Ssc Napoli,2-0,As Roma
+Sat Nov 1 2014,Empoli FC,0-2,Juventus
+Sat Nov 1 2014,Parma FC,2-0,Inter
+Sun Nov 2 2014,Chievo Verona,0-0,Sassuolo Calcio
+Sun Nov 2 2014,Sampdoria,3-1,Acf Fiorentina
+Sun Nov 2 2014,Torino FC,0-0,Atalanta
+Sun Nov 2 2014,Udinese Calcio,2-4,Genoa CFc
+Sun Nov 2 2014,AC Milan,0-2,US Palermo
+Mon Nov 3 2014,Ac Cesena,1-1,Hellas Verona
+Mon Nov 3 2014,Lazio Roma,4-2,Cagliari Calcio
+Sat Nov 8 2014,Sassuolo Calcio,0-0,Atalanta
+Sat Nov 8 2014,Sampdoria,2-2,AC Milan
+Sun Nov 9 2014,Cagliari Calcio,1-1,Genoa CFc
+Sun Nov 9 2014,Chievo Verona,2-1,Ac Cesena
+Sun Nov 9 2014,Empoli FC,2-1,Lazio Roma
+Sun Nov 9 2014,Juventus,7-0,Parma FC
+Sun Nov 9 2014,US Palermo,1-1,Udinese Calcio
+Sun Nov 9 2014,Acf Fiorentina,0-1,Ssc Napoli
+Sun Nov 9 2014,Inter,2-2,Hellas Verona
+Sun Nov 9 2014,As Roma,3-0,Torino FC
+Sat Nov 22 2014,Atalanta,1-2,As Roma
+Sat Nov 22 2014,Lazio Roma,0-3,Juventus
+Sun Nov 23 2014,Torino FC,0-1,Sassuolo Calcio
+Sun Nov 23 2014,Ac Cesena,1-1,Sampdoria
+Sun Nov 23 2014,Hellas Verona,1-2,Acf Fiorentina
+Sun Nov 23 2014,Ssc Napoli,3-3,Cagliari Calcio
+Sun Nov 23 2014,Parma FC,0-2,Empoli FC
+Sun Nov 23 2014,Udinese Calcio,1-1,Chievo Verona
+Sun Nov 23 2014,AC Milan,1-1,Inter
+Mon Nov 24 2014,Genoa CFc,1-1,US Palermo
+Sat Nov 29 2014,Sassuolo Calcio,2-1,Hellas Verona
+Sat Nov 29 2014,Chievo Verona,0-0,Lazio Roma
+Sun Nov 30 2014,Cagliari Calcio,0-4,Acf Fiorentina
+Sun Nov 30 2014,Ac Cesena,0-3,Genoa CFc
+Sun Nov 30 2014,Empoli FC,0-0,Atalanta
+Sun Nov 30 2014,AC Milan,2-0,Udinese Calcio
+Sun Nov 30 2014,US Palermo,2-1,Parma FC
+Sun Nov 30 2014,Juventus,2-1,Torino FC
+Sun Nov 30 2014,As Roma,4-2,Inter
+Mon Dec 1 2014,Sampdoria,1-1,Ssc Napoli
+Fri Dec 5 2014,Acf Fiorentina,0-0,Juventus
+Sat Dec 6 2014,As Roma,2-2,Sassuolo Calcio
+Sat Dec 6 2014,Torino FC,2-2,US Palermo
+Sun Dec 7 2014,Ssc Napoli,2-2,Empoli FC
+Sun Dec 7 2014,Atalanta,3-2,Ac Cesena
+Sun Dec 7 2014,Genoa CFc,1-0,AC Milan
+Sun Dec 7 2014,Parma FC,1-2,Lazio Roma
+Sun Dec 7 2014,Inter,1-2,Udinese Calcio
+Mon Dec 8 2014,Cagliari Calcio,0-2,Chievo Verona
+Mon Dec 8 2014,Hellas Verona,1-3,Sampdoria
+Sat Dec 13 2014,US Palermo,2-1,Sassuolo Calcio
+Sat Dec 13 2014,Lazio Roma,3-0,Atalanta
+Sun Dec 14 2014,Juventus,1-1,Sampdoria
+Sun Dec 14 2014,Genoa CFc,0-1,As Roma
+Sun Dec 14 2014,Parma FC,0-0,Cagliari Calcio
+Sun Dec 14 2014,Udinese Calcio,1-2,Hellas Verona
+Sun Dec 14 2014,Ac Cesena,1-4,Acf Fiorentina
+Sun Dec 14 2014,AC Milan,2-0,Ssc Napoli
+Mon Dec 15 2014,Empoli FC,0-0,Torino FC
+Mon Dec 15 2014,Chievo Verona,0-2,Inter
+Thu Dec 18 2014,Cagliari Calcio,1-3,Juventus
+Thu Dec 18 2014,Ssc Napoli,2-0,Parma FC
+Sat Dec 20 2014,Sassuolo Calcio,1-1,Ac Cesena
+Sat Dec 20 2014,As Roma,0-0,AC Milan
+Sun Dec 21 2014,Hellas Verona,0-1,Chievo Verona
+Sun Dec 21 2014,Atalanta,3-3,US Palermo
+Sun Dec 21 2014,Acf Fiorentina,1-1,Empoli FC
+Sun Dec 21 2014,Sampdoria,2-2,Udinese Calcio
+Sun Dec 21 2014,Torino FC,2-1,Genoa CFc
+Sun Dec 21 2014,Inter,2-2,Lazio Roma
+Mon Jan 5 2015,Lazio Roma,3-0,Sampdoria
+Tue Jan 6 2015,Udinese Calcio,0-1,As Roma
+Tue Jan 6 2015,Chievo Verona,0-0,Torino FC
+Tue Jan 6 2015,Empoli FC,0-0,Hellas Verona
+Tue Jan 6 2015,Genoa CFc,2-2,Atalanta
+Tue Jan 6 2015,AC Milan,1-2,Sassuolo Calcio
+Tue Jan 6 2015,US Palermo,5-0,Cagliari Calcio
+Tue Jan 6 2015,Parma FC,1-0,Acf Fiorentina
+Tue Jan 6 2015,Ac Cesena,1-4,Ssc Napoli
+Tue Jan 6 2015,Juventus,1-1,Inter
+Sat Jan 10 2015,Sassuolo Calcio,1-1,Udinese Calcio
+Sat Jan 10 2015,Torino FC,1-1,AC Milan
+Sun Jan 11 2015,Inter,3-1,Genoa CFc
+Sun Jan 11 2015,Atalanta,1-1,Chievo Verona
+Sun Jan 11 2015,Cagliari Calcio,2-1,Ac Cesena
+Sun Jan 11 2015,Acf Fiorentina,4-3,US Palermo
+Sun Jan 11 2015,Hellas Verona,3-1,Parma FC
+Sun Jan 11 2015,As Roma,2-2,Lazio Roma
+Sun Jan 11 2015,Sampdoria,1-0,Empoli FC
+Sun Jan 11 2015,Ssc Napoli,1-3,Juventus
+Sat Jan 17 2015,Empoli FC,0-0,Inter
+Sat Jan 17 2015,US Palermo,1-1,As Roma
+Sun Jan 18 2015,Lazio Roma,0-1,Ssc Napoli
+Sun Jan 18 2015,Ac Cesena,2-3,Torino FC
+Sun Jan 18 2015,Chievo Verona,1-2,Acf Fiorentina
+Sun Jan 18 2015,Genoa CFc,3-3,Sassuolo Calcio
+Sun Jan 18 2015,AC Milan,0-1,Atalanta
+Sun Jan 18 2015,Parma FC,0-2,Sampdoria
+Sun Jan 18 2015,Udinese Calcio,2-2,Cagliari Calcio
+Sun Jan 18 2015,Juventus,4-0,Hellas Verona
+Sat Jan 24 2015,Cagliari Calcio,2-1,Sassuolo Calcio
+Sat Jan 24 2015,Lazio Roma,3-1,AC Milan
+Sun Jan 25 2015,Hellas Verona,1-0,Atalanta
+Sun Jan 25 2015,Parma FC,1-2,Ac Cesena
+Sun Jan 25 2015,Juventus,2-0,Chievo Verona
+Sun Jan 25 2015,Sampdoria,1-1,US Palermo
+Sun Jan 25 2015,Inter,0-1,Torino FC
+Sun Jan 25 2015,Acf Fiorentina,1-1,As Roma
+Mon Jan 26 2015,Empoli FC,1-2,Udinese Calcio
+Mon Jan 26 2015,Ssc Napoli,2-1,Genoa CFc
+Sat Jan 31 2015,Genoa CFc,1-1,Acf Fiorentina
+Sat Jan 31 2015,As Roma,1-1,Empoli FC
+Sun Feb 1 2015,Sassuolo Calcio,3-1,Inter
+Sun Feb 1 2015,Atalanta,2-1,Cagliari Calcio
+Sun Feb 1 2015,US Palermo,2-1,Hellas Verona
+Sun Feb 1 2015,Udinese Calcio,0-0,Juventus
+Sun Feb 1 2015,Ac Cesena,2-1,Lazio Roma
+Sun Feb 1 2015,Chievo Verona,1-2,Ssc Napoli
+Sun Feb 1 2015,Torino FC,5-1,Sampdoria
+Sun Feb 1 2015,AC Milan,3-1,Parma FC
+Sat Feb 7 2015,Hellas Verona,1-3,Torino FC
+Sat Feb 7 2015,Juventus,3-1,AC Milan
+Sun Feb 8 2015,Acf Fiorentina,3-2,Atalanta
+Sun Feb 8 2015,Empoli FC,2-0,Ac Cesena
+Sun Feb 8 2015,Cagliari Calcio,1-2,As Roma
+Sun Feb 8 2015,Sampdoria,1-1,Sassuolo Calcio
+Sun Feb 8 2015,Ssc Napoli,3-1,Udinese Calcio
+Sun Feb 8 2015,Inter,3-0,US Palermo
+Mon Feb 9 2015,Lazio Roma,0-1,Genoa CFc
+Wed Feb 11 2015,Parma FC,0-1,Chievo Verona
+Sat Feb 14 2015,Sassuolo Calcio,1-3,Acf Fiorentina
+Sat Feb 14 2015,US Palermo,3-1,Ssc Napoli
+Sun Feb 15 2015,AC Milan,1-1,Empoli FC
+Sun Feb 15 2015,Torino FC,1-1,Cagliari Calcio
+Sun Feb 15 2015,Genoa CFc,5-2,Hellas Verona
+Sun Feb 15 2015,Atalanta,1-4,Inter
+Sun Feb 15 2015,Udinese Calcio,0-1,Lazio Roma
+Sun Feb 15 2015,As Roma,0-0,Parma FC
+Sun Feb 15 2015,Chievo Verona,2-1,Sampdoria
+Sun Feb 15 2015,Ac Cesena,2-2,Juventus
+Fri Feb 20 2015,Juventus,2-1,Atalanta
+Sun Feb 22 2015,AC Milan,2-0,Ac Cesena
+Sun Feb 22 2015,Empoli FC,3-0,Chievo Verona
+Sun Feb 22 2015,Lazio Roma,2-1,US Palermo
+Sun Feb 22 2015,Hellas Verona,1-1,As Roma
+Sun Feb 22 2015,Acf Fiorentina,1-1,Torino FC
+Mon Feb 23 2015,Ssc Napoli,2-0,Sassuolo Calcio
+Mon Feb 23 2015,Cagliari Calcio,1-2,Inter
+Tue Feb 24 2015,Sampdoria,1-1,Genoa CFc
+Sat Feb 28 2015,Chievo Verona,0-0,AC Milan
+Sun Mar 1 2015,Cagliari Calcio,1-2,Hellas Verona
+Sun Mar 1 2015,US Palermo,0-0,Empoli FC
+Sun Mar 1 2015,Sassuolo Calcio,0-3,Lazio Roma
+Sun Mar 1 2015,Atalanta,1-2,Sampdoria
+Sun Mar 1 2015,Ac Cesena,1-0,Udinese Calcio
+Sun Mar 1 2015,Inter,0-1,Acf Fiorentina
+Sun Mar 1 2015,Torino FC,1-0,Ssc Napoli
+Mon Mar 2 2015,As Roma,1-1,Juventus
+Sat Mar 7 2015,Sampdoria,2-0,Cagliari Calcio
+Sat Mar 7 2015,AC Milan,2-2,Hellas Verona
+Sun Mar 8 2015,Ac Cesena,0-0,US Palermo
+Sun Mar 8 2015,Parma FC,0-0,Atalanta
+Sun Mar 8 2015,Empoli FC,1-1,Genoa CFc
+Sun Mar 8 2015,Chievo Verona,0-0,As Roma
+Sun Mar 8 2015,Udinese Calcio,3-2,Torino FC
+Sun Mar 8 2015,Ssc Napoli,2-2,Inter
+Mon Mar 9 2015,Lazio Roma,4-0,Acf Fiorentina
+Mon Mar 9 2015,Juventus,1-0,Sassuolo Calcio
+Sat Mar 14 2015,US Palermo,0-1,Juventus
+Sat Mar 14 2015,Cagliari Calcio,1-1,Empoli FC
+Sun Mar 15 2015,Genoa CFc,0-2,Chievo Verona
+Sun Mar 15 2015,Sassuolo Calcio,4-1,Parma FC
+Sun Mar 15 2015,Atalanta,0-0,Udinese Calcio
+Sun Mar 15 2015,Hellas Verona,2-0,Ssc Napoli
+Sun Mar 15 2015,Inter,1-1,Ac Cesena
+Mon Mar 16 2015,Torino FC,0-2,Lazio Roma
+Mon Mar 16 2015,Acf Fiorentina,2-1,AC Milan
+Mon Mar 16 2015,As Roma,0-2,Sampdoria
+Sat Mar 21 2015,Chievo Verona,1-0,US Palermo
+Sat Mar 21 2015,AC Milan,3-1,Cagliari Calcio
+Sun Mar 22 2015,Empoli FC,3-1,Sassuolo Calcio
+Sun Mar 22 2015,Juventus,1-0,Genoa CFc
+Sun Mar 22 2015,Ssc Napoli,1-1,Atalanta
+Sun Mar 22 2015,Udinese Calcio,2-2,Acf Fiorentina
+Sun Mar 22 2015,Lazio Roma,2-0,Hellas Verona
+Sun Mar 22 2015,Sampdoria,1-0,Inter
+Sun Mar 22 2015,Ac Cesena,0-1,As Roma
+Sun Mar 22 2015,Parma FC,0-2,Torino FC
+Sat Apr 4 2015,As Roma,1-0,Ssc Napoli
+Sat Apr 4 2015,Hellas Verona,3-3,Ac Cesena
+Sat Apr 4 2015,Sassuolo Calcio,1-0,Chievo Verona
+Sat Apr 4 2015,Cagliari Calcio,1-3,Lazio Roma
+Sat Apr 4 2015,US Palermo,1-2,AC Milan
+Sat Apr 4 2015,Inter,1-1,Parma FC
+Sat Apr 4 2015,Atalanta,1-2,Torino FC
+Sat Apr 4 2015,Genoa CFc,1-1,Udinese Calcio
+Sat Apr 4 2015,Acf Fiorentina,2-0,Sampdoria
+Sat Apr 4 2015,Juventus,2-0,Empoli FC
+Wed Apr 8 2015,Parma FC,1-0,Udinese Calcio
+Sat Apr 11 2015,Genoa CFc,2-0,Cagliari Calcio
+Sat Apr 11 2015,Parma FC,1-0,Juventus
+Sat Apr 11 2015,Hellas Verona,0-3,Inter
+Sun Apr 12 2015,Ac Cesena,0-1,Chievo Verona
+Sun Apr 12 2015,Lazio Roma,4-0,Empoli FC
+Sun Apr 12 2015,Ssc Napoli,3-0,Acf Fiorentina
+Sun Apr 12 2015,Udinese Calcio,1-3,US Palermo
+Sun Apr 12 2015,Torino FC,1-1,As Roma
+Sun Apr 12 2015,Atalanta,2-1,Sassuolo Calcio
+Sun Apr 12 2015,AC Milan,1-1,Sampdoria
+Wed Apr 15 2015,Genoa CFc,2-0,Parma FC
+Sat Apr 18 2015,Sampdoria,0-0,Ac Cesena
+Sat Apr 18 2015,Juventus,2-0,Lazio Roma
+Sun Apr 19 2015,Sassuolo Calcio,1-1,Torino FC
+Sun Apr 19 2015,As Roma,1-1,Atalanta
+Sun Apr 19 2015,US Palermo,2-1,Genoa CFc
+Sun Apr 19 2015,Empoli FC,2-2,Parma FC
+Sun Apr 19 2015,Chievo Verona,1-1,Udinese Calcio
+Sun Apr 19 2015,Cagliari Calcio,0-3,Ssc Napoli
+Sun Apr 19 2015,Inter,0-0,AC Milan
+Mon Apr 20 2015,Acf Fiorentina,0-1,Hellas Verona
+Sat Apr 25 2015,Udinese Calcio,2-1,AC Milan
+Sat Apr 25 2015,Inter,2-1,As Roma
+Sun Apr 26 2015,Atalanta,2-2,Empoli FC
+Sun Apr 26 2015,Genoa CFc,3-1,Ac Cesena
+Sun Apr 26 2015,Lazio Roma,1-1,Chievo Verona
+Sun Apr 26 2015,Torino FC,2-1,Juventus
+Sun Apr 26 2015,Parma FC,1-0,US Palermo
+Sun Apr 26 2015,Hellas Verona,3-2,Sassuolo Calcio
+Sun Apr 26 2015,Acf Fiorentina,1-3,Cagliari Calcio
+Sun Apr 26 2015,Ssc Napoli,4-2,Sampdoria
+Tue Apr 28 2015,Udinese Calcio,1-2,Inter
+Wed Apr 29 2015,Ac Cesena,2-2,Atalanta
+Wed Apr 29 2015,Chievo Verona,1-0,Cagliari Calcio
+Wed Apr 29 2015,Juventus,3-2,Acf Fiorentina
+Wed Apr 29 2015,AC Milan,1-3,Genoa CFc
+Wed Apr 29 2015,Sampdoria,1-1,Hellas Verona
+Wed Apr 29 2015,Lazio Roma,4-0,Parma FC
+Wed Apr 29 2015,Sassuolo Calcio,0-3,As Roma
+Wed Apr 29 2015,US Palermo,2-2,Torino FC
+Thu Apr 30 2015,Empoli FC,4-2,Ssc Napoli
+Sat May 2 2015,Sampdoria,0-1,Juventus
+Sat May 2 2015,Sassuolo Calcio,0-0,US Palermo
+Sun May 3 2015,As Roma,2-0,Genoa CFc
+Sun May 3 2015,Acf Fiorentina,3-1,Ac Cesena
+Sun May 3 2015,Inter,0-0,Chievo Verona
+Sun May 3 2015,Atalanta,1-1,Lazio Roma
+Sun May 3 2015,Hellas Verona,0-1,Udinese Calcio
+Sun May 3 2015,Ssc Napoli,3-0,AC Milan
+Mon May 4 2015,Cagliari Calcio,4-0,Parma FC
+Wed May 6 2015,Torino FC,0-1,Empoli FC
+Sat May 9 2015,Juventus,1-1,Cagliari Calcio
+Sat May 9 2015,AC Milan,2-1,As Roma
+Sun May 10 2015,Chievo Verona,2-2,Hellas Verona
+Sun May 10 2015,US Palermo,2-3,Atalanta
+Sun May 10 2015,Udinese Calcio,1-4,Sampdoria
+Sun May 10 2015,Ac Cesena,2-3,Sassuolo Calcio
+Sun May 10 2015,Empoli FC,2-3,Acf Fiorentina
+Sun May 10 2015,Parma FC,2-2,Ssc Napoli
+Sun May 10 2015,Lazio Roma,1-2,Inter
+Mon May 11 2015,Genoa CFc,5-1,Torino FC
+Sat May 16 2015,Inter,1-2,Juventus
+Sat May 16 2015,Sampdoria,0-1,Lazio Roma
+Sun May 17 2015,Sassuolo Calcio,3-2,AC Milan
+Sun May 17 2015,Torino FC,2-0,Chievo Verona
+Sun May 17 2015,Hellas Verona,2-1,Empoli FC
+Sun May 17 2015,Atalanta,1-4,Genoa CFc
+Sun May 17 2015,Cagliari Calcio,0-1,US Palermo
+Sun May 17 2015,As Roma,2-1,Udinese Calcio
+Mon May 18 2015,Acf Fiorentina,3-0,Parma FC
+Mon May 18 2015,Ssc Napoli,3-2,Ac Cesena
+Sat May 23 2015,Juventus,3-1,Ssc Napoli
+Sat May 23 2015,Genoa CFc,3-2,Inter
+Sun May 24 2015,Empoli FC,1-1,Sampdoria
+Sun May 24 2015,Chievo Verona,1-1,Atalanta
+Sun May 24 2015,Ac Cesena,0-1,Cagliari Calcio
+Sun May 24 2015,US Palermo,2-3,Acf Fiorentina
+Sun May 24 2015,Parma FC,2-2,Hellas Verona
+Sun May 24 2015,Udinese Calcio,0-1,Sassuolo Calcio
+Sun May 24 2015,AC Milan,3-0,Torino FC
+Mon May 25 2015,Lazio Roma,1-2,As Roma
+Sat May 30 2015,Hellas Verona,2-2,Juventus
+Sat May 30 2015,Atalanta,1-3,AC Milan
+Sun May 31 2015,Cagliari Calcio,4-3,Udinese Calcio
+Sun May 31 2015,Torino FC,5-0,Ac Cesena
+Sun May 31 2015,Acf Fiorentina,3-0,Chievo Verona
+Sun May 31 2015,Inter,4-3,Empoli FC
+Sun May 31 2015,Sassuolo Calcio,3-1,Genoa CFc
+Sun May 31 2015,Ssc Napoli,2-4,Lazio Roma
+Sun May 31 2015,As Roma,1-2,US Palermo
+Sun May 31 2015,Sampdoria,2-2,Parma FC

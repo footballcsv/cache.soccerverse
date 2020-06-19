@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sun Sep 5 1993,CD Tenerife,1-0,Lleida Esportiu
+Sun Sep 5 1993,Racing Santander,1-0,Rayo Vallecano
+Sun Sep 5 1993,Atletico Madrid,1-0,CD Logrones
+Sun Sep 5 1993,Real Oviedo,0-3,Valencia CF
+Sun Sep 5 1993,Deportivo La Coruna,0-0,Celta Vigo
+Sun Sep 5 1993,Real Valladolid,0-1,Sporting Gijon
+Sun Sep 5 1993,CA Osasuna,1-4,Real Madrid
+Sun Sep 5 1993,Real Zaragoza,1-2,Sevilla FC
+Sun Sep 5 1993,FC Barcelona,3-0,Real Sociedad
+Sun Sep 5 1993,Athletic Bilbao,4-1,Albacete
+Sun Sep 12 1993,Lleida Esportiu,1-2,Athletic Bilbao
+Sun Sep 12 1993,Rayo Vallecano,4-3,CD Tenerife
+Sun Sep 12 1993,CD Logrones,0-1,Racing Santander
+Sun Sep 12 1993,Valencia CF,2-2,Atletico Madrid
+Sun Sep 12 1993,Celta Vigo,1-1,Real Oviedo
+Sun Sep 12 1993,Sporting Gijon,0-2,Deportivo La Coruna
+Sun Sep 12 1993,Real Madrid,1-3,Real Valladolid
+Sun Sep 12 1993,Sevilla FC,1-1,CA Osasuna
+Sun Sep 12 1993,Real Sociedad,2-2,Real Zaragoza
+Sun Sep 12 1993,Albacete,0-0,FC Barcelona
+Sun Sep 19 1993,Lleida Esportiu,0-1,Rayo Vallecano
+Sun Sep 19 1993,CD Tenerife,2-0,CD Logrones
+Sun Sep 19 1993,Racing Santander,0-1,Valencia CF
+Sun Sep 19 1993,Atletico Madrid,3-2,Celta Vigo
+Sun Sep 19 1993,Real Oviedo,0-1,Sporting Gijon
+Sun Sep 19 1993,Deportivo La Coruna,4-0,Real Madrid
+Sun Sep 19 1993,Real Valladolid,2-2,Sevilla FC
+Sun Sep 19 1993,CA Osasuna,0-2,Real Sociedad
+Sun Sep 19 1993,Real Zaragoza,1-1,Albacete
+Sun Sep 19 1993,Athletic Bilbao,0-0,FC Barcelona
+Sun Sep 26 1993,Rayo Vallecano,1-2,Athletic Bilbao
+Sun Sep 26 1993,CD Logrones,2-1,Lleida Esportiu
+Sun Sep 26 1993,Valencia CF,3-2,CD Tenerife
+Sun Sep 26 1993,Celta Vigo,0-0,Racing Santander
+Sun Sep 26 1993,Sporting Gijon,1-1,Atletico Madrid
+Sun Sep 26 1993,Real Madrid,0-1,Real Oviedo
+Sun Sep 26 1993,Sevilla FC,0-0,Deportivo La Coruna
+Sun Sep 26 1993,Real Sociedad,1-0,Real Valladolid
+Sun Sep 26 1993,Albacete,2-1,CA Osasuna
+Sun Sep 26 1993,FC Barcelona,4-1,Real Zaragoza
+Sun Oct 3 1993,Rayo Vallecano,3-1,CD Logrones
+Sun Oct 3 1993,Lleida Esportiu,1-1,Valencia CF
+Sun Oct 3 1993,CD Tenerife,0-0,Celta Vigo
+Sun Oct 3 1993,Racing Santander,2-0,Sporting Gijon
+Sun Oct 3 1993,Atletico Madrid,0-0,Real Madrid
+Sun Oct 3 1993,Real Oviedo,0-2,Sevilla FC
+Sun Oct 3 1993,Deportivo La Coruna,0-1,Real Sociedad
+Sun Oct 3 1993,Real Valladolid,1-0,Albacete
+Sun Oct 3 1993,CA Osasuna,2-3,FC Barcelona
+Sun Oct 3 1993,Athletic Bilbao,2-1,Real Zaragoza
+Wed Oct 6 1993,CD Logrones,4-2,Athletic Bilbao
+Wed Oct 6 1993,Valencia CF,3-1,Rayo Vallecano
+Wed Oct 6 1993,Celta Vigo,1-0,Lleida Esportiu
+Wed Oct 6 1993,Sporting Gijon,1-2,CD Tenerife
+Wed Oct 6 1993,Real Madrid,2-1,Racing Santander
+Wed Oct 6 1993,Sevilla FC,2-1,Atletico Madrid
+Wed Oct 6 1993,Real Sociedad,2-2,Real Oviedo
+Wed Oct 6 1993,Albacete,0-0,Deportivo La Coruna
+Wed Oct 6 1993,FC Barcelona,3-0,Real Valladolid
+Wed Oct 6 1993,Real Zaragoza,2-1,CA Osasuna
+Sun Oct 17 1993,CD Logrones,2-0,Valencia CF
+Sun Oct 17 1993,Rayo Vallecano,1-1,Celta Vigo
+Sun Oct 17 1993,Lleida Esportiu,1-1,Sporting Gijon
+Sun Oct 17 1993,CD Tenerife,0-0,Real Madrid
+Sun Oct 17 1993,Racing Santander,1-0,Sevilla FC
+Sun Oct 17 1993,Atletico Madrid,1-2,Real Sociedad
+Sun Oct 17 1993,Real Oviedo,1-1,Albacete
+Sun Oct 17 1993,Deportivo La Coruna,1-0,FC Barcelona
+Sun Oct 17 1993,Real Valladolid,0-0,Real Zaragoza
+Sun Oct 17 1993,Athletic Bilbao,1-2,CA Osasuna
+Sun Oct 24 1993,Valencia CF,1-0,Athletic Bilbao
+Sun Oct 24 1993,Celta Vigo,2-0,CD Logrones
+Sun Oct 24 1993,Sporting Gijon,2-0,Rayo Vallecano
+Sun Oct 24 1993,Real Madrid,5-0,Lleida Esportiu
+Sun Oct 24 1993,Sevilla FC,4-0,CD Tenerife
+Sun Oct 24 1993,Real Sociedad,2-0,Racing Santander
+Sun Oct 24 1993,Albacete,2-2,Atletico Madrid
+Sun Oct 24 1993,FC Barcelona,1-0,Real Oviedo
+Sun Oct 24 1993,Real Zaragoza,0-1,Deportivo La Coruna
+Sun Oct 24 1993,CA Osasuna,2-0,Real Valladolid
+Sun Oct 31 1993,Valencia CF,3-0,Celta Vigo
+Sun Oct 31 1993,CD Logrones,1-2,Sporting Gijon
+Sun Oct 31 1993,Rayo Vallecano,0-2,Real Madrid
+Sun Oct 31 1993,Lleida Esportiu,0-3,Sevilla FC
+Sun Oct 31 1993,CD Tenerife,2-1,Real Sociedad
+Sun Oct 31 1993,Racing Santander,1-1,Albacete
+Sun Oct 31 1993,Atletico Madrid,4-3,FC Barcelona
+Sun Oct 31 1993,Real Oviedo,2-1,Real Zaragoza
+Sun Oct 31 1993,Deportivo La Coruna,3-1,CA Osasuna
+Sun Oct 31 1993,Athletic Bilbao,3-0,Real Valladolid
+Sun Nov 7 1993,Celta Vigo,1-1,Athletic Bilbao
+Sun Nov 7 1993,Sporting Gijon,2-0,Valencia CF
+Sun Nov 7 1993,Real Madrid,2-1,CD Logrones
+Sun Nov 7 1993,Sevilla FC,3-1,Rayo Vallecano
+Sun Nov 7 1993,Real Sociedad,1-3,Lleida Esportiu
+Sun Nov 7 1993,Albacete,2-3,CD Tenerife
+Sun Nov 7 1993,FC Barcelona,2-1,Racing Santander
+Sun Nov 7 1993,Real Zaragoza,2-1,Atletico Madrid
+Sun Nov 7 1993,CA Osasuna,2-0,Real Oviedo
+Sun Nov 7 1993,Real Valladolid,0-0,Deportivo La Coruna
+Wed Nov 10 1993,Celta Vigo,0-2,Sporting Gijon
+Wed Nov 10 1993,Valencia CF,0-3,Real Madrid
+Wed Nov 10 1993,CD Logrones,1-1,Sevilla FC
+Wed Nov 10 1993,Rayo Vallecano,4-1,Real Sociedad
+Wed Nov 10 1993,Lleida Esportiu,0-1,Albacete
+Wed Nov 10 1993,CD Tenerife,2-3,FC Barcelona
+Wed Nov 10 1993,Racing Santander,2-0,Real Zaragoza
+Wed Nov 10 1993,Atletico Madrid,3-0,CA Osasuna
+Wed Nov 10 1993,Real Oviedo,1-0,Real Valladolid
+Wed Nov 10 1993,Athletic Bilbao,3-1,Deportivo La Coruna
+Sun Nov 21 1993,Sporting Gijon,0-1,Athletic Bilbao
+Sun Nov 21 1993,Real Madrid,2-1,Celta Vigo
+Sun Nov 21 1993,Sevilla FC,0-1,Valencia CF
+Sun Nov 21 1993,Real Sociedad,2-2,CD Logrones
+Sun Nov 21 1993,Albacete,1-1,Rayo Vallecano
+Sun Nov 21 1993,FC Barcelona,0-1,Lleida Esportiu
+Sun Nov 21 1993,Real Zaragoza,6-2,CD Tenerife
+Sun Nov 21 1993,CA Osasuna,0-0,Racing Santander
+Sun Nov 21 1993,Real Valladolid,1-1,Atletico Madrid
+Sun Nov 21 1993,Deportivo La Coruna,4-0,Real Oviedo
+Sun Nov 28 1993,Sporting Gijon,2-1,Real Madrid
+Sun Nov 28 1993,Celta Vigo,2-1,Sevilla FC
+Sun Nov 28 1993,Valencia CF,0-0,Real Sociedad
+Sun Nov 28 1993,CD Logrones,2-2,Albacete
+Sun Nov 28 1993,Rayo Vallecano,2-4,FC Barcelona
+Sun Nov 28 1993,Lleida Esportiu,0-1,Real Zaragoza
+Sun Nov 28 1993,CD Tenerife,1-0,CA Osasuna
+Sun Nov 28 1993,Racing Santander,5-1,Real Valladolid
+Sun Nov 28 1993,Atletico Madrid,0-1,Deportivo La Coruna
+Sun Nov 28 1993,Athletic Bilbao,1-1,Real Oviedo
+Sun Dec 5 1993,Real Madrid,2-1,Athletic Bilbao
+Sun Dec 5 1993,Sevilla FC,1-2,Sporting Gijon
+Sun Dec 5 1993,Real Sociedad,2-1,Celta Vigo
+Sun Dec 5 1993,Albacete,3-1,Valencia CF
+Sun Dec 5 1993,FC Barcelona,2-2,CD Logrones
+Sun Dec 5 1993,Real Zaragoza,4-1,Rayo Vallecano
+Sun Dec 5 1993,CA Osasuna,1-0,Lleida Esportiu
+Sun Dec 5 1993,Real Valladolid,2-0,CD Tenerife
+Sun Dec 5 1993,Deportivo La Coruna,1-0,Racing Santander
+Sun Dec 5 1993,Real Oviedo,1-1,Atletico Madrid
+Sun Dec 12 1993,Real Madrid,0-0,Sevilla FC
+Sun Dec 12 1993,Sporting Gijon,3-2,Real Sociedad
+Sun Dec 12 1993,Celta Vigo,1-4,Albacete
+Sun Dec 12 1993,Valencia CF,0-4,FC Barcelona
+Sun Dec 12 1993,CD Logrones,2-2,Real Zaragoza
+Sun Dec 12 1993,Rayo Vallecano,1-0,CA Osasuna
+Sun Dec 12 1993,Lleida Esportiu,1-0,Real Valladolid
+Sun Dec 12 1993,CD Tenerife,0-1,Deportivo La Coruna
+Sun Dec 12 1993,Racing Santander,1-2,Real Oviedo
+Sun Dec 12 1993,Athletic Bilbao,3-2,Atletico Madrid
+Sun Dec 19 1993,Sevilla FC,1-3,Athletic Bilbao
+Sun Dec 19 1993,Real Sociedad,2-0,Real Madrid
+Sun Dec 19 1993,Albacete,3-1,Sporting Gijon
+Sun Dec 19 1993,FC Barcelona,1-0,Celta Vigo
+Sun Dec 19 1993,Real Zaragoza,1-0,Valencia CF
+Sun Dec 19 1993,CA Osasuna,1-3,CD Logrones
+Sun Dec 19 1993,Real Valladolid,1-3,Rayo Vallecano
+Sun Dec 19 1993,Deportivo La Coruna,2-0,Lleida Esportiu
+Sun Dec 19 1993,Real Oviedo,1-0,CD Tenerife
+Sun Dec 19 1993,Atletico Madrid,4-0,Racing Santander
+Sun Jan 2 1994,Sevilla FC,1-0,Real Sociedad
+Sun Jan 2 1994,Real Madrid,2-0,Albacete
+Sun Jan 2 1994,Sporting Gijon,2-0,FC Barcelona
+Sun Jan 2 1994,Celta Vigo,1-0,Real Zaragoza
+Sun Jan 2 1994,Valencia CF,0-0,CA Osasuna
+Sun Jan 2 1994,CD Logrones,0-0,Real Valladolid
+Sun Jan 2 1994,Rayo Vallecano,0-0,Deportivo La Coruna
+Sun Jan 2 1994,Lleida Esportiu,1-1,Real Oviedo
+Sun Jan 2 1994,CD Tenerife,1-1,Atletico Madrid
+Sun Jan 2 1994,Athletic Bilbao,1-2,Racing Santander
+Sun Jan 9 1994,Athletic Bilbao,0-0,Real Sociedad
+Sun Jan 9 1994,Albacete,2-2,Sevilla FC
+Sun Jan 9 1994,FC Barcelona,5-0,Real Madrid
+Sun Jan 9 1994,Real Zaragoza,3-0,Sporting Gijon
+Sun Jan 9 1994,CA Osasuna,0-1,Celta Vigo
+Sun Jan 9 1994,Real Valladolid,1-1,Valencia CF
+Sun Jan 9 1994,Deportivo La Coruna,3-0,CD Logrones
+Sun Jan 9 1994,Real Oviedo,5-0,Rayo Vallecano
+Sun Jan 9 1994,Atletico Madrid,0-0,Lleida Esportiu
+Sun Jan 9 1994,Racing Santander,1-0,CD Tenerife
+Sun Jan 16 1994,Real Sociedad,1-1,Albacete
+Sun Jan 16 1994,Sevilla FC,0-0,FC Barcelona
+Sun Jan 16 1994,Real Madrid,3-2,Real Zaragoza
+Sun Jan 16 1994,Sporting Gijon,7-1,CA Osasuna
+Sun Jan 16 1994,Celta Vigo,1-2,Real Valladolid
+Sun Jan 16 1994,Valencia CF,1-3,Deportivo La Coruna
+Sun Jan 16 1994,CD Logrones,2-2,Real Oviedo
+Sun Jan 16 1994,Rayo Vallecano,2-1,Atletico Madrid
+Sun Jan 16 1994,Lleida Esportiu,0-0,Racing Santander
+Sun Jan 16 1994,CD Tenerife,2-1,Athletic Bilbao
+Sun Jan 23 1994,Lleida Esportiu,1-1,CD Tenerife
+Sun Jan 23 1994,Rayo Vallecano,1-1,Racing Santander
+Sun Jan 23 1994,CD Logrones,1-0,Atletico Madrid
+Sun Jan 23 1994,Valencia CF,2-2,Real Oviedo
+Sun Jan 23 1994,Celta Vigo,0-0,Deportivo La Coruna
+Sun Jan 23 1994,Sporting Gijon,2-0,Real Valladolid
+Sun Jan 23 1994,Real Madrid,0-0,CA Osasuna
+Sun Jan 23 1994,Sevilla FC,0-1,Real Zaragoza
+Sun Jan 23 1994,Real Sociedad,2-1,FC Barcelona
+Sun Jan 23 1994,Albacete,1-0,Athletic Bilbao
+Sun Jan 30 1994,Athletic Bilbao,4-0,Lleida Esportiu
+Sun Jan 30 1994,CD Tenerife,3-1,Rayo Vallecano
+Sun Jan 30 1994,Racing Santander,0-0,CD Logrones
+Sun Jan 30 1994,Atletico Madrid,2-0,Valencia CF
+Sun Jan 30 1994,Real Oviedo,1-0,Celta Vigo
+Sun Jan 30 1994,Deportivo La Coruna,2-1,Sporting Gijon
+Sun Jan 30 1994,Real Valladolid,0-0,Real Madrid
+Sun Jan 30 1994,CA Osasuna,0-0,Sevilla FC
+Sun Jan 30 1994,Real Zaragoza,3-0,Real Sociedad
+Sun Jan 30 1994,FC Barcelona,2-1,Albacete
+Sun Feb 6 1994,Rayo Vallecano,1-2,Lleida Esportiu
+Sun Feb 6 1994,CD Logrones,1-2,CD Tenerife
+Sun Feb 6 1994,Valencia CF,2-1,Racing Santander
+Sun Feb 6 1994,Celta Vigo,3-2,Atletico Madrid
+Sun Feb 6 1994,Sporting Gijon,0-0,Real Oviedo
+Sun Feb 6 1994,Real Madrid,2-0,Deportivo La Coruna
+Sun Feb 6 1994,Sevilla FC,3-3,Real Valladolid
+Sun Feb 6 1994,Real Sociedad,1-0,CA Osasuna
+Sun Feb 6 1994,Albacete,2-1,Real Zaragoza
+Sun Feb 6 1994,FC Barcelona,2-3,Athletic Bilbao
+Sun Feb 13 1994,Athletic Bilbao,0-0,Rayo Vallecano
+Sun Feb 13 1994,Lleida Esportiu,1-1,CD Logrones
+Sun Feb 13 1994,CD Tenerife,1-0,Valencia CF
+Sun Feb 13 1994,Racing Santander,2-1,Celta Vigo
+Sun Feb 13 1994,Atletico Madrid,2-0,Sporting Gijon
+Sun Feb 13 1994,Real Oviedo,0-1,Real Madrid
+Sun Feb 13 1994,Deportivo La Coruna,2-0,Sevilla FC
+Sun Feb 13 1994,Real Valladolid,0-0,Real Sociedad
+Sun Feb 13 1994,CA Osasuna,3-1,Albacete
+Sun Feb 13 1994,Real Zaragoza,6-3,FC Barcelona
+Sun Feb 20 1994,CD Logrones,1-1,Rayo Vallecano
+Sun Feb 20 1994,Valencia CF,3-3,Lleida Esportiu
+Sun Feb 20 1994,Celta Vigo,1-0,CD Tenerife
+Sun Feb 20 1994,Sporting Gijon,0-2,Racing Santander
+Sun Feb 20 1994,Real Madrid,1-0,Atletico Madrid
+Sun Feb 20 1994,Sevilla FC,2-0,Real Oviedo
+Sun Feb 20 1994,Real Sociedad,0-1,Deportivo La Coruna
+Sun Feb 20 1994,Albacete,1-1,Real Valladolid
+Sun Feb 20 1994,FC Barcelona,8-1,CA Osasuna
+Sun Feb 20 1994,Real Zaragoza,1-0,Athletic Bilbao
+Wed Feb 23 1994,Athletic Bilbao,0-0,CD Logrones
+Wed Feb 23 1994,Rayo Vallecano,1-1,Valencia CF
+Wed Feb 23 1994,Lleida Esportiu,0-0,Celta Vigo
+Wed Feb 23 1994,CD Tenerife,3-0,Sporting Gijon
+Wed Feb 23 1994,Racing Santander,1-3,Real Madrid
+Wed Feb 23 1994,Atletico Madrid,2-4,Sevilla FC
+Wed Feb 23 1994,Real Oviedo,2-1,Real Sociedad
+Wed Feb 23 1994,Deportivo La Coruna,5-1,Albacete
+Wed Feb 23 1994,Real Valladolid,1-3,FC Barcelona
+Wed Feb 23 1994,CA Osasuna,0-0,Real Zaragoza
+Sun Feb 27 1994,Valencia CF,3-1,CD Logrones
+Sun Feb 27 1994,Celta Vigo,0-0,Rayo Vallecano
+Sun Feb 27 1994,Sporting Gijon,1-1,Lleida Esportiu
+Sun Feb 27 1994,Real Madrid,1-1,CD Tenerife
+Sun Feb 27 1994,Sevilla FC,2-1,Racing Santander
+Sun Feb 27 1994,Real Sociedad,2-1,Atletico Madrid
+Sun Feb 27 1994,Albacete,5-0,Real Oviedo
+Sun Feb 27 1994,FC Barcelona,3-0,Deportivo La Coruna
+Sun Feb 27 1994,Real Zaragoza,2-0,Real Valladolid
+Sun Feb 27 1994,CA Osasuna,0-0,Athletic Bilbao
+Sun Mar 6 1994,Athletic Bilbao,2-1,Valencia CF
+Sun Mar 6 1994,CD Logrones,1-1,Celta Vigo
+Sun Mar 6 1994,Rayo Vallecano,2-1,Sporting Gijon
+Sun Mar 6 1994,Lleida Esportiu,2-1,Real Madrid
+Sun Mar 6 1994,CD Tenerife,2-1,Sevilla FC
+Sun Mar 6 1994,Racing Santander,4-1,Real Sociedad
+Sun Mar 6 1994,Atletico Madrid,0-0,Albacete
+Sun Mar 6 1994,Real Oviedo,1-3,FC Barcelona
+Sun Mar 6 1994,Deportivo La Coruna,1-1,Real Zaragoza
+Sun Mar 6 1994,Real Valladolid,2-1,CA Osasuna
+Sun Mar 13 1994,Celta Vigo,1-2,Valencia CF
+Sun Mar 13 1994,Sporting Gijon,1-2,CD Logrones
+Sun Mar 13 1994,Real Madrid,5-2,Rayo Vallecano
+Sun Mar 13 1994,Sevilla FC,2-1,Lleida Esportiu
+Sun Mar 13 1994,Real Sociedad,2-1,CD Tenerife
+Sun Mar 13 1994,Albacete,3-0,Racing Santander
+Sun Mar 13 1994,FC Barcelona,5-3,Atletico Madrid
+Sun Mar 13 1994,Real Zaragoza,2-1,Real Oviedo
+Sun Mar 13 1994,CA Osasuna,0-0,Deportivo La Coruna
+Sun Mar 13 1994,Real Valladolid,1-1,Athletic Bilbao
+Sun Mar 20 1994,Athletic Bilbao,2-1,Celta Vigo
+Sun Mar 20 1994,Valencia CF,1-0,Sporting Gijon
+Sun Mar 20 1994,CD Logrones,3-4,Real Madrid
+Sun Mar 20 1994,Rayo Vallecano,2-1,Sevilla FC
+Sun Mar 20 1994,Lleida Esportiu,1-0,Real Sociedad
+Sun Mar 20 1994,CD Tenerife,2-1,Albacete
+Sun Mar 20 1994,Racing Santander,1-1,FC Barcelona
+Sun Mar 20 1994,Atletico Madrid,0-4,Real Zaragoza
+Sun Mar 20 1994,Real Oviedo,1-0,CA Osasuna
+Sun Mar 20 1994,Deportivo La Coruna,0-0,Real Valladolid
+Sun Mar 27 1994,Sporting Gijon,2-1,Celta Vigo
+Sun Mar 27 1994,Real Madrid,3-2,Valencia CF
+Sun Mar 27 1994,Sevilla FC,4-1,CD Logrones
+Sun Mar 27 1994,Real Sociedad,1-1,Rayo Vallecano
+Sun Mar 27 1994,Albacete,2-1,Lleida Esportiu
+Sun Mar 27 1994,FC Barcelona,2-1,CD Tenerife
+Sun Mar 27 1994,Real Zaragoza,2-0,Racing Santander
+Sun Mar 27 1994,CA Osasuna,0-1,Atletico Madrid
+Sun Mar 27 1994,Real Valladolid,0-0,Real Oviedo
+Sun Mar 27 1994,Deportivo La Coruna,4-1,Athletic Bilbao
+Sun Apr 3 1994,Athletic Bilbao,7-0,Sporting Gijon
+Sun Apr 3 1994,Celta Vigo,3-2,Real Madrid
+Sun Apr 3 1994,Valencia CF,1-1,Sevilla FC
+Sun Apr 3 1994,CD Logrones,2-0,Real Sociedad
+Sun Apr 3 1994,Rayo Vallecano,0-0,Albacete
+Sun Apr 3 1994,Lleida Esportiu,1-2,FC Barcelona
+Sun Apr 3 1994,CD Tenerife,5-3,Real Zaragoza
+Sun Apr 3 1994,Racing Santander,3-1,CA Osasuna
+Sun Apr 3 1994,Atletico Madrid,2-0,Real Valladolid
+Sun Apr 3 1994,Real Oviedo,2-5,Deportivo La Coruna
+Wed Apr 6 1994,Real Madrid,2-2,Sporting Gijon
+Wed Apr 6 1994,Sevilla FC,4-1,Celta Vigo
+Wed Apr 6 1994,Real Sociedad,0-0,Valencia CF
+Wed Apr 6 1994,Albacete,2-2,CD Logrones
+Wed Apr 6 1994,FC Barcelona,1-0,Rayo Vallecano
+Wed Apr 6 1994,Real Zaragoza,1-1,Lleida Esportiu
+Wed Apr 6 1994,CA Osasuna,1-0,CD Tenerife
+Wed Apr 6 1994,Real Valladolid,0-3,Racing Santander
+Wed Apr 6 1994,Deportivo La Coruna,2-1,Atletico Madrid
+Wed Apr 6 1994,Real Oviedo,3-0,Athletic Bilbao
+Sun Apr 10 1994,Athletic Bilbao,2-1,Real Madrid
+Sun Apr 10 1994,Sporting Gijon,0-1,Sevilla FC
+Sun Apr 10 1994,Celta Vigo,3-2,Real Sociedad
+Sun Apr 10 1994,Valencia CF,4-0,Albacete
+Sun Apr 10 1994,CD Logrones,0-0,FC Barcelona
+Sun Apr 10 1994,Rayo Vallecano,1-2,Real Zaragoza
+Sun Apr 10 1994,Lleida Esportiu,1-2,CA Osasuna
+Sun Apr 10 1994,CD Tenerife,0-2,Real Valladolid
+Sun Apr 10 1994,Racing Santander,0-1,Deportivo La Coruna
+Sun Apr 10 1994,Atletico Madrid,0-3,Real Oviedo
+Sun Apr 17 1994,Sevilla FC,0-1,Real Madrid
+Sun Apr 17 1994,Real Sociedad,0-1,Sporting Gijon
+Sun Apr 17 1994,Albacete,0-4,Celta Vigo
+Sun Apr 17 1994,FC Barcelona,3-1,Valencia CF
+Sun Apr 17 1994,Real Zaragoza,1-1,CD Logrones
+Sun Apr 17 1994,CA Osasuna,1-1,Rayo Vallecano
+Sun Apr 17 1994,Real Valladolid,0-2,Lleida Esportiu
+Sun Apr 17 1994,Deportivo La Coruna,2-0,CD Tenerife
+Sun Apr 17 1994,Real Oviedo,3-0,Racing Santander
+Sun Apr 17 1994,Atletico Madrid,4-2,Athletic Bilbao
+Sun Apr 24 1994,Athletic Bilbao,1-1,Sevilla FC
+Sun Apr 24 1994,Real Madrid,0-1,Real Sociedad
+Sun Apr 24 1994,Sporting Gijon,1-0,Albacete
+Sun Apr 24 1994,Celta Vigo,0-4,FC Barcelona
+Sun Apr 24 1994,Valencia CF,3-0,Real Zaragoza
+Sun Apr 24 1994,CD Logrones,3-2,CA Osasuna
+Sun Apr 24 1994,Rayo Vallecano,0-1,Real Valladolid
+Sun Apr 24 1994,Lleida Esportiu,0-0,Deportivo La Coruna
+Sun Apr 24 1994,CD Tenerife,2-2,Real Oviedo
+Sun Apr 24 1994,Racing Santander,2-0,Atletico Madrid
+Sun May 1 1994,Real Sociedad,0-0,Sevilla FC
+Sun May 1 1994,Albacete,1-4,Real Madrid
+Sun May 1 1994,FC Barcelona,4-0,Sporting Gijon
+Sun May 1 1994,Real Zaragoza,4-1,Celta Vigo
+Sun May 1 1994,CA Osasuna,3-3,Valencia CF
+Sun May 1 1994,Real Valladolid,2-0,CD Logrones
+Sun May 1 1994,Deportivo La Coruna,0-0,Rayo Vallecano
+Sun May 1 1994,Real Oviedo,0-0,Lleida Esportiu
+Sun May 1 1994,Atletico Madrid,2-0,CD Tenerife
+Sun May 1 1994,Racing Santander,2-2,Athletic Bilbao
+Sun May 8 1994,Real Sociedad,0-0,Athletic Bilbao
+Sun May 8 1994,Sevilla FC,2-0,Albacete
+Sun May 8 1994,Real Madrid,0-1,FC Barcelona
+Sun May 8 1994,Sporting Gijon,0-3,Real Zaragoza
+Sun May 8 1994,Celta Vigo,4-0,CA Osasuna
+Sun May 8 1994,Valencia CF,5-1,Real Valladolid
+Sun May 8 1994,CD Logrones,0-2,Deportivo La Coruna
+Sun May 8 1994,Rayo Vallecano,0-0,Real Oviedo
+Sun May 8 1994,Lleida Esportiu,0-1,Atletico Madrid
+Sun May 8 1994,CD Tenerife,1-0,Racing Santander
+Sun May 15 1994,Albacete,1-1,Real Sociedad
+Sun May 15 1994,FC Barcelona,5-2,Sevilla FC
+Sun May 15 1994,Real Zaragoza,4-1,Real Madrid
+Sun May 15 1994,CA Osasuna,3-0,Sporting Gijon
+Sun May 15 1994,Real Valladolid,0-0,Celta Vigo
+Sun May 15 1994,Deportivo La Coruna,0-0,Valencia CF
+Sun May 15 1994,Real Oviedo,1-2,CD Logrones
+Sun May 15 1994,Atletico Madrid,2-0,Rayo Vallecano
+Sun May 15 1994,Racing Santander,2-1,Lleida Esportiu
+Sun May 15 1994,Athletic Bilbao,3-2,CD Tenerife

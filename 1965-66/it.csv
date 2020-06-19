@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Mon Sep 6 1965,Bologna FC,1-0,Cagliari Calcio
+Mon Sep 6 1965,Brescia Calcio,4-1,Calcio Catania
+Mon Sep 6 1965,Inter,5-2,AS Varese 1910
+Mon Sep 6 1965,Juventus,1-0,US Foggia
+Mon Sep 6 1965,Vicenza Calcio,1-1,As Roma
+Mon Sep 6 1965,Lazio Roma,0-0,AC Milan
+Mon Sep 6 1965,Ssc Napoli,4-2,SPAL Ferrara
+Mon Sep 6 1965,Sampdoria,1-1,Torino FC
+Mon Sep 6 1965,Atalanta,1-1,Acf Fiorentina
+Sun Sep 12 1965,Ssc Napoli,3-0,Calcio Catania
+Sun Sep 12 1965,AS Varese 1910,1-4,Bologna FC
+Sun Sep 12 1965,As Roma,0-2,SPAL Ferrara
+Sun Sep 12 1965,AC Milan,1-0,US Foggia
+Sun Sep 12 1965,Atalanta,0-0,Juventus
+Sun Sep 12 1965,Acf Fiorentina,2-0,Brescia Calcio
+Sun Sep 12 1965,Cagliari Calcio,1-1,Sampdoria
+Sun Sep 12 1965,Torino FC,2-2,Lazio Roma
+Sun Sep 12 1965,Vicenza Calcio,1-1,Inter
+Sun Sep 19 1965,US Foggia,2-0,Bologna FC
+Sun Sep 19 1965,SPAL Ferrara,0-0,Torino FC
+Sun Sep 19 1965,Sampdoria,0-1,As Roma
+Sun Sep 19 1965,Lazio Roma,2-1,AS Varese 1910
+Sun Sep 19 1965,Inter,1-0,Atalanta
+Sun Sep 19 1965,Calcio Catania,1-3,Vicenza Calcio
+Sun Sep 19 1965,Cagliari Calcio,0-1,Acf Fiorentina
+Sun Sep 19 1965,Brescia Calcio,0-3,AC Milan
+Sun Sep 19 1965,Juventus,0-0,Ssc Napoli
+Sun Sep 26 1965,Vicenza Calcio,3-1,SPAL Ferrara
+Sun Sep 26 1965,AC Milan,2-0,Sampdoria
+Sun Sep 26 1965,AS Varese 1910,0-0,Juventus
+Sun Sep 26 1965,As Roma,2-0,Inter
+Sun Sep 26 1965,Bologna FC,0-1,Ssc Napoli
+Sun Sep 26 1965,Calcio Catania,0-3,Acf Fiorentina
+Sun Sep 26 1965,Torino FC,0-0,Cagliari Calcio
+Sun Sep 26 1965,Brescia Calcio,2-0,Atalanta
+Sun Sep 26 1965,US Foggia,1-1,Lazio Roma
+Sun Oct 3 1965,Juventus,4-1,Vicenza Calcio
+Sun Oct 3 1965,AS Varese 1910,1-3,Cagliari Calcio
+Sun Oct 3 1965,SPAL Ferrara,1-1,AC Milan
+Sun Oct 3 1965,Sampdoria,2-1,US Foggia
+Sun Oct 3 1965,Lazio Roma,1-1,Bologna FC
+Sun Oct 3 1965,Inter,3-1,Calcio Catania
+Sun Oct 3 1965,Acf Fiorentina,1-1,Torino FC
+Sun Oct 3 1965,Atalanta,0-2,As Roma
+Sun Oct 3 1965,Ssc Napoli,1-0,Brescia Calcio
+Sun Oct 10 1965,Calcio Catania,1-1,Juventus
+Sun Oct 10 1965,As Roma,0-1,Lazio Roma
+Sun Oct 10 1965,AC Milan,4-1,Ssc Napoli
+Sun Oct 10 1965,Torino FC,2-0,AS Varese 1910
+Sun Oct 10 1965,Cagliari Calcio,0-0,Atalanta
+Sun Oct 10 1965,Brescia Calcio,1-0,Sampdoria
+Sun Oct 10 1965,Bologna FC,1-3,SPAL Ferrara
+Sun Oct 10 1965,Vicenza Calcio,2-0,Acf Fiorentina
+Sun Oct 10 1965,US Foggia,1-3,Inter
+Sun Oct 17 1965,Inter,4-0,Torino FC
+Sun Oct 17 1965,SPAL Ferrara,2-0,AS Varese 1910
+Sun Oct 17 1965,Sampdoria,0-2,Bologna FC
+Sun Oct 17 1965,Ssc Napoli,5-1,Atalanta
+Sun Oct 17 1965,Juventus,0-0,As Roma
+Sun Oct 17 1965,US Foggia,3-0,Calcio Catania
+Sun Oct 17 1965,Acf Fiorentina,1-0,AC Milan
+Sun Oct 17 1965,Cagliari Calcio,1-0,Brescia Calcio
+Sun Oct 17 1965,Lazio Roma,2-1,Vicenza Calcio
+Sun Oct 24 1965,AC Milan,2-2,Cagliari Calcio
+Sun Oct 24 1965,SPAL Ferrara,2-2,Juventus
+Sun Oct 24 1965,Torino FC,2-0,US Foggia
+Sun Oct 24 1965,As Roma,0-0,Ssc Napoli
+Sun Oct 24 1965,Calcio Catania,1-1,Bologna FC
+Sun Oct 24 1965,Atalanta,0-0,Lazio Roma
+Sun Oct 24 1965,Brescia Calcio,2-2,Inter
+Sun Oct 24 1965,AS Varese 1910,0-2,Vicenza Calcio
+Sun Oct 24 1965,Acf Fiorentina,5-0,Sampdoria
+Sun Nov 14 1965,Juventus,3-0,Acf Fiorentina
+Sun Nov 14 1965,Sampdoria,1-0,Calcio Catania
+Sun Nov 14 1965,Ssc Napoli,0-0,Torino FC
+Sun Nov 14 1965,AC Milan,3-1,AS Varese 1910
+Sun Nov 14 1965,Vicenza Calcio,1-1,Atalanta
+Sun Nov 14 1965,US Foggia,1-0,Brescia Calcio
+Sun Nov 14 1965,Cagliari Calcio,0-1,Inter
+Sun Nov 14 1965,Bologna FC,3-1,As Roma
+Sun Nov 14 1965,Lazio Roma,2-2,SPAL Ferrara
+Sun Nov 21 1965,US Foggia,0-1,Ssc Napoli
+Sun Nov 21 1965,AS Varese 1910,0-2,Atalanta
+Sun Nov 21 1965,Torino FC,0-2,Juventus
+Sun Nov 21 1965,As Roma,1-1,Calcio Catania
+Sun Nov 21 1965,Cagliari Calcio,3-0,SPAL Ferrara
+Sun Nov 21 1965,Brescia Calcio,2-1,Lazio Roma
+Sun Nov 21 1965,Bologna FC,3-2,Acf Fiorentina
+Sun Nov 21 1965,Vicenza Calcio,2-1,Sampdoria
+Sun Nov 21 1965,Inter,1-1,AC Milan
+Sun Nov 28 1965,Lazio Roma,0-1,Juventus
+Sun Nov 28 1965,Torino FC,2-0,Brescia Calcio
+Sun Nov 28 1965,SPAL Ferrara,0-1,Inter
+Sun Nov 28 1965,Sampdoria,2-0,AS Varese 1910
+Sun Nov 28 1965,AC Milan,3-1,As Roma
+Sun Nov 28 1965,Acf Fiorentina,1-1,US Foggia
+Sun Nov 28 1965,Calcio Catania,2-1,Cagliari Calcio
+Sun Nov 28 1965,Atalanta,4-1,Bologna FC
+Sun Nov 28 1965,Ssc Napoli,4-2,Vicenza Calcio
+Sun Dec 12 1965,Calcio Catania,0-0,Lazio Roma
+Sun Dec 12 1965,Ssc Napoli,2-2,AS Varese 1910
+Sun Dec 12 1965,Juventus,0-0,Cagliari Calcio
+Sun Dec 12 1965,As Roma,1-0,Torino FC
+Sun Dec 12 1965,Brescia Calcio,1-0,Vicenza Calcio
+Sun Dec 12 1965,Bologna FC,4-1,AC Milan
+Sun Dec 12 1965,Atalanta,1-0,Sampdoria
+Sun Dec 12 1965,Inter,0-0,Acf Fiorentina
+Sun Dec 12 1965,US Foggia,1-0,SPAL Ferrara
+Sun Dec 19 1965,AC Milan,2-1,Juventus
+Sun Dec 19 1965,AS Varese 1910,1-2,Calcio Catania
+Sun Dec 19 1965,Torino FC,2-4,Bologna FC
+Sun Dec 19 1965,SPAL Ferrara,3-1,Atalanta
+Sun Dec 19 1965,As Roma,1-1,Brescia Calcio
+Sun Dec 19 1965,Vicenza Calcio,0-0,US Foggia
+Sun Dec 19 1965,Acf Fiorentina,0-0,Ssc Napoli
+Sun Dec 19 1965,Cagliari Calcio,3-0,Lazio Roma
+Sun Dec 19 1965,Sampdoria,0-5,Inter
+Sun Dec 26 1965,Acf Fiorentina,0-1,As Roma
+Sun Dec 26 1965,SPAL Ferrara,1-1,Sampdoria
+Sun Dec 26 1965,Lazio Roma,2-1,Ssc Napoli
+Sun Dec 26 1965,Torino FC,0-1,AC Milan
+Sun Dec 26 1965,Cagliari Calcio,3-0,Vicenza Calcio
+Sun Dec 26 1965,Brescia Calcio,4-0,Juventus
+Sun Dec 26 1965,Atalanta,3-2,Calcio Catania
+Sun Dec 26 1965,Inter,0-0,Bologna FC
+Sun Dec 26 1965,US Foggia,0-0,AS Varese 1910
+Sun Jan 2 1966,Vicenza Calcio,0-0,Torino FC
+Sun Jan 2 1966,AS Varese 1910,1-1,Acf Fiorentina
+Sun Jan 2 1966,Sampdoria,2-1,Lazio Roma
+Sun Jan 2 1966,As Roma,1-0,US Foggia
+Sun Jan 2 1966,AC Milan,1-0,Atalanta
+Sun Jan 2 1966,Juventus,0-0,Inter
+Sun Jan 2 1966,Calcio Catania,0-0,SPAL Ferrara
+Sun Jan 2 1966,Bologna FC,2-1,Brescia Calcio
+Sun Jan 2 1966,Ssc Napoli,2-0,Cagliari Calcio
+Sun Jan 9 1966,Lazio Roma,1-3,Inter
+Sun Jan 9 1966,Bologna FC,0-1,Juventus
+Sun Jan 9 1966,Torino FC,4-0,Calcio Catania
+Sun Jan 9 1966,Ssc Napoli,2-2,Sampdoria
+Sun Jan 9 1966,AC Milan,1-1,Vicenza Calcio
+Sun Jan 9 1966,Atalanta,1-3,US Foggia
+Sun Jan 9 1966,Brescia Calcio,2-2,AS Varese 1910
+Sun Jan 9 1966,Cagliari Calcio,4-0,As Roma
+Sun Jan 9 1966,Acf Fiorentina,1-0,SPAL Ferrara
+Sun Jan 16 1966,Vicenza Calcio,1-1,Bologna FC
+Sun Jan 16 1966,AS Varese 1910,0-0,As Roma
+Sun Jan 16 1966,Torino FC,2-1,Atalanta
+Sun Jan 16 1966,SPAL Ferrara,0-2,Brescia Calcio
+Sun Jan 16 1966,Lazio Roma,0-0,Acf Fiorentina
+Sun Jan 16 1966,Inter,0-0,Ssc Napoli
+Sun Jan 16 1966,US Foggia,0-0,Cagliari Calcio
+Sun Jan 16 1966,Calcio Catania,1-1,AC Milan
+Sun Jan 16 1966,Sampdoria,0-0,Juventus
+Sun Jan 23 1966,SPAL Ferrara,1-2,Ssc Napoli
+Sun Jan 23 1966,US Foggia,0-0,Juventus
+Sun Jan 23 1966,AS Varese 1910,1-3,Inter
+Sun Jan 23 1966,Torino FC,1-0,Sampdoria
+Sun Jan 23 1966,Bologna FC,3-1,Cagliari Calcio
+Sun Jan 23 1966,Acf Fiorentina,1-0,Atalanta
+Sun Jan 23 1966,Calcio Catania,1-1,Brescia Calcio
+Sun Jan 23 1966,As Roma,1-0,Vicenza Calcio
+Sun Jan 23 1966,AC Milan,0-2,Lazio Roma
+Sun Jan 30 1966,US Foggia,0-0,AC Milan
+Sun Jan 30 1966,SPAL Ferrara,2-1,As Roma
+Sun Jan 30 1966,Sampdoria,1-1,Cagliari Calcio
+Sun Jan 30 1966,Lazio Roma,1-0,Torino FC
+Sun Jan 30 1966,Inter,3-2,Vicenza Calcio
+Sun Jan 30 1966,Calcio Catania,0-0,Ssc Napoli
+Sun Jan 30 1966,Brescia Calcio,1-2,Acf Fiorentina
+Sun Jan 30 1966,Bologna FC,3-1,AS Varese 1910
+Sun Jan 30 1966,Juventus,1-1,Atalanta
+Sun Feb 6 1966,Vicenza Calcio,1-0,Calcio Catania
+Sun Feb 6 1966,As Roma,1-0,Sampdoria
+Sun Feb 6 1966,AS Varese 1910,1-1,Lazio Roma
+Sun Feb 6 1966,Torino FC,1-0,SPAL Ferrara
+Sun Feb 6 1966,Atalanta,0-2,Inter
+Sun Feb 6 1966,Ssc Napoli,1-0,Juventus
+Sun Feb 6 1966,Acf Fiorentina,2-0,Cagliari Calcio
+Sun Feb 6 1966,Bologna FC,1-1,US Foggia
+Sun Feb 6 1966,AC Milan,2-1,Brescia Calcio
+Sun Feb 13 1966,Inter,2-2,As Roma
+Sun Feb 13 1966,SPAL Ferrara,0-0,Vicenza Calcio
+Sun Feb 13 1966,Sampdoria,1-2,AC Milan
+Sun Feb 13 1966,Ssc Napoli,1-1,Bologna FC
+Sun Feb 13 1966,Juventus,3-1,AS Varese 1910
+Sun Feb 13 1966,Acf Fiorentina,0-0,Calcio Catania
+Sun Feb 13 1966,Cagliari Calcio,3-2,Torino FC
+Sun Feb 13 1966,Atalanta,0-0,Brescia Calcio
+Sun Feb 13 1966,Lazio Roma,2-0,US Foggia
+Sun Feb 20 1966,Calcio Catania,1-0,Inter
+Sun Feb 20 1966,As Roma,1-0,Atalanta
+Sun Feb 20 1966,AC Milan,1-1,SPAL Ferrara
+Sun Feb 20 1966,Torino FC,1-0,Acf Fiorentina
+Sun Feb 20 1966,Cagliari Calcio,1-1,AS Varese 1910
+Sun Feb 20 1966,Brescia Calcio,0-0,Ssc Napoli
+Sun Feb 20 1966,Bologna FC,3-1,Lazio Roma
+Sun Feb 20 1966,Vicenza Calcio,2-2,Juventus
+Sun Feb 20 1966,US Foggia,3-0,Sampdoria
+Sun Feb 27 1966,Juventus,1-0,Calcio Catania
+Sun Feb 27 1966,SPAL Ferrara,0-3,Bologna FC
+Sun Feb 27 1966,Sampdoria,0-2,Brescia Calcio
+Sun Feb 27 1966,Lazio Roma,0-0,As Roma
+Sun Feb 27 1966,Inter,5-0,US Foggia
+Sun Feb 27 1966,Acf Fiorentina,1-1,Vicenza Calcio
+Sun Feb 27 1966,Atalanta,1-0,Cagliari Calcio
+Sun Feb 27 1966,AS Varese 1910,2-1,Torino FC
+Sun Feb 27 1966,Ssc Napoli,1-0,AC Milan
+Sun Mar 6 1966,AC Milan,1-2,Acf Fiorentina
+Sun Mar 6 1966,Torino FC,1-2,Inter
+Sun Mar 6 1966,AS Varese 1910,1-1,SPAL Ferrara
+Sun Mar 6 1966,As Roma,1-1,Juventus
+Sun Mar 6 1966,Calcio Catania,0-0,US Foggia
+Sun Mar 6 1966,Brescia Calcio,0-0,Cagliari Calcio
+Sun Mar 6 1966,Atalanta,1-0,Ssc Napoli
+Sun Mar 6 1966,Bologna FC,2-1,Sampdoria
+Sun Mar 6 1966,Vicenza Calcio,1-0,Lazio Roma
+Sun Mar 13 1966,Inter,7-0,Brescia Calcio
+Sun Mar 13 1966,Sampdoria,0-3,Acf Fiorentina
+Sun Mar 13 1966,Ssc Napoli,1-0,As Roma
+Sun Mar 13 1966,Lazio Roma,0-1,Atalanta
+Sun Mar 13 1966,Juventus,3-0,SPAL Ferrara
+Sun Mar 13 1966,US Foggia,0-0,Torino FC
+Sun Mar 13 1966,Cagliari Calcio,1-2,AC Milan
+Sun Mar 13 1966,Bologna FC,2-0,Calcio Catania
+Sun Mar 13 1966,Vicenza Calcio,1-0,AS Varese 1910
+Sun Mar 27 1966,SPAL Ferrara,2-0,Lazio Roma
+Sun Mar 27 1966,Acf Fiorentina,0-1,Juventus
+Sun Mar 27 1966,AS Varese 1910,0-0,AC Milan
+Sun Mar 27 1966,Torino FC,1-1,Ssc Napoli
+Sun Mar 27 1966,Atalanta,1-1,Vicenza Calcio
+Sun Mar 27 1966,Calcio Catania,2-3,Sampdoria
+Sun Mar 27 1966,Brescia Calcio,4-0,US Foggia
+Sun Mar 27 1966,As Roma,3-1,Bologna FC
+Sun Mar 27 1966,Inter,2-0,Cagliari Calcio
+Sun Apr 3 1966,Lazio Roma,0-3,Brescia Calcio
+Sun Apr 3 1966,SPAL Ferrara,3-0,Cagliari Calcio
+Sun Apr 3 1966,Sampdoria,0-0,Vicenza Calcio
+Sun Apr 3 1966,AC Milan,1-2,Inter
+Sun Apr 3 1966,Acf Fiorentina,1-3,Bologna FC
+Sun Apr 3 1966,Calcio Catania,1-0,As Roma
+Sun Apr 3 1966,Atalanta,1-0,AS Varese 1910
+Sun Apr 3 1966,Torino FC,0-0,Juventus
+Sun Apr 3 1966,Ssc Napoli,1-0,US Foggia
+Sun Apr 10 1966,Juventus,0-0,Lazio Roma
+Sun Apr 10 1966,As Roma,1-0,AC Milan
+Sun Apr 10 1966,AS Varese 1910,1-2,Sampdoria
+Sun Apr 10 1966,Vicenza Calcio,2-0,Ssc Napoli
+Sun Apr 10 1966,US Foggia,0-0,Acf Fiorentina
+Sun Apr 10 1966,Cagliari Calcio,3-1,Calcio Catania
+Sun Apr 10 1966,Bologna FC,3-0,Atalanta
+Sun Apr 10 1966,Brescia Calcio,2-1,Torino FC
+Sun Apr 10 1966,Inter,2-1,SPAL Ferrara
+Sun Apr 17 1966,Lazio Roma,1-1,Calcio Catania
+Sun Apr 17 1966,Torino FC,1-1,As Roma
+Sun Apr 17 1966,SPAL Ferrara,2-1,US Foggia
+Sun Apr 17 1966,AC Milan,1-1,Bologna FC
+Sun Apr 17 1966,AS Varese 1910,0-2,Ssc Napoli
+Sun Apr 17 1966,Vicenza Calcio,4-1,Brescia Calcio
+Sun Apr 17 1966,Acf Fiorentina,0-0,Inter
+Sun Apr 17 1966,Cagliari Calcio,2-1,Juventus
+Sun Apr 17 1966,Sampdoria,2-0,Atalanta
+Sun Apr 24 1966,Inter,1-1,Sampdoria
+Sun Apr 24 1966,Lazio Roma,3-1,Cagliari Calcio
+Sun Apr 24 1966,Ssc Napoli,0-4,Acf Fiorentina
+Sun Apr 24 1966,Juventus,3-0,AC Milan
+Sun Apr 24 1966,US Foggia,0-0,Vicenza Calcio
+Sun Apr 24 1966,Calcio Catania,3-0,AS Varese 1910
+Sun Apr 24 1966,Brescia Calcio,3-0,As Roma
+Sun Apr 24 1966,Atalanta,2-0,SPAL Ferrara
+Sun Apr 24 1966,Bologna FC,2-0,Torino FC
+Sun May 1 1966,Juventus,3-1,Brescia Calcio
+Sun May 1 1966,Ssc Napoli,2-0,Lazio Roma
+Sun May 1 1966,AS Varese 1910,0-0,US Foggia
+Sun May 1 1966,Sampdoria,1-0,SPAL Ferrara
+Sun May 1 1966,As Roma,0-2,Acf Fiorentina
+Sun May 1 1966,Vicenza Calcio,1-1,Cagliari Calcio
+Sun May 1 1966,Bologna FC,2-1,Inter
+Sun May 1 1966,Calcio Catania,0-0,Atalanta
+Sun May 1 1966,AC Milan,0-0,Torino FC
+Sun May 8 1966,Acf Fiorentina,4-0,AS Varese 1910
+Sun May 8 1966,Torino FC,1-3,Vicenza Calcio
+Sun May 8 1966,SPAL Ferrara,3-0,Calcio Catania
+Sun May 8 1966,Lazio Roma,0-0,Sampdoria
+Sun May 8 1966,US Foggia,1-0,As Roma
+Sun May 8 1966,Cagliari Calcio,0-2,Ssc Napoli
+Sun May 8 1966,Brescia Calcio,0-1,Bologna FC
+Sun May 8 1966,Atalanta,0-0,AC Milan
+Sun May 8 1966,Inter,3-1,Juventus
+Sun May 15 1966,Sampdoria,1-0,Ssc Napoli
+Sun May 15 1966,Juventus,0-0,Bologna FC
+Sun May 15 1966,AS Varese 1910,2-0,Brescia Calcio
+Sun May 15 1966,SPAL Ferrara,1-2,Acf Fiorentina
+Sun May 15 1966,Calcio Catania,0-2,Torino FC
+Sun May 15 1966,Inter,4-1,Lazio Roma
+Sun May 15 1966,US Foggia,2-0,Atalanta
+Sun May 15 1966,As Roma,1-0,Cagliari Calcio
+Sun May 15 1966,Vicenza Calcio,1-0,AC Milan
+Sun May 22 1966,Cagliari Calcio,1-0,US Foggia
+Sun May 22 1966,As Roma,2-0,AS Varese 1910
+Sun May 22 1966,Ssc Napoli,3-1,Inter
+Sun May 22 1966,AC Milan,6-1,Calcio Catania
+Sun May 22 1966,Acf Fiorentina,2-0,Lazio Roma
+Sun May 22 1966,Brescia Calcio,2-2,SPAL Ferrara
+Sun May 22 1966,Bologna FC,1-3,Vicenza Calcio
+Sun May 22 1966,Atalanta,0-0,Torino FC
+Sun May 22 1966,Juventus,2-1,Sampdoria

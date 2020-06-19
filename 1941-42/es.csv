@@ -1,0 +1,183 @@
+Date,Team 1,FT,Team 2
+Sun Sep 28 1941,Athletic Bilbao,2-4,Espanyol Barcelona
+Sun Sep 28 1941,Atletico Madrid,3-0,Valencia CF
+Sun Sep 28 1941,Granada CF,1-1,Celta Vigo
+Sun Sep 28 1941,Sevilla FC,10-0,Real Oviedo
+Sun Sep 28 1941,FC Barcelona,4-4,Hercules CF
+Sun Sep 28 1941,Deportivo La Coruna,2-1,Cd Castellon
+Sun Sep 28 1941,Real Sociedad,2-3,Real Madrid
+Sun Oct 5 1941,Valencia CF,6-0,Real Sociedad
+Sun Oct 5 1941,Hercules CF,4-2,Deportivo La Coruna
+Sun Oct 5 1941,Cd Castellon,1-1,Sevilla FC
+Sun Oct 5 1941,Real Oviedo,2-3,Atletico Madrid
+Sun Oct 5 1941,Celta Vigo,3-0,Athletic Bilbao
+Sun Oct 5 1941,Espanyol Barcelona,5-2,FC Barcelona
+Sun Oct 5 1941,Real Madrid,5-2,Granada CF
+Sun Oct 12 1941,Athletic Bilbao,1-0,Real Madrid
+Sun Oct 12 1941,Deportivo La Coruna,2-0,Espanyol Barcelona
+Sun Oct 12 1941,Granada CF,1-2,Valencia CF
+Sun Oct 12 1941,Atletico Madrid,4-1,Real Sociedad
+Sun Oct 12 1941,FC Barcelona,0-2,Celta Vigo
+Sun Oct 12 1941,Sevilla FC,7-2,Hercules CF
+Sun Oct 12 1941,Real Oviedo,4-4,Cd Castellon
+Sun Oct 19 1941,Real Madrid,4-3,FC Barcelona
+Sun Oct 19 1941,Hercules CF,4-1,Real Oviedo
+Sun Oct 19 1941,Real Sociedad,1-1,Granada CF
+Sun Oct 19 1941,Celta Vigo,2-1,Deportivo La Coruna
+Sun Oct 19 1941,Valencia CF,1-1,Athletic Bilbao
+Sun Oct 19 1941,Espanyol Barcelona,3-1,Sevilla FC
+Sun Oct 19 1941,Cd Castellon,2-4,Atletico Madrid
+Sun Oct 26 1941,Atletico Madrid,3-0,Granada CF
+Sun Oct 26 1941,Deportivo La Coruna,1-0,Real Madrid
+Sun Oct 26 1941,Real Oviedo,1-3,Espanyol Barcelona
+Sun Oct 26 1941,FC Barcelona,2-4,Valencia CF
+Sun Oct 26 1941,Athletic Bilbao,4-1,Real Sociedad
+Sun Oct 26 1941,Sevilla FC,2-2,Celta Vigo
+Sun Oct 26 1941,Cd Castellon,4-0,Hercules CF
+Sun Nov 2 1941,Espanyol Barcelona,2-3,Cd Castellon
+Sun Nov 2 1941,Valencia CF,2-0,Deportivo La Coruna
+Sun Nov 2 1941,Celta Vigo,2-1,Real Oviedo
+Sun Nov 2 1941,Real Madrid,0-2,Sevilla FC
+Sun Nov 2 1941,Hercules CF,2-2,Atletico Madrid
+Sun Nov 2 1941,Real Sociedad,2-0,FC Barcelona
+Sun Nov 2 1941,Granada CF,1-3,Athletic Bilbao
+Sun Nov 9 1941,Cd Castellon,0-3,Celta Vigo
+Sun Nov 9 1941,Hercules CF,1-1,Espanyol Barcelona
+Sun Nov 9 1941,FC Barcelona,4-0,Granada CF
+Sun Nov 9 1941,Real Oviedo,2-2,Real Madrid
+Sun Nov 9 1941,Deportivo La Coruna,3-0,Real Sociedad
+Sun Nov 9 1941,Atletico Madrid,2-2,Athletic Bilbao
+Sun Nov 9 1941,Sevilla FC,4-1,Valencia CF
+Sun Nov 16 1941,Celta Vigo,4-1,Hercules CF
+Sun Nov 16 1941,Real Madrid,9-1,Cd Castellon
+Sun Nov 16 1941,Granada CF,4-1,Deportivo La Coruna
+Sun Nov 16 1941,Valencia CF,5-2,Real Oviedo
+Sun Nov 16 1941,Real Sociedad,2-1,Sevilla FC
+Sun Nov 16 1941,Espanyol Barcelona,5-0,Atletico Madrid
+Sun Nov 16 1941,Athletic Bilbao,6-3,FC Barcelona
+Sun Nov 23 1941,Atletico Madrid,5-4,FC Barcelona
+Sun Nov 23 1941,Deportivo La Coruna,2-1,Athletic Bilbao
+Sun Nov 23 1941,Cd Castellon,2-2,Valencia CF
+Sun Nov 23 1941,Real Oviedo,3-1,Real Sociedad
+Sun Nov 23 1941,Espanyol Barcelona,3-1,Celta Vigo
+Sun Nov 23 1941,Sevilla FC,3-0,Granada CF
+Sun Nov 23 1941,Hercules CF,1-2,Real Madrid
+Sun Nov 30 1941,FC Barcelona,2-1,Deportivo La Coruna
+Sun Nov 30 1941,Granada CF,8-0,Real Oviedo
+Sun Nov 30 1941,Valencia CF,7-1,Hercules CF
+Sun Nov 30 1941,Celta Vigo,0-2,Atletico Madrid
+Sun Nov 30 1941,Real Madrid,1-1,Espanyol Barcelona
+Sun Nov 30 1941,Athletic Bilbao,1-1,Sevilla FC
+Sun Nov 30 1941,Real Sociedad,3-0,Cd Castellon
+Sun Dec 7 1941,Celta Vigo,2-4,Real Madrid
+Sun Dec 7 1941,Sevilla FC,1-2,FC Barcelona
+Sun Dec 7 1941,Real Oviedo,2-1,Athletic Bilbao
+Sun Dec 7 1941,Espanyol Barcelona,0-1,Valencia CF
+Sun Dec 7 1941,Hercules CF,3-1,Real Sociedad
+Sun Dec 7 1941,Atletico Madrid,0-0,Deportivo La Coruna
+Sun Dec 7 1941,Cd Castellon,3-2,Granada CF
+Sun Dec 14 1941,Atletico Madrid,2-0,Real Madrid
+Sun Dec 14 1941,Athletic Bilbao,2-2,Cd Castellon
+Sun Dec 14 1941,Granada CF,7-2,Hercules CF
+Sun Dec 14 1941,FC Barcelona,6-3,Real Oviedo
+Sun Dec 14 1941,Valencia CF,7-3,Celta Vigo
+Sun Dec 14 1941,Real Sociedad,1-2,Espanyol Barcelona
+Sun Dec 14 1941,Deportivo La Coruna,2-1,Sevilla FC
+Sun Dec 21 1941,Espanyol Barcelona,1-1,Granada CF
+Sun Dec 21 1941,Cd Castellon,1-1,FC Barcelona
+Sun Dec 21 1941,Hercules CF,3-1,Athletic Bilbao
+Sun Dec 21 1941,Real Madrid,5-3,Valencia CF
+Sun Dec 21 1941,Sevilla FC,1-0,Atletico Madrid
+Sun Dec 21 1941,Celta Vigo,6-1,Real Sociedad
+Sun Dec 21 1941,Real Oviedo,1-1,Deportivo La Coruna
+Sun Jan 4 1942,Espanyol Barcelona,1-1,Athletic Bilbao
+Sun Jan 4 1942,Valencia CF,0-1,Atletico Madrid
+Sun Jan 4 1942,Real Oviedo,4-0,Sevilla FC
+Sun Jan 4 1942,Real Madrid,6-4,Real Sociedad
+Sun Jan 4 1942,Cd Castellon,1-0,Deportivo La Coruna
+Sun Jan 4 1942,Celta Vigo,3-3,Granada CF
+Sun Jan 4 1942,Hercules CF,3-1,FC Barcelona
+Sun Jan 11 1942,Atletico Madrid,0-2,Real Oviedo
+Sun Jan 11 1942,Deportivo La Coruna,3-1,Hercules CF
+Sun Jan 11 1942,Athletic Bilbao,10-0,Celta Vigo
+Sun Jan 11 1942,Real Sociedad,0-3,Valencia CF
+Sun Jan 11 1942,FC Barcelona,1-2,Espanyol Barcelona
+Sun Jan 11 1942,Granada CF,3-1,Real Madrid
+Sun Jan 11 1942,Sevilla FC,4-1,Cd Castellon
+Sun Jan 18 1942,Celta Vigo,1-0,FC Barcelona
+Sun Jan 18 1942,Real Madrid,3-2,Athletic Bilbao
+Sun Jan 18 1942,Real Sociedad,1-2,Atletico Madrid
+Sun Jan 18 1942,Hercules CF,1-0,Sevilla FC
+Sun Jan 18 1942,Cd Castellon,4-0,Real Oviedo
+Sun Jan 18 1942,Espanyol Barcelona,1-2,Deportivo La Coruna
+Sun Jan 18 1942,Valencia CF,5-0,Granada CF
+Sun Jan 25 1942,FC Barcelona,0-2,Real Madrid
+Sun Jan 25 1942,Deportivo La Coruna,4-0,Celta Vigo
+Sun Jan 25 1942,Atletico Madrid,4-4,Cd Castellon
+Sun Jan 25 1942,Real Oviedo,2-0,Hercules CF
+Sun Jan 25 1942,Sevilla FC,6-0,Espanyol Barcelona
+Sun Jan 25 1942,Granada CF,3-1,Real Sociedad
+Sun Jan 25 1942,Athletic Bilbao,2-3,Valencia CF
+Sun Feb 1 1942,Hercules CF,0-1,Cd Castellon
+Sun Feb 1 1942,Valencia CF,4-2,FC Barcelona
+Sun Feb 1 1942,Real Sociedad,0-1,Athletic Bilbao
+Sun Feb 1 1942,Granada CF,0-1,Atletico Madrid
+Sun Feb 1 1942,Celta Vigo,1-1,Sevilla FC
+Sun Feb 1 1942,Espanyol Barcelona,1-1,Real Oviedo
+Sun Feb 1 1942,Real Madrid,3-0,Deportivo La Coruna
+Sun Feb 8 1942,Athletic Bilbao,1-0,Granada CF
+Sun Feb 8 1942,Atletico Madrid,5-1,Hercules CF
+Sun Feb 8 1942,Real Oviedo,2-1,Celta Vigo
+Sun Feb 8 1942,FC Barcelona,4-2,Real Sociedad
+Sun Feb 8 1942,Deportivo La Coruna,0-3,Valencia CF
+Sun Feb 8 1942,Sevilla FC,2-2,Real Madrid
+Sun Feb 8 1942,Cd Castellon,2-0,Espanyol Barcelona
+Sun Feb 15 1942,Valencia CF,8-1,Sevilla FC
+Sun Feb 15 1942,Celta Vigo,1-2,Cd Castellon
+Sun Feb 15 1942,Espanyol Barcelona,2-0,Hercules CF
+Sun Feb 15 1942,Real Sociedad,3-2,Deportivo La Coruna
+Sun Feb 15 1942,Athletic Bilbao,6-0,Atletico Madrid
+Sun Feb 15 1942,Granada CF,6-0,FC Barcelona
+Sun Feb 15 1942,Real Madrid,1-1,Real Oviedo
+Sun Feb 22 1942,Deportivo La Coruna,1-4,Granada CF
+Sun Feb 22 1942,Hercules CF,1-3,Celta Vigo
+Sun Feb 22 1942,Sevilla FC,1-0,Real Sociedad
+Sun Feb 22 1942,Real Oviedo,1-1,Valencia CF
+Sun Feb 22 1942,Atletico Madrid,2-0,Espanyol Barcelona
+Sun Feb 22 1942,FC Barcelona,1-2,Athletic Bilbao
+Tue Feb 24 1942,Cd Castellon,0-3,Real Madrid
+Sun Mar 1 1942,FC Barcelona,5-1,Atletico Madrid
+Sun Mar 1 1942,Granada CF,3-2,Sevilla FC
+Sun Mar 1 1942,Real Sociedad,0-3,Real Oviedo
+Sun Mar 1 1942,Athletic Bilbao,0-0,Deportivo La Coruna
+Sun Mar 1 1942,Real Madrid,2-1,Hercules CF
+Sun Mar 1 1942,Valencia CF,6-2,Cd Castellon
+Sun Mar 1 1942,Celta Vigo,4-3,Espanyol Barcelona
+Sun Mar 8 1942,Atletico Madrid,2-0,Celta Vigo
+Sun Mar 8 1942,Hercules CF,1-3,Valencia CF
+Sun Mar 8 1942,Real Oviedo,3-1,Granada CF
+Sun Mar 8 1942,Deportivo La Coruna,1-0,FC Barcelona
+Sun Mar 8 1942,Espanyol Barcelona,0-0,Real Madrid
+Sun Mar 8 1942,Sevilla FC,2-1,Athletic Bilbao
+Mon Mar 9 1942,Cd Castellon,5-0,Real Sociedad
+Sun Mar 22 1942,Valencia CF,2-1,Espanyol Barcelona
+Sun Mar 22 1942,Deportivo La Coruna,2-1,Atletico Madrid
+Sun Mar 22 1942,FC Barcelona,6-2,Sevilla FC
+Sun Mar 22 1942,Real Madrid,2-3,Celta Vigo
+Sun Mar 22 1942,Athletic Bilbao,2-0,Real Oviedo
+Sun Mar 22 1942,Real Sociedad,2-1,Hercules CF
+Sun Mar 22 1942,Granada CF,7-3,Cd Castellon
+Sun Mar 29 1942,Real Oviedo,1-1,FC Barcelona
+Sun Mar 29 1942,Hercules CF,2-2,Granada CF
+Sun Mar 29 1942,Sevilla FC,2-2,Deportivo La Coruna
+Sun Mar 29 1942,Espanyol Barcelona,8-0,Real Sociedad
+Sun Mar 29 1942,Real Madrid,4-1,Atletico Madrid
+Sun Mar 29 1942,Cd Castellon,4-0,Athletic Bilbao
+Sun Mar 29 1942,Celta Vigo,3-3,Valencia CF
+Sun Apr 5 1942,FC Barcelona,3-1,Cd Castellon
+Sun Apr 5 1942,Valencia CF,3-1,Real Madrid
+Sun Apr 5 1942,Granada CF,4-0,Espanyol Barcelona
+Sun Apr 5 1942,Atletico Madrid,0-0,Sevilla FC
+Sun Apr 5 1942,Real Sociedad,2-2,Celta Vigo
+Sun Apr 5 1942,Deportivo La Coruna,1-0,Real Oviedo
+Sun Apr 5 1942,Athletic Bilbao,2-2,Hercules CF

@@ -1,0 +1,750 @@
+Date,Team 1,FT,Team 2
+Sat Aug 27 1955,Kickers Offenbach,3-1,Viktoria Aschaffenburg
+Sun Aug 28 1955,Jahn Regensburg,3-0,TSV Schwaben Augsburg
+Sun Aug 28 1955,Vfb Stuttgart,7-0,Spvgg Greuther Fuerth
+Sun Aug 28 1955,Eintracht Frankfurt,3-0,TSV 1860 Muenchen
+Sun Aug 28 1955,Karlsruher SC,4-2,SSV Reutlingen
+Sun Aug 28 1955,1 FC Schweinfurt 05,1-0,Stuttgarter Kickers
+Sun Aug 28 1955,FC Augsburg,1-3,FSV Frankfurt
+Sun Aug 28 1955,1 FC Nuernberg,1-0,VFR Mannheim
+Sun Aug 28 1955,1 Fsv Mainz 05,2-3,SG 99 Andernach
+Sun Aug 28 1955,Tura Ludwigshafen,1-0,Wormatia Worms
+Sun Aug 28 1955,Eintracht Bad Kreuznach,4-1,FK Pirmasens
+Sun Aug 28 1955,Tus Koblenz,3-0,Eintracht Trier
+Sun Aug 28 1955,VFR Kaiserslautern,0-0,1 FC Saarbruecken
+Sun Aug 28 1955,VFR Frankenthal,3-1,FV Engers 07
+Sun Aug 28 1955,Saar 05 Saarbruecken,1-4,1 FC Kaiserslautern
+Sun Aug 28 1955,Borussia Neunkirchen,1-0,Phoenix Ludwigshafen
+Sun Aug 28 1955,Schwarz Weiss Essen,1-2,Westfalia Herne
+Sun Aug 28 1955,Borussia Dortmund,4-1,Rot Weiss Essen
+Sun Aug 28 1955,Preussen Dellbrueck,4-2,Alemannia Aachen
+Sun Aug 28 1955,Hamborn 07,4-0,Wuppertaler SV
+Sun Aug 28 1955,Preussen Munster,5-5,Bayer Leverkusen
+Sun Aug 28 1955,SV Sodingen,3-1,1 FC Koeln
+Sun Aug 28 1955,FC Schalke 04,1-2,Fortuna Duesseldorf
+Sun Aug 28 1955,Duisburger SV,3-2,Bor Moenchengladbach
+Wed Aug 31 1955,Wuppertaler SV,1-4,FC Schalke 04
+Wed Aug 31 1955,Bayer Leverkusen,3-0,SV Sodingen
+Wed Aug 31 1955,Westfalia Herne,3-1,Duisburger SV
+Wed Aug 31 1955,Alemannia Aachen,2-1,Hamborn 07
+Wed Aug 31 1955,Rot Weiss Essen,2-0,Preussen Munster
+Wed Aug 31 1955,1 FC Koeln,4-1,Schwarz Weiss Essen
+Wed Aug 31 1955,Bor Moenchengladbach,1-2,Preussen Dellbrueck
+Wed Aug 31 1955,Fortuna Duesseldorf,1-0,Borussia Dortmund
+Sun Sep 4 1955,VFR Mannheim,3-2,1 FC Schweinfurt 05
+Sun Sep 4 1955,Viktoria Aschaffenburg,2-1,Vfb Stuttgart
+Sun Sep 4 1955,Stuttgarter Kickers,3-5,Eintracht Frankfurt
+Sun Sep 4 1955,FSV Frankfurt,0-1,Kickers Offenbach
+Sun Sep 4 1955,TSV 1860 Muenchen,2-1,Jahn Regensburg
+Sun Sep 4 1955,SSV Reutlingen,2-0,FC Augsburg
+Sun Sep 4 1955,TSV Schwaben Augsburg,1-2,1 FC Nuernberg
+Sun Sep 4 1955,Spvgg Greuther Fuerth,2-3,Karlsruher SC
+Sun Sep 4 1955,1 FC Kaiserslautern,2-1,VFR Frankenthal
+Sun Sep 4 1955,Eintracht Trier,3-4,1 Fsv Mainz 05
+Sun Sep 4 1955,Phoenix Ludwigshafen,2-0,Saar 05 Saarbruecken
+Sun Sep 4 1955,Wormatia Worms,5-1,VFR Kaiserslautern
+Sun Sep 4 1955,1 FC Saarbruecken,3-2,Tus Koblenz
+Sun Sep 4 1955,FK Pirmasens,1-0,Borussia Neunkirchen
+Sun Sep 4 1955,FV Engers 07,2-2,Tura Ludwigshafen
+Sun Sep 4 1955,SG 99 Andernach,2-1,Eintracht Bad Kreuznach
+Sun Sep 4 1955,Preussen Dellbrueck,2-0,Wuppertaler SV
+Sun Sep 4 1955,Hamborn 07,1-3,Fortuna Duesseldorf
+Sun Sep 4 1955,FC Schalke 04,1-0,Rot Weiss Essen
+Sun Sep 4 1955,SV Sodingen,4-4,Westfalia Herne
+Sun Sep 4 1955,Preussen Munster,3-1,1 FC Koeln
+Sun Sep 4 1955,Duisburger SV,2-2,Alemannia Aachen
+Sun Sep 4 1955,Borussia Dortmund,5-1,Bayer Leverkusen
+Sun Sep 4 1955,Schwarz Weiss Essen,1-1,Bor Moenchengladbach
+Sun Sep 11 1955,Kickers Offenbach,4-0,SSV Reutlingen
+Sun Sep 11 1955,Vfb Stuttgart,0-4,FSV Frankfurt
+Sun Sep 11 1955,Karlsruher SC,4-3,Viktoria Aschaffenburg
+Sun Sep 11 1955,FC Augsburg,1-4,Spvgg Greuther Fuerth
+Sun Sep 11 1955,Jahn Regensburg,1-0,Stuttgarter Kickers
+Sun Sep 11 1955,Eintracht Frankfurt,5-3,VFR Mannheim
+Sun Sep 11 1955,1 FC Schweinfurt 05,2-2,TSV Schwaben Augsburg
+Sun Sep 11 1955,1 FC Nuernberg,1-0,TSV 1860 Muenchen
+Sun Sep 11 1955,Borussia Neunkirchen,1-4,1 FC Kaiserslautern
+Sun Sep 11 1955,VFR Frankenthal,6-2,Wormatia Worms
+Sun Sep 11 1955,1 Fsv Mainz 05,1-1,FK Pirmasens
+Sun Sep 11 1955,Eintracht Bad Kreuznach,3-2,Phoenix Ludwigshafen
+Sun Sep 11 1955,Tus Koblenz,4-4,SG 99 Andernach
+Sun Sep 11 1955,Tura Ludwigshafen,0-0,1 FC Saarbruecken
+Sun Sep 11 1955,VFR Kaiserslautern,3-2,Eintracht Trier
+Sun Sep 11 1955,Saar 05 Saarbruecken,7-0,FV Engers 07
+Sun Sep 11 1955,Alemannia Aachen,3-2,FC Schalke 04
+Sun Sep 11 1955,Wuppertaler SV,3-1,Borussia Dortmund
+Sun Sep 11 1955,Westfalia Herne,0-2,Preussen Dellbrueck
+Sun Sep 11 1955,Bayer Leverkusen,1-2,Schwarz Weiss Essen
+Sun Sep 11 1955,Rot Weiss Essen,5-0,SV Sodingen
+Sun Sep 11 1955,1 FC Koeln,1-1,Duisburger SV
+Sun Sep 11 1955,Fortuna Duesseldorf,3-1,Preussen Munster
+Sun Sep 11 1955,Bor Moenchengladbach,4-1,Hamborn 07
+Sun Sep 18 1955,VFR Mannheim,4-1,Jahn Regensburg
+Sun Sep 18 1955,Stuttgarter Kickers,3-2,1 FC Nuernberg
+Sun Sep 18 1955,TSV 1860 Muenchen,3-0,1 FC Schweinfurt 05
+Sun Sep 18 1955,TSV Schwaben Augsburg,2-2,Eintracht Frankfurt
+Sun Sep 18 1955,Viktoria Aschaffenburg,0-2,FC Augsburg
+Sun Sep 18 1955,FSV Frankfurt,2-3,Karlsruher SC
+Sun Sep 18 1955,SSV Reutlingen,0-0,Vfb Stuttgart
+Sun Sep 18 1955,Spvgg Greuther Fuerth,2-4,Kickers Offenbach
+Sun Sep 18 1955,FV Engers 07,0-1,VFR Kaiserslautern
+Sun Sep 18 1955,1 FC Saarbruecken,3-0,1 Fsv Mainz 05
+Sun Sep 18 1955,1 FC Kaiserslautern,4-2,Tura Ludwigshafen
+Sun Sep 18 1955,FK Pirmasens,1-1,Saar 05 Saarbruecken
+Sun Sep 18 1955,Eintracht Trier,4-4,Eintracht Bad Kreuznach
+Sun Sep 18 1955,Wormatia Worms,2-5,Tus Koblenz
+Sun Sep 18 1955,Phoenix Ludwigshafen,0-0,VFR Frankenthal
+Sun Sep 18 1955,SG 99 Andernach,0-4,Borussia Neunkirchen
+Sun Sep 18 1955,Preussen Munster,4-3,Westfalia Herne
+Sun Sep 18 1955,Schwarz Weiss Essen,1-1,Alemannia Aachen
+Sun Sep 18 1955,SV Sodingen,4-1,Bor Moenchengladbach
+Sun Sep 18 1955,Hamborn 07,4-3,Rot Weiss Essen
+Sun Sep 18 1955,FC Schalke 04,4-3,Bayer Leverkusen
+Sun Sep 18 1955,Borussia Dortmund,3-0,1 FC Koeln
+Sun Sep 18 1955,Preussen Dellbrueck,0-0,Fortuna Duesseldorf
+Sun Sep 25 1955,1 FC Saarbruecken,4-2,Eintracht Bad Kreuznach
+Sun Sep 25 1955,SG 99 Andernach,2-2,Saar 05 Saarbruecken
+Sun Sep 25 1955,Eintracht Trier,2-0,Borussia Neunkirchen
+Sun Sep 25 1955,Duisburger SV,1-1,Wuppertaler SV
+Sun Sep 25 1955,Preussen Munster,2-2,Bor Moenchengladbach
+Sat Oct 1 1955,Eintracht Frankfurt,1-1,Viktoria Aschaffenburg
+Sun Oct 2 1955,1 FC Nuernberg,5-0,SSV Reutlingen
+Sun Oct 2 1955,1 FC Schweinfurt 05,3-1,Spvgg Greuther Fuerth
+Sun Oct 2 1955,Kickers Offenbach,1-3,Vfb Stuttgart
+Sun Oct 2 1955,Karlsruher SC,0-0,TSV Schwaben Augsburg
+Sun Oct 2 1955,Stuttgarter Kickers,0-2,VFR Mannheim
+Sun Oct 2 1955,FC Augsburg,2-2,TSV 1860 Muenchen
+Sun Oct 2 1955,Jahn Regensburg,2-1,FSV Frankfurt
+Sun Oct 2 1955,Tura Ludwigshafen,0-0,Eintracht Trier
+Sun Oct 2 1955,1 Fsv Mainz 05,3-0,Phoenix Ludwigshafen
+Sun Oct 2 1955,Saar 05 Saarbruecken,6-1,Wormatia Worms
+Sun Oct 2 1955,VFR Kaiserslautern,2-5,SG 99 Andernach
+Sun Oct 2 1955,Eintracht Bad Kreuznach,2-4,1 FC Kaiserslautern
+Sun Oct 2 1955,Tus Koblenz,2-1,FK Pirmasens
+Sun Oct 2 1955,Borussia Neunkirchen,3-2,FV Engers 07
+Sun Oct 2 1955,VFR Frankenthal,2-0,1 FC Saarbruecken
+Sun Oct 2 1955,Bayer Leverkusen,1-2,Duisburger SV
+Sun Oct 2 1955,Rot Weiss Essen,1-0,Schwarz Weiss Essen
+Sun Oct 2 1955,Wuppertaler SV,1-3,Preussen Munster
+Sun Oct 2 1955,Bor Moenchengladbach,2-4,FC Schalke 04
+Sun Oct 2 1955,Westfalia Herne,2-1,Hamborn 07
+Sun Oct 2 1955,Fortuna Duesseldorf,1-3,SV Sodingen
+Sun Oct 2 1955,1 FC Koeln,4-3,Preussen Dellbrueck
+Sun Oct 2 1955,Alemannia Aachen,2-3,Borussia Dortmund
+Sun Oct 9 1955,Viktoria Aschaffenburg,0-2,Jahn Regensburg
+Sun Oct 9 1955,FSV Frankfurt,1-0,Eintracht Frankfurt
+Sun Oct 9 1955,SSV Reutlingen,3-1,1 FC Schweinfurt 05
+Sun Oct 9 1955,Spvgg Greuther Fuerth,0-3,1 FC Nuernberg
+Sun Oct 9 1955,VFR Mannheim,7-2,Kickers Offenbach
+Sun Oct 9 1955,Vfb Stuttgart,3-1,Stuttgarter Kickers
+Sun Oct 9 1955,TSV 1860 Muenchen,0-1,Karlsruher SC
+Sun Oct 9 1955,TSV Schwaben Augsburg,2-1,FC Augsburg
+Sun Oct 9 1955,Phoenix Ludwigshafen,2-1,Tura Ludwigshafen
+Sun Oct 9 1955,FK Pirmasens,3-0,VFR Frankenthal
+Sun Oct 9 1955,FV Engers 07,1-2,Tus Koblenz
+Sun Oct 9 1955,Wormatia Worms,1-1,1 Fsv Mainz 05
+Sun Oct 9 1955,1 FC Kaiserslautern,4-1,VFR Kaiserslautern
+Sun Oct 9 1955,Borussia Dortmund,3-2,Westfalia Herne
+Sun Oct 9 1955,Schwarz Weiss Essen,2-3,Wuppertaler SV
+Sun Oct 9 1955,SV Sodingen,1-2,Alemannia Aachen
+Sun Oct 9 1955,Preussen Dellbrueck,1-5,Rot Weiss Essen
+Sun Oct 9 1955,FC Schalke 04,2-1,1 FC Koeln
+Sun Oct 9 1955,Duisburger SV,1-0,Fortuna Duesseldorf
+Sun Oct 9 1955,Hamborn 07,4-1,Bayer Leverkusen
+Sun Oct 16 1955,VFR Mannheim,2-1,FSV Frankfurt
+Sun Oct 16 1955,Stuttgarter Kickers,3-1,Viktoria Aschaffenburg
+Sun Oct 16 1955,TSV 1860 Muenchen,0-4,Spvgg Greuther Fuerth
+Sun Oct 16 1955,TSV Schwaben Augsburg,3-1,SSV Reutlingen
+Sun Oct 16 1955,1 FC Schweinfurt 05,4-0,Kickers Offenbach
+Sun Oct 16 1955,Eintracht Frankfurt,0-3,Vfb Stuttgart
+Sun Oct 16 1955,Jahn Regensburg,2-3,Karlsruher SC
+Sun Oct 16 1955,1 FC Nuernberg,2-3,FC Augsburg
+Sun Oct 16 1955,VFR Kaiserslautern,1-5,FK Pirmasens
+Sun Oct 16 1955,Saar 05 Saarbruecken,1-6,1 FC Saarbruecken
+Sun Oct 16 1955,1 Fsv Mainz 05,3-4,1 FC Kaiserslautern
+Sun Oct 16 1955,Borussia Neunkirchen,1-1,Wormatia Worms
+Sun Oct 16 1955,Tus Koblenz,1-0,Phoenix Ludwigshafen
+Sun Oct 16 1955,Tura Ludwigshafen,3-0,SG 99 Andernach
+Sun Oct 16 1955,VFR Frankenthal,2-1,Eintracht Trier
+Sun Oct 16 1955,Eintracht Bad Kreuznach,8-2,FV Engers 07
+Sun Oct 16 1955,Bor Moenchengladbach,1-1,Borussia Dortmund
+Sun Oct 16 1955,Rot Weiss Essen,0-0,Duisburger SV
+Sun Oct 16 1955,Fortuna Duesseldorf,3-1,Schwarz Weiss Essen
+Sun Oct 16 1955,Bayer Leverkusen,1-2,Preussen Dellbrueck
+Sun Oct 16 1955,Westfalia Herne,0-0,FC Schalke 04
+Sun Oct 16 1955,1 FC Koeln,3-1,Hamborn 07
+Sun Oct 16 1955,Wuppertaler SV,2-1,SV Sodingen
+Sun Oct 16 1955,Alemannia Aachen,4-2,Preussen Munster
+Sun Oct 23 1955,Kickers Offenbach,4-2,1 FC Nuernberg
+Sun Oct 23 1955,Vfb Stuttgart,3-0,1 FC Schweinfurt 05
+Sun Oct 23 1955,Karlsruher SC,3-1,Eintracht Frankfurt
+Sun Oct 23 1955,FC Augsburg,3-1,Jahn Regensburg
+Sun Oct 23 1955,Viktoria Aschaffenburg,2-1,VFR Mannheim
+Sun Oct 23 1955,Spvgg Greuther Fuerth,1-0,Stuttgarter Kickers
+Sun Oct 23 1955,SSV Reutlingen,5-0,TSV 1860 Muenchen
+Sun Oct 23 1955,FSV Frankfurt,1-1,TSV Schwaben Augsburg
+Sun Oct 23 1955,FK Pirmasens,5-1,Tura Ludwigshafen
+Sun Oct 23 1955,FV Engers 07,2-3,1 Fsv Mainz 05
+Sun Oct 23 1955,Phoenix Ludwigshafen,2-0,VFR Kaiserslautern
+Sun Oct 23 1955,Eintracht Trier,1-0,Saar 05 Saarbruecken
+Sun Oct 23 1955,SG 99 Andernach,1-1,VFR Frankenthal
+Sun Oct 23 1955,Wormatia Worms,4-2,Eintracht Bad Kreuznach
+Sun Oct 23 1955,1 FC Saarbruecken,2-1,Borussia Neunkirchen
+Sun Oct 23 1955,1 FC Kaiserslautern,3-1,Tus Koblenz
+Sun Oct 23 1955,Preussen Dellbrueck,1-3,Preussen Munster
+Sun Oct 23 1955,Alemannia Aachen,2-1,Bayer Leverkusen
+Sun Oct 23 1955,Bor Moenchengladbach,2-2,Rot Weiss Essen
+Sun Oct 23 1955,Wuppertaler SV,0-2,1 FC Koeln
+Sun Oct 23 1955,Duisburger SV,1-1,Borussia Dortmund
+Sun Oct 23 1955,Schwarz Weiss Essen,1-2,FC Schalke 04
+Sun Oct 23 1955,Westfalia Herne,2-3,Fortuna Duesseldorf
+Sun Oct 23 1955,Hamborn 07,0-1,SV Sodingen
+Sun Oct 30 1955,Jahn Regensburg,3-2,Kickers Offenbach
+Sun Oct 30 1955,1 FC Nuernberg,0-0,Vfb Stuttgart
+Sun Oct 30 1955,1 FC Schweinfurt 05,1-0,Karlsruher SC
+Sun Oct 30 1955,Eintracht Frankfurt,2-2,FC Augsburg
+Sun Oct 30 1955,VFR Mannheim,3-0,Spvgg Greuther Fuerth
+Sun Oct 30 1955,Stuttgarter Kickers,1-1,SSV Reutlingen
+Sun Oct 30 1955,TSV 1860 Muenchen,2-1,FSV Frankfurt
+Sun Oct 30 1955,TSV Schwaben Augsburg,1-2,Viktoria Aschaffenburg
+Sun Oct 30 1955,1 FC Saarbruecken,5-0,Phoenix Ludwigshafen
+Sun Oct 30 1955,Eintracht Trier,1-1,1 FC Kaiserslautern
+Sun Oct 30 1955,Tura Ludwigshafen,0-2,Eintracht Bad Kreuznach
+Sun Oct 30 1955,1 Fsv Mainz 05,0-1,VFR Frankenthal
+Sun Oct 30 1955,Tus Koblenz,1-0,Saar 05 Saarbruecken
+Sun Oct 30 1955,VFR Kaiserslautern,0-5,Borussia Neunkirchen
+Sun Oct 30 1955,SG 99 Andernach,1-4,FV Engers 07
+Sun Oct 30 1955,Wormatia Worms,3-0,FK Pirmasens
+Sun Oct 30 1955,Bayer Leverkusen,1-1,Wuppertaler SV
+Sun Oct 30 1955,SV Sodingen,0-0,Schwarz Weiss Essen
+Sun Oct 30 1955,Fortuna Duesseldorf,3-2,Bor Moenchengladbach
+Sun Oct 30 1955,1 FC Koeln,4-2,Westfalia Herne
+Sun Oct 30 1955,Borussia Dortmund,4-0,Preussen Dellbrueck
+Sun Oct 30 1955,Rot Weiss Essen,5-1,Alemannia Aachen
+Sun Oct 30 1955,FC Schalke 04,1-1,Duisburger SV
+Sun Oct 30 1955,Preussen Munster,1-0,Hamborn 07
+Sat Nov 5 1955,FSV Frankfurt,3-1,Stuttgarter Kickers
+Sun Nov 6 1955,SSV Reutlingen,2-3,VFR Mannheim
+Sun Nov 6 1955,Viktoria Aschaffenburg,5-5,TSV 1860 Muenchen
+Sun Nov 6 1955,Spvgg Greuther Fuerth,3-1,TSV Schwaben Augsburg
+Sun Nov 6 1955,Kickers Offenbach,4-0,Eintracht Frankfurt
+Sun Nov 6 1955,Vfb Stuttgart,2-0,Jahn Regensburg
+Sun Nov 6 1955,Karlsruher SC,2-0,1 FC Nuernberg
+Sun Nov 6 1955,FC Augsburg,3-0,1 FC Schweinfurt 05
+Sun Nov 6 1955,Phoenix Ludwigshafen,2-0,Eintracht Trier
+Sun Nov 6 1955,Eintracht Bad Kreuznach,0-3,VFR Kaiserslautern
+Sun Nov 6 1955,Saar 05 Saarbruecken,1-2,1 Fsv Mainz 05
+Sun Nov 6 1955,SG 99 Andernach,4-5,FK Pirmasens
+Sun Nov 6 1955,1 FC Saarbruecken,1-6,1 FC Kaiserslautern
+Sun Nov 6 1955,Borussia Neunkirchen,1-0,Tus Koblenz
+Sun Nov 6 1955,FV Engers 07,2-2,Wormatia Worms
+Sun Nov 6 1955,VFR Frankenthal,2-1,Tura Ludwigshafen
+Sun Nov 6 1955,Alemannia Aachen,2-1,1 FC Koeln
+Sun Nov 6 1955,Westfalia Herne,4-2,Rot Weiss Essen
+Sun Nov 6 1955,Duisburger SV,1-0,Preussen Munster
+Sun Nov 6 1955,Bor Moenchengladbach,4-0,Bayer Leverkusen
+Sun Nov 6 1955,Wuppertaler SV,0-3,Fortuna Duesseldorf
+Sun Nov 6 1955,Hamborn 07,0-2,FC Schalke 04
+Sun Nov 6 1955,Schwarz Weiss Essen,0-3,Borussia Dortmund
+Sun Nov 6 1955,Preussen Dellbrueck,1-0,SV Sodingen
+Sun Nov 13 1955,1 FC Nuernberg,1-1,Jahn Regensburg
+Sun Nov 13 1955,VFR Mannheim,4-2,TSV Schwaben Augsburg
+Sun Nov 13 1955,1 Fsv Mainz 05,4-0,Eintracht Bad Kreuznach
+Sun Nov 13 1955,Wormatia Worms,1-2,Phoenix Ludwigshafen
+Sun Nov 13 1955,FK Pirmasens,3-0,1 FC Saarbruecken
+Sun Nov 13 1955,Eintracht Trier,5-0,FV Engers 07
+Sun Nov 13 1955,1 FC Kaiserslautern,4-0,SG 99 Andernach
+Sun Nov 13 1955,VFR Kaiserslautern,3-1,Saar 05 Saarbruecken
+Sun Nov 13 1955,Tura Ludwigshafen,1-1,Borussia Neunkirchen
+Sun Nov 13 1955,Tus Koblenz,3-1,VFR Frankenthal
+Sun Nov 13 1955,Borussia Dortmund,1-0,Hamborn 07
+Sun Nov 13 1955,Bayer Leverkusen,1-0,Westfalia Herne
+Sun Nov 13 1955,Preussen Munster,1-3,Schwarz Weiss Essen
+Sun Nov 13 1955,SV Sodingen,2-1,Duisburger SV
+Sat Nov 19 1955,VFR Mannheim,2-0,Karlsruher SC
+Sat Nov 19 1955,Stuttgarter Kickers,1-0,FC Augsburg
+Sat Nov 19 1955,SSV Reutlingen,0-3,Viktoria Aschaffenburg
+Sat Nov 19 1955,Eintracht Frankfurt,3-2,1 FC Schweinfurt 05
+Sat Nov 19 1955,Rot Weiss Essen,0-2,Wuppertaler SV
+Sat Nov 19 1955,FC Schalke 04,3-2,Preussen Dellbrueck
+Sat Nov 19 1955,1 FC Koeln,1-0,Bor Moenchengladbach
+Sun Nov 20 1955,TSV 1860 Muenchen,2-3,Vfb Stuttgart
+Sun Nov 20 1955,TSV Schwaben Augsburg,1-1,Kickers Offenbach
+Sun Nov 20 1955,1 FC Nuernberg,1-1,FSV Frankfurt
+Sun Nov 20 1955,Jahn Regensburg,2-1,Spvgg Greuther Fuerth
+Sun Nov 20 1955,Fortuna Duesseldorf,3-3,Alemannia Aachen
+Sun Nov 27 1955,FC Augsburg,3-1,VFR Mannheim
+Sun Nov 27 1955,Karlsruher SC,3-0,Stuttgarter Kickers
+Sun Nov 27 1955,Kickers Offenbach,3-0,TSV 1860 Muenchen
+Sun Nov 27 1955,Vfb Stuttgart,1-1,TSV Schwaben Augsburg
+Sun Nov 27 1955,Viktoria Aschaffenburg,3-0,1 FC Nuernberg
+Sun Nov 27 1955,Spvgg Greuther Fuerth,1-5,Eintracht Frankfurt
+Sun Nov 27 1955,FSV Frankfurt,6-2,SSV Reutlingen
+Sun Nov 27 1955,1 FC Schweinfurt 05,4-0,Jahn Regensburg
+Sun Nov 27 1955,FV Engers 07,5-2,1 FC Saarbruecken
+Sun Nov 27 1955,Borussia Neunkirchen,2-1,1 Fsv Mainz 05
+Sun Nov 27 1955,VFR Frankenthal,1-1,VFR Kaiserslautern
+Sun Nov 27 1955,FK Pirmasens,1-3,Eintracht Trier
+Sun Nov 27 1955,Phoenix Ludwigshafen,2-0,SG 99 Andernach
+Sun Nov 27 1955,Eintracht Bad Kreuznach,1-4,Tus Koblenz
+Sun Nov 27 1955,Saar 05 Saarbruecken,4-2,Tura Ludwigshafen
+Sun Nov 27 1955,1 FC Kaiserslautern,5-1,Wormatia Worms
+Sun Nov 27 1955,Preussen Dellbrueck,4-1,Hamborn 07
+Sun Nov 27 1955,Preussen Munster,3-2,SV Sodingen
+Sun Nov 27 1955,Schwarz Weiss Essen,1-1,Duisburger SV
+Sun Nov 27 1955,Westfalia Herne,3-3,Bor Moenchengladbach
+Sun Nov 27 1955,Fortuna Duesseldorf,2-0,Rot Weiss Essen
+Sun Nov 27 1955,Bayer Leverkusen,0-4,1 FC Koeln
+Sun Nov 27 1955,FC Schalke 04,1-3,Borussia Dortmund
+Sun Nov 27 1955,Alemannia Aachen,2-1,Wuppertaler SV
+Sun Dec 4 1955,Viktoria Aschaffenburg,0-2,FSV Frankfurt
+Sun Dec 4 1955,SSV Reutlingen,6-2,Spvgg Greuther Fuerth
+Sun Dec 4 1955,Eintracht Frankfurt,2-1,Jahn Regensburg
+Sun Dec 4 1955,1 FC Nuernberg,3-2,1 FC Schweinfurt 05
+Sun Dec 4 1955,VFR Mannheim,3-1,Vfb Stuttgart
+Sun Dec 4 1955,Stuttgarter Kickers,2-0,Kickers Offenbach
+Sun Dec 4 1955,TSV 1860 Muenchen,2-1,TSV Schwaben Augsburg
+Sun Dec 4 1955,FC Augsburg,2-1,Karlsruher SC
+Sun Dec 4 1955,Tus Koblenz,4-0,1 Fsv Mainz 05
+Sun Dec 4 1955,Tura Ludwigshafen,1-0,VFR Kaiserslautern
+Sun Dec 4 1955,Eintracht Bad Kreuznach,3-1,Borussia Neunkirchen
+Sun Dec 4 1955,Saar 05 Saarbruecken,5-1,VFR Frankenthal
+Sun Dec 4 1955,1 FC Kaiserslautern,6-0,FV Engers 07
+Sun Dec 4 1955,Wormatia Worms,2-2,1 FC Saarbruecken
+Sun Dec 4 1955,Eintracht Trier,0-0,SG 99 Andernach
+Sun Dec 4 1955,FK Pirmasens,2-2,Phoenix Ludwigshafen
+Sun Dec 4 1955,Borussia Dortmund,1-0,Preussen Munster
+Sun Dec 4 1955,1 FC Koeln,5-1,Fortuna Duesseldorf
+Sun Dec 4 1955,Wuppertaler SV,1-0,Westfalia Herne
+Sun Dec 4 1955,Duisburger SV,2-0,Preussen Dellbrueck
+Sun Dec 4 1955,Rot Weiss Essen,2-0,Bayer Leverkusen
+Sun Dec 4 1955,SV Sodingen,1-1,FC Schalke 04
+Sun Dec 4 1955,Bor Moenchengladbach,3-5,Alemannia Aachen
+Sun Dec 4 1955,Hamborn 07,0-0,Schwarz Weiss Essen
+Sun Dec 11 1955,TSV 1860 Muenchen,1-2,VFR Mannheim
+Sun Dec 11 1955,TSV Schwaben Augsburg,1-2,Stuttgarter Kickers
+Sun Dec 11 1955,Spvgg Greuther Fuerth,1-1,Viktoria Aschaffenburg
+Sun Dec 11 1955,Eintracht Frankfurt,0-1,1 FC Nuernberg
+Sun Dec 11 1955,Jahn Regensburg,7-1,SSV Reutlingen
+Sun Dec 11 1955,Kickers Offenbach,3-1,FC Augsburg
+Sun Dec 11 1955,Vfb Stuttgart,0-0,Karlsruher SC
+Sun Dec 11 1955,1 FC Schweinfurt 05,4-2,FSV Frankfurt
+Sun Dec 11 1955,Phoenix Ludwigshafen,1-2,1 FC Kaiserslautern
+Sun Dec 11 1955,SG 99 Andernach,1-0,Wormatia Worms
+Sun Dec 11 1955,1 Fsv Mainz 05,3-1,Tura Ludwigshafen
+Sun Dec 11 1955,VFR Frankenthal,5-2,Eintracht Bad Kreuznach
+Sun Dec 11 1955,VFR Kaiserslautern,1-3,Tus Koblenz
+Sun Dec 11 1955,Borussia Neunkirchen,6-1,Saar 05 Saarbruecken
+Sun Dec 11 1955,1 FC Saarbruecken,5-2,Eintracht Trier
+Sun Dec 11 1955,FV Engers 07,0-2,FK Pirmasens
+Sun Dec 11 1955,Bor Moenchengladbach,4-2,Wuppertaler SV
+Sun Dec 11 1955,Westfalia Herne,1-2,Alemannia Aachen
+Sun Dec 11 1955,Preussen Dellbrueck,2-2,Schwarz Weiss Essen
+Sun Dec 11 1955,Rot Weiss Essen,3-2,1 FC Koeln
+Sun Dec 11 1955,Borussia Dortmund,4-2,SV Sodingen
+Sun Dec 11 1955,Fortuna Duesseldorf,2-0,Bayer Leverkusen
+Sun Dec 18 1955,Stuttgarter Kickers,1-0,TSV 1860 Muenchen
+Sun Dec 18 1955,Viktoria Aschaffenburg,1-1,1 FC Schweinfurt 05
+Sun Dec 18 1955,SSV Reutlingen,2-1,Eintracht Frankfurt
+Sun Dec 18 1955,Karlsruher SC,2-1,Kickers Offenbach
+Sun Dec 18 1955,FC Augsburg,2-2,Vfb Stuttgart
+Sun Dec 18 1955,Borussia Neunkirchen,0-0,VFR Frankenthal
+Sun Dec 18 1955,Tus Koblenz,2-1,Tura Ludwigshafen
+Sun Dec 18 1955,1 FC Saarbruecken,4-1,SG 99 Andernach
+Sun Dec 18 1955,Duisburger SV,2-0,Hamborn 07
+Sun Dec 18 1955,FC Schalke 04,4-1,Preussen Munster
+Sun Dec 25 1955,FSV Frankfurt,0-1,Spvgg Greuther Fuerth
+Mon Dec 26 1955,VFR Kaiserslautern,3-1,1 Fsv Mainz 05
+Mon Dec 26 1955,FK Pirmasens,1-1,1 FC Kaiserslautern
+Mon Dec 26 1955,Eintracht Bad Kreuznach,1-0,Saar 05 Saarbruecken
+Mon Dec 26 1955,Wormatia Worms,3-2,Eintracht Trier
+Mon Dec 26 1955,Phoenix Ludwigshafen,5-1,FV Engers 07
+Mon Dec 26 1955,Preussen Dellbrueck,1-1,Bor Moenchengladbach
+Sun Jan 8 1956,Viktoria Aschaffenburg,3-1,Kickers Offenbach
+Sun Jan 8 1956,TSV Schwaben Augsburg,5-0,Jahn Regensburg
+Sun Jan 8 1956,Spvgg Greuther Fuerth,1-2,Vfb Stuttgart
+Sun Jan 8 1956,TSV 1860 Muenchen,0-3,Eintracht Frankfurt
+Sun Jan 8 1956,SSV Reutlingen,2-2,Karlsruher SC
+Sun Jan 8 1956,Stuttgarter Kickers,0-2,1 FC Schweinfurt 05
+Sun Jan 8 1956,FSV Frankfurt,2-1,FC Augsburg
+Sun Jan 8 1956,VFR Mannheim,1-1,1 FC Nuernberg
+Sun Jan 8 1956,1 FC Saarbruecken,3-2,VFR Kaiserslautern
+Sun Jan 8 1956,Eintracht Trier,1-0,Tus Koblenz
+Sun Jan 8 1956,FV Engers 07,2-5,VFR Frankenthal
+Sun Jan 8 1956,1 FC Kaiserslautern,3-0,Saar 05 Saarbruecken
+Sun Jan 8 1956,SG 99 Andernach,0-0,1 Fsv Mainz 05
+Sun Jan 8 1956,Phoenix Ludwigshafen,0-2,Borussia Neunkirchen
+Sun Jan 8 1956,FK Pirmasens,8-0,Eintracht Bad Kreuznach
+Sun Jan 8 1956,Wormatia Worms,3-0,Tura Ludwigshafen
+Sun Jan 8 1956,Bor Moenchengladbach,2-1,Duisburger SV
+Sun Jan 8 1956,Wuppertaler SV,6-0,Hamborn 07
+Sun Jan 8 1956,Fortuna Duesseldorf,1-1,FC Schalke 04
+Sun Jan 8 1956,1 FC Koeln,2-1,SV Sodingen
+Sun Jan 8 1956,Alemannia Aachen,6-2,Preussen Dellbrueck
+Sun Jan 8 1956,Westfalia Herne,2-2,Schwarz Weiss Essen
+Sun Jan 8 1956,Bayer Leverkusen,1-0,Preussen Munster
+Sun Jan 8 1956,Rot Weiss Essen,1-2,Borussia Dortmund
+Sat Jan 14 1956,Eintracht Frankfurt,4-2,Stuttgarter Kickers
+Sat Jan 14 1956,Karlsruher SC,1-1,Spvgg Greuther Fuerth
+Sun Jan 15 1956,1 FC Schweinfurt 05,4-1,VFR Mannheim
+Sun Jan 15 1956,Vfb Stuttgart,1-1,Viktoria Aschaffenburg
+Sun Jan 15 1956,Kickers Offenbach,2-0,FSV Frankfurt
+Sun Jan 15 1956,Jahn Regensburg,0-0,TSV 1860 Muenchen
+Sun Jan 15 1956,FC Augsburg,4-1,SSV Reutlingen
+Sun Jan 15 1956,1 FC Nuernberg,5-0,TSV Schwaben Augsburg
+Sun Jan 15 1956,Borussia Neunkirchen,1-2,FK Pirmasens
+Sun Jan 15 1956,Tura Ludwigshafen,6-0,FV Engers 07
+Sun Jan 15 1956,Tus Koblenz,3-1,1 FC Saarbruecken
+Sun Jan 15 1956,VFR Frankenthal,0-2,1 FC Kaiserslautern
+Sun Jan 15 1956,Saar 05 Saarbruecken,1-2,Phoenix Ludwigshafen
+Sun Jan 15 1956,VFR Kaiserslautern,3-2,Wormatia Worms
+Sun Jan 15 1956,1 Fsv Mainz 05,1-0,Eintracht Trier
+Sun Jan 15 1956,Eintracht Bad Kreuznach,2-1,SG 99 Andernach
+Sun Jan 15 1956,SV Sodingen,2-0,Bayer Leverkusen
+Sun Jan 15 1956,Preussen Munster,0-2,Rot Weiss Essen
+Sun Jan 15 1956,Duisburger SV,3-1,Westfalia Herne
+Sun Jan 15 1956,Hamborn 07,3-3,Alemannia Aachen
+Sun Jan 15 1956,FC Schalke 04,4-0,Wuppertaler SV
+Sun Jan 15 1956,Schwarz Weiss Essen,0-0,1 FC Koeln
+Sun Jan 15 1956,Borussia Dortmund,2-2,Fortuna Duesseldorf
+Sun Jan 22 1956,SSV Reutlingen,1-1,Kickers Offenbach
+Sun Jan 22 1956,FSV Frankfurt,0-2,Vfb Stuttgart
+Sun Jan 22 1956,Viktoria Aschaffenburg,2-2,Karlsruher SC
+Sun Jan 22 1956,Spvgg Greuther Fuerth,3-3,FC Augsburg
+Sun Jan 22 1956,Stuttgarter Kickers,3-0,Jahn Regensburg
+Sun Jan 22 1956,VFR Mannheim,1-0,Eintracht Frankfurt
+Sun Jan 22 1956,TSV Schwaben Augsburg,4-1,1 FC Schweinfurt 05
+Sun Jan 22 1956,TSV 1860 Muenchen,0-1,1 FC Nuernberg
+Sun Jan 22 1956,FV Engers 07,4-3,Saar 05 Saarbruecken
+Sun Jan 22 1956,FK Pirmasens,2-0,1 Fsv Mainz 05
+Sun Jan 22 1956,Eintracht Trier,4-2,VFR Kaiserslautern
+Sun Jan 22 1956,Phoenix Ludwigshafen,3-1,Eintracht Bad Kreuznach
+Sun Jan 22 1956,SG 99 Andernach,1-3,Tus Koblenz
+Sun Jan 22 1956,1 FC Saarbruecken,8-2,Tura Ludwigshafen
+Sun Jan 22 1956,Wormatia Worms,2-4,VFR Frankenthal
+Sun Jan 22 1956,1 FC Kaiserslautern,3-1,Borussia Neunkirchen
+Sun Jan 22 1956,Rot Weiss Essen,2-1,FC Schalke 04
+Sun Jan 22 1956,Westfalia Herne,1-1,SV Sodingen
+Sun Jan 22 1956,Alemannia Aachen,3-4,Duisburger SV
+Sun Jan 22 1956,Bor Moenchengladbach,1-4,Schwarz Weiss Essen
+Sun Jan 22 1956,Bayer Leverkusen,1-2,Borussia Dortmund
+Sun Jan 22 1956,1 FC Koeln,3-3,Preussen Munster
+Sun Jan 22 1956,Fortuna Duesseldorf,3-3,Hamborn 07
+Sun Jan 22 1956,Wuppertaler SV,3-2,Preussen Dellbrueck
+Sun Jan 29 1956,Jahn Regensburg,0-0,VFR Mannheim
+Sun Jan 29 1956,1 FC Nuernberg,2-0,Stuttgarter Kickers
+Sun Jan 29 1956,1 FC Schweinfurt 05,6-2,TSV 1860 Muenchen
+Sun Jan 29 1956,Eintracht Frankfurt,3-1,TSV Schwaben Augsburg
+Sun Jan 29 1956,FC Augsburg,2-2,Viktoria Aschaffenburg
+Sun Jan 29 1956,Karlsruher SC,5-0,FSV Frankfurt
+Sun Jan 29 1956,Vfb Stuttgart,1-0,SSV Reutlingen
+Sun Jan 29 1956,Kickers Offenbach,2-3,Spvgg Greuther Fuerth
+Sun Jan 29 1956,Eintracht Bad Kreuznach,1-0,Eintracht Trier
+Sun Jan 29 1956,Borussia Neunkirchen,4-1,SG 99 Andernach
+Sun Jan 29 1956,Tus Koblenz,2-0,Wormatia Worms
+Sun Jan 29 1956,Tura Ludwigshafen,0-4,1 FC Kaiserslautern
+Sun Jan 29 1956,VFR Frankenthal,1-0,Phoenix Ludwigshafen
+Sun Jan 29 1956,1 Fsv Mainz 05,1-10,1 FC Saarbruecken
+Sun Jan 29 1956,VFR Kaiserslautern,3-1,FV Engers 07
+Sun Jan 29 1956,Saar 05 Saarbruecken,0-2,FK Pirmasens
+Sun Jan 29 1956,Borussia Dortmund,9-1,Wuppertaler SV
+Sun Jan 29 1956,Preussen Munster,2-1,Fortuna Duesseldorf
+Sun Jan 29 1956,Duisburger SV,0-2,1 FC Koeln
+Sun Jan 29 1956,Schwarz Weiss Essen,2-0,Bayer Leverkusen
+Sun Jan 29 1956,FC Schalke 04,2-2,Alemannia Aachen
+Sun Jan 29 1956,Preussen Dellbrueck,2-2,Westfalia Herne
+Sun Jan 29 1956,SV Sodingen,1-1,Rot Weiss Essen
+Sun Jan 29 1956,Hamborn 07,2-3,Bor Moenchengladbach
+Sun Feb 5 1956,Viktoria Aschaffenburg,3-3,Eintracht Frankfurt
+Sun Feb 5 1956,SSV Reutlingen,2-1,1 FC Nuernberg
+Sun Feb 5 1956,Spvgg Greuther Fuerth,1-1,1 FC Schweinfurt 05
+Sun Feb 5 1956,Vfb Stuttgart,2-4,Kickers Offenbach
+Sun Feb 5 1956,TSV Schwaben Augsburg,0-3,Karlsruher SC
+Sun Feb 5 1956,VFR Mannheim,2-0,Stuttgarter Kickers
+Sun Feb 5 1956,TSV 1860 Muenchen,4-1,FC Augsburg
+Sun Feb 5 1956,FSV Frankfurt,1-0,Jahn Regensburg
+Sun Feb 5 1956,1 FC Saarbruecken,2-0,VFR Frankenthal
+Sun Feb 5 1956,1 FC Kaiserslautern,10-1,Eintracht Bad Kreuznach
+Sun Feb 5 1956,Eintracht Trier,2-0,Tura Ludwigshafen
+Sun Feb 5 1956,Phoenix Ludwigshafen,2-6,1 Fsv Mainz 05
+Sun Feb 5 1956,SG 99 Andernach,3-2,VFR Kaiserslautern
+Sun Feb 5 1956,FV Engers 07,7-1,Borussia Neunkirchen
+Sun Feb 5 1956,Wormatia Worms,2-4,Saar 05 Saarbruecken
+Sun Feb 5 1956,FK Pirmasens,2-1,Tus Koblenz
+Sun Feb 5 1956,Westfalia Herne,3-0,Preussen Munster
+Sun Feb 5 1956,1 FC Koeln,3-1,Borussia Dortmund
+Sun Feb 5 1956,Wuppertaler SV,0-3,Duisburger SV
+Sun Feb 5 1956,Bayer Leverkusen,0-2,FC Schalke 04
+Sun Feb 5 1956,Alemannia Aachen,2-0,Schwarz Weiss Essen
+Sun Feb 5 1956,Bor Moenchengladbach,1-2,SV Sodingen
+Sun Feb 5 1956,Rot Weiss Essen,1-0,Hamborn 07
+Sun Feb 5 1956,Fortuna Duesseldorf,2-2,Preussen Dellbrueck
+Sun Feb 12 1956,Borussia Neunkirchen,1-1,Eintracht Trier
+Sun Feb 12 1956,Eintracht Bad Kreuznach,1-0,1 FC Saarbruecken
+Sun Feb 12 1956,Tus Koblenz,9-0,FV Engers 07
+Sun Feb 12 1956,Saar 05 Saarbruecken,5-2,SG 99 Andernach
+Sun Feb 12 1956,VFR Frankenthal,0-0,FK Pirmasens
+Sun Feb 12 1956,VFR Kaiserslautern,2-5,1 FC Kaiserslautern
+Sun Feb 12 1956,Schwarz Weiss Essen,1-2,Rot Weiss Essen
+Sun Feb 12 1956,FC Schalke 04,1-2,Bor Moenchengladbach
+Sun Feb 12 1956,Borussia Dortmund,5-1,Alemannia Aachen
+Sun Feb 12 1956,SV Sodingen,1-1,Fortuna Duesseldorf
+Sat Feb 18 1956,Kickers Offenbach,2-6,VFR Mannheim
+Sun Feb 19 1956,Jahn Regensburg,1-1,Viktoria Aschaffenburg
+Sun Feb 19 1956,Eintracht Frankfurt,1-1,FSV Frankfurt
+Sun Feb 19 1956,1 FC Schweinfurt 05,3-1,SSV Reutlingen
+Sun Feb 19 1956,1 FC Nuernberg,2-1,Spvgg Greuther Fuerth
+Sun Feb 19 1956,Stuttgarter Kickers,0-0,Vfb Stuttgart
+Sun Feb 19 1956,Karlsruher SC,8-3,TSV 1860 Muenchen
+Sun Feb 19 1956,FC Augsburg,2-3,TSV Schwaben Augsburg
+Sun Feb 19 1956,FK Pirmasens,4-1,VFR Kaiserslautern
+Sun Feb 19 1956,Wormatia Worms,2-2,Borussia Neunkirchen
+Sun Feb 19 1956,Eintracht Trier,2-1,VFR Frankenthal
+Sun Feb 19 1956,1 FC Saarbruecken,1-3,Saar 05 Saarbruecken
+Sun Feb 19 1956,Phoenix Ludwigshafen,2-0,Tus Koblenz
+Sun Feb 19 1956,SG 99 Andernach,2-0,Tura Ludwigshafen
+Sun Feb 19 1956,1 FC Kaiserslautern,5-1,1 Fsv Mainz 05
+Sun Feb 19 1956,1 FC Koeln,3-2,FC Schalke 04
+Sun Feb 19 1956,Fortuna Duesseldorf,2-2,Duisburger SV
+Sun Feb 19 1956,Westfalia Herne,0-0,Borussia Dortmund
+Sun Feb 26 1956,FSV Frankfurt,2-1,VFR Mannheim
+Sun Feb 26 1956,Viktoria Aschaffenburg,0-1,Stuttgarter Kickers
+Sun Feb 26 1956,Spvgg Greuther Fuerth,3-2,TSV 1860 Muenchen
+Sun Feb 26 1956,SSV Reutlingen,3-0,TSV Schwaben Augsburg
+Sun Feb 26 1956,Kickers Offenbach,3-1,1 FC Schweinfurt 05
+Sun Feb 26 1956,Vfb Stuttgart,3-0,Eintracht Frankfurt
+Sun Feb 26 1956,Karlsruher SC,0-1,Jahn Regensburg
+Sun Feb 26 1956,FC Augsburg,0-0,1 FC Nuernberg
+Sun Feb 26 1956,Saar 05 Saarbruecken,5-0,Eintracht Trier
+Sun Feb 26 1956,VFR Frankenthal,2-1,SG 99 Andernach
+Sun Feb 26 1956,1 Fsv Mainz 05,2-0,FV Engers 07
+Sun Feb 26 1956,Borussia Neunkirchen,1-1,1 FC Saarbruecken
+Sun Feb 26 1956,Tus Koblenz,5-3,1 FC Kaiserslautern
+Sun Feb 26 1956,Tura Ludwigshafen,1-2,FK Pirmasens
+Sun Feb 26 1956,Eintracht Bad Kreuznach,3-1,Wormatia Worms
+Sun Feb 26 1956,VFR Kaiserslautern,0-2,Phoenix Ludwigshafen
+Sun Feb 26 1956,FC Schalke 04,7-2,Westfalia Herne
+Sun Feb 26 1956,Schwarz Weiss Essen,1-0,Fortuna Duesseldorf
+Sun Feb 26 1956,SV Sodingen,2-0,Wuppertaler SV
+Sun Feb 26 1956,Preussen Munster,3-4,Alemannia Aachen
+Sun Feb 26 1956,Duisburger SV,2-2,Rot Weiss Essen
+Sun Feb 26 1956,Preussen Dellbrueck,1-0,Bayer Leverkusen
+Sun Feb 26 1956,Borussia Dortmund,5-2,Bor Moenchengladbach
+Sun Feb 26 1956,Hamborn 07,4-2,1 FC Koeln
+Sun Mar 4 1956,1 FC Nuernberg,1-1,Kickers Offenbach
+Sun Mar 4 1956,Eintracht Frankfurt,2-3,Karlsruher SC
+Sun Mar 4 1956,VFR Mannheim,1-2,Viktoria Aschaffenburg
+Sun Mar 4 1956,Stuttgarter Kickers,1-0,Spvgg Greuther Fuerth
+Sun Mar 4 1956,TSV 1860 Muenchen,7-2,SSV Reutlingen
+Sun Mar 4 1956,TSV Schwaben Augsburg,1-0,FSV Frankfurt
+Sun Mar 4 1956,FV Engers 07,4-1,SG 99 Andernach
+Sun Mar 4 1956,Saar 05 Saarbruecken,2-1,Tus Koblenz
+Sun Mar 4 1956,Phoenix Ludwigshafen,3-4,1 FC Saarbruecken
+Sun Mar 4 1956,1 FC Kaiserslautern,2-0,Eintracht Trier
+Sun Mar 4 1956,Borussia Neunkirchen,5-3,VFR Kaiserslautern
+Sun Mar 4 1956,Eintracht Bad Kreuznach,2-1,Tura Ludwigshafen
+Sun Mar 4 1956,VFR Frankenthal,4-0,1 Fsv Mainz 05
+Sun Mar 4 1956,FK Pirmasens,2-2,Wormatia Worms
+Sun Mar 4 1956,FC Schalke 04,5-1,Schwarz Weiss Essen
+Sun Mar 4 1956,Preussen Munster,2-1,Preussen Dellbrueck
+Sun Mar 11 1956,Kickers Offenbach,5-2,Jahn Regensburg
+Sun Mar 11 1956,Vfb Stuttgart,5-0,1 FC Nuernberg
+Sun Mar 11 1956,Karlsruher SC,1-1,1 FC Schweinfurt 05
+Sun Mar 11 1956,FC Augsburg,4-2,Eintracht Frankfurt
+Sun Mar 11 1956,Spvgg Greuther Fuerth,3-2,VFR Mannheim
+Sun Mar 11 1956,SSV Reutlingen,1-0,Stuttgarter Kickers
+Sun Mar 11 1956,FSV Frankfurt,6-0,TSV 1860 Muenchen
+Sun Mar 11 1956,Viktoria Aschaffenburg,3-2,TSV Schwaben Augsburg
+Sun Mar 11 1956,Eintracht Trier,1-1,Phoenix Ludwigshafen
+Sun Mar 11 1956,VFR Kaiserslautern,2-3,Eintracht Bad Kreuznach
+Sun Mar 11 1956,Tura Ludwigshafen,0-2,VFR Frankenthal
+Sun Mar 11 1956,Tus Koblenz,5-1,Borussia Neunkirchen
+Sun Mar 11 1956,SG 99 Andernach,1-4,1 FC Kaiserslautern
+Sun Mar 11 1956,1 FC Saarbruecken,2-0,FK Pirmasens
+Sun Mar 11 1956,1 Fsv Mainz 05,0-2,Saar 05 Saarbruecken
+Sun Mar 11 1956,Wormatia Worms,3-1,FV Engers 07
+Sun Mar 11 1956,Preussen Dellbrueck,1-1,1 FC Koeln
+Sun Mar 11 1956,Duisburger SV,4-1,Bayer Leverkusen
+Sun Mar 11 1956,Hamborn 07,1-0,Westfalia Herne
+Sun Mar 11 1956,Preussen Munster,0-1,Wuppertaler SV
+Sun Mar 18 1956,Stuttgarter Kickers,0-1,FSV Frankfurt
+Sun Mar 18 1956,VFR Mannheim,9-1,SSV Reutlingen
+Sun Mar 18 1956,TSV 1860 Muenchen,1-0,Viktoria Aschaffenburg
+Sun Mar 18 1956,TSV Schwaben Augsburg,2-0,Spvgg Greuther Fuerth
+Sun Mar 18 1956,Eintracht Frankfurt,1-0,Kickers Offenbach
+Sun Mar 18 1956,Jahn Regensburg,1-1,Vfb Stuttgart
+Sun Mar 18 1956,1 FC Nuernberg,1-2,Karlsruher SC
+Sun Mar 18 1956,1 FC Schweinfurt 05,1-0,FC Augsburg
+Sun Mar 18 1956,Phoenix Ludwigshafen,2-1,Wormatia Worms
+Sun Mar 18 1956,FV Engers 07,4-1,Eintracht Trier
+Sun Mar 18 1956,1 FC Kaiserslautern,6-3,1 FC Saarbruecken
+Sun Mar 18 1956,Borussia Neunkirchen,5-0,Tura Ludwigshafen
+Sun Mar 18 1956,Eintracht Bad Kreuznach,3-3,1 Fsv Mainz 05
+Sun Mar 18 1956,FK Pirmasens,2-0,SG 99 Andernach
+Sun Mar 18 1956,VFR Frankenthal,0-1,Tus Koblenz
+Sun Mar 18 1956,Saar 05 Saarbruecken,2-1,VFR Kaiserslautern
+Sun Mar 18 1956,Westfalia Herne,3-1,1 FC Koeln
+Sun Mar 18 1956,Wuppertaler SV,3-4,Bayer Leverkusen
+Sun Mar 18 1956,Duisburger SV,0-1,FC Schalke 04
+Sun Mar 18 1956,Hamborn 07,3-4,Preussen Munster
+Sun Mar 18 1956,Preussen Dellbrueck,1-5,Borussia Dortmund
+Sun Mar 18 1956,Schwarz Weiss Essen,1-0,SV Sodingen
+Sun Mar 18 1956,Bor Moenchengladbach,4-1,Fortuna Duesseldorf
+Sun Mar 18 1956,Alemannia Aachen,2-0,Rot Weiss Essen
+Wed Mar 21 1956,Tura Ludwigshafen,2-1,Phoenix Ludwigshafen
+Wed Mar 21 1956,FV Engers 07,0-1,Eintracht Bad Kreuznach
+Sat Mar 24 1956,Kickers Offenbach,7-1,TSV Schwaben Augsburg
+Sun Mar 25 1956,FSV Frankfurt,1-2,1 FC Nuernberg
+Sun Mar 25 1956,Karlsruher SC,2-1,VFR Mannheim
+Sun Mar 25 1956,FC Augsburg,4-2,Stuttgarter Kickers
+Sun Mar 25 1956,Viktoria Aschaffenburg,5-0,SSV Reutlingen
+Sun Mar 25 1956,1 FC Schweinfurt 05,0-1,Eintracht Frankfurt
+Sun Mar 25 1956,Vfb Stuttgart,2-1,TSV 1860 Muenchen
+Sun Mar 25 1956,Spvgg Greuther Fuerth,3-2,Jahn Regensburg
+Sun Mar 25 1956,SG 99 Andernach,1-3,Phoenix Ludwigshafen
+Sun Mar 25 1956,Eintracht Trier,2-1,FK Pirmasens
+Sun Mar 25 1956,Wormatia Worms,6-0,1 FC Kaiserslautern
+Sun Mar 25 1956,1 Fsv Mainz 05,1-2,Borussia Neunkirchen
+Sun Mar 25 1956,VFR Kaiserslautern,2-0,VFR Frankenthal
+Sun Mar 25 1956,1 FC Saarbruecken,2-0,FV Engers 07
+Sun Mar 25 1956,Tus Koblenz,2-2,Eintracht Bad Kreuznach
+Sun Mar 25 1956,Tura Ludwigshafen,0-3,Saar 05 Saarbruecken
+Sun Mar 25 1956,1 FC Koeln,0-0,Alemannia Aachen
+Sun Mar 25 1956,Bayer Leverkusen,5-1,Bor Moenchengladbach
+Sun Mar 25 1956,Fortuna Duesseldorf,3-1,Wuppertaler SV
+Sun Mar 25 1956,SV Sodingen,5-3,Preussen Dellbrueck
+Sun Mar 25 1956,FC Schalke 04,2-1,Hamborn 07
+Sun Mar 25 1956,Rot Weiss Essen,3-3,Westfalia Herne
+Sun Mar 25 1956,Preussen Munster,2-1,Duisburger SV
+Sun Mar 25 1956,Borussia Dortmund,3-3,Schwarz Weiss Essen
+Thu Mar 29 1956,Wuppertaler SV,2-1,Schwarz Weiss Essen
+Thu Mar 29 1956,Bayer Leverkusen,2-1,Hamborn 07
+Thu Mar 29 1956,Rot Weiss Essen,3-1,Preussen Dellbrueck
+Thu Mar 29 1956,Bor Moenchengladbach,4-1,Preussen Munster
+Thu Mar 29 1956,Alemannia Aachen,1-0,SV Sodingen
+Sat Mar 31 1956,1 FC Schweinfurt 05,1-0,Vfb Stuttgart
+Sun Apr 1 1956,1 Fsv Mainz 05,1-2,Wormatia Worms
+Sun Apr 1 1956,Alemannia Aachen,4-1,Fortuna Duesseldorf
+Sun Apr 1 1956,Westfalia Herne,1-3,Bayer Leverkusen
+Sun Apr 1 1956,Hamborn 07,2-4,Borussia Dortmund
+Mon Apr 2 1956,Jahn Regensburg,1-0,FC Augsburg
+Mon Apr 2 1956,Preussen Dellbrueck,3-2,FC Schalke 04
+Mon Apr 2 1956,Wuppertaler SV,1-1,Rot Weiss Essen
+Mon Apr 2 1956,Bor Moenchengladbach,3-2,1 FC Koeln
+Mon Apr 2 1956,Schwarz Weiss Essen,4-1,Preussen Munster
+Mon Apr 2 1956,Duisburger SV,2-0,SV Sodingen
+Sun Apr 8 1956,VFR Mannheim,3-0,FC Augsburg
+Sun Apr 8 1956,Stuttgarter Kickers,3-1,Karlsruher SC
+Sun Apr 8 1956,TSV 1860 Muenchen,1-2,Kickers Offenbach
+Sun Apr 8 1956,TSV Schwaben Augsburg,1-0,Vfb Stuttgart
+Sun Apr 8 1956,1 FC Nuernberg,1-2,Viktoria Aschaffenburg
+Sun Apr 8 1956,Eintracht Frankfurt,0-1,Spvgg Greuther Fuerth
+Sun Apr 8 1956,SSV Reutlingen,4-1,FSV Frankfurt
+Sun Apr 8 1956,Jahn Regensburg,4-2,1 FC Schweinfurt 05
+Sun Apr 8 1956,SG 99 Andernach,5-4,Eintracht Trier
+Sun Apr 8 1956,Phoenix Ludwigshafen,1-0,FK Pirmasens
+Sun Apr 8 1956,VFR Kaiserslautern,2-1,Tura Ludwigshafen
+Sun Apr 8 1956,VFR Frankenthal,0-1,Saar 05 Saarbruecken
+Sun Apr 8 1956,Borussia Neunkirchen,3-1,Eintracht Bad Kreuznach
+Sun Apr 8 1956,1 Fsv Mainz 05,1-1,Tus Koblenz
+Sun Apr 8 1956,FV Engers 07,1-2,1 FC Kaiserslautern
+Sun Apr 8 1956,1 FC Saarbruecken,3-3,Wormatia Worms
+Sun Apr 8 1956,Borussia Dortmund,0-2,FC Schalke 04
+Sun Apr 8 1956,Rot Weiss Essen,3-1,Fortuna Duesseldorf
+Sun Apr 8 1956,Wuppertaler SV,2-1,Alemannia Aachen
+Sun Apr 8 1956,SV Sodingen,2-2,Preussen Munster
+Sun Apr 8 1956,Bor Moenchengladbach,2-2,Westfalia Herne
+Sun Apr 8 1956,Duisburger SV,2-2,Schwarz Weiss Essen
+Sun Apr 8 1956,1 FC Koeln,0-0,Bayer Leverkusen
+Sun Apr 8 1956,Hamborn 07,4-2,Preussen Dellbrueck
+Sat Apr 14 1956,1 FC Schweinfurt 05,3-0,1 FC Nuernberg
+Sun Apr 15 1956,FSV Frankfurt,1-2,Viktoria Aschaffenburg
+Sun Apr 15 1956,Spvgg Greuther Fuerth,3-1,SSV Reutlingen
+Sun Apr 15 1956,Jahn Regensburg,1-0,Eintracht Frankfurt
+Sun Apr 15 1956,Vfb Stuttgart,2-1,VFR Mannheim
+Sun Apr 15 1956,Kickers Offenbach,1-0,Stuttgarter Kickers
+Sun Apr 15 1956,TSV Schwaben Augsburg,3-0,TSV 1860 Muenchen
+Sun Apr 15 1956,Karlsruher SC,2-0,FC Augsburg
+Sun Apr 15 1956,Tura Ludwigshafen,1-4,1 Fsv Mainz 05
+Sun Apr 15 1956,Tus Koblenz,3-1,VFR Kaiserslautern
+Sun Apr 15 1956,Eintracht Bad Kreuznach,0-0,VFR Frankenthal
+Sun Apr 15 1956,FK Pirmasens,5-5,FV Engers 07
+Sun Apr 15 1956,1 FC Kaiserslautern,2-2,Phoenix Ludwigshafen
+Sun Apr 15 1956,Wormatia Worms,6-0,SG 99 Andernach
+Sun Apr 15 1956,Eintracht Trier,1-3,1 FC Saarbruecken
+Sun Apr 15 1956,Bayer Leverkusen,1-4,Alemannia Aachen
+Sun Apr 15 1956,Rot Weiss Essen,5-2,Bor Moenchengladbach
+Sun Apr 15 1956,Borussia Dortmund,1-0,Duisburger SV
+Sun Apr 15 1956,SV Sodingen,3-1,Hamborn 07
+Sun Apr 15 1956,Fortuna Duesseldorf,3-2,Westfalia Herne
+Sun Apr 15 1956,1 FC Koeln,1-2,Wuppertaler SV
+Sun Apr 22 1956,VFR Mannheim,4-2,TSV 1860 Muenchen
+Sun Apr 22 1956,Stuttgarter Kickers,3-0,TSV Schwaben Augsburg
+Sun Apr 22 1956,Viktoria Aschaffenburg,7-1,Spvgg Greuther Fuerth
+Sun Apr 22 1956,1 FC Nuernberg,0-2,Eintracht Frankfurt
+Sun Apr 22 1956,SSV Reutlingen,3-0,Jahn Regensburg
+Sun Apr 22 1956,FC Augsburg,1-1,Kickers Offenbach
+Sun Apr 22 1956,Karlsruher SC,2-2,Vfb Stuttgart
+Sun Apr 22 1956,FSV Frankfurt,5-0,1 FC Schweinfurt 05
+Sun Apr 22 1956,Eintracht Trier,2-2,Wormatia Worms
+Sun Apr 22 1956,FV Engers 07,1-3,Phoenix Ludwigshafen
+Sun Apr 22 1956,1 FC Kaiserslautern,3-1,FK Pirmasens
+Sun Apr 22 1956,Saar 05 Saarbruecken,1-3,Eintracht Bad Kreuznach
+Sun Apr 22 1956,1 Fsv Mainz 05,3-1,VFR Kaiserslautern
+Sun Apr 22 1956,SG 99 Andernach,0-8,1 FC Saarbruecken
+Sun Apr 22 1956,Tura Ludwigshafen,0-1,Tus Koblenz
+Sun Apr 22 1956,VFR Frankenthal,2-0,Borussia Neunkirchen
+Sun Apr 22 1956,Westfalia Herne,1-0,Wuppertaler SV
+Sun Apr 22 1956,Preussen Dellbrueck,1-2,Duisburger SV
+Sun Apr 22 1956,Schwarz Weiss Essen,4-1,Hamborn 07
+Sun Apr 22 1956,FC Schalke 04,2-0,SV Sodingen
+Sun Apr 22 1956,Fortuna Duesseldorf,2-0,1 FC Koeln
+Sun Apr 22 1956,Bayer Leverkusen,0-1,Rot Weiss Essen
+Sun Apr 22 1956,Preussen Munster,2-0,Borussia Dortmund
+Sun Apr 22 1956,Alemannia Aachen,2-1,Bor Moenchengladbach
+Sun Apr 29 1956,TSV Schwaben Augsburg,1-0,VFR Mannheim
+Sun Apr 29 1956,TSV 1860 Muenchen,1-0,Stuttgarter Kickers
+Sun Apr 29 1956,1 FC Schweinfurt 05,0-3,Viktoria Aschaffenburg
+Sun Apr 29 1956,Eintracht Frankfurt,4-0,SSV Reutlingen
+Sun Apr 29 1956,Spvgg Greuther Fuerth,1-2,FSV Frankfurt
+Sun Apr 29 1956,Kickers Offenbach,1-0,Karlsruher SC
+Sun Apr 29 1956,Vfb Stuttgart,0-0,FC Augsburg
+Sun Apr 29 1956,Jahn Regensburg,1-1,1 FC Nuernberg
+Sun Apr 29 1956,Saar 05 Saarbruecken,0-1,Borussia Neunkirchen
+Sun Apr 29 1956,Preussen Munster,0-1,FC Schalke 04
+Sun Apr 29 1956,SV Sodingen,0-2,Borussia Dortmund
+Sun Apr 29 1956,Bayer Leverkusen,0-2,Fortuna Duesseldorf
+Sun Apr 29 1956,Alemannia Aachen,0-0,Westfalia Herne
+Sun Apr 29 1956,Schwarz Weiss Essen,3-0,Preussen Dellbrueck
+Sun Apr 29 1956,Hamborn 07,1-2,Duisburger SV
+Sun Apr 29 1956,1 FC Koeln,5-1,Rot Weiss Essen
+Sun Apr 29 1956,Wuppertaler SV,3-0,Bor Moenchengladbach
+Sat May 5 1956,FC Schalke 04,2-1,Hannover 96
+Sat May 5 1956,Vfb Stuttgart,8-0,Tus Koblenz
+Sat May 12 1956,Hannover 96,3-3,Tus Koblenz
+Sun May 13 1956,Hannover 96,3-2,Tus Koblenz
+Sun May 13 1956,FC Schalke 04,3-1,1 FC Kaiserslautern
+Sun May 13 1956,Hamburger SV,0-0,Vfb Stuttgart
+Sun May 20 1956,Hannover 96,2-5,1 FC Kaiserslautern
+Sun May 20 1956,FC Schalke 04,0-3,Karlsruher SC
+Sun May 20 1956,Hamburger SV,5-1,FC Viktoria 1889 Berlin
+Sun May 20 1956,Vfb Stuttgart,0-2,Borussia Dortmund
+Sun May 27 1956,Karlsruher SC,0-0,Hannover 96
+Sun May 27 1956,Borussia Dortmund,1-1,FC Viktoria 1889 Berlin
+Wed May 30 1956,Borussia Dortmund,5-0,Hamburger SV
+Wed May 30 1956,FC Viktoria 1889 Berlin,3-3,Vfb Stuttgart
+Thu May 31 1956,1 FC Kaiserslautern,0-1,Karlsruher SC
+Sun Jun 3 1956,Hannover 96,2-0,Karlsruher SC
+Sun Jun 3 1956,1 FC Kaiserslautern,4-4,FC Schalke 04
+Sun Jun 3 1956,Vfb Stuttgart,2-4,Hamburger SV
+Sun Jun 3 1956,FC Viktoria 1889 Berlin,0-6,Borussia Dortmund
+Wed Jun 6 1956,Hannover 96,0-4,FC Schalke 04
+Sun Jun 10 1956,FC Schalke 04,3-1,Hannover 96
+Sun Jun 10 1956,Karlsruher SC,0-1,1 FC Kaiserslautern
+Sun Jun 10 1956,Hamburger SV,2-1,Borussia Dortmund
+Sun Jun 10 1956,Vfb Stuttgart,3-1,FC Viktoria 1889 Berlin
+Sun Jun 17 1956,1 FC Kaiserslautern,5-3,Hannover 96
+Sun Jun 17 1956,Karlsruher SC,3-2,FC Schalke 04
+Sun Jun 17 1956,Borussia Dortmund,4-1,Vfb Stuttgart
+Sun Jun 17 1956,FC Viktoria 1889 Berlin,1-3,Hamburger SV
+Sun Jun 24 1956,Borussia Dortmund,4-2,Karlsruher SC

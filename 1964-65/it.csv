@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sun Sep 13 1964,AS Varese 1910,0-0,Inter
+Sun Sep 13 1964,Torino FC,2-0,Ac Mantova
+Sun Sep 13 1964,AC Milan,1-1,Calcio Catania
+Sun Sep 13 1964,As Roma,2-1,Cagliari Calcio
+Sun Sep 13 1964,Vicenza Calcio,0-0,Sampdoria
+Sun Sep 13 1964,Genoa CFc,1-0,Lazio Roma
+Sun Sep 13 1964,Atalanta,2-0,Bologna FC
+Sun Sep 13 1964,Acf Fiorentina,3-1,US Foggia
+Sun Sep 13 1964,Acr Messina,1-1,Juventus
+Sun Sep 20 1964,Juventus,0-0,Cagliari Calcio
+Sun Sep 20 1964,AS Varese 1910,2-0,Torino FC
+Sun Sep 20 1964,Sampdoria,3-0,Acf Fiorentina
+Sun Sep 20 1964,Acr Messina,1-0,Genoa CFc
+Sun Sep 20 1964,Lazio Roma,2-2,Calcio Catania
+Sun Sep 20 1964,Inter,2-0,US Foggia
+Sun Sep 20 1964,Bologna FC,3-0,Vicenza Calcio
+Sun Sep 20 1964,Atalanta,1-0,As Roma
+Sun Sep 20 1964,Ac Mantova,0-4,AC Milan
+Sun Sep 27 1964,Vicenza Calcio,2-3,AC Milan
+Sun Sep 27 1964,US Foggia,1-0,Ac Mantova
+Sun Sep 27 1964,Torino FC,1-1,Atalanta
+Sun Sep 27 1964,As Roma,5-2,AS Varese 1910
+Sun Sep 27 1964,Cagliari Calcio,1-1,Sampdoria
+Sun Sep 27 1964,Acf Fiorentina,1-0,Lazio Roma
+Sun Sep 27 1964,Calcio Catania,3-1,Juventus
+Sun Sep 27 1964,Inter,3-1,Acr Messina
+Sun Sep 27 1964,Genoa CFc,0-0,Bologna FC
+Sun Oct 4 1964,US Foggia,1-1,Atalanta
+Sun Oct 4 1964,AS Varese 1910,1-1,Acf Fiorentina
+Sun Oct 4 1964,Sampdoria,1-0,As Roma
+Sun Oct 4 1964,AC Milan,1-1,Torino FC
+Sun Oct 4 1964,Juventus,1-0,Ac Mantova
+Sun Oct 4 1964,Calcio Catania,3-2,Genoa CFc
+Sun Oct 4 1964,Cagliari Calcio,2-1,Vicenza Calcio
+Sun Oct 4 1964,Bologna FC,3-0,Acr Messina
+Sun Oct 4 1964,Lazio Roma,1-1,Inter
+Sun Oct 11 1964,As Roma,3-3,Acf Fiorentina
+Sun Oct 11 1964,Acr Messina,2-1,Calcio Catania
+Sun Oct 11 1964,Torino FC,0-0,US Foggia
+Sun Oct 11 1964,AC Milan,2-1,Lazio Roma
+Sun Oct 11 1964,Vicenza Calcio,3-2,AS Varese 1910
+Sun Oct 11 1964,Genoa CFc,1-2,Inter
+Sun Oct 11 1964,Atalanta,0-0,Juventus
+Sun Oct 11 1964,Bologna FC,0-1,Sampdoria
+Sun Oct 11 1964,Ac Mantova,2-2,Cagliari Calcio
+Sun Oct 18 1964,Inter,0-0,As Roma
+Sun Oct 18 1964,Sampdoria,1-0,Ac Mantova
+Sun Oct 18 1964,Acr Messina,0-2,AC Milan
+Sun Oct 18 1964,Lazio Roma,3-1,AS Varese 1910
+Sun Oct 18 1964,Juventus,1-0,Bologna FC
+Sun Oct 18 1964,US Foggia,0-0,Genoa CFc
+Sun Oct 18 1964,Acf Fiorentina,1-0,Atalanta
+Sun Oct 18 1964,Calcio Catania,2-1,Cagliari Calcio
+Sun Oct 18 1964,Vicenza Calcio,0-0,Torino FC
+Sun Oct 25 1964,AC Milan,2-0,Atalanta
+Sun Oct 25 1964,Torino FC,3-1,Acf Fiorentina
+Sun Oct 25 1964,AS Varese 1910,2-0,Sampdoria
+Sun Oct 25 1964,As Roma,2-1,Calcio Catania
+Sun Oct 25 1964,Genoa CFc,0-1,Juventus
+Sun Oct 25 1964,US Foggia,1-0,Acr Messina
+Sun Oct 25 1964,Cagliari Calcio,0-2,Inter
+Sun Oct 25 1964,Bologna FC,2-0,Lazio Roma
+Sun Oct 25 1964,Ac Mantova,0-1,Vicenza Calcio
+Sun Nov 8 1964,Sampdoria,0-2,AC Milan
+Sun Nov 8 1964,Atalanta,0-0,AS Varese 1910
+Sun Nov 8 1964,Torino FC,4-1,Genoa CFc
+Sun Nov 8 1964,As Roma,1-1,Bologna FC
+Sun Nov 8 1964,Acr Messina,0-0,Cagliari Calcio
+Sun Nov 8 1964,Inter,1-0,Ac Mantova
+Sun Nov 8 1964,Acf Fiorentina,1-0,Juventus
+Sun Nov 8 1964,Calcio Catania,1-0,US Foggia
+Sun Nov 8 1964,Vicenza Calcio,2-1,Lazio Roma
+Sun Nov 15 1964,Inter,0-3,AC Milan
+Sun Nov 15 1964,AS Varese 1910,0-0,US Foggia
+Sun Nov 15 1964,Acr Messina,0-1,Torino FC
+Sun Nov 15 1964,Lazio Roma,0-0,As Roma
+Sun Nov 15 1964,Cagliari Calcio,0-1,Atalanta
+Sun Nov 15 1964,Juventus,2-0,Sampdoria
+Sun Nov 15 1964,Genoa CFc,0-0,Ac Mantova
+Sun Nov 15 1964,Acf Fiorentina,2-1,Bologna FC
+Sun Nov 15 1964,Vicenza Calcio,2-0,Calcio Catania
+Sun Nov 22 1964,Ac Mantova,0-0,As Roma
+Sun Nov 22 1964,AS Varese 1910,1-0,Acr Messina
+Sun Nov 22 1964,Torino FC,0-3,Juventus
+Sun Nov 22 1964,AC Milan,2-0,Acf Fiorentina
+Sun Nov 22 1964,Genoa CFc,2-1,Sampdoria
+Sun Nov 22 1964,US Foggia,1-0,Vicenza Calcio
+Sun Nov 22 1964,Bologna FC,0-0,Inter
+Sun Nov 22 1964,Atalanta,0-0,Calcio Catania
+Sun Nov 22 1964,Lazio Roma,1-0,Cagliari Calcio
+Sun Nov 29 1964,US Foggia,1-2,AC Milan
+Sun Nov 29 1964,Sampdoria,0-0,Torino FC
+Sun Nov 29 1964,As Roma,1-1,Genoa CFc
+Sun Nov 29 1964,Ac Mantova,0-1,Bologna FC
+Sun Nov 29 1964,Inter,3-2,Vicenza Calcio
+Sun Nov 29 1964,Acf Fiorentina,2-0,Cagliari Calcio
+Sun Nov 29 1964,Calcio Catania,0-0,AS Varese 1910
+Sun Nov 29 1964,Atalanta,0-1,Acr Messina
+Sun Nov 29 1964,Juventus,0-0,Lazio Roma
+Sun Dec 13 1964,Genoa CFc,0-0,Atalanta
+Sun Dec 13 1964,Acr Messina,1-2,As Roma
+Sun Dec 13 1964,Lazio Roma,1-1,Torino FC
+Sun Dec 13 1964,Vicenza Calcio,1-1,Acf Fiorentina
+Sun Dec 13 1964,Calcio Catania,1-1,Ac Mantova
+Sun Dec 13 1964,Cagliari Calcio,1-1,AS Varese 1910
+Sun Dec 13 1964,Bologna FC,4-2,US Foggia
+Sun Dec 13 1964,Juventus,2-2,AC Milan
+Sun Dec 13 1964,Inter,3-2,Sampdoria
+Sun Dec 20 1964,Ac Mantova,2-0,Acr Messina
+Sun Dec 20 1964,AS Varese 1910,2-2,Genoa CFc
+Sun Dec 20 1964,Torino FC,2-1,Calcio Catania
+Sun Dec 20 1964,Sampdoria,0-0,Lazio Roma
+Sun Dec 20 1964,AC Milan,3-1,Bologna FC
+Sun Dec 20 1964,Acf Fiorentina,2-2,Inter
+Sun Dec 20 1964,Cagliari Calcio,0-1,US Foggia
+Sun Dec 20 1964,Atalanta,1-0,Vicenza Calcio
+Sun Dec 20 1964,As Roma,1-1,Juventus
+Sun Dec 27 1964,Inter,1-1,Juventus
+Sun Dec 27 1964,Sampdoria,0-1,Calcio Catania
+Sun Dec 27 1964,As Roma,1-2,AC Milan
+Sun Dec 27 1964,Torino FC,4-0,Cagliari Calcio
+Sun Dec 27 1964,US Foggia,1-0,Lazio Roma
+Sun Dec 27 1964,Acf Fiorentina,1-1,Acr Messina
+Sun Dec 27 1964,Bologna FC,3-0,AS Varese 1910
+Sun Dec 27 1964,Ac Mantova,2-0,Atalanta
+Sun Dec 27 1964,Vicenza Calcio,0-0,Genoa CFc
+Sun Jan 3 1965,Inter,1-0,Atalanta
+Sun Jan 3 1965,AS Varese 1910,0-0,AC Milan
+Sun Jan 3 1965,Acr Messina,2-2,Sampdoria
+Sun Jan 3 1965,Lazio Roma,2-0,Ac Mantova
+Sun Jan 3 1965,Juventus,1-0,US Foggia
+Sun Jan 3 1965,Genoa CFc,1-1,Cagliari Calcio
+Sun Jan 3 1965,Calcio Catania,0-2,Acf Fiorentina
+Sun Jan 3 1965,Bologna FC,1-0,Torino FC
+Sun Jan 3 1965,Vicenza Calcio,1-0,As Roma
+Sun Jan 10 1965,Juventus,3-2,AS Varese 1910
+Sun Jan 10 1965,As Roma,2-2,Torino FC
+Sun Jan 10 1965,AC Milan,1-0,Genoa CFc
+Sun Jan 10 1965,Sampdoria,1-1,US Foggia
+Sun Jan 10 1965,Calcio Catania,2-3,Inter
+Sun Jan 10 1965,Cagliari Calcio,0-0,Bologna FC
+Sun Jan 10 1965,Atalanta,1-1,Lazio Roma
+Sun Jan 10 1965,Acr Messina,0-0,Vicenza Calcio
+Sun Jan 17 1965,Vicenza Calcio,1-3,Juventus
+Sun Jan 17 1965,AS Varese 1910,1-0,Ac Mantova
+Sun Jan 17 1965,Torino FC,0-0,Inter
+Sun Jan 17 1965,Sampdoria,1-0,Atalanta
+Sun Jan 17 1965,Lazio Roma,2-1,Acr Messina
+Sun Jan 17 1965,US Foggia,0-0,As Roma
+Sun Jan 17 1965,Acf Fiorentina,5-0,Genoa CFc
+Sun Jan 17 1965,Bologna FC,3-0,Calcio Catania
+Sun Jan 17 1965,AC Milan,1-0,Cagliari Calcio
+Wed Jan 20 1965,Ac Mantova,0-0,Acf Fiorentina
+Sun Jan 24 1965,Juventus,1-0,Acr Messina
+Sun Jan 24 1965,Ac Mantova,1-2,Torino FC
+Sun Jan 24 1965,Cagliari Calcio,1-0,As Roma
+Sun Jan 24 1965,Lazio Roma,1-1,Genoa CFc
+Sun Jan 24 1965,Sampdoria,0-3,Vicenza Calcio
+Sun Jan 24 1965,Calcio Catania,1-1,AC Milan
+Sun Jan 24 1965,Bologna FC,1-1,Atalanta
+Sun Jan 24 1965,US Foggia,0-0,Acf Fiorentina
+Sun Jan 24 1965,Inter,0-0,AS Varese 1910
+Sun Jan 31 1965,US Foggia,3-2,Inter
+Sun Jan 31 1965,Torino FC,1-0,AS Varese 1910
+Sun Jan 31 1965,As Roma,0-0,Atalanta
+Sun Jan 31 1965,AC Milan,2-0,Ac Mantova
+Sun Jan 31 1965,Genoa CFc,2-0,Acr Messina
+Sun Jan 31 1965,Acf Fiorentina,0-1,Sampdoria
+Sun Jan 31 1965,Calcio Catania,3-0,Lazio Roma
+Sun Jan 31 1965,Cagliari Calcio,1-0,Juventus
+Sun Jan 31 1965,Vicenza Calcio,1-1,Bologna FC
+Sun Feb 7 1965,AC Milan,0-1,Vicenza Calcio
+Sun Feb 7 1965,Lazio Roma,0-1,Acf Fiorentina
+Sun Feb 7 1965,AS Varese 1910,1-1,As Roma
+Sun Feb 7 1965,Sampdoria,1-0,Cagliari Calcio
+Sun Feb 7 1965,Atalanta,0-0,Torino FC
+Sun Feb 7 1965,Juventus,4-1,Calcio Catania
+Sun Feb 7 1965,Bologna FC,2-1,Genoa CFc
+Sun Feb 7 1965,Acr Messina,0-1,Inter
+Sun Feb 7 1965,Ac Mantova,0-0,US Foggia
+Sun Feb 14 1965,Inter,3-0,Lazio Roma
+Sun Feb 14 1965,Torino FC,1-2,AC Milan
+Sun Feb 14 1965,As Roma,1-0,Sampdoria
+Sun Feb 14 1965,Acr Messina,3-3,Bologna FC
+Sun Feb 14 1965,Vicenza Calcio,1-0,Cagliari Calcio
+Sun Feb 14 1965,Genoa CFc,1-1,Calcio Catania
+Sun Feb 14 1965,Acf Fiorentina,1-0,AS Varese 1910
+Sun Feb 14 1965,Atalanta,1-0,US Foggia
+Sun Feb 14 1965,Ac Mantova,1-0,Juventus
+Sun Feb 21 1965,US Foggia,1-2,Torino FC
+Sun Feb 21 1965,Lazio Roma,0-0,AC Milan
+Sun Feb 21 1965,AS Varese 1910,3-2,Vicenza Calcio
+Sun Feb 21 1965,Sampdoria,0-0,Bologna FC
+Sun Feb 21 1965,Cagliari Calcio,2-1,Ac Mantova
+Sun Feb 21 1965,Juventus,0-0,Atalanta
+Sun Feb 21 1965,Acf Fiorentina,2-0,As Roma
+Sun Feb 21 1965,Calcio Catania,4-2,Acr Messina
+Sun Feb 21 1965,Inter,4-1,Genoa CFc
+Sun Feb 28 1965,Genoa CFc,1-0,US Foggia
+Sun Feb 28 1965,AS Varese 1910,0-1,Lazio Roma
+Sun Feb 28 1965,Torino FC,3-0,Vicenza Calcio
+Sun Feb 28 1965,As Roma,1-3,Inter
+Sun Feb 28 1965,Ac Mantova,1-0,Sampdoria
+Sun Feb 28 1965,Cagliari Calcio,2-0,Calcio Catania
+Sun Feb 28 1965,Bologna FC,1-1,Juventus
+Sun Feb 28 1965,Atalanta,2-1,Acf Fiorentina
+Sun Feb 28 1965,AC Milan,2-0,Acr Messina
+Sun Mar 7 1965,Inter,3-0,Cagliari Calcio
+Sun Mar 7 1965,Acr Messina,0-0,US Foggia
+Sun Mar 7 1965,Lazio Roma,1-1,Bologna FC
+Sun Mar 7 1965,Sampdoria,0-0,AS Varese 1910
+Sun Mar 7 1965,Acf Fiorentina,2-0,Torino FC
+Sun Mar 7 1965,Calcio Catania,4-0,As Roma
+Sun Mar 7 1965,Atalanta,1-1,AC Milan
+Sun Mar 7 1965,Vicenza Calcio,1-0,Ac Mantova
+Sun Mar 7 1965,Juventus,7-0,Genoa CFc
+Sun Mar 21 1965,Genoa CFc,1-2,Torino FC
+Sun Mar 21 1965,AS Varese 1910,0-0,Atalanta
+Sun Mar 21 1965,AC Milan,3-0,Sampdoria
+Sun Mar 21 1965,Ac Mantova,0-1,Inter
+Sun Mar 21 1965,Juventus,1-0,Acf Fiorentina
+Sun Mar 21 1965,US Foggia,1-0,Calcio Catania
+Sun Mar 21 1965,Cagliari Calcio,2-1,Acr Messina
+Sun Mar 21 1965,Bologna FC,1-2,As Roma
+Sun Mar 21 1965,Lazio Roma,0-0,Vicenza Calcio
+Sun Mar 28 1965,As Roma,0-0,Lazio Roma
+Sun Mar 28 1965,Sampdoria,1-0,Juventus
+Sun Mar 28 1965,Ac Mantova,2-0,Genoa CFc
+Sun Mar 28 1965,AC Milan,2-5,Inter
+Sun Mar 28 1965,Calcio Catania,2-0,Vicenza Calcio
+Sun Mar 28 1965,Bologna FC,3-1,Acf Fiorentina
+Sun Mar 28 1965,Atalanta,0-1,Cagliari Calcio
+Sun Mar 28 1965,US Foggia,3-0,AS Varese 1910
+Sun Mar 28 1965,Torino FC,1-0,Acr Messina
+Sun Apr 4 1965,Inter,2-0,Bologna FC
+Sun Apr 4 1965,Sampdoria,0-1,Genoa CFc
+Sun Apr 4 1965,As Roma,0-0,Ac Mantova
+Sun Apr 4 1965,Acr Messina,0-1,AS Varese 1910
+Sun Apr 4 1965,Juventus,1-1,Torino FC
+Sun Apr 4 1965,Acf Fiorentina,0-0,AC Milan
+Sun Apr 4 1965,Calcio Catania,4-1,Atalanta
+Sun Apr 4 1965,Cagliari Calcio,3-0,Lazio Roma
+Sun Apr 4 1965,Vicenza Calcio,0-1,US Foggia
+Sun Apr 11 1965,AC Milan,1-0,US Foggia
+Sun Apr 11 1965,Vicenza Calcio,1-1,Inter
+Sun Apr 11 1965,AS Varese 1910,3-0,Calcio Catania
+Sun Apr 11 1965,Torino FC,0-1,Sampdoria
+Sun Apr 11 1965,Bologna FC,4-1,Ac Mantova
+Sun Apr 11 1965,Genoa CFc,0-0,As Roma
+Sun Apr 11 1965,Cagliari Calcio,1-1,Acf Fiorentina
+Sun Apr 11 1965,Acr Messina,1-0,Atalanta
+Sun Apr 11 1965,Lazio Roma,0-2,Juventus
+Sun Apr 25 1965,Ac Mantova,1-0,Calcio Catania
+Sun Apr 25 1965,AS Varese 1910,0-2,Cagliari Calcio
+Sun Apr 25 1965,Torino FC,2-0,Lazio Roma
+Sun Apr 25 1965,Sampdoria,0-1,Inter
+Sun Apr 25 1965,AC Milan,1-0,Juventus
+Sun Apr 25 1965,US Foggia,2-2,Bologna FC
+Sun Apr 25 1965,Acf Fiorentina,4-1,Vicenza Calcio
+Sun Apr 25 1965,Atalanta,0-2,Genoa CFc
+Sun Apr 25 1965,As Roma,0-1,Acr Messina
+Sun May 9 1965,Juventus,1-0,As Roma
+Sun May 9 1965,Inter,6-2,Acf Fiorentina
+Sun May 9 1965,Vicenza Calcio,2-2,Atalanta
+Sun May 9 1965,Acr Messina,2-0,Ac Mantova
+Sun May 9 1965,US Foggia,1-2,Cagliari Calcio
+Sun May 9 1965,Calcio Catania,1-1,Torino FC
+Sun May 9 1965,Bologna FC,0-2,AC Milan
+Sun May 9 1965,Genoa CFc,0-1,AS Varese 1910
+Sun May 9 1965,Lazio Roma,2-0,Sampdoria
+Sun May 16 1965,Genoa CFc,3-1,Vicenza Calcio
+Sun May 16 1965,AS Varese 1910,0-0,Bologna FC
+Sun May 16 1965,AC Milan,0-2,As Roma
+Sun May 16 1965,Acr Messina,0-3,Acf Fiorentina
+Sun May 16 1965,Juventus,0-2,Inter
+Sun May 16 1965,Calcio Catania,1-0,Sampdoria
+Sun May 16 1965,Cagliari Calcio,0-1,Torino FC
+Sun May 16 1965,Atalanta,2-1,Ac Mantova
+Sun May 16 1965,Lazio Roma,2-1,US Foggia
+Sun May 23 1965,Ac Mantova,1-3,Lazio Roma
+Sun May 23 1965,AC Milan,1-0,AS Varese 1910
+Sun May 23 1965,As Roma,0-0,Vicenza Calcio
+Sun May 23 1965,Torino FC,5-0,Bologna FC
+Sun May 23 1965,Acf Fiorentina,5-0,Calcio Catania
+Sun May 23 1965,Cagliari Calcio,2-1,Genoa CFc
+Sun May 23 1965,Atalanta,1-3,Inter
+Sun May 23 1965,Sampdoria,0-0,Acr Messina
+Sun May 23 1965,US Foggia,1-0,Juventus
+Sun May 30 1965,Vicenza Calcio,2-1,Acr Messina
+Sun May 30 1965,AS Varese 1910,1-1,Juventus
+Sun May 30 1965,Lazio Roma,0-0,Atalanta
+Sun May 30 1965,Inter,5-1,Calcio Catania
+Sun May 30 1965,Genoa CFc,0-0,AC Milan
+Sun May 30 1965,US Foggia,1-1,Sampdoria
+Sun May 30 1965,Acf Fiorentina,2-0,Ac Mantova
+Sun May 30 1965,Bologna FC,1-3,Cagliari Calcio
+Sun May 30 1965,Torino FC,3-1,As Roma
+Sun Jun 6 1965,As Roma,1-0,US Foggia
+Sun Jun 6 1965,Atalanta,0-0,Sampdoria
+Sun Jun 6 1965,Cagliari Calcio,2-1,AC Milan
+Sun Jun 6 1965,Calcio Catania,4-0,Bologna FC
+Sun Jun 6 1965,Genoa CFc,4-1,Acf Fiorentina
+Sun Jun 6 1965,Inter,2-2,Torino FC
+Sun Jun 6 1965,Juventus,3-1,Vicenza Calcio
+Sun Jun 6 1965,Ac Mantova,3-1,AS Varese 1910
+Sun Jun 6 1965,Acr Messina,4-0,Lazio Roma

@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sun Sep 6 1992,Ssc Napoli,0-0,Brescia Calcio
+Sun Sep 6 1992,AC Milan,1-0,US Foggia
+Sun Sep 6 1992,Torino FC,4-1,Ancona Calcio
+Sun Sep 6 1992,Udinese Calcio,2-1,Inter
+Sun Sep 6 1992,As Roma,0-1,Pescara Calcio
+Sun Sep 6 1992,Sampdoria,3-3,Lazio Roma
+Sun Sep 6 1992,Cagliari Calcio,0-0,Juventus
+Sun Sep 6 1992,Acf Fiorentina,1-1,Genoa CFc
+Sun Sep 6 1992,Atalanta,2-1,Parma FC
+Sun Sep 13 1992,Parma FC,3-1,Udinese Calcio
+Sun Sep 13 1992,Pescara Calcio,4-5,AC Milan
+Sun Sep 13 1992,Lazio Roma,2-2,Acf Fiorentina
+Sun Sep 13 1992,Ancona Calcio,2-3,Sampdoria
+Sun Sep 13 1992,Brescia Calcio,0-0,Torino FC
+Sun Sep 13 1992,Inter,3-1,Cagliari Calcio
+Sun Sep 13 1992,Juventus,4-1,Atalanta
+Sun Sep 13 1992,US Foggia,2-4,Ssc Napoli
+Sun Sep 13 1992,Genoa CFc,0-0,As Roma
+Sun Sep 20 1992,Ssc Napoli,1-2,Inter
+Sun Sep 20 1992,AC Milan,2-0,Atalanta
+Sun Sep 20 1992,Torino FC,3-0,Parma FC
+Sun Sep 20 1992,Udinese Calcio,1-2,Sampdoria
+Sun Sep 20 1992,As Roma,3-1,US Foggia
+Sun Sep 20 1992,Cagliari Calcio,1-1,Lazio Roma
+Sun Sep 20 1992,Acf Fiorentina,7-1,Ancona Calcio
+Sun Sep 20 1992,Brescia Calcio,1-0,Pescara Calcio
+Sun Sep 20 1992,Genoa CFc,2-2,Juventus
+Sun Sep 27 1992,Parma FC,2-0,Brescia Calcio
+Sun Sep 27 1992,Pescara Calcio,2-2,Torino FC
+Sun Sep 27 1992,Lazio Roma,1-1,Genoa CFc
+Sun Sep 27 1992,Ancona Calcio,1-1,Ssc Napoli
+Sun Sep 27 1992,Atalanta,2-1,Cagliari Calcio
+Sun Sep 27 1992,Inter,2-2,Acf Fiorentina
+Sun Sep 27 1992,Juventus,1-1,As Roma
+Sun Sep 27 1992,US Foggia,1-0,Udinese Calcio
+Sun Oct 4 1992,Lazio Roma,5-2,Parma FC
+Sun Oct 4 1992,Ssc Napoli,2-3,Juventus
+Sun Oct 4 1992,Torino FC,2-2,Sampdoria
+Sun Oct 4 1992,Udinese Calcio,5-2,Pescara Calcio
+Sun Oct 4 1992,Cagliari Calcio,1-0,As Roma
+Sun Oct 4 1992,Acf Fiorentina,3-7,AC Milan
+Sun Oct 4 1992,Brescia Calcio,4-1,US Foggia
+Sun Oct 4 1992,Inter,1-0,Atalanta
+Sun Oct 4 1992,Genoa CFc,4-4,Ancona Calcio
+Sun Oct 18 1992,Parma FC,3-0,Ancona Calcio
+Sun Oct 18 1992,Pescara Calcio,0-2,Acf Fiorentina
+Sun Oct 18 1992,AC Milan,5-3,Lazio Roma
+Sun Oct 18 1992,Udinese Calcio,2-0,Ssc Napoli
+Sun Oct 18 1992,As Roma,4-1,Inter
+Sun Oct 18 1992,Sampdoria,2-0,Cagliari Calcio
+Sun Oct 18 1992,Atalanta,0-0,Torino FC
+Sun Oct 18 1992,Juventus,0-0,Brescia Calcio
+Sun Oct 18 1992,US Foggia,2-2,Genoa CFc
+Sun Oct 25 1992,Parma FC,0-2,AC Milan
+Sun Oct 25 1992,Lazio Roma,3-0,Atalanta
+Sun Oct 25 1992,Ssc Napoli,2-1,As Roma
+Sun Oct 25 1992,Torino FC,1-0,Udinese Calcio
+Sun Oct 25 1992,Acf Fiorentina,4-0,Sampdoria
+Sun Oct 25 1992,Ancona Calcio,3-0,US Foggia
+Sun Oct 25 1992,Brescia Calcio,0-2,Cagliari Calcio
+Sun Oct 25 1992,Inter,3-1,Juventus
+Sun Oct 25 1992,Genoa CFc,4-3,Pescara Calcio
+Sun Nov 1 1992,Pescara Calcio,1-4,Inter
+Sun Nov 1 1992,AC Milan,0-0,Torino FC
+Sun Nov 1 1992,Udinese Calcio,0-0,Lazio Roma
+Sun Nov 1 1992,As Roma,2-3,Brescia Calcio
+Sun Nov 1 1992,Sampdoria,4-1,Genoa CFc
+Sun Nov 1 1992,Cagliari Calcio,2-1,Acf Fiorentina
+Sun Nov 1 1992,Atalanta,3-2,Ssc Napoli
+Sun Nov 1 1992,Juventus,5-1,Ancona Calcio
+Sun Nov 1 1992,US Foggia,1-0,Parma FC
+Sun Nov 8 1992,Ssc Napoli,1-5,AC Milan
+Sun Nov 8 1992,Parma FC,1-0,Pescara Calcio
+Sun Nov 8 1992,Lazio Roma,1-2,Torino FC
+Sun Nov 8 1992,Acf Fiorentina,2-1,As Roma
+Sun Nov 8 1992,Ancona Calcio,5-1,Brescia Calcio
+Sun Nov 8 1992,Atalanta,2-1,US Foggia
+Sun Nov 8 1992,Inter,0-0,Sampdoria
+Sun Nov 8 1992,Juventus,5-1,Udinese Calcio
+Sun Nov 8 1992,Genoa CFc,2-3,Cagliari Calcio
+Sun Nov 22 1992,Pescara Calcio,2-0,Atalanta
+Sun Nov 22 1992,AC Milan,1-1,Inter
+Sun Nov 22 1992,Torino FC,1-2,Juventus
+Sun Nov 22 1992,Udinese Calcio,3-0,Genoa CFc
+Sun Nov 22 1992,As Roma,2-1,Ancona Calcio
+Sun Nov 22 1992,Sampdoria,3-1,Ssc Napoli
+Sun Nov 22 1992,Cagliari Calcio,0-1,Parma FC
+Sun Nov 22 1992,Brescia Calcio,1-1,Acf Fiorentina
+Sun Nov 22 1992,US Foggia,2-1,Lazio Roma
+Sun Nov 29 1992,Ssc Napoli,4-1,Acf Fiorentina
+Sun Nov 29 1992,Parma FC,1-0,Sampdoria
+Sun Nov 29 1992,Lazio Roma,1-1,As Roma
+Sun Nov 29 1992,Ancona Calcio,0-1,Cagliari Calcio
+Sun Nov 29 1992,Atalanta,2-0,Udinese Calcio
+Sun Nov 29 1992,Inter,2-1,Brescia Calcio
+Sun Nov 29 1992,Juventus,0-1,AC Milan
+Sun Nov 29 1992,US Foggia,1-0,Pescara Calcio
+Sun Nov 29 1992,Genoa CFc,2-1,Torino FC
+Sun Dec 6 1992,Pescara Calcio,2-3,Lazio Roma
+Sun Dec 6 1992,AC Milan,1-1,Udinese Calcio
+Sun Dec 6 1992,Torino FC,1-1,US Foggia
+Sun Dec 6 1992,As Roma,1-0,Parma FC
+Sun Dec 6 1992,Sampdoria,2-3,Atalanta
+Sun Dec 6 1992,Cagliari Calcio,1-0,Ssc Napoli
+Sun Dec 6 1992,Brescia Calcio,2-2,Genoa CFc
+Sun Dec 6 1992,Acf Fiorentina,2-0,Juventus
+Sun Dec 6 1992,Ancona Calcio,3-0,Inter
+Sun Dec 13 1992,Pescara Calcio,2-2,Sampdoria
+Sun Dec 13 1992,Parma FC,1-1,Acf Fiorentina
+Sun Dec 13 1992,Lazio Roma,3-1,Inter
+Sun Dec 13 1992,AC Milan,2-0,Ancona Calcio
+Sun Dec 13 1992,Torino FC,0-0,As Roma
+Sun Dec 13 1992,Udinese Calcio,2-1,Cagliari Calcio
+Sun Dec 13 1992,Atalanta,1-1,Brescia Calcio
+Sun Dec 13 1992,US Foggia,2-1,Juventus
+Sun Dec 13 1992,Genoa CFc,2-1,Ssc Napoli
+Wed Dec 23 1992,Sampdoria,1-2,AC Milan
+Sun Jan 3 1993,Ssc Napoli,2-0,Pescara Calcio
+Sun Jan 3 1993,As Roma,0-1,AC Milan
+Sun Jan 3 1993,Sampdoria,3-3,US Foggia
+Sun Jan 3 1993,Cagliari Calcio,0-0,Torino FC
+Sun Jan 3 1993,Brescia Calcio,2-1,Udinese Calcio
+Sun Jan 3 1993,Ancona Calcio,0-3,Lazio Roma
+Sun Jan 3 1993,Acf Fiorentina,0-1,Atalanta
+Sun Jan 3 1993,Inter,4-0,Genoa CFc
+Sun Jan 3 1993,Juventus,2-2,Parma FC
+Sun Jan 10 1993,Parma FC,1-0,Genoa CFc
+Sun Jan 10 1993,Lazio Roma,2-0,Brescia Calcio
+Sun Jan 10 1993,Pescara Calcio,4-3,Ancona Calcio
+Sun Jan 10 1993,AC Milan,1-0,Cagliari Calcio
+Sun Jan 10 1993,Torino FC,0-1,Ssc Napoli
+Sun Jan 10 1993,Udinese Calcio,4-0,Acf Fiorentina
+Sun Jan 10 1993,Sampdoria,1-1,Juventus
+Sun Jan 10 1993,Atalanta,3-1,As Roma
+Sun Jan 10 1993,US Foggia,1-3,Inter
+Sun Jan 17 1993,Ssc Napoli,3-1,Lazio Roma
+Sun Jan 17 1993,As Roma,0-0,Sampdoria
+Sun Jan 17 1993,Acf Fiorentina,0-0,Torino FC
+Sun Jan 17 1993,Brescia Calcio,0-1,AC Milan
+Sun Jan 17 1993,Cagliari Calcio,1-1,US Foggia
+Sun Jan 17 1993,Ancona Calcio,1-0,Udinese Calcio
+Sun Jan 17 1993,Inter,2-1,Parma FC
+Sun Jan 17 1993,Juventus,2-1,Pescara Calcio
+Sun Jan 17 1993,Genoa CFc,1-0,Atalanta
+Sun Jan 24 1993,Parma FC,1-1,Ssc Napoli
+Sun Jan 24 1993,Lazio Roma,1-1,Juventus
+Sun Jan 24 1993,AC Milan,1-0,Genoa CFc
+Sun Jan 24 1993,Torino FC,1-2,Inter
+Sun Jan 24 1993,Udinese Calcio,1-2,As Roma
+Sun Jan 24 1993,Sampdoria,1-0,Brescia Calcio
+Sun Jan 24 1993,Pescara Calcio,0-1,Cagliari Calcio
+Sun Jan 24 1993,Atalanta,2-1,Ancona Calcio
+Sun Jan 24 1993,US Foggia,1-0,Acf Fiorentina
+Sun Jan 31 1993,Parma FC,0-0,Atalanta
+Sun Jan 31 1993,Lazio Roma,2-1,Sampdoria
+Sun Jan 31 1993,Pescara Calcio,1-1,As Roma
+Sun Jan 31 1993,Brescia Calcio,2-1,Ssc Napoli
+Sun Jan 31 1993,Ancona Calcio,0-1,Torino FC
+Sun Jan 31 1993,Inter,2-2,Udinese Calcio
+Sun Jan 31 1993,Juventus,2-1,Cagliari Calcio
+Sun Jan 31 1993,Genoa CFc,2-2,Acf Fiorentina
+Sun Jan 31 1993,US Foggia,2-2,AC Milan
+Sun Feb 7 1993,Ssc Napoli,2-0,US Foggia
+Sun Feb 7 1993,AC Milan,4-0,Pescara Calcio
+Sun Feb 7 1993,Torino FC,1-0,Brescia Calcio
+Sun Feb 7 1993,Udinese Calcio,1-0,Parma FC
+Sun Feb 7 1993,Sampdoria,3-1,Ancona Calcio
+Sun Feb 7 1993,As Roma,3-0,Genoa CFc
+Sun Feb 7 1993,Cagliari Calcio,0-0,Inter
+Sun Feb 7 1993,Acf Fiorentina,0-2,Lazio Roma
+Sun Feb 7 1993,Atalanta,2-1,Juventus
+Sun Feb 14 1993,Parma FC,2-2,Torino FC
+Sun Feb 14 1993,Lazio Roma,1-2,Cagliari Calcio
+Sun Feb 14 1993,Pescara Calcio,2-0,Brescia Calcio
+Sun Feb 14 1993,Sampdoria,2-0,Udinese Calcio
+Sun Feb 14 1993,Ancona Calcio,2-1,Acf Fiorentina
+Sun Feb 14 1993,Atalanta,1-1,AC Milan
+Sun Feb 14 1993,Inter,0-0,Ssc Napoli
+Sun Feb 14 1993,Juventus,1-0,Genoa CFc
+Sun Feb 14 1993,US Foggia,0-0,As Roma
+Sun Feb 28 1993,Ssc Napoli,0-0,Ancona Calcio
+Sun Feb 28 1993,AC Milan,4-0,Sampdoria
+Sun Feb 28 1993,Torino FC,3-1,Pescara Calcio
+Sun Feb 28 1993,Udinese Calcio,3-2,US Foggia
+Sun Feb 28 1993,As Roma,2-1,Juventus
+Sun Feb 28 1993,Brescia Calcio,0-1,Parma FC
+Sun Feb 28 1993,Cagliari Calcio,2-1,Atalanta
+Sun Feb 28 1993,Acf Fiorentina,2-2,Inter
+Sun Feb 28 1993,Genoa CFc,2-3,Lazio Roma
+Sun Mar 7 1993,Parma FC,2-1,Lazio Roma
+Sun Mar 7 1993,AC Milan,2-0,Acf Fiorentina
+Sun Mar 7 1993,Sampdoria,0-1,Torino FC
+Sun Mar 7 1993,As Roma,1-1,Cagliari Calcio
+Sun Mar 7 1993,Pescara Calcio,2-2,Udinese Calcio
+Sun Mar 7 1993,Ancona Calcio,0-0,Genoa CFc
+Sun Mar 7 1993,Atalanta,1-1,Inter
+Sun Mar 7 1993,Juventus,4-3,Ssc Napoli
+Sun Mar 7 1993,US Foggia,0-0,Brescia Calcio
+Sun Mar 14 1993,Ssc Napoli,3-0,Udinese Calcio
+Sun Mar 14 1993,Lazio Roma,2-2,AC Milan
+Sun Mar 14 1993,Torino FC,1-1,Atalanta
+Sun Mar 14 1993,Brescia Calcio,2-0,Juventus
+Sun Mar 14 1993,Cagliari Calcio,0-2,Sampdoria
+Sun Mar 14 1993,Ancona Calcio,1-1,Parma FC
+Sun Mar 14 1993,Inter,1-1,As Roma
+Sun Mar 14 1993,Acf Fiorentina,2-0,Pescara Calcio
+Sun Mar 14 1993,Genoa CFc,0-0,US Foggia
+Sun Mar 21 1993,AC Milan,0-1,Parma FC
+Sun Mar 21 1993,Udinese Calcio,1-0,Torino FC
+Sun Mar 21 1993,Sampdoria,2-0,Acf Fiorentina
+Sun Mar 21 1993,Pescara Calcio,1-2,Genoa CFc
+Sun Mar 21 1993,As Roma,1-1,Ssc Napoli
+Sun Mar 21 1993,Cagliari Calcio,3-1,Brescia Calcio
+Sun Mar 21 1993,Atalanta,2-2,Lazio Roma
+Sun Mar 21 1993,Juventus,0-2,Inter
+Sun Mar 21 1993,US Foggia,1-0,Ancona Calcio
+Sun Mar 28 1993,Ssc Napoli,1-0,Atalanta
+Sun Mar 28 1993,Parma FC,4-0,US Foggia
+Sun Mar 28 1993,Lazio Roma,4-0,Udinese Calcio
+Sun Mar 28 1993,Torino FC,1-1,AC Milan
+Sun Mar 28 1993,Brescia Calcio,0-2,As Roma
+Sun Mar 28 1993,Ancona Calcio,0-1,Juventus
+Sun Mar 28 1993,Inter,2-0,Pescara Calcio
+Sun Mar 28 1993,Genoa CFc,0-0,Sampdoria
+Sun Mar 28 1993,Acf Fiorentina,2-1,Cagliari Calcio
+Sun Apr 4 1993,Sampdoria,1-3,Inter
+Sun Apr 4 1993,AC Milan,2-2,Ssc Napoli
+Sun Apr 4 1993,Torino FC,1-1,Lazio Roma
+Sun Apr 4 1993,Udinese Calcio,0-0,Juventus
+Sun Apr 4 1993,Pescara Calcio,0-2,Parma FC
+Sun Apr 4 1993,As Roma,1-1,Acf Fiorentina
+Sun Apr 4 1993,Brescia Calcio,1-1,Ancona Calcio
+Sun Apr 4 1993,Cagliari Calcio,3-0,Genoa CFc
+Sun Apr 4 1993,US Foggia,1-0,Atalanta
+Sat Apr 10 1993,Ssc Napoli,1-1,Sampdoria
+Sat Apr 10 1993,Parma FC,3-1,Cagliari Calcio
+Sat Apr 10 1993,Lazio Roma,1-1,US Foggia
+Sat Apr 10 1993,Ancona Calcio,1-1,As Roma
+Sat Apr 10 1993,Atalanta,2-1,Pescara Calcio
+Sat Apr 10 1993,Inter,1-1,AC Milan
+Sat Apr 10 1993,Juventus,2-1,Torino FC
+Sat Apr 10 1993,Acf Fiorentina,2-2,Brescia Calcio
+Sat Apr 10 1993,Genoa CFc,1-0,Udinese Calcio
+Sun Apr 18 1993,AC Milan,1-3,Juventus
+Sun Apr 18 1993,Sampdoria,2-1,Parma FC
+Sun Apr 18 1993,Udinese Calcio,1-2,Atalanta
+Sun Apr 18 1993,Torino FC,1-1,Genoa CFc
+Sun Apr 18 1993,Pescara Calcio,2-4,US Foggia
+Sun Apr 18 1993,As Roma,0-0,Lazio Roma
+Sun Apr 18 1993,Brescia Calcio,1-3,Inter
+Sun Apr 18 1993,Cagliari Calcio,3-0,Ancona Calcio
+Sun Apr 18 1993,Acf Fiorentina,1-1,Ssc Napoli
+Sun Apr 25 1993,Ssc Napoli,1-0,Cagliari Calcio
+Sun Apr 25 1993,Parma FC,3-1,As Roma
+Sun Apr 25 1993,Lazio Roma,2-1,Pescara Calcio
+Sun Apr 25 1993,Udinese Calcio,0-0,AC Milan
+Sun Apr 25 1993,Atalanta,1-2,Sampdoria
+Sun Apr 25 1993,Juventus,3-0,Acf Fiorentina
+Sun Apr 25 1993,Inter,3-0,Ancona Calcio
+Sun Apr 25 1993,Genoa CFc,1-1,Brescia Calcio
+Sun Apr 25 1993,US Foggia,0-0,Torino FC
+Sun May 9 1993,Ssc Napoli,2-2,Genoa CFc
+Sun May 9 1993,Sampdoria,1-1,Pescara Calcio
+Sun May 9 1993,As Roma,4-5,Torino FC
+Sun May 9 1993,Brescia Calcio,2-0,Atalanta
+Sun May 9 1993,Cagliari Calcio,1-1,Udinese Calcio
+Sun May 9 1993,Ancona Calcio,1-3,AC Milan
+Sun May 9 1993,Inter,2-0,Lazio Roma
+Sun May 9 1993,Juventus,4-2,US Foggia
+Sun May 9 1993,Acf Fiorentina,1-1,Parma FC
+Sun May 16 1993,Parma FC,2-1,Juventus
+Sun May 16 1993,Lazio Roma,5-0,Ancona Calcio
+Sun May 16 1993,AC Milan,0-0,As Roma
+Sun May 16 1993,Torino FC,0-5,Cagliari Calcio
+Sun May 16 1993,Udinese Calcio,2-2,Brescia Calcio
+Sun May 16 1993,Pescara Calcio,3-0,Ssc Napoli
+Sun May 16 1993,Atalanta,2-1,Acf Fiorentina
+Sun May 16 1993,Genoa CFc,1-1,Inter
+Sun May 16 1993,US Foggia,1-0,Sampdoria
+Sun May 23 1993,Ssc Napoli,1-1,Torino FC
+Sun May 23 1993,As Roma,2-2,Atalanta
+Sun May 23 1993,Brescia Calcio,2-0,Lazio Roma
+Sun May 23 1993,Cagliari Calcio,1-1,AC Milan
+Sun May 23 1993,Ancona Calcio,5-3,Pescara Calcio
+Sun May 23 1993,Inter,1-1,US Foggia
+Sun May 23 1993,Genoa CFc,1-1,Parma FC
+Sun May 23 1993,Juventus,1-1,Sampdoria
+Sun May 23 1993,Acf Fiorentina,2-2,Udinese Calcio
+Sun May 30 1993,Parma FC,2-0,Inter
+Sun May 30 1993,Lazio Roma,4-3,Ssc Napoli
+Sun May 30 1993,AC Milan,1-1,Brescia Calcio
+Sun May 30 1993,Torino FC,1-1,Acf Fiorentina
+Sun May 30 1993,Sampdoria,2-2,As Roma
+Sun May 30 1993,Pescara Calcio,5-1,Juventus
+Sun May 30 1993,Udinese Calcio,2-0,Ancona Calcio
+Sun May 30 1993,Atalanta,1-2,Genoa CFc
+Sun May 30 1993,US Foggia,1-1,Cagliari Calcio
+Sun Jun 6 1993,Ssc Napoli,1-1,Parma FC
+Sun Jun 6 1993,As Roma,1-1,Udinese Calcio
+Sun Jun 6 1993,Brescia Calcio,3-1,Sampdoria
+Sun Jun 6 1993,Cagliari Calcio,4-0,Pescara Calcio
+Sun Jun 6 1993,Ancona Calcio,0-2,Atalanta
+Sun Jun 6 1993,Genoa CFc,2-2,AC Milan
+Sun Jun 6 1993,Inter,3-0,Torino FC
+Sun Jun 6 1993,Acf Fiorentina,6-2,US Foggia
+Sun Jun 6 1993,Juventus,4-1,Lazio Roma

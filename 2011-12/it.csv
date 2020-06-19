@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Fri Sep 9 2011,AC Milan,2-2,Lazio Roma
+Sat Sep 10 2011,Ac Cesena,1-3,Ssc Napoli
+Sun Sep 11 2011,Juventus,4-1,Parma FC
+Sun Sep 11 2011,Calcio Catania,0-0,AC Siena
+Sun Sep 11 2011,Chievo Verona,2-2,Novara Calcio
+Sun Sep 11 2011,Acf Fiorentina,2-0,Bologna FC
+Sun Sep 11 2011,Genoa CFc,2-2,Atalanta
+Sun Sep 11 2011,US Lecce,0-2,Udinese Calcio
+Sun Sep 11 2011,As Roma,1-2,Cagliari Calcio
+Sun Sep 11 2011,US Palermo,4-3,Inter
+Sat Sep 17 2011,Cagliari Calcio,2-1,Novara Calcio
+Sat Sep 17 2011,Inter,0-0,As Roma
+Sun Sep 18 2011,Atalanta,1-0,US Palermo
+Sun Sep 18 2011,Bologna FC,0-2,US Lecce
+Sun Sep 18 2011,Calcio Catania,1-0,Ac Cesena
+Sun Sep 18 2011,Lazio Roma,1-2,Genoa CFc
+Sun Sep 18 2011,Parma FC,2-1,Chievo Verona
+Sun Sep 18 2011,AC Siena,0-1,Juventus
+Sun Sep 18 2011,Udinese Calcio,2-0,Acf Fiorentina
+Sun Sep 18 2011,Ssc Napoli,3-1,AC Milan
+Tue Sep 20 2011,Novara Calcio,3-1,Inter
+Wed Sep 21 2011,Ac Cesena,1-2,Lazio Roma
+Wed Sep 21 2011,Chievo Verona,1-0,Ssc Napoli
+Wed Sep 21 2011,Acf Fiorentina,3-0,Parma FC
+Wed Sep 21 2011,Genoa CFc,3-0,Calcio Catania
+Wed Sep 21 2011,Juventus,1-1,Bologna FC
+Wed Sep 21 2011,US Lecce,1-2,Atalanta
+Wed Sep 21 2011,AC Milan,1-1,Udinese Calcio
+Wed Sep 21 2011,US Palermo,3-2,Cagliari Calcio
+Thu Sep 22 2011,As Roma,1-1,AC Siena
+Sat Sep 24 2011,Bologna FC,1-3,Inter
+Sat Sep 24 2011,AC Milan,1-0,Ac Cesena
+Sat Sep 24 2011,Ssc Napoli,0-0,Acf Fiorentina
+Sun Sep 25 2011,Chievo Verona,2-1,Genoa CFc
+Sun Sep 25 2011,Atalanta,2-1,Novara Calcio
+Sun Sep 25 2011,Cagliari Calcio,0-0,Udinese Calcio
+Sun Sep 25 2011,Calcio Catania,1-1,Juventus
+Sun Sep 25 2011,Lazio Roma,0-0,US Palermo
+Sun Sep 25 2011,AC Siena,3-0,US Lecce
+Sun Sep 25 2011,Parma FC,0-1,As Roma
+Sat Oct 1 2011,As Roma,3-1,Atalanta
+Sat Oct 1 2011,Inter,0-3,Ssc Napoli
+Sun Oct 2 2011,Novara Calcio,3-3,Calcio Catania
+Sun Oct 2 2011,Ac Cesena,0-0,Chievo Verona
+Sun Oct 2 2011,Acf Fiorentina,1-2,Lazio Roma
+Sun Oct 2 2011,US Lecce,0-2,Cagliari Calcio
+Sun Oct 2 2011,US Palermo,2-0,AC Siena
+Sun Oct 2 2011,Parma FC,3-1,Genoa CFc
+Sun Oct 2 2011,Udinese Calcio,2-0,Bologna FC
+Sun Oct 2 2011,Juventus,2-0,AC Milan
+Sat Oct 15 2011,Calcio Catania,2-1,Inter
+Sat Oct 15 2011,AC Milan,3-0,US Palermo
+Sat Oct 15 2011,Ssc Napoli,1-2,Parma FC
+Sun Oct 16 2011,Ac Cesena,0-0,Acf Fiorentina
+Sun Oct 16 2011,Atalanta,0-0,Udinese Calcio
+Sun Oct 16 2011,Cagliari Calcio,0-0,AC Siena
+Sun Oct 16 2011,Chievo Verona,0-0,Juventus
+Sun Oct 16 2011,Genoa CFc,0-0,US Lecce
+Sun Oct 16 2011,Novara Calcio,0-2,Bologna FC
+Sun Oct 16 2011,Lazio Roma,2-1,As Roma
+Sat Oct 22 2011,Acf Fiorentina,2-2,Calcio Catania
+Sat Oct 22 2011,Juventus,2-2,Genoa CFc
+Sun Oct 23 2011,US Lecce,3-4,AC Milan
+Sun Oct 23 2011,Cagliari Calcio,0-0,Ssc Napoli
+Sun Oct 23 2011,Inter,1-0,Chievo Verona
+Sun Oct 23 2011,Parma FC,1-2,Atalanta
+Sun Oct 23 2011,As Roma,1-0,US Palermo
+Sun Oct 23 2011,AC Siena,2-0,Ac Cesena
+Sun Oct 23 2011,Udinese Calcio,3-0,Novara Calcio
+Sun Oct 23 2011,Bologna FC,0-2,Lazio Roma
+Tue Oct 25 2011,Juventus,2-1,Acf Fiorentina
+Wed Oct 26 2011,Atalanta,1-1,Inter
+Wed Oct 26 2011,Ac Cesena,1-1,Cagliari Calcio
+Wed Oct 26 2011,Chievo Verona,0-1,Bologna FC
+Wed Oct 26 2011,Genoa CFc,2-1,As Roma
+Wed Oct 26 2011,Lazio Roma,1-1,Calcio Catania
+Wed Oct 26 2011,AC Milan,4-1,Parma FC
+Wed Oct 26 2011,Ssc Napoli,2-0,Udinese Calcio
+Wed Oct 26 2011,Novara Calcio,1-1,AC Siena
+Thu Oct 27 2011,US Palermo,2-0,US Lecce
+Sat Oct 29 2011,Calcio Catania,2-1,Ssc Napoli
+Sat Oct 29 2011,As Roma,2-3,AC Milan
+Sat Oct 29 2011,Inter,1-2,Juventus
+Sun Oct 30 2011,AC Siena,4-1,Chievo Verona
+Sun Oct 30 2011,Bologna FC,3-1,Atalanta
+Sun Oct 30 2011,Acf Fiorentina,1-0,Genoa CFc
+Sun Oct 30 2011,US Lecce,1-1,Novara Calcio
+Sun Oct 30 2011,Parma FC,2-0,Ac Cesena
+Sun Oct 30 2011,Udinese Calcio,1-0,US Palermo
+Sun Oct 30 2011,Cagliari Calcio,0-3,Lazio Roma
+Sat Nov 5 2011,US Palermo,3-1,Bologna FC
+Sat Nov 5 2011,Novara Calcio,0-2,As Roma
+Sun Nov 6 2011,Atalanta,1-0,Cagliari Calcio
+Sun Nov 6 2011,Ac Cesena,0-1,US Lecce
+Sun Nov 6 2011,Chievo Verona,1-0,Acf Fiorentina
+Sun Nov 6 2011,Lazio Roma,1-0,Parma FC
+Sun Nov 6 2011,AC Milan,4-0,Calcio Catania
+Sun Nov 6 2011,Udinese Calcio,2-1,AC Siena
+Sat Nov 19 2011,Inter,2-1,Cagliari Calcio
+Sat Nov 19 2011,Acf Fiorentina,0-0,AC Milan
+Sat Nov 19 2011,Ssc Napoli,0-0,Lazio Roma
+Sun Nov 20 2011,Bologna FC,0-1,Ac Cesena
+Sun Nov 20 2011,Calcio Catania,1-2,Chievo Verona
+Sun Nov 20 2011,Genoa CFc,1-0,Novara Calcio
+Sun Nov 20 2011,Juventus,3-0,US Palermo
+Sun Nov 20 2011,Parma FC,2-0,Udinese Calcio
+Sun Nov 20 2011,AC Siena,2-2,Atalanta
+Sun Nov 20 2011,As Roma,2-1,US Lecce
+Fri Nov 25 2011,Udinese Calcio,2-0,As Roma
+Sat Nov 26 2011,US Lecce,0-1,Calcio Catania
+Sat Nov 26 2011,Novara Calcio,2-1,Parma FC
+Sat Nov 26 2011,Atalanta,1-1,Ssc Napoli
+Sat Nov 26 2011,Lazio Roma,0-1,Juventus
+Sun Nov 27 2011,Cagliari Calcio,1-1,Bologna FC
+Sun Nov 27 2011,Ac Cesena,2-0,Genoa CFc
+Sun Nov 27 2011,US Palermo,2-0,Acf Fiorentina
+Sun Nov 27 2011,AC Siena,0-1,Inter
+Sun Nov 27 2011,AC Milan,4-0,Chievo Verona
+Tue Nov 29 2011,Ssc Napoli,3-3,Juventus
+Fri Dec 2 2011,Genoa CFc,0-2,AC Milan
+Sat Dec 3 2011,Inter,0-1,Udinese Calcio
+Sat Dec 3 2011,Ssc Napoli,4-2,US Lecce
+Sun Dec 4 2011,Calcio Catania,0-1,Cagliari Calcio
+Sun Dec 4 2011,Bologna FC,1-0,AC Siena
+Sun Dec 4 2011,Chievo Verona,0-0,Atalanta
+Sun Dec 4 2011,Acf Fiorentina,3-0,As Roma
+Sun Dec 4 2011,Juventus,2-0,Ac Cesena
+Sun Dec 4 2011,Parma FC,0-0,US Palermo
+Mon Dec 5 2011,Lazio Roma,3-0,Novara Calcio
+Sat Dec 10 2011,US Lecce,2-3,Lazio Roma
+Sat Dec 10 2011,AC Siena,0-2,Genoa CFc
+Sat Dec 10 2011,Inter,2-0,Acf Fiorentina
+Sat Dec 10 2011,US Palermo,0-1,Ac Cesena
+Sun Dec 11 2011,Atalanta,1-1,Calcio Catania
+Sun Dec 11 2011,Bologna FC,2-2,AC Milan
+Sun Dec 11 2011,Cagliari Calcio,0-0,Parma FC
+Sun Dec 11 2011,Udinese Calcio,2-1,Chievo Verona
+Sun Dec 11 2011,Novara Calcio,1-1,Ssc Napoli
+Mon Dec 12 2011,As Roma,1-1,Juventus
+Tue Dec 13 2011,Genoa CFc,0-1,Inter
+Sat Dec 17 2011,Chievo Verona,2-0,Cagliari Calcio
+Sat Dec 17 2011,Acf Fiorentina,2-2,Atalanta
+Sat Dec 17 2011,AC Milan,2-0,AC Siena
+Sun Dec 18 2011,Calcio Catania,2-0,US Palermo
+Sun Dec 18 2011,Ac Cesena,0-1,Inter
+Sun Dec 18 2011,Genoa CFc,2-1,Bologna FC
+Sun Dec 18 2011,Juventus,2-0,Novara Calcio
+Sun Dec 18 2011,Parma FC,3-3,US Lecce
+Sun Dec 18 2011,Lazio Roma,2-2,Udinese Calcio
+Sun Dec 18 2011,Ssc Napoli,1-3,As Roma
+Tue Dec 20 2011,AC Siena,0-0,Acf Fiorentina
+Tue Dec 20 2011,Cagliari Calcio,0-2,AC Milan
+Wed Dec 21 2011,Udinese Calcio,0-0,Juventus
+Wed Dec 21 2011,Atalanta,4-1,Ac Cesena
+Wed Dec 21 2011,Bologna FC,0-2,As Roma
+Wed Dec 21 2011,Inter,4-1,US Lecce
+Wed Dec 21 2011,Lazio Roma,0-0,Chievo Verona
+Wed Dec 21 2011,Ssc Napoli,6-1,Genoa CFc
+Wed Dec 21 2011,Novara Calcio,2-2,US Palermo
+Wed Dec 21 2011,Parma FC,3-3,Calcio Catania
+Sat Jan 7 2012,AC Siena,4-0,Lazio Roma
+Sat Jan 7 2012,Inter,5-0,Parma FC
+Sun Jan 8 2012,Udinese Calcio,4-1,Ac Cesena
+Sun Jan 8 2012,Atalanta,0-2,AC Milan
+Sun Jan 8 2012,Bologna FC,2-0,Calcio Catania
+Sun Jan 8 2012,Cagliari Calcio,3-0,Genoa CFc
+Sun Jan 8 2012,US Lecce,0-1,Juventus
+Sun Jan 8 2012,Novara Calcio,0-3,Acf Fiorentina
+Sun Jan 8 2012,As Roma,2-0,Chievo Verona
+Sun Jan 8 2012,US Palermo,1-3,Ssc Napoli
+Sun Jan 15 2012,Lazio Roma,2-0,Atalanta
+Sun Jan 15 2012,Ac Cesena,3-1,Novara Calcio
+Sun Jan 15 2012,Chievo Verona,1-0,US Palermo
+Sun Jan 15 2012,Acf Fiorentina,0-1,US Lecce
+Sun Jan 15 2012,Genoa CFc,3-2,Udinese Calcio
+Sun Jan 15 2012,Juventus,1-1,Cagliari Calcio
+Sun Jan 15 2012,Parma FC,3-1,AC Siena
+Sun Jan 15 2012,AC Milan,0-1,Inter
+Mon Jan 16 2012,Ssc Napoli,1-1,Bologna FC
+Sat Jan 21 2012,As Roma,5-1,Ac Cesena
+Sat Jan 21 2012,Atalanta,0-2,Juventus
+Sun Jan 22 2012,Bologna FC,0-0,Parma FC
+Sun Jan 22 2012,US Lecce,2-2,Chievo Verona
+Sun Jan 22 2012,Novara Calcio,0-3,AC Milan
+Sun Jan 22 2012,US Palermo,5-3,Genoa CFc
+Sun Jan 22 2012,AC Siena,1-1,Ssc Napoli
+Sun Jan 22 2012,Udinese Calcio,2-1,Calcio Catania
+Sun Jan 22 2012,Cagliari Calcio,0-0,Acf Fiorentina
+Sun Jan 22 2012,Inter,2-1,Lazio Roma
+Sat Jan 28 2012,Calcio Catania,1-1,Parma FC
+Sat Jan 28 2012,Juventus,2-1,Udinese Calcio
+Sun Jan 29 2012,Acf Fiorentina,2-1,AC Siena
+Sun Jan 29 2012,Ac Cesena,0-1,Atalanta
+Sun Jan 29 2012,As Roma,1-1,Bologna FC
+Sun Jan 29 2012,US Lecce,1-0,Inter
+Sun Jan 29 2012,Chievo Verona,0-3,Lazio Roma
+Sun Jan 29 2012,Genoa CFc,3-2,Ssc Napoli
+Sun Jan 29 2012,US Palermo,2-0,Novara Calcio
+Sun Jan 29 2012,AC Milan,3-0,Cagliari Calcio
+Wed Feb 1 2012,Ssc Napoli,0-0,Ac Cesena
+Wed Feb 1 2012,Udinese Calcio,2-1,US Lecce
+Wed Feb 1 2012,Lazio Roma,2-0,AC Milan
+Wed Feb 1 2012,Inter,4-4,US Palermo
+Wed Feb 1 2012,Cagliari Calcio,4-2,As Roma
+Thu Feb 2 2012,Novara Calcio,1-2,Chievo Verona
+Sun Feb 5 2012,Genoa CFc,3-2,Lazio Roma
+Sun Feb 5 2012,US Palermo,2-1,Atalanta
+Sun Feb 5 2012,US Lecce,0-0,Bologna FC
+Sun Feb 5 2012,Novara Calcio,0-0,Cagliari Calcio
+Sun Feb 5 2012,As Roma,4-0,Inter
+Sun Feb 5 2012,AC Milan,0-0,Ssc Napoli
+Sun Feb 5 2012,Chievo Verona,1-2,Parma FC
+Sun Feb 5 2012,Juventus,0-0,AC Siena
+Sun Feb 5 2012,Acf Fiorentina,3-2,Udinese Calcio
+Wed Feb 8 2012,Calcio Catania,1-1,As Roma
+Thu Feb 9 2012,Lazio Roma,3-2,Ac Cesena
+Sat Feb 11 2012,Udinese Calcio,1-2,AC Milan
+Sat Feb 11 2012,Cagliari Calcio,2-1,US Palermo
+Sun Feb 12 2012,Calcio Catania,4-0,Genoa CFc
+Sun Feb 12 2012,Atalanta,0-0,US Lecce
+Sun Feb 12 2012,Inter,0-1,Novara Calcio
+Mon Feb 13 2012,Ssc Napoli,2-0,Chievo Verona
+Mon Feb 13 2012,AC Siena,1-0,As Roma
+Wed Feb 15 2012,Atalanta,1-0,Genoa CFc
+Wed Feb 15 2012,Parma FC,0-0,Juventus
+Fri Feb 17 2012,Inter,0-3,Bologna FC
+Fri Feb 17 2012,Acf Fiorentina,0-3,Ssc Napoli
+Sat Feb 18 2012,Juventus,3-1,Calcio Catania
+Sun Feb 19 2012,US Lecce,4-1,AC Siena
+Sun Feb 19 2012,Novara Calcio,0-0,Atalanta
+Sun Feb 19 2012,Genoa CFc,0-1,Chievo Verona
+Sun Feb 19 2012,Ac Cesena,1-3,AC Milan
+Sun Feb 19 2012,As Roma,1-0,Parma FC
+Sun Feb 19 2012,Udinese Calcio,0-0,Cagliari Calcio
+Sun Feb 19 2012,US Palermo,5-1,Lazio Roma
+Tue Feb 21 2012,Bologna FC,2-0,Acf Fiorentina
+Wed Feb 22 2012,AC Siena,0-1,Calcio Catania
+Sat Feb 25 2012,Genoa CFc,2-2,Parma FC
+Sat Feb 25 2012,AC Milan,1-1,Juventus
+Sun Feb 26 2012,Chievo Verona,1-0,Ac Cesena
+Sun Feb 26 2012,Cagliari Calcio,1-2,US Lecce
+Sun Feb 26 2012,Calcio Catania,3-1,Novara Calcio
+Sun Feb 26 2012,AC Siena,4-1,US Palermo
+Sun Feb 26 2012,Atalanta,4-1,As Roma
+Sun Feb 26 2012,Lazio Roma,1-0,Acf Fiorentina
+Sun Feb 26 2012,Ssc Napoli,1-0,Inter
+Sun Feb 26 2012,Bologna FC,1-3,Udinese Calcio
+Sat Mar 3 2012,US Palermo,0-4,AC Milan
+Sat Mar 3 2012,Juventus,1-1,Chievo Verona
+Sun Mar 4 2012,Parma FC,1-2,Ssc Napoli
+Sun Mar 4 2012,Udinese Calcio,0-0,Atalanta
+Sun Mar 4 2012,AC Siena,3-0,Cagliari Calcio
+Sun Mar 4 2012,Acf Fiorentina,2-0,Ac Cesena
+Sun Mar 4 2012,US Lecce,2-2,Genoa CFc
+Sun Mar 4 2012,As Roma,1-2,Lazio Roma
+Sun Mar 4 2012,Bologna FC,1-0,Novara Calcio
+Sun Mar 4 2012,Inter,2-2,Calcio Catania
+Wed Mar 7 2012,Ac Cesena,0-0,Calcio Catania
+Wed Mar 7 2012,Parma FC,2-2,Acf Fiorentina
+Wed Mar 7 2012,Bologna FC,1-1,Juventus
+Fri Mar 9 2012,Ssc Napoli,6-3,Cagliari Calcio
+Fri Mar 9 2012,Chievo Verona,0-2,Inter
+Sat Mar 10 2012,US Palermo,0-1,As Roma
+Sun Mar 11 2012,Calcio Catania,1-0,Acf Fiorentina
+Sun Mar 11 2012,Genoa CFc,0-0,Juventus
+Sun Mar 11 2012,AC Milan,2-0,US Lecce
+Sun Mar 11 2012,Atalanta,1-1,Parma FC
+Sun Mar 11 2012,Ac Cesena,0-2,AC Siena
+Sun Mar 11 2012,Lazio Roma,1-3,Bologna FC
+Sun Mar 11 2012,Novara Calcio,1-0,Udinese Calcio
+Sat Mar 17 2012,Parma FC,0-2,AC Milan
+Sat Mar 17 2012,Acf Fiorentina,0-5,Juventus
+Sun Mar 18 2012,Cagliari Calcio,3-0,Ac Cesena
+Sun Mar 18 2012,Inter,0-0,Atalanta
+Sun Mar 18 2012,Bologna FC,2-2,Chievo Verona
+Sun Mar 18 2012,Calcio Catania,1-0,Lazio Roma
+Sun Mar 18 2012,AC Siena,0-2,Novara Calcio
+Sun Mar 18 2012,US Lecce,1-1,US Palermo
+Sun Mar 18 2012,Udinese Calcio,2-2,Ssc Napoli
+Mon Mar 19 2012,As Roma,1-0,Genoa CFc
+Sat Mar 24 2012,AC Milan,2-1,As Roma
+Sat Mar 24 2012,US Palermo,1-1,Udinese Calcio
+Sun Mar 25 2012,Atalanta,2-0,Bologna FC
+Sun Mar 25 2012,Lazio Roma,1-0,Cagliari Calcio
+Sun Mar 25 2012,Ssc Napoli,2-2,Calcio Catania
+Sun Mar 25 2012,Genoa CFc,2-2,Acf Fiorentina
+Sun Mar 25 2012,Novara Calcio,0-0,US Lecce
+Sun Mar 25 2012,Ac Cesena,2-2,Parma FC
+Sun Mar 25 2012,Chievo Verona,1-1,AC Siena
+Sun Mar 25 2012,Juventus,2-0,Inter
+Sat Mar 31 2012,Calcio Catania,1-1,AC Milan
+Sat Mar 31 2012,Parma FC,3-1,Lazio Roma
+Sun Apr 1 2012,As Roma,5-2,Novara Calcio
+Sun Apr 1 2012,Cagliari Calcio,2-0,Atalanta
+Sun Apr 1 2012,US Lecce,0-0,Ac Cesena
+Sun Apr 1 2012,Acf Fiorentina,1-2,Chievo Verona
+Sun Apr 1 2012,Inter,5-4,Genoa CFc
+Sun Apr 1 2012,Bologna FC,1-3,US Palermo
+Sun Apr 1 2012,AC Siena,1-0,Udinese Calcio
+Sun Apr 1 2012,Juventus,3-0,Ssc Napoli
+Sat Apr 7 2012,Ac Cesena,0-0,Bologna FC
+Sat Apr 7 2012,Chievo Verona,3-2,Calcio Catania
+Sat Apr 7 2012,AC Milan,1-2,Acf Fiorentina
+Sat Apr 7 2012,Novara Calcio,1-1,Genoa CFc
+Sat Apr 7 2012,Cagliari Calcio,2-2,Inter
+Sat Apr 7 2012,Udinese Calcio,3-1,Parma FC
+Sat Apr 7 2012,US Lecce,4-2,As Roma
+Sat Apr 7 2012,Atalanta,1-2,AC Siena
+Sat Apr 7 2012,US Palermo,0-2,Juventus
+Sat Apr 7 2012,Lazio Roma,3-1,Ssc Napoli
+Tue Apr 10 2012,Chievo Verona,0-1,AC Milan
+Wed Apr 11 2012,Ssc Napoli,1-3,Atalanta
+Wed Apr 11 2012,Genoa CFc,1-1,Ac Cesena
+Wed Apr 11 2012,Juventus,2-1,Lazio Roma
+Wed Apr 11 2012,Calcio Catania,1-2,US Lecce
+Wed Apr 11 2012,Parma FC,2-0,Novara Calcio
+Wed Apr 11 2012,Acf Fiorentina,0-0,US Palermo
+Wed Apr 11 2012,Inter,2-1,AC Siena
+Wed Apr 11 2012,As Roma,3-1,Udinese Calcio
+Thu Apr 12 2012,Bologna FC,1-0,Cagliari Calcio
+Sat Apr 21 2012,Parma FC,3-0,Cagliari Calcio
+Sat Apr 21 2012,Chievo Verona,0-0,Udinese Calcio
+Sat Apr 21 2012,Calcio Catania,2-0,Atalanta
+Sat Apr 21 2012,Ssc Napoli,2-0,Novara Calcio
+Sun Apr 22 2012,Acf Fiorentina,0-0,Inter
+Sun Apr 22 2012,AC Milan,1-1,Bologna FC
+Sun Apr 22 2012,Lazio Roma,1-1,US Lecce
+Sun Apr 22 2012,Ac Cesena,2-2,US Palermo
+Sun Apr 22 2012,Genoa CFc,1-4,AC Siena
+Sun Apr 22 2012,Juventus,4-0,As Roma
+Tue Apr 24 2012,Cagliari Calcio,3-0,Calcio Catania
+Tue Apr 24 2012,Atalanta,1-0,Chievo Verona
+Wed Apr 25 2012,Novara Calcio,2-1,Lazio Roma
+Wed Apr 25 2012,AC Siena,1-1,Bologna FC
+Wed Apr 25 2012,As Roma,1-2,Acf Fiorentina
+Wed Apr 25 2012,Udinese Calcio,1-3,Inter
+Wed Apr 25 2012,US Lecce,0-2,Ssc Napoli
+Wed Apr 25 2012,US Palermo,1-2,Parma FC
+Wed Apr 25 2012,AC Milan,1-0,Genoa CFc
+Wed Apr 25 2012,Ac Cesena,0-1,Juventus
+Sat Apr 28 2012,US Palermo,1-1,Calcio Catania
+Sat Apr 28 2012,Cagliari Calcio,0-0,Chievo Verona
+Sat Apr 28 2012,As Roma,2-2,Ssc Napoli
+Sun Apr 29 2012,Bologna FC,3-2,Genoa CFc
+Sun Apr 29 2012,Inter,2-1,Ac Cesena
+Sun Apr 29 2012,Atalanta,2-0,Acf Fiorentina
+Sun Apr 29 2012,Novara Calcio,0-4,Juventus
+Sun Apr 29 2012,AC Siena,1-4,AC Milan
+Sun Apr 29 2012,US Lecce,1-2,Parma FC
+Sun Apr 29 2012,Udinese Calcio,2-0,Lazio Roma
+Tue May 1 2012,Chievo Verona,0-0,As Roma
+Tue May 1 2012,Ssc Napoli,2-0,US Palermo
+Wed May 2 2012,AC Milan,2-0,Atalanta
+Wed May 2 2012,Calcio Catania,0-1,Bologna FC
+Wed May 2 2012,Genoa CFc,2-1,Cagliari Calcio
+Wed May 2 2012,Parma FC,3-1,Inter
+Wed May 2 2012,Juventus,1-1,US Lecce
+Wed May 2 2012,Acf Fiorentina,2-2,Novara Calcio
+Wed May 2 2012,Lazio Roma,1-1,AC Siena
+Wed May 2 2012,Ac Cesena,0-1,Udinese Calcio
+Sat May 5 2012,US Lecce,0-1,Acf Fiorentina
+Sat May 5 2012,As Roma,2-2,Calcio Catania
+Sun May 6 2012,AC Siena,0-2,Parma FC
+Sun May 6 2012,Novara Calcio,3-0,Ac Cesena
+Sun May 6 2012,US Palermo,4-4,Chievo Verona
+Sun May 6 2012,Udinese Calcio,2-0,Genoa CFc
+Sun May 6 2012,Atalanta,0-2,Lazio Roma
+Sun May 6 2012,Bologna FC,2-0,Ssc Napoli
+Sun May 6 2012,Cagliari Calcio,0-2,Juventus
+Sun May 6 2012,Inter,4-2,AC Milan
+Sun May 13 2012,Juventus,3-1,Atalanta
+Sun May 13 2012,Acf Fiorentina,0-0,Cagliari Calcio
+Sun May 13 2012,AC Milan,2-1,Novara Calcio
+Sun May 13 2012,Parma FC,1-0,Bologna FC
+Sun May 13 2012,Ac Cesena,2-3,As Roma
+Sun May 13 2012,Lazio Roma,3-1,Inter
+Sun May 13 2012,Chievo Verona,1-0,US Lecce
+Sun May 13 2012,Genoa CFc,2-0,US Palermo
+Sun May 13 2012,Ssc Napoli,2-1,AC Siena
+Sun May 13 2012,Calcio Catania,0-2,Udinese Calcio

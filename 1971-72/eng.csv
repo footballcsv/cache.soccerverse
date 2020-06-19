@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 14 1971,Arsenal FC,3-0,Chelsea FC
+Sat Aug 14 1971,Coventry City,1-1,Stoke City
+Sat Aug 14 1971,Crystal Palace,2-0,Newcastle United
+Sat Aug 14 1971,Derby County,2-2,Manchester United
+Sat Aug 14 1971,Huddersfield Town,2-2,Leicester City
+Sat Aug 14 1971,Ipswich Town,0-0,Everton FC
+Sat Aug 14 1971,Liverpool FC,3-1,Nottingham Forest
+Sat Aug 14 1971,Manchester City,0-1,Leeds United
+Sat Aug 14 1971,Sheffield United,3-1,Southampton FC
+Sat Aug 14 1971,West Ham United,0-1,West Bromwich Albion
+Sat Aug 14 1971,Wolverhampton Wanderers,2-2,Tottenham Hotspur
+Tue Aug 17 1971,Huddersfield Town,0-1,Arsenal FC
+Tue Aug 17 1971,Ipswich Town,3-1,Coventry City
+Tue Aug 17 1971,Liverpool FC,3-2,Wolverhampton Wanderers
+Tue Aug 17 1971,Sheffield United,3-0,Leeds United
+Tue Aug 17 1971,Southampton FC,3-1,Stoke City
+Wed Aug 18 1971,Chelsea FC,2-3,Manchester United
+Wed Aug 18 1971,Derby County,2-0,West Ham United
+Wed Aug 18 1971,Leicester City,2-1,Nottingham Forest
+Wed Aug 18 1971,Manchester City,4-0,Crystal Palace
+Wed Aug 18 1971,Tottenham Hotspur,0-0,Newcastle United
+Wed Aug 18 1971,West Bromwich Albion,2-0,Everton FC
+Fri Aug 20 1971,Manchester United,3-1,Arsenal FC
+Sat Aug 21 1971,Chelsea FC,2-2,Manchester City
+Sat Aug 21 1971,Everton FC,0-1,Sheffield United
+Sat Aug 21 1971,Leeds United,0-0,Wolverhampton Wanderers
+Sat Aug 21 1971,Leicester City,0-2,Derby County
+Sat Aug 21 1971,Newcastle United,3-2,Liverpool FC
+Sat Aug 21 1971,Nottingham Forest,1-0,West Ham United
+Sat Aug 21 1971,Southampton FC,0-0,Ipswich Town
+Sat Aug 21 1971,Stoke City,3-1,Crystal Palace
+Sat Aug 21 1971,Tottenham Hotspur,4-1,Huddersfield Town
+Sat Aug 21 1971,West Bromwich Albion,1-1,Coventry City
+Mon Aug 23 1971,Manchester United,3-1,West Bromwich Albion
+Mon Aug 23 1971,West Ham United,0-0,Ipswich Town
+Tue Aug 24 1971,Arsenal FC,0-1,Sheffield United
+Tue Aug 24 1971,Coventry City,2-2,Derby County
+Tue Aug 24 1971,Crystal Palace,0-1,Liverpool FC
+Tue Aug 24 1971,Everton FC,2-0,Chelsea FC
+Tue Aug 24 1971,Nottingham Forest,2-3,Southampton FC
+Tue Aug 24 1971,Wolverhampton Wanderers,2-1,Manchester City
+Wed Aug 25 1971,Leeds United,1-1,Tottenham Hotspur
+Wed Aug 25 1971,Newcastle United,0-0,Huddersfield Town
+Wed Aug 25 1971,Stoke City,3-1,Leicester City
+Sat Aug 28 1971,Arsenal FC,0-1,Stoke City
+Sat Aug 28 1971,Coventry City,1-0,Newcastle United
+Sat Aug 28 1971,Crystal Palace,1-1,Nottingham Forest
+Sat Aug 28 1971,Derby County,2-2,Southampton FC
+Sat Aug 28 1971,Huddersfield Town,1-2,Chelsea FC
+Sat Aug 28 1971,Ipswich Town,0-2,Leeds United
+Sat Aug 28 1971,Liverpool FC,3-2,Leicester City
+Sat Aug 28 1971,Manchester City,4-0,Tottenham Hotspur
+Sat Aug 28 1971,Sheffield United,0-0,West Bromwich Albion
+Sat Aug 28 1971,West Ham United,1-0,Everton FC
+Sat Aug 28 1971,Wolverhampton Wanderers,1-1,Manchester United
+Mon Aug 30 1971,West Ham United,4-0,Coventry City
+Tue Aug 31 1971,Everton FC,1-0,Manchester United
+Tue Aug 31 1971,Ipswich Town,0-0,Derby County
+Tue Aug 31 1971,Nottingham Forest,0-0,Stoke City
+Tue Aug 31 1971,Sheffield United,3-1,Huddersfield Town
+Tue Aug 31 1971,Wolverhampton Wanderers,1-0,Crystal Palace
+Wed Sep 1 1971,Chelsea FC,1-0,West Bromwich Albion
+Wed Sep 1 1971,Leeds United,5-1,Newcastle United
+Wed Sep 1 1971,Leicester City,0-1,Southampton FC
+Wed Sep 1 1971,Manchester City,1-0,Liverpool FC
+Sat Sep 4 1971,Chelsea FC,3-3,Coventry City
+Sat Sep 4 1971,Everton FC,0-2,Derby County
+Sat Sep 4 1971,Leeds United,2-0,Crystal Palace
+Sat Sep 4 1971,Leicester City,0-0,Manchester City
+Sat Sep 4 1971,Manchester United,1-0,Ipswich Town
+Sat Sep 4 1971,Newcastle United,2-2,West Ham United
+Sat Sep 4 1971,Nottingham Forest,2-3,Sheffield United
+Sat Sep 4 1971,Southampton FC,1-2,Huddersfield Town
+Sat Sep 4 1971,Stoke City,0-1,Wolverhampton Wanderers
+Sat Sep 4 1971,Tottenham Hotspur,2-0,Liverpool FC
+Sat Sep 4 1971,West Bromwich Albion,0-1,Arsenal FC
+Sat Sep 11 1971,Arsenal FC,2-0,Leeds United
+Sat Sep 11 1971,Coventry City,1-1,Nottingham Forest
+Sat Sep 11 1971,Crystal Palace,1-3,Manchester United
+Sat Sep 11 1971,Derby County,4-0,Stoke City
+Sat Sep 11 1971,Huddersfield Town,1-0,West Bromwich Albion
+Sat Sep 11 1971,Ipswich Town,1-2,Leicester City
+Sat Sep 11 1971,Liverpool FC,1-0,Southampton FC
+Sat Sep 11 1971,Manchester City,2-1,Newcastle United
+Sat Sep 11 1971,Sheffield United,2-2,Tottenham Hotspur
+Sat Sep 11 1971,West Ham United,2-1,Chelsea FC
+Sat Sep 11 1971,Wolverhampton Wanderers,1-1,Everton FC
+Sat Sep 18 1971,Chelsea FC,1-1,Derby County
+Sat Sep 18 1971,Everton FC,2-1,Arsenal FC
+Sat Sep 18 1971,Leeds United,1-0,Liverpool FC
+Sat Sep 18 1971,Leicester City,0-1,Sheffield United
+Sat Sep 18 1971,Manchester United,4-2,West Ham United
+Sat Sep 18 1971,Newcastle United,2-0,Wolverhampton Wanderers
+Sat Sep 18 1971,Nottingham Forest,2-2,Manchester City
+Sat Sep 18 1971,Southampton FC,3-1,Coventry City
+Sat Sep 18 1971,Stoke City,1-0,Huddersfield Town
+Sat Sep 18 1971,Tottenham Hotspur,3-0,Crystal Palace
+Sat Sep 18 1971,West Bromwich Albion,1-2,Ipswich Town
+Sat Sep 25 1971,Arsenal FC,3-0,Leicester City
+Sat Sep 25 1971,Coventry City,1-0,Tottenham Hotspur
+Sat Sep 25 1971,Crystal Palace,2-1,Everton FC
+Sat Sep 25 1971,Derby County,0-0,West Bromwich Albion
+Sat Sep 25 1971,Huddersfield Town,2-1,Leeds United
+Sat Sep 25 1971,Ipswich Town,0-0,Newcastle United
+Sat Sep 25 1971,Liverpool FC,2-2,Manchester United
+Sat Sep 25 1971,Manchester City,3-0,Southampton FC
+Sat Sep 25 1971,Sheffield United,1-0,Chelsea FC
+Sat Sep 25 1971,West Ham United,2-1,Stoke City
+Sat Sep 25 1971,Wolverhampton Wanderers,4-2,Nottingham Forest
+Sat Oct 2 1971,Chelsea FC,3-1,Wolverhampton Wanderers
+Sat Oct 2 1971,Everton FC,1-2,Coventry City
+Sat Oct 2 1971,Leeds United,0-0,West Ham United
+Sat Oct 2 1971,Leicester City,0-0,Crystal Palace
+Sat Oct 2 1971,Manchester United,2-0,Sheffield United
+Sat Oct 2 1971,Newcastle United,0-1,Derby County
+Sat Oct 2 1971,Nottingham Forest,1-2,Huddersfield Town
+Sat Oct 2 1971,Southampton FC,0-1,Arsenal FC
+Sat Oct 2 1971,Stoke City,0-0,Liverpool FC
+Sat Oct 2 1971,Tottenham Hotspur,2-1,Ipswich Town
+Sat Oct 2 1971,West Bromwich Albion,0-2,Manchester City
+Sat Oct 9 1971,Arsenal FC,4-2,Newcastle United
+Sat Oct 9 1971,Coventry City,3-1,Leeds United
+Sat Oct 9 1971,Crystal Palace,0-2,West Bromwich Albion
+Sat Oct 9 1971,Derby County,2-2,Tottenham Hotspur
+Sat Oct 9 1971,Huddersfield Town,0-3,Manchester United
+Sat Oct 9 1971,Ipswich Town,1-1,Nottingham Forest
+Sat Oct 9 1971,Liverpool FC,0-0,Chelsea FC
+Sat Oct 9 1971,Manchester City,1-0,Everton FC
+Sat Oct 9 1971,Sheffield United,2-3,Stoke City
+Sat Oct 9 1971,West Ham United,1-1,Leicester City
+Sat Oct 9 1971,Wolverhampton Wanderers,4-2,Southampton FC
+Sat Oct 16 1971,Chelsea FC,1-2,Arsenal FC
+Sat Oct 16 1971,Everton FC,1-1,Ipswich Town
+Sat Oct 16 1971,Leeds United,3-0,Manchester City
+Sat Oct 16 1971,Leicester City,2-0,Huddersfield Town
+Sat Oct 16 1971,Manchester United,1-0,Derby County
+Sat Oct 16 1971,Newcastle United,1-2,Crystal Palace
+Sat Oct 16 1971,Nottingham Forest,2-3,Liverpool FC
+Sat Oct 16 1971,Southampton FC,3-2,Sheffield United
+Sat Oct 16 1971,Stoke City,1-0,Coventry City
+Sat Oct 16 1971,Tottenham Hotspur,4-1,Wolverhampton Wanderers
+Sat Oct 16 1971,West Bromwich Albion,0-0,West Ham United
+Fri Oct 22 1971,Coventry City,1-1,Crystal Palace
+Sat Oct 23 1971,Chelsea FC,3-0,Southampton FC
+Sat Oct 23 1971,Derby County,2-1,Arsenal FC
+Sat Oct 23 1971,Ipswich Town,2-1,Stoke City
+Sat Oct 23 1971,Leeds United,3-2,Everton FC
+Sat Oct 23 1971,Liverpool FC,2-0,Huddersfield Town
+Sat Oct 23 1971,Manchester City,2-1,Sheffield United
+Sat Oct 23 1971,Newcastle United,0-1,Manchester United
+Sat Oct 23 1971,Tottenham Hotspur,6-1,Nottingham Forest
+Sat Oct 23 1971,West Bromwich Albion,0-1,Leicester City
+Sat Oct 23 1971,West Ham United,1-0,Wolverhampton Wanderers
+Tue Oct 26 1971,Huddersfield Town,0-1,Nottingham Forest
+Sat Oct 30 1971,Arsenal FC,2-1,Ipswich Town
+Sat Oct 30 1971,Crystal Palace,0-3,West Ham United
+Sat Oct 30 1971,Everton FC,1-0,Newcastle United
+Sat Oct 30 1971,Huddersfield Town,1-1,Manchester City
+Sat Oct 30 1971,Leicester City,1-1,Chelsea FC
+Sat Oct 30 1971,Manchester United,0-1,Leeds United
+Sat Oct 30 1971,Nottingham Forest,0-2,Derby County
+Sat Oct 30 1971,Sheffield United,1-1,Liverpool FC
+Sat Oct 30 1971,Southampton FC,1-1,West Bromwich Albion
+Sat Oct 30 1971,Stoke City,2-0,Tottenham Hotspur
+Sat Oct 30 1971,Wolverhampton Wanderers,1-1,Coventry City
+Sat Nov 6 1971,Chelsea FC,2-0,Nottingham Forest
+Sat Nov 6 1971,Coventry City,2-1,Huddersfield Town
+Sat Nov 6 1971,Derby County,3-0,Crystal Palace
+Sat Nov 6 1971,Ipswich Town,2-1,Wolverhampton Wanderers
+Sat Nov 6 1971,Leeds United,2-1,Leicester City
+Sat Nov 6 1971,Liverpool FC,3-2,Arsenal FC
+Sat Nov 6 1971,Manchester City,3-3,Manchester United
+Sat Nov 6 1971,Newcastle United,3-1,Southampton FC
+Sat Nov 6 1971,Tottenham Hotspur,3-0,Everton FC
+Sat Nov 6 1971,West Bromwich Albion,0-1,Stoke City
+Sat Nov 6 1971,West Ham United,1-2,Sheffield United
+Sat Nov 13 1971,Arsenal FC,1-2,Manchester City
+Sat Nov 13 1971,Crystal Palace,1-1,Ipswich Town
+Sat Nov 13 1971,Everton FC,1-0,Liverpool FC
+Sat Nov 13 1971,Huddersfield Town,1-0,West Ham United
+Sat Nov 13 1971,Leicester City,3-0,Newcastle United
+Sat Nov 13 1971,Manchester United,3-1,Tottenham Hotspur
+Sat Nov 13 1971,Nottingham Forest,4-1,West Bromwich Albion
+Sat Nov 13 1971,Sheffield United,2-0,Coventry City
+Sat Nov 13 1971,Southampton FC,2-1,Leeds United
+Sat Nov 13 1971,Stoke City,0-1,Chelsea FC
+Sat Nov 13 1971,Wolverhampton Wanderers,2-1,Derby County
+Sat Nov 20 1971,Coventry City,0-2,Liverpool FC
+Sat Nov 20 1971,Crystal Palace,2-3,Chelsea FC
+Sat Nov 20 1971,Derby County,3-0,Sheffield United
+Sat Nov 20 1971,Everton FC,8-0,Southampton FC
+Sat Nov 20 1971,Ipswich Town,1-0,Huddersfield Town
+Sat Nov 20 1971,Leeds United,1-0,Stoke City
+Sat Nov 20 1971,Manchester United,3-2,Leicester City
+Sat Nov 20 1971,Newcastle United,2-1,Nottingham Forest
+Sat Nov 20 1971,Tottenham Hotspur,3-2,West Bromwich Albion
+Sat Nov 20 1971,West Ham United,0-2,Manchester City
+Sat Nov 20 1971,Wolverhampton Wanderers,5-1,Arsenal FC
+Wed Nov 24 1971,Tottenham Hotspur,1-1,Arsenal FC
+Sat Nov 27 1971,Arsenal FC,2-1,Crystal Palace
+Sat Nov 27 1971,Chelsea FC,1-0,Tottenham Hotspur
+Sat Nov 27 1971,Huddersfield Town,2-1,Derby County
+Sat Nov 27 1971,Leicester City,0-0,Everton FC
+Sat Nov 27 1971,Liverpool FC,1-0,West Ham United
+Sat Nov 27 1971,Manchester City,4-0,Coventry City
+Sat Nov 27 1971,Nottingham Forest,0-2,Leeds United
+Sat Nov 27 1971,Sheffield United,7-0,Ipswich Town
+Sat Nov 27 1971,Southampton FC,2-5,Manchester United
+Sat Nov 27 1971,Stoke City,3-3,Newcastle United
+Sat Nov 27 1971,West Bromwich Albion,2-3,Wolverhampton Wanderers
+Sat Dec 4 1971,Coventry City,1-1,Leicester City
+Sat Dec 4 1971,Crystal Palace,5-1,Sheffield United
+Sat Dec 4 1971,Derby County,3-1,Manchester City
+Sat Dec 4 1971,Everton FC,0-0,Stoke City
+Sat Dec 4 1971,Ipswich Town,0-0,Liverpool FC
+Sat Dec 4 1971,Leeds United,3-0,West Bromwich Albion
+Sat Dec 4 1971,Manchester United,3-2,Nottingham Forest
+Sat Dec 4 1971,Newcastle United,0-0,Chelsea FC
+Sat Dec 4 1971,Tottenham Hotspur,1-0,Southampton FC
+Sat Dec 4 1971,West Ham United,0-0,Arsenal FC
+Sat Dec 4 1971,Wolverhampton Wanderers,2-2,Huddersfield Town
+Sat Dec 11 1971,Arsenal FC,2-0,Coventry City
+Sat Dec 11 1971,Chelsea FC,0-0,Leeds United
+Sat Dec 11 1971,Huddersfield Town,0-1,Crystal Palace
+Sat Dec 11 1971,Leicester City,0-1,Tottenham Hotspur
+Sat Dec 11 1971,Liverpool FC,3-2,Derby County
+Sat Dec 11 1971,Manchester City,4-0,Ipswich Town
+Sat Dec 11 1971,Nottingham Forest,1-0,Everton FC
+Sat Dec 11 1971,Sheffield United,2-2,Wolverhampton Wanderers
+Sat Dec 11 1971,Southampton FC,3-3,West Ham United
+Sat Dec 11 1971,Stoke City,1-1,Manchester United
+Sat Dec 11 1971,West Bromwich Albion,0-3,Newcastle United
+Fri Dec 17 1971,Coventry City,1-1,Chelsea FC
+Sat Dec 18 1971,Arsenal FC,2-0,West Bromwich Albion
+Sat Dec 18 1971,Crystal Palace,1-1,Leeds United
+Sat Dec 18 1971,Derby County,2-0,Everton FC
+Sat Dec 18 1971,Huddersfield Town,0-2,Southampton FC
+Sat Dec 18 1971,Ipswich Town,0-0,Manchester United
+Sat Dec 18 1971,Liverpool FC,0-0,Tottenham Hotspur
+Sat Dec 18 1971,Manchester City,1-1,Leicester City
+Sat Dec 18 1971,Sheffield United,2-1,Nottingham Forest
+Sat Dec 18 1971,West Ham United,0-1,Newcastle United
+Sat Dec 18 1971,Wolverhampton Wanderers,2-0,Stoke City
+Mon Dec 27 1971,Chelsea FC,2-0,Ipswich Town
+Mon Dec 27 1971,Everton FC,2-2,Huddersfield Town
+Mon Dec 27 1971,Leeds United,3-0,Derby County
+Mon Dec 27 1971,Leicester City,1-2,Wolverhampton Wanderers
+Mon Dec 27 1971,Manchester United,2-2,Coventry City
+Mon Dec 27 1971,Newcastle United,1-2,Sheffield United
+Mon Dec 27 1971,Nottingham Forest,1-1,Arsenal FC
+Mon Dec 27 1971,Southampton FC,1-0,Crystal Palace
+Mon Dec 27 1971,Stoke City,1-3,Manchester City
+Mon Dec 27 1971,Tottenham Hotspur,0-1,West Ham United
+Mon Dec 27 1971,West Bromwich Albion,1-0,Liverpool FC
+Sat Jan 1 1972,Arsenal FC,1-1,Everton FC
+Sat Jan 1 1972,Coventry City,1-0,Southampton FC
+Sat Jan 1 1972,Crystal Palace,1-1,Tottenham Hotspur
+Sat Jan 1 1972,Derby County,1-0,Chelsea FC
+Sat Jan 1 1972,Huddersfield Town,0-0,Stoke City
+Sat Jan 1 1972,Ipswich Town,2-3,West Bromwich Albion
+Sat Jan 1 1972,Liverpool FC,0-2,Leeds United
+Sat Jan 1 1972,Manchester City,2-2,Nottingham Forest
+Sat Jan 1 1972,Sheffield United,1-1,Leicester City
+Sat Jan 1 1972,West Ham United,3-0,Manchester United
+Sat Jan 1 1972,Wolverhampton Wanderers,2-0,Newcastle United
+Sat Jan 8 1972,Chelsea FC,2-2,Huddersfield Town
+Sat Jan 8 1972,Everton FC,2-1,West Ham United
+Sat Jan 8 1972,Leeds United,2-2,Ipswich Town
+Sat Jan 8 1972,Leicester City,1-0,Liverpool FC
+Sat Jan 8 1972,Manchester United,1-3,Wolverhampton Wanderers
+Sat Jan 8 1972,Newcastle United,4-2,Coventry City
+Sat Jan 8 1972,Nottingham Forest,0-1,Crystal Palace
+Sat Jan 8 1972,Southampton FC,1-2,Derby County
+Sat Jan 8 1972,Stoke City,0-0,Arsenal FC
+Sat Jan 8 1972,Tottenham Hotspur,1-1,Manchester City
+Sat Jan 8 1972,West Bromwich Albion,2-2,Sheffield United
+Sat Jan 22 1972,Arsenal FC,1-0,Huddersfield Town
+Sat Jan 22 1972,Coventry City,1-1,Ipswich Town
+Sat Jan 22 1972,Crystal Palace,1-2,Manchester City
+Sat Jan 22 1972,Everton FC,2-1,West Bromwich Albion
+Sat Jan 22 1972,Leeds United,1-0,Sheffield United
+Sat Jan 22 1972,Manchester United,0-1,Chelsea FC
+Sat Jan 22 1972,Newcastle United,3-1,Tottenham Hotspur
+Sat Jan 22 1972,Nottingham Forest,1-2,Leicester City
+Sat Jan 22 1972,Stoke City,3-1,Southampton FC
+Sat Jan 22 1972,West Ham United,3-3,Derby County
+Sat Jan 22 1972,Wolverhampton Wanderers,0-0,Liverpool FC
+Sat Jan 29 1972,Chelsea FC,4-0,Everton FC
+Sat Jan 29 1972,Derby County,1-0,Coventry City
+Sat Jan 29 1972,Huddersfield Town,0-0,Newcastle United
+Sat Jan 29 1972,Ipswich Town,1-0,West Ham United
+Sat Jan 29 1972,Leicester City,2-1,Stoke City
+Sat Jan 29 1972,Liverpool FC,4-1,Crystal Palace
+Sat Jan 29 1972,Manchester City,5-2,Wolverhampton Wanderers
+Sat Jan 29 1972,Sheffield United,0-5,Arsenal FC
+Sat Jan 29 1972,Southampton FC,4-1,Nottingham Forest
+Sat Jan 29 1972,Tottenham Hotspur,1-0,Leeds United
+Sat Jan 29 1972,West Bromwich Albion,2-1,Manchester United
+Sat Feb 12 1972,Arsenal FC,2-0,Derby County
+Sat Feb 12 1972,Crystal Palace,2-2,Coventry City
+Sat Feb 12 1972,Everton FC,0-0,Leeds United
+Sat Feb 12 1972,Huddersfield Town,0-1,Liverpool FC
+Sat Feb 12 1972,Leicester City,0-1,West Bromwich Albion
+Sat Feb 12 1972,Manchester United,0-2,Newcastle United
+Sat Feb 12 1972,Nottingham Forest,0-1,Tottenham Hotspur
+Sat Feb 12 1972,Sheffield United,3-3,Manchester City
+Sat Feb 12 1972,Stoke City,3-3,Ipswich Town
+Sat Feb 12 1972,Wolverhampton Wanderers,1-0,West Ham United
+Sat Feb 19 1972,Chelsea FC,2-1,Leicester City
+Sat Feb 19 1972,Coventry City,0-0,Wolverhampton Wanderers
+Sat Feb 19 1972,Derby County,4-0,Nottingham Forest
+Sat Feb 19 1972,Ipswich Town,0-1,Arsenal FC
+Sat Feb 19 1972,Leeds United,5-1,Manchester United
+Sat Feb 19 1972,Liverpool FC,2-0,Sheffield United
+Sat Feb 19 1972,Manchester City,1-0,Huddersfield Town
+Sat Feb 19 1972,Newcastle United,0-0,Everton FC
+Sat Feb 19 1972,Tottenham Hotspur,2-0,Stoke City
+Sat Feb 19 1972,West Bromwich Albion,3-2,Southampton FC
+Sat Feb 19 1972,West Ham United,1-1,Crystal Palace
+Sat Feb 26 1972,Liverpool FC,3-0,Manchester City
+Sat Feb 26 1972,Southampton FC,1-2,Newcastle United
+Sat Feb 26 1972,Wolverhampton Wanderers,2-2,Ipswich Town
+Tue Feb 29 1972,Sheffield United,3-0,West Ham United
+Wed Mar 1 1972,Everton FC,1-1,Tottenham Hotspur
+Wed Mar 1 1972,Manchester City,2-1,West Bromwich Albion
+Sat Mar 4 1972,Derby County,2-1,Wolverhampton Wanderers
+Sat Mar 4 1972,Ipswich Town,0-2,Crystal Palace
+Sat Mar 4 1972,Leeds United,7-0,Southampton FC
+Sat Mar 4 1972,Liverpool FC,4-0,Everton FC
+Sat Mar 4 1972,Manchester City,2-0,Arsenal FC
+Sat Mar 4 1972,Newcastle United,2-0,Leicester City
+Sat Mar 4 1972,Tottenham Hotspur,2-0,Manchester United
+Sat Mar 4 1972,West Bromwich Albion,1-0,Nottingham Forest
+Sat Mar 4 1972,West Ham United,3-0,Huddersfield Town
+Wed Mar 8 1972,Manchester United,0-0,Everton FC
+Sat Mar 11 1972,Chelsea FC,0-0,Liverpool FC
+Sat Mar 11 1972,Everton FC,1-2,Manchester City
+Sat Mar 11 1972,Leeds United,1-0,Coventry City
+Sat Mar 11 1972,Leicester City,2-0,West Ham United
+Sat Mar 11 1972,Manchester United,2-0,Huddersfield Town
+Sat Mar 11 1972,Newcastle United,2-0,Arsenal FC
+Sat Mar 11 1972,Nottingham Forest,0-2,Ipswich Town
+Sat Mar 11 1972,Southampton FC,1-2,Wolverhampton Wanderers
+Sat Mar 11 1972,Stoke City,2-2,Sheffield United
+Sat Mar 11 1972,Tottenham Hotspur,0-1,Derby County
+Sat Mar 11 1972,West Bromwich Albion,1-1,Crystal Palace
+Tue Mar 14 1972,Nottingham Forest,2-1,Chelsea FC
+Fri Mar 17 1972,Coventry City,0-2,West Bromwich Albion
+Sat Mar 18 1972,Crystal Palace,0-2,Wolverhampton Wanderers
+Sat Mar 18 1972,Derby County,3-0,Leicester City
+Sat Mar 18 1972,Ipswich Town,1-1,Southampton FC
+Sat Mar 18 1972,Liverpool FC,5-0,Newcastle United
+Sat Mar 18 1972,Manchester City,1-0,Chelsea FC
+Sat Mar 18 1972,Sheffield United,1-1,Everton FC
+Sat Mar 18 1972,West Ham United,4-2,Nottingham Forest
+Tue Mar 21 1972,Coventry City,1-1,West Ham United
+Tue Mar 21 1972,Everton FC,0-0,Crystal Palace
+Tue Mar 21 1972,Huddersfield Town,0-0,Sheffield United
+Wed Mar 22 1972,Derby County,1-0,Ipswich Town
+Wed Mar 22 1972,Leicester City,0-0,Leeds United
+Sat Mar 25 1972,Chelsea FC,3-1,West Ham United
+Sat Mar 25 1972,Everton FC,2-2,Wolverhampton Wanderers
+Sat Mar 25 1972,Leeds United,3-0,Arsenal FC
+Sat Mar 25 1972,Leicester City,1-0,Ipswich Town
+Sat Mar 25 1972,Manchester United,4-0,Crystal Palace
+Sat Mar 25 1972,Newcastle United,0-0,Manchester City
+Sat Mar 25 1972,Nottingham Forest,4-0,Coventry City
+Sat Mar 25 1972,Southampton FC,0-1,Liverpool FC
+Sat Mar 25 1972,Stoke City,1-1,Derby County
+Sat Mar 25 1972,Tottenham Hotspur,2-0,Sheffield United
+Sat Mar 25 1972,West Bromwich Albion,1-1,Huddersfield Town
+Mon Mar 27 1972,Leeds United,6-1,Nottingham Forest
+Tue Mar 28 1972,Arsenal FC,1-0,Southampton FC
+Tue Mar 28 1972,Crystal Palace,0-1,Derby County
+Tue Mar 28 1972,Huddersfield Town,1-1,Tottenham Hotspur
+Tue Mar 28 1972,Liverpool FC,2-1,Stoke City
+Wed Mar 29 1972,Chelsea FC,2-0,Sheffield United
+Fri Mar 31 1972,Tottenham Hotspur,1-0,Coventry City
+Fri Mar 31 1972,West Ham United,2-2,Leeds United
+Sat Apr 1 1972,Arsenal FC,3-0,Nottingham Forest
+Sat Apr 1 1972,Coventry City,2-3,Manchester United
+Sat Apr 1 1972,Crystal Palace,2-3,Southampton FC
+Sat Apr 1 1972,Derby County,2-0,Leeds United
+Sat Apr 1 1972,Huddersfield Town,0-0,Everton FC
+Sat Apr 1 1972,Ipswich Town,1-2,Chelsea FC
+Sat Apr 1 1972,Liverpool FC,2-0,West Bromwich Albion
+Sat Apr 1 1972,Manchester City,1-2,Stoke City
+Sat Apr 1 1972,Sheffield United,1-0,Newcastle United
+Sat Apr 1 1972,West Ham United,2-0,Tottenham Hotspur
+Sat Apr 1 1972,Wolverhampton Wanderers,0-1,Leicester City
+Mon Apr 3 1972,Crystal Palace,1-1,Leicester City
+Mon Apr 3 1972,Derby County,0-1,Newcastle United
+Mon Apr 3 1972,Ipswich Town,2-1,Tottenham Hotspur
+Mon Apr 3 1972,Manchester United,0-3,Liverpool FC
+Tue Apr 4 1972,Coventry City,4-1,Everton FC
+Tue Apr 4 1972,Leicester City,0-0,Arsenal FC
+Tue Apr 4 1972,Sheffield United,1-1,Manchester United
+Tue Apr 4 1972,Southampton FC,2-0,Manchester City
+Tue Apr 4 1972,Stoke City,0-0,West Ham United
+Wed Apr 5 1972,Leeds United,3-1,Huddersfield Town
+Wed Apr 5 1972,Newcastle United,0-1,Ipswich Town
+Wed Apr 5 1972,West Bromwich Albion,0-0,Derby County
+Sat Apr 8 1972,Arsenal FC,2-1,Wolverhampton Wanderers
+Sat Apr 8 1972,Chelsea FC,2-1,Crystal Palace
+Sat Apr 8 1972,Huddersfield Town,1-3,Ipswich Town
+Sat Apr 8 1972,Leicester City,2-0,Manchester United
+Sat Apr 8 1972,Liverpool FC,3-1,Coventry City
+Sat Apr 8 1972,Manchester City,3-1,West Ham United
+Sat Apr 8 1972,Nottingham Forest,1-0,Newcastle United
+Sat Apr 8 1972,Sheffield United,0-4,Derby County
+Sat Apr 8 1972,Southampton FC,0-1,Everton FC
+Sat Apr 8 1972,Stoke City,0-3,Leeds United
+Sat Apr 8 1972,West Bromwich Albion,1-1,Tottenham Hotspur
+Mon Apr 10 1972,Stoke City,0-2,Nottingham Forest
+Tue Apr 11 1972,Crystal Palace,2-2,Arsenal FC
+Tue Apr 11 1972,Huddersfield Town,0-1,Coventry City
+Tue Apr 11 1972,Southampton FC,1-0,Leicester City
+Wed Apr 12 1972,Manchester United,1-3,Manchester City
+Wed Apr 12 1972,Wolverhampton Wanderers,0-2,Chelsea FC
+Sat Apr 15 1972,Coventry City,1-1,Manchester City
+Sat Apr 15 1972,Derby County,3-0,Huddersfield Town
+Sat Apr 15 1972,Everton FC,0-0,Leicester City
+Sat Apr 15 1972,Ipswich Town,0-0,Sheffield United
+Sat Apr 15 1972,Manchester United,3-2,Southampton FC
+Sat Apr 15 1972,Tottenham Hotspur,3-0,Chelsea FC
+Sat Apr 15 1972,West Ham United,0-2,Liverpool FC
+Sat Apr 15 1972,Wolverhampton Wanderers,0-1,West Bromwich Albion
+Tue Apr 18 1972,Coventry City,3-2,Sheffield United
+Tue Apr 18 1972,Ipswich Town,2-1,Manchester City
+Tue Apr 18 1972,Southampton FC,2-2,Chelsea FC
+Wed Apr 19 1972,Newcastle United,1-0,Leeds United
+Sat Apr 22 1972,Arsenal FC,2-1,West Ham United
+Sat Apr 22 1972,Chelsea FC,3-3,Newcastle United
+Sat Apr 22 1972,Huddersfield Town,0-1,Wolverhampton Wanderers
+Sat Apr 22 1972,Leicester City,1-0,Coventry City
+Sat Apr 22 1972,Liverpool FC,2-0,Ipswich Town
+Sat Apr 22 1972,Manchester City,2-0,Derby County
+Sat Apr 22 1972,Nottingham Forest,0-0,Manchester United
+Sat Apr 22 1972,Sheffield United,1-0,Crystal Palace
+Sat Apr 22 1972,Southampton FC,0-0,Tottenham Hotspur
+Sat Apr 22 1972,Stoke City,1-1,Everton FC
+Sat Apr 22 1972,West Bromwich Albion,0-1,Leeds United
+Mon Apr 24 1972,Chelsea FC,2-0,Stoke City
+Tue Apr 25 1972,Arsenal FC,3-0,Manchester United
+Tue Apr 25 1972,Nottingham Forest,1-3,Wolverhampton Wanderers
+Wed Apr 26 1972,Crystal Palace,2-0,Stoke City
+Thu Apr 27 1972,West Bromwich Albion,4-0,Chelsea FC
+Fri Apr 28 1972,Wolverhampton Wanderers,1-2,Sheffield United
+Sat Apr 29 1972,Crystal Palace,0-0,Huddersfield Town
+Sat Apr 29 1972,Manchester United,3-0,Stoke City
+Sat Apr 29 1972,Tottenham Hotspur,4-3,Leicester City
+Mon May 1 1972,Coventry City,0-1,Arsenal FC
+Mon May 1 1972,Derby County,1-0,Liverpool FC
+Mon May 1 1972,Leeds United,2-0,Chelsea FC
+Mon May 1 1972,West Ham United,1-0,Southampton FC
+Tue May 2 1972,Everton FC,1-1,Nottingham Forest
+Wed May 3 1972,Newcastle United,4-2,West Bromwich Albion
+Fri May 5 1972,Stoke City,1-1,West Bromwich Albion
+Mon May 8 1972,Arsenal FC,0-0,Liverpool FC
+Mon May 8 1972,Newcastle United,0-0,Stoke City
+Mon May 8 1972,Wolverhampton Wanderers,2-1,Leeds United
+Thu May 11 1972,Arsenal FC,0-2,Tottenham Hotspur

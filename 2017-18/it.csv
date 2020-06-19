@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 19 2017,Juventus,3-0,Cagliari Calcio
+Sat Aug 19 2017,Hellas Verona,1-3,Ssc Napoli
+Sun Aug 20 2017,Atalanta,0-1,As Roma
+Sun Aug 20 2017,Bologna FC,1-1,Torino FC
+Sun Aug 20 2017,FC Crotone,0-3,AC Milan
+Sun Aug 20 2017,Inter,3-0,Acf Fiorentina
+Sun Aug 20 2017,Lazio Roma,0-0,SPAL Ferrara
+Sun Aug 20 2017,Sampdoria,2-1,Benevento Calcio
+Sun Aug 20 2017,Sassuolo Calcio,0-0,Genoa CFc
+Sun Aug 20 2017,Udinese Calcio,1-2,Chievo Verona
+Sat Aug 26 2017,Benevento Calcio,0-1,Bologna FC
+Sat Aug 26 2017,Genoa CFc,2-4,Juventus
+Sat Aug 26 2017,As Roma,1-3,Inter
+Sun Aug 27 2017,Torino FC,3-0,Sassuolo Calcio
+Sun Aug 27 2017,Chievo Verona,1-2,Lazio Roma
+Sun Aug 27 2017,FC Crotone,0-0,Hellas Verona
+Sun Aug 27 2017,Acf Fiorentina,1-2,Sampdoria
+Sun Aug 27 2017,AC Milan,2-1,Cagliari Calcio
+Sun Aug 27 2017,Ssc Napoli,3-1,Atalanta
+Sun Aug 27 2017,SPAL Ferrara,3-2,Udinese Calcio
+Sat Sep 9 2017,Juventus,3-0,Chievo Verona
+Sun Sep 10 2017,Inter,2-0,SPAL Ferrara
+Sun Sep 10 2017,Atalanta,2-1,Sassuolo Calcio
+Sun Sep 10 2017,Cagliari Calcio,1-0,FC Crotone
+Sun Sep 10 2017,Hellas Verona,0-5,Acf Fiorentina
+Sun Sep 10 2017,Udinese Calcio,1-0,Genoa CFc
+Sun Sep 10 2017,Lazio Roma,4-1,AC Milan
+Sun Sep 10 2017,Benevento Calcio,0-1,Torino FC
+Sun Sep 10 2017,Bologna FC,0-3,Ssc Napoli
+Sat Sep 16 2017,FC Crotone,0-2,Inter
+Sat Sep 16 2017,Acf Fiorentina,2-1,Bologna FC
+Sat Sep 16 2017,As Roma,3-0,Hellas Verona
+Sun Sep 17 2017,Sassuolo Calcio,1-3,Juventus
+Sun Sep 17 2017,AC Milan,2-1,Udinese Calcio
+Sun Sep 17 2017,Ssc Napoli,6-0,Benevento Calcio
+Sun Sep 17 2017,SPAL Ferrara,0-2,Cagliari Calcio
+Sun Sep 17 2017,Torino FC,2-2,Sampdoria
+Sun Sep 17 2017,Chievo Verona,1-1,Atalanta
+Sun Sep 17 2017,Genoa CFc,2-3,Lazio Roma
+Tue Sep 19 2017,Bologna FC,1-1,Inter
+Wed Sep 20 2017,Benevento Calcio,0-4,As Roma
+Wed Sep 20 2017,Atalanta,5-1,FC Crotone
+Wed Sep 20 2017,Cagliari Calcio,0-1,Sassuolo Calcio
+Wed Sep 20 2017,Genoa CFc,1-1,Chievo Verona
+Wed Sep 20 2017,Hellas Verona,0-0,Sampdoria
+Wed Sep 20 2017,Juventus,1-0,Acf Fiorentina
+Wed Sep 20 2017,Lazio Roma,1-4,Ssc Napoli
+Wed Sep 20 2017,AC Milan,2-0,SPAL Ferrara
+Wed Sep 20 2017,Udinese Calcio,2-3,Torino FC
+Sat Sep 23 2017,As Roma,3-1,Udinese Calcio
+Sat Sep 23 2017,SPAL Ferrara,2-3,Ssc Napoli
+Sat Sep 23 2017,Juventus,4-0,Torino FC
+Sun Sep 24 2017,Sampdoria,2-0,AC Milan
+Sun Sep 24 2017,Cagliari Calcio,0-2,Chievo Verona
+Sun Sep 24 2017,FC Crotone,2-0,Benevento Calcio
+Sun Sep 24 2017,Hellas Verona,0-3,Lazio Roma
+Sun Sep 24 2017,Inter,1-0,Genoa CFc
+Sun Sep 24 2017,Sassuolo Calcio,0-1,Bologna FC
+Sun Sep 24 2017,Acf Fiorentina,1-1,Atalanta
+Sat Sep 30 2017,Udinese Calcio,4-0,Sampdoria
+Sat Sep 30 2017,Genoa CFc,0-1,Bologna FC
+Sun Oct 1 2017,Ssc Napoli,3-0,Cagliari Calcio
+Sun Oct 1 2017,Benevento Calcio,1-2,Inter
+Sun Oct 1 2017,Chievo Verona,2-1,Acf Fiorentina
+Sun Oct 1 2017,Lazio Roma,6-1,Sassuolo Calcio
+Sun Oct 1 2017,SPAL Ferrara,1-1,FC Crotone
+Sun Oct 1 2017,Torino FC,2-2,Hellas Verona
+Sun Oct 1 2017,AC Milan,0-2,As Roma
+Sun Oct 1 2017,Atalanta,2-2,Juventus
+Sat Oct 14 2017,Juventus,1-2,Lazio Roma
+Sat Oct 14 2017,As Roma,0-1,Ssc Napoli
+Sun Oct 15 2017,Acf Fiorentina,2-1,Udinese Calcio
+Sun Oct 15 2017,Bologna FC,2-1,SPAL Ferrara
+Sun Oct 15 2017,Cagliari Calcio,2-3,Genoa CFc
+Sun Oct 15 2017,FC Crotone,2-2,Torino FC
+Sun Oct 15 2017,Sampdoria,3-1,Atalanta
+Sun Oct 15 2017,Sassuolo Calcio,0-0,Chievo Verona
+Sun Oct 15 2017,Inter,3-2,AC Milan
+Mon Oct 16 2017,Hellas Verona,1-0,Benevento Calcio
+Sat Oct 21 2017,Sampdoria,5-0,FC Crotone
+Sat Oct 21 2017,Ssc Napoli,0-0,Inter
+Sun Oct 22 2017,Chievo Verona,3-2,Hellas Verona
+Sun Oct 22 2017,Atalanta,1-0,Bologna FC
+Sun Oct 22 2017,Benevento Calcio,0-3,Acf Fiorentina
+Sun Oct 22 2017,AC Milan,0-0,Genoa CFc
+Sun Oct 22 2017,SPAL Ferrara,0-1,Sassuolo Calcio
+Sun Oct 22 2017,Torino FC,0-1,As Roma
+Sun Oct 22 2017,Udinese Calcio,2-6,Juventus
+Sun Oct 22 2017,Lazio Roma,3-0,Cagliari Calcio
+Tue Oct 24 2017,Inter,3-2,Sampdoria
+Wed Oct 25 2017,Atalanta,3-0,Hellas Verona
+Wed Oct 25 2017,Bologna FC,1-2,Lazio Roma
+Wed Oct 25 2017,Cagliari Calcio,2-1,Benevento Calcio
+Wed Oct 25 2017,Chievo Verona,1-4,AC Milan
+Wed Oct 25 2017,Acf Fiorentina,3-0,Torino FC
+Wed Oct 25 2017,Genoa CFc,2-3,Ssc Napoli
+Wed Oct 25 2017,Juventus,4-1,SPAL Ferrara
+Wed Oct 25 2017,As Roma,1-0,FC Crotone
+Wed Oct 25 2017,Sassuolo Calcio,0-1,Udinese Calcio
+Sat Oct 28 2017,AC Milan,0-2,Juventus
+Sat Oct 28 2017,As Roma,1-0,Bologna FC
+Sun Oct 29 2017,Benevento Calcio,1-5,Lazio Roma
+Sun Oct 29 2017,FC Crotone,2-1,Acf Fiorentina
+Sun Oct 29 2017,Ssc Napoli,3-1,Sassuolo Calcio
+Sun Oct 29 2017,Sampdoria,4-1,Chievo Verona
+Sun Oct 29 2017,SPAL Ferrara,1-0,Genoa CFc
+Sun Oct 29 2017,Udinese Calcio,2-1,Atalanta
+Sun Oct 29 2017,Torino FC,2-1,Cagliari Calcio
+Mon Oct 30 2017,Hellas Verona,1-2,Inter
+Sat Nov 4 2017,Bologna FC,2-3,FC Crotone
+Sat Nov 4 2017,Genoa CFc,0-2,Sampdoria
+Sun Nov 5 2017,Inter,1-1,Torino FC
+Sun Nov 5 2017,Cagliari Calcio,2-1,Hellas Verona
+Sun Nov 5 2017,Chievo Verona,0-0,Ssc Napoli
+Sun Nov 5 2017,Acf Fiorentina,2-4,As Roma
+Sun Nov 5 2017,Juventus,2-1,Benevento Calcio
+Sun Nov 5 2017,Atalanta,1-1,SPAL Ferrara
+Sun Nov 5 2017,Sassuolo Calcio,0-2,AC Milan
+Sat Nov 18 2017,As Roma,2-1,Lazio Roma
+Sat Nov 18 2017,Ssc Napoli,2-1,AC Milan
+Sun Nov 19 2017,FC Crotone,0-1,Genoa CFc
+Sun Nov 19 2017,Benevento Calcio,1-2,Sassuolo Calcio
+Sun Nov 19 2017,Sampdoria,3-2,Juventus
+Sun Nov 19 2017,SPAL Ferrara,1-1,Acf Fiorentina
+Sun Nov 19 2017,Torino FC,1-1,Chievo Verona
+Sun Nov 19 2017,Udinese Calcio,0-1,Cagliari Calcio
+Sun Nov 19 2017,Inter,2-0,Atalanta
+Mon Nov 20 2017,Hellas Verona,2-3,Bologna FC
+Sat Nov 25 2017,Bologna FC,3-0,Sampdoria
+Sat Nov 25 2017,Chievo Verona,2-1,SPAL Ferrara
+Sat Nov 25 2017,Sassuolo Calcio,0-2,Hellas Verona
+Sat Nov 25 2017,Cagliari Calcio,1-3,Inter
+Sun Nov 26 2017,Genoa CFc,1-1,As Roma
+Sun Nov 26 2017,AC Milan,0-0,Torino FC
+Sun Nov 26 2017,Udinese Calcio,0-1,Ssc Napoli
+Sun Nov 26 2017,Lazio Roma,1-1,Acf Fiorentina
+Sun Nov 26 2017,Juventus,3-0,FC Crotone
+Mon Nov 27 2017,Atalanta,1-0,Benevento Calcio
+Fri Dec 1 2017,As Roma,3-1,SPAL Ferrara
+Fri Dec 1 2017,Ssc Napoli,0-1,Juventus
+Sat Dec 2 2017,Torino FC,1-1,Atalanta
+Sun Dec 3 2017,Benevento Calcio,2-2,AC Milan
+Sun Dec 3 2017,Bologna FC,1-1,Cagliari Calcio
+Sun Dec 3 2017,Acf Fiorentina,3-0,Sassuolo Calcio
+Sun Dec 3 2017,Inter,5-0,Chievo Verona
+Sun Dec 3 2017,Sampdoria,1-2,Lazio Roma
+Mon Dec 4 2017,FC Crotone,0-3,Udinese Calcio
+Mon Dec 4 2017,Hellas Verona,0-1,Genoa CFc
+Sat Dec 9 2017,Cagliari Calcio,2-2,Sampdoria
+Sat Dec 9 2017,Juventus,0-0,Inter
+Sun Dec 10 2017,Chievo Verona,0-0,As Roma
+Sun Dec 10 2017,Ssc Napoli,0-0,Acf Fiorentina
+Sun Dec 10 2017,SPAL Ferrara,2-2,Hellas Verona
+Sun Dec 10 2017,Udinese Calcio,2-0,Benevento Calcio
+Sun Dec 10 2017,Sassuolo Calcio,2-1,FC Crotone
+Sun Dec 10 2017,AC Milan,2-1,Bologna FC
+Mon Dec 11 2017,Lazio Roma,1-3,Torino FC
+Tue Dec 12 2017,Genoa CFc,1-2,Atalanta
+Sat Dec 16 2017,Inter,1-3,Udinese Calcio
+Sat Dec 16 2017,Torino FC,1-3,Ssc Napoli
+Sat Dec 16 2017,As Roma,1-0,Cagliari Calcio
+Sun Dec 17 2017,Hellas Verona,3-0,AC Milan
+Sun Dec 17 2017,Bologna FC,0-3,Juventus
+Sun Dec 17 2017,FC Crotone,1-0,Chievo Verona
+Sun Dec 17 2017,Acf Fiorentina,0-0,Genoa CFc
+Sun Dec 17 2017,Sampdoria,0-1,Sassuolo Calcio
+Sun Dec 17 2017,Benevento Calcio,1-2,SPAL Ferrara
+Sun Dec 17 2017,Atalanta,3-3,Lazio Roma
+Fri Dec 22 2017,Chievo Verona,2-3,Bologna FC
+Fri Dec 22 2017,Cagliari Calcio,0-1,Acf Fiorentina
+Sat Dec 23 2017,Lazio Roma,4-0,FC Crotone
+Sat Dec 23 2017,Genoa CFc,1-0,Benevento Calcio
+Sat Dec 23 2017,Ssc Napoli,3-2,Sampdoria
+Sat Dec 23 2017,Sassuolo Calcio,1-0,Inter
+Sat Dec 23 2017,SPAL Ferrara,2-2,Torino FC
+Sat Dec 23 2017,Udinese Calcio,4-0,Hellas Verona
+Sat Dec 23 2017,AC Milan,0-2,Atalanta
+Sat Dec 23 2017,Juventus,1-0,As Roma
+Fri Dec 29 2017,FC Crotone,0-1,Ssc Napoli
+Sat Dec 30 2017,Acf Fiorentina,1-1,AC Milan
+Sat Dec 30 2017,Atalanta,1-2,Cagliari Calcio
+Sat Dec 30 2017,Benevento Calcio,1-0,Chievo Verona
+Sat Dec 30 2017,Bologna FC,1-2,Udinese Calcio
+Sat Dec 30 2017,As Roma,1-1,Sassuolo Calcio
+Sat Dec 30 2017,Sampdoria,2-0,SPAL Ferrara
+Sat Dec 30 2017,Torino FC,0-0,Genoa CFc
+Sat Dec 30 2017,Inter,0-0,Lazio Roma
+Sat Dec 30 2017,Hellas Verona,1-3,Juventus
+Fri Jan 5 2018,Chievo Verona,1-1,Udinese Calcio
+Fri Jan 5 2018,Acf Fiorentina,1-1,Inter
+Sat Jan 6 2018,Torino FC,3-0,Bologna FC
+Sat Jan 6 2018,AC Milan,1-0,FC Crotone
+Sat Jan 6 2018,Ssc Napoli,2-0,Hellas Verona
+Sat Jan 6 2018,SPAL Ferrara,2-5,Lazio Roma
+Sat Jan 6 2018,Benevento Calcio,3-2,Sampdoria
+Sat Jan 6 2018,Genoa CFc,1-0,Sassuolo Calcio
+Sat Jan 6 2018,As Roma,1-2,Atalanta
+Sat Jan 6 2018,Cagliari Calcio,0-1,Juventus
+Sun Jan 21 2018,Atalanta,0-1,Ssc Napoli
+Sun Jan 21 2018,Bologna FC,3-0,Benevento Calcio
+Sun Jan 21 2018,Lazio Roma,5-1,Chievo Verona
+Sun Jan 21 2018,Hellas Verona,0-3,FC Crotone
+Sun Jan 21 2018,Sampdoria,3-1,Acf Fiorentina
+Sun Jan 21 2018,Udinese Calcio,1-1,SPAL Ferrara
+Sun Jan 21 2018,Sassuolo Calcio,1-1,Torino FC
+Sun Jan 21 2018,Cagliari Calcio,1-2,AC Milan
+Sun Jan 21 2018,Inter,1-1,As Roma
+Mon Jan 22 2018,Juventus,1-0,Genoa CFc
+Wed Jan 24 2018,Lazio Roma,3-0,Udinese Calcio
+Wed Jan 24 2018,Sampdoria,1-1,As Roma
+Sat Jan 27 2018,Sassuolo Calcio,0-3,Atalanta
+Sat Jan 27 2018,Chievo Verona,0-2,Juventus
+Sun Jan 28 2018,SPAL Ferrara,1-1,Inter
+Sun Jan 28 2018,Torino FC,3-0,Benevento Calcio
+Sun Jan 28 2018,Ssc Napoli,3-1,Bologna FC
+Sun Jan 28 2018,FC Crotone,1-1,Cagliari Calcio
+Sun Jan 28 2018,Acf Fiorentina,1-4,Hellas Verona
+Sun Jan 28 2018,Genoa CFc,0-1,Udinese Calcio
+Sun Jan 28 2018,AC Milan,2-1,Lazio Roma
+Sun Jan 28 2018,As Roma,0-1,Sampdoria
+Sat Feb 3 2018,Sampdoria,1-1,Torino FC
+Sat Feb 3 2018,Inter,1-1,FC Crotone
+Sun Feb 4 2018,Hellas Verona,0-1,As Roma
+Sun Feb 4 2018,Atalanta,1-0,Chievo Verona
+Sun Feb 4 2018,Bologna FC,1-2,Acf Fiorentina
+Sun Feb 4 2018,Udinese Calcio,1-1,AC Milan
+Sun Feb 4 2018,Juventus,7-0,Sassuolo Calcio
+Sun Feb 4 2018,Cagliari Calcio,2-0,SPAL Ferrara
+Sun Feb 4 2018,Benevento Calcio,0-2,Ssc Napoli
+Mon Feb 5 2018,Lazio Roma,1-2,Genoa CFc
+Fri Feb 9 2018,Acf Fiorentina,0-2,Juventus
+Sat Feb 10 2018,SPAL Ferrara,0-4,AC Milan
+Sat Feb 10 2018,FC Crotone,1-1,Atalanta
+Sat Feb 10 2018,Ssc Napoli,4-1,Lazio Roma
+Sun Feb 11 2018,Sassuolo Calcio,0-0,Cagliari Calcio
+Sun Feb 11 2018,Inter,2-1,Bologna FC
+Sun Feb 11 2018,Chievo Verona,0-1,Genoa CFc
+Sun Feb 11 2018,Sampdoria,2-0,Hellas Verona
+Sun Feb 11 2018,Torino FC,2-0,Udinese Calcio
+Sun Feb 11 2018,As Roma,5-2,Benevento Calcio
+Sat Feb 17 2018,Udinese Calcio,0-2,As Roma
+Sat Feb 17 2018,Chievo Verona,2-1,Cagliari Calcio
+Sat Feb 17 2018,Genoa CFc,2-0,Inter
+Sun Feb 18 2018,Torino FC,0-1,Juventus
+Sun Feb 18 2018,Benevento Calcio,3-2,FC Crotone
+Sun Feb 18 2018,Bologna FC,2-1,Sassuolo Calcio
+Sun Feb 18 2018,Ssc Napoli,1-0,SPAL Ferrara
+Sun Feb 18 2018,Atalanta,1-1,Acf Fiorentina
+Sun Feb 18 2018,AC Milan,1-0,Sampdoria
+Mon Feb 19 2018,Lazio Roma,2-0,Hellas Verona
+Sat Feb 24 2018,Bologna FC,2-0,Genoa CFc
+Sat Feb 24 2018,Inter,2-0,Benevento Calcio
+Sun Feb 25 2018,FC Crotone,2-3,SPAL Ferrara
+Sun Feb 25 2018,Acf Fiorentina,1-0,Chievo Verona
+Sun Feb 25 2018,Sassuolo Calcio,0-3,Lazio Roma
+Sun Feb 25 2018,Hellas Verona,2-1,Torino FC
+Sun Feb 25 2018,Sampdoria,2-1,Udinese Calcio
+Sun Feb 25 2018,As Roma,0-2,AC Milan
+Mon Feb 26 2018,Cagliari Calcio,0-5,Ssc Napoli
+Sat Mar 3 2018,SPAL Ferrara,1-0,Bologna FC
+Sat Mar 3 2018,Lazio Roma,0-1,Juventus
+Sat Mar 3 2018,Ssc Napoli,2-4,As Roma
+Fri Mar 9 2018,As Roma,3-0,Torino FC
+Sat Mar 10 2018,Hellas Verona,1-0,Chievo Verona
+Sun Mar 11 2018,Acf Fiorentina,1-0,Benevento Calcio
+Sun Mar 11 2018,Bologna FC,0-1,Atalanta
+Sun Mar 11 2018,Cagliari Calcio,2-2,Lazio Roma
+Sun Mar 11 2018,FC Crotone,4-1,Sampdoria
+Sun Mar 11 2018,Sassuolo Calcio,1-1,SPAL Ferrara
+Sun Mar 11 2018,Juventus,2-0,Udinese Calcio
+Sun Mar 11 2018,Genoa CFc,0-1,AC Milan
+Sun Mar 11 2018,Inter,0-0,Ssc Napoli
+Wed Mar 14 2018,Juventus,2-0,Atalanta
+Sat Mar 17 2018,Udinese Calcio,1-2,Sassuolo Calcio
+Sat Mar 17 2018,SPAL Ferrara,0-0,Juventus
+Sun Mar 18 2018,Sampdoria,0-5,Inter
+Sun Mar 18 2018,Hellas Verona,0-5,Atalanta
+Sun Mar 18 2018,Benevento Calcio,1-2,Cagliari Calcio
+Sun Mar 18 2018,AC Milan,3-2,Chievo Verona
+Sun Mar 18 2018,Torino FC,1-2,Acf Fiorentina
+Sun Mar 18 2018,FC Crotone,0-2,As Roma
+Sun Mar 18 2018,Lazio Roma,1-1,Bologna FC
+Sun Mar 18 2018,Ssc Napoli,1-0,Genoa CFc
+Sat Mar 31 2018,Bologna FC,1-1,As Roma
+Sat Mar 31 2018,Lazio Roma,6-2,Benevento Calcio
+Sat Mar 31 2018,Acf Fiorentina,2-0,FC Crotone
+Sat Mar 31 2018,Inter,3-0,Hellas Verona
+Sat Mar 31 2018,Genoa CFc,1-1,SPAL Ferrara
+Sat Mar 31 2018,Cagliari Calcio,0-4,Torino FC
+Sat Mar 31 2018,Atalanta,2-0,Udinese Calcio
+Sat Mar 31 2018,Sassuolo Calcio,1-1,Ssc Napoli
+Sat Mar 31 2018,Chievo Verona,2-1,Sampdoria
+Sat Mar 31 2018,Juventus,3-1,AC Milan
+Tue Apr 3 2018,Genoa CFc,2-1,Cagliari Calcio
+Tue Apr 3 2018,Udinese Calcio,0-2,Acf Fiorentina
+Tue Apr 3 2018,Atalanta,1-2,Sampdoria
+Wed Apr 4 2018,Benevento Calcio,3-0,Hellas Verona
+Wed Apr 4 2018,Torino FC,4-1,FC Crotone
+Wed Apr 4 2018,AC Milan,0-0,Inter
+Wed Apr 4 2018,Chievo Verona,1-1,Sassuolo Calcio
+Sat Apr 7 2018,Benevento Calcio,2-4,Juventus
+Sat Apr 7 2018,SPAL Ferrara,1-1,Atalanta
+Sat Apr 7 2018,As Roma,0-2,Acf Fiorentina
+Sat Apr 7 2018,Sampdoria,0-0,Genoa CFc
+Sun Apr 8 2018,Torino FC,1-0,Inter
+Sun Apr 8 2018,FC Crotone,1-0,Bologna FC
+Sun Apr 8 2018,Hellas Verona,1-0,Cagliari Calcio
+Sun Apr 8 2018,Ssc Napoli,2-1,Chievo Verona
+Sun Apr 8 2018,Udinese Calcio,1-2,Lazio Roma
+Sun Apr 8 2018,AC Milan,1-1,Sassuolo Calcio
+Sat Apr 14 2018,Cagliari Calcio,2-1,Udinese Calcio
+Sat Apr 14 2018,Genoa CFc,1-0,FC Crotone
+Sat Apr 14 2018,Chievo Verona,0-0,Torino FC
+Sat Apr 14 2018,Atalanta,0-0,Inter
+Sun Apr 15 2018,Acf Fiorentina,0-0,SPAL Ferrara
+Sun Apr 15 2018,Sassuolo Calcio,2-2,Benevento Calcio
+Sun Apr 15 2018,Bologna FC,2-0,Hellas Verona
+Sun Apr 15 2018,AC Milan,0-0,Ssc Napoli
+Sun Apr 15 2018,Juventus,3-0,Sampdoria
+Sun Apr 15 2018,Lazio Roma,0-0,As Roma
+Tue Apr 17 2018,Inter,4-0,Cagliari Calcio
+Wed Apr 18 2018,Benevento Calcio,0-3,Atalanta
+Wed Apr 18 2018,Sampdoria,1-0,Bologna FC
+Wed Apr 18 2018,SPAL Ferrara,0-0,Chievo Verona
+Wed Apr 18 2018,As Roma,2-1,Genoa CFc
+Wed Apr 18 2018,FC Crotone,1-1,Juventus
+Wed Apr 18 2018,Acf Fiorentina,3-4,Lazio Roma
+Wed Apr 18 2018,Torino FC,1-1,AC Milan
+Wed Apr 18 2018,Hellas Verona,0-1,Sassuolo Calcio
+Wed Apr 18 2018,Ssc Napoli,4-2,Udinese Calcio
+Sat Apr 21 2018,SPAL Ferrara,0-3,As Roma
+Sat Apr 21 2018,Sassuolo Calcio,1-0,Acf Fiorentina
+Sat Apr 21 2018,AC Milan,0-1,Benevento Calcio
+Sun Apr 22 2018,Cagliari Calcio,0-0,Bologna FC
+Sun Apr 22 2018,Udinese Calcio,1-2,FC Crotone
+Sun Apr 22 2018,Chievo Verona,1-2,Inter
+Sun Apr 22 2018,Lazio Roma,4-0,Sampdoria
+Sun Apr 22 2018,Atalanta,2-1,Torino FC
+Sun Apr 22 2018,Juventus,0-1,Ssc Napoli
+Mon Apr 23 2018,Genoa CFc,3-1,Hellas Verona
+Sat Apr 28 2018,As Roma,4-1,Chievo Verona
+Sat Apr 28 2018,Inter,2-3,Juventus
+Sun Apr 29 2018,FC Crotone,4-1,Sassuolo Calcio
+Sun Apr 29 2018,Sampdoria,4-1,Cagliari Calcio
+Sun Apr 29 2018,Atalanta,3-1,Genoa CFc
+Sun Apr 29 2018,Bologna FC,1-2,AC Milan
+Sun Apr 29 2018,Hellas Verona,1-3,SPAL Ferrara
+Sun Apr 29 2018,Benevento Calcio,3-3,Udinese Calcio
+Sun Apr 29 2018,Acf Fiorentina,3-0,Ssc Napoli
+Sun Apr 29 2018,Torino FC,0-1,Lazio Roma
+Sat May 5 2018,AC Milan,4-1,Hellas Verona
+Sat May 5 2018,Juventus,3-1,Bologna FC
+Sun May 6 2018,Udinese Calcio,0-4,Inter
+Sun May 6 2018,Lazio Roma,1-1,Atalanta
+Sun May 6 2018,SPAL Ferrara,2-0,Benevento Calcio
+Sun May 6 2018,Chievo Verona,2-1,FC Crotone
+Sun May 6 2018,Genoa CFc,2-3,Acf Fiorentina
+Sun May 6 2018,Ssc Napoli,2-2,Torino FC
+Sun May 6 2018,Sassuolo Calcio,1-0,Sampdoria
+Sun May 6 2018,Cagliari Calcio,0-1,As Roma
+Sat May 12 2018,Benevento Calcio,1-0,Genoa CFc
+Sat May 12 2018,Inter,1-2,Sassuolo Calcio
+Sun May 13 2018,Acf Fiorentina,0-1,Cagliari Calcio
+Sun May 13 2018,Bologna FC,1-2,Chievo Verona
+Sun May 13 2018,FC Crotone,2-2,Lazio Roma
+Sun May 13 2018,Torino FC,2-1,SPAL Ferrara
+Sun May 13 2018,Hellas Verona,0-1,Udinese Calcio
+Sun May 13 2018,Atalanta,1-1,AC Milan
+Sun May 13 2018,As Roma,0-0,Juventus
+Sun May 13 2018,Sampdoria,0-2,Ssc Napoli
+Sat May 19 2018,Juventus,2-1,Hellas Verona
+Sun May 20 2018,Genoa CFc,1-2,Torino FC
+Sun May 20 2018,Cagliari Calcio,1-0,Atalanta
+Sun May 20 2018,Chievo Verona,1-0,Benevento Calcio
+Sun May 20 2018,Udinese Calcio,1-0,Bologna FC
+Sun May 20 2018,Ssc Napoli,2-1,FC Crotone
+Sun May 20 2018,AC Milan,5-1,Acf Fiorentina
+Sun May 20 2018,SPAL Ferrara,3-1,Sampdoria
+Sun May 20 2018,Lazio Roma,2-3,Inter
+Sun May 20 2018,Sassuolo Calcio,0-1,As Roma

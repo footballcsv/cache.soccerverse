@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sun Sep 15 1963,As Bari,1-3,As Roma
+Sun Sep 15 1963,Bologna FC,1-1,Genoa CFc
+Sun Sep 15 1963,Inter,2-1,Modena FC
+Sun Sep 15 1963,Juventus,3-1,SPAL Ferrara
+Sun Sep 15 1963,Vicenza Calcio,1-1,Torino FC
+Sun Sep 15 1963,Lazio Roma,1-1,Acf Fiorentina
+Sun Sep 15 1963,Ac Mantova,1-4,AC Milan
+Sun Sep 15 1963,Sampdoria,3-1,Acr Messina
+Sun Sep 15 1963,Atalanta,3-0,Calcio Catania
+Sun Sep 22 1963,Acf Fiorentina,4-0,Atalanta
+Sun Sep 22 1963,Torino FC,0-0,Bologna FC
+Sun Sep 22 1963,SPAL Ferrara,0-1,Lazio Roma
+Sun Sep 22 1963,As Roma,6-1,Sampdoria
+Sun Sep 22 1963,Modena FC,1-0,Juventus
+Sun Sep 22 1963,AC Milan,3-0,Acr Messina
+Sun Sep 22 1963,Genoa CFc,0-2,Calcio Catania
+Sun Sep 22 1963,As Bari,0-0,Ac Mantova
+Sun Sep 22 1963,Vicenza Calcio,1-0,Inter
+Wed Sep 25 1963,Juventus,4-0,As Bari
+Wed Sep 25 1963,Calcio Catania,0-0,SPAL Ferrara
+Wed Sep 25 1963,Acr Messina,2-0,Vicenza Calcio
+Wed Sep 25 1963,Ac Mantova,3-0,Modena FC
+Wed Sep 25 1963,Lazio Roma,1-1,AC Milan
+Wed Sep 25 1963,Bologna FC,2-0,Atalanta
+Wed Sep 25 1963,Acf Fiorentina,3-0,Sampdoria
+Wed Sep 25 1963,Genoa CFc,3-0,As Roma
+Wed Sep 25 1963,Inter,3-1,Torino FC
+Sun Sep 29 1963,Inter,2-0,Ac Mantova
+Sun Sep 29 1963,Torino FC,0-0,AC Milan
+Sun Sep 29 1963,Sampdoria,0-2,Juventus
+Sun Sep 29 1963,Lazio Roma,1-0,Genoa CFc
+Sun Sep 29 1963,Calcio Catania,0-1,Vicenza Calcio
+Sun Sep 29 1963,Bologna FC,2-0,Acf Fiorentina
+Sun Sep 29 1963,As Bari,0-0,Modena FC
+Sun Sep 29 1963,Atalanta,1-0,As Roma
+Sun Sep 29 1963,Acr Messina,0-0,SPAL Ferrara
+Sun Oct 6 1963,Juventus,1-1,Acf Fiorentina
+Sun Oct 6 1963,Modena FC,1-4,Bologna FC
+Sun Oct 6 1963,SPAL Ferrara,0-1,Inter
+Sun Oct 6 1963,Sampdoria,4-1,Calcio Catania
+Sun Oct 6 1963,As Roma,0-0,Lazio Roma
+Sun Oct 6 1963,Atalanta,3-0,Acr Messina
+Sun Oct 6 1963,Vicenza Calcio,2-1,As Bari
+Sun Oct 6 1963,Ac Mantova,0-0,Torino FC
+Sun Oct 6 1963,AC Milan,3-1,Genoa CFc
+Sun Oct 20 1963,Genoa CFc,2-2,Modena FC
+Sun Oct 20 1963,Acr Messina,1-1,As Bari
+Sun Oct 20 1963,Ac Mantova,1-1,Atalanta
+Sun Oct 20 1963,Lazio Roma,0-1,Vicenza Calcio
+Sun Oct 20 1963,Inter,1-0,Sampdoria
+Sun Oct 20 1963,Acf Fiorentina,1-0,SPAL Ferrara
+Sun Oct 20 1963,Calcio Catania,1-0,Torino FC
+Sun Oct 20 1963,Bologna FC,2-2,AC Milan
+Sun Oct 20 1963,Juventus,3-1,As Roma
+Wed Oct 23 1963,AC Milan,3-1,Calcio Catania
+Wed Oct 23 1963,Sampdoria,2-0,Bologna FC
+Wed Oct 23 1963,Torino FC,2-1,Genoa CFc
+Wed Oct 23 1963,Vicenza Calcio,1-0,Acf Fiorentina
+Wed Oct 23 1963,As Bari,1-1,Inter
+Wed Oct 23 1963,Atalanta,3-0,Juventus
+Wed Oct 23 1963,As Roma,2-0,Acr Messina
+Wed Oct 23 1963,Modena FC,2-1,Lazio Roma
+Sun Oct 27 1963,Vicenza Calcio,3-0,Atalanta
+Sun Oct 27 1963,SPAL Ferrara,0-0,Bologna FC
+Sun Oct 27 1963,As Roma,0-1,Inter
+Sun Oct 27 1963,AC Milan,3-0,Modena FC
+Sun Oct 27 1963,Ac Mantova,2-0,Sampdoria
+Sun Oct 27 1963,Juventus,3-1,Torino FC
+Sun Oct 27 1963,Genoa CFc,2-1,Acf Fiorentina
+Sun Oct 27 1963,As Bari,0-0,Calcio Catania
+Sun Oct 27 1963,Acr Messina,0-2,Lazio Roma
+Sun Nov 3 1963,Modena FC,2-3,Vicenza Calcio
+Sun Nov 3 1963,Inter,0-2,AC Milan
+Sun Nov 3 1963,Sampdoria,0-1,Genoa CFc
+Sun Nov 3 1963,Lazio Roma,0-2,Juventus
+Sun Nov 3 1963,Calcio Catania,2-0,Acr Messina
+Sun Nov 3 1963,Atalanta,0-0,SPAL Ferrara
+Sun Nov 3 1963,Bologna FC,4-0,As Roma
+Sun Nov 3 1963,Torino FC,1-2,As Bari
+Sun Nov 3 1963,Acf Fiorentina,0-1,Ac Mantova
+Sun Nov 10 1963,SPAL Ferrara,5-2,Ac Mantova
+Sun Nov 17 1963,Juventus,2-2,Ac Mantova
+Sun Nov 17 1963,SPAL Ferrara,3-1,Sampdoria
+Sun Nov 17 1963,As Roma,3-0,Torino FC
+Sun Nov 17 1963,Modena FC,0-0,Calcio Catania
+Sun Nov 17 1963,Inter,0-0,Bologna FC
+Sun Nov 17 1963,Genoa CFc,0-0,Atalanta
+Sun Nov 17 1963,As Bari,0-2,Lazio Roma
+Sun Nov 17 1963,Acr Messina,0-3,Acf Fiorentina
+Sun Nov 24 1963,Acr Messina,0-1,Inter
+Sun Nov 24 1963,Sampdoria,2-0,As Bari
+Sun Nov 24 1963,Torino FC,2-0,SPAL Ferrara
+Sun Nov 24 1963,AC Milan,2-2,Juventus
+Sun Nov 24 1963,Lazio Roma,0-0,Calcio Catania
+Sun Nov 24 1963,Acf Fiorentina,0-0,As Roma
+Sun Nov 24 1963,Atalanta,1-1,Modena FC
+Sun Nov 24 1963,Bologna FC,3-0,Vicenza Calcio
+Sun Nov 24 1963,Ac Mantova,0-0,Genoa CFc
+Sun Dec 1 1963,Modena FC,3-0,Sampdoria
+Sun Dec 1 1963,As Bari,0-1,Bologna FC
+Sun Dec 1 1963,SPAL Ferrara,2-0,As Roma
+Sun Dec 1 1963,AC Milan,2-0,Atalanta
+Sun Dec 1 1963,Lazio Roma,2-0,Ac Mantova
+Sun Dec 1 1963,Genoa CFc,0-0,Vicenza Calcio
+Sun Dec 1 1963,Acf Fiorentina,1-1,Torino FC
+Sun Dec 1 1963,Calcio Catania,1-2,Inter
+Sun Dec 1 1963,Juventus,2-1,Acr Messina
+Sun Dec 8 1963,Vicenza Calcio,0-1,Juventus
+Sun Dec 8 1963,Torino FC,2-0,Lazio Roma
+Sun Dec 8 1963,SPAL Ferrara,0-0,Genoa CFc
+Sun Dec 8 1963,Sampdoria,1-2,AC Milan
+Sun Dec 8 1963,Atalanta,1-0,As Bari
+Sun Dec 8 1963,Ac Mantova,2-2,Acr Messina
+Sun Dec 8 1963,Inter,1-1,Acf Fiorentina
+Sun Dec 8 1963,Calcio Catania,1-3,Bologna FC
+Sun Dec 8 1963,As Roma,2-0,Modena FC
+Wed Dec 18 1963,Vicenza Calcio,0-1,AC Milan
+Sun Dec 22 1963,Lazio Roma,0-1,Atalanta
+Sun Dec 22 1963,AC Milan,2-1,As Roma
+Sun Dec 22 1963,Modena FC,4-3,SPAL Ferrara
+Sun Dec 22 1963,Acr Messina,1-1,Torino FC
+Sun Dec 22 1963,Juventus,4-1,Inter
+Sun Dec 22 1963,Genoa CFc,0-0,As Bari
+Sun Dec 22 1963,Bologna FC,2-1,Ac Mantova
+Sun Dec 22 1963,Acf Fiorentina,1-1,Calcio Catania
+Sun Dec 22 1963,Vicenza Calcio,1-3,Sampdoria
+Sun Dec 29 1963,Acf Fiorentina,2-1,AC Milan
+Sun Dec 29 1963,Torino FC,0-0,Modena FC
+Sun Dec 29 1963,As Roma,1-1,Vicenza Calcio
+Sun Dec 29 1963,Genoa CFc,3-0,Acr Messina
+Sun Dec 29 1963,Bologna FC,2-1,Juventus
+Sun Dec 29 1963,As Bari,1-0,SPAL Ferrara
+Sun Dec 29 1963,Atalanta,0-0,Sampdoria
+Sun Jan 5 1964,Acr Messina,0-2,Bologna FC
+Sun Jan 5 1964,SPAL Ferrara,1-0,Vicenza Calcio
+Sun Jan 5 1964,Sampdoria,1-0,Lazio Roma
+Sun Jan 5 1964,Torino FC,3-0,Atalanta
+Sun Jan 5 1964,Calcio Catania,2-0,Juventus
+Sun Jan 5 1964,As Bari,0-2,AC Milan
+Sun Jan 5 1964,As Roma,2-1,Ac Mantova
+Sun Jan 5 1964,Modena FC,0-1,Acf Fiorentina
+Wed Jan 8 1964,Ac Mantova,1-0,Calcio Catania
+Wed Jan 8 1964,Inter,1-0,Lazio Roma
+Sun Jan 12 1964,Juventus,0-0,Genoa CFc
+Sun Jan 12 1964,Sampdoria,0-0,Torino FC
+Sun Jan 12 1964,AC Milan,1-1,SPAL Ferrara
+Sun Jan 12 1964,Acr Messina,2-0,Modena FC
+Sun Jan 12 1964,Acf Fiorentina,1-0,As Bari
+Sun Jan 12 1964,Calcio Catania,0-0,As Roma
+Sun Jan 12 1964,Atalanta,1-3,Inter
+Sun Jan 12 1964,Lazio Roma,1-2,Bologna FC
+Sun Jan 26 1964,Acf Fiorentina,1-0,Lazio Roma
+Sun Jan 26 1964,Torino FC,0-0,Vicenza Calcio
+Sun Jan 26 1964,SPAL Ferrara,1-3,Juventus
+Sun Jan 26 1964,As Roma,0-0,As Bari
+Sun Jan 26 1964,Calcio Catania,0-0,Atalanta
+Sun Jan 26 1964,Genoa CFc,0-2,Bologna FC
+Sun Jan 26 1964,Acr Messina,4-3,Sampdoria
+Sun Jan 26 1964,AC Milan,1-0,Ac Mantova
+Wed Jan 29 1964,Inter,1-0,Genoa CFc
+Wed Jan 29 1964,Vicenza Calcio,1-1,Ac Mantova
+Sun Feb 2 1964,Inter,0-0,Vicenza Calcio
+Sun Feb 2 1964,Acr Messina,1-2,AC Milan
+Sun Feb 2 1964,Ac Mantova,0-0,As Bari
+Sun Feb 2 1964,Juventus,0-0,Modena FC
+Sun Feb 2 1964,Sampdoria,0-2,As Roma
+Sun Feb 2 1964,Calcio Catania,5-3,Genoa CFc
+Sun Feb 2 1964,Bologna FC,4-1,Torino FC
+Sun Feb 2 1964,Atalanta,1-7,Acf Fiorentina
+Sun Feb 2 1964,Lazio Roma,0-0,SPAL Ferrara
+Sun Feb 9 1964,Modena FC,1-1,Ac Mantova
+Sun Feb 9 1964,SPAL Ferrara,3-1,Calcio Catania
+Sun Feb 9 1964,Sampdoria,0-1,Acf Fiorentina
+Sun Feb 9 1964,As Roma,1-0,Genoa CFc
+Sun Feb 9 1964,AC Milan,0-1,Lazio Roma
+Sun Feb 9 1964,Vicenza Calcio,1-1,Acr Messina
+Sun Feb 9 1964,Atalanta,1-1,Bologna FC
+Sun Feb 9 1964,Torino FC,0-2,Inter
+Sun Feb 9 1964,As Bari,1-1,Juventus
+Wed Feb 12 1964,Modena FC,0-1,Inter
+Sun Feb 16 1964,AC Milan,1-1,Torino FC
+Sun Feb 16 1964,SPAL Ferrara,1-1,Acr Messina
+Sun Feb 16 1964,As Roma,1-1,Atalanta
+Sun Feb 16 1964,Modena FC,1-1,As Bari
+Sun Feb 16 1964,Vicenza Calcio,1-1,Calcio Catania
+Sun Feb 16 1964,Juventus,1-0,Sampdoria
+Sun Feb 16 1964,Acf Fiorentina,0-0,Bologna FC
+Sun Feb 16 1964,Genoa CFc,4-1,Lazio Roma
+Sun Feb 16 1964,Ac Mantova,2-2,Inter
+Sun Feb 23 1964,Acf Fiorentina,2-1,Juventus
+Sun Feb 23 1964,Torino FC,5-2,Ac Mantova
+Sun Feb 23 1964,Acr Messina,1-1,Atalanta
+Sun Feb 23 1964,Lazio Roma,1-1,As Roma
+Sun Feb 23 1964,Genoa CFc,1-1,AC Milan
+Sun Feb 23 1964,Calcio Catania,1-5,Sampdoria
+Sun Feb 23 1964,Bologna FC,0-0,Modena FC
+Sun Feb 23 1964,As Bari,1-0,Vicenza Calcio
+Sun Feb 23 1964,Inter,0-0,SPAL Ferrara
+Sun Mar 1 1964,As Roma,1-2,Juventus
+Sun Mar 1 1964,Torino FC,0-0,Calcio Catania
+Sun Mar 1 1964,SPAL Ferrara,0-0,Acf Fiorentina
+Sun Mar 1 1964,Sampdoria,1-5,Inter
+Sun Mar 1 1964,AC Milan,1-2,Bologna FC
+Sun Mar 1 1964,Vicenza Calcio,1-0,Lazio Roma
+Sun Mar 1 1964,As Bari,0-1,Acr Messina
+Sun Mar 1 1964,Atalanta,0-0,Ac Mantova
+Sun Mar 1 1964,Modena FC,2-1,Genoa CFc
+Sun Mar 8 1964,Genoa CFc,0-0,Torino FC
+Sun Mar 8 1964,Acr Messina,2-1,As Roma
+Sun Mar 8 1964,Ac Mantova,2-0,SPAL Ferrara
+Sun Mar 8 1964,Lazio Roma,1-0,Modena FC
+Sun Mar 8 1964,Inter,3-0,As Bari
+Sun Mar 8 1964,Acf Fiorentina,0-2,Vicenza Calcio
+Sun Mar 8 1964,Calcio Catania,0-1,AC Milan
+Sun Mar 8 1964,Bologna FC,1-0,Sampdoria
+Sun Mar 8 1964,Juventus,0-0,Atalanta
+Sun Mar 15 1964,Acf Fiorentina,2-0,Genoa CFc
+Sun Mar 15 1964,Sampdoria,1-1,Ac Mantova
+Sun Mar 15 1964,Modena FC,0-1,AC Milan
+Sun Mar 15 1964,Torino FC,0-0,Juventus
+Sun Mar 15 1964,Calcio Catania,1-0,As Bari
+Sun Mar 15 1964,Bologna FC,2-1,SPAL Ferrara
+Sun Mar 15 1964,Atalanta,2-1,Vicenza Calcio
+Sun Mar 15 1964,Lazio Roma,0-0,Acr Messina
+Sun Mar 15 1964,Inter,1-0,As Roma
+Sun Mar 22 1964,Vicenza Calcio,4-3,Modena FC
+Sun Mar 22 1964,SPAL Ferrara,0-0,Atalanta
+Sun Mar 22 1964,As Roma,0-1,Bologna FC
+Sun Mar 22 1964,AC Milan,1-1,Inter
+Sun Mar 22 1964,Ac Mantova,0-3,Acf Fiorentina
+Sun Mar 22 1964,Juventus,0-3,Lazio Roma
+Sun Mar 22 1964,Genoa CFc,0-1,Sampdoria
+Sun Mar 22 1964,As Bari,0-3,Torino FC
+Sun Mar 22 1964,Acr Messina,0-0,Calcio Catania
+Sun Mar 29 1964,Ac Mantova,1-1,Juventus
+Sun Mar 29 1964,Sampdoria,3-1,SPAL Ferrara
+Sun Mar 29 1964,Torino FC,2-2,As Roma
+Sun Mar 29 1964,AC Milan,2-1,Vicenza Calcio
+Sun Mar 29 1964,Acf Fiorentina,0-1,Acr Messina
+Sun Mar 29 1964,Calcio Catania,1-0,Modena FC
+Sun Mar 29 1964,Atalanta,1-3,Genoa CFc
+Sun Mar 29 1964,Bologna FC,1-2,Inter
+Sun Mar 29 1964,Lazio Roma,1-0,As Bari
+Sun Apr 5 1964,Inter,4-0,Acr Messina
+Sun Apr 5 1964,SPAL Ferrara,0-1,Torino FC
+Sun Apr 5 1964,As Roma,1-1,Acf Fiorentina
+Sun Apr 5 1964,Modena FC,1-0,Atalanta
+Sun Apr 5 1964,Juventus,1-2,AC Milan
+Sun Apr 5 1964,Genoa CFc,1-0,Ac Mantova
+Sun Apr 5 1964,Calcio Catania,1-0,Lazio Roma
+Sun Apr 5 1964,As Bari,2-1,Sampdoria
+Sun Apr 5 1964,Vicenza Calcio,1-3,Bologna FC
+Sun Apr 19 1964,Vicenza Calcio,1-0,Genoa CFc
+Sun Apr 19 1964,Torino FC,0-3,Acf Fiorentina
+Sun Apr 19 1964,Sampdoria,1-1,Modena FC
+Sun Apr 19 1964,As Roma,2-0,SPAL Ferrara
+Sun Apr 19 1964,Inter,4-1,Calcio Catania
+Sun Apr 19 1964,Bologna FC,3-1,As Bari
+Sun Apr 19 1964,Atalanta,0-0,AC Milan
+Sun Apr 19 1964,Acr Messina,1-0,Juventus
+Sun Apr 19 1964,Ac Mantova,0-0,Lazio Roma
+Sun Apr 26 1964,Genoa CFc,1-0,SPAL Ferrara
+Sun Apr 26 1964,Modena FC,3-3,As Roma
+Sun Apr 26 1964,AC Milan,0-1,Sampdoria
+Sun Apr 26 1964,Acr Messina,1-0,Ac Mantova
+Sun Apr 26 1964,Juventus,4-1,Vicenza Calcio
+Sun Apr 26 1964,Acf Fiorentina,1-3,Inter
+Sun Apr 26 1964,Bologna FC,1-0,Calcio Catania
+Sun Apr 26 1964,As Bari,4-0,Atalanta
+Sun Apr 26 1964,Lazio Roma,0-0,Torino FC
+Sun May 3 1964,Inter,1-0,Juventus
+Sun May 3 1964,SPAL Ferrara,0-0,Modena FC
+Sun May 3 1964,Sampdoria,1-1,Vicenza Calcio
+Sun May 3 1964,Torino FC,1-0,Acr Messina
+Sun May 3 1964,Calcio Catania,2-0,Acf Fiorentina
+Sun May 3 1964,As Bari,1-2,Genoa CFc
+Sun May 3 1964,Atalanta,1-1,Lazio Roma
+Sun May 3 1964,As Roma,2-3,AC Milan
+Sun May 3 1964,Ac Mantova,0-0,Bologna FC
+Sun May 17 1964,Lazio Roma,0-0,Inter
+Sun May 17 1964,SPAL Ferrara,3-1,As Bari
+Sun May 17 1964,Sampdoria,1-1,Atalanta
+Sun May 17 1964,Modena FC,0-0,Torino FC
+Sun May 17 1964,Acr Messina,1-0,Genoa CFc
+Sun May 17 1964,Vicenza Calcio,2-1,As Roma
+Sun May 17 1964,Juventus,0-0,Bologna FC
+Sun May 17 1964,Calcio Catania,0-0,Ac Mantova
+Sun May 17 1964,AC Milan,2-1,Acf Fiorentina
+Sun May 24 1964,Genoa CFc,0-2,Inter
+Sun May 24 1964,Ac Mantova,1-0,As Roma
+Sun May 24 1964,Lazio Roma,0-0,Sampdoria
+Sun May 24 1964,AC Milan,2-0,As Bari
+Sun May 24 1964,Acf Fiorentina,0-0,Modena FC
+Sun May 24 1964,Bologna FC,2-0,Acr Messina
+Sun May 24 1964,Atalanta,1-1,Torino FC
+Sun May 24 1964,Vicenza Calcio,1-0,SPAL Ferrara
+Sun May 24 1964,Juventus,4-2,Calcio Catania
+Sun May 31 1964,Inter,2-1,Atalanta
+Sun May 31 1964,SPAL Ferrara,2-4,AC Milan
+Sun May 31 1964,As Roma,4-4,Calcio Catania
+Sun May 31 1964,Ac Mantova,0-0,Vicenza Calcio
+Sun May 31 1964,Genoa CFc,3-1,Juventus
+Sun May 31 1964,Bologna FC,1-0,Lazio Roma
+Sun May 31 1964,As Bari,2-0,Acf Fiorentina
+Sun May 31 1964,Torino FC,2-1,Sampdoria
+Sun May 31 1964,Modena FC,0-0,Acr Messina

@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sun Sep 13 1953,Inter,2-0,Lazio Roma
+Sun Sep 13 1953,Juventus,3-1,Unione Triestina
+Sun Sep 13 1953,Legnano,1-2,Acf Fiorentina
+Sun Sep 13 1953,Ssc Napoli,3-0,US Palermo
+Sun Sep 13 1953,Novara Calcio,4-2,SPAL Ferrara
+Sun Sep 13 1953,As Roma,4-0,Genoa CFc
+Sun Sep 13 1953,Sampdoria,1-1,Torino FC
+Sun Sep 13 1953,Udinese Calcio,2-2,AC Milan
+Sun Sep 13 1953,Bologna FC,2-1,Atalanta
+Sun Sep 20 1953,Acf Fiorentina,2-0,As Roma
+Sun Sep 20 1953,Unione Triestina,3-1,Bologna FC
+Sun Sep 20 1953,Torino FC,0-2,Ssc Napoli
+Sun Sep 20 1953,SPAL Ferrara,2-1,Sampdoria
+Sun Sep 20 1953,US Palermo,4-0,Udinese Calcio
+Sun Sep 20 1953,AC Milan,0-0,Novara Calcio
+Sun Sep 20 1953,Genoa CFc,1-3,Juventus
+Sun Sep 20 1953,Atalanta,0-2,Inter
+Sun Sep 20 1953,Lazio Roma,1-1,Legnano
+Sun Sep 27 1953,US Palermo,3-3,Legnano
+Sun Sep 27 1953,Inter,4-2,SPAL Ferrara
+Sun Sep 27 1953,Unione Triestina,1-1,Genoa CFc
+Sun Sep 27 1953,Sampdoria,2-1,AC Milan
+Sun Sep 27 1953,As Roma,3-0,Udinese Calcio
+Sun Sep 27 1953,Bologna FC,2-0,Torino FC
+Sun Sep 27 1953,Juventus,0-0,Acf Fiorentina
+Sun Sep 27 1953,Ssc Napoli,6-3,Atalanta
+Sun Sep 27 1953,Novara Calcio,2-1,Lazio Roma
+Sun Oct 4 1953,Legnano,1-1,Inter
+Sun Oct 4 1953,Udinese Calcio,1-2,Sampdoria
+Sun Oct 4 1953,Torino FC,1-0,Novara Calcio
+Sun Oct 4 1953,AC Milan,4-0,Unione Triestina
+Sun Oct 4 1953,Lazio Roma,2-1,Juventus
+Sun Oct 4 1953,Genoa CFc,3-3,Bologna FC
+Sun Oct 4 1953,Acf Fiorentina,3-1,US Palermo
+Sun Oct 4 1953,Atalanta,1-1,As Roma
+Sun Oct 4 1953,SPAL Ferrara,1-1,Ssc Napoli
+Sun Oct 11 1953,Genoa CFc,1-0,Atalanta
+Sun Oct 11 1953,Ssc Napoli,0-1,AC Milan
+Sun Oct 11 1953,Unione Triestina,1-0,US Palermo
+Sun Oct 11 1953,As Roma,2-2,Torino FC
+Sun Oct 11 1953,Novara Calcio,0-0,Udinese Calcio
+Sun Oct 11 1953,Bologna FC,1-0,Lazio Roma
+Sun Oct 11 1953,Inter,2-1,Acf Fiorentina
+Sun Oct 11 1953,Juventus,1-0,Sampdoria
+Sun Oct 11 1953,Legnano,1-3,SPAL Ferrara
+Sun Oct 18 1953,Lazio Roma,0-4,Ssc Napoli
+Sun Oct 18 1953,Udinese Calcio,4-2,Unione Triestina
+Sun Oct 18 1953,Torino FC,2-4,Juventus
+Sun Oct 18 1953,SPAL Ferrara,0-0,As Roma
+Sun Oct 18 1953,US Palermo,1-4,AC Milan
+Sun Oct 18 1953,Inter,3-2,Bologna FC
+Sun Oct 18 1953,Acf Fiorentina,1-0,Genoa CFc
+Sun Oct 18 1953,Atalanta,1-1,Novara Calcio
+Sun Oct 18 1953,Sampdoria,3-1,Legnano
+Sun Oct 25 1953,AC Milan,3-3,Atalanta
+Sun Oct 25 1953,Torino FC,0-1,Lazio Roma
+Sun Oct 25 1953,As Roma,1-1,Inter
+Sun Oct 25 1953,Udinese Calcio,1-1,SPAL Ferrara
+Sun Oct 25 1953,Legnano,1-1,Juventus
+Sun Oct 25 1953,Genoa CFc,2-0,Novara Calcio
+Sun Oct 25 1953,Bologna FC,1-1,Acf Fiorentina
+Sun Oct 25 1953,US Palermo,2-1,Sampdoria
+Sun Oct 25 1953,Ssc Napoli,1-0,Unione Triestina
+Sun Nov 1 1953,Juventus,1-0,Udinese Calcio
+Sun Nov 1 1953,Unione Triestina,2-2,As Roma
+Sun Nov 1 1953,SPAL Ferrara,0-0,Bologna FC
+Sun Nov 1 1953,Novara Calcio,0-0,Acf Fiorentina
+Sun Nov 1 1953,Lazio Roma,3-0,US Palermo
+Sun Nov 1 1953,Inter,3-0,AC Milan
+Sun Nov 1 1953,Genoa CFc,1-1,Torino FC
+Sun Nov 1 1953,Atalanta,4-1,Legnano
+Sun Nov 1 1953,Ssc Napoli,1-1,Sampdoria
+Sun Nov 8 1953,Sampdoria,0-0,Inter
+Sun Nov 8 1953,AC Milan,3-0,Genoa CFc
+Sun Nov 8 1953,Torino FC,1-0,SPAL Ferrara
+Sun Nov 8 1953,As Roma,3-0,Novara Calcio
+Sun Nov 8 1953,Acf Fiorentina,1-0,Ssc Napoli
+Sun Nov 8 1953,Atalanta,0-1,US Palermo
+Sun Nov 8 1953,Bologna FC,0-1,Juventus
+Sun Nov 8 1953,Udinese Calcio,1-1,Lazio Roma
+Sun Nov 8 1953,Legnano,2-1,Unione Triestina
+Sun Nov 22 1953,AC Milan,3-1,Legnano
+Sun Nov 22 1953,Unione Triestina,2-1,Torino FC
+Sun Nov 22 1953,SPAL Ferrara,3-2,Atalanta
+Sun Nov 22 1953,US Palermo,1-3,As Roma
+Sun Nov 22 1953,Ssc Napoli,2-1,Udinese Calcio
+Sun Nov 22 1953,Lazio Roma,2-3,Acf Fiorentina
+Sun Nov 22 1953,Juventus,2-2,Inter
+Sun Nov 22 1953,Genoa CFc,0-1,Sampdoria
+Sun Nov 22 1953,Novara Calcio,1-0,Bologna FC
+Sun Nov 29 1953,Sampdoria,3-1,Novara Calcio
+Sun Nov 29 1953,Torino FC,1-4,AC Milan
+Sun Nov 29 1953,Udinese Calcio,2-2,Atalanta
+Sun Nov 29 1953,SPAL Ferrara,1-3,Juventus
+Sun Nov 29 1953,US Palermo,2-1,Genoa CFc
+Sun Nov 29 1953,Legnano,0-1,Bologna FC
+Sun Nov 29 1953,Acf Fiorentina,1-0,Unione Triestina
+Sun Nov 29 1953,Inter,2-0,Ssc Napoli
+Sun Nov 29 1953,As Roma,1-1,Lazio Roma
+Sun Dec 6 1953,Novara Calcio,3-0,US Palermo
+Sun Dec 6 1953,Atalanta,1-1,Torino FC
+Sun Dec 6 1953,Unione Triestina,2-1,Sampdoria
+Sun Dec 6 1953,Lazio Roma,2-1,SPAL Ferrara
+Sun Dec 6 1953,Juventus,3-0,As Roma
+Sun Dec 6 1953,Genoa CFc,2-1,Legnano
+Sun Dec 6 1953,Acf Fiorentina,0-0,AC Milan
+Sun Dec 6 1953,Bologna FC,0-0,Ssc Napoli
+Sun Dec 6 1953,Inter,0-2,Udinese Calcio
+Sun Dec 20 1953,Ssc Napoli,1-0,Legnano
+Sun Dec 20 1953,Udinese Calcio,3-2,Bologna FC
+Sun Dec 20 1953,Torino FC,2-1,US Palermo
+Sun Dec 20 1953,SPAL Ferrara,1-1,Acf Fiorentina
+Sun Dec 20 1953,Atalanta,4-2,Unione Triestina
+Sun Dec 20 1953,Novara Calcio,2-3,Inter
+Sun Dec 20 1953,AC Milan,1-0,Juventus
+Sun Dec 20 1953,Lazio Roma,3-0,Genoa CFc
+Sun Dec 20 1953,Sampdoria,2-1,As Roma
+Sun Dec 27 1953,US Palermo,1-0,SPAL Ferrara
+Sun Dec 27 1953,Sampdoria,2-0,Atalanta
+Sun Dec 27 1953,Unione Triestina,1-1,Lazio Roma
+Sun Dec 27 1953,As Roma,0-0,Ssc Napoli
+Sun Dec 27 1953,Juventus,0-0,Novara Calcio
+Sun Dec 27 1953,Inter,1-0,Genoa CFc
+Sun Dec 27 1953,Bologna FC,2-1,AC Milan
+Sun Dec 27 1953,Acf Fiorentina,2-2,Torino FC
+Sun Dec 27 1953,Legnano,0-0,Udinese Calcio
+Sun Jan 3 1954,Inter,4-0,US Palermo
+Sun Jan 3 1954,SPAL Ferrara,0-0,Unione Triestina
+Sun Jan 3 1954,Novara Calcio,1-1,Ssc Napoli
+Sun Jan 3 1954,Legnano,0-0,Torino FC
+Sun Jan 3 1954,Juventus,2-0,Atalanta
+Sun Jan 3 1954,Genoa CFc,4-1,Udinese Calcio
+Sun Jan 3 1954,Acf Fiorentina,2-0,Sampdoria
+Sun Jan 3 1954,Bologna FC,1-2,As Roma
+Sun Jan 3 1954,Lazio Roma,1-1,AC Milan
+Sun Jan 10 1954,Novara Calcio,2-0,Unione Triestina
+Sun Jan 10 1954,Torino FC,1-1,Inter
+Sun Jan 10 1954,Sampdoria,2-2,Bologna FC
+Sun Jan 10 1954,Udinese Calcio,1-2,Acf Fiorentina
+Sun Jan 10 1954,Ssc Napoli,0-2,Genoa CFc
+Sun Jan 10 1954,AC Milan,6-1,SPAL Ferrara
+Sun Jan 10 1954,Atalanta,1-0,Lazio Roma
+Sun Jan 10 1954,As Roma,5-3,Legnano
+Sun Jan 10 1954,US Palermo,1-3,Juventus
+Sun Jan 17 1954,Legnano,5-1,Novara Calcio
+Sun Jan 17 1954,Unione Triestina,0-0,Inter
+Sun Jan 17 1954,Torino FC,1-0,Udinese Calcio
+Sun Jan 17 1954,US Palermo,3-1,Bologna FC
+Sun Jan 17 1954,AC Milan,1-2,As Roma
+Sun Jan 17 1954,Lazio Roma,3-0,Sampdoria
+Sun Jan 17 1954,Genoa CFc,1-0,SPAL Ferrara
+Sun Jan 17 1954,Acf Fiorentina,3-0,Atalanta
+Sun Jan 17 1954,Ssc Napoli,1-2,Juventus
+Sun Jan 31 1954,US Palermo,2-2,Ssc Napoli
+Sun Jan 31 1954,Acf Fiorentina,4-0,Legnano
+Sun Jan 31 1954,Unione Triestina,2-2,Juventus
+Sun Jan 31 1954,Torino FC,2-0,Sampdoria
+Sun Jan 31 1954,SPAL Ferrara,2-1,Novara Calcio
+Sun Jan 31 1954,Atalanta,1-3,Bologna FC
+Sun Jan 31 1954,Genoa CFc,1-0,As Roma
+Sun Jan 31 1954,Lazio Roma,0-1,Inter
+Sun Jan 31 1954,AC Milan,2-1,Udinese Calcio
+Sun Feb 7 1954,Legnano,2-1,Lazio Roma
+Sun Feb 7 1954,Sampdoria,0-0,SPAL Ferrara
+Sun Feb 7 1954,As Roma,1-2,Acf Fiorentina
+Sun Feb 7 1954,Ssc Napoli,2-2,Torino FC
+Sun Feb 7 1954,Udinese Calcio,1-0,US Palermo
+Sun Feb 7 1954,Juventus,3-1,Genoa CFc
+Sun Feb 7 1954,Inter,3-1,Atalanta
+Sun Feb 7 1954,Bologna FC,4-0,Unione Triestina
+Sun Feb 7 1954,Novara Calcio,1-1,AC Milan
+Sun Feb 14 1954,Legnano,3-0,US Palermo
+Sun Feb 14 1954,Torino FC,0-1,Bologna FC
+Sun Feb 14 1954,SPAL Ferrara,2-2,Inter
+Sun Feb 14 1954,AC Milan,1-1,Sampdoria
+Sun Feb 14 1954,Lazio Roma,2-1,Novara Calcio
+Sun Feb 14 1954,Genoa CFc,1-0,Unione Triestina
+Sun Feb 14 1954,Atalanta,1-1,Ssc Napoli
+Sun Feb 14 1954,Udinese Calcio,2-1,As Roma
+Sun Feb 14 1954,Acf Fiorentina,1-1,Juventus
+Sun Feb 21 1954,US Palermo,0-1,Acf Fiorentina
+Sun Feb 21 1954,Unione Triestina,0-6,AC Milan
+Sun Feb 21 1954,Sampdoria,1-1,Udinese Calcio
+Sun Feb 21 1954,As Roma,0-0,Atalanta
+Sun Feb 21 1954,Ssc Napoli,3-1,SPAL Ferrara
+Sun Feb 21 1954,Juventus,0-0,Lazio Roma
+Sun Feb 21 1954,Bologna FC,1-1,Genoa CFc
+Sun Feb 21 1954,Inter,2-2,Legnano
+Sun Feb 21 1954,Novara Calcio,1-1,Torino FC
+Sun Feb 28 1954,AC Milan,3-2,Ssc Napoli
+Sun Feb 28 1954,Udinese Calcio,1-1,Novara Calcio
+Sun Feb 28 1954,Torino FC,1-1,As Roma
+Sun Feb 28 1954,SPAL Ferrara,1-0,Legnano
+Sun Feb 28 1954,US Palermo,1-1,Unione Triestina
+Sun Feb 28 1954,Lazio Roma,1-1,Bologna FC
+Sun Feb 28 1954,Acf Fiorentina,1-1,Inter
+Sun Feb 28 1954,Atalanta,1-0,Genoa CFc
+Sun Feb 28 1954,Sampdoria,0-1,Juventus
+Sun Mar 7 1954,Ssc Napoli,2-1,Lazio Roma
+Sun Mar 7 1954,Unione Triestina,2-1,Udinese Calcio
+Sun Mar 7 1954,As Roma,3-0,SPAL Ferrara
+Sun Mar 7 1954,Novara Calcio,0-4,Atalanta
+Sun Mar 7 1954,Legnano,2-2,Sampdoria
+Sun Mar 7 1954,Juventus,0-0,Torino FC
+Sun Mar 7 1954,Genoa CFc,1-3,Acf Fiorentina
+Sun Mar 7 1954,Bologna FC,0-1,Inter
+Sun Mar 7 1954,AC Milan,2-1,US Palermo
+Sun Mar 14 1954,Juventus,2-1,Legnano
+Sun Mar 14 1954,Unione Triestina,1-1,Ssc Napoli
+Sun Mar 14 1954,SPAL Ferrara,2-1,Udinese Calcio
+Sun Mar 14 1954,Sampdoria,2-2,US Palermo
+Sun Mar 14 1954,Lazio Roma,0-1,Torino FC
+Sun Mar 14 1954,Inter,1-1,As Roma
+Sun Mar 14 1954,Acf Fiorentina,1-3,Bologna FC
+Sun Mar 14 1954,Atalanta,3-1,AC Milan
+Sun Mar 14 1954,Novara Calcio,2-0,Genoa CFc
+Sun Mar 21 1954,AC Milan,2-0,Inter
+Sun Mar 21 1954,Torino FC,3-2,Genoa CFc
+Sun Mar 21 1954,Sampdoria,1-0,Ssc Napoli
+Sun Mar 21 1954,Udinese Calcio,0-2,Juventus
+Sun Mar 21 1954,Legnano,1-2,Atalanta
+Sun Mar 21 1954,Acf Fiorentina,2-0,Novara Calcio
+Sun Mar 21 1954,Bologna FC,2-1,SPAL Ferrara
+Sun Mar 21 1954,As Roma,3-1,Unione Triestina
+Sun Mar 21 1954,US Palermo,2-0,Lazio Roma
+Sun Mar 28 1954,Lazio Roma,0-1,Udinese Calcio
+Sun Mar 28 1954,Unione Triestina,2-1,Legnano
+Sun Mar 28 1954,SPAL Ferrara,2-3,Torino FC
+Sun Mar 28 1954,US Palermo,0-0,Atalanta
+Sun Mar 28 1954,Ssc Napoli,0-0,Acf Fiorentina
+Sun Mar 28 1954,Juventus,2-2,Bologna FC
+Sun Mar 28 1954,Inter,2-1,Sampdoria
+Sun Mar 28 1954,Genoa CFc,2-2,AC Milan
+Sun Mar 28 1954,Novara Calcio,2-0,As Roma
+Sun Apr 4 1954,As Roma,3-1,US Palermo
+Sun Apr 4 1954,Torino FC,1-1,Unione Triestina
+Sun Apr 4 1954,Udinese Calcio,3-3,Ssc Napoli
+Sun Apr 4 1954,Sampdoria,0-0,Genoa CFc
+Sun Apr 4 1954,Inter,6-0,Juventus
+Sun Apr 4 1954,Acf Fiorentina,0-1,Lazio Roma
+Sun Apr 4 1954,Atalanta,0-1,SPAL Ferrara
+Sun Apr 4 1954,Bologna FC,2-0,Novara Calcio
+Sun Apr 4 1954,Legnano,2-2,AC Milan
+Sun Apr 18 1954,Juventus,3-1,SPAL Ferrara
+Sun Apr 18 1954,Unione Triestina,1-1,Acf Fiorentina
+Sun Apr 18 1954,Novara Calcio,3-0,Sampdoria
+Sun Apr 18 1954,Ssc Napoli,2-1,Inter
+Sun Apr 18 1954,Lazio Roma,1-2,As Roma
+Sun Apr 18 1954,Genoa CFc,1-0,US Palermo
+Sun Apr 18 1954,Bologna FC,2-0,Legnano
+Sun Apr 18 1954,Atalanta,6-0,Udinese Calcio
+Sun Apr 18 1954,AC Milan,0-1,Torino FC
+Sun Apr 25 1954,US Palermo,1-1,Novara Calcio
+Sun Apr 25 1954,Udinese Calcio,0-2,Inter
+Sun Apr 25 1954,Torino FC,1-3,Atalanta
+Sun Apr 25 1954,SPAL Ferrara,0-1,Lazio Roma
+Sun Apr 25 1954,Ssc Napoli,2-1,Bologna FC
+Sun Apr 25 1954,AC Milan,2-1,Acf Fiorentina
+Sun Apr 25 1954,Legnano,1-1,Genoa CFc
+Sun Apr 25 1954,Sampdoria,2-1,Unione Triestina
+Sun Apr 25 1954,As Roma,1-1,Juventus
+Sun May 2 1954,Inter,3-1,Novara Calcio
+Sun May 2 1954,Unione Triestina,3-2,Atalanta
+Sun May 2 1954,As Roma,3-1,Sampdoria
+Sun May 2 1954,US Palermo,1-1,Torino FC
+Sun May 2 1954,Juventus,1-0,AC Milan
+Sun May 2 1954,Genoa CFc,3-1,Lazio Roma
+Sun May 2 1954,Acf Fiorentina,1-1,SPAL Ferrara
+Sun May 2 1954,Bologna FC,3-1,Udinese Calcio
+Sun May 2 1954,Legnano,1-0,Ssc Napoli
+Sun May 9 1954,AC Milan,2-1,Bologna FC
+Sun May 9 1954,Torino FC,1-1,Acf Fiorentina
+Sun May 9 1954,SPAL Ferrara,0-1,US Palermo
+Sun May 9 1954,Udinese Calcio,1-2,Legnano
+Sun May 9 1954,Lazio Roma,5-1,Unione Triestina
+Sun May 9 1954,Genoa CFc,1-3,Inter
+Sun May 9 1954,Atalanta,1-1,Sampdoria
+Sun May 9 1954,Novara Calcio,0-1,Juventus
+Sun May 9 1954,Ssc Napoli,1-0,As Roma
+Sun May 16 1954,US Palermo,2-2,Inter
+Sun May 16 1954,Udinese Calcio,3-1,Genoa CFc
+Sun May 16 1954,Unione Triestina,3-0,SPAL Ferrara
+Sun May 16 1954,Torino FC,2-2,Legnano
+Sun May 16 1954,As Roma,1-3,Bologna FC
+Sun May 16 1954,Ssc Napoli,5-1,Novara Calcio
+Sun May 16 1954,AC Milan,3-2,Lazio Roma
+Sun May 16 1954,Atalanta,3-2,Juventus
+Sun May 16 1954,Sampdoria,2-0,Acf Fiorentina
+Sun May 23 1954,Inter,2-0,Torino FC
+Sun May 23 1954,SPAL Ferrara,0-0,AC Milan
+Sun May 23 1954,Legnano,2-2,As Roma
+Sun May 23 1954,Unione Triestina,3-1,Novara Calcio
+Sun May 23 1954,Genoa CFc,1-1,Ssc Napoli
+Sun May 23 1954,Acf Fiorentina,0-0,Udinese Calcio
+Sun May 23 1954,Bologna FC,0-2,Sampdoria
+Sun May 23 1954,Lazio Roma,2-2,Atalanta
+Sun May 23 1954,Juventus,4-1,US Palermo
+Sun May 30 1954,Juventus,3-2,Ssc Napoli
+Sun May 30 1954,SPAL Ferrara,1-0,Genoa CFc
+Sun May 30 1954,Sampdoria,0-0,Lazio Roma
+Sun May 30 1954,Novara Calcio,0-0,Legnano
+Sun May 30 1954,Inter,4-2,Unione Triestina
+Sun May 30 1954,Bologna FC,0-1,US Palermo
+Sun May 30 1954,Atalanta,1-1,Acf Fiorentina
+Sun May 30 1954,Udinese Calcio,3-0,Torino FC
+Sun May 30 1954,As Roma,1-2,AC Milan

@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 22 2015,Hellas Verona,1-1,As Roma
+Sat Aug 22 2015,Lazio Roma,2-1,Bologna FC
+Sun Aug 23 2015,Juventus,0-1,Udinese Calcio
+Sun Aug 23 2015,Empoli FC,1-3,Chievo Verona
+Sun Aug 23 2015,Acf Fiorentina,2-0,AC Milan
+Sun Aug 23 2015,Frosinone Calcio,1-2,Torino FC
+Sun Aug 23 2015,Inter,1-0,Atalanta
+Sun Aug 23 2015,US Palermo,1-0,Genoa CFc
+Sun Aug 23 2015,Sampdoria,5-2,Carpi FC 1909
+Sun Aug 23 2015,Sassuolo Calcio,2-1,Ssc Napoli
+Sat Aug 29 2015,Bologna FC,0-1,Sassuolo Calcio
+Sat Aug 29 2015,AC Milan,2-1,Empoli FC
+Sun Aug 30 2015,As Roma,2-1,Juventus
+Sun Aug 30 2015,Atalanta,2-0,Frosinone Calcio
+Sun Aug 30 2015,Carpi FC 1909,1-2,Inter
+Sun Aug 30 2015,Chievo Verona,4-0,Lazio Roma
+Sun Aug 30 2015,Genoa CFc,2-0,Hellas Verona
+Sun Aug 30 2015,Ssc Napoli,2-2,Sampdoria
+Sun Aug 30 2015,Torino FC,3-1,Acf Fiorentina
+Sun Aug 30 2015,Udinese Calcio,0-1,US Palermo
+Sat Sep 12 2015,Acf Fiorentina,1-0,Genoa CFc
+Sat Sep 12 2015,Frosinone Calcio,0-2,As Roma
+Sat Sep 12 2015,Juventus,1-1,Chievo Verona
+Sun Sep 13 2015,Hellas Verona,2-2,Torino FC
+Sun Sep 13 2015,Empoli FC,2-2,Ssc Napoli
+Sun Sep 13 2015,US Palermo,2-2,Carpi FC 1909
+Sun Sep 13 2015,Sassuolo Calcio,2-2,Atalanta
+Sun Sep 13 2015,Lazio Roma,2-0,Udinese Calcio
+Sun Sep 13 2015,Inter,1-0,AC Milan
+Mon Sep 14 2015,Sampdoria,2-0,Bologna FC
+Sat Sep 19 2015,Udinese Calcio,1-2,Empoli FC
+Sat Sep 19 2015,AC Milan,3-2,US Palermo
+Sun Sep 20 2015,Chievo Verona,0-1,Inter
+Sun Sep 20 2015,Atalanta,1-1,Hellas Verona
+Sun Sep 20 2015,Bologna FC,1-0,Frosinone Calcio
+Sun Sep 20 2015,Genoa CFc,0-2,Juventus
+Sun Sep 20 2015,As Roma,2-2,Sassuolo Calcio
+Sun Sep 20 2015,Torino FC,2-0,Sampdoria
+Sun Sep 20 2015,Carpi FC 1909,0-1,Acf Fiorentina
+Sun Sep 20 2015,Ssc Napoli,5-0,Lazio Roma
+Tue Sep 22 2015,Udinese Calcio,2-3,AC Milan
+Wed Sep 23 2015,Carpi FC 1909,0-0,Ssc Napoli
+Wed Sep 23 2015,Chievo Verona,1-0,Torino FC
+Wed Sep 23 2015,Acf Fiorentina,2-0,Bologna FC
+Wed Sep 23 2015,Inter,1-0,Hellas Verona
+Wed Sep 23 2015,Juventus,1-1,Frosinone Calcio
+Wed Sep 23 2015,Lazio Roma,2-0,Genoa CFc
+Wed Sep 23 2015,US Palermo,0-1,Sassuolo Calcio
+Wed Sep 23 2015,Sampdoria,2-1,As Roma
+Thu Sep 24 2015,Empoli FC,0-1,Atalanta
+Sat Sep 26 2015,As Roma,5-1,Carpi FC 1909
+Sat Sep 26 2015,Ssc Napoli,2-1,Juventus
+Sun Sep 27 2015,Genoa CFc,1-0,AC Milan
+Sun Sep 27 2015,Bologna FC,1-2,Udinese Calcio
+Sun Sep 27 2015,Hellas Verona,1-2,Lazio Roma
+Sun Sep 27 2015,Sassuolo Calcio,1-1,Chievo Verona
+Sun Sep 27 2015,Torino FC,2-1,US Palermo
+Sun Sep 27 2015,Inter,1-4,Acf Fiorentina
+Mon Sep 28 2015,Frosinone Calcio,2-0,Empoli FC
+Mon Sep 28 2015,Atalanta,2-1,Sampdoria
+Sat Oct 3 2015,Carpi FC 1909,2-1,Torino FC
+Sat Oct 3 2015,Chievo Verona,1-1,Hellas Verona
+Sun Oct 4 2015,Empoli FC,1-0,Sassuolo Calcio
+Sun Oct 4 2015,US Palermo,2-4,As Roma
+Sun Oct 4 2015,Sampdoria,1-1,Inter
+Sun Oct 4 2015,Udinese Calcio,1-1,Genoa CFc
+Sun Oct 4 2015,Juventus,3-1,Bologna FC
+Sun Oct 4 2015,Lazio Roma,2-0,Frosinone Calcio
+Sun Oct 4 2015,Acf Fiorentina,3-0,Atalanta
+Sun Oct 4 2015,AC Milan,0-4,Ssc Napoli
+Sat Oct 17 2015,As Roma,3-1,Empoli FC
+Sat Oct 17 2015,Torino FC,1-1,AC Milan
+Sun Oct 18 2015,Bologna FC,0-1,US Palermo
+Sun Oct 18 2015,Atalanta,3-0,Carpi FC 1909
+Sun Oct 18 2015,Frosinone Calcio,2-0,Sampdoria
+Sun Oct 18 2015,Genoa CFc,3-2,Chievo Verona
+Sun Oct 18 2015,Hellas Verona,1-1,Udinese Calcio
+Sun Oct 18 2015,Ssc Napoli,2-1,Acf Fiorentina
+Sun Oct 18 2015,Sassuolo Calcio,2-1,Lazio Roma
+Sun Oct 18 2015,Inter,0-0,Juventus
+Sat Oct 24 2015,Empoli FC,2-0,Genoa CFc
+Sat Oct 24 2015,Carpi FC 1909,1-2,Bologna FC
+Sat Oct 24 2015,US Palermo,1-1,Inter
+Sun Oct 25 2015,Sampdoria,4-1,Hellas Verona
+Sun Oct 25 2015,Juventus,2-0,Atalanta
+Sun Oct 25 2015,AC Milan,2-1,Sassuolo Calcio
+Sun Oct 25 2015,Udinese Calcio,1-0,Frosinone Calcio
+Sun Oct 25 2015,Acf Fiorentina,1-2,As Roma
+Sun Oct 25 2015,Lazio Roma,3-0,Torino FC
+Sun Oct 25 2015,Chievo Verona,0-1,Ssc Napoli
+Tue Oct 27 2015,Bologna FC,0-1,Inter
+Wed Oct 28 2015,Atalanta,2-1,Lazio Roma
+Wed Oct 28 2015,Frosinone Calcio,2-1,Carpi FC 1909
+Wed Oct 28 2015,Hellas Verona,0-2,Acf Fiorentina
+Wed Oct 28 2015,AC Milan,1-0,Chievo Verona
+Wed Oct 28 2015,Ssc Napoli,2-0,US Palermo
+Wed Oct 28 2015,As Roma,3-1,Udinese Calcio
+Wed Oct 28 2015,Sassuolo Calcio,1-0,Juventus
+Wed Oct 28 2015,Torino FC,3-3,Genoa CFc
+Thu Oct 29 2015,Sampdoria,1-1,Empoli FC
+Sat Oct 31 2015,Juventus,2-1,Torino FC
+Sat Oct 31 2015,Inter,1-0,As Roma
+Sun Nov 1 2015,Acf Fiorentina,4-1,Frosinone Calcio
+Sun Nov 1 2015,Bologna FC,3-0,Atalanta
+Sun Nov 1 2015,Carpi FC 1909,0-0,Hellas Verona
+Sun Nov 1 2015,Genoa CFc,0-0,Ssc Napoli
+Sun Nov 1 2015,Udinese Calcio,0-0,Sassuolo Calcio
+Sun Nov 1 2015,Lazio Roma,1-3,AC Milan
+Mon Nov 2 2015,Chievo Verona,1-1,Sampdoria
+Mon Nov 2 2015,US Palermo,0-1,Empoli FC
+Sat Nov 7 2015,Hellas Verona,0-2,Bologna FC
+Sat Nov 7 2015,AC Milan,0-0,Atalanta
+Sun Nov 8 2015,Torino FC,0-1,Inter
+Sun Nov 8 2015,Empoli FC,1-3,Juventus
+Sun Nov 8 2015,Frosinone Calcio,2-2,Genoa CFc
+Sun Nov 8 2015,US Palermo,1-0,Chievo Verona
+Sun Nov 8 2015,As Roma,2-0,Lazio Roma
+Sun Nov 8 2015,Sassuolo Calcio,1-0,Carpi FC 1909
+Sun Nov 8 2015,Ssc Napoli,1-0,Udinese Calcio
+Sun Nov 8 2015,Sampdoria,0-2,Acf Fiorentina
+Sat Nov 21 2015,Bologna FC,2-2,As Roma
+Sat Nov 21 2015,Juventus,1-0,AC Milan
+Sun Nov 22 2015,Hellas Verona,0-2,Ssc Napoli
+Sun Nov 22 2015,Atalanta,0-1,Torino FC
+Sun Nov 22 2015,Carpi FC 1909,1-2,Chievo Verona
+Sun Nov 22 2015,Acf Fiorentina,2-2,Empoli FC
+Sun Nov 22 2015,Genoa CFc,2-1,Sassuolo Calcio
+Sun Nov 22 2015,Lazio Roma,1-1,US Palermo
+Sun Nov 22 2015,Udinese Calcio,1-0,Sampdoria
+Sun Nov 22 2015,Inter,4-0,Frosinone Calcio
+Sat Nov 28 2015,Torino FC,2-0,Bologna FC
+Sat Nov 28 2015,AC Milan,4-1,Sampdoria
+Sun Nov 29 2015,Chievo Verona,2-3,Udinese Calcio
+Sun Nov 29 2015,Frosinone Calcio,3-2,Hellas Verona
+Sun Nov 29 2015,Genoa CFc,1-2,Carpi FC 1909
+Sun Nov 29 2015,As Roma,0-2,Atalanta
+Sun Nov 29 2015,Empoli FC,1-0,Lazio Roma
+Sun Nov 29 2015,US Palermo,0-3,Juventus
+Mon Nov 30 2015,Sassuolo Calcio,1-1,Acf Fiorentina
+Mon Nov 30 2015,Ssc Napoli,2-1,Inter
+Fri Dec 4 2015,Lazio Roma,0-2,Juventus
+Sat Dec 5 2015,Torino FC,1-1,As Roma
+Sat Dec 5 2015,Inter,1-0,Genoa CFc
+Sun Dec 6 2015,Bologna FC,3-2,Ssc Napoli
+Sun Dec 6 2015,Atalanta,3-0,US Palermo
+Sun Dec 6 2015,Acf Fiorentina,3-0,Udinese Calcio
+Sun Dec 6 2015,Frosinone Calcio,0-2,Chievo Verona
+Sun Dec 6 2015,Hellas Verona,0-1,Empoli FC
+Sun Dec 6 2015,Sampdoria,1-3,Sassuolo Calcio
+Sun Dec 6 2015,Carpi FC 1909,0-0,AC Milan
+Sat Dec 12 2015,Genoa CFc,0-1,Bologna FC
+Sat Dec 12 2015,US Palermo,4-1,Frosinone Calcio
+Sat Dec 12 2015,Udinese Calcio,0-4,Inter
+Sun Dec 13 2015,Chievo Verona,1-0,Atalanta
+Sun Dec 13 2015,Empoli FC,3-0,Carpi FC 1909
+Sun Dec 13 2015,AC Milan,1-1,Hellas Verona
+Sun Dec 13 2015,Ssc Napoli,0-0,As Roma
+Sun Dec 13 2015,Juventus,3-1,Acf Fiorentina
+Mon Dec 14 2015,Lazio Roma,1-1,Sampdoria
+Sat Dec 19 2015,Bologna FC,2-3,Empoli FC
+Sun Dec 20 2015,Carpi FC 1909,2-3,Juventus
+Sun Dec 20 2015,Atalanta,1-3,Ssc Napoli
+Sun Dec 20 2015,Acf Fiorentina,2-0,Chievo Verona
+Sun Dec 20 2015,Hellas Verona,1-1,Sassuolo Calcio
+Sun Dec 20 2015,As Roma,2-0,Genoa CFc
+Sun Dec 20 2015,Frosinone Calcio,2-4,AC Milan
+Sun Dec 20 2015,Sampdoria,2-0,US Palermo
+Sun Dec 20 2015,Torino FC,0-1,Udinese Calcio
+Sun Dec 20 2015,Inter,1-2,Lazio Roma
+Tue Jan 5 2016,Genoa CFc,2-3,Sampdoria
+Wed Jan 6 2016,Udinese Calcio,2-1,Atalanta
+Wed Jan 6 2016,Chievo Verona,3-3,As Roma
+Wed Jan 6 2016,Juventus,3-0,Hellas Verona
+Wed Jan 6 2016,Lazio Roma,0-0,Carpi FC 1909
+Wed Jan 6 2016,AC Milan,0-1,Bologna FC
+Wed Jan 6 2016,US Palermo,1-3,Acf Fiorentina
+Wed Jan 6 2016,Sassuolo Calcio,2-2,Frosinone Calcio
+Wed Jan 6 2016,Empoli FC,0-1,Inter
+Wed Jan 6 2016,Ssc Napoli,2-1,Torino FC
+Sat Jan 9 2016,Carpi FC 1909,2-1,Udinese Calcio
+Sat Jan 9 2016,Acf Fiorentina,1-3,Lazio Roma
+Sat Jan 9 2016,As Roma,1-1,AC Milan
+Sun Jan 10 2016,Inter,0-1,Sassuolo Calcio
+Sun Jan 10 2016,Atalanta,0-2,Genoa CFc
+Sun Jan 10 2016,Bologna FC,0-1,Chievo Verona
+Sun Jan 10 2016,Frosinone Calcio,1-5,Ssc Napoli
+Sun Jan 10 2016,Hellas Verona,0-1,US Palermo
+Sun Jan 10 2016,Torino FC,0-1,Empoli FC
+Sun Jan 10 2016,Sampdoria,1-2,Juventus
+Sat Jan 16 2016,Atalanta,1-1,Inter
+Sat Jan 16 2016,Torino FC,4-2,Frosinone Calcio
+Sat Jan 16 2016,Ssc Napoli,3-1,Sassuolo Calcio
+Sun Jan 17 2016,Genoa CFc,4-0,US Palermo
+Sun Jan 17 2016,Chievo Verona,1-1,Empoli FC
+Sun Jan 17 2016,As Roma,1-1,Hellas Verona
+Sun Jan 17 2016,Udinese Calcio,0-4,Juventus
+Sun Jan 17 2016,Bologna FC,2-2,Lazio Roma
+Sun Jan 17 2016,Carpi FC 1909,2-1,Sampdoria
+Sun Jan 17 2016,AC Milan,2-0,Acf Fiorentina
+Wed Jan 20 2016,Sassuolo Calcio,1-1,Torino FC
+Sat Jan 23 2016,Frosinone Calcio,0-0,Atalanta
+Sat Jan 23 2016,Empoli FC,2-2,AC Milan
+Sun Jan 24 2016,Acf Fiorentina,2-0,Torino FC
+Sun Jan 24 2016,Sassuolo Calcio,0-2,Bologna FC
+Sun Jan 24 2016,Inter,1-1,Carpi FC 1909
+Sun Jan 24 2016,Lazio Roma,4-1,Chievo Verona
+Sun Jan 24 2016,Hellas Verona,1-1,Genoa CFc
+Sun Jan 24 2016,Sampdoria,2-4,Ssc Napoli
+Sun Jan 24 2016,US Palermo,4-1,Udinese Calcio
+Sun Jan 24 2016,Juventus,1-0,As Roma
+Sat Jan 30 2016,Carpi FC 1909,1-1,US Palermo
+Sat Jan 30 2016,Atalanta,1-1,Sassuolo Calcio
+Sat Jan 30 2016,As Roma,3-1,Frosinone Calcio
+Sun Jan 31 2016,Chievo Verona,0-4,Juventus
+Sun Jan 31 2016,Ssc Napoli,5-1,Empoli FC
+Sun Jan 31 2016,Genoa CFc,0-0,Acf Fiorentina
+Sun Jan 31 2016,Torino FC,0-0,Hellas Verona
+Sun Jan 31 2016,Udinese Calcio,0-0,Lazio Roma
+Sun Jan 31 2016,Bologna FC,3-2,Sampdoria
+Sun Jan 31 2016,AC Milan,3-0,Inter
+Tue Feb 2 2016,Sassuolo Calcio,0-2,As Roma
+Wed Feb 3 2016,Frosinone Calcio,1-0,Bologna FC
+Wed Feb 3 2016,Hellas Verona,2-1,Atalanta
+Wed Feb 3 2016,Acf Fiorentina,2-1,Carpi FC 1909
+Wed Feb 3 2016,Inter,1-0,Chievo Verona
+Wed Feb 3 2016,Juventus,1-0,Genoa CFc
+Wed Feb 3 2016,US Palermo,0-2,AC Milan
+Wed Feb 3 2016,Lazio Roma,0-2,Ssc Napoli
+Wed Feb 3 2016,Sampdoria,2-2,Torino FC
+Wed Feb 3 2016,Empoli FC,1-1,Udinese Calcio
+Sat Feb 6 2016,Bologna FC,1-1,Acf Fiorentina
+Sat Feb 6 2016,Genoa CFc,0-0,Lazio Roma
+Sun Feb 7 2016,Hellas Verona,3-3,Inter
+Sun Feb 7 2016,Ssc Napoli,1-0,Carpi FC 1909
+Sun Feb 7 2016,Torino FC,1-2,Chievo Verona
+Sun Feb 7 2016,Frosinone Calcio,0-2,Juventus
+Sun Feb 7 2016,Sassuolo Calcio,2-2,US Palermo
+Sun Feb 7 2016,AC Milan,1-1,Udinese Calcio
+Sun Feb 7 2016,Atalanta,0-0,Empoli FC
+Sun Feb 7 2016,As Roma,2-1,Sampdoria
+Thu Feb 11 2016,Lazio Roma,5-2,Hellas Verona
+Fri Feb 12 2016,Carpi FC 1909,1-3,As Roma
+Sat Feb 13 2016,Empoli FC,1-2,Frosinone Calcio
+Sat Feb 13 2016,Chievo Verona,1-1,Sassuolo Calcio
+Sat Feb 13 2016,Juventus,1-0,Ssc Napoli
+Sun Feb 14 2016,AC Milan,2-1,Genoa CFc
+Sun Feb 14 2016,Sampdoria,0-0,Atalanta
+Sun Feb 14 2016,Udinese Calcio,0-1,Bologna FC
+Sun Feb 14 2016,US Palermo,1-3,Torino FC
+Sun Feb 14 2016,Acf Fiorentina,2-1,Inter
+Fri Feb 19 2016,Bologna FC,0-0,Juventus
+Sat Feb 20 2016,Hellas Verona,3-1,Chievo Verona
+Sat Feb 20 2016,Inter,3-1,Sampdoria
+Sun Feb 21 2016,Torino FC,0-0,Carpi FC 1909
+Sun Feb 21 2016,Sassuolo Calcio,3-2,Empoli FC
+Sun Feb 21 2016,Atalanta,2-3,Acf Fiorentina
+Sun Feb 21 2016,Genoa CFc,2-1,Udinese Calcio
+Sun Feb 21 2016,Frosinone Calcio,0-0,Lazio Roma
+Sun Feb 21 2016,As Roma,5-0,US Palermo
+Mon Feb 22 2016,Ssc Napoli,1-1,AC Milan
+Sat Feb 27 2016,Empoli FC,1-3,As Roma
+Sat Feb 27 2016,AC Milan,1-0,Torino FC
+Sun Feb 28 2016,US Palermo,0-0,Bologna FC
+Sun Feb 28 2016,Carpi FC 1909,1-1,Atalanta
+Sun Feb 28 2016,Sampdoria,2-0,Frosinone Calcio
+Sun Feb 28 2016,Chievo Verona,1-0,Genoa CFc
+Sun Feb 28 2016,Udinese Calcio,2-0,Hellas Verona
+Sun Feb 28 2016,Juventus,2-0,Inter
+Mon Feb 29 2016,Lazio Roma,0-2,Sassuolo Calcio
+Mon Feb 29 2016,Acf Fiorentina,1-1,Ssc Napoli
+Fri Mar 4 2016,As Roma,4-1,Acf Fiorentina
+Sat Mar 5 2016,Hellas Verona,0-3,Sampdoria
+Sat Mar 5 2016,Ssc Napoli,3-1,Chievo Verona
+Sun Mar 6 2016,Torino FC,1-1,Lazio Roma
+Sun Mar 6 2016,Bologna FC,0-0,Carpi FC 1909
+Sun Mar 6 2016,Genoa CFc,1-0,Empoli FC
+Sun Mar 6 2016,Atalanta,0-2,Juventus
+Sun Mar 6 2016,Sassuolo Calcio,2-0,AC Milan
+Sun Mar 6 2016,Frosinone Calcio,2-0,Udinese Calcio
+Sun Mar 6 2016,Inter,3-1,US Palermo
+Fri Mar 11 2016,Juventus,1-0,Sassuolo Calcio
+Sat Mar 12 2016,Empoli FC,1-1,Sampdoria
+Sat Mar 12 2016,Inter,2-1,Bologna FC
+Sun Mar 13 2016,Chievo Verona,0-0,AC Milan
+Sun Mar 13 2016,Carpi FC 1909,2-1,Frosinone Calcio
+Sun Mar 13 2016,Acf Fiorentina,1-1,Hellas Verona
+Sun Mar 13 2016,Udinese Calcio,1-2,As Roma
+Sun Mar 13 2016,Genoa CFc,3-2,Torino FC
+Sun Mar 13 2016,Lazio Roma,2-0,Atalanta
+Sun Mar 13 2016,US Palermo,0-1,Ssc Napoli
+Sat Mar 19 2016,Empoli FC,0-0,US Palermo
+Sat Mar 19 2016,As Roma,1-1,Inter
+Sun Mar 20 2016,Atalanta,2-0,Bologna FC
+Sun Mar 20 2016,Hellas Verona,1-2,Carpi FC 1909
+Sun Mar 20 2016,Sampdoria,0-1,Chievo Verona
+Sun Mar 20 2016,Frosinone Calcio,0-0,Acf Fiorentina
+Sun Mar 20 2016,Torino FC,1-4,Juventus
+Sun Mar 20 2016,Sassuolo Calcio,1-1,Udinese Calcio
+Sun Mar 20 2016,Ssc Napoli,3-1,Genoa CFc
+Sun Mar 20 2016,AC Milan,1-1,Lazio Roma
+Sat Apr 2 2016,Carpi FC 1909,1-3,Sassuolo Calcio
+Sat Apr 2 2016,Juventus,1-0,Empoli FC
+Sun Apr 3 2016,Udinese Calcio,3-1,Ssc Napoli
+Sun Apr 3 2016,Genoa CFc,4-0,Frosinone Calcio
+Sun Apr 3 2016,Atalanta,2-1,AC Milan
+Sun Apr 3 2016,Chievo Verona,3-1,US Palermo
+Sun Apr 3 2016,Lazio Roma,1-4,As Roma
+Sun Apr 3 2016,Acf Fiorentina,1-1,Sampdoria
+Sun Apr 3 2016,Inter,1-2,Torino FC
+Mon Apr 4 2016,Bologna FC,0-1,Hellas Verona
+Sat Apr 9 2016,Frosinone Calcio,0-1,Inter
+Sat Apr 9 2016,Chievo Verona,1-0,Carpi FC 1909
+Sat Apr 9 2016,Sassuolo Calcio,0-1,Genoa CFc
+Sat Apr 9 2016,AC Milan,1-2,Juventus
+Sun Apr 10 2016,Empoli FC,2-0,Acf Fiorentina
+Sun Apr 10 2016,Torino FC,2-1,Atalanta
+Sun Apr 10 2016,Ssc Napoli,3-0,Hellas Verona
+Sun Apr 10 2016,Sampdoria,2-0,Udinese Calcio
+Sun Apr 10 2016,US Palermo,0-3,Lazio Roma
+Mon Apr 11 2016,As Roma,1-1,Bologna FC
+Sat Apr 16 2016,Bologna FC,0-1,Torino FC
+Sat Apr 16 2016,Carpi FC 1909,4-1,Genoa CFc
+Sat Apr 16 2016,Inter,2-0,Ssc Napoli
+Sun Apr 17 2016,Atalanta,3-3,As Roma
+Sun Apr 17 2016,Udinese Calcio,0-0,Chievo Verona
+Sun Apr 17 2016,Hellas Verona,1-2,Frosinone Calcio
+Sun Apr 17 2016,Juventus,4-0,US Palermo
+Sun Apr 17 2016,Acf Fiorentina,3-1,Sassuolo Calcio
+Sun Apr 17 2016,Lazio Roma,2-0,Empoli FC
+Sun Apr 17 2016,Sampdoria,0-1,AC Milan
+Tue Apr 19 2016,Ssc Napoli,6-0,Bologna FC
+Wed Apr 20 2016,Sassuolo Calcio,0-0,Sampdoria
+Wed Apr 20 2016,US Palermo,2-2,Atalanta
+Wed Apr 20 2016,Udinese Calcio,2-1,Acf Fiorentina
+Wed Apr 20 2016,Chievo Verona,5-1,Frosinone Calcio
+Wed Apr 20 2016,Empoli FC,1-0,Hellas Verona
+Wed Apr 20 2016,Genoa CFc,1-0,Inter
+Wed Apr 20 2016,Juventus,3-0,Lazio Roma
+Wed Apr 20 2016,As Roma,3-2,Torino FC
+Thu Apr 21 2016,AC Milan,0-0,Carpi FC 1909
+Sat Apr 23 2016,Inter,3-1,Udinese Calcio
+Sun Apr 24 2016,Frosinone Calcio,0-2,US Palermo
+Sun Apr 24 2016,Atalanta,1-0,Chievo Verona
+Sun Apr 24 2016,Bologna FC,2-0,Genoa CFc
+Sun Apr 24 2016,Sampdoria,2-1,Lazio Roma
+Sun Apr 24 2016,Torino FC,1-3,Sassuolo Calcio
+Sun Apr 24 2016,Acf Fiorentina,1-2,Juventus
+Mon Apr 25 2016,As Roma,1-0,Ssc Napoli
+Mon Apr 25 2016,Hellas Verona,2-1,AC Milan
+Mon Apr 25 2016,Carpi FC 1909,1-0,Empoli FC
+Sat Apr 30 2016,Udinese Calcio,1-5,Torino FC
+Sat Apr 30 2016,Chievo Verona,0-0,Acf Fiorentina
+Sun May 1 2016,Juventus,2-0,Carpi FC 1909
+Sun May 1 2016,Empoli FC,0-0,Bologna FC
+Sun May 1 2016,AC Milan,3-3,Frosinone Calcio
+Sun May 1 2016,Sassuolo Calcio,1-0,Hellas Verona
+Sun May 1 2016,US Palermo,2-0,Sampdoria
+Sun May 1 2016,Lazio Roma,2-0,Inter
+Mon May 2 2016,Genoa CFc,2-3,As Roma
+Mon May 2 2016,Ssc Napoli,2-1,Atalanta
+Sat May 7 2016,Inter,2-1,Empoli FC
+Sat May 7 2016,Bologna FC,0-1,AC Milan
+Sun May 8 2016,As Roma,3-0,Chievo Verona
+Sun May 8 2016,Sampdoria,0-3,Genoa CFc
+Sun May 8 2016,Carpi FC 1909,1-3,Lazio Roma
+Sun May 8 2016,Acf Fiorentina,0-0,US Palermo
+Sun May 8 2016,Frosinone Calcio,0-1,Sassuolo Calcio
+Sun May 8 2016,Atalanta,1-1,Udinese Calcio
+Sun May 8 2016,Hellas Verona,2-1,Juventus
+Sun May 8 2016,Torino FC,1-2,Ssc Napoli
+Sat May 14 2016,Juventus,5-0,Sampdoria
+Sat May 14 2016,Ssc Napoli,4-0,Frosinone Calcio
+Sat May 14 2016,Sassuolo Calcio,3-1,Inter
+Sat May 14 2016,AC Milan,1-3,As Roma
+Sun May 15 2016,Genoa CFc,1-2,Atalanta
+Sun May 15 2016,Chievo Verona,0-0,Bologna FC
+Sun May 15 2016,Empoli FC,2-1,Torino FC
+Sun May 15 2016,Udinese Calcio,1-2,Carpi FC 1909
+Sun May 15 2016,Lazio Roma,2-4,Acf Fiorentina
+Sun May 15 2016,US Palermo,3-2,Hellas Verona

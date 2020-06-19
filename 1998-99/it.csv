@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sat Sep 12 1998,AC Milan,3-0,Bologna FC
+Sat Sep 12 1998,As Roma,3-1,Salernitana Calcio 1919
+Sat Sep 12 1998,Parma FC,0-0,Vicenza Calcio
+Sat Sep 12 1998,Udinese Calcio,2-2,Sampdoria
+Sat Sep 12 1998,Acf Fiorentina,2-0,Empoli FC
+Sun Sep 13 1998,Cagliari Calcio,2-2,Inter
+Sun Sep 13 1998,Ac Perugia Calcio,3-4,Juventus
+Sun Sep 13 1998,Piacenza Calcio,1-1,Lazio Roma
+Sun Sep 13 1998,As Bari,1-0,Fbc Unione Venezia
+Sun Sep 20 1998,Juventus,1-0,Cagliari Calcio
+Sun Sep 20 1998,Inter,1-0,Piacenza Calcio
+Sun Sep 20 1998,Lazio Roma,0-0,As Bari
+Sun Sep 20 1998,Sampdoria,1-1,Ac Perugia Calcio
+Sun Sep 20 1998,Bologna FC,1-3,Udinese Calcio
+Sun Sep 20 1998,Empoli FC,0-0,As Roma
+Sun Sep 20 1998,Vicenza Calcio,1-2,Acf Fiorentina
+Sun Sep 20 1998,Fbc Unione Venezia,0-0,Parma FC
+Sun Sep 20 1998,Salernitana Calcio 1919,1-2,AC Milan
+Sat Sep 26 1998,AC Milan,1-3,Acf Fiorentina
+Sat Sep 26 1998,As Roma,2-0,Fbc Unione Venezia
+Sat Sep 26 1998,Parma FC,1-0,Juventus
+Sat Sep 26 1998,Udinese Calcio,2-0,Salernitana Calcio 1919
+Sat Sep 26 1998,As Bari,0-0,Bologna FC
+Sun Sep 27 1998,Cagliari Calcio,5-0,Sampdoria
+Sun Sep 27 1998,Empoli FC,1-2,Inter
+Sun Sep 27 1998,Ac Perugia Calcio,2-2,Lazio Roma
+Sun Sep 27 1998,Piacenza Calcio,2-0,Vicenza Calcio
+Sun Oct 4 1998,Juventus,1-0,Piacenza Calcio
+Sun Oct 4 1998,Inter,2-0,Ac Perugia Calcio
+Sun Oct 4 1998,Lazio Roma,2-0,Cagliari Calcio
+Sun Oct 4 1998,Sampdoria,2-1,As Roma
+Sun Oct 4 1998,Bologna FC,0-0,Parma FC
+Sun Oct 4 1998,Acf Fiorentina,1-0,Udinese Calcio
+Sun Oct 4 1998,Vicenza Calcio,1-0,As Bari
+Sun Oct 4 1998,Fbc Unione Venezia,0-2,AC Milan
+Sun Oct 4 1998,Salernitana Calcio 1919,1-1,Empoli FC
+Sat Oct 17 1998,As Roma,2-1,Acf Fiorentina
+Sat Oct 17 1998,Parma FC,2-0,Salernitana Calcio 1919
+Sat Oct 17 1998,Empoli FC,0-0,Bologna FC
+Sun Oct 18 1998,Inter,3-5,Lazio Roma
+Sun Oct 18 1998,Cagliari Calcio,1-0,AC Milan
+Sun Oct 18 1998,Ac Perugia Calcio,1-0,Fbc Unione Venezia
+Sun Oct 18 1998,Piacenza Calcio,4-1,Sampdoria
+Sun Oct 18 1998,Vicenza Calcio,1-1,Juventus
+Sun Oct 18 1998,As Bari,1-1,Udinese Calcio
+Sun Oct 25 1998,AC Milan,3-2,As Roma
+Sun Oct 25 1998,Juventus,1-0,Inter
+Sun Oct 25 1998,Lazio Roma,1-1,Vicenza Calcio
+Sun Oct 25 1998,Udinese Calcio,1-1,Fbc Unione Venezia
+Sun Oct 25 1998,Sampdoria,3-0,Empoli FC
+Sun Oct 25 1998,Bologna FC,3-1,Piacenza Calcio
+Sun Oct 25 1998,Cagliari Calcio,3-3,As Bari
+Sun Oct 25 1998,Acf Fiorentina,4-0,Salernitana Calcio 1919
+Sun Oct 25 1998,Ac Perugia Calcio,2-1,Parma FC
+Sat Oct 31 1998,As Roma,4-0,Udinese Calcio
+Sat Oct 31 1998,Parma FC,2-0,Acf Fiorentina
+Sat Oct 31 1998,Fbc Unione Venezia,0-2,Bologna FC
+Sun Nov 1 1998,Juventus,2-0,Sampdoria
+Sun Nov 1 1998,Inter,2-3,As Bari
+Sun Nov 1 1998,Empoli FC,2-0,Ac Perugia Calcio
+Sun Nov 1 1998,Piacenza Calcio,1-1,AC Milan
+Sun Nov 1 1998,Vicenza Calcio,2-1,Cagliari Calcio
+Sun Nov 1 1998,Salernitana Calcio 1919,1-0,Lazio Roma
+Sun Nov 8 1998,AC Milan,2-2,Inter
+Sun Nov 8 1998,Lazio Roma,4-1,Empoli FC
+Sun Nov 8 1998,Udinese Calcio,2-2,Juventus
+Sun Nov 8 1998,Sampdoria,1-0,Salernitana Calcio 1919
+Sun Nov 8 1998,Bologna FC,1-1,As Roma
+Sun Nov 8 1998,Cagliari Calcio,3-2,Piacenza Calcio
+Sun Nov 8 1998,Acf Fiorentina,4-1,Fbc Unione Venezia
+Sun Nov 8 1998,Ac Perugia Calcio,3-1,Vicenza Calcio
+Sun Nov 8 1998,As Bari,1-1,Parma FC
+Sun Nov 15 1998,As Roma,2-0,Juventus
+Sun Nov 15 1998,Parma FC,4-1,Udinese Calcio
+Sun Nov 15 1998,Inter,3-0,Sampdoria
+Sun Nov 15 1998,Empoli FC,2-1,Cagliari Calcio
+Sun Nov 15 1998,Piacenza Calcio,4-2,Acf Fiorentina
+Sun Nov 15 1998,Vicenza Calcio,0-4,Bologna FC
+Sun Nov 15 1998,Fbc Unione Venezia,2-0,Lazio Roma
+Sun Nov 15 1998,Salernitana Calcio 1919,2-0,Ac Perugia Calcio
+Sun Nov 15 1998,As Bari,0-0,AC Milan
+Sat Nov 21 1998,As Roma,1-1,As Bari
+Sat Nov 21 1998,Bologna FC,1-1,Ac Perugia Calcio
+Sat Nov 21 1998,Cagliari Calcio,1-0,Parma FC
+Sun Nov 22 1998,AC Milan,1-0,Lazio Roma
+Sun Nov 22 1998,Juventus,0-0,Empoli FC
+Sun Nov 22 1998,Udinese Calcio,1-0,Piacenza Calcio
+Sun Nov 22 1998,Sampdoria,0-0,Vicenza Calcio
+Sun Nov 22 1998,Acf Fiorentina,3-1,Inter
+Sun Nov 22 1998,Salernitana Calcio 1919,1-0,Fbc Unione Venezia
+Sun Nov 29 1998,Parma FC,4-0,AC Milan
+Sun Nov 29 1998,Inter,2-1,Salernitana Calcio 1919
+Sun Nov 29 1998,Lazio Roma,3-3,As Roma
+Sun Nov 29 1998,Udinese Calcio,2-1,Cagliari Calcio
+Sun Nov 29 1998,Bologna FC,3-0,Juventus
+Sun Nov 29 1998,Empoli FC,1-0,Vicenza Calcio
+Sun Nov 29 1998,Ac Perugia Calcio,2-0,Piacenza Calcio
+Sun Nov 29 1998,Fbc Unione Venezia,0-0,Sampdoria
+Sun Nov 29 1998,As Bari,0-0,Acf Fiorentina
+Sat Dec 5 1998,As Roma,5-1,Ac Perugia Calcio
+Sat Dec 5 1998,Sampdoria,0-2,Parma FC
+Sat Dec 5 1998,Acf Fiorentina,1-0,Bologna FC
+Sun Dec 6 1998,AC Milan,3-0,Udinese Calcio
+Sun Dec 6 1998,Juventus,0-1,Lazio Roma
+Sun Dec 6 1998,Cagliari Calcio,0-1,Fbc Unione Venezia
+Sun Dec 6 1998,Piacenza Calcio,0-0,Empoli FC
+Sun Dec 6 1998,Vicenza Calcio,1-1,Inter
+Sun Dec 6 1998,Salernitana Calcio 1919,2-2,As Bari
+Sun Dec 13 1998,AC Milan,1-0,Vicenza Calcio
+Sun Dec 13 1998,Parma FC,1-1,As Roma
+Sun Dec 13 1998,Lazio Roma,5-2,Sampdoria
+Sun Dec 13 1998,Udinese Calcio,0-1,Inter
+Sun Dec 13 1998,Bologna FC,1-1,Salernitana Calcio 1919
+Sun Dec 13 1998,Acf Fiorentina,1-0,Juventus
+Sun Dec 13 1998,Ac Perugia Calcio,2-1,Cagliari Calcio
+Sun Dec 13 1998,Fbc Unione Venezia,0-0,Piacenza Calcio
+Sun Dec 13 1998,As Bari,2-1,Empoli FC
+Sun Dec 20 1998,Juventus,3-0,Salernitana Calcio 1919
+Sun Dec 20 1998,Inter,4-1,As Roma
+Sun Dec 20 1998,Lazio Roma,3-1,Udinese Calcio
+Sun Dec 20 1998,Sampdoria,2-2,AC Milan
+Sun Dec 20 1998,Cagliari Calcio,0-1,Bologna FC
+Sun Dec 20 1998,Empoli FC,3-5,Parma FC
+Sun Dec 20 1998,Ac Perugia Calcio,2-2,Acf Fiorentina
+Sun Dec 20 1998,Piacenza Calcio,3-2,As Bari
+Sun Dec 20 1998,Vicenza Calcio,0-0,Fbc Unione Venezia
+Wed Jan 6 1999,AC Milan,1-1,Juventus
+Wed Jan 6 1999,As Roma,2-2,Piacenza Calcio
+Wed Jan 6 1999,Parma FC,1-0,Inter
+Wed Jan 6 1999,Udinese Calcio,2-1,Vicenza Calcio
+Wed Jan 6 1999,Bologna FC,0-1,Lazio Roma
+Wed Jan 6 1999,Acf Fiorentina,1-0,Sampdoria
+Wed Jan 6 1999,Salernitana Calcio 1919,1-3,Cagliari Calcio
+Wed Jan 6 1999,As Bari,2-1,Ac Perugia Calcio
+Sun Jan 10 1999,Juventus,1-1,As Bari
+Sun Jan 10 1999,Inter,6-2,Fbc Unione Venezia
+Sun Jan 10 1999,Lazio Roma,2-0,Acf Fiorentina
+Sun Jan 10 1999,Sampdoria,1-1,Bologna FC
+Sun Jan 10 1999,Cagliari Calcio,4-3,As Roma
+Sun Jan 10 1999,Empoli FC,1-1,AC Milan
+Sun Jan 10 1999,Ac Perugia Calcio,1-3,Udinese Calcio
+Sun Jan 10 1999,Piacenza Calcio,3-6,Parma FC
+Sun Jan 10 1999,Vicenza Calcio,1-0,Salernitana Calcio 1919
+Sun Jan 17 1999,AC Milan,2-1,Ac Perugia Calcio
+Sun Jan 17 1999,As Roma,3-0,Vicenza Calcio
+Sun Jan 17 1999,Parma FC,1-3,Lazio Roma
+Sun Jan 17 1999,Udinese Calcio,0-0,Empoli FC
+Sun Jan 17 1999,Bologna FC,2-0,Inter
+Sun Jan 17 1999,Acf Fiorentina,4-2,Cagliari Calcio
+Sun Jan 17 1999,Fbc Unione Venezia,1-1,Juventus
+Sun Jan 17 1999,Salernitana Calcio 1919,1-1,Piacenza Calcio
+Sun Jan 17 1999,As Bari,3-1,Sampdoria
+Wed Jan 20 1999,Fbc Unione Venezia,3-2,Empoli FC
+Sun Jan 24 1999,Juventus,2-1,Ac Perugia Calcio
+Sun Jan 24 1999,Inter,5-1,Cagliari Calcio
+Sun Jan 24 1999,Lazio Roma,4-1,Piacenza Calcio
+Sun Jan 24 1999,Sampdoria,1-1,Udinese Calcio
+Sun Jan 24 1999,Bologna FC,2-3,AC Milan
+Sun Jan 24 1999,Empoli FC,0-3,Acf Fiorentina
+Sun Jan 24 1999,Vicenza Calcio,0-0,Parma FC
+Sun Jan 24 1999,Fbc Unione Venezia,2-1,As Bari
+Sun Jan 24 1999,Salernitana Calcio 1919,2-1,As Roma
+Sun Jan 31 1999,AC Milan,3-2,Salernitana Calcio 1919
+Sun Jan 31 1999,As Roma,1-1,Empoli FC
+Sun Jan 31 1999,Parma FC,2-2,Fbc Unione Venezia
+Sun Jan 31 1999,Udinese Calcio,2-0,Bologna FC
+Sun Jan 31 1999,Cagliari Calcio,1-0,Juventus
+Sun Jan 31 1999,Acf Fiorentina,3-0,Vicenza Calcio
+Sun Jan 31 1999,Ac Perugia Calcio,2-0,Sampdoria
+Sun Jan 31 1999,Piacenza Calcio,0-0,Inter
+Sun Jan 31 1999,As Bari,1-3,Lazio Roma
+Sun Feb 7 1999,Juventus,2-4,Parma FC
+Sun Feb 7 1999,Inter,5-1,Empoli FC
+Sun Feb 7 1999,Lazio Roma,3-0,Ac Perugia Calcio
+Sun Feb 7 1999,Sampdoria,0-0,Cagliari Calcio
+Sun Feb 7 1999,Bologna FC,3-1,As Bari
+Sun Feb 7 1999,Acf Fiorentina,0-0,AC Milan
+Sun Feb 7 1999,Vicenza Calcio,1-0,Piacenza Calcio
+Sun Feb 7 1999,Fbc Unione Venezia,3-1,As Roma
+Sun Feb 7 1999,Salernitana Calcio 1919,1-2,Udinese Calcio
+Sun Feb 14 1999,AC Milan,2-1,Fbc Unione Venezia
+Sun Feb 14 1999,As Roma,3-1,Sampdoria
+Sun Feb 14 1999,Parma FC,1-1,Bologna FC
+Sun Feb 14 1999,Udinese Calcio,1-0,Acf Fiorentina
+Sun Feb 14 1999,Cagliari Calcio,0-0,Lazio Roma
+Sun Feb 14 1999,Empoli FC,2-3,Salernitana Calcio 1919
+Sun Feb 14 1999,Ac Perugia Calcio,2-1,Inter
+Sun Feb 14 1999,Piacenza Calcio,0-2,Juventus
+Sun Feb 14 1999,As Bari,0-0,Vicenza Calcio
+Sun Feb 21 1999,AC Milan,1-0,Cagliari Calcio
+Sun Feb 21 1999,Juventus,2-0,Vicenza Calcio
+Sun Feb 21 1999,Lazio Roma,1-0,Inter
+Sun Feb 21 1999,Udinese Calcio,4-0,As Bari
+Sun Feb 21 1999,Sampdoria,3-2,Piacenza Calcio
+Sun Feb 21 1999,Bologna FC,2-0,Empoli FC
+Sun Feb 21 1999,Acf Fiorentina,0-0,As Roma
+Sun Feb 21 1999,Fbc Unione Venezia,2-1,Ac Perugia Calcio
+Sun Feb 21 1999,Salernitana Calcio 1919,1-2,Parma FC
+Sat Feb 27 1999,As Roma,1-0,AC Milan
+Sat Feb 27 1999,Parma FC,3-1,Ac Perugia Calcio
+Sat Feb 27 1999,Inter,0-0,Juventus
+Sat Feb 27 1999,Piacenza Calcio,5-0,Bologna FC
+Sun Feb 28 1999,Empoli FC,0-1,Sampdoria
+Sun Feb 28 1999,Vicenza Calcio,1-2,Lazio Roma
+Sun Feb 28 1999,Fbc Unione Venezia,1-0,Udinese Calcio
+Sun Feb 28 1999,Salernitana Calcio 1919,1-1,Acf Fiorentina
+Sun Feb 28 1999,As Bari,1-1,Cagliari Calcio
+Sun Mar 7 1999,AC Milan,1-0,Piacenza Calcio
+Sun Mar 7 1999,Lazio Roma,6-1,Salernitana Calcio 1919
+Sun Mar 7 1999,Udinese Calcio,2-1,As Roma
+Sun Mar 7 1999,Sampdoria,1-2,Juventus
+Sun Mar 7 1999,Bologna FC,2-1,Fbc Unione Venezia
+Sun Mar 7 1999,Cagliari Calcio,1-0,Vicenza Calcio
+Sun Mar 7 1999,Acf Fiorentina,2-1,Parma FC
+Sun Mar 7 1999,Ac Perugia Calcio,3-1,Empoli FC
+Sun Mar 7 1999,As Bari,1-0,Inter
+Sat Mar 13 1999,As Roma,3-1,Bologna FC
+Sat Mar 13 1999,Juventus,2-1,Udinese Calcio
+Sat Mar 13 1999,Parma FC,2-1,As Bari
+Sat Mar 13 1999,Inter,2-2,AC Milan
+Sun Mar 14 1999,Empoli FC,0-0,Lazio Roma
+Sun Mar 14 1999,Piacenza Calcio,2-0,Cagliari Calcio
+Sun Mar 14 1999,Vicenza Calcio,3-0,Ac Perugia Calcio
+Sun Mar 14 1999,Fbc Unione Venezia,4-1,Acf Fiorentina
+Sun Mar 14 1999,Salernitana Calcio 1919,2-0,Sampdoria
+Sun Mar 21 1999,AC Milan,2-2,As Bari
+Sun Mar 21 1999,Juventus,1-1,As Roma
+Sun Mar 21 1999,Lazio Roma,2-0,Fbc Unione Venezia
+Sun Mar 21 1999,Udinese Calcio,2-1,Parma FC
+Sun Mar 21 1999,Sampdoria,4-0,Inter
+Sun Mar 21 1999,Bologna FC,4-2,Vicenza Calcio
+Sun Mar 21 1999,Cagliari Calcio,5-1,Empoli FC
+Sun Mar 21 1999,Acf Fiorentina,2-1,Piacenza Calcio
+Sun Mar 21 1999,Ac Perugia Calcio,1-0,Salernitana Calcio 1919
+Sat Apr 3 1999,Parma FC,1-1,Cagliari Calcio
+Sat Apr 3 1999,Inter,2-0,Acf Fiorentina
+Sat Apr 3 1999,Lazio Roma,0-0,AC Milan
+Sat Apr 3 1999,Empoli FC,1-0,Juventus
+Sat Apr 3 1999,Ac Perugia Calcio,0-0,Bologna FC
+Sat Apr 3 1999,Piacenza Calcio,4-3,Udinese Calcio
+Sat Apr 3 1999,Vicenza Calcio,1-0,Sampdoria
+Sat Apr 3 1999,Fbc Unione Venezia,0-0,Salernitana Calcio 1919
+Sat Apr 3 1999,As Bari,1-4,As Roma
+Sun Apr 11 1999,AC Milan,2-1,Parma FC
+Sun Apr 11 1999,As Roma,3-1,Lazio Roma
+Sun Apr 11 1999,Juventus,2-2,Bologna FC
+Sun Apr 11 1999,Sampdoria,2-1,Fbc Unione Venezia
+Sun Apr 11 1999,Cagliari Calcio,1-2,Udinese Calcio
+Sun Apr 11 1999,Acf Fiorentina,2-2,As Bari
+Sun Apr 11 1999,Piacenza Calcio,2-0,Ac Perugia Calcio
+Sun Apr 11 1999,Vicenza Calcio,2-0,Empoli FC
+Sun Apr 11 1999,Salernitana Calcio 1919,2-0,Inter
+Sat Apr 17 1999,Parma FC,1-1,Sampdoria
+Sat Apr 17 1999,Lazio Roma,1-3,Juventus
+Sat Apr 17 1999,Bologna FC,3-0,Acf Fiorentina
+Sun Apr 18 1999,Inter,1-1,Vicenza Calcio
+Sun Apr 18 1999,Udinese Calcio,1-5,AC Milan
+Sun Apr 18 1999,Empoli FC,1-2,Piacenza Calcio
+Sun Apr 18 1999,Ac Perugia Calcio,3-2,As Roma
+Sun Apr 18 1999,Fbc Unione Venezia,1-0,Cagliari Calcio
+Sun Apr 18 1999,As Bari,0-0,Salernitana Calcio 1919
+Sun Apr 25 1999,As Roma,1-0,Parma FC
+Sun Apr 25 1999,Juventus,2-1,Acf Fiorentina
+Sun Apr 25 1999,Inter,1-3,Udinese Calcio
+Sun Apr 25 1999,Sampdoria,0-1,Lazio Roma
+Sun Apr 25 1999,Cagliari Calcio,2-2,Ac Perugia Calcio
+Sun Apr 25 1999,Empoli FC,0-2,As Bari
+Sun Apr 25 1999,Piacenza Calcio,0-1,Fbc Unione Venezia
+Sun Apr 25 1999,Vicenza Calcio,0-2,AC Milan
+Sun Apr 25 1999,Salernitana Calcio 1919,4-0,Bologna FC
+Sun May 2 1999,AC Milan,3-2,Sampdoria
+Sun May 2 1999,Parma FC,1-0,Empoli FC
+Sun May 2 1999,Udinese Calcio,0-3,Lazio Roma
+Sun May 2 1999,Bologna FC,1-3,Cagliari Calcio
+Sun May 2 1999,Acf Fiorentina,5-1,Ac Perugia Calcio
+Sun May 2 1999,Fbc Unione Venezia,1-2,Vicenza Calcio
+Sun May 2 1999,Salernitana Calcio 1919,1-0,Juventus
+Sun May 2 1999,As Bari,3-1,Piacenza Calcio
+Mon May 3 1999,As Roma,4-5,Inter
+Sat May 8 1999,Inter,1-3,Parma FC
+Sun May 9 1999,Juventus,0-2,AC Milan
+Sun May 9 1999,Lazio Roma,2-0,Bologna FC
+Sun May 9 1999,Sampdoria,3-2,Acf Fiorentina
+Sun May 9 1999,Cagliari Calcio,3-1,Salernitana Calcio 1919
+Sun May 9 1999,Empoli FC,2-2,Fbc Unione Venezia
+Sun May 9 1999,Ac Perugia Calcio,0-1,As Bari
+Sun May 9 1999,Piacenza Calcio,2-0,As Roma
+Sun May 9 1999,Vicenza Calcio,2-3,Udinese Calcio
+Sat May 15 1999,AC Milan,4-0,Empoli FC
+Sat May 15 1999,Acf Fiorentina,1-1,Lazio Roma
+Sun May 16 1999,As Roma,3-1,Cagliari Calcio
+Sun May 16 1999,Parma FC,0-1,Piacenza Calcio
+Sun May 16 1999,Udinese Calcio,1-2,Ac Perugia Calcio
+Sun May 16 1999,Bologna FC,2-2,Sampdoria
+Sun May 16 1999,Fbc Unione Venezia,3-1,Inter
+Sun May 16 1999,Salernitana Calcio 1919,2-1,Vicenza Calcio
+Sun May 16 1999,As Bari,0-1,Juventus
+Sun May 23 1999,Juventus,3-2,Fbc Unione Venezia
+Sun May 23 1999,Inter,3-1,Bologna FC
+Sun May 23 1999,Lazio Roma,2-1,Parma FC
+Sun May 23 1999,Sampdoria,1-0,As Bari
+Sun May 23 1999,Cagliari Calcio,1-1,Acf Fiorentina
+Sun May 23 1999,Empoli FC,1-3,Udinese Calcio
+Sun May 23 1999,Ac Perugia Calcio,1-2,AC Milan
+Sun May 23 1999,Piacenza Calcio,1-1,Salernitana Calcio 1919
+Sun May 23 1999,Vicenza Calcio,1-4,As Roma

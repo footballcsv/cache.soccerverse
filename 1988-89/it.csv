@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sun Oct 9 1988,AC Milan,4-0,Acf Fiorentina
+Sun Oct 9 1988,Hellas Verona,2-1,US Lecce
+Sun Oct 9 1988,Torino FC,2-3,Sampdoria
+Sun Oct 9 1988,Pisa SC,0-2,Bologna FC
+Sun Oct 9 1988,Ssc Napoli,1-0,Atalanta
+Sun Oct 9 1988,Calcio Como,0-3,Juventus
+Sun Oct 9 1988,Ac Cesena,0-0,Lazio Roma
+Sun Oct 9 1988,Ascoli Calcio,1-3,Inter
+Sun Oct 9 1988,Pescara Calcio,0-0,As Roma
+Sun Oct 16 1988,Lazio Roma,1-1,Torino FC
+Sun Oct 16 1988,Sampdoria,2-0,Calcio Como
+Sun Oct 16 1988,US Lecce,1-0,Ssc Napoli
+Sun Oct 16 1988,Atalanta,2-2,Hellas Verona
+Sun Oct 16 1988,Inter,4-1,Pisa SC
+Sun Oct 16 1988,Acf Fiorentina,2-1,Ascoli Calcio
+Sun Oct 16 1988,Bologna FC,0-1,As Roma
+Sun Oct 16 1988,Juventus,2-2,Ac Cesena
+Sun Oct 16 1988,Pescara Calcio,1-3,AC Milan
+Sun Oct 23 1988,AC Milan,0-0,Lazio Roma
+Sun Oct 23 1988,Hellas Verona,0-0,Inter
+Sun Oct 23 1988,Torino FC,1-1,Atalanta
+Sun Oct 23 1988,As Roma,1-1,US Lecce
+Sun Oct 23 1988,Ssc Napoli,8-2,Pescara Calcio
+Sun Oct 23 1988,Calcio Como,1-0,Bologna FC
+Sun Oct 23 1988,Ac Cesena,0-3,Acf Fiorentina
+Sun Oct 23 1988,Ascoli Calcio,1-1,Juventus
+Sun Oct 23 1988,Pisa SC,1-1,Sampdoria
+Sun Oct 30 1988,Inter,2-0,As Roma
+Sun Oct 30 1988,Sampdoria,1-0,Ascoli Calcio
+Sun Oct 30 1988,Pescara Calcio,0-0,Hellas Verona
+Sun Oct 30 1988,US Lecce,1-0,Pisa SC
+Sun Oct 30 1988,Acf Fiorentina,2-1,Torino FC
+Sun Oct 30 1988,Ac Cesena,0-1,Ssc Napoli
+Sun Oct 30 1988,Atalanta,2-0,Bologna FC
+Sun Oct 30 1988,Lazio Roma,1-1,Calcio Como
+Sun Oct 30 1988,Juventus,0-0,AC Milan
+Sun Nov 6 1988,Inter,1-0,Sampdoria
+Sun Nov 6 1988,Hellas Verona,1-2,AC Milan
+Sun Nov 6 1988,Torino FC,2-0,Ac Cesena
+Sun Nov 6 1988,Ssc Napoli,1-1,Lazio Roma
+Sun Nov 6 1988,Acf Fiorentina,1-1,Atalanta
+Sun Nov 6 1988,Calcio Como,2-1,US Lecce
+Sun Nov 6 1988,Bologna FC,3-4,Juventus
+Sun Nov 6 1988,Ascoli Calcio,0-1,Pescara Calcio
+Sun Nov 6 1988,As Roma,2-1,Pisa SC
+Sun Nov 20 1988,Sampdoria,4-1,Bologna FC
+Sun Nov 20 1988,Pisa SC,0-0,Acf Fiorentina
+Sun Nov 20 1988,US Lecce,1-2,Ascoli Calcio
+Sun Nov 20 1988,AC Milan,1-2,Atalanta
+Sun Nov 20 1988,Juventus,3-5,Ssc Napoli
+Sun Nov 20 1988,Calcio Como,1-2,Inter
+Sun Nov 20 1988,Ac Cesena,1-1,As Roma
+Sun Nov 20 1988,Pescara Calcio,2-0,Torino FC
+Sun Nov 20 1988,Lazio Roma,3-1,Hellas Verona
+Tue Nov 22 1988,Calcio Como,1-0,Pescara Calcio
+Tue Nov 22 1988,Inter,1-0,Lazio Roma
+Tue Nov 22 1988,Juventus,0-1,Atalanta
+Tue Nov 22 1988,US Lecce,0-0,Acf Fiorentina
+Tue Nov 22 1988,Pisa SC,1-0,Ac Cesena
+Tue Nov 22 1988,As Roma,1-3,AC Milan
+Tue Nov 22 1988,Sampdoria,0-0,Ssc Napoli
+Tue Nov 22 1988,Bologna FC,0-0,Hellas Verona
+Tue Nov 22 1988,Ascoli Calcio,1-0,Torino FC
+Sun Nov 27 1988,Inter,1-0,Ac Cesena
+Sun Nov 27 1988,As Roma,1-3,Torino FC
+Sun Nov 27 1988,Juventus,1-0,US Lecce
+Sun Nov 27 1988,Hellas Verona,0-0,Calcio Como
+Sun Nov 27 1988,Acf Fiorentina,0-2,Sampdoria
+Sun Nov 27 1988,Bologna FC,0-0,Lazio Roma
+Sun Nov 27 1988,Atalanta,0-0,Pescara Calcio
+Sun Nov 27 1988,Ascoli Calcio,0-1,Pisa SC
+Sun Nov 27 1988,Ssc Napoli,4-1,AC Milan
+Sun Dec 4 1988,Pescara Calcio,0-2,Inter
+Sun Dec 4 1988,Torino FC,1-1,Hellas Verona
+Sun Dec 4 1988,Sampdoria,0-2,As Roma
+Sun Dec 4 1988,Pisa SC,1-4,Juventus
+Sun Dec 4 1988,Ssc Napoli,2-0,Acf Fiorentina
+Sun Dec 4 1988,AC Milan,2-0,US Lecce
+Sun Dec 4 1988,Lazio Roma,0-1,Atalanta
+Sun Dec 4 1988,Ac Cesena,2-0,Bologna FC
+Sun Dec 4 1988,Calcio Como,0-1,Ascoli Calcio
+Sun Dec 11 1988,AC Milan,0-1,Inter
+Sun Dec 11 1988,Bologna FC,2-0,Torino FC
+Sun Dec 11 1988,Hellas Verona,0-1,Ssc Napoli
+Sun Dec 11 1988,As Roma,1-0,Calcio Como
+Sun Dec 11 1988,Acf Fiorentina,3-2,Pescara Calcio
+Sun Dec 11 1988,Juventus,0-0,Sampdoria
+Sun Dec 11 1988,US Lecce,1-0,Lazio Roma
+Sun Dec 11 1988,Ascoli Calcio,1-1,Ac Cesena
+Sun Dec 11 1988,Atalanta,1-0,Pisa SC
+Sun Dec 18 1988,Ssc Napoli,3-1,Bologna FC
+Sun Dec 18 1988,Torino FC,2-2,AC Milan
+Sun Dec 18 1988,Pisa SC,1-0,Hellas Verona
+Sun Dec 18 1988,Lazio Roma,2-2,Pescara Calcio
+Sun Dec 18 1988,Inter,1-1,Juventus
+Sun Dec 18 1988,Calcio Como,3-2,Acf Fiorentina
+Sun Dec 18 1988,Ac Cesena,0-0,Atalanta
+Sun Dec 18 1988,Ascoli Calcio,0-3,As Roma
+Sun Dec 18 1988,Sampdoria,3-0,US Lecce
+Sat Dec 31 1988,Atalanta,1-1,Calcio Como
+Sat Dec 31 1988,Hellas Verona,2-1,Acf Fiorentina
+Sat Dec 31 1988,As Roma,1-0,Ssc Napoli
+Sat Dec 31 1988,Pisa SC,1-1,Lazio Roma
+Sat Dec 31 1988,Pescara Calcio,3-0,Ac Cesena
+Sat Dec 31 1988,AC Milan,0-0,Sampdoria
+Sat Dec 31 1988,US Lecce,0-3,Inter
+Sat Dec 31 1988,Juventus,1-0,Torino FC
+Sat Dec 31 1988,Bologna FC,1-0,Ascoli Calcio
+Sun Jan 8 1989,Torino FC,0-1,Ssc Napoli
+Sun Jan 8 1989,Ac Cesena,1-0,AC Milan
+Sun Jan 8 1989,Calcio Como,1-1,Pisa SC
+Sun Jan 8 1989,Acf Fiorentina,3-0,Lazio Roma
+Sun Jan 8 1989,Inter,1-0,Bologna FC
+Sun Jan 8 1989,US Lecce,1-0,Pescara Calcio
+Sun Jan 8 1989,Sampdoria,1-1,Atalanta
+Sun Jan 8 1989,Ascoli Calcio,3-0,Hellas Verona
+Sun Jan 8 1989,As Roma,1-3,Juventus
+Sun Jan 15 1989,Bologna FC,2-1,US Lecce
+Sun Jan 15 1989,Hellas Verona,0-0,Ac Cesena
+Sun Jan 15 1989,Torino FC,0-0,Pisa SC
+Sun Jan 15 1989,Pescara Calcio,0-1,Sampdoria
+Sun Jan 15 1989,Ssc Napoli,0-0,Inter
+Sun Jan 15 1989,AC Milan,4-0,Calcio Como
+Sun Jan 15 1989,Acf Fiorentina,2-1,Juventus
+Sun Jan 15 1989,Atalanta,1-0,Ascoli Calcio
+Sun Jan 15 1989,Lazio Roma,1-0,As Roma
+Sun Jan 29 1989,Acf Fiorentina,2-2,As Roma
+Sun Jan 29 1989,Hellas Verona,1-1,Sampdoria
+Sun Jan 29 1989,Torino FC,2-1,Calcio Como
+Sun Jan 29 1989,Pescara Calcio,3-1,Bologna FC
+Sun Jan 29 1989,Ssc Napoli,4-1,Ascoli Calcio
+Sun Jan 29 1989,Lazio Roma,0-0,Juventus
+Sun Jan 29 1989,Ac Cesena,3-2,US Lecce
+Sun Jan 29 1989,Atalanta,1-1,Inter
+Sun Jan 29 1989,AC Milan,0-0,Pisa SC
+Sun Feb 5 1989,US Lecce,2-1,Atalanta
+Sun Feb 5 1989,As Roma,0-0,Hellas Verona
+Sun Feb 5 1989,Sampdoria,1-0,Lazio Roma
+Sun Feb 5 1989,Pisa SC,0-1,Ssc Napoli
+Sun Feb 5 1989,Inter,2-0,Torino FC
+Sun Feb 5 1989,Ascoli Calcio,0-2,AC Milan
+Sun Feb 5 1989,Calcio Como,0-0,Ac Cesena
+Sun Feb 5 1989,Bologna FC,1-0,Acf Fiorentina
+Sun Feb 5 1989,Juventus,1-1,Pescara Calcio
+Sun Feb 12 1989,AC Milan,1-1,Bologna FC
+Sun Feb 12 1989,Atalanta,2-2,As Roma
+Sun Feb 12 1989,Torino FC,0-0,US Lecce
+Sun Feb 12 1989,Ssc Napoli,3-2,Calcio Como
+Sun Feb 12 1989,Hellas Verona,2-0,Juventus
+Sun Feb 12 1989,Lazio Roma,0-0,Ascoli Calcio
+Sun Feb 12 1989,Acf Fiorentina,4-3,Inter
+Sun Feb 12 1989,Ac Cesena,0-0,Sampdoria
+Sun Feb 12 1989,Pescara Calcio,0-0,Pisa SC
+Sun Feb 19 1989,Lazio Roma,0-0,Ac Cesena
+Sun Feb 19 1989,Sampdoria,5-1,Torino FC
+Sun Feb 19 1989,As Roma,1-3,Pescara Calcio
+Sun Feb 19 1989,US Lecce,0-0,Hellas Verona
+Sun Feb 19 1989,Juventus,0-0,Calcio Como
+Sun Feb 19 1989,Inter,3-1,Ascoli Calcio
+Sun Feb 19 1989,Acf Fiorentina,0-2,AC Milan
+Sun Feb 19 1989,Atalanta,1-1,Ssc Napoli
+Sun Feb 19 1989,Bologna FC,1-0,Pisa SC
+Sun Feb 26 1989,Calcio Como,0-2,Sampdoria
+Sun Feb 26 1989,Hellas Verona,1-0,Atalanta
+Sun Feb 26 1989,Torino FC,4-3,Lazio Roma
+Sun Feb 26 1989,As Roma,1-1,Bologna FC
+Sun Feb 26 1989,AC Milan,6-1,Pescara Calcio
+Sun Feb 26 1989,Ascoli Calcio,1-1,Acf Fiorentina
+Sun Feb 26 1989,Ac Cesena,1-2,Juventus
+Sun Feb 26 1989,Pisa SC,0-3,Inter
+Sun Feb 26 1989,Ssc Napoli,4-0,US Lecce
+Sun Mar 5 1989,Inter,1-0,Hellas Verona
+Sun Mar 5 1989,Pescara Calcio,0-0,Ssc Napoli
+Sun Mar 5 1989,US Lecce,0-0,As Roma
+Sun Mar 5 1989,Juventus,2-0,Ascoli Calcio
+Sun Mar 5 1989,Sampdoria,2-0,Pisa SC
+Sun Mar 5 1989,Acf Fiorentina,4-1,Ac Cesena
+Sun Mar 5 1989,Bologna FC,1-0,Calcio Como
+Sun Mar 5 1989,Atalanta,1-0,Torino FC
+Sun Mar 5 1989,Lazio Roma,1-1,AC Milan
+Sun Mar 12 1989,Pisa SC,1-1,US Lecce
+Sun Mar 12 1989,Torino FC,1-0,Acf Fiorentina
+Sun Mar 12 1989,As Roma,0-3,Inter
+Sun Mar 12 1989,Ssc Napoli,1-0,Ac Cesena
+Sun Mar 12 1989,AC Milan,4-0,Juventus
+Sun Mar 12 1989,Calcio Como,2-1,Lazio Roma
+Sun Mar 12 1989,Ascoli Calcio,2-2,Sampdoria
+Sun Mar 12 1989,Hellas Verona,0-0,Pescara Calcio
+Sun Mar 12 1989,Bologna FC,1-1,Atalanta
+Sun Mar 19 1989,AC Milan,1-1,Hellas Verona
+Sun Mar 19 1989,Sampdoria,0-1,Inter
+Sun Mar 19 1989,Pisa SC,1-0,As Roma
+Sun Mar 19 1989,Pescara Calcio,0-0,Ascoli Calcio
+Sun Mar 19 1989,Lazio Roma,1-1,Ssc Napoli
+Sun Mar 19 1989,Juventus,2-0,Bologna FC
+Sun Mar 19 1989,Atalanta,0-1,Acf Fiorentina
+Sun Mar 19 1989,US Lecce,0-0,Calcio Como
+Sun Mar 19 1989,Ac Cesena,3-2,Torino FC
+Sun Apr 2 1989,Acf Fiorentina,3-0,Pisa SC
+Sun Apr 2 1989,Hellas Verona,0-0,Lazio Roma
+Sun Apr 2 1989,Torino FC,1-1,Pescara Calcio
+Sun Apr 2 1989,As Roma,1-0,Ac Cesena
+Sun Apr 2 1989,Inter,4-0,Calcio Como
+Sun Apr 2 1989,Bologna FC,0-0,Sampdoria
+Sun Apr 2 1989,Atalanta,1-2,AC Milan
+Sun Apr 2 1989,Ascoli Calcio,1-1,US Lecce
+Sun Apr 2 1989,Ssc Napoli,2-4,Juventus
+Sun Apr 9 1989,Torino FC,3-1,As Roma
+Sun Apr 9 1989,Pescara Calcio,1-1,Atalanta
+Sun Apr 9 1989,Pisa SC,0-0,Ascoli Calcio
+Sun Apr 9 1989,US Lecce,2-0,Juventus
+Sun Apr 9 1989,Lazio Roma,0-0,Bologna FC
+Sun Apr 9 1989,Calcio Como,1-1,Hellas Verona
+Sun Apr 9 1989,Ac Cesena,1-2,Inter
+Sun Apr 9 1989,Sampdoria,1-2,Acf Fiorentina
+Sun Apr 9 1989,AC Milan,0-0,Ssc Napoli
+Sun Apr 16 1989,Acf Fiorentina,1-3,Ssc Napoli
+Sun Apr 16 1989,Hellas Verona,0-0,Torino FC
+Sun Apr 16 1989,As Roma,1-0,Sampdoria
+Sun Apr 16 1989,US Lecce,1-1,AC Milan
+Sun Apr 16 1989,Inter,2-1,Pescara Calcio
+Sun Apr 16 1989,Bologna FC,2-2,Ac Cesena
+Sun Apr 16 1989,Atalanta,3-1,Lazio Roma
+Sun Apr 16 1989,Ascoli Calcio,2-0,Calcio Como
+Sun Apr 16 1989,Juventus,3-1,Pisa SC
+Sun Apr 30 1989,Pescara Calcio,0-0,Acf Fiorentina
+Sun Apr 30 1989,Sampdoria,1-2,Juventus
+Sun Apr 30 1989,Torino FC,1-1,Bologna FC
+Sun Apr 30 1989,Pisa SC,0-1,Atalanta
+Sun Apr 30 1989,Lazio Roma,0-0,US Lecce
+Sun Apr 30 1989,Ac Cesena,2-1,Ascoli Calcio
+Sun Apr 30 1989,Inter,0-0,AC Milan
+Sun Apr 30 1989,Calcio Como,0-1,As Roma
+Sun Apr 30 1989,Ssc Napoli,1-0,Hellas Verona
+Sun May 7 1989,US Lecce,1-0,Sampdoria
+Sun May 7 1989,Atalanta,5-1,Ac Cesena
+Sun May 7 1989,As Roma,1-1,Ascoli Calcio
+Sun May 7 1989,AC Milan,2-1,Torino FC
+Sun May 7 1989,Hellas Verona,1-0,Pisa SC
+Sun May 7 1989,Juventus,1-1,Inter
+Sun May 7 1989,Acf Fiorentina,3-1,Calcio Como
+Sun May 7 1989,Bologna FC,1-1,Ssc Napoli
+Sun May 7 1989,Pescara Calcio,0-0,Lazio Roma
+Sun May 14 1989,Lazio Roma,1-0,Pisa SC
+Sun May 14 1989,Torino FC,0-0,Juventus
+Sun May 14 1989,Sampdoria,1-1,AC Milan
+Sun May 14 1989,Ssc Napoli,1-1,As Roma
+Sun May 14 1989,Inter,2-0,US Lecce
+Sun May 14 1989,Acf Fiorentina,1-1,Hellas Verona
+Sun May 14 1989,Calcio Como,1-0,Atalanta
+Sun May 14 1989,Ascoli Calcio,1-0,Bologna FC
+Sun May 14 1989,Ac Cesena,1-0,Pescara Calcio
+Sun May 21 1989,Ssc Napoli,4-1,Torino FC
+Sun May 21 1989,Pisa SC,3-1,Calcio Como
+Sun May 21 1989,Pescara Calcio,1-1,US Lecce
+Sun May 21 1989,Lazio Roma,1-0,Acf Fiorentina
+Sun May 21 1989,Juventus,2-1,As Roma
+Sun May 21 1989,Bologna FC,0-6,Inter
+Sun May 21 1989,Atalanta,1-0,Sampdoria
+Sun May 21 1989,AC Milan,0-0,Ac Cesena
+Sun May 21 1989,Hellas Verona,0-1,Ascoli Calcio
+Sun May 28 1989,Inter,2-1,Ssc Napoli
+Sun May 28 1989,As Roma,0-0,Lazio Roma
+Sun May 28 1989,Pisa SC,1-0,Torino FC
+Sun May 28 1989,Juventus,1-1,Acf Fiorentina
+Sun May 28 1989,Sampdoria,4-1,Pescara Calcio
+Sun May 28 1989,Calcio Como,1-1,AC Milan
+Sun May 28 1989,Ac Cesena,0-0,Hellas Verona
+Sun May 28 1989,Ascoli Calcio,3-1,Atalanta
+Sun May 28 1989,US Lecce,1-1,Bologna FC
+Sun Jun 4 1989,Ssc Napoli,1-1,Sampdoria
+Sun Jun 4 1989,Hellas Verona,0-0,Bologna FC
+Sun Jun 4 1989,Torino FC,1-1,Ascoli Calcio
+Sun Jun 4 1989,Pescara Calcio,1-1,Calcio Como
+Sun Jun 4 1989,AC Milan,4-1,As Roma
+Sun Jun 4 1989,Lazio Roma,1-3,Inter
+Sun Jun 4 1989,Acf Fiorentina,1-1,US Lecce
+Sun Jun 4 1989,Atalanta,0-0,Juventus
+Sun Jun 4 1989,Ac Cesena,1-0,Pisa SC
+Sun Jun 11 1989,Pisa SC,0-2,AC Milan
+Sun Jun 11 1989,Sampdoria,2-1,Hellas Verona
+Sun Jun 11 1989,As Roma,2-1,Acf Fiorentina
+Sun Jun 11 1989,Bologna FC,1-0,Pescara Calcio
+Sun Jun 11 1989,Juventus,4-2,Lazio Roma
+Sun Jun 11 1989,Calcio Como,2-3,Torino FC
+Sun Jun 11 1989,Ascoli Calcio,2-0,Ssc Napoli
+Sun Jun 11 1989,Inter,4-2,Atalanta
+Sun Jun 11 1989,US Lecce,0-0,Ac Cesena
+Sun Jun 18 1989,Pescara Calcio,0-0,Juventus
+Sun Jun 18 1989,Torino FC,2-0,Inter
+Sun Jun 18 1989,Ssc Napoli,0-0,Pisa SC
+Sun Jun 18 1989,AC Milan,5-1,Ascoli Calcio
+Sun Jun 18 1989,Lazio Roma,1-0,Sampdoria
+Sun Jun 18 1989,Acf Fiorentina,0-0,Bologna FC
+Sun Jun 18 1989,Ac Cesena,1-0,Calcio Como
+Sun Jun 18 1989,Atalanta,0-0,US Lecce
+Sun Jun 18 1989,Hellas Verona,0-0,As Roma
+Sun Jun 25 1989,Ascoli Calcio,0-0,Lazio Roma
+Sun Jun 25 1989,Bologna FC,1-4,AC Milan
+Sun Jun 25 1989,Calcio Como,0-1,Ssc Napoli
+Sun Jun 25 1989,Inter,2-0,Acf Fiorentina
+Sun Jun 25 1989,Juventus,3-0,Hellas Verona
+Sun Jun 25 1989,US Lecce,3-1,Torino FC
+Sun Jun 25 1989,Pisa SC,1-1,Pescara Calcio
+Sun Jun 25 1989,As Roma,2-1,Atalanta
+Sun Jun 25 1989,Sampdoria,2-0,Ac Cesena

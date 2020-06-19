@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sun Aug 27 1989,Atalanta,1-0,Hellas Verona
+Sun Aug 27 1989,As Bari,1-1,Acf Fiorentina
+Sun Aug 27 1989,Ac Cesena,0-3,AC Milan
+Sun Aug 27 1989,Genoa CFc,1-0,US Lecce
+Sun Aug 27 1989,Inter,2-1,US Cremonese
+Sun Aug 27 1989,Juventus,1-1,Bologna FC
+Sun Aug 27 1989,Lazio Roma,0-2,Sampdoria
+Sun Aug 27 1989,Udinese Calcio,1-1,As Roma
+Sun Aug 27 1989,Ascoli Calcio,0-1,Ssc Napoli
+Sun Sep 3 1989,US Cremonese,1-2,Ac Cesena
+Sun Sep 3 1989,Hellas Verona,1-4,Juventus
+Sun Sep 3 1989,Sampdoria,0-0,As Bari
+Sun Sep 3 1989,As Roma,0-0,Ascoli Calcio
+Sun Sep 3 1989,Ssc Napoli,1-0,Udinese Calcio
+Sun Sep 3 1989,AC Milan,0-1,Lazio Roma
+Sun Sep 3 1989,Acf Fiorentina,0-0,Genoa CFc
+Sun Sep 3 1989,Bologna FC,2-2,Inter
+Sun Sep 3 1989,US Lecce,2-1,Atalanta
+Wed Sep 6 1989,Inter,2-1,US Lecce
+Wed Sep 6 1989,Atalanta,0-1,AC Milan
+Wed Sep 6 1989,Udinese Calcio,1-1,Bologna FC
+Wed Sep 6 1989,Lazio Roma,1-1,US Cremonese
+Wed Sep 6 1989,Juventus,3-1,Acf Fiorentina
+Wed Sep 6 1989,Ascoli Calcio,2-1,Sampdoria
+Wed Sep 6 1989,As Bari,2-1,Hellas Verona
+Wed Sep 6 1989,Ac Cesena,0-0,Ssc Napoli
+Wed Sep 6 1989,Genoa CFc,0-2,As Roma
+Sun Sep 10 1989,US Lecce,2-1,Ac Cesena
+Sun Sep 10 1989,Hellas Verona,1-2,Ssc Napoli
+Sun Sep 10 1989,Sampdoria,2-0,Inter
+Sun Sep 10 1989,AC Milan,3-1,Udinese Calcio
+Sun Sep 10 1989,Juventus,3-1,Ascoli Calcio
+Sun Sep 10 1989,Acf Fiorentina,1-0,Lazio Roma
+Sun Sep 10 1989,US Cremonese,0-1,Genoa CFc
+Sun Sep 10 1989,Bologna FC,3-1,As Bari
+Sun Sep 10 1989,As Roma,4-1,Atalanta
+Sun Sep 17 1989,Atalanta,2-0,US Cremonese
+Sun Sep 17 1989,Inter,2-1,Juventus
+Sun Sep 17 1989,Udinese Calcio,3-3,Sampdoria
+Sun Sep 17 1989,Ssc Napoli,3-2,Acf Fiorentina
+Sun Sep 17 1989,Lazio Roma,3-0,US Lecce
+Sun Sep 17 1989,Ascoli Calcio,1-1,Hellas Verona
+Sun Sep 17 1989,As Bari,1-2,As Roma
+Sun Sep 17 1989,Ac Cesena,0-0,Bologna FC
+Sun Sep 17 1989,Genoa CFc,1-1,AC Milan
+Sun Sep 24 1989,Juventus,1-0,As Bari
+Sun Sep 24 1989,Hellas Verona,1-1,Lazio Roma
+Sun Sep 24 1989,Sampdoria,1-0,Atalanta
+Sun Sep 24 1989,As Roma,1-0,Ac Cesena
+Sun Sep 24 1989,US Lecce,1-0,Udinese Calcio
+Sun Sep 24 1989,US Cremonese,1-1,Ssc Napoli
+Sun Sep 24 1989,Bologna FC,1-0,Genoa CFc
+Sun Sep 24 1989,Ascoli Calcio,0-1,Inter
+Sun Sep 24 1989,AC Milan,1-1,Acf Fiorentina
+Sun Oct 1 1989,Acf Fiorentina,1-2,Udinese Calcio
+Sun Oct 1 1989,Ssc Napoli,3-0,AC Milan
+Sun Oct 1 1989,Lazio Roma,1-1,Juventus
+Sun Oct 1 1989,Hellas Verona,0-0,US Lecce
+Sun Oct 1 1989,Bologna FC,1-1,US Cremonese
+Sun Oct 1 1989,As Bari,2-2,Ascoli Calcio
+Sun Oct 1 1989,Atalanta,1-0,Ac Cesena
+Sun Oct 1 1989,Inter,3-0,As Roma
+Sun Oct 1 1989,Genoa CFc,1-2,Sampdoria
+Sun Oct 8 1989,Inter,1-1,As Bari
+Sun Oct 8 1989,Udinese Calcio,2-4,Genoa CFc
+Sun Oct 8 1989,Sampdoria,1-0,Hellas Verona
+Sun Oct 8 1989,As Roma,1-1,Ssc Napoli
+Sun Oct 8 1989,Juventus,0-1,Atalanta
+Sun Oct 8 1989,US Cremonese,1-0,AC Milan
+Sun Oct 8 1989,Ac Cesena,0-0,Lazio Roma
+Sun Oct 8 1989,Ascoli Calcio,1-1,Bologna FC
+Sun Oct 8 1989,US Lecce,1-0,Acf Fiorentina
+Sun Oct 22 1989,AC Milan,1-0,As Roma
+Sun Oct 22 1989,Lazio Roma,3-0,Bologna FC
+Sun Oct 22 1989,Ssc Napoli,2-0,Inter
+Sun Oct 22 1989,US Lecce,1-1,As Bari
+Sun Oct 22 1989,Acf Fiorentina,3-1,Sampdoria
+Sun Oct 22 1989,Atalanta,1-0,Ascoli Calcio
+Sun Oct 22 1989,Ac Cesena,1-1,Udinese Calcio
+Sun Oct 22 1989,Hellas Verona,1-1,US Cremonese
+Sun Oct 22 1989,Genoa CFc,2-3,Juventus
+Sun Oct 29 1989,US Cremonese,1-2,Acf Fiorentina
+Sun Oct 29 1989,Udinese Calcio,2-1,Hellas Verona
+Sun Oct 29 1989,As Roma,2-1,US Lecce
+Sun Oct 29 1989,Juventus,1-0,Sampdoria
+Sun Oct 29 1989,Genoa CFc,1-1,Ssc Napoli
+Sun Oct 29 1989,Bologna FC,0-0,Atalanta
+Sun Oct 29 1989,As Bari,2-0,Ac Cesena
+Sun Oct 29 1989,Ascoli Calcio,1-0,AC Milan
+Sun Oct 29 1989,Inter,3-0,Lazio Roma
+Sun Nov 5 1989,AC Milan,3-2,Juventus
+Sun Nov 5 1989,Sampdoria,4-2,As Roma
+Sun Nov 5 1989,Hellas Verona,0-3,Inter
+Sun Nov 5 1989,Ssc Napoli,3-2,US Lecce
+Sun Nov 5 1989,Acf Fiorentina,0-1,Bologna FC
+Sun Nov 5 1989,US Cremonese,2-2,Udinese Calcio
+Sun Nov 5 1989,As Bari,0-0,Genoa CFc
+Sun Nov 5 1989,Ac Cesena,1-0,Ascoli Calcio
+Sun Nov 5 1989,Lazio Roma,1-2,Atalanta
+Sun Nov 19 1989,As Roma,1-1,Lazio Roma
+Sun Nov 19 1989,Atalanta,0-0,As Bari
+Sun Nov 19 1989,Udinese Calcio,2-2,Juventus
+Sun Nov 19 1989,Ssc Napoli,1-1,Sampdoria
+Sun Nov 19 1989,US Lecce,2-1,US Cremonese
+Sun Nov 19 1989,Genoa CFc,2-3,Ac Cesena
+Sun Nov 19 1989,Acf Fiorentina,5-1,Ascoli Calcio
+Sun Nov 19 1989,Bologna FC,1-0,Hellas Verona
+Sun Nov 19 1989,Inter,0-3,AC Milan
+Sun Nov 26 1989,Ac Cesena,1-1,Acf Fiorentina
+Sun Nov 26 1989,Hellas Verona,2-2,As Roma
+Sun Nov 26 1989,Sampdoria,3-0,Bologna FC
+Sun Nov 26 1989,AC Milan,2-0,US Lecce
+Sun Nov 26 1989,Ascoli Calcio,0-1,US Cremonese
+Sun Nov 26 1989,Juventus,1-1,Ssc Napoli
+Sun Nov 26 1989,As Bari,3-1,Udinese Calcio
+Sun Nov 26 1989,Atalanta,2-1,Inter
+Sun Nov 26 1989,Lazio Roma,0-0,Genoa CFc
+Sun Dec 3 1989,US Lecce,0-0,Sampdoria
+Sun Dec 3 1989,Ssc Napoli,3-1,Atalanta
+Sun Dec 3 1989,Udinese Calcio,2-0,Ascoli Calcio
+Sun Dec 3 1989,AC Milan,1-0,Bologna FC
+Sun Dec 3 1989,Genoa CFc,0-1,Hellas Verona
+Sun Dec 3 1989,Acf Fiorentina,1-2,As Roma
+Sun Dec 3 1989,Ac Cesena,2-3,Inter
+Sun Dec 3 1989,US Cremonese,2-2,Juventus
+Sun Dec 3 1989,Lazio Roma,2-2,As Bari
+Sun Dec 10 1989,Bologna FC,2-1,US Lecce
+Sun Dec 10 1989,Hellas Verona,1-0,Acf Fiorentina
+Sun Dec 10 1989,Sampdoria,1-1,AC Milan
+Sun Dec 10 1989,As Roma,3-2,US Cremonese
+Sun Dec 10 1989,Inter,1-0,Genoa CFc
+Sun Dec 10 1989,As Bari,1-1,Ssc Napoli
+Sun Dec 10 1989,Atalanta,1-0,Udinese Calcio
+Sun Dec 10 1989,Ascoli Calcio,0-0,Lazio Roma
+Sun Dec 10 1989,Juventus,1-1,Ac Cesena
+Sun Dec 17 1989,Genoa CFc,2-2,Atalanta
+Sun Dec 17 1989,As Roma,1-0,Juventus
+Sun Dec 17 1989,Ssc Napoli,2-0,Bologna FC
+Sun Dec 17 1989,Udinese Calcio,0-2,Lazio Roma
+Sun Dec 17 1989,Acf Fiorentina,2-2,Inter
+Sun Dec 17 1989,US Cremonese,0-2,As Bari
+Sun Dec 17 1989,Ac Cesena,1-2,Sampdoria
+Sun Dec 17 1989,AC Milan,0-0,Hellas Verona
+Sun Dec 17 1989,US Lecce,1-1,Ascoli Calcio
+Sat Dec 30 1989,Bologna FC,1-1,As Roma
+Sat Dec 30 1989,Hellas Verona,0-2,Ac Cesena
+Sat Dec 30 1989,Sampdoria,1-1,US Cremonese
+Sat Dec 30 1989,Lazio Roma,3-0,Ssc Napoli
+Sat Dec 30 1989,Inter,2-0,Udinese Calcio
+Sat Dec 30 1989,As Bari,0-1,AC Milan
+Sat Dec 30 1989,Atalanta,0-0,Acf Fiorentina
+Sat Dec 30 1989,Ascoli Calcio,0-0,Genoa CFc
+Sat Dec 30 1989,Juventus,3-0,US Lecce
+Sun Jan 7 1990,Ssc Napoli,1-0,Ascoli Calcio
+Sun Jan 7 1990,US Cremonese,0-1,Inter
+Sun Jan 7 1990,Hellas Verona,1-1,Atalanta
+Sun Jan 7 1990,Sampdoria,2-0,Lazio Roma
+Sun Jan 7 1990,As Roma,3-1,Udinese Calcio
+Sun Jan 7 1990,Bologna FC,1-1,Juventus
+Sun Jan 7 1990,Acf Fiorentina,2-2,As Bari
+Sun Jan 7 1990,US Lecce,2-1,Genoa CFc
+Sun Jan 7 1990,AC Milan,3-0,Ac Cesena
+Sun Jan 14 1990,Ac Cesena,1-1,US Cremonese
+Sun Jan 14 1990,Lazio Roma,1-3,AC Milan
+Sun Jan 14 1990,Juventus,2-1,Hellas Verona
+Sun Jan 14 1990,Genoa CFc,1-1,Acf Fiorentina
+Sun Jan 14 1990,Udinese Calcio,2-2,Ssc Napoli
+Sun Jan 14 1990,As Bari,0-2,Sampdoria
+Sun Jan 14 1990,Atalanta,2-1,US Lecce
+Sun Jan 14 1990,Ascoli Calcio,1-1,As Roma
+Sun Jan 14 1990,Inter,3-0,Bologna FC
+Wed Jan 17 1990,AC Milan,3-1,Atalanta
+Wed Jan 17 1990,Sampdoria,2-0,Ascoli Calcio
+Wed Jan 17 1990,As Roma,0-1,Genoa CFc
+Wed Jan 17 1990,Ssc Napoli,1-0,Ac Cesena
+Wed Jan 17 1990,US Lecce,0-0,Inter
+Wed Jan 17 1990,Acf Fiorentina,2-2,Juventus
+Wed Jan 17 1990,Bologna FC,0-0,Udinese Calcio
+Wed Jan 17 1990,Hellas Verona,1-1,As Bari
+Wed Jan 17 1990,US Cremonese,2-1,Lazio Roma
+Sun Jan 21 1990,Inter,2-0,Sampdoria
+Sun Jan 21 1990,Udinese Calcio,0-2,AC Milan
+Sun Jan 21 1990,Ssc Napoli,2-0,Hellas Verona
+Sun Jan 21 1990,Lazio Roma,1-1,Acf Fiorentina
+Sun Jan 21 1990,Ac Cesena,4-0,US Lecce
+Sun Jan 21 1990,As Bari,0-0,Bologna FC
+Sun Jan 21 1990,Ascoli Calcio,1-2,Juventus
+Sun Jan 21 1990,Atalanta,3-0,As Roma
+Sun Jan 21 1990,Genoa CFc,1-0,US Cremonese
+Sun Jan 28 1990,Juventus,1-0,Inter
+Sun Jan 28 1990,Hellas Verona,0-0,Ascoli Calcio
+Sun Jan 28 1990,Sampdoria,3-1,Udinese Calcio
+Sun Jan 28 1990,As Roma,1-0,As Bari
+Sun Jan 28 1990,US Lecce,0-0,Lazio Roma
+Sun Jan 28 1990,Acf Fiorentina,0-1,Ssc Napoli
+Sun Jan 28 1990,US Cremonese,1-1,Atalanta
+Sun Jan 28 1990,Bologna FC,1-0,Ac Cesena
+Sun Jan 28 1990,AC Milan,1-0,Genoa CFc
+Sun Feb 4 1990,Inter,0-0,Ascoli Calcio
+Sun Feb 4 1990,Udinese Calcio,3-1,US Lecce
+Sun Feb 4 1990,Ssc Napoli,3-0,US Cremonese
+Sun Feb 4 1990,Lazio Roma,0-0,Hellas Verona
+Sun Feb 4 1990,Acf Fiorentina,2-3,AC Milan
+Sun Feb 4 1990,Ac Cesena,0-0,As Roma
+Sun Feb 4 1990,As Bari,1-1,Juventus
+Sun Feb 4 1990,Atalanta,2-2,Sampdoria
+Sun Feb 4 1990,Genoa CFc,0-0,Bologna FC
+Sun Feb 11 1990,Juventus,1-0,Lazio Roma
+Sun Feb 11 1990,Udinese Calcio,1-1,Acf Fiorentina
+Sun Feb 11 1990,Sampdoria,0-0,Genoa CFc
+Sun Feb 11 1990,As Roma,1-1,Inter
+Sun Feb 11 1990,US Lecce,1-0,Hellas Verona
+Sun Feb 11 1990,US Cremonese,2-1,Bologna FC
+Sun Feb 11 1990,Ac Cesena,0-0,Atalanta
+Sun Feb 11 1990,Ascoli Calcio,1-1,As Bari
+Sun Feb 11 1990,AC Milan,3-0,Ssc Napoli
+Sun Feb 18 1990,Acf Fiorentina,3-0,US Lecce
+Sun Feb 18 1990,Ssc Napoli,3-1,As Roma
+Sun Feb 18 1990,AC Milan,2-1,US Cremonese
+Sun Feb 18 1990,Hellas Verona,1-0,Sampdoria
+Sun Feb 18 1990,Bologna FC,2-1,Ascoli Calcio
+Sun Feb 18 1990,As Bari,0-0,Inter
+Sun Feb 18 1990,Atalanta,1-2,Juventus
+Sun Feb 18 1990,Lazio Roma,4-0,Ac Cesena
+Sun Feb 18 1990,Genoa CFc,0-0,Udinese Calcio
+Sun Feb 25 1990,US Cremonese,1-1,Hellas Verona
+Sun Feb 25 1990,Udinese Calcio,1-0,Ac Cesena
+Sun Feb 25 1990,Sampdoria,3-0,Acf Fiorentina
+Sun Feb 25 1990,As Roma,0-4,AC Milan
+Sun Feb 25 1990,Inter,3-1,Ssc Napoli
+Sun Feb 25 1990,Bologna FC,1-1,Lazio Roma
+Sun Feb 25 1990,As Bari,0-1,US Lecce
+Sun Feb 25 1990,Ascoli Calcio,1-1,Atalanta
+Sun Feb 25 1990,Juventus,1-1,Genoa CFc
+Sun Mar 4 1990,AC Milan,2-1,Ascoli Calcio
+Sun Mar 4 1990,Sampdoria,0-0,Juventus
+Sun Mar 4 1990,Hellas Verona,2-0,Udinese Calcio
+Sun Mar 4 1990,Ssc Napoli,2-1,Genoa CFc
+Sun Mar 4 1990,Lazio Roma,2-1,Inter
+Sun Mar 4 1990,Acf Fiorentina,0-0,US Cremonese
+Sun Mar 4 1990,Atalanta,0-0,Bologna FC
+Sun Mar 4 1990,Ac Cesena,2-2,As Bari
+Sun Mar 4 1990,US Lecce,0-2,As Roma
+Sun Mar 11 1990,Genoa CFc,0-0,As Bari
+Sun Mar 11 1990,Udinese Calcio,1-1,US Cremonese
+Sun Mar 11 1990,As Roma,1-1,Sampdoria
+Sun Mar 11 1990,US Lecce,1-1,Ssc Napoli
+Sun Mar 11 1990,Inter,0-0,Hellas Verona
+Sun Mar 11 1990,Bologna FC,1-0,Acf Fiorentina
+Sun Mar 11 1990,Atalanta,4-0,Lazio Roma
+Sun Mar 11 1990,Ascoli Calcio,0-0,Ac Cesena
+Sun Mar 11 1990,Juventus,3-0,AC Milan
+Sun Mar 18 1990,US Cremonese,1-1,US Lecce
+Sun Mar 18 1990,Hellas Verona,3-2,Bologna FC
+Sun Mar 18 1990,Sampdoria,2-1,Ssc Napoli
+Sun Mar 18 1990,AC Milan,1-3,Inter
+Sun Mar 18 1990,Ac Cesena,1-1,Genoa CFc
+Sun Mar 18 1990,As Bari,4-0,Atalanta
+Sun Mar 18 1990,Ascoli Calcio,2-1,Acf Fiorentina
+Sun Mar 18 1990,Lazio Roma,0-1,As Roma
+Sun Mar 18 1990,Juventus,1-1,Udinese Calcio
+Sun Mar 25 1990,Genoa CFc,2-2,Lazio Roma
+Sun Mar 25 1990,Udinese Calcio,2-2,As Bari
+Sun Mar 25 1990,As Roma,5-2,Hellas Verona
+Sun Mar 25 1990,Ssc Napoli,3-1,Juventus
+Sun Mar 25 1990,Inter,7-2,Atalanta
+Sun Mar 25 1990,Acf Fiorentina,0-0,Ac Cesena
+Sun Mar 25 1990,US Cremonese,2-1,Ascoli Calcio
+Sun Mar 25 1990,Bologna FC,1-0,Sampdoria
+Sun Mar 25 1990,US Lecce,1-2,AC Milan
+Sun Apr 8 1990,Bologna FC,0-0,AC Milan
+Sun Apr 8 1990,Sampdoria,1-0,US Lecce
+Sun Apr 8 1990,As Roma,0-0,Acf Fiorentina
+Sun Apr 8 1990,Hellas Verona,1-1,Genoa CFc
+Sun Apr 8 1990,As Bari,0-0,Lazio Roma
+Sun Apr 8 1990,Atalanta,0-2,Ssc Napoli
+Sun Apr 8 1990,Ascoli Calcio,1-0,Udinese Calcio
+Sun Apr 8 1990,Juventus,4-0,US Cremonese
+Sun Apr 8 1990,Inter,1-1,Ac Cesena
+Sat Apr 14 1990,Genoa CFc,0-0,Inter
+Sat Apr 14 1990,Udinese Calcio,0-0,Atalanta
+Sat Apr 14 1990,Ssc Napoli,3-0,As Bari
+Sat Apr 14 1990,AC Milan,1-0,Sampdoria
+Sat Apr 14 1990,Lazio Roma,3-0,Ascoli Calcio
+Sat Apr 14 1990,Acf Fiorentina,3-1,Hellas Verona
+Sat Apr 14 1990,US Cremonese,0-1,As Roma
+Sat Apr 14 1990,Ac Cesena,1-1,Juventus
+Sat Apr 14 1990,US Lecce,1-0,Bologna FC
+Sun Apr 22 1990,Bologna FC,2-4,Ssc Napoli
+Sun Apr 22 1990,Sampdoria,0-0,Ac Cesena
+Sun Apr 22 1990,Lazio Roma,0-0,Udinese Calcio
+Sun Apr 22 1990,Hellas Verona,2-1,AC Milan
+Sun Apr 22 1990,As Bari,2-0,US Cremonese
+Sun Apr 22 1990,Atalanta,1-0,Genoa CFc
+Sun Apr 22 1990,Ascoli Calcio,0-2,US Lecce
+Sun Apr 22 1990,Juventus,1-1,As Roma
+Sun Apr 22 1990,Inter,2-0,Acf Fiorentina
+Sun Apr 29 1990,Genoa CFc,2-0,Ascoli Calcio
+Sun Apr 29 1990,As Roma,2-2,Bologna FC
+Sun Apr 29 1990,Ssc Napoli,1-0,Lazio Roma
+Sun Apr 29 1990,US Lecce,2-3,Juventus
+Sun Apr 29 1990,Acf Fiorentina,4-1,Atalanta
+Sun Apr 29 1990,US Cremonese,0-3,Sampdoria
+Sun Apr 29 1990,Ac Cesena,1-0,Hellas Verona
+Sun Apr 29 1990,Udinese Calcio,4-3,Inter
+Sun Apr 29 1990,AC Milan,4-0,As Bari

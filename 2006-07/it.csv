@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Sep 9 2006,As Roma,2-0,As Livorno
+Sat Sep 9 2006,Acf Fiorentina,2-3,Inter
+Sun Sep 10 2006,Atalanta,3-1,Ascoli Calcio
+Sun Sep 10 2006,Cagliari Calcio,0-1,Calcio Catania
+Sun Sep 10 2006,Chievo Verona,1-2,AC Siena
+Sun Sep 10 2006,AC Milan,2-1,Lazio Roma
+Sun Sep 10 2006,Acr Messina,1-0,Udinese Calcio
+Sun Sep 10 2006,US Palermo,4-3,Reggina Calcio
+Sun Sep 10 2006,Sampdoria,1-2,Empoli FC
+Sun Sep 10 2006,Torino FC,1-1,Parma FC
+Sat Sep 16 2006,Reggina Calcio,2-1,Cagliari Calcio
+Sat Sep 16 2006,Inter,1-1,Sampdoria
+Sun Sep 17 2006,Ascoli Calcio,1-1,Acr Messina
+Sun Sep 17 2006,Calcio Catania,0-0,Atalanta
+Sun Sep 17 2006,Empoli FC,1-1,Chievo Verona
+Sun Sep 17 2006,Lazio Roma,1-2,US Palermo
+Sun Sep 17 2006,As Livorno,1-0,Acf Fiorentina
+Sun Sep 17 2006,AC Siena,1-3,As Roma
+Sun Sep 17 2006,Udinese Calcio,2-0,Torino FC
+Sun Sep 17 2006,Parma FC,0-2,AC Milan
+Wed Sep 20 2006,Atalanta,0-0,Empoli FC
+Wed Sep 20 2006,Cagliari Calcio,2-2,As Livorno
+Wed Sep 20 2006,Chievo Verona,0-1,Lazio Roma
+Wed Sep 20 2006,Acf Fiorentina,1-0,Parma FC
+Wed Sep 20 2006,Acr Messina,2-0,Reggina Calcio
+Wed Sep 20 2006,AC Milan,1-0,Ascoli Calcio
+Wed Sep 20 2006,US Palermo,5-3,Calcio Catania
+Wed Sep 20 2006,As Roma,0-1,Inter
+Wed Sep 20 2006,Sampdoria,3-3,Udinese Calcio
+Wed Sep 20 2006,Torino FC,1-2,AC Siena
+Sat Sep 23 2006,As Livorno,0-0,AC Milan
+Sat Sep 23 2006,Calcio Catania,2-2,Acr Messina
+Sun Sep 24 2006,Ascoli Calcio,1-1,Sampdoria
+Sun Sep 24 2006,Empoli FC,2-0,US Palermo
+Sun Sep 24 2006,Inter,4-3,Chievo Verona
+Sun Sep 24 2006,Lazio Roma,1-0,Atalanta
+Sun Sep 24 2006,Parma FC,0-4,As Roma
+Sun Sep 24 2006,Reggina Calcio,1-1,Torino FC
+Sun Sep 24 2006,AC Siena,0-0,Cagliari Calcio
+Sun Sep 24 2006,Udinese Calcio,1-0,Acf Fiorentina
+Sat Sep 30 2006,Atalanta,1-1,Reggina Calcio
+Sat Sep 30 2006,Torino FC,0-4,Lazio Roma
+Sun Oct 1 2006,Cagliari Calcio,1-1,Inter
+Sun Oct 1 2006,Acf Fiorentina,3-0,Calcio Catania
+Sun Oct 1 2006,Acr Messina,0-1,As Livorno
+Sun Oct 1 2006,AC Milan,0-0,AC Siena
+Sun Oct 1 2006,As Roma,1-0,Empoli FC
+Sun Oct 1 2006,Sampdoria,3-2,Parma FC
+Sun Oct 1 2006,Udinese Calcio,0-0,Ascoli Calcio
+Sun Oct 1 2006,Chievo Verona,0-1,US Palermo
+Sat Oct 14 2006,Sampdoria,1-1,AC Milan
+Sat Oct 14 2006,AC Siena,3-1,Acr Messina
+Sun Oct 15 2006,Ascoli Calcio,0-2,As Livorno
+Sun Oct 15 2006,Empoli FC,1-2,Acf Fiorentina
+Sun Oct 15 2006,Inter,2-1,Calcio Catania
+Sun Oct 15 2006,US Palermo,2-3,Atalanta
+Sun Oct 15 2006,Parma FC,0-3,Udinese Calcio
+Sun Oct 15 2006,Reggina Calcio,1-0,As Roma
+Sun Oct 15 2006,Torino FC,1-0,Chievo Verona
+Sun Oct 15 2006,Lazio Roma,0-0,Cagliari Calcio
+Sat Oct 21 2006,Acr Messina,2-2,Empoli FC
+Sat Oct 21 2006,Cagliari Calcio,0-0,Torino FC
+Sun Oct 22 2006,Atalanta,3-2,Sampdoria
+Sun Oct 22 2006,Calcio Catania,3-1,Lazio Roma
+Sun Oct 22 2006,Acf Fiorentina,3-0,Reggina Calcio
+Sun Oct 22 2006,As Livorno,0-0,AC Siena
+Sun Oct 22 2006,Parma FC,1-0,Ascoli Calcio
+Sun Oct 22 2006,As Roma,1-1,Chievo Verona
+Sun Oct 22 2006,Udinese Calcio,0-0,Inter
+Sun Oct 22 2006,AC Milan,0-2,US Palermo
+Wed Oct 25 2006,Atalanta,3-3,Cagliari Calcio
+Wed Oct 25 2006,Chievo Verona,0-1,AC Milan
+Wed Oct 25 2006,Empoli FC,1-1,Udinese Calcio
+Wed Oct 25 2006,Inter,4-1,As Livorno
+Wed Oct 25 2006,US Palermo,2-1,Acr Messina
+Wed Oct 25 2006,Reggina Calcio,3-2,Parma FC
+Wed Oct 25 2006,As Roma,2-2,Ascoli Calcio
+Wed Oct 25 2006,Sampdoria,2-0,Lazio Roma
+Wed Oct 25 2006,AC Siena,1-1,Calcio Catania
+Wed Oct 25 2006,Torino FC,0-1,Acf Fiorentina
+Sat Oct 28 2006,Udinese Calcio,0-1,As Roma
+Sat Oct 28 2006,AC Milan,3-4,Inter
+Sun Oct 29 2006,Ascoli Calcio,0-1,AC Siena
+Sun Oct 29 2006,Cagliari Calcio,1-0,Sampdoria
+Sun Oct 29 2006,Calcio Catania,1-1,Torino FC
+Sun Oct 29 2006,Acf Fiorentina,2-3,US Palermo
+Sun Oct 29 2006,Lazio Roma,0-0,Reggina Calcio
+Sun Oct 29 2006,Acr Messina,2-1,Chievo Verona
+Sun Oct 29 2006,Parma FC,3-1,Atalanta
+Sun Oct 29 2006,As Livorno,0-0,Empoli FC
+Sat Nov 4 2006,AC Siena,2-2,Parma FC
+Sat Nov 4 2006,Reggina Calcio,0-1,Calcio Catania
+Sun Nov 5 2006,Atalanta,2-0,AC Milan
+Sun Nov 5 2006,Chievo Verona,0-0,Cagliari Calcio
+Sun Nov 5 2006,Empoli FC,1-1,Lazio Roma
+Sun Nov 5 2006,Inter,2-0,Ascoli Calcio
+Sun Nov 5 2006,As Livorno,1-0,Udinese Calcio
+Sun Nov 5 2006,US Palermo,2-0,Sampdoria
+Sun Nov 5 2006,Torino FC,1-1,Acr Messina
+Sun Nov 5 2006,As Roma,3-1,Acf Fiorentina
+Sat Nov 11 2006,Acf Fiorentina,3-1,Atalanta
+Sat Nov 11 2006,AC Milan,1-2,As Roma
+Sun Nov 12 2006,Ascoli Calcio,0-1,Empoli FC
+Sun Nov 12 2006,Calcio Catania,3-2,As Livorno
+Sun Nov 12 2006,Lazio Roma,5-0,Udinese Calcio
+Sun Nov 12 2006,Acr Messina,2-2,Cagliari Calcio
+Sun Nov 12 2006,US Palermo,3-0,Torino FC
+Sun Nov 12 2006,Sampdoria,3-0,Chievo Verona
+Sun Nov 12 2006,AC Siena,0-1,Reggina Calcio
+Sun Nov 12 2006,Parma FC,1-2,Inter
+Sat Nov 18 2006,Empoli FC,0-0,AC Milan
+Sat Nov 18 2006,Cagliari Calcio,1-0,US Palermo
+Sun Nov 19 2006,Ascoli Calcio,1-1,Acf Fiorentina
+Sun Nov 19 2006,Chievo Verona,2-2,Atalanta
+Sun Nov 19 2006,Inter,1-0,Reggina Calcio
+Sun Nov 19 2006,As Livorno,3-0,Parma FC
+Sun Nov 19 2006,Acr Messina,1-4,Lazio Roma
+Sun Nov 19 2006,As Roma,7-0,Calcio Catania
+Sun Nov 19 2006,Udinese Calcio,3-0,AC Siena
+Sun Nov 19 2006,Torino FC,1-0,Sampdoria
+Sat Nov 25 2006,Chievo Verona,2-0,Udinese Calcio
+Sat Nov 25 2006,AC Milan,1-0,Acr Messina
+Sun Nov 26 2006,Atalanta,1-2,Torino FC
+Sun Nov 26 2006,Calcio Catania,2-0,Parma FC
+Sun Nov 26 2006,Empoli FC,1-0,Cagliari Calcio
+Sun Nov 26 2006,Lazio Roma,3-1,Ascoli Calcio
+Sun Nov 26 2006,Reggina Calcio,2-2,As Livorno
+Sun Nov 26 2006,Sampdoria,2-4,As Roma
+Sun Nov 26 2006,AC Siena,1-1,Acf Fiorentina
+Sun Nov 26 2006,US Palermo,1-2,Inter
+Sat Dec 2 2006,Inter,2-0,AC Siena
+Sat Dec 2 2006,As Roma,2-1,Atalanta
+Sun Dec 3 2006,Cagliari Calcio,2-2,AC Milan
+Sun Dec 3 2006,Acf Fiorentina,1-0,Lazio Roma
+Sun Dec 3 2006,As Livorno,0-2,Chievo Verona
+Sun Dec 3 2006,Acr Messina,0-2,Sampdoria
+Sun Dec 3 2006,Parma FC,0-0,US Palermo
+Sun Dec 3 2006,Torino FC,1-0,Empoli FC
+Sun Dec 3 2006,Udinese Calcio,1-1,Reggina Calcio
+Sun Dec 3 2006,Ascoli Calcio,2-2,Calcio Catania
+Sat Dec 9 2006,Reggina Calcio,2-1,Ascoli Calcio
+Sat Dec 9 2006,US Palermo,3-0,As Livorno
+Sun Dec 10 2006,Atalanta,3-2,Acr Messina
+Sun Dec 10 2006,Cagliari Calcio,0-0,Parma FC
+Sun Dec 10 2006,Calcio Catania,1-0,Udinese Calcio
+Sun Dec 10 2006,Chievo Verona,0-1,Acf Fiorentina
+Sun Dec 10 2006,Empoli FC,0-3,Inter
+Sun Dec 10 2006,AC Milan,0-0,Torino FC
+Sun Dec 10 2006,Sampdoria,0-0,AC Siena
+Sun Dec 10 2006,Lazio Roma,3-0,As Roma
+Sat Dec 16 2006,Acf Fiorentina,2-2,AC Milan
+Sat Dec 16 2006,Udinese Calcio,3-1,Cagliari Calcio
+Sun Dec 17 2006,Ascoli Calcio,0-2,Torino FC
+Sun Dec 17 2006,Inter,2-0,Acr Messina
+Sun Dec 17 2006,As Livorno,1-1,Lazio Roma
+Sun Dec 17 2006,Parma FC,2-2,Chievo Verona
+Sun Dec 17 2006,Reggina Calcio,0-1,Sampdoria
+Sun Dec 17 2006,AC Siena,1-1,Atalanta
+Sun Dec 17 2006,As Roma,4-0,US Palermo
+Wed Dec 20 2006,Atalanta,1-2,Udinese Calcio
+Wed Dec 20 2006,Cagliari Calcio,0-2,Acf Fiorentina
+Wed Dec 20 2006,Chievo Verona,3-2,Reggina Calcio
+Wed Dec 20 2006,Empoli FC,1-0,AC Siena
+Wed Dec 20 2006,Lazio Roma,0-2,Inter
+Wed Dec 20 2006,Acr Messina,1-1,Parma FC
+Wed Dec 20 2006,AC Milan,3-0,Calcio Catania
+Wed Dec 20 2006,US Palermo,4-0,Ascoli Calcio
+Wed Dec 20 2006,Sampdoria,4-1,As Livorno
+Wed Dec 20 2006,Torino FC,1-2,As Roma
+Sat Dec 23 2006,Ascoli Calcio,3-0,Chievo Verona
+Sat Dec 23 2006,Calcio Catania,4-2,Sampdoria
+Sat Dec 23 2006,Acf Fiorentina,4-0,Acr Messina
+Sat Dec 23 2006,Inter,2-1,Atalanta
+Sat Dec 23 2006,As Livorno,1-1,Torino FC
+Sat Dec 23 2006,Parma FC,1-3,Lazio Roma
+Sat Dec 23 2006,Reggina Calcio,4-1,Empoli FC
+Sat Dec 23 2006,As Roma,2-0,Cagliari Calcio
+Sat Dec 23 2006,AC Siena,1-1,US Palermo
+Sat Dec 23 2006,Udinese Calcio,0-3,AC Milan
+Sat Jan 13 2007,Empoli FC,2-0,Parma FC
+Sat Jan 13 2007,Torino FC,1-3,Inter
+Sun Jan 14 2007,Atalanta,5-1,As Livorno
+Sun Jan 14 2007,Cagliari Calcio,1-0,Ascoli Calcio
+Sun Jan 14 2007,Chievo Verona,2-1,Calcio Catania
+Sun Jan 14 2007,Acr Messina,1-1,As Roma
+Sun Jan 14 2007,AC Milan,3-1,Reggina Calcio
+Sun Jan 14 2007,US Palermo,2-0,Udinese Calcio
+Sun Jan 14 2007,Sampdoria,0-0,Acf Fiorentina
+Sun Jan 14 2007,Lazio Roma,1-1,AC Siena
+Sat Jan 20 2007,Ascoli Calcio,1-3,Atalanta
+Sat Jan 20 2007,Reggina Calcio,0-0,US Palermo
+Sun Jan 21 2007,Inter,3-1,Acf Fiorentina
+Sun Jan 21 2007,As Livorno,1-1,As Roma
+Sun Jan 21 2007,Calcio Catania,0-1,Cagliari Calcio
+Sun Jan 21 2007,AC Siena,2-1,Chievo Verona
+Sun Jan 21 2007,Udinese Calcio,1-0,Acr Messina
+Sun Jan 21 2007,Empoli FC,2-0,Sampdoria
+Sun Jan 21 2007,Parma FC,1-0,Torino FC
+Sun Jan 21 2007,Lazio Roma,0-0,AC Milan
+Wed Jan 24 2007,Calcio Catania,2-1,Empoli FC
+Sat Jan 27 2007,Torino FC,2-3,Udinese Calcio
+Sat Jan 27 2007,US Palermo,0-3,Lazio Roma
+Sun Jan 28 2007,Acr Messina,1-2,Ascoli Calcio
+Sun Jan 28 2007,Atalanta,1-1,Calcio Catania
+Sun Jan 28 2007,Chievo Verona,0-0,Empoli FC
+Sun Jan 28 2007,Acf Fiorentina,2-1,As Livorno
+Sun Jan 28 2007,AC Milan,1-0,Parma FC
+Sun Jan 28 2007,Cagliari Calcio,0-2,Reggina Calcio
+Sun Jan 28 2007,As Roma,1-0,AC Siena
+Sun Jan 28 2007,Sampdoria,0-2,Inter
+Fri Feb 2 2007,Calcio Catania,1-2,US Palermo
+Sun Feb 11 2007,Sampdoria,2-0,Ascoli Calcio
+Sun Feb 11 2007,US Palermo,0-1,Empoli FC
+Sun Feb 11 2007,Chievo Verona,0-2,Inter
+Sun Feb 11 2007,Atalanta,0-0,Lazio Roma
+Sun Feb 11 2007,AC Milan,2-1,As Livorno
+Sun Feb 11 2007,As Roma,3-0,Parma FC
+Sun Feb 11 2007,Torino FC,1-2,Reggina Calcio
+Sun Feb 11 2007,Cagliari Calcio,2-2,AC Siena
+Sun Feb 11 2007,Acf Fiorentina,2-0,Udinese Calcio
+Sun Feb 11 2007,Acr Messina,1-1,Calcio Catania
+Sat Feb 17 2007,Inter,1-0,Cagliari Calcio
+Sat Feb 17 2007,AC Siena,3-4,AC Milan
+Sat Feb 17 2007,Empoli FC,1-0,As Roma
+Sun Feb 18 2007,Reggina Calcio,1-1,Atalanta
+Sun Feb 18 2007,US Palermo,1-1,Chievo Verona
+Sun Feb 18 2007,Calcio Catania,0-1,Acf Fiorentina
+Sun Feb 18 2007,As Livorno,2-1,Acr Messina
+Sun Feb 18 2007,Parma FC,0-1,Sampdoria
+Sun Feb 18 2007,Lazio Roma,2-0,Torino FC
+Sun Feb 18 2007,Ascoli Calcio,2-2,Udinese Calcio
+Sat Feb 24 2007,Chievo Verona,3-0,Torino FC
+Sat Feb 24 2007,Atalanta,1-1,US Palermo
+Sun Feb 25 2007,As Livorno,0-0,Ascoli Calcio
+Sun Feb 25 2007,Acf Fiorentina,2-0,Empoli FC
+Sun Feb 25 2007,Calcio Catania,2-5,Inter
+Sun Feb 25 2007,Cagliari Calcio,0-2,Lazio Roma
+Sun Feb 25 2007,Udinese Calcio,3-3,Parma FC
+Sun Feb 25 2007,As Roma,3-0,Reggina Calcio
+Sun Feb 25 2007,Acr Messina,1-0,AC Siena
+Sun Feb 25 2007,AC Milan,1-0,Sampdoria
+Wed Feb 28 2007,Sampdoria,2-1,Atalanta
+Wed Feb 28 2007,Torino FC,1-0,Cagliari Calcio
+Wed Feb 28 2007,Lazio Roma,3-1,Calcio Catania
+Wed Feb 28 2007,Reggina Calcio,1-1,Acf Fiorentina
+Wed Feb 28 2007,AC Siena,0-0,As Livorno
+Wed Feb 28 2007,Empoli FC,3-1,Acr Messina
+Wed Feb 28 2007,US Palermo,0-0,AC Milan
+Wed Feb 28 2007,Ascoli Calcio,0-0,Parma FC
+Wed Feb 28 2007,Chievo Verona,2-2,As Roma
+Wed Feb 28 2007,Inter,1-1,Udinese Calcio
+Sat Mar 3 2007,As Livorno,1-2,Inter
+Sat Mar 3 2007,Ascoli Calcio,1-1,As Roma
+Sat Mar 3 2007,AC Milan,3-1,Chievo Verona
+Sun Mar 4 2007,Cagliari Calcio,2-0,Atalanta
+Sun Mar 4 2007,Udinese Calcio,0-1,Empoli FC
+Sun Mar 4 2007,Acr Messina,2-0,US Palermo
+Sun Mar 4 2007,Parma FC,2-2,Reggina Calcio
+Sun Mar 4 2007,Lazio Roma,1-0,Sampdoria
+Sun Mar 4 2007,Calcio Catania,1-1,AC Siena
+Sun Mar 4 2007,Acf Fiorentina,5-1,Torino FC
+Sat Mar 10 2007,Sampdoria,1-1,Cagliari Calcio
+Sun Mar 11 2007,AC Siena,0-1,Ascoli Calcio
+Sun Mar 11 2007,Torino FC,1-0,Calcio Catania
+Sun Mar 11 2007,US Palermo,1-1,Acf Fiorentina
+Sun Mar 11 2007,Reggina Calcio,2-3,Lazio Roma
+Sun Mar 11 2007,Empoli FC,2-2,As Livorno
+Sun Mar 11 2007,Chievo Verona,1-1,Acr Messina
+Sun Mar 11 2007,Inter,2-1,AC Milan
+Sun Mar 11 2007,Atalanta,1-1,Parma FC
+Sun Mar 11 2007,As Roma,3-1,Udinese Calcio
+Sat Mar 17 2007,Sampdoria,1-1,US Palermo
+Sun Mar 18 2007,AC Milan,1-0,Atalanta
+Sun Mar 18 2007,Cagliari Calcio,0-2,Chievo Verona
+Sun Mar 18 2007,Ascoli Calcio,1-2,Inter
+Sun Mar 18 2007,Udinese Calcio,4-0,As Livorno
+Sun Mar 18 2007,Calcio Catania,1-4,Reggina Calcio
+Sun Mar 18 2007,Parma FC,1-0,AC Siena
+Sun Mar 18 2007,Acr Messina,0-3,Torino FC
+Sun Mar 18 2007,Lazio Roma,3-1,Empoli FC
+Sun Mar 18 2007,Acf Fiorentina,0-0,As Roma
+Sat Mar 31 2007,Reggina Calcio,0-1,AC Siena
+Sat Mar 31 2007,As Roma,1-1,AC Milan
+Sun Apr 1 2007,Empoli FC,4-1,Ascoli Calcio
+Sun Apr 1 2007,As Livorno,4-1,Calcio Catania
+Sun Apr 1 2007,Atalanta,2-2,Acf Fiorentina
+Sun Apr 1 2007,Cagliari Calcio,2-0,Acr Messina
+Sun Apr 1 2007,Torino FC,0-0,US Palermo
+Sun Apr 1 2007,Inter,2-0,Parma FC
+Sun Apr 1 2007,Chievo Verona,1-1,Sampdoria
+Sun Apr 1 2007,Udinese Calcio,2-4,Lazio Roma
+Sat Apr 7 2007,Acf Fiorentina,4-0,Ascoli Calcio
+Sat Apr 7 2007,US Palermo,1-3,Cagliari Calcio
+Sat Apr 7 2007,Atalanta,1-0,Chievo Verona
+Sat Apr 7 2007,Reggina Calcio,0-0,Inter
+Sat Apr 7 2007,Parma FC,1-0,As Livorno
+Sat Apr 7 2007,Lazio Roma,1-0,Acr Messina
+Sat Apr 7 2007,Calcio Catania,0-2,As Roma
+Sat Apr 7 2007,Sampdoria,1-0,Torino FC
+Sat Apr 7 2007,AC Siena,2-2,Udinese Calcio
+Sat Apr 7 2007,AC Milan,3-1,Empoli FC
+Sat Apr 14 2007,Cagliari Calcio,0-0,Empoli FC
+Sat Apr 14 2007,Udinese Calcio,2-1,Chievo Verona
+Sun Apr 15 2007,Torino FC,1-2,Atalanta
+Sun Apr 15 2007,Parma FC,1-1,Calcio Catania
+Sun Apr 15 2007,Ascoli Calcio,2-2,Lazio Roma
+Sun Apr 15 2007,Acr Messina,1-3,AC Milan
+Sun Apr 15 2007,As Livorno,1-1,Reggina Calcio
+Sun Apr 15 2007,As Roma,4-0,Sampdoria
+Sun Apr 15 2007,Acf Fiorentina,1-0,AC Siena
+Sun Apr 15 2007,Inter,2-2,US Palermo
+Wed Apr 18 2007,Empoli FC,2-0,Atalanta
+Wed Apr 18 2007,As Livorno,2-1,Cagliari Calcio
+Wed Apr 18 2007,Lazio Roma,0-0,Chievo Verona
+Wed Apr 18 2007,Reggina Calcio,3-1,Acr Messina
+Wed Apr 18 2007,Ascoli Calcio,2-5,AC Milan
+Wed Apr 18 2007,Inter,1-3,As Roma
+Wed Apr 18 2007,Udinese Calcio,1-0,Sampdoria
+Wed Apr 18 2007,Parma FC,2-0,Acf Fiorentina
+Wed Apr 18 2007,AC Siena,1-0,Torino FC
+Sat Apr 21 2007,Sampdoria,3-1,Acr Messina
+Sat Apr 21 2007,AC Milan,3-1,Cagliari Calcio
+Sun Apr 22 2007,Lazio Roma,0-1,Acf Fiorentina
+Sun Apr 22 2007,AC Siena,1-2,Inter
+Sun Apr 22 2007,Chievo Verona,2-1,As Livorno
+Sun Apr 22 2007,Atalanta,2-1,As Roma
+Sun Apr 22 2007,Empoli FC,0-0,Torino FC
+Sun Apr 22 2007,Reggina Calcio,1-1,Udinese Calcio
+Sun Apr 22 2007,US Palermo,3-4,Parma FC
+Sat Apr 28 2007,Torino FC,0-1,AC Milan
+Sat Apr 28 2007,Acf Fiorentina,1-0,Chievo Verona
+Sun Apr 29 2007,Acr Messina,0-0,Atalanta
+Sun Apr 29 2007,Parma FC,2-1,Cagliari Calcio
+Sun Apr 29 2007,Udinese Calcio,0-1,Calcio Catania
+Sun Apr 29 2007,As Roma,0-0,Lazio Roma
+Sun Apr 29 2007,As Livorno,1-2,US Palermo
+Sun Apr 29 2007,Ascoli Calcio,2-3,Reggina Calcio
+Sun Apr 29 2007,AC Siena,0-2,Sampdoria
+Sun Apr 29 2007,Inter,3-1,Empoli FC
+Wed May 2 2007,Calcio Catania,3-3,Ascoli Calcio
+Sun May 6 2007,Torino FC,1-0,Ascoli Calcio
+Sun May 6 2007,Empoli FC,2-1,Calcio Catania
+Sun May 6 2007,AC Milan,0-0,Acf Fiorentina
+Sun May 6 2007,Acr Messina,0-1,Inter
+Sun May 6 2007,Lazio Roma,1-0,As Livorno
+Sun May 6 2007,Chievo Verona,1-0,Parma FC
+Sun May 6 2007,Sampdoria,0-0,Reggina Calcio
+Sun May 6 2007,US Palermo,1-2,As Roma
+Sun May 6 2007,Atalanta,3-1,AC Siena
+Sun May 6 2007,Cagliari Calcio,2-1,Udinese Calcio
+Sun May 13 2007,Udinese Calcio,2-3,Atalanta
+Sun May 13 2007,Acf Fiorentina,1-0,Cagliari Calcio
+Sun May 13 2007,Reggina Calcio,1-1,Chievo Verona
+Sun May 13 2007,AC Siena,2-0,Empoli FC
+Sun May 13 2007,Inter,4-3,Lazio Roma
+Sun May 13 2007,Parma FC,4-1,Acr Messina
+Sun May 13 2007,Calcio Catania,1-1,AC Milan
+Sun May 13 2007,Ascoli Calcio,3-2,US Palermo
+Sun May 13 2007,As Livorno,1-0,Sampdoria
+Sun May 13 2007,As Roma,0-1,Torino FC
+Sat May 19 2007,AC Milan,2-3,Udinese Calcio
+Sun May 20 2007,Chievo Verona,1-0,Ascoli Calcio
+Sun May 20 2007,Sampdoria,1-0,Calcio Catania
+Sun May 20 2007,Acr Messina,2-2,Acf Fiorentina
+Sun May 20 2007,Atalanta,1-1,Inter
+Sun May 20 2007,Torino FC,0-0,As Livorno
+Sun May 20 2007,Lazio Roma,0-0,Parma FC
+Sun May 20 2007,Empoli FC,3-3,Reggina Calcio
+Sun May 20 2007,Cagliari Calcio,3-2,As Roma
+Sun May 20 2007,US Palermo,2-1,AC Siena
+Sun May 27 2007,As Livorno,4-2,Atalanta
+Sun May 27 2007,Ascoli Calcio,2-1,Cagliari Calcio
+Sun May 27 2007,Calcio Catania,2-0,Chievo Verona
+Sun May 27 2007,Parma FC,3-1,Empoli FC
+Sun May 27 2007,AC Siena,2-1,Lazio Roma
+Sun May 27 2007,As Roma,4-3,Acr Messina
+Sun May 27 2007,Reggina Calcio,2-0,AC Milan
+Sun May 27 2007,Udinese Calcio,1-2,US Palermo
+Sun May 27 2007,Acf Fiorentina,5-1,Sampdoria
+Sun May 27 2007,Inter,3-0,Torino FC

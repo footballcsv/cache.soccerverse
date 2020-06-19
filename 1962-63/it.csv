@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sun Sep 16 1962,AC Milan,3-3,Ac Venezia
+Sun Sep 16 1962,Torino FC,1-1,Calcio Catania
+Sun Sep 16 1962,As Roma,3-0,Ssc Napoli
+Sun Sep 16 1962,US Palermo,0-1,SPAL Ferrara
+Sun Sep 16 1962,Genoa CFc,0-0,Juventus
+Sun Sep 16 1962,Acf Fiorentina,1-2,Modena FC
+Sun Sep 16 1962,Bologna FC,2-1,Vicenza Calcio
+Sun Sep 16 1962,Atalanta,1-1,Sampdoria
+Sun Sep 16 1962,Ac Mantova,0-0,Inter
+Sun Sep 23 1962,Modena FC,1-1,Genoa CFc
+Sun Sep 23 1962,Ac Venezia,0-3,Bologna FC
+Sun Sep 23 1962,SPAL Ferrara,2-2,Calcio Catania
+Sun Sep 23 1962,Sampdoria,1-0,Acf Fiorentina
+Sun Sep 23 1962,Ssc Napoli,1-5,AC Milan
+Sun Sep 23 1962,Ac Mantova,1-0,As Roma
+Sun Sep 23 1962,Juventus,2-3,Atalanta
+Sun Sep 23 1962,Inter,1-0,Vicenza Calcio
+Sun Sep 23 1962,US Palermo,0-1,Torino FC
+Sun Sep 30 1962,As Roma,2-0,Modena FC
+Sun Sep 30 1962,Genoa CFc,2-0,Ac Venezia
+Sun Sep 30 1962,Torino FC,1-0,Ac Mantova
+Sun Sep 30 1962,SPAL Ferrara,4-2,Ssc Napoli
+Sun Sep 30 1962,Bologna FC,4-0,US Palermo
+Sun Sep 30 1962,Acf Fiorentina,1-0,Juventus
+Sun Sep 30 1962,Calcio Catania,1-0,Inter
+Sun Sep 30 1962,AC Milan,0-0,Atalanta
+Sun Sep 30 1962,Vicenza Calcio,3-0,Sampdoria
+Sun Oct 7 1962,Ac Mantova,0-0,Vicenza Calcio
+Sun Oct 7 1962,Sampdoria,0-1,SPAL Ferrara
+Sun Oct 7 1962,US Palermo,1-1,Inter
+Sun Oct 7 1962,Ssc Napoli,1-0,Genoa CFc
+Sun Oct 7 1962,AC Milan,0-0,Acf Fiorentina
+Sun Oct 7 1962,Juventus,3-1,Bologna FC
+Sun Oct 7 1962,Calcio Catania,0-0,As Roma
+Sun Oct 7 1962,Atalanta,2-2,Ac Venezia
+Sun Oct 7 1962,Modena FC,1-0,Torino FC
+Sun Oct 14 1962,Torino FC,2-1,SPAL Ferrara
+Sun Oct 14 1962,US Palermo,1-1,Calcio Catania
+Sun Oct 14 1962,Ac Venezia,4-1,Ac Mantova
+Sun Oct 14 1962,As Roma,1-1,Juventus
+Sun Oct 14 1962,Inter,1-0,Ssc Napoli
+Sun Oct 14 1962,Genoa CFc,2-1,Sampdoria
+Sun Oct 14 1962,Bologna FC,7-1,Modena FC
+Sun Oct 14 1962,Acf Fiorentina,2-0,Atalanta
+Sun Oct 14 1962,Vicenza Calcio,2-0,AC Milan
+Sun Oct 21 1962,Juventus,3-0,Sampdoria
+Sun Oct 21 1962,SPAL Ferrara,3-0,As Roma
+Sun Oct 21 1962,Ssc Napoli,2-0,Acf Fiorentina
+Sun Oct 21 1962,Modena FC,0-0,Ac Mantova
+Sun Oct 21 1962,Vicenza Calcio,1-0,US Palermo
+Sun Oct 21 1962,Genoa CFc,1-0,Torino FC
+Sun Oct 21 1962,Calcio Catania,3-2,Ac Venezia
+Sun Oct 21 1962,Atalanta,1-3,Bologna FC
+Sun Oct 21 1962,AC Milan,1-1,Inter
+Sun Oct 28 1962,As Roma,0-1,Vicenza Calcio
+Sun Oct 28 1962,Torino FC,0-1,Juventus
+Sun Oct 28 1962,Ac Venezia,4-1,Modena FC
+Sun Oct 28 1962,Sampdoria,2-1,AC Milan
+Sun Oct 28 1962,Inter,1-2,Atalanta
+Sun Oct 28 1962,Acf Fiorentina,3-1,US Palermo
+Sun Oct 28 1962,Calcio Catania,3-1,Genoa CFc
+Sun Oct 28 1962,Bologna FC,4-1,SPAL Ferrara
+Sun Oct 28 1962,Ac Mantova,2-1,Ssc Napoli
+Thu Nov 1 1962,SPAL Ferrara,3-1,Acf Fiorentina
+Thu Nov 1 1962,Atalanta,2-2,Ac Mantova
+Thu Nov 1 1962,Torino FC,1-0,Ac Venezia
+Thu Nov 1 1962,US Palermo,0-4,As Roma
+Thu Nov 1 1962,Ssc Napoli,3-2,Calcio Catania
+Thu Nov 1 1962,AC Milan,3-1,Bologna FC
+Thu Nov 1 1962,Vicenza Calcio,1-3,Juventus
+Thu Nov 1 1962,Genoa CFc,1-3,Inter
+Thu Nov 1 1962,Modena FC,1-0,Sampdoria
+Thu Nov 8 1962,Juventus,1-0,Ssc Napoli
+Thu Nov 8 1962,SPAL Ferrara,1-1,Vicenza Calcio
+Thu Nov 8 1962,Sampdoria,4-0,Calcio Catania
+Thu Nov 8 1962,As Roma,3-1,Bologna FC
+Thu Nov 8 1962,Atalanta,0-0,Torino FC
+Thu Nov 8 1962,Modena FC,2-2,AC Milan
+Thu Nov 8 1962,Inter,2-0,Ac Venezia
+Thu Nov 8 1962,Acf Fiorentina,5-0,Genoa CFc
+Thu Nov 8 1962,US Palermo,1-0,Ac Mantova
+Sun Nov 18 1962,Vicenza Calcio,2-2,Atalanta
+Sun Nov 18 1962,Ac Venezia,1-1,Ssc Napoli
+Sun Nov 18 1962,As Roma,2-2,Acf Fiorentina
+Sun Nov 18 1962,Ac Mantova,0-1,SPAL Ferrara
+Sun Nov 18 1962,Inter,4-0,Sampdoria
+Sun Nov 18 1962,Genoa CFc,5-0,US Palermo
+Sun Nov 18 1962,Calcio Catania,3-2,Modena FC
+Sun Nov 18 1962,Bologna FC,1-0,Torino FC
+Sun Nov 18 1962,Juventus,1-0,AC Milan
+Sun Nov 25 1962,AC Milan,2-2,Ac Mantova
+Sun Nov 25 1962,Ac Venezia,0-1,US Palermo
+Sun Nov 25 1962,Torino FC,2-2,As Roma
+Sun Nov 25 1962,SPAL Ferrara,1-0,Modena FC
+Sun Nov 25 1962,Ssc Napoli,1-0,Vicenza Calcio
+Sun Nov 25 1962,Acf Fiorentina,1-1,Inter
+Sun Nov 25 1962,Calcio Catania,1-5,Juventus
+Sun Nov 25 1962,Atalanta,1-1,Genoa CFc
+Sun Nov 25 1962,Sampdoria,2-3,Bologna FC
+Sun Dec 9 1962,Ac Mantova,2-0,Genoa CFc
+Sun Dec 9 1962,Torino FC,0-4,Acf Fiorentina
+Sun Dec 9 1962,Sampdoria,3-0,Ssc Napoli
+Sun Dec 9 1962,As Roma,0-1,AC Milan
+Sun Dec 9 1962,Vicenza Calcio,0-0,Ac Venezia
+Sun Dec 9 1962,Inter,3-2,SPAL Ferrara
+Sun Dec 9 1962,Bologna FC,5-0,Calcio Catania
+Sun Dec 9 1962,US Palermo,1-1,Juventus
+Sun Dec 9 1962,Modena FC,0-2,Atalanta
+Sun Dec 16 1962,Vicenza Calcio,3-1,Calcio Catania
+Sun Dec 16 1962,Ac Venezia,2-0,Sampdoria
+Sun Dec 16 1962,SPAL Ferrara,2-5,Atalanta
+Sun Dec 16 1962,Ssc Napoli,3-0,US Palermo
+Sun Dec 16 1962,Ac Mantova,1-1,Acf Fiorentina
+Sun Dec 16 1962,Juventus,2-1,Modena FC
+Sun Dec 16 1962,Genoa CFc,2-2,As Roma
+Sun Dec 16 1962,Bologna FC,0-4,Inter
+Sun Dec 16 1962,AC Milan,2-1,Torino FC
+Sun Dec 23 1962,Genoa CFc,0-1,AC Milan
+Sun Dec 23 1962,Torino FC,1-2,Vicenza Calcio
+Sun Dec 23 1962,As Roma,2-0,Sampdoria
+Sun Dec 23 1962,Ac Venezia,0-1,SPAL Ferrara
+Sun Dec 23 1962,Acf Fiorentina,3-1,Bologna FC
+Sun Dec 23 1962,Calcio Catania,1-1,Ac Mantova
+Sun Dec 23 1962,Atalanta,1-0,US Palermo
+Sun Dec 23 1962,Modena FC,4-0,Ssc Napoli
+Sun Dec 23 1962,Inter,1-0,Juventus
+Sun Dec 30 1962,Juventus,2-0,Ac Mantova
+Sun Dec 30 1962,Ac Venezia,0-3,Acf Fiorentina
+Sun Dec 30 1962,SPAL Ferrara,0-0,AC Milan
+Sun Dec 30 1962,Sampdoria,1-3,Torino FC
+Sun Dec 30 1962,Vicenza Calcio,1-0,Genoa CFc
+Sun Dec 30 1962,Inter,2-0,As Roma
+Sun Dec 30 1962,Calcio Catania,2-0,Atalanta
+Sun Dec 30 1962,Bologna FC,4-2,Ssc Napoli
+Sun Dec 30 1962,US Palermo,2-2,Modena FC
+Sun Jan 6 1963,Vicenza Calcio,1-0,Acf Fiorentina
+Sun Jan 6 1963,Ssc Napoli,2-2,Torino FC
+Sun Jan 6 1963,Modena FC,0-0,Inter
+Sun Jan 6 1963,US Palermo,1-1,Sampdoria
+Sun Jan 6 1963,Juventus,2-1,Ac Venezia
+Sun Jan 6 1963,Genoa CFc,0-0,SPAL Ferrara
+Sun Jan 6 1963,Atalanta,3-1,As Roma
+Sun Jan 6 1963,AC Milan,0-0,Calcio Catania
+Sun Jan 6 1963,Ac Mantova,0-1,Bologna FC
+Sun Jan 13 1963,Modena FC,0-0,Vicenza Calcio
+Sun Jan 13 1963,Torino FC,1-1,Inter
+Sun Jan 13 1963,SPAL Ferrara,0-2,Juventus
+Sun Jan 13 1963,Sampdoria,2-2,Ac Mantova
+Sun Jan 13 1963,Ssc Napoli,2-1,Atalanta
+Sun Jan 13 1963,AC Milan,2-0,US Palermo
+Sun Jan 13 1963,Acf Fiorentina,3-0,Calcio Catania
+Sun Jan 13 1963,Bologna FC,1-1,Genoa CFc
+Sun Jan 13 1963,As Roma,2-2,Ac Venezia
+Sun Jan 20 1963,Ssc Napoli,3-3,As Roma
+Sun Jan 20 1963,SPAL Ferrara,1-0,US Palermo
+Sun Jan 20 1963,Inter,1-0,Ac Mantova
+Sun Jan 20 1963,Sampdoria,2-0,Atalanta
+Sun Jan 20 1963,Ac Venezia,0-2,AC Milan
+Sun Jan 20 1963,Juventus,2-0,Genoa CFc
+Sun Jan 20 1963,Calcio Catania,3-0,Torino FC
+Sun Jan 20 1963,Vicenza Calcio,0-0,Bologna FC
+Sun Jan 20 1963,Modena FC,3-0,Acf Fiorentina
+Sun Jan 27 1963,Acf Fiorentina,1-1,Sampdoria
+Sun Jan 27 1963,Torino FC,3-0,US Palermo
+Sun Jan 27 1963,As Roma,7-1,Ac Mantova
+Sun Jan 27 1963,AC Milan,0-1,Ssc Napoli
+Sun Jan 27 1963,Genoa CFc,1-1,Modena FC
+Sun Jan 27 1963,Calcio Catania,0-0,SPAL Ferrara
+Sun Jan 27 1963,Bologna FC,0-0,Ac Venezia
+Sun Jan 27 1963,Atalanta,3-6,Juventus
+Sun Jan 27 1963,Vicenza Calcio,1-2,Inter
+Sun Feb 3 1963,US Palermo,0-0,Bologna FC
+Sun Feb 3 1963,Ac Mantova,1-1,Torino FC
+Sun Feb 3 1963,Ac Venezia,0-0,Genoa CFc
+Sun Feb 3 1963,Sampdoria,1-3,Vicenza Calcio
+Sun Feb 3 1963,Atalanta,2-2,AC Milan
+Sun Feb 3 1963,Juventus,0-0,Acf Fiorentina
+Sun Feb 3 1963,Inter,2-1,Calcio Catania
+Sun Feb 3 1963,Ssc Napoli,2-0,SPAL Ferrara
+Sun Feb 3 1963,Modena FC,1-3,As Roma
+Sun Feb 10 1963,Inter,4-0,US Palermo
+Sun Feb 10 1963,Ac Venezia,1-0,Atalanta
+Sun Feb 10 1963,Torino FC,2-0,Modena FC
+Sun Feb 10 1963,SPAL Ferrara,1-0,Sampdoria
+Sun Feb 10 1963,Vicenza Calcio,4-2,Ac Mantova
+Sun Feb 10 1963,Genoa CFc,3-2,Ssc Napoli
+Sun Feb 10 1963,Acf Fiorentina,0-1,AC Milan
+Sun Feb 10 1963,Bologna FC,1-2,Juventus
+Sun Feb 10 1963,As Roma,5-1,Calcio Catania
+Sun Feb 17 1963,Ac Mantova,2-0,Ac Venezia
+Sun Feb 17 1963,Ssc Napoli,1-5,Inter
+Sun Feb 17 1963,SPAL Ferrara,2-0,Torino FC
+Sun Feb 17 1963,Sampdoria,3-1,Genoa CFc
+Sun Feb 17 1963,Atalanta,0-1,Acf Fiorentina
+Sun Feb 17 1963,Modena FC,0-1,Bologna FC
+Sun Feb 17 1963,Juventus,2-0,As Roma
+Sun Feb 17 1963,Calcio Catania,0-0,US Palermo
+Sun Feb 17 1963,AC Milan,6-1,Vicenza Calcio
+Sun Feb 24 1963,Ac Mantova,3-0,Modena FC
+Sun Feb 24 1963,Ac Venezia,2-1,Calcio Catania
+Sun Feb 24 1963,Torino FC,2-0,Genoa CFc
+Sun Feb 24 1963,Sampdoria,2-1,Juventus
+Sun Feb 24 1963,US Palermo,1-1,Vicenza Calcio
+Sun Feb 24 1963,Inter,1-1,AC Milan
+Sun Feb 24 1963,Acf Fiorentina,5-1,Ssc Napoli
+Sun Feb 24 1963,Bologna FC,1-0,Atalanta
+Sun Feb 24 1963,As Roma,0-0,SPAL Ferrara
+Sun Mar 3 1963,AC Milan,1-1,Sampdoria
+Sun Mar 3 1963,SPAL Ferrara,0-1,Bologna FC
+Sun Mar 3 1963,US Palermo,1-0,Acf Fiorentina
+Sun Mar 3 1963,Juventus,0-1,Torino FC
+Sun Mar 3 1963,Vicenza Calcio,0-0,As Roma
+Sun Mar 3 1963,Genoa CFc,4-1,Calcio Catania
+Sun Mar 3 1963,Atalanta,1-0,Inter
+Sun Mar 3 1963,Ssc Napoli,0-0,Ac Mantova
+Sun Mar 3 1963,Modena FC,2-1,Ac Venezia
+Sun Mar 10 1963,Inter,6-0,Genoa CFc
+Sun Mar 10 1963,Ac Venezia,1-1,Torino FC
+Sun Mar 10 1963,Sampdoria,1-1,Modena FC
+Sun Mar 10 1963,As Roma,2-0,US Palermo
+Sun Mar 10 1963,Juventus,2-0,Vicenza Calcio
+Sun Mar 10 1963,Acf Fiorentina,2-0,SPAL Ferrara
+Sun Mar 10 1963,Calcio Catania,1-0,Ssc Napoli
+Sun Mar 10 1963,Bologna FC,1-2,AC Milan
+Sun Mar 10 1963,Ac Mantova,0-1,Atalanta
+Sun Mar 17 1963,Ssc Napoli,0-0,Juventus
+Sun Mar 17 1963,Torino FC,1-0,Atalanta
+Sun Mar 17 1963,Ac Mantova,1-0,US Palermo
+Sun Mar 17 1963,AC Milan,4-0,Modena FC
+Sun Mar 17 1963,Genoa CFc,1-2,Acf Fiorentina
+Sun Mar 17 1963,Calcio Catania,0-1,Sampdoria
+Sun Mar 17 1963,Bologna FC,0-0,As Roma
+Sun Mar 17 1963,Vicenza Calcio,1-0,SPAL Ferrara
+Sun Mar 17 1963,Ac Venezia,0-2,Inter
+Sun Mar 31 1963,Modena FC,4-1,Calcio Catania
+Sun Mar 31 1963,Torino FC,0-1,Bologna FC
+Sun Mar 31 1963,SPAL Ferrara,1-1,Ac Mantova
+Sun Mar 31 1963,Sampdoria,0-0,Inter
+Sun Mar 31 1963,Ssc Napoli,1-0,Ac Venezia
+Sun Mar 31 1963,AC Milan,0-0,Juventus
+Sun Mar 31 1963,Acf Fiorentina,1-1,As Roma
+Sun Mar 31 1963,Atalanta,3-1,Vicenza Calcio
+Sun Mar 31 1963,US Palermo,0-0,Genoa CFc
+Sun Apr 7 1963,Modena FC,1-0,SPAL Ferrara
+Sun Apr 7 1963,Juventus,0-1,Calcio Catania
+Sun Apr 7 1963,As Roma,5-0,Torino FC
+Sun Apr 7 1963,US Palermo,2-1,Ac Venezia
+Sun Apr 7 1963,Bologna FC,4-1,Sampdoria
+Sun Apr 7 1963,Inter,1-0,Acf Fiorentina
+Sun Apr 7 1963,Genoa CFc,2-1,Atalanta
+Sun Apr 7 1963,Ac Mantova,1-3,AC Milan
+Sun Apr 7 1963,Vicenza Calcio,0-0,Ssc Napoli
+Sun Apr 14 1963,Genoa CFc,0-0,Ac Mantova
+Sun Apr 14 1963,Ac Venezia,1-2,Vicenza Calcio
+Sun Apr 14 1963,SPAL Ferrara,0-0,Inter
+Sun Apr 14 1963,Ssc Napoli,0-2,Sampdoria
+Sun Apr 14 1963,Juventus,2-1,US Palermo
+Sun Apr 14 1963,Acf Fiorentina,1-0,Torino FC
+Sun Apr 14 1963,Calcio Catania,1-1,Bologna FC
+Sun Apr 14 1963,Atalanta,2-1,Modena FC
+Sun Apr 14 1963,AC Milan,0-1,As Roma
+Sun Apr 21 1963,US Palermo,1-1,Ssc Napoli
+Sun Apr 21 1963,Modena FC,0-0,Juventus
+Sun Apr 21 1963,As Roma,1-0,Genoa CFc
+Sun Apr 21 1963,Torino FC,0-0,AC Milan
+Sun Apr 21 1963,Acf Fiorentina,5-0,Ac Mantova
+Sun Apr 21 1963,Calcio Catania,1-0,Vicenza Calcio
+Sun Apr 21 1963,Atalanta,1-0,SPAL Ferrara
+Sun Apr 21 1963,Inter,4-1,Bologna FC
+Sun Apr 21 1963,Sampdoria,3-1,Ac Venezia
+Sun Apr 28 1963,Ac Mantova,3-1,Calcio Catania
+Sun Apr 28 1963,SPAL Ferrara,1-1,Ac Venezia
+Sun Apr 28 1963,Sampdoria,0-0,As Roma
+Sun Apr 28 1963,US Palermo,1-0,Atalanta
+Sun Apr 28 1963,AC Milan,1-0,Genoa CFc
+Sun Apr 28 1963,Vicenza Calcio,0-1,Torino FC
+Sun Apr 28 1963,Juventus,0-1,Inter
+Sun Apr 28 1963,Bologna FC,2-1,Acf Fiorentina
+Sun Apr 28 1963,Ssc Napoli,0-2,Modena FC
+Sun May 5 1963,AC Milan,4-0,SPAL Ferrara
+Sun May 5 1963,Modena FC,2-0,US Palermo
+Sun May 5 1963,Ssc Napoli,0-0,Bologna FC
+Sun May 5 1963,Torino FC,4-2,Sampdoria
+Sun May 5 1963,Genoa CFc,2-0,Vicenza Calcio
+Sun May 5 1963,Acf Fiorentina,1-4,Ac Venezia
+Sun May 5 1963,Atalanta,0-0,Calcio Catania
+Sun May 5 1963,As Roma,3-0,Inter
+Sun May 5 1963,Ac Mantova,0-0,Juventus
+Sun May 19 1963,Sampdoria,2-0,US Palermo
+Sun May 19 1963,Ac Venezia,1-2,Juventus
+Sun May 19 1963,SPAL Ferrara,4-0,Genoa CFc
+Sun May 19 1963,As Roma,1-1,Atalanta
+Sun May 19 1963,Inter,0-0,Modena FC
+Sun May 19 1963,Acf Fiorentina,1-1,Vicenza Calcio
+Sun May 19 1963,Calcio Catania,1-0,AC Milan
+Sun May 19 1963,Bologna FC,2-2,Ac Mantova
+Sun May 19 1963,Torino FC,1-1,Ssc Napoli
+Sun May 26 1963,US Palermo,1-3,AC Milan
+Sun May 26 1963,Atalanta,2-1,Ssc Napoli
+Sun May 26 1963,Calcio Catania,0-1,Acf Fiorentina
+Sun May 26 1963,Genoa CFc,1-0,Bologna FC
+Sun May 26 1963,Inter,1-1,Torino FC
+Sun May 26 1963,Juventus,2-2,SPAL Ferrara
+Sun May 26 1963,Vicenza Calcio,1-0,Modena FC
+Sun May 26 1963,Ac Mantova,3-1,Sampdoria
+Sun May 26 1963,Ac Venezia,1-1,As Roma

@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 23 1986,Arsenal FC,1-0,Manchester United
+Sat Aug 23 1986,Aston Villa,0-3,Tottenham Hotspur
+Sat Aug 23 1986,Charlton Athletic,1-1,Sheffield Wednesday
+Sat Aug 23 1986,Chelsea FC,0-0,Norwich City
+Sat Aug 23 1986,Everton FC,2-0,Nottingham Forest
+Sat Aug 23 1986,Leicester City,1-1,Luton Town
+Sat Aug 23 1986,Manchester City,3-1,Wimbledon
+Sat Aug 23 1986,Newcastle United,0-2,Liverpool FC
+Sat Aug 23 1986,Southampton FC,5-1,Queens Park Rangers
+Sat Aug 23 1986,Watford FC,3-0,Oxford United
+Sat Aug 23 1986,West Ham United,1-0,Coventry City
+Mon Aug 25 1986,Liverpool FC,0-0,Manchester City
+Mon Aug 25 1986,Manchester United,2-3,West Ham United
+Mon Aug 25 1986,Oxford United,1-1,Chelsea FC
+Mon Aug 25 1986,Sheffield Wednesday,2-2,Everton FC
+Mon Aug 25 1986,Tottenham Hotspur,1-1,Newcastle United
+Tue Aug 26 1986,Coventry City,2-1,Arsenal FC
+Tue Aug 26 1986,Luton Town,2-1,Southampton FC
+Tue Aug 26 1986,Queens Park Rangers,3-2,Watford FC
+Tue Aug 26 1986,Wimbledon,3-2,Aston Villa
+Wed Aug 27 1986,Nottingham Forest,4-0,Charlton Athletic
+Sat Aug 30 1986,Coventry City,1-1,Everton FC
+Sat Aug 30 1986,Liverpool FC,2-1,Arsenal FC
+Sat Aug 30 1986,Luton Town,0-0,Newcastle United
+Sat Aug 30 1986,Manchester United,0-1,Charlton Athletic
+Sat Aug 30 1986,Norwich City,4-3,Southampton FC
+Sat Aug 30 1986,Nottingham Forest,1-1,Watford FC
+Sat Aug 30 1986,Oxford United,0-0,West Ham United
+Sat Aug 30 1986,Queens Park Rangers,1-0,Aston Villa
+Sat Aug 30 1986,Sheffield Wednesday,2-0,Chelsea FC
+Sat Aug 30 1986,Tottenham Hotspur,1-0,Manchester City
+Sat Aug 30 1986,Wimbledon,1-0,Leicester City
+Tue Sep 2 1986,Arsenal FC,2-0,Sheffield Wednesday
+Tue Sep 2 1986,Charlton Athletic,0-1,Wimbledon
+Tue Sep 2 1986,Chelsea FC,0-0,Coventry City
+Tue Sep 2 1986,Everton FC,3-1,Oxford United
+Tue Sep 2 1986,Southampton FC,2-0,Tottenham Hotspur
+Tue Sep 2 1986,West Ham United,1-2,Nottingham Forest
+Wed Sep 3 1986,Aston Villa,2-1,Luton Town
+Wed Sep 3 1986,Leicester City,2-1,Liverpool FC
+Wed Sep 3 1986,Manchester City,2-2,Norwich City
+Wed Sep 3 1986,Newcastle United,0-2,Queens Park Rangers
+Sat Sep 6 1986,Arsenal FC,0-0,Tottenham Hotspur
+Sat Sep 6 1986,Aston Villa,1-2,Oxford United
+Sat Sep 6 1986,Charlton Athletic,1-2,Norwich City
+Sat Sep 6 1986,Chelsea FC,1-3,Luton Town
+Sat Sep 6 1986,Everton FC,0-0,Queens Park Rangers
+Sat Sep 6 1986,Leicester City,1-1,Manchester United
+Sat Sep 6 1986,Manchester City,0-1,Coventry City
+Sat Sep 6 1986,Newcastle United,2-3,Sheffield Wednesday
+Sat Sep 6 1986,Southampton FC,1-3,Nottingham Forest
+Sat Sep 6 1986,Watford FC,0-1,Wimbledon
+Sat Sep 6 1986,West Ham United,2-5,Liverpool FC
+Sat Sep 13 1986,Coventry City,3-0,Newcastle United
+Sat Sep 13 1986,Liverpool FC,2-0,Charlton Athletic
+Sat Sep 13 1986,Luton Town,0-0,Arsenal FC
+Sat Sep 13 1986,Manchester United,5-1,Southampton FC
+Sat Sep 13 1986,Norwich City,1-3,Watford FC
+Sat Sep 13 1986,Nottingham Forest,6-0,Aston Villa
+Sat Sep 13 1986,Oxford United,0-0,Manchester City
+Sat Sep 13 1986,Queens Park Rangers,2-3,West Ham United
+Sat Sep 13 1986,Sheffield Wednesday,2-2,Leicester City
+Sat Sep 13 1986,Tottenham Hotspur,1-3,Chelsea FC
+Sat Sep 13 1986,Wimbledon,1-2,Everton FC
+Tue Sep 16 1986,Watford FC,1-0,Manchester United
+Wed Sep 17 1986,Norwich City,2-1,Leicester City
+Sat Sep 20 1986,Arsenal FC,0-0,Oxford United
+Sat Sep 20 1986,Aston Villa,1-4,Norwich City
+Sat Sep 20 1986,Charlton Athletic,1-1,Coventry City
+Sat Sep 20 1986,Chelsea FC,2-6,Nottingham Forest
+Sat Sep 20 1986,Leicester City,1-2,Tottenham Hotspur
+Sat Sep 20 1986,Manchester City,0-0,Queens Park Rangers
+Sat Sep 20 1986,Newcastle United,1-0,Wimbledon
+Sat Sep 20 1986,Southampton FC,2-1,Liverpool FC
+Sat Sep 20 1986,Watford FC,0-1,Sheffield Wednesday
+Sat Sep 20 1986,West Ham United,2-0,Luton Town
+Sun Sep 21 1986,Everton FC,3-1,Manchester United
+Sat Sep 27 1986,Coventry City,1-0,Watford FC
+Sat Sep 27 1986,Liverpool FC,3-3,Aston Villa
+Sat Sep 27 1986,Luton Town,1-0,Manchester City
+Sat Sep 27 1986,Norwich City,2-0,Newcastle United
+Sat Sep 27 1986,Nottingham Forest,1-0,Arsenal FC
+Sat Sep 27 1986,Oxford United,3-2,Charlton Athletic
+Sat Sep 27 1986,Queens Park Rangers,0-1,Leicester City
+Sat Sep 27 1986,Sheffield Wednesday,2-2,West Ham United
+Sat Sep 27 1986,Tottenham Hotspur,2-0,Everton FC
+Sat Sep 27 1986,Wimbledon,2-2,Southampton FC
+Sun Sep 28 1986,Manchester United,0-1,Chelsea FC
+Sat Oct 4 1986,Chelsea FC,0-1,Charlton Athletic
+Sat Oct 4 1986,Coventry City,0-1,Aston Villa
+Sat Oct 4 1986,Everton FC,0-1,Arsenal FC
+Sat Oct 4 1986,Manchester City,1-2,Leicester City
+Sat Oct 4 1986,Norwich City,1-0,Queens Park Rangers
+Sat Oct 4 1986,Nottingham Forest,1-1,Manchester United
+Sat Oct 4 1986,Sheffield Wednesday,6-1,Oxford United
+Sat Oct 4 1986,Southampton FC,4-1,Newcastle United
+Sat Oct 4 1986,Tottenham Hotspur,0-0,Luton Town
+Sat Oct 4 1986,Watford FC,2-2,West Ham United
+Sat Oct 4 1986,Wimbledon,1-3,Liverpool FC
+Sat Oct 11 1986,Arsenal FC,3-1,Watford FC
+Sat Oct 11 1986,Aston Villa,3-1,Southampton FC
+Sat Oct 11 1986,Charlton Athletic,3-2,Everton FC
+Sat Oct 11 1986,Leicester City,3-1,Nottingham Forest
+Sat Oct 11 1986,Liverpool FC,0-1,Tottenham Hotspur
+Sat Oct 11 1986,Luton Town,0-0,Norwich City
+Sat Oct 11 1986,Manchester United,3-1,Sheffield Wednesday
+Sat Oct 11 1986,Newcastle United,3-1,Manchester City
+Sat Oct 11 1986,Oxford United,2-0,Coventry City
+Sat Oct 11 1986,Queens Park Rangers,2-1,Wimbledon
+Sat Oct 11 1986,West Ham United,5-3,Chelsea FC
+Sat Oct 18 1986,Charlton Athletic,2-0,Leicester City
+Sat Oct 18 1986,Chelsea FC,2-1,Manchester City
+Sat Oct 18 1986,Liverpool FC,4-0,Oxford United
+Sat Oct 18 1986,Manchester United,1-0,Luton Town
+Sat Oct 18 1986,Newcastle United,1-2,Arsenal FC
+Sat Oct 18 1986,Norwich City,1-1,West Ham United
+Sat Oct 18 1986,Nottingham Forest,1-0,Queens Park Rangers
+Sat Oct 18 1986,Southampton FC,0-2,Everton FC
+Sat Oct 18 1986,Tottenham Hotspur,1-1,Sheffield Wednesday
+Sat Oct 18 1986,Watford FC,4-2,Aston Villa
+Sun Oct 19 1986,Coventry City,1-0,Wimbledon
+Sat Oct 25 1986,Arsenal FC,3-1,Chelsea FC
+Sat Oct 25 1986,Aston Villa,2-0,Newcastle United
+Sat Oct 25 1986,Everton FC,3-2,Watford FC
+Sat Oct 25 1986,Leicester City,2-3,Southampton FC
+Sat Oct 25 1986,Luton Town,4-1,Liverpool FC
+Sat Oct 25 1986,Oxford United,2-1,Nottingham Forest
+Sat Oct 25 1986,Queens Park Rangers,2-0,Tottenham Hotspur
+Sat Oct 25 1986,Sheffield Wednesday,2-2,Coventry City
+Sat Oct 25 1986,West Ham United,1-3,Charlton Athletic
+Sat Oct 25 1986,Wimbledon,2-0,Norwich City
+Sun Oct 26 1986,Manchester City,1-1,Manchester United
+Sat Nov 1 1986,Aston Villa,2-0,Leicester City
+Sat Nov 1 1986,Charlton Athletic,0-2,Arsenal FC
+Sat Nov 1 1986,Chelsea FC,0-0,Watford FC
+Sat Nov 1 1986,Liverpool FC,6-2,Norwich City
+Sat Nov 1 1986,Luton Town,1-0,Queens Park Rangers
+Sat Nov 1 1986,Manchester United,1-1,Coventry City
+Sat Nov 1 1986,Newcastle United,0-0,Oxford United
+Sat Nov 1 1986,Nottingham Forest,3-2,Sheffield Wednesday
+Sat Nov 1 1986,Southampton FC,1-1,Manchester City
+Sat Nov 1 1986,Tottenham Hotspur,1-2,Wimbledon
+Sun Nov 2 1986,West Ham United,1-0,Everton FC
+Sat Nov 8 1986,Arsenal FC,0-0,West Ham United
+Sat Nov 8 1986,Coventry City,1-0,Nottingham Forest
+Sat Nov 8 1986,Everton FC,2-2,Chelsea FC
+Sat Nov 8 1986,Leicester City,1-1,Newcastle United
+Sat Nov 8 1986,Manchester City,3-1,Aston Villa
+Sat Nov 8 1986,Norwich City,2-1,Tottenham Hotspur
+Sat Nov 8 1986,Oxford United,2-0,Manchester United
+Sat Nov 8 1986,Queens Park Rangers,1-3,Liverpool FC
+Sat Nov 8 1986,Sheffield Wednesday,3-1,Southampton FC
+Sat Nov 8 1986,Watford FC,4-1,Charlton Athletic
+Sat Nov 8 1986,Wimbledon,0-1,Luton Town
+Sat Nov 15 1986,Aston Villa,0-0,Chelsea FC
+Sat Nov 15 1986,Leicester City,0-2,Everton FC
+Sat Nov 15 1986,Luton Town,4-2,Nottingham Forest
+Sat Nov 15 1986,Manchester City,2-1,Charlton Athletic
+Sat Nov 15 1986,Newcastle United,2-2,Watford FC
+Sat Nov 15 1986,Norwich City,0-0,Manchester United
+Sat Nov 15 1986,Queens Park Rangers,1-1,Oxford United
+Sat Nov 15 1986,Southampton FC,0-4,Arsenal FC
+Sat Nov 15 1986,Tottenham Hotspur,1-0,Coventry City
+Sat Nov 15 1986,Wimbledon,0-1,West Ham United
+Sun Nov 16 1986,Liverpool FC,1-1,Sheffield Wednesday
+Sat Nov 22 1986,Arsenal FC,3-0,Manchester City
+Sat Nov 22 1986,Charlton Athletic,1-3,Southampton FC
+Sat Nov 22 1986,Chelsea FC,1-3,Newcastle United
+Sat Nov 22 1986,Coventry City,2-1,Norwich City
+Sat Nov 22 1986,Manchester United,1-0,Queens Park Rangers
+Sat Nov 22 1986,Nottingham Forest,3-2,Wimbledon
+Sat Nov 22 1986,Oxford United,2-4,Tottenham Hotspur
+Sat Nov 22 1986,Sheffield Wednesday,1-0,Luton Town
+Sat Nov 22 1986,Watford FC,5-1,Leicester City
+Sat Nov 22 1986,West Ham United,1-1,Aston Villa
+Sun Nov 23 1986,Everton FC,0-0,Liverpool FC
+Sat Nov 29 1986,Aston Villa,0-4,Arsenal FC
+Sat Nov 29 1986,Leicester City,2-2,Chelsea FC
+Sat Nov 29 1986,Liverpool FC,2-0,Coventry City
+Sat Nov 29 1986,Luton Town,1-0,Charlton Athletic
+Sat Nov 29 1986,Manchester City,1-3,Everton FC
+Sat Nov 29 1986,Norwich City,2-1,Oxford United
+Sat Nov 29 1986,Queens Park Rangers,2-2,Sheffield Wednesday
+Sat Nov 29 1986,Southampton FC,3-1,Watford FC
+Sat Nov 29 1986,Tottenham Hotspur,2-3,Nottingham Forest
+Sat Nov 29 1986,Wimbledon,1-0,Manchester United
+Sun Nov 30 1986,Newcastle United,4-0,West Ham United
+Sat Dec 6 1986,Arsenal FC,3-1,Queens Park Rangers
+Sat Dec 6 1986,Charlton Athletic,1-1,Newcastle United
+Sat Dec 6 1986,Chelsea FC,0-4,Wimbledon
+Sat Dec 6 1986,Coventry City,1-0,Leicester City
+Sat Dec 6 1986,Everton FC,4-0,Norwich City
+Sat Dec 6 1986,Nottingham Forest,2-0,Manchester City
+Sat Dec 6 1986,Oxford United,4-2,Luton Town
+Sat Dec 6 1986,Sheffield Wednesday,2-1,Aston Villa
+Sat Dec 6 1986,Watford FC,2-0,Liverpool FC
+Sat Dec 6 1986,West Ham United,3-1,Southampton FC
+Sun Dec 7 1986,Manchester United,3-3,Tottenham Hotspur
+Sat Dec 13 1986,Aston Villa,3-3,Manchester United
+Sat Dec 13 1986,Luton Town,1-0,Everton FC
+Sat Dec 13 1986,Manchester City,3-1,West Ham United
+Sat Dec 13 1986,Newcastle United,3-2,Nottingham Forest
+Sat Dec 13 1986,Norwich City,1-1,Arsenal FC
+Sat Dec 13 1986,Queens Park Rangers,0-0,Charlton Athletic
+Sat Dec 13 1986,Tottenham Hotspur,2-1,Watford FC
+Sat Dec 13 1986,Wimbledon,3-0,Sheffield Wednesday
+Sun Dec 14 1986,Leicester City,2-0,Oxford United
+Sun Dec 14 1986,Liverpool FC,3-0,Chelsea FC
+Fri Dec 19 1986,Watford FC,1-1,Norwich City
+Sat Dec 20 1986,Arsenal FC,3-0,Luton Town
+Sat Dec 20 1986,Charlton Athletic,0-0,Liverpool FC
+Sat Dec 20 1986,Chelsea FC,0-2,Tottenham Hotspur
+Sat Dec 20 1986,Everton FC,3-0,Wimbledon
+Sat Dec 20 1986,Manchester United,2-0,Leicester City
+Sat Dec 20 1986,Nottingham Forest,0-0,Southampton FC
+Sat Dec 20 1986,Oxford United,2-2,Aston Villa
+Sat Dec 20 1986,West Ham United,1-1,Queens Park Rangers
+Sun Dec 21 1986,Coventry City,2-2,Manchester City
+Sun Dec 21 1986,Sheffield Wednesday,2-0,Newcastle United
+Fri Dec 26 1986,Aston Villa,2-0,Charlton Athletic
+Fri Dec 26 1986,Leicester City,1-1,Arsenal FC
+Fri Dec 26 1986,Liverpool FC,0-1,Manchester United
+Fri Dec 26 1986,Luton Town,0-2,Watford FC
+Fri Dec 26 1986,Manchester City,1-0,Sheffield Wednesday
+Fri Dec 26 1986,Newcastle United,0-4,Everton FC
+Fri Dec 26 1986,Norwich City,2-1,Nottingham Forest
+Fri Dec 26 1986,Queens Park Rangers,3-1,Coventry City
+Fri Dec 26 1986,Southampton FC,1-2,Chelsea FC
+Fri Dec 26 1986,Tottenham Hotspur,4-0,West Ham United
+Fri Dec 26 1986,Wimbledon,1-1,Oxford United
+Sat Dec 27 1986,Arsenal FC,1-0,Southampton FC
+Sat Dec 27 1986,Chelsea FC,4-1,Aston Villa
+Sat Dec 27 1986,Coventry City,4-3,Tottenham Hotspur
+Sat Dec 27 1986,Manchester United,0-1,Norwich City
+Sat Dec 27 1986,Oxford United,0-1,Queens Park Rangers
+Sat Dec 27 1986,Sheffield Wednesday,0-1,Liverpool FC
+Sat Dec 27 1986,Watford FC,1-0,Newcastle United
+Sat Dec 27 1986,West Ham United,2-3,Wimbledon
+Sun Dec 28 1986,Charlton Athletic,5-0,Manchester City
+Sun Dec 28 1986,Everton FC,5-1,Leicester City
+Sun Dec 28 1986,Nottingham Forest,2-2,Luton Town
+Thu Jan 1 1987,Arsenal FC,3-1,Wimbledon
+Thu Jan 1 1987,Charlton Athletic,0-2,Tottenham Hotspur
+Thu Jan 1 1987,Chelsea FC,3-1,Queens Park Rangers
+Thu Jan 1 1987,Coventry City,0-1,Luton Town
+Thu Jan 1 1987,Everton FC,3-0,Aston Villa
+Thu Jan 1 1987,Manchester United,4-1,Newcastle United
+Thu Jan 1 1987,Nottingham Forest,1-1,Liverpool FC
+Thu Jan 1 1987,Oxford United,3-1,Southampton FC
+Thu Jan 1 1987,Sheffield Wednesday,1-1,Norwich City
+Thu Jan 1 1987,Watford FC,1-1,Manchester City
+Thu Jan 1 1987,West Ham United,4-1,Leicester City
+Sat Jan 3 1987,Aston Villa,0-0,Nottingham Forest
+Sat Jan 3 1987,Leicester City,6-1,Sheffield Wednesday
+Sat Jan 3 1987,Liverpool FC,1-0,West Ham United
+Sat Jan 3 1987,Luton Town,1-0,Chelsea FC
+Sat Jan 3 1987,Manchester City,1-0,Oxford United
+Sat Jan 3 1987,Newcastle United,1-2,Coventry City
+Sat Jan 3 1987,Norwich City,1-1,Charlton Athletic
+Sat Jan 3 1987,Queens Park Rangers,0-1,Everton FC
+Sat Jan 3 1987,Southampton FC,1-1,Manchester United
+Sat Jan 3 1987,Wimbledon,2-1,Watford FC
+Sun Jan 4 1987,Tottenham Hotspur,1-2,Arsenal FC
+Sat Jan 17 1987,Everton FC,2-0,Sheffield Wednesday
+Sat Jan 17 1987,Manchester City,0-1,Liverpool FC
+Sun Jan 18 1987,Arsenal FC,0-0,Coventry City
+Sat Jan 24 1987,Coventry City,1-3,West Ham United
+Sat Jan 24 1987,Liverpool FC,2-0,Newcastle United
+Sat Jan 24 1987,Luton Town,1-0,Leicester City
+Sat Jan 24 1987,Manchester United,2-0,Arsenal FC
+Sat Jan 24 1987,Norwich City,2-2,Chelsea FC
+Sat Jan 24 1987,Oxford United,1-3,Watford FC
+Sat Jan 24 1987,Queens Park Rangers,2-1,Southampton FC
+Sat Jan 24 1987,Sheffield Wednesday,1-1,Charlton Athletic
+Sat Jan 24 1987,Tottenham Hotspur,3-0,Aston Villa
+Sat Jan 24 1987,Wimbledon,0-0,Manchester City
+Sun Jan 25 1987,Nottingham Forest,1-0,Everton FC
+Sat Jan 31 1987,Charlton Athletic,0-1,Nottingham Forest
+Tue Feb 3 1987,Southampton FC,2-0,Coventry City
+Sat Feb 7 1987,Aston Villa,0-1,Queens Park Rangers
+Sat Feb 7 1987,Charlton Athletic,0-0,Manchester United
+Sat Feb 7 1987,Chelsea FC,2-0,Sheffield Wednesday
+Sat Feb 7 1987,Everton FC,3-1,Coventry City
+Sat Feb 7 1987,Leicester City,3-1,Wimbledon
+Sat Feb 7 1987,Newcastle United,2-2,Luton Town
+Sat Feb 7 1987,Southampton FC,1-2,Norwich City
+Sat Feb 7 1987,Watford FC,1-1,Nottingham Forest
+Sat Feb 7 1987,West Ham United,0-1,Oxford United
+Tue Feb 10 1987,Chelsea FC,4-0,Oxford United
+Sat Feb 14 1987,Coventry City,3-0,Chelsea FC
+Sat Feb 14 1987,Liverpool FC,4-3,Leicester City
+Sat Feb 14 1987,Luton Town,2-1,Aston Villa
+Sat Feb 14 1987,Manchester United,3-1,Watford FC
+Sat Feb 14 1987,Norwich City,1-1,Manchester City
+Sat Feb 14 1987,Nottingham Forest,1-1,West Ham United
+Sat Feb 14 1987,Oxford United,1-1,Everton FC
+Sat Feb 14 1987,Queens Park Rangers,2-1,Newcastle United
+Sat Feb 14 1987,Sheffield Wednesday,1-1,Arsenal FC
+Sat Feb 14 1987,Tottenham Hotspur,2-0,Southampton FC
+Sun Feb 15 1987,Wimbledon,2-0,Charlton Athletic
+Sat Feb 21 1987,Aston Villa,2-2,Liverpool FC
+Sat Feb 21 1987,Chelsea FC,1-1,Manchester United
+Sat Feb 21 1987,Leicester City,0-2,Norwich City
+Sat Feb 21 1987,Manchester City,1-1,Luton Town
+Wed Feb 25 1987,Oxford United,0-0,Arsenal FC
+Wed Feb 25 1987,Tottenham Hotspur,5-0,Leicester City
+Sat Feb 28 1987,Coventry City,2-1,Charlton Athletic
+Sat Feb 28 1987,Liverpool FC,1-0,Southampton FC
+Sat Feb 28 1987,Luton Town,2-1,West Ham United
+Sat Feb 28 1987,Manchester United,0-0,Everton FC
+Sat Feb 28 1987,Norwich City,1-1,Aston Villa
+Sat Feb 28 1987,Nottingham Forest,0-1,Chelsea FC
+Sat Feb 28 1987,Queens Park Rangers,1-0,Manchester City
+Sat Feb 28 1987,Sheffield Wednesday,0-1,Watford FC
+Sat Feb 28 1987,Wimbledon,3-1,Newcastle United
+Wed Mar 4 1987,Aston Villa,0-0,Wimbledon
+Sat Mar 7 1987,Charlton Athletic,2-1,West Ham United
+Sat Mar 7 1987,Chelsea FC,1-0,Arsenal FC
+Sat Mar 7 1987,Coventry City,1-0,Sheffield Wednesday
+Sat Mar 7 1987,Liverpool FC,2-0,Luton Town
+Sat Mar 7 1987,Manchester United,2-0,Manchester City
+Sat Mar 7 1987,Newcastle United,2-1,Aston Villa
+Sat Mar 7 1987,Norwich City,0-0,Wimbledon
+Sat Mar 7 1987,Nottingham Forest,2-0,Oxford United
+Sat Mar 7 1987,Southampton FC,4-0,Leicester City
+Sat Mar 7 1987,Tottenham Hotspur,1-0,Queens Park Rangers
+Sun Mar 8 1987,Watford FC,2-1,Everton FC
+Tue Mar 10 1987,Arsenal FC,0-1,Liverpool FC
+Sat Mar 14 1987,Everton FC,3-0,Southampton FC
+Sat Mar 14 1987,Leicester City,1-0,Charlton Athletic
+Sat Mar 14 1987,Luton Town,2-1,Manchester United
+Sat Mar 14 1987,Manchester City,1-2,Chelsea FC
+Sat Mar 14 1987,Oxford United,1-3,Liverpool FC
+Sat Mar 14 1987,Queens Park Rangers,3-1,Nottingham Forest
+Sat Mar 14 1987,West Ham United,0-2,Norwich City
+Tue Mar 17 1987,Arsenal FC,0-0,Nottingham Forest
+Wed Mar 18 1987,Liverpool FC,2-1,Queens Park Rangers
+Fri Mar 20 1987,Coventry City,3-0,Oxford United
+Sat Mar 21 1987,Chelsea FC,1-0,West Ham United
+Sat Mar 21 1987,Everton FC,2-1,Charlton Athletic
+Sat Mar 21 1987,Manchester City,0-0,Newcastle United
+Sat Mar 21 1987,Norwich City,0-0,Luton Town
+Sat Mar 21 1987,Sheffield Wednesday,1-0,Manchester United
+Sat Mar 21 1987,Southampton FC,5-0,Aston Villa
+Sat Mar 21 1987,Watford FC,2-0,Arsenal FC
+Sat Mar 21 1987,Wimbledon,1-1,Queens Park Rangers
+Sun Mar 22 1987,Nottingham Forest,2-1,Leicester City
+Sun Mar 22 1987,Tottenham Hotspur,1-0,Liverpool FC
+Tue Mar 24 1987,Charlton Athletic,0-0,Oxford United
+Tue Mar 24 1987,Southampton FC,3-0,Luton Town
+Tue Mar 24 1987,West Ham United,0-2,Sheffield Wednesday
+Tue Mar 24 1987,Wimbledon,2-1,Coventry City
+Wed Mar 25 1987,Aston Villa,1-1,Watford FC
+Wed Mar 25 1987,Leicester City,4-1,Queens Park Rangers
+Wed Mar 25 1987,Newcastle United,1-1,Tottenham Hotspur
+Sat Mar 28 1987,Arsenal FC,0-1,Everton FC
+Sat Mar 28 1987,Aston Villa,1-0,Coventry City
+Sat Mar 28 1987,Leicester City,4-0,Manchester City
+Sat Mar 28 1987,Liverpool FC,1-2,Wimbledon
+Sat Mar 28 1987,Luton Town,3-1,Tottenham Hotspur
+Sat Mar 28 1987,Manchester United,2-0,Nottingham Forest
+Sat Mar 28 1987,Newcastle United,2-0,Southampton FC
+Sat Mar 28 1987,Oxford United,2-1,Sheffield Wednesday
+Sat Mar 28 1987,Queens Park Rangers,1-1,Norwich City
+Sat Mar 28 1987,West Ham United,1-0,Watford FC
+Sat Apr 4 1987,Aston Villa,0-0,Manchester City
+Sat Apr 4 1987,Charlton Athletic,4-3,Watford FC
+Sat Apr 4 1987,Chelsea FC,1-2,Everton FC
+Sat Apr 4 1987,Luton Town,0-0,Wimbledon
+Sat Apr 4 1987,Manchester United,3-2,Oxford United
+Sat Apr 4 1987,Newcastle United,2-0,Leicester City
+Sat Apr 4 1987,Nottingham Forest,0-0,Coventry City
+Sat Apr 4 1987,Tottenham Hotspur,3-0,Norwich City
+Mon Apr 6 1987,Watford FC,0-3,Queens Park Rangers
+Tue Apr 7 1987,Charlton Athletic,0-0,Chelsea FC
+Tue Apr 7 1987,Sheffield Wednesday,0-1,Tottenham Hotspur
+Tue Apr 7 1987,Southampton FC,2-2,Wimbledon
+Wed Apr 8 1987,Newcastle United,4-1,Norwich City
+Wed Apr 8 1987,West Ham United,3-1,Arsenal FC
+Sat Apr 11 1987,Arsenal FC,2-1,Charlton Athletic
+Sat Apr 11 1987,Everton FC,4-0,West Ham United
+Sat Apr 11 1987,Leicester City,1-1,Aston Villa
+Sat Apr 11 1987,Manchester City,2-4,Southampton FC
+Sat Apr 11 1987,Norwich City,2-1,Liverpool FC
+Sat Apr 11 1987,Oxford United,1-1,Newcastle United
+Sat Apr 11 1987,Queens Park Rangers,2-2,Luton Town
+Tue Apr 14 1987,Arsenal FC,0-1,Newcastle United
+Tue Apr 14 1987,Sheffield Wednesday,2-3,Nottingham Forest
+Tue Apr 14 1987,Watford FC,3-1,Chelsea FC
+Tue Apr 14 1987,West Ham United,0-0,Manchester United
+Wed Apr 15 1987,Manchester City,1-1,Tottenham Hotspur
+Sat Apr 18 1987,Aston Villa,0-1,Everton FC
+Sat Apr 18 1987,Leicester City,2-0,West Ham United
+Sat Apr 18 1987,Liverpool FC,3-0,Nottingham Forest
+Sat Apr 18 1987,Luton Town,2-0,Coventry City
+Sat Apr 18 1987,Manchester City,1-2,Watford FC
+Sat Apr 18 1987,Newcastle United,2-1,Manchester United
+Sat Apr 18 1987,Norwich City,1-0,Sheffield Wednesday
+Sat Apr 18 1987,Queens Park Rangers,1-1,Chelsea FC
+Sat Apr 18 1987,Southampton FC,3-0,Oxford United
+Sat Apr 18 1987,Tottenham Hotspur,1-0,Charlton Athletic
+Sat Apr 18 1987,Wimbledon,1-2,Arsenal FC
+Mon Apr 20 1987,Arsenal FC,4-1,Leicester City
+Mon Apr 20 1987,Charlton Athletic,3-0,Aston Villa
+Mon Apr 20 1987,Chelsea FC,1-1,Southampton FC
+Mon Apr 20 1987,Coventry City,4-1,Queens Park Rangers
+Mon Apr 20 1987,Everton FC,3-0,Newcastle United
+Mon Apr 20 1987,Manchester United,1-0,Liverpool FC
+Mon Apr 20 1987,Nottingham Forest,1-1,Norwich City
+Mon Apr 20 1987,Oxford United,3-1,Wimbledon
+Mon Apr 20 1987,Sheffield Wednesday,2-1,Manchester City
+Mon Apr 20 1987,West Ham United,2-1,Tottenham Hotspur
+Tue Apr 21 1987,Watford FC,2-0,Luton Town
+Wed Apr 22 1987,Southampton FC,1-1,Sheffield Wednesday
+Wed Apr 22 1987,Wimbledon,2-2,Tottenham Hotspur
+Sat Apr 25 1987,Aston Villa,4-0,West Ham United
+Sat Apr 25 1987,Leicester City,1-2,Watford FC
+Sat Apr 25 1987,Liverpool FC,3-1,Everton FC
+Sat Apr 25 1987,Luton Town,0-0,Sheffield Wednesday
+Sat Apr 25 1987,Manchester City,3-0,Arsenal FC
+Sat Apr 25 1987,Newcastle United,1-0,Chelsea FC
+Sat Apr 25 1987,Norwich City,1-1,Coventry City
+Sat Apr 25 1987,Queens Park Rangers,1-1,Manchester United
+Sat Apr 25 1987,Southampton FC,2-2,Charlton Athletic
+Sat Apr 25 1987,Tottenham Hotspur,3-1,Oxford United
+Sat Apr 25 1987,Wimbledon,2-1,Nottingham Forest
+Thu Apr 30 1987,Watford FC,2-3,Coventry City
+Sat May 2 1987,Arsenal FC,2-1,Aston Villa
+Sat May 2 1987,Charlton Athletic,0-1,Luton Town
+Sat May 2 1987,Chelsea FC,3-1,Leicester City
+Sat May 2 1987,Coventry City,1-0,Liverpool FC
+Sat May 2 1987,Everton FC,0-0,Manchester City
+Sat May 2 1987,Manchester United,0-1,Wimbledon
+Sat May 2 1987,Nottingham Forest,2-0,Tottenham Hotspur
+Sat May 2 1987,Oxford United,0-1,Norwich City
+Sat May 2 1987,Sheffield Wednesday,7-1,Queens Park Rangers
+Sat May 2 1987,Watford FC,1-1,Southampton FC
+Sat May 2 1987,West Ham United,1-1,Newcastle United
+Mon May 4 1987,Aston Villa,1-2,Sheffield Wednesday
+Mon May 4 1987,Leicester City,1-1,Coventry City
+Mon May 4 1987,Liverpool FC,1-0,Watford FC
+Mon May 4 1987,Manchester City,1-0,Nottingham Forest
+Mon May 4 1987,Newcastle United,0-3,Charlton Athletic
+Mon May 4 1987,Norwich City,0-1,Everton FC
+Mon May 4 1987,Queens Park Rangers,1-4,Arsenal FC
+Mon May 4 1987,Southampton FC,1-0,West Ham United
+Mon May 4 1987,Tottenham Hotspur,4-0,Manchester United
+Tue May 5 1987,Luton Town,2-3,Oxford United
+Tue May 5 1987,Wimbledon,2-1,Chelsea FC
+Wed May 6 1987,Coventry City,1-1,Manchester United
+Sat May 9 1987,Arsenal FC,1-2,Norwich City
+Sat May 9 1987,Charlton Athletic,2-1,Queens Park Rangers
+Sat May 9 1987,Chelsea FC,3-3,Liverpool FC
+Sat May 9 1987,Coventry City,1-1,Southampton FC
+Sat May 9 1987,Everton FC,3-1,Luton Town
+Sat May 9 1987,Manchester United,3-1,Aston Villa
+Sat May 9 1987,Nottingham Forest,2-1,Newcastle United
+Sat May 9 1987,Oxford United,0-0,Leicester City
+Sat May 9 1987,Sheffield Wednesday,0-2,Wimbledon
+Sat May 9 1987,Watford FC,1-0,Tottenham Hotspur
+Sat May 9 1987,West Ham United,2-0,Manchester City
+Mon May 11 1987,Everton FC,1-0,Tottenham Hotspur

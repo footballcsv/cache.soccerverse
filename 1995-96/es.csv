@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Sep 2 1995,Deportivo La Coruna,3-0,Valencia CF
+Sat Sep 2 1995,Sporting Gijon,3-0,Albacete
+Sun Sep 3 1995,Rayo Vallecano,1-5,Real Madrid
+Sun Sep 3 1995,Real Zaragoza,1-0,Real Oviedo
+Sun Sep 3 1995,Merida Ad,1-1,Real Betis
+Sun Sep 3 1995,Real Valladolid,0-2,FC Barcelona
+Sun Sep 3 1995,Celta Vigo,0-1,Sd Compostela
+Sun Sep 3 1995,Espanyol Barcelona,3-1,Ud Salamanca
+Sun Sep 3 1995,Sevilla FC,0-1,CD Tenerife
+Sun Sep 3 1995,Atletico Madrid,4-1,Real Sociedad
+Sun Sep 3 1995,Athletic Bilbao,4-0,Racing Santander
+Sat Sep 9 1995,Real Madrid,1-2,Athletic Bilbao
+Sat Sep 9 1995,Real Betis,3-1,Real Zaragoza
+Sat Sep 9 1995,FC Barcelona,2-2,Merida Ad
+Sat Sep 9 1995,Albacete,3-2,Sevilla FC
+Sun Sep 10 1995,Real Oviedo,2-0,Rayo Vallecano
+Sun Sep 10 1995,Valencia CF,1-0,Real Valladolid
+Sun Sep 10 1995,Sd Compostela,4-0,Deportivo La Coruna
+Sun Sep 10 1995,Ud Salamanca,0-1,Celta Vigo
+Sun Sep 10 1995,CD Tenerife,1-4,Espanyol Barcelona
+Sun Sep 10 1995,Real Sociedad,2-0,Sporting Gijon
+Sun Sep 10 1995,Racing Santander,0-4,Atletico Madrid
+Sat Sep 16 1995,Athletic Bilbao,0-2,Atletico Madrid
+Sun Sep 17 1995,Real Madrid,2-3,Real Oviedo
+Sun Sep 17 1995,Rayo Vallecano,1-2,Real Betis
+Sun Sep 17 1995,Real Zaragoza,0-3,FC Barcelona
+Sun Sep 17 1995,Merida Ad,0-2,Valencia CF
+Sun Sep 17 1995,Real Valladolid,0-0,Sd Compostela
+Sun Sep 17 1995,Deportivo La Coruna,2-0,Ud Salamanca
+Sun Sep 17 1995,Celta Vigo,2-2,CD Tenerife
+Sun Sep 17 1995,Espanyol Barcelona,1-0,Albacete
+Sun Sep 17 1995,Sevilla FC,2-1,Real Sociedad
+Sun Sep 17 1995,Sporting Gijon,4-2,Racing Santander
+Sat Sep 23 1995,Real Betis,0-0,Real Madrid
+Sat Sep 23 1995,FC Barcelona,2-0,Rayo Vallecano
+Sat Sep 23 1995,Racing Santander,1-1,Sevilla FC
+Sun Sep 24 1995,Real Oviedo,0-0,Athletic Bilbao
+Sun Sep 24 1995,Valencia CF,0-0,Real Zaragoza
+Sun Sep 24 1995,Sd Compostela,1-0,Merida Ad
+Sun Sep 24 1995,Ud Salamanca,0-0,Real Valladolid
+Sun Sep 24 1995,CD Tenerife,1-1,Deportivo La Coruna
+Sun Sep 24 1995,Albacete,4-0,Celta Vigo
+Sun Sep 24 1995,Real Sociedad,0-1,Espanyol Barcelona
+Sun Sep 24 1995,Atletico Madrid,2-0,Sporting Gijon
+Sat Sep 30 1995,Real Madrid,1-1,FC Barcelona
+Sat Sep 30 1995,Athletic Bilbao,2-1,Sporting Gijon
+Sun Oct 1 1995,Real Oviedo,0-1,Real Betis
+Sun Oct 1 1995,Rayo Vallecano,3-2,Valencia CF
+Sun Oct 1 1995,Real Zaragoza,1-0,Sd Compostela
+Sun Oct 1 1995,Merida Ad,0-0,Ud Salamanca
+Sun Oct 1 1995,Real Valladolid,3-0,CD Tenerife
+Sun Oct 1 1995,Deportivo La Coruna,5-0,Albacete
+Sun Oct 1 1995,Celta Vigo,1-1,Real Sociedad
+Sun Oct 1 1995,Espanyol Barcelona,1-0,Racing Santander
+Sun Oct 1 1995,Sevilla FC,0-0,Atletico Madrid
+Wed Oct 4 1995,Real Betis,0-0,Athletic Bilbao
+Wed Oct 4 1995,FC Barcelona,4-1,Real Oviedo
+Wed Oct 4 1995,Valencia CF,4-3,Real Madrid
+Wed Oct 4 1995,Sd Compostela,1-0,Rayo Vallecano
+Wed Oct 4 1995,Ud Salamanca,0-1,Real Zaragoza
+Wed Oct 4 1995,CD Tenerife,1-0,Merida Ad
+Wed Oct 4 1995,Albacete,4-2,Real Valladolid
+Wed Oct 4 1995,Real Sociedad,2-1,Deportivo La Coruna
+Wed Oct 4 1995,Racing Santander,2-1,Celta Vigo
+Wed Oct 4 1995,Sporting Gijon,3-1,Sevilla FC
+Thu Oct 5 1995,Atletico Madrid,2-1,Espanyol Barcelona
+Sat Oct 7 1995,Real Betis,1-5,FC Barcelona
+Sun Oct 8 1995,Real Oviedo,0-1,Valencia CF
+Sun Oct 8 1995,Real Madrid,2-1,Sd Compostela
+Sun Oct 8 1995,Rayo Vallecano,1-4,Ud Salamanca
+Sun Oct 8 1995,Real Zaragoza,0-2,CD Tenerife
+Sun Oct 8 1995,Merida Ad,1-1,Albacete
+Sun Oct 8 1995,Real Valladolid,3-0,Real Sociedad
+Sun Oct 8 1995,Deportivo La Coruna,2-3,Racing Santander
+Sun Oct 8 1995,Celta Vigo,0-3,Atletico Madrid
+Sun Oct 8 1995,Espanyol Barcelona,0-0,Sporting Gijon
+Sun Oct 8 1995,Athletic Bilbao,1-1,Sevilla FC
+Sat Oct 14 1995,FC Barcelona,4-1,Athletic Bilbao
+Sat Oct 14 1995,Valencia CF,1-1,Real Betis
+Sat Oct 14 1995,Atletico Madrid,1-0,Deportivo La Coruna
+Sat Oct 14 1995,Sevilla FC,0-3,Espanyol Barcelona
+Sun Oct 15 1995,Sd Compostela,4-1,Real Oviedo
+Sun Oct 15 1995,Ud Salamanca,0-2,Real Madrid
+Sun Oct 15 1995,CD Tenerife,2-2,Rayo Vallecano
+Sun Oct 15 1995,Albacete,0-1,Real Zaragoza
+Sun Oct 15 1995,Real Sociedad,1-2,Merida Ad
+Sun Oct 15 1995,Racing Santander,0-0,Real Valladolid
+Sun Oct 15 1995,Sporting Gijon,1-0,Celta Vigo
+Sat Oct 21 1995,Real Valladolid,0-1,Atletico Madrid
+Sun Oct 22 1995,FC Barcelona,1-0,Valencia CF
+Sun Oct 22 1995,Real Betis,5-0,Sd Compostela
+Sun Oct 22 1995,Real Oviedo,2-2,Ud Salamanca
+Sun Oct 22 1995,Real Madrid,2-0,CD Tenerife
+Sun Oct 22 1995,Rayo Vallecano,2-0,Albacete
+Sun Oct 22 1995,Real Zaragoza,1-2,Real Sociedad
+Sun Oct 22 1995,Merida Ad,3-1,Racing Santander
+Sun Oct 22 1995,Deportivo La Coruna,1-0,Sporting Gijon
+Sun Oct 22 1995,Celta Vigo,4-0,Sevilla FC
+Sun Oct 22 1995,Athletic Bilbao,0-0,Espanyol Barcelona
+Sat Oct 28 1995,Sd Compostela,2-1,FC Barcelona
+Sat Oct 28 1995,Albacete,1-1,Real Madrid
+Sat Oct 28 1995,Sevilla FC,0-0,Deportivo La Coruna
+Sun Oct 29 1995,Valencia CF,3-1,Athletic Bilbao
+Sun Oct 29 1995,Ud Salamanca,2-1,Real Betis
+Sun Oct 29 1995,CD Tenerife,3-3,Real Oviedo
+Sun Oct 29 1995,Real Sociedad,2-1,Rayo Vallecano
+Sun Oct 29 1995,Racing Santander,0-0,Real Zaragoza
+Sun Oct 29 1995,Atletico Madrid,1-1,Merida Ad
+Sun Oct 29 1995,Sporting Gijon,4-2,Real Valladolid
+Sun Oct 29 1995,Espanyol Barcelona,2-2,Celta Vigo
+Sat Nov 4 1995,Real Madrid,3-2,Real Sociedad
+Sun Nov 5 1995,Valencia CF,5-2,Sd Compostela
+Sun Nov 5 1995,FC Barcelona,4-1,Ud Salamanca
+Sun Nov 5 1995,Real Betis,3-3,CD Tenerife
+Sun Nov 5 1995,Real Oviedo,1-0,Albacete
+Sun Nov 5 1995,Rayo Vallecano,1-2,Racing Santander
+Sun Nov 5 1995,Real Zaragoza,0-1,Atletico Madrid
+Sun Nov 5 1995,Merida Ad,1-0,Sporting Gijon
+Sun Nov 5 1995,Real Valladolid,3-3,Sevilla FC
+Sun Nov 5 1995,Deportivo La Coruna,0-1,Espanyol Barcelona
+Sun Nov 5 1995,Athletic Bilbao,3-0,Celta Vigo
+Sat Nov 11 1995,Celta Vigo,0-0,Deportivo La Coruna
+Sun Nov 12 1995,Sd Compostela,2-1,Athletic Bilbao
+Sun Nov 12 1995,Ud Salamanca,4-0,Valencia CF
+Sun Nov 12 1995,CD Tenerife,1-1,FC Barcelona
+Sun Nov 12 1995,Albacete,0-0,Real Betis
+Sun Nov 12 1995,Real Sociedad,1-1,Real Oviedo
+Sun Nov 12 1995,Racing Santander,2-0,Real Madrid
+Sun Nov 12 1995,Atletico Madrid,0-0,Rayo Vallecano
+Sun Nov 12 1995,Sporting Gijon,4-1,Real Zaragoza
+Sun Nov 12 1995,Sevilla FC,3-0,Merida Ad
+Sun Nov 12 1995,Espanyol Barcelona,2-0,Real Valladolid
+Sat Nov 18 1995,FC Barcelona,3-0,Albacete
+Sat Nov 18 1995,Real Betis,3-1,Real Sociedad
+Sat Nov 18 1995,Real Madrid,1-0,Atletico Madrid
+Sat Nov 18 1995,Real Zaragoza,0-1,Sevilla FC
+Sun Nov 19 1995,Sd Compostela,0-0,Ud Salamanca
+Sun Nov 19 1995,Valencia CF,2-2,CD Tenerife
+Sun Nov 19 1995,Real Oviedo,2-1,Racing Santander
+Sun Nov 19 1995,Rayo Vallecano,2-0,Sporting Gijon
+Sun Nov 19 1995,Merida Ad,0-1,Espanyol Barcelona
+Sun Nov 19 1995,Real Valladolid,1-1,Celta Vigo
+Sun Nov 19 1995,Athletic Bilbao,1-0,Deportivo La Coruna
+Sat Nov 25 1995,Real Sociedad,1-1,FC Barcelona
+Sun Nov 26 1995,Ud Salamanca,2-1,Athletic Bilbao
+Sun Nov 26 1995,Albacete,1-3,Valencia CF
+Sun Nov 26 1995,Racing Santander,0-0,Real Betis
+Sun Nov 26 1995,Atletico Madrid,3-0,Real Oviedo
+Sun Nov 26 1995,Sevilla FC,1-0,Rayo Vallecano
+Sun Nov 26 1995,CD Tenerife,1-1,Sd Compostela
+Sun Nov 26 1995,Sporting Gijon,0-0,Real Madrid
+Sun Nov 26 1995,Espanyol Barcelona,1-1,Real Zaragoza
+Sun Nov 26 1995,Celta Vigo,2-0,Merida Ad
+Sun Nov 26 1995,Deportivo La Coruna,3-1,Real Valladolid
+Sat Dec 2 1995,Rayo Vallecano,1-0,Espanyol Barcelona
+Sat Dec 2 1995,Real Madrid,4-1,Sevilla FC
+Sat Dec 2 1995,FC Barcelona,1-1,Racing Santander
+Sun Dec 3 1995,Ud Salamanca,1-2,CD Tenerife
+Sun Dec 3 1995,Sd Compostela,3-1,Albacete
+Sun Dec 3 1995,Valencia CF,0-1,Real Sociedad
+Sun Dec 3 1995,Real Betis,2-1,Atletico Madrid
+Sun Dec 3 1995,Real Oviedo,1-0,Sporting Gijon
+Sun Dec 3 1995,Real Zaragoza,0-0,Celta Vigo
+Sun Dec 3 1995,Merida Ad,0-2,Deportivo La Coruna
+Sun Dec 3 1995,Athletic Bilbao,2-1,Real Valladolid
+Sat Dec 9 1995,Atletico Madrid,3-1,FC Barcelona
+Sat Dec 9 1995,Racing Santander,0-3,Valencia CF
+Sun Dec 10 1995,CD Tenerife,3-2,Athletic Bilbao
+Sun Dec 10 1995,Albacete,3-3,Ud Salamanca
+Sun Dec 10 1995,Real Sociedad,0-1,Sd Compostela
+Sun Dec 10 1995,Sporting Gijon,2-3,Real Betis
+Sun Dec 10 1995,Sevilla FC,1-1,Real Oviedo
+Sun Dec 10 1995,Espanyol Barcelona,3-1,Real Madrid
+Sun Dec 10 1995,Celta Vigo,2-0,Rayo Vallecano
+Sun Dec 10 1995,Deportivo La Coruna,2-3,Real Zaragoza
+Sun Dec 10 1995,Real Valladolid,1-1,Merida Ad
+Sat Dec 16 1995,FC Barcelona,1-0,Sporting Gijon
+Sat Dec 16 1995,Real Betis,1-1,Sevilla FC
+Sun Dec 17 1995,CD Tenerife,1-3,Albacete
+Sun Dec 17 1995,Ud Salamanca,3-3,Real Sociedad
+Sun Dec 17 1995,Sd Compostela,2-0,Racing Santander
+Sun Dec 17 1995,Valencia CF,0-1,Atletico Madrid
+Sun Dec 17 1995,Real Oviedo,1-2,Espanyol Barcelona
+Sun Dec 17 1995,Real Madrid,1-0,Celta Vigo
+Sun Dec 17 1995,Rayo Vallecano,0-6,Deportivo La Coruna
+Sun Dec 17 1995,Real Zaragoza,5-3,Real Valladolid
+Sun Dec 17 1995,Athletic Bilbao,1-1,Merida Ad
+Wed Dec 20 1995,Albacete,2-0,Athletic Bilbao
+Wed Dec 20 1995,Real Sociedad,0-1,CD Tenerife
+Wed Dec 20 1995,Racing Santander,2-1,Ud Salamanca
+Wed Dec 20 1995,Atletico Madrid,3-0,Sd Compostela
+Wed Dec 20 1995,Sporting Gijon,1-3,Valencia CF
+Wed Dec 20 1995,Sevilla FC,1-0,FC Barcelona
+Wed Dec 20 1995,Espanyol Barcelona,1-1,Real Betis
+Wed Dec 20 1995,Celta Vigo,1-0,Real Oviedo
+Wed Dec 20 1995,Real Valladolid,1-1,Rayo Vallecano
+Wed Dec 20 1995,Merida Ad,1-1,Real Zaragoza
+Thu Dec 21 1995,Deportivo La Coruna,3-0,Real Madrid
+Wed Jan 3 1996,Albacete,3-5,Real Sociedad
+Wed Jan 3 1996,CD Tenerife,2-0,Racing Santander
+Wed Jan 3 1996,Ud Salamanca,1-3,Atletico Madrid
+Wed Jan 3 1996,Sd Compostela,1-0,Sporting Gijon
+Wed Jan 3 1996,Valencia CF,1-0,Sevilla FC
+Wed Jan 3 1996,Real Betis,0-3,Celta Vigo
+Wed Jan 3 1996,Real Oviedo,0-2,Deportivo La Coruna
+Wed Jan 3 1996,Real Madrid,4-1,Real Valladolid
+Wed Jan 3 1996,Rayo Vallecano,4-1,Merida Ad
+Wed Jan 3 1996,Athletic Bilbao,1-0,Real Zaragoza
+Thu Jan 4 1996,FC Barcelona,2-1,Espanyol Barcelona
+Sat Jan 6 1996,Athletic Bilbao,0-0,Real Sociedad
+Sat Jan 6 1996,Atletico Madrid,3-1,CD Tenerife
+Sun Jan 7 1996,Racing Santander,5-5,Albacete
+Sun Jan 7 1996,Sporting Gijon,3-2,Ud Salamanca
+Sun Jan 7 1996,Sevilla FC,0-1,Sd Compostela
+Sun Jan 7 1996,Espanyol Barcelona,2-0,Valencia CF
+Sun Jan 7 1996,Celta Vigo,1-0,FC Barcelona
+Sun Jan 7 1996,Deportivo La Coruna,0-0,Real Betis
+Sun Jan 7 1996,Real Valladolid,2-2,Real Oviedo
+Sun Jan 7 1996,Merida Ad,2-2,Real Madrid
+Sun Jan 7 1996,Real Zaragoza,1-1,Rayo Vallecano
+Sat Jan 13 1996,Albacete,1-1,Atletico Madrid
+Sat Jan 13 1996,Real Betis,3-0,Real Valladolid
+Sun Jan 14 1996,Real Sociedad,2-1,Racing Santander
+Sun Jan 14 1996,CD Tenerife,3-0,Sporting Gijon
+Sun Jan 14 1996,Ud Salamanca,4-1,Sevilla FC
+Sun Jan 14 1996,Sd Compostela,2-1,Espanyol Barcelona
+Sun Jan 14 1996,Valencia CF,3-0,Celta Vigo
+Sun Jan 14 1996,FC Barcelona,1-1,Deportivo La Coruna
+Sun Jan 14 1996,Real Oviedo,0-0,Merida Ad
+Sun Jan 14 1996,Real Madrid,2-2,Real Zaragoza
+Sun Jan 14 1996,Rayo Vallecano,2-2,Athletic Bilbao
+Sat Jan 20 1996,Valencia CF,2-1,Deportivo La Coruna
+Sun Jan 21 1996,Real Madrid,1-2,Rayo Vallecano
+Sun Jan 21 1996,Real Oviedo,1-1,Real Zaragoza
+Sun Jan 21 1996,Real Betis,0-1,Merida Ad
+Sun Jan 21 1996,FC Barcelona,1-0,Real Valladolid
+Sun Jan 21 1996,Sd Compostela,1-1,Celta Vigo
+Sun Jan 21 1996,Ud Salamanca,2-2,Espanyol Barcelona
+Sun Jan 21 1996,CD Tenerife,4-2,Sevilla FC
+Sun Jan 21 1996,Albacete,1-3,Sporting Gijon
+Sun Jan 21 1996,Real Sociedad,1-0,Atletico Madrid
+Sun Jan 21 1996,Racing Santander,1-1,Athletic Bilbao
+Wed Jan 24 1996,Athletic Bilbao,0-5,Real Madrid
+Wed Jan 24 1996,Rayo Vallecano,1-2,Real Oviedo
+Wed Jan 24 1996,Real Zaragoza,1-2,Real Betis
+Wed Jan 24 1996,Real Valladolid,2-5,Valencia CF
+Wed Jan 24 1996,Deportivo La Coruna,2-0,Sd Compostela
+Wed Jan 24 1996,Celta Vigo,2-1,Ud Salamanca
+Wed Jan 24 1996,Espanyol Barcelona,2-1,CD Tenerife
+Wed Jan 24 1996,Sevilla FC,1-1,Albacete
+Wed Jan 24 1996,Sporting Gijon,1-1,Real Sociedad
+Wed Jan 24 1996,Atletico Madrid,2-0,Racing Santander
+Thu Jan 25 1996,Merida Ad,0-0,FC Barcelona
+Sat Jan 27 1996,Ud Salamanca,0-5,Deportivo La Coruna
+Sun Jan 28 1996,Real Oviedo,1-2,Real Madrid
+Sun Jan 28 1996,Real Betis,0-0,Rayo Vallecano
+Sun Jan 28 1996,FC Barcelona,3-1,Real Zaragoza
+Sun Jan 28 1996,Valencia CF,4-1,Merida Ad
+Sun Jan 28 1996,Sd Compostela,1-3,Real Valladolid
+Sun Jan 28 1996,CD Tenerife,1-0,Celta Vigo
+Sun Jan 28 1996,Albacete,0-0,Espanyol Barcelona
+Sun Jan 28 1996,Real Sociedad,1-0,Sevilla FC
+Sun Jan 28 1996,Racing Santander,1-1,Sporting Gijon
+Sun Jan 28 1996,Atletico Madrid,4-1,Athletic Bilbao
+Sat Feb 3 1996,Real Zaragoza,4-1,Valencia CF
+Sat Feb 3 1996,Sporting Gijon,1-2,Atletico Madrid
+Sun Feb 4 1996,Athletic Bilbao,0-1,Real Oviedo
+Sun Feb 4 1996,Real Madrid,4-2,Real Betis
+Sun Feb 4 1996,Rayo Vallecano,1-1,FC Barcelona
+Sun Feb 4 1996,Merida Ad,0-2,Sd Compostela
+Sun Feb 4 1996,Real Valladolid,1-0,Ud Salamanca
+Sun Feb 4 1996,Deportivo La Coruna,1-1,CD Tenerife
+Sun Feb 4 1996,Celta Vigo,2-2,Albacete
+Sun Feb 4 1996,Espanyol Barcelona,0-0,Real Sociedad
+Sun Feb 4 1996,Sevilla FC,0-1,Racing Santander
+Sat Feb 10 1996,FC Barcelona,3-0,Real Madrid
+Sat Feb 10 1996,Atletico Madrid,0-1,Sevilla FC
+Sat Feb 10 1996,Valencia CF,3-0,Rayo Vallecano
+Sun Feb 11 1996,Real Betis,2-1,Real Oviedo
+Sun Feb 11 1996,Sd Compostela,3-2,Real Zaragoza
+Sun Feb 11 1996,Ud Salamanca,2-2,Merida Ad
+Sun Feb 11 1996,CD Tenerife,1-0,Real Valladolid
+Sun Feb 11 1996,Albacete,1-0,Deportivo La Coruna
+Sun Feb 11 1996,Real Sociedad,3-1,Celta Vigo
+Sun Feb 11 1996,Racing Santander,1-1,Espanyol Barcelona
+Sun Feb 11 1996,Sporting Gijon,1-2,Athletic Bilbao
+Sat Feb 17 1996,Real Madrid,0-0,Valencia CF
+Sat Feb 17 1996,Real Zaragoza,1-1,Ud Salamanca
+Sun Feb 18 1996,Athletic Bilbao,0-1,Real Betis
+Sun Feb 18 1996,Real Oviedo,1-2,FC Barcelona
+Sun Feb 18 1996,Rayo Vallecano,0-1,Sd Compostela
+Sun Feb 18 1996,Merida Ad,2-0,CD Tenerife
+Sun Feb 18 1996,Real Valladolid,3-0,Albacete
+Sun Feb 18 1996,Deportivo La Coruna,1-1,Real Sociedad
+Sun Feb 18 1996,Celta Vigo,0-0,Racing Santander
+Sun Feb 18 1996,Espanyol Barcelona,0-2,Atletico Madrid
+Sun Feb 18 1996,Sevilla FC,2-0,Sporting Gijon
+Sat Feb 24 1996,Racing Santander,2-1,Deportivo La Coruna
+Sun Feb 25 1996,FC Barcelona,1-0,Real Betis
+Sun Feb 25 1996,Valencia CF,3-1,Real Oviedo
+Sun Feb 25 1996,Sd Compostela,3-3,Real Madrid
+Sun Feb 25 1996,Ud Salamanca,1-2,Rayo Vallecano
+Sun Feb 25 1996,CD Tenerife,1-2,Real Zaragoza
+Sun Feb 25 1996,Albacete,2-0,Merida Ad
+Sun Feb 25 1996,Real Sociedad,1-0,Real Valladolid
+Sun Feb 25 1996,Atletico Madrid,3-2,Celta Vigo
+Sun Feb 25 1996,Sporting Gijon,2-3,Espanyol Barcelona
+Sun Feb 25 1996,Sevilla FC,1-1,Athletic Bilbao
+Sat Mar 2 1996,Athletic Bilbao,0-0,FC Barcelona
+Sat Mar 2 1996,Real Madrid,5-0,Ud Salamanca
+Sat Mar 2 1996,Merida Ad,1-2,Real Sociedad
+Sat Mar 2 1996,Real Valladolid,3-1,Racing Santander
+Sat Mar 2 1996,Espanyol Barcelona,0-1,Sevilla FC
+Sun Mar 3 1996,Real Betis,3-0,Valencia CF
+Sun Mar 3 1996,Real Oviedo,3-1,Sd Compostela
+Sun Mar 3 1996,Rayo Vallecano,2-4,CD Tenerife
+Sun Mar 3 1996,Real Zaragoza,3-1,Albacete
+Sun Mar 3 1996,Deportivo La Coruna,2-2,Atletico Madrid
+Sun Mar 3 1996,Celta Vigo,0-0,Sporting Gijon
+Sat Mar 9 1996,Valencia CF,4-1,FC Barcelona
+Sun Mar 10 1996,Sd Compostela,1-2,Real Betis
+Sun Mar 10 1996,Ud Salamanca,0-1,Real Oviedo
+Sun Mar 10 1996,CD Tenerife,3-0,Real Madrid
+Sun Mar 10 1996,Albacete,1-2,Rayo Vallecano
+Sun Mar 10 1996,Real Sociedad,3-1,Real Zaragoza
+Sun Mar 10 1996,Racing Santander,2-0,Merida Ad
+Sun Mar 10 1996,Atletico Madrid,0-2,Real Valladolid
+Sun Mar 10 1996,Sporting Gijon,1-1,Deportivo La Coruna
+Sun Mar 10 1996,Sevilla FC,0-0,Celta Vigo
+Sun Mar 10 1996,Espanyol Barcelona,3-0,Athletic Bilbao
+Sat Mar 16 1996,FC Barcelona,1-0,Sd Compostela
+Sat Mar 16 1996,Real Madrid,2-0,Albacete
+Sat Mar 16 1996,Real Zaragoza,1-2,Racing Santander
+Sun Mar 17 1996,Athletic Bilbao,0-1,Valencia CF
+Sun Mar 17 1996,Real Betis,4-0,Ud Salamanca
+Sun Mar 17 1996,Real Oviedo,1-3,CD Tenerife
+Sun Mar 17 1996,Rayo Vallecano,2-0,Real Sociedad
+Sun Mar 17 1996,Merida Ad,0-1,Atletico Madrid
+Sun Mar 17 1996,Real Valladolid,1-0,Sporting Gijon
+Sun Mar 17 1996,Deportivo La Coruna,3-2,Sevilla FC
+Sun Mar 17 1996,Celta Vigo,4-2,Espanyol Barcelona
+Sat Mar 23 1996,CD Tenerife,1-2,Real Betis
+Sat Mar 23 1996,Sporting Gijon,3-1,Merida Ad
+Sun Mar 24 1996,Sd Compostela,0-4,Valencia CF
+Sun Mar 24 1996,Ud Salamanca,1-3,FC Barcelona
+Sun Mar 24 1996,Albacete,0-1,Real Oviedo
+Sun Mar 24 1996,Real Sociedad,1-1,Real Madrid
+Sun Mar 24 1996,Racing Santander,1-2,Rayo Vallecano
+Sun Mar 24 1996,Atletico Madrid,1-1,Real Zaragoza
+Sun Mar 24 1996,Sevilla FC,1-1,Real Valladolid
+Sun Mar 24 1996,Espanyol Barcelona,0-0,Deportivo La Coruna
+Sun Mar 24 1996,Celta Vigo,3-1,Athletic Bilbao
+Wed Mar 27 1996,Athletic Bilbao,0-0,Sd Compostela
+Wed Mar 27 1996,Valencia CF,2-0,Ud Salamanca
+Wed Mar 27 1996,FC Barcelona,2-2,CD Tenerife
+Wed Mar 27 1996,Real Betis,2-3,Albacete
+Wed Mar 27 1996,Real Madrid,1-2,Racing Santander
+Wed Mar 27 1996,Rayo Vallecano,0-3,Atletico Madrid
+Wed Mar 27 1996,Real Zaragoza,1-1,Sporting Gijon
+Wed Mar 27 1996,Merida Ad,3-2,Sevilla FC
+Wed Mar 27 1996,Real Valladolid,0-0,Espanyol Barcelona
+Wed Mar 27 1996,Deportivo La Coruna,2-1,Celta Vigo
+Thu Mar 28 1996,Real Oviedo,0-0,Real Sociedad
+Sun Mar 31 1996,Atletico Madrid,1-2,Real Madrid
+Sun Mar 31 1996,Albacete,0-1,FC Barcelona
+Sun Mar 31 1996,Ud Salamanca,1-0,Sd Compostela
+Sun Mar 31 1996,CD Tenerife,2-1,Valencia CF
+Sun Mar 31 1996,Real Sociedad,1-1,Real Betis
+Sun Mar 31 1996,Racing Santander,0-0,Real Oviedo
+Sun Mar 31 1996,Sporting Gijon,3-1,Rayo Vallecano
+Sun Mar 31 1996,Sevilla FC,1-1,Real Zaragoza
+Sun Mar 31 1996,Espanyol Barcelona,3-0,Merida Ad
+Sun Mar 31 1996,Celta Vigo,1-1,Real Valladolid
+Sun Mar 31 1996,Deportivo La Coruna,0-0,Athletic Bilbao
+Sat Apr 6 1996,FC Barcelona,1-0,Real Sociedad
+Sat Apr 6 1996,Real Oviedo,1-1,Atletico Madrid
+Sat Apr 6 1996,Real Zaragoza,1-1,Espanyol Barcelona
+Sun Apr 7 1996,Athletic Bilbao,3-1,Ud Salamanca
+Sun Apr 7 1996,Sd Compostela,0-2,CD Tenerife
+Sun Apr 7 1996,Valencia CF,1-0,Albacete
+Sun Apr 7 1996,Real Betis,2-2,Racing Santander
+Sun Apr 7 1996,Real Madrid,0-1,Sporting Gijon
+Sun Apr 7 1996,Rayo Vallecano,0-0,Sevilla FC
+Sun Apr 7 1996,Merida Ad,2-0,Celta Vigo
+Sun Apr 7 1996,Real Valladolid,2-2,Deportivo La Coruna
+Sat Apr 13 1996,Racing Santander,1-1,FC Barcelona
+Sat Apr 13 1996,Sevilla FC,0-1,Real Madrid
+Sun Apr 14 1996,CD Tenerife,4-0,Ud Salamanca
+Sun Apr 14 1996,Albacete,2-1,Sd Compostela
+Sun Apr 14 1996,Real Sociedad,5-2,Valencia CF
+Sun Apr 14 1996,Atletico Madrid,1-1,Real Betis
+Sun Apr 14 1996,Sporting Gijon,0-1,Real Oviedo
+Sun Apr 14 1996,Espanyol Barcelona,4-2,Rayo Vallecano
+Sun Apr 14 1996,Celta Vigo,1-1,Real Zaragoza
+Sun Apr 14 1996,Deportivo La Coruna,2-1,Merida Ad
+Sun Apr 14 1996,Real Valladolid,1-1,Athletic Bilbao
+Sat Apr 20 1996,Valencia CF,2-1,Racing Santander
+Sat Apr 20 1996,FC Barcelona,1-3,Atletico Madrid
+Sun Apr 21 1996,Athletic Bilbao,2-0,CD Tenerife
+Sun Apr 21 1996,Ud Salamanca,2-4,Albacete
+Sun Apr 21 1996,Sd Compostela,2-0,Real Sociedad
+Sun Apr 21 1996,Real Betis,2-5,Sporting Gijon
+Sun Apr 21 1996,Real Oviedo,2-3,Sevilla FC
+Sun Apr 21 1996,Real Madrid,1-2,Espanyol Barcelona
+Sun Apr 21 1996,Rayo Vallecano,1-3,Celta Vigo
+Sun Apr 21 1996,Real Zaragoza,2-3,Deportivo La Coruna
+Sun Apr 21 1996,Merida Ad,1-0,Real Valladolid
+Sat Apr 27 1996,Atletico Madrid,2-3,Valencia CF
+Sun Apr 28 1996,Albacete,0-0,CD Tenerife
+Sun Apr 28 1996,Real Sociedad,1-0,Ud Salamanca
+Sun Apr 28 1996,Racing Santander,1-0,Sd Compostela
+Sun Apr 28 1996,Sporting Gijon,0-3,FC Barcelona
+Sun Apr 28 1996,Sevilla FC,1-0,Real Betis
+Sun Apr 28 1996,Celta Vigo,1-1,Real Madrid
+Sun Apr 28 1996,Deportivo La Coruna,1-0,Rayo Vallecano
+Sun Apr 28 1996,Real Valladolid,0-0,Real Zaragoza
+Sun Apr 28 1996,Merida Ad,1-0,Athletic Bilbao
+Sat May 4 1996,Sd Compostela,1-3,Atletico Madrid
+Sat May 4 1996,Valencia CF,1-0,Sporting Gijon
+Sun May 5 1996,Athletic Bilbao,2-2,Albacete
+Sun May 5 1996,CD Tenerife,1-0,Real Sociedad
+Sun May 5 1996,Ud Salamanca,5-0,Racing Santander
+Sun May 5 1996,FC Barcelona,1-1,Sevilla FC
+Sun May 5 1996,Real Betis,2-3,Espanyol Barcelona
+Sun May 5 1996,Real Oviedo,1-1,Celta Vigo
+Sun May 5 1996,Real Madrid,1-0,Deportivo La Coruna
+Sun May 5 1996,Rayo Vallecano,0-2,Real Valladolid
+Sun May 5 1996,Real Zaragoza,3-1,Merida Ad
+Wed May 8 1996,Espanyol Barcelona,5-0,Real Oviedo
+Sun May 12 1996,Real Sociedad,8-1,Albacete
+Sun May 12 1996,Racing Santander,1-2,CD Tenerife
+Sun May 12 1996,Atletico Madrid,2-1,Ud Salamanca
+Sun May 12 1996,Sporting Gijon,2-1,Sd Compostela
+Sun May 12 1996,Sevilla FC,1-2,Valencia CF
+Sun May 12 1996,Celta Vigo,2-0,Real Betis
+Sun May 12 1996,Deportivo La Coruna,0-4,Real Oviedo
+Sun May 12 1996,Real Valladolid,0-3,Real Madrid
+Sun May 12 1996,Merida Ad,0-1,Rayo Vallecano
+Sun May 12 1996,Real Zaragoza,1-0,Athletic Bilbao
+Wed May 15 1996,Espanyol Barcelona,1-1,FC Barcelona
+Sat May 18 1996,CD Tenerife,1-1,Atletico Madrid
+Sun May 19 1996,Real Sociedad,2-2,Athletic Bilbao
+Sun May 19 1996,Albacete,2-2,Racing Santander
+Sun May 19 1996,Ud Salamanca,3-0,Sporting Gijon
+Sun May 19 1996,Sd Compostela,0-0,Sevilla FC
+Sun May 19 1996,Valencia CF,1-0,Espanyol Barcelona
+Sun May 19 1996,FC Barcelona,3-2,Celta Vigo
+Sun May 19 1996,Real Betis,1-0,Deportivo La Coruna
+Sun May 19 1996,Real Oviedo,3-8,Real Valladolid
+Sun May 19 1996,Real Madrid,4-0,Merida Ad
+Sun May 19 1996,Rayo Vallecano,4-3,Real Zaragoza
+Sat May 25 1996,Racing Santander,2-3,Real Sociedad
+Sat May 25 1996,Atletico Madrid,2-0,Albacete
+Sat May 25 1996,Sporting Gijon,0-2,CD Tenerife
+Sat May 25 1996,Sevilla FC,3-1,Ud Salamanca
+Sat May 25 1996,Espanyol Barcelona,0-0,Sd Compostela
+Sat May 25 1996,Celta Vigo,1-1,Valencia CF
+Sat May 25 1996,Real Valladolid,3-1,Real Betis
+Sat May 25 1996,Real Zaragoza,0-1,Real Madrid
+Sat May 25 1996,Athletic Bilbao,3-1,Rayo Vallecano
+Sun May 26 1996,Deportivo La Coruna,2-2,FC Barcelona
+Sun May 26 1996,Merida Ad,3-1,Real Oviedo

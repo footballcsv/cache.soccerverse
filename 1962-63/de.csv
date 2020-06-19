@@ -1,0 +1,987 @@
+Date,Team 1,FT,Team 2
+Sat Aug 18 1962,Bayern Muenchen,0-5,Eintracht Frankfurt
+Sat Aug 18 1962,Karlsruher SC,3-2,1 FC Nuernberg
+Sat Aug 18 1962,Vfb Stuttgart,2-1,SSV Ulm 1846
+Sat Aug 18 1962,Rot Weiss Oberhausen,3-1,1 FC Koeln
+Sat Aug 18 1962,Viktoria Koeln,0-1,Hamborn 07
+Sat Aug 18 1962,FC St Pauli,2-1,Arminia Hannover
+Sat Aug 18 1962,VFR Neumuenster,0-1,VFL Osnabrueck
+Sun Aug 19 1962,VFR Mannheim,3-1,SSV Reutlingen
+Sun Aug 19 1962,Spvgg Greuther Fuerth,1-1,TSV Schwaben Augsburg
+Sun Aug 19 1962,FC Augsburg,2-1,Spvgg Bayern Hof
+Sun Aug 19 1962,Hessen Kassel,0-1,TSV 1860 Muenchen
+Sun Aug 19 1962,Kickers Offenbach,2-0,1 FC Schweinfurt 05
+Sun Aug 19 1962,SV 1911 Niederlahnstein,2-7,Sportfreunde Saarbruecken
+Sun Aug 19 1962,VFR Kaiserslautern,0-0,1 FC Saarbruecken
+Sun Aug 19 1962,Borussia Neunkirchen,3-1,Tus Koblenz
+Sun Aug 19 1962,BSC Oppau,2-3,FK Pirmasens
+Sun Aug 19 1962,Wormatia Worms,4-1,1 Fsv Mainz 05
+Sun Aug 19 1962,Tura Ludwigshafen,3-0,VFR Frankenthal
+Sun Aug 19 1962,Eintracht Bad Kreuznach,2-0,Ludwigshafener SC
+Sun Aug 19 1962,Saar 05 Saarbruecken,4-2,1 FC Kaiserslautern
+Sun Aug 19 1962,Fortuna Duesseldorf,3-2,Alemannia Aachen
+Sun Aug 19 1962,MSV Duisburg,1-1,Westfalia Herne
+Sun Aug 19 1962,FC Schalke 04,2-2,Bayer Leverkusen
+Sun Aug 19 1962,Preussen Munster,3-1,Bor Moenchengladbach
+Sun Aug 19 1962,Wuppertaler SV,0-1,Schwarz Weiss Essen
+Sun Aug 19 1962,Borussia Dortmund,11-1,TSV Marl Huels
+Sun Aug 19 1962,Werder Bremen,7-1,FC Bergedorf 85
+Sun Aug 19 1962,VFV Hildesheim,1-0,Atona 93
+Sun Aug 19 1962,VFB Oldenburg,2-4,Holstein Kiel
+Sun Aug 19 1962,WTSV Concordia,1-3,Tus Bremerhaven 93
+Sun Aug 19 1962,Hannover 96,1-6,Hamburger SV
+Sun Aug 19 1962,VFB luebeck,0-1,Eintracht Braunschweig
+Sat Aug 25 1962,Eintracht Frankfurt,1-0,Vfb Stuttgart
+Sat Aug 25 1962,TSV 1860 Muenchen,5-1,FC Augsburg
+Sat Aug 25 1962,SSV Reutlingen,4-4,Bayern Muenchen
+Sat Aug 25 1962,Schwarz Weiss Essen,1-2,FC Schalke 04
+Sat Aug 25 1962,1 FC Koeln,3-0,Fortuna Duesseldorf
+Sat Aug 25 1962,Westfalia Herne,3-1,Wuppertaler SV
+Sat Aug 25 1962,Hamburger SV,2-1,VFB luebeck
+Sat Aug 25 1962,Arminia Hannover,2-1,VFV Hildesheim
+Sun Aug 26 1962,1 FC Schweinfurt 05,3-1,Hessen Kassel
+Sun Aug 26 1962,Spvgg Bayern Hof,2-0,Karlsruher SC
+Sun Aug 26 1962,1 FC Nuernberg,6-1,Kickers Offenbach
+Sun Aug 26 1962,TSV Schwaben Augsburg,2-3,VFR Mannheim
+Sun Aug 26 1962,SSV Ulm 1846,2-1,Spvgg Greuther Fuerth
+Sun Aug 26 1962,1 FC Saarbruecken,1-0,SV 1911 Niederlahnstein
+Sun Aug 26 1962,1 FC Kaiserslautern,3-0,BSC Oppau
+Sun Aug 26 1962,FK Pirmasens,3-2,Wormatia Worms
+Sun Aug 26 1962,Sportfreunde Saarbruecken,1-1,Tura Ludwigshafen
+Sun Aug 26 1962,Ludwigshafener SC,1-2,Borussia Neunkirchen
+Sun Aug 26 1962,1 Fsv Mainz 05,5-2,VFR Kaiserslautern
+Sun Aug 26 1962,Tus Koblenz,2-0,Saar 05 Saarbruecken
+Sun Aug 26 1962,Hamborn 07,0-1,Rot Weiss Oberhausen
+Sun Aug 26 1962,Bor Moenchengladbach,3-4,Borussia Dortmund
+Sun Aug 26 1962,Bayer Leverkusen,2-2,Preussen Munster
+Sun Aug 26 1962,Alemannia Aachen,3-3,MSV Duisburg
+Sun Aug 26 1962,TSV Marl Huels,3-4,Viktoria Koeln
+Sun Aug 26 1962,VFL Osnabrueck,2-2,WTSV Concordia
+Sun Aug 26 1962,Eintracht Braunschweig,1-3,VFB Oldenburg
+Sun Aug 26 1962,FC Bergedorf 85,1-3,FC St Pauli
+Sun Aug 26 1962,Holstein Kiel,2-3,Werder Bremen
+Sun Aug 26 1962,Atona 93,2-1,VFR Neumuenster
+Sun Aug 26 1962,Tus Bremerhaven 93,2-1,Hannover 96
+Sat Sep 1 1962,Bayern Muenchen,4-1,TSV Schwaben Augsburg
+Sat Sep 1 1962,Vfb Stuttgart,4-0,SSV Reutlingen
+Sat Sep 1 1962,Wuppertaler SV,2-1,Bayer Leverkusen
+Sat Sep 1 1962,WTSV Concordia,1-3,Eintracht Braunschweig
+Sun Sep 2 1962,VFR Mannheim,3-4,SSV Ulm 1846
+Sun Sep 2 1962,Spvgg Greuther Fuerth,0-0,Eintracht Frankfurt
+Sun Sep 2 1962,Karlsruher SC,0-0,TSV 1860 Muenchen
+Sun Sep 2 1962,FC Augsburg,2-0,1 FC Schweinfurt 05
+Sun Sep 2 1962,Hessen Kassel,0-9,1 FC Nuernberg
+Sun Sep 2 1962,Kickers Offenbach,3-1,Spvgg Bayern Hof
+Sun Sep 2 1962,SV 1911 Niederlahnstein,0-1,1 Fsv Mainz 05
+Sun Sep 2 1962,Borussia Neunkirchen,4-0,VFR Frankenthal
+Sun Sep 2 1962,Wormatia Worms,3-1,1 FC Kaiserslautern
+Sun Sep 2 1962,Saar 05 Saarbruecken,3-1,Ludwigshafener SC
+Sun Sep 2 1962,Tura Ludwigshafen,3-6,1 FC Saarbruecken
+Sun Sep 2 1962,VFR Kaiserslautern,0-1,FK Pirmasens
+Sun Sep 2 1962,Eintracht Bad Kreuznach,2-3,Sportfreunde Saarbruecken
+Sun Sep 2 1962,BSC Oppau,4-1,Tus Koblenz
+Sun Sep 2 1962,MSV Duisburg,1-1,Schwarz Weiss Essen
+Sun Sep 2 1962,Fortuna Duesseldorf,2-3,Westfalia Herne
+Sun Sep 2 1962,Borussia Dortmund,3-1,Hamborn 07
+Sun Sep 2 1962,FC Schalke 04,4-2,Bor Moenchengladbach
+Sun Sep 2 1962,Rot Weiss Oberhausen,2-1,Alemannia Aachen
+Sun Sep 2 1962,Viktoria Koeln,1-2,1 FC Koeln
+Sun Sep 2 1962,Preussen Munster,4-0,TSV Marl Huels
+Sun Sep 2 1962,Werder Bremen,9-0,Atona 93
+Sun Sep 2 1962,FC St Pauli,1-1,Holstein Kiel
+Sun Sep 2 1962,VFV Hildesheim,0-1,FC Bergedorf 85
+Sun Sep 2 1962,VFB Oldenburg,1-1,Arminia Hannover
+Sun Sep 2 1962,Hannover 96,0-1,VFL Osnabrueck
+Sun Sep 2 1962,VFB luebeck,0-0,Tus Bremerhaven 93
+Sun Sep 2 1962,VFR Neumuenster,1-7,Hamburger SV
+Sat Sep 8 1962,SSV Reutlingen,2-1,Spvgg Greuther Fuerth
+Sat Sep 8 1962,Eintracht Frankfurt,2-1,VFR Mannheim
+Sat Sep 8 1962,1 FC Nuernberg,9-1,FC Augsburg
+Sat Sep 8 1962,TSV Schwaben Augsburg,3-2,Vfb Stuttgart
+Sat Sep 8 1962,TSV 1860 Muenchen,2-2,Kickers Offenbach
+Sat Sep 8 1962,Westfalia Herne,4-2,FC Schalke 04
+Sat Sep 8 1962,Schwarz Weiss Essen,3-1,Preussen Munster
+Sat Sep 8 1962,Bor Moenchengladbach,2-4,Viktoria Koeln
+Sat Sep 8 1962,Atona 93,2-1,Hannover 96
+Sun Sep 9 1962,1 FC Schweinfurt 05,2-0,Karlsruher SC
+Sun Sep 9 1962,Spvgg Bayern Hof,5-0,Hessen Kassel
+Sun Sep 9 1962,SSV Ulm 1846,6-1,Bayern Muenchen
+Sun Sep 9 1962,Sportfreunde Saarbruecken,1-0,Borussia Neunkirchen
+Sun Sep 9 1962,Ludwigshafener SC,3-2,BSC Oppau
+Sun Sep 9 1962,1 FC Saarbruecken,5-1,Eintracht Bad Kreuznach
+Sun Sep 9 1962,FK Pirmasens,9-1,SV 1911 Niederlahnstein
+Sun Sep 9 1962,1 FC Kaiserslautern,2-1,VFR Kaiserslautern
+Sun Sep 9 1962,1 Fsv Mainz 05,0-1,Tura Ludwigshafen
+Sun Sep 9 1962,VFR Frankenthal,2-3,Saar 05 Saarbruecken
+Sun Sep 9 1962,Tus Koblenz,1-2,Wormatia Worms
+Sun Sep 9 1962,1 FC Koeln,3-0,MSV Duisburg
+Sun Sep 9 1962,Bayer Leverkusen,3-2,Borussia Dortmund
+Sun Sep 9 1962,Alemannia Aachen,0-2,Wuppertaler SV
+Sun Sep 9 1962,Hamborn 07,2-4,Fortuna Duesseldorf
+Sun Sep 9 1962,TSV Marl Huels,6-2,Rot Weiss Oberhausen
+Sun Sep 9 1962,Hamburger SV,4-0,WTSV Concordia
+Sun Sep 9 1962,Tus Bremerhaven 93,1-1,VFB Oldenburg
+Sun Sep 9 1962,VFL Osnabrueck,2-0,VFV Hildesheim
+Sun Sep 9 1962,Eintracht Braunschweig,1-2,FC St Pauli
+Sun Sep 9 1962,Arminia Hannover,3-3,Werder Bremen
+Sun Sep 9 1962,Holstein Kiel,2-1,VFB luebeck
+Sun Sep 9 1962,FC Bergedorf 85,2-0,VFR Neumuenster
+Sat Sep 15 1962,Vfb Stuttgart,2-2,1 FC Nuernberg
+Sat Sep 15 1962,Karlsruher SC,1-1,TSV Schwaben Augsburg
+Sat Sep 15 1962,Kickers Offenbach,3-1,SSV Ulm 1846
+Sat Sep 15 1962,FC Augsburg,2-2,SSV Reutlingen
+Sat Sep 15 1962,FC Schalke 04,3-2,TSV Marl Huels
+Sat Sep 15 1962,Rot Weiss Oberhausen,0-0,Westfalia Herne
+Sat Sep 15 1962,WTSV Concordia,3-1,Atona 93
+Sun Sep 16 1962,TSV 1860 Muenchen,3-0,1 FC Schweinfurt 05
+Sun Sep 16 1962,Hessen Kassel,0-0,Eintracht Frankfurt
+Sun Sep 16 1962,VFR Mannheim,0-2,Bayern Muenchen
+Sun Sep 16 1962,Spvgg Greuther Fuerth,2-1,Spvgg Bayern Hof
+Sun Sep 16 1962,Saar 05 Saarbruecken,2-2,Sportfreunde Saarbruecken
+Sun Sep 16 1962,Tura Ludwigshafen,4-1,FK Pirmasens
+Sun Sep 16 1962,SV 1911 Niederlahnstein,0-3,1 FC Kaiserslautern
+Sun Sep 16 1962,Eintracht Bad Kreuznach,0-0,1 Fsv Mainz 05
+Sun Sep 16 1962,Borussia Neunkirchen,2-2,1 FC Saarbruecken
+Sun Sep 16 1962,Wormatia Worms,3-3,Ludwigshafener SC
+Sun Sep 16 1962,BSC Oppau,1-3,VFR Frankenthal
+Sun Sep 16 1962,VFR Kaiserslautern,3-1,Tus Koblenz
+Sun Sep 16 1962,Fortuna Duesseldorf,3-0,Schwarz Weiss Essen
+Sun Sep 16 1962,Borussia Dortmund,2-3,1 FC Koeln
+Sun Sep 16 1962,MSV Duisburg,1-1,Bayer Leverkusen
+Sun Sep 16 1962,Viktoria Koeln,3-2,Alemannia Aachen
+Sun Sep 16 1962,Preussen Munster,0-0,Hamborn 07
+Sun Sep 16 1962,Wuppertaler SV,1-3,Bor Moenchengladbach
+Sun Sep 16 1962,Werder Bremen,3-2,Eintracht Braunschweig
+Sun Sep 16 1962,FC St Pauli,1-2,VFL Osnabrueck
+Sun Sep 16 1962,VFV Hildesheim,1-0,Tus Bremerhaven 93
+Sun Sep 16 1962,VFB Oldenburg,3-6,Hamburger SV
+Sun Sep 16 1962,Hannover 96,2-1,Holstein Kiel
+Sun Sep 16 1962,VFB luebeck,2-2,FC Bergedorf 85
+Sun Sep 16 1962,VFR Neumuenster,2-0,Arminia Hannover
+Sat Sep 22 1962,Bayern Muenchen,3-1,TSV 1860 Muenchen
+Sat Sep 22 1962,SSV Reutlingen,2-2,Karlsruher SC
+Sat Sep 22 1962,Eintracht Frankfurt,5-0,Kickers Offenbach
+Sat Sep 22 1962,1 FC Nuernberg,5-1,Spvgg Greuther Fuerth
+Sat Sep 22 1962,Schwarz Weiss Essen,2-1,Borussia Dortmund
+Sat Sep 22 1962,Westfalia Herne,0-2,Preussen Munster
+Sat Sep 22 1962,1 FC Koeln,5-2,Wuppertaler SV
+Sat Sep 22 1962,Hamburger SV,2-1,VFV Hildesheim
+Sun Sep 23 1962,1 FC Schweinfurt 05,2-1,VFR Mannheim
+Sun Sep 23 1962,Spvgg Bayern Hof,2-2,Vfb Stuttgart
+Sun Sep 23 1962,TSV Schwaben Augsburg,0-1,FC Augsburg
+Sun Sep 23 1962,SSV Ulm 1846,2-2,Hessen Kassel
+Sun Sep 23 1962,VFR Frankenthal,0-7,Wormatia Worms
+Sun Sep 23 1962,Sportfreunde Saarbruecken,2-0,BSC Oppau
+Sun Sep 23 1962,1 Fsv Mainz 05,0-1,Borussia Neunkirchen
+Sun Sep 23 1962,1 FC Kaiserslautern,3-1,Tura Ludwigshafen
+Sun Sep 23 1962,1 FC Saarbruecken,3-2,Saar 05 Saarbruecken
+Sun Sep 23 1962,Tus Koblenz,4-1,SV 1911 Niederlahnstein
+Sun Sep 23 1962,Ludwigshafener SC,3-1,VFR Kaiserslautern
+Sun Sep 23 1962,FK Pirmasens,1-1,Eintracht Bad Kreuznach
+Sun Sep 23 1962,Alemannia Aachen,0-0,FC Schalke 04
+Sun Sep 23 1962,Bor Moenchengladbach,2-2,Rot Weiss Oberhausen
+Sun Sep 23 1962,Bayer Leverkusen,2-5,Viktoria Koeln
+Sun Sep 23 1962,Hamborn 07,0-1,MSV Duisburg
+Sun Sep 23 1962,TSV Marl Huels,3-6,Fortuna Duesseldorf
+Sun Sep 23 1962,Tus Bremerhaven 93,0-1,FC St Pauli
+Sun Sep 23 1962,VFL Osnabrueck,1-2,Werder Bremen
+Sun Sep 23 1962,Eintracht Braunschweig,2-1,VFR Neumuenster
+Sun Sep 23 1962,Arminia Hannover,2-3,VFB luebeck
+Sun Sep 23 1962,FC Bergedorf 85,5-0,Hannover 96
+Sun Sep 23 1962,Holstein Kiel,3-2,WTSV Concordia
+Sun Sep 23 1962,Atona 93,1-2,VFB Oldenburg
+Sat Sep 29 1962,1 FC Schweinfurt 05,0-0,TSV Schwaben Augsburg
+Sat Sep 29 1962,TSV 1860 Muenchen,3-0,SSV Reutlingen
+Sat Sep 29 1962,Karlsruher SC,3-2,Vfb Stuttgart
+Sat Sep 29 1962,Spvgg Bayern Hof,4-1,Eintracht Frankfurt
+Sat Sep 29 1962,Fortuna Duesseldorf,0-2,Bayer Leverkusen
+Sat Sep 29 1962,Viktoria Koeln,7-2,Westfalia Herne
+Sun Sep 30 1962,Hessen Kassel,1-1,VFR Mannheim
+Sun Sep 30 1962,VFR Frankenthal,4-2,Eintracht Bad Kreuznach
+Sun Sep 30 1962,Sportfreunde Saarbruecken,2-1,VFR Kaiserslautern
+Sun Sep 30 1962,MSV Duisburg,3-1,Bor Moenchengladbach
+Sun Sep 30 1962,Wuppertaler SV,2-0,TSV Marl Huels
+Sun Sep 30 1962,VFB luebeck,3-2,Atona 93
+Sat Oct 6 1962,VFR Mannheim,3-2,Kickers Offenbach
+Sat Oct 6 1962,Spvgg Greuther Fuerth,2-2,Karlsruher SC
+Sat Oct 6 1962,Vfb Stuttgart,3-1,FC Augsburg
+Sat Oct 6 1962,WTSV Concordia,2-1,FC Bergedorf 85
+Sun Oct 7 1962,SSV Reutlingen,1-2,1 FC Schweinfurt 05
+Sun Oct 7 1962,Eintracht Frankfurt,2-0,TSV 1860 Muenchen
+Sun Oct 7 1962,SSV Ulm 1846,2-2,Spvgg Bayern Hof
+Sun Oct 7 1962,TSV Schwaben Augsburg,2-3,1 FC Nuernberg
+Sun Oct 7 1962,Bayern Muenchen,3-2,Hessen Kassel
+Sun Oct 7 1962,1 FC Saarbruecken,3-1,1 Fsv Mainz 05
+Sun Oct 7 1962,VFR Kaiserslautern,0-3,Wormatia Worms
+Sun Oct 7 1962,FK Pirmasens,3-1,1 FC Kaiserslautern
+Sun Oct 7 1962,Tus Koblenz,3-0,Ludwigshafener SC
+Sun Oct 7 1962,Borussia Neunkirchen,3-2,Eintracht Bad Kreuznach
+Sun Oct 7 1962,VFR Frankenthal,3-1,Sportfreunde Saarbruecken
+Sun Oct 7 1962,Tura Ludwigshafen,5-1,SV 1911 Niederlahnstein
+Sun Oct 7 1962,BSC Oppau,3-2,Saar 05 Saarbruecken
+Sun Oct 7 1962,1 FC Koeln,1-3,FC Schalke 04
+Sun Oct 7 1962,Westfalia Herne,1-2,Borussia Dortmund
+Sun Oct 7 1962,Alemannia Aachen,1-1,Preussen Munster
+Sun Oct 7 1962,Bayer Leverkusen,5-3,Rot Weiss Oberhausen
+Sun Oct 7 1962,Schwarz Weiss Essen,3-0,Viktoria Koeln
+Sun Oct 7 1962,TSV Marl Huels,1-3,MSV Duisburg
+Sun Oct 7 1962,Bor Moenchengladbach,4-3,Fortuna Duesseldorf
+Sun Oct 7 1962,Hamborn 07,3-1,Wuppertaler SV
+Sun Oct 7 1962,FC St Pauli,1-3,Hamburger SV
+Sun Oct 7 1962,Werder Bremen,1-0,Tus Bremerhaven 93
+Sun Oct 7 1962,Hannover 96,2-1,Arminia Hannover
+Sun Oct 7 1962,VFV Hildesheim,1-3,Eintracht Braunschweig
+Sun Oct 7 1962,VFR Neumuenster,1-0,Holstein Kiel
+Sun Oct 7 1962,VFB Oldenburg,1-1,VFL Osnabrueck
+Sat Oct 13 1962,Karlsruher SC,3-0,VFR Mannheim
+Sat Oct 13 1962,Kickers Offenbach,2-2,Bayern Muenchen
+Sat Oct 13 1962,1 FC Nuernberg,4-1,SSV Reutlingen
+Sat Oct 13 1962,1 FC Koeln,0-0,Bayer Leverkusen
+Sat Oct 13 1962,MSV Duisburg,0-5,Borussia Dortmund
+Sat Oct 13 1962,Atona 93,1-2,FC St Pauli
+Sun Oct 14 1962,Hessen Kassel,4-2,Vfb Stuttgart
+Sun Oct 14 1962,FC Augsburg,2-5,Spvgg Greuther Fuerth
+Sun Oct 14 1962,1 FC Schweinfurt 05,3-3,Eintracht Frankfurt
+Sun Oct 14 1962,Spvgg Bayern Hof,3-2,TSV Schwaben Augsburg
+Sun Oct 14 1962,TSV 1860 Muenchen,2-0,SSV Ulm 1846
+Sun Oct 14 1962,Borussia Neunkirchen,3-2,FK Pirmasens
+Sun Oct 14 1962,Wormatia Worms,0-3,Sportfreunde Saarbruecken
+Sun Oct 14 1962,Tura Ludwigshafen,1-0,Tus Koblenz
+Sun Oct 14 1962,BSC Oppau,1-2,1 FC Saarbruecken
+Sun Oct 14 1962,SV 1911 Niederlahnstein,0-0,Ludwigshafener SC
+Sun Oct 14 1962,Eintracht Bad Kreuznach,0-3,1 FC Kaiserslautern
+Sun Oct 14 1962,VFR Kaiserslautern,2-2,VFR Frankenthal
+Sun Oct 14 1962,Saar 05 Saarbruecken,2-0,1 Fsv Mainz 05
+Sun Oct 14 1962,Westfalia Herne,1-0,TSV Marl Huels
+Sun Oct 14 1962,Rot Weiss Oberhausen,2-2,FC Schalke 04
+Sun Oct 14 1962,Wuppertaler SV,3-2,Viktoria Koeln
+Sun Oct 14 1962,Alemannia Aachen,1-0,Bor Moenchengladbach
+Sun Oct 14 1962,Schwarz Weiss Essen,3-0,Hamborn 07
+Sun Oct 14 1962,Fortuna Duesseldorf,2-2,Preussen Munster
+Sun Oct 14 1962,Hamburger SV,1-1,Werder Bremen
+Sun Oct 14 1962,Tus Bremerhaven 93,3-2,VFR Neumuenster
+Sun Oct 14 1962,VFL Osnabrueck,1-0,VFB luebeck
+Sun Oct 14 1962,Eintracht Braunschweig,3-0,Hannover 96
+Sun Oct 14 1962,Arminia Hannover,2-1,WTSV Concordia
+Sun Oct 14 1962,FC Bergedorf 85,0-0,VFB Oldenburg
+Sun Oct 14 1962,Holstein Kiel,4-0,VFV Hildesheim
+Sat Oct 20 1962,Kickers Offenbach,2-0,Spvgg Greuther Fuerth
+Sat Oct 20 1962,FC Schalke 04,5-0,Fortuna Duesseldorf
+Sun Oct 21 1962,FC Augsburg,2-3,Bayern Muenchen
+Sun Oct 21 1962,1 FC Nuernberg,2-0,SSV Ulm 1846
+Sun Oct 21 1962,FK Pirmasens,6-0,Saar 05 Saarbruecken
+Sun Oct 21 1962,1 Fsv Mainz 05,6-1,BSC Oppau
+Sun Oct 21 1962,Tus Koblenz,0-0,Eintracht Bad Kreuznach
+Sun Oct 21 1962,VFR Frankenthal,5-2,SV 1911 Niederlahnstein
+Sun Oct 21 1962,1 FC Kaiserslautern,2-1,Borussia Neunkirchen
+Sun Oct 21 1962,Ludwigshafener SC,3-1,Tura Ludwigshafen
+Sun Oct 21 1962,Viktoria Koeln,1-6,Rot Weiss Oberhausen
+Sun Oct 21 1962,TSV Marl Huels,2-1,Schwarz Weiss Essen
+Sun Oct 21 1962,Bayer Leverkusen,1-1,Alemannia Aachen
+Sun Oct 21 1962,Preussen Munster,3-1,MSV Duisburg
+Sun Oct 21 1962,Borussia Dortmund,3-0,Wuppertaler SV
+Sun Oct 21 1962,Hamborn 07,1-1,1 FC Koeln
+Sun Oct 21 1962,Bor Moenchengladbach,2-1,Westfalia Herne
+Sun Oct 21 1962,VFL Osnabrueck,3-1,Eintracht Braunschweig
+Sun Oct 21 1962,FC Bergedorf 85,2-3,Atona 93
+Sun Oct 21 1962,Holstein Kiel,4-1,Arminia Hannover
+Sun Oct 21 1962,VFB luebeck,2-3,VFR Neumuenster
+Sun Oct 21 1962,Hannover 96,1-2,WTSV Concordia
+Sun Oct 21 1962,VFV Hildesheim,1-2,Werder Bremen
+Sun Oct 21 1962,FC St Pauli,2-0,VFB Oldenburg
+Sat Oct 27 1962,Bayern Muenchen,2-5,Karlsruher SC
+Sat Oct 27 1962,Vfb Stuttgart,2-1,Kickers Offenbach
+Sat Oct 27 1962,Spvgg Greuther Fuerth,2-0,Hessen Kassel
+Sat Oct 27 1962,Atona 93,3-1,Holstein Kiel
+Sun Oct 28 1962,SSV Ulm 1846,1-0,1 FC Schweinfurt 05
+Sun Oct 28 1962,TSV Schwaben Augsburg,0-3,TSV 1860 Muenchen
+Sun Oct 28 1962,SSV Reutlingen,3-2,Spvgg Bayern Hof
+Sun Oct 28 1962,Eintracht Frankfurt,3-3,1 FC Nuernberg
+Sun Oct 28 1962,VFR Mannheim,1-1,FC Augsburg
+Sun Oct 28 1962,SV 1911 Niederlahnstein,2-3,Saar 05 Saarbruecken
+Sun Oct 28 1962,1 Fsv Mainz 05,1-1,Ludwigshafener SC
+Sun Oct 28 1962,Wormatia Worms,2-0,Eintracht Bad Kreuznach
+Sun Oct 28 1962,VFR Frankenthal,0-4,FK Pirmasens
+Sun Oct 28 1962,Tura Ludwigshafen,2-1,BSC Oppau
+Sun Oct 28 1962,Sportfreunde Saarbruecken,2-1,1 FC Kaiserslautern
+Sun Oct 28 1962,1 FC Saarbruecken,5-2,Tus Koblenz
+Sun Oct 28 1962,VFR Kaiserslautern,1-1,Borussia Neunkirchen
+Sun Oct 28 1962,Rot Weiss Oberhausen,3-3,Preussen Munster
+Sun Oct 28 1962,Wuppertaler SV,2-4,FC Schalke 04
+Sun Oct 28 1962,Fortuna Duesseldorf,0-2,Borussia Dortmund
+Sun Oct 28 1962,Alemannia Aachen,2-1,TSV Marl Huels
+Sun Oct 28 1962,1 FC Koeln,2-0,Bor Moenchengladbach
+Sun Oct 28 1962,Schwarz Weiss Essen,1-0,Bayer Leverkusen
+Sun Oct 28 1962,Westfalia Herne,0-1,Hamborn 07
+Sun Oct 28 1962,MSV Duisburg,3-3,Viktoria Koeln
+Sun Oct 28 1962,Hamburger SV,3-1,VFL Osnabrueck
+Sun Oct 28 1962,Eintracht Braunschweig,0-2,Tus Bremerhaven 93
+Sun Oct 28 1962,Arminia Hannover,4-0,FC Bergedorf 85
+Sun Oct 28 1962,VFR Neumuenster,1-0,Hannover 96
+Sun Oct 28 1962,WTSV Concordia,0-2,VFB luebeck
+Sun Oct 28 1962,VFB Oldenburg,3-0,VFV Hildesheim
+Sun Oct 28 1962,Werder Bremen,3-0,FC St Pauli
+Fri Nov 2 1962,FC Schalke 04,3-1,MSV Duisburg
+Sat Nov 3 1962,Karlsruher SC,3-3,Eintracht Frankfurt
+Sat Nov 3 1962,Borussia Dortmund,6-0,Rot Weiss Oberhausen
+Sat Nov 3 1962,Bor Moenchengladbach,0-2,Schwarz Weiss Essen
+Sat Nov 3 1962,Preussen Munster,2-0,Wuppertaler SV
+Sat Nov 3 1962,Viktoria Koeln,7-3,Fortuna Duesseldorf
+Sat Nov 3 1962,TSV Marl Huels,1-3,1 FC Koeln
+Sat Nov 3 1962,Bayer Leverkusen,1-1,Westfalia Herne
+Sat Nov 3 1962,Hamborn 07,0-0,Alemannia Aachen
+Sat Nov 3 1962,Hamburger SV,2-1,Eintracht Braunschweig
+Sun Nov 4 1962,1 FC Schweinfurt 05,1-1,Vfb Stuttgart
+Sun Nov 4 1962,TSV 1860 Muenchen,3-2,Spvgg Greuther Fuerth
+Sun Nov 4 1962,Spvgg Bayern Hof,0-1,Bayern Muenchen
+Sun Nov 4 1962,1 FC Nuernberg,3-0,VFR Mannheim
+Sun Nov 4 1962,SSV Ulm 1846,3-2,SSV Reutlingen
+Sun Nov 4 1962,FC Augsburg,2-5,Hessen Kassel
+Sun Nov 4 1962,Kickers Offenbach,5-3,TSV Schwaben Augsburg
+Sun Nov 4 1962,Tus Koblenz,1-4,Sportfreunde Saarbruecken
+Sun Nov 4 1962,Ludwigshafener SC,0-2,1 FC Saarbruecken
+Sun Nov 4 1962,Saar 05 Saarbruecken,4-0,Tura Ludwigshafen
+Sun Nov 4 1962,1 FC Kaiserslautern,1-0,VFR Frankenthal
+Sun Nov 4 1962,Borussia Neunkirchen,6-0,SV 1911 Niederlahnstein
+Sun Nov 4 1962,BSC Oppau,2-2,Wormatia Worms
+Sun Nov 4 1962,Eintracht Bad Kreuznach,1-2,VFR Kaiserslautern
+Sun Nov 4 1962,FK Pirmasens,1-0,1 Fsv Mainz 05
+Sun Nov 4 1962,VFL Osnabrueck,2-1,Tus Bremerhaven 93
+Sun Nov 4 1962,FC Bergedorf 85,2-5,Holstein Kiel
+Sun Nov 4 1962,Atona 93,0-4,Arminia Hannover
+Sun Nov 4 1962,Hannover 96,1-2,VFB luebeck
+Sun Nov 4 1962,VFV Hildesheim,3-3,FC St Pauli
+Sun Nov 4 1962,Werder Bremen,8-1,VFB Oldenburg
+Sun Nov 4 1962,VFR Neumuenster,4-4,WTSV Concordia
+Sat Nov 10 1962,Vfb Stuttgart,2-3,TSV 1860 Muenchen
+Sat Nov 10 1962,Eintracht Frankfurt,0-0,FC Augsburg
+Sat Nov 10 1962,Rot Weiss Oberhausen,2-1,Fortuna Duesseldorf
+Sat Nov 10 1962,FC Schalke 04,3-1,Preussen Munster
+Sat Nov 10 1962,WTSV Concordia,1-0,Werder Bremen
+Sun Nov 11 1962,Spvgg Greuther Fuerth,3-0,1 FC Schweinfurt 05
+Sun Nov 11 1962,VFR Mannheim,3-1,Spvgg Bayern Hof
+Sun Nov 11 1962,Bayern Muenchen,2-0,1 FC Nuernberg
+Sun Nov 11 1962,SSV Reutlingen,1-1,Kickers Offenbach
+Sun Nov 11 1962,TSV Schwaben Augsburg,2-2,SSV Ulm 1846
+Sun Nov 11 1962,Hessen Kassel,2-0,Karlsruher SC
+Sun Nov 11 1962,Tura Ludwigshafen,3-1,Borussia Neunkirchen
+Sun Nov 11 1962,1 FC Saarbruecken,1-1,FK Pirmasens
+Sun Nov 11 1962,1 Fsv Mainz 05,0-3,1 FC Kaiserslautern
+Sun Nov 11 1962,VFR Kaiserslautern,2-0,BSC Oppau
+Sun Nov 11 1962,Wormatia Worms,2-2,Saar 05 Saarbruecken
+Sun Nov 11 1962,SV 1911 Niederlahnstein,1-3,Eintracht Bad Kreuznach
+Sun Nov 11 1962,VFR Frankenthal,4-4,Tus Koblenz
+Sun Nov 11 1962,Sportfreunde Saarbruecken,0-0,Ludwigshafener SC
+Sun Nov 11 1962,MSV Duisburg,3-1,Wuppertaler SV
+Sun Nov 11 1962,Borussia Dortmund,3-1,Viktoria Koeln
+Sun Nov 11 1962,1 FC Koeln,2-2,Alemannia Aachen
+Sun Nov 11 1962,Westfalia Herne,3-2,Schwarz Weiss Essen
+Sun Nov 11 1962,TSV Marl Huels,0-0,Hamborn 07
+Sun Nov 11 1962,Bayer Leverkusen,2-2,Bor Moenchengladbach
+Sun Nov 11 1962,Tus Bremerhaven 93,0-2,FC Bergedorf 85
+Sun Nov 11 1962,Eintracht Braunschweig,3-1,Atona 93
+Sun Nov 11 1962,Arminia Hannover,2-1,Hamburger SV
+Sun Nov 11 1962,Holstein Kiel,1-0,VFL Osnabrueck
+Sun Nov 11 1962,VFB luebeck,3-3,VFV Hildesheim
+Sun Nov 11 1962,VFB Oldenburg,0-0,VFR Neumuenster
+Sun Nov 11 1962,FC St Pauli,1-2,Hannover 96
+Sat Nov 17 1962,FC St Pauli,1-1,WTSV Concordia
+Sun Nov 18 1962,1 FC Saarbruecken,2-4,Wormatia Worms
+Sun Nov 18 1962,Fortuna Duesseldorf,1-1,MSV Duisburg
+Sun Nov 18 1962,Viktoria Koeln,6-4,FC Schalke 04
+Sun Nov 18 1962,Schwarz Weiss Essen,2-2,1 FC Koeln
+Sun Nov 18 1962,Hamborn 07,3-1,Bayer Leverkusen
+Sun Nov 18 1962,Alemannia Aachen,3-1,Westfalia Herne
+Sun Nov 18 1962,Wuppertaler SV,1-3,Rot Weiss Oberhausen
+Sun Nov 18 1962,Preussen Munster,1-0,Borussia Dortmund
+Sun Nov 18 1962,Bor Moenchengladbach,2-1,TSV Marl Huels
+Sun Nov 18 1962,Arminia Hannover,2-0,Tus Bremerhaven 93
+Sun Nov 18 1962,FC Bergedorf 85,0-3,Hamburger SV
+Sun Nov 18 1962,Holstein Kiel,3-1,Eintracht Braunschweig
+Sun Nov 18 1962,Atona 93,2-4,VFL Osnabrueck
+Sun Nov 18 1962,VFB Oldenburg,1-1,VFB luebeck
+Sun Nov 18 1962,VFV Hildesheim,0-0,VFR Neumuenster
+Sun Nov 18 1962,Werder Bremen,10-2,Hannover 96
+Wed Nov 21 1962,Tus Bremerhaven 93,3-3,Hamburger SV
+Sat Nov 24 1962,SSV Reutlingen,3-1,TSV Schwaben Augsburg
+Sat Nov 24 1962,SSV Ulm 1846,1-1,Eintracht Frankfurt
+Sat Nov 24 1962,Kickers Offenbach,4-0,Hessen Kassel
+Sat Nov 24 1962,Spvgg Bayern Hof,1-1,1 FC Nuernberg
+Sat Nov 24 1962,Spvgg Greuther Fuerth,3-0,Vfb Stuttgart
+Sat Nov 24 1962,Saar 05 Saarbruecken,2-2,VFR Kaiserslautern
+Sat Nov 24 1962,Eintracht Bad Kreuznach,2-0,Tura Ludwigshafen
+Sat Nov 24 1962,1 FC Kaiserslautern,5-2,1 FC Saarbruecken
+Sat Nov 24 1962,Tus Koblenz,2-0,1 Fsv Mainz 05
+Sat Nov 24 1962,FK Pirmasens,3-1,Sportfreunde Saarbruecken
+Sat Nov 24 1962,Borussia Neunkirchen,0-1,Wormatia Worms
+Sat Nov 24 1962,BSC Oppau,3-0,SV 1911 Niederlahnstein
+Sat Nov 24 1962,Ludwigshafener SC,4-3,VFR Frankenthal
+Sat Nov 24 1962,Hamburger SV,3-2,Holstein Kiel
+Sun Nov 25 1962,1 FC Schweinfurt 05,3-3,Bayern Muenchen
+Sun Nov 25 1962,TSV 1860 Muenchen,5-0,VFR Mannheim
+Sun Nov 25 1962,FC Augsburg,4-2,Karlsruher SC
+Sun Nov 25 1962,FC Schalke 04,1-2,Hamborn 07
+Sun Nov 25 1962,Preussen Munster,0-0,1 FC Koeln
+Sun Nov 25 1962,Borussia Dortmund,5-3,Alemannia Aachen
+Sun Nov 25 1962,Rot Weiss Oberhausen,0-2,Schwarz Weiss Essen
+Sun Nov 25 1962,Tus Bremerhaven 93,3-1,Atona 93
+Sun Nov 25 1962,VFL Osnabrueck,3-0,Arminia Hannover
+Sun Nov 25 1962,Eintracht Braunschweig,3-0,FC Bergedorf 85
+Sun Nov 25 1962,VFR Neumuenster,2-0,FC St Pauli
+Sun Nov 25 1962,VFB luebeck,0-1,Werder Bremen
+Sun Nov 25 1962,Hannover 96,3-0,VFB Oldenburg
+Sun Nov 25 1962,WTSV Concordia,4-2,VFV Hildesheim
+Sat Dec 1 1962,Bayern Muenchen,2-1,Vfb Stuttgart
+Sat Dec 1 1962,FC St Pauli,5-1,VFB luebeck
+Sun Dec 2 1962,Spvgg Bayern Hof,2-0,1 FC Schweinfurt 05
+Sun Dec 2 1962,1 FC Nuernberg,1-0,TSV 1860 Muenchen
+Sun Dec 2 1962,Eintracht Frankfurt,2-2,SSV Reutlingen
+Sun Dec 2 1962,FC Augsburg,1-4,Kickers Offenbach
+Sun Dec 2 1962,Karlsruher SC,2-1,SSV Ulm 1846
+Sun Dec 2 1962,VFR Mannheim,1-0,Spvgg Greuther Fuerth
+Sun Dec 2 1962,Hessen Kassel,4-1,TSV Schwaben Augsburg
+Sun Dec 2 1962,Sportfreunde Saarbruecken,2-1,1 Fsv Mainz 05
+Sun Dec 2 1962,Saar 05 Saarbruecken,0-2,Eintracht Bad Kreuznach
+Sun Dec 2 1962,SV 1911 Niederlahnstein,0-4,Wormatia Worms
+Sun Dec 2 1962,FK Pirmasens,1-0,Tus Koblenz
+Sun Dec 2 1962,1 FC Kaiserslautern,6-1,Ludwigshafener SC
+Sun Dec 2 1962,VFR Frankenthal,1-4,1 FC Saarbruecken
+Sun Dec 2 1962,BSC Oppau,1-0,Borussia Neunkirchen
+Sun Dec 2 1962,Tura Ludwigshafen,3-1,VFR Kaiserslautern
+Sun Dec 2 1962,1 FC Koeln,4-1,Westfalia Herne
+Sun Dec 2 1962,Preussen Munster,3-1,Viktoria Koeln
+Sun Dec 2 1962,Alemannia Aachen,3-3,Schwarz Weiss Essen
+Sun Dec 2 1962,Bayer Leverkusen,3-2,TSV Marl Huels
+Sun Dec 2 1962,Bor Moenchengladbach,1-1,Hamborn 07
+Sun Dec 2 1962,FC Schalke 04,1-1,Borussia Dortmund
+Sun Dec 2 1962,MSV Duisburg,1-0,Rot Weiss Oberhausen
+Sun Dec 2 1962,Fortuna Duesseldorf,3-2,Wuppertaler SV
+Sun Dec 2 1962,Arminia Hannover,3-1,Eintracht Braunschweig
+Sun Dec 2 1962,FC Bergedorf 85,3-0,VFL Osnabrueck
+Sun Dec 2 1962,Holstein Kiel,5-2,Tus Bremerhaven 93
+Sun Dec 2 1962,Atona 93,0-3,Hamburger SV
+Sun Dec 2 1962,VFB Oldenburg,4-1,WTSV Concordia
+Sun Dec 2 1962,VFV Hildesheim,3-1,Hannover 96
+Sun Dec 2 1962,Werder Bremen,3-2,VFR Neumuenster
+Sat Dec 8 1962,Vfb Stuttgart,1-2,VFR Mannheim
+Sat Dec 8 1962,Atona 93,1-2,FC Bergedorf 85
+Sun Dec 9 1962,1 FC Schweinfurt 05,0-1,1 FC Nuernberg
+Sun Dec 9 1962,TSV 1860 Muenchen,7-1,Spvgg Bayern Hof
+Sun Dec 9 1962,SSV Reutlingen,3-2,Hessen Kassel
+Sun Dec 9 1962,SSV Ulm 1846,8-1,FC Augsburg
+Sun Dec 9 1962,TSV Schwaben Augsburg,0-5,Eintracht Frankfurt
+Sun Dec 9 1962,Spvgg Greuther Fuerth,0-1,Bayern Muenchen
+Sun Dec 9 1962,Kickers Offenbach,2-1,Karlsruher SC
+Sun Dec 9 1962,VFR Kaiserslautern,5-0,SV 1911 Niederlahnstein
+Sun Dec 9 1962,Wormatia Worms,1-3,Tura Ludwigshafen
+Sun Dec 9 1962,Ludwigshafener SC,2-0,FK Pirmasens
+Sun Dec 9 1962,1 FC Saarbruecken,5-0,Sportfreunde Saarbruecken
+Sun Dec 9 1962,Borussia Neunkirchen,3-1,Saar 05 Saarbruecken
+Sun Dec 9 1962,1 Fsv Mainz 05,1-2,VFR Frankenthal
+Sun Dec 9 1962,Tus Koblenz,3-9,1 FC Kaiserslautern
+Sun Dec 9 1962,Eintracht Bad Kreuznach,0-0,BSC Oppau
+Sun Dec 9 1962,1 FC Koeln,6-0,Rot Weiss Oberhausen
+Sun Dec 9 1962,Schwarz Weiss Essen,1-0,Wuppertaler SV
+Sun Dec 9 1962,VFB Oldenburg,0-5,FC St Pauli
+Sun Dec 9 1962,Werder Bremen,6-1,VFV Hildesheim
+Sun Dec 9 1962,WTSV Concordia,1-2,Hannover 96
+Sun Dec 9 1962,VFR Neumuenster,0-0,VFB luebeck
+Sun Dec 9 1962,Arminia Hannover,0-3,Holstein Kiel
+Sun Dec 9 1962,Eintracht Braunschweig,1-0,VFL Osnabrueck
+Sun Dec 9 1962,Hamburger SV,6-0,Tus Bremerhaven 93
+Sun Dec 16 1962,Ludwigshafener SC,2-0,Eintracht Bad Kreuznach
+Sun Dec 16 1962,1 FC Saarbruecken,4-2,VFR Kaiserslautern
+Sun Dec 16 1962,VFR Frankenthal,0-1,Tura Ludwigshafen
+Sun Dec 16 1962,1 FC Kaiserslautern,3-0,Saar 05 Saarbruecken
+Sun Dec 16 1962,Sportfreunde Saarbruecken,3-0,SV 1911 Niederlahnstein
+Sun Dec 16 1962,FK Pirmasens,6-1,BSC Oppau
+Sun Dec 16 1962,1 Fsv Mainz 05,1-0,Wormatia Worms
+Sun Dec 16 1962,FC St Pauli,0-3,Werder Bremen
+Sun Dec 16 1962,VFV Hildesheim,2-1,VFB Oldenburg
+Sun Dec 16 1962,VFB luebeck,3-1,WTSV Concordia
+Sun Dec 16 1962,Hannover 96,0-0,VFR Neumuenster
+Sun Dec 16 1962,Holstein Kiel,4-4,Atona 93
+Sun Dec 16 1962,FC Bergedorf 85,1-1,Arminia Hannover
+Sun Dec 16 1962,Tus Bremerhaven 93,1-4,Eintracht Braunschweig
+Sun Dec 16 1962,VFL Osnabrueck,1-3,Hamburger SV
+Wed Dec 26 1962,Tus Koblenz,2-3,Borussia Neunkirchen
+Sat Dec 29 1962,Spvgg Bayern Hof,2-0,FC Augsburg
+Sun Dec 30 1962,SSV Reutlingen,3-3,VFR Mannheim
+Sun Dec 30 1962,SSV Ulm 1846,2-1,Vfb Stuttgart
+Sun Dec 30 1962,TSV Schwaben Augsburg,4-4,Spvgg Greuther Fuerth
+Sun Dec 30 1962,1 FC Nuernberg,2-2,Karlsruher SC
+Sun Dec 30 1962,TSV 1860 Muenchen,1-1,Hessen Kassel
+Sun Dec 30 1962,1 FC Schweinfurt 05,1-1,Kickers Offenbach
+Sun Dec 30 1962,Eintracht Frankfurt,2-1,Bayern Muenchen
+Sun Dec 30 1962,Eintracht Bad Kreuznach,2-0,VFR Frankenthal
+Sun Dec 30 1962,SV 1911 Niederlahnstein,0-6,1 FC Saarbruecken
+Sun Dec 30 1962,Wuppertaler SV,3-2,Westfalia Herne
+Sun Dec 30 1962,Preussen Munster,1-1,Bayer Leverkusen
+Sun Dec 30 1962,Fortuna Duesseldorf,1-1,1 FC Koeln
+Sun Dec 30 1962,Borussia Dortmund,3-1,Bor Moenchengladbach
+Sun Dec 30 1962,Viktoria Koeln,7-0,TSV Marl Huels
+Sat Jan 5 1963,Vfb Stuttgart,1-0,Eintracht Frankfurt
+Sat Jan 5 1963,Spvgg Greuther Fuerth,3-2,SSV Ulm 1846
+Sat Jan 5 1963,WTSV Concordia,1-1,VFR Neumuenster
+Sun Jan 6 1963,Hessen Kassel,2-3,1 FC Schweinfurt 05
+Sun Jan 6 1963,FC Augsburg,1-1,TSV 1860 Muenchen
+Sun Jan 6 1963,Kickers Offenbach,1-3,1 FC Nuernberg
+Sun Jan 6 1963,Sportfreunde Saarbruecken,1-2,Eintracht Bad Kreuznach
+Sun Jan 6 1963,VFB Oldenburg,1-1,Werder Bremen
+Sun Jan 6 1963,VFB luebeck,1-2,Hannover 96
+Sun Jan 6 1963,Holstein Kiel,1-1,FC Bergedorf 85
+Sun Jan 6 1963,Eintracht Braunschweig,2-2,Hamburger SV
+Sat Jan 12 1963,Atona 93,1-2,Eintracht Braunschweig
+Sun Jan 13 1963,TSV Schwaben Augsburg,0-1,Bayern Muenchen
+Sun Jan 13 1963,SSV Reutlingen,1-1,Vfb Stuttgart
+Sun Jan 13 1963,TSV 1860 Muenchen,2-1,Karlsruher SC
+Sun Jan 13 1963,1 FC Schweinfurt 05,2-1,FC Augsburg
+Sun Jan 13 1963,1 FC Nuernberg,0-1,Hessen Kassel
+Sun Jan 13 1963,Viktoria Koeln,1-1,Bor Moenchengladbach
+Sun Jan 13 1963,Hannover 96,2-0,FC St Pauli
+Sun Jan 13 1963,VFR Neumuenster,2-0,VFB Oldenburg
+Sun Jan 13 1963,Werder Bremen,3-1,WTSV Concordia
+Sun Jan 13 1963,VFV Hildesheim,3-0,VFB luebeck
+Sun Jan 13 1963,FC Bergedorf 85,2-1,Tus Bremerhaven 93
+Sat Jan 19 1963,Vfb Stuttgart,3-1,TSV Schwaben Augsburg
+Sat Jan 19 1963,Bayern Muenchen,3-1,SSV Ulm 1846
+Sat Jan 19 1963,Hamburger SV,4-0,FC Bergedorf 85
+Sun Jan 20 1963,Kickers Offenbach,1-1,TSV 1860 Muenchen
+Sun Jan 20 1963,Karlsruher SC,3-1,1 FC Schweinfurt 05
+Sun Jan 20 1963,FC Augsburg,1-1,1 FC Nuernberg
+Sun Jan 20 1963,VFR Mannheim,1-1,Eintracht Frankfurt
+Sun Jan 20 1963,Hannover 96,3-1,Werder Bremen
+Sun Jan 20 1963,WTSV Concordia,0-0,FC St Pauli
+Sun Jan 20 1963,VFR Neumuenster,4-2,VFV Hildesheim
+Sun Jan 20 1963,VFB luebeck,1-2,VFB Oldenburg
+Sun Jan 20 1963,Eintracht Braunschweig,5-1,Holstein Kiel
+Sun Jan 20 1963,Tus Bremerhaven 93,1-0,Arminia Hannover
+Mon Jan 21 1963,1 FC Kaiserslautern,16-0,SV 1911 Niederlahnstein
+Mon Jan 21 1963,Tus Koblenz,1-0,VFR Kaiserslautern
+Mon Jan 21 1963,VFR Frankenthal,4-0,BSC Oppau
+Mon Jan 21 1963,Ludwigshafener SC,2-1,Wormatia Worms
+Mon Jan 21 1963,1 Fsv Mainz 05,0-0,Eintracht Bad Kreuznach
+Sat Jan 26 1963,Spvgg Bayern Hof,1-2,Spvgg Greuther Fuerth
+Sat Jan 26 1963,Eintracht Frankfurt,0-1,Hessen Kassel
+Sun Jan 27 1963,1 FC Schweinfurt 05,3-4,TSV 1860 Muenchen
+Sun Jan 27 1963,SSV Reutlingen,3-0,FC Augsburg
+Sun Jan 27 1963,TSV Schwaben Augsburg,2-4,Karlsruher SC
+Sun Jan 27 1963,SSV Ulm 1846,1-1,Kickers Offenbach
+Sun Jan 27 1963,Bayern Muenchen,5-2,VFR Mannheim
+Sun Jan 27 1963,1 FC Nuernberg,2-3,Vfb Stuttgart
+Sun Jan 27 1963,VFV Hildesheim,3-1,WTSV Concordia
+Sun Jan 27 1963,VFB Oldenburg,2-2,Hannover 96
+Sun Jan 27 1963,Werder Bremen,6-1,VFB luebeck
+Sun Jan 27 1963,FC St Pauli,2-3,VFR Neumuenster
+Sun Jan 27 1963,FC Bergedorf 85,1-1,Eintracht Braunschweig
+Sun Jan 27 1963,Arminia Hannover,1-2,VFL Osnabrueck
+Sun Jan 27 1963,Atona 93,4-2,Tus Bremerhaven 93
+Sun Jan 27 1963,Holstein Kiel,1-1,Hamburger SV
+Mon Jan 28 1963,Tura Ludwigshafen,1-4,1 FC Kaiserslautern
+Mon Jan 28 1963,Borussia Neunkirchen,3-0,1 Fsv Mainz 05
+Mon Jan 28 1963,BSC Oppau,1-3,Sportfreunde Saarbruecken
+Mon Jan 28 1963,Wormatia Worms,5-2,VFR Frankenthal
+Mon Jan 28 1963,Eintracht Bad Kreuznach,2-3,FK Pirmasens
+Mon Jan 28 1963,VFR Kaiserslautern,2-1,Ludwigshafener SC
+Sat Feb 2 1963,Vfb Stuttgart,4-0,Spvgg Bayern Hof
+Sat Feb 2 1963,Karlsruher SC,5-0,SSV Reutlingen
+Sun Feb 3 1963,Kickers Offenbach,1-1,Eintracht Frankfurt
+Sun Feb 3 1963,VFR Mannheim,0-2,1 FC Schweinfurt 05
+Sun Feb 3 1963,TSV 1860 Muenchen,3-1,Bayern Muenchen
+Sun Feb 3 1963,Spvgg Greuther Fuerth,3-5,1 FC Nuernberg
+Sun Feb 3 1963,FC Augsburg,3-2,TSV Schwaben Augsburg
+Sun Feb 3 1963,Hessen Kassel,1-1,SSV Ulm 1846
+Sun Feb 3 1963,Sportfreunde Saarbruecken,5-0,VFR Frankenthal
+Sun Feb 3 1963,Eintracht Bad Kreuznach,0-3,Borussia Neunkirchen
+Sun Feb 3 1963,Saar 05 Saarbruecken,0-2,BSC Oppau
+Sun Feb 3 1963,1 Fsv Mainz 05,2-1,1 FC Saarbruecken
+Sun Feb 3 1963,1 FC Kaiserslautern,5-2,FK Pirmasens
+Sun Feb 3 1963,Wormatia Worms,4-1,VFR Kaiserslautern
+Sun Feb 3 1963,Ludwigshafener SC,2-2,Tus Koblenz
+Sun Feb 3 1963,1 FC Koeln,2-1,Preussen Munster
+Sun Feb 3 1963,Alemannia Aachen,4-0,Borussia Dortmund
+Sun Feb 3 1963,Hamborn 07,2-2,FC Schalke 04
+Sun Feb 3 1963,Schwarz Weiss Essen,1-1,Rot Weiss Oberhausen
+Sun Feb 3 1963,TSV Marl Huels,2-1,Wuppertaler SV
+Sun Feb 3 1963,Bayer Leverkusen,2-1,Fortuna Duesseldorf
+Sun Feb 3 1963,VFR Neumuenster,3-1,Werder Bremen
+Sun Feb 3 1963,Hamburger SV,1-2,Atona 93
+Sun Feb 3 1963,Hannover 96,1-2,VFV Hildesheim
+Sun Feb 3 1963,WTSV Concordia,4-1,VFB Oldenburg
+Sun Feb 3 1963,Tus Bremerhaven 93,2-1,Holstein Kiel
+Sun Feb 3 1963,Eintracht Braunschweig,3-1,Arminia Hannover
+Sat Feb 9 1963,Eintracht Frankfurt,2-0,Spvgg Bayern Hof
+Sat Feb 9 1963,Vfb Stuttgart,2-1,Karlsruher SC
+Sat Feb 9 1963,Spvgg Greuther Fuerth,0-0,Kickers Offenbach
+Sat Feb 9 1963,Bayern Muenchen,3-1,FC Augsburg
+Sat Feb 9 1963,FC St Pauli,2-1,Atona 93
+Sun Feb 10 1963,TSV Schwaben Augsburg,3-2,1 FC Schweinfurt 05
+Sun Feb 10 1963,SSV Reutlingen,2-3,TSV 1860 Muenchen
+Sun Feb 10 1963,SSV Ulm 1846,2-1,1 FC Nuernberg
+Sun Feb 10 1963,VFR Mannheim,1-1,Hessen Kassel
+Sun Feb 10 1963,1 FC Kaiserslautern,3-0,Eintracht Bad Kreuznach
+Sun Feb 10 1963,1 Fsv Mainz 05,2-1,Saar 05 Saarbruecken
+Sun Feb 10 1963,1 FC Saarbruecken,4-0,BSC Oppau
+Sun Feb 10 1963,Sportfreunde Saarbruecken,0-0,Wormatia Worms
+Sun Feb 10 1963,FK Pirmasens,4-2,Borussia Neunkirchen
+Sun Feb 10 1963,Ludwigshafener SC,9-0,SV 1911 Niederlahnstein
+Sun Feb 10 1963,VFR Frankenthal,3-0,VFR Kaiserslautern
+Sun Feb 10 1963,Tus Koblenz,5-1,Tura Ludwigshafen
+Sun Feb 10 1963,Viktoria Koeln,2-0,Schwarz Weiss Essen
+Sun Feb 10 1963,Preussen Munster,2-0,Alemannia Aachen
+Sun Feb 10 1963,Wuppertaler SV,3-1,Hamborn 07
+Sun Feb 10 1963,Werder Bremen,1-4,Hamburger SV
+Sun Feb 10 1963,Hannover 96,0-1,Eintracht Braunschweig
+Sun Feb 10 1963,VFB luebeck,1-0,VFL Osnabrueck
+Sun Feb 10 1963,VFV Hildesheim,4-1,Holstein Kiel
+Sun Feb 10 1963,VFB Oldenburg,2-2,FC Bergedorf 85
+Sun Feb 10 1963,WTSV Concordia,2-0,Arminia Hannover
+Sun Feb 10 1963,VFR Neumuenster,4-2,Tus Bremerhaven 93
+Sat Feb 16 1963,Kickers Offenbach,2-2,VFR Mannheim
+Sat Feb 16 1963,Karlsruher SC,1-0,Spvgg Greuther Fuerth
+Sat Feb 16 1963,Spvgg Bayern Hof,2-1,SSV Ulm 1846
+Sat Feb 16 1963,Hamburger SV,3-2,FC St Pauli
+Sun Feb 17 1963,1 FC Schweinfurt 05,1-0,SSV Reutlingen
+Sun Feb 17 1963,TSV 1860 Muenchen,2-1,Eintracht Frankfurt
+Sun Feb 17 1963,1 FC Nuernberg,3-2,TSV Schwaben Augsburg
+Sun Feb 17 1963,Hessen Kassel,1-1,Bayern Muenchen
+Sun Feb 17 1963,FC Augsburg,0-0,Vfb Stuttgart
+Sun Feb 17 1963,Wormatia Worms,0-0,1 FC Saarbruecken
+Sun Feb 17 1963,SV 1911 Niederlahnstein,0-5,VFR Frankenthal
+Sun Feb 17 1963,Borussia Neunkirchen,2-1,1 FC Kaiserslautern
+Sun Feb 17 1963,BSC Oppau,2-2,1 Fsv Mainz 05
+Sun Feb 17 1963,Tura Ludwigshafen,0-1,Ludwigshafener SC
+Sun Feb 17 1963,Hamborn 07,1-0,Schwarz Weiss Essen
+Sun Feb 17 1963,TSV Marl Huels,4-0,Westfalia Herne
+Sun Feb 17 1963,Bor Moenchengladbach,0-1,Alemannia Aachen
+Sun Feb 17 1963,FC Schalke 04,1-1,Rot Weiss Oberhausen
+Sun Feb 17 1963,Bayer Leverkusen,5-4,1 FC Koeln
+Sun Feb 17 1963,Viktoria Koeln,2-2,Wuppertaler SV
+Sun Feb 17 1963,Preussen Munster,3-0,Fortuna Duesseldorf
+Sun Feb 17 1963,Holstein Kiel,3-4,VFR Neumuenster
+Sun Feb 17 1963,VFL Osnabrueck,2-3,VFB Oldenburg
+Sun Feb 17 1963,Eintracht Braunschweig,3-2,VFV Hildesheim
+Sun Feb 17 1963,Tus Bremerhaven 93,1-0,Werder Bremen
+Sun Feb 17 1963,FC Bergedorf 85,1-3,WTSV Concordia
+Sun Feb 17 1963,Atona 93,2-1,VFB luebeck
+Sat Feb 23 1963,Rot Weiss Oberhausen,2-1,Hamborn 07
+Sat Feb 23 1963,Fortuna Duesseldorf,2-1,Bor Moenchengladbach
+Sun Feb 24 1963,MSV Duisburg,1-3,Alemannia Aachen
+Sun Feb 24 1963,FC Schalke 04,3-2,Schwarz Weiss Essen
+Sun Feb 24 1963,Arminia Hannover,2-1,Atona 93
+Sun Feb 24 1963,Tus Bremerhaven 93,0-1,VFL Osnabrueck
+Sat Mar 2 1963,Spvgg Greuther Fuerth,1-0,FC Augsburg
+Sat Mar 2 1963,Bayern Muenchen,0-1,Kickers Offenbach
+Sun Mar 3 1963,Eintracht Frankfurt,2-2,1 FC Schweinfurt 05
+Sun Mar 3 1963,SSV Ulm 1846,5-6,TSV 1860 Muenchen
+Sun Mar 3 1963,TSV Schwaben Augsburg,3-1,Spvgg Bayern Hof
+Sun Mar 3 1963,SSV Reutlingen,0-2,1 FC Nuernberg
+Sun Mar 3 1963,Borussia Neunkirchen,3-0,Ludwigshafener SC
+Sun Mar 3 1963,VFR Kaiserslautern,0-0,1 Fsv Mainz 05
+Sun Mar 3 1963,Wormatia Worms,2-2,FK Pirmasens
+Sun Mar 3 1963,VFB Oldenburg,1-2,Atona 93
+Sun Mar 3 1963,WTSV Concordia,0-3,Holstein Kiel
+Sun Mar 3 1963,Hannover 96,4-0,FC Bergedorf 85
+Sun Mar 3 1963,VFB luebeck,1-6,Arminia Hannover
+Sun Mar 3 1963,VFR Neumuenster,2-1,Eintracht Braunschweig
+Sun Mar 3 1963,VFV Hildesheim,2-3,Hamburger SV
+Sat Mar 9 1963,Spvgg Bayern Hof,0-2,SSV Reutlingen
+Sat Mar 9 1963,Hessen Kassel,2-2,Spvgg Greuther Fuerth
+Sat Mar 9 1963,TSV 1860 Muenchen,3-0,TSV Schwaben Augsburg
+Sun Mar 10 1963,1 FC Nuernberg,1-3,Eintracht Frankfurt
+Sun Mar 10 1963,1 FC Kaiserslautern,3-0,Wormatia Worms
+Sun Mar 10 1963,Ludwigshafener SC,3-0,Saar 05 Saarbruecken
+Sun Mar 10 1963,FK Pirmasens,5-0,VFR Kaiserslautern
+Sun Mar 10 1963,1 FC Saarbruecken,6-1,Tura Ludwigshafen
+Sun Mar 10 1963,Bor Moenchengladbach,4-2,1 FC Koeln
+Sun Mar 10 1963,TSV Marl Huels,1-1,Alemannia Aachen
+Sun Mar 10 1963,FC Schalke 04,6-0,Wuppertaler SV
+Sun Mar 10 1963,Arminia Hannover,3-1,VFR Neumuenster
+Sun Mar 10 1963,VFL Osnabrueck,2-2,FC St Pauli
+Sat Mar 16 1963,SSV Reutlingen,2-2,SSV Ulm 1846
+Sat Mar 16 1963,Eintracht Frankfurt,2-1,Karlsruher SC
+Sat Mar 16 1963,Bayern Muenchen,5-1,Spvgg Bayern Hof
+Sat Mar 16 1963,Borussia Neunkirchen,4-1,Sportfreunde Saarbruecken
+Sat Mar 16 1963,Tura Ludwigshafen,1-1,1 Fsv Mainz 05
+Sat Mar 16 1963,BSC Oppau,2-0,Ludwigshafener SC
+Sat Mar 16 1963,Eintracht Bad Kreuznach,1-4,1 FC Saarbruecken
+Sat Mar 16 1963,VFR Kaiserslautern,0-2,1 FC Kaiserslautern
+Sat Mar 16 1963,Saar 05 Saarbruecken,3-1,VFR Frankenthal
+Sat Mar 16 1963,Wormatia Worms,3-1,Tus Koblenz
+Sat Mar 16 1963,WTSV Concordia,0-3,Hamburger SV
+Sun Mar 17 1963,Spvgg Greuther Fuerth,2-1,TSV 1860 Muenchen
+Sun Mar 17 1963,Hessen Kassel,5-0,FC Augsburg
+Sun Mar 17 1963,VFR Mannheim,1-0,1 FC Nuernberg
+Sun Mar 17 1963,TSV Schwaben Augsburg,3-1,Kickers Offenbach
+Sun Mar 17 1963,Vfb Stuttgart,2-0,1 FC Schweinfurt 05
+Sun Mar 17 1963,TSV Marl Huels,1-0,Borussia Dortmund
+Sun Mar 17 1963,Alemannia Aachen,2-0,Fortuna Duesseldorf
+Sun Mar 17 1963,Bor Moenchengladbach,0-3,Preussen Munster
+Sun Mar 17 1963,Westfalia Herne,1-2,MSV Duisburg
+Sun Mar 17 1963,Bayer Leverkusen,0-0,FC Schalke 04
+Sun Mar 17 1963,Hamborn 07,3-5,Viktoria Koeln
+Sun Mar 17 1963,Wuppertaler SV,3-4,1 FC Koeln
+Sun Mar 17 1963,Hannover 96,6-3,Atona 93
+Sun Mar 17 1963,Werder Bremen,5-2,Arminia Hannover
+Sun Mar 17 1963,FC St Pauli,1-1,Eintracht Braunschweig
+Sun Mar 17 1963,VFV Hildesheim,3-2,VFL Osnabrueck
+Sun Mar 17 1963,VFB Oldenburg,4-4,Tus Bremerhaven 93
+Sat Mar 23 1963,Karlsruher SC,2-0,Spvgg Bayern Hof
+Sat Mar 23 1963,Bayern Muenchen,7-3,SSV Reutlingen
+Sat Mar 23 1963,Eintracht Frankfurt,2-1,Spvgg Greuther Fuerth
+Sat Mar 23 1963,MSV Duisburg,2-1,FC Schalke 04
+Sat Mar 23 1963,Hamburger SV,9-2,Arminia Hannover
+Sun Mar 24 1963,VFR Mannheim,3-1,TSV Schwaben Augsburg
+Sun Mar 24 1963,1 FC Schweinfurt 05,2-3,SSV Ulm 1846
+Sun Mar 24 1963,BSC Oppau,0-0,1 FC Kaiserslautern
+Sun Mar 24 1963,Sportfreunde Saarbruecken,1-2,Saar 05 Saarbruecken
+Sun Mar 24 1963,1 FC Saarbruecken,1-1,Borussia Neunkirchen
+Sun Mar 24 1963,FK Pirmasens,7-0,Tura Ludwigshafen
+Sun Mar 24 1963,SV 1911 Niederlahnstein,1-2,Tus Koblenz
+Sun Mar 24 1963,Rot Weiss Oberhausen,2-3,Borussia Dortmund
+Sun Mar 24 1963,Alemannia Aachen,5-1,Hamborn 07
+Sun Mar 24 1963,1 FC Koeln,2-0,TSV Marl Huels
+Sun Mar 24 1963,Schwarz Weiss Essen,4-0,Bor Moenchengladbach
+Sun Mar 24 1963,Fortuna Duesseldorf,0-0,Viktoria Koeln
+Sun Mar 24 1963,Westfalia Herne,1-2,Bayer Leverkusen
+Sun Mar 24 1963,Wuppertaler SV,2-1,Preussen Munster
+Sun Mar 24 1963,FC St Pauli,1-2,VFV Hildesheim
+Sun Mar 24 1963,VFL Osnabrueck,2-3,Holstein Kiel
+Sun Mar 24 1963,FC Bergedorf 85,6-0,VFB luebeck
+Wed Mar 27 1963,Saar 05 Saarbruecken,1-0,1 FC Saarbruecken
+Wed Mar 27 1963,Bor Moenchengladbach,1-1,MSV Duisburg
+Wed Mar 27 1963,FC Schalke 04,0-1,1 FC Koeln
+Wed Mar 27 1963,Borussia Dortmund,1-1,Schwarz Weiss Essen
+Thu Mar 28 1963,Westfalia Herne,3-3,Viktoria Koeln
+Sat Mar 30 1963,Spvgg Bayern Hof,2-1,VFR Mannheim
+Sat Mar 30 1963,Kickers Offenbach,2-0,SSV Reutlingen
+Sat Mar 30 1963,Karlsruher SC,2-2,Hessen Kassel
+Sat Mar 30 1963,TSV 1860 Muenchen,1-0,Vfb Stuttgart
+Sat Mar 30 1963,Hamburger SV,5-2,VFR Neumuenster
+Sun Mar 31 1963,1 FC Schweinfurt 05,4-1,Spvgg Greuther Fuerth
+Sun Mar 31 1963,1 FC Nuernberg,3-2,Bayern Muenchen
+Sun Mar 31 1963,SSV Ulm 1846,2-1,TSV Schwaben Augsburg
+Sun Mar 31 1963,Borussia Neunkirchen,0-0,VFR Kaiserslautern
+Sun Mar 31 1963,Saar 05 Saarbruecken,0-0,SV 1911 Niederlahnstein
+Sun Mar 31 1963,1 FC Kaiserslautern,5-2,Sportfreunde Saarbruecken
+Sun Mar 31 1963,FK Pirmasens,2-2,VFR Frankenthal
+Sun Mar 31 1963,Eintracht Bad Kreuznach,1-2,Wormatia Worms
+Sun Mar 31 1963,Ludwigshafener SC,6-2,1 Fsv Mainz 05
+Sun Mar 31 1963,Preussen Munster,0-2,FC Schalke 04
+Sun Mar 31 1963,Alemannia Aachen,1-0,1 FC Koeln
+Sun Mar 31 1963,Schwarz Weiss Essen,1-0,Westfalia Herne
+Sun Mar 31 1963,Fortuna Duesseldorf,3-0,Rot Weiss Oberhausen
+Sun Mar 31 1963,Wuppertaler SV,0-2,MSV Duisburg
+Sun Mar 31 1963,Bor Moenchengladbach,1-0,Bayer Leverkusen
+Sun Mar 31 1963,Hamborn 07,0-1,TSV Marl Huels
+Sun Mar 31 1963,Viktoria Koeln,1-2,Borussia Dortmund
+Sun Mar 31 1963,Tus Bremerhaven 93,0-0,VFB luebeck
+Sun Mar 31 1963,VFL Osnabrueck,3-0,Hannover 96
+Sun Mar 31 1963,Eintracht Braunschweig,6-0,WTSV Concordia
+Sun Mar 31 1963,Arminia Hannover,2-4,VFB Oldenburg
+Sun Mar 31 1963,FC Bergedorf 85,2-0,VFV Hildesheim
+Sun Mar 31 1963,Holstein Kiel,1-1,FC St Pauli
+Sun Mar 31 1963,Atona 93,2-4,Werder Bremen
+Wed Apr 3 1963,MSV Duisburg,1-0,TSV Marl Huels
+Wed Apr 3 1963,Borussia Dortmund,2-1,Westfalia Herne
+Sat Apr 6 1963,Vfb Stuttgart,0-0,Spvgg Greuther Fuerth
+Sat Apr 6 1963,1 FC Nuernberg,4-0,Spvgg Bayern Hof
+Sat Apr 6 1963,Atona 93,2-1,WTSV Concordia
+Sun Apr 7 1963,Karlsruher SC,3-2,FC Augsburg
+Sun Apr 7 1963,Hessen Kassel,3-2,Kickers Offenbach
+Sun Apr 7 1963,Eintracht Frankfurt,2-1,SSV Ulm 1846
+Sun Apr 7 1963,TSV Schwaben Augsburg,4-1,SSV Reutlingen
+Sun Apr 7 1963,Bayern Muenchen,1-0,1 FC Schweinfurt 05
+Sun Apr 7 1963,VFR Mannheim,2-2,TSV 1860 Muenchen
+Sun Apr 7 1963,VFR Frankenthal,2-1,1 FC Kaiserslautern
+Sun Apr 7 1963,VFR Kaiserslautern,2-1,Eintracht Bad Kreuznach
+Sun Apr 7 1963,1 FC Saarbruecken,2-2,Ludwigshafener SC
+Sun Apr 7 1963,SV 1911 Niederlahnstein,1-4,Borussia Neunkirchen
+Sun Apr 7 1963,1 Fsv Mainz 05,1-1,FK Pirmasens
+Sun Apr 7 1963,Wormatia Worms,3-0,BSC Oppau
+Sun Apr 7 1963,Tura Ludwigshafen,0-0,Saar 05 Saarbruecken
+Sun Apr 7 1963,Sportfreunde Saarbruecken,7-1,Tus Koblenz
+Sun Apr 7 1963,Alemannia Aachen,2-0,Rot Weiss Oberhausen
+Sun Apr 7 1963,Hamborn 07,1-4,Borussia Dortmund
+Sun Apr 7 1963,TSV Marl Huels,1-2,Preussen Munster
+Sun Apr 7 1963,1 FC Koeln,2-0,Viktoria Koeln
+Sun Apr 7 1963,Schwarz Weiss Essen,2-2,MSV Duisburg
+Sun Apr 7 1963,Bor Moenchengladbach,2-2,FC Schalke 04
+Sun Apr 7 1963,Westfalia Herne,4-1,Fortuna Duesseldorf
+Sun Apr 7 1963,Bayer Leverkusen,2-4,Wuppertaler SV
+Sun Apr 7 1963,VFB luebeck,2-1,FC St Pauli
+Sun Apr 7 1963,VFL Osnabrueck,1-1,FC Bergedorf 85
+Sun Apr 7 1963,Holstein Kiel,2-2,Hannover 96
+Sun Apr 7 1963,Hamburger SV,1-1,VFB Oldenburg
+Sun Apr 7 1963,Tus Bremerhaven 93,3-3,VFV Hildesheim
+Sun Apr 7 1963,Eintracht Braunschweig,2-3,Werder Bremen
+Wed Apr 10 1963,Hamborn 07,0-2,Preussen Munster
+Wed Apr 10 1963,Schwarz Weiss Essen,2-0,Fortuna Duesseldorf
+Wed Apr 10 1963,1 FC Koeln,2-1,Borussia Dortmund
+Wed Apr 10 1963,Westfalia Herne,1-0,Rot Weiss Oberhausen
+Wed Apr 10 1963,TSV Marl Huels,1-0,FC Schalke 04
+Wed Apr 10 1963,Alemannia Aachen,6-4,Viktoria Koeln
+Thu Apr 11 1963,FC Augsburg,0-1,Eintracht Frankfurt
+Fri Apr 12 1963,Eintracht Bad Kreuznach,0-2,Tus Koblenz
+Fri Apr 12 1963,VFR Kaiserslautern,1-1,Sportfreunde Saarbruecken
+Fri Apr 12 1963,FK Pirmasens,3-1,1 FC Saarbruecken
+Fri Apr 12 1963,Borussia Neunkirchen,3-0,Tura Ludwigshafen
+Fri Apr 12 1963,Eintracht Bad Kreuznach,5-0,SV 1911 Niederlahnstein
+Fri Apr 12 1963,Tus Koblenz,3-2,VFR Frankenthal
+Fri Apr 12 1963,FC St Pauli,2-0,Tus Bremerhaven 93
+Fri Apr 12 1963,Werder Bremen,3-1,VFL Osnabrueck
+Sat Apr 13 1963,Spvgg Bayern Hof,1-0,Kickers Offenbach
+Sat Apr 13 1963,Spvgg Greuther Fuerth,3-1,SSV Reutlingen
+Sat Apr 13 1963,Vfb Stuttgart,0-0,Hessen Kassel
+Sat Apr 13 1963,VFR Mannheim,0-1,Karlsruher SC
+Sat Apr 13 1963,FC Schalke 04,1-2,Westfalia Herne
+Sat Apr 13 1963,Borussia Dortmund,3-1,Bayer Leverkusen
+Sat Apr 13 1963,MSV Duisburg,3-0,1 FC Koeln
+Sat Apr 13 1963,Wuppertaler SV,1-2,Alemannia Aachen
+Sat Apr 13 1963,Fortuna Duesseldorf,0-2,Hamborn 07
+Sat Apr 13 1963,Rot Weiss Oberhausen,3-0,TSV Marl Huels
+Sat Apr 13 1963,Preussen Munster,1-0,Schwarz Weiss Essen
+Sat Apr 13 1963,Arminia Hannover,4-2,Hannover 96
+Mon Apr 15 1963,VFR Frankenthal,1-1,Borussia Neunkirchen
+Mon Apr 15 1963,SV 1911 Niederlahnstein,3-3,Tura Ludwigshafen
+Mon Apr 15 1963,Saar 05 Saarbruecken,0-0,FK Pirmasens
+Mon Apr 15 1963,1 FC Kaiserslautern,3-0,1 Fsv Mainz 05
+Mon Apr 15 1963,BSC Oppau,3-1,VFR Kaiserslautern
+Mon Apr 15 1963,VFL Osnabrueck,3-5,Atona 93
+Mon Apr 15 1963,VFB luebeck,1-3,Holstein Kiel
+Mon Apr 15 1963,VFR Neumuenster,1-0,FC Bergedorf 85
+Wed Apr 17 1963,Bayer Leverkusen,2-1,MSV Duisburg
+Sat Apr 20 1963,SSV Reutlingen,0-3,Eintracht Frankfurt
+Sat Apr 20 1963,Spvgg Greuther Fuerth,4-2,VFR Mannheim
+Sat Apr 20 1963,Vfb Stuttgart,1-0,Bayern Muenchen
+Sat Apr 20 1963,TSV 1860 Muenchen,2-4,1 FC Nuernberg
+Sat Apr 20 1963,1 FC Koeln,2-0,Schwarz Weiss Essen
+Sat Apr 20 1963,FC Schalke 04,2-0,Viktoria Koeln
+Sat Apr 20 1963,Rot Weiss Oberhausen,3-3,Wuppertaler SV
+Sat Apr 20 1963,FC St Pauli,1-1,FC Bergedorf 85
+Sun Apr 21 1963,1 FC Schweinfurt 05,3-1,Spvgg Bayern Hof
+Sun Apr 21 1963,Kickers Offenbach,8-1,FC Augsburg
+Sun Apr 21 1963,SSV Ulm 1846,2-2,Karlsruher SC
+Sun Apr 21 1963,TSV Schwaben Augsburg,2-1,Hessen Kassel
+Sun Apr 21 1963,1 FC Saarbruecken,1-2,1 FC Kaiserslautern
+Sun Apr 21 1963,Wormatia Worms,0-0,Borussia Neunkirchen
+Sun Apr 21 1963,VFR Kaiserslautern,0-0,Saar 05 Saarbruecken
+Sun Apr 21 1963,Sportfreunde Saarbruecken,3-1,FK Pirmasens
+Sun Apr 21 1963,Tura Ludwigshafen,2-1,Eintracht Bad Kreuznach
+Sun Apr 21 1963,VFR Frankenthal,1-3,Ludwigshafener SC
+Sun Apr 21 1963,SV 1911 Niederlahnstein,0-7,BSC Oppau
+Sun Apr 21 1963,1 Fsv Mainz 05,3-1,Tus Koblenz
+Sun Apr 21 1963,Borussia Dortmund,3-1,Preussen Munster
+Sun Apr 21 1963,Bayer Leverkusen,2-0,Hamborn 07
+Sun Apr 21 1963,MSV Duisburg,1-0,Fortuna Duesseldorf
+Sun Apr 21 1963,TSV Marl Huels,1-2,Bor Moenchengladbach
+Sun Apr 21 1963,Westfalia Herne,1-3,Alemannia Aachen
+Sun Apr 21 1963,VFB Oldenburg,0-2,Eintracht Braunschweig
+Sun Apr 21 1963,Hannover 96,1-0,Tus Bremerhaven 93
+Sun Apr 21 1963,VFR Neumuenster,0-0,Atona 93
+Sun Apr 21 1963,Werder Bremen,5-3,Holstein Kiel
+Sun Apr 21 1963,VFV Hildesheim,2-2,Arminia Hannover
+Sun Apr 21 1963,WTSV Concordia,2-0,VFL Osnabrueck
+Sun Apr 21 1963,VFB luebeck,3-5,Hamburger SV
+Wed Apr 24 1963,Tus Koblenz,2-0,1 FC Saarbruecken
+Wed Apr 24 1963,Rot Weiss Oberhausen,2-0,Bayer Leverkusen
+Wed Apr 24 1963,Borussia Dortmund,0-1,MSV Duisburg
+Wed Apr 24 1963,FC Schalke 04,2-1,Alemannia Aachen
+Wed Apr 24 1963,Preussen Munster,3-0,Westfalia Herne
+Sat Apr 27 1963,VFR Mannheim,2-4,Vfb Stuttgart
+Sat Apr 27 1963,Wuppertaler SV,0-1,Fortuna Duesseldorf
+Sun Apr 28 1963,1 FC Nuernberg,5-1,1 FC Schweinfurt 05
+Sun Apr 28 1963,Spvgg Bayern Hof,0-2,TSV 1860 Muenchen
+Sun Apr 28 1963,Hessen Kassel,3-3,SSV Reutlingen
+Sun Apr 28 1963,FC Augsburg,3-3,SSV Ulm 1846
+Sun Apr 28 1963,Eintracht Frankfurt,1-2,TSV Schwaben Augsburg
+Sun Apr 28 1963,Bayern Muenchen,1-0,Spvgg Greuther Fuerth
+Sun Apr 28 1963,Karlsruher SC,3-1,Kickers Offenbach
+Sun Apr 28 1963,Saar 05 Saarbruecken,0-0,Tus Koblenz
+Sun Apr 28 1963,1 Fsv Mainz 05,2-1,SV 1911 Niederlahnstein
+Sun Apr 28 1963,BSC Oppau,0-3,Tura Ludwigshafen
+Sun Apr 28 1963,Ludwigshafener SC,3-1,Sportfreunde Saarbruecken
+Sun Apr 28 1963,Borussia Dortmund,1-0,FC Schalke 04
+Sun Apr 28 1963,Schwarz Weiss Essen,1-1,Alemannia Aachen
+Sun Apr 28 1963,Westfalia Herne,0-1,1 FC Koeln
+Sun Apr 28 1963,Hamborn 07,1-0,Bor Moenchengladbach
+Sun Apr 28 1963,Rot Weiss Oberhausen,2-0,MSV Duisburg
+Sun Apr 28 1963,TSV Marl Huels,1-1,Bayer Leverkusen
+Sun Apr 28 1963,Viktoria Koeln,1-1,Preussen Munster
+Sun Apr 28 1963,Hamburger SV,1-3,Hannover 96
+Sun Apr 28 1963,VFL Osnabrueck,0-1,VFR Neumuenster
+Sun Apr 28 1963,Eintracht Braunschweig,2-1,VFB luebeck
+Sun Apr 28 1963,Tus Bremerhaven 93,3-1,WTSV Concordia
+Sun Apr 28 1963,Holstein Kiel,5-2,VFB Oldenburg
+Sun Apr 28 1963,Atona 93,2-3,VFV Hildesheim
+Sun Apr 28 1963,Arminia Hannover,2-3,FC St Pauli
+Sun Apr 28 1963,FC Bergedorf 85,2-4,Werder Bremen
+Wed May 1 1963,Tura Ludwigshafen,3-2,Sportfreunde Saarbruecken
+Wed May 1 1963,Tus Koblenz,4-1,BSC Oppau
+Wed May 1 1963,SV 1911 Niederlahnstein,1-7,FK Pirmasens
+Wed May 1 1963,Saar 05 Saarbruecken,1-2,Wormatia Worms
+Wed May 1 1963,Borussia Dortmund,4-1,Fortuna Duesseldorf
+Wed May 1 1963,Bayer Leverkusen,5-1,Schwarz Weiss Essen
+Wed May 1 1963,Viktoria Koeln,2-3,MSV Duisburg
+Wed May 1 1963,Hamborn 07,5-1,Westfalia Herne
+Wed May 1 1963,Preussen Munster,1-1,Rot Weiss Oberhausen
+Wed May 1 1963,Bor Moenchengladbach,1-0,Wuppertaler SV
+Sat May 4 1963,Hessen Kassel,2-1,Spvgg Bayern Hof
+Sat May 4 1963,Karlsruher SC,1-3,Bayern Muenchen
+Sat May 4 1963,Kickers Offenbach,1-1,Vfb Stuttgart
+Sat May 4 1963,FC Augsburg,2-5,VFR Mannheim
+Sat May 4 1963,Fortuna Duesseldorf,1-1,TSV Marl Huels
+Sat May 4 1963,Viktoria Koeln,5-0,Bayer Leverkusen
+Sat May 4 1963,MSV Duisburg,2-1,Hamborn 07
+Sat May 4 1963,Rot Weiss Oberhausen,1-1,Bor Moenchengladbach
+Sun May 5 1963,Saar 05 Saarbruecken,1-1,Borussia Neunkirchen
+Sun May 5 1963,VFR Frankenthal,4-0,1 Fsv Mainz 05
+Sun May 5 1963,BSC Oppau,3-1,Eintracht Bad Kreuznach
+Sun May 5 1963,1 FC Kaiserslautern,8-2,Tus Koblenz
+Sun May 5 1963,Sportfreunde Saarbruecken,0-2,1 FC Saarbruecken
+Sun May 5 1963,Tura Ludwigshafen,0-1,Wormatia Worms
+Sun May 5 1963,SV 1911 Niederlahnstein,1-3,VFR Kaiserslautern
+Sun May 5 1963,FK Pirmasens,0-0,Ludwigshafener SC
+Sat May 11 1963,Rot Weiss Oberhausen,2-3,Viktoria Koeln
+Sat May 11 1963,Westfalia Herne,4-4,Bor Moenchengladbach
+Sun May 12 1963,SSV Ulm 1846,2-2,VFR Mannheim
+Sun May 12 1963,Ludwigshafener SC,1-9,1 FC Kaiserslautern
+Sun May 12 1963,VFR Kaiserslautern,0-1,Tura Ludwigshafen
+Sun May 12 1963,Tus Koblenz,1-0,FK Pirmasens
+Sun May 12 1963,Borussia Neunkirchen,4-0,BSC Oppau
+Sun May 12 1963,1 Fsv Mainz 05,0-2,Sportfreunde Saarbruecken
+Sun May 12 1963,Eintracht Bad Kreuznach,1-5,Saar 05 Saarbruecken
+Sun May 12 1963,Wormatia Worms,5-1,SV 1911 Niederlahnstein
+Sun May 12 1963,1 FC Saarbruecken,5-1,VFR Frankenthal
+Sun May 12 1963,Alemannia Aachen,2-1,Bayer Leverkusen
+Sun May 12 1963,MSV Duisburg,2-1,Preussen Munster
+Sun May 12 1963,Wuppertaler SV,1-0,Borussia Dortmund
+Sun May 12 1963,1 FC Koeln,4-0,Hamborn 07
+Sun May 12 1963,Fortuna Duesseldorf,1-1,FC Schalke 04
+Sun May 12 1963,Schwarz Weiss Essen,1-0,TSV Marl Huels
+Sat May 18 1963,1 FC Nuernberg,2-1,Werder Bremen
+Sat May 25 1963,1 FC Nuernberg,3-3,1 FC Koeln
+Sat May 25 1963,1 FC Kaiserslautern,1-1,Hertha BSC Berlin
+Sat May 25 1963,TSV 1860 Muenchen,3-2,Borussia Dortmund
+Sat May 25 1963,Borussia Neunkirchen,3-0,Hamburger SV
+Wed May 29 1963,1 FC Koeln,8-2,1 FC Kaiserslautern
+Wed May 29 1963,Hertha BSC Berlin,0-2,1 FC Nuernberg
+Wed May 29 1963,Hamburger SV,3-0,TSV 1860 Muenchen
+Wed May 29 1963,Borussia Dortmund,0-0,Borussia Neunkirchen
+Sat Jun 1 1963,1 FC Kaiserslautern,2-2,1 FC Nuernberg
+Sat Jun 1 1963,Hertha BSC Berlin,3-6,1 FC Koeln
+Sat Jun 1 1963,TSV 1860 Muenchen,4-0,Borussia Neunkirchen
+Sat Jun 1 1963,Borussia Dortmund,3-2,Hamburger SV
+Sat Jun 8 1963,1 FC Nuernberg,5-1,1 FC Kaiserslautern
+Sat Jun 8 1963,1 FC Koeln,5-1,Hertha BSC Berlin
+Sat Jun 8 1963,Borussia Neunkirchen,2-1,TSV 1860 Muenchen
+Sat Jun 8 1963,Hamburger SV,0-1,Borussia Dortmund
+Sat Jun 15 1963,1 FC Nuernberg,5-0,Hertha BSC Berlin
+Sat Jun 15 1963,1 FC Kaiserslautern,1-1,1 FC Koeln
+Sat Jun 15 1963,TSV 1860 Muenchen,2-1,Hamburger SV
+Sat Jun 15 1963,Borussia Neunkirchen,2-5,Borussia Dortmund
+Sat Jun 22 1963,1 FC Koeln,6-2,1 FC Nuernberg
+Sat Jun 22 1963,Hertha BSC Berlin,3-0,1 FC Kaiserslautern
+Sat Jun 22 1963,Borussia Dortmund,4-0,TSV 1860 Muenchen
+Sat Jun 22 1963,Hamburger SV,1-1,Borussia Neunkirchen
+Sat Jun 29 1963,Borussia Dortmund,3-1,1 FC Koeln

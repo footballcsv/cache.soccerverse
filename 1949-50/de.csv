@@ -1,0 +1,510 @@
+Date,Team 1,FT,Team 2
+Sun Jul 3 1949,Borussia Dortmund,4-1,1 FC Kaiserslautern
+Sat Jul 9 1949,1 FC Kaiserslautern,2-1,Kickers Offenbach
+Sun Jul 10 1949,VFR Mannheim,3-2,Borussia Dortmund
+Sat Sep 3 1949,FSV Frankfurt,2-2,VFB Muehlburg
+Sat Sep 3 1949,Bayern Muenchen,2-3,Spvgg Greuther Fuerth
+Sun Sep 4 1949,1 FC Schweinfurt 05,1-2,VFR Mannheim
+Sun Sep 4 1949,Jahn Regensburg,1-2,Vfb Stuttgart
+Sun Sep 4 1949,Waldhof Mannheim,5-1,Eintracht Frankfurt
+Sun Sep 4 1949,1 FC Nuernberg,3-3,FC Augsburg
+Sun Sep 4 1949,TSV Schwaben Augsburg,1-0,TSV 1860 Muenchen
+Sun Sep 4 1949,Rot Weiss Oberhausen,1-1,Duisburger SV
+Sun Sep 4 1949,TSG Vohwinkel 80,1-1,Hamborn 07
+Sun Sep 4 1949,Duisburger FV 08,1-2,Spvgg Erkenschwick
+Sun Sep 4 1949,Preussen Dellbrueck,3-2,Alemannia Aachen
+Sun Sep 4 1949,Preussen Munster,5-0,Arminia Bielefeld
+Sun Sep 4 1949,SV Rhenania Wuerselen,2-0,1 FC Koeln
+Sat Sep 10 1949,Eintracht Frankfurt,2-2,1 FC Nuernberg
+Sun Sep 11 1949,FC Augsburg,0-2,FSV Frankfurt
+Sun Sep 11 1949,Kickers Offenbach,4-2,Bayern Muenchen
+Sun Sep 11 1949,VFR Mannheim,1-1,Jahn Regensburg
+Sun Sep 11 1949,Vfb Stuttgart,2-0,Waldhof Mannheim
+Sun Sep 11 1949,VFB Muehlburg,0-2,1 FC Schweinfurt 05
+Sun Sep 11 1949,TSV 1860 Muenchen,1-1,Stuttgarter Kickers
+Sun Sep 11 1949,Spvgg Greuther Fuerth,8-1,TSV Schwaben Augsburg
+Sun Sep 11 1949,STV Horst Emscher,2-1,Borussia Dortmund
+Sun Sep 11 1949,Rot Weiss Oberhausen,2-4,FC Schalke 04
+Sun Sep 11 1949,Alemannia Aachen,2-2,TSG Vohwinkel 80
+Sun Sep 11 1949,Hamborn 07,0-0,Spvgg Erkenschwick
+Sun Sep 11 1949,Duisburger SV,2-4,Preussen Dellbrueck
+Sun Sep 11 1949,1 FC Koeln,1-1,Preussen Munster
+Sun Sep 11 1949,SV Rhenania Wuerselen,2-1,Rot Weiss Essen
+Sun Sep 11 1949,Arminia Bielefeld,1-1,Duisburger FV 08
+Sun Sep 18 1949,Duisburger FV 08,3-1,Hamborn 07
+Sun Sep 18 1949,Spvgg Erkenschwick,4-1,TSG Vohwinkel 80
+Sun Sep 18 1949,Preussen Dellbrueck,1-0,Arminia Bielefeld
+Sun Sep 18 1949,Preussen Munster,1-1,Alemannia Aachen
+Sun Sep 25 1949,Stuttgarter Kickers,1-1,Spvgg Greuther Fuerth
+Sun Sep 25 1949,VFB Muehlburg,2-1,1 FC Nuernberg
+Sun Sep 25 1949,Waldhof Mannheim,5-4,TSV 1860 Muenchen
+Sun Sep 25 1949,FSV Frankfurt,0-0,Vfb Stuttgart
+Sun Sep 25 1949,1 FC Schweinfurt 05,6-1,FC Augsburg
+Sun Sep 25 1949,TSV Schwaben Augsburg,0-1,Eintracht Frankfurt
+Sun Sep 25 1949,Jahn Regensburg,4-0,Kickers Offenbach
+Sun Sep 25 1949,Bayern Muenchen,3-2,VFR Mannheim
+Sun Sep 25 1949,Duisburger SV,1-1,Borussia Dortmund
+Sun Sep 25 1949,Rot Weiss Essen,1-3,STV Horst Emscher
+Sun Sep 25 1949,FC Schalke 04,0-0,Preussen Munster
+Sun Sep 25 1949,1 FC Koeln,1-2,Rot Weiss Oberhausen
+Sun Sep 25 1949,Alemannia Aachen,2-1,Duisburger FV 08
+Sun Sep 25 1949,Spvgg Erkenschwick,1-0,Preussen Dellbrueck
+Sun Sep 25 1949,Hamborn 07,2-0,SV Rhenania Wuerselen
+Sun Sep 25 1949,TSG Vohwinkel 80,3-0,Arminia Bielefeld
+Sun Oct 2 1949,Kickers Offenbach,3-0,Stuttgarter Kickers
+Sun Oct 2 1949,Eintracht Frankfurt,3-1,FC Augsburg
+Sun Oct 2 1949,1 FC Schweinfurt 05,2-0,FSV Frankfurt
+Sun Oct 2 1949,Jahn Regensburg,0-1,Waldhof Mannheim
+Sun Oct 2 1949,Borussia Dortmund,4-1,Hamborn 07
+Sun Oct 2 1949,STV Horst Emscher,7-0,Alemannia Aachen
+Sun Oct 2 1949,TSG Vohwinkel 80,2-5,FC Schalke 04
+Sun Oct 2 1949,Duisburger FV 08,2-3,Rot Weiss Essen
+Sun Oct 2 1949,Arminia Bielefeld,3-2,Rot Weiss Oberhausen
+Sun Oct 2 1949,Preussen Munster,3-1,Spvgg Erkenschwick
+Sun Oct 2 1949,Preussen Dellbrueck,1-1,1 FC Koeln
+Sun Oct 2 1949,SV Rhenania Wuerselen,4-3,Duisburger SV
+Sun Oct 9 1949,VFR Mannheim,3-1,TSV Schwaben Augsburg
+Sun Oct 9 1949,Kickers Offenbach,0-6,Waldhof Mannheim
+Sun Oct 9 1949,Eintracht Frankfurt,1-1,1 FC Schweinfurt 05
+Sun Oct 9 1949,FC Augsburg,2-7,Stuttgarter Kickers
+Sun Oct 9 1949,Vfb Stuttgart,5-2,1 FC Nuernberg
+Sun Oct 9 1949,TSV 1860 Muenchen,0-1,FSV Frankfurt
+Sun Oct 9 1949,VFB Muehlburg,2-1,Bayern Muenchen
+Sun Oct 9 1949,Spvgg Greuther Fuerth,3-2,Jahn Regensburg
+Sun Oct 9 1949,Alemannia Aachen,2-2,Borussia Dortmund
+Sun Oct 9 1949,FC Schalke 04,3-2,Preussen Dellbrueck
+Sun Oct 9 1949,Spvgg Erkenschwick,2-0,STV Horst Emscher
+Sun Oct 9 1949,Duisburger SV,5-2,Preussen Munster
+Sun Oct 9 1949,Rot Weiss Essen,4-1,TSG Vohwinkel 80
+Sun Oct 9 1949,Rot Weiss Oberhausen,2-1,Hamborn 07
+Sun Oct 9 1949,Arminia Bielefeld,2-2,SV Rhenania Wuerselen
+Sun Oct 9 1949,1 FC Koeln,6-2,Duisburger FV 08
+Sun Oct 16 1949,TSV Schwaben Augsburg,0-1,VFB Muehlburg
+Sun Oct 16 1949,Jahn Regensburg,0-2,TSV 1860 Muenchen
+Sun Oct 16 1949,Bayern Muenchen,2-2,Vfb Stuttgart
+Sun Oct 16 1949,FSV Frankfurt,1-1,Kickers Offenbach
+Sun Oct 16 1949,1 FC Nuernberg,2-0,VFR Mannheim
+Sun Oct 16 1949,Stuttgarter Kickers,2-5,Eintracht Frankfurt
+Sun Oct 16 1949,1 FC Schweinfurt 05,1-1,Spvgg Greuther Fuerth
+Sun Oct 16 1949,Waldhof Mannheim,2-2,FC Augsburg
+Sun Oct 16 1949,Borussia Dortmund,5-1,FC Schalke 04
+Sun Oct 16 1949,STV Horst Emscher,3-1,Arminia Bielefeld
+Sun Oct 16 1949,Preussen Munster,0-4,Rot Weiss Essen
+Sun Oct 16 1949,Preussen Dellbrueck,4-1,Hamborn 07
+Sun Oct 16 1949,SV Rhenania Wuerselen,2-3,Spvgg Erkenschwick
+Sun Oct 16 1949,Duisburger FV 08,1-0,Duisburger SV
+Sun Oct 16 1949,TSG Vohwinkel 80,0-3,1 FC Koeln
+Sun Oct 16 1949,Rot Weiss Oberhausen,1-1,Alemannia Aachen
+Sun Oct 23 1949,FC Augsburg,2-0,Bayern Muenchen
+Sun Oct 23 1949,Spvgg Greuther Fuerth,5-1,Waldhof Mannheim
+Sun Oct 23 1949,Eintracht Frankfurt,0-2,Jahn Regensburg
+Sun Oct 23 1949,VFR Mannheim,2-1,FSV Frankfurt
+Sun Oct 23 1949,Kickers Offenbach,2-2,TSV Schwaben Augsburg
+Sun Oct 23 1949,Vfb Stuttgart,3-0,1 FC Schweinfurt 05
+Sun Oct 23 1949,TSV 1860 Muenchen,0-2,1 FC Nuernberg
+Sun Oct 23 1949,VFB Muehlburg,4-2,Stuttgarter Kickers
+Sun Oct 23 1949,Arminia Bielefeld,0-4,Borussia Dortmund
+Sun Oct 23 1949,1 FC Koeln,4-0,STV Horst Emscher
+Sun Oct 23 1949,Rot Weiss Essen,2-1,Preussen Dellbrueck
+Sun Oct 23 1949,FC Schalke 04,2-0,Duisburger FV 08
+Sun Oct 23 1949,Hamborn 07,1-1,Preussen Munster
+Sun Oct 23 1949,Spvgg Erkenschwick,1-1,Rot Weiss Oberhausen
+Sun Oct 23 1949,Alemannia Aachen,1-1,SV Rhenania Wuerselen
+Sun Oct 23 1949,Duisburger SV,4-0,TSG Vohwinkel 80
+Sun Oct 30 1949,FSV Frankfurt,2-0,Spvgg Greuther Fuerth
+Sun Oct 30 1949,TSV Schwaben Augsburg,1-0,Vfb Stuttgart
+Sun Oct 30 1949,Kickers Offenbach,4-1,TSV 1860 Muenchen
+Sun Oct 30 1949,1 FC Nuernberg,0-1,1 FC Schweinfurt 05
+Sun Oct 30 1949,Stuttgarter Kickers,2-3,VFR Mannheim
+Sun Oct 30 1949,Bayern Muenchen,1-3,Eintracht Frankfurt
+Sun Oct 30 1949,Waldhof Mannheim,0-0,VFB Muehlburg
+Sun Oct 30 1949,Jahn Regensburg,5-1,FC Augsburg
+Sun Oct 30 1949,Spvgg Erkenschwick,2-1,Borussia Dortmund
+Sun Oct 30 1949,Alemannia Aachen,3-1,FC Schalke 04
+Sun Oct 30 1949,Hamborn 07,1-3,STV Horst Emscher
+Sun Oct 30 1949,Rot Weiss Oberhausen,1-0,SV Rhenania Wuerselen
+Sun Oct 30 1949,1 FC Koeln,2-3,Duisburger SV
+Sun Oct 30 1949,Preussen Munster,2-2,TSG Vohwinkel 80
+Sun Oct 30 1949,Duisburger FV 08,2-3,Preussen Dellbrueck
+Sun Nov 6 1949,Bayern Muenchen,1-0,TSV 1860 Muenchen
+Sun Nov 6 1949,Spvgg Greuther Fuerth,2-1,1 FC Nuernberg
+Sun Nov 6 1949,VFR Mannheim,2-3,Waldhof Mannheim
+Sun Nov 6 1949,FC Augsburg,3-0,TSV Schwaben Augsburg
+Sun Nov 6 1949,Vfb Stuttgart,1-1,Stuttgarter Kickers
+Sun Nov 6 1949,FSV Frankfurt,2-2,Eintracht Frankfurt
+Sun Nov 6 1949,VFB Muehlburg,3-1,Kickers Offenbach
+Sun Nov 6 1949,1 FC Schweinfurt 05,1-1,Jahn Regensburg
+Sun Nov 6 1949,SV Rhenania Wuerselen,1-3,Borussia Dortmund
+Sun Nov 6 1949,FC Schalke 04,4-0,Spvgg Erkenschwick
+Sun Nov 6 1949,Rot Weiss Essen,5-0,Alemannia Aachen
+Sun Nov 6 1949,STV Horst Emscher,3-0,Duisburger FV 08
+Sun Nov 6 1949,Hamborn 07,4-1,1 FC Koeln
+Sun Nov 6 1949,Rot Weiss Oberhausen,1-0,Preussen Munster
+Sun Nov 6 1949,Preussen Dellbrueck,3-0,TSG Vohwinkel 80
+Sun Nov 6 1949,Duisburger SV,2-0,Arminia Bielefeld
+Sun Nov 13 1949,TSV 1860 Muenchen,2-0,VFB Muehlburg
+Sun Nov 13 1949,Eintracht Frankfurt,1-2,VFR Mannheim
+Sun Nov 13 1949,Waldhof Mannheim,2-0,1 FC Schweinfurt 05
+Sun Nov 13 1949,Jahn Regensburg,1-0,FSV Frankfurt
+Sun Nov 13 1949,TSG Vohwinkel 80,2-1,Duisburger FV 08
+Sun Nov 13 1949,Alemannia Aachen,2-2,Arminia Bielefeld
+Sun Nov 13 1949,Rot Weiss Oberhausen,0-0,Preussen Dellbrueck
+Sun Nov 13 1949,Duisburger SV,2-2,Hamborn 07
+Sun Nov 13 1949,Spvgg Erkenschwick,1-1,Rot Weiss Essen
+Wed Nov 16 1949,1 FC Koeln,1-0,FC Schalke 04
+Sun Nov 20 1949,VFB Muehlburg,1-2,FC Augsburg
+Sun Nov 20 1949,VFR Mannheim,1-1,Kickers Offenbach
+Sun Nov 20 1949,Spvgg Greuther Fuerth,3-1,Eintracht Frankfurt
+Sun Nov 20 1949,Bayern Muenchen,4-1,Jahn Regensburg
+Sun Nov 20 1949,1 FC Schweinfurt 05,1-1,Stuttgarter Kickers
+Sun Nov 20 1949,TSV Schwaben Augsburg,3-1,1 FC Nuernberg
+Sun Nov 20 1949,FSV Frankfurt,1-1,Waldhof Mannheim
+Sun Nov 20 1949,Vfb Stuttgart,2-1,TSV 1860 Muenchen
+Sun Nov 20 1949,Preussen Dellbrueck,0-1,Borussia Dortmund
+Sun Nov 20 1949,FC Schalke 04,4-1,Duisburger SV
+Sun Nov 20 1949,Rot Weiss Essen,3-0,1 FC Koeln
+Sun Nov 20 1949,Preussen Munster,0-1,STV Horst Emscher
+Sun Nov 20 1949,Hamborn 07,0-0,Alemannia Aachen
+Sun Nov 20 1949,Duisburger FV 08,1-0,Rot Weiss Oberhausen
+Sun Nov 20 1949,Arminia Bielefeld,1-1,Spvgg Erkenschwick
+Sun Nov 20 1949,SV Rhenania Wuerselen,2-2,TSG Vohwinkel 80
+Sun Nov 27 1949,FC Augsburg,1-1,VFR Mannheim
+Sun Nov 27 1949,Kickers Offenbach,1-0,Spvgg Greuther Fuerth
+Sun Nov 27 1949,Eintracht Frankfurt,4-0,Vfb Stuttgart
+Sun Nov 27 1949,Jahn Regensburg,0-3,VFB Muehlburg
+Sun Nov 27 1949,Stuttgarter Kickers,1-1,Bayern Muenchen
+Sun Nov 27 1949,1 FC Nuernberg,1-1,FSV Frankfurt
+Sun Nov 27 1949,Waldhof Mannheim,1-1,TSV Schwaben Augsburg
+Sun Nov 27 1949,TSV 1860 Muenchen,3-1,1 FC Schweinfurt 05
+Sun Nov 27 1949,Borussia Dortmund,5-2,Duisburger FV 08
+Sun Nov 27 1949,Hamborn 07,3-2,FC Schalke 04
+Sun Nov 27 1949,STV Horst Emscher,1-1,Preussen Dellbrueck
+Sun Nov 27 1949,Duisburger SV,2-1,Rot Weiss Essen
+Sun Nov 27 1949,Alemannia Aachen,2-2,Spvgg Erkenschwick
+Sun Nov 27 1949,1 FC Koeln,4-2,Arminia Bielefeld
+Sun Nov 27 1949,Preussen Munster,2-0,SV Rhenania Wuerselen
+Sun Nov 27 1949,TSG Vohwinkel 80,5-0,Rot Weiss Oberhausen
+Sun Dec 4 1949,VFR Mannheim,1-3,Spvgg Greuther Fuerth
+Sun Dec 4 1949,Eintracht Frankfurt,1-2,TSV 1860 Muenchen
+Sun Dec 4 1949,Vfb Stuttgart,2-3,FC Augsburg
+Sun Dec 4 1949,Bayern Muenchen,4-2,Waldhof Mannheim
+Sun Dec 4 1949,TSV Schwaben Augsburg,2-1,Jahn Regensburg
+Sun Dec 4 1949,1 FC Schweinfurt 05,1-0,Kickers Offenbach
+Sun Dec 4 1949,1 FC Nuernberg,3-0,Stuttgarter Kickers
+Sun Dec 4 1949,Rot Weiss Essen,3-5,Hamborn 07
+Sun Dec 4 1949,Borussia Dortmund,3-2,TSG Vohwinkel 80
+Sun Dec 4 1949,Rot Weiss Oberhausen,0-0,STV Horst Emscher
+Sun Dec 4 1949,Arminia Bielefeld,4-2,FC Schalke 04
+Sun Dec 4 1949,Preussen Dellbrueck,2-0,Preussen Munster
+Sun Dec 4 1949,Spvgg Erkenschwick,1-0,1 FC Koeln
+Sun Dec 4 1949,Duisburger FV 08,0-2,SV Rhenania Wuerselen
+Sun Dec 11 1949,Spvgg Greuther Fuerth,1-1,Vfb Stuttgart
+Sun Dec 11 1949,TSV 1860 Muenchen,2-0,VFR Mannheim
+Sun Dec 11 1949,FC Augsburg,2-0,Kickers Offenbach
+Sun Dec 11 1949,Waldhof Mannheim,2-1,1 FC Nuernberg
+Sun Dec 11 1949,Stuttgarter Kickers,3-3,Jahn Regensburg
+Sun Dec 11 1949,VFB Muehlburg,1-1,Eintracht Frankfurt
+Sun Dec 11 1949,FSV Frankfurt,3-2,TSV Schwaben Augsburg
+Sun Dec 11 1949,1 FC Schweinfurt 05,1-2,Bayern Muenchen
+Sun Dec 11 1949,Borussia Dortmund,5-1,Rot Weiss Oberhausen
+Sun Dec 11 1949,FC Schalke 04,4-2,Rot Weiss Essen
+Sun Dec 11 1949,Duisburger SV,0-0,Spvgg Erkenschwick
+Sun Dec 11 1949,1 FC Koeln,3-0,Alemannia Aachen
+Sun Dec 11 1949,Preussen Munster,3-0,Duisburger FV 08
+Sun Dec 11 1949,SV Rhenania Wuerselen,3-3,Preussen Dellbrueck
+Sun Dec 11 1949,TSG Vohwinkel 80,1-1,STV Horst Emscher
+Sun Dec 11 1949,Arminia Bielefeld,0-0,Hamborn 07
+Sun Dec 18 1949,VFR Mannheim,4-1,Vfb Stuttgart
+Sun Dec 18 1949,Kickers Offenbach,6-2,Eintracht Frankfurt
+Sun Dec 18 1949,Jahn Regensburg,1-2,1 FC Nuernberg
+Sun Dec 18 1949,TSV Schwaben Augsburg,1-0,1 FC Schweinfurt 05
+Sun Dec 18 1949,Spvgg Greuther Fuerth,1-1,VFB Muehlburg
+Sun Dec 18 1949,TSV 1860 Muenchen,1-0,FC Augsburg
+Sun Dec 18 1949,Stuttgarter Kickers,4-0,Waldhof Mannheim
+Sun Dec 18 1949,STV Horst Emscher,2-1,FC Schalke 04
+Sun Dec 18 1949,Rot Weiss Essen,2-1,Borussia Dortmund
+Sun Dec 18 1949,Alemannia Aachen,3-3,Duisburger SV
+Mon Dec 26 1949,Spvgg Greuther Fuerth,3-1,TSV 1860 Muenchen
+Mon Dec 26 1949,Vfb Stuttgart,1-1,VFB Muehlburg
+Mon Dec 26 1949,Bayern Muenchen,4-1,TSV Schwaben Augsburg
+Mon Dec 26 1949,STV Horst Emscher,1-0,SV Rhenania Wuerselen
+Mon Dec 26 1949,Borussia Dortmund,3-1,Preussen Munster
+Sun Jan 8 1950,TSV Schwaben Augsburg,1-4,Spvgg Greuther Fuerth
+Sun Jan 8 1950,Bayern Muenchen,2-1,1 FC Schweinfurt 05
+Sun Jan 8 1950,Waldhof Mannheim,1-1,Vfb Stuttgart
+Sun Jan 8 1950,1 FC Nuernberg,3-0,Kickers Offenbach
+Sun Jan 8 1950,Stuttgarter Kickers,5-1,FSV Frankfurt
+Sun Jan 8 1950,VFB Muehlburg,1-2,VFR Mannheim
+Sun Jan 8 1950,SV Rhenania Wuerselen,2-0,FC Schalke 04
+Sun Jan 8 1950,Rot Weiss Oberhausen,2-2,Rot Weiss Essen
+Sun Jan 8 1950,STV Horst Emscher,8-2,Duisburger SV
+Sun Jan 8 1950,Borussia Dortmund,5-3,1 FC Koeln
+Sun Jan 15 1950,1 FC Schweinfurt 05,3-0,VFB Muehlburg
+Sun Jan 15 1950,Jahn Regensburg,2-1,VFR Mannheim
+Sun Jan 15 1950,TSV 1860 Muenchen,3-1,Waldhof Mannheim
+Sun Jan 15 1950,Kickers Offenbach,4-1,Vfb Stuttgart
+Sun Jan 15 1950,Stuttgarter Kickers,4-4,TSV Schwaben Augsburg
+Sun Jan 15 1950,FC Augsburg,2-4,Spvgg Greuther Fuerth
+Sun Jan 15 1950,1 FC Nuernberg,4-2,Bayern Muenchen
+Sun Jan 15 1950,Borussia Dortmund,2-0,STV Horst Emscher
+Sun Jan 15 1950,FC Schalke 04,5-2,Rot Weiss Oberhausen
+Sun Jan 15 1950,Rot Weiss Essen,5-3,SV Rhenania Wuerselen
+Sun Jan 15 1950,Spvgg Erkenschwick,5-1,Hamborn 07
+Sun Jan 15 1950,Preussen Dellbrueck,2-0,Duisburger SV
+Sun Jan 15 1950,Preussen Munster,1-1,1 FC Koeln
+Sun Jan 15 1950,TSG Vohwinkel 80,3-1,Alemannia Aachen
+Sun Jan 15 1950,Duisburger FV 08,0-2,Arminia Bielefeld
+Sun Jan 22 1950,1 FC Nuernberg,0-0,Eintracht Frankfurt
+Sun Jan 22 1950,FSV Frankfurt,3-0,Stuttgarter Kickers
+Sun Jan 22 1950,VFR Mannheim,0-0,VFB Muehlburg
+Sun Jan 22 1950,Vfb Stuttgart,2-0,Jahn Regensburg
+Sun Jan 22 1950,1 FC Koeln,3-1,Borussia Dortmund
+Sun Jan 22 1950,Duisburger SV,1-1,STV Horst Emscher
+Sun Jan 22 1950,Rot Weiss Essen,3-0,Rot Weiss Oberhausen
+Sun Jan 22 1950,FC Schalke 04,3-1,SV Rhenania Wuerselen
+Sun Jan 22 1950,Hamborn 07,1-0,Duisburger FV 08
+Sun Jan 22 1950,TSG Vohwinkel 80,3-2,Spvgg Erkenschwick
+Sun Jan 22 1950,Arminia Bielefeld,1-2,Preussen Dellbrueck
+Sun Jan 22 1950,Alemannia Aachen,2-1,Preussen Munster
+Sun Jan 29 1950,VFB Muehlburg,0-2,FSV Frankfurt
+Sun Jan 29 1950,Spvgg Greuther Fuerth,6-1,Bayern Muenchen
+Sun Jan 29 1950,Eintracht Frankfurt,1-1,Waldhof Mannheim
+Sun Jan 29 1950,FC Augsburg,1-1,1 FC Nuernberg
+Sun Jan 29 1950,TSV 1860 Muenchen,2-0,TSV Schwaben Augsburg
+Sun Jan 29 1950,VFR Mannheim,2-0,1 FC Schweinfurt 05
+Sun Jan 29 1950,Stuttgarter Kickers,1-1,Kickers Offenbach
+Sun Jan 29 1950,STV Horst Emscher,0-0,Rot Weiss Essen
+Sun Jan 29 1950,Preussen Dellbrueck,3-1,Spvgg Erkenschwick
+Sun Jan 29 1950,Borussia Dortmund,7-0,Duisburger SV
+Sun Jan 29 1950,Preussen Munster,8-1,FC Schalke 04
+Sun Jan 29 1950,Rot Weiss Oberhausen,0-3,1 FC Koeln
+Sun Jan 29 1950,SV Rhenania Wuerselen,2-3,Hamborn 07
+Sun Jan 29 1950,Duisburger FV 08,3-1,Alemannia Aachen
+Sun Jan 29 1950,Arminia Bielefeld,1-2,TSG Vohwinkel 80
+Sun Feb 5 1950,TSV Schwaben Augsburg,4-3,VFR Mannheim
+Sun Feb 5 1950,Waldhof Mannheim,3-3,Kickers Offenbach
+Sun Feb 5 1950,1 FC Schweinfurt 05,2-5,Eintracht Frankfurt
+Sun Feb 5 1950,Stuttgarter Kickers,1-2,FC Augsburg
+Sun Feb 5 1950,1 FC Nuernberg,1-1,Vfb Stuttgart
+Sun Feb 5 1950,FSV Frankfurt,1-0,TSV 1860 Muenchen
+Sun Feb 5 1950,Bayern Muenchen,2-0,VFB Muehlburg
+Sun Feb 5 1950,Jahn Regensburg,4-3,Spvgg Greuther Fuerth
+Sun Feb 5 1950,Borussia Dortmund,4-1,Rot Weiss Essen
+Sun Feb 5 1950,FC Schalke 04,2-1,STV Horst Emscher
+Sun Feb 5 1950,Alemannia Aachen,2-0,Preussen Dellbrueck
+Sun Feb 5 1950,Spvgg Erkenschwick,1-1,Duisburger FV 08
+Sun Feb 5 1950,Hamborn 07,2-2,TSG Vohwinkel 80
+Sun Feb 5 1950,Duisburger SV,3-2,Rot Weiss Oberhausen
+Sun Feb 5 1950,1 FC Koeln,2-0,SV Rhenania Wuerselen
+Sun Feb 12 1950,Spvgg Greuther Fuerth,1-0,Stuttgarter Kickers
+Sun Feb 12 1950,Vfb Stuttgart,3-1,FSV Frankfurt
+Sun Feb 12 1950,FC Augsburg,2-1,1 FC Schweinfurt 05
+Sun Feb 12 1950,Eintracht Frankfurt,2-0,TSV Schwaben Augsburg
+Sun Feb 12 1950,VFR Mannheim,3-0,Bayern Muenchen
+Sun Feb 12 1950,Kickers Offenbach,4-0,Jahn Regensburg
+Sun Feb 12 1950,Hamborn 07,1-1,Borussia Dortmund
+Sun Feb 12 1950,Alemannia Aachen,0-1,STV Horst Emscher
+Sun Feb 12 1950,FC Schalke 04,1-0,TSG Vohwinkel 80
+Sun Feb 12 1950,1 FC Koeln,2-0,Preussen Dellbrueck
+Sun Feb 12 1950,Spvgg Erkenschwick,3-2,Preussen Munster
+Sun Feb 12 1950,Rot Weiss Essen,5-0,Duisburger FV 08
+Sun Feb 12 1950,Duisburger SV,0-1,SV Rhenania Wuerselen
+Sun Feb 12 1950,Rot Weiss Oberhausen,6-0,Arminia Bielefeld
+Sat Feb 18 1950,TSV 1860 Muenchen,6-4,Jahn Regensburg
+Sun Feb 19 1950,Kickers Offenbach,2-1,FSV Frankfurt
+Sun Feb 19 1950,Eintracht Frankfurt,4-0,Stuttgarter Kickers
+Sun Feb 19 1950,VFB Muehlburg,3-1,TSV Schwaben Augsburg
+Sun Feb 19 1950,Vfb Stuttgart,5-3,Bayern Muenchen
+Sun Feb 19 1950,VFR Mannheim,2-0,1 FC Nuernberg
+Sun Feb 19 1950,Spvgg Greuther Fuerth,1-3,1 FC Schweinfurt 05
+Sun Feb 19 1950,FC Augsburg,2-3,Waldhof Mannheim
+Sun Feb 19 1950,Borussia Dortmund,2-0,Spvgg Erkenschwick
+Sat Feb 25 1950,Stuttgarter Kickers,2-1,VFB Muehlburg
+Sun Feb 26 1950,Bayern Muenchen,3-4,FC Augsburg
+Sun Feb 26 1950,Jahn Regensburg,1-1,Eintracht Frankfurt
+Sun Feb 26 1950,TSV Schwaben Augsburg,2-3,Kickers Offenbach
+Sun Feb 26 1950,1 FC Nuernberg,0-1,TSV 1860 Muenchen
+Sun Feb 26 1950,Borussia Dortmund,1-0,Alemannia Aachen
+Sun Feb 26 1950,STV Horst Emscher,0-1,Spvgg Erkenschwick
+Sun Feb 26 1950,Preussen Dellbrueck,2-2,FC Schalke 04
+Sun Feb 26 1950,TSG Vohwinkel 80,2-2,Rot Weiss Essen
+Sun Feb 26 1950,Hamborn 07,1-1,Rot Weiss Oberhausen
+Sun Feb 26 1950,SV Rhenania Wuerselen,0-0,Arminia Bielefeld
+Sun Feb 26 1950,Preussen Munster,1-0,Duisburger SV
+Sun Feb 26 1950,Duisburger FV 08,0-2,1 FC Koeln
+Sun Mar 5 1950,Spvgg Greuther Fuerth,1-0,FSV Frankfurt
+Sun Mar 5 1950,Vfb Stuttgart,1-0,TSV Schwaben Augsburg
+Sun Mar 5 1950,TSV 1860 Muenchen,1-0,Kickers Offenbach
+Sun Mar 5 1950,1 FC Schweinfurt 05,1-2,1 FC Nuernberg
+Sun Mar 5 1950,VFR Mannheim,5-2,Stuttgarter Kickers
+Sun Mar 5 1950,Eintracht Frankfurt,1-1,Bayern Muenchen
+Sun Mar 5 1950,VFB Muehlburg,1-1,Waldhof Mannheim
+Sun Mar 5 1950,FC Augsburg,6-2,Jahn Regensburg
+Sun Mar 5 1950,Borussia Dortmund,1-0,Arminia Bielefeld
+Sun Mar 5 1950,STV Horst Emscher,2-2,1 FC Koeln
+Sun Mar 5 1950,Duisburger FV 08,0-2,FC Schalke 04
+Sun Mar 5 1950,Preussen Dellbrueck,2-0,Rot Weiss Essen
+Sun Mar 5 1950,Rot Weiss Oberhausen,3-1,Spvgg Erkenschwick
+Sun Mar 5 1950,Preussen Munster,3-2,Hamborn 07
+Sun Mar 5 1950,SV Rhenania Wuerselen,2-0,Alemannia Aachen
+Sun Mar 5 1950,TSG Vohwinkel 80,0-2,Duisburger SV
+Sun Mar 12 1950,Eintracht Frankfurt,1-3,FSV Frankfurt
+Sun Mar 12 1950,TSV 1860 Muenchen,3-2,Bayern Muenchen
+Sun Mar 12 1950,1 FC Nuernberg,1-2,Spvgg Greuther Fuerth
+Sun Mar 12 1950,Waldhof Mannheim,1-1,VFR Mannheim
+Sun Mar 12 1950,TSV Schwaben Augsburg,1-1,FC Augsburg
+Sun Mar 12 1950,Stuttgarter Kickers,0-3,Vfb Stuttgart
+Sun Mar 12 1950,Kickers Offenbach,5-1,VFB Muehlburg
+Sun Mar 12 1950,Jahn Regensburg,0-0,1 FC Schweinfurt 05
+Sun Mar 12 1950,FC Schalke 04,2-1,Borussia Dortmund
+Sun Mar 12 1950,Rot Weiss Essen,2-1,Preussen Munster
+Sun Mar 12 1950,Hamborn 07,4-1,Preussen Dellbrueck
+Sun Mar 12 1950,Arminia Bielefeld,1-1,STV Horst Emscher
+Sun Mar 12 1950,1 FC Koeln,2-0,TSG Vohwinkel 80
+Sun Mar 12 1950,Alemannia Aachen,0-3,Rot Weiss Oberhausen
+Sun Mar 12 1950,Spvgg Erkenschwick,3-0,SV Rhenania Wuerselen
+Sun Mar 12 1950,Duisburger SV,2-1,Duisburger FV 08
+Sat Mar 18 1950,FSV Frankfurt,2-1,VFR Mannheim
+Sun Mar 19 1950,Waldhof Mannheim,3-2,Jahn Regensburg
+Sun Mar 19 1950,FC Schalke 04,1-0,Alemannia Aachen
+Sun Mar 19 1950,Rot Weiss Essen,4-2,Arminia Bielefeld
+Sun Mar 19 1950,Duisburger SV,1-1,1 FC Koeln
+Sun Mar 19 1950,Preussen Dellbrueck,3-0,Duisburger FV 08
+Sun Mar 19 1950,TSG Vohwinkel 80,0-4,Preussen Munster
+Sun Mar 19 1950,SV Rhenania Wuerselen,4-1,Rot Weiss Oberhausen
+Sun Mar 19 1950,STV Horst Emscher,1-1,Hamborn 07
+Sun Mar 26 1950,FC Augsburg,1-1,VFB Muehlburg
+Sun Mar 26 1950,Kickers Offenbach,2-2,VFR Mannheim
+Sun Mar 26 1950,Eintracht Frankfurt,0-4,Spvgg Greuther Fuerth
+Sun Mar 26 1950,Jahn Regensburg,4-1,Bayern Muenchen
+Sun Mar 26 1950,Stuttgarter Kickers,1-1,1 FC Schweinfurt 05
+Sun Mar 26 1950,1 FC Nuernberg,5-0,TSV Schwaben Augsburg
+Sun Mar 26 1950,Waldhof Mannheim,1-1,FSV Frankfurt
+Sun Mar 26 1950,TSV 1860 Muenchen,1-2,Vfb Stuttgart
+Sun Mar 26 1950,Borussia Dortmund,2-0,SV Rhenania Wuerselen
+Sun Mar 26 1950,Duisburger FV 08,4-3,STV Horst Emscher
+Sun Mar 26 1950,Spvgg Erkenschwick,3-3,FC Schalke 04
+Sun Mar 26 1950,1 FC Koeln,4-0,Hamborn 07
+Sun Mar 26 1950,Alemannia Aachen,3-1,Rot Weiss Essen
+Sun Mar 26 1950,TSG Vohwinkel 80,1-2,Preussen Dellbrueck
+Sun Mar 26 1950,Preussen Munster,4-0,Rot Weiss Oberhausen
+Sun Mar 26 1950,Arminia Bielefeld,1-3,Duisburger SV
+Sun Apr 2 1950,VFR Mannheim,6-0,FC Augsburg
+Sun Apr 2 1950,Spvgg Greuther Fuerth,2-2,Kickers Offenbach
+Sun Apr 2 1950,Vfb Stuttgart,1-0,Eintracht Frankfurt
+Sun Apr 2 1950,VFB Muehlburg,5-2,Jahn Regensburg
+Sun Apr 2 1950,Bayern Muenchen,2-1,Stuttgarter Kickers
+Sun Apr 2 1950,FSV Frankfurt,0-0,1 FC Nuernberg
+Sun Apr 2 1950,TSV Schwaben Augsburg,2-0,Waldhof Mannheim
+Sun Apr 2 1950,1 FC Schweinfurt 05,1-1,TSV 1860 Muenchen
+Sun Apr 2 1950,Borussia Dortmund,0-1,Preussen Dellbrueck
+Sun Apr 2 1950,STV Horst Emscher,4-0,Preussen Munster
+Sun Apr 2 1950,Duisburger SV,1-4,FC Schalke 04
+Sun Apr 2 1950,1 FC Koeln,2-1,Rot Weiss Essen
+Sun Apr 2 1950,Spvgg Erkenschwick,3-0,Arminia Bielefeld
+Sun Apr 2 1950,Alemannia Aachen,2-0,Hamborn 07
+Sun Apr 2 1950,TSG Vohwinkel 80,3-1,SV Rhenania Wuerselen
+Sun Apr 2 1950,Rot Weiss Oberhausen,1-0,Duisburger FV 08
+Fri Apr 7 1950,FSV Frankfurt,3-1,FC Augsburg
+Fri Apr 7 1950,Preussen Munster,0-2,Borussia Dortmund
+Fri Apr 7 1950,FC Schalke 04,1-2,1 FC Koeln
+Fri Apr 7 1950,SV Rhenania Wuerselen,1-1,STV Horst Emscher
+Fri Apr 7 1950,Rot Weiss Essen,3-0,Spvgg Erkenschwick
+Fri Apr 7 1950,Arminia Bielefeld,0-1,Alemannia Aachen
+Fri Apr 7 1950,Preussen Dellbrueck,2-1,Rot Weiss Oberhausen
+Fri Apr 7 1950,Hamborn 07,3-1,Duisburger SV
+Fri Apr 7 1950,Duisburger FV 08,1-0,TSG Vohwinkel 80
+Sat Apr 8 1950,1 FC Nuernberg,2-4,VFB Muehlburg
+Sat Apr 8 1950,TSV Schwaben Augsburg,1-0,Stuttgarter Kickers
+Sun Apr 9 1950,Waldhof Mannheim,2-2,Spvgg Greuther Fuerth
+Sun Apr 9 1950,1 FC Schweinfurt 05,0-0,Vfb Stuttgart
+Sun Apr 9 1950,Bayern Muenchen,3-2,Kickers Offenbach
+Mon Apr 10 1950,TSV 1860 Muenchen,3-0,Eintracht Frankfurt
+Mon Apr 10 1950,Arminia Bielefeld,2-0,Preussen Munster
+Sat Apr 15 1950,1 FC Nuernberg,2-0,Waldhof Mannheim
+Sat Apr 15 1950,Kickers Offenbach,2-1,1 FC Schweinfurt 05
+Sun Apr 16 1950,Spvgg Greuther Fuerth,2-1,VFR Mannheim
+Sun Apr 16 1950,FC Augsburg,1-3,Vfb Stuttgart
+Sun Apr 16 1950,FSV Frankfurt,4-1,Bayern Muenchen
+Sun Apr 16 1950,Jahn Regensburg,0-0,TSV Schwaben Augsburg
+Sun Apr 16 1950,VFB Muehlburg,1-1,TSV 1860 Muenchen
+Sun Apr 16 1950,Duisburger FV 08,1-2,Borussia Dortmund
+Sun Apr 16 1950,FC Schalke 04,1-0,Hamborn 07
+Sun Apr 16 1950,Rot Weiss Essen,4-1,Duisburger SV
+Sun Apr 16 1950,Rot Weiss Oberhausen,4-0,TSG Vohwinkel 80
+Sun Apr 16 1950,Arminia Bielefeld,2-1,1 FC Koeln
+Sun Apr 16 1950,SV Rhenania Wuerselen,1-0,Preussen Munster
+Sun Apr 16 1950,Spvgg Erkenschwick,0-1,Alemannia Aachen
+Sun Apr 16 1950,Preussen Dellbrueck,3-1,STV Horst Emscher
+Sat Apr 22 1950,Vfb Stuttgart,2-1,Spvgg Greuther Fuerth
+Sat Apr 22 1950,Waldhof Mannheim,1-0,Bayern Muenchen
+Sat Apr 22 1950,Kickers Offenbach,3-0,FC Augsburg
+Sun Apr 23 1950,VFR Mannheim,3-1,TSV 1860 Muenchen
+Sun Apr 23 1950,Eintracht Frankfurt,0-1,VFB Muehlburg
+Sun Apr 23 1950,TSV Schwaben Augsburg,4-2,FSV Frankfurt
+Sun Apr 23 1950,Stuttgarter Kickers,0-1,1 FC Nuernberg
+Sun Apr 23 1950,TSG Vohwinkel 80,1-3,Borussia Dortmund
+Sun Apr 23 1950,Hamborn 07,1-2,Rot Weiss Essen
+Sun Apr 23 1950,FC Schalke 04,3-0,Arminia Bielefeld
+Sun Apr 23 1950,STV Horst Emscher,6-1,Rot Weiss Oberhausen
+Sun Apr 23 1950,SV Rhenania Wuerselen,5-1,Duisburger FV 08
+Sun Apr 23 1950,Preussen Munster,6-0,Preussen Dellbrueck
+Sun Apr 23 1950,1 FC Koeln,2-1,Spvgg Erkenschwick
+Sun Apr 23 1950,Duisburger SV,4-0,Alemannia Aachen
+Sat Apr 29 1950,Eintracht Frankfurt,1-2,Kickers Offenbach
+Sat Apr 29 1950,1 FC Nuernberg,5-0,Jahn Regensburg
+Sun Apr 30 1950,Vfb Stuttgart,1-0,VFR Mannheim
+Sun Apr 30 1950,1 FC Schweinfurt 05,1-1,TSV Schwaben Augsburg
+Sun Apr 30 1950,Bayern Muenchen,3-1,FSV Frankfurt
+Sun Apr 30 1950,VFB Muehlburg,1-1,Spvgg Greuther Fuerth
+Sun Apr 30 1950,FC Augsburg,1-2,TSV 1860 Muenchen
+Sun Apr 30 1950,Waldhof Mannheim,2-1,Stuttgarter Kickers
+Sun Apr 30 1950,Arminia Bielefeld,1-6,Rot Weiss Essen
+Sat May 6 1950,TSV Schwaben Augsburg,2-1,Bayern Muenchen
+Sat May 6 1950,FSV Frankfurt,1-0,1 FC Schweinfurt 05
+Sat May 6 1950,VFB Muehlburg,3-1,Vfb Stuttgart
+Sun May 7 1950,TSV 1860 Muenchen,1-3,Spvgg Greuther Fuerth
+Sun May 7 1950,FC Augsburg,2-1,Eintracht Frankfurt
+Sun May 7 1950,Kickers Offenbach,2-0,1 FC Nuernberg
+Sun May 7 1950,Jahn Regensburg,4-1,Stuttgarter Kickers
+Sun May 7 1950,Rot Weiss Oberhausen,5-3,Borussia Dortmund
+Sun May 7 1950,Rot Weiss Essen,5-1,FC Schalke 04
+Sun May 7 1950,STV Horst Emscher,5-1,TSG Vohwinkel 80
+Sun May 7 1950,Alemannia Aachen,3-2,1 FC Koeln
+Sun May 7 1950,Preussen Dellbrueck,4-1,SV Rhenania Wuerselen
+Sun May 7 1950,Spvgg Erkenschwick,4-1,Duisburger SV
+Sun May 7 1950,Hamborn 07,7-3,Arminia Bielefeld
+Sun May 7 1950,Duisburger FV 08,0-1,Preussen Munster
+Sun May 14 1950,VFR Mannheim,1-0,Eintracht Frankfurt
+Sun May 14 1950,Spvgg Greuther Fuerth,6-1,FC Augsburg
+Sun May 14 1950,1 FC Schweinfurt 05,4-0,Waldhof Mannheim
+Sun May 14 1950,FSV Frankfurt,3-1,Jahn Regensburg
+Sun May 14 1950,Vfb Stuttgart,1-2,Kickers Offenbach
+Sun May 14 1950,Stuttgarter Kickers,1-0,TSV 1860 Muenchen
+Thu May 18 1950,Bayern Muenchen,2-4,1 FC Nuernberg
+Sun May 21 1950,1 FC Kaiserslautern,2-2,Rot Weiss Essen
+Sun May 21 1950,Spvgg Greuther Fuerth,3-2,STV Horst Emscher
+Sun May 21 1950,Preussen Dellbrueck,1-0,SSV Reutlingen
+Sun May 21 1950,Borussia Dortmund,1-3,VFR Mannheim
+Sun May 21 1950,Vfb Stuttgart,2-1,VFL Osnabrueck
+Sun May 21 1950,Kickers Offenbach,3-1,Tebe Berlin
+Sun May 21 1950,FC St Pauli,4-0,Tus Koblenz
+Sun May 21 1950,Hamburger SV,7-0,SC Union 06 Berlin
+Fri May 26 1950,1 FC Schweinfurt 05,2-0,TSV 1860 Muenchen
+Sat May 27 1950,VFR Mannheim,5-2,VFB Muehlburg
+Sat May 27 1950,FSV Frankfurt,2-1,Spvgg Greuther Fuerth
+Sat May 27 1950,TSV Schwaben Augsburg,1-1,FC Augsburg
+Sat May 27 1950,Bayern Muenchen,5-1,FC Singen 04
+Sat May 27 1950,Kickers Offenbach,4-0,VFL Neckarau
+Sat May 27 1950,1 FC Nuernberg,3-0,Waldhof Mannheim
+Sat May 27 1950,Vfb Stuttgart,4-1,Eintracht Frankfurt
+Sat May 27 1950,SSV Reutlingen,1-4,SV Darmstadt 98
+Mon May 29 1950,1 FC Kaiserslautern,3-2,Rot Weiss Essen
+Sun Jun 4 1950,Vfb Stuttgart,5-2,1 FC Kaiserslautern
+Sun Jun 4 1950,Spvgg Greuther Fuerth,2-1,FC St Pauli
+Sun Jun 4 1950,Kickers Offenbach,3-2,Hamburger SV
+Sun Jun 4 1950,Preussen Dellbrueck,2-1,VFR Mannheim
+Sun Jun 11 1950,Vfb Stuttgart,4-1,Spvgg Greuther Fuerth
+Sun Jun 11 1950,Preussen Dellbrueck,0-0,Kickers Offenbach
+Sun Jun 18 1950,Preussen Dellbrueck,0-3,Kickers Offenbach
+Sun Jun 25 1950,Vfb Stuttgart,2-1,Kickers Offenbach

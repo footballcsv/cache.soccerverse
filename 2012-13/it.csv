@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 25 2012,Acf Fiorentina,2-1,Udinese Calcio
+Sat Aug 25 2012,Juventus,2-0,Parma FC
+Sun Aug 26 2012,AC Milan,0-1,Sampdoria
+Sun Aug 26 2012,Atalanta,0-1,Lazio Roma
+Sun Aug 26 2012,Chievo Verona,2-0,Bologna FC
+Sun Aug 26 2012,Genoa CFc,2-0,Cagliari Calcio
+Sun Aug 26 2012,US Palermo,0-3,Ssc Napoli
+Sun Aug 26 2012,Pescara Calcio,0-3,Inter
+Sun Aug 26 2012,As Roma,2-2,Calcio Catania
+Sun Aug 26 2012,AC Siena,0-0,Torino FC
+Sat Sep 1 2012,Torino FC,3-0,Pescara Calcio
+Sat Sep 1 2012,Bologna FC,1-3,AC Milan
+Sun Sep 2 2012,Udinese Calcio,1-4,Juventus
+Sun Sep 2 2012,Cagliari Calcio,1-1,Atalanta
+Sun Sep 2 2012,Calcio Catania,3-2,Genoa CFc
+Sun Sep 2 2012,Inter,1-3,As Roma
+Sun Sep 2 2012,Lazio Roma,3-0,US Palermo
+Sun Sep 2 2012,Ssc Napoli,2-1,Acf Fiorentina
+Sun Sep 2 2012,Parma FC,2-0,Chievo Verona
+Sun Sep 2 2012,Sampdoria,2-1,AC Siena
+Sat Sep 15 2012,US Palermo,1-1,Cagliari Calcio
+Sat Sep 15 2012,AC Milan,0-1,Atalanta
+Sun Sep 16 2012,Chievo Verona,1-3,Lazio Roma
+Sun Sep 16 2012,Acf Fiorentina,2-0,Calcio Catania
+Sun Sep 16 2012,Genoa CFc,1-3,Juventus
+Sun Sep 16 2012,Ssc Napoli,3-1,Parma FC
+Sun Sep 16 2012,Pescara Calcio,2-3,Sampdoria
+Sun Sep 16 2012,As Roma,2-3,Bologna FC
+Sun Sep 16 2012,AC Siena,2-2,Udinese Calcio
+Sun Sep 16 2012,Torino FC,0-2,Inter
+Sat Sep 22 2012,Parma FC,1-1,Acf Fiorentina
+Sat Sep 22 2012,Juventus,2-0,Chievo Verona
+Sun Sep 23 2012,Sampdoria,1-1,Torino FC
+Sun Sep 23 2012,Atalanta,1-0,US Palermo
+Sun Sep 23 2012,Bologna FC,1-1,Pescara Calcio
+Sun Sep 23 2012,Cagliari Calcio,0-3,As Roma
+Sun Sep 23 2012,Calcio Catania,0-0,Ssc Napoli
+Sun Sep 23 2012,Inter,0-2,AC Siena
+Sun Sep 23 2012,Udinese Calcio,2-1,AC Milan
+Sun Sep 23 2012,Lazio Roma,0-1,Genoa CFc
+Tue Sep 25 2012,Acf Fiorentina,0-0,Juventus
+Wed Sep 26 2012,Pescara Calcio,1-0,US Palermo
+Wed Sep 26 2012,Calcio Catania,2-1,Atalanta
+Wed Sep 26 2012,Chievo Verona,0-2,Inter
+Wed Sep 26 2012,Genoa CFc,1-1,Parma FC
+Wed Sep 26 2012,AC Milan,2-0,Cagliari Calcio
+Wed Sep 26 2012,Ssc Napoli,3-0,Lazio Roma
+Wed Sep 26 2012,As Roma,1-1,Sampdoria
+Wed Sep 26 2012,Torino FC,0-0,Udinese Calcio
+Thu Sep 27 2012,AC Siena,1-0,Bologna FC
+Sat Sep 29 2012,Parma FC,1-1,AC Milan
+Sat Sep 29 2012,Juventus,4-1,As Roma
+Sun Sep 30 2012,Udinese Calcio,0-0,Genoa CFc
+Sun Sep 30 2012,Atalanta,1-5,Torino FC
+Sun Sep 30 2012,Bologna FC,4-0,Calcio Catania
+Sun Sep 30 2012,Cagliari Calcio,1-2,Pescara Calcio
+Sun Sep 30 2012,Lazio Roma,2-1,AC Siena
+Sun Sep 30 2012,US Palermo,4-1,Chievo Verona
+Sun Sep 30 2012,Sampdoria,0-1,Ssc Napoli
+Sun Sep 30 2012,Inter,2-1,Acf Fiorentina
+Sat Oct 6 2012,Chievo Verona,2-1,Sampdoria
+Sat Oct 6 2012,Genoa CFc,1-1,US Palermo
+Sun Oct 7 2012,As Roma,2-0,Atalanta
+Sun Oct 7 2012,Calcio Catania,2-0,Parma FC
+Sun Oct 7 2012,Acf Fiorentina,1-0,Bologna FC
+Sun Oct 7 2012,Pescara Calcio,0-3,Lazio Roma
+Sun Oct 7 2012,AC Siena,1-2,Juventus
+Sun Oct 7 2012,Torino FC,0-1,Cagliari Calcio
+Sun Oct 7 2012,AC Milan,0-1,Inter
+Sun Oct 7 2012,Ssc Napoli,2-1,Udinese Calcio
+Sat Oct 20 2012,Juventus,2-0,Ssc Napoli
+Sat Oct 20 2012,Lazio Roma,3-2,AC Milan
+Sun Oct 21 2012,Cagliari Calcio,1-0,Bologna FC
+Sun Oct 21 2012,Atalanta,2-1,AC Siena
+Sun Oct 21 2012,Chievo Verona,1-1,Acf Fiorentina
+Sun Oct 21 2012,Inter,2-0,Calcio Catania
+Sun Oct 21 2012,US Palermo,0-0,Torino FC
+Sun Oct 21 2012,Parma FC,2-1,Sampdoria
+Sun Oct 21 2012,Udinese Calcio,1-0,Pescara Calcio
+Sun Oct 21 2012,Genoa CFc,2-4,As Roma
+Sat Oct 27 2012,AC Siena,0-0,US Palermo
+Sat Oct 27 2012,AC Milan,1-0,Genoa CFc
+Sun Oct 28 2012,Calcio Catania,0-1,Juventus
+Sun Oct 28 2012,Bologna FC,1-3,Inter
+Sun Oct 28 2012,Acf Fiorentina,2-0,Lazio Roma
+Sun Oct 28 2012,Pescara Calcio,0-0,Atalanta
+Sun Oct 28 2012,Sampdoria,0-1,Cagliari Calcio
+Sun Oct 28 2012,Torino FC,1-3,Parma FC
+Sun Oct 28 2012,Ssc Napoli,1-0,Chievo Verona
+Sun Oct 28 2012,As Roma,2-3,Udinese Calcio
+Tue Oct 30 2012,US Palermo,2-2,AC Milan
+Wed Oct 31 2012,Atalanta,1-0,Ssc Napoli
+Wed Oct 31 2012,Cagliari Calcio,4-2,AC Siena
+Wed Oct 31 2012,Chievo Verona,2-0,Pescara Calcio
+Wed Oct 31 2012,Inter,3-2,Sampdoria
+Wed Oct 31 2012,Juventus,2-1,Bologna FC
+Wed Oct 31 2012,Lazio Roma,1-1,Torino FC
+Wed Oct 31 2012,Parma FC,3-2,As Roma
+Wed Oct 31 2012,Udinese Calcio,2-2,Calcio Catania
+Thu Nov 1 2012,Genoa CFc,0-1,Acf Fiorentina
+Sat Nov 3 2012,AC Milan,5-1,Chievo Verona
+Sat Nov 3 2012,Juventus,1-3,Inter
+Sun Nov 4 2012,Pescara Calcio,2-0,Parma FC
+Sun Nov 4 2012,Bologna FC,1-1,Udinese Calcio
+Sun Nov 4 2012,Calcio Catania,4-0,Lazio Roma
+Sun Nov 4 2012,Acf Fiorentina,4-1,Cagliari Calcio
+Sun Nov 4 2012,Ssc Napoli,1-1,Torino FC
+Sun Nov 4 2012,Sampdoria,1-2,Atalanta
+Sun Nov 4 2012,AC Siena,1-0,Genoa CFc
+Sun Nov 4 2012,As Roma,4-1,US Palermo
+Sat Nov 10 2012,Cagliari Calcio,0-0,Calcio Catania
+Sat Nov 10 2012,Pescara Calcio,1-6,Juventus
+Sun Nov 11 2012,US Palermo,2-0,Sampdoria
+Sun Nov 11 2012,Chievo Verona,2-2,Udinese Calcio
+Sun Nov 11 2012,Genoa CFc,2-4,Ssc Napoli
+Sun Nov 11 2012,Lazio Roma,3-2,As Roma
+Sun Nov 11 2012,AC Milan,1-3,Acf Fiorentina
+Sun Nov 11 2012,Parma FC,0-0,AC Siena
+Sun Nov 11 2012,Torino FC,1-0,Bologna FC
+Sun Nov 11 2012,Atalanta,3-2,Inter
+Sat Nov 17 2012,Juventus,0-0,Lazio Roma
+Sat Nov 17 2012,Ssc Napoli,2-2,AC Milan
+Sun Nov 18 2012,Bologna FC,3-0,US Palermo
+Sun Nov 18 2012,Calcio Catania,2-1,Chievo Verona
+Sun Nov 18 2012,Acf Fiorentina,4-1,Atalanta
+Sun Nov 18 2012,Inter,2-2,Cagliari Calcio
+Sun Nov 18 2012,AC Siena,1-0,Pescara Calcio
+Sun Nov 18 2012,Udinese Calcio,2-2,Parma FC
+Sun Nov 18 2012,Sampdoria,3-1,Genoa CFc
+Mon Nov 19 2012,As Roma,2-0,Torino FC
+Sat Nov 24 2012,US Palermo,3-1,Calcio Catania
+Sun Nov 25 2012,Atalanta,0-1,Genoa CFc
+Sun Nov 25 2012,Chievo Verona,0-0,AC Siena
+Sun Nov 25 2012,Pescara Calcio,0-1,As Roma
+Sun Nov 25 2012,Sampdoria,1-0,Bologna FC
+Sun Nov 25 2012,Torino FC,2-2,Acf Fiorentina
+Sun Nov 25 2012,AC Milan,1-0,Juventus
+Mon Nov 26 2012,Cagliari Calcio,0-1,Ssc Napoli
+Mon Nov 26 2012,Parma FC,1-0,Inter
+Tue Nov 27 2012,Lazio Roma,3-0,Udinese Calcio
+Fri Nov 30 2012,Calcio Catania,1-3,AC Milan
+Sat Dec 1 2012,Juventus,3-0,Torino FC
+Sun Dec 2 2012,Ssc Napoli,5-1,Pescara Calcio
+Sun Dec 2 2012,Bologna FC,2-1,Atalanta
+Sun Dec 2 2012,Genoa CFc,2-4,Chievo Verona
+Sun Dec 2 2012,Inter,1-0,US Palermo
+Sun Dec 2 2012,Lazio Roma,2-1,Parma FC
+Sun Dec 2 2012,AC Siena,1-3,As Roma
+Sun Dec 2 2012,Udinese Calcio,4-1,Cagliari Calcio
+Sun Dec 2 2012,Acf Fiorentina,2-2,Sampdoria
+Sat Dec 8 2012,Atalanta,2-1,Parma FC
+Sat Dec 8 2012,As Roma,4-2,Acf Fiorentina
+Sun Dec 9 2012,Cagliari Calcio,0-2,Chievo Verona
+Sun Dec 9 2012,US Palermo,0-1,Juventus
+Sun Dec 9 2012,Pescara Calcio,2-0,Genoa CFc
+Sun Dec 9 2012,AC Siena,1-3,Calcio Catania
+Sun Dec 9 2012,Torino FC,2-4,AC Milan
+Sun Dec 9 2012,Inter,2-1,Ssc Napoli
+Mon Dec 10 2012,Sampdoria,0-2,Udinese Calcio
+Mon Dec 10 2012,Bologna FC,0-0,Lazio Roma
+Sat Dec 15 2012,Udinese Calcio,1-1,US Palermo
+Sat Dec 15 2012,Lazio Roma,1-0,Inter
+Sun Dec 16 2012,Acf Fiorentina,4-1,AC Siena
+Sun Dec 16 2012,Calcio Catania,3-1,Sampdoria
+Sun Dec 16 2012,Chievo Verona,1-0,As Roma
+Sun Dec 16 2012,Genoa CFc,1-1,Torino FC
+Sun Dec 16 2012,Juventus,3-0,Atalanta
+Sun Dec 16 2012,AC Milan,4-1,Pescara Calcio
+Sun Dec 16 2012,Parma FC,4-1,Cagliari Calcio
+Sun Dec 16 2012,Ssc Napoli,2-3,Bologna FC
+Fri Dec 21 2012,Pescara Calcio,2-1,Calcio Catania
+Fri Dec 21 2012,Cagliari Calcio,1-3,Juventus
+Sat Dec 22 2012,Inter,1-1,Genoa CFc
+Sat Dec 22 2012,Atalanta,1-1,Udinese Calcio
+Sat Dec 22 2012,Bologna FC,1-2,Parma FC
+Sat Dec 22 2012,US Palermo,0-3,Acf Fiorentina
+Sat Dec 22 2012,Sampdoria,0-1,Lazio Roma
+Sat Dec 22 2012,AC Siena,0-2,Ssc Napoli
+Sat Dec 22 2012,Torino FC,2-0,Chievo Verona
+Sat Dec 22 2012,As Roma,4-2,AC Milan
+Sat Jan 5 2013,Calcio Catania,0-0,Torino FC
+Sat Jan 5 2013,Lazio Roma,2-1,Cagliari Calcio
+Sun Jan 6 2013,Udinese Calcio,3-0,Inter
+Sun Jan 6 2013,Chievo Verona,1-0,Atalanta
+Sun Jan 6 2013,Acf Fiorentina,0-2,Pescara Calcio
+Sun Jan 6 2013,Genoa CFc,2-0,Bologna FC
+Sun Jan 6 2013,Juventus,1-2,Sampdoria
+Sun Jan 6 2013,AC Milan,2-1,AC Siena
+Sun Jan 6 2013,Parma FC,2-1,US Palermo
+Sun Jan 6 2013,Ssc Napoli,4-1,As Roma
+Sat Jan 12 2013,Bologna FC,4-0,Chievo Verona
+Sat Jan 12 2013,Inter,2-0,Pescara Calcio
+Sun Jan 13 2013,Torino FC,3-2,AC Siena
+Sun Jan 13 2013,Lazio Roma,2-0,Atalanta
+Sun Jan 13 2013,Udinese Calcio,3-1,Acf Fiorentina
+Sun Jan 13 2013,Cagliari Calcio,2-1,Genoa CFc
+Sun Jan 13 2013,Parma FC,1-1,Juventus
+Sun Jan 13 2013,Ssc Napoli,3-0,US Palermo
+Sun Jan 13 2013,Calcio Catania,1-0,As Roma
+Sun Jan 13 2013,Sampdoria,0-0,AC Milan
+Sat Jan 19 2013,US Palermo,2-2,Lazio Roma
+Sat Jan 19 2013,Juventus,4-0,Udinese Calcio
+Sun Jan 20 2013,Acf Fiorentina,1-1,Ssc Napoli
+Sun Jan 20 2013,AC Milan,2-1,Bologna FC
+Sun Jan 20 2013,Genoa CFc,0-2,Calcio Catania
+Sun Jan 20 2013,Chievo Verona,1-1,Parma FC
+Sun Jan 20 2013,AC Siena,1-0,Sampdoria
+Sun Jan 20 2013,Pescara Calcio,0-2,Torino FC
+Sun Jan 20 2013,Atalanta,1-1,Cagliari Calcio
+Sun Jan 20 2013,As Roma,1-1,Inter
+Sat Jan 26 2013,Lazio Roma,0-1,Chievo Verona
+Sat Jan 26 2013,Juventus,1-1,Genoa CFc
+Sun Jan 27 2013,Bologna FC,3-3,As Roma
+Sun Jan 27 2013,Calcio Catania,2-1,Acf Fiorentina
+Sun Jan 27 2013,Atalanta,0-1,AC Milan
+Sun Jan 27 2013,Parma FC,1-2,Ssc Napoli
+Sun Jan 27 2013,Cagliari Calcio,1-1,US Palermo
+Sun Jan 27 2013,Sampdoria,6-0,Pescara Calcio
+Sun Jan 27 2013,Udinese Calcio,1-0,AC Siena
+Sun Jan 27 2013,Inter,2-2,Torino FC
+Fri Feb 1 2013,As Roma,2-4,Cagliari Calcio
+Sat Feb 2 2013,Torino FC,0-0,Sampdoria
+Sat Feb 2 2013,Ssc Napoli,2-0,Calcio Catania
+Sun Feb 3 2013,Chievo Verona,1-2,Juventus
+Sun Feb 3 2013,US Palermo,1-2,Atalanta
+Sun Feb 3 2013,Pescara Calcio,2-3,Bologna FC
+Sun Feb 3 2013,AC Siena,3-1,Inter
+Sun Feb 3 2013,Genoa CFc,3-2,Lazio Roma
+Sun Feb 3 2013,Acf Fiorentina,2-0,Parma FC
+Sun Feb 3 2013,AC Milan,2-1,Udinese Calcio
+Sat Feb 9 2013,Juventus,2-0,Acf Fiorentina
+Sat Feb 9 2013,Lazio Roma,1-1,Ssc Napoli
+Sun Feb 10 2013,Parma FC,0-0,Genoa CFc
+Sun Feb 10 2013,Atalanta,0-0,Calcio Catania
+Sun Feb 10 2013,Cagliari Calcio,1-1,AC Milan
+Sun Feb 10 2013,US Palermo,1-1,Pescara Calcio
+Sun Feb 10 2013,Sampdoria,3-1,As Roma
+Sun Feb 10 2013,Bologna FC,1-1,AC Siena
+Sun Feb 10 2013,Udinese Calcio,1-0,Torino FC
+Sun Feb 10 2013,Inter,3-1,Chievo Verona
+Fri Feb 15 2013,AC Milan,2-1,Parma FC
+Sat Feb 16 2013,Chievo Verona,1-1,US Palermo
+Sat Feb 16 2013,As Roma,1-0,Juventus
+Sun Feb 17 2013,Torino FC,2-1,Atalanta
+Sun Feb 17 2013,Calcio Catania,1-0,Bologna FC
+Sun Feb 17 2013,Pescara Calcio,0-2,Cagliari Calcio
+Sun Feb 17 2013,Ssc Napoli,0-0,Sampdoria
+Sun Feb 17 2013,Genoa CFc,1-0,Udinese Calcio
+Sun Feb 17 2013,Acf Fiorentina,4-1,Inter
+Mon Feb 18 2013,AC Siena,3-0,Lazio Roma
+Sat Feb 23 2013,US Palermo,0-0,Genoa CFc
+Sun Feb 24 2013,Sampdoria,2-0,Chievo Verona
+Sun Feb 24 2013,Parma FC,1-2,Calcio Catania
+Sun Feb 24 2013,Atalanta,2-3,As Roma
+Sun Feb 24 2013,Juventus,3-0,AC Siena
+Sun Feb 24 2013,Cagliari Calcio,4-3,Torino FC
+Sun Feb 24 2013,Inter,1-1,AC Milan
+Mon Feb 25 2013,Udinese Calcio,0-0,Ssc Napoli
+Mon Feb 25 2013,Lazio Roma,2-0,Pescara Calcio
+Tue Feb 26 2013,Bologna FC,2-1,Acf Fiorentina
+Fri Mar 1 2013,Ssc Napoli,1-1,Juventus
+Sat Mar 2 2013,AC Milan,3-0,Lazio Roma
+Sun Mar 3 2013,Torino FC,0-0,US Palermo
+Sun Mar 3 2013,AC Siena,0-2,Atalanta
+Sun Mar 3 2013,Bologna FC,3-0,Cagliari Calcio
+Sun Mar 3 2013,Acf Fiorentina,2-1,Chievo Verona
+Sun Mar 3 2013,Calcio Catania,2-3,Inter
+Sun Mar 3 2013,Sampdoria,1-0,Parma FC
+Sun Mar 3 2013,Pescara Calcio,0-1,Udinese Calcio
+Sun Mar 3 2013,As Roma,3-1,Genoa CFc
+Fri Mar 8 2013,Genoa CFc,0-2,AC Milan
+Sat Mar 9 2013,Udinese Calcio,1-1,As Roma
+Sun Mar 10 2013,Atalanta,2-1,Pescara Calcio
+Sun Mar 10 2013,Juventus,1-0,Calcio Catania
+Sun Mar 10 2013,Chievo Verona,2-0,Ssc Napoli
+Sun Mar 10 2013,Cagliari Calcio,3-1,Sampdoria
+Sun Mar 10 2013,US Palermo,1-2,AC Siena
+Sun Mar 10 2013,Parma FC,4-1,Torino FC
+Sun Mar 10 2013,Inter,0-1,Bologna FC
+Sun Mar 10 2013,Lazio Roma,0-2,Acf Fiorentina
+Sat Mar 16 2013,Calcio Catania,3-1,Udinese Calcio
+Sat Mar 16 2013,Bologna FC,0-2,Juventus
+Sun Mar 17 2013,AC Siena,0-0,Cagliari Calcio
+Sun Mar 17 2013,Ssc Napoli,3-2,Atalanta
+Sun Mar 17 2013,Pescara Calcio,0-2,Chievo Verona
+Sun Mar 17 2013,Acf Fiorentina,3-2,Genoa CFc
+Sun Mar 17 2013,AC Milan,2-0,US Palermo
+Sun Mar 17 2013,Torino FC,1-0,Lazio Roma
+Sun Mar 17 2013,As Roma,2-0,Parma FC
+Sat Mar 30 2013,Udinese Calcio,0-0,Bologna FC
+Sat Mar 30 2013,Lazio Roma,2-1,Calcio Catania
+Sat Mar 30 2013,Cagliari Calcio,2-1,Acf Fiorentina
+Sat Mar 30 2013,Inter,1-2,Juventus
+Sat Mar 30 2013,Parma FC,3-0,Pescara Calcio
+Sat Mar 30 2013,US Palermo,2-0,As Roma
+Sat Mar 30 2013,Atalanta,0-0,Sampdoria
+Sat Mar 30 2013,Genoa CFc,2-2,AC Siena
+Sat Mar 30 2013,Chievo Verona,0-1,AC Milan
+Sat Mar 30 2013,Torino FC,3-5,Ssc Napoli
+Wed Apr 3 2013,Sampdoria,0-2,Inter
+Sat Apr 6 2013,Juventus,2-1,Pescara Calcio
+Sat Apr 6 2013,Bologna FC,2-2,Torino FC
+Sun Apr 7 2013,Acf Fiorentina,2-2,AC Milan
+Sun Apr 7 2013,Calcio Catania,0-0,Cagliari Calcio
+Sun Apr 7 2013,Udinese Calcio,3-1,Chievo Verona
+Sun Apr 7 2013,Sampdoria,1-3,US Palermo
+Sun Apr 7 2013,AC Siena,0-0,Parma FC
+Sun Apr 7 2013,Inter,3-4,Atalanta
+Sun Apr 7 2013,Ssc Napoli,2-0,Genoa CFc
+Mon Apr 8 2013,As Roma,1-1,Lazio Roma
+Sat Apr 13 2013,Pescara Calcio,2-3,AC Siena
+Sat Apr 13 2013,Atalanta,0-2,Acf Fiorentina
+Sun Apr 14 2013,US Palermo,1-1,Bologna FC
+Sun Apr 14 2013,Chievo Verona,0-0,Calcio Catania
+Sun Apr 14 2013,Cagliari Calcio,2-0,Inter
+Sun Apr 14 2013,Torino FC,1-2,As Roma
+Sun Apr 14 2013,Genoa CFc,1-1,Sampdoria
+Sun Apr 14 2013,Parma FC,0-3,Udinese Calcio
+Sun Apr 14 2013,AC Milan,1-1,Ssc Napoli
+Mon Apr 15 2013,Lazio Roma,0-2,Juventus
+Sat Apr 20 2013,Genoa CFc,1-1,Atalanta
+Sat Apr 20 2013,Udinese Calcio,1-0,Lazio Roma
+Sun Apr 21 2013,Inter,1-0,Parma FC
+Sun Apr 21 2013,Ssc Napoli,3-2,Cagliari Calcio
+Sun Apr 21 2013,AC Siena,0-1,Chievo Verona
+Sun Apr 21 2013,Calcio Catania,1-1,US Palermo
+Sun Apr 21 2013,As Roma,1-1,Pescara Calcio
+Sun Apr 21 2013,Bologna FC,1-1,Sampdoria
+Sun Apr 21 2013,Acf Fiorentina,4-3,Torino FC
+Sun Apr 21 2013,Juventus,1-0,AC Milan
+Sat Apr 27 2013,Atalanta,1-1,Bologna FC
+Sat Apr 27 2013,Cagliari Calcio,0-1,Udinese Calcio
+Sat Apr 27 2013,Pescara Calcio,0-3,Ssc Napoli
+Sun Apr 28 2013,Sampdoria,0-3,Acf Fiorentina
+Sun Apr 28 2013,Chievo Verona,0-1,Genoa CFc
+Sun Apr 28 2013,US Palermo,1-0,Inter
+Sun Apr 28 2013,Torino FC,0-2,Juventus
+Sun Apr 28 2013,Parma FC,0-0,Lazio Roma
+Sun Apr 28 2013,As Roma,4-0,AC Siena
+Sun Apr 28 2013,AC Milan,4-2,Calcio Catania
+Sat May 4 2013,Chievo Verona,0-0,Cagliari Calcio
+Sat May 4 2013,Acf Fiorentina,0-1,As Roma
+Sun May 5 2013,Udinese Calcio,3-1,Sampdoria
+Sun May 5 2013,Parma FC,2-0,Atalanta
+Sun May 5 2013,Lazio Roma,6-0,Bologna FC
+Sun May 5 2013,Juventus,1-0,US Palermo
+Sun May 5 2013,Genoa CFc,4-1,Pescara Calcio
+Sun May 5 2013,Calcio Catania,3-0,AC Siena
+Sun May 5 2013,AC Milan,1-0,Torino FC
+Sun May 5 2013,Ssc Napoli,3-1,Inter
+Tue May 7 2013,As Roma,0-1,Chievo Verona
+Wed May 8 2013,Pescara Calcio,0-4,AC Milan
+Wed May 8 2013,Sampdoria,1-1,Calcio Catania
+Wed May 8 2013,AC Siena,0-1,Acf Fiorentina
+Wed May 8 2013,Torino FC,0-0,Genoa CFc
+Wed May 8 2013,Atalanta,0-1,Juventus
+Wed May 8 2013,Inter,1-3,Lazio Roma
+Wed May 8 2013,Bologna FC,0-3,Ssc Napoli
+Wed May 8 2013,Cagliari Calcio,0-1,Parma FC
+Wed May 8 2013,US Palermo,2-3,Udinese Calcio
+Sat May 11 2013,Juventus,1-1,Cagliari Calcio
+Sat May 11 2013,Calcio Catania,1-0,Pescara Calcio
+Sun May 12 2013,Genoa CFc,0-0,Inter
+Sun May 12 2013,Acf Fiorentina,1-0,US Palermo
+Sun May 12 2013,Chievo Verona,1-1,Torino FC
+Sun May 12 2013,Udinese Calcio,2-1,Atalanta
+Sun May 12 2013,Lazio Roma,2-0,Sampdoria
+Sun May 12 2013,Ssc Napoli,2-1,AC Siena
+Sun May 12 2013,Parma FC,0-2,Bologna FC
+Sun May 12 2013,AC Milan,0-0,As Roma
+Sat May 18 2013,Sampdoria,3-2,Juventus
+Sun May 19 2013,Atalanta,2-2,Chievo Verona
+Sun May 19 2013,Bologna FC,0-0,Genoa CFc
+Sun May 19 2013,Torino FC,2-2,Calcio Catania
+Sun May 19 2013,Pescara Calcio,1-5,Acf Fiorentina
+Sun May 19 2013,Cagliari Calcio,1-0,Lazio Roma
+Sun May 19 2013,AC Siena,1-2,AC Milan
+Sun May 19 2013,As Roma,2-1,Ssc Napoli
+Sun May 19 2013,US Palermo,1-3,Parma FC
+Sun May 19 2013,Inter,2-5,Udinese Calcio

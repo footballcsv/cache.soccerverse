@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 28 2010,Udinese Calcio,0-1,Genoa CFc
+Sat Aug 28 2010,As Roma,0-0,Ac Cesena
+Sun Aug 29 2010,As Bari,1-0,Juventus
+Sun Aug 29 2010,Chievo Verona,2-1,Calcio Catania
+Sun Aug 29 2010,AC Milan,4-0,US Lecce
+Sun Aug 29 2010,Parma FC,2-0,Brescia Calcio
+Sun Aug 29 2010,Sampdoria,2-0,Lazio Roma
+Sun Aug 29 2010,US Palermo,0-0,Cagliari Calcio
+Sun Aug 29 2010,Acf Fiorentina,1-1,Ssc Napoli
+Mon Aug 30 2010,Bologna FC,0-0,Inter
+Sat Sep 11 2010,Inter,2-1,Udinese Calcio
+Sat Sep 11 2010,Cagliari Calcio,5-1,As Roma
+Sat Sep 11 2010,Ac Cesena,2-0,AC Milan
+Sun Sep 12 2010,Brescia Calcio,3-2,US Palermo
+Sun Sep 12 2010,Calcio Catania,2-1,Parma FC
+Sun Sep 12 2010,Genoa CFc,1-3,Chievo Verona
+Sun Sep 12 2010,Juventus,3-3,Sampdoria
+Sun Sep 12 2010,Lazio Roma,3-1,Bologna FC
+Sun Sep 12 2010,US Lecce,1-0,Acf Fiorentina
+Sun Sep 12 2010,Ssc Napoli,2-2,As Bari
+Sat Sep 18 2010,Acf Fiorentina,1-2,Lazio Roma
+Sat Sep 18 2010,AC Milan,1-1,Calcio Catania
+Sun Sep 19 2010,As Bari,0-0,Cagliari Calcio
+Sun Sep 19 2010,Chievo Verona,0-1,Brescia Calcio
+Sun Sep 19 2010,Ac Cesena,1-0,US Lecce
+Sun Sep 19 2010,Parma FC,1-1,Genoa CFc
+Sun Sep 19 2010,As Roma,2-2,Bologna FC
+Sun Sep 19 2010,Udinese Calcio,0-4,Juventus
+Sun Sep 19 2010,US Palermo,1-2,Inter
+Sun Sep 19 2010,Sampdoria,1-2,Ssc Napoli
+Wed Sep 22 2010,Brescia Calcio,2-1,As Roma
+Wed Sep 22 2010,Cagliari Calcio,0-0,Sampdoria
+Wed Sep 22 2010,Calcio Catania,2-0,Ac Cesena
+Wed Sep 22 2010,Genoa CFc,1-1,Acf Fiorentina
+Wed Sep 22 2010,Inter,4-0,As Bari
+Wed Sep 22 2010,Lazio Roma,1-1,AC Milan
+Wed Sep 22 2010,US Lecce,1-1,Parma FC
+Wed Sep 22 2010,Bologna FC,2-1,Udinese Calcio
+Wed Sep 22 2010,Ssc Napoli,1-3,Chievo Verona
+Thu Sep 23 2010,Juventus,1-3,US Palermo
+Sat Sep 25 2010,AC Milan,1-0,Genoa CFc
+Sat Sep 25 2010,As Roma,1-0,Inter
+Sun Sep 26 2010,Ac Cesena,1-4,Ssc Napoli
+Sun Sep 26 2010,As Bari,2-1,Brescia Calcio
+Sun Sep 26 2010,Chievo Verona,0-1,Lazio Roma
+Sun Sep 26 2010,Calcio Catania,1-1,Bologna FC
+Sun Sep 26 2010,Sampdoria,0-0,Udinese Calcio
+Sun Sep 26 2010,US Palermo,2-2,US Lecce
+Sun Sep 26 2010,Acf Fiorentina,2-0,Parma FC
+Sun Sep 26 2010,Juventus,4-2,Cagliari Calcio
+Sat Oct 2 2010,Udinese Calcio,1-0,Ac Cesena
+Sat Oct 2 2010,Parma FC,0-1,AC Milan
+Sun Oct 3 2010,US Lecce,1-0,Calcio Catania
+Sun Oct 3 2010,Chievo Verona,0-0,Cagliari Calcio
+Sun Oct 3 2010,Genoa CFc,2-1,As Bari
+Sun Oct 3 2010,Lazio Roma,1-0,Brescia Calcio
+Sun Oct 3 2010,Bologna FC,1-1,Sampdoria
+Sun Oct 3 2010,Acf Fiorentina,1-2,US Palermo
+Sun Oct 3 2010,Ssc Napoli,2-0,As Roma
+Sun Oct 3 2010,Inter,0-0,Juventus
+Sat Oct 16 2010,AC Milan,3-1,Chievo Verona
+Sat Oct 16 2010,As Roma,2-1,Genoa CFc
+Sun Oct 17 2010,Cagliari Calcio,0-1,Inter
+Sun Oct 17 2010,Brescia Calcio,0-1,Udinese Calcio
+Sun Oct 17 2010,Calcio Catania,1-1,Ssc Napoli
+Sun Oct 17 2010,Ac Cesena,1-1,Parma FC
+Sun Oct 17 2010,Juventus,4-0,US Lecce
+Sun Oct 17 2010,US Palermo,4-1,Bologna FC
+Sun Oct 17 2010,Sampdoria,2-1,Acf Fiorentina
+Sun Oct 17 2010,As Bari,0-2,Lazio Roma
+Sat Oct 23 2010,Acf Fiorentina,2-1,As Bari
+Sun Oct 24 2010,Parma FC,0-0,As Roma
+Sun Oct 24 2010,Bologna FC,0-0,Juventus
+Sun Oct 24 2010,Chievo Verona,2-1,Ac Cesena
+Sun Oct 24 2010,Genoa CFc,1-0,Calcio Catania
+Sun Oct 24 2010,Lazio Roma,2-1,Cagliari Calcio
+Sun Oct 24 2010,US Lecce,2-1,Brescia Calcio
+Sun Oct 24 2010,Udinese Calcio,2-1,US Palermo
+Sun Oct 24 2010,Inter,1-1,Sampdoria
+Mon Oct 25 2010,Ssc Napoli,1-2,AC Milan
+Fri Oct 29 2010,Genoa CFc,0-1,Inter
+Sat Oct 30 2010,As Roma,2-0,US Lecce
+Sat Oct 30 2010,AC Milan,1-2,Juventus
+Sun Oct 31 2010,US Palermo,0-1,Lazio Roma
+Sun Oct 31 2010,As Bari,0-2,Udinese Calcio
+Sun Oct 31 2010,Brescia Calcio,0-1,Ssc Napoli
+Sun Oct 31 2010,Cagliari Calcio,2-0,Bologna FC
+Sun Oct 31 2010,Ac Cesena,0-1,Sampdoria
+Sun Oct 31 2010,Parma FC,0-0,Chievo Verona
+Sun Oct 31 2010,Calcio Catania,0-0,Acf Fiorentina
+Sat Nov 6 2010,Bologna FC,2-0,US Lecce
+Sat Nov 6 2010,Inter,1-1,Brescia Calcio
+Sun Nov 7 2010,Acf Fiorentina,1-0,Chievo Verona
+Sun Nov 7 2010,As Bari,2-3,AC Milan
+Sun Nov 7 2010,Juventus,3-1,Ac Cesena
+Sun Nov 7 2010,Lazio Roma,0-2,As Roma
+Sun Nov 7 2010,Sampdoria,0-0,Calcio Catania
+Sun Nov 7 2010,Udinese Calcio,1-1,Cagliari Calcio
+Sun Nov 7 2010,Ssc Napoli,2-0,Parma FC
+Sun Nov 7 2010,US Palermo,1-0,Genoa CFc
+Wed Nov 10 2010,Brescia Calcio,1-1,Juventus
+Wed Nov 10 2010,Cagliari Calcio,0-1,Ssc Napoli
+Wed Nov 10 2010,Calcio Catania,1-0,Udinese Calcio
+Wed Nov 10 2010,Ac Cesena,1-0,Lazio Roma
+Wed Nov 10 2010,Chievo Verona,0-0,As Bari
+Wed Nov 10 2010,Genoa CFc,1-0,Bologna FC
+Wed Nov 10 2010,US Lecce,1-1,Inter
+Wed Nov 10 2010,AC Milan,3-1,US Palermo
+Wed Nov 10 2010,As Roma,3-2,Acf Fiorentina
+Thu Nov 11 2010,Parma FC,1-0,Sampdoria
+Sat Nov 13 2010,Acf Fiorentina,1-0,Ac Cesena
+Sat Nov 13 2010,Juventus,1-1,As Roma
+Sun Nov 14 2010,Lazio Roma,2-0,Ssc Napoli
+Sun Nov 14 2010,As Bari,0-1,Parma FC
+Sun Nov 14 2010,Bologna FC,1-0,Brescia Calcio
+Sun Nov 14 2010,Cagliari Calcio,0-1,Genoa CFc
+Sun Nov 14 2010,US Palermo,3-1,Calcio Catania
+Sun Nov 14 2010,Sampdoria,0-0,Chievo Verona
+Sun Nov 14 2010,Udinese Calcio,4-0,US Lecce
+Sun Nov 14 2010,Inter,0-1,AC Milan
+Sat Nov 20 2010,As Roma,2-0,Udinese Calcio
+Sat Nov 20 2010,AC Milan,1-0,Acf Fiorentina
+Sun Nov 21 2010,Genoa CFc,0-2,Juventus
+Sun Nov 21 2010,Brescia Calcio,1-2,Cagliari Calcio
+Sun Nov 21 2010,Calcio Catania,1-0,As Bari
+Sun Nov 21 2010,Ac Cesena,1-2,US Palermo
+Sun Nov 21 2010,Chievo Verona,2-1,Inter
+Sun Nov 21 2010,US Lecce,2-3,Sampdoria
+Sun Nov 21 2010,Parma FC,1-1,Lazio Roma
+Sun Nov 21 2010,Ssc Napoli,4-1,Bologna FC
+Sat Nov 27 2010,Sampdoria,1-1,AC Milan
+Sat Nov 27 2010,Juventus,1-1,Acf Fiorentina
+Sun Nov 28 2010,Inter,5-2,Parma FC
+Sun Nov 28 2010,As Bari,1-1,Ac Cesena
+Sun Nov 28 2010,Brescia Calcio,0-0,Genoa CFc
+Sun Nov 28 2010,Cagliari Calcio,3-2,US Lecce
+Sun Nov 28 2010,Lazio Roma,1-1,Calcio Catania
+Sun Nov 28 2010,Udinese Calcio,3-1,Ssc Napoli
+Sun Nov 28 2010,US Palermo,3-1,As Roma
+Fri Dec 3 2010,Lazio Roma,3-1,Inter
+Sat Dec 4 2010,Chievo Verona,2-2,As Roma
+Sat Dec 4 2010,AC Milan,3-0,Brescia Calcio
+Sun Dec 5 2010,Ac Cesena,0-2,Bologna FC
+Sun Dec 5 2010,Acf Fiorentina,1-0,Cagliari Calcio
+Sun Dec 5 2010,US Lecce,1-3,Genoa CFc
+Sun Dec 5 2010,Parma FC,2-1,Udinese Calcio
+Sun Dec 5 2010,Sampdoria,3-0,As Bari
+Sun Dec 5 2010,Calcio Catania,1-3,Juventus
+Mon Dec 6 2010,Ssc Napoli,1-0,US Palermo
+Wed Dec 8 2010,Bologna FC,2-1,Chievo Verona
+Sat Dec 11 2010,US Palermo,3-1,Parma FC
+Sat Dec 11 2010,Udinese Calcio,2-1,Acf Fiorentina
+Sat Dec 11 2010,Genoa CFc,0-1,Ssc Napoli
+Sun Dec 12 2010,Bologna FC,0-3,AC Milan
+Sun Dec 12 2010,Brescia Calcio,1-0,Sampdoria
+Sun Dec 12 2010,Cagliari Calcio,3-0,Calcio Catania
+Sun Dec 12 2010,US Lecce,3-2,Chievo Verona
+Sun Dec 12 2010,As Roma,1-0,As Bari
+Sun Dec 12 2010,Juventus,2-1,Lazio Roma
+Sat Dec 18 2010,Ac Cesena,1-0,Cagliari Calcio
+Sat Dec 18 2010,AC Milan,0-1,As Roma
+Sun Dec 19 2010,Lazio Roma,3-2,Udinese Calcio
+Sun Dec 19 2010,As Bari,1-1,US Palermo
+Sun Dec 19 2010,Chievo Verona,1-1,Juventus
+Sun Dec 19 2010,Calcio Catania,1-0,Brescia Calcio
+Sun Dec 19 2010,Parma FC,0-0,Bologna FC
+Sun Dec 19 2010,Ssc Napoli,1-0,US Lecce
+Thu Jan 6 2011,Juventus,1-4,Parma FC
+Thu Jan 6 2011,Brescia Calcio,1-2,Ac Cesena
+Thu Jan 6 2011,Cagliari Calcio,0-1,AC Milan
+Thu Jan 6 2011,Genoa CFc,0-0,Lazio Roma
+Thu Jan 6 2011,US Lecce,0-1,As Bari
+Thu Jan 6 2011,As Roma,4-2,Calcio Catania
+Thu Jan 6 2011,Udinese Calcio,2-0,Chievo Verona
+Thu Jan 6 2011,Bologna FC,1-1,Acf Fiorentina
+Thu Jan 6 2011,US Palermo,3-0,Sampdoria
+Thu Jan 6 2011,Inter,3-1,Ssc Napoli
+Sun Jan 9 2011,Sampdoria,2-1,As Roma
+Sun Jan 9 2011,As Bari,0-2,Bologna FC
+Sun Jan 9 2011,Chievo Verona,0-0,US Palermo
+Sun Jan 9 2011,Calcio Catania,1-2,Inter
+Sun Jan 9 2011,Ac Cesena,0-0,Genoa CFc
+Sun Jan 9 2011,Acf Fiorentina,3-2,Brescia Calcio
+Sun Jan 9 2011,Lazio Roma,1-2,US Lecce
+Sun Jan 9 2011,AC Milan,4-4,Udinese Calcio
+Sun Jan 9 2011,Parma FC,1-2,Cagliari Calcio
+Sun Jan 9 2011,Ssc Napoli,3-0,Juventus
+Sat Jan 15 2011,Ssc Napoli,0-0,Acf Fiorentina
+Sat Jan 15 2011,Inter,4-1,Bologna FC
+Sun Jan 16 2011,Cagliari Calcio,3-1,US Palermo
+Sun Jan 16 2011,Juventus,2-1,As Bari
+Sun Jan 16 2011,Calcio Catania,1-1,Chievo Verona
+Sun Jan 16 2011,Brescia Calcio,2-0,Parma FC
+Sun Jan 16 2011,Ac Cesena,0-1,As Roma
+Sun Jan 16 2011,Lazio Roma,1-0,Sampdoria
+Sun Jan 16 2011,Genoa CFc,2-4,Udinese Calcio
+Sun Jan 16 2011,US Lecce,1-1,AC Milan
+Wed Jan 19 2011,Inter,3-2,Ac Cesena
+Sat Jan 22 2011,US Palermo,1-0,Brescia Calcio
+Sat Jan 22 2011,Parma FC,2-0,Calcio Catania
+Sat Jan 22 2011,As Roma,3-0,Cagliari Calcio
+Sun Jan 23 2011,Udinese Calcio,3-1,Inter
+Sun Jan 23 2011,Chievo Verona,0-0,Genoa CFc
+Sun Jan 23 2011,Sampdoria,0-0,Juventus
+Sun Jan 23 2011,Bologna FC,3-1,Lazio Roma
+Sun Jan 23 2011,Acf Fiorentina,1-1,US Lecce
+Sun Jan 23 2011,As Bari,0-2,Ssc Napoli
+Sun Jan 23 2011,AC Milan,2-0,Ac Cesena
+Sat Jan 29 2011,Lazio Roma,2-0,Acf Fiorentina
+Sat Jan 29 2011,Calcio Catania,0-2,AC Milan
+Sun Jan 30 2011,Brescia Calcio,0-3,Chievo Verona
+Sun Jan 30 2011,Cagliari Calcio,2-1,As Bari
+Sun Jan 30 2011,US Lecce,1-1,Ac Cesena
+Sun Jan 30 2011,Genoa CFc,3-1,Parma FC
+Sun Jan 30 2011,Ssc Napoli,4-0,Sampdoria
+Sun Jan 30 2011,Inter,3-2,US Palermo
+Sun Jan 30 2011,Juventus,1-2,Udinese Calcio
+Tue Feb 1 2011,AC Milan,0-0,Lazio Roma
+Wed Feb 2 2011,As Roma,1-1,Brescia Calcio
+Wed Feb 2 2011,Sampdoria,0-1,Cagliari Calcio
+Wed Feb 2 2011,Ac Cesena,1-1,Calcio Catania
+Wed Feb 2 2011,Acf Fiorentina,1-0,Genoa CFc
+Wed Feb 2 2011,US Palermo,2-1,Juventus
+Wed Feb 2 2011,Parma FC,0-1,US Lecce
+Wed Feb 2 2011,Udinese Calcio,1-1,Bologna FC
+Wed Feb 2 2011,Chievo Verona,2-0,Ssc Napoli
+Thu Feb 3 2011,As Bari,0-3,Inter
+Sat Feb 5 2011,Udinese Calcio,2-0,Sampdoria
+Sat Feb 5 2011,Cagliari Calcio,1-3,Juventus
+Sun Feb 6 2011,Bologna FC,1-0,Calcio Catania
+Sun Feb 6 2011,Brescia Calcio,2-0,As Bari
+Sun Feb 6 2011,Lazio Roma,1-1,Chievo Verona
+Sun Feb 6 2011,Ssc Napoli,2-0,Ac Cesena
+Sun Feb 6 2011,Genoa CFc,1-1,AC Milan
+Sun Feb 6 2011,US Lecce,2-4,US Palermo
+Sun Feb 6 2011,Parma FC,1-1,Acf Fiorentina
+Sun Feb 6 2011,Inter,5-3,As Roma
+Sat Feb 12 2011,AC Milan,4-0,Parma FC
+Sat Feb 12 2011,As Roma,0-2,Ssc Napoli
+Sun Feb 13 2011,US Palermo,2-4,Acf Fiorentina
+Sun Feb 13 2011,Cagliari Calcio,4-1,Chievo Verona
+Sun Feb 13 2011,As Bari,0-0,Genoa CFc
+Sun Feb 13 2011,Brescia Calcio,0-2,Lazio Roma
+Sun Feb 13 2011,Calcio Catania,3-2,US Lecce
+Sun Feb 13 2011,Ac Cesena,0-3,Udinese Calcio
+Sun Feb 13 2011,Sampdoria,3-1,Bologna FC
+Sun Feb 13 2011,Juventus,1-0,Inter
+Wed Feb 16 2011,Sampdoria,0-1,Genoa CFc
+Wed Feb 16 2011,Acf Fiorentina,1-2,Inter
+Sat Feb 19 2011,Bologna FC,1-0,US Palermo
+Sat Feb 19 2011,Inter,1-0,Cagliari Calcio
+Sun Feb 20 2011,US Lecce,2-0,Juventus
+Sun Feb 20 2011,Lazio Roma,1-0,As Bari
+Sun Feb 20 2011,Udinese Calcio,0-0,Brescia Calcio
+Sun Feb 20 2011,Parma FC,2-2,Ac Cesena
+Sun Feb 20 2011,Chievo Verona,1-2,AC Milan
+Sun Feb 20 2011,Genoa CFc,4-3,As Roma
+Sun Feb 20 2011,Acf Fiorentina,0-0,Sampdoria
+Sun Feb 20 2011,Ssc Napoli,1-0,Calcio Catania
+Wed Feb 23 2011,Bologna FC,0-1,As Roma
+Sat Feb 26 2011,Juventus,0-2,Bologna FC
+Sun Feb 27 2011,Calcio Catania,2-1,Genoa CFc
+Sun Feb 27 2011,Ac Cesena,1-0,Chievo Verona
+Sun Feb 27 2011,As Bari,1-1,Acf Fiorentina
+Sun Feb 27 2011,Cagliari Calcio,1-0,Lazio Roma
+Sun Feb 27 2011,Brescia Calcio,2-2,US Lecce
+Sun Feb 27 2011,As Roma,2-2,Parma FC
+Sun Feb 27 2011,US Palermo,0-7,Udinese Calcio
+Sun Feb 27 2011,Sampdoria,0-2,Inter
+Mon Feb 28 2011,AC Milan,3-0,Ssc Napoli
+Fri Mar 4 2011,US Lecce,1-2,As Roma
+Sat Mar 5 2011,Juventus,0-1,AC Milan
+Sun Mar 6 2011,Sampdoria,2-3,Ac Cesena
+Sun Mar 6 2011,Udinese Calcio,1-0,As Bari
+Sun Mar 6 2011,Ssc Napoli,0-0,Brescia Calcio
+Sun Mar 6 2011,Bologna FC,2-2,Cagliari Calcio
+Sun Mar 6 2011,Acf Fiorentina,3-0,Calcio Catania
+Sun Mar 6 2011,Inter,5-2,Genoa CFc
+Sun Mar 6 2011,Chievo Verona,0-0,Parma FC
+Sun Mar 6 2011,Lazio Roma,2-0,US Palermo
+Fri Mar 11 2011,Brescia Calcio,1-1,Inter
+Sat Mar 12 2011,Ac Cesena,2-2,Juventus
+Sun Mar 13 2011,AC Milan,1-1,As Bari
+Sun Mar 13 2011,As Roma,2-0,Lazio Roma
+Sun Mar 13 2011,Calcio Catania,1-0,Sampdoria
+Sun Mar 13 2011,Cagliari Calcio,0-4,Udinese Calcio
+Sun Mar 13 2011,Genoa CFc,1-0,US Palermo
+Sun Mar 13 2011,US Lecce,0-1,Bologna FC
+Sun Mar 13 2011,Chievo Verona,0-1,Acf Fiorentina
+Sun Mar 13 2011,Parma FC,1-3,Ssc Napoli
+Sat Mar 19 2011,Lazio Roma,1-0,Ac Cesena
+Sat Mar 19 2011,US Palermo,1-0,AC Milan
+Sun Mar 20 2011,Acf Fiorentina,2-2,As Roma
+Sun Mar 20 2011,Juventus,2-1,Brescia Calcio
+Sun Mar 20 2011,Udinese Calcio,2-0,Calcio Catania
+Sun Mar 20 2011,As Bari,1-2,Chievo Verona
+Sun Mar 20 2011,Bologna FC,1-1,Genoa CFc
+Sun Mar 20 2011,Inter,1-0,US Lecce
+Sun Mar 20 2011,Sampdoria,0-1,Parma FC
+Sun Mar 20 2011,Ssc Napoli,2-1,Cagliari Calcio
+Sat Apr 2 2011,Brescia Calcio,3-1,Bologna FC
+Sat Apr 2 2011,AC Milan,3-0,Inter
+Sun Apr 3 2011,Ssc Napoli,4-3,Lazio Roma
+Sun Apr 3 2011,Parma FC,1-2,As Bari
+Sun Apr 3 2011,Genoa CFc,0-1,Cagliari Calcio
+Sun Apr 3 2011,Ac Cesena,2-2,Acf Fiorentina
+Sun Apr 3 2011,Calcio Catania,4-0,US Palermo
+Sun Apr 3 2011,Chievo Verona,0-0,Sampdoria
+Sun Apr 3 2011,US Lecce,2-0,Udinese Calcio
+Sun Apr 3 2011,As Roma,0-2,Juventus
+Sat Apr 9 2011,Inter,2-0,Chievo Verona
+Sat Apr 9 2011,Udinese Calcio,1-2,As Roma
+Sun Apr 10 2011,Juventus,3-2,Genoa CFc
+Sun Apr 10 2011,Cagliari Calcio,1-1,Brescia Calcio
+Sun Apr 10 2011,As Bari,1-1,Calcio Catania
+Sun Apr 10 2011,US Palermo,2-2,Ac Cesena
+Sun Apr 10 2011,Sampdoria,1-2,US Lecce
+Sun Apr 10 2011,Bologna FC,0-2,Ssc Napoli
+Sun Apr 10 2011,Lazio Roma,2-0,Parma FC
+Sun Apr 10 2011,Acf Fiorentina,1-2,AC Milan
+Sat Apr 16 2011,As Roma,2-3,US Palermo
+Sat Apr 16 2011,Parma FC,2-0,Inter
+Sat Apr 16 2011,AC Milan,3-0,Sampdoria
+Sun Apr 17 2011,Ac Cesena,1-0,As Bari
+Sun Apr 17 2011,Chievo Verona,2-0,Bologna FC
+Sun Apr 17 2011,Genoa CFc,3-0,Brescia Calcio
+Sun Apr 17 2011,US Lecce,3-3,Cagliari Calcio
+Sun Apr 17 2011,Acf Fiorentina,0-0,Juventus
+Sun Apr 17 2011,Calcio Catania,1-4,Lazio Roma
+Sun Apr 17 2011,Ssc Napoli,1-2,Udinese Calcio
+Sat Apr 23 2011,As Roma,1-0,Chievo Verona
+Sat Apr 23 2011,Bologna FC,0-2,Ac Cesena
+Sat Apr 23 2011,Cagliari Calcio,1-2,Acf Fiorentina
+Sat Apr 23 2011,Inter,2-1,Lazio Roma
+Sat Apr 23 2011,Genoa CFc,4-2,US Lecce
+Sat Apr 23 2011,US Palermo,2-1,Ssc Napoli
+Sat Apr 23 2011,Udinese Calcio,0-2,Parma FC
+Sat Apr 23 2011,As Bari,0-1,Sampdoria
+Sat Apr 23 2011,Brescia Calcio,0-1,AC Milan
+Sat Apr 23 2011,Juventus,2-2,Calcio Catania
+Sat Apr 30 2011,Ac Cesena,1-2,Inter
+Sat Apr 30 2011,Ssc Napoli,1-0,Genoa CFc
+Sun May 1 2011,AC Milan,1-0,Bologna FC
+Sun May 1 2011,Sampdoria,3-3,Brescia Calcio
+Sun May 1 2011,Calcio Catania,2-0,Cagliari Calcio
+Sun May 1 2011,Chievo Verona,1-0,US Lecce
+Sun May 1 2011,Parma FC,3-1,US Palermo
+Sun May 1 2011,Acf Fiorentina,5-2,Udinese Calcio
+Sun May 1 2011,As Bari,2-3,As Roma
+Mon May 2 2011,Lazio Roma,0-1,Juventus
+Sat May 7 2011,US Palermo,2-1,As Bari
+Sat May 7 2011,As Roma,0-0,AC Milan
+Sun May 8 2011,Brescia Calcio,1-2,Calcio Catania
+Sun May 8 2011,Cagliari Calcio,0-2,Ac Cesena
+Sun May 8 2011,Udinese Calcio,2-1,Lazio Roma
+Sun May 8 2011,Bologna FC,0-0,Parma FC
+Sun May 8 2011,Inter,3-1,Acf Fiorentina
+Sun May 8 2011,US Lecce,2-1,Ssc Napoli
+Sun May 8 2011,Genoa CFc,2-1,Sampdoria
+Mon May 9 2011,Juventus,2-2,Chievo Verona
+Sat May 14 2011,Lazio Roma,4-2,Genoa CFc
+Sat May 14 2011,AC Milan,4-1,Cagliari Calcio
+Sun May 15 2011,Acf Fiorentina,1-1,Bologna FC
+Sun May 15 2011,Ac Cesena,1-0,Brescia Calcio
+Sun May 15 2011,Parma FC,1-0,Juventus
+Sun May 15 2011,As Bari,0-2,US Lecce
+Sun May 15 2011,Calcio Catania,2-1,As Roma
+Sun May 15 2011,Chievo Verona,0-2,Udinese Calcio
+Sun May 15 2011,Sampdoria,1-2,US Palermo
+Sun May 15 2011,Ssc Napoli,1-1,Inter
+Sun May 22 2011,Bologna FC,0-4,As Bari
+Sun May 22 2011,US Palermo,1-3,Chievo Verona
+Sun May 22 2011,Inter,3-1,Calcio Catania
+Sun May 22 2011,Genoa CFc,3-2,Ac Cesena
+Sun May 22 2011,Brescia Calcio,2-2,Acf Fiorentina
+Sun May 22 2011,Cagliari Calcio,1-1,Parma FC
+Sun May 22 2011,US Lecce,2-4,Lazio Roma
+Sun May 22 2011,Udinese Calcio,0-0,AC Milan
+Sun May 22 2011,As Roma,3-1,Sampdoria
+Sun May 22 2011,Juventus,2-2,Ssc Napoli

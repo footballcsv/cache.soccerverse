@@ -1,0 +1,241 @@
+Date,Team 1,FT,Team 2
+Sun Oct 1 1978,Ssc Napoli,2-1,Ascoli Calcio
+Sun Oct 1 1978,Hellas Verona,1-1,As Roma
+Sun Oct 1 1978,Torino FC,1-1,Acf Fiorentina
+Sun Oct 1 1978,Ac Perugia Calcio,2-0,Vicenza Calcio
+Sun Oct 1 1978,Lazio Roma,2-2,Juventus
+Sun Oct 1 1978,AC Milan,1-0,US Avellino
+Sun Oct 1 1978,Bologna FC,0-1,Inter
+Sun Oct 1 1978,US Catanzaro,0-0,Atalanta
+Sun Oct 8 1978,Acf Fiorentina,2-1,Ssc Napoli
+Sun Oct 8 1978,As Roma,0-3,AC Milan
+Sun Oct 8 1978,Vicenza Calcio,2-0,US Catanzaro
+Sun Oct 8 1978,Inter,1-1,Ac Perugia Calcio
+Sun Oct 8 1978,US Avellino,1-3,Lazio Roma
+Sun Oct 8 1978,Atalanta,0-1,Torino FC
+Sun Oct 8 1978,Ascoli Calcio,2-2,Bologna FC
+Sun Oct 8 1978,Juventus,6-2,Hellas Verona
+Sun Oct 15 1978,AC Milan,0-0,Ascoli Calcio
+Sun Oct 15 1978,Ssc Napoli,1-0,As Roma
+Sun Oct 15 1978,Hellas Verona,0-0,Inter
+Sun Oct 15 1978,Torino FC,1-0,US Avellino
+Sun Oct 15 1978,Bologna FC,5-2,Vicenza Calcio
+Sun Oct 15 1978,Lazio Roma,1-1,Atalanta
+Sun Oct 15 1978,US Catanzaro,0-0,Juventus
+Sun Oct 15 1978,Ac Perugia Calcio,1-0,Acf Fiorentina
+Sun Oct 22 1978,Acf Fiorentina,3-0,Lazio Roma
+Sun Oct 22 1978,As Roma,2-0,Bologna FC
+Sun Oct 22 1978,Vicenza Calcio,0-0,Ssc Napoli
+Sun Oct 22 1978,Inter,0-0,US Catanzaro
+Sun Oct 22 1978,US Avellino,2-0,Hellas Verona
+Sun Oct 22 1978,Atalanta,1-3,AC Milan
+Sun Oct 22 1978,Ascoli Calcio,3-0,Torino FC
+Sun Oct 22 1978,Juventus,1-2,Ac Perugia Calcio
+Sun Oct 29 1978,AC Milan,4-1,Acf Fiorentina
+Sun Oct 29 1978,Ssc Napoli,2-0,Atalanta
+Sun Oct 29 1978,Hellas Verona,2-3,Ascoli Calcio
+Sun Oct 29 1978,Torino FC,3-3,Inter
+Sun Oct 29 1978,Bologna FC,0-0,Juventus
+Sun Oct 29 1978,Lazio Roma,4-3,Vicenza Calcio
+Sun Oct 29 1978,US Catanzaro,1-0,As Roma
+Sun Oct 29 1978,Ac Perugia Calcio,0-0,US Avellino
+Sun Nov 5 1978,Acf Fiorentina,1-0,Bologna FC
+Sun Nov 5 1978,As Roma,0-2,Torino FC
+Sun Nov 5 1978,Vicenza Calcio,0-0,Hellas Verona
+Sun Nov 5 1978,Inter,2-0,Ssc Napoli
+Sun Nov 5 1978,US Avellino,0-0,US Catanzaro
+Sun Nov 5 1978,Atalanta,0-2,Ac Perugia Calcio
+Sun Nov 5 1978,Ascoli Calcio,0-0,Lazio Roma
+Sun Nov 5 1978,Juventus,1-0,AC Milan
+Sun Nov 12 1978,AC Milan,1-0,Inter
+Sun Nov 12 1978,Ssc Napoli,0-0,Juventus
+Sun Nov 12 1978,Hellas Verona,1-1,Atalanta
+Sun Nov 12 1978,Torino FC,4-0,Vicenza Calcio
+Sun Nov 12 1978,Lazio Roma,0-0,As Roma
+Sun Nov 12 1978,US Catanzaro,0-0,Acf Fiorentina
+Sun Nov 12 1978,Bologna FC,0-0,US Avellino
+Sun Nov 12 1978,Ac Perugia Calcio,2-0,Ascoli Calcio
+Sun Nov 19 1978,Acf Fiorentina,1-0,Hellas Verona
+Sun Nov 19 1978,Vicenza Calcio,2-3,AC Milan
+Sun Nov 19 1978,Inter,4-0,Lazio Roma
+Sun Nov 19 1978,As Roma,0-0,Ac Perugia Calcio
+Sun Nov 19 1978,US Avellino,1-1,Ssc Napoli
+Sun Nov 19 1978,Atalanta,0-0,Bologna FC
+Sun Nov 19 1978,Ascoli Calcio,1-1,US Catanzaro
+Sun Nov 19 1978,Juventus,1-1,Torino FC
+Sun Nov 26 1978,Ac Perugia Calcio,0-0,Torino FC
+Sun Nov 26 1978,Ssc Napoli,1-1,AC Milan
+Sun Nov 26 1978,Vicenza Calcio,1-0,As Roma
+Sun Nov 26 1978,Lazio Roma,1-0,Hellas Verona
+Sun Nov 26 1978,Inter,2-2,Atalanta
+Sun Nov 26 1978,US Avellino,1-1,Acf Fiorentina
+Sun Nov 26 1978,Bologna FC,1-1,US Catanzaro
+Sun Nov 26 1978,Juventus,1-0,Ascoli Calcio
+Sun Dec 3 1978,Acf Fiorentina,0-0,Vicenza Calcio
+Sun Dec 3 1978,Hellas Verona,1-0,Bologna FC
+Sun Dec 3 1978,Torino FC,0-0,Ssc Napoli
+Sun Dec 3 1978,AC Milan,1-1,Ac Perugia Calcio
+Sun Dec 3 1978,US Catanzaro,3-1,Lazio Roma
+Sun Dec 3 1978,Atalanta,0-1,Juventus
+Sun Dec 3 1978,Ascoli Calcio,1-2,Inter
+Sun Dec 3 1978,As Roma,2-1,US Avellino
+Sun Dec 10 1978,Juventus,1-1,Inter
+Sun Dec 10 1978,Vicenza Calcio,2-1,US Avellino
+Sun Dec 10 1978,Ssc Napoli,1-1,Ac Perugia Calcio
+Sun Dec 10 1978,AC Milan,1-0,Torino FC
+Sun Dec 10 1978,Ascoli Calcio,1-0,Atalanta
+Sun Dec 10 1978,Acf Fiorentina,2-0,As Roma
+Sun Dec 10 1978,US Catanzaro,1-1,Hellas Verona
+Sun Dec 10 1978,Lazio Roma,1-0,Bologna FC
+Sun Dec 17 1978,Inter,0-0,Vicenza Calcio
+Sun Dec 17 1978,Torino FC,2-2,Lazio Roma
+Sun Dec 17 1978,Ac Perugia Calcio,1-0,US Catanzaro
+Sun Dec 17 1978,Hellas Verona,1-3,AC Milan
+Sun Dec 17 1978,Bologna FC,1-1,Ssc Napoli
+Sun Dec 17 1978,US Avellino,3-1,Ascoli Calcio
+Sun Dec 17 1978,Atalanta,0-0,Acf Fiorentina
+Sun Dec 17 1978,As Roma,1-0,Juventus
+Sun Jan 7 1979,Ssc Napoli,0-2,Lazio Roma
+Sun Jan 7 1979,As Roma,1-1,Inter
+Sun Jan 7 1979,Torino FC,3-1,Bologna FC
+Sun Jan 7 1979,Ac Perugia Calcio,1-1,Hellas Verona
+Sun Jan 7 1979,Vicenza Calcio,1-1,Ascoli Calcio
+Sun Jan 7 1979,US Avellino,0-0,Atalanta
+Sun Jan 7 1979,Acf Fiorentina,0-1,Juventus
+Sun Jan 7 1979,AC Milan,4-0,US Catanzaro
+Sun Jan 14 1979,US Catanzaro,0-0,Ssc Napoli
+Sun Jan 14 1979,Lazio Roma,0-0,Ac Perugia Calcio
+Sun Jan 14 1979,Inter,2-0,US Avellino
+Sun Jan 14 1979,Hellas Verona,0-1,Torino FC
+Sun Jan 14 1979,Bologna FC,0-1,AC Milan
+Sun Jan 14 1979,Atalanta,2-0,As Roma
+Sun Jan 14 1979,Ascoli Calcio,2-1,Acf Fiorentina
+Sun Jan 14 1979,Juventus,1-2,Vicenza Calcio
+Sun Jan 21 1979,Ssc Napoli,1-0,Hellas Verona
+Sun Jan 21 1979,As Roma,1-0,Ascoli Calcio
+Sun Jan 21 1979,Torino FC,3-0,US Catanzaro
+Sun Jan 21 1979,Ac Perugia Calcio,3-1,Bologna FC
+Sun Jan 21 1979,AC Milan,2-0,Lazio Roma
+Sun Jan 21 1979,Vicenza Calcio,1-1,Atalanta
+Sun Jan 21 1979,US Avellino,0-0,Juventus
+Sun Jan 21 1979,Acf Fiorentina,1-2,Inter
+Sun Jan 28 1979,Atalanta,0-2,US Catanzaro
+Sun Jan 28 1979,Vicenza Calcio,1-1,Ac Perugia Calcio
+Sun Jan 28 1979,As Roma,2-0,Hellas Verona
+Sun Jan 28 1979,Juventus,2-1,Lazio Roma
+Sun Jan 28 1979,US Avellino,1-0,AC Milan
+Sun Jan 28 1979,Ascoli Calcio,0-0,Ssc Napoli
+Sun Jan 28 1979,Acf Fiorentina,0-0,Torino FC
+Sun Jan 28 1979,Inter,0-0,Bologna FC
+Sun Feb 4 1979,AC Milan,1-0,As Roma
+Sun Feb 4 1979,Torino FC,3-0,Atalanta
+Sun Feb 4 1979,Ssc Napoli,0-0,Acf Fiorentina
+Sun Feb 4 1979,Hellas Verona,0-3,Juventus
+Sun Feb 4 1979,Lazio Roma,0-0,US Avellino
+Sun Feb 4 1979,US Catanzaro,2-0,Vicenza Calcio
+Sun Feb 4 1979,Bologna FC,0-0,Ascoli Calcio
+Sun Feb 4 1979,Ac Perugia Calcio,2-2,Inter
+Sun Feb 11 1979,Inter,4-0,Hellas Verona
+Sun Feb 11 1979,As Roma,0-0,Ssc Napoli
+Sun Feb 11 1979,Vicenza Calcio,2-2,Bologna FC
+Sun Feb 11 1979,Juventus,3-1,US Catanzaro
+Sun Feb 11 1979,Acf Fiorentina,1-1,Ac Perugia Calcio
+Sun Feb 11 1979,US Avellino,1-1,Torino FC
+Sun Feb 11 1979,Ascoli Calcio,0-1,AC Milan
+Sun Feb 11 1979,Atalanta,0-0,Lazio Roma
+Sun Feb 18 1979,Ssc Napoli,2-2,Vicenza Calcio
+Sun Feb 18 1979,Torino FC,3-1,Ascoli Calcio
+Sun Feb 18 1979,Hellas Verona,0-1,US Avellino
+Sun Feb 18 1979,Ac Perugia Calcio,0-0,Juventus
+Sun Feb 18 1979,Lazio Roma,4-0,Acf Fiorentina
+Sun Feb 18 1979,Bologna FC,1-2,As Roma
+Sun Feb 18 1979,US Catanzaro,1-1,Inter
+Sun Feb 18 1979,AC Milan,1-1,Atalanta
+Sun Mar 4 1979,Acf Fiorentina,2-3,AC Milan
+Sun Mar 4 1979,As Roma,1-3,US Catanzaro
+Sun Mar 4 1979,Vicenza Calcio,4-1,Lazio Roma
+Sun Mar 4 1979,Ascoli Calcio,1-0,Hellas Verona
+Sun Mar 4 1979,Inter,0-0,Torino FC
+Sun Mar 4 1979,US Avellino,0-1,Ac Perugia Calcio
+Sun Mar 4 1979,Atalanta,2-1,Ssc Napoli
+Sun Mar 4 1979,Juventus,1-1,Bologna FC
+Sun Mar 11 1979,Lazio Roma,3-1,Ascoli Calcio
+Sun Mar 11 1979,Torino FC,1-0,As Roma
+Sun Mar 11 1979,Ac Perugia Calcio,2-0,Atalanta
+Sun Mar 11 1979,Hellas Verona,0-0,Vicenza Calcio
+Sun Mar 11 1979,AC Milan,0-0,Juventus
+Sun Mar 11 1979,US Catanzaro,0-0,US Avellino
+Sun Mar 11 1979,Bologna FC,0-0,Acf Fiorentina
+Sun Mar 11 1979,Ssc Napoli,0-0,Inter
+Sun Mar 18 1979,Ascoli Calcio,0-0,Ac Perugia Calcio
+Sun Mar 18 1979,Atalanta,1-0,Hellas Verona
+Sun Mar 18 1979,US Avellino,0-0,Bologna FC
+Sun Mar 18 1979,Acf Fiorentina,1-1,US Catanzaro
+Sun Mar 18 1979,Inter,2-2,AC Milan
+Sun Mar 18 1979,Juventus,1-0,Ssc Napoli
+Sun Mar 18 1979,Vicenza Calcio,2-2,Torino FC
+Sun Mar 18 1979,As Roma,1-2,Lazio Roma
+Sun Mar 25 1979,Ssc Napoli,3-0,US Avellino
+Sun Mar 25 1979,Torino FC,0-1,Juventus
+Sun Mar 25 1979,Ac Perugia Calcio,1-1,As Roma
+Sun Mar 25 1979,Lazio Roma,1-1,Inter
+Sun Mar 25 1979,US Catanzaro,1-1,Ascoli Calcio
+Sun Mar 25 1979,Bologna FC,1-0,Atalanta
+Sun Mar 25 1979,Hellas Verona,0-1,Acf Fiorentina
+Sun Mar 25 1979,AC Milan,0-0,Vicenza Calcio
+Sun Apr 1 1979,US Catanzaro,0-0,Bologna FC
+Sun Apr 1 1979,Hellas Verona,2-0,Lazio Roma
+Sun Apr 1 1979,Torino FC,0-0,Ac Perugia Calcio
+Sun Apr 1 1979,As Roma,3-0,Vicenza Calcio
+Sun Apr 1 1979,Acf Fiorentina,1-0,US Avellino
+Sun Apr 1 1979,Atalanta,0-1,Inter
+Sun Apr 1 1979,Ascoli Calcio,1-0,Juventus
+Sun Apr 1 1979,AC Milan,0-1,Ssc Napoli
+Sun Apr 8 1979,Lazio Roma,3-1,US Catanzaro
+Sun Apr 8 1979,Inter,1-1,Ascoli Calcio
+Sun Apr 8 1979,Ac Perugia Calcio,1-1,AC Milan
+Sun Apr 8 1979,Ssc Napoli,0-1,Torino FC
+Sun Apr 8 1979,Juventus,3-0,Atalanta
+Sun Apr 8 1979,US Avellino,0-0,As Roma
+Sun Apr 8 1979,Bologna FC,1-0,Hellas Verona
+Sun Apr 8 1979,Vicenza Calcio,0-1,Acf Fiorentina
+Sat Apr 14 1979,Inter,2-1,Juventus
+Sat Apr 14 1979,Hellas Verona,0-0,US Catanzaro
+Sat Apr 14 1979,Torino FC,0-3,AC Milan
+Sat Apr 14 1979,Ac Perugia Calcio,2-0,Ssc Napoli
+Sat Apr 14 1979,Bologna FC,2-1,Lazio Roma
+Sat Apr 14 1979,US Avellino,2-1,Vicenza Calcio
+Sat Apr 14 1979,Atalanta,3-2,Ascoli Calcio
+Sat Apr 14 1979,As Roma,1-1,Acf Fiorentina
+Sun Apr 22 1979,Lazio Roma,0-0,Torino FC
+Sun Apr 22 1979,Ascoli Calcio,2-0,US Avellino
+Sun Apr 22 1979,AC Milan,2-1,Hellas Verona
+Sun Apr 22 1979,Ssc Napoli,2-1,Bologna FC
+Sun Apr 22 1979,Juventus,4-1,As Roma
+Sun Apr 22 1979,US Catanzaro,1-1,Ac Perugia Calcio
+Sun Apr 22 1979,Vicenza Calcio,0-1,Inter
+Sun Apr 22 1979,Acf Fiorentina,0-1,Atalanta
+Sun Apr 29 1979,US Catanzaro,1-3,AC Milan
+Sun Apr 29 1979,Hellas Verona,1-1,Ac Perugia Calcio
+Sun Apr 29 1979,Lazio Roma,1-2,Ssc Napoli
+Sun Apr 29 1979,Inter,1-2,As Roma
+Sun Apr 29 1979,Bologna FC,1-1,Torino FC
+Sun Apr 29 1979,Atalanta,0-0,US Avellino
+Sun Apr 29 1979,Ascoli Calcio,0-0,Vicenza Calcio
+Sun Apr 29 1979,Juventus,1-1,Acf Fiorentina
+Sun May 6 1979,Acf Fiorentina,1-0,Ascoli Calcio
+Sun May 6 1979,As Roma,2-2,Atalanta
+Sun May 6 1979,Torino FC,0-0,Hellas Verona
+Sun May 6 1979,Ac Perugia Calcio,2-0,Lazio Roma
+Sun May 6 1979,Ssc Napoli,1-0,US Catanzaro
+Sun May 6 1979,Vicenza Calcio,1-1,Juventus
+Sun May 6 1979,US Avellino,1-0,Inter
+Sun May 6 1979,AC Milan,0-0,Bologna FC
+Sun May 13 1979,Lazio Roma,1-1,AC Milan
+Sun May 13 1979,Ascoli Calcio,0-0,As Roma
+Sun May 13 1979,Atalanta,2-0,Vicenza Calcio
+Sun May 13 1979,Bologna FC,2-2,Ac Perugia Calcio
+Sun May 13 1979,US Catanzaro,2-1,Torino FC
+Sun May 13 1979,Inter,1-2,Acf Fiorentina
+Sun May 13 1979,Juventus,3-3,US Avellino
+Sun May 13 1979,Hellas Verona,0-0,Ssc Napoli

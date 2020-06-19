@@ -1,0 +1,241 @@
+Date,Team 1,FT,Team 2
+Sun Sep 11 1977,Acf Fiorentina,1-1,AC Milan
+Sun Sep 11 1977,Genoa CFc,2-1,Lazio Roma
+Sun Sep 11 1977,Inter,0-1,Bologna FC
+Sun Sep 11 1977,Juventus,6-0,US Foggia
+Sun Sep 11 1977,Pescara Calcio,1-3,Ssc Napoli
+Sun Sep 11 1977,As Roma,2-1,Torino FC
+Sun Sep 11 1977,Hellas Verona,0-0,Vicenza Calcio
+Sun Sep 11 1977,Atalanta,1-1,Ac Perugia Calcio
+Sun Sep 18 1977,AC Milan,2-2,Genoa CFc
+Sun Sep 18 1977,Torino FC,2-0,Pescara Calcio
+Sun Sep 18 1977,Ssc Napoli,1-2,Juventus
+Sun Sep 18 1977,Bologna FC,0-0,Atalanta
+Sun Sep 18 1977,Vicenza Calcio,1-2,Inter
+Sun Sep 18 1977,US Foggia,1-1,Acf Fiorentina
+Sun Sep 18 1977,Lazio Roma,1-1,Hellas Verona
+Sun Sep 18 1977,Ac Perugia Calcio,3-2,As Roma
+Sun Sep 25 1977,Genoa CFc,2-0,Ac Perugia Calcio
+Sun Sep 25 1977,As Roma,1-0,US Foggia
+Sun Sep 25 1977,Pescara Calcio,2-1,Bologna FC
+Sun Sep 25 1977,Vicenza Calcio,0-0,Torino FC
+Sun Sep 25 1977,Inter,1-0,Ssc Napoli
+Sun Sep 25 1977,Acf Fiorentina,1-2,Hellas Verona
+Sun Sep 25 1977,Atalanta,1-1,Lazio Roma
+Sun Sep 25 1977,Juventus,1-1,AC Milan
+Sun Oct 2 1977,Pescara Calcio,1-1,As Roma
+Sun Oct 2 1977,Ac Perugia Calcio,2-1,Acf Fiorentina
+Sun Oct 2 1977,Hellas Verona,1-2,Atalanta
+Sun Oct 2 1977,US Foggia,1-0,Bologna FC
+Sun Oct 2 1977,AC Milan,3-1,Vicenza Calcio
+Sun Oct 2 1977,Ssc Napoli,0-0,Genoa CFc
+Sun Oct 2 1977,Lazio Roma,3-0,Juventus
+Sun Oct 2 1977,Torino FC,1-0,Inter
+Sun Oct 23 1977,US Foggia,1-0,Torino FC
+Sun Oct 23 1977,As Roma,1-2,AC Milan
+Sun Oct 23 1977,Vicenza Calcio,1-1,Pescara Calcio
+Sun Oct 23 1977,Juventus,5-1,Acf Fiorentina
+Sun Oct 23 1977,Genoa CFc,2-2,Hellas Verona
+Sun Oct 23 1977,Bologna FC,2-3,Ac Perugia Calcio
+Sun Oct 23 1977,Atalanta,1-1,Ssc Napoli
+Sun Oct 23 1977,Inter,1-1,Lazio Roma
+Sun Oct 30 1977,Lazio Roma,2-1,Pescara Calcio
+Sun Oct 30 1977,Torino FC,3-1,Genoa CFc
+Sun Oct 30 1977,Ac Perugia Calcio,0-0,Juventus
+Sun Oct 30 1977,Hellas Verona,1-1,Bologna FC
+Sun Oct 30 1977,AC Milan,2-0,US Foggia
+Sun Oct 30 1977,Acf Fiorentina,0-2,Inter
+Sun Oct 30 1977,Atalanta,2-4,Vicenza Calcio
+Sun Oct 30 1977,Ssc Napoli,2-0,As Roma
+Sun Nov 6 1977,Bologna FC,1-3,Torino FC
+Sun Nov 6 1977,Genoa CFc,0-0,US Foggia
+Sun Nov 6 1977,Inter,1-3,AC Milan
+Sun Nov 6 1977,Juventus,1-1,Atalanta
+Sun Nov 6 1977,Vicenza Calcio,2-1,Lazio Roma
+Sun Nov 6 1977,Ssc Napoli,3-2,Ac Perugia Calcio
+Sun Nov 6 1977,Pescara Calcio,2-2,Hellas Verona
+Sun Nov 6 1977,As Roma,2-2,Acf Fiorentina
+Sun Nov 20 1977,Ac Perugia Calcio,1-1,Inter
+Sun Nov 20 1977,As Roma,0-0,Lazio Roma
+Sun Nov 20 1977,Torino FC,1-0,Ssc Napoli
+Sun Nov 20 1977,US Foggia,2-0,Pescara Calcio
+Sun Nov 20 1977,Atalanta,1-1,Genoa CFc
+Sun Nov 20 1977,Acf Fiorentina,1-3,Vicenza Calcio
+Sun Nov 20 1977,AC Milan,1-0,Bologna FC
+Sun Nov 20 1977,Hellas Verona,0-0,Juventus
+Sun Nov 27 1977,Juventus,4-0,Genoa CFc
+Sun Nov 27 1977,Pescara Calcio,0-2,AC Milan
+Sun Nov 27 1977,Ac Perugia Calcio,2-0,Torino FC
+Sun Nov 27 1977,Ssc Napoli,3-0,Hellas Verona
+Sun Nov 27 1977,Vicenza Calcio,4-3,As Roma
+Sun Nov 27 1977,Inter,1-0,Atalanta
+Sun Nov 27 1977,Bologna FC,0-1,Acf Fiorentina
+Sun Nov 27 1977,Lazio Roma,1-1,US Foggia
+Sun Dec 11 1977,US Foggia,1-1,Vicenza Calcio
+Sun Dec 11 1977,Hellas Verona,0-0,Inter
+Sun Dec 11 1977,Torino FC,0-0,Juventus
+Sun Dec 11 1977,AC Milan,2-2,Ac Perugia Calcio
+Sun Dec 11 1977,Bologna FC,0-0,As Roma
+Sun Dec 11 1977,Atalanta,0-0,Acf Fiorentina
+Sun Dec 11 1977,Lazio Roma,1-1,Ssc Napoli
+Sun Dec 11 1977,Genoa CFc,1-0,Pescara Calcio
+Sun Dec 18 1977,Ssc Napoli,5-0,US Foggia
+Sun Dec 18 1977,Torino FC,1-0,AC Milan
+Sun Dec 18 1977,As Roma,1-0,Genoa CFc
+Sun Dec 18 1977,Ac Perugia Calcio,0-1,Hellas Verona
+Sun Dec 18 1977,Vicenza Calcio,3-0,Bologna FC
+Sun Dec 18 1977,Inter,0-1,Juventus
+Sun Dec 18 1977,Acf Fiorentina,0-1,Lazio Roma
+Sun Dec 18 1977,Pescara Calcio,0-0,Atalanta
+Sat Dec 31 1977,US Foggia,0-1,Ac Perugia Calcio
+Sat Dec 31 1977,Lazio Roma,1-1,Torino FC
+Sat Dec 31 1977,Juventus,1-0,Bologna FC
+Sat Dec 31 1977,Hellas Verona,0-0,As Roma
+Sat Dec 31 1977,Acf Fiorentina,1-0,Ssc Napoli
+Sat Dec 31 1977,Atalanta,1-1,AC Milan
+Sat Dec 31 1977,Inter,0-0,Pescara Calcio
+Sat Dec 31 1977,Genoa CFc,1-2,Vicenza Calcio
+Sun Jan 8 1978,AC Milan,1-1,Hellas Verona
+Sun Jan 8 1978,Torino FC,1-0,Acf Fiorentina
+Sun Jan 8 1978,As Roma,1-2,Inter
+Sun Jan 8 1978,Ac Perugia Calcio,4-0,Lazio Roma
+Sun Jan 8 1978,Vicenza Calcio,0-0,Ssc Napoli
+Sun Jan 8 1978,US Foggia,1-0,Atalanta
+Sun Jan 8 1978,Bologna FC,2-1,Genoa CFc
+Sun Jan 8 1978,Pescara Calcio,1-2,Juventus
+Sun Jan 15 1978,Juventus,2-0,As Roma
+Sun Jan 15 1978,Ac Perugia Calcio,1-1,Vicenza Calcio
+Sun Jan 15 1978,Hellas Verona,3-1,US Foggia
+Sun Jan 15 1978,Lazio Roma,2-0,AC Milan
+Sun Jan 15 1978,Acf Fiorentina,3-0,Pescara Calcio
+Sun Jan 15 1978,Atalanta,0-0,Torino FC
+Sun Jan 15 1978,Ssc Napoli,0-0,Bologna FC
+Sun Jan 15 1978,Inter,2-0,Genoa CFc
+Sun Jan 22 1978,Vicenza Calcio,0-0,Juventus
+Sun Jan 22 1978,Torino FC,2-1,Hellas Verona
+Sun Jan 22 1978,As Roma,3-1,Atalanta
+Sun Jan 22 1978,AC Milan,0-1,Ssc Napoli
+Sun Jan 22 1978,Genoa CFc,2-1,Acf Fiorentina
+Sun Jan 22 1978,US Foggia,0-2,Inter
+Sun Jan 22 1978,Bologna FC,2-1,Lazio Roma
+Sun Jan 22 1978,Pescara Calcio,1-1,Ac Perugia Calcio
+Sun Jan 29 1978,Ssc Napoli,1-1,Pescara Calcio
+Sun Jan 29 1978,US Foggia,0-0,Juventus
+Sun Jan 29 1978,Torino FC,1-1,As Roma
+Sun Jan 29 1978,Ac Perugia Calcio,1-1,Atalanta
+Sun Jan 29 1978,Bologna FC,2-1,Inter
+Sun Jan 29 1978,Vicenza Calcio,1-0,Hellas Verona
+Sun Jan 29 1978,Lazio Roma,0-0,Genoa CFc
+Sun Jan 29 1978,AC Milan,5-1,Acf Fiorentina
+Sun Feb 5 1978,Inter,2-0,Vicenza Calcio
+Sun Feb 5 1978,Hellas Verona,2-2,Lazio Roma
+Sun Feb 5 1978,As Roma,2-0,Ac Perugia Calcio
+Sun Feb 5 1978,Juventus,1-0,Ssc Napoli
+Sun Feb 5 1978,Genoa CFc,1-1,AC Milan
+Sun Feb 5 1978,Acf Fiorentina,1-1,US Foggia
+Sun Feb 5 1978,Atalanta,0-0,Bologna FC
+Sun Feb 5 1978,Pescara Calcio,2-1,Torino FC
+Sun Feb 12 1978,AC Milan,0-0,Juventus
+Sun Feb 12 1978,Ssc Napoli,2-2,Inter
+Sun Feb 12 1978,Hellas Verona,0-0,Acf Fiorentina
+Sun Feb 12 1978,Torino FC,2-2,Vicenza Calcio
+Sun Feb 12 1978,Bologna FC,1-1,Pescara Calcio
+Sun Feb 12 1978,Lazio Roma,0-2,Atalanta
+Sun Feb 12 1978,US Foggia,0-0,As Roma
+Sun Feb 12 1978,Ac Perugia Calcio,0-0,Genoa CFc
+Sun Feb 19 1978,Genoa CFc,1-1,Ssc Napoli
+Sun Feb 19 1978,As Roma,2-0,Pescara Calcio
+Sun Feb 19 1978,Vicenza Calcio,1-1,AC Milan
+Sun Feb 19 1978,Inter,0-0,Torino FC
+Sun Feb 19 1978,Acf Fiorentina,2-1,Ac Perugia Calcio
+Sun Feb 19 1978,Bologna FC,2-1,US Foggia
+Sun Feb 19 1978,Atalanta,1-0,Hellas Verona
+Sun Feb 19 1978,Juventus,3-0,Lazio Roma
+Sun Feb 26 1978,Ssc Napoli,2-2,Atalanta
+Sun Feb 26 1978,Ac Perugia Calcio,2-0,Bologna FC
+Sun Feb 26 1978,Hellas Verona,2-0,Genoa CFc
+Sun Feb 26 1978,Torino FC,3-1,US Foggia
+Sun Feb 26 1978,Acf Fiorentina,1-1,Juventus
+Sun Feb 26 1978,AC Milan,1-0,As Roma
+Sun Feb 26 1978,Lazio Roma,1-0,Inter
+Sun Feb 26 1978,Pescara Calcio,1-2,Vicenza Calcio
+Sun Mar 5 1978,Inter,2-1,Acf Fiorentina
+Sun Mar 5 1978,As Roma,0-0,Ssc Napoli
+Sun Mar 5 1978,Pescara Calcio,1-0,Lazio Roma
+Sun Mar 5 1978,Juventus,2-0,Ac Perugia Calcio
+Sun Mar 5 1978,Genoa CFc,1-2,Torino FC
+Sun Mar 5 1978,US Foggia,1-2,AC Milan
+Sun Mar 5 1978,Bologna FC,0-3,Hellas Verona
+Sun Mar 5 1978,Vicenza Calcio,2-2,Atalanta
+Sun Mar 12 1978,Lazio Roma,1-3,Vicenza Calcio
+Sun Mar 12 1978,AC Milan,0-0,Inter
+Sun Mar 12 1978,Hellas Verona,1-0,Pescara Calcio
+Sun Mar 12 1978,Torino FC,2-0,Bologna FC
+Sun Mar 12 1978,US Foggia,1-1,Genoa CFc
+Sun Mar 12 1978,Acf Fiorentina,2-0,As Roma
+Sun Mar 12 1978,Atalanta,0-2,Juventus
+Sun Mar 12 1978,Ac Perugia Calcio,2-0,Ssc Napoli
+Sun Mar 19 1978,Juventus,1-0,Hellas Verona
+Sun Mar 19 1978,Ssc Napoli,1-3,Torino FC
+Sun Mar 19 1978,Vicenza Calcio,1-0,Acf Fiorentina
+Sun Mar 19 1978,Pescara Calcio,1-2,US Foggia
+Sun Mar 19 1978,Inter,2-0,Ac Perugia Calcio
+Sun Mar 19 1978,Genoa CFc,0-1,Atalanta
+Sun Mar 19 1978,Bologna FC,0-0,AC Milan
+Sun Mar 19 1978,Lazio Roma,1-1,As Roma
+Sun Mar 26 1978,AC Milan,2-0,Pescara Calcio
+Sun Mar 26 1978,Torino FC,1-1,Ac Perugia Calcio
+Sun Mar 26 1978,Hellas Verona,0-1,Ssc Napoli
+Sun Mar 26 1978,As Roma,1-1,Vicenza Calcio
+Sun Mar 26 1978,US Foggia,3-1,Lazio Roma
+Sun Mar 26 1978,Atalanta,0-1,Inter
+Sun Mar 26 1978,Acf Fiorentina,0-0,Bologna FC
+Sun Mar 26 1978,Genoa CFc,2-2,Juventus
+Sun Apr 2 1978,Vicenza Calcio,2-0,US Foggia
+Sun Apr 2 1978,As Roma,1-1,Bologna FC
+Sun Apr 2 1978,Pescara Calcio,0-0,Genoa CFc
+Sun Apr 2 1978,Ssc Napoli,4-3,Lazio Roma
+Sun Apr 2 1978,Juventus,0-0,Torino FC
+Sun Apr 2 1978,Inter,0-0,Hellas Verona
+Sun Apr 2 1978,Acf Fiorentina,2-2,Atalanta
+Sun Apr 2 1978,Ac Perugia Calcio,0-1,AC Milan
+Sun Apr 9 1978,Genoa CFc,1-0,As Roma
+Sun Apr 9 1978,Juventus,2-2,Inter
+Sun Apr 9 1978,Hellas Verona,0-0,Ac Perugia Calcio
+Sun Apr 9 1978,AC Milan,1-1,Torino FC
+Sun Apr 9 1978,Atalanta,2-0,Pescara Calcio
+Sun Apr 9 1978,US Foggia,1-1,Ssc Napoli
+Sun Apr 9 1978,Bologna FC,3-2,Vicenza Calcio
+Sun Apr 9 1978,Lazio Roma,1-0,Acf Fiorentina
+Sun Apr 16 1978,Ssc Napoli,0-0,Acf Fiorentina
+Sun Apr 16 1978,As Roma,2-1,Hellas Verona
+Sun Apr 16 1978,Ac Perugia Calcio,3-1,US Foggia
+Sun Apr 16 1978,Torino FC,1-0,Lazio Roma
+Sun Apr 16 1978,AC Milan,0-1,Atalanta
+Sun Apr 16 1978,Vicenza Calcio,1-0,Genoa CFc
+Sun Apr 16 1978,Bologna FC,1-1,Juventus
+Sun Apr 16 1978,Pescara Calcio,2-1,Inter
+Sun Apr 23 1978,Juventus,2-0,Pescara Calcio
+Sun Apr 23 1978,Ssc Napoli,1-4,Vicenza Calcio
+Sun Apr 23 1978,Hellas Verona,1-2,AC Milan
+Sun Apr 23 1978,Lazio Roma,2-0,Ac Perugia Calcio
+Sun Apr 23 1978,Genoa CFc,0-0,Bologna FC
+Sun Apr 23 1978,Atalanta,1-2,US Foggia
+Sun Apr 23 1978,Inter,4-2,As Roma
+Sun Apr 23 1978,Acf Fiorentina,2-0,Torino FC
+Sun Apr 30 1978,Torino FC,3-2,Atalanta
+Sun Apr 30 1978,Bologna FC,0-0,Ssc Napoli
+Sun Apr 30 1978,US Foggia,4-0,Hellas Verona
+Sun Apr 30 1978,Genoa CFc,1-1,Inter
+Sun Apr 30 1978,Vicenza Calcio,3-1,Ac Perugia Calcio
+Sun Apr 30 1978,AC Milan,0-2,Lazio Roma
+Sun Apr 30 1978,Pescara Calcio,1-2,Acf Fiorentina
+Sun Apr 30 1978,As Roma,1-1,Juventus
+Sun May 7 1978,Ac Perugia Calcio,2-1,Pescara Calcio
+Sun May 7 1978,Ssc Napoli,1-1,AC Milan
+Sun May 7 1978,Lazio Roma,0-1,Bologna FC
+Sun May 7 1978,Juventus,3-2,Vicenza Calcio
+Sun May 7 1978,Inter,2-1,US Foggia
+Sun May 7 1978,Atalanta,0-1,As Roma
+Sun May 7 1978,Hellas Verona,0-0,Torino FC
+Sun May 7 1978,Acf Fiorentina,0-0,Genoa CFc

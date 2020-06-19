@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sun Sep 11 1949,Bologna FC,2-6,Atalanta
+Sun Sep 11 1949,Calcio Como,1-0,US Palermo
+Sun Sep 11 1949,Inter,1-1,Calcio Padova
+Sun Sep 11 1949,Juventus,5-2,Acf Fiorentina
+Sun Sep 11 1949,Lucchese,2-2,Lazio Roma
+Sun Sep 11 1949,Novara Calcio,1-2,Unione Triestina
+Sun Sep 11 1949,As Roma,2-0,Pro Patria
+Sun Sep 11 1949,Sampdoria,1-3,AC Milan
+Sun Sep 11 1949,Ac Venezia,0-1,Torino FC
+Sun Sep 11 1949,As Bari,2-0,Genoa CFc
+Sun Sep 18 1949,As Bari,3-2,Bologna FC
+Sun Sep 18 1949,Torino FC,5-1,Novara Calcio
+Sun Sep 18 1949,Pro Patria,0-3,Inter
+Sun Sep 18 1949,Calcio Padova,2-1,US Palermo
+Sun Sep 18 1949,AC Milan,1-1,Calcio Como
+Sun Sep 18 1949,Lucchese,7-2,Unione Triestina
+Sun Sep 18 1949,Lazio Roma,1-3,Juventus
+Sun Sep 18 1949,Acf Fiorentina,5-0,Ac Venezia
+Sun Sep 18 1949,Atalanta,3-1,Sampdoria
+Sun Sep 18 1949,Genoa CFc,2-1,As Roma
+Sun Sep 25 1949,As Roma,0-1,Calcio Padova
+Sun Sep 25 1949,Calcio Como,1-0,Lazio Roma
+Sun Sep 25 1949,Ac Venezia,1-4,AC Milan
+Sun Sep 25 1949,Unione Triestina,1-1,Acf Fiorentina
+Sun Sep 25 1949,Sampdoria,4-0,Torino FC
+Sun Sep 25 1949,Novara Calcio,5-0,Lucchese
+Sun Sep 25 1949,Bologna FC,3-1,Pro Patria
+Sun Sep 25 1949,Inter,3-1,Atalanta
+Sun Sep 25 1949,US Palermo,3-2,Genoa CFc
+Sun Sep 25 1949,Juventus,4-0,As Bari
+Sun Oct 2 1949,AC Milan,0-1,Juventus
+Sun Oct 2 1949,Ac Venezia,1-2,Calcio Como
+Sun Oct 2 1949,Unione Triestina,4-2,Inter
+Sun Oct 2 1949,Torino FC,3-1,Lucchese
+Sun Oct 2 1949,Sampdoria,1-1,Calcio Padova
+Sun Oct 2 1949,US Palermo,2-1,Bologna FC
+Sun Oct 2 1949,Lazio Roma,1-0,Genoa CFc
+Sun Oct 2 1949,Acf Fiorentina,4-1,As Roma
+Sun Oct 2 1949,Atalanta,2-1,As Bari
+Sun Oct 2 1949,Pro Patria,1-0,Novara Calcio
+Sun Oct 9 1949,Novara Calcio,5-2,Atalanta
+Sun Oct 9 1949,Lucchese,2-1,US Palermo
+Sun Oct 9 1949,As Roma,3-1,Bologna FC
+Sun Oct 9 1949,Calcio Padova,2-1,Lazio Roma
+Sun Oct 9 1949,Inter,7-0,Ac Venezia
+Sun Oct 9 1949,As Bari,1-0,Acf Fiorentina
+Sun Oct 9 1949,Genoa CFc,0-1,Sampdoria
+Sun Oct 9 1949,Pro Patria,2-4,AC Milan
+Sun Oct 9 1949,Calcio Como,1-3,Torino FC
+Sun Oct 9 1949,Juventus,3-0,Unione Triestina
+Sun Oct 16 1949,Acf Fiorentina,4-2,Inter
+Sun Oct 16 1949,Ac Venezia,3-7,Sampdoria
+Sun Oct 16 1949,Unione Triestina,2-2,Calcio Padova
+Sun Oct 16 1949,Torino FC,1-1,Pro Patria
+Sun Oct 16 1949,AC Milan,4-1,US Palermo
+Sun Oct 16 1949,Genoa CFc,3-1,Calcio Como
+Sun Oct 16 1949,Bologna FC,1-1,Novara Calcio
+Sun Oct 16 1949,As Bari,2-1,Lucchese
+Sun Oct 16 1949,Atalanta,2-2,Juventus
+Sun Oct 16 1949,Lazio Roma,3-1,As Roma
+Thu Oct 20 1949,Calcio Padova,4-1,Torino FC
+Thu Oct 20 1949,As Roma,1-3,Inter
+Thu Oct 20 1949,Sampdoria,3-0,Novara Calcio
+Thu Oct 20 1949,Pro Patria,1-2,Atalanta
+Thu Oct 20 1949,US Palermo,2-0,As Bari
+Thu Oct 20 1949,Lucchese,2-2,Genoa CFc
+Thu Oct 20 1949,Juventus,1-0,Ac Venezia
+Thu Oct 20 1949,Calcio Como,4-1,Acf Fiorentina
+Thu Oct 20 1949,Bologna FC,1-1,Unione Triestina
+Thu Oct 20 1949,AC Milan,0-0,Lazio Roma
+Sun Oct 23 1949,Lazio Roma,4-2,As Bari
+Sun Oct 23 1949,Atalanta,1-1,Lucchese
+Sun Oct 23 1949,Torino FC,3-2,AC Milan
+Sun Oct 23 1949,Pro Patria,1-0,Ac Venezia
+Sun Oct 23 1949,Novara Calcio,1-1,Calcio Padova
+Sun Oct 23 1949,Unione Triestina,1-1,Calcio Como
+Sun Oct 23 1949,Inter,2-0,Sampdoria
+Sun Oct 23 1949,Genoa CFc,1-2,Juventus
+Sun Oct 23 1949,Acf Fiorentina,3-0,Bologna FC
+Sun Oct 23 1949,US Palermo,3-0,As Roma
+Sun Oct 30 1949,Novara Calcio,0-0,Inter
+Sun Oct 30 1949,Sampdoria,2-5,Lazio Roma
+Sun Oct 30 1949,Ac Venezia,1-1,US Palermo
+Sun Oct 30 1949,As Roma,3-1,Torino FC
+Sun Oct 30 1949,Calcio Padova,1-1,Pro Patria
+Sun Oct 30 1949,AC Milan,2-1,Atalanta
+Sun Oct 30 1949,Lucchese,1-3,Acf Fiorentina
+Sun Oct 30 1949,Juventus,2-2,Calcio Como
+Sun Oct 30 1949,As Bari,1-1,Unione Triestina
+Sun Oct 30 1949,Bologna FC,0-0,Genoa CFc
+Sun Nov 6 1949,Sampdoria,4-0,US Palermo
+Sun Nov 6 1949,Calcio Como,2-2,Bologna FC
+Sun Nov 6 1949,Ac Venezia,2-1,As Bari
+Sun Nov 6 1949,Unione Triestina,2-2,As Roma
+Sun Nov 6 1949,Torino FC,1-3,Juventus
+Sun Nov 6 1949,Lazio Roma,4-0,Novara Calcio
+Sun Nov 6 1949,Atalanta,4-0,Genoa CFc
+Sun Nov 6 1949,Acf Fiorentina,3-0,Calcio Padova
+Sun Nov 6 1949,Inter,6-5,AC Milan
+Sun Nov 6 1949,Pro Patria,2-2,Lucchese
+Sun Nov 13 1949,Genoa CFc,2-0,Acf Fiorentina
+Sun Nov 13 1949,US Palermo,0-2,Unione Triestina
+Sun Nov 13 1949,Calcio Padova,2-0,Atalanta
+Sun Nov 13 1949,Novara Calcio,5-1,Ac Venezia
+Sun Nov 13 1949,Juventus,3-2,Inter
+Sun Nov 13 1949,As Roma,2-1,Sampdoria
+Sun Nov 13 1949,Calcio Como,1-0,Pro Patria
+Sun Nov 13 1949,Bologna FC,0-0,Lazio Roma
+Sun Nov 13 1949,As Bari,1-5,Torino FC
+Sun Nov 13 1949,AC Milan,2-0,Lucchese
+Sun Nov 20 1949,US Palermo,4-2,Inter
+Sun Nov 20 1949,Torino FC,2-0,Genoa CFc
+Sun Nov 20 1949,Sampdoria,2-1,Bologna FC
+Sun Nov 20 1949,Pro Patria,0-3,Juventus
+Sun Nov 20 1949,AC Milan,4-1,Acf Fiorentina
+Sun Nov 20 1949,Lucchese,3-1,Calcio Como
+Sun Nov 20 1949,Lazio Roma,2-0,Unione Triestina
+Sun Nov 20 1949,Atalanta,3-2,As Roma
+Sun Nov 20 1949,Ac Venezia,0-8,Calcio Padova
+Sun Nov 20 1949,As Bari,0-0,Novara Calcio
+Sun Dec 4 1949,Juventus,6-2,US Palermo
+Sun Dec 4 1949,Unione Triestina,3-0,Torino FC
+Sun Dec 4 1949,As Roma,2-2,Lucchese
+Sun Dec 4 1949,Calcio Padova,3-1,As Bari
+Sun Dec 4 1949,Novara Calcio,1-3,AC Milan
+Sun Dec 4 1949,Genoa CFc,2-1,Pro Patria
+Sun Dec 4 1949,Acf Fiorentina,2-1,Atalanta
+Sun Dec 4 1949,Bologna FC,6-1,Ac Venezia
+Sun Dec 4 1949,Calcio Como,3-1,Sampdoria
+Sun Dec 4 1949,Inter,2-1,Lazio Roma
+Thu Dec 8 1949,AC Milan,5-0,Genoa CFc
+Thu Dec 8 1949,Unione Triestina,2-0,Ac Venezia
+Thu Dec 8 1949,Torino FC,3-1,Bologna FC
+Thu Dec 8 1949,Sampdoria,3-0,As Bari
+Thu Dec 8 1949,Calcio Padova,0-2,Juventus
+Thu Dec 8 1949,Lucchese,0-5,Inter
+Thu Dec 8 1949,Lazio Roma,1-1,Atalanta
+Thu Dec 8 1949,Acf Fiorentina,5-0,Novara Calcio
+Thu Dec 8 1949,Calcio Como,0-0,As Roma
+Thu Dec 8 1949,Pro Patria,2-0,US Palermo
+Sun Dec 11 1949,Lazio Roma,1-1,Acf Fiorentina
+Sun Dec 11 1949,Sampdoria,3-1,Unione Triestina
+Sun Dec 11 1949,Ac Venezia,3-1,Genoa CFc
+Sun Dec 11 1949,Novara Calcio,1-1,Calcio Como
+Sun Dec 11 1949,Lucchese,6-3,Calcio Padova
+Sun Dec 11 1949,Inter,2-0,Torino FC
+Sun Dec 11 1949,Bologna FC,0-1,AC Milan
+Sun Dec 11 1949,Atalanta,3-0,US Palermo
+Sun Dec 11 1949,As Bari,1-1,Pro Patria
+Sun Dec 11 1949,Juventus,3-0,As Roma
+Sun Dec 18 1949,Novara Calcio,2-3,Juventus
+Sun Dec 18 1949,Torino FC,2-2,Acf Fiorentina
+Sun Dec 18 1949,As Roma,3-2,Ac Venezia
+Sun Dec 18 1949,Pro Patria,0-0,Unione Triestina
+Sun Dec 18 1949,Calcio Padova,0-0,Bologna FC
+Sun Dec 18 1949,AC Milan,9-1,As Bari
+Sun Dec 18 1949,Lucchese,3-0,Sampdoria
+Sun Dec 18 1949,Genoa CFc,1-1,Inter
+Sun Dec 18 1949,Atalanta,0-2,Calcio Como
+Sun Dec 18 1949,US Palermo,2-1,Lazio Roma
+Mon Dec 26 1949,AC Milan,4-2,Calcio Padova
+Mon Dec 26 1949,Unione Triestina,0-1,Atalanta
+Mon Dec 26 1949,Torino FC,2-2,Lazio Roma
+Mon Dec 26 1949,Ac Venezia,1-0,Lucchese
+Mon Dec 26 1949,Pro Patria,1-1,Sampdoria
+Mon Dec 26 1949,Acf Fiorentina,0-0,US Palermo
+Mon Dec 26 1949,Calcio Como,1-5,Inter
+Mon Dec 26 1949,Bologna FC,0-4,Juventus
+Mon Dec 26 1949,As Roma,6-0,As Bari
+Mon Dec 26 1949,Genoa CFc,2-0,Novara Calcio
+Sun Jan 1 1950,Lazio Roma,1-0,Pro Patria
+Sun Jan 1 1950,Unione Triestina,0-0,AC Milan
+Sun Jan 1 1950,Sampdoria,1-1,Acf Fiorentina
+Sun Jan 1 1950,US Palermo,2-1,Torino FC
+Sun Jan 1 1950,Novara Calcio,0-2,As Roma
+Sun Jan 1 1950,Juventus,1-2,Lucchese
+Sun Jan 1 1950,Inter,2-1,Bologna FC
+Sun Jan 1 1950,As Bari,1-0,Calcio Como
+Sun Jan 1 1950,Atalanta,3-1,Ac Venezia
+Sun Jan 1 1950,Calcio Padova,2-2,Genoa CFc
+Sun Jan 8 1950,Calcio Como,1-2,Calcio Padova
+Sun Jan 8 1950,Lucchese,1-1,Bologna FC
+Sun Jan 8 1950,Ac Venezia,1-0,Lazio Roma
+Sun Jan 8 1950,As Roma,1-0,AC Milan
+Sun Jan 8 1950,US Palermo,3-1,Novara Calcio
+Sun Jan 8 1950,Inter,4-0,As Bari
+Sun Jan 8 1950,Atalanta,0-0,Torino FC
+Sun Jan 8 1950,Acf Fiorentina,4-1,Pro Patria
+Sun Jan 8 1950,Genoa CFc,6-2,Unione Triestina
+Sun Jan 8 1950,Juventus,1-0,Sampdoria
+Sun Jan 15 1950,Lazio Roma,4-2,Lucchese
+Sun Jan 15 1950,Torino FC,3-0,Ac Venezia
+Sun Jan 15 1950,Pro Patria,2-1,As Roma
+Sun Jan 15 1950,US Palermo,3-2,Calcio Como
+Sun Jan 15 1950,AC Milan,5-1,Sampdoria
+Sun Jan 15 1950,Unione Triestina,1-0,Novara Calcio
+Sun Jan 15 1950,Genoa CFc,1-0,As Bari
+Sun Jan 15 1950,Acf Fiorentina,0-0,Juventus
+Sun Jan 15 1950,Atalanta,1-1,Bologna FC
+Sun Jan 15 1950,Calcio Padova,2-2,Inter
+Sun Jan 22 1950,US Palermo,3-0,Calcio Padova
+Sun Jan 22 1950,Unione Triestina,2-0,Lucchese
+Sun Jan 22 1950,Sampdoria,2-2,Atalanta
+Sun Jan 22 1950,As Roma,3-0,Genoa CFc
+Sun Jan 22 1950,Novara Calcio,5-2,Torino FC
+Sun Jan 22 1950,Juventus,1-2,Lazio Roma
+Sun Jan 22 1950,Inter,2-0,Pro Patria
+Sun Jan 22 1950,Bologna FC,2-0,As Bari
+Sun Jan 22 1950,Ac Venezia,1-2,Acf Fiorentina
+Sun Jan 22 1950,Calcio Como,1-4,AC Milan
+Sun Jan 29 1950,Lucchese,2-1,Novara Calcio
+Sun Jan 29 1950,Torino FC,4-1,Sampdoria
+Sun Jan 29 1950,Pro Patria,3-3,Bologna FC
+Sun Jan 29 1950,Calcio Padova,4-1,As Roma
+Sun Jan 29 1950,AC Milan,2-0,Ac Venezia
+Sun Jan 29 1950,Genoa CFc,1-0,US Palermo
+Sun Jan 29 1950,Acf Fiorentina,2-1,Unione Triestina
+Sun Jan 29 1950,Atalanta,2-1,Inter
+Sun Jan 29 1950,As Bari,0-0,Juventus
+Sun Jan 29 1950,Lazio Roma,3-2,Calcio Como
+Sun Feb 5 1950,Inter,6-1,Unione Triestina
+Sun Feb 5 1950,As Roma,1-1,Acf Fiorentina
+Sun Feb 5 1950,Calcio Padova,1-2,Sampdoria
+Sun Feb 5 1950,Novara Calcio,3-2,Pro Patria
+Sun Feb 5 1950,Juventus,1-7,AC Milan
+Sun Feb 5 1950,Genoa CFc,2-1,Lazio Roma
+Sun Feb 5 1950,Calcio Como,0-0,Ac Venezia
+Sun Feb 5 1950,Bologna FC,1-1,US Palermo
+Sun Feb 5 1950,As Bari,1-0,Atalanta
+Sun Feb 5 1950,Lucchese,2-2,Torino FC
+Sun Feb 12 1950,Ac Venezia,1-1,Inter
+Sun Feb 12 1950,Unione Triestina,2-3,Juventus
+Sun Feb 12 1950,US Palermo,1-1,Lucchese
+Sun Feb 12 1950,Torino FC,4-0,Calcio Como
+Sun Feb 12 1950,Sampdoria,1-1,Genoa CFc
+Sun Feb 12 1950,Lazio Roma,4-0,Calcio Padova
+Sun Feb 12 1950,Acf Fiorentina,3-0,As Bari
+Sun Feb 12 1950,Atalanta,0-2,Novara Calcio
+Sun Feb 12 1950,Bologna FC,2-1,As Roma
+Sun Feb 12 1950,AC Milan,7-1,Pro Patria
+Sun Feb 19 1950,Novara Calcio,1-2,Bologna FC
+Sun Feb 19 1950,Sampdoria,0-0,Ac Venezia
+Sun Feb 19 1950,As Roma,0-0,Lazio Roma
+Sun Feb 19 1950,Pro Patria,6-1,Torino FC
+Sun Feb 19 1950,Calcio Padova,0-1,Unione Triestina
+Sun Feb 19 1950,Lucchese,3-0,As Bari
+Sun Feb 19 1950,Juventus,2-0,Atalanta
+Sun Feb 19 1950,Inter,4-2,Acf Fiorentina
+Sun Feb 19 1950,Calcio Como,0-0,Genoa CFc
+Sun Feb 19 1950,US Palermo,0-1,AC Milan
+Thu Feb 23 1950,Inter,3-1,As Roma
+Thu Feb 23 1950,Unione Triestina,0-0,Bologna FC
+Thu Feb 23 1950,Torino FC,2-0,Calcio Padova
+Thu Feb 23 1950,Ac Venezia,1-4,Juventus
+Thu Feb 23 1950,Lazio Roma,3-2,AC Milan
+Thu Feb 23 1950,Acf Fiorentina,0-1,Calcio Como
+Thu Feb 23 1950,As Bari,1-2,US Palermo
+Thu Feb 23 1950,Atalanta,2-1,Pro Patria
+Thu Feb 23 1950,Novara Calcio,1-2,Sampdoria
+Thu Feb 23 1950,Genoa CFc,1-1,Lucchese
+Sun Mar 5 1950,Lucchese,4-2,Atalanta
+Sun Mar 5 1950,Ac Venezia,0-0,Pro Patria
+Sun Mar 5 1950,Sampdoria,0-2,Inter
+Sun Mar 5 1950,As Roma,2-1,US Palermo
+Sun Mar 5 1950,AC Milan,7-0,Torino FC
+Sun Mar 5 1950,Juventus,6-1,Genoa CFc
+Sun Mar 5 1950,Calcio Como,3-1,Unione Triestina
+Sun Mar 5 1950,Bologna FC,2-1,Acf Fiorentina
+Sun Mar 5 1950,As Bari,2-1,Lazio Roma
+Sun Mar 5 1950,Calcio Padova,0-1,Novara Calcio
+Sun Mar 12 1950,Inter,1-1,Novara Calcio
+Sun Mar 12 1950,Torino FC,5-0,As Roma
+Sun Mar 12 1950,Pro Patria,2-1,Calcio Padova
+Sun Mar 12 1950,Unione Triestina,1-0,As Bari
+Sun Mar 12 1950,Lazio Roma,1-0,Sampdoria
+Sun Mar 12 1950,Acf Fiorentina,2-0,Lucchese
+Sun Mar 12 1950,Calcio Como,2-6,Juventus
+Sun Mar 12 1950,Atalanta,5-2,AC Milan
+Sun Mar 12 1950,US Palermo,1-0,Ac Venezia
+Sun Mar 12 1950,Genoa CFc,2-2,Bologna FC
+Sun Mar 19 1950,Juventus,4-3,Torino FC
+Sun Mar 19 1950,US Palermo,2-3,Sampdoria
+Sun Mar 19 1950,Calcio Padova,3-4,Acf Fiorentina
+Sun Mar 19 1950,Novara Calcio,0-1,Lazio Roma
+Sun Mar 19 1950,Lucchese,1-3,Pro Patria
+Sun Mar 19 1950,As Roma,0-0,Unione Triestina
+Sun Mar 19 1950,Genoa CFc,1-0,Atalanta
+Sun Mar 19 1950,Bologna FC,2-2,Calcio Como
+Sun Mar 19 1950,As Bari,4-0,Ac Venezia
+Sun Mar 19 1950,AC Milan,3-1,Inter
+Sun Mar 26 1950,Pro Patria,0-0,Calcio Como
+Sun Mar 26 1950,Unione Triestina,1-0,US Palermo
+Sun Mar 26 1950,Torino FC,1-1,As Bari
+Sun Mar 26 1950,Sampdoria,4-1,As Roma
+Sun Mar 26 1950,Lucchese,0-2,AC Milan
+Sun Mar 26 1950,Lazio Roma,3-2,Bologna FC
+Sun Mar 26 1950,Inter,2-4,Juventus
+Sun Mar 26 1950,Atalanta,4-0,Calcio Padova
+Sun Mar 26 1950,Ac Venezia,0-1,Novara Calcio
+Sun Mar 26 1950,Acf Fiorentina,3-1,Genoa CFc
+Sun Apr 9 1950,Juventus,3-1,Pro Patria
+Sun Apr 9 1950,Unione Triestina,0-0,Lazio Roma
+Sun Apr 9 1950,As Roma,1-3,Atalanta
+Sun Apr 9 1950,Calcio Padova,3-0,Ac Venezia
+Sun Apr 9 1950,Novara Calcio,0-0,As Bari
+Sun Apr 9 1950,Genoa CFc,3-2,Torino FC
+Sun Apr 9 1950,Acf Fiorentina,1-3,AC Milan
+Sun Apr 9 1950,Bologna FC,1-0,Sampdoria
+Sun Apr 9 1950,Calcio Como,4-0,Lucchese
+Sun Apr 9 1950,Inter,1-1,US Palermo
+Sun Apr 16 1950,AC Milan,5-0,Novara Calcio
+Sun Apr 16 1950,Ac Venezia,1-1,Bologna FC
+Sun Apr 16 1950,Torino FC,3-1,Unione Triestina
+Sun Apr 16 1950,Sampdoria,0-1,Calcio Como
+Sun Apr 16 1950,US Palermo,0-0,Juventus
+Sun Apr 16 1950,Lucchese,3-1,As Roma
+Sun Apr 16 1950,Lazio Roma,3-2,Inter
+Sun Apr 16 1950,As Bari,1-0,Calcio Padova
+Sun Apr 16 1950,Atalanta,3-2,Acf Fiorentina
+Sun Apr 16 1950,Pro Patria,2-0,Genoa CFc
+Sun Apr 23 1950,Juventus,4-0,Calcio Padova
+Sun Apr 23 1950,As Roma,0-1,Calcio Como
+Sun Apr 23 1950,Ac Venezia,0-1,Unione Triestina
+Sun Apr 23 1950,US Palermo,0-0,Pro Patria
+Sun Apr 23 1950,Novara Calcio,3-0,Acf Fiorentina
+Sun Apr 23 1950,Genoa CFc,1-0,AC Milan
+Sun Apr 23 1950,Bologna FC,5-2,Torino FC
+Sun Apr 23 1950,Atalanta,1-0,Lazio Roma
+Sun Apr 23 1950,As Bari,3-1,Sampdoria
+Sun Apr 23 1950,Inter,6-3,Lucchese
+Sun Apr 30 1950,Calcio Padova,3-2,Lucchese
+Sun Apr 30 1950,Unione Triestina,3-2,Sampdoria
+Sun Apr 30 1950,Torino FC,1-0,Inter
+Sun Apr 30 1950,As Roma,1-0,Juventus
+Sun Apr 30 1950,US Palermo,3-2,Atalanta
+Sun Apr 30 1950,AC Milan,2-0,Bologna FC
+Sun Apr 30 1950,Genoa CFc,1-0,Ac Venezia
+Sun Apr 30 1950,Acf Fiorentina,2-2,Lazio Roma
+Sun Apr 30 1950,Calcio Como,2-2,Novara Calcio
+Sun Apr 30 1950,Pro Patria,2-1,As Bari
+Sun May 7 1950,Inter,4-2,Genoa CFc
+Sun May 7 1950,Unione Triestina,2-2,Pro Patria
+Sun May 7 1950,Sampdoria,3-1,Lucchese
+Sun May 7 1950,Ac Venezia,2-1,As Roma
+Sun May 7 1950,Juventus,1-1,Novara Calcio
+Sun May 7 1950,Calcio Como,4-0,Atalanta
+Sun May 7 1950,Bologna FC,0-0,Calcio Padova
+Sun May 7 1950,As Bari,2-0,AC Milan
+Sun May 7 1950,Lazio Roma,5-0,US Palermo
+Sun May 7 1950,Acf Fiorentina,4-1,Torino FC
+Sun May 14 1950,Lazio Roma,2-2,Torino FC
+Sun May 14 1950,Sampdoria,3-3,Pro Patria
+Sun May 14 1950,US Palermo,0-1,Acf Fiorentina
+Sun May 14 1950,Calcio Padova,1-2,AC Milan
+Sun May 14 1950,Lucchese,2-0,Ac Venezia
+Sun May 14 1950,Juventus,3-2,Bologna FC
+Sun May 14 1950,Inter,1-2,Calcio Como
+Sun May 14 1950,As Bari,1-1,As Roma
+Sun May 14 1950,Atalanta,0-1,Unione Triestina
+Sun May 14 1950,Novara Calcio,2-1,Genoa CFc
+Sun May 21 1950,Bologna FC,2-3,Inter
+Sun May 21 1950,Pro Patria,1-0,Lazio Roma
+Sun May 21 1950,Ac Venezia,1-2,Atalanta
+Sun May 21 1950,Torino FC,5-1,US Palermo
+Sun May 21 1950,As Roma,2-1,Novara Calcio
+Sun May 21 1950,Lucchese,1-2,Juventus
+Sun May 21 1950,Genoa CFc,0-1,Calcio Padova
+Sun May 21 1950,AC Milan,5-2,Unione Triestina
+Sun May 21 1950,Calcio Como,4-1,As Bari
+Sun May 21 1950,Acf Fiorentina,4-1,Sampdoria
+Sun May 28 1950,AC Milan,6-2,As Roma
+Sun May 28 1950,Torino FC,3-1,Atalanta
+Sun May 28 1950,Sampdoria,0-4,Juventus
+Sun May 28 1950,Pro Patria,3-0,Acf Fiorentina
+Sun May 28 1950,Novara Calcio,2-1,US Palermo
+Sun May 28 1950,Unione Triestina,3-0,Genoa CFc
+Sun May 28 1950,Lazio Roma,2-0,Ac Venezia
+Sun May 28 1950,Bologna FC,1-1,Lucchese
+Sun May 28 1950,As Bari,2-3,Inter
+Sun May 28 1950,Calcio Padova,5-2,Calcio Como

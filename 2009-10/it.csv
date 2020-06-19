@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 22 2009,Bologna FC,1-1,Acf Fiorentina
+Sat Aug 22 2009,AC Siena,1-2,AC Milan
+Sun Aug 23 2009,Inter,1-1,As Bari
+Sun Aug 23 2009,Calcio Catania,1-2,Sampdoria
+Sun Aug 23 2009,Genoa CFc,3-2,As Roma
+Sun Aug 23 2009,Juventus,1-0,Chievo Verona
+Sun Aug 23 2009,Lazio Roma,1-0,Atalanta
+Sun Aug 23 2009,As Livorno,0-0,Cagliari Calcio
+Sun Aug 23 2009,US Palermo,2-1,Ssc Napoli
+Sun Aug 23 2009,Udinese Calcio,2-2,Parma FC
+Sat Aug 29 2009,As Bari,0-0,Bologna FC
+Sat Aug 29 2009,AC Milan,0-4,Inter
+Sun Aug 30 2009,As Roma,1-3,Juventus
+Sun Aug 30 2009,Atalanta,0-1,Genoa CFc
+Sun Aug 30 2009,Cagliari Calcio,1-3,AC Siena
+Sun Aug 30 2009,Chievo Verona,1-2,Lazio Roma
+Sun Aug 30 2009,Acf Fiorentina,1-0,US Palermo
+Sun Aug 30 2009,Ssc Napoli,3-1,As Livorno
+Sun Aug 30 2009,Parma FC,2-1,Calcio Catania
+Sun Aug 30 2009,Sampdoria,3-1,Udinese Calcio
+Sat Sep 12 2009,As Livorno,0-0,AC Milan
+Sat Sep 12 2009,Lazio Roma,0-2,Juventus
+Sun Sep 13 2009,Atalanta,0-1,Sampdoria
+Sun Sep 13 2009,Bologna FC,0-2,Chievo Verona
+Sun Sep 13 2009,Acf Fiorentina,1-0,Cagliari Calcio
+Sun Sep 13 2009,Inter,2-0,Parma FC
+Sun Sep 13 2009,US Palermo,1-1,As Bari
+Sun Sep 13 2009,AC Siena,1-2,As Roma
+Sun Sep 13 2009,Udinese Calcio,4-2,Calcio Catania
+Sun Sep 13 2009,Genoa CFc,4-1,Ssc Napoli
+Sat Sep 19 2009,Ssc Napoli,0-0,Udinese Calcio
+Sat Sep 19 2009,Juventus,2-0,As Livorno
+Sun Sep 20 2009,As Bari,4-1,Atalanta
+Sun Sep 20 2009,Cagliari Calcio,1-2,Inter
+Sun Sep 20 2009,Calcio Catania,1-1,Lazio Roma
+Sun Sep 20 2009,Chievo Verona,3-1,Genoa CFc
+Sun Sep 20 2009,AC Milan,1-0,Bologna FC
+Sun Sep 20 2009,Parma FC,1-0,US Palermo
+Sun Sep 20 2009,Sampdoria,4-1,AC Siena
+Sun Sep 20 2009,As Roma,3-1,Acf Fiorentina
+Wed Sep 23 2009,Atalanta,0-0,Calcio Catania
+Wed Sep 23 2009,As Bari,0-1,Cagliari Calcio
+Wed Sep 23 2009,Bologna FC,2-0,As Livorno
+Wed Sep 23 2009,Acf Fiorentina,2-0,Sampdoria
+Wed Sep 23 2009,Inter,3-1,Ssc Napoli
+Wed Sep 23 2009,Lazio Roma,1-2,Parma FC
+Wed Sep 23 2009,US Palermo,3-3,As Roma
+Wed Sep 23 2009,AC Siena,0-0,Chievo Verona
+Wed Sep 23 2009,Udinese Calcio,1-0,AC Milan
+Thu Sep 24 2009,Genoa CFc,2-2,Juventus
+Sat Sep 26 2009,Sampdoria,1-0,Inter
+Sat Sep 26 2009,As Livorno,0-1,Acf Fiorentina
+Sun Sep 27 2009,Calcio Catania,1-1,As Roma
+Sun Sep 27 2009,Chievo Verona,1-1,Atalanta
+Sun Sep 27 2009,Juventus,1-1,Bologna FC
+Sun Sep 27 2009,Lazio Roma,1-1,US Palermo
+Sun Sep 27 2009,Ssc Napoli,2-1,AC Siena
+Sun Sep 27 2009,Parma FC,0-2,Cagliari Calcio
+Sun Sep 27 2009,Udinese Calcio,2-0,Genoa CFc
+Sun Sep 27 2009,AC Milan,0-0,As Bari
+Sat Oct 3 2009,As Bari,0-0,Calcio Catania
+Sat Oct 3 2009,Inter,2-1,Udinese Calcio
+Sun Oct 4 2009,Atalanta,1-1,AC Milan
+Sun Oct 4 2009,Bologna FC,1-3,Genoa CFc
+Sun Oct 4 2009,Cagliari Calcio,1-2,Chievo Verona
+Sun Oct 4 2009,Acf Fiorentina,0-0,Lazio Roma
+Sun Oct 4 2009,As Roma,2-1,Ssc Napoli
+Sun Oct 4 2009,Sampdoria,1-1,Parma FC
+Sun Oct 4 2009,AC Siena,0-0,As Livorno
+Sun Oct 4 2009,US Palermo,2-0,Juventus
+Sat Oct 17 2009,Juventus,1-1,Acf Fiorentina
+Sat Oct 17 2009,Genoa CFc,0-5,Inter
+Sun Oct 18 2009,Calcio Catania,2-1,Cagliari Calcio
+Sun Oct 18 2009,Chievo Verona,1-2,As Bari
+Sun Oct 18 2009,Lazio Roma,1-1,Sampdoria
+Sun Oct 18 2009,As Livorno,1-2,US Palermo
+Sun Oct 18 2009,Ssc Napoli,2-1,Bologna FC
+Sun Oct 18 2009,Parma FC,1-0,AC Siena
+Sun Oct 18 2009,Udinese Calcio,1-3,Atalanta
+Sun Oct 18 2009,AC Milan,2-1,As Roma
+Sat Oct 24 2009,Sampdoria,4-1,Bologna FC
+Sat Oct 24 2009,Inter,2-1,Calcio Catania
+Sun Oct 25 2009,Atalanta,3-1,Parma FC
+Sun Oct 25 2009,As Bari,2-0,Lazio Roma
+Sun Oct 25 2009,Cagliari Calcio,3-2,Genoa CFc
+Sun Oct 25 2009,Acf Fiorentina,0-1,Ssc Napoli
+Sun Oct 25 2009,US Palermo,1-0,Udinese Calcio
+Sun Oct 25 2009,As Roma,0-1,As Livorno
+Sun Oct 25 2009,AC Siena,0-1,Juventus
+Sun Oct 25 2009,Chievo Verona,1-2,AC Milan
+Wed Oct 28 2009,Bologna FC,2-1,AC Siena
+Wed Oct 28 2009,Calcio Catania,1-2,Chievo Verona
+Wed Oct 28 2009,Genoa CFc,2-1,Acf Fiorentina
+Wed Oct 28 2009,Juventus,5-1,Sampdoria
+Wed Oct 28 2009,Lazio Roma,0-1,Cagliari Calcio
+Wed Oct 28 2009,As Livorno,1-0,Atalanta
+Wed Oct 28 2009,Ssc Napoli,2-2,AC Milan
+Wed Oct 28 2009,Parma FC,2-0,As Bari
+Wed Oct 28 2009,Udinese Calcio,2-1,As Roma
+Thu Oct 29 2009,Inter,5-3,US Palermo
+Sat Oct 31 2009,Juventus,2-3,Ssc Napoli
+Sat Oct 31 2009,AC Milan,2-0,Parma FC
+Sun Nov 1 2009,Cagliari Calcio,3-0,Atalanta
+Sun Nov 1 2009,Chievo Verona,1-1,Udinese Calcio
+Sun Nov 1 2009,Acf Fiorentina,3-1,Calcio Catania
+Sun Nov 1 2009,As Livorno,0-2,Inter
+Sun Nov 1 2009,As Roma,2-1,Bologna FC
+Sun Nov 1 2009,Sampdoria,0-0,As Bari
+Sun Nov 1 2009,AC Siena,1-1,Lazio Roma
+Sun Nov 1 2009,US Palermo,0-0,Genoa CFc
+Sat Nov 7 2009,Calcio Catania,0-0,Ssc Napoli
+Sat Nov 7 2009,Atalanta,2-5,Juventus
+Sun Nov 8 2009,As Bari,1-0,As Livorno
+Sun Nov 8 2009,Bologna FC,3-1,US Palermo
+Sun Nov 8 2009,Cagliari Calcio,2-0,Sampdoria
+Sun Nov 8 2009,Genoa CFc,4-2,AC Siena
+Sun Nov 8 2009,Lazio Roma,1-2,AC Milan
+Sun Nov 8 2009,Parma FC,2-0,Chievo Verona
+Sun Nov 8 2009,Udinese Calcio,0-1,Acf Fiorentina
+Sun Nov 8 2009,Inter,1-1,As Roma
+Sat Nov 21 2009,Bologna FC,1-3,Inter
+Sat Nov 21 2009,Acf Fiorentina,2-3,Parma FC
+Sun Nov 22 2009,As Livorno,2-1,Genoa CFc
+Sun Nov 22 2009,AC Milan,4-3,Cagliari Calcio
+Sun Nov 22 2009,Ssc Napoli,0-0,Lazio Roma
+Sun Nov 22 2009,US Palermo,1-1,Calcio Catania
+Sun Nov 22 2009,As Roma,3-1,As Bari
+Sun Nov 22 2009,Sampdoria,2-1,Chievo Verona
+Sun Nov 22 2009,AC Siena,0-2,Atalanta
+Sun Nov 22 2009,Juventus,1-0,Udinese Calcio
+Sat Nov 28 2009,Udinese Calcio,2-0,As Livorno
+Sat Nov 28 2009,Genoa CFc,3-0,Sampdoria
+Sun Nov 29 2009,Atalanta,1-2,As Roma
+Sun Nov 29 2009,As Bari,2-1,AC Siena
+Sun Nov 29 2009,Cagliari Calcio,2-0,Juventus
+Sun Nov 29 2009,Chievo Verona,1-0,US Palermo
+Sun Nov 29 2009,Inter,1-0,Acf Fiorentina
+Sun Nov 29 2009,Lazio Roma,0-0,Bologna FC
+Sun Nov 29 2009,Parma FC,1-1,Ssc Napoli
+Sun Nov 29 2009,Calcio Catania,0-2,AC Milan
+Sat Dec 5 2009,AC Milan,3-0,Sampdoria
+Sat Dec 5 2009,Juventus,2-1,Inter
+Sun Dec 6 2009,Bologna FC,2-1,Udinese Calcio
+Sun Dec 6 2009,Acf Fiorentina,2-0,Atalanta
+Sun Dec 6 2009,Genoa CFc,2-2,Parma FC
+Sun Dec 6 2009,As Livorno,0-2,Chievo Verona
+Sun Dec 6 2009,Ssc Napoli,3-2,As Bari
+Sun Dec 6 2009,US Palermo,2-1,Cagliari Calcio
+Sun Dec 6 2009,AC Siena,3-2,Calcio Catania
+Sun Dec 6 2009,As Roma,1-0,Lazio Roma
+Sat Dec 12 2009,Cagliari Calcio,3-3,Ssc Napoli
+Sat Dec 12 2009,As Bari,3-1,Juventus
+Sun Dec 13 2009,Atalanta,1-1,Inter
+Sun Dec 13 2009,Calcio Catania,0-1,As Livorno
+Sun Dec 13 2009,Chievo Verona,2-1,Acf Fiorentina
+Sun Dec 13 2009,Lazio Roma,1-0,Genoa CFc
+Sun Dec 13 2009,AC Milan,0-2,US Palermo
+Sun Dec 13 2009,Parma FC,2-1,Bologna FC
+Sun Dec 13 2009,AC Siena,2-1,Udinese Calcio
+Sun Dec 13 2009,Sampdoria,0-0,As Roma
+Sun Dec 20 2009,Juventus,1-2,Calcio Catania
+Sun Dec 20 2009,As Livorno,3-1,Sampdoria
+Sun Dec 20 2009,Ssc Napoli,2-0,Chievo Verona
+Sun Dec 20 2009,US Palermo,1-0,AC Siena
+Sun Dec 20 2009,As Roma,2-0,Parma FC
+Sun Dec 20 2009,Inter,1-0,Lazio Roma
+Wed Jan 6 2010,Chievo Verona,0-1,Inter
+Wed Jan 6 2010,Atalanta,0-2,Ssc Napoli
+Wed Jan 6 2010,As Bari,2-0,Udinese Calcio
+Wed Jan 6 2010,Cagliari Calcio,2-2,As Roma
+Wed Jan 6 2010,Calcio Catania,1-0,Bologna FC
+Wed Jan 6 2010,Lazio Roma,4-1,As Livorno
+Wed Jan 6 2010,Parma FC,1-2,Juventus
+Wed Jan 6 2010,Sampdoria,1-1,US Palermo
+Wed Jan 6 2010,AC Siena,1-5,Acf Fiorentina
+Wed Jan 6 2010,AC Milan,5-2,Genoa CFc
+Sat Jan 9 2010,As Roma,1-0,Chievo Verona
+Sat Jan 9 2010,Inter,4-3,AC Siena
+Sun Jan 10 2010,Bologna FC,0-1,Cagliari Calcio
+Sun Jan 10 2010,Acf Fiorentina,2-1,As Bari
+Sun Jan 10 2010,Genoa CFc,2-0,Calcio Catania
+Sun Jan 10 2010,As Livorno,2-1,Parma FC
+Sun Jan 10 2010,Ssc Napoli,1-0,Sampdoria
+Sun Jan 10 2010,US Palermo,1-0,Atalanta
+Sun Jan 10 2010,Udinese Calcio,1-1,Lazio Roma
+Sun Jan 10 2010,Juventus,0-3,AC Milan
+Sat Jan 16 2010,Cagliari Calcio,3-0,As Livorno
+Sat Jan 16 2010,As Bari,2-2,Inter
+Sun Jan 17 2010,Sampdoria,1-1,Calcio Catania
+Sun Jan 17 2010,As Roma,3-0,Genoa CFc
+Sun Jan 17 2010,Chievo Verona,1-0,Juventus
+Sun Jan 17 2010,Atalanta,3-0,Lazio Roma
+Sun Jan 17 2010,AC Milan,4-0,AC Siena
+Sun Jan 17 2010,Parma FC,0-0,Udinese Calcio
+Sun Jan 17 2010,Acf Fiorentina,1-2,Bologna FC
+Sun Jan 17 2010,Ssc Napoli,0-0,US Palermo
+Wed Jan 20 2010,Bologna FC,2-2,Atalanta
+Wed Jan 20 2010,Genoa CFc,1-1,As Bari
+Sat Jan 23 2010,Calcio Catania,3-0,Parma FC
+Sat Jan 23 2010,Juventus,1-2,As Roma
+Sun Jan 24 2010,Genoa CFc,2-0,Atalanta
+Sun Jan 24 2010,Bologna FC,2-1,As Bari
+Sun Jan 24 2010,AC Siena,1-1,Cagliari Calcio
+Sun Jan 24 2010,Lazio Roma,1-1,Chievo Verona
+Sun Jan 24 2010,US Palermo,3-0,Acf Fiorentina
+Sun Jan 24 2010,As Livorno,0-2,Ssc Napoli
+Sun Jan 24 2010,Udinese Calcio,2-3,Sampdoria
+Sun Jan 24 2010,Inter,2-0,AC Milan
+Sat Jan 30 2010,As Bari,4-2,US Palermo
+Sat Jan 30 2010,Ssc Napoli,0-0,Genoa CFc
+Sun Jan 31 2010,Sampdoria,2-0,Atalanta
+Sun Jan 31 2010,Chievo Verona,1-1,Bologna FC
+Sun Jan 31 2010,Cagliari Calcio,2-2,Acf Fiorentina
+Sun Jan 31 2010,AC Milan,1-1,As Livorno
+Sun Jan 31 2010,As Roma,2-1,AC Siena
+Sun Jan 31 2010,Calcio Catania,1-1,Udinese Calcio
+Sun Jan 31 2010,Juventus,1-1,Lazio Roma
+Sat Feb 6 2010,US Palermo,2-1,Parma FC
+Sat Feb 6 2010,As Livorno,1-1,Juventus
+Sun Feb 7 2010,Atalanta,1-0,As Bari
+Sun Feb 7 2010,Inter,3-0,Cagliari Calcio
+Sun Feb 7 2010,Lazio Roma,0-1,Calcio Catania
+Sun Feb 7 2010,Genoa CFc,1-0,Chievo Verona
+Sun Feb 7 2010,Bologna FC,0-0,AC Milan
+Sun Feb 7 2010,Udinese Calcio,3-1,Ssc Napoli
+Sun Feb 7 2010,AC Siena,1-2,Sampdoria
+Sun Feb 7 2010,Acf Fiorentina,0-1,As Roma
+Wed Feb 10 2010,Parma FC,1-1,Inter
+Fri Feb 12 2010,AC Milan,3-2,Udinese Calcio
+Sat Feb 13 2010,As Roma,4-1,US Palermo
+Sat Feb 13 2010,Sampdoria,2-0,Acf Fiorentina
+Sun Feb 14 2010,Calcio Catania,0-0,Atalanta
+Sun Feb 14 2010,Cagliari Calcio,3-1,As Bari
+Sun Feb 14 2010,As Livorno,0-1,Bologna FC
+Sun Feb 14 2010,Juventus,3-2,Genoa CFc
+Sun Feb 14 2010,Parma FC,0-2,Lazio Roma
+Sun Feb 14 2010,Chievo Verona,0-1,AC Siena
+Sun Feb 14 2010,Ssc Napoli,0-0,Inter
+Sat Feb 20 2010,Genoa CFc,3-0,Udinese Calcio
+Sat Feb 20 2010,Inter,0-0,Sampdoria
+Sun Feb 21 2010,As Roma,1-0,Calcio Catania
+Sun Feb 21 2010,Atalanta,0-1,Chievo Verona
+Sun Feb 21 2010,Bologna FC,1-2,Juventus
+Sun Feb 21 2010,US Palermo,3-1,Lazio Roma
+Sun Feb 21 2010,Acf Fiorentina,2-1,As Livorno
+Sun Feb 21 2010,AC Siena,0-0,Ssc Napoli
+Sun Feb 21 2010,Cagliari Calcio,2-0,Parma FC
+Sun Feb 21 2010,As Bari,0-2,AC Milan
+Wed Feb 24 2010,Acf Fiorentina,1-2,AC Milan
+Wed Feb 24 2010,Udinese Calcio,2-1,Cagliari Calcio
+Sat Feb 27 2010,Calcio Catania,4-0,As Bari
+Sat Feb 27 2010,Lazio Roma,1-1,Acf Fiorentina
+Sun Feb 28 2010,AC Milan,3-1,Atalanta
+Sun Feb 28 2010,Genoa CFc,3-4,Bologna FC
+Sun Feb 28 2010,Chievo Verona,2-1,Cagliari Calcio
+Sun Feb 28 2010,Udinese Calcio,2-3,Inter
+Sun Feb 28 2010,Ssc Napoli,2-2,As Roma
+Sun Feb 28 2010,Parma FC,1-0,Sampdoria
+Sun Feb 28 2010,As Livorno,1-2,AC Siena
+Sun Feb 28 2010,Juventus,0-2,US Palermo
+Sat Mar 6 2010,Acf Fiorentina,1-2,Juventus
+Sat Mar 6 2010,As Roma,0-0,AC Milan
+Sun Mar 7 2010,Cagliari Calcio,2-2,Calcio Catania
+Sun Mar 7 2010,As Bari,1-0,Chievo Verona
+Sun Mar 7 2010,Sampdoria,2-1,Lazio Roma
+Sun Mar 7 2010,US Palermo,1-0,As Livorno
+Sun Mar 7 2010,Bologna FC,2-1,Ssc Napoli
+Sun Mar 7 2010,AC Siena,1-1,Parma FC
+Sun Mar 7 2010,Atalanta,0-0,Udinese Calcio
+Sun Mar 7 2010,Inter,0-0,Genoa CFc
+Fri Mar 12 2010,Calcio Catania,3-1,Inter
+Sat Mar 13 2010,Ssc Napoli,1-3,Acf Fiorentina
+Sun Mar 14 2010,Parma FC,1-0,Atalanta
+Sun Mar 14 2010,Lazio Roma,0-2,As Bari
+Sun Mar 14 2010,Genoa CFc,5-3,Cagliari Calcio
+Sun Mar 14 2010,Udinese Calcio,3-2,US Palermo
+Sun Mar 14 2010,As Livorno,3-3,As Roma
+Sun Mar 14 2010,Bologna FC,1-1,Sampdoria
+Sun Mar 14 2010,Juventus,3-3,AC Siena
+Sun Mar 14 2010,AC Milan,1-0,Chievo Verona
+Sat Mar 20 2010,Acf Fiorentina,3-0,Genoa CFc
+Sat Mar 20 2010,US Palermo,1-1,Inter
+Sat Mar 20 2010,As Roma,4-2,Udinese Calcio
+Sun Mar 21 2010,AC Siena,1-0,Bologna FC
+Sun Mar 21 2010,Chievo Verona,1-1,Calcio Catania
+Sun Mar 21 2010,Cagliari Calcio,0-2,Lazio Roma
+Sun Mar 21 2010,Atalanta,3-0,As Livorno
+Sun Mar 21 2010,AC Milan,1-1,Ssc Napoli
+Sun Mar 21 2010,As Bari,1-1,Parma FC
+Sun Mar 21 2010,Sampdoria,1-0,Juventus
+Wed Mar 24 2010,Atalanta,3-1,Cagliari Calcio
+Wed Mar 24 2010,Udinese Calcio,0-0,Chievo Verona
+Wed Mar 24 2010,Calcio Catania,1-0,Acf Fiorentina
+Wed Mar 24 2010,Inter,3-0,As Livorno
+Wed Mar 24 2010,Parma FC,1-0,AC Milan
+Wed Mar 24 2010,Genoa CFc,2-2,US Palermo
+Wed Mar 24 2010,Bologna FC,0-2,As Roma
+Wed Mar 24 2010,As Bari,2-1,Sampdoria
+Wed Mar 24 2010,Lazio Roma,2-0,AC Siena
+Thu Mar 25 2010,Ssc Napoli,3-1,Juventus
+Sat Mar 27 2010,As Roma,2-1,Inter
+Sat Mar 27 2010,US Palermo,3-1,Bologna FC
+Sun Mar 28 2010,Juventus,2-1,Atalanta
+Sun Mar 28 2010,As Livorno,1-1,As Bari
+Sun Mar 28 2010,Sampdoria,1-1,Cagliari Calcio
+Sun Mar 28 2010,Ssc Napoli,1-0,Calcio Catania
+Sun Mar 28 2010,AC Siena,0-0,Genoa CFc
+Sun Mar 28 2010,Chievo Verona,0-0,Parma FC
+Sun Mar 28 2010,Acf Fiorentina,4-1,Udinese Calcio
+Sun Mar 28 2010,AC Milan,1-1,Lazio Roma
+Sat Apr 3 2010,Inter,3-0,Bologna FC
+Sat Apr 3 2010,Parma FC,1-1,Acf Fiorentina
+Sat Apr 3 2010,Genoa CFc,1-1,As Livorno
+Sat Apr 3 2010,Cagliari Calcio,2-3,AC Milan
+Sat Apr 3 2010,Lazio Roma,1-1,Ssc Napoli
+Sat Apr 3 2010,As Bari,0-1,As Roma
+Sat Apr 3 2010,Chievo Verona,1-2,Sampdoria
+Sat Apr 3 2010,Atalanta,2-0,AC Siena
+Sat Apr 3 2010,Calcio Catania,2-0,US Palermo
+Sat Apr 3 2010,Udinese Calcio,3-0,Juventus
+Sat Apr 10 2010,Ssc Napoli,2-3,Parma FC
+Sat Apr 10 2010,Acf Fiorentina,2-2,Inter
+Sun Apr 11 2010,As Roma,2-1,Atalanta
+Sun Apr 11 2010,AC Siena,3-2,As Bari
+Sun Apr 11 2010,Juventus,1-0,Cagliari Calcio
+Sun Apr 11 2010,AC Milan,2-2,Calcio Catania
+Sun Apr 11 2010,US Palermo,3-1,Chievo Verona
+Sun Apr 11 2010,Bologna FC,2-3,Lazio Roma
+Sun Apr 11 2010,As Livorno,0-2,Udinese Calcio
+Sun Apr 11 2010,Sampdoria,1-0,Genoa CFc
+Fri Apr 16 2010,Inter,2-0,Juventus
+Sat Apr 17 2010,Chievo Verona,2-0,As Livorno
+Sun Apr 18 2010,Udinese Calcio,1-1,Bologna FC
+Sun Apr 18 2010,Atalanta,2-1,Acf Fiorentina
+Sun Apr 18 2010,Parma FC,2-3,Genoa CFc
+Sun Apr 18 2010,Sampdoria,2-1,AC Milan
+Sun Apr 18 2010,As Bari,1-2,Ssc Napoli
+Sun Apr 18 2010,Cagliari Calcio,2-2,US Palermo
+Sun Apr 18 2010,Calcio Catania,2-2,AC Siena
+Sun Apr 18 2010,Lazio Roma,1-2,As Roma
+Sat Apr 24 2010,Inter,3-1,Atalanta
+Sat Apr 24 2010,US Palermo,3-1,AC Milan
+Sun Apr 25 2010,Juventus,3-0,As Bari
+Sun Apr 25 2010,Ssc Napoli,0-0,Cagliari Calcio
+Sun Apr 25 2010,As Livorno,3-1,Calcio Catania
+Sun Apr 25 2010,Acf Fiorentina,0-2,Chievo Verona
+Sun Apr 25 2010,Genoa CFc,1-2,Lazio Roma
+Sun Apr 25 2010,Bologna FC,2-1,Parma FC
+Sun Apr 25 2010,Udinese Calcio,4-1,AC Siena
+Sun Apr 25 2010,As Roma,1-2,Sampdoria
+Sat May 1 2010,Parma FC,1-2,As Roma
+Sat May 1 2010,AC Milan,1-0,Acf Fiorentina
+Sun May 2 2010,Atalanta,1-1,Bologna FC
+Sun May 2 2010,As Bari,3-0,Genoa CFc
+Sun May 2 2010,Calcio Catania,1-1,Juventus
+Sun May 2 2010,Sampdoria,2-0,As Livorno
+Sun May 2 2010,Chievo Verona,1-2,Ssc Napoli
+Sun May 2 2010,AC Siena,1-2,US Palermo
+Sun May 2 2010,Cagliari Calcio,2-2,Udinese Calcio
+Sun May 2 2010,Lazio Roma,0-2,Inter
+Sun May 9 2010,Ssc Napoli,2-0,Atalanta
+Sun May 9 2010,Udinese Calcio,3-3,As Bari
+Sun May 9 2010,As Roma,2-1,Cagliari Calcio
+Sun May 9 2010,Bologna FC,1-1,Calcio Catania
+Sun May 9 2010,Inter,4-3,Chievo Verona
+Sun May 9 2010,As Livorno,1-2,Lazio Roma
+Sun May 9 2010,Genoa CFc,1-0,AC Milan
+Sun May 9 2010,Juventus,2-3,Parma FC
+Sun May 9 2010,US Palermo,1-1,Sampdoria
+Sun May 9 2010,Acf Fiorentina,1-1,AC Siena
+Sat May 15 2010,AC Milan,3-0,Juventus
+Sat May 15 2010,Lazio Roma,3-1,Udinese Calcio
+Sun May 16 2010,Cagliari Calcio,1-1,Bologna FC
+Sun May 16 2010,As Bari,2-0,Acf Fiorentina
+Sun May 16 2010,Calcio Catania,1-0,Genoa CFc
+Sun May 16 2010,AC Siena,0-1,Inter
+Sun May 16 2010,Parma FC,4-1,As Livorno
+Sun May 16 2010,Sampdoria,1-0,Ssc Napoli
+Sun May 16 2010,Atalanta,1-2,US Palermo
+Sun May 16 2010,Chievo Verona,0-2,As Roma

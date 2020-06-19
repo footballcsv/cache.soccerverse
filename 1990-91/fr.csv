@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Jul 21 1990,As Cannes,2-1,Montpellier HSC
+Sat Jul 21 1990,Paris Saint Germain,2-1,As Nancy
+Sat Jul 21 1990,Olympique Marseille,1-0,OGC Nice
+Sat Jul 21 1990,FC Metz,2-2,Lille OSC
+Sat Jul 21 1990,FC Sochaux,1-1,Stade Brest
+Sat Jul 21 1990,Toulouse FC,0-0,Aj Auxerre
+Sat Jul 21 1990,Girondins Bordeaux,0-0,Olympique Lyon
+Sat Jul 21 1990,FC Nantes,0-0,SM Caen
+Sat Jul 21 1990,As Saint Etienne,0-0,Stade Rennes
+Sat Jul 21 1990,As Monaco,2-1,Sporting Toulon Var
+Fri Jul 27 1990,FC Metz,0-2,Olympique Marseille
+Sat Jul 28 1990,Aj Auxerre,0-1,As Monaco
+Sat Jul 28 1990,SM Caen,2-0,Girondins Bordeaux
+Sat Jul 28 1990,Stade Rennes,2-1,Paris Saint Germain
+Sat Jul 28 1990,Olympique Lyon,1-0,As Cannes
+Sat Jul 28 1990,Montpellier HSC,2-0,FC Sochaux
+Sat Jul 28 1990,Lille OSC,1-1,FC Nantes
+Sat Jul 28 1990,As Nancy,0-0,Stade Brest
+Sat Jul 28 1990,OGC Nice,1-1,Toulouse FC
+Sat Jul 28 1990,Sporting Toulon Var,3-0,As Saint Etienne
+Sat Aug 4 1990,As Monaco,3-1,Montpellier HSC
+Sat Aug 4 1990,Olympique Marseille,2-1,SM Caen
+Sat Aug 4 1990,Toulouse FC,3-1,Olympique Lyon
+Sat Aug 4 1990,Stade Brest,0-0,Stade Rennes
+Sat Aug 4 1990,As Cannes,0-3,Aj Auxerre
+Sat Aug 4 1990,Girondins Bordeaux,1-1,Lille OSC
+Sat Aug 4 1990,FC Nantes,1-1,FC Metz
+Sat Aug 4 1990,FC Sochaux,1-0,As Nancy
+Sat Aug 4 1990,As Saint Etienne,1-0,OGC Nice
+Sat Aug 4 1990,Paris Saint Germain,4-0,Sporting Toulon Var
+Fri Aug 10 1990,Montpellier HSC,4-0,Paris Saint Germain
+Fri Aug 10 1990,OGC Nice,0-0,As Cannes
+Sat Aug 11 1990,Olympique Lyon,2-2,Olympique Marseille
+Sat Aug 11 1990,FC Nantes,3-1,As Monaco
+Sat Aug 11 1990,Stade Rennes,1-0,As Nancy
+Sat Aug 11 1990,Aj Auxerre,2-0,As Saint Etienne
+Sat Aug 11 1990,Lille OSC,3-0,Toulouse FC
+Sat Aug 11 1990,SM Caen,2-0,FC Sochaux
+Sat Aug 11 1990,FC Metz,1-0,Girondins Bordeaux
+Sat Aug 11 1990,Sporting Toulon Var,1-2,Stade Brest
+Sat Aug 18 1990,Olympique Marseille,2-0,Lille OSC
+Sat Aug 18 1990,Stade Brest,4-0,OGC Nice
+Sat Aug 18 1990,As Monaco,0-0,Olympique Lyon
+Sat Aug 18 1990,Paris Saint Germain,1-1,Aj Auxerre
+Sat Aug 18 1990,As Cannes,1-1,SM Caen
+Sat Aug 18 1990,Toulouse FC,2-1,FC Metz
+Sat Aug 18 1990,FC Sochaux,4-0,Stade Rennes
+Sat Aug 18 1990,Girondins Bordeaux,2-0,FC Nantes
+Sat Aug 18 1990,As Saint Etienne,1-0,Montpellier HSC
+Sat Aug 18 1990,As Nancy,2-1,Sporting Toulon Var
+Fri Aug 24 1990,Girondins Bordeaux,0-0,As Monaco
+Sat Aug 25 1990,FC Nantes,1-1,Olympique Marseille
+Sat Aug 25 1990,Aj Auxerre,2-2,Stade Brest
+Sat Aug 25 1990,SM Caen,2-0,Toulouse FC
+Sat Aug 25 1990,Olympique Lyon,1-0,FC Sochaux
+Sat Aug 25 1990,Montpellier HSC,5-0,As Nancy
+Sat Aug 25 1990,OGC Nice,1-1,Paris Saint Germain
+Sat Aug 25 1990,FC Metz,3-1,As Saint Etienne
+Sat Aug 25 1990,Lille OSC,0-2,As Cannes
+Sat Aug 25 1990,Sporting Toulon Var,1-0,Stade Rennes
+Wed Aug 29 1990,Olympique Marseille,2-0,Girondins Bordeaux
+Wed Aug 29 1990,Stade Brest,1-1,Montpellier HSC
+Wed Aug 29 1990,As Saint Etienne,0-0,SM Caen
+Wed Aug 29 1990,As Monaco,1-1,Lille OSC
+Wed Aug 29 1990,As Nancy,1-1,Aj Auxerre
+Wed Aug 29 1990,Paris Saint Germain,3-0,Olympique Lyon
+Wed Aug 29 1990,As Cannes,0-1,FC Metz
+Wed Aug 29 1990,Toulouse FC,2-0,FC Nantes
+Wed Aug 29 1990,Stade Rennes,0-3,OGC Nice
+Wed Aug 29 1990,FC Sochaux,0-0,Sporting Toulon Var
+Sat Sep 8 1990,Olympique Marseille,2-1,Paris Saint Germain
+Sat Sep 8 1990,SM Caen,4-1,As Nancy
+Sat Sep 8 1990,Aj Auxerre,4-0,Stade Rennes
+Sat Sep 8 1990,FC Metz,1-1,As Monaco
+Sat Sep 8 1990,Olympique Lyon,2-0,Stade Brest
+Sat Sep 8 1990,Lille OSC,3-2,As Saint Etienne
+Sat Sep 8 1990,Girondins Bordeaux,2-1,Toulouse FC
+Sat Sep 8 1990,FC Nantes,1-0,As Cannes
+Sat Sep 8 1990,OGC Nice,3-0,FC Sochaux
+Sat Sep 8 1990,Montpellier HSC,0-0,Sporting Toulon Var
+Fri Sep 14 1990,OGC Nice,0-0,As Monaco
+Sat Sep 15 1990,Toulouse FC,0-2,Olympique Marseille
+Sat Sep 15 1990,FC Sochaux,0-1,Aj Auxerre
+Sat Sep 15 1990,Paris Saint Germain,3-2,SM Caen
+Sat Sep 15 1990,Stade Brest,1-0,FC Metz
+Sat Sep 15 1990,As Saint Etienne,0-1,Olympique Lyon
+Sat Sep 15 1990,Stade Rennes,1-2,Montpellier HSC
+Sat Sep 15 1990,As Nancy,3-2,FC Nantes
+Sat Sep 15 1990,As Cannes,1-1,Girondins Bordeaux
+Sat Sep 15 1990,Sporting Toulon Var,0-0,Lille OSC
+Sat Sep 22 1990,Olympique Marseille,0-1,As Cannes
+Sat Sep 22 1990,SM Caen,0-2,As Monaco
+Sat Sep 22 1990,Olympique Lyon,0-0,Stade Rennes
+Sat Sep 22 1990,FC Metz,2-2,Paris Saint Germain
+Sat Sep 22 1990,Lille OSC,1-0,Stade Brest
+Sat Sep 22 1990,FC Nantes,2-1,As Saint Etienne
+Sat Sep 22 1990,Girondins Bordeaux,1-0,FC Sochaux
+Sat Sep 22 1990,Toulouse FC,0-0,As Nancy
+Sat Sep 22 1990,OGC Nice,0-0,Sporting Toulon Var
+Sun Sep 23 1990,Aj Auxerre,3-2,Montpellier HSC
+Fri Sep 28 1990,As Monaco,1-3,Olympique Marseille
+Sat Sep 29 1990,Stade Brest,5-0,SM Caen
+Sat Sep 29 1990,Montpellier HSC,3-0,OGC Nice
+Sat Sep 29 1990,Paris Saint Germain,1-1,FC Nantes
+Sat Sep 29 1990,Stade Rennes,0-2,FC Metz
+Sat Sep 29 1990,FC Sochaux,0-0,Lille OSC
+Sat Sep 29 1990,As Nancy,2-0,Olympique Lyon
+Sat Sep 29 1990,As Saint Etienne,0-0,Girondins Bordeaux
+Sat Sep 29 1990,As Cannes,0-0,Toulouse FC
+Sat Sep 29 1990,Sporting Toulon Var,2-3,Aj Auxerre
+Fri Oct 5 1990,FC Nantes,1-0,Stade Brest
+Fri Oct 5 1990,Lille OSC,1-1,Stade Rennes
+Sat Oct 6 1990,Olympique Marseille,3-1,As Saint Etienne
+Sat Oct 6 1990,OGC Nice,1-1,Aj Auxerre
+Sat Oct 6 1990,As Cannes,1-2,As Monaco
+Sat Oct 6 1990,FC Metz,4-0,As Nancy
+Sat Oct 6 1990,Olympique Lyon,3-3,Montpellier HSC
+Sat Oct 6 1990,SM Caen,2-0,Sporting Toulon Var
+Sat Oct 6 1990,Girondins Bordeaux,3-0,Paris Saint Germain
+Sat Oct 6 1990,Toulouse FC,0-0,FC Sochaux
+Fri Oct 19 1990,As Monaco,2-1,Toulouse FC
+Fri Oct 19 1990,Stade Brest,4-0,Girondins Bordeaux
+Sat Oct 20 1990,FC Sochaux,2-1,Olympique Marseille
+Sat Oct 20 1990,Aj Auxerre,1-0,Olympique Lyon
+Sat Oct 20 1990,Montpellier HSC,5-2,FC Metz
+Sat Oct 20 1990,Paris Saint Germain,2-0,Lille OSC
+Sat Oct 20 1990,Stade Rennes,1-1,SM Caen
+Sat Oct 20 1990,As Nancy,2-1,OGC Nice
+Sat Oct 20 1990,As Saint Etienne,1-0,As Cannes
+Sat Oct 20 1990,Sporting Toulon Var,3-1,FC Nantes
+Fri Oct 26 1990,SM Caen,0-1,Aj Auxerre
+Sat Oct 27 1990,Girondins Bordeaux,5-0,As Nancy
+Sat Oct 27 1990,FC Nantes,2-0,Stade Rennes
+Sat Oct 27 1990,Lille OSC,1-0,Montpellier HSC
+Sat Oct 27 1990,Olympique Lyon,1-0,OGC Nice
+Sat Oct 27 1990,Toulouse FC,0-0,As Saint Etienne
+Sat Oct 27 1990,As Cannes,1-1,FC Sochaux
+Sat Oct 27 1990,FC Metz,0-0,Sporting Toulon Var
+Sun Oct 28 1990,As Monaco,2-0,Paris Saint Germain
+Sun Oct 28 1990,Olympique Marseille,3-1,Stade Brest
+Fri Nov 2 1990,Stade Rennes,2-1,Girondins Bordeaux
+Fri Nov 2 1990,Montpellier HSC,0-0,SM Caen
+Sat Nov 3 1990,Aj Auxerre,3-2,Lille OSC
+Sat Nov 3 1990,As Nancy,2-0,Olympique Marseille
+Sat Nov 3 1990,As Saint Etienne,1-0,As Monaco
+Sat Nov 3 1990,OGC Nice,1-2,FC Metz
+Sat Nov 3 1990,Stade Brest,0-0,Toulouse FC
+Sat Nov 3 1990,FC Sochaux,1-1,FC Nantes
+Sat Nov 3 1990,Paris Saint Germain,0-0,As Cannes
+Sat Nov 3 1990,Sporting Toulon Var,1-0,Olympique Lyon
+Sat Nov 10 1990,As Monaco,1-0,FC Sochaux
+Sat Nov 10 1990,As Cannes,0-0,Stade Brest
+Sat Nov 10 1990,SM Caen,1-0,Olympique Lyon
+Sat Nov 10 1990,FC Nantes,1-1,Montpellier HSC
+Sat Nov 10 1990,Lille OSC,0-0,OGC Nice
+Sat Nov 10 1990,Toulouse FC,2-1,Paris Saint Germain
+Sat Nov 10 1990,As Saint Etienne,4-1,As Nancy
+Sat Nov 10 1990,FC Metz,1-0,Aj Auxerre
+Sat Nov 10 1990,Girondins Bordeaux,0-1,Sporting Toulon Var
+Sun Nov 11 1990,Olympique Marseille,4-1,Stade Rennes
+Fri Nov 23 1990,Stade Brest,1-2,As Monaco
+Sat Nov 24 1990,Aj Auxerre,0-2,FC Nantes
+Sat Nov 24 1990,FC Sochaux,1-1,FC Metz
+Sat Nov 24 1990,Montpellier HSC,2-1,Girondins Bordeaux
+Sat Nov 24 1990,OGC Nice,0-0,SM Caen
+Sat Nov 24 1990,Paris Saint Germain,4-2,As Saint Etienne
+Sat Nov 24 1990,Olympique Lyon,2-1,Lille OSC
+Sat Nov 24 1990,Stade Rennes,2-0,Toulouse FC
+Sat Nov 24 1990,As Nancy,2-0,As Cannes
+Sat Nov 24 1990,Sporting Toulon Var,0-1,Olympique Marseille
+Sun Dec 2 1990,Olympique Marseille,2-0,Montpellier HSC
+Sun Dec 2 1990,Girondins Bordeaux,1-1,Aj Auxerre
+Sun Dec 2 1990,As Monaco,2-2,As Nancy
+Sun Dec 2 1990,FC Metz,1-2,Olympique Lyon
+Sun Dec 2 1990,FC Nantes,2-2,OGC Nice
+Sun Dec 2 1990,Lille OSC,1-0,SM Caen
+Sun Dec 2 1990,As Saint Etienne,6-1,Stade Brest
+Sun Dec 2 1990,Paris Saint Germain,0-2,FC Sochaux
+Sun Dec 2 1990,As Cannes,1-0,Stade Rennes
+Sun Dec 2 1990,Toulouse FC,1-1,Sporting Toulon Var
+Fri Dec 7 1990,Stade Rennes,1-1,As Monaco
+Fri Dec 7 1990,OGC Nice,0-0,Girondins Bordeaux
+Sun Dec 9 1990,Aj Auxerre,4-0,Olympique Marseille
+Sun Dec 9 1990,Montpellier HSC,2-0,Toulouse FC
+Sun Dec 9 1990,SM Caen,4-1,FC Metz
+Sun Dec 9 1990,As Nancy,1-1,Lille OSC
+Sun Dec 9 1990,FC Sochaux,2-0,As Saint Etienne
+Sun Dec 9 1990,Sporting Toulon Var,0-0,As Cannes
+Sun Dec 16 1990,Olympique Marseille,3-0,FC Metz
+Sun Dec 16 1990,As Monaco,0-0,Aj Auxerre
+Sun Dec 16 1990,Girondins Bordeaux,1-1,SM Caen
+Sun Dec 16 1990,FC Nantes,0-0,Lille OSC
+Sun Dec 16 1990,As Cannes,3-2,Olympique Lyon
+Sun Dec 16 1990,Stade Brest,3-3,As Nancy
+Sun Dec 16 1990,Paris Saint Germain,1-1,Stade Rennes
+Sun Dec 16 1990,Toulouse FC,1-2,OGC Nice
+Fri Dec 21 1990,Aj Auxerre,0-3,As Cannes
+Sat Dec 22 1990,Sporting Toulon Var,0-0,Paris Saint Germain
+Sun Dec 23 1990,SM Caen,0-0,Olympique Marseille
+Sun Dec 23 1990,Montpellier HSC,2-1,As Monaco
+Sun Dec 23 1990,Olympique Lyon,4-1,Toulouse FC
+Sun Dec 23 1990,Lille OSC,0-0,Girondins Bordeaux
+Sun Dec 23 1990,Stade Rennes,3-0,Stade Brest
+Sun Dec 23 1990,OGC Nice,2-0,As Saint Etienne
+Sun Jan 13 1991,Olympique Marseille,7-0,Olympique Lyon
+Sun Jan 13 1991,As Monaco,2-1,FC Nantes
+Sun Jan 13 1991,As Saint Etienne,2-1,Aj Auxerre
+Sun Jan 13 1991,Paris Saint Germain,2-0,Montpellier HSC
+Sun Jan 13 1991,FC Sochaux,1-0,SM Caen
+Sun Jan 13 1991,As Cannes,2-1,OGC Nice
+Sun Jan 13 1991,Toulouse FC,2-2,Lille OSC
+Sun Jan 13 1991,Girondins Bordeaux,1-1,FC Metz
+Sun Jan 13 1991,As Nancy,0-0,Stade Rennes
+Sun Jan 13 1991,Stade Brest,2-2,Sporting Toulon Var
+Fri Jan 18 1991,Olympique Lyon,1-0,As Monaco
+Sat Jan 19 1991,FC Nantes,0-0,Girondins Bordeaux
+Sun Jan 20 1991,Lille OSC,1-0,Olympique Marseille
+Sun Jan 20 1991,Aj Auxerre,0-1,Paris Saint Germain
+Sun Jan 20 1991,Montpellier HSC,0-0,As Saint Etienne
+Sun Jan 20 1991,SM Caen,0-1,As Cannes
+Sun Jan 20 1991,FC Metz,2-1,Toulouse FC
+Sun Jan 20 1991,Stade Rennes,1-1,FC Sochaux
+Sun Jan 20 1991,OGC Nice,2-0,Stade Brest
+Sun Jan 20 1991,Sporting Toulon Var,2-0,As Nancy
+Wed Jan 23 1991,Stade Brest,0-0,Paris Saint Germain
+Wed Jan 23 1991,FC Sochaux,0-0,Montpellier HSC
+Wed Jan 23 1991,As Saint Etienne,3-0,Sporting Toulon Var
+Wed Jan 23 1991,FC Metz,2-0,FC Nantes
+Sat Jan 26 1991,Toulouse FC,3-2,SM Caen
+Sun Jan 27 1991,Olympique Marseille,6-0,FC Nantes
+Sun Jan 27 1991,As Monaco,2-0,Girondins Bordeaux
+Sun Jan 27 1991,Stade Brest,1-3,Aj Auxerre
+Sun Jan 27 1991,As Nancy,1-1,Montpellier HSC
+Sun Jan 27 1991,As Cannes,2-1,Lille OSC
+Sun Jan 27 1991,As Saint Etienne,2-1,FC Metz
+Sun Jan 27 1991,FC Sochaux,1-2,Olympique Lyon
+Sun Jan 27 1991,Paris Saint Germain,0-2,OGC Nice
+Sun Jan 27 1991,Stade Rennes,0-0,Sporting Toulon Var
+Wed Jan 30 1991,Olympique Lyon,2-0,FC Nantes
+Wed Jan 30 1991,As Nancy,2-0,FC Sochaux
+Fri Feb 1 1991,Girondins Bordeaux,1-1,Olympique Marseille
+Sat Feb 2 1991,SM Caen,1-0,As Saint Etienne
+Sun Feb 3 1991,Lille OSC,0-0,As Monaco
+Sun Feb 3 1991,Aj Auxerre,1-1,As Nancy
+Sun Feb 3 1991,Montpellier HSC,1-0,Stade Brest
+Sun Feb 3 1991,Olympique Lyon,0-0,Paris Saint Germain
+Sun Feb 3 1991,FC Metz,0-0,As Cannes
+Sun Feb 3 1991,OGC Nice,2-2,Stade Rennes
+Sun Feb 3 1991,FC Nantes,0-0,Toulouse FC
+Sun Feb 3 1991,Sporting Toulon Var,1-0,FC Sochaux
+Fri Feb 8 1991,Sporting Toulon Var,1-1,Montpellier HSC
+Sat Feb 9 1991,As Monaco,2-0,FC Metz
+Sun Feb 10 1991,Paris Saint Germain,0-1,Olympique Marseille
+Sun Feb 10 1991,Stade Rennes,2-2,Aj Auxerre
+Sun Feb 10 1991,As Cannes,2-1,FC Nantes
+Sun Feb 10 1991,As Saint Etienne,0-0,Lille OSC
+Sun Feb 10 1991,Toulouse FC,0-0,Girondins Bordeaux
+Wed Feb 13 1991,Olympique Marseille,1-0,Toulouse FC
+Wed Feb 13 1991,As Monaco,2-1,OGC Nice
+Wed Feb 13 1991,Montpellier HSC,1-0,Stade Rennes
+Wed Feb 13 1991,Girondins Bordeaux,1-1,As Cannes
+Wed Feb 13 1991,SM Caen,2-0,Paris Saint Germain
+Sat Feb 23 1991,Montpellier HSC,1-2,Aj Auxerre
+Sun Feb 24 1991,As Cannes,0-0,Olympique Marseille
+Sun Feb 24 1991,As Monaco,2-0,SM Caen
+Sun Feb 24 1991,Stade Rennes,2-0,Olympique Lyon
+Sun Feb 24 1991,Paris Saint Germain,2-1,FC Metz
+Sun Feb 24 1991,Stade Brest,1-0,Lille OSC
+Sun Feb 24 1991,As Saint Etienne,1-3,FC Nantes
+Sun Feb 24 1991,FC Sochaux,1-0,Girondins Bordeaux
+Sun Feb 24 1991,As Nancy,1-1,Toulouse FC
+Sun Feb 24 1991,Sporting Toulon Var,1-2,OGC Nice
+Wed Feb 27 1991,Stade Brest,3-0,Olympique Lyon
+Wed Feb 27 1991,FC Nantes,1-0,As Nancy
+Wed Feb 27 1991,Lille OSC,4-1,Sporting Toulon Var
+Fri Mar 1 1991,Olympique Marseille,1-0,As Monaco
+Fri Mar 1 1991,OGC Nice,2-0,Montpellier HSC
+Sat Mar 2 1991,Toulouse FC,2-2,As Cannes
+Sat Mar 2 1991,FC Nantes,2-0,Paris Saint Germain
+Sat Mar 2 1991,Lille OSC,0-1,FC Sochaux
+Sat Mar 2 1991,FC Metz,2-0,Stade Rennes
+Sat Mar 2 1991,Olympique Lyon,0-1,As Nancy
+Sat Mar 2 1991,SM Caen,1-2,Stade Brest
+Sat Mar 2 1991,Girondins Bordeaux,2-1,As Saint Etienne
+Sat Mar 2 1991,Aj Auxerre,3-0,Sporting Toulon Var
+Tue Mar 5 1991,FC Sochaux,0-0,OGC Nice
+Tue Mar 5 1991,As Nancy,0-0,SM Caen
+Tue Mar 12 1991,Aj Auxerre,4-1,FC Sochaux
+Tue Mar 12 1991,FC Metz,0-0,Stade Brest
+Thu Mar 14 1991,Montpellier HSC,1-0,Olympique Lyon
+Fri Mar 15 1991,As Saint Etienne,1-1,Olympique Marseille
+Fri Mar 15 1991,As Nancy,0-1,FC Metz
+Fri Mar 15 1991,Aj Auxerre,5-1,OGC Nice
+Fri Mar 15 1991,As Monaco,0-0,As Cannes
+Sat Mar 16 1991,Stade Rennes,1-3,Lille OSC
+Sat Mar 16 1991,Stade Brest,1-0,FC Nantes
+Sat Mar 16 1991,Paris Saint Germain,1-0,Girondins Bordeaux
+Sat Mar 16 1991,FC Sochaux,0-1,Toulouse FC
+Sat Mar 16 1991,Sporting Toulon Var,0-0,SM Caen
+Fri Mar 22 1991,OGC Nice,3-0,As Nancy
+Sat Mar 23 1991,Olympique Marseille,0-0,FC Sochaux
+Sat Mar 23 1991,Toulouse FC,1-2,As Monaco
+Sat Mar 23 1991,Olympique Lyon,1-0,Aj Auxerre
+Sat Mar 23 1991,FC Metz,0-0,Montpellier HSC
+Sat Mar 23 1991,As Cannes,0-1,As Saint Etienne
+Sat Mar 23 1991,Girondins Bordeaux,1-4,Stade Brest
+Sat Mar 23 1991,Lille OSC,0-0,Paris Saint Germain
+Sat Mar 23 1991,SM Caen,2-0,Stade Rennes
+Sat Mar 23 1991,FC Nantes,0-0,Sporting Toulon Var
+Tue Mar 26 1991,Olympique Lyon,1-1,As Saint Etienne
+Sat Apr 6 1991,Paris Saint Germain,0-2,As Monaco
+Sat Apr 6 1991,Aj Auxerre,3-0,SM Caen
+Sat Apr 6 1991,Montpellier HSC,1-2,Lille OSC
+Sat Apr 6 1991,FC Sochaux,0-0,As Cannes
+Sat Apr 6 1991,OGC Nice,1-1,Olympique Lyon
+Sat Apr 6 1991,Stade Rennes,2-0,FC Nantes
+Sat Apr 6 1991,As Nancy,0-2,Girondins Bordeaux
+Sat Apr 6 1991,As Saint Etienne,1-4,Toulouse FC
+Sat Apr 6 1991,Sporting Toulon Var,2-1,FC Metz
+Fri Apr 12 1991,Lille OSC,1-0,Aj Auxerre
+Sat Apr 13 1991,Olympique Marseille,6-2,As Nancy
+Sat Apr 13 1991,As Monaco,2-0,As Saint Etienne
+Sat Apr 13 1991,As Cannes,2-0,Paris Saint Germain
+Sat Apr 13 1991,SM Caen,1-0,Montpellier HSC
+Sat Apr 13 1991,FC Metz,1-0,OGC Nice
+Sat Apr 13 1991,Toulouse FC,0-0,Stade Brest
+Sat Apr 13 1991,Olympique Lyon,1-1,Sporting Toulon Var
+Sat Apr 13 1991,FC Nantes,0-0,FC Sochaux
+Sat Apr 13 1991,Girondins Bordeaux,1-0,Stade Rennes
+Fri Apr 19 1991,Stade Rennes,1-1,Olympique Marseille
+Fri Apr 19 1991,FC Sochaux,0-2,As Monaco
+Sat Apr 20 1991,Aj Auxerre,3-1,FC Metz
+Sat Apr 20 1991,Stade Brest,3-2,As Cannes
+Sat Apr 20 1991,Montpellier HSC,1-1,FC Nantes
+Sat Apr 20 1991,OGC Nice,4-1,Lille OSC
+Sat Apr 20 1991,Olympique Lyon,3-2,SM Caen
+Sat Apr 20 1991,Sporting Toulon Var,0-2,Girondins Bordeaux
+Sat Apr 20 1991,Paris Saint Germain,3-0,Toulouse FC
+Sat Apr 20 1991,As Nancy,1-0,As Saint Etienne
+Wed May 1 1991,Stade Brest,1-1,Olympique Marseille
+Fri May 3 1991,As Cannes,1-0,As Nancy
+Sat May 4 1991,Olympique Marseille,3-3,Sporting Toulon Var
+Sat May 4 1991,As Monaco,5-0,Stade Brest
+Sat May 4 1991,FC Nantes,2-3,Aj Auxerre
+Sat May 4 1991,Lille OSC,1-1,Olympique Lyon
+Sat May 4 1991,Girondins Bordeaux,1-0,Montpellier HSC
+Sat May 4 1991,FC Metz,2-2,FC Sochaux
+Sat May 4 1991,SM Caen,2-1,OGC Nice
+Sat May 4 1991,As Saint Etienne,1-1,Paris Saint Germain
+Sat May 4 1991,Toulouse FC,2-0,Stade Rennes
+Fri May 10 1991,Montpellier HSC,0-0,Olympique Marseille
+Fri May 10 1991,As Nancy,4-0,As Monaco
+Fri May 10 1991,Aj Auxerre,0-0,Girondins Bordeaux
+Fri May 10 1991,Stade Rennes,1-1,As Cannes
+Fri May 10 1991,Olympique Lyon,3-1,FC Metz
+Fri May 10 1991,SM Caen,0-0,Lille OSC
+Fri May 10 1991,Stade Brest,0-1,As Saint Etienne
+Fri May 10 1991,OGC Nice,1-1,FC Nantes
+Fri May 10 1991,FC Sochaux,0-0,Paris Saint Germain
+Fri May 10 1991,Sporting Toulon Var,1-0,Toulouse FC
+Fri May 17 1991,Olympique Marseille,1-0,Aj Auxerre
+Fri May 17 1991,As Monaco,2-1,Stade Rennes
+Fri May 17 1991,As Cannes,0-0,Sporting Toulon Var
+Fri May 17 1991,FC Nantes,0-0,Olympique Lyon
+Fri May 17 1991,Toulouse FC,0-0,Montpellier HSC
+Fri May 17 1991,Girondins Bordeaux,3-0,OGC Nice
+Fri May 17 1991,Lille OSC,0-2,As Nancy
+Fri May 17 1991,FC Metz,1-1,SM Caen
+Fri May 17 1991,Paris Saint Germain,1-1,Stade Brest
+Fri May 17 1991,As Saint Etienne,2-1,FC Sochaux
+Wed May 22 1991,OGC Nice,0-1,Olympique Marseille
+Fri May 24 1991,Sporting Toulon Var,1-1,As Monaco
+Fri May 24 1991,Aj Auxerre,2-1,Toulouse FC
+Fri May 24 1991,Montpellier HSC,0-0,As Cannes
+Fri May 24 1991,Olympique Lyon,1-0,Girondins Bordeaux
+Fri May 24 1991,Lille OSC,4-1,FC Metz
+Fri May 24 1991,SM Caen,1-0,FC Nantes
+Fri May 24 1991,Stade Brest,0-0,FC Sochaux
+Fri May 24 1991,As Nancy,0-2,Paris Saint Germain
+Fri May 24 1991,Stade Rennes,0-2,As Saint Etienne

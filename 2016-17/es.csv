@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Fri Aug 19 2016,Malaga CF,1-1,CA Osasuna
+Fri Aug 19 2016,Deportivo La Coruna,2-1,Sd Eibar
+Sat Aug 20 2016,FC Barcelona,6-2,Real Betis
+Sat Aug 20 2016,Granada CF,1-1,Villarreal CF
+Sat Aug 20 2016,Sevilla FC,6-4,Espanyol Barcelona
+Sun Aug 21 2016,Sporting Gijon,2-1,Athletic Bilbao
+Sun Aug 21 2016,Real Sociedad,0-3,Real Madrid
+Sun Aug 21 2016,Atletico Madrid,1-1,Cd Alaves
+Mon Aug 22 2016,Celta Vigo,0-1,CD Leganes
+Mon Aug 22 2016,Valencia CF,2-4,Ud Las Palmas
+Fri Aug 26 2016,Real Betis,0-0,Deportivo La Coruna
+Fri Aug 26 2016,Espanyol Barcelona,2-2,Malaga CF
+Sat Aug 27 2016,CA Osasuna,0-2,Real Sociedad
+Sat Aug 27 2016,Sd Eibar,1-0,Valencia CF
+Sat Aug 27 2016,Real Madrid,2-1,Celta Vigo
+Sat Aug 27 2016,CD Leganes,0-0,Atletico Madrid
+Sun Aug 28 2016,Ud Las Palmas,5-1,Granada CF
+Sun Aug 28 2016,Cd Alaves,0-0,Sporting Gijon
+Sun Aug 28 2016,Athletic Bilbao,0-1,FC Barcelona
+Sun Aug 28 2016,Villarreal CF,0-0,Sevilla FC
+Fri Sep 9 2016,Real Sociedad,1-1,Espanyol Barcelona
+Sat Sep 10 2016,Celta Vigo,0-4,Atletico Madrid
+Sat Sep 10 2016,Real Madrid,5-2,CA Osasuna
+Sat Sep 10 2016,Malaga CF,0-2,Villarreal CF
+Sat Sep 10 2016,Sevilla FC,2-1,Ud Las Palmas
+Sat Sep 10 2016,FC Barcelona,1-2,Cd Alaves
+Sun Sep 11 2016,Sporting Gijon,2-1,CD Leganes
+Sun Sep 11 2016,Valencia CF,2-3,Real Betis
+Sun Sep 11 2016,Granada CF,1-2,Sd Eibar
+Sun Sep 11 2016,Deportivo La Coruna,0-1,Athletic Bilbao
+Fri Sep 16 2016,Real Betis,2-2,Granada CF
+Sat Sep 17 2016,CD Leganes,1-5,FC Barcelona
+Sat Sep 17 2016,Atletico Madrid,5-0,Sporting Gijon
+Sat Sep 17 2016,Sd Eibar,1-1,Sevilla FC
+Sat Sep 17 2016,Ud Las Palmas,1-0,Malaga CF
+Sun Sep 18 2016,CA Osasuna,0-0,Celta Vigo
+Sun Sep 18 2016,Athletic Bilbao,2-1,Valencia CF
+Sun Sep 18 2016,Villarreal CF,2-1,Real Sociedad
+Sun Sep 18 2016,Espanyol Barcelona,0-2,Real Madrid
+Mon Sep 19 2016,Cd Alaves,0-0,Deportivo La Coruna
+Tue Sep 20 2016,Malaga CF,2-1,Sd Eibar
+Tue Sep 20 2016,Sevilla FC,1-0,Real Betis
+Wed Sep 21 2016,Real Madrid,1-1,Villarreal CF
+Wed Sep 21 2016,Celta Vigo,2-1,Sporting Gijon
+Wed Sep 21 2016,Real Sociedad,4-1,Ud Las Palmas
+Wed Sep 21 2016,Granada CF,1-2,Athletic Bilbao
+Wed Sep 21 2016,FC Barcelona,1-1,Atletico Madrid
+Thu Sep 22 2016,CA Osasuna,1-2,Espanyol Barcelona
+Thu Sep 22 2016,Deportivo La Coruna,1-2,CD Leganes
+Thu Sep 22 2016,Valencia CF,2-1,Cd Alaves
+Fri Sep 23 2016,Real Betis,1-0,Malaga CF
+Sat Sep 24 2016,Sd Eibar,2-0,Real Sociedad
+Sat Sep 24 2016,Sporting Gijon,0-5,FC Barcelona
+Sat Sep 24 2016,Athletic Bilbao,3-1,Sevilla FC
+Sat Sep 24 2016,Ud Las Palmas,2-2,Real Madrid
+Sun Sep 25 2016,CD Leganes,1-2,Valencia CF
+Sun Sep 25 2016,Atletico Madrid,1-0,Deportivo La Coruna
+Sun Sep 25 2016,Villarreal CF,3-1,CA Osasuna
+Sun Sep 25 2016,Espanyol Barcelona,0-2,Celta Vigo
+Mon Sep 26 2016,Cd Alaves,3-1,Granada CF
+Fri Sep 30 2016,Real Sociedad,1-0,Real Betis
+Sat Oct 1 2016,Granada CF,0-1,CD Leganes
+Sat Oct 1 2016,Sevilla FC,2-1,Cd Alaves
+Sat Oct 1 2016,CA Osasuna,2-2,Ud Las Palmas
+Sat Oct 1 2016,Deportivo La Coruna,2-1,Sporting Gijon
+Sun Oct 2 2016,Valencia CF,0-2,Atletico Madrid
+Sun Oct 2 2016,Real Madrid,1-1,Sd Eibar
+Sun Oct 2 2016,Espanyol Barcelona,0-0,Villarreal CF
+Sun Oct 2 2016,Malaga CF,2-1,Athletic Bilbao
+Sun Oct 2 2016,Celta Vigo,4-3,FC Barcelona
+Fri Oct 14 2016,Ud Las Palmas,0-0,Espanyol Barcelona
+Sat Oct 15 2016,CD Leganes,2-3,Sevilla FC
+Sat Oct 15 2016,FC Barcelona,4-0,Deportivo La Coruna
+Sat Oct 15 2016,Atletico Madrid,7-1,Granada CF
+Sat Oct 15 2016,Real Betis,1-6,Real Madrid
+Sun Oct 16 2016,Cd Alaves,1-1,Malaga CF
+Sun Oct 16 2016,Athletic Bilbao,3-2,Real Sociedad
+Sun Oct 16 2016,Sporting Gijon,1-2,Valencia CF
+Sun Oct 16 2016,Villarreal CF,5-0,Celta Vigo
+Mon Oct 17 2016,Sd Eibar,2-3,CA Osasuna
+Fri Oct 21 2016,CA Osasuna,1-2,Real Betis
+Sat Oct 22 2016,Espanyol Barcelona,3-3,Sd Eibar
+Sat Oct 22 2016,Valencia CF,2-3,FC Barcelona
+Sat Oct 22 2016,Real Sociedad,3-0,Cd Alaves
+Sat Oct 22 2016,Granada CF,0-0,Sporting Gijon
+Sun Oct 23 2016,Celta Vigo,4-1,Deportivo La Coruna
+Sun Oct 23 2016,Sevilla FC,1-0,Atletico Madrid
+Sun Oct 23 2016,Villarreal CF,2-1,Ud Las Palmas
+Sun Oct 23 2016,Malaga CF,4-0,CD Leganes
+Sun Oct 23 2016,Real Madrid,2-1,Athletic Bilbao
+Fri Oct 28 2016,CD Leganes,0-2,Real Sociedad
+Sat Oct 29 2016,Sporting Gijon,1-1,Sevilla FC
+Sat Oct 29 2016,Cd Alaves,1-4,Real Madrid
+Sat Oct 29 2016,Atletico Madrid,4-2,Malaga CF
+Sat Oct 29 2016,FC Barcelona,1-0,Granada CF
+Sun Oct 30 2016,Sd Eibar,2-1,Villarreal CF
+Sun Oct 30 2016,Athletic Bilbao,1-1,CA Osasuna
+Sun Oct 30 2016,Real Betis,0-1,Espanyol Barcelona
+Sun Oct 30 2016,Ud Las Palmas,3-3,Celta Vigo
+Mon Oct 31 2016,Deportivo La Coruna,1-1,Valencia CF
+Fri Nov 4 2016,Malaga CF,3-2,Sporting Gijon
+Sat Nov 5 2016,Granada CF,1-1,Deportivo La Coruna
+Sat Nov 5 2016,Real Sociedad,2-0,Atletico Madrid
+Sat Nov 5 2016,CA Osasuna,0-1,Cd Alaves
+Sat Nov 5 2016,Ud Las Palmas,1-0,Sd Eibar
+Sun Nov 6 2016,Real Madrid,3-0,CD Leganes
+Sun Nov 6 2016,Espanyol Barcelona,0-0,Athletic Bilbao
+Sun Nov 6 2016,Celta Vigo,2-1,Valencia CF
+Sun Nov 6 2016,Villarreal CF,2-0,Real Betis
+Sun Nov 6 2016,Sevilla FC,1-2,FC Barcelona
+Fri Nov 18 2016,Real Betis,2-0,Ud Las Palmas
+Sat Nov 19 2016,Deportivo La Coruna,2-3,Sevilla FC
+Sat Nov 19 2016,FC Barcelona,0-0,Malaga CF
+Sat Nov 19 2016,Sd Eibar,1-0,Celta Vigo
+Sat Nov 19 2016,Atletico Madrid,0-3,Real Madrid
+Sun Nov 20 2016,Cd Alaves,0-1,Espanyol Barcelona
+Sun Nov 20 2016,Valencia CF,1-1,Granada CF
+Sun Nov 20 2016,Sporting Gijon,1-3,Real Sociedad
+Sun Nov 20 2016,Athletic Bilbao,1-0,Villarreal CF
+Mon Nov 21 2016,CD Leganes,2-0,CA Osasuna
+Fri Nov 25 2016,Sd Eibar,3-1,Real Betis
+Sat Nov 26 2016,Malaga CF,4-3,Deportivo La Coruna
+Sat Nov 26 2016,Real Madrid,2-1,Sporting Gijon
+Sat Nov 26 2016,Espanyol Barcelona,3-0,CD Leganes
+Sat Nov 26 2016,Sevilla FC,2-1,Valencia CF
+Sun Nov 27 2016,Villarreal CF,0-2,Cd Alaves
+Sun Nov 27 2016,CA Osasuna,0-3,Atletico Madrid
+Sun Nov 27 2016,Celta Vigo,3-1,Granada CF
+Sun Nov 27 2016,Real Sociedad,1-1,FC Barcelona
+Mon Nov 28 2016,Ud Las Palmas,3-1,Athletic Bilbao
+Sat Dec 3 2016,Granada CF,2-1,Sevilla FC
+Sat Dec 3 2016,FC Barcelona,1-1,Real Madrid
+Sat Dec 3 2016,CD Leganes,0-0,Villarreal CF
+Sat Dec 3 2016,Atletico Madrid,0-0,Espanyol Barcelona
+Sun Dec 4 2016,Real Betis,3-3,Celta Vigo
+Sun Dec 4 2016,Athletic Bilbao,3-1,Sd Eibar
+Sun Dec 4 2016,Cd Alaves,1-1,Ud Las Palmas
+Sun Dec 4 2016,Sporting Gijon,3-1,CA Osasuna
+Sun Dec 4 2016,Valencia CF,2-2,Malaga CF
+Mon Dec 5 2016,Deportivo La Coruna,5-1,Real Sociedad
+Fri Dec 9 2016,Malaga CF,1-1,Granada CF
+Sat Dec 10 2016,CA Osasuna,0-3,FC Barcelona
+Sat Dec 10 2016,Real Sociedad,3-2,Valencia CF
+Sat Dec 10 2016,Ud Las Palmas,1-1,CD Leganes
+Sat Dec 10 2016,Real Madrid,3-2,Deportivo La Coruna
+Sun Dec 11 2016,Sd Eibar,0-0,Cd Alaves
+Sun Dec 11 2016,Celta Vigo,0-3,Sevilla FC
+Sun Dec 11 2016,Espanyol Barcelona,2-1,Sporting Gijon
+Sun Dec 11 2016,Real Betis,1-0,Athletic Bilbao
+Mon Dec 12 2016,Villarreal CF,3-0,Atletico Madrid
+Fri Dec 16 2016,Cd Alaves,1-0,Real Betis
+Sat Dec 17 2016,Sporting Gijon,1-3,Villarreal CF
+Sat Dec 17 2016,Atletico Madrid,1-0,Ud Las Palmas
+Sat Dec 17 2016,Granada CF,0-2,Real Sociedad
+Sat Dec 17 2016,Sevilla FC,4-1,Malaga CF
+Sun Dec 18 2016,CD Leganes,1-1,Sd Eibar
+Sun Dec 18 2016,Deportivo La Coruna,2-0,CA Osasuna
+Sun Dec 18 2016,FC Barcelona,4-1,Espanyol Barcelona
+Mon Dec 19 2016,Athletic Bilbao,2-1,Celta Vigo
+Fri Jan 6 2017,Espanyol Barcelona,1-1,Deportivo La Coruna
+Sat Jan 7 2017,Real Madrid,5-0,Granada CF
+Sat Jan 7 2017,Sd Eibar,0-2,Atletico Madrid
+Sat Jan 7 2017,Ud Las Palmas,1-0,Sporting Gijon
+Sat Jan 7 2017,Real Sociedad,0-4,Sevilla FC
+Sun Jan 8 2017,Athletic Bilbao,0-0,Cd Alaves
+Sun Jan 8 2017,Real Betis,2-0,CD Leganes
+Sun Jan 8 2017,Celta Vigo,3-1,Malaga CF
+Sun Jan 8 2017,Villarreal CF,1-1,FC Barcelona
+Mon Jan 9 2017,CA Osasuna,3-3,Valencia CF
+Sat Jan 14 2017,CD Leganes,0-0,Athletic Bilbao
+Sat Jan 14 2017,FC Barcelona,5-0,Ud Las Palmas
+Sat Jan 14 2017,Atletico Madrid,1-0,Real Betis
+Sat Jan 14 2017,Deportivo La Coruna,0-0,Villarreal CF
+Sun Jan 15 2017,Valencia CF,2-1,Espanyol Barcelona
+Sun Jan 15 2017,Celta Vigo,1-0,Cd Alaves
+Sun Jan 15 2017,Sporting Gijon,2-3,Sd Eibar
+Sun Jan 15 2017,Granada CF,1-1,CA Osasuna
+Sun Jan 15 2017,Sevilla FC,2-1,Real Madrid
+Mon Jan 16 2017,Malaga CF,0-2,Real Sociedad
+Fri Jan 20 2017,Ud Las Palmas,1-1,Deportivo La Coruna
+Sat Jan 21 2017,Espanyol Barcelona,3-1,Granada CF
+Sat Jan 21 2017,Real Madrid,2-1,Malaga CF
+Sat Jan 21 2017,Cd Alaves,2-2,CD Leganes
+Sat Jan 21 2017,Villarreal CF,0-2,Valencia CF
+Sun Jan 22 2017,CA Osasuna,3-4,Sevilla FC
+Sun Jan 22 2017,Athletic Bilbao,2-2,Atletico Madrid
+Sun Jan 22 2017,Real Betis,0-0,Sporting Gijon
+Sun Jan 22 2017,Real Sociedad,1-0,Celta Vigo
+Sun Jan 22 2017,Sd Eibar,0-4,FC Barcelona
+Fri Jan 27 2017,CA Osasuna,1-1,Malaga CF
+Sat Jan 28 2017,Villarreal CF,2-0,Granada CF
+Sat Jan 28 2017,Cd Alaves,0-0,Atletico Madrid
+Sat Jan 28 2017,Sd Eibar,3-1,Deportivo La Coruna
+Sat Jan 28 2017,CD Leganes,0-2,Celta Vigo
+Sun Jan 29 2017,Real Betis,1-1,FC Barcelona
+Sun Jan 29 2017,Espanyol Barcelona,3-1,Sevilla FC
+Sun Jan 29 2017,Athletic Bilbao,2-1,Sporting Gijon
+Sun Jan 29 2017,Real Madrid,3-0,Real Sociedad
+Mon Jan 30 2017,Ud Las Palmas,3-1,Valencia CF
+Sat Feb 4 2017,Malaga CF,0-1,Espanyol Barcelona
+Sat Feb 4 2017,FC Barcelona,3-0,Athletic Bilbao
+Sat Feb 4 2017,Atletico Madrid,2-0,CD Leganes
+Sat Feb 4 2017,Valencia CF,0-4,Sd Eibar
+Sun Feb 5 2017,Sevilla FC,0-0,Villarreal CF
+Sun Feb 5 2017,Sporting Gijon,2-4,Cd Alaves
+Sun Feb 5 2017,Real Sociedad,3-2,CA Osasuna
+Mon Feb 6 2017,Granada CF,1-0,Ud Las Palmas
+Fri Feb 10 2017,Espanyol Barcelona,1-2,Real Sociedad
+Sat Feb 11 2017,Real Betis,0-0,Valencia CF
+Sat Feb 11 2017,Cd Alaves,0-6,FC Barcelona
+Sat Feb 11 2017,Athletic Bilbao,2-1,Deportivo La Coruna
+Sat Feb 11 2017,CA Osasuna,1-3,Real Madrid
+Sun Feb 12 2017,Villarreal CF,1-1,Malaga CF
+Sun Feb 12 2017,CD Leganes,0-2,Sporting Gijon
+Sun Feb 12 2017,Ud Las Palmas,0-1,Sevilla FC
+Sun Feb 12 2017,Atletico Madrid,3-2,Celta Vigo
+Mon Feb 13 2017,Sd Eibar,4-0,Granada CF
+Fri Feb 17 2017,Granada CF,4-1,Real Betis
+Sat Feb 18 2017,Sporting Gijon,1-4,Atletico Madrid
+Sat Feb 18 2017,Real Madrid,2-0,Espanyol Barcelona
+Sat Feb 18 2017,Deportivo La Coruna,0-1,Cd Alaves
+Sat Feb 18 2017,Sevilla FC,2-0,Sd Eibar
+Sun Feb 19 2017,Real Sociedad,0-1,Villarreal CF
+Sun Feb 19 2017,Valencia CF,2-0,Athletic Bilbao
+Sun Feb 19 2017,Celta Vigo,3-0,CA Osasuna
+Sun Feb 19 2017,FC Barcelona,2-1,CD Leganes
+Mon Feb 20 2017,Malaga CF,2-1,Ud Las Palmas
+Wed Feb 22 2017,Valencia CF,2-1,Real Madrid
+Fri Feb 24 2017,Ud Las Palmas,0-1,Real Sociedad
+Sat Feb 25 2017,Cd Alaves,2-1,Valencia CF
+Sat Feb 25 2017,Real Betis,1-2,Sevilla FC
+Sat Feb 25 2017,CD Leganes,4-0,Deportivo La Coruna
+Sat Feb 25 2017,Sd Eibar,3-0,Malaga CF
+Sun Feb 26 2017,Espanyol Barcelona,3-0,CA Osasuna
+Sun Feb 26 2017,Atletico Madrid,1-2,FC Barcelona
+Sun Feb 26 2017,Athletic Bilbao,3-1,Granada CF
+Sun Feb 26 2017,Sporting Gijon,1-1,Celta Vigo
+Sun Feb 26 2017,Villarreal CF,2-3,Real Madrid
+Tue Feb 28 2017,Real Sociedad,2-2,Sd Eibar
+Tue Feb 28 2017,Malaga CF,1-2,Real Betis
+Tue Feb 28 2017,Valencia CF,1-0,CD Leganes
+Wed Mar 1 2017,CA Osasuna,1-4,Villarreal CF
+Wed Mar 1 2017,FC Barcelona,6-1,Sporting Gijon
+Wed Mar 1 2017,Celta Vigo,2-2,Espanyol Barcelona
+Wed Mar 1 2017,Real Madrid,3-3,Ud Las Palmas
+Wed Mar 1 2017,Granada CF,2-1,Cd Alaves
+Thu Mar 2 2017,Deportivo La Coruna,1-1,Atletico Madrid
+Thu Mar 2 2017,Sevilla FC,1-0,Athletic Bilbao
+Fri Mar 3 2017,Real Betis,2-3,Real Sociedad
+Sat Mar 4 2017,CD Leganes,1-0,Granada CF
+Sat Mar 4 2017,Sd Eibar,1-4,Real Madrid
+Sat Mar 4 2017,Villarreal CF,2-0,Espanyol Barcelona
+Sat Mar 4 2017,FC Barcelona,5-0,Celta Vigo
+Sun Mar 5 2017,Sporting Gijon,0-1,Deportivo La Coruna
+Sun Mar 5 2017,Atletico Madrid,3-0,Valencia CF
+Sun Mar 5 2017,Ud Las Palmas,5-2,CA Osasuna
+Sun Mar 5 2017,Athletic Bilbao,1-0,Malaga CF
+Mon Mar 6 2017,Cd Alaves,1-1,Sevilla FC
+Wed Mar 8 2017,Deportivo La Coruna,1-1,Real Betis
+Fri Mar 10 2017,Espanyol Barcelona,4-3,Ud Las Palmas
+Sat Mar 11 2017,Valencia CF,1-1,Sporting Gijon
+Sat Mar 11 2017,Sevilla FC,1-1,CD Leganes
+Sat Mar 11 2017,Malaga CF,1-2,Cd Alaves
+Sat Mar 11 2017,Granada CF,0-1,Atletico Madrid
+Sun Mar 12 2017,Real Sociedad,0-2,Athletic Bilbao
+Sun Mar 12 2017,Deportivo La Coruna,2-1,FC Barcelona
+Sun Mar 12 2017,Celta Vigo,0-1,Villarreal CF
+Sun Mar 12 2017,Real Madrid,2-1,Real Betis
+Mon Mar 13 2017,CA Osasuna,1-1,Sd Eibar
+Fri Mar 17 2017,Ud Las Palmas,1-0,Villarreal CF
+Sat Mar 18 2017,Sd Eibar,1-1,Espanyol Barcelona
+Sat Mar 18 2017,Athletic Bilbao,1-2,Real Madrid
+Sat Mar 18 2017,Cd Alaves,1-0,Real Sociedad
+Sat Mar 18 2017,Real Betis,2-0,CA Osasuna
+Sun Mar 19 2017,CD Leganes,0-0,Malaga CF
+Sun Mar 19 2017,Atletico Madrid,3-1,Sevilla FC
+Sun Mar 19 2017,Sporting Gijon,3-1,Granada CF
+Sun Mar 19 2017,Deportivo La Coruna,0-1,Celta Vigo
+Sun Mar 19 2017,FC Barcelona,4-2,Valencia CF
+Fri Mar 31 2017,Espanyol Barcelona,2-1,Real Betis
+Sat Apr 1 2017,Villarreal CF,2-3,Sd Eibar
+Sat Apr 1 2017,CA Osasuna,1-2,Athletic Bilbao
+Sat Apr 1 2017,Real Sociedad,1-1,CD Leganes
+Sat Apr 1 2017,Malaga CF,0-2,Atletico Madrid
+Sun Apr 2 2017,Sevilla FC,0-0,Sporting Gijon
+Sun Apr 2 2017,Real Madrid,3-0,Cd Alaves
+Sun Apr 2 2017,Valencia CF,3-0,Deportivo La Coruna
+Sun Apr 2 2017,Granada CF,1-4,FC Barcelona
+Mon Apr 3 2017,Celta Vigo,3-1,Ud Las Palmas
+Tue Apr 4 2017,Athletic Bilbao,2-0,Espanyol Barcelona
+Tue Apr 4 2017,Real Betis,0-1,Villarreal CF
+Tue Apr 4 2017,Atletico Madrid,1-0,Real Sociedad
+Wed Apr 5 2017,FC Barcelona,3-0,Sevilla FC
+Wed Apr 5 2017,Cd Alaves,0-1,CA Osasuna
+Wed Apr 5 2017,Sporting Gijon,0-1,Malaga CF
+Wed Apr 5 2017,Deportivo La Coruna,0-0,Granada CF
+Wed Apr 5 2017,CD Leganes,2-4,Real Madrid
+Thu Apr 6 2017,Sd Eibar,3-1,Ud Las Palmas
+Thu Apr 6 2017,Valencia CF,3-2,Celta Vigo
+Fri Apr 7 2017,Villarreal CF,3-1,Athletic Bilbao
+Sat Apr 8 2017,Espanyol Barcelona,1-0,Cd Alaves
+Sat Apr 8 2017,Real Madrid,1-1,Atletico Madrid
+Sat Apr 8 2017,Sevilla FC,4-2,Deportivo La Coruna
+Sat Apr 8 2017,Malaga CF,2-0,FC Barcelona
+Sun Apr 9 2017,Granada CF,1-3,Valencia CF
+Sun Apr 9 2017,Celta Vigo,0-2,Sd Eibar
+Sun Apr 9 2017,CA Osasuna,2-1,CD Leganes
+Sun Apr 9 2017,Ud Las Palmas,4-1,Real Betis
+Mon Apr 10 2017,Real Sociedad,3-1,Sporting Gijon
+Fri Apr 14 2017,Athletic Bilbao,5-1,Ud Las Palmas
+Sat Apr 15 2017,Deportivo La Coruna,2-0,Malaga CF
+Sat Apr 15 2017,Sporting Gijon,2-3,Real Madrid
+Sat Apr 15 2017,Atletico Madrid,3-0,CA Osasuna
+Sat Apr 15 2017,FC Barcelona,3-2,Real Sociedad
+Sun Apr 16 2017,CD Leganes,0-1,Espanyol Barcelona
+Sun Apr 16 2017,Valencia CF,0-0,Sevilla FC
+Sun Apr 16 2017,Real Betis,2-0,Sd Eibar
+Sun Apr 16 2017,Granada CF,0-3,Celta Vigo
+Mon Apr 17 2017,Cd Alaves,2-1,Villarreal CF
+Fri Apr 21 2017,Sevilla FC,2-0,Granada CF
+Sat Apr 22 2017,Malaga CF,2-0,Valencia CF
+Sat Apr 22 2017,Villarreal CF,2-1,CD Leganes
+Sat Apr 22 2017,CA Osasuna,2-2,Sporting Gijon
+Sat Apr 22 2017,Espanyol Barcelona,0-1,Atletico Madrid
+Sun Apr 23 2017,Real Sociedad,1-0,Deportivo La Coruna
+Sun Apr 23 2017,Celta Vigo,0-1,Real Betis
+Sun Apr 23 2017,Ud Las Palmas,1-1,Cd Alaves
+Sun Apr 23 2017,Real Madrid,2-3,FC Barcelona
+Mon Apr 24 2017,Sd Eibar,0-1,Athletic Bilbao
+Tue Apr 25 2017,Sporting Gijon,1-1,Espanyol Barcelona
+Tue Apr 25 2017,Granada CF,0-2,Malaga CF
+Tue Apr 25 2017,Atletico Madrid,0-1,Villarreal CF
+Wed Apr 26 2017,FC Barcelona,7-1,CA Osasuna
+Wed Apr 26 2017,CD Leganes,3-0,Ud Las Palmas
+Wed Apr 26 2017,Valencia CF,2-3,Real Sociedad
+Wed Apr 26 2017,Deportivo La Coruna,2-6,Real Madrid
+Thu Apr 27 2017,Cd Alaves,0-0,Sd Eibar
+Thu Apr 27 2017,Sevilla FC,2-1,Celta Vigo
+Thu Apr 27 2017,Athletic Bilbao,2-1,Real Betis
+Fri Apr 28 2017,Villarreal CF,3-1,Sporting Gijon
+Sat Apr 29 2017,Real Sociedad,2-1,Granada CF
+Sat Apr 29 2017,Real Madrid,2-1,Valencia CF
+Sat Apr 29 2017,Ud Las Palmas,0-5,Atletico Madrid
+Sat Apr 29 2017,Espanyol Barcelona,0-3,FC Barcelona
+Sun Apr 30 2017,CA Osasuna,2-2,Deportivo La Coruna
+Sun Apr 30 2017,Real Betis,1-4,Cd Alaves
+Sun Apr 30 2017,Sd Eibar,2-0,CD Leganes
+Sun Apr 30 2017,Celta Vigo,0-3,Athletic Bilbao
+Mon May 1 2017,Malaga CF,4-2,Sevilla FC
+Fri May 5 2017,Sevilla FC,1-1,Real Sociedad
+Sat May 6 2017,Sporting Gijon,1-0,Ud Las Palmas
+Sat May 6 2017,Atletico Madrid,1-0,Sd Eibar
+Sat May 6 2017,FC Barcelona,4-1,Villarreal CF
+Sat May 6 2017,Granada CF,0-4,Real Madrid
+Sun May 7 2017,Cd Alaves,1-0,Athletic Bilbao
+Sun May 7 2017,Valencia CF,4-1,CA Osasuna
+Sun May 7 2017,Deportivo La Coruna,1-2,Espanyol Barcelona
+Sun May 7 2017,Malaga CF,3-0,Celta Vigo
+Mon May 8 2017,CD Leganes,4-0,Real Betis
+Sat May 13 2017,Espanyol Barcelona,0-1,Valencia CF
+Sat May 13 2017,CA Osasuna,2-1,Granada CF
+Sun May 14 2017,Cd Alaves,3-1,Celta Vigo
+Sun May 14 2017,Athletic Bilbao,1-1,CD Leganes
+Sun May 14 2017,Real Betis,1-1,Atletico Madrid
+Sun May 14 2017,Sd Eibar,0-1,Sporting Gijon
+Sun May 14 2017,Ud Las Palmas,1-4,FC Barcelona
+Sun May 14 2017,Villarreal CF,0-0,Deportivo La Coruna
+Sun May 14 2017,Real Madrid,4-1,Sevilla FC
+Sun May 14 2017,Real Sociedad,2-2,Malaga CF
+Wed May 17 2017,Celta Vigo,1-4,Real Madrid
+Fri May 19 2017,Granada CF,1-2,Espanyol Barcelona
+Sat May 20 2017,Sporting Gijon,2-2,Real Betis
+Sat May 20 2017,CD Leganes,1-1,Cd Alaves
+Sat May 20 2017,Deportivo La Coruna,3-0,Ud Las Palmas
+Sat May 20 2017,Sevilla FC,5-0,CA Osasuna
+Sun May 21 2017,Atletico Madrid,3-1,Athletic Bilbao
+Sun May 21 2017,Valencia CF,1-3,Villarreal CF
+Sun May 21 2017,Celta Vigo,2-2,Real Sociedad
+Sun May 21 2017,FC Barcelona,4-2,Sd Eibar
+Sun May 21 2017,Malaga CF,0-2,Real Madrid

@@ -1,0 +1,241 @@
+Date,Team 1,FT,Team 2
+Sun Oct 4 1942,Genoa CFc,6-1,Vicenza Calcio
+Sun Oct 4 1942,Unione Triestina,0-0,Lazio Roma
+Sun Oct 4 1942,As Roma,1-0,Acf Fiorentina
+Sun Oct 4 1942,Juventus,1-1,AC Milan
+Sun Oct 4 1942,Bologna FC,2-0,Atalanta
+Sun Oct 4 1942,As Bari,2-0,Ac Liguria
+Sun Oct 4 1942,Inter,1-0,Torino FC
+Sun Oct 4 1942,As Livorno,2-1,Ac Venezia
+Sun Oct 11 1942,Vicenza Calcio,1-2,As Roma
+Sun Oct 11 1942,Ac Venezia,1-1,Juventus
+Sun Oct 11 1942,Atalanta,2-0,As Bari
+Sun Oct 11 1942,Acf Fiorentina,2-2,Unione Triestina
+Sun Oct 11 1942,Lazio Roma,2-1,Bologna FC
+Sun Oct 11 1942,Ac Liguria,1-1,Inter
+Sun Oct 11 1942,Torino FC,1-2,As Livorno
+Sun Oct 11 1942,AC Milan,0-0,Genoa CFc
+Sun Oct 18 1942,Acf Fiorentina,4-2,Vicenza Calcio
+Sun Oct 18 1942,As Bari,2-1,Lazio Roma
+Sun Oct 18 1942,Genoa CFc,5-1,Ac Venezia
+Sun Oct 18 1942,Juventus,2-5,Torino FC
+Sun Oct 18 1942,As Livorno,3-1,Ac Liguria
+Sun Oct 18 1942,As Roma,1-1,AC Milan
+Sun Oct 18 1942,Unione Triestina,0-0,Bologna FC
+Sun Oct 18 1942,Inter,1-0,Atalanta
+Sun Oct 25 1942,Vicenza Calcio,2-1,Unione Triestina
+Sun Oct 25 1942,Ac Venezia,0-0,As Roma
+Sun Oct 25 1942,Torino FC,3-1,Genoa CFc
+Sun Oct 25 1942,AC Milan,1-3,Acf Fiorentina
+Sun Oct 25 1942,Ac Liguria,1-0,Juventus
+Sun Oct 25 1942,Lazio Roma,3-1,Inter
+Sun Oct 25 1942,Bologna FC,4-0,As Bari
+Sun Oct 25 1942,Atalanta,0-2,As Livorno
+Sun Nov 1 1942,Acf Fiorentina,2-1,Ac Venezia
+Sun Nov 1 1942,Unione Triestina,1-1,As Bari
+Sun Nov 1 1942,Vicenza Calcio,1-1,AC Milan
+Sun Nov 1 1942,As Roma,0-4,Torino FC
+Sun Nov 1 1942,As Livorno,4-2,Lazio Roma
+Sun Nov 1 1942,Genoa CFc,3-0,Ac Liguria
+Sun Nov 1 1942,Inter,1-0,Bologna FC
+Sun Nov 1 1942,Juventus,5-1,Atalanta
+Sun Nov 8 1942,Ac Venezia,0-1,Vicenza Calcio
+Sun Nov 8 1942,Torino FC,5-0,Acf Fiorentina
+Sun Nov 8 1942,AC Milan,2-0,Unione Triestina
+Sun Nov 8 1942,Ac Liguria,3-0,As Roma
+Sun Nov 8 1942,Lazio Roma,5-3,Juventus
+Sun Nov 8 1942,Atalanta,3-1,Genoa CFc
+Sun Nov 8 1942,As Bari,1-0,Inter
+Sun Nov 8 1942,Bologna FC,1-2,As Livorno
+Sun Nov 15 1942,Vicenza Calcio,0-1,Torino FC
+Sun Nov 15 1942,Acf Fiorentina,5-1,Ac Liguria
+Sun Nov 15 1942,Genoa CFc,6-5,Lazio Roma
+Sun Nov 15 1942,Juventus,3-1,Bologna FC
+Sun Nov 15 1942,As Livorno,1-1,As Bari
+Sun Nov 15 1942,AC Milan,1-2,Ac Venezia
+Sun Nov 15 1942,As Roma,2-1,Atalanta
+Sun Nov 15 1942,Unione Triestina,0-0,Inter
+Sun Nov 22 1942,Ac Liguria,3-1,Vicenza Calcio
+Sun Nov 22 1942,Ac Venezia,1-1,Unione Triestina
+Sun Nov 22 1942,Lazio Roma,3-1,As Roma
+Sun Nov 22 1942,Inter,0-1,As Livorno
+Sun Nov 22 1942,Torino FC,0-1,AC Milan
+Sun Nov 22 1942,Atalanta,1-0,Acf Fiorentina
+Sun Nov 22 1942,As Bari,2-3,Juventus
+Sun Nov 22 1942,Bologna FC,3-1,Genoa CFc
+Sun Nov 29 1942,Ac Venezia,0-3,Torino FC
+Sun Nov 29 1942,Vicenza Calcio,2-3,Atalanta
+Sun Nov 29 1942,Acf Fiorentina,1-1,Lazio Roma
+Sun Nov 29 1942,Genoa CFc,3-2,As Bari
+Sun Nov 29 1942,Juventus,4-2,Inter
+Sun Nov 29 1942,AC Milan,0-0,Ac Liguria
+Sun Nov 29 1942,As Roma,1-1,Bologna FC
+Sun Nov 29 1942,Unione Triestina,1-1,As Livorno
+Sun Dec 6 1942,As Livorno,0-3,Juventus
+Sun Dec 6 1942,Ac Liguria,1-0,Ac Venezia
+Sun Dec 6 1942,Lazio Roma,2-1,Vicenza Calcio
+Sun Dec 6 1942,Bologna FC,3-1,Acf Fiorentina
+Sun Dec 6 1942,Atalanta,0-0,AC Milan
+Sun Dec 6 1942,Torino FC,4-1,Unione Triestina
+Sun Dec 6 1942,Inter,3-0,Genoa CFc
+Sun Dec 6 1942,As Bari,2-2,As Roma
+Sun Dec 13 1942,Torino FC,3-0,Ac Liguria
+Sun Dec 13 1942,Vicenza Calcio,0-1,Bologna FC
+Sun Dec 13 1942,Ac Venezia,1-1,Atalanta
+Sun Dec 13 1942,Unione Triestina,1-1,Juventus
+Sun Dec 13 1942,AC Milan,4-1,Lazio Roma
+Sun Dec 13 1942,Acf Fiorentina,1-0,As Bari
+Sun Dec 13 1942,Genoa CFc,5-2,As Livorno
+Sun Dec 13 1942,As Roma,1-3,Inter
+Sun Dec 20 1942,As Bari,0-0,Vicenza Calcio
+Sun Dec 20 1942,As Livorno,2-0,As Roma
+Sun Dec 20 1942,Ac Liguria,1-1,Unione Triestina
+Sun Dec 20 1942,Lazio Roma,1-1,Ac Venezia
+Sun Dec 20 1942,Bologna FC,3-0,AC Milan
+Sun Dec 20 1942,Atalanta,1-0,Torino FC
+Sun Dec 20 1942,Inter,4-0,Acf Fiorentina
+Sun Dec 20 1942,Juventus,3-2,Genoa CFc
+Sun Dec 27 1942,Vicenza Calcio,2-2,Inter
+Sun Dec 27 1942,Ac Venezia,1-0,Bologna FC
+Sun Dec 27 1942,Acf Fiorentina,4-3,As Livorno
+Sun Dec 27 1942,Unione Triestina,0-1,Genoa CFc
+Sun Dec 27 1942,Torino FC,2-2,Lazio Roma
+Sun Dec 27 1942,Ac Liguria,3-0,Atalanta
+Sun Dec 27 1942,As Roma,1-2,Juventus
+Sun Dec 27 1942,AC Milan,3-1,As Bari
+Sun Jan 3 1943,As Livorno,2-0,Vicenza Calcio
+Sun Jan 3 1943,Unione Triestina,0-1,Atalanta
+Sun Jan 3 1943,Inter,3-1,AC Milan
+Sun Jan 3 1943,As Bari,2-1,Ac Venezia
+Sun Jan 3 1943,Bologna FC,1-2,Torino FC
+Sun Jan 3 1943,Genoa CFc,0-2,As Roma
+Sun Jan 3 1943,Juventus,5-2,Acf Fiorentina
+Sun Jan 3 1943,Lazio Roma,5-1,Ac Liguria
+Sun Jan 10 1943,Vicenza Calcio,0-0,Juventus
+Sun Jan 10 1943,Ac Venezia,0-2,Inter
+Sun Jan 10 1943,Torino FC,3-0,As Bari
+Sun Jan 10 1943,As Roma,1-2,Unione Triestina
+Sun Jan 10 1943,AC Milan,1-1,As Livorno
+Sun Jan 10 1943,Acf Fiorentina,3-2,Genoa CFc
+Sun Jan 10 1943,Atalanta,2-0,Lazio Roma
+Sun Jan 10 1943,Ac Liguria,1-7,Bologna FC
+Sun Jan 17 1943,AC Milan,2-0,Juventus
+Sun Jan 17 1943,Ac Venezia,0-1,As Livorno
+Sun Jan 17 1943,Vicenza Calcio,0-1,Genoa CFc
+Sun Jan 17 1943,Torino FC,1-3,Inter
+Sun Jan 17 1943,Lazio Roma,3-1,Unione Triestina
+Sun Jan 17 1943,Acf Fiorentina,3-0,As Roma
+Sun Jan 17 1943,Atalanta,1-0,Bologna FC
+Sun Jan 17 1943,Ac Liguria,1-0,As Bari
+Sun Jan 24 1943,Bologna FC,4-0,Lazio Roma
+Sun Jan 24 1943,Inter,5-1,Ac Liguria
+Sun Jan 24 1943,Unione Triestina,3-0,Acf Fiorentina
+Sun Jan 24 1943,As Roma,1-0,Vicenza Calcio
+Sun Jan 24 1943,As Livorno,0-0,Torino FC
+Sun Jan 24 1943,Genoa CFc,4-2,AC Milan
+Sun Jan 24 1943,As Bari,0-0,Atalanta
+Sun Jan 24 1943,Juventus,5-2,Ac Venezia
+Sun Jan 31 1943,Lazio Roma,0-0,As Bari
+Sun Jan 31 1943,Ac Venezia,4-1,Genoa CFc
+Sun Jan 31 1943,Torino FC,2-0,Juventus
+Sun Jan 31 1943,Vicenza Calcio,3-0,Acf Fiorentina
+Sun Jan 31 1943,Bologna FC,2-2,Unione Triestina
+Sun Jan 31 1943,Atalanta,2-5,Inter
+Sun Jan 31 1943,AC Milan,4-1,As Roma
+Sun Jan 31 1943,Ac Liguria,1-2,As Livorno
+Sun Feb 7 1943,Acf Fiorentina,3-0,AC Milan
+Sun Feb 7 1943,Unione Triestina,2-0,Vicenza Calcio
+Sun Feb 7 1943,As Roma,2-1,Ac Venezia
+Sun Feb 7 1943,As Livorno,1-1,Atalanta
+Sun Feb 7 1943,Genoa CFc,3-3,Torino FC
+Sun Feb 7 1943,As Bari,0-1,Bologna FC
+Sun Feb 7 1943,Inter,4-1,Lazio Roma
+Sun Feb 7 1943,Juventus,4-1,Ac Liguria
+Sun Feb 14 1943,Lazio Roma,0-1,As Livorno
+Sun Feb 14 1943,Torino FC,4-0,As Roma
+Sun Feb 14 1943,Ac Venezia,2-2,Acf Fiorentina
+Sun Feb 14 1943,Ac Liguria,1-2,Genoa CFc
+Sun Feb 14 1943,As Bari,1-0,Unione Triestina
+Sun Feb 14 1943,Atalanta,0-2,Juventus
+Sun Feb 14 1943,AC Milan,1-1,Vicenza Calcio
+Sun Feb 14 1943,Bologna FC,3-1,Inter
+Sun Feb 21 1943,Unione Triestina,0-1,AC Milan
+Sun Feb 21 1943,Vicenza Calcio,2-0,Ac Venezia
+Sun Feb 21 1943,As Roma,5-1,Ac Liguria
+Sun Feb 21 1943,As Livorno,1-0,Bologna FC
+Sun Feb 21 1943,Genoa CFc,1-0,Atalanta
+Sun Feb 21 1943,Acf Fiorentina,2-3,Torino FC
+Sun Feb 21 1943,Inter,0-0,As Bari
+Sun Feb 21 1943,Juventus,2-4,Lazio Roma
+Sun Feb 28 1943,As Bari,1-1,As Livorno
+Sun Feb 28 1943,Ac Venezia,1-3,AC Milan
+Sun Feb 28 1943,Torino FC,0-0,Vicenza Calcio
+Sun Feb 28 1943,Ac Liguria,2-2,Acf Fiorentina
+Sun Feb 28 1943,Inter,1-0,Unione Triestina
+Sun Feb 28 1943,Bologna FC,2-2,Juventus
+Sun Feb 28 1943,Atalanta,2-1,As Roma
+Sun Feb 28 1943,Lazio Roma,1-1,Genoa CFc
+Sun Mar 14 1943,As Bari,0-0,Genoa CFc
+Sun Mar 14 1943,Inter,3-1,Juventus
+Sun Mar 14 1943,Torino FC,3-1,Ac Venezia
+Sun Mar 14 1943,As Livorno,0-0,Unione Triestina
+Sun Mar 14 1943,Ac Liguria,2-2,AC Milan
+Sun Mar 14 1943,Bologna FC,4-2,As Roma
+Sun Mar 14 1943,Atalanta,2-2,Vicenza Calcio
+Sun Mar 14 1943,Lazio Roma,3-3,Acf Fiorentina
+Sun Mar 21 1943,Juventus,3-0,As Livorno
+Sun Mar 21 1943,Ac Venezia,1-0,Ac Liguria
+Sun Mar 21 1943,Unione Triestina,2-3,Torino FC
+Sun Mar 21 1943,Vicenza Calcio,1-1,Lazio Roma
+Sun Mar 21 1943,Genoa CFc,1-0,Inter
+Sun Mar 21 1943,Acf Fiorentina,0-1,Bologna FC
+Sun Mar 21 1943,As Roma,1-0,As Bari
+Sun Mar 21 1943,AC Milan,0-1,Atalanta
+Sun Mar 28 1943,As Bari,4-2,Acf Fiorentina
+Sun Mar 28 1943,As Livorno,3-1,Genoa CFc
+Sun Mar 28 1943,Ac Liguria,2-3,Torino FC
+Sun Mar 28 1943,Lazio Roma,4-2,AC Milan
+Sun Mar 28 1943,Bologna FC,1-2,Vicenza Calcio
+Sun Mar 28 1943,Atalanta,1-2,Ac Venezia
+Sun Mar 28 1943,Inter,0-2,As Roma
+Sun Mar 28 1943,Juventus,6-2,Unione Triestina
+Sun Apr 4 1943,Vicenza Calcio,1-0,As Bari
+Sun Apr 4 1943,Ac Venezia,2-1,Lazio Roma
+Sun Apr 4 1943,Acf Fiorentina,2-0,Inter
+Sun Apr 4 1943,Unione Triestina,3-1,Ac Liguria
+Sun Apr 4 1943,Torino FC,4-2,Atalanta
+Sun Apr 4 1943,Genoa CFc,1-2,Juventus
+Sun Apr 4 1943,As Roma,1-0,As Livorno
+Sun Apr 4 1943,AC Milan,3-2,Bologna FC
+Sun Apr 11 1943,Lazio Roma,2-3,Torino FC
+Sun Apr 11 1943,As Livorno,4-1,Acf Fiorentina
+Sun Apr 11 1943,Juventus,1-2,As Roma
+Sun Apr 11 1943,Genoa CFc,1-1,Unione Triestina
+Sun Apr 11 1943,As Bari,2-0,AC Milan
+Sun Apr 11 1943,Atalanta,2-0,Ac Liguria
+Sun Apr 11 1943,Inter,1-2,Vicenza Calcio
+Sun Apr 11 1943,Bologna FC,0-2,Ac Venezia
+Sun Apr 18 1943,Ac Liguria,2-0,Lazio Roma
+Sun Apr 18 1943,Vicenza Calcio,1-3,As Livorno
+Sun Apr 18 1943,Ac Venezia,0-0,As Bari
+Sun Apr 18 1943,Torino FC,2-1,Bologna FC
+Sun Apr 18 1943,Atalanta,2-2,Unione Triestina
+Sun Apr 18 1943,AC Milan,0-3,Inter
+Sun Apr 18 1943,Acf Fiorentina,3-4,Juventus
+Sun Apr 18 1943,As Roma,2-3,Genoa CFc
+Sun Apr 25 1943,Genoa CFc,0-2,Acf Fiorentina
+Sun Apr 25 1943,Lazio Roma,3-2,Atalanta
+Sun Apr 25 1943,As Livorno,3-1,AC Milan
+Sun Apr 25 1943,Juventus,2-6,Vicenza Calcio
+Sun Apr 25 1943,As Bari,0-1,Torino FC
+Sun Apr 25 1943,Unione Triestina,2-0,As Roma
+Sun Apr 25 1943,Inter,1-4,Ac Venezia
+Sun Apr 25 1943,Bologna FC,3-3,Ac Liguria
+Fri May 7 1943,AC Milan,1-0,Torino FC
+Fri May 7 1943,Unione Triestina,1-1,Ac Venezia
+Fri May 7 1943,Vicenza Calcio,1-1,Ac Liguria
+Fri May 7 1943,As Roma,1-0,Lazio Roma
+Fri May 7 1943,Juventus,5-0,As Bari
+Fri May 7 1943,Genoa CFc,3-1,Bologna FC
+Fri May 7 1943,Acf Fiorentina,2-0,Atalanta
+Fri May 7 1943,As Livorno,4-2,Inter
