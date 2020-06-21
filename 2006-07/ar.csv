@@ -1,0 +1,386 @@
+Date,Team 1,FT,Team 2
+Fri Aug 4 2006,Racing Club,2-0,Nueva Chicago
+Sat Aug 5 2006,CA Colon,1-4,Independiente
+Sat Aug 5 2006,Arsenal Sarandi,3-1,Gye La Plata
+Sun Aug 6 2006,Gye Jujuy,0-1,San Lorenzo
+Sun Aug 6 2006,Belgrano Cordoba,1-0,Rosario Central
+Sun Aug 6 2006,Boca Juniors,3-0,CA Banfield
+Sun Aug 6 2006,CA Lanus,0-2,River Plate
+Sun Aug 6 2006,Newells Old Boys,3-0,Velez Sarsfield
+Sun Aug 6 2006,Argentinos Juniors,1-0,CD Godoy Cruz
+Sun Aug 6 2006,Quilmes Ac,0-1,Estudiantes
+Fri Aug 11 2006,Nueva Chicago,3-2,Argentinos Juniors
+Sat Aug 12 2006,Rosario Central,1-2,Boca Juniors
+Sat Aug 12 2006,Independiente,3-1,Belgrano Cordoba
+Sat Aug 12 2006,San Lorenzo,5-0,CA Colon
+Sun Aug 13 2006,Velez Sarsfield,0-0,Racing Club
+Sun Aug 13 2006,River Plate,3-3,Newells Old Boys
+Sun Aug 13 2006,CA Banfield,1-1,CA Lanus
+Sun Aug 13 2006,Estudiantes,1-0,Gye Jujuy
+Sun Aug 13 2006,Gye La Plata,3-2,Quilmes Ac
+Fri Aug 18 2006,Belgrano Cordoba,2-2,San Lorenzo
+Fri Aug 18 2006,CA Banfield,1-1,Rosario Central
+Sat Aug 19 2006,Boca Juniors,1-0,Independiente
+Sat Aug 19 2006,Arsenal Sarandi,2-0,Nueva Chicago
+Sun Aug 20 2006,Gye Jujuy,3-1,Gye La Plata
+Sun Aug 20 2006,CA Colon,0-2,Estudiantes
+Sun Aug 20 2006,Newells Old Boys,0-1,CA Lanus
+Sun Aug 20 2006,Racing Club,3-1,River Plate
+Sun Aug 20 2006,Argentinos Juniors,0-1,Velez Sarsfield
+Sun Aug 20 2006,Quilmes Ac,0-0,CD Godoy Cruz
+Fri Aug 25 2006,Velez Sarsfield,0-0,Arsenal Sarandi
+Fri Aug 25 2006,CA Lanus,1-2,Rosario Central
+Sat Aug 26 2006,CD Godoy Cruz,0-0,Gye Jujuy
+Sat Aug 26 2006,Nueva Chicago,2-1,Quilmes Ac
+Sat Aug 26 2006,Newells Old Boys,0-0,Racing Club
+Sun Aug 27 2006,River Plate,2-0,Argentinos Juniors
+Sun Aug 27 2006,Independiente,2-1,CA Banfield
+Sun Aug 27 2006,San Lorenzo,1-7,Boca Juniors
+Sun Aug 27 2006,Estudiantes,1-2,Belgrano Cordoba
+Sun Aug 27 2006,Gye La Plata,3-2,CA Colon
+Fri Sep 1 2006,Argentinos Juniors,0-0,Newells Old Boys
+Sat Sep 2 2006,CA Banfield,1-2,San Lorenzo
+Sat Sep 2 2006,Rosario Central,2-2,Independiente
+Sun Sep 3 2006,Gye Jujuy,3-0,Nueva Chicago
+Sun Sep 3 2006,CA Colon,2-0,CD Godoy Cruz
+Sun Sep 3 2006,Belgrano Cordoba,1-0,Gye La Plata
+Sun Sep 3 2006,Boca Juniors,2-0,Estudiantes
+Sun Sep 3 2006,Racing Club,0-1,CA Lanus
+Sun Sep 3 2006,Arsenal Sarandi,0-2,River Plate
+Sun Sep 3 2006,Quilmes Ac,0-3,Velez Sarsfield
+Fri Sep 8 2006,San Lorenzo,3-1,Rosario Central
+Fri Sep 8 2006,Estudiantes,0-0,CA Banfield
+Sat Sep 9 2006,CD Godoy Cruz,1-1,Belgrano Cordoba
+Sat Sep 9 2006,Velez Sarsfield,2-0,Gye Jujuy
+Sat Sep 9 2006,Racing Club,2-3,Argentinos Juniors
+Sun Sep 10 2006,Nueva Chicago,1-0,CA Colon
+Sun Sep 10 2006,River Plate,2-1,Quilmes Ac
+Sun Sep 10 2006,CA Lanus,2-4,Independiente
+Sun Sep 10 2006,Newells Old Boys,2-2,Arsenal Sarandi
+Fri Sep 15 2006,Quilmes Ac,2-3,Newells Old Boys
+Sat Sep 16 2006,Argentinos Juniors,1-3,CA Lanus
+Sat Sep 16 2006,Arsenal Sarandi,3-2,Racing Club
+Sun Sep 17 2006,Gye Jujuy,1-2,River Plate
+Sun Sep 17 2006,Belgrano Cordoba,1-1,Nueva Chicago
+Sun Sep 17 2006,Boca Juniors,0-0,CD Godoy Cruz
+Sun Sep 17 2006,CA Banfield,0-0,Gye La Plata
+Sun Sep 17 2006,Rosario Central,1-0,Estudiantes
+Sun Sep 17 2006,Independiente,0-1,San Lorenzo
+Fri Sep 22 2006,Estudiantes,2-1,Independiente
+Sat Sep 23 2006,Velez Sarsfield,2-0,Belgrano Cordoba
+Sat Sep 23 2006,CA Lanus,2-0,San Lorenzo
+Sat Sep 23 2006,Argentinos Juniors,1-2,Arsenal Sarandi
+Sun Sep 24 2006,CD Godoy Cruz,1-3,CA Banfield
+Sun Sep 24 2006,Nueva Chicago,0-1,Boca Juniors
+Sun Sep 24 2006,River Plate,1-1,CA Colon
+Sun Sep 24 2006,Newells Old Boys,1-0,Gye Jujuy
+Sun Sep 24 2006,Racing Club,1-0,Quilmes Ac
+Sun Sep 24 2006,Gye La Plata,0-1,Rosario Central
+Fri Sep 29 2006,CA Colon,1-1,Newells Old Boys
+Sat Sep 30 2006,Gye Jujuy,0-3,Racing Club
+Sat Sep 30 2006,CA Banfield,1-1,Nueva Chicago
+Sat Sep 30 2006,San Lorenzo,0-1,Estudiantes
+Sun Oct 1 2006,Belgrano Cordoba,1-1,River Plate
+Sun Oct 1 2006,Boca Juniors,3-2,Velez Sarsfield
+Sun Oct 1 2006,Rosario Central,1-1,CD Godoy Cruz
+Sun Oct 1 2006,Independiente,3-0,Gye La Plata
+Sun Oct 1 2006,Arsenal Sarandi,1-1,CA Lanus
+Sun Oct 1 2006,Quilmes Ac,2-2,Argentinos Juniors
+Fri Oct 6 2006,Nueva Chicago,0-3,Rosario Central
+Fri Oct 6 2006,Gye La Plata,3-2,San Lorenzo
+Sat Oct 7 2006,CD Godoy Cruz,3-1,Independiente
+Sat Oct 7 2006,Velez Sarsfield,2-2,CA Banfield
+Sat Oct 7 2006,CA Lanus,0-3,Estudiantes
+Sat Oct 7 2006,Argentinos Juniors,2-1,Gye Jujuy
+Sat Oct 7 2006,Arsenal Sarandi,2-1,Quilmes Ac
+Sun Oct 8 2006,River Plate,3-1,Boca Juniors
+Sun Oct 8 2006,Newells Old Boys,0-1,Belgrano Cordoba
+Sun Oct 8 2006,Racing Club,2-1,CA Colon
+Fri Oct 13 2006,Rosario Central,1-2,Velez Sarsfield
+Sat Oct 14 2006,CA Colon,3-1,Argentinos Juniors
+Sat Oct 14 2006,Independiente,3-2,Nueva Chicago
+Sat Oct 14 2006,Quilmes Ac,1-2,CA Lanus
+Sun Oct 15 2006,Gye Jujuy,0-0,Arsenal Sarandi
+Sun Oct 15 2006,Belgrano Cordoba,0-1,Racing Club
+Sun Oct 15 2006,Boca Juniors,3-1,Newells Old Boys
+Sun Oct 15 2006,CA Banfield,0-1,River Plate
+Sun Oct 15 2006,San Lorenzo,3-0,CD Godoy Cruz
+Sun Oct 15 2006,Estudiantes,7-0,Gye La Plata
+Fri Oct 20 2006,Nueva Chicago,2-1,San Lorenzo
+Sat Oct 21 2006,Velez Sarsfield,2-1,Independiente
+Sat Oct 21 2006,Arsenal Sarandi,2-1,CA Colon
+Sun Oct 22 2006,CD Godoy Cruz,1-3,Estudiantes
+Sun Oct 22 2006,River Plate,2-0,Rosario Central
+Sun Oct 22 2006,CA Lanus,0-1,Gye La Plata
+Sun Oct 22 2006,Newells Old Boys,0-0,CA Banfield
+Sun Oct 22 2006,Argentinos Juniors,2-1,Belgrano Cordoba
+Sun Oct 22 2006,Quilmes Ac,2-0,Gye Jujuy
+Wed Oct 25 2006,CD Godoy Cruz,2-1,Arsenal Sarandi
+Wed Oct 25 2006,CA Colon,1-0,Velez Sarsfield
+Fri Oct 27 2006,Gye Jujuy,2-0,CA Lanus
+Sat Oct 28 2006,San Lorenzo,2-2,Velez Sarsfield
+Sat Oct 28 2006,Estudiantes,2-1,Nueva Chicago
+Sun Oct 29 2006,CA Colon,0-0,Quilmes Ac
+Sun Oct 29 2006,Belgrano Cordoba,0-1,Arsenal Sarandi
+Sun Oct 29 2006,Boca Juniors,2-1,Argentinos Juniors
+Sun Oct 29 2006,Rosario Central,4-1,Newells Old Boys
+Sun Oct 29 2006,Independiente,0-0,River Plate
+Sun Oct 29 2006,Gye La Plata,2-1,CD Godoy Cruz
+Wed Nov 1 2006,Racing Club,0-0,Boca Juniors
+Fri Nov 3 2006,Argentinos Juniors,1-1,CA Banfield
+Sat Nov 4 2006,Velez Sarsfield,0-1,Estudiantes
+Sat Nov 4 2006,Racing Club,1-1,Rosario Central
+Sun Nov 5 2006,Gye Jujuy,2-0,CA Colon
+Sun Nov 5 2006,Nueva Chicago,2-2,Gye La Plata
+Sun Nov 5 2006,River Plate,5-0,San Lorenzo
+Sun Nov 5 2006,CA Lanus,3-3,CD Godoy Cruz
+Sun Nov 5 2006,Newells Old Boys,0-1,Independiente
+Sun Nov 5 2006,Arsenal Sarandi,1-2,Boca Juniors
+Sun Nov 5 2006,Quilmes Ac,2-3,Belgrano Cordoba
+Wed Nov 8 2006,Gye La Plata,1-4,Boca Juniors
+Wed Nov 8 2006,CA Banfield,3-2,Racing Club
+Sat Nov 11 2006,CA Banfield,1-2,Arsenal Sarandi
+Sat Nov 11 2006,Estudiantes,3-1,River Plate
+Sun Nov 12 2006,CD Godoy Cruz,4-0,Nueva Chicago
+Sun Nov 12 2006,CA Colon,1-3,CA Lanus
+Sun Nov 12 2006,Belgrano Cordoba,0-1,Gye Jujuy
+Sun Nov 12 2006,Boca Juniors,3-1,Quilmes Ac
+Sun Nov 12 2006,Rosario Central,2-1,Argentinos Juniors
+Sun Nov 12 2006,Independiente,2-0,Racing Club
+Sun Nov 12 2006,San Lorenzo,2-1,Newells Old Boys
+Sun Nov 12 2006,Gye La Plata,0-3,Velez Sarsfield
+Fri Nov 17 2006,Argentinos Juniors,2-0,Independiente
+Sat Nov 18 2006,Velez Sarsfield,2-0,CD Godoy Cruz
+Sat Nov 18 2006,CA Lanus,1-0,Nueva Chicago
+Sat Nov 18 2006,Newells Old Boys,1-2,Estudiantes
+Sun Nov 19 2006,Gye Jujuy,1-2,Boca Juniors
+Sun Nov 19 2006,CA Colon,2-0,Belgrano Cordoba
+Sun Nov 19 2006,River Plate,2-0,Gye La Plata
+Sun Nov 19 2006,Arsenal Sarandi,1-0,Rosario Central
+Sun Nov 19 2006,Quilmes Ac,1-2,CA Banfield
+Fri Nov 24 2006,Rosario Central,4-2,Quilmes Ac
+Fri Nov 24 2006,San Lorenzo,0-0,Argentinos Juniors
+Sat Nov 25 2006,Nueva Chicago,1-1,Velez Sarsfield
+Sat Nov 25 2006,Estudiantes,2-0,Racing Club
+Sun Nov 26 2006,CD Godoy Cruz,0-1,River Plate
+Sun Nov 26 2006,Belgrano Cordoba,1-1,CA Lanus
+Sun Nov 26 2006,Boca Juniors,4-1,CA Colon
+Sun Nov 26 2006,CA Banfield,1-2,Gye Jujuy
+Sun Nov 26 2006,Independiente,2-1,Arsenal Sarandi
+Sun Nov 26 2006,Gye La Plata,2-1,Newells Old Boys
+Fri Dec 1 2006,CA Lanus,2-0,Velez Sarsfield
+Fri Dec 1 2006,Quilmes Ac,1-3,Independiente
+Sat Dec 2 2006,CA Colon,3-0,CA Banfield
+Sat Dec 2 2006,Newells Old Boys,2-2,CD Godoy Cruz
+Sat Dec 2 2006,Racing Club,3-1,Gye La Plata
+Sat Dec 2 2006,Arsenal Sarandi,2-2,San Lorenzo
+Sun Dec 3 2006,Gye Jujuy,1-0,Rosario Central
+Sun Dec 3 2006,Belgrano Cordoba,1-0,Boca Juniors
+Sun Dec 3 2006,River Plate,1-2,Nueva Chicago
+Sun Dec 3 2006,Argentinos Juniors,2-2,Estudiantes
+Fri Dec 8 2006,Independiente,1-2,Gye Jujuy
+Fri Dec 8 2006,San Lorenzo,2-4,Quilmes Ac
+Sat Dec 9 2006,CD Godoy Cruz,0-0,Racing Club
+Sat Dec 9 2006,Nueva Chicago,2-1,Newells Old Boys
+Sat Dec 9 2006,Gye La Plata,1-0,Argentinos Juniors
+Sun Dec 10 2006,Velez Sarsfield,1-1,River Plate
+Sun Dec 10 2006,Boca Juniors,1-2,CA Lanus
+Sun Dec 10 2006,CA Banfield,3-1,Belgrano Cordoba
+Sun Dec 10 2006,Rosario Central,3-0,CA Colon
+Sun Dec 10 2006,Estudiantes,2-0,Arsenal Sarandi
+Wed Dec 13 2006,Boca Juniors,1-2,Estudiantes
+Fri Feb 9 2007,Independiente,1-3,CA Colon
+Fri Feb 9 2007,Gye La Plata,0-2,Arsenal Sarandi
+Sat Feb 10 2007,CA Banfield,0-4,Boca Juniors
+Sat Feb 10 2007,Velez Sarsfield,2-0,Newells Old Boys
+Sun Feb 11 2007,Nueva Chicago,1-1,Racing Club
+Sun Feb 11 2007,Rosario Central,1-0,Belgrano Cordoba
+Sun Feb 11 2007,CD Godoy Cruz,2-0,Argentinos Juniors
+Sun Feb 11 2007,River Plate,1-0,CA Lanus
+Sun Feb 11 2007,San Lorenzo,2-1,Gye Jujuy
+Mon Feb 12 2007,Estudiantes,2-0,Quilmes Ac
+Fri Feb 16 2007,Belgrano Cordoba,0-0,Independiente
+Fri Feb 16 2007,CA Lanus,2-1,CA Banfield
+Sat Feb 17 2007,Arsenal Sarandi,2-1,CD Godoy Cruz
+Sat Feb 17 2007,CA Colon,1-1,San Lorenzo
+Sat Feb 17 2007,Gye Jujuy,0-0,Estudiantes
+Sat Feb 17 2007,Newells Old Boys,0-2,River Plate
+Sun Feb 18 2007,Argentinos Juniors,3-0,Nueva Chicago
+Sun Feb 18 2007,Quilmes Ac,2-2,Gye La Plata
+Sun Feb 18 2007,Boca Juniors,1-1,Rosario Central
+Sun Feb 18 2007,Racing Club,2-2,Velez Sarsfield
+Wed Feb 21 2007,Racing Club,0-1,San Lorenzo
+Fri Feb 23 2007,Estudiantes,2-2,CA Colon
+Fri Feb 23 2007,Nueva Chicago,0-4,Arsenal Sarandi
+Sat Feb 24 2007,Velez Sarsfield,0-2,Argentinos Juniors
+Sat Feb 24 2007,Rosario Central,1-1,CA Banfield
+Sat Feb 24 2007,Independiente,1-3,Boca Juniors
+Sun Feb 25 2007,CD Godoy Cruz,3-0,Quilmes Ac
+Sun Feb 25 2007,Gye La Plata,2-0,Gye Jujuy
+Sun Feb 25 2007,CA Lanus,3-2,Newells Old Boys
+Sun Feb 25 2007,River Plate,4-2,Racing Club
+Sun Feb 25 2007,San Lorenzo,1-0,Belgrano Cordoba
+Fri Mar 2 2007,Racing Club,0-1,Newells Old Boys
+Fri Mar 2 2007,CA Colon,1-2,Gye La Plata
+Sat Mar 3 2007,Belgrano Cordoba,1-2,Estudiantes
+Sat Mar 3 2007,CA Banfield,2-1,Independiente
+Sun Mar 4 2007,Arsenal Sarandi,3-1,Velez Sarsfield
+Sun Mar 4 2007,Boca Juniors,0-3,San Lorenzo
+Sun Mar 4 2007,Gye Jujuy,2-1,CD Godoy Cruz
+Sun Mar 4 2007,Quilmes Ac,1-0,Nueva Chicago
+Sun Mar 4 2007,Rosario Central,2-3,CA Lanus
+Sun Mar 4 2007,Argentinos Juniors,2-1,River Plate
+Fri Mar 9 2007,Independiente,2-0,Rosario Central
+Fri Mar 9 2007,Nueva Chicago,0-0,Gye Jujuy
+Sat Mar 10 2007,Estudiantes,1-3,Boca Juniors
+Sat Mar 10 2007,Velez Sarsfield,1-0,Quilmes Ac
+Sun Mar 11 2007,River Plate,2-1,Arsenal Sarandi
+Sun Mar 11 2007,Newells Old Boys,1-0,Argentinos Juniors
+Sun Mar 11 2007,San Lorenzo,2-1,CA Banfield
+Sun Mar 11 2007,CD Godoy Cruz,2-0,CA Colon
+Sun Mar 11 2007,Gye La Plata,2-2,Belgrano Cordoba
+Sun Mar 11 2007,CA Lanus,1-2,Racing Club
+Fri Mar 16 2007,CA Banfield,0-2,Estudiantes
+Fri Mar 16 2007,Arsenal Sarandi,2-3,Newells Old Boys
+Sat Mar 17 2007,Rosario Central,0-1,San Lorenzo
+Sat Mar 17 2007,Independiente,1-0,CA Lanus
+Sun Mar 18 2007,Gye Jujuy,0-1,Velez Sarsfield
+Sun Mar 18 2007,Argentinos Juniors,1-0,Racing Club
+Sun Mar 18 2007,Boca Juniors,5-1,Gye La Plata
+Sun Mar 18 2007,CA Colon,1-2,Nueva Chicago
+Sun Mar 18 2007,Belgrano Cordoba,3-2,CD Godoy Cruz
+Sun Mar 18 2007,Quilmes Ac,0-1,River Plate
+Fri Mar 23 2007,Racing Club,2-2,Arsenal Sarandi
+Fri Mar 23 2007,Nueva Chicago,2-0,Belgrano Cordoba
+Sat Mar 24 2007,Velez Sarsfield,1-1,CA Colon
+Sat Mar 24 2007,Estudiantes,3-0,Rosario Central
+Sun Mar 25 2007,Gye La Plata,0-1,CA Banfield
+Sun Mar 25 2007,Newells Old Boys,2-2,Quilmes Ac
+Sun Mar 25 2007,CA Lanus,2-1,Argentinos Juniors
+Sun Mar 25 2007,River Plate,0-1,Gye Jujuy
+Sun Mar 25 2007,San Lorenzo,4-3,Independiente
+Sun Mar 25 2007,CD Godoy Cruz,0-1,Boca Juniors
+Fri Mar 30 2007,CA Banfield,0-0,CD Godoy Cruz
+Sat Mar 31 2007,Boca Juniors,2-0,Nueva Chicago
+Sun Apr 1 2007,Independiente,0-0,Estudiantes
+Sun Apr 1 2007,Belgrano Cordoba,3-0,Velez Sarsfield
+Sun Apr 1 2007,San Lorenzo,1-0,CA Lanus
+Sun Apr 1 2007,Arsenal Sarandi,0-2,Argentinos Juniors
+Sun Apr 1 2007,Gye Jujuy,0-1,Newells Old Boys
+Fri Apr 6 2007,Racing Club,0-1,Gye Jujuy
+Sat Apr 7 2007,Estudiantes,2-1,San Lorenzo
+Sat Apr 7 2007,Argentinos Juniors,1-1,Quilmes Ac
+Sun Apr 8 2007,Newells Old Boys,1-3,CA Colon
+Sun Apr 8 2007,River Plate,1-1,Belgrano Cordoba
+Sun Apr 8 2007,Velez Sarsfield,1-3,Boca Juniors
+Sun Apr 8 2007,CD Godoy Cruz,2-1,Rosario Central
+Sun Apr 8 2007,Gye La Plata,4-1,Independiente
+Sun Apr 8 2007,CA Lanus,0-0,Arsenal Sarandi
+Fri Apr 13 2007,CA Colon,1-1,Racing Club
+Sat Apr 14 2007,San Lorenzo,1-0,Gye La Plata
+Sat Apr 14 2007,Independiente,0-2,CD Godoy Cruz
+Sun Apr 15 2007,Rosario Central,3-0,Nueva Chicago
+Sun Apr 15 2007,CA Banfield,2-3,Velez Sarsfield
+Sun Apr 15 2007,Estudiantes,0-0,CA Lanus
+Sun Apr 15 2007,Gye Jujuy,0-0,Argentinos Juniors
+Sun Apr 15 2007,Boca Juniors,1-1,River Plate
+Sun Apr 15 2007,Belgrano Cordoba,0-2,Newells Old Boys
+Fri Apr 20 2007,Argentinos Juniors,1-1,CA Colon
+Fri Apr 20 2007,Arsenal Sarandi,1-0,Gye Jujuy
+Sat Apr 21 2007,Nueva Chicago,0-0,Independiente
+Sun Apr 22 2007,Velez Sarsfield,0-2,Rosario Central
+Sun Apr 22 2007,Racing Club,3-3,Belgrano Cordoba
+Sun Apr 22 2007,Newells Old Boys,1-2,Boca Juniors
+Sun Apr 22 2007,River Plate,2-1,CA Banfield
+Sun Apr 22 2007,CD Godoy Cruz,1-2,San Lorenzo
+Sun Apr 22 2007,Gye La Plata,1-2,Estudiantes
+Wed Apr 25 2007,Rosario Central,1-0,Gye La Plata
+Wed Apr 25 2007,Nueva Chicago,2-1,CA Banfield
+Fri Apr 27 2007,CA Colon,1-1,Arsenal Sarandi
+Fri Apr 27 2007,Estudiantes,1-0,CD Godoy Cruz
+Fri Apr 27 2007,Belgrano Cordoba,0-2,Argentinos Juniors
+Sat Apr 28 2007,Independiente,1-0,Velez Sarsfield
+Sat Apr 28 2007,Gye Jujuy,2-1,Quilmes Ac
+Sat Apr 28 2007,Rosario Central,0-2,River Plate
+Sun Apr 29 2007,San Lorenzo,3-2,Nueva Chicago
+Sun Apr 29 2007,Gye La Plata,0-1,CA Lanus
+Sun Apr 29 2007,CA Banfield,4-0,Newells Old Boys
+Sun Apr 29 2007,Boca Juniors,2-2,Racing Club
+Wed May 2 2007,CA Colon,0-0,River Plate
+Wed May 2 2007,Quilmes Ac,2-3,Racing Club
+Fri May 4 2007,Nueva Chicago,1-2,Estudiantes
+Fri May 4 2007,Arsenal Sarandi,4-3,Belgrano Cordoba
+Sat May 5 2007,Velez Sarsfield,2-1,San Lorenzo
+Sat May 5 2007,Quilmes Ac,2-1,CA Colon
+Sat May 5 2007,Racing Club,1-1,CA Banfield
+Sun May 6 2007,CA Lanus,1-1,Gye Jujuy
+Sun May 6 2007,CD Godoy Cruz,2-1,Gye La Plata
+Sun May 6 2007,Argentinos Juniors,3-3,Boca Juniors
+Sun May 6 2007,Newells Old Boys,1-0,Rosario Central
+Sun May 6 2007,River Plate,1-1,Independiente
+Tue May 8 2007,Quilmes Ac,0-1,Arsenal Sarandi
+Fri May 11 2007,Belgrano Cordoba,3-0,Quilmes Ac
+Fri May 11 2007,Independiente,1-1,Newells Old Boys
+Sat May 12 2007,Rosario Central,1-0,Racing Club
+Sat May 12 2007,Estudiantes,1-1,Velez Sarsfield
+Sun May 13 2007,CA Banfield,2-1,Argentinos Juniors
+Sun May 13 2007,Boca Juniors,1-1,Arsenal Sarandi
+Sun May 13 2007,CA Colon,3-1,Gye Jujuy
+Sun May 13 2007,Gye La Plata,2-2,Nueva Chicago
+Sun May 13 2007,San Lorenzo,0-0,River Plate
+Sun May 13 2007,CD Godoy Cruz,2-2,CA Lanus
+Sat May 19 2007,Arsenal Sarandi,2-2,CA Banfield
+Sat May 19 2007,Argentinos Juniors,0-0,Rosario Central
+Sat May 19 2007,Newells Old Boys,0-1,San Lorenzo
+Sat May 19 2007,Velez Sarsfield,0-0,Gye La Plata
+Sat May 19 2007,CA Lanus,3-0,CA Colon
+Sun May 20 2007,River Plate,0-1,Estudiantes
+Sun May 20 2007,Nueva Chicago,0-0,CD Godoy Cruz
+Sun May 20 2007,Gye Jujuy,0-0,Belgrano Cordoba
+Sun May 20 2007,Quilmes Ac,1-2,Boca Juniors
+Sun May 20 2007,Racing Club,1-1,Independiente
+Wed May 23 2007,CA Lanus,3-1,Quilmes Ac
+Fri May 25 2007,Independiente,1-1,Argentinos Juniors
+Sat May 26 2007,Nueva Chicago,2-1,CA Lanus
+Sat May 26 2007,Estudiantes,4-4,Newells Old Boys
+Sun May 27 2007,CD Godoy Cruz,0-2,Velez Sarsfield
+Sun May 27 2007,Rosario Central,0-2,Arsenal Sarandi
+Sun May 27 2007,CA Banfield,2-3,Quilmes Ac
+Sun May 27 2007,Boca Juniors,3-1,Gye Jujuy
+Sun May 27 2007,San Lorenzo,3-0,Racing Club
+Sun May 27 2007,Belgrano Cordoba,1-3,CA Colon
+Sun May 27 2007,Gye La Plata,0-3,River Plate
+Fri Jun 1 2007,Quilmes Ac,0-1,Rosario Central
+Fri Jun 1 2007,Argentinos Juniors,1-1,San Lorenzo
+Fri Jun 1 2007,Velez Sarsfield,2-1,Nueva Chicago
+Sat Jun 2 2007,Arsenal Sarandi,0-1,Independiente
+Sun Jun 3 2007,CA Lanus,1-1,Belgrano Cordoba
+Sun Jun 3 2007,Gye Jujuy,0-1,CA Banfield
+Sun Jun 3 2007,Newells Old Boys,0-1,Gye La Plata
+Sun Jun 3 2007,CA Colon,2-1,Boca Juniors
+Sun Jun 3 2007,Racing Club,2-0,Estudiantes
+Mon Jun 4 2007,River Plate,0-1,CD Godoy Cruz
+Fri Jun 8 2007,Velez Sarsfield,1-1,CA Lanus
+Sat Jun 9 2007,Gye La Plata,1-2,Racing Club
+Sat Jun 9 2007,Nueva Chicago,2-2,River Plate
+Sun Jun 10 2007,Estudiantes,2-0,Argentinos Juniors
+Sun Jun 10 2007,Boca Juniors,1-0,Belgrano Cordoba
+Sun Jun 10 2007,CD Godoy Cruz,1-1,Newells Old Boys
+Sun Jun 10 2007,CA Banfield,0-1,CA Colon
+Sun Jun 10 2007,Rosario Central,2-0,Gye Jujuy
+Sun Jun 10 2007,Independiente,4-1,Quilmes Ac
+Sun Jun 10 2007,San Lorenzo,4-2,Arsenal Sarandi
+Fri Jun 15 2007,River Plate,3-2,Velez Sarsfield
+Fri Jun 15 2007,Argentinos Juniors,0-0,Gye La Plata
+Sat Jun 16 2007,Gye Jujuy,1-3,Independiente
+Sat Jun 16 2007,Racing Club,4-2,CD Godoy Cruz
+Sat Jun 16 2007,CA Colon,3-1,Rosario Central
+Sat Jun 16 2007,Quilmes Ac,1-2,San Lorenzo
+Sun Jun 17 2007,Newells Old Boys,0-2,Nueva Chicago
+Sun Jun 17 2007,Belgrano Cordoba,3-0,CA Banfield
+Sun Jun 17 2007,CA Lanus,0-0,Boca Juniors
+Sun Jun 17 2007,Arsenal Sarandi,1-1,Estudiantes
+Wed Jun 20 2007,Huracan,2-0,CD Godoy Cruz
+Thu Jun 21 2007,Tigre,1-0,Nueva Chicago
+Sun Jun 24 2007,CD Godoy Cruz,2-3,Huracan
+Mon Jun 25 2007,Nueva Chicago,1-2,Tigre

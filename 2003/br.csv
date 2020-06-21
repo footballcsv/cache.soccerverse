@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Mar 29 2003,Atletico Paranaense,2-0,Gremio Porto Alegre
+Sat Mar 29 2003,Guarani FC,4-2,Vasco Da Gama
+Sun Mar 30 2003,Cruzeiro EC,2-2,Sao Caetano
+Sun Mar 30 2003,Criciuma EC,2-0,Fluminense RJ
+Sun Mar 30 2003,EC Vitoria Ba,1-1,Figueirense
+Sun Mar 30 2003,Goias EC,2-2,Paysandu SC
+Sun Mar 30 2003,Internacional,1-1,Ponte Preta
+Sun Mar 30 2003,Juventude RS,2-2,Sao Paulo FC
+Sun Mar 30 2003,Flamengo RJ,1-1,Coritiba FC
+Sun Mar 30 2003,Santos FC,2-2,Parana Clube
+Sun Mar 30 2003,Corinthians SP,0-3,Atletico Mineiro
+Sun Mar 30 2003,Fortaleza,0-0,EC Bahia
+Sat Apr 5 2003,Fluminense RJ,1-1,Fortaleza
+Sat Apr 5 2003,Gremio Porto Alegre,3-1,Guarani FC
+Sat Apr 5 2003,Atletico Mineiro,0-0,Santos FC
+Sat Apr 5 2003,Coritiba FC,0-1,Internacional
+Sun Apr 6 2003,Ponte Preta,1-0,Juventude RS
+Sun Apr 6 2003,Sao Paulo FC,2-4,Cruzeiro EC
+Sun Apr 6 2003,Figueirense,3-3,Corinthians SP
+Sun Apr 6 2003,Parana Clube,3-0,Atletico Paranaense
+Sun Apr 6 2003,Sao Caetano,3-2,Criciuma EC
+Sun Apr 6 2003,Vasco Da Gama,6-4,Goias EC
+Sun Apr 6 2003,Paysandu SC,1-2,EC Vitoria Ba
+Sun Apr 6 2003,EC Bahia,1-2,Flamengo RJ
+Wed Apr 9 2003,Paysandu SC,2-1,Santos FC
+Sat Apr 12 2003,Internacional,2-0,EC Bahia
+Sat Apr 12 2003,Atletico Paranaense,1-2,Atletico Mineiro
+Sat Apr 12 2003,Santos FC,2-0,Figueirense
+Sat Apr 12 2003,Corinthians SP,6-1,Paysandu SC
+Sun Apr 13 2003,Cruzeiro EC,3-0,Ponte Preta
+Sun Apr 13 2003,Criciuma EC,1-1,Sao Paulo FC
+Sun Apr 13 2003,EC Vitoria Ba,2-1,Vasco Da Gama
+Sun Apr 13 2003,Goias EC,1-1,Gremio Porto Alegre
+Sun Apr 13 2003,Juventude RS,2-1,Coritiba FC
+Sun Apr 13 2003,Guarani FC,2-0,Parana Clube
+Sun Apr 13 2003,Flamengo RJ,4-1,Fluminense RJ
+Sun Apr 13 2003,Fortaleza,1-1,Sao Caetano
+Wed Apr 16 2003,Ponte Preta,1-1,Criciuma EC
+Wed Apr 16 2003,Figueirense,1-1,Atletico Paranaense
+Wed Apr 16 2003,Sao Caetano,1-1,Flamengo RJ
+Wed Apr 16 2003,Gremio Porto Alegre,2-1,EC Vitoria Ba
+Wed Apr 16 2003,Atletico Mineiro,3-2,Guarani FC
+Wed Apr 16 2003,Vasco Da Gama,2-2,Corinthians SP
+Wed Apr 16 2003,Coritiba FC,3-4,Cruzeiro EC
+Wed Apr 16 2003,EC Bahia,3-1,Juventude RS
+Thu Apr 17 2003,Sao Paulo FC,3-1,Fortaleza
+Thu Apr 17 2003,Parana Clube,3-1,Goias EC
+Thu Apr 17 2003,Fluminense RJ,3-1,Internacional
+Sat Apr 19 2003,Sao Caetano,1-1,Gremio Porto Alegre
+Sat Apr 19 2003,Flamengo RJ,0-2,Santos FC
+Sat Apr 19 2003,EC Bahia,2-4,Atletico Mineiro
+Sun Apr 20 2003,Ponte Preta,4-4,Paysandu SC
+Sun Apr 20 2003,Sao Paulo FC,3-1,Vasco Da Gama
+Sun Apr 20 2003,Cruzeiro EC,4-1,Goias EC
+Sun Apr 20 2003,Criciuma EC,1-0,Guarani FC
+Sun Apr 20 2003,Internacional,2-1,Corinthians SP
+Sun Apr 20 2003,Fluminense RJ,0-0,Parana Clube
+Sun Apr 20 2003,Juventude RS,1-1,EC Vitoria Ba
+Sun Apr 20 2003,Fortaleza,1-0,Atletico Paranaense
+Mon Apr 21 2003,Coritiba FC,1-0,Figueirense
+Sat Apr 26 2003,EC Vitoria Ba,0-3,Internacional
+Sat Apr 26 2003,Parana Clube,3-1,EC Bahia
+Sat Apr 26 2003,Guarani FC,1-1,Cruzeiro EC
+Sat Apr 26 2003,Atletico Mineiro,1-2,Coritiba FC
+Sun Apr 27 2003,Figueirense,0-0,Ponte Preta
+Sun Apr 27 2003,Goias EC,7-0,Juventude RS
+Sun Apr 27 2003,Gremio Porto Alegre,0-1,Fluminense RJ
+Sun Apr 27 2003,Atletico Paranaense,5-2,Criciuma EC
+Sun Apr 27 2003,Santos FC,4-0,Fortaleza
+Sun Apr 27 2003,Corinthians SP,1-1,Flamengo RJ
+Sun Apr 27 2003,Vasco Da Gama,1-0,Sao Caetano
+Sun Apr 27 2003,Paysandu SC,5-2,Sao Paulo FC
+Sat May 3 2003,Cruzeiro EC,5-2,Atletico Paranaense
+Sat May 3 2003,Flamengo RJ,2-1,EC Vitoria Ba
+Sat May 3 2003,EC Bahia,2-1,Gremio Porto Alegre
+Sun May 4 2003,Ponte Preta,2-1,Atletico Mineiro
+Sun May 4 2003,Sao Paulo FC,3-2,Figueirense
+Sun May 4 2003,Criciuma EC,1-3,Santos FC
+Sun May 4 2003,Internacional,2-1,Goias EC
+Sun May 4 2003,Sao Caetano,2-0,Paysandu SC
+Sun May 4 2003,Fluminense RJ,0-0,Vasco Da Gama
+Sun May 4 2003,Juventude RS,1-1,Guarani FC
+Sun May 4 2003,Coritiba FC,2-1,Parana Clube
+Sun May 4 2003,Fortaleza,1-2,Corinthians SP
+Sat May 10 2003,Goias EC,1-1,Flamengo RJ
+Sat May 10 2003,Parana Clube,3-2,Ponte Preta
+Sat May 10 2003,Santos FC,0-2,Cruzeiro EC
+Sat May 10 2003,Corinthians SP,3-0,Criciuma EC
+Sun May 11 2003,Figueirense,3-0,Sao Caetano
+Sun May 11 2003,EC Vitoria Ba,2-1,Fortaleza
+Sun May 11 2003,Gremio Porto Alegre,1-0,Coritiba FC
+Sun May 11 2003,Atletico Paranaense,2-0,Juventude RS
+Sun May 11 2003,Guarani FC,3-0,Internacional
+Sun May 11 2003,Atletico Mineiro,2-2,Sao Paulo FC
+Sun May 11 2003,Vasco Da Gama,1-1,EC Bahia
+Sun May 11 2003,Paysandu SC,2-2,Fluminense RJ
+Sat May 17 2003,Sao Caetano,2-0,Atletico Mineiro
+Sat May 17 2003,Fluminense RJ,3-0,Figueirense
+Sat May 17 2003,Juventude RS,1-1,Santos FC
+Sun May 18 2003,Ponte Preta,2-1,Gremio Porto Alegre
+Sun May 18 2003,Sao Paulo FC,2-0,Parana Clube
+Sun May 18 2003,Cruzeiro EC,1-1,Corinthians SP
+Sun May 18 2003,Criciuma EC,1-1,EC Vitoria Ba
+Sun May 18 2003,Internacional,1-1,Atletico Paranaense
+Sun May 18 2003,Flamengo RJ,1-1,Guarani FC
+Sun May 18 2003,Coritiba FC,1-1,Vasco Da Gama
+Sun May 18 2003,Fortaleza,1-0,Goias EC
+Sun May 18 2003,EC Bahia,2-0,Paysandu SC
+Sat May 24 2003,Parana Clube,1-1,Sao Caetano
+Sat May 24 2003,Atletico Mineiro,3-0,Fluminense RJ
+Sat May 24 2003,Corinthians SP,3-0,Juventude RS
+Sat May 24 2003,Vasco Da Gama,1-0,Ponte Preta
+Sun May 25 2003,Figueirense,1-0,EC Bahia
+Sun May 25 2003,EC Vitoria Ba,2-1,Cruzeiro EC
+Sun May 25 2003,Goias EC,0-2,Criciuma EC
+Sun May 25 2003,Gremio Porto Alegre,1-2,Sao Paulo FC
+Sun May 25 2003,Atletico Paranaense,4-1,Flamengo RJ
+Sun May 25 2003,Guarani FC,2-1,Fortaleza
+Sun May 25 2003,Santos FC,2-1,Internacional
+Sun May 25 2003,Paysandu SC,1-3,Coritiba FC
+Sat May 31 2003,Ponte Preta,0-0,Sao Caetano
+Sat May 31 2003,Cruzeiro EC,2-0,Criciuma EC
+Sat May 31 2003,Internacional,2-1,Paysandu SC
+Sat May 31 2003,Fluminense RJ,2-1,Atletico Paranaense
+Sat May 31 2003,Coritiba FC,3-2,Guarani FC
+Sun Jun 1 2003,Figueirense,2-1,Gremio Porto Alegre
+Sun Jun 1 2003,Parana Clube,6-2,Flamengo RJ
+Sun Jun 1 2003,Santos FC,3-2,Sao Paulo FC
+Sun Jun 1 2003,Corinthians SP,4-0,EC Vitoria Ba
+Sun Jun 1 2003,Vasco Da Gama,2-2,Atletico Mineiro
+Sun Jun 1 2003,Fortaleza,3-1,Juventude RS
+Sun Jun 1 2003,EC Bahia,2-1,Goias EC
+Sat Jun 7 2003,EC Vitoria Ba,2-1,Fluminense RJ
+Sat Jun 7 2003,Gremio Porto Alegre,3-1,Fortaleza
+Sat Jun 7 2003,Guarani FC,1-2,Santos FC
+Sat Jun 7 2003,Atletico Mineiro,1-1,Figueirense
+Sun Jun 8 2003,Sao Paulo FC,2-2,EC Bahia
+Sun Jun 8 2003,Criciuma EC,1-0,Internacional
+Sun Jun 8 2003,Goias EC,1-2,Coritiba FC
+Sun Jun 8 2003,Sao Caetano,1-0,Corinthians SP
+Sun Jun 8 2003,Juventude RS,0-0,Vasco Da Gama
+Sun Jun 8 2003,Atletico Paranaense,4-2,Ponte Preta
+Sun Jun 8 2003,Paysandu SC,3-0,Parana Clube
+Sun Jun 15 2003,Cruzeiro EC,0-0,Atletico Mineiro
+Sun Jun 15 2003,Criciuma EC,1-0,Figueirense
+Sun Jun 15 2003,Parana Clube,1-2,Juventude RS
+Sun Jun 15 2003,Gremio Porto Alegre,0-0,Internacional
+Sun Jun 15 2003,Santos FC,0-1,Sao Caetano
+Sun Jun 15 2003,Corinthians SP,1-2,Sao Paulo FC
+Sun Jun 15 2003,Vasco Da Gama,1-2,Flamengo RJ
+Sun Jun 15 2003,Fortaleza,1-2,Paysandu SC
+Sun Jun 15 2003,EC Bahia,2-1,EC Vitoria Ba
+Mon Jun 16 2003,Ponte Preta,0-2,Guarani FC
+Mon Jun 16 2003,Fluminense RJ,2-3,Goias EC
+Mon Jun 16 2003,Coritiba FC,2-0,Atletico Paranaense
+Wed Jun 18 2003,Flamengo RJ,3-0,Cruzeiro EC
+Thu Jun 19 2003,EC Bahia,2-2,Coritiba FC
+Sat Jun 21 2003,Sao Paulo FC,1-0,Goias EC
+Sat Jun 21 2003,Internacional,2-1,Parana Clube
+Sat Jun 21 2003,Atletico Mineiro,3-2,Gremio Porto Alegre
+Sat Jun 21 2003,Vasco Da Gama,2-0,Criciuma EC
+Sun Jun 22 2003,Ponte Preta,3-3,Corinthians SP
+Sun Jun 22 2003,Figueirense,2-2,Fortaleza
+Sun Jun 22 2003,Sao Caetano,2-1,EC Vitoria Ba
+Sun Jun 22 2003,Fluminense RJ,5-2,Guarani FC
+Sun Jun 22 2003,Juventude RS,0-1,Cruzeiro EC
+Sun Jun 22 2003,Paysandu SC,2-2,Flamengo RJ
+Sat Jun 28 2003,Gremio Porto Alegre,1-4,Juventude RS
+Sat Jun 28 2003,Flamengo RJ,0-2,Figueirense
+Sat Jun 28 2003,Santos FC,4-0,EC Bahia
+Sat Jun 28 2003,Coritiba FC,2-0,Sao Caetano
+Sat Jun 28 2003,Fortaleza,0-1,Vasco Da Gama
+Sun Jun 29 2003,Cruzeiro EC,3-2,Internacional
+Sun Jun 29 2003,Criciuma EC,2-0,Paysandu SC
+Sun Jun 29 2003,EC Vitoria Ba,1-0,Atletico Paranaense
+Sun Jun 29 2003,Parana Clube,1-1,Atletico Mineiro
+Sun Jun 29 2003,Guarani FC,0-1,Sao Paulo FC
+Sun Jun 29 2003,Corinthians SP,1-0,Fluminense RJ
+Sat Jul 5 2003,Sao Paulo FC,1-1,Sao Caetano
+Sat Jul 5 2003,Figueirense,1-0,Cruzeiro EC
+Sat Jul 5 2003,Atletico Mineiro,3-2,Paysandu SC
+Sat Jul 5 2003,Vasco Da Gama,1-4,Parana Clube
+Sun Jul 6 2003,EC Vitoria Ba,1-4,Ponte Preta
+Sun Jul 6 2003,Fluminense RJ,1-0,EC Bahia
+Sun Jul 6 2003,Gremio Porto Alegre,2-0,Flamengo RJ
+Sun Jul 6 2003,Juventude RS,1-1,Internacional
+Sun Jul 6 2003,Atletico Paranaense,3-1,Corinthians SP
+Sun Jul 6 2003,Guarani FC,3-2,Goias EC
+Sun Jul 6 2003,Santos FC,3-1,Coritiba FC
+Sun Jul 6 2003,Fortaleza,0-1,Criciuma EC
+Wed Jul 9 2003,Sao Caetano,0-0,Atletico Paranaense
+Wed Jul 9 2003,Corinthians SP,1-1,Santos FC
+Thu Jul 10 2003,Cruzeiro EC,2-0,Fortaleza
+Thu Jul 10 2003,Goias EC,1-1,EC Vitoria Ba
+Thu Jul 10 2003,Internacional,2-1,Vasco Da Gama
+Thu Jul 10 2003,Flamengo RJ,2-1,Juventude RS
+Thu Jul 10 2003,Paysandu SC,1-0,Figueirense
+Thu Jul 10 2003,Coritiba FC,0-2,Sao Paulo FC
+Thu Jul 10 2003,EC Bahia,2-0,Guarani FC
+Fri Jul 11 2003,Ponte Preta,3-0,Fluminense RJ
+Fri Jul 11 2003,Criciuma EC,1-0,Atletico Mineiro
+Fri Jul 11 2003,Parana Clube,3-1,Gremio Porto Alegre
+Sat Jul 12 2003,Atletico Paranaense,0-0,Goias EC
+Sat Jul 12 2003,Vasco Da Gama,0-2,Paysandu SC
+Sat Jul 12 2003,Fortaleza,3-0,Internacional
+Sun Jul 13 2003,Ponte Preta,1-0,EC Bahia
+Sun Jul 13 2003,Figueirense,4-2,Parana Clube
+Sun Jul 13 2003,Criciuma EC,3-0,Juventude RS
+Sun Jul 13 2003,EC Vitoria Ba,2-0,Santos FC
+Sun Jul 13 2003,Sao Caetano,0-2,Guarani FC
+Sun Jul 13 2003,Fluminense RJ,1-3,Sao Paulo FC
+Sun Jul 13 2003,Gremio Porto Alegre,0-1,Cruzeiro EC
+Sun Jul 13 2003,Atletico Mineiro,1-0,Flamengo RJ
+Sun Jul 13 2003,Corinthians SP,0-1,Coritiba FC
+Wed Jul 16 2003,Cruzeiro EC,4-1,Vasco Da Gama
+Wed Jul 16 2003,Goias EC,1-1,Corinthians SP
+Wed Jul 16 2003,Internacional,3-3,Atletico Mineiro
+Wed Jul 16 2003,Juventude RS,1-2,Figueirense
+Wed Jul 16 2003,Guarani FC,2-2,EC Vitoria Ba
+Wed Jul 16 2003,Flamengo RJ,0-2,Fortaleza
+Wed Jul 16 2003,Santos FC,2-1,Ponte Preta
+Wed Jul 16 2003,Coritiba FC,3-0,Fluminense RJ
+Wed Jul 16 2003,EC Bahia,0-0,Sao Caetano
+Thu Jul 17 2003,Sao Paulo FC,2-0,Atletico Paranaense
+Thu Jul 17 2003,Paysandu SC,1-1,Gremio Porto Alegre
+Sat Jul 19 2003,Internacional,3-0,Figueirense
+Sat Jul 19 2003,Fluminense RJ,1-4,Santos FC
+Sat Jul 19 2003,Corinthians SP,1-0,Guarani FC
+Sat Jul 19 2003,Fortaleza,4-3,Atletico Mineiro
+Sun Jul 20 2003,Ponte Preta,1-1,Coritiba FC
+Sun Jul 20 2003,Cruzeiro EC,5-1,Parana Clube
+Sun Jul 20 2003,Criciuma EC,4-3,Flamengo RJ
+Sun Jul 20 2003,EC Vitoria Ba,0-2,Sao Paulo FC
+Sun Jul 20 2003,Goias EC,2-1,Sao Caetano
+Sun Jul 20 2003,Juventude RS,2-0,Paysandu SC
+Sun Jul 20 2003,Atletico Paranaense,2-1,EC Bahia
+Sun Jul 20 2003,Vasco Da Gama,2-0,Gremio Porto Alegre
+Wed Jul 23 2003,Figueirense,0-0,Vasco Da Gama
+Wed Jul 23 2003,Parana Clube,4-1,Fortaleza
+Wed Jul 23 2003,Guarani FC,1-0,Atletico Paranaense
+Wed Jul 23 2003,Atletico Mineiro,2-1,Juventude RS
+Wed Jul 23 2003,Santos FC,3-3,Goias EC
+Wed Jul 23 2003,Paysandu SC,3-0,Cruzeiro EC
+Wed Jul 23 2003,EC Bahia,0-0,Corinthians SP
+Thu Jul 24 2003,Sao Paulo FC,1-2,Ponte Preta
+Thu Jul 24 2003,Sao Caetano,2-0,Fluminense RJ
+Thu Jul 24 2003,Gremio Porto Alegre,0-2,Criciuma EC
+Thu Jul 24 2003,Flamengo RJ,2-1,Internacional
+Thu Jul 24 2003,Coritiba FC,1-1,EC Vitoria Ba
+Sat Jul 26 2003,Goias EC,1-1,Atletico Mineiro
+Sat Jul 26 2003,Atletico Paranaense,1-1,Paysandu SC
+Sat Jul 26 2003,Santos FC,2-1,Vasco Da Gama
+Sun Jul 27 2003,Cruzeiro EC,5-2,EC Bahia
+Sun Jul 27 2003,Criciuma EC,2-3,Coritiba FC
+Sun Jul 27 2003,EC Vitoria Ba,0-3,Parana Clube
+Sun Jul 27 2003,Internacional,0-0,Sao Caetano
+Sun Jul 27 2003,Juventude RS,2-1,Fluminense RJ
+Sun Jul 27 2003,Guarani FC,3-0,Figueirense
+Sun Jul 27 2003,Flamengo RJ,1-1,Sao Paulo FC
+Sun Jul 27 2003,Corinthians SP,1-0,Gremio Porto Alegre
+Sun Jul 27 2003,Fortaleza,2-3,Ponte Preta
+Wed Jul 30 2003,Goias EC,0-0,Ponte Preta
+Wed Jul 30 2003,Atletico Paranaense,0-2,Santos FC
+Thu Jul 31 2003,Parana Clube,2-1,Criciuma EC
+Sat Aug 2 2003,Sao Paulo FC,0-2,Internacional
+Sat Aug 2 2003,Sao Caetano,1-1,Juventude RS
+Sat Aug 2 2003,Fluminense RJ,2-2,Cruzeiro EC
+Sat Aug 2 2003,Gremio Porto Alegre,2-0,Santos FC
+Sun Aug 3 2003,Ponte Preta,1-1,Flamengo RJ
+Sun Aug 3 2003,Figueirense,0-1,Goias EC
+Sun Aug 3 2003,Parana Clube,1-1,Corinthians SP
+Sun Aug 3 2003,Atletico Mineiro,1-0,EC Vitoria Ba
+Sun Aug 3 2003,Vasco Da Gama,2-1,Atletico Paranaense
+Sun Aug 3 2003,Paysandu SC,6-1,Guarani FC
+Sun Aug 3 2003,Coritiba FC,1-1,Fortaleza
+Sun Aug 3 2003,EC Bahia,2-2,Criciuma EC
+Wed Aug 6 2003,Cruzeiro EC,1-1,Sao Paulo FC
+Wed Aug 6 2003,Criciuma EC,0-1,Sao Caetano
+Wed Aug 6 2003,EC Vitoria Ba,1-1,Paysandu SC
+Wed Aug 6 2003,Goias EC,3-1,Vasco Da Gama
+Wed Aug 6 2003,Internacional,1-0,Coritiba FC
+Wed Aug 6 2003,Juventude RS,0-0,Ponte Preta
+Wed Aug 6 2003,Atletico Paranaense,1-0,Parana Clube
+Wed Aug 6 2003,Santos FC,3-3,Atletico Mineiro
+Wed Aug 6 2003,Fortaleza,3-1,Fluminense RJ
+Thu Aug 7 2003,Guarani FC,2-0,Gremio Porto Alegre
+Thu Aug 7 2003,Flamengo RJ,6-0,EC Bahia
+Thu Aug 7 2003,Corinthians SP,0-1,Figueirense
+Sat Aug 9 2003,Sao Paulo FC,3-1,Juventude RS
+Sat Aug 9 2003,Parana Clube,1-2,Santos FC
+Sat Aug 9 2003,Sao Caetano,2-0,Cruzeiro EC
+Sat Aug 9 2003,Fluminense RJ,1-1,Criciuma EC
+Sun Aug 10 2003,Ponte Preta,1-4,Internacional
+Sun Aug 10 2003,Figueirense,1-2,EC Vitoria Ba
+Sun Aug 10 2003,Gremio Porto Alegre,1-1,Atletico Paranaense
+Sun Aug 10 2003,Atletico Mineiro,2-3,Corinthians SP
+Sun Aug 10 2003,Vasco Da Gama,0-0,Guarani FC
+Sun Aug 10 2003,Paysandu SC,2-2,Goias EC
+Sun Aug 10 2003,Coritiba FC,5-0,Flamengo RJ
+Sun Aug 10 2003,EC Bahia,1-0,Fortaleza
+Sat Aug 16 2003,Sao Paulo FC,0-0,Criciuma EC
+Sat Aug 16 2003,Figueirense,1-0,Santos FC
+Sat Aug 16 2003,Atletico Mineiro,1-2,Atletico Paranaense
+Sat Aug 16 2003,Vasco Da Gama,1-0,EC Vitoria Ba
+Sat Aug 16 2003,Coritiba FC,1-0,Juventude RS
+Sat Aug 16 2003,EC Bahia,1-3,Internacional
+Sun Aug 17 2003,Ponte Preta,1-3,Cruzeiro EC
+Sun Aug 17 2003,Parana Clube,0-0,Guarani FC
+Sun Aug 17 2003,Sao Caetano,3-0,Fortaleza
+Sun Aug 17 2003,Fluminense RJ,0-1,Flamengo RJ
+Sun Aug 17 2003,Gremio Porto Alegre,0-1,Goias EC
+Sun Aug 17 2003,Paysandu SC,2-2,Corinthians SP
+Wed Aug 20 2003,Cruzeiro EC,2-2,Coritiba FC
+Wed Aug 20 2003,EC Vitoria Ba,4-1,Gremio Porto Alegre
+Wed Aug 20 2003,Goias EC,1-0,Parana Clube
+Wed Aug 20 2003,Juventude RS,1-0,EC Bahia
+Wed Aug 20 2003,Atletico Paranaense,1-2,Figueirense
+Wed Aug 20 2003,Flamengo RJ,1-0,Sao Caetano
+Wed Aug 20 2003,Santos FC,2-0,Paysandu SC
+Wed Aug 20 2003,Corinthians SP,0-0,Vasco Da Gama
+Wed Aug 20 2003,Fortaleza,0-2,Sao Paulo FC
+Thu Aug 21 2003,Criciuma EC,3-0,Ponte Preta
+Thu Aug 21 2003,Internacional,0-1,Fluminense RJ
+Thu Aug 21 2003,Guarani FC,2-2,Atletico Mineiro
+Sat Aug 23 2003,Goias EC,1-0,Cruzeiro EC
+Sat Aug 23 2003,Gremio Porto Alegre,0-0,Sao Caetano
+Sat Aug 23 2003,Atletico Paranaense,3-1,Fortaleza
+Sat Aug 23 2003,Santos FC,2-1,Flamengo RJ
+Sun Aug 24 2003,Figueirense,1-2,Coritiba FC
+Sun Aug 24 2003,EC Vitoria Ba,3-0,Juventude RS
+Sun Aug 24 2003,Parana Clube,2-0,Fluminense RJ
+Sun Aug 24 2003,Guarani FC,1-0,Criciuma EC
+Sun Aug 24 2003,Atletico Mineiro,1-0,EC Bahia
+Sun Aug 24 2003,Corinthians SP,3-1,Internacional
+Sun Aug 24 2003,Vasco Da Gama,3-2,Sao Paulo FC
+Sun Aug 24 2003,Paysandu SC,3-2,Ponte Preta
+Sat Aug 30 2003,Sao Paulo FC,1-0,Paysandu SC
+Sat Aug 30 2003,Cruzeiro EC,4-1,Guarani FC
+Sat Aug 30 2003,Internacional,0-1,EC Vitoria Ba
+Sat Aug 30 2003,Fluminense RJ,2-0,Gremio Porto Alegre
+Sat Aug 30 2003,Fortaleza,0-0,Santos FC
+Sun Aug 31 2003,Ponte Preta,1-1,Figueirense
+Sun Aug 31 2003,Criciuma EC,2-0,Atletico Paranaense
+Sun Aug 31 2003,Sao Caetano,1-0,Vasco Da Gama
+Sun Aug 31 2003,Juventude RS,0-2,Goias EC
+Sun Aug 31 2003,Flamengo RJ,1-0,Corinthians SP
+Sun Aug 31 2003,Coritiba FC,2-2,Atletico Mineiro
+Sun Aug 31 2003,EC Bahia,4-2,Parana Clube
+Sat Sep 13 2003,Gremio Porto Alegre,1-1,EC Bahia
+Sat Sep 13 2003,Atletico Paranaense,1-4,Cruzeiro EC
+Sat Sep 13 2003,Santos FC,5-2,Criciuma EC
+Sat Sep 13 2003,Corinthians SP,2-0,Fortaleza
+Sun Sep 14 2003,Figueirense,2-2,Sao Paulo FC
+Sun Sep 14 2003,EC Vitoria Ba,1-0,Flamengo RJ
+Sun Sep 14 2003,Goias EC,3-1,Internacional
+Sun Sep 14 2003,Parana Clube,2-3,Coritiba FC
+Sun Sep 14 2003,Guarani FC,2-0,Juventude RS
+Sun Sep 14 2003,Atletico Mineiro,2-0,Ponte Preta
+Sun Sep 14 2003,Vasco Da Gama,1-0,Fluminense RJ
+Sun Sep 14 2003,Paysandu SC,1-0,Sao Caetano
+Sat Sep 20 2003,Ponte Preta,4-0,Parana Clube
+Sat Sep 20 2003,Cruzeiro EC,3-0,Santos FC
+Sat Sep 20 2003,Internacional,2-0,Guarani FC
+Sat Sep 20 2003,Fluminense RJ,1-1,Paysandu SC
+Sat Sep 20 2003,Coritiba FC,1-0,Gremio Porto Alegre
+Sun Sep 21 2003,Sao Paulo FC,2-2,Atletico Mineiro
+Sun Sep 21 2003,Criciuma EC,1-0,Corinthians SP
+Sun Sep 21 2003,Sao Caetano,0-2,Figueirense
+Sun Sep 21 2003,Juventude RS,4-0,Atletico Paranaense
+Sun Sep 21 2003,Flamengo RJ,1-1,Goias EC
+Sun Sep 21 2003,Fortaleza,1-0,EC Vitoria Ba
+Sun Sep 21 2003,EC Bahia,3-0,Vasco Da Gama
+Wed Sep 24 2003,EC Vitoria Ba,1-1,Criciuma EC
+Wed Sep 24 2003,Goias EC,0-1,Fortaleza
+Wed Sep 24 2003,Parana Clube,4-2,Sao Paulo FC
+Wed Sep 24 2003,Gremio Porto Alegre,2-2,Ponte Preta
+Wed Sep 24 2003,Atletico Paranaense,2-1,Internacional
+Wed Sep 24 2003,Guarani FC,5-3,Flamengo RJ
+Wed Sep 24 2003,Santos FC,1-1,Juventude RS
+Wed Sep 24 2003,Corinthians SP,0-1,Cruzeiro EC
+Wed Sep 24 2003,Paysandu SC,4-0,EC Bahia
+Thu Sep 25 2003,Figueirense,2-2,Fluminense RJ
+Thu Sep 25 2003,Atletico Mineiro,3-1,Sao Caetano
+Thu Sep 25 2003,Vasco Da Gama,2-1,Coritiba FC
+Sat Sep 27 2003,Sao Paulo FC,3-1,Gremio Porto Alegre
+Sat Sep 27 2003,Internacional,1-0,Santos FC
+Sat Sep 27 2003,Flamengo RJ,2-1,Atletico Paranaense
+Sun Sep 28 2003,Ponte Preta,2-2,Vasco Da Gama
+Sun Sep 28 2003,Cruzeiro EC,1-0,EC Vitoria Ba
+Sun Sep 28 2003,Criciuma EC,1-0,Goias EC
+Sun Sep 28 2003,Sao Caetano,2-0,Parana Clube
+Sun Sep 28 2003,Fluminense RJ,0-1,Atletico Mineiro
+Sun Sep 28 2003,Juventude RS,6-1,Corinthians SP
+Sun Sep 28 2003,Coritiba FC,1-0,Paysandu SC
+Sun Sep 28 2003,Fortaleza,3-0,Guarani FC
+Sun Sep 28 2003,EC Bahia,1-1,Figueirense
+Sat Oct 4 2003,Sao Paulo FC,1-2,Santos FC
+Sat Oct 4 2003,Sao Caetano,1-0,Ponte Preta
+Sat Oct 4 2003,Gremio Porto Alegre,3-1,Figueirense
+Sat Oct 4 2003,Atletico Paranaense,0-0,Fluminense RJ
+Sat Oct 4 2003,Paysandu SC,0-0,Internacional
+Sun Oct 5 2003,Criciuma EC,1-3,Cruzeiro EC
+Sun Oct 5 2003,EC Vitoria Ba,1-2,Corinthians SP
+Sun Oct 5 2003,Goias EC,3-1,EC Bahia
+Sun Oct 5 2003,Juventude RS,2-2,Fortaleza
+Sun Oct 5 2003,Guarani FC,2-1,Coritiba FC
+Sun Oct 5 2003,Atletico Mineiro,2-1,Vasco Da Gama
+Sun Oct 5 2003,Flamengo RJ,0-3,Parana Clube
+Wed Oct 8 2003,Ponte Preta,2-2,Atletico Paranaense
+Wed Oct 8 2003,Cruzeiro EC,2-0,Flamengo RJ
+Wed Oct 8 2003,Santos FC,1-1,Guarani FC
+Wed Oct 8 2003,Corinthians SP,0-3,Sao Caetano
+Wed Oct 8 2003,Vasco Da Gama,1-1,Juventude RS
+Wed Oct 8 2003,Coritiba FC,1-0,Goias EC
+Wed Oct 8 2003,Fortaleza,2-2,Gremio Porto Alegre
+Wed Oct 8 2003,EC Bahia,3-0,Sao Paulo FC
+Thu Oct 9 2003,Figueirense,0-1,Atletico Mineiro
+Thu Oct 9 2003,Internacional,2-0,Criciuma EC
+Thu Oct 9 2003,Parana Clube,4-2,Paysandu SC
+Thu Oct 9 2003,Fluminense RJ,2-0,EC Vitoria Ba
+Sat Oct 11 2003,Sao Caetano,2-2,Santos FC
+Sat Oct 11 2003,Atletico Paranaense,2-0,Coritiba FC
+Sat Oct 11 2003,Guarani FC,1-3,Ponte Preta
+Sun Oct 12 2003,Sao Paulo FC,3-0,Corinthians SP
+Sun Oct 12 2003,Figueirense,4-2,Criciuma EC
+Sun Oct 12 2003,EC Vitoria Ba,2-1,EC Bahia
+Sun Oct 12 2003,Goias EC,6-1,Fluminense RJ
+Sun Oct 12 2003,Internacional,0-1,Gremio Porto Alegre
+Sun Oct 12 2003,Juventude RS,1-1,Parana Clube
+Sun Oct 12 2003,Atletico Mineiro,0-1,Cruzeiro EC
+Sun Oct 12 2003,Flamengo RJ,2-1,Vasco Da Gama
+Thu Oct 16 2003,Paysandu SC,3-0,Fortaleza
+Sat Oct 18 2003,Goias EC,3-1,Sao Paulo FC
+Sat Oct 18 2003,Gremio Porto Alegre,2-2,Atletico Mineiro
+Sat Oct 18 2003,Guarani FC,2-0,Fluminense RJ
+Sat Oct 18 2003,Flamengo RJ,2-0,Paysandu SC
+Sat Oct 18 2003,Coritiba FC,3-2,EC Bahia
+Sun Oct 19 2003,Cruzeiro EC,1-2,Juventude RS
+Sun Oct 19 2003,Criciuma EC,2-1,Vasco Da Gama
+Sun Oct 19 2003,EC Vitoria Ba,0-0,Sao Caetano
+Sun Oct 19 2003,Parana Clube,4-0,Internacional
+Sun Oct 19 2003,Santos FC,3-2,Atletico Paranaense
+Sun Oct 19 2003,Corinthians SP,3-0,Ponte Preta
+Sun Oct 19 2003,Fortaleza,1-1,Figueirense
+Wed Oct 22 2003,Ponte Preta,0-2,Goias EC
+Wed Oct 22 2003,Figueirense,0-0,Flamengo RJ
+Wed Oct 22 2003,Internacional,1-0,Cruzeiro EC
+Wed Oct 22 2003,Sao Caetano,2-0,Coritiba FC
+Wed Oct 22 2003,Fluminense RJ,1-0,Corinthians SP
+Wed Oct 22 2003,Atletico Paranaense,1-2,EC Vitoria Ba
+Wed Oct 22 2003,EC Bahia,4-7,Santos FC
+Thu Oct 23 2003,Sao Paulo FC,3-3,Guarani FC
+Thu Oct 23 2003,Juventude RS,1-2,Gremio Porto Alegre
+Thu Oct 23 2003,Atletico Mineiro,2-2,Parana Clube
+Thu Oct 23 2003,Vasco Da Gama,1-1,Fortaleza
+Thu Oct 23 2003,Paysandu SC,4-0,Criciuma EC
+Sat Oct 25 2003,Ponte Preta,1-1,EC Vitoria Ba
+Sat Oct 25 2003,Cruzeiro EC,1-0,Figueirense
+Sat Oct 25 2003,Coritiba FC,0-4,Santos FC
+Sat Oct 25 2003,EC Bahia,2-2,Fluminense RJ
+Sun Oct 26 2003,Criciuma EC,2-2,Fortaleza
+Sun Oct 26 2003,Goias EC,3-0,Guarani FC
+Sun Oct 26 2003,Internacional,0-0,Juventude RS
+Sun Oct 26 2003,Parana Clube,3-3,Vasco Da Gama
+Sun Oct 26 2003,Sao Caetano,0-1,Sao Paulo FC
+Sun Oct 26 2003,Flamengo RJ,2-1,Gremio Porto Alegre
+Sun Oct 26 2003,Corinthians SP,2-3,Atletico Paranaense
+Sun Oct 26 2003,Paysandu SC,1-0,Atletico Mineiro
+Sat Nov 1 2003,Fluminense RJ,2-2,Ponte Preta
+Sat Nov 1 2003,Gremio Porto Alegre,0-2,Parana Clube
+Sat Nov 1 2003,Atletico Paranaense,1-0,Sao Caetano
+Sat Nov 1 2003,Guarani FC,3-2,EC Bahia
+Sat Nov 1 2003,Atletico Mineiro,1-1,Criciuma EC
+Sun Nov 2 2003,Sao Paulo FC,1-0,Coritiba FC
+Sun Nov 2 2003,Figueirense,6-0,Paysandu SC
+Sun Nov 2 2003,EC Vitoria Ba,3-4,Goias EC
+Sun Nov 2 2003,Juventude RS,2-2,Flamengo RJ
+Sun Nov 2 2003,Santos FC,3-1,Corinthians SP
+Sun Nov 2 2003,Vasco Da Gama,0-1,Internacional
+Sun Nov 2 2003,Fortaleza,1-2,Cruzeiro EC
+Wed Nov 5 2003,Sao Paulo FC,1-0,Fluminense RJ
+Wed Nov 5 2003,Cruzeiro EC,3-0,Gremio Porto Alegre
+Wed Nov 5 2003,Internacional,1-1,Fortaleza
+Wed Nov 5 2003,Parana Clube,1-1,Figueirense
+Wed Nov 5 2003,Juventude RS,3-1,Criciuma EC
+Wed Nov 5 2003,Santos FC,3-1,EC Vitoria Ba
+Wed Nov 5 2003,Paysandu SC,1-2,Vasco Da Gama
+Wed Nov 5 2003,Coritiba FC,1-0,Corinthians SP
+Thu Nov 6 2003,Goias EC,4-1,Atletico Paranaense
+Thu Nov 6 2003,Guarani FC,0-1,Sao Caetano
+Thu Nov 6 2003,Flamengo RJ,3-2,Atletico Mineiro
+Thu Nov 6 2003,EC Bahia,1-0,Ponte Preta
+Sat Nov 8 2003,Criciuma EC,1-2,Parana Clube
+Sat Nov 8 2003,Fluminense RJ,3-2,Coritiba FC
+Sat Nov 8 2003,Gremio Porto Alegre,2-0,Paysandu SC
+Sun Nov 9 2003,Ponte Preta,3-4,Santos FC
+Sun Nov 9 2003,Figueirense,2-1,Juventude RS
+Sun Nov 9 2003,EC Vitoria Ba,0-0,Guarani FC
+Sun Nov 9 2003,Sao Caetano,4-1,EC Bahia
+Sun Nov 9 2003,Atletico Paranaense,4-3,Sao Paulo FC
+Sun Nov 9 2003,Atletico Mineiro,1-2,Internacional
+Sun Nov 9 2003,Corinthians SP,2-0,Goias EC
+Sun Nov 9 2003,Vasco Da Gama,0-1,Cruzeiro EC
+Sun Nov 9 2003,Fortaleza,4-1,Flamengo RJ
+Sat Nov 22 2003,Figueirense,3-2,Internacional
+Sat Nov 22 2003,Gremio Porto Alegre,4-3,Vasco Da Gama
+Sat Nov 22 2003,Atletico Mineiro,2-0,Fortaleza
+Sat Nov 22 2003,Flamengo RJ,1-0,Criciuma EC
+Sat Nov 22 2003,Coritiba FC,1-1,Ponte Preta
+Sun Nov 23 2003,Sao Paulo FC,3-1,EC Vitoria Ba
+Sun Nov 23 2003,Parana Clube,1-3,Cruzeiro EC
+Sun Nov 23 2003,Sao Caetano,1-0,Goias EC
+Sun Nov 23 2003,Guarani FC,0-1,Corinthians SP
+Sun Nov 23 2003,Santos FC,3-1,Fluminense RJ
+Sun Nov 23 2003,Paysandu SC,3-2,Juventude RS
+Sun Nov 23 2003,EC Bahia,0-2,Atletico Paranaense
+Sat Nov 29 2003,Internacional,3-1,Flamengo RJ
+Sat Nov 29 2003,Fluminense RJ,2-1,Sao Caetano
+Sat Nov 29 2003,Juventude RS,1-0,Atletico Mineiro
+Sat Nov 29 2003,Atletico Paranaense,3-1,Guarani FC
+Sat Nov 29 2003,Vasco Da Gama,1-0,Figueirense
+Sun Nov 30 2003,Ponte Preta,1-2,Sao Paulo FC
+Sun Nov 30 2003,Cruzeiro EC,2-1,Paysandu SC
+Sun Nov 30 2003,Criciuma EC,0-2,Gremio Porto Alegre
+Sun Nov 30 2003,EC Vitoria Ba,1-0,Coritiba FC
+Sun Nov 30 2003,Goias EC,3-0,Santos FC
+Sun Nov 30 2003,Corinthians SP,1-2,EC Bahia
+Sun Nov 30 2003,Fortaleza,5-3,Parana Clube
+Sat Dec 6 2003,EC Vitoria Ba,0-1,Atletico Mineiro
+Sat Dec 6 2003,Goias EC,0-3,Figueirense
+Sat Dec 6 2003,Atletico Paranaense,2-2,Vasco Da Gama
+Sat Dec 6 2003,Corinthians SP,1-1,Parana Clube
+Sun Dec 7 2003,Cruzeiro EC,5-2,Fluminense RJ
+Sun Dec 7 2003,Criciuma EC,3-2,EC Bahia
+Sun Dec 7 2003,Internacional,1-1,Sao Paulo FC
+Sun Dec 7 2003,Juventude RS,2-1,Sao Caetano
+Sun Dec 7 2003,Guarani FC,2-1,Paysandu SC
+Sun Dec 7 2003,Flamengo RJ,1-1,Ponte Preta
+Sun Dec 7 2003,Santos FC,2-2,Gremio Porto Alegre
+Sun Dec 7 2003,Fortaleza,2-2,Coritiba FC
+Sat Dec 13 2003,Figueirense,2-0,Guarani FC
+Sat Dec 13 2003,Parana Clube,2-0,EC Vitoria Ba
+Sat Dec 13 2003,Sao Caetano,5-0,Internacional
+Sat Dec 13 2003,Atletico Mineiro,3-2,Goias EC
+Sat Dec 13 2003,Coritiba FC,2-0,Criciuma EC
+Sun Dec 14 2003,Ponte Preta,2-0,Fortaleza
+Sun Dec 14 2003,Sao Paulo FC,1-3,Flamengo RJ
+Sun Dec 14 2003,Fluminense RJ,1-0,Juventude RS
+Sun Dec 14 2003,Gremio Porto Alegre,3-0,Corinthians SP
+Sun Dec 14 2003,Vasco Da Gama,1-1,Santos FC
+Sun Dec 14 2003,Paysandu SC,2-2,Atletico Paranaense
+Sun Dec 14 2003,EC Bahia,0-7,Cruzeiro EC

@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Fri Aug 20 1999,Vitoria Setubal,1-1,Vitoria Guimaraes
+Sat Aug 21 1999,Boavista Porto,1-1,FC Porto
+Sat Aug 21 1999,CD Santa Clara,2-2,Sporting CP
+Sun Aug 22 1999,Rio Ave FC,1-1,Sl Benfica
+Sun Aug 22 1999,FC Alverca,3-2,Sporting Braga
+Sun Aug 22 1999,Estrela Amadora,0-3,Os Belenenses
+Sun Aug 22 1999,SC Salgueiros,1-0,CS Maritimo
+Sun Aug 22 1999,Sporting Farense,2-1,Uniao Leiria
+Sun Aug 22 1999,Gil Vicente,3-0,Campomaiorense
+Fri Aug 27 1999,Vitoria Guimaraes,3-0,Sporting Farense
+Sat Aug 28 1999,FC Porto,0-0,FC Alverca
+Sun Aug 29 1999,Sl Benfica,1-0,SC Salgueiros
+Sun Aug 29 1999,Sporting Braga,0-1,Rio Ave FC
+Sun Aug 29 1999,CS Maritimo,0-0,CD Santa Clara
+Sun Aug 29 1999,Uniao Leiria,1-1,Estrela Amadora
+Sun Aug 29 1999,Os Belenenses,1-1,Gil Vicente
+Sun Aug 29 1999,Campomaiorense,0-1,Boavista Porto
+Mon Aug 30 1999,Sporting CP,2-1,Vitoria Setubal
+Fri Sep 10 1999,Boavista Porto,1-0,Os Belenenses
+Sat Sep 11 1999,Sporting Braga,0-1,FC Porto
+Sun Sep 12 1999,Rio Ave FC,4-1,SC Salgueiros
+Sun Sep 12 1999,Estrela Amadora,2-2,Vitoria Guimaraes
+Sun Sep 12 1999,Vitoria Setubal,4-2,CS Maritimo
+Sun Sep 12 1999,CD Santa Clara,0-3,Sl Benfica
+Sun Sep 12 1999,Sporting Farense,0-3,Sporting CP
+Sun Sep 12 1999,Gil Vicente,2-0,Uniao Leiria
+Mon Sep 13 1999,FC Alverca,1-0,Campomaiorense
+Fri Sep 17 1999,Campomaiorense,2-4,Sporting Braga
+Sat Sep 18 1999,FC Porto,4-1,Rio Ave FC
+Sat Sep 18 1999,Uniao Leiria,0-0,Boavista Porto
+Sun Sep 19 1999,CS Maritimo,3-0,Sporting Farense
+Sun Sep 19 1999,Vitoria Guimaraes,1-0,Gil Vicente
+Sun Sep 19 1999,Os Belenenses,4-2,FC Alverca
+Sun Sep 19 1999,SC Salgueiros,2-0,CD Santa Clara
+Mon Sep 20 1999,Sl Benfica,3-0,Vitoria Setubal
+Mon Sep 20 1999,Sporting CP,1-1,Estrela Amadora
+Fri Sep 24 1999,FC Porto,2-0,Campomaiorense
+Sat Sep 25 1999,Sporting Farense,0-1,Sl Benfica
+Sat Sep 25 1999,Gil Vicente,1-1,Sporting CP
+Sun Sep 26 1999,Sporting Braga,0-0,Os Belenenses
+Sun Sep 26 1999,Rio Ave FC,0-5,CD Santa Clara
+Sun Sep 26 1999,Boavista Porto,2-0,Vitoria Guimaraes
+Sun Sep 26 1999,FC Alverca,0-0,Uniao Leiria
+Sun Sep 26 1999,Estrela Amadora,1-1,CS Maritimo
+Sun Sep 26 1999,Vitoria Setubal,1-2,SC Salgueiros
+Sat Oct 2 1999,Vitoria Guimaraes,1-0,FC Alverca
+Sat Oct 2 1999,Campomaiorense,1-1,Rio Ave FC
+Sun Oct 3 1999,CS Maritimo,1-0,Gil Vicente
+Sun Oct 3 1999,Uniao Leiria,3-0,Sporting Braga
+Sun Oct 3 1999,SC Salgueiros,0-0,Sporting Farense
+Mon Oct 4 1999,Sl Benfica,2-0,Estrela Amadora
+Mon Oct 4 1999,Sporting CP,2-0,Boavista Porto
+Mon Oct 4 1999,Os Belenenses,0-0,FC Porto
+Tue Oct 5 1999,CD Santa Clara,2-1,Vitoria Setubal
+Thu Oct 14 1999,Boavista Porto,0-2,CS Maritimo
+Fri Oct 15 1999,FC Porto,4-2,Uniao Leiria
+Sat Oct 16 1999,Gil Vicente,0-2,Sl Benfica
+Sat Oct 16 1999,Campomaiorense,2-1,Os Belenenses
+Sun Oct 17 1999,Sporting Braga,2-4,Vitoria Guimaraes
+Sun Oct 17 1999,Rio Ave FC,1-1,Vitoria Setubal
+Sun Oct 17 1999,FC Alverca,2-1,Sporting CP
+Sun Oct 17 1999,Estrela Amadora,1-0,SC Salgueiros
+Sun Oct 17 1999,Sporting Farense,2-2,CD Santa Clara
+Fri Oct 22 1999,Vitoria Setubal,1-1,Sporting Farense
+Sat Oct 23 1999,Sporting CP,2-0,Sporting Braga
+Sat Oct 23 1999,Vitoria Guimaraes,1-1,FC Porto
+Sun Oct 24 1999,Sl Benfica,1-1,Boavista Porto
+Sun Oct 24 1999,CS Maritimo,3-0,FC Alverca
+Sun Oct 24 1999,Uniao Leiria,1-2,Campomaiorense
+Sun Oct 24 1999,Os Belenenses,2-1,Rio Ave FC
+Sun Oct 24 1999,SC Salgueiros,1-2,Gil Vicente
+Sun Oct 24 1999,CD Santa Clara,1-1,Estrela Amadora
+Fri Oct 29 1999,Campomaiorense,2-1,Vitoria Guimaraes
+Sat Oct 30 1999,FC Porto,3-0,Sporting CP
+Sat Oct 30 1999,Boavista Porto,2-1,SC Salgueiros
+Sun Oct 31 1999,Sporting Braga,1-2,CS Maritimo
+Sun Oct 31 1999,Rio Ave FC,1-1,Sporting Farense
+Sun Oct 31 1999,FC Alverca,3-1,Sl Benfica
+Sun Oct 31 1999,Os Belenenses,1-0,Uniao Leiria
+Sun Oct 31 1999,Gil Vicente,3-1,CD Santa Clara
+Mon Nov 1 1999,Estrela Amadora,3-0,Vitoria Setubal
+Fri Nov 5 1999,Vitoria Guimaraes,4-2,Os Belenenses
+Sat Nov 6 1999,Sporting CP,1-0,Campomaiorense
+Sun Nov 7 1999,Uniao Leiria,0-0,Rio Ave FC
+Sun Nov 7 1999,Vitoria Setubal,0-1,Gil Vicente
+Sun Nov 7 1999,SC Salgueiros,0-2,FC Alverca
+Sun Nov 7 1999,Sporting Farense,1-1,Estrela Amadora
+Mon Nov 8 1999,Sl Benfica,2-1,Sporting Braga
+Mon Nov 8 1999,CS Maritimo,2-1,FC Porto
+Mon Nov 8 1999,CD Santa Clara,0-1,Boavista Porto
+Sat Nov 20 1999,FC Porto,2-0,Sl Benfica
+Sat Nov 20 1999,Boavista Porto,1-0,Vitoria Setubal
+Sun Nov 21 1999,Sporting Braga,2-0,SC Salgueiros
+Sun Nov 21 1999,Rio Ave FC,0-1,Estrela Amadora
+Sun Nov 21 1999,FC Alverca,0-1,CD Santa Clara
+Sun Nov 21 1999,Gil Vicente,4-0,Sporting Farense
+Sun Nov 21 1999,Campomaiorense,1-0,CS Maritimo
+Mon Nov 22 1999,Uniao Leiria,1-0,Vitoria Guimaraes
+Mon Nov 22 1999,Os Belenenses,0-1,Sporting CP
+Fri Nov 26 1999,CS Maritimo,0-0,Os Belenenses
+Sat Nov 27 1999,Sporting CP,2-0,Uniao Leiria
+Sun Nov 28 1999,Vitoria Guimaraes,2-1,Rio Ave FC
+Sun Nov 28 1999,Estrela Amadora,0-1,Gil Vicente
+Sun Nov 28 1999,Vitoria Setubal,1-0,FC Alverca
+Sun Nov 28 1999,SC Salgueiros,0-4,FC Porto
+Sun Nov 28 1999,CD Santa Clara,1-2,Sporting Braga
+Mon Nov 29 1999,Sl Benfica,2-0,Campomaiorense
+Mon Nov 29 1999,Sporting Farense,0-2,Boavista Porto
+Fri Dec 3 1999,FC Porto,1-0,CD Santa Clara
+Sat Dec 4 1999,Vitoria Guimaraes,1-2,Sporting CP
+Sat Dec 4 1999,FC Alverca,0-1,Sporting Farense
+Sat Dec 4 1999,Os Belenenses,0-0,Sl Benfica
+Sun Dec 5 1999,Sporting Braga,3-0,Vitoria Setubal
+Sun Dec 5 1999,Rio Ave FC,3-1,Gil Vicente
+Sun Dec 5 1999,Boavista Porto,1-2,Estrela Amadora
+Sun Dec 5 1999,Uniao Leiria,0-1,CS Maritimo
+Sun Dec 5 1999,Campomaiorense,0-1,SC Salgueiros
+Fri Dec 10 1999,CS Maritimo,1-1,Vitoria Guimaraes
+Sat Dec 11 1999,Estrela Amadora,3-0,FC Alverca
+Sat Dec 11 1999,Gil Vicente,1-3,Boavista Porto
+Sun Dec 12 1999,Sporting CP,2-1,Rio Ave FC
+Sun Dec 12 1999,SC Salgueiros,0-0,Os Belenenses
+Sun Dec 12 1999,CD Santa Clara,2-2,Campomaiorense
+Sun Dec 12 1999,Sporting Farense,1-1,Sporting Braga
+Mon Dec 13 1999,Sl Benfica,3-2,Uniao Leiria
+Mon Dec 13 1999,Vitoria Setubal,1-4,FC Porto
+Fri Dec 17 1999,Sporting Braga,0-1,Estrela Amadora
+Sat Dec 18 1999,Sporting CP,4-2,CS Maritimo
+Sun Dec 19 1999,Rio Ave FC,2-1,Boavista Porto
+Sun Dec 19 1999,Uniao Leiria,1-4,SC Salgueiros
+Sun Dec 19 1999,Vitoria Guimaraes,2-1,Sl Benfica
+Sun Dec 19 1999,FC Alverca,4-2,Gil Vicente
+Sun Dec 19 1999,Os Belenenses,3-1,CD Santa Clara
+Sun Dec 19 1999,Campomaiorense,0-1,Vitoria Setubal
+Mon Dec 20 1999,FC Porto,5-0,Sporting Farense
+Fri Jan 7 2000,SC Salgueiros,0-1,Vitoria Guimaraes
+Sat Jan 8 2000,Rio Ave FC,0-2,CS Maritimo
+Sat Jan 8 2000,Estrela Amadora,0-2,FC Porto
+Sat Jan 8 2000,Vitoria Setubal,0-2,Os Belenenses
+Sat Jan 8 2000,CD Santa Clara,1-1,Uniao Leiria
+Sat Jan 8 2000,Sporting Farense,2-2,Campomaiorense
+Sun Jan 9 2000,Sl Benfica,0-0,Sporting CP
+Sun Jan 9 2000,Boavista Porto,2-0,FC Alverca
+Sun Jan 9 2000,Gil Vicente,0-0,Sporting Braga
+Sat Jan 15 2000,CS Maritimo,0-0,Sl Benfica
+Sun Jan 16 2000,Sporting CP,2-0,SC Salgueiros
+Sun Jan 16 2000,Sporting Braga,1-0,Boavista Porto
+Sun Jan 16 2000,Uniao Leiria,0-0,Vitoria Setubal
+Sun Jan 16 2000,Vitoria Guimaraes,2-1,CD Santa Clara
+Sun Jan 16 2000,FC Alverca,3-1,Rio Ave FC
+Sun Jan 16 2000,Os Belenenses,1-1,Sporting Farense
+Sun Jan 16 2000,Campomaiorense,2-1,Estrela Amadora
+Mon Jan 17 2000,FC Porto,2-0,Gil Vicente
+Fri Jan 21 2000,Os Belenenses,1-1,Estrela Amadora
+Sat Jan 22 2000,Sl Benfica,1-0,Rio Ave FC
+Sat Jan 22 2000,Sporting CP,4-1,CD Santa Clara
+Sat Jan 22 2000,Vitoria Guimaraes,4-0,Vitoria Setubal
+Sat Jan 22 2000,Campomaiorense,0-0,Gil Vicente
+Sun Jan 23 2000,FC Porto,1-0,Boavista Porto
+Sun Jan 23 2000,Sporting Braga,3-1,FC Alverca
+Sun Jan 23 2000,CS Maritimo,0-1,SC Salgueiros
+Sun Jan 23 2000,Uniao Leiria,2-0,Sporting Farense
+Sat Jan 29 2000,Boavista Porto,2-1,Campomaiorense
+Sat Jan 29 2000,Sporting Farense,2-1,Vitoria Guimaraes
+Sun Jan 30 2000,Rio Ave FC,2-0,Sporting Braga
+Sun Jan 30 2000,FC Alverca,1-1,FC Porto
+Sun Jan 30 2000,Estrela Amadora,1-1,Uniao Leiria
+Sun Jan 30 2000,SC Salgueiros,1-2,Sl Benfica
+Sun Jan 30 2000,CD Santa Clara,0-0,CS Maritimo
+Sun Jan 30 2000,Gil Vicente,1-1,Os Belenenses
+Mon Jan 31 2000,Vitoria Setubal,1-2,Sporting CP
+Fri Feb 4 2000,Os Belenenses,1-1,Boavista Porto
+Sat Feb 5 2000,FC Porto,3-0,Sporting Braga
+Sat Feb 5 2000,Sporting CP,3-1,Sporting Farense
+Sat Feb 5 2000,CS Maritimo,1-0,Vitoria Setubal
+Sat Feb 5 2000,Campomaiorense,0-0,FC Alverca
+Sun Feb 6 2000,Sl Benfica,1-0,CD Santa Clara
+Sun Feb 6 2000,Uniao Leiria,1-1,Gil Vicente
+Sun Feb 6 2000,Vitoria Guimaraes,1-0,Estrela Amadora
+Sun Feb 6 2000,SC Salgueiros,1-1,Rio Ave FC
+Sat Feb 12 2000,Boavista Porto,0-1,Uniao Leiria
+Sat Feb 12 2000,CD Santa Clara,0-0,SC Salgueiros
+Sun Feb 13 2000,Sporting Braga,4-1,Campomaiorense
+Sun Feb 13 2000,Rio Ave FC,2-2,FC Porto
+Sun Feb 13 2000,FC Alverca,1-1,Os Belenenses
+Sun Feb 13 2000,Estrela Amadora,0-0,Sporting CP
+Sun Feb 13 2000,Sporting Farense,1-0,CS Maritimo
+Sun Feb 13 2000,Gil Vicente,1-0,Vitoria Guimaraes
+Mon Feb 14 2000,Vitoria Setubal,1-2,Sl Benfica
+Fri Feb 18 2000,Os Belenenses,0-3,Sporting Braga
+Sat Feb 19 2000,Sporting CP,1-1,Gil Vicente
+Sat Feb 19 2000,CD Santa Clara,1-0,Rio Ave FC
+Sat Feb 19 2000,Campomaiorense,1-0,FC Porto
+Sun Feb 20 2000,Sl Benfica,6-2,Sporting Farense
+Sun Feb 20 2000,CS Maritimo,2-2,Estrela Amadora
+Sun Feb 20 2000,Uniao Leiria,3-0,FC Alverca
+Sun Feb 20 2000,Vitoria Guimaraes,2-0,Boavista Porto
+Sun Feb 20 2000,SC Salgueiros,1-0,Vitoria Setubal
+Fri Feb 25 2000,Sporting Braga,0-2,Uniao Leiria
+Sat Feb 26 2000,FC Porto,2-1,Os Belenenses
+Sun Feb 27 2000,Rio Ave FC,1-0,Campomaiorense
+Sun Feb 27 2000,FC Alverca,2-1,Vitoria Guimaraes
+Sun Feb 27 2000,Estrela Amadora,3-0,Sl Benfica
+Sun Feb 27 2000,Vitoria Setubal,1-0,CD Santa Clara
+Sun Feb 27 2000,Sporting Farense,3-2,SC Salgueiros
+Sun Feb 27 2000,Gil Vicente,5-1,CS Maritimo
+Mon Feb 28 2000,Boavista Porto,0-1,Sporting CP
+Fri Mar 3 2000,CS Maritimo,1-1,Boavista Porto
+Sat Mar 4 2000,Sl Benfica,3-0,Gil Vicente
+Sat Mar 4 2000,Sporting CP,1-1,FC Alverca
+Sat Mar 4 2000,Uniao Leiria,0-1,FC Porto
+Sat Mar 4 2000,Vitoria Guimaraes,1-0,Sporting Braga
+Sat Mar 4 2000,Vitoria Setubal,2-0,Rio Ave FC
+Sat Mar 4 2000,SC Salgueiros,1-1,Estrela Amadora
+Sat Mar 4 2000,CD Santa Clara,1-2,Sporting Farense
+Mon Mar 6 2000,Os Belenenses,2-2,Campomaiorense
+Fri Mar 10 2000,Sporting Braga,0-2,Sporting CP
+Sat Mar 11 2000,FC Porto,2-1,Vitoria Guimaraes
+Sun Mar 12 2000,Rio Ave FC,3-0,Os Belenenses
+Sun Mar 12 2000,Boavista Porto,1-1,Sl Benfica
+Sun Mar 12 2000,FC Alverca,1-1,CS Maritimo
+Sun Mar 12 2000,Sporting Farense,0-0,Vitoria Setubal
+Sun Mar 12 2000,Gil Vicente,2-0,SC Salgueiros
+Sun Mar 12 2000,Campomaiorense,2-0,Uniao Leiria
+Mon Mar 13 2000,Estrela Amadora,0-0,CD Santa Clara
+Fri Mar 17 2000,CS Maritimo,1-0,Sporting Braga
+Sat Mar 18 2000,Sporting CP,2-0,FC Porto
+Sat Mar 18 2000,SC Salgueiros,1-3,Boavista Porto
+Sun Mar 19 2000,Sl Benfica,3-2,FC Alverca
+Sun Mar 19 2000,Uniao Leiria,1-0,Os Belenenses
+Sun Mar 19 2000,Vitoria Guimaraes,4-1,Campomaiorense
+Sun Mar 19 2000,Vitoria Setubal,1-0,Estrela Amadora
+Sun Mar 19 2000,CD Santa Clara,0-0,Gil Vicente
+Sun Mar 19 2000,Sporting Farense,4-0,Rio Ave FC
+Fri Mar 24 2000,Campomaiorense,0-2,Sporting CP
+Sat Mar 25 2000,FC Porto,3-2,CS Maritimo
+Sat Mar 25 2000,Sporting Braga,3-2,Sl Benfica
+Sat Mar 25 2000,Os Belenenses,2-0,Vitoria Guimaraes
+Sun Mar 26 2000,Rio Ave FC,0-0,Uniao Leiria
+Sun Mar 26 2000,Boavista Porto,2-1,CD Santa Clara
+Sun Mar 26 2000,FC Alverca,2-0,SC Salgueiros
+Sun Mar 26 2000,Estrela Amadora,1-1,Sporting Farense
+Sun Mar 26 2000,Gil Vicente,2-0,Vitoria Setubal
+Fri Mar 31 2000,Vitoria Setubal,2-1,Boavista Porto
+Sat Apr 1 2000,Sl Benfica,1-0,FC Porto
+Sat Apr 1 2000,CD Santa Clara,4-3,FC Alverca
+Sun Apr 2 2000,Sporting CP,1-0,Os Belenenses
+Sun Apr 2 2000,CS Maritimo,1-0,Campomaiorense
+Sun Apr 2 2000,Vitoria Guimaraes,0-1,Uniao Leiria
+Sun Apr 2 2000,Estrela Amadora,1-0,Rio Ave FC
+Sun Apr 2 2000,SC Salgueiros,1-1,Sporting Braga
+Mon Apr 3 2000,Sporting Farense,0-3,Gil Vicente
+Fri Apr 7 2000,Rio Ave FC,1-1,Vitoria Guimaraes
+Fri Apr 7 2000,Uniao Leiria,1-1,Sporting CP
+Sat Apr 8 2000,Campomaiorense,2-4,Sl Benfica
+Sun Apr 9 2000,FC Porto,2-0,SC Salgueiros
+Sun Apr 9 2000,Sporting Braga,3-1,CD Santa Clara
+Sun Apr 9 2000,FC Alverca,0-1,Vitoria Setubal
+Sun Apr 9 2000,Os Belenenses,1-1,CS Maritimo
+Sun Apr 9 2000,Gil Vicente,2-2,Estrela Amadora
+Mon Apr 10 2000,Boavista Porto,2-1,Sporting Farense
+Fri Apr 14 2000,Sporting Farense,1-2,FC Alverca
+Sat Apr 15 2000,CD Santa Clara,0-2,FC Porto
+Sun Apr 16 2000,Sl Benfica,2-3,Os Belenenses
+Sun Apr 16 2000,Sporting CP,1-0,Vitoria Guimaraes
+Sun Apr 16 2000,CS Maritimo,0-0,Uniao Leiria
+Sun Apr 16 2000,Vitoria Setubal,0-2,Sporting Braga
+Sun Apr 16 2000,SC Salgueiros,2-1,Campomaiorense
+Sun Apr 16 2000,Gil Vicente,4-0,Rio Ave FC
+Mon Apr 17 2000,Estrela Amadora,1-2,Boavista Porto
+Fri Apr 21 2000,Rio Ave FC,1-2,Sporting CP
+Fri Apr 21 2000,Uniao Leiria,2-1,Sl Benfica
+Sat Apr 22 2000,FC Porto,4-1,Vitoria Setubal
+Sat Apr 22 2000,Sporting Braga,1-0,Sporting Farense
+Sat Apr 22 2000,Boavista Porto,2-0,Gil Vicente
+Sat Apr 22 2000,FC Alverca,0-1,Estrela Amadora
+Sat Apr 22 2000,Os Belenenses,2-1,SC Salgueiros
+Sat Apr 22 2000,Campomaiorense,1-0,CD Santa Clara
+Mon Apr 24 2000,Vitoria Guimaraes,1-3,CS Maritimo
+Fri Apr 28 2000,Estrela Amadora,3-3,Sporting Braga
+Sat Apr 29 2000,Boavista Porto,2-0,Rio Ave FC
+Sat Apr 29 2000,Sporting Farense,3-3,FC Porto
+Sun Apr 30 2000,Sl Benfica,3-0,Vitoria Guimaraes
+Sun Apr 30 2000,CS Maritimo,0-2,Sporting CP
+Sun Apr 30 2000,Vitoria Setubal,1-2,Campomaiorense
+Sun Apr 30 2000,SC Salgueiros,3-0,Uniao Leiria
+Sun Apr 30 2000,CD Santa Clara,1-0,Os Belenenses
+Sun Apr 30 2000,Gil Vicente,2-2,FC Alverca
+Fri May 5 2000,Vitoria Guimaraes,2-2,SC Salgueiros
+Sat May 6 2000,Sporting CP,0-1,Sl Benfica
+Sat May 6 2000,Os Belenenses,0-1,Vitoria Setubal
+Sun May 7 2000,FC Porto,2-1,Estrela Amadora
+Sun May 7 2000,Sporting Braga,0-0,Gil Vicente
+Sun May 7 2000,CS Maritimo,5-2,Rio Ave FC
+Sun May 7 2000,Uniao Leiria,3-2,CD Santa Clara
+Sun May 7 2000,FC Alverca,1-0,Boavista Porto
+Sun May 7 2000,Campomaiorense,1-0,Sporting Farense
+Sun May 14 2000,Sl Benfica,2-1,CS Maritimo
+Sun May 14 2000,Rio Ave FC,2-0,FC Alverca
+Sun May 14 2000,Boavista Porto,2-2,Sporting Braga
+Sun May 14 2000,Estrela Amadora,3-0,Campomaiorense
+Sun May 14 2000,Vitoria Setubal,0-0,Uniao Leiria
+Sun May 14 2000,SC Salgueiros,0-4,Sporting CP
+Sun May 14 2000,CD Santa Clara,3-2,Vitoria Guimaraes
+Sun May 14 2000,Sporting Farense,2-1,Os Belenenses
+Sun May 14 2000,Gil Vicente,2-1,FC Porto

@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 2 2003,Arsenal Sarandi,1-1,Talleres Cordoba
+Sat Aug 2 2003,CA Banfield,0-0,Newells Old Boys
+Sat Aug 2 2003,CA Colon,0-0,Racing Club
+Sun Aug 3 2003,Gye La Plata,0-1,Boca Juniors
+Sun Aug 3 2003,Independiente,3-1,Estudiantes
+Sun Aug 3 2003,Olimpo,2-2,CA Lanus
+Sun Aug 3 2003,Quilmes Ac,3-1,Atletico Rafaela
+Sun Aug 3 2003,River Plate,2-1,Nueva Chicago
+Sun Aug 3 2003,Rosario Central,2-1,Velez Sarsfield
+Fri Aug 8 2003,Velez Sarsfield,0-3,CA Banfield
+Sat Aug 9 2003,Atletico Rafaela,1-0,Arsenal Sarandi
+Sat Aug 9 2003,CA Lanus,0-0,CA Colon
+Sat Aug 9 2003,Newells Old Boys,0-0,Independiente
+Sat Aug 9 2003,Racing Club,1-0,San Lorenzo
+Sun Aug 10 2003,Boca Juniors,4-0,Rosario Central
+Sun Aug 10 2003,Chacarita Juniors,2-2,Gye La Plata
+Sun Aug 10 2003,Estudiantes,3-0,River Plate
+Sun Aug 10 2003,Nueva Chicago,0-2,Quilmes Ac
+Sun Aug 10 2003,Talleres Cordoba,1-0,Olimpo
+Fri Aug 15 2003,CA Banfield,0-1,Independiente
+Fri Aug 15 2003,Gye La Plata,0-0,Racing Club
+Fri Aug 15 2003,Rosario Central,0-0,Chacarita Juniors
+Sun Aug 17 2003,Arsenal Sarandi,1-1,Nueva Chicago
+Sun Aug 17 2003,CA Colon,5-1,Talleres Cordoba
+Sun Aug 17 2003,Olimpo,0-1,Atletico Rafaela
+Sun Aug 17 2003,Quilmes Ac,0-0,Estudiantes
+Sun Aug 17 2003,River Plate,0-2,Newells Old Boys
+Sun Aug 17 2003,Velez Sarsfield,1-3,Boca Juniors
+Mon Aug 18 2003,San Lorenzo,1-1,CA Lanus
+Fri Aug 22 2003,Nueva Chicago,1-1,Olimpo
+Fri Aug 22 2003,Racing Club,2-2,Rosario Central
+Sat Aug 23 2003,Chacarita Juniors,1-0,Velez Sarsfield
+Sat Aug 23 2003,CA Lanus,0-0,Gye La Plata
+Sat Aug 23 2003,Talleres Cordoba,0-3,San Lorenzo
+Sun Aug 24 2003,Atletico Rafaela,1-1,CA Colon
+Sun Aug 24 2003,Estudiantes,0-0,Arsenal Sarandi
+Sun Aug 24 2003,Independiente,2-2,River Plate
+Sun Aug 24 2003,Newells Old Boys,2-1,Quilmes Ac
+Fri Aug 29 2003,San Lorenzo,1-1,Atletico Rafaela
+Sat Aug 30 2003,Arsenal Sarandi,3-2,Newells Old Boys
+Sat Aug 30 2003,Quilmes Ac,1-1,Independiente
+Sun Aug 31 2003,CA Banfield,0-0,River Plate
+Sun Aug 31 2003,Boca Juniors,2-0,Chacarita Juniors
+Sun Aug 31 2003,CA Colon,3-1,Nueva Chicago
+Sun Aug 31 2003,Gye La Plata,2-2,Talleres Cordoba
+Sun Aug 31 2003,Olimpo,0-0,Estudiantes
+Sun Aug 31 2003,Rosario Central,3-1,CA Lanus
+Sun Aug 31 2003,Velez Sarsfield,3-3,Racing Club
+Fri Sep 26 2003,Independiente,0-0,Arsenal Sarandi
+Sat Sep 27 2003,Estudiantes,1-1,CA Colon
+Sat Sep 27 2003,CA Lanus,1-1,Velez Sarsfield
+Sat Sep 27 2003,Newells Old Boys,2-0,Olimpo
+Sat Sep 27 2003,Nueva Chicago,1-2,San Lorenzo
+Sun Sep 28 2003,Atletico Rafaela,4-0,Gye La Plata
+Sun Sep 28 2003,Chacarita Juniors,0-3,CA Banfield
+Sun Sep 28 2003,Racing Club,1-4,Boca Juniors
+Sun Sep 28 2003,River Plate,2-2,Quilmes Ac
+Sun Sep 28 2003,Talleres Cordoba,2-2,Rosario Central
+Wed Oct 1 2003,CA Banfield,2-1,Quilmes Ac
+Wed Oct 1 2003,Boca Juniors,0-0,CA Lanus
+Wed Oct 1 2003,Chacarita Juniors,0-0,Racing Club
+Wed Oct 1 2003,CA Colon,1-1,Newells Old Boys
+Wed Oct 1 2003,Olimpo,0-2,Independiente
+Wed Oct 1 2003,San Lorenzo,1-0,Estudiantes
+Thu Oct 2 2003,Arsenal Sarandi,1-0,River Plate
+Thu Oct 2 2003,Gye La Plata,0-2,Nueva Chicago
+Thu Oct 2 2003,Rosario Central,2-1,Atletico Rafaela
+Thu Oct 2 2003,Velez Sarsfield,2-1,Talleres Cordoba
+Sat Oct 4 2003,Independiente,1-2,CA Colon
+Sat Oct 4 2003,Newells Old Boys,0-1,San Lorenzo
+Sat Oct 4 2003,Talleres Cordoba,1-1,Boca Juniors
+Sun Oct 5 2003,Atletico Rafaela,1-1,Velez Sarsfield
+Sun Oct 5 2003,Estudiantes,1-0,Gye La Plata
+Sun Oct 5 2003,CA Lanus,1-1,Chacarita Juniors
+Sun Oct 5 2003,Nueva Chicago,0-1,Rosario Central
+Sun Oct 5 2003,Racing Club,1-2,CA Banfield
+Sun Oct 5 2003,River Plate,3-0,Olimpo
+Mon Oct 6 2003,Quilmes Ac,2-1,Arsenal Sarandi
+Fri Oct 10 2003,Racing Club,2-2,CA Lanus
+Sat Oct 11 2003,Chacarita Juniors,1-2,Talleres Cordoba
+Sat Oct 11 2003,Gye La Plata,0-2,Newells Old Boys
+Sat Oct 11 2003,San Lorenzo,2-1,Independiente
+Sat Oct 11 2003,Velez Sarsfield,1-0,Nueva Chicago
+Sun Oct 12 2003,Arsenal Sarandi,2-1,CA Banfield
+Sun Oct 12 2003,Boca Juniors,2-0,Atletico Rafaela
+Sun Oct 12 2003,CA Colon,1-2,River Plate
+Sun Oct 12 2003,Olimpo,0-1,Quilmes Ac
+Sun Oct 12 2003,Rosario Central,2-0,Estudiantes
+Wed Oct 15 2003,Boca Juniors,3-3,CA Banfield
+Sat Oct 18 2003,Estudiantes,0-2,Velez Sarsfield
+Sat Oct 18 2003,Independiente,0-1,Gye La Plata
+Sat Oct 18 2003,Talleres Cordoba,2-0,Racing Club
+Sun Oct 19 2003,Arsenal Sarandi,2-0,Olimpo
+Sun Oct 19 2003,Atletico Rafaela,1-1,Chacarita Juniors
+Sun Oct 19 2003,CA Banfield,2-1,CA Lanus
+Sun Oct 19 2003,Newells Old Boys,1-1,Rosario Central
+Sun Oct 19 2003,Nueva Chicago,0-2,Boca Juniors
+Sun Oct 19 2003,Quilmes Ac,2-0,CA Colon
+Sun Oct 19 2003,River Plate,1-2,San Lorenzo
+Fri Oct 24 2003,Velez Sarsfield,0-3,Newells Old Boys
+Sat Oct 25 2003,Chacarita Juniors,4-0,Nueva Chicago
+Sat Oct 25 2003,CA Colon,1-0,Arsenal Sarandi
+Sat Oct 25 2003,Racing Club,4-1,Atletico Rafaela
+Sat Oct 25 2003,Rosario Central,2-0,Independiente
+Sun Oct 26 2003,Boca Juniors,2-0,Estudiantes
+Sun Oct 26 2003,Gye La Plata,0-2,River Plate
+Sun Oct 26 2003,CA Lanus,2-1,Talleres Cordoba
+Sun Oct 26 2003,Olimpo,3-1,CA Banfield
+Sun Oct 26 2003,San Lorenzo,0-1,Quilmes Ac
+Tue Oct 28 2003,Nueva Chicago,0-4,Racing Club
+Wed Oct 29 2003,Arsenal Sarandi,0-2,San Lorenzo
+Wed Oct 29 2003,Estudiantes,2-1,Chacarita Juniors
+Wed Oct 29 2003,Quilmes Ac,1-0,Gye La Plata
+Wed Oct 29 2003,River Plate,2-1,Rosario Central
+Thu Oct 30 2003,Atletico Rafaela,2-3,CA Lanus
+Thu Oct 30 2003,CA Banfield,2-1,Talleres Cordoba
+Thu Oct 30 2003,Newells Old Boys,1-0,Boca Juniors
+Thu Oct 30 2003,Olimpo,3-0,CA Colon
+Fri Oct 31 2003,Independiente,0-1,Velez Sarsfield
+Sat Nov 1 2003,Chacarita Juniors,1-1,Newells Old Boys
+Sat Nov 1 2003,Racing Club,1-0,Estudiantes
+Sat Nov 1 2003,Rosario Central,1-0,Quilmes Ac
+Sat Nov 1 2003,San Lorenzo,2-0,Olimpo
+Sun Nov 2 2003,Boca Juniors,0-0,Independiente
+Sun Nov 2 2003,CA Colon,0-2,CA Banfield
+Sun Nov 2 2003,Gye La Plata,1-1,Arsenal Sarandi
+Sun Nov 2 2003,CA Lanus,1-1,Nueva Chicago
+Sun Nov 2 2003,Talleres Cordoba,4-0,Atletico Rafaela
+Sun Nov 2 2003,Velez Sarsfield,1-1,River Plate
+Fri Nov 7 2003,Newells Old Boys,0-0,Racing Club
+Sat Nov 8 2003,Independiente,0-3,Chacarita Juniors
+Sat Nov 8 2003,Nueva Chicago,3-0,Talleres Cordoba
+Sat Nov 8 2003,Quilmes Ac,0-1,Velez Sarsfield
+Sun Nov 9 2003,Arsenal Sarandi,3-1,Rosario Central
+Sun Nov 9 2003,CA Banfield,0-0,Atletico Rafaela
+Sun Nov 9 2003,CA Colon,1-1,San Lorenzo
+Sun Nov 9 2003,Estudiantes,2-0,CA Lanus
+Sun Nov 9 2003,Olimpo,0-1,Gye La Plata
+Sun Nov 9 2003,River Plate,0-2,Boca Juniors
+Thu Nov 20 2003,Boca Juniors,1-0,San Lorenzo
+Fri Nov 21 2003,CA Lanus,3-2,Newells Old Boys
+Fri Nov 21 2003,Racing Club,1-1,Independiente
+Fri Nov 21 2003,Velez Sarsfield,1-1,Arsenal Sarandi
+Sat Nov 22 2003,Atletico Rafaela,1-1,Nueva Chicago
+Sat Nov 22 2003,Gye La Plata,2-0,CA Colon
+Sat Nov 22 2003,Talleres Cordoba,2-1,Estudiantes
+Sun Nov 23 2003,Boca Juniors,0-0,Quilmes Ac
+Sun Nov 23 2003,Chacarita Juniors,1-0,River Plate
+Sun Nov 23 2003,Rosario Central,2-2,Olimpo
+Sun Nov 23 2003,San Lorenzo,1-0,CA Banfield
+Tue Nov 25 2003,Independiente,0-0,CA Lanus
+Wed Nov 26 2003,CA Banfield,2-0,Nueva Chicago
+Wed Nov 26 2003,CA Colon,2-2,Rosario Central
+Wed Nov 26 2003,Newells Old Boys,4-3,Talleres Cordoba
+Wed Nov 26 2003,Quilmes Ac,0-0,Chacarita Juniors
+Wed Nov 26 2003,San Lorenzo,0-1,Gye La Plata
+Thu Nov 27 2003,Arsenal Sarandi,1-2,Boca Juniors
+Thu Nov 27 2003,Olimpo,1-0,Velez Sarsfield
+Fri Nov 28 2003,Talleres Cordoba,2-0,Independiente
+Sat Nov 29 2003,Gye La Plata,1-0,CA Banfield
+Sat Nov 29 2003,Nueva Chicago,1-2,Estudiantes
+Sat Nov 29 2003,Racing Club,1-1,Quilmes Ac
+Sun Nov 30 2003,Atletico Rafaela,1-1,Newells Old Boys
+Sun Nov 30 2003,Boca Juniors,1-1,Olimpo
+Sun Nov 30 2003,Chacarita Juniors,0-0,Arsenal Sarandi
+Sun Nov 30 2003,CA Lanus,2-0,River Plate
+Sun Nov 30 2003,Rosario Central,0-2,San Lorenzo
+Sun Nov 30 2003,Velez Sarsfield,1-1,CA Colon
+Fri Dec 5 2003,Independiente,2-1,Atletico Rafaela
+Sat Dec 6 2003,Arsenal Sarandi,0-0,Racing Club
+Sat Dec 6 2003,Gye La Plata,1-2,Rosario Central
+Sat Dec 6 2003,San Lorenzo,4-1,Velez Sarsfield
+Sun Dec 7 2003,CA Banfield,2-1,Estudiantes
+Sun Dec 7 2003,CA Colon,2-1,Boca Juniors
+Sun Dec 7 2003,Newells Old Boys,1-1,Nueva Chicago
+Sun Dec 7 2003,Olimpo,2-0,Chacarita Juniors
+Sun Dec 7 2003,Quilmes Ac,2-1,CA Lanus
+Sun Dec 7 2003,River Plate,1-1,Talleres Cordoba
+Fri Dec 12 2003,Racing Club,1-2,Olimpo
+Fri Dec 12 2003,Velez Sarsfield,2-2,Gye La Plata
+Sat Dec 13 2003,Chacarita Juniors,2-2,CA Colon
+Sat Dec 13 2003,Estudiantes,4-2,Newells Old Boys
+Sat Dec 13 2003,CA Lanus,0-1,Arsenal Sarandi
+Sat Dec 13 2003,Nueva Chicago,0-1,Independiente
+Sat Dec 13 2003,Rosario Central,2-2,CA Banfield
+Sat Dec 13 2003,Talleres Cordoba,0-0,Quilmes Ac
+Sat Feb 14 2004,Newells Old Boys,1-1,CA Banfield
+Sat Feb 14 2004,Racing Club,1-1,CA Colon
+Sat Feb 14 2004,Velez Sarsfield,3-0,Rosario Central
+Sun Feb 15 2004,Atletico Rafaela,0-0,Quilmes Ac
+Sun Feb 15 2004,Boca Juniors,0-0,Gye La Plata
+Sun Feb 15 2004,Chacarita Juniors,0-2,San Lorenzo
+Sun Feb 15 2004,Estudiantes,1-4,Independiente
+Sun Feb 15 2004,CA Lanus,3-0,Olimpo
+Sun Feb 15 2004,Nueva Chicago,2-2,River Plate
+Sun Feb 15 2004,Talleres Cordoba,4-3,Arsenal Sarandi
+Fri Feb 20 2004,CA Banfield,1-2,Velez Sarsfield
+Sat Feb 21 2004,Gye La Plata,6-1,Chacarita Juniors
+Sat Feb 21 2004,Independiente,1-1,Newells Old Boys
+Sat Feb 21 2004,Quilmes Ac,1-1,Nueva Chicago
+Sun Feb 22 2004,Arsenal Sarandi,3-2,Atletico Rafaela
+Sun Feb 22 2004,CA Colon,3-2,CA Lanus
+Sun Feb 22 2004,Olimpo,1-4,Talleres Cordoba
+Sun Feb 22 2004,River Plate,3-0,Estudiantes
+Sun Feb 22 2004,Rosario Central,1-2,Boca Juniors
+Sun Feb 22 2004,San Lorenzo,0-4,Racing Club
+Tue Feb 24 2004,Estudiantes,0-0,Atletico Rafaela
+Fri Feb 27 2004,Independiente,0-1,CA Banfield
+Sat Feb 28 2004,Atletico Rafaela,0-2,Olimpo
+Sat Feb 28 2004,CA Lanus,0-4,San Lorenzo
+Sat Feb 28 2004,Racing Club,1-0,Gye La Plata
+Sun Feb 29 2004,Boca Juniors,3-3,Velez Sarsfield
+Sun Feb 29 2004,Chacarita Juniors,1-1,Rosario Central
+Sun Feb 29 2004,Estudiantes,1-0,Quilmes Ac
+Sun Feb 29 2004,Newells Old Boys,2-3,River Plate
+Sun Feb 29 2004,Nueva Chicago,2-1,Arsenal Sarandi
+Sun Feb 29 2004,Talleres Cordoba,4-0,CA Colon
+Wed Mar 3 2004,Atletico Rafaela,1-2,River Plate
+Fri Mar 5 2004,Velez Sarsfield,2-2,Chacarita Juniors
+Sat Mar 6 2004,Rosario Central,3-1,Racing Club
+Sat Mar 6 2004,San Lorenzo,0-0,Talleres Cordoba
+Sun Mar 7 2004,Arsenal Sarandi,0-0,Estudiantes
+Sun Mar 7 2004,CA Banfield,1-2,Boca Juniors
+Sun Mar 7 2004,CA Colon,2-1,Atletico Rafaela
+Sun Mar 7 2004,Gye La Plata,0-0,CA Lanus
+Sun Mar 7 2004,Olimpo,2-2,Nueva Chicago
+Sun Mar 7 2004,Quilmes Ac,3-3,Newells Old Boys
+Sun Mar 7 2004,River Plate,4-1,Independiente
+Fri Mar 12 2004,Independiente,3-1,Quilmes Ac
+Sat Mar 13 2004,Talleres Cordoba,1-0,Gye La Plata
+Sun Mar 14 2004,Atletico Rafaela,0-0,San Lorenzo
+Sun Mar 14 2004,Estudiantes,3-1,Olimpo
+Sun Mar 14 2004,CA Lanus,3-0,Rosario Central
+Sun Mar 14 2004,Newells Old Boys,1-1,Arsenal Sarandi
+Sun Mar 14 2004,Nueva Chicago,1-0,CA Colon
+Sun Mar 14 2004,Racing Club,3-2,Velez Sarsfield
+Sun Mar 14 2004,River Plate,2-3,CA Banfield
+Fri Mar 19 2004,San Lorenzo,2-2,Nueva Chicago
+Sat Mar 20 2004,Arsenal Sarandi,0-0,Independiente
+Sat Mar 20 2004,Rosario Central,0-2,Talleres Cordoba
+Sun Mar 21 2004,CA Banfield,0-0,Chacarita Juniors
+Sun Mar 21 2004,Boca Juniors,4-1,Racing Club
+Sun Mar 21 2004,CA Colon,1-0,Estudiantes
+Sun Mar 21 2004,Gye La Plata,3-4,Atletico Rafaela
+Sun Mar 21 2004,Olimpo,1-1,Newells Old Boys
+Sun Mar 21 2004,Quilmes Ac,2-1,River Plate
+Sun Mar 21 2004,Velez Sarsfield,2-1,CA Lanus
+Sat Mar 27 2004,Atletico Rafaela,3-1,Rosario Central
+Sat Mar 27 2004,Estudiantes,1-1,San Lorenzo
+Sat Mar 27 2004,CA Lanus,0-3,Boca Juniors
+Sat Mar 27 2004,Newells Old Boys,0-1,CA Colon
+Sat Mar 27 2004,Nueva Chicago,1-2,Gye La Plata
+Sat Mar 27 2004,Quilmes Ac,1-0,CA Banfield
+Sat Mar 27 2004,Racing Club,2-1,Chacarita Juniors
+Sat Mar 27 2004,River Plate,5-0,Arsenal Sarandi
+Sat Mar 27 2004,Talleres Cordoba,1-0,Velez Sarsfield
+Sun Mar 28 2004,Independiente,1-0,Olimpo
+Fri Apr 2 2004,Velez Sarsfield,2-0,Atletico Rafaela
+Sat Apr 3 2004,CA Banfield,3-1,Racing Club
+Sat Apr 3 2004,CA Colon,2-0,Independiente
+Sun Apr 4 2004,Arsenal Sarandi,0-0,Quilmes Ac
+Sun Apr 4 2004,Boca Juniors,3-1,Talleres Cordoba
+Sun Apr 4 2004,Chacarita Juniors,2-3,CA Lanus
+Sun Apr 4 2004,Gye La Plata,2-2,Estudiantes
+Sun Apr 4 2004,Olimpo,1-3,River Plate
+Sun Apr 4 2004,Rosario Central,1-1,Nueva Chicago
+Sun Apr 4 2004,San Lorenzo,0-1,Newells Old Boys
+Fri Apr 9 2004,CA Lanus,1-2,Racing Club
+Sat Apr 10 2004,Estudiantes,1-3,Rosario Central
+Sat Apr 10 2004,Independiente,1-1,San Lorenzo
+Sat Apr 10 2004,Newells Old Boys,5-2,Gye La Plata
+Sat Apr 10 2004,Talleres Cordoba,2-2,Chacarita Juniors
+Sun Apr 11 2004,Atletico Rafaela,0-1,Boca Juniors
+Sun Apr 11 2004,CA Banfield,1-1,Arsenal Sarandi
+Sun Apr 11 2004,Nueva Chicago,0-3,Velez Sarsfield
+Sun Apr 11 2004,Quilmes Ac,0-1,Olimpo
+Sun Apr 11 2004,River Plate,4-1,CA Colon
+Wed Apr 14 2004,Chacarita Juniors,0-2,Boca Juniors
+Fri Apr 16 2004,Gye La Plata,1-1,Independiente
+Sat Apr 17 2004,Racing Club,3-1,Talleres Cordoba
+Sat Apr 17 2004,Velez Sarsfield,3-1,Estudiantes
+Sun Apr 18 2004,Boca Juniors,2-0,Nueva Chicago
+Sun Apr 18 2004,Chacarita Juniors,1-3,Atletico Rafaela
+Sun Apr 18 2004,CA Colon,3-3,Quilmes Ac
+Sun Apr 18 2004,CA Lanus,1-0,CA Banfield
+Sun Apr 18 2004,Olimpo,0-0,Arsenal Sarandi
+Sun Apr 18 2004,Rosario Central,0-0,Newells Old Boys
+Sun Apr 18 2004,San Lorenzo,1-2,River Plate
+Fri Apr 23 2004,Arsenal Sarandi,1-0,CA Colon
+Fri Apr 23 2004,CA Banfield,2-0,Olimpo
+Fri Apr 23 2004,Quilmes Ac,1-1,San Lorenzo
+Sat Apr 24 2004,Atletico Rafaela,1-2,Racing Club
+Sat Apr 24 2004,Independiente,3-2,Rosario Central
+Sat Apr 24 2004,Nueva Chicago,1-1,Chacarita Juniors
+Sat Apr 24 2004,Talleres Cordoba,1-0,CA Lanus
+Sun Apr 25 2004,Estudiantes,2-2,Boca Juniors
+Sun Apr 25 2004,Newells Old Boys,2-2,Velez Sarsfield
+Sun Apr 25 2004,River Plate,1-1,Gye La Plata
+Thu Apr 29 2004,Boca Juniors,1-1,Newells Old Boys
+Fri Apr 30 2004,Racing Club,1-1,Nueva Chicago
+Fri Apr 30 2004,Rosario Central,1-2,River Plate
+Sun May 2 2004,Chacarita Juniors,2-0,Estudiantes
+Sun May 2 2004,CA Colon,2-0,Olimpo
+Sun May 2 2004,Gye La Plata,0-1,Quilmes Ac
+Sun May 2 2004,CA Lanus,1-1,Atletico Rafaela
+Sun May 2 2004,San Lorenzo,0-0,Arsenal Sarandi
+Sun May 2 2004,Talleres Cordoba,2-2,CA Banfield
+Sun May 2 2004,Velez Sarsfield,0-0,Independiente
+Fri May 7 2004,CA Banfield,3-1,CA Colon
+Fri May 7 2004,Olimpo,2-0,San Lorenzo
+Sat May 8 2004,Arsenal Sarandi,1-0,Gye La Plata
+Sat May 8 2004,Estudiantes,1-0,Racing Club
+Sun May 9 2004,Atletico Rafaela,1-0,Talleres Cordoba
+Sun May 9 2004,Independiente,1-4,Boca Juniors
+Sun May 9 2004,Newells Old Boys,4-1,Chacarita Juniors
+Sun May 9 2004,Nueva Chicago,0-0,CA Lanus
+Sun May 9 2004,Quilmes Ac,1-0,Rosario Central
+Sun May 9 2004,River Plate,1-0,Velez Sarsfield
+Fri May 14 2004,Velez Sarsfield,0-1,Quilmes Ac
+Sat May 15 2004,Atletico Rafaela,0-1,CA Banfield
+Sat May 15 2004,Racing Club,2-2,Newells Old Boys
+Sat May 15 2004,San Lorenzo,2-0,CA Colon
+Sun May 16 2004,Boca Juniors,0-1,River Plate
+Sun May 16 2004,Chacarita Juniors,0-0,Independiente
+Sun May 16 2004,Gye La Plata,1-1,Olimpo
+Sun May 16 2004,CA Lanus,0-2,Estudiantes
+Sun May 16 2004,Rosario Central,1-3,Arsenal Sarandi
+Sun May 16 2004,Talleres Cordoba,0-0,Nueva Chicago
+Fri May 21 2004,Arsenal Sarandi,2-1,Velez Sarsfield
+Sat May 22 2004,CA Banfield,0-1,San Lorenzo
+Sat May 22 2004,Estudiantes,2-1,Talleres Cordoba
+Sun May 23 2004,CA Colon,0-0,Gye La Plata
+Sun May 23 2004,Independiente,1-3,Racing Club
+Sun May 23 2004,Newells Old Boys,2-4,CA Lanus
+Sun May 23 2004,Nueva Chicago,2-2,Atletico Rafaela
+Sun May 23 2004,Olimpo,0-0,Rosario Central
+Sun May 23 2004,Quilmes Ac,2-0,Boca Juniors
+Sun May 23 2004,River Plate,0-0,Chacarita Juniors
+Fri May 28 2004,Atletico Rafaela,3-1,Estudiantes
+Fri May 28 2004,Chacarita Juniors,2-1,Quilmes Ac
+Fri May 28 2004,CA Lanus,1-1,Independiente
+Fri May 28 2004,Nueva Chicago,0-2,CA Banfield
+Fri May 28 2004,Racing Club,1-2,River Plate
+Fri May 28 2004,Rosario Central,0-1,CA Colon
+Fri May 28 2004,Talleres Cordoba,1-0,Newells Old Boys
+Sat May 29 2004,Boca Juniors,3-0,Arsenal Sarandi
+Sat May 29 2004,Gye La Plata,0-2,San Lorenzo
+Sat May 29 2004,Velez Sarsfield,2-1,Olimpo
+Thu Jun 3 2004,River Plate,3-1,Racing Club
+Fri Jun 11 2004,CA Colon,1-2,Velez Sarsfield
+Fri Jun 11 2004,Independiente,0-2,Talleres Cordoba
+Fri Jun 11 2004,Quilmes Ac,3-0,Racing Club
+Sun Jun 13 2004,Arsenal Sarandi,2-2,Chacarita Juniors
+Sun Jun 13 2004,CA Banfield,3-1,Gye La Plata
+Sun Jun 13 2004,Estudiantes,1-1,Nueva Chicago
+Sun Jun 13 2004,Newells Old Boys,0-1,Atletico Rafaela
+Sun Jun 13 2004,Olimpo,2-2,Boca Juniors
+Sun Jun 13 2004,River Plate,2-1,CA Lanus
+Sun Jun 13 2004,San Lorenzo,0-0,Rosario Central
+Fri Jun 18 2004,Racing Club,0-1,Arsenal Sarandi
+Fri Jun 18 2004,Rosario Central,1-1,Gye La Plata
+Sat Jun 19 2004,Atletico Rafaela,2-1,Independiente
+Sat Jun 19 2004,Estudiantes,0-2,CA Banfield
+Sat Jun 19 2004,Nueva Chicago,0-2,Newells Old Boys
+Sun Jun 20 2004,Boca Juniors,0-0,CA Colon
+Sun Jun 20 2004,Chacarita Juniors,1-2,Olimpo
+Sun Jun 20 2004,CA Lanus,0-0,Quilmes Ac
+Sun Jun 20 2004,Talleres Cordoba,3-2,River Plate
+Sun Jun 20 2004,Velez Sarsfield,2-0,San Lorenzo
+Sat Jun 26 2004,Independiente,2-1,Nueva Chicago
+Sat Jun 26 2004,Newells Old Boys,0-0,Estudiantes
+Sun Jun 27 2004,Arsenal Sarandi,2-0,CA Lanus
+Sun Jun 27 2004,CA Banfield,1-1,Rosario Central
+Sun Jun 27 2004,CA Colon,1-2,Chacarita Juniors
+Sun Jun 27 2004,Gye La Plata,1-0,Velez Sarsfield
+Sun Jun 27 2004,Olimpo,1-1,Racing Club
+Sun Jun 27 2004,Quilmes Ac,0-0,Talleres Cordoba
+Sun Jun 27 2004,River Plate,1-1,Atletico Rafaela
+Sun Jun 27 2004,San Lorenzo,1-0,Boca Juniors
+Fri Aug 13 2004,Racing Club,1-0,Argentinos Juniors

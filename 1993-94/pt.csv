@@ -1,0 +1,136 @@
+Date,Team 1,FT,Team 2
+Sun Aug 22 1993,Vitoria Guimaraes,3-0,FC Famalicao
+Sun Aug 22 1993,Uniao Madeira,2-0,Pacos De Ferreira
+Sun Aug 22 1993,Sporting CP,2-1,SC Salgueiros
+Sun Aug 22 1993,FC Porto,3-3,Sl Benfica
+Sun Aug 22 1993,Gil Vicente,1-1,Sporting Braga
+Sun Aug 22 1993,Sporting Farense,1-0,Os Belenenses
+Sun Aug 22 1993,Estrela Amadora,0-0,Vitoria Setubal
+Sun Aug 22 1993,GD Estoril,1-0,SC Beira Mar
+Sun Aug 22 1993,Boavista Porto,3-2,CS Maritimo
+Sun Aug 29 1993,Vitoria Setubal,2-3,Sporting CP
+Sun Aug 29 1993,SC Salgueiros,1-0,Uniao Madeira
+Sun Aug 29 1993,Pacos De Ferreira,3-1,Gil Vicente
+Sun Aug 29 1993,CS Maritimo,1-0,FC Porto
+Sun Aug 29 1993,FC Famalicao,0-3,Boavista Porto
+Sun Aug 29 1993,Sporting Braga,0-0,Vitoria Guimaraes
+Sun Aug 29 1993,Sl Benfica,1-1,GD Estoril
+Sun Aug 29 1993,Os Belenenses,2-1,Estrela Amadora
+Sun Aug 29 1993,SC Beira Mar,3-0,Sporting Farense
+Sat Sep 11 1993,Vitoria Guimaraes,1-0,Pacos De Ferreira
+Sat Sep 11 1993,Uniao Madeira,2-1,Vitoria Setubal
+Sat Sep 11 1993,Sporting CP,3-1,Os Belenenses
+Sat Sep 11 1993,FC Porto,0-0,FC Famalicao
+Sat Sep 11 1993,Gil Vicente,2-0,SC Salgueiros
+Sat Sep 11 1993,Sporting Farense,1-0,Estrela Amadora
+Sat Sep 11 1993,GD Estoril,0-1,CS Maritimo
+Sat Sep 11 1993,Boavista Porto,1-0,Sporting Braga
+Sat Sep 11 1993,SC Beira Mar,1-1,Sl Benfica
+Sun Sep 19 1993,Vitoria Setubal,0-2,Gil Vicente
+Sun Sep 19 1993,SC Salgueiros,1-0,Vitoria Guimaraes
+Sun Sep 19 1993,Pacos De Ferreira,1-0,Boavista Porto
+Sun Sep 19 1993,CS Maritimo,0-2,SC Beira Mar
+Sun Sep 19 1993,FC Famalicao,1-0,GD Estoril
+Sun Sep 19 1993,Estrela Amadora,0-4,Sporting CP
+Sun Sep 19 1993,Sporting Braga,0-2,FC Porto
+Sun Sep 19 1993,Sl Benfica,4-1,Sporting Farense
+Sun Sep 19 1993,Os Belenenses,2-1,Uniao Madeira
+Sat Sep 25 1993,Vitoria Guimaraes,1-0,Vitoria Setubal
+Sat Sep 25 1993,Uniao Madeira,2-2,Estrela Amadora
+Sat Sep 25 1993,FC Porto,0-0,Pacos De Ferreira
+Sat Sep 25 1993,Gil Vicente,0-3,Os Belenenses
+Sat Sep 25 1993,Sporting Farense,0-1,Sporting CP
+Sat Sep 25 1993,GD Estoril,1-1,Sporting Braga
+Sat Sep 25 1993,Boavista Porto,3-1,SC Salgueiros
+Sat Sep 25 1993,Sl Benfica,2-0,CS Maritimo
+Sat Sep 25 1993,SC Beira Mar,1-0,FC Famalicao
+Sun Oct 3 1993,Vitoria Setubal,1-3,Boavista Porto
+Sun Oct 3 1993,Sporting CP,1-0,Uniao Madeira
+Sun Oct 3 1993,SC Salgueiros,0-3,FC Porto
+Sun Oct 3 1993,Pacos De Ferreira,0-0,GD Estoril
+Sun Oct 3 1993,CS Maritimo,5-2,Sporting Farense
+Sun Oct 3 1993,FC Famalicao,1-5,Sl Benfica
+Sun Oct 3 1993,Estrela Amadora,3-0,Gil Vicente
+Sun Oct 3 1993,Sporting Braga,2-0,SC Beira Mar
+Sun Oct 3 1993,Os Belenenses,0-0,Vitoria Guimaraes
+Sun Oct 17 1993,Vitoria Guimaraes,0-0,Estrela Amadora
+Sun Oct 17 1993,FC Porto,2-0,Vitoria Setubal
+Sun Oct 17 1993,CS Maritimo,3-2,FC Famalicao
+Sun Oct 17 1993,Gil Vicente,0-0,Sporting CP
+Sun Oct 17 1993,Sporting Farense,4-1,Uniao Madeira
+Sun Oct 17 1993,GD Estoril,2-3,SC Salgueiros
+Sun Oct 17 1993,Boavista Porto,3-0,Os Belenenses
+Sun Oct 17 1993,Sl Benfica,2-0,Sporting Braga
+Sun Oct 17 1993,SC Beira Mar,0-1,Pacos De Ferreira
+Sun Oct 24 1993,Vitoria Setubal,2-1,GD Estoril
+Sun Oct 24 1993,Uniao Madeira,1-2,Gil Vicente
+Sun Oct 24 1993,SC Salgueiros,2-0,SC Beira Mar
+Sun Oct 24 1993,Pacos De Ferreira,1-2,Sl Benfica
+Sun Oct 24 1993,FC Famalicao,2-1,Sporting Farense
+Sun Oct 24 1993,Estrela Amadora,1-1,Boavista Porto
+Sun Oct 24 1993,Sporting Braga,0-1,CS Maritimo
+Sun Oct 24 1993,Os Belenenses,0-2,FC Porto
+Sun Oct 24 1993,Sporting CP,3-0,Vitoria Guimaraes
+Sun Oct 31 1993,Vitoria Guimaraes,2-0,Uniao Madeira
+Sun Oct 31 1993,FC Porto,2-1,Estrela Amadora
+Sun Oct 31 1993,CS Maritimo,3-3,Pacos De Ferreira
+Sun Oct 31 1993,Sporting Farense,4-2,Gil Vicente
+Sun Oct 31 1993,FC Famalicao,1-0,Sporting Braga
+Sun Oct 31 1993,GD Estoril,1-0,Os Belenenses
+Sun Oct 31 1993,Boavista Porto,2-1,Sporting CP
+Sun Oct 31 1993,Sl Benfica,4-1,SC Salgueiros
+Sun Oct 31 1993,SC Beira Mar,2-1,Vitoria Setubal
+Sun Nov 21 1993,Vitoria Setubal,5-2,Sl Benfica
+Sun Nov 21 1993,Uniao Madeira,2-1,Boavista Porto
+Sun Nov 21 1993,Sporting CP,0-1,FC Porto
+Sun Nov 21 1993,SC Salgueiros,1-1,CS Maritimo
+Sun Nov 21 1993,Pacos De Ferreira,2-0,FC Famalicao
+Sun Nov 21 1993,Gil Vicente,2-1,Vitoria Guimaraes
+Sun Nov 21 1993,Estrela Amadora,3-0,GD Estoril
+Sun Nov 21 1993,Sporting Braga,4-0,Sporting Farense
+Sun Nov 21 1993,Os Belenenses,2-0,SC Beira Mar
+Sun Nov 28 1993,FC Porto,4-1,Uniao Madeira
+Sun Nov 28 1993,CS Maritimo,0-0,Vitoria Setubal
+Sun Nov 28 1993,Sporting Farense,0-1,Vitoria Guimaraes
+Sun Nov 28 1993,FC Famalicao,1-0,SC Salgueiros
+Sun Nov 28 1993,GD Estoril,0-2,Sporting CP
+Sun Nov 28 1993,Sporting Braga,0-0,Pacos De Ferreira
+Sun Nov 28 1993,Boavista Porto,1-2,Gil Vicente
+Sun Nov 28 1993,Sl Benfica,3-0,Os Belenenses
+Sun Nov 28 1993,SC Beira Mar,0-1,Estrela Amadora
+Fri Dec 10 1993,Vitoria Setubal,6-1,FC Famalicao
+Fri Dec 10 1993,Vitoria Guimaraes,1-0,Boavista Porto
+Fri Dec 10 1993,Uniao Madeira,3-0,GD Estoril
+Fri Dec 10 1993,Sporting CP,1-0,SC Beira Mar
+Fri Dec 10 1993,SC Salgueiros,5-1,Sporting Braga
+Fri Dec 10 1993,Pacos De Ferreira,1-0,Sporting Farense
+Fri Dec 10 1993,Gil Vicente,1-1,FC Porto
+Fri Dec 10 1993,Estrela Amadora,0-1,Sl Benfica
+Fri Dec 10 1993,Os Belenenses,2-1,CS Maritimo
+Sat Dec 18 1993,FC Porto,1-1,Vitoria Guimaraes
+Sat Dec 18 1993,Pacos De Ferreira,0-2,SC Salgueiros
+Sat Dec 18 1993,CS Maritimo,0-0,Estrela Amadora
+Sat Dec 18 1993,Sporting Farense,1-0,Boavista Porto
+Sat Dec 18 1993,FC Famalicao,2-3,Os Belenenses
+Sat Dec 18 1993,GD Estoril,1-1,Gil Vicente
+Sat Dec 18 1993,Sporting Braga,2-1,Vitoria Setubal
+Sat Dec 18 1993,Sl Benfica,2-1,Sporting CP
+Sat Dec 18 1993,SC Beira Mar,0-0,Uniao Madeira
+Wed Dec 29 1993,Vitoria Setubal,3-0,Pacos De Ferreira
+Wed Dec 29 1993,Vitoria Guimaraes,2-0,GD Estoril
+Wed Dec 29 1993,Uniao Madeira,0-2,Sl Benfica
+Wed Dec 29 1993,Sporting CP,1-1,CS Maritimo
+Wed Dec 29 1993,SC Salgueiros,3-2,Sporting Farense
+Wed Dec 29 1993,Gil Vicente,1-1,SC Beira Mar
+Wed Dec 29 1993,Estrela Amadora,2-0,FC Famalicao
+Wed Dec 29 1993,Boavista Porto,1-1,FC Porto
+Wed Dec 29 1993,Os Belenenses,0-0,Sporting Braga
+Sat Jan 8 1994,FC Porto,5-2,SC Salgueiros
+Sat Jan 8 1994,Sl Benfica,1-0,FC Tirsense
+Sat Jan 8 1994,CS Maritimo,1-0,Uniao Madeira
+Sat Jan 8 1994,Uniao Leiria,2-1,Sporting Braga
+Sat Jan 8 1994,Vitoria Guimaraes,1-0,Estrela Amadora
+Sat Jan 8 1994,Vitoria Setubal,1-0,SC Beira Mar
+Sat Jan 8 1994,GD Chaves,1-2,Sporting CP
+Sat Jan 8 1994,Sporting Farense,1-0,Os Belenenses
+Sat Jan 8 1994,Gil Vicente,1-2,Boavista Porto

@@ -1,0 +1,313 @@
+Date,Team 1,FT,Team 2
+Fri Aug 5 2011,Sbv Excelsior,0-2,Feyenoord
+Sat Aug 6 2011,Roda JC Kerkrade,2-1,FC Groningen
+Sat Aug 6 2011,SC Heerenveen,2-2,NEC Nijmegen
+Sat Aug 6 2011,RKC Waalwijk,2-2,Heracles Almelo
+Sat Aug 6 2011,VVV Venlo,0-0,FC Utrecht
+Sun Aug 7 2011,AZ Alkmaar,3-1,PSV Eindhoven
+Sun Aug 7 2011,De Graafschap,1-4,AFC Ajax
+Sun Aug 7 2011,ADO Den Haag,0-0,Vitesse
+Sun Aug 7 2011,NAC Breda,0-1,FC Twente
+Sat Aug 13 2011,FC Twente,2-0,AZ Alkmaar
+Sat Aug 13 2011,Vitesse,4-0,VVV Venlo
+Sat Aug 13 2011,PSV Eindhoven,1-0,RKC Waalwijk
+Sat Aug 13 2011,Feyenoord,3-0,Roda JC Kerkrade
+Sun Aug 14 2011,Heracles Almelo,2-1,NAC Breda
+Sun Aug 14 2011,FC Utrecht,2-2,De Graafschap
+Sun Aug 14 2011,AFC Ajax,5-1,SC Heerenveen
+Sun Aug 14 2011,FC Groningen,4-2,ADO Den Haag
+Mon Aug 15 2011,NEC Nijmegen,2-0,Sbv Excelsior
+Fri Aug 19 2011,Roda JC Kerkrade,0-2,RKC Waalwijk
+Sat Aug 20 2011,Vitesse,2-1,FC Utrecht
+Sat Aug 20 2011,SC Heerenveen,1-5,FC Twente
+Sat Aug 20 2011,Sbv Excelsior,1-1,De Graafschap
+Sat Aug 20 2011,NAC Breda,2-2,FC Groningen
+Sun Aug 21 2011,Heracles Almelo,1-1,Feyenoord
+Sun Aug 21 2011,AZ Alkmaar,4-0,NEC Nijmegen
+Sun Aug 21 2011,VVV Venlo,2-2,AFC Ajax
+Sun Aug 21 2011,ADO Den Haag,0-3,PSV Eindhoven
+Fri Aug 26 2011,AFC Ajax,4-1,Vitesse
+Sat Aug 27 2011,RKC Waalwijk,2-1,NAC Breda
+Sat Aug 27 2011,FC Twente,4-1,VVV Venlo
+Sat Aug 27 2011,NEC Nijmegen,2-1,Heracles Almelo
+Sat Aug 27 2011,FC Utrecht,3-1,Roda JC Kerkrade
+Sun Aug 28 2011,De Graafschap,0-3,ADO Den Haag
+Sun Aug 28 2011,Feyenoord,2-2,SC Heerenveen
+Sun Aug 28 2011,FC Groningen,0-3,AZ Alkmaar
+Sun Aug 28 2011,PSV Eindhoven,6-1,Sbv Excelsior
+Sat Sep 10 2011,Roda JC Kerkrade,2-1,FC Twente
+Sat Sep 10 2011,De Graafschap,1-0,NEC Nijmegen
+Sat Sep 10 2011,ADO Den Haag,0-1,RKC Waalwijk
+Sat Sep 10 2011,AZ Alkmaar,4-0,Vitesse
+Sat Sep 10 2011,Heracles Almelo,2-3,AFC Ajax
+Sun Sep 11 2011,SC Heerenveen,3-0,FC Groningen
+Sun Sep 11 2011,NAC Breda,1-3,Feyenoord
+Sun Sep 11 2011,VVV Venlo,3-3,PSV Eindhoven
+Sun Sep 11 2011,Sbv Excelsior,2-3,FC Utrecht
+Fri Sep 16 2011,NEC Nijmegen,1-2,NAC Breda
+Sat Sep 17 2011,FC Groningen,2-0,Sbv Excelsior
+Sat Sep 17 2011,VVV Venlo,0-3,SC Heerenveen
+Sat Sep 17 2011,Vitesse,5-0,Roda JC Kerkrade
+Sat Sep 17 2011,Feyenoord,4-0,De Graafschap
+Sun Sep 18 2011,PSV Eindhoven,2-2,AFC Ajax
+Sun Sep 18 2011,RKC Waalwijk,1-2,AZ Alkmaar
+Sun Sep 18 2011,FC Twente,5-2,ADO Den Haag
+Sun Sep 18 2011,FC Utrecht,2-2,Heracles Almelo
+Sat Sep 24 2011,PSV Eindhoven,7-1,Roda JC Kerkrade
+Sat Sep 24 2011,ADO Den Haag,2-0,VVV Venlo
+Sat Sep 24 2011,SC Heerenveen,1-1,Heracles Almelo
+Sat Sep 24 2011,NAC Breda,1-0,FC Utrecht
+Sat Sep 24 2011,AFC Ajax,1-1,FC Twente
+Sun Sep 25 2011,AZ Alkmaar,2-1,Feyenoord
+Sun Sep 25 2011,RKC Waalwijk,2-0,NEC Nijmegen
+Sun Sep 25 2011,De Graafschap,2-3,FC Groningen
+Sun Sep 25 2011,Sbv Excelsior,0-2,Vitesse
+Fri Sep 30 2011,Heracles Almelo,2-0,De Graafschap
+Sat Oct 1 2011,FC Utrecht,3-0,RKC Waalwijk
+Sat Oct 1 2011,Vitesse,1-1,SC Heerenveen
+Sat Oct 1 2011,Roda JC Kerkrade,4-3,NAC Breda
+Sun Oct 2 2011,VVV Venlo,1-3,AZ Alkmaar
+Sun Oct 2 2011,FC Twente,2-2,Sbv Excelsior
+Sun Oct 2 2011,FC Groningen,1-0,AFC Ajax
+Sun Oct 2 2011,Feyenoord,0-3,ADO Den Haag
+Sun Oct 2 2011,NEC Nijmegen,0-2,PSV Eindhoven
+Sat Oct 15 2011,AFC Ajax,2-2,AZ Alkmaar
+Sat Oct 15 2011,Heracles Almelo,2-1,FC Groningen
+Sat Oct 15 2011,RKC Waalwijk,0-4,FC Twente
+Sat Oct 15 2011,SC Heerenveen,1-1,De Graafschap
+Sat Oct 15 2011,PSV Eindhoven,1-0,FC Utrecht
+Sun Oct 16 2011,NEC Nijmegen,0-1,Vitesse
+Sun Oct 16 2011,Roda JC Kerkrade,4-1,ADO Den Haag
+Sun Oct 16 2011,Feyenoord,4-0,VVV Venlo
+Sun Oct 16 2011,NAC Breda,2-0,Sbv Excelsior
+Fri Oct 21 2011,De Graafschap,3-1,NAC Breda
+Sat Oct 22 2011,VVV Venlo,4-1,RKC Waalwijk
+Sat Oct 22 2011,Sbv Excelsior,0-2,Heracles Almelo
+Sat Oct 22 2011,ADO Den Haag,1-0,NEC Nijmegen
+Sat Oct 22 2011,FC Utrecht,1-4,SC Heerenveen
+Sun Oct 23 2011,AFC Ajax,1-1,Feyenoord
+Sun Oct 23 2011,AZ Alkmaar,1-0,Roda JC Kerkrade
+Sun Oct 23 2011,FC Groningen,1-1,FC Twente
+Sun Oct 23 2011,Vitesse,1-1,PSV Eindhoven
+Fri Oct 28 2011,NAC Breda,3-1,VVV Venlo
+Sat Oct 29 2011,Roda JC Kerkrade,0-4,AFC Ajax
+Sat Oct 29 2011,Sbv Excelsior,1-0,RKC Waalwijk
+Sat Oct 29 2011,SC Heerenveen,4-0,ADO Den Haag
+Sat Oct 29 2011,FC Twente,2-2,PSV Eindhoven
+Sun Oct 30 2011,De Graafschap,0-1,Vitesse
+Sun Oct 30 2011,FC Groningen,6-0,Feyenoord
+Sun Oct 30 2011,NEC Nijmegen,3-1,FC Utrecht
+Sun Oct 30 2011,Heracles Almelo,0-1,AZ Alkmaar
+Fri Nov 4 2011,VVV Venlo,0-0,Sbv Excelsior
+Sat Nov 5 2011,NAC Breda,1-0,Vitesse
+Sat Nov 5 2011,Roda JC Kerkrade,1-2,SC Heerenveen
+Sat Nov 5 2011,RKC Waalwijk,1-1,FC Groningen
+Sat Nov 5 2011,Feyenoord,0-1,NEC Nijmegen
+Sun Nov 6 2011,FC Utrecht,6-4,AFC Ajax
+Sun Nov 6 2011,FC Twente,4-0,De Graafschap
+Sun Nov 6 2011,AZ Alkmaar,3-0,ADO Den Haag
+Sun Nov 6 2011,PSV Eindhoven,4-1,Heracles Almelo
+Sat Nov 19 2011,De Graafschap,1-3,PSV Eindhoven
+Sat Nov 19 2011,NEC Nijmegen,1-2,Roda JC Kerkrade
+Sat Nov 19 2011,SC Heerenveen,1-1,RKC Waalwijk
+Sat Nov 19 2011,Heracles Almelo,1-1,FC Twente
+Sat Nov 19 2011,AFC Ajax,2-2,NAC Breda
+Sun Nov 20 2011,ADO Den Haag,2-2,FC Utrecht
+Sun Nov 20 2011,Vitesse,0-4,Feyenoord
+Sun Nov 20 2011,FC Groningen,2-1,VVV Venlo
+Fri Nov 25 2011,AZ Alkmaar,2-0,FC Utrecht
+Sat Nov 26 2011,NAC Breda,2-2,SC Heerenveen
+Sat Nov 26 2011,VVV Venlo,1-2,De Graafschap
+Sat Nov 26 2011,Roda JC Kerkrade,3-1,Heracles Almelo
+Sat Nov 26 2011,PSV Eindhoven,6-1,FC Groningen
+Sun Nov 27 2011,RKC Waalwijk,1-2,Feyenoord
+Sun Nov 27 2011,Sbv Excelsior,1-1,ADO Den Haag
+Sun Nov 27 2011,NEC Nijmegen,0-3,AFC Ajax
+Sun Nov 27 2011,FC Twente,0-0,Vitesse
+Fri Dec 2 2011,Heracles Almelo,7-0,VVV Venlo
+Sat Dec 3 2011,FC Groningen,3-3,NEC Nijmegen
+Sat Dec 3 2011,ADO Den Haag,3-0,NAC Breda
+Sat Dec 3 2011,De Graafschap,1-2,Roda JC Kerkrade
+Sat Dec 3 2011,AFC Ajax,4-1,Sbv Excelsior
+Sun Dec 4 2011,Feyenoord,2-0,PSV Eindhoven
+Sun Dec 4 2011,Vitesse,4-0,RKC Waalwijk
+Sun Dec 4 2011,FC Utrecht,2-6,FC Twente
+Sun Dec 4 2011,SC Heerenveen,5-1,AZ Alkmaar
+Wed Dec 7 2011,Sbv Excelsior,0-0,AZ Alkmaar
+Fri Dec 9 2011,ADO Den Haag,2-0,Heracles Almelo
+Sat Dec 10 2011,FC Twente,2-0,NEC Nijmegen
+Sat Dec 10 2011,AZ Alkmaar,4-0,De Graafschap
+Sat Dec 10 2011,Sbv Excelsior,0-5,SC Heerenveen
+Sat Dec 10 2011,PSV Eindhoven,1-0,NAC Breda
+Sun Dec 11 2011,VVV Venlo,2-0,Roda JC Kerkrade
+Sun Dec 11 2011,FC Utrecht,2-2,Feyenoord
+Sun Dec 11 2011,RKC Waalwijk,0-1,AFC Ajax
+Sun Dec 11 2011,Vitesse,0-0,FC Groningen
+Fri Dec 16 2011,De Graafschap,1-3,RKC Waalwijk
+Sat Dec 17 2011,Heracles Almelo,0-1,Vitesse
+Sat Dec 17 2011,Roda JC Kerkrade,7-0,Sbv Excelsior
+Sat Dec 17 2011,NEC Nijmegen,2-0,VVV Venlo
+Sat Dec 17 2011,FC Groningen,1-0,FC Utrecht
+Sun Dec 18 2011,AFC Ajax,4-0,ADO Den Haag
+Sun Dec 18 2011,NAC Breda,2-1,AZ Alkmaar
+Sun Dec 18 2011,Feyenoord,3-2,FC Twente
+Sun Dec 18 2011,SC Heerenveen,1-5,PSV Eindhoven
+Fri Jan 20 2012,ADO Den Haag,3-3,Roda JC Kerkrade
+Sat Jan 21 2012,De Graafschap,0-2,SC Heerenveen
+Sat Jan 21 2012,Sbv Excelsior,3-0,NAC Breda
+Sat Jan 21 2012,FC Twente,5-0,RKC Waalwijk
+Sun Jan 22 2012,Vitesse,0-1,NEC Nijmegen
+Sun Jan 22 2012,VVV Venlo,2-1,Feyenoord
+Sun Jan 22 2012,AZ Alkmaar,1-1,AFC Ajax
+Sun Jan 22 2012,FC Groningen,2-1,Heracles Almelo
+Sun Jan 22 2012,FC Utrecht,1-1,PSV Eindhoven
+Fri Jan 27 2012,PSV Eindhoven,3-1,Vitesse
+Sat Jan 28 2012,SC Heerenveen,2-0,FC Utrecht
+Sat Jan 28 2012,NAC Breda,1-1,De Graafschap
+Sat Jan 28 2012,Heracles Almelo,3-0,Sbv Excelsior
+Sat Jan 28 2012,Roda JC Kerkrade,2-0,AZ Alkmaar
+Sun Jan 29 2012,Feyenoord,4-2,AFC Ajax
+Sun Jan 29 2012,RKC Waalwijk,4-0,VVV Venlo
+Sun Jan 29 2012,FC Twente,4-1,FC Groningen
+Sun Jan 29 2012,NEC Nijmegen,2-0,ADO Den Haag
+Fri Feb 3 2012,SC Heerenveen,4-3,Roda JC Kerkrade
+Sat Feb 4 2012,Sbv Excelsior,3-1,VVV Venlo
+Sat Feb 4 2012,Vitesse,1-0,NAC Breda
+Sun Feb 5 2012,AFC Ajax,0-2,FC Utrecht
+Sun Feb 5 2012,Heracles Almelo,1-1,PSV Eindhoven
+Sun Feb 5 2012,NEC Nijmegen,0-2,Feyenoord
+Sun Feb 5 2012,FC Groningen,0-3,RKC Waalwijk
+Wed Feb 8 2012,ADO Den Haag,0-6,AZ Alkmaar
+Fri Feb 10 2012,FC Twente,2-3,Heracles Almelo
+Sat Feb 11 2012,AZ Alkmaar,2-0,Sbv Excelsior
+Sat Feb 11 2012,VVV Venlo,2-0,FC Groningen
+Sat Feb 11 2012,Roda JC Kerkrade,1-0,NEC Nijmegen
+Sat Feb 11 2012,NAC Breda,0-2,AFC Ajax
+Sun Feb 12 2012,FC Utrecht,1-1,ADO Den Haag
+Sun Feb 12 2012,PSV Eindhoven,4-1,De Graafschap
+Sun Feb 12 2012,RKC Waalwijk,0-1,SC Heerenveen
+Sun Feb 12 2012,Feyenoord,3-1,Vitesse
+Fri Feb 17 2012,SC Heerenveen,1-0,NAC Breda
+Sat Feb 18 2012,Feyenoord,1-1,RKC Waalwijk
+Sat Feb 18 2012,ADO Den Haag,1-1,Sbv Excelsior
+Sat Feb 18 2012,De Graafschap,1-4,VVV Venlo
+Sat Feb 18 2012,Heracles Almelo,2-1,Roda JC Kerkrade
+Sun Feb 19 2012,FC Groningen,3-0,PSV Eindhoven
+Sun Feb 19 2012,AFC Ajax,4-1,NEC Nijmegen
+Sun Feb 19 2012,FC Utrecht,3-0,AZ Alkmaar
+Sun Feb 19 2012,Vitesse,1-4,FC Twente
+Fri Feb 24 2012,RKC Waalwijk,1-0,Vitesse
+Sat Feb 25 2012,NAC Breda,4-0,ADO Den Haag
+Sat Feb 25 2012,VVV Venlo,3-1,Heracles Almelo
+Sat Feb 25 2012,Roda JC Kerkrade,0-2,De Graafschap
+Sat Feb 25 2012,NEC Nijmegen,4-0,FC Groningen
+Sun Feb 26 2012,Sbv Excelsior,1-4,AFC Ajax
+Sun Feb 26 2012,FC Twente,1-0,FC Utrecht
+Sun Feb 26 2012,PSV Eindhoven,3-2,Feyenoord
+Sun Feb 26 2012,AZ Alkmaar,3-3,SC Heerenveen
+Sat Mar 3 2012,ADO Den Haag,0-0,SC Heerenveen
+Sat Mar 3 2012,VVV Venlo,2-1,NAC Breda
+Sat Mar 3 2012,RKC Waalwijk,1-0,Sbv Excelsior
+Sat Mar 3 2012,AZ Alkmaar,3-1,Heracles Almelo
+Sun Mar 4 2012,Vitesse,2-0,De Graafschap
+Sun Mar 4 2012,AFC Ajax,4-1,Roda JC Kerkrade
+Sun Mar 4 2012,FC Utrecht,0-0,NEC Nijmegen
+Sun Mar 4 2012,Feyenoord,1-0,FC Groningen
+Sun Mar 4 2012,PSV Eindhoven,2-6,FC Twente
+Fri Mar 9 2012,Roda JC Kerkrade,3-1,VVV Venlo
+Sat Mar 10 2012,FC Groningen,1-3,Vitesse
+Sat Mar 10 2012,Heracles Almelo,0-2,ADO Den Haag
+Sat Mar 10 2012,SC Heerenveen,4-2,Sbv Excelsior
+Sun Mar 11 2012,NAC Breda,3-1,PSV Eindhoven
+Sun Mar 11 2012,NEC Nijmegen,3-1,FC Twente
+Sun Mar 11 2012,Feyenoord,1-1,FC Utrecht
+Sun Mar 11 2012,AFC Ajax,3-0,RKC Waalwijk
+Sun Mar 11 2012,De Graafschap,0-2,AZ Alkmaar
+Fri Mar 16 2012,Vitesse,2-0,Heracles Almelo
+Sat Mar 17 2012,RKC Waalwijk,1-0,De Graafschap
+Sat Mar 17 2012,Sbv Excelsior,2-1,Roda JC Kerkrade
+Sat Mar 17 2012,VVV Venlo,0-2,NEC Nijmegen
+Sun Mar 18 2012,ADO Den Haag,0-2,AFC Ajax
+Sun Mar 18 2012,PSV Eindhoven,5-1,SC Heerenveen
+Sun Mar 18 2012,FC Twente,0-2,Feyenoord
+Sun Mar 18 2012,FC Utrecht,3-1,FC Groningen
+Sun Mar 18 2012,AZ Alkmaar,0-0,NAC Breda
+Wed Mar 21 2012,De Graafschap,1-2,FC Twente
+Fri Mar 23 2012,Sbv Excelsior,0-1,FC Groningen
+Sat Mar 24 2012,Roda JC Kerkrade,3-1,Vitesse
+Sat Mar 24 2012,NAC Breda,1-1,NEC Nijmegen
+Sat Mar 24 2012,SC Heerenveen,4-1,VVV Venlo
+Sat Mar 24 2012,ADO Den Haag,1-1,FC Twente
+Sun Mar 25 2012,AZ Alkmaar,1-0,RKC Waalwijk
+Sun Mar 25 2012,Heracles Almelo,3-1,FC Utrecht
+Sun Mar 25 2012,De Graafschap,0-3,Feyenoord
+Sun Mar 25 2012,AFC Ajax,2-0,PSV Eindhoven
+Fri Mar 30 2012,FC Utrecht,3-2,Sbv Excelsior
+Sat Mar 31 2012,FC Groningen,1-3,SC Heerenveen
+Sat Mar 31 2012,PSV Eindhoven,2-0,VVV Venlo
+Sat Mar 31 2012,FC Twente,2-0,Roda JC Kerkrade
+Sat Mar 31 2012,Feyenoord,3-1,NAC Breda
+Sun Apr 1 2012,NEC Nijmegen,2-0,De Graafschap
+Sun Apr 1 2012,RKC Waalwijk,1-0,ADO Den Haag
+Sun Apr 1 2012,AFC Ajax,6-0,Heracles Almelo
+Sun Apr 1 2012,Vitesse,2-2,AZ Alkmaar
+Tue Apr 10 2012,Sbv Excelsior,0-2,NEC Nijmegen
+Wed Apr 11 2012,AZ Alkmaar,2-2,FC Twente
+Wed Apr 11 2012,NAC Breda,1-2,Heracles Almelo
+Wed Apr 11 2012,Roda JC Kerkrade,0-0,Feyenoord
+Wed Apr 11 2012,RKC Waalwijk,2-1,PSV Eindhoven
+Wed Apr 11 2012,SC Heerenveen,0-5,AFC Ajax
+Thu Apr 12 2012,De Graafschap,3-0,FC Utrecht
+Thu Apr 12 2012,VVV Venlo,1-3,Vitesse
+Thu Apr 12 2012,ADO Den Haag,3-0,FC Groningen
+Sat Apr 14 2012,PSV Eindhoven,3-2,AZ Alkmaar
+Sat Apr 14 2012,NEC Nijmegen,2-4,SC Heerenveen
+Sat Apr 14 2012,Feyenoord,3-0,Sbv Excelsior
+Sat Apr 14 2012,FC Twente,2-2,NAC Breda
+Sun Apr 15 2012,FC Groningen,0-1,Roda JC Kerkrade
+Sun Apr 15 2012,Vitesse,1-0,ADO Den Haag
+Sun Apr 15 2012,AFC Ajax,3-1,De Graafschap
+Sun Apr 15 2012,FC Utrecht,4-2,VVV Venlo
+Sun Apr 15 2012,Heracles Almelo,1-1,RKC Waalwijk
+Fri Apr 20 2012,NAC Breda,0-3,Roda JC Kerkrade
+Sat Apr 21 2012,SC Heerenveen,1-1,Vitesse
+Sat Apr 21 2012,De Graafschap,2-3,Heracles Almelo
+Sat Apr 21 2012,RKC Waalwijk,0-2,FC Utrecht
+Sat Apr 21 2012,Sbv Excelsior,0-1,FC Twente
+Sun Apr 22 2012,ADO Den Haag,1-2,Feyenoord
+Sun Apr 22 2012,AZ Alkmaar,2-1,VVV Venlo
+Sun Apr 22 2012,PSV Eindhoven,2-1,NEC Nijmegen
+Sun Apr 22 2012,AFC Ajax,2-0,FC Groningen
+Fri Apr 27 2012,FC Groningen,1-1,De Graafschap
+Sat Apr 28 2012,Heracles Almelo,2-4,SC Heerenveen
+Sat Apr 28 2012,Vitesse,3-2,Sbv Excelsior
+Sat Apr 28 2012,FC Utrecht,1-3,NAC Breda
+Sat Apr 28 2012,VVV Venlo,2-1,ADO Den Haag
+Sun Apr 29 2012,Roda JC Kerkrade,1-3,PSV Eindhoven
+Sun Apr 29 2012,FC Twente,1-2,AFC Ajax
+Sun Apr 29 2012,Feyenoord,1-0,AZ Alkmaar
+Sun Apr 29 2012,NEC Nijmegen,1-1,RKC Waalwijk
+Wed May 2 2012,FC Groningen,1-1,NAC Breda
+Wed May 2 2012,FC Utrecht,2-2,Vitesse
+Wed May 2 2012,NEC Nijmegen,1-1,AZ Alkmaar
+Wed May 2 2012,De Graafschap,2-2,Sbv Excelsior
+Wed May 2 2012,RKC Waalwijk,5-2,Roda JC Kerkrade
+Wed May 2 2012,AFC Ajax,2-0,VVV Venlo
+Wed May 2 2012,Feyenoord,4-1,Heracles Almelo
+Wed May 2 2012,PSV Eindhoven,5-0,ADO Den Haag
+Wed May 2 2012,FC Twente,3-4,SC Heerenveen
+Sun May 6 2012,ADO Den Haag,3-5,De Graafschap
+Sun May 6 2012,NAC Breda,3-2,RKC Waalwijk
+Sun May 6 2012,Vitesse,1-3,AFC Ajax
+Sun May 6 2012,Sbv Excelsior,1-3,PSV Eindhoven
+Sun May 6 2012,SC Heerenveen,2-3,Feyenoord
+Sun May 6 2012,Roda JC Kerkrade,1-3,FC Utrecht
+Sun May 6 2012,VVV Venlo,4-2,FC Twente
+Sun May 6 2012,AZ Alkmaar,1-0,FC Groningen
+Sun May 6 2012,Heracles Almelo,1-2,NEC Nijmegen
+Thu May 10 2012,NEC Nijmegen,3-2,Vitesse
+Thu May 10 2012,RKC Waalwijk,1-1,FC Twente
+Sun May 13 2012,Vitesse,2-0,NEC Nijmegen
+Sun May 13 2012,FC Twente,0-1,RKC Waalwijk
+Thu May 17 2012,RKC Waalwijk,1-3,Vitesse
+Sun May 20 2012,Vitesse,2-1,RKC Waalwijk

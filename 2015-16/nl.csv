@@ -1,0 +1,313 @@
+Date,Team 1,FT,Team 2
+Sat Aug 8 2015,Roda JC Kerkrade,3-1,Heracles Almelo
+Sat Aug 8 2015,Feyenoord,3-2,FC Utrecht
+Sun Aug 9 2015,AZ Alkmaar,0-3,AFC Ajax
+Sun Aug 9 2015,Willem II,1-1,Vitesse
+Tue Aug 11 2015,ADO Den Haag,2-2,PSV Eindhoven
+Tue Aug 11 2015,SC Heerenveen,3-1,De Graafschap
+Wed Aug 12 2015,FC Groningen,1-1,FC Twente
+Wed Aug 12 2015,PEC Zwolle,2-2,SC Cambuur
+Wed Aug 12 2015,NEC Nijmegen,1-0,Sbv Excelsior
+Fri Aug 14 2015,Vitesse,3-0,Roda JC Kerkrade
+Sat Aug 15 2015,De Graafschap,0-3,PEC Zwolle
+Sat Aug 15 2015,AFC Ajax,3-0,Willem II
+Sat Aug 15 2015,FC Twente,1-4,ADO Den Haag
+Sat Aug 15 2015,Sbv Excelsior,2-2,AZ Alkmaar
+Sun Aug 16 2015,PSV Eindhoven,2-0,FC Groningen
+Sun Aug 16 2015,SC Cambuur,0-2,Feyenoord
+Sun Aug 16 2015,FC Utrecht,1-1,SC Heerenveen
+Sun Aug 16 2015,Heracles Almelo,3-0,NEC Nijmegen
+Fri Aug 21 2015,FC Groningen,2-0,Sbv Excelsior
+Sat Aug 22 2015,Roda JC Kerkrade,1-0,De Graafschap
+Sat Aug 22 2015,SC Heerenveen,1-1,PSV Eindhoven
+Sat Aug 22 2015,SC Cambuur,1-6,Heracles Almelo
+Sun Aug 23 2015,PEC Zwolle,2-1,FC Twente
+Sun Aug 23 2015,NEC Nijmegen,0-2,AFC Ajax
+Sun Aug 23 2015,AZ Alkmaar,0-0,Willem II
+Sun Aug 23 2015,ADO Den Haag,1-1,FC Utrecht
+Sun Aug 23 2015,Feyenoord,2-0,Vitesse
+Fri Aug 28 2015,Willem II,0-1,NEC Nijmegen
+Sat Aug 29 2015,FC Utrecht,2-0,FC Groningen
+Sat Aug 29 2015,SC Heerenveen,1-1,PEC Zwolle
+Sat Aug 29 2015,Sbv Excelsior,3-0,De Graafschap
+Sat Aug 29 2015,Heracles Almelo,2-0,FC Twente
+Sun Aug 30 2015,AFC Ajax,4-0,ADO Den Haag
+Sun Aug 30 2015,AZ Alkmaar,0-1,Roda JC Kerkrade
+Sun Aug 30 2015,Vitesse,4-1,SC Cambuur
+Sun Aug 30 2015,PSV Eindhoven,3-1,Feyenoord
+Sat Sep 12 2015,De Graafschap,1-3,AZ Alkmaar
+Sat Sep 12 2015,Roda JC Kerkrade,0-0,NEC Nijmegen
+Sat Sep 12 2015,FC Twente,2-2,AFC Ajax
+Sat Sep 12 2015,SC Cambuur,0-6,PSV Eindhoven
+Sat Sep 12 2015,PEC Zwolle,3-0,Sbv Excelsior
+Sun Sep 13 2015,FC Groningen,3-1,SC Heerenveen
+Sun Sep 13 2015,Feyenoord,1-0,Willem II
+Sun Sep 13 2015,ADO Den Haag,0-1,Heracles Almelo
+Sun Sep 13 2015,FC Utrecht,2-1,Vitesse
+Fri Sep 18 2015,NEC Nijmegen,2-0,SC Heerenveen
+Sat Sep 19 2015,SC Cambuur,0-0,FC Twente
+Sat Sep 19 2015,PEC Zwolle,2-1,ADO Den Haag
+Sat Sep 19 2015,Heracles Almelo,2-1,PSV Eindhoven
+Sat Sep 19 2015,Willem II,3-1,FC Utrecht
+Sun Sep 20 2015,Roda JC Kerkrade,1-1,Feyenoord
+Sun Sep 20 2015,Sbv Excelsior,0-2,AFC Ajax
+Sun Sep 20 2015,Vitesse,3-0,De Graafschap
+Sun Sep 20 2015,FC Groningen,2-0,AZ Alkmaar
+Sat Sep 26 2015,SC Heerenveen,0-0,Vitesse
+Sat Sep 26 2015,FC Utrecht,3-3,SC Cambuur
+Sat Sep 26 2015,AFC Ajax,2-0,FC Groningen
+Sat Sep 26 2015,AZ Alkmaar,3-1,Heracles Almelo
+Sat Sep 26 2015,PSV Eindhoven,2-1,NEC Nijmegen
+Sun Sep 27 2015,De Graafschap,2-2,Willem II
+Sun Sep 27 2015,Feyenoord,2-0,PEC Zwolle
+Sun Sep 27 2015,ADO Den Haag,3-3,Sbv Excelsior
+Sun Sep 27 2015,FC Twente,2-1,Roda JC Kerkrade
+Fri Oct 2 2015,Heracles Almelo,2-0,SC Heerenveen
+Sat Oct 3 2015,NEC Nijmegen,4-1,ADO Den Haag
+Sat Oct 3 2015,Roda JC Kerkrade,1-1,SC Cambuur
+Sat Oct 3 2015,Willem II,0-1,PEC Zwolle
+Sat Oct 3 2015,Sbv Excelsior,1-0,FC Utrecht
+Sun Oct 4 2015,De Graafschap,1-2,Feyenoord
+Sun Oct 4 2015,AFC Ajax,1-2,PSV Eindhoven
+Sun Oct 4 2015,Vitesse,5-0,FC Groningen
+Sun Oct 4 2015,AZ Alkmaar,3-1,FC Twente
+Sat Oct 17 2015,SC Cambuur,1-1,AZ Alkmaar
+Sat Oct 17 2015,FC Groningen,2-1,Willem II
+Sat Oct 17 2015,Heracles Almelo,0-2,AFC Ajax
+Sat Oct 17 2015,FC Utrecht,1-1,Roda JC Kerkrade
+Sat Oct 17 2015,PSV Eindhoven,1-1,Sbv Excelsior
+Sun Oct 18 2015,FC Twente,1-0,NEC Nijmegen
+Sun Oct 18 2015,SC Heerenveen,2-5,Feyenoord
+Sun Oct 18 2015,ADO Den Haag,1-1,De Graafschap
+Sun Oct 18 2015,PEC Zwolle,1-5,Vitesse
+Fri Oct 23 2015,PEC Zwolle,1-2,FC Utrecht
+Sat Oct 24 2015,Willem II,2-2,SC Heerenveen
+Sat Oct 24 2015,De Graafschap,0-1,Heracles Almelo
+Sat Oct 24 2015,FC Twente,1-3,PSV Eindhoven
+Sat Oct 24 2015,Roda JC Kerkrade,1-2,Sbv Excelsior
+Sun Oct 25 2015,SC Cambuur,1-1,ADO Den Haag
+Sun Oct 25 2015,Vitesse,1-3,AFC Ajax
+Sun Oct 25 2015,NEC Nijmegen,1-1,FC Groningen
+Sun Oct 25 2015,Feyenoord,3-1,AZ Alkmaar
+Fri Oct 30 2015,Heracles Almelo,2-1,Willem II
+Sat Oct 31 2015,FC Groningen,2-0,PEC Zwolle
+Sat Oct 31 2015,AFC Ajax,6-0,Roda JC Kerkrade
+Sat Oct 31 2015,Sbv Excelsior,0-3,Vitesse
+Sat Oct 31 2015,De Graafschap,3-6,PSV Eindhoven
+Sun Nov 1 2015,ADO Den Haag,1-0,Feyenoord
+Sun Nov 1 2015,SC Heerenveen,2-0,SC Cambuur
+Sun Nov 1 2015,FC Utrecht,4-2,FC Twente
+Sun Nov 1 2015,AZ Alkmaar,2-4,NEC Nijmegen
+Fri Nov 6 2015,Roda JC Kerkrade,1-1,ADO Den Haag
+Sat Nov 7 2015,FC Twente,1-4,SC Heerenveen
+Sat Nov 7 2015,NEC Nijmegen,2-0,De Graafschap
+Sat Nov 7 2015,Willem II,2-3,Sbv Excelsior
+Sat Nov 7 2015,PEC Zwolle,1-1,Heracles Almelo
+Sun Nov 8 2015,PSV Eindhoven,3-1,FC Utrecht
+Sun Nov 8 2015,SC Cambuur,2-2,FC Groningen
+Sun Nov 8 2015,Feyenoord,1-1,AFC Ajax
+Sun Nov 8 2015,Vitesse,0-2,AZ Alkmaar
+Sat Nov 21 2015,AZ Alkmaar,3-1,SC Heerenveen
+Sat Nov 21 2015,Roda JC Kerkrade,0-5,PEC Zwolle
+Sat Nov 21 2015,AFC Ajax,5-1,SC Cambuur
+Sat Nov 21 2015,Willem II,2-2,PSV Eindhoven
+Sat Nov 21 2015,De Graafschap,1-2,FC Groningen
+Sun Nov 22 2015,Heracles Almelo,0-0,Sbv Excelsior
+Sun Nov 22 2015,Feyenoord,5-0,FC Twente
+Sun Nov 22 2015,NEC Nijmegen,1-0,FC Utrecht
+Sun Nov 22 2015,ADO Den Haag,2-2,Vitesse
+Fri Nov 27 2015,SC Cambuur,2-3,De Graafschap
+Sat Nov 28 2015,SC Heerenveen,3-0,Roda JC Kerkrade
+Sat Nov 28 2015,Sbv Excelsior,2-4,Feyenoord
+Sat Nov 28 2015,FC Twente,1-3,Willem II
+Sun Nov 29 2015,Vitesse,1-0,NEC Nijmegen
+Sun Nov 29 2015,PEC Zwolle,0-2,AFC Ajax
+Sun Nov 29 2015,FC Groningen,2-1,ADO Den Haag
+Sun Nov 29 2015,FC Utrecht,4-2,Heracles Almelo
+Sun Nov 29 2015,PSV Eindhoven,3-0,AZ Alkmaar
+Fri Dec 4 2015,AZ Alkmaar,0-1,ADO Den Haag
+Sat Dec 5 2015,Sbv Excelsior,1-1,FC Twente
+Sat Dec 5 2015,De Graafschap,0-1,FC Utrecht
+Sat Dec 5 2015,Vitesse,0-1,PSV Eindhoven
+Sat Dec 5 2015,AFC Ajax,5-2,SC Heerenveen
+Sun Dec 6 2015,Willem II,3-0,SC Cambuur
+Sun Dec 6 2015,Feyenoord,3-0,Heracles Almelo
+Sun Dec 6 2015,NEC Nijmegen,2-2,PEC Zwolle
+Sun Dec 6 2015,Roda JC Kerkrade,0-0,FC Groningen
+Fri Dec 11 2015,SC Heerenveen,2-1,Sbv Excelsior
+Sat Dec 12 2015,ADO Den Haag,1-1,Willem II
+Sat Dec 12 2015,SC Cambuur,3-1,NEC Nijmegen
+Sat Dec 12 2015,PSV Eindhoven,1-1,Roda JC Kerkrade
+Sat Dec 12 2015,FC Twente,2-1,De Graafschap
+Sun Dec 13 2015,FC Utrecht,1-0,AFC Ajax
+Sun Dec 13 2015,PEC Zwolle,2-1,AZ Alkmaar
+Sun Dec 13 2015,FC Groningen,1-1,Feyenoord
+Sun Dec 13 2015,Heracles Almelo,1-1,Vitesse
+Fri Dec 18 2015,Vitesse,5-1,FC Twente
+Sat Dec 19 2015,AZ Alkmaar,2-2,FC Utrecht
+Sat Dec 19 2015,PSV Eindhoven,3-2,PEC Zwolle
+Sat Dec 19 2015,Heracles Almelo,2-1,FC Groningen
+Sun Dec 20 2015,Sbv Excelsior,1-4,SC Cambuur
+Sun Dec 20 2015,Willem II,3-2,Roda JC Kerkrade
+Sun Dec 20 2015,SC Heerenveen,0-4,ADO Den Haag
+Sun Dec 20 2015,NEC Nijmegen,3-1,Feyenoord
+Sun Dec 20 2015,AFC Ajax,2-1,De Graafschap
+Fri Jan 15 2016,FC Twente,4-0,Heracles Almelo
+Sat Jan 16 2016,SC Cambuur,0-2,Vitesse
+Sat Jan 16 2016,PEC Zwolle,5-2,SC Heerenveen
+Sat Jan 16 2016,Roda JC Kerkrade,0-1,AZ Alkmaar
+Sat Jan 16 2016,De Graafschap,2-0,Sbv Excelsior
+Sun Jan 17 2016,ADO Den Haag,0-1,AFC Ajax
+Sun Jan 17 2016,Feyenoord,0-2,PSV Eindhoven
+Sun Jan 17 2016,FC Groningen,1-4,FC Utrecht
+Sun Jan 17 2016,NEC Nijmegen,1-0,Willem II
+Fri Jan 22 2016,FC Groningen,0-0,NEC Nijmegen
+Sat Jan 23 2016,Heracles Almelo,2-1,De Graafschap
+Sat Jan 23 2016,AFC Ajax,1-0,Vitesse
+Sat Jan 23 2016,Sbv Excelsior,0-1,Roda JC Kerkrade
+Sat Jan 23 2016,SC Heerenveen,3-1,Willem II
+Sun Jan 24 2016,AZ Alkmaar,4-2,Feyenoord
+Sun Jan 24 2016,FC Utrecht,1-0,PEC Zwolle
+Sun Jan 24 2016,PSV Eindhoven,4-2,FC Twente
+Sun Jan 24 2016,ADO Den Haag,2-1,SC Cambuur
+Tue Jan 26 2016,Willem II,1-1,FC Groningen
+Tue Jan 26 2016,AFC Ajax,0-0,Heracles Almelo
+Wed Jan 27 2016,AZ Alkmaar,3-1,SC Cambuur
+Wed Jan 27 2016,NEC Nijmegen,2-0,FC Twente
+Wed Jan 27 2016,De Graafschap,3-1,ADO Den Haag
+Wed Jan 27 2016,Sbv Excelsior,1-3,PSV Eindhoven
+Wed Jan 27 2016,Vitesse,1-1,PEC Zwolle
+Thu Jan 28 2016,Roda JC Kerkrade,1-0,FC Utrecht
+Thu Jan 28 2016,Feyenoord,1-2,SC Heerenveen
+Fri Jan 29 2016,Willem II,0-0,Heracles Almelo
+Sat Jan 30 2016,Vitesse,0-0,Sbv Excelsior
+Sat Jan 30 2016,PEC Zwolle,1-3,FC Groningen
+Sat Jan 30 2016,PSV Eindhoven,4-2,De Graafschap
+Sat Jan 30 2016,NEC Nijmegen,0-3,AZ Alkmaar
+Sun Jan 31 2016,Roda JC Kerkrade,2-2,AFC Ajax
+Sun Jan 31 2016,SC Cambuur,0-1,SC Heerenveen
+Sun Jan 31 2016,Feyenoord,0-2,ADO Den Haag
+Sun Jan 31 2016,FC Twente,3-1,FC Utrecht
+Fri Feb 5 2016,Sbv Excelsior,0-0,Willem II
+Sat Feb 6 2016,ADO Den Haag,2-2,Roda JC Kerkrade
+Sat Feb 6 2016,SC Heerenveen,1-3,FC Twente
+Sat Feb 6 2016,AZ Alkmaar,1-0,Vitesse
+Sat Feb 6 2016,Heracles Almelo,2-0,PEC Zwolle
+Sun Feb 7 2016,AFC Ajax,2-1,Feyenoord
+Sun Feb 7 2016,De Graafschap,1-1,NEC Nijmegen
+Sun Feb 7 2016,FC Groningen,2-0,SC Cambuur
+Sun Feb 7 2016,FC Utrecht,0-2,PSV Eindhoven
+Fri Feb 12 2016,SC Cambuur,0-2,FC Utrecht
+Sat Feb 13 2016,Heracles Almelo,3-6,AZ Alkmaar
+Sat Feb 13 2016,Willem II,0-0,De Graafschap
+Sat Feb 13 2016,Roda JC Kerkrade,0-1,FC Twente
+Sat Feb 13 2016,Vitesse,3-0,SC Heerenveen
+Sun Feb 14 2016,FC Groningen,1-2,AFC Ajax
+Sun Feb 14 2016,PEC Zwolle,3-1,Feyenoord
+Sun Feb 14 2016,Sbv Excelsior,2-4,ADO Den Haag
+Sun Feb 14 2016,NEC Nijmegen,0-3,PSV Eindhoven
+Fri Feb 19 2016,ADO Den Haag,0-2,PEC Zwolle
+Sat Feb 20 2016,AZ Alkmaar,4-1,FC Groningen
+Sat Feb 20 2016,SC Heerenveen,1-1,NEC Nijmegen
+Sat Feb 20 2016,PSV Eindhoven,2-0,Heracles Almelo
+Sat Feb 20 2016,FC Twente,3-0,SC Cambuur
+Sun Feb 21 2016,De Graafschap,2-2,Vitesse
+Sun Feb 21 2016,FC Utrecht,2-1,Willem II
+Sun Feb 21 2016,AFC Ajax,3-0,Sbv Excelsior
+Sun Feb 21 2016,Feyenoord,1-1,Roda JC Kerkrade
+Fri Feb 26 2016,Sbv Excelsior,2-0,NEC Nijmegen
+Sat Feb 27 2016,FC Twente,2-0,FC Groningen
+Sat Feb 27 2016,SC Cambuur,1-0,PEC Zwolle
+Sat Feb 27 2016,PSV Eindhoven,2-0,ADO Den Haag
+Sat Feb 27 2016,Vitesse,0-1,Willem II
+Sun Feb 28 2016,Heracles Almelo,0-5,Roda JC Kerkrade
+Sun Feb 28 2016,De Graafschap,0-1,SC Heerenveen
+Sun Feb 28 2016,FC Utrecht,1-2,Feyenoord
+Sun Feb 28 2016,AFC Ajax,4-1,AZ Alkmaar
+Fri Mar 4 2016,ADO Den Haag,2-1,FC Twente
+Sat Mar 5 2016,PEC Zwolle,2-1,De Graafschap
+Sat Mar 5 2016,FC Groningen,0-3,PSV Eindhoven
+Sat Mar 5 2016,SC Heerenveen,0-4,FC Utrecht
+Sun Mar 6 2016,NEC Nijmegen,1-0,Heracles Almelo
+Sun Mar 6 2016,AZ Alkmaar,2-0,Sbv Excelsior
+Sun Mar 6 2016,Willem II,0-4,AFC Ajax
+Sun Mar 6 2016,Roda JC Kerkrade,1-2,Vitesse
+Sun Mar 6 2016,Feyenoord,3-1,SC Cambuur
+Fri Mar 11 2016,De Graafschap,3-0,Roda JC Kerkrade
+Sat Mar 12 2016,FC Twente,2-1,PEC Zwolle
+Sat Mar 12 2016,Willem II,0-2,AZ Alkmaar
+Sat Mar 12 2016,PSV Eindhoven,1-1,SC Heerenveen
+Sat Mar 12 2016,Sbv Excelsior,2-1,FC Groningen
+Sun Mar 13 2016,FC Utrecht,2-2,ADO Den Haag
+Sun Mar 13 2016,Heracles Almelo,3-1,SC Cambuur
+Sun Mar 13 2016,Vitesse,0-2,Feyenoord
+Sun Mar 13 2016,AFC Ajax,2-2,NEC Nijmegen
+Fri Mar 18 2016,FC Utrecht,2-1,Sbv Excelsior
+Sat Mar 19 2016,SC Heerenveen,0-1,Heracles Almelo
+Sat Mar 19 2016,Feyenoord,3-1,De Graafschap
+Sat Mar 19 2016,PEC Zwolle,4-1,Willem II
+Sat Mar 19 2016,SC Cambuur,0-1,Roda JC Kerkrade
+Sun Mar 20 2016,FC Twente,2-2,AZ Alkmaar
+Sun Mar 20 2016,FC Groningen,0-3,Vitesse
+Sun Mar 20 2016,ADO Den Haag,1-0,NEC Nijmegen
+Sun Mar 20 2016,PSV Eindhoven,0-2,AFC Ajax
+Sat Apr 2 2016,Heracles Almelo,1-1,FC Utrecht
+Sat Apr 2 2016,De Graafschap,2-2,SC Cambuur
+Sat Apr 2 2016,AZ Alkmaar,2-4,PSV Eindhoven
+Sat Apr 2 2016,Feyenoord,3-0,Sbv Excelsior
+Sat Apr 2 2016,Willem II,2-3,FC Twente
+Sun Apr 3 2016,NEC Nijmegen,2-1,Vitesse
+Sun Apr 3 2016,Roda JC Kerkrade,1-2,SC Heerenveen
+Sun Apr 3 2016,ADO Den Haag,0-1,FC Groningen
+Sun Apr 3 2016,AFC Ajax,3-0,PEC Zwolle
+Fri Apr 8 2016,PEC Zwolle,3-1,Roda JC Kerkrade
+Sat Apr 9 2016,Sbv Excelsior,1-3,Heracles Almelo
+Sat Apr 9 2016,SC Cambuur,0-1,AFC Ajax
+Sat Apr 9 2016,Vitesse,2-2,ADO Den Haag
+Sat Apr 9 2016,PSV Eindhoven,2-0,Willem II
+Sun Apr 10 2016,SC Heerenveen,4-2,AZ Alkmaar
+Sun Apr 10 2016,FC Utrecht,3-1,NEC Nijmegen
+Sun Apr 10 2016,FC Groningen,3-1,De Graafschap
+Sun Apr 10 2016,FC Twente,0-1,Feyenoord
+Fri Apr 15 2016,De Graafschap,1-1,FC Twente
+Sat Apr 16 2016,Vitesse,1-1,Heracles Almelo
+Sat Apr 16 2016,Feyenoord,1-1,FC Groningen
+Sat Apr 16 2016,AZ Alkmaar,5-1,PEC Zwolle
+Sat Apr 16 2016,Roda JC Kerkrade,0-3,PSV Eindhoven
+Sun Apr 17 2016,AFC Ajax,2-2,FC Utrecht
+Sun Apr 17 2016,Willem II,0-2,ADO Den Haag
+Sun Apr 17 2016,NEC Nijmegen,2-1,SC Cambuur
+Sun Apr 17 2016,Sbv Excelsior,1-1,SC Heerenveen
+Tue Apr 19 2016,FC Groningen,1-0,Roda JC Kerkrade
+Tue Apr 19 2016,PSV Eindhoven,2-0,Vitesse
+Wed Apr 20 2016,PEC Zwolle,2-0,NEC Nijmegen
+Wed Apr 20 2016,FC Utrecht,0-2,De Graafschap
+Wed Apr 20 2016,Heracles Almelo,2-2,Feyenoord
+Wed Apr 20 2016,FC Twente,2-0,Sbv Excelsior
+Wed Apr 20 2016,SC Heerenveen,0-2,AFC Ajax
+Thu Apr 21 2016,ADO Den Haag,1-2,AZ Alkmaar
+Thu Apr 21 2016,SC Cambuur,1-1,Willem II
+Sun May 1 2016,SC Heerenveen,1-2,FC Groningen
+Sun May 1 2016,AZ Alkmaar,4-1,De Graafschap
+Sun May 1 2016,Willem II,0-1,Feyenoord
+Sun May 1 2016,AFC Ajax,4-0,FC Twente
+Sun May 1 2016,PSV Eindhoven,6-2,SC Cambuur
+Sun May 1 2016,Sbv Excelsior,2-2,PEC Zwolle
+Sun May 1 2016,Heracles Almelo,1-1,ADO Den Haag
+Sun May 1 2016,Vitesse,1-3,FC Utrecht
+Sun May 1 2016,NEC Nijmegen,1-2,Roda JC Kerkrade
+Sun May 8 2016,SC Cambuur,0-2,Sbv Excelsior
+Sun May 8 2016,FC Utrecht,1-3,AZ Alkmaar
+Sun May 8 2016,Feyenoord,1-0,NEC Nijmegen
+Sun May 8 2016,PEC Zwolle,1-3,PSV Eindhoven
+Sun May 8 2016,De Graafschap,1-1,AFC Ajax
+Sun May 8 2016,Roda JC Kerkrade,2-3,Willem II
+Sun May 8 2016,FC Groningen,2-1,Heracles Almelo
+Sun May 8 2016,ADO Den Haag,1-1,SC Heerenveen
+Sun May 8 2016,FC Twente,2-2,Vitesse
+Thu May 12 2016,FC Groningen,2-1,Heracles Almelo
+Thu May 12 2016,PEC Zwolle,0-0,FC Utrecht
+Sun May 15 2016,Heracles Almelo,5-1,FC Groningen
+Sun May 15 2016,FC Utrecht,5-2,PEC Zwolle
+Thu May 19 2016,Heracles Almelo,1-1,FC Utrecht
+Sun May 22 2016,FC Utrecht,0-2,Heracles Almelo

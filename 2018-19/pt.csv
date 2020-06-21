@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Fri Aug 10 2018,Sl Benfica,3-2,Vitoria Guimaraes
+Sat Aug 11 2018,Vitoria Setubal,2-0,CD Aves
+Sat Aug 11 2018,CD Tondela,0-1,Os Belenenses
+Sat Aug 11 2018,FC Porto,5-0,GD Chaves
+Sun Aug 12 2018,CS Maritimo,1-0,CD Santa Clara
+Sun Aug 12 2018,Cd Feirense,2-0,Rio Ave FC
+Sun Aug 12 2018,Moreirense FC,1-3,Sporting CP
+Sun Aug 12 2018,Sporting Braga,4-2,CD Nacional
+Mon Aug 13 2018,Portimonense SC,0-2,Boavista Porto
+Fri Aug 17 2018,CD Aves,2-2,CD Tondela
+Sat Aug 18 2018,GD Chaves,2-0,Portimonense SC
+Sat Aug 18 2018,Boavista Porto,0-2,Sl Benfica
+Sat Aug 18 2018,Sporting CP,2-1,Vitoria Setubal
+Sun Aug 19 2018,Rio Ave FC,3-1,CS Maritimo
+Sun Aug 19 2018,CD Nacional,1-2,Moreirense FC
+Sun Aug 19 2018,Os Belenenses,2-3,FC Porto
+Sun Aug 19 2018,CD Santa Clara,3-3,Sporting Braga
+Mon Aug 20 2018,Vitoria Guimaraes,0-1,Cd Feirense
+Fri Aug 24 2018,CS Maritimo,2-1,GD Chaves
+Sat Aug 25 2018,Portimonense SC,2-2,CD Santa Clara
+Sat Aug 25 2018,Sl Benfica,1-1,Sporting CP
+Sat Aug 25 2018,FC Porto,2-3,Vitoria Guimaraes
+Sun Aug 26 2018,Vitoria Setubal,1-2,CD Nacional
+Sun Aug 26 2018,Cd Feirense,1-1,Boavista Porto
+Sun Aug 26 2018,CD Tondela,1-1,Rio Ave FC
+Sun Aug 26 2018,Sporting Braga,3-1,CD Aves
+Mon Aug 27 2018,Moreirense FC,1-1,Os Belenenses
+Fri Aug 31 2018,GD Chaves,0-1,Sporting Braga
+Fri Aug 31 2018,Vitoria Guimaraes,1-0,CD Tondela
+Sat Sep 1 2018,Os Belenenses,0-0,Vitoria Setubal
+Sat Sep 1 2018,CD Santa Clara,4-2,Boavista Porto
+Sat Sep 1 2018,Sporting CP,1-0,Cd Feirense
+Sun Sep 2 2018,Rio Ave FC,2-1,Portimonense SC
+Sun Sep 2 2018,CD Aves,0-1,CS Maritimo
+Sun Sep 2 2018,CD Nacional,0-4,Sl Benfica
+Sun Sep 2 2018,FC Porto,3-0,Moreirense FC
+Fri Sep 21 2018,Boavista Porto,1-2,GD Chaves
+Sat Sep 22 2018,CD Santa Clara,1-3,Rio Ave FC
+Sat Sep 22 2018,CS Maritimo,0-0,Os Belenenses
+Sat Sep 22 2018,Vitoria Setubal,0-2,FC Porto
+Sun Sep 23 2018,CD Tondela,2-0,Moreirense FC
+Sun Sep 23 2018,Cd Feirense,0-0,CD Nacional
+Sun Sep 23 2018,Sl Benfica,2-0,CD Aves
+Sun Sep 23 2018,Portimonense SC,3-2,Vitoria Guimaraes
+Mon Sep 24 2018,Sporting Braga,1-0,Sporting CP
+Thu Sep 27 2018,GD Chaves,2-2,Sl Benfica
+Fri Sep 28 2018,FC Porto,1-0,CD Tondela
+Sat Sep 29 2018,Moreirense FC,1-0,Cd Feirense
+Sat Sep 29 2018,Rio Ave FC,2-1,Boavista Porto
+Sat Sep 29 2018,Sporting CP,2-0,CS Maritimo
+Sun Sep 30 2018,CD Nacional,0-3,CD Santa Clara
+Sun Sep 30 2018,Vitoria Guimaraes,1-1,Vitoria Setubal
+Sun Sep 30 2018,Os Belenenses,0-3,Sporting Braga
+Mon Oct 1 2018,CD Aves,3-0,Portimonense SC
+Fri Oct 5 2018,CD Tondela,1-1,CD Nacional
+Fri Oct 5 2018,CD Santa Clara,1-0,GD Chaves
+Fri Oct 5 2018,Cd Feirense,0-0,Os Belenenses
+Sat Oct 6 2018,Vitoria Setubal,3-0,Moreirense FC
+Sat Oct 6 2018,CS Maritimo,1-3,Vitoria Guimaraes
+Sat Oct 6 2018,Sporting Braga,1-1,Rio Ave FC
+Sun Oct 7 2018,Boavista Porto,1-0,CD Aves
+Sun Oct 7 2018,Sl Benfica,1-0,FC Porto
+Sun Oct 7 2018,Portimonense SC,4-2,Sporting CP
+Fri Oct 26 2018,CD Nacional,0-1,Portimonense SC
+Fri Oct 26 2018,Vitoria Guimaraes,1-1,Sporting Braga
+Sat Oct 27 2018,CD Aves,1-2,CD Santa Clara
+Sat Oct 27 2018,Rio Ave FC,1-0,GD Chaves
+Sat Oct 27 2018,Os Belenenses,2-0,Sl Benfica
+Sun Oct 28 2018,Moreirense FC,1-0,CS Maritimo
+Sun Oct 28 2018,CD Tondela,1-2,Vitoria Setubal
+Sun Oct 28 2018,FC Porto,2-0,Cd Feirense
+Sun Oct 28 2018,Sporting CP,3-0,Boavista Porto
+Fri Nov 2 2018,Sl Benfica,1-3,Moreirense FC
+Sat Nov 3 2018,Portimonense SC,1-1,Os Belenenses
+Sat Nov 3 2018,CS Maritimo,0-2,FC Porto
+Sat Nov 3 2018,Boavista Porto,0-0,Vitoria Guimaraes
+Sun Nov 4 2018,Cd Feirense,2-4,CD Tondela
+Sun Nov 4 2018,CD Santa Clara,1-2,Sporting CP
+Sun Nov 4 2018,Sporting Braga,2-1,Vitoria Setubal
+Mon Nov 5 2018,Rio Ave FC,3-3,CD Nacional
+Mon Nov 5 2018,GD Chaves,1-2,CD Aves
+Fri Nov 9 2018,Moreirense FC,2-0,Portimonense SC
+Fri Nov 9 2018,Vitoria Setubal,2-1,Cd Feirense
+Sat Nov 10 2018,Os Belenenses,0-0,Boavista Porto
+Sat Nov 10 2018,CD Aves,2-1,Rio Ave FC
+Sat Nov 10 2018,CD Nacional,1-0,CS Maritimo
+Sat Nov 10 2018,FC Porto,1-0,Sporting Braga
+Sun Nov 11 2018,Vitoria Guimaraes,2-0,CD Santa Clara
+Sun Nov 11 2018,CD Tondela,1-3,Sl Benfica
+Sun Nov 11 2018,Sporting CP,2-1,GD Chaves
+Fri Nov 30 2018,CD Santa Clara,2-3,Os Belenenses
+Sat Dec 1 2018,CS Maritimo,0-1,Vitoria Setubal
+Sat Dec 1 2018,Sl Benfica,4-0,Cd Feirense
+Sat Dec 1 2018,Sporting Braga,2-0,Moreirense FC
+Sun Dec 2 2018,Portimonense SC,3-2,CD Tondela
+Sun Dec 2 2018,CD Aves,2-3,CD Nacional
+Sun Dec 2 2018,GD Chaves,0-1,Vitoria Guimaraes
+Sun Dec 2 2018,Boavista Porto,0-1,FC Porto
+Mon Dec 3 2018,Rio Ave FC,1-3,Sporting CP
+Fri Dec 7 2018,FC Porto,4-1,Portimonense SC
+Sat Dec 8 2018,Os Belenenses,1-0,GD Chaves
+Sat Dec 8 2018,CD Tondela,0-1,Sporting Braga
+Sat Dec 8 2018,Vitoria Setubal,0-1,Sl Benfica
+Sun Dec 9 2018,CD Nacional,0-0,Boavista Porto
+Sun Dec 9 2018,Moreirense FC,0-1,CD Santa Clara
+Sun Dec 9 2018,Vitoria Guimaraes,3-2,Rio Ave FC
+Sun Dec 9 2018,Sporting CP,4-1,CD Aves
+Mon Dec 10 2018,Cd Feirense,1-1,CS Maritimo
+Fri Dec 14 2018,Portimonense SC,3-1,Vitoria Setubal
+Fri Dec 14 2018,Sporting Braga,4-0,Cd Feirense
+Sat Dec 15 2018,GD Chaves,1-2,Moreirense FC
+Sat Dec 15 2018,Boavista Porto,2-0,CD Tondela
+Sat Dec 15 2018,CD Aves,1-1,Vitoria Guimaraes
+Sat Dec 15 2018,CD Santa Clara,1-2,FC Porto
+Sun Dec 16 2018,Rio Ave FC,2-2,Os Belenenses
+Sun Dec 16 2018,CS Maritimo,0-1,Sl Benfica
+Sun Dec 16 2018,Sporting CP,5-2,CD Nacional
+Sat Dec 22 2018,Vitoria Setubal,0-2,CD Santa Clara
+Sat Dec 22 2018,CD Tondela,2-1,CS Maritimo
+Sat Dec 22 2018,Cd Feirense,0-1,Portimonense SC
+Sat Dec 22 2018,Os Belenenses,5-2,CD Aves
+Sat Dec 22 2018,Moreirense FC,2-1,Boavista Porto
+Sun Dec 23 2018,CD Nacional,2-0,GD Chaves
+Sun Dec 23 2018,FC Porto,2-1,Rio Ave FC
+Sun Dec 23 2018,Sl Benfica,6-2,Sporting Braga
+Sun Dec 23 2018,Vitoria Guimaraes,1-0,Sporting CP
+Wed Jan 2 2019,CD Santa Clara,1-2,CD Tondela
+Wed Jan 2 2019,CD Nacional,1-0,Vitoria Guimaraes
+Wed Jan 2 2019,Boavista Porto,1-0,Vitoria Setubal
+Wed Jan 2 2019,Sporting Braga,2-0,CS Maritimo
+Wed Jan 2 2019,Portimonense SC,2-0,Sl Benfica
+Wed Jan 2 2019,Rio Ave FC,1-2,Moreirense FC
+Thu Jan 3 2019,GD Chaves,0-0,Cd Feirense
+Thu Jan 3 2019,Sporting CP,2-1,Os Belenenses
+Thu Jan 3 2019,CD Aves,0-1,FC Porto
+Sat Jan 5 2019,CS Maritimo,2-1,Portimonense SC
+Sun Jan 6 2019,Vitoria Setubal,0-0,GD Chaves
+Sun Jan 6 2019,Cd Feirense,2-2,CD Santa Clara
+Sun Jan 6 2019,Os Belenenses,1-0,Vitoria Guimaraes
+Sun Jan 6 2019,Sl Benfica,4-2,Rio Ave FC
+Sun Jan 6 2019,Sporting Braga,1-0,Boavista Porto
+Mon Jan 7 2019,Moreirense FC,1-0,CD Aves
+Mon Jan 7 2019,CD Tondela,2-1,Sporting CP
+Mon Jan 7 2019,FC Porto,3-1,CD Nacional
+Thu Jan 10 2019,Portimonense SC,1-1,Sporting Braga
+Fri Jan 11 2019,CD Santa Clara,0-2,Sl Benfica
+Fri Jan 11 2019,CD Aves,1-1,Cd Feirense
+Fri Jan 11 2019,Vitoria Guimaraes,1-0,Moreirense FC
+Sat Jan 12 2019,Sporting CP,0-0,FC Porto
+Sat Jan 12 2019,Boavista Porto,0-1,CS Maritimo
+Sun Jan 13 2019,CD Nacional,0-1,Os Belenenses
+Sun Jan 13 2019,GD Chaves,2-1,CD Tondela
+Sun Jan 13 2019,Rio Ave FC,1-1,Vitoria Setubal
+Fri Jan 18 2019,CD Nacional,0-3,Sporting Braga
+Fri Jan 18 2019,GD Chaves,1-4,FC Porto
+Fri Jan 18 2019,Vitoria Guimaraes,0-1,Sl Benfica
+Sat Jan 19 2019,Os Belenenses,2-2,CD Tondela
+Sat Jan 19 2019,Sporting CP,2-1,Moreirense FC
+Sat Jan 19 2019,CD Santa Clara,0-1,CS Maritimo
+Sun Jan 20 2019,CD Aves,2-1,Vitoria Setubal
+Sun Jan 20 2019,Boavista Porto,0-2,Portimonense SC
+Sun Jan 20 2019,Rio Ave FC,0-0,Cd Feirense
+Mon Jan 28 2019,CS Maritimo,0-2,Rio Ave FC
+Mon Jan 28 2019,Moreirense FC,2-1,CD Nacional
+Mon Jan 28 2019,CD Tondela,0-2,CD Aves
+Mon Jan 28 2019,Cd Feirense,1-2,Vitoria Guimaraes
+Tue Jan 29 2019,Portimonense SC,0-1,GD Chaves
+Tue Jan 29 2019,Sl Benfica,5-1,Boavista Porto
+Tue Jan 29 2019,Sporting Braga,1-0,CD Santa Clara
+Wed Jan 30 2019,Vitoria Setubal,1-1,Sporting CP
+Wed Jan 30 2019,FC Porto,3-0,Os Belenenses
+Fri Feb 1 2019,Rio Ave FC,2-2,CD Tondela
+Sat Feb 2 2019,GD Chaves,1-0,CS Maritimo
+Sat Feb 2 2019,Boavista Porto,2-0,Cd Feirense
+Sat Feb 2 2019,CD Aves,0-2,Sporting Braga
+Sun Feb 3 2019,CD Nacional,0-0,Vitoria Setubal
+Sun Feb 3 2019,CD Santa Clara,2-1,Portimonense SC
+Sun Feb 3 2019,Sporting CP,2-4,Sl Benfica
+Sun Feb 3 2019,Vitoria Guimaraes,0-0,FC Porto
+Mon Feb 4 2019,Os Belenenses,0-1,Moreirense FC
+Fri Feb 8 2019,Moreirense FC,1-1,FC Porto
+Sat Feb 9 2019,CS Maritimo,0-1,CD Aves
+Sat Feb 9 2019,Portimonense SC,0-1,Rio Ave FC
+Sat Feb 9 2019,CD Tondela,1-0,Vitoria Guimaraes
+Sun Feb 10 2019,Sporting Braga,2-1,GD Chaves
+Sun Feb 10 2019,Boavista Porto,1-0,CD Santa Clara
+Sun Feb 10 2019,Sl Benfica,10-0,CD Nacional
+Sun Feb 10 2019,Cd Feirense,1-3,Sporting CP
+Mon Feb 11 2019,Vitoria Setubal,0-0,Os Belenenses
+Fri Feb 15 2019,Rio Ave FC,1-2,CD Santa Clara
+Sat Feb 16 2019,CD Nacional,4-0,Cd Feirense
+Sat Feb 16 2019,Vitoria Guimaraes,2-0,Portimonense SC
+Sat Feb 16 2019,FC Porto,2-0,Vitoria Setubal
+Sun Feb 17 2019,Moreirense FC,2-0,CD Tondela
+Sun Feb 17 2019,Os Belenenses,0-1,CS Maritimo
+Sun Feb 17 2019,GD Chaves,1-1,Boavista Porto
+Sun Feb 17 2019,Sporting CP,3-0,Sporting Braga
+Mon Feb 18 2019,CD Aves,0-3,Sl Benfica
+Fri Feb 22 2019,Sporting Braga,0-2,Os Belenenses
+Fri Feb 22 2019,CD Tondela,0-3,FC Porto
+Sat Feb 23 2019,Cd Feirense,1-3,Moreirense FC
+Sat Feb 23 2019,Portimonense SC,1-1,CD Aves
+Sat Feb 23 2019,Vitoria Setubal,1-1,Vitoria Guimaraes
+Sun Feb 24 2019,CD Santa Clara,2-0,CD Nacional
+Sun Feb 24 2019,Boavista Porto,1-0,Rio Ave FC
+Mon Feb 25 2019,CS Maritimo,0-0,Sporting CP
+Mon Feb 25 2019,Sl Benfica,4-0,GD Chaves
+Fri Mar 1 2019,CD Aves,2-0,Boavista Porto
+Sat Mar 2 2019,CD Nacional,3-2,CD Tondela
+Sat Mar 2 2019,Moreirense FC,1-1,Vitoria Setubal
+Sat Mar 2 2019,FC Porto,1-2,Sl Benfica
+Sun Mar 3 2019,GD Chaves,0-0,CD Santa Clara
+Sun Mar 3 2019,Os Belenenses,4-0,Cd Feirense
+Sun Mar 3 2019,Rio Ave FC,1-2,Sporting Braga
+Sun Mar 3 2019,Sporting CP,3-1,Portimonense SC
+Mon Mar 4 2019,Vitoria Guimaraes,1-0,CS Maritimo
+Fri Mar 8 2019,GD Chaves,1-1,Rio Ave FC
+Sat Mar 9 2019,CS Maritimo,3-2,Moreirense FC
+Sat Mar 9 2019,Sporting Braga,1-0,Vitoria Guimaraes
+Sat Mar 9 2019,Boavista Porto,1-2,Sporting CP
+Sun Mar 10 2019,CD Santa Clara,0-0,CD Aves
+Sun Mar 10 2019,Portimonense SC,5-1,CD Nacional
+Sun Mar 10 2019,Vitoria Setubal,0-0,CD Tondela
+Sun Mar 10 2019,Cd Feirense,1-2,FC Porto
+Mon Mar 11 2019,Sl Benfica,2-2,Os Belenenses
+Fri Mar 15 2019,Sporting CP,1-0,CD Santa Clara
+Sat Mar 16 2019,Os Belenenses,2-2,Portimonense SC
+Sat Mar 16 2019,Vitoria Setubal,0-1,Sporting Braga
+Sat Mar 16 2019,Vitoria Guimaraes,3-1,Boavista Porto
+Sat Mar 16 2019,FC Porto,3-0,CS Maritimo
+Sun Mar 17 2019,CD Aves,0-1,GD Chaves
+Sun Mar 17 2019,CD Nacional,0-1,Rio Ave FC
+Sun Mar 17 2019,Moreirense FC,0-4,Sl Benfica
+Sun Mar 17 2019,CD Tondela,1-1,Cd Feirense
+Fri Mar 29 2019,Portimonense SC,0-2,Moreirense FC
+Sat Mar 30 2019,Sporting Braga,2-3,FC Porto
+Sat Mar 30 2019,GD Chaves,1-3,Sporting CP
+Sat Mar 30 2019,CD Santa Clara,1-0,Vitoria Guimaraes
+Sat Mar 30 2019,Sl Benfica,1-0,CD Tondela
+Sun Mar 31 2019,CS Maritimo,3-2,CD Nacional
+Sun Mar 31 2019,Rio Ave FC,0-2,CD Aves
+Sun Mar 31 2019,Boavista Porto,2-0,Os Belenenses
+Mon Apr 1 2019,Cd Feirense,0-1,Vitoria Setubal
+Fri Apr 5 2019,FC Porto,2-0,Boavista Porto
+Sat Apr 6 2019,Os Belenenses,1-1,CD Santa Clara
+Sat Apr 6 2019,CD Nacional,0-0,CD Aves
+Sat Apr 6 2019,Vitoria Guimaraes,4-0,GD Chaves
+Sat Apr 6 2019,Moreirense FC,1-0,Sporting Braga
+Sun Apr 7 2019,Vitoria Setubal,1-0,CS Maritimo
+Sun Apr 7 2019,Cd Feirense,1-4,Sl Benfica
+Sun Apr 7 2019,Sporting CP,3-0,Rio Ave FC
+Mon Apr 8 2019,CD Tondela,3-2,Portimonense SC
+Fri Apr 12 2019,GD Chaves,2-2,Os Belenenses
+Sat Apr 13 2019,CD Santa Clara,1-1,Moreirense FC
+Sat Apr 13 2019,Portimonense SC,0-3,FC Porto
+Sat Apr 13 2019,CD Aves,1-3,Sporting CP
+Sun Apr 14 2019,Rio Ave FC,2-1,Vitoria Guimaraes
+Sun Apr 14 2019,CS Maritimo,2-0,Cd Feirense
+Sun Apr 14 2019,Boavista Porto,1-0,CD Nacional
+Sun Apr 14 2019,Sporting Braga,3-0,CD Tondela
+Sun Apr 14 2019,Sl Benfica,4-2,Vitoria Setubal
+Fri Apr 19 2019,Vitoria Setubal,1-1,Portimonense SC
+Fri Apr 19 2019,CD Tondela,1-0,Boavista Porto
+Fri Apr 19 2019,CD Nacional,0-1,Sporting CP
+Fri Apr 19 2019,Vitoria Guimaraes,0-2,CD Aves
+Sat Apr 20 2019,Os Belenenses,1-3,Rio Ave FC
+Sat Apr 20 2019,Moreirense FC,0-1,GD Chaves
+Sat Apr 20 2019,Cd Feirense,0-2,Sporting Braga
+Sat Apr 20 2019,FC Porto,1-0,CD Santa Clara
+Mon Apr 22 2019,Sl Benfica,6-0,CS Maritimo
+Fri Apr 26 2019,Rio Ave FC,2-2,FC Porto
+Sat Apr 27 2019,CD Santa Clara,0-0,Vitoria Setubal
+Sat Apr 27 2019,Portimonense SC,1-0,Cd Feirense
+Sat Apr 27 2019,Sporting CP,2-0,Vitoria Guimaraes
+Sat Apr 27 2019,CD Aves,3-0,Os Belenenses
+Sun Apr 28 2019,GD Chaves,4-1,CD Nacional
+Sun Apr 28 2019,CS Maritimo,2-0,CD Tondela
+Sun Apr 28 2019,Sporting Braga,1-4,Sl Benfica
+Sun Apr 28 2019,Boavista Porto,3-1,Moreirense FC
+Fri May 3 2019,Moreirense FC,1-2,Rio Ave FC
+Sat May 4 2019,Cd Feirense,4-4,GD Chaves
+Sat May 4 2019,CS Maritimo,1-0,Sporting Braga
+Sat May 4 2019,Sl Benfica,5-1,Portimonense SC
+Sat May 4 2019,FC Porto,4-0,CD Aves
+Sun May 5 2019,CD Tondela,1-3,CD Santa Clara
+Sun May 5 2019,Os Belenenses,1-8,Sporting CP
+Sun May 5 2019,Vitoria Guimaraes,2-2,CD Nacional
+Mon May 6 2019,Vitoria Setubal,0-3,Boavista Porto
+Fri May 10 2019,CD Aves,0-1,Moreirense FC
+Sat May 11 2019,CD Santa Clara,4-4,Cd Feirense
+Sat May 11 2019,Portimonense SC,3-2,CS Maritimo
+Sat May 11 2019,Boavista Porto,4-2,Sporting Braga
+Sat May 11 2019,Sporting CP,1-1,CD Tondela
+Sun May 12 2019,GD Chaves,1-2,Vitoria Setubal
+Sun May 12 2019,Vitoria Guimaraes,5-1,Os Belenenses
+Sun May 12 2019,CD Nacional,0-4,FC Porto
+Sun May 12 2019,Rio Ave FC,2-3,Sl Benfica
+Thu May 16 2019,Os Belenenses,3-0,CD Nacional
+Fri May 17 2019,Sporting Braga,2-0,Portimonense SC
+Sat May 18 2019,Cd Feirense,2-1,CD Aves
+Sat May 18 2019,CS Maritimo,0-1,Boavista Porto
+Sat May 18 2019,Vitoria Setubal,1-3,Rio Ave FC
+Sat May 18 2019,Sl Benfica,4-1,CD Santa Clara
+Sat May 18 2019,FC Porto,2-1,Sporting CP
+Sun May 19 2019,CD Tondela,5-2,GD Chaves
+Sun May 19 2019,Moreirense FC,1-3,Vitoria Guimaraes

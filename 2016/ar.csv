@@ -1,0 +1,243 @@
+Date,Team 1,FT,Team 2
+Fri Feb 5 2016,CA Banfield,2-0,Gye La Plata
+Fri Feb 5 2016,Huracan,0-1,Atletico Rafaela
+Sat Feb 6 2016,Rosario Central,1-0,CD Godoy Cruz
+Sat Feb 6 2016,Aldosivi,3-0,Olimpo
+Sat Feb 6 2016,Argentinos Juniors,1-1,Tigre
+Sat Feb 6 2016,Patronato,2-2,San Lorenzo
+Sat Feb 6 2016,CA San Martin,2-1,Newells Old Boys
+Sun Feb 7 2016,CA Temperley,0-0,Boca Juniors
+Sun Feb 7 2016,Independiente,1-0,Belgrano Cordoba
+Sun Feb 7 2016,Defensa Y Justicia,2-2,Union De Santa Fe
+Sun Feb 7 2016,CA Colon,2-1,Arsenal Sarandi
+Mon Feb 8 2016,Atletico Tucuman,2-1,Racing Club
+Mon Feb 8 2016,Estudiantes,0-1,CA Lanus
+Mon Feb 8 2016,River Plate,5-1,Quilmes Ac
+Tue Feb 9 2016,Sarmiento De Junin,1-0,Velez Sarsfield
+Fri Feb 12 2016,Arsenal Sarandi,3-1,CA Banfield
+Fri Feb 12 2016,Union De Santa Fe,3-0,CA Temperley
+Sat Feb 13 2016,CD Godoy Cruz,1-1,Independiente
+Sat Feb 13 2016,Quilmes Ac,2-4,CA Colon
+Sat Feb 13 2016,San Lorenzo,2-1,Sarmiento De Junin
+Sat Feb 13 2016,Atletico Rafaela,0-1,Estudiantes
+Sat Feb 13 2016,Aldosivi,3-2,Argentinos Juniors
+Sun Feb 14 2016,Velez Sarsfield,2-1,Olimpo
+Sun Feb 14 2016,Racing Club,2-2,CA San Martin
+Sun Feb 14 2016,Rosario Central,2-0,Newells Old Boys
+Sun Feb 14 2016,CA Lanus,2-1,Defensa Y Justicia
+Sun Feb 14 2016,Gye La Plata,3-2,Patronato
+Sun Feb 14 2016,Boca Juniors,0-1,Atletico Tucuman
+Mon Feb 15 2016,Belgrano Cordoba,3-2,River Plate
+Tue Feb 16 2016,Olimpo,0-2,San Lorenzo
+Tue Feb 16 2016,CA Banfield,1-1,Quilmes Ac
+Wed Feb 17 2016,Argentinos Juniors,0-3,Velez Sarsfield
+Wed Feb 17 2016,Defensa Y Justicia,4-1,Atletico Rafaela
+Wed Feb 17 2016,Newells Old Boys,5-0,Racing Club
+Wed Feb 17 2016,Patronato,0-0,Arsenal Sarandi
+Wed Feb 17 2016,Independiente,0-2,Rosario Central
+Thu Feb 18 2016,CA San Martin,0-1,Boca Juniors
+Thu Feb 18 2016,Sarmiento De Junin,1-3,Gye La Plata
+Thu Feb 18 2016,Estudiantes,1-1,Tigre
+Thu Feb 18 2016,CA Colon,3-0,Belgrano Cordoba
+Thu Feb 18 2016,CA Temperley,0-1,CA Lanus
+Fri Feb 19 2016,River Plate,1-2,CD Godoy Cruz
+Fri Feb 19 2016,Atletico Tucuman,2-0,Union De Santa Fe
+Sat Feb 20 2016,San Lorenzo,3-2,Velez Sarsfield
+Sat Feb 20 2016,Gye La Plata,1-0,Olimpo
+Sun Feb 21 2016,Boca Juniors,4-1,Newells Old Boys
+Sun Feb 21 2016,Belgrano Cordoba,0-0,CA Banfield
+Sun Feb 21 2016,Tigre,0-2,Defensa Y Justicia
+Sun Feb 21 2016,CD Godoy Cruz,4-1,CA Colon
+Sun Feb 21 2016,Independiente,1-1,Racing Club
+Mon Feb 22 2016,Rosario Central,3-3,River Plate
+Mon Feb 22 2016,Quilmes Ac,2-2,Patronato
+Tue Feb 23 2016,Arsenal Sarandi,2-0,Sarmiento De Junin
+Tue Feb 23 2016,Union De Santa Fe,1-1,CA San Martin
+Tue Feb 23 2016,Atletico Rafaela,0-2,CA Temperley
+Wed Feb 24 2016,CA Lanus,1-0,Atletico Tucuman
+Wed Feb 24 2016,Aldosivi,1-2,Estudiantes
+Fri Feb 26 2016,Newells Old Boys,1-1,Union De Santa Fe
+Sat Feb 27 2016,CA Banfield,2-3,CD Godoy Cruz
+Sat Feb 27 2016,Sarmiento De Junin,2-2,Quilmes Ac
+Sat Feb 27 2016,Estudiantes,4-1,Argentinos Juniors
+Sat Feb 27 2016,Huracan,1-1,San Lorenzo
+Sat Feb 27 2016,Defensa Y Justicia,4-0,Aldosivi
+Sun Feb 28 2016,Patronato,2-1,Belgrano Cordoba
+Sun Feb 28 2016,CA Colon,0-3,Rosario Central
+Sun Feb 28 2016,Olimpo,2-1,Arsenal Sarandi
+Sun Feb 28 2016,Atletico Tucuman,3-0,Atletico Rafaela
+Sun Feb 28 2016,Racing Club,1-0,Boca Juniors
+Mon Feb 29 2016,CA San Martin,2-2,CA Lanus
+Mon Feb 29 2016,Velez Sarsfield,2-1,Gye La Plata
+Tue Mar 1 2016,River Plate,1-0,Independiente
+Tue Mar 1 2016,CA Temperley,2-0,Tigre
+Fri Mar 4 2016,Quilmes Ac,1-1,Olimpo
+Fri Mar 4 2016,Argentinos Juniors,1-5,Defensa Y Justicia
+Sat Mar 5 2016,Arsenal Sarandi,1-0,Velez Sarsfield
+Sat Mar 5 2016,CA Lanus,3-0,Newells Old Boys
+Sat Mar 5 2016,Atletico Rafaela,1-2,CA San Martin
+Sat Mar 5 2016,Huracan,1-0,Estudiantes
+Sat Mar 5 2016,Belgrano Cordoba,3-0,Sarmiento De Junin
+Sat Mar 5 2016,Gye La Plata,0-0,San Lorenzo
+Sun Mar 6 2016,Independiente,4-1,CA Colon
+Sun Mar 6 2016,River Plate,0-0,Boca Juniors
+Sun Mar 6 2016,Rosario Central,2-2,CA Banfield
+Sun Mar 6 2016,Aldosivi,1-1,CA Temperley
+Mon Mar 7 2016,Union De Santa Fe,3-6,Racing Club
+Mon Mar 7 2016,Tigre,5-0,Atletico Tucuman
+Tue Mar 8 2016,CD Godoy Cruz,3-1,Patronato
+Sat Mar 12 2016,Racing Club,2-1,CA Lanus
+Sat Mar 12 2016,Newells Old Boys,1-1,Atletico Rafaela
+Sat Mar 12 2016,Olimpo,2-0,Belgrano Cordoba
+Sat Mar 12 2016,Defensa Y Justicia,0-2,Huracan
+Sat Mar 12 2016,CA Banfield,1-3,Independiente
+Sat Mar 12 2016,CA San Martin,1-0,Tigre
+Sun Mar 13 2016,San Lorenzo,0-2,Arsenal Sarandi
+Sun Mar 13 2016,CA Temperley,0-0,Argentinos Juniors
+Sun Mar 13 2016,Patronato,1-0,Rosario Central
+Sun Mar 13 2016,Estudiantes,3-0,Gye La Plata
+Mon Mar 14 2016,CA Colon,4-1,River Plate
+Mon Mar 14 2016,Atletico Tucuman,1-1,Aldosivi
+Mon Mar 14 2016,Sarmiento De Junin,0-0,CD Godoy Cruz
+Tue Mar 15 2016,Boca Juniors,2-1,Union De Santa Fe
+Thu Mar 17 2016,Tigre,1-2,Huracan
+Fri Mar 18 2016,Arsenal Sarandi,0-1,Gye La Plata
+Fri Mar 18 2016,Aldosivi,2-2,CA San Martin
+Sat Mar 19 2016,Estudiantes,2-1,Defensa Y Justicia
+Sat Mar 19 2016,Belgrano Cordoba,2-3,Velez Sarsfield
+Sat Mar 19 2016,CA Colon,0-3,Union De Santa Fe
+Sat Mar 19 2016,CD Godoy Cruz,1-0,Olimpo
+Sat Mar 19 2016,Argentinos Juniors,0-3,Atletico Tucuman
+Sun Mar 20 2016,Independiente,2-1,Patronato
+Sun Mar 20 2016,Quilmes Ac,3-0,San Lorenzo
+Sun Mar 20 2016,River Plate,1-1,CA Banfield
+Sun Mar 20 2016,Huracan,4-2,CA Temperley
+Mon Mar 21 2016,CA Lanus,2-0,Boca Juniors
+Mon Mar 21 2016,Rosario Central,1-0,Sarmiento De Junin
+Tue Mar 22 2016,Atletico Rafaela,3-6,Racing Club
+Tue Mar 22 2016,Tigre,3-3,Newells Old Boys
+Thu Mar 24 2016,Huracan,2-0,Aldosivi
+Mon Mar 28 2016,Velez Sarsfield,1-2,Quilmes Ac
+Tue Mar 29 2016,Argentinos Juniors,0-0,Huracan
+Sat Apr 2 2016,Atletico Tucuman,2-1,Huracan
+Sat Apr 2 2016,Olimpo,1-1,Rosario Central
+Sat Apr 2 2016,CA Temperley,1-3,Estudiantes
+Sat Apr 2 2016,Racing Club,3-3,Tigre
+Sat Apr 2 2016,Boca Juniors,3-0,Atletico Rafaela
+Sun Apr 3 2016,Patronato,2-1,River Plate
+Sun Apr 3 2016,CA Banfield,1-1,CA Colon
+Sun Apr 3 2016,Newells Old Boys,1-1,Aldosivi
+Sun Apr 3 2016,San Lorenzo,3-2,Belgrano Cordoba
+Sun Apr 3 2016,CA San Martin,2-0,Argentinos Juniors
+Sun Apr 3 2016,Defensa Y Justicia,0-1,Arsenal Sarandi
+Mon Apr 4 2016,Velez Sarsfield,1-4,CD Godoy Cruz
+Mon Apr 4 2016,Sarmiento De Junin,0-0,Independiente
+Tue Apr 5 2016,Gye La Plata,1-0,Quilmes Ac
+Tue Apr 5 2016,Union De Santa Fe,0-4,CA Lanus
+Sat Apr 9 2016,CA Colon,2-2,Patronato
+Sat Apr 9 2016,CD Godoy Cruz,0-1,San Lorenzo
+Sat Apr 9 2016,Huracan,4-3,CA San Martin
+Sat Apr 9 2016,River Plate,2-2,Sarmiento De Junin
+Sat Apr 9 2016,Defensa Y Justicia,2-1,CA Temperley
+Sun Apr 10 2016,Independiente,0-0,Olimpo
+Sun Apr 10 2016,CA Banfield,0-2,CA Lanus
+Sun Apr 10 2016,Argentinos Juniors,0-0,Newells Old Boys
+Sun Apr 10 2016,Rosario Central,2-3,Velez Sarsfield
+Sun Apr 10 2016,Aldosivi,2-1,Racing Club
+Mon Apr 11 2016,Belgrano Cordoba,3-0,Gye La Plata
+Mon Apr 11 2016,Tigre,2-0,Boca Juniors
+Tue Apr 12 2016,Quilmes Ac,1-4,Arsenal Sarandi
+Tue Apr 12 2016,Atletico Rafaela,1-1,Union De Santa Fe
+Tue Apr 12 2016,Estudiantes,3-2,Atletico Tucuman
+Sat Apr 16 2016,Sarmiento De Junin,1-0,CA Colon
+Sat Apr 16 2016,Gye La Plata,2-2,CD Godoy Cruz
+Sat Apr 16 2016,CA Lanus,2-1,Atletico Rafaela
+Sat Apr 16 2016,Atletico Tucuman,3-1,Defensa Y Justicia
+Sat Apr 16 2016,Newells Old Boys,1-0,Huracan
+Sat Apr 16 2016,Boca Juniors,4-1,Aldosivi
+Sat Apr 16 2016,Union De Santa Fe,1-0,Tigre
+Sun Apr 17 2016,Racing Club,2-2,Argentinos Juniors
+Sun Apr 17 2016,San Lorenzo,2-1,Rosario Central
+Sun Apr 17 2016,Velez Sarsfield,0-2,Independiente
+Sun Apr 17 2016,CA Temperley,2-0,Quilmes Ac
+Sun Apr 17 2016,CA San Martin,0-2,Estudiantes
+Mon Apr 18 2016,Olimpo,0-1,River Plate
+Mon Apr 18 2016,Patronato,0-2,CA Banfield
+Tue Apr 19 2016,Arsenal Sarandi,3-3,Belgrano Cordoba
+Sat Apr 23 2016,Atletico Rafaela,3-1,Patronato
+Sat Apr 23 2016,Olimpo,2-1,Aldosivi
+Sat Apr 23 2016,Velez Sarsfield,1-0,Argentinos Juniors
+Sat Apr 23 2016,Union De Santa Fe,1-0,CA Colon
+Sat Apr 23 2016,Arsenal Sarandi,0-0,Defensa Y Justicia
+Sat Apr 23 2016,San Lorenzo,1-0,Huracan
+Sat Apr 23 2016,CD Godoy Cruz,1-0,CA San Martin
+Sat Apr 23 2016,CA Lanus,2-0,CA Banfield
+Sun Apr 24 2016,Gye La Plata,0-0,Estudiantes
+Sun Apr 24 2016,Newells Old Boys,0-0,Rosario Central
+Sun Apr 24 2016,Boca Juniors,0-0,River Plate
+Sun Apr 24 2016,Racing Club,0-0,Independiente
+Mon Apr 25 2016,Belgrano Cordoba,0-0,Atletico Tucuman
+Tue Apr 26 2016,Tigre,2-0,Sarmiento De Junin
+Tue Apr 26 2016,Quilmes Ac,2-0,CA Temperley
+Sat Apr 30 2016,Aldosivi,1-1,Union De Santa Fe
+Sat Apr 30 2016,Estudiantes,0-0,Newells Old Boys
+Sat Apr 30 2016,CA Colon,3-1,Olimpo
+Sat Apr 30 2016,Patronato,2-1,Atletico Rafaela
+Sat Apr 30 2016,Independiente,0-1,San Lorenzo
+Sat Apr 30 2016,Belgrano Cordoba,2-2,Quilmes Ac
+Sat Apr 30 2016,River Plate,0-0,Velez Sarsfield
+Sat Apr 30 2016,CD Godoy Cruz,2-0,Arsenal Sarandi
+Sat Apr 30 2016,Huracan,0-1,Racing Club
+Sun May 1 2016,Defensa Y Justicia,0-0,CA San Martin
+Sun May 1 2016,Argentinos Juniors,1-0,Boca Juniors
+Mon May 2 2016,Rosario Central,0-1,Gye La Plata
+Tue May 3 2016,Tigre,0-1,CA Lanus
+Tue May 3 2016,CA Temperley,1-1,Atletico Tucuman
+Wed May 4 2016,CA Banfield,0-0,Sarmiento De Junin
+Sat May 7 2016,Union De Santa Fe,4-0,Argentinos Juniors
+Sat May 7 2016,Quilmes Ac,1-3,CD Godoy Cruz
+Sat May 7 2016,CA San Martin,2-0,CA Temperley
+Sat May 7 2016,Newells Old Boys,0-1,Defensa Y Justicia
+Sat May 7 2016,Velez Sarsfield,2-0,CA Colon
+Sat May 7 2016,San Lorenzo,2-1,River Plate
+Sun May 8 2016,Racing Club,0-0,Estudiantes
+Sun May 8 2016,Arsenal Sarandi,1-0,Rosario Central
+Sun May 8 2016,CA Lanus,2-0,Aldosivi
+Sun May 8 2016,Atletico Tucuman,2-1,Belgrano Cordoba
+Sun May 8 2016,Boca Juniors,0-0,Huracan
+Mon May 9 2016,Atletico Rafaela,0-0,Tigre
+Mon May 9 2016,Gye La Plata,3-3,Independiente
+Tue May 10 2016,Olimpo,1-1,CA Banfield
+Tue May 10 2016,Sarmiento De Junin,1-0,Patronato
+Sat May 14 2016,Huracan,1-1,Union De Santa Fe
+Sat May 14 2016,Defensa Y Justicia,2-1,Racing Club
+Sat May 14 2016,Atletico Tucuman,3-2,CA San Martin
+Sat May 14 2016,CA Colon,0-2,San Lorenzo
+Sat May 14 2016,CD Godoy Cruz,1-0,Belgrano Cordoba
+Sat May 14 2016,River Plate,1-0,Gye La Plata
+Sun May 15 2016,Independiente,2-0,Arsenal Sarandi
+Sun May 15 2016,Sarmiento De Junin,0-1,Tigre
+Sun May 15 2016,Argentinos Juniors,1-1,CA Lanus
+Sun May 15 2016,CA Temperley,2-0,Newells Old Boys
+Sun May 15 2016,Rosario Central,1-1,Quilmes Ac
+Sun May 15 2016,Aldosivi,2-1,Atletico Rafaela
+Mon May 16 2016,Estudiantes,3-1,Boca Juniors
+Tue May 17 2016,Patronato,1-0,Olimpo
+Tue May 17 2016,CA Banfield,0-0,Velez Sarsfield
+Sat May 21 2016,Arsenal Sarandi,2-1,River Plate
+Sat May 21 2016,Tigre,2-0,Aldosivi
+Sat May 21 2016,Olimpo,0-1,Sarmiento De Junin
+Sat May 21 2016,Atletico Rafaela,0-2,Argentinos Juniors
+Sat May 21 2016,Racing Club,2-0,CA Temperley
+Sun May 22 2016,Quilmes Ac,0-3,Independiente
+Sun May 22 2016,Velez Sarsfield,0-0,Patronato
+Sun May 22 2016,San Lorenzo,1-1,CA Banfield
+Sun May 22 2016,CA San Martin,2-0,CD Godoy Cruz
+Sun May 22 2016,Newells Old Boys,2-1,Atletico Tucuman
+Sun May 22 2016,Boca Juniors,0-0,Defensa Y Justicia
+Sun May 22 2016,Union De Santa Fe,1-1,Estudiantes
+Mon May 23 2016,CA Lanus,1-3,Huracan
+Tue May 24 2016,Belgrano Cordoba,1-0,Rosario Central
+Tue May 24 2016,Gye La Plata,3-0,CA Colon
+Sat May 28 2016,CD Godoy Cruz,0-1,Estudiantes
+Sun May 29 2016,San Lorenzo,0-4,CA Lanus

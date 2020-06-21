@@ -1,0 +1,418 @@
+Date,Team 1,FT,Team 2
+Fri Aug 7 1992,Huracan,3-3,Independiente
+Sun Aug 9 1992,River Plate,0-1,Rosario Central
+Sun Aug 9 1992,Racing Club,1-1,CA Lanus
+Sun Aug 9 1992,Platense,2-0,Talleres Cordoba
+Sun Aug 9 1992,Gye La Plata,1-1,San Lorenzo
+Sun Aug 9 1992,Ferro Carril Oeste,0-0,Estudiantes
+Sun Aug 9 1992,Deportivo Mandiyu,0-0,Boca Juniors
+Fri Aug 14 1992,Boca Juniors,2-0,Belgrano Cordoba
+Sun Aug 16 1992,Talleres Cordoba,1-0,Deportivo Mandiyu
+Sun Aug 16 1992,San Lorenzo,1-1,Racing Club
+Sun Aug 16 1992,CA Lanus,1-1,Platense
+Sun Aug 16 1992,Independiente,2-0,Ferro Carril Oeste
+Sun Aug 16 1992,Estudiantes,0-1,River Plate
+Sun Aug 16 1992,Deportivo Espanol,0-1,Huracan
+Sun Aug 16 1992,Argentinos Juniors,2-1,Gye La Plata
+Fri Aug 21 1992,Platense,0-1,San Lorenzo
+Sun Aug 23 1992,Velez Sarsfield,1-0,Belgrano Cordoba
+Sun Aug 23 1992,Talleres Cordoba,0-0,Boca Juniors
+Sun Aug 23 1992,River Plate,3-0,Independiente
+Sun Aug 23 1992,Racing Club,1-0,Argentinos Juniors
+Sun Aug 23 1992,Newells Old Boys,0-3,Estudiantes
+Sun Aug 23 1992,Huracan,2-0,San Martin Tucuman
+Sun Aug 23 1992,Gye La Plata,2-1,Rosario Central
+Sun Aug 23 1992,Ferro Carril Oeste,1-1,Deportivo Espanol
+Sun Aug 23 1992,Deportivo Mandiyu,1-5,CA Lanus
+Fri Aug 28 1992,Independiente,1-0,Newells Old Boys
+Mon Aug 31 1992,CA Lanus,1-1,Talleres Cordoba
+Tue Sep 1 1992,San Lorenzo,2-3,Deportivo Mandiyu
+Tue Sep 1 1992,Deportivo Espanol,0-2,River Plate
+Wed Sep 2 1992,San Martin Tucuman,0-0,Ferro Carril Oeste
+Wed Sep 2 1992,Rosario Central,1-0,Racing Club
+Wed Sep 2 1992,Boca Juniors,3-2,Velez Sarsfield
+Wed Sep 2 1992,Belgrano Cordoba,1-3,Huracan
+Wed Sep 2 1992,Argentinos Juniors,1-1,Platense
+Fri Sep 4 1992,River Plate,0-0,San Martin Tucuman
+Sat Sep 5 1992,CA Lanus,0-2,Boca Juniors
+Sun Sep 6 1992,Talleres Cordoba,1-3,San Lorenzo
+Sun Sep 6 1992,Racing Club,1-0,Estudiantes
+Sun Sep 6 1992,Platense,1-2,Rosario Central
+Sun Sep 6 1992,Newells Old Boys,1-1,Deportivo Espanol
+Sun Sep 6 1992,Huracan,0-2,Velez Sarsfield
+Sun Sep 6 1992,Gye La Plata,2-0,Independiente
+Sun Sep 6 1992,Ferro Carril Oeste,3-0,Belgrano Cordoba
+Sun Sep 6 1992,Deportivo Mandiyu,1-1,Argentinos Juniors
+Fri Sep 11 1992,San Lorenzo,1-0,CA Lanus
+Sun Sep 13 1992,Velez Sarsfield,0-0,Ferro Carril Oeste
+Sun Sep 13 1992,San Martin Tucuman,0-0,Newells Old Boys
+Sun Sep 13 1992,Rosario Central,1-2,Deportivo Mandiyu
+Sun Sep 13 1992,Independiente,1-1,Racing Club
+Sun Sep 13 1992,Estudiantes,2-1,Platense
+Sun Sep 13 1992,Deportivo Espanol,3-1,Gye La Plata
+Sun Sep 13 1992,Boca Juniors,2-2,Huracan
+Sun Sep 13 1992,Belgrano Cordoba,0-0,River Plate
+Sun Sep 13 1992,Argentinos Juniors,2-2,Talleres Cordoba
+Wed Sep 16 1992,Newells Old Boys,0-1,Argentinos Juniors
+Fri Sep 18 1992,River Plate,0-0,Velez Sarsfield
+Sat Sep 19 1992,Platense,0-0,Independiente
+Sun Sep 20 1992,Talleres Cordoba,1-0,Rosario Central
+Sun Sep 20 1992,San Lorenzo,0-1,Boca Juniors
+Sun Sep 20 1992,Racing Club,0-1,Deportivo Espanol
+Sun Sep 20 1992,Newells Old Boys,1-3,Belgrano Cordoba
+Sun Sep 20 1992,CA Lanus,0-0,Argentinos Juniors
+Sun Sep 20 1992,Gye La Plata,1-3,San Martin Tucuman
+Sun Sep 20 1992,Ferro Carril Oeste,0-0,Huracan
+Sun Sep 20 1992,Deportivo Mandiyu,0-0,Estudiantes
+Fri Sep 25 1992,Estudiantes,0-2,Talleres Cordoba
+Sat Sep 26 1992,Boca Juniors,0-0,Ferro Carril Oeste
+Sun Sep 27 1992,Velez Sarsfield,2-0,Newells Old Boys
+Sun Sep 27 1992,San Martin Tucuman,1-0,Racing Club
+Sun Sep 27 1992,Rosario Central,2-0,CA Lanus
+Sun Sep 27 1992,Independiente,1-1,Deportivo Mandiyu
+Sun Sep 27 1992,Huracan,0-2,River Plate
+Sun Sep 27 1992,Deportivo Espanol,0-0,Platense
+Sun Sep 27 1992,Belgrano Cordoba,2-0,Gye La Plata
+Sun Sep 27 1992,Argentinos Juniors,1-1,San Lorenzo
+Wed Sep 30 1992,Belgrano Cordoba,2-2,San Martin Tucuman
+Fri Oct 2 1992,San Lorenzo,3-0,Rosario Central
+Sat Oct 3 1992,Newells Old Boys,2-0,Huracan
+Sun Oct 4 1992,Talleres Cordoba,0-0,Independiente
+Sun Oct 4 1992,River Plate,2-1,Ferro Carril Oeste
+Sun Oct 4 1992,Racing Club,0-1,Belgrano Cordoba
+Sun Oct 4 1992,Platense,0-0,San Martin Tucuman
+Sun Oct 4 1992,CA Lanus,1-0,Estudiantes
+Sun Oct 4 1992,Gye La Plata,0-1,Velez Sarsfield
+Sun Oct 4 1992,Deportivo Mandiyu,2-1,Deportivo Espanol
+Sun Oct 4 1992,Argentinos Juniors,0-1,Boca Juniors
+Wed Oct 7 1992,Rosario Central,2-1,Newells Old Boys
+Sun Oct 11 1992,Velez Sarsfield,0-1,Racing Club
+Sun Oct 11 1992,San Martin Tucuman,3-1,Deportivo Mandiyu
+Sun Oct 11 1992,Rosario Central,1-1,Argentinos Juniors
+Sun Oct 11 1992,Independiente,0-1,CA Lanus
+Sun Oct 11 1992,Huracan,2-2,Gye La Plata
+Sun Oct 11 1992,Ferro Carril Oeste,2-0,Newells Old Boys
+Sun Oct 11 1992,Estudiantes,0-1,San Lorenzo
+Sun Oct 11 1992,Deportivo Espanol,5-0,Talleres Cordoba
+Sun Oct 11 1992,Boca Juniors,1-0,River Plate
+Sun Oct 11 1992,Belgrano Cordoba,3-2,Platense
+Wed Oct 14 1992,Velez Sarsfield,0-1,Deportivo Espanol
+Sun Oct 18 1992,San Martin Tucuman,1-0,Velez Sarsfield
+Sun Oct 18 1992,Estudiantes,1-1,Gye La Plata
+Fri Oct 23 1992,Racing Club,0-1,Huracan
+Sun Oct 25 1992,Talleres Cordoba,0-1,San Martin Tucuman
+Sun Oct 25 1992,San Lorenzo,2-1,Independiente
+Sun Oct 25 1992,Platense,1-0,Velez Sarsfield
+Sun Oct 25 1992,Newells Old Boys,2-1,River Plate
+Sun Oct 25 1992,CA Lanus,2-0,Deportivo Espanol
+Sun Oct 25 1992,Gye La Plata,0-0,Ferro Carril Oeste
+Sun Oct 25 1992,Deportivo Mandiyu,1-0,Belgrano Cordoba
+Sun Oct 25 1992,Argentinos Juniors,2-4,Estudiantes
+Tue Oct 27 1992,Boca Juniors,3-0,Rosario Central
+Fri Oct 30 1992,Independiente,1-0,Argentinos Juniors
+Sat Oct 31 1992,Deportivo Espanol,0-2,San Lorenzo
+Sun Nov 1 1992,Velez Sarsfield,2-2,Deportivo Mandiyu
+Sun Nov 1 1992,San Martin Tucuman,0-1,CA Lanus
+Sun Nov 1 1992,River Plate,2-0,Gye La Plata
+Sun Nov 1 1992,Newells Old Boys,0-0,Boca Juniors
+Sun Nov 1 1992,Huracan,1-2,Platense
+Sun Nov 1 1992,Ferro Carril Oeste,2-1,Racing Club
+Sun Nov 1 1992,Estudiantes,6-1,Rosario Central
+Sun Nov 1 1992,Belgrano Cordoba,0-0,Talleres Cordoba
+Fri Nov 6 1992,San Lorenzo,0-0,San Martin Tucuman
+Sun Nov 8 1992,Talleres Cordoba,2-1,Velez Sarsfield
+Sun Nov 8 1992,Rosario Central,3-0,Independiente
+Sun Nov 8 1992,Racing Club,0-3,River Plate
+Sun Nov 8 1992,Platense,0-1,Ferro Carril Oeste
+Sun Nov 8 1992,CA Lanus,0-1,Belgrano Cordoba
+Sun Nov 8 1992,Gye La Plata,1-0,Newells Old Boys
+Sun Nov 8 1992,Deportivo Mandiyu,0-1,Huracan
+Sun Nov 8 1992,Boca Juniors,1-0,Estudiantes
+Sun Nov 8 1992,Argentinos Juniors,2-0,Deportivo Espanol
+Fri Nov 13 1992,River Plate,2-1,Platense
+Sat Nov 14 1992,Gye La Plata,0-1,Boca Juniors
+Sun Nov 15 1992,Velez Sarsfield,4-1,CA Lanus
+Sun Nov 15 1992,San Martin Tucuman,3-0,Argentinos Juniors
+Sun Nov 15 1992,Newells Old Boys,1-1,Racing Club
+Sun Nov 15 1992,Independiente,0-1,Estudiantes
+Sun Nov 15 1992,Huracan,2-1,Talleres Cordoba
+Sun Nov 15 1992,Ferro Carril Oeste,1-0,Deportivo Mandiyu
+Sun Nov 15 1992,Deportivo Espanol,0-0,Rosario Central
+Sun Nov 15 1992,Belgrano Cordoba,3-3,San Lorenzo
+Fri Nov 20 1992,San Lorenzo,0-1,Velez Sarsfield
+Sun Nov 22 1992,Talleres Cordoba,1-1,Ferro Carril Oeste
+Sun Nov 22 1992,Rosario Central,1-0,San Martin Tucuman
+Sun Nov 22 1992,Racing Club,4-2,Gye La Plata
+Sun Nov 22 1992,Platense,0-1,Newells Old Boys
+Sun Nov 22 1992,CA Lanus,2-0,Huracan
+Sun Nov 22 1992,Estudiantes,1-0,Deportivo Espanol
+Sun Nov 22 1992,Deportivo Mandiyu,0-1,River Plate
+Sun Nov 22 1992,Boca Juniors,0-1,Independiente
+Sun Nov 22 1992,Argentinos Juniors,1-2,Belgrano Cordoba
+Sat Nov 28 1992,River Plate,1-1,Talleres Cordoba
+Sun Nov 29 1992,Velez Sarsfield,2-0,Argentinos Juniors
+Sun Nov 29 1992,San Martin Tucuman,2-2,Estudiantes
+Sun Nov 29 1992,Racing Club,1-1,Boca Juniors
+Sun Nov 29 1992,Newells Old Boys,1-4,Deportivo Mandiyu
+Sun Nov 29 1992,Huracan,1-0,San Lorenzo
+Sun Nov 29 1992,Gye La Plata,2-2,Platense
+Sun Nov 29 1992,Ferro Carril Oeste,3-0,CA Lanus
+Sun Nov 29 1992,Deportivo Espanol,0-0,Independiente
+Sun Nov 29 1992,Belgrano Cordoba,1-1,Rosario Central
+Fri Dec 4 1992,San Lorenzo,1-0,Ferro Carril Oeste
+Sat Dec 5 1992,CA Lanus,3-2,River Plate
+Sun Dec 6 1992,Talleres Cordoba,2-0,Newells Old Boys
+Sun Dec 6 1992,Rosario Central,1-3,Velez Sarsfield
+Sun Dec 6 1992,Platense,0-0,Racing Club
+Sun Dec 6 1992,Independiente,2-1,San Martin Tucuman
+Sun Dec 6 1992,Estudiantes,0-0,Belgrano Cordoba
+Sun Dec 6 1992,Deportivo Mandiyu,1-1,Gye La Plata
+Sun Dec 6 1992,Boca Juniors,2-3,Deportivo Espanol
+Sun Dec 6 1992,Argentinos Juniors,2-3,Huracan
+Fri Dec 11 1992,Platense,1-3,Boca Juniors
+Sat Dec 12 1992,Newells Old Boys,2-3,CA Lanus
+Sun Dec 13 1992,Velez Sarsfield,0-0,Estudiantes
+Sun Dec 13 1992,San Martin Tucuman,0-1,Deportivo Espanol
+Sun Dec 13 1992,River Plate,5-2,San Lorenzo
+Sun Dec 13 1992,Racing Club,1-1,Deportivo Mandiyu
+Sun Dec 13 1992,Huracan,4-0,Rosario Central
+Sun Dec 13 1992,Gye La Plata,1-1,Talleres Cordoba
+Sun Dec 13 1992,Ferro Carril Oeste,0-0,Argentinos Juniors
+Sun Dec 13 1992,Belgrano Cordoba,2-0,Independiente
+Fri Dec 18 1992,Independiente,2-2,Velez Sarsfield
+Fri Dec 18 1992,Deportivo Mandiyu,1-1,Platense
+Sat Dec 19 1992,Talleres Cordoba,2-0,Racing Club
+Sun Dec 20 1992,San Lorenzo,4-0,Newells Old Boys
+Sun Dec 20 1992,Rosario Central,1-1,Ferro Carril Oeste
+Sun Dec 20 1992,CA Lanus,0-1,Gye La Plata
+Sun Dec 20 1992,Estudiantes,1-0,Huracan
+Sun Dec 20 1992,Deportivo Espanol,2-1,Belgrano Cordoba
+Sun Dec 20 1992,Boca Juniors,1-1,San Martin Tucuman
+Sun Dec 20 1992,Argentinos Juniors,1-1,River Plate
+Sat Feb 20 1993,Independiente,3-1,Huracan
+Sun Feb 21 1993,Talleres Cordoba,0-1,Platense
+Sun Feb 21 1993,San Martin Tucuman,0-2,Belgrano Cordoba
+Sun Feb 21 1993,San Lorenzo,1-1,Gye La Plata
+Sun Feb 21 1993,Rosario Central,2-1,River Plate
+Sun Feb 21 1993,CA Lanus,1-0,Racing Club
+Sun Feb 21 1993,Estudiantes,0-0,Ferro Carril Oeste
+Sun Feb 21 1993,Deportivo Espanol,0-2,Velez Sarsfield
+Sun Feb 21 1993,Boca Juniors,4-1,Deportivo Mandiyu
+Sun Feb 21 1993,Argentinos Juniors,0-0,Newells Old Boys
+Fri Feb 26 1993,Rosario Central,0-0,Huracan
+Fri Feb 26 1993,Deportivo Mandiyu,1-0,Velez Sarsfield
+Sat Feb 27 1993,Ferro Carril Oeste,1-3,Independiente
+Sat Feb 27 1993,Platense,2-2,River Plate
+Sat Feb 27 1993,Estudiantes,1-1,Newells Old Boys
+Sat Feb 27 1993,Deportivo Espanol,1-0,Gimnasia Y Tiro
+Sat Feb 27 1993,Boca Juniors,3-0,CA Lanus
+Sun Feb 28 1993,Velez Sarsfield,2-0,San Martin Tucuman
+Sun Feb 28 1993,River Plate,0-2,Estudiantes
+Sun Feb 28 1993,Racing Club,1-0,San Lorenzo
+Sun Feb 28 1993,Platense,0-1,CA Lanus
+Sun Feb 28 1993,Newells Old Boys,1-1,Rosario Central
+Sun Feb 28 1993,Huracan,1-1,Deportivo Espanol
+Sun Feb 28 1993,Gye La Plata,0-1,Argentinos Juniors
+Sun Feb 28 1993,Deportivo Mandiyu,2-2,Talleres Cordoba
+Sun Feb 28 1993,Belgrano Cordoba,1-1,Boca Juniors
+Mon Mar 1 1993,San Lorenzo,1-0,Belgrano Cordoba
+Tue Mar 2 1993,Deportivo Espanol,1-0,Ferro Carril Oeste
+Wed Mar 3 1993,San Martin Tucuman,1-3,Huracan
+Wed Mar 3 1993,Rosario Central,1-1,Gye La Plata
+Wed Mar 3 1993,CA Lanus,0-0,Deportivo Mandiyu
+Wed Mar 3 1993,Independiente,1-2,River Plate
+Wed Mar 3 1993,Estudiantes,3-0,Newells Old Boys
+Wed Mar 3 1993,Belgrano Cordoba,0-0,Velez Sarsfield
+Thu Mar 4 1993,San Lorenzo,2-1,Platense
+Thu Mar 4 1993,Boca Juniors,1-1,Talleres Cordoba
+Thu Mar 4 1993,Argentinos Juniors,0-2,Racing Club
+Thu Mar 4 1993,River Plate,5-3,Deportivo Mandiyu
+Fri Mar 5 1993,Gimnasia Y Tiro,2-1,Platense
+Fri Mar 5 1993,Newells Old Boys,1-0,San Lorenzo
+Sat Mar 6 1993,Velez Sarsfield,1-1,Rosario Central
+Sat Mar 6 1993,CA Lanus,1-1,Racing Club
+Sat Mar 6 1993,Independiente,2-2,Boca Juniors
+Sat Mar 6 1993,Huracan,2-1,Argentinos Juniors
+Sat Mar 6 1993,Gye La Plata,1-0,CA Banfield
+Sat Mar 6 1993,Ferro Carril Oeste,1-1,Estudiantes
+Sat Mar 6 1993,Belgrano Cordoba,1-1,Deportivo Espanol
+Sun Mar 7 1993,Velez Sarsfield,1-0,Boca Juniors
+Sun Mar 7 1993,Talleres Cordoba,1-1,CA Lanus
+Sun Mar 7 1993,River Plate,2-1,Deportivo Espanol
+Sun Mar 7 1993,Platense,0-0,Argentinos Juniors
+Sun Mar 7 1993,Newells Old Boys,0-0,Independiente
+Sun Mar 7 1993,Huracan,0-0,Belgrano Cordoba
+Sun Mar 7 1993,Gye La Plata,0-0,Estudiantes
+Sun Mar 7 1993,Ferro Carril Oeste,1-0,San Martin Tucuman
+Sun Mar 7 1993,Deportivo Mandiyu,1-0,San Lorenzo
+Mon Mar 8 1993,Racing Club,1-0,Rosario Central
+Tue Mar 9 1993,Argentinos Juniors,2-2,Gye La Plata
+Thu Mar 11 1993,San Lorenzo,1-1,Ferro Carril Oeste
+Fri Mar 12 1993,Boca Juniors,1-0,CA Lanus
+Fri Mar 12 1993,Argentinos Juniors,1-2,Velez Sarsfield
+Sat Mar 13 1993,Rosario Central,0-0,River Plate
+Sat Mar 13 1993,Platense,4-2,Belgrano Cordoba
+Sat Mar 13 1993,Independiente,3-2,Gye La Plata
+Sat Mar 13 1993,Estudiantes,2-0,CA Lanus
+Sat Mar 13 1993,Deportivo Espanol,0-0,Newells Old Boys
+Sat Mar 13 1993,Deportivo Mandiyu,0-0,Gimnasia Y Tiro
+Sat Mar 13 1993,Boca Juniors,6-0,Racing Club
+Sat Mar 13 1993,CA Banfield,3-3,Huracan
+Sun Mar 14 1993,San Martin Tucuman,1-1,River Plate
+Sun Mar 14 1993,Velez Sarsfield,3-0,Huracan
+Sun Mar 14 1993,San Lorenzo,4-1,Talleres Cordoba
+Sun Mar 14 1993,Rosario Central,0-1,Platense
+Sun Mar 14 1993,Independiente,2-2,Gye La Plata
+Sun Mar 14 1993,Estudiantes,5-1,Racing Club
+Sun Mar 14 1993,Deportivo Espanol,2-0,Newells Old Boys
+Sun Mar 14 1993,Belgrano Cordoba,1-2,Ferro Carril Oeste
+Sun Mar 14 1993,Argentinos Juniors,1-1,Deportivo Mandiyu
+Thu Mar 18 1993,Huracan,1-1,Independiente
+Thu Mar 18 1993,Gimnasia Y Tiro,1-0,Rosario Central
+Thu Mar 18 1993,Boca Juniors,1-1,Gye La Plata
+Fri Mar 19 1993,Velez Sarsfield,1-1,CA Banfield
+Fri Mar 19 1993,River Plate,1-1,Argentinos Juniors
+Fri Mar 19 1993,Racing Club,3-1,Estudiantes
+Fri Mar 19 1993,Newells Old Boys,1-0,Platense
+Fri Mar 19 1993,CA Lanus,2-0,San Lorenzo
+Fri Mar 19 1993,Ferro Carril Oeste,1-1,Deportivo Espanol
+Fri Mar 19 1993,Belgrano Cordoba,1-1,Deportivo Mandiyu
+Sat Mar 20 1993,River Plate,5-0,Belgrano Cordoba
+Sun Mar 21 1993,Talleres Cordoba,1-1,Argentinos Juniors
+Sun Mar 21 1993,Racing Club,1-1,Independiente
+Sun Mar 21 1993,Platense,1-1,Estudiantes
+Sun Mar 21 1993,Newells Old Boys,0-2,San Martin Tucuman
+Sun Mar 21 1993,CA Lanus,1-1,San Lorenzo
+Sun Mar 21 1993,Huracan,1-1,Boca Juniors
+Sun Mar 21 1993,Gye La Plata,2-0,Deportivo Espanol
+Sun Mar 21 1993,Ferro Carril Oeste,0-0,Velez Sarsfield
+Sun Mar 21 1993,Deportivo Mandiyu,1-1,Rosario Central
+Sat Mar 27 1993,Deportivo Espanol,1-0,Racing Club
+Sun Mar 28 1993,Velez Sarsfield,1-2,River Plate
+Sun Mar 28 1993,San Martin Tucuman,0-1,Gye La Plata
+Sun Mar 28 1993,Rosario Central,2-0,Talleres Cordoba
+Sun Mar 28 1993,Independiente,0-0,Platense
+Sun Mar 28 1993,Huracan,3-0,Ferro Carril Oeste
+Sun Mar 28 1993,Estudiantes,0-1,Deportivo Mandiyu
+Sun Mar 28 1993,Boca Juniors,3-4,San Lorenzo
+Sun Mar 28 1993,Belgrano Cordoba,1-0,Newells Old Boys
+Sun Mar 28 1993,Argentinos Juniors,1-1,CA Lanus
+Sat Apr 3 1993,Ferro Carril Oeste,1-2,Boca Juniors
+Sun Apr 4 1993,Talleres Cordoba,4-2,Estudiantes
+Sun Apr 4 1993,San Lorenzo,0-0,Argentinos Juniors
+Sun Apr 4 1993,River Plate,4-2,Huracan
+Sun Apr 4 1993,Racing Club,2-0,San Martin Tucuman
+Sun Apr 4 1993,Platense,1-3,Deportivo Espanol
+Sun Apr 4 1993,Newells Old Boys,0-1,Velez Sarsfield
+Sun Apr 4 1993,CA Lanus,0-0,Rosario Central
+Sun Apr 4 1993,Gye La Plata,1-1,Belgrano Cordoba
+Sun Apr 4 1993,Deportivo Mandiyu,1-1,Independiente
+Thu Apr 8 1993,Velez Sarsfield,1-0,Gye La Plata
+Thu Apr 8 1993,San Martin Tucuman,3-1,Platense
+Thu Apr 8 1993,Rosario Central,0-3,San Lorenzo
+Thu Apr 8 1993,Independiente,1-1,Talleres Cordoba
+Thu Apr 8 1993,Ferro Carril Oeste,0-3,River Plate
+Thu Apr 8 1993,Estudiantes,1-0,CA Lanus
+Thu Apr 8 1993,Deportivo Espanol,1-0,Deportivo Mandiyu
+Thu Apr 8 1993,Boca Juniors,0-1,Argentinos Juniors
+Thu Apr 8 1993,Belgrano Cordoba,0-4,Racing Club
+Sun Apr 11 1993,Talleres Cordoba,1-0,Deportivo Espanol
+Sun Apr 11 1993,River Plate,0-2,Boca Juniors
+Sun Apr 11 1993,Racing Club,0-3,Velez Sarsfield
+Sun Apr 11 1993,Platense,0-0,Belgrano Cordoba
+Sun Apr 11 1993,Newells Old Boys,0-0,Ferro Carril Oeste
+Sun Apr 11 1993,CA Lanus,0-0,Independiente
+Sun Apr 11 1993,Gye La Plata,1-1,Huracan
+Sun Apr 11 1993,Deportivo Mandiyu,1-1,San Martin Tucuman
+Sun Apr 11 1993,Argentinos Juniors,0-0,Rosario Central
+Mon Apr 12 1993,San Lorenzo,2-2,Estudiantes
+Fri Apr 16 1993,Huracan,0-1,Racing Club
+Sun Apr 18 1993,Velez Sarsfield,2-1,Platense
+Sun Apr 18 1993,San Martin Tucuman,1-0,Talleres Cordoba
+Sun Apr 18 1993,Rosario Central,2-1,Boca Juniors
+Sun Apr 18 1993,River Plate,2-0,Newells Old Boys
+Sun Apr 18 1993,Independiente,2-1,San Lorenzo
+Sun Apr 18 1993,Ferro Carril Oeste,1-0,Gye La Plata
+Sun Apr 18 1993,Estudiantes,1-1,Argentinos Juniors
+Sun Apr 18 1993,Deportivo Espanol,2-1,CA Lanus
+Sun Apr 18 1993,Belgrano Cordoba,2-2,Deportivo Mandiyu
+Thu Apr 22 1993,Huracan,2-1,Newells Old Boys
+Fri Apr 23 1993,Gye La Plata,0-2,River Plate
+Sun Apr 25 1993,Talleres Cordoba,0-0,Belgrano Cordoba
+Sun Apr 25 1993,San Lorenzo,0-2,Deportivo Espanol
+Sun Apr 25 1993,Rosario Central,2-1,Estudiantes
+Sun Apr 25 1993,Racing Club,1-0,Ferro Carril Oeste
+Sun Apr 25 1993,Platense,1-1,Huracan
+Sun Apr 25 1993,CA Lanus,2-0,San Martin Tucuman
+Sun Apr 25 1993,Deportivo Mandiyu,0-0,Velez Sarsfield
+Sun Apr 25 1993,Boca Juniors,0-0,Newells Old Boys
+Sun Apr 25 1993,Argentinos Juniors,1-1,Independiente
+Sun May 2 1993,Velez Sarsfield,4-0,Talleres Cordoba
+Sun May 2 1993,San Martin Tucuman,1-1,San Lorenzo
+Sun May 2 1993,River Plate,1-1,Racing Club
+Sun May 2 1993,Newells Old Boys,0-1,Gye La Plata
+Sun May 2 1993,Huracan,2-1,Deportivo Mandiyu
+Sun May 2 1993,Ferro Carril Oeste,4-0,Platense
+Sun May 2 1993,Estudiantes,0-0,Boca Juniors
+Sun May 2 1993,Deportivo Espanol,1-1,Argentinos Juniors
+Sun May 2 1993,Belgrano Cordoba,3-0,CA Lanus
+Mon May 3 1993,Independiente,1-1,Rosario Central
+Fri May 7 1993,Platense,2-1,River Plate
+Sat May 8 1993,CA Lanus,1-1,Velez Sarsfield
+Sun May 9 1993,Talleres Cordoba,0-0,Huracan
+Sun May 9 1993,San Lorenzo,1-0,Belgrano Cordoba
+Sun May 9 1993,Rosario Central,0-0,Deportivo Espanol
+Sun May 9 1993,Racing Club,1-1,Newells Old Boys
+Sun May 9 1993,Estudiantes,0-1,Independiente
+Sun May 9 1993,Deportivo Mandiyu,1-0,Ferro Carril Oeste
+Sun May 9 1993,Boca Juniors,1-1,Gye La Plata
+Sun May 9 1993,Argentinos Juniors,0-0,San Martin Tucuman
+Fri May 14 1993,Velez Sarsfield,0-0,San Lorenzo
+Sun May 16 1993,San Martin Tucuman,4-3,Rosario Central
+Sun May 16 1993,River Plate,4-2,Deportivo Mandiyu
+Sun May 16 1993,Newells Old Boys,4-1,Platense
+Sun May 16 1993,Independiente,1-1,Boca Juniors
+Sun May 16 1993,Huracan,1-0,CA Lanus
+Sun May 16 1993,Gye La Plata,1-0,Racing Club
+Sun May 16 1993,Ferro Carril Oeste,3-1,Talleres Cordoba
+Sun May 16 1993,Deportivo Espanol,4-0,Estudiantes
+Sun May 16 1993,Belgrano Cordoba,1-1,Argentinos Juniors
+Sun May 23 1993,Talleres Cordoba,0-2,River Plate
+Sun May 23 1993,San Lorenzo,1-0,Huracan
+Sun May 23 1993,Rosario Central,5-0,Belgrano Cordoba
+Sun May 23 1993,Platense,0-0,Gye La Plata
+Sun May 23 1993,CA Lanus,0-0,Ferro Carril Oeste
+Sun May 23 1993,Independiente,3-1,Deportivo Espanol
+Sun May 23 1993,Estudiantes,3-0,San Martin Tucuman
+Sun May 23 1993,Deportivo Mandiyu,0-2,Newells Old Boys
+Sun May 23 1993,Boca Juniors,1-0,Racing Club
+Sun May 23 1993,Argentinos Juniors,0-1,Velez Sarsfield
+Fri May 28 1993,Deportivo Espanol,1-1,Boca Juniors
+Sat Jun 5 1993,Velez Sarsfield,0-2,Rosario Central
+Sat Jun 5 1993,San Martin Tucuman,0-2,Independiente
+Sat Jun 5 1993,River Plate,1-1,CA Lanus
+Sat Jun 5 1993,Racing Club,2-1,Platense
+Sat Jun 5 1993,Newells Old Boys,1-0,Talleres Cordoba
+Sat Jun 5 1993,Huracan,2-1,Argentinos Juniors
+Sat Jun 5 1993,Gye La Plata,0-2,Deportivo Mandiyu
+Sat Jun 5 1993,Ferro Carril Oeste,1-4,San Lorenzo
+Sat Jun 5 1993,Belgrano Cordoba,0-0,Estudiantes
+Tue Jun 8 1993,Talleres Cordoba,0-1,Gye La Plata
+Tue Jun 8 1993,San Lorenzo,1-0,River Plate
+Tue Jun 8 1993,CA Lanus,1-1,Newells Old Boys
+Tue Jun 8 1993,Independiente,0-0,Belgrano Cordoba
+Tue Jun 8 1993,Estudiantes,1-1,Velez Sarsfield
+Tue Jun 8 1993,Deportivo Espanol,3-2,San Martin Tucuman
+Tue Jun 8 1993,Deportivo Mandiyu,1-0,Racing Club
+Tue Jun 8 1993,Boca Juniors,1-1,Platense
+Tue Jun 8 1993,Argentinos Juniors,0-0,Ferro Carril Oeste
+Fri Jun 11 1993,River Plate,0-2,Argentinos Juniors
+Sat Jun 12 1993,Velez Sarsfield,0-0,Independiente
+Sat Jun 12 1993,San Martin Tucuman,1-2,Boca Juniors
+Sat Jun 12 1993,Racing Club,4-0,Talleres Cordoba
+Sat Jun 12 1993,Platense,1-1,Deportivo Mandiyu
+Sat Jun 12 1993,Newells Old Boys,2-1,San Lorenzo
+Sat Jun 12 1993,Huracan,2-1,Estudiantes
+Sat Jun 12 1993,Gye La Plata,1-1,CA Lanus
+Sat Jun 12 1993,Ferro Carril Oeste,1-1,Rosario Central
+Sat Jun 12 1993,Belgrano Cordoba,1-0,Deportivo Espanol

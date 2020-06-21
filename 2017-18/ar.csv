@@ -1,0 +1,379 @@
+Date,Team 1,FT,Team 2
+Sat Aug 26 2017,Tigre,0-3,Velez Sarsfield
+Sat Aug 26 2017,CA Banfield,2-1,Belgrano Cordoba
+Sat Aug 26 2017,Defensa Y Justicia,4-4,Gye La Plata
+Sat Aug 26 2017,CA Colon,1-1,Rosario Central
+Sat Aug 26 2017,Talleres Cordoba,5-2,CA Lanus
+Sun Aug 27 2017,Independiente,3-1,Huracan
+Sun Aug 27 2017,CA San Martin,2-0,Patronato
+Sun Aug 27 2017,Atletico Tucuman,2-1,CD Godoy Cruz
+Sun Aug 27 2017,San Lorenzo,1-1,Racing Club
+Sun Aug 27 2017,Boca Juniors,3-0,Olimpo
+Mon Aug 28 2017,CA Temperley,0-1,River Plate
+Tue Aug 29 2017,Newells Old Boys,1-1,Union De Santa Fe
+Tue Aug 29 2017,Estudiantes,2-1,Arsenal Sarandi
+Sat Sep 9 2017,Arsenal Sarandi,0-1,CA Colon
+Sat Sep 9 2017,Velez Sarsfield,2-0,Atletico Tucuman
+Sat Sep 9 2017,Olimpo,1-1,Independiente
+Sat Sep 9 2017,Belgrano Cordoba,1-0,CA San Martin
+Sat Sep 9 2017,Estudiantes,0-1,Defensa Y Justicia
+Sat Sep 9 2017,Patronato,2-1,Argentinos Juniors
+Sun Sep 10 2017,Racing Club,4-1,CA Temperley
+Sun Sep 10 2017,Chacarita Juniors,1-1,Tigre
+Sun Sep 10 2017,CD Godoy Cruz,2-1,Talleres Cordoba
+Sun Sep 10 2017,Rosario Central,0-0,San Lorenzo
+Sun Sep 10 2017,River Plate,3-1,CA Banfield
+Mon Sep 11 2017,CA Lanus,0-1,Boca Juniors
+Tue Sep 12 2017,Union De Santa Fe,1-0,Gye La Plata
+Tue Sep 12 2017,Huracan,1-0,Newells Old Boys
+Sat Sep 16 2017,Tigre,1-3,Patronato
+Sat Sep 16 2017,CA Colon,0-0,Estudiantes
+Sat Sep 16 2017,Defensa Y Justicia,1-3,Union De Santa Fe
+Sat Sep 16 2017,Argentinos Juniors,1-2,Belgrano Cordoba
+Sat Sep 16 2017,Newells Old Boys,2-0,Olimpo
+Sat Sep 16 2017,San Lorenzo,1-0,Arsenal Sarandi
+Sun Sep 17 2017,Independiente,0-1,CA Lanus
+Sun Sep 17 2017,Talleres Cordoba,0-0,Velez Sarsfield
+Sun Sep 17 2017,Atletico Tucuman,1-1,Chacarita Juniors
+Sun Sep 17 2017,CA Banfield,1-0,Racing Club
+Sun Sep 17 2017,Boca Juniors,4-1,CD Godoy Cruz
+Mon Sep 18 2017,CA San Martin,1-3,River Plate
+Tue Sep 19 2017,Gye La Plata,1-3,Huracan
+Tue Sep 19 2017,CA Temperley,1-1,Rosario Central
+Sat Sep 23 2017,Belgrano Cordoba,0-0,Tigre
+Sat Sep 23 2017,Patronato,2-1,Atletico Tucuman
+Sat Sep 23 2017,Arsenal Sarandi,0-1,CA Temperley
+Sat Sep 23 2017,Huracan,0-0,Union De Santa Fe
+Sat Sep 23 2017,Chacarita Juniors,0-1,Talleres Cordoba
+Sat Sep 23 2017,Velez Sarsfield,0-4,Boca Juniors
+Sun Sep 24 2017,CD Godoy Cruz,1-0,Independiente
+Sun Sep 24 2017,CA Colon,3-1,Defensa Y Justicia
+Sun Sep 24 2017,Olimpo,0-1,Gye La Plata
+Sun Sep 24 2017,Rosario Central,0-4,CA Banfield
+Sun Sep 24 2017,River Plate,1-1,Argentinos Juniors
+Mon Sep 25 2017,Racing Club,0-0,CA San Martin
+Tue Sep 26 2017,CA Lanus,1-0,Newells Old Boys
+Tue Sep 26 2017,Estudiantes,1-3,San Lorenzo
+Sat Sep 30 2017,Defensa Y Justicia,0-0,Huracan
+Sat Sep 30 2017,Union De Santa Fe,2-0,Olimpo
+Sat Sep 30 2017,Atletico Tucuman,0-0,Belgrano Cordoba
+Sat Sep 30 2017,San Lorenzo,0-0,CA Colon
+Sat Sep 30 2017,CA Temperley,0-3,Estudiantes
+Sat Sep 30 2017,Gye La Plata,1-3,CA Lanus
+Sun Oct 1 2017,Argentinos Juniors,2-0,Racing Club
+Sun Oct 1 2017,Talleres Cordoba,1-0,Patronato
+Sun Oct 1 2017,CA San Martin,3-1,Rosario Central
+Sun Oct 1 2017,Independiente,1-0,Velez Sarsfield
+Sun Oct 1 2017,Boca Juniors,1-0,Chacarita Juniors
+Mon Oct 2 2017,Tigre,1-1,River Plate
+Tue Oct 3 2017,CA Banfield,1-2,Arsenal Sarandi
+Tue Oct 3 2017,Newells Old Boys,0-0,CD Godoy Cruz
+Sun Oct 8 2017,Argentinos Juniors,1-0,Chacarita Juniors
+Sat Oct 14 2017,CA Lanus,2-1,Union De Santa Fe
+Sat Oct 14 2017,San Lorenzo,3-1,Defensa Y Justicia
+Sat Oct 14 2017,CA Colon,2-0,CA Temperley
+Sat Oct 14 2017,Rosario Central,1-3,Argentinos Juniors
+Sat Oct 14 2017,Estudiantes,1-1,CA Banfield
+Sat Oct 14 2017,Velez Sarsfield,1-0,Newells Old Boys
+Sun Oct 15 2017,Racing Club,1-0,Tigre
+Sun Oct 15 2017,Chacarita Juniors,1-2,Independiente
+Sun Oct 15 2017,CD Godoy Cruz,3-0,Gye La Plata
+Sun Oct 15 2017,Belgrano Cordoba,0-0,Talleres Cordoba
+Sun Oct 15 2017,River Plate,2-2,Atletico Tucuman
+Mon Oct 16 2017,Patronato,0-2,Boca Juniors
+Tue Oct 17 2017,Olimpo,0-2,Huracan
+Tue Oct 17 2017,Arsenal Sarandi,0-1,CA San Martin
+Sat Oct 28 2017,CA Banfield,1-1,CA Colon
+Sat Oct 28 2017,Argentinos Juniors,3-2,Arsenal Sarandi
+Sat Oct 28 2017,Huracan,4-0,CA Lanus
+Sat Oct 28 2017,Union De Santa Fe,2-0,CD Godoy Cruz
+Sat Oct 28 2017,CA San Martin,1-0,Estudiantes
+Sat Oct 28 2017,Atletico Tucuman,3-1,Racing Club
+Sun Oct 29 2017,Talleres Cordoba,4-0,River Plate
+Sun Oct 29 2017,Newells Old Boys,2-1,Chacarita Juniors
+Sun Oct 29 2017,Gye La Plata,4-0,Velez Sarsfield
+Sun Oct 29 2017,CA Temperley,0-2,San Lorenzo
+Sun Oct 29 2017,Boca Juniors,4-0,Belgrano Cordoba
+Mon Oct 30 2017,Independiente,1-1,Patronato
+Mon Oct 30 2017,Defensa Y Justicia,1-1,Olimpo
+Tue Oct 31 2017,Tigre,1-1,Rosario Central
+Fri Nov 3 2017,Chacarita Juniors,2-0,Gye La Plata
+Sat Nov 4 2017,CD Godoy Cruz,2-1,Huracan
+Sat Nov 4 2017,CA Colon,3-3,CA San Martin
+Sat Nov 4 2017,CA Lanus,0-2,Olimpo
+Sat Nov 4 2017,San Lorenzo,0-1,CA Banfield
+Sat Nov 4 2017,Rosario Central,0-1,Atletico Tucuman
+Sun Nov 5 2017,Racing Club,1-1,Talleres Cordoba
+Sun Nov 5 2017,CA Temperley,1-4,Defensa Y Justicia
+Sun Nov 5 2017,Estudiantes,1-0,Argentinos Juniors
+Sun Nov 5 2017,Belgrano Cordoba,0-0,Independiente
+Sun Nov 5 2017,River Plate,1-2,Boca Juniors
+Mon Nov 6 2017,Arsenal Sarandi,0-0,Tigre
+Mon Nov 6 2017,Patronato,0-0,Newells Old Boys
+Tue Nov 7 2017,Velez Sarsfield,0-2,Union De Santa Fe
+Fri Nov 17 2017,Argentinos Juniors,0-1,CA Colon
+Fri Nov 17 2017,Atletico Tucuman,0-0,Arsenal Sarandi
+Sat Nov 18 2017,Newells Old Boys,0-1,Belgrano Cordoba
+Sat Nov 18 2017,Defensa Y Justicia,3-0,CA Lanus
+Sat Nov 18 2017,CA Banfield,0-0,CA Temperley
+Sat Nov 18 2017,CA San Martin,1-3,San Lorenzo
+Sun Nov 19 2017,Independiente,1-0,River Plate
+Sun Nov 19 2017,Union De Santa Fe,0-0,Chacarita Juniors
+Sun Nov 19 2017,Tigre,2-0,Estudiantes
+Sun Nov 19 2017,Boca Juniors,1-2,Racing Club
+Mon Nov 20 2017,Talleres Cordoba,0-1,Rosario Central
+Mon Nov 20 2017,Gye La Plata,2-0,Patronato
+Mon Nov 20 2017,Olimpo,1-1,CD Godoy Cruz
+Tue Nov 21 2017,Huracan,1-0,Velez Sarsfield
+Wed Nov 22 2017,River Plate,2-0,Union De Santa Fe
+Thu Nov 23 2017,Velez Sarsfield,0-1,CD Godoy Cruz
+Fri Nov 24 2017,CA Banfield,0-1,Defensa Y Justicia
+Fri Nov 24 2017,Chacarita Juniors,0-2,Huracan
+Sat Nov 25 2017,CA Colon,3-1,Tigre
+Sat Nov 25 2017,Belgrano Cordoba,2-0,Gye La Plata
+Sat Nov 25 2017,Patronato,2-3,Union De Santa Fe
+Sat Nov 25 2017,San Lorenzo,1-0,Argentinos Juniors
+Sun Nov 26 2017,Racing Club,0-1,Independiente
+Sun Nov 26 2017,Estudiantes,1-0,Atletico Tucuman
+Sun Nov 26 2017,River Plate,1-3,Newells Old Boys
+Mon Nov 27 2017,Rosario Central,1-0,Boca Juniors
+Mon Nov 27 2017,Arsenal Sarandi,0-1,Talleres Cordoba
+Mon Nov 27 2017,Velez Sarsfield,3-0,Olimpo
+Tue Nov 28 2017,CA Temperley,1-0,CA San Martin
+Thu Nov 30 2017,San Lorenzo,2-0,Atletico Tucuman
+Fri Dec 1 2017,Union De Santa Fe,1-1,Belgrano Cordoba
+Fri Dec 1 2017,Defensa Y Justicia,3-2,CD Godoy Cruz
+Sat Dec 2 2017,Huracan,1-1,Patronato
+Sat Dec 2 2017,Olimpo,2-0,Chacarita Juniors
+Sat Dec 2 2017,Argentinos Juniors,2-2,CA Temperley
+Sun Dec 3 2017,Newells Old Boys,2-2,Racing Club
+Sun Dec 3 2017,Tigre,1-2,San Lorenzo
+Sun Dec 3 2017,Talleres Cordoba,0-1,Estudiantes
+Sun Dec 3 2017,Boca Juniors,2-0,Arsenal Sarandi
+Mon Dec 4 2017,Gye La Plata,2-1,River Plate
+Mon Dec 4 2017,CA Lanus,0-0,Velez Sarsfield
+Mon Dec 4 2017,Atletico Tucuman,2-0,CA Colon
+Tue Dec 5 2017,CA San Martin,2-1,CA Banfield
+Fri Dec 8 2017,CA Temperley,2-1,Tigre
+Fri Dec 8 2017,Patronato,1-0,Olimpo
+Sat Dec 9 2017,Belgrano Cordoba,1-0,Huracan
+Sat Dec 9 2017,CA Banfield,2-3,Argentinos Juniors
+Sun Dec 10 2017,Arsenal Sarandi,1-2,Independiente
+Sun Dec 10 2017,Rosario Central,1-0,Newells Old Boys
+Sun Dec 10 2017,CA Colon,0-2,Talleres Cordoba
+Sun Dec 10 2017,Racing Club,3-1,Gye La Plata
+Mon Dec 11 2017,Estudiantes,0-1,Boca Juniors
+Mon Dec 11 2017,CA San Martin,1-0,Defensa Y Justicia
+Tue Dec 12 2017,Chacarita Juniors,3-0,CA Lanus
+Thu Jan 25 2018,Independiente,1-1,Rosario Central
+Fri Jan 26 2018,CD Godoy Cruz,1-0,Chacarita Juniors
+Fri Jan 26 2018,Tigre,1-2,CA Banfield
+Sat Jan 27 2018,Talleres Cordoba,2-0,San Lorenzo
+Sat Jan 27 2018,Defensa Y Justicia,0-1,Velez Sarsfield
+Sat Jan 27 2018,Newells Old Boys,2-1,Arsenal Sarandi
+Sat Jan 27 2018,CA Lanus,1-1,Patronato
+Sun Jan 28 2018,Boca Juniors,2-0,CA Colon
+Sun Jan 28 2018,Olimpo,1-2,Belgrano Cordoba
+Sun Jan 28 2018,Argentinos Juniors,2-0,CA San Martin
+Mon Jan 29 2018,Huracan,1-0,River Plate
+Mon Jan 29 2018,Union De Santa Fe,2-1,Racing Club
+Mon Jan 29 2018,Gye La Plata,2-1,Rosario Central
+Mon Jan 29 2018,Atletico Tucuman,3-0,CA Temperley
+Tue Jan 30 2018,Independiente,1-2,Estudiantes
+Fri Feb 2 2018,Argentinos Juniors,2-1,Defensa Y Justicia
+Fri Feb 2 2018,Patronato,0-0,CD Godoy Cruz
+Sat Feb 3 2018,Belgrano Cordoba,0-0,CA Lanus
+Sat Feb 3 2018,CA Banfield,0-0,Atletico Tucuman
+Sat Feb 3 2018,Rosario Central,1-0,Union De Santa Fe
+Sat Feb 3 2018,CA Colon,0-1,Independiente
+Sun Feb 4 2018,River Plate,2-0,Olimpo
+Sun Feb 4 2018,Estudiantes,4-2,Newells Old Boys
+Sun Feb 4 2018,Arsenal Sarandi,0-0,Gye La Plata
+Sun Feb 4 2018,San Lorenzo,1-1,Boca Juniors
+Mon Feb 5 2018,Racing Club,4-0,Huracan
+Mon Feb 5 2018,CA Temperley,0-1,Talleres Cordoba
+Mon Feb 5 2018,Chacarita Juniors,2-0,Velez Sarsfield
+Tue Feb 6 2018,CA San Martin,0-0,Tigre
+Thu Feb 8 2018,CD Godoy Cruz,4-1,CA Lanus
+Fri Feb 9 2018,Defensa Y Justicia,4-2,Chacarita Juniors
+Fri Feb 9 2018,Union De Santa Fe,0-0,Arsenal Sarandi
+Sat Feb 10 2018,Newells Old Boys,0-1,CA Colon
+Sat Feb 10 2018,Velez Sarsfield,0-2,Patronato
+Sat Feb 10 2018,Gye La Plata,0-0,Estudiantes
+Sat Feb 10 2018,Olimpo,1-2,Racing Club
+Sun Feb 11 2018,CD Godoy Cruz,2-1,Belgrano Cordoba
+Sun Feb 11 2018,Talleres Cordoba,1-0,CA Banfield
+Sun Feb 11 2018,Boca Juniors,1-0,CA Temperley
+Mon Feb 12 2018,CA Lanus,1-0,River Plate
+Mon Feb 12 2018,Atletico Tucuman,2-1,CA San Martin
+Mon Feb 12 2018,Tigre,2-0,Argentinos Juniors
+Tue Feb 13 2018,Huracan,2-3,Rosario Central
+Fri Feb 16 2018,Estudiantes,2-0,Union De Santa Fe
+Fri Feb 16 2018,Racing Club,3-1,CA Lanus
+Sat Feb 17 2018,Belgrano Cordoba,2-2,Velez Sarsfield
+Sat Feb 17 2018,Argentinos Juniors,2-2,Atletico Tucuman
+Sat Feb 17 2018,San Lorenzo,1-0,Newells Old Boys
+Sat Feb 17 2018,CA Temperley,0-0,Independiente
+Sun Feb 18 2018,Rosario Central,5-0,Olimpo
+Sun Feb 18 2018,CA San Martin,1-1,Talleres Cordoba
+Sun Feb 18 2018,Arsenal Sarandi,1-1,Huracan
+Sun Feb 18 2018,River Plate,2-2,CD Godoy Cruz
+Mon Feb 19 2018,CA Banfield,0-1,Boca Juniors
+Mon Feb 19 2018,Tigre,1-1,Defensa Y Justicia
+Mon Feb 19 2018,Patronato,3-0,Chacarita Juniors
+Tue Feb 20 2018,CA Colon,1-0,Gye La Plata
+Fri Feb 23 2018,Olimpo,2-1,Arsenal Sarandi
+Fri Feb 23 2018,Huracan,1-0,Estudiantes
+Sat Feb 24 2018,CD Godoy Cruz,1-2,Racing Club
+Sat Feb 24 2018,Defensa Y Justicia,1-0,Patronato
+Sat Feb 24 2018,CA Lanus,1-1,Rosario Central
+Sat Feb 24 2018,Velez Sarsfield,1-0,River Plate
+Sun Feb 25 2018,Atletico Tucuman,0-0,Tigre
+Sun Feb 25 2018,Chacarita Juniors,0-1,Belgrano Cordoba
+Sun Feb 25 2018,Independiente,1-0,CA Banfield
+Sun Feb 25 2018,Union De Santa Fe,1-1,CA Colon
+Sun Feb 25 2018,Boca Juniors,4-2,CA San Martin
+Mon Feb 26 2018,Newells Old Boys,0-0,CA Temperley
+Mon Feb 26 2018,Talleres Cordoba,2-0,Argentinos Juniors
+Tue Feb 27 2018,Gye La Plata,1-0,San Lorenzo
+Fri Mar 2 2018,Arsenal Sarandi,2-1,CA Lanus
+Fri Mar 2 2018,Belgrano Cordoba,2-2,Patronato
+Sat Mar 3 2018,CA Colon,0-0,Huracan
+Sat Mar 3 2018,Tigre,0-0,Talleres Cordoba
+Sat Mar 3 2018,San Lorenzo,0-0,Union De Santa Fe
+Sat Mar 3 2018,Rosario Central,1-2,CD Godoy Cruz
+Sun Mar 4 2018,CA Temperley,1-1,Gye La Plata
+Sun Mar 4 2018,Atletico Tucuman,0-1,Defensa Y Justicia
+Sun Mar 4 2018,CA Banfield,1-0,Newells Old Boys
+Sun Mar 4 2018,River Plate,1-1,Chacarita Juniors
+Mon Mar 5 2018,Racing Club,2-1,Velez Sarsfield
+Mon Mar 5 2018,CA San Martin,0-4,Independiente
+Mon Mar 5 2018,Estudiantes,1-0,Olimpo
+Tue Mar 6 2018,Argentinos Juniors,2-0,Boca Juniors
+Fri Mar 9 2018,CD Godoy Cruz,1-0,Arsenal Sarandi
+Fri Mar 9 2018,Gye La Plata,0-2,CA Banfield
+Sat Mar 10 2018,Talleres Cordoba,3-1,Atletico Tucuman
+Sat Mar 10 2018,Chacarita Juniors,1-1,Racing Club
+Sat Mar 10 2018,Olimpo,0-3,CA Colon
+Sat Mar 10 2018,Boca Juniors,2-1,Tigre
+Sun Mar 11 2018,Patronato,0-1,River Plate
+Sun Mar 11 2018,CA Lanus,0-0,Estudiantes
+Sun Mar 11 2018,Huracan,1-1,San Lorenzo
+Sun Mar 11 2018,Velez Sarsfield,2-2,Rosario Central
+Mon Mar 12 2018,Independiente,2-1,Argentinos Juniors
+Mon Mar 12 2018,Defensa Y Justicia,1-1,Belgrano Cordoba
+Mon Mar 12 2018,Union De Santa Fe,3-0,CA Temperley
+Tue Mar 13 2018,Newells Old Boys,2-0,CA San Martin
+Fri Mar 16 2018,Rosario Central,3-1,Chacarita Juniors
+Sat Mar 17 2018,CA Colon,1-2,CA Lanus
+Sat Mar 17 2018,Argentinos Juniors,1-0,Newells Old Boys
+Sat Mar 17 2018,CA Temperley,1-2,Huracan
+Sat Mar 17 2018,CA San Martin,3-0,Gye La Plata
+Sat Mar 17 2018,San Lorenzo,2-0,Olimpo
+Sun Mar 18 2018,Talleres Cordoba,1-0,Defensa Y Justicia
+Sun Mar 18 2018,Racing Club,5-0,Patronato
+Sun Mar 18 2018,Arsenal Sarandi,1-1,Velez Sarsfield
+Sun Mar 18 2018,Estudiantes,0-1,CD Godoy Cruz
+Sun Mar 18 2018,Atletico Tucuman,1-1,Boca Juniors
+Mon Mar 19 2018,River Plate,3-1,Belgrano Cordoba
+Mon Mar 19 2018,CA Banfield,0-2,Union De Santa Fe
+Tue Mar 20 2018,Tigre,1-1,Independiente
+Sat Mar 31 2018,Huracan,1-1,CA Banfield
+Sat Mar 31 2018,Belgrano Cordoba,2-2,Racing Club
+Sat Mar 31 2018,Velez Sarsfield,3-3,Estudiantes
+Sat Mar 31 2018,Newells Old Boys,2-1,Tigre
+Sat Mar 31 2018,Gye La Plata,1-3,Argentinos Juniors
+Sat Mar 31 2018,Union De Santa Fe,1-1,CA San Martin
+Sun Apr 1 2018,Independiente,0-2,Atletico Tucuman
+Sun Apr 1 2018,Defensa Y Justicia,1-3,River Plate
+Sun Apr 1 2018,Chacarita Juniors,2-2,Arsenal Sarandi
+Sun Apr 1 2018,Patronato,3-0,Rosario Central
+Sun Apr 1 2018,Boca Juniors,2-1,Talleres Cordoba
+Mon Apr 2 2018,CA Lanus,0-2,San Lorenzo
+Tue Apr 3 2018,Olimpo,1-1,CA Temperley
+Tue Apr 3 2018,CD Godoy Cruz,2-1,CA Colon
+Thu Apr 5 2018,Independiente,0-1,San Lorenzo
+Sat Apr 7 2018,Tigre,2-0,Gye La Plata
+Sat Apr 7 2018,Argentinos Juniors,3-1,Union De Santa Fe
+Sat Apr 7 2018,CA Temperley,2-2,CA Lanus
+Sat Apr 7 2018,Rosario Central,2-1,Belgrano Cordoba
+Sat Apr 7 2018,CA Banfield,3-0,Olimpo
+Sun Apr 8 2018,Boca Juniors,1-2,Defensa Y Justicia
+Sun Apr 8 2018,San Lorenzo,0-5,CD Godoy Cruz
+Sun Apr 8 2018,CA San Martin,0-1,Huracan
+Sun Apr 8 2018,Atletico Tucuman,1-1,Newells Old Boys
+Sun Apr 8 2018,Talleres Cordoba,0-2,Independiente
+Mon Apr 9 2018,Racing Club,0-2,River Plate
+Tue Apr 10 2018,Arsenal Sarandi,1-1,Patronato
+Tue Apr 10 2018,Estudiantes,0-2,Chacarita Juniors
+Sat Apr 14 2018,Gye La Plata,1-2,Atletico Tucuman
+Sat Apr 14 2018,Huracan,1-0,Argentinos Juniors
+Sat Apr 14 2018,CD Godoy Cruz,3-0,CA Temperley
+Sat Apr 14 2018,Olimpo,0-2,CA San Martin
+Sat Apr 14 2018,CA Lanus,0-0,CA Banfield
+Sat Apr 14 2018,Belgrano Cordoba,3-0,Arsenal Sarandi
+Sun Apr 15 2018,Defensa Y Justicia,3-2,Racing Club
+Sun Apr 15 2018,Union De Santa Fe,3-3,Tigre
+Sun Apr 15 2018,Patronato,0-1,Estudiantes
+Sun Apr 15 2018,Chacarita Juniors,0-2,CA Colon
+Sun Apr 15 2018,River Plate,2-0,Rosario Central
+Mon Apr 16 2018,Independiente,1-0,Boca Juniors
+Tue Apr 17 2018,Newells Old Boys,2-1,Talleres Cordoba
+Tue Apr 17 2018,Velez Sarsfield,2-2,San Lorenzo
+Sat Apr 21 2018,Argentinos Juniors,1-0,Olimpo
+Sat Apr 21 2018,Estudiantes,0-1,Belgrano Cordoba
+Sat Apr 21 2018,CA San Martin,1-1,CA Lanus
+Sat Apr 21 2018,CA Temperley,2-4,Velez Sarsfield
+Sat Apr 21 2018,Talleres Cordoba,2-0,Gye La Plata
+Sat Apr 21 2018,CA Banfield,1-1,CD Godoy Cruz
+Sun Apr 22 2018,San Lorenzo,1-0,Chacarita Juniors
+Sun Apr 22 2018,Tigre,0-2,Huracan
+Sun Apr 22 2018,Rosario Central,0-2,Racing Club
+Sun Apr 22 2018,Atletico Tucuman,0-0,Union De Santa Fe
+Sun Apr 22 2018,Arsenal Sarandi,0-3,River Plate
+Mon Apr 23 2018,Boca Juniors,3-1,Newells Old Boys
+Tue Apr 24 2018,CA Colon,4-0,Patronato
+Tue Apr 24 2018,Independiente,0-1,Defensa Y Justicia
+Sat Apr 28 2018,Chacarita Juniors,1-2,CA Temperley
+Sat Apr 28 2018,CD Godoy Cruz,2-0,CA San Martin
+Sat Apr 28 2018,Defensa Y Justicia,3-1,Rosario Central
+Sat Apr 28 2018,Velez Sarsfield,1-0,CA Banfield
+Sat Apr 28 2018,Newells Old Boys,0-1,Independiente
+Sat Apr 28 2018,CA Lanus,0-0,Argentinos Juniors
+Sun Apr 29 2018,Huracan,3-2,Atletico Tucuman
+Sun Apr 29 2018,Patronato,0-0,San Lorenzo
+Sun Apr 29 2018,Belgrano Cordoba,1-0,CA Colon
+Tue May 1 2018,Union De Santa Fe,3-0,Talleres Cordoba
+Tue May 1 2018,Olimpo,1-5,Tigre
+Sat May 5 2018,CA San Martin,0-2,Velez Sarsfield
+Sat May 5 2018,San Lorenzo,2-0,Belgrano Cordoba
+Sat May 5 2018,Argentinos Juniors,1-2,CD Godoy Cruz
+Sat May 5 2018,Arsenal Sarandi,4-0,Rosario Central
+Sat May 5 2018,Newells Old Boys,1-0,Defensa Y Justicia
+Sat May 5 2018,Talleres Cordoba,0-0,Huracan
+Sun May 6 2018,Atletico Tucuman,1-1,Olimpo
+Sun May 6 2018,CA Temperley,1-2,Patronato
+Sun May 6 2018,Independiente,2-2,Gye La Plata
+Sun May 6 2018,Tigre,0-0,CA Lanus
+Sun May 6 2018,Boca Juniors,2-0,Union De Santa Fe
+Mon May 7 2018,Estudiantes,1-2,Racing Club
+Tue May 8 2018,CA Banfield,2-1,Chacarita Juniors
+Tue May 8 2018,CA Colon,0-0,River Plate
+Wed May 9 2018,Racing Club,2-0,Arsenal Sarandi
+Thu May 10 2018,Gye La Plata,2-2,Boca Juniors
+Thu May 10 2018,CA Colon,0-1,Velez Sarsfield
+Fri May 11 2018,River Plate,2-0,Estudiantes
+Sat May 12 2018,Chacarita Juniors,1-4,CA San Martin
+Sat May 12 2018,CA Lanus,0-0,Atletico Tucuman
+Sat May 12 2018,Huracan,3-3,Boca Juniors
+Sat May 12 2018,Patronato,0-0,CA Banfield
+Sat May 12 2018,Defensa Y Justicia,2-0,Arsenal Sarandi
+Sat May 12 2018,Olimpo,2-2,Talleres Cordoba
+Sat May 12 2018,Union De Santa Fe,1-0,Independiente
+Sun May 13 2018,Belgrano Cordoba,2-3,CA Temperley
+Sun May 13 2018,CD Godoy Cruz,2-0,Tigre
+Mon May 14 2018,Velez Sarsfield,1-1,Argentinos Juniors
+Tue May 15 2018,Rosario Central,1-1,Estudiantes
+Tue May 15 2018,Racing Club,1-3,CA Colon
+Tue May 15 2018,River Plate,2-0,San Lorenzo
+Tue May 15 2018,Gye La Plata,2-0,Newells Old Boys

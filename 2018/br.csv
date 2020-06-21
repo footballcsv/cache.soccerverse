@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Apr 14 2018,Cruzeiro EC,0-1,Gremio Porto Alegre
+Sun Apr 15 2018,EC Vitoria Ba,2-2,Flamengo RJ
+Sun Apr 15 2018,Santos FC,2-0,Ceara SC
+Sun Apr 15 2018,America MG,3-0,Sport Club Recife
+Sun Apr 15 2018,Vasco Da Gama,2-1,Atletico Mineiro
+Sun Apr 15 2018,Corinthians SP,2-1,Fluminense RJ
+Sun Apr 15 2018,Internacional,2-0,EC Bahia
+Mon Apr 16 2018,Atletico Paranaense,5-1,Chapecoense
+Tue Apr 17 2018,Botafogo RJ,1-1,Se Palmeiras
+Tue Apr 17 2018,Sao Paulo FC,1-0,Parana Clube
+Sat Apr 21 2018,EC Bahia,1-0,Santos FC
+Sun Apr 22 2018,Flamengo RJ,2-0,America MG
+Sun Apr 22 2018,Parana Clube,0-4,Corinthians SP
+Sun Apr 22 2018,Atletico Mineiro,2-1,EC Vitoria Ba
+Sun Apr 22 2018,Chapecoense,1-1,Vasco Da Gama
+Sun Apr 22 2018,Fluminense RJ,1-0,Cruzeiro EC
+Sun Apr 22 2018,Ceara SC,0-0,Sao Paulo FC
+Sun Apr 22 2018,Se Palmeiras,1-0,Internacional
+Mon Apr 23 2018,Gremio Porto Alegre,0-0,Atletico Paranaense
+Tue Apr 24 2018,Sport Club Recife,1-1,Botafogo RJ
+Sat Apr 28 2018,Botafogo RJ,2-1,Gremio Porto Alegre
+Sun Apr 29 2018,Atletico Mineiro,1-0,Corinthians SP
+Sun Apr 29 2018,Parana Clube,1-2,Sport Club Recife
+Sun Apr 29 2018,EC Bahia,0-0,Atletico Paranaense
+Sun Apr 29 2018,Fluminense RJ,1-1,Sao Paulo FC
+Sun Apr 29 2018,Ceara SC,0-3,Flamengo RJ
+Sun Apr 29 2018,Se Palmeiras,0-0,Chapecoense
+Mon Apr 30 2018,Internacional,0-0,Cruzeiro EC
+Tue May 1 2018,America MG,2-1,EC Vitoria Ba
+Sun May 6 2018,Vasco Da Gama,4-1,America MG
+Sun May 6 2018,Sao Paulo FC,2-2,Atletico Mineiro
+Sun May 6 2018,Corinthians SP,1-1,Ceara SC
+Sun May 6 2018,Cruzeiro EC,1-0,Botafogo RJ
+Sun May 6 2018,Atletico Paranaense,1-3,Se Palmeiras
+Sun May 6 2018,EC Vitoria Ba,1-2,Fluminense RJ
+Sun May 6 2018,Flamengo RJ,2-0,Internacional
+Mon May 7 2018,Sport Club Recife,2-0,EC Bahia
+Mon May 7 2018,Gremio Porto Alegre,5-1,Santos FC
+Tue May 8 2018,Chapecoense,1-1,Parana Clube
+Sat May 12 2018,Gremio Porto Alegre,0-0,Internacional
+Sun May 13 2018,Cruzeiro EC,2-0,Sport Club Recife
+Sun May 13 2018,Atletico Paranaense,1-2,Atletico Mineiro
+Sun May 13 2018,Chapecoense,3-2,Flamengo RJ
+Sun May 13 2018,EC Bahia,2-2,Sao Paulo FC
+Sun May 13 2018,Vasco Da Gama,2-3,EC Vitoria Ba
+Sun May 13 2018,Corinthians SP,1-0,Se Palmeiras
+Mon May 14 2018,Santos FC,3-1,Parana Clube
+Tue May 15 2018,Botafogo RJ,2-1,Fluminense RJ
+Tue May 15 2018,Ceara SC,2-2,America MG
+Sat May 19 2018,Atletico Mineiro,1-0,Cruzeiro EC
+Sun May 20 2018,Flamengo RJ,1-1,Vasco Da Gama
+Sun May 20 2018,Se Palmeiras,3-0,EC Bahia
+Sun May 20 2018,EC Vitoria Ba,2-1,Ceara SC
+Sun May 20 2018,Parana Clube,0-0,Gremio Porto Alegre
+Sun May 20 2018,America MG,1-0,Botafogo RJ
+Sun May 20 2018,Sao Paulo FC,1-0,Santos FC
+Sun May 20 2018,Sport Club Recife,1-1,Corinthians SP
+Mon May 21 2018,Fluminense RJ,2-0,Atletico Paranaense
+Tue May 22 2018,Internacional,3-0,Chapecoense
+Sat May 26 2018,Fluminense RJ,3-1,Chapecoense
+Sun May 27 2018,Se Palmeiras,2-3,Sport Club Recife
+Sun May 27 2018,Atletico Mineiro,0-1,Flamengo RJ
+Sun May 27 2018,Parana Clube,0-0,Atletico Paranaense
+Sun May 27 2018,EC Bahia,3-0,Vasco Da Gama
+Sun May 27 2018,Botafogo RJ,1-1,EC Vitoria Ba
+Sun May 27 2018,Santos FC,0-1,Cruzeiro EC
+Sun May 27 2018,Internacional,2-1,Corinthians SP
+Mon May 28 2018,America MG,1-3,Sao Paulo FC
+Mon May 28 2018,Ceara SC,0-1,Gremio Porto Alegre
+Thu May 31 2018,EC Vitoria Ba,2-3,Internacional
+Thu May 31 2018,Vasco Da Gama,1-0,Parana Clube
+Thu May 31 2018,Sport Club Recife,3-2,Atletico Mineiro
+Thu May 31 2018,Chapecoense,2-0,Ceara SC
+Thu May 31 2018,Sao Paulo FC,3-2,Botafogo RJ
+Thu May 31 2018,Cruzeiro EC,1-0,Se Palmeiras
+Thu May 31 2018,Gremio Porto Alegre,0-0,Fluminense RJ
+Thu May 31 2018,Flamengo RJ,2-0,EC Bahia
+Thu May 31 2018,Corinthians SP,1-0,America MG
+Fri Jun 1 2018,Atletico Paranaense,2-0,Santos FC
+Sat Jun 2 2018,Atletico Mineiro,3-3,Chapecoense
+Sat Jun 2 2018,Internacional,0-0,Sport Club Recife
+Sun Jun 3 2018,Vasco Da Gama,1-2,Botafogo RJ
+Sun Jun 3 2018,Se Palmeiras,3-1,Sao Paulo FC
+Sun Jun 3 2018,America MG,3-1,Atletico Paranaense
+Sun Jun 3 2018,EC Bahia,0-2,Gremio Porto Alegre
+Sun Jun 3 2018,Flamengo RJ,1-0,Corinthians SP
+Sun Jun 3 2018,Santos FC,5-2,EC Vitoria Ba
+Mon Jun 4 2018,Ceara SC,0-1,Cruzeiro EC
+Tue Jun 5 2018,Parana Clube,2-1,Fluminense RJ
+Wed Jun 6 2018,Sao Paulo FC,0-0,Internacional
+Thu Jun 7 2018,EC Vitoria Ba,1-0,Chapecoense
+Thu Jun 7 2018,Botafogo RJ,0-0,Ceara SC
+Thu Jun 7 2018,Sport Club Recife,1-0,Atletico Paranaense
+Thu Jun 7 2018,Corinthians SP,1-1,Santos FC
+Thu Jun 7 2018,Cruzeiro EC,1-1,Vasco Da Gama
+Thu Jun 7 2018,Gremio Porto Alegre,0-2,Se Palmeiras
+Fri Jun 8 2018,Parana Clube,1-0,EC Bahia
+Fri Jun 8 2018,Fluminense RJ,0-2,Flamengo RJ
+Fri Jun 8 2018,America MG,1-3,Atletico Mineiro
+Sat Jun 9 2018,Atletico Paranaense,0-1,Sao Paulo FC
+Sun Jun 10 2018,Chapecoense,2-0,Cruzeiro EC
+Sun Jun 10 2018,Vasco Da Gama,3-2,Sport Club Recife
+Sun Jun 10 2018,Corinthians SP,0-0,EC Vitoria Ba
+Sun Jun 10 2018,Atletico Mineiro,5-2,Fluminense RJ
+Sun Jun 10 2018,EC Bahia,3-3,Botafogo RJ
+Sun Jun 10 2018,Ceara SC,2-2,Se Palmeiras
+Sun Jun 10 2018,Gremio Porto Alegre,1-0,America MG
+Mon Jun 11 2018,Flamengo RJ,2-0,Parana Clube
+Mon Jun 11 2018,Santos FC,1-2,Internacional
+Wed Jun 13 2018,Sao Paulo FC,3-0,EC Vitoria Ba
+Wed Jun 13 2018,America MG,0-0,Chapecoense
+Thu Jun 14 2018,Fluminense RJ,0-1,Santos FC
+Thu Jun 14 2018,Parana Clube,1-1,Cruzeiro EC
+Thu Jun 14 2018,Sport Club Recife,0-0,Gremio Porto Alegre
+Thu Jun 14 2018,Botafogo RJ,2-0,Atletico Paranaense
+Thu Jun 14 2018,Se Palmeiras,1-1,Flamengo RJ
+Thu Jun 14 2018,Atletico Mineiro,2-1,Ceara SC
+Thu Jun 14 2018,EC Bahia,1-0,Corinthians SP
+Thu Jun 14 2018,Internacional,3-1,Vasco Da Gama
+Thu Jul 19 2018,Ceara SC,1-0,Sport Club Recife
+Thu Jul 19 2018,EC Vitoria Ba,1-0,Parana Clube
+Thu Jul 19 2018,Flamengo RJ,0-1,Sao Paulo FC
+Thu Jul 19 2018,Corinthians SP,2-0,Botafogo RJ
+Thu Jul 19 2018,Gremio Porto Alegre,2-0,Atletico Mineiro
+Fri Jul 20 2018,Cruzeiro EC,3-1,America MG
+Fri Jul 20 2018,Chapecoense,1-1,EC Bahia
+Fri Jul 20 2018,Vasco Da Gama,1-1,Fluminense RJ
+Fri Jul 20 2018,Santos FC,1-1,Se Palmeiras
+Fri Jul 20 2018,Atletico Paranaense,2-2,Internacional
+Sun Jul 22 2018,Flamengo RJ,2-0,Botafogo RJ
+Sun Jul 22 2018,Sao Paulo FC,3-1,Corinthians SP
+Sun Jul 22 2018,Parana Clube,1-0,America MG
+Sun Jul 22 2018,EC Bahia,4-1,EC Vitoria Ba
+Sun Jul 22 2018,Vasco Da Gama,1-0,Gremio Porto Alegre
+Sun Jul 22 2018,Sport Club Recife,1-2,Fluminense RJ
+Sun Jul 22 2018,Se Palmeiras,3-2,Atletico Mineiro
+Mon Jul 23 2018,Cruzeiro EC,2-1,Atletico Paranaense
+Mon Jul 23 2018,Chapecoense,0-0,Santos FC
+Tue Jul 24 2018,Internacional,1-0,Ceara SC
+Thu Jul 26 2018,Fluminense RJ,1-0,Se Palmeiras
+Thu Jul 26 2018,Atletico Mineiro,2-0,Parana Clube
+Thu Jul 26 2018,Santos FC,1-1,Flamengo RJ
+Thu Jul 26 2018,Corinthians SP,2-0,Cruzeiro EC
+Fri Jul 27 2018,EC Vitoria Ba,1-0,Sport Club Recife
+Fri Jul 27 2018,Botafogo RJ,1-0,Chapecoense
+Fri Jul 27 2018,Gremio Porto Alegre,2-1,Sao Paulo FC
+Fri Jul 27 2018,America MG,2-1,Internacional
+Sat Jul 28 2018,Ceara SC,1-0,Fluminense RJ
+Sun Jul 29 2018,Vasco Da Gama,1-4,Corinthians SP
+Sun Jul 29 2018,Se Palmeiras,3-0,Parana Clube
+Sun Jul 29 2018,Cruzeiro EC,0-2,Sao Paulo FC
+Sun Jul 29 2018,Atletico Paranaense,4-0,EC Vitoria Ba
+Sun Jul 29 2018,Flamengo RJ,4-1,Sport Club Recife
+Sun Jul 29 2018,Internacional,3-0,Botafogo RJ
+Mon Jul 30 2018,Chapecoense,1-1,Gremio Porto Alegre
+Mon Jul 30 2018,Santos FC,0-1,America MG
+Tue Jul 31 2018,EC Bahia,2-2,Atletico Mineiro
+Sat Aug 4 2018,Botafogo RJ,0-0,Santos FC
+Sun Aug 5 2018,Gremio Porto Alegre,2-0,Flamengo RJ
+Sun Aug 5 2018,Corinthians SP,0-0,Atletico Paranaense
+Sun Aug 5 2018,Parana Clube,0-1,Ceara SC
+Sun Aug 5 2018,America MG,0-0,Se Palmeiras
+Sun Aug 5 2018,EC Vitoria Ba,1-1,Cruzeiro EC
+Sun Aug 5 2018,Sao Paulo FC,2-1,Vasco Da Gama
+Mon Aug 6 2018,Fluminense RJ,1-1,EC Bahia
+Mon Aug 6 2018,Sport Club Recife,1-1,Chapecoense
+Tue Aug 7 2018,Atletico Mineiro,0-1,Internacional
+Thu Aug 9 2018,Ceara SC,1-1,Santos FC
+Sat Aug 11 2018,Ceara SC,0-0,Atletico Paranaense
+Sun Aug 12 2018,EC Bahia,1-0,America MG
+Sun Aug 12 2018,Atletico Mineiro,3-1,Santos FC
+Sun Aug 12 2018,Parana Clube,1-1,Botafogo RJ
+Sun Aug 12 2018,Chapecoense,2-1,Corinthians SP
+Sun Aug 12 2018,Flamengo RJ,1-0,Cruzeiro EC
+Sun Aug 12 2018,Sport Club Recife,1-3,Sao Paulo FC
+Mon Aug 13 2018,Se Palmeiras,1-0,Vasco Da Gama
+Mon Aug 13 2018,Gremio Porto Alegre,4-0,EC Vitoria Ba
+Tue Aug 14 2018,Fluminense RJ,0-3,Internacional
+Sat Aug 18 2018,Santos FC,3-0,Sport Club Recife
+Sun Aug 19 2018,Corinthians SP,0-1,Gremio Porto Alegre
+Sun Aug 19 2018,Atletico Paranaense,3-0,Flamengo RJ
+Sun Aug 19 2018,Internacional,1-0,Parana Clube
+Sun Aug 19 2018,Cruzeiro EC,1-1,EC Bahia
+Sun Aug 19 2018,EC Vitoria Ba,0-3,Se Palmeiras
+Sun Aug 19 2018,Botafogo RJ,0-3,Atletico Mineiro
+Mon Aug 20 2018,America MG,0-0,Fluminense RJ
+Mon Aug 20 2018,Sao Paulo FC,2-0,Chapecoense
+Tue Aug 21 2018,Vasco Da Gama,1-1,Ceara SC
+Thu Aug 23 2018,Parana Clube,1-1,Sao Paulo FC
+Thu Aug 23 2018,EC Bahia,0-1,Internacional
+Thu Aug 23 2018,Sport Club Recife,0-2,America MG
+Thu Aug 23 2018,Se Palmeiras,2-0,Botafogo RJ
+Thu Aug 23 2018,Fluminense RJ,1-0,Corinthians SP
+Thu Aug 23 2018,Gremio Porto Alegre,1-1,Cruzeiro EC
+Fri Aug 24 2018,Flamengo RJ,1-0,EC Vitoria Ba
+Fri Aug 24 2018,Atletico Mineiro,0-0,Vasco Da Gama
+Sat Aug 25 2018,Santos FC,2-0,EC Bahia
+Sun Aug 26 2018,Atletico Paranaense,2-1,Gremio Porto Alegre
+Sun Aug 26 2018,Corinthians SP,1-0,Parana Clube
+Sun Aug 26 2018,Cruzeiro EC,2-1,Fluminense RJ
+Sun Aug 26 2018,Botafogo RJ,2-0,Sport Club Recife
+Sun Aug 26 2018,Sao Paulo FC,1-0,Ceara SC
+Sun Aug 26 2018,America MG,2-2,Flamengo RJ
+Sun Aug 26 2018,EC Vitoria Ba,1-0,Atletico Mineiro
+Sun Aug 26 2018,Internacional,0-0,Se Palmeiras
+Mon Aug 27 2018,Vasco Da Gama,3-1,Chapecoense
+Thu Aug 30 2018,Atletico Paranaense,1-0,Vasco Da Gama
+Thu Aug 30 2018,Ceara SC,0-2,EC Bahia
+Sat Sep 1 2018,EC Vitoria Ba,1-0,America MG
+Sat Sep 1 2018,Gremio Porto Alegre,4-0,Botafogo RJ
+Sun Sep 2 2018,Vasco Da Gama,0-3,Santos FC
+Sun Sep 2 2018,Corinthians SP,1-1,Atletico Mineiro
+Sun Sep 2 2018,Flamengo RJ,0-1,Ceara SC
+Sun Sep 2 2018,Atletico Paranaense,2-0,EC Bahia
+Sun Sep 2 2018,Sao Paulo FC,1-1,Fluminense RJ
+Sun Sep 2 2018,Sport Club Recife,1-0,Parana Clube
+Mon Sep 3 2018,Cruzeiro EC,0-0,Internacional
+Mon Sep 3 2018,Chapecoense,1-2,Se Palmeiras
+Thu Sep 6 2018,EC Bahia,2-0,Sport Club Recife
+Thu Sep 6 2018,Botafogo RJ,1-1,Cruzeiro EC
+Thu Sep 6 2018,Ceara SC,2-1,Corinthians SP
+Thu Sep 6 2018,Parana Clube,1-1,Chapecoense
+Thu Sep 6 2018,Se Palmeiras,2-0,Atletico Paranaense
+Thu Sep 6 2018,Atletico Mineiro,1-0,Sao Paulo FC
+Thu Sep 6 2018,Internacional,2-1,Flamengo RJ
+Fri Sep 7 2018,Fluminense RJ,0-0,EC Vitoria Ba
+Fri Sep 7 2018,Santos FC,0-0,Gremio Porto Alegre
+Fri Sep 7 2018,America MG,2-1,Vasco Da Gama
+Sat Sep 8 2018,Sport Club Recife,0-0,Cruzeiro EC
+Sun Sep 9 2018,Sao Paulo FC,1-0,EC Bahia
+Sun Sep 9 2018,Flamengo RJ,2-0,Chapecoense
+Sun Sep 9 2018,America MG,0-0,Ceara SC
+Sun Sep 9 2018,Fluminense RJ,1-0,Botafogo RJ
+Sun Sep 9 2018,Se Palmeiras,1-0,Corinthians SP
+Sun Sep 9 2018,Internacional,1-0,Gremio Porto Alegre
+Mon Sep 10 2018,Parana Clube,0-2,Santos FC
+Mon Sep 10 2018,EC Vitoria Ba,1-0,Vasco Da Gama
+Tue Sep 11 2018,Atletico Mineiro,3-1,Atletico Paranaense
+Fri Sep 14 2018,Chapecoense,2-1,Atletico Paranaense
+Sat Sep 15 2018,Ceara SC,2-0,EC Vitoria Ba
+Sat Sep 15 2018,Gremio Porto Alegre,2-0,Parana Clube
+Sun Sep 16 2018,Vasco Da Gama,1-1,Flamengo RJ
+Sun Sep 16 2018,Botafogo RJ,1-0,America MG
+Sun Sep 16 2018,Cruzeiro EC,0-0,Atletico Mineiro
+Sun Sep 16 2018,Atletico Paranaense,3-1,Fluminense RJ
+Sun Sep 16 2018,EC Bahia,1-1,Se Palmeiras
+Sun Sep 16 2018,Santos FC,0-0,Sao Paulo FC
+Mon Sep 17 2018,Corinthians SP,2-1,Sport Club Recife
+Tue Sep 18 2018,Chapecoense,2-1,Internacional
+Sat Sep 22 2018,Sao Paulo FC,1-1,America MG
+Sun Sep 23 2018,Gremio Porto Alegre,3-2,Ceara SC
+Sun Sep 23 2018,Atletico Paranaense,3-0,Parana Clube
+Sun Sep 23 2018,Flamengo RJ,2-1,Atletico Mineiro
+Sun Sep 23 2018,Corinthians SP,1-1,Internacional
+Sun Sep 23 2018,EC Vitoria Ba,3-4,Botafogo RJ
+Sun Sep 23 2018,Sport Club Recife,0-1,Se Palmeiras
+Mon Sep 24 2018,Cruzeiro EC,2-1,Santos FC
+Tue Sep 25 2018,Chapecoense,1-2,Fluminense RJ
+Tue Sep 25 2018,Vasco Da Gama,2-1,EC Bahia
+Fri Sep 28 2018,Santos FC,1-1,Vasco Da Gama
+Sat Sep 29 2018,Fluminense RJ,0-1,Gremio Porto Alegre
+Sun Sep 30 2018,America MG,0-0,Corinthians SP
+Sun Sep 30 2018,EC Bahia,0-0,Flamengo RJ
+Sun Sep 30 2018,Se Palmeiras,3-1,Cruzeiro EC
+Sun Sep 30 2018,Atletico Mineiro,5-2,Sport Club Recife
+Sun Sep 30 2018,Botafogo RJ,2-2,Sao Paulo FC
+Sun Sep 30 2018,Santos FC,1-0,Atletico Paranaense
+Sun Sep 30 2018,Internacional,2-1,EC Vitoria Ba
+Mon Oct 1 2018,Ceara SC,3-1,Chapecoense
+Tue Oct 2 2018,Parana Clube,1-1,Vasco Da Gama
+Sat Oct 6 2018,Sport Club Recife,2-1,Internacional
+Sat Oct 6 2018,Corinthians SP,0-3,Flamengo RJ
+Sat Oct 6 2018,EC Vitoria Ba,0-1,Santos FC
+Sat Oct 6 2018,Atletico Paranaense,4-0,America MG
+Sat Oct 6 2018,Chapecoense,1-0,Atletico Mineiro
+Sat Oct 6 2018,Sao Paulo FC,0-2,Se Palmeiras
+Sun Oct 7 2018,Gremio Porto Alegre,2-2,EC Bahia
+Tue Oct 9 2018,Fluminense RJ,4-0,Parana Clube
+Wed Oct 10 2018,Botafogo RJ,1-1,Vasco Da Gama
+Sat Oct 13 2018,Flamengo RJ,3-0,Fluminense RJ
+Sun Oct 14 2018,Santos FC,1-0,Corinthians SP
+Sun Oct 14 2018,EC Bahia,2-0,Parana Clube
+Sun Oct 14 2018,Chapecoense,0-1,EC Vitoria Ba
+Sun Oct 14 2018,Vasco Da Gama,2-0,Cruzeiro EC
+Sun Oct 14 2018,Se Palmeiras,2-0,Gremio Porto Alegre
+Sun Oct 14 2018,Internacional,3-1,Sao Paulo FC
+Mon Oct 15 2018,Atletico Mineiro,0-0,America MG
+Mon Oct 15 2018,Atletico Paranaense,4-0,Sport Club Recife
+Tue Oct 16 2018,Ceara SC,0-0,Botafogo RJ
+Sat Oct 20 2018,America MG,1-1,Gremio Porto Alegre
+Sat Oct 20 2018,Botafogo RJ,0-1,EC Bahia
+Sun Oct 21 2018,Sao Paulo FC,0-0,Atletico Paranaense
+Sun Oct 21 2018,Sport Club Recife,2-1,Vasco Da Gama
+Sun Oct 21 2018,EC Vitoria Ba,2-2,Corinthians SP
+Sun Oct 21 2018,Fluminense RJ,1-0,Atletico Mineiro
+Sun Oct 21 2018,Se Palmeiras,2-1,Ceara SC
+Mon Oct 22 2018,Cruzeiro EC,3-0,Chapecoense
+Mon Oct 22 2018,Parana Clube,0-4,Flamengo RJ
+Tue Oct 23 2018,Internacional,2-2,Santos FC
+Thu Oct 25 2018,Cruzeiro EC,0-2,Ceara SC
+Sat Oct 27 2018,EC Vitoria Ba,0-1,Sao Paulo FC
+Sat Oct 27 2018,Vasco Da Gama,1-1,Internacional
+Sat Oct 27 2018,Santos FC,3-0,Fluminense RJ
+Sat Oct 27 2018,Gremio Porto Alegre,3-4,Sport Club Recife
+Sun Oct 28 2018,Chapecoense,1-0,America MG
+Sun Oct 28 2018,Flamengo RJ,1-1,Se Palmeiras
+Sun Oct 28 2018,Corinthians SP,2-1,EC Bahia
+Sun Oct 28 2018,Cruzeiro EC,3-1,Parana Clube
+Sun Oct 28 2018,Atletico Paranaense,2-1,Botafogo RJ
+Tue Oct 30 2018,Ceara SC,2-1,Atletico Mineiro
+Sat Nov 3 2018,Atletico Mineiro,0-1,Gremio Porto Alegre
+Sat Nov 3 2018,Fluminense RJ,0-1,Vasco Da Gama
+Sat Nov 3 2018,Se Palmeiras,3-2,Santos FC
+Sun Nov 4 2018,Parana Clube,1-1,EC Vitoria Ba
+Sun Nov 4 2018,America MG,1-2,Cruzeiro EC
+Sun Nov 4 2018,Botafogo RJ,1-0,Corinthians SP
+Sun Nov 4 2018,Sao Paulo FC,2-2,Flamengo RJ
+Sun Nov 4 2018,EC Bahia,1-0,Chapecoense
+Sun Nov 4 2018,Internacional,2-1,Atletico Paranaense
+Mon Nov 5 2018,Sport Club Recife,1-0,Ceara SC
+Sat Nov 10 2018,America MG,0-1,Parana Clube
+Sat Nov 10 2018,Corinthians SP,1-1,Sao Paulo FC
+Sat Nov 10 2018,Atletico Paranaense,2-0,Cruzeiro EC
+Sat Nov 10 2018,Botafogo RJ,2-1,Flamengo RJ
+Sun Nov 11 2018,Atletico Mineiro,1-1,Se Palmeiras
+Sun Nov 11 2018,EC Vitoria Ba,2-2,EC Bahia
+Sun Nov 11 2018,Ceara SC,1-1,Internacional
+Sun Nov 11 2018,Gremio Porto Alegre,2-1,Vasco Da Gama
+Sun Nov 11 2018,Fluminense RJ,0-0,Sport Club Recife
+Mon Nov 12 2018,Santos FC,0-1,Chapecoense
+Wed Nov 14 2018,Vasco Da Gama,1-1,Atletico Paranaense
+Thu Nov 15 2018,Parana Clube,0-1,Atletico Mineiro
+Thu Nov 15 2018,EC Bahia,2-1,Ceara SC
+Thu Nov 15 2018,Cruzeiro EC,1-0,Corinthians SP
+Thu Nov 15 2018,Sport Club Recife,0-0,EC Vitoria Ba
+Thu Nov 15 2018,Se Palmeiras,3-0,Fluminense RJ
+Thu Nov 15 2018,Chapecoense,0-1,Botafogo RJ
+Thu Nov 15 2018,Flamengo RJ,1-0,Santos FC
+Thu Nov 15 2018,Sao Paulo FC,1-1,Gremio Porto Alegre
+Fri Nov 16 2018,Internacional,2-0,America MG
+Sat Nov 17 2018,EC Vitoria Ba,1-2,Atletico Paranaense
+Sat Nov 17 2018,Corinthians SP,1-0,Vasco Da Gama
+Sun Nov 18 2018,Atletico Mineiro,1-0,EC Bahia
+Sun Nov 18 2018,Parana Clube,1-1,Se Palmeiras
+Sun Nov 18 2018,America MG,2-1,Santos FC
+Sun Nov 18 2018,Botafogo RJ,1-0,Internacional
+Sun Nov 18 2018,Sport Club Recife,0-1,Flamengo RJ
+Sun Nov 18 2018,Sao Paulo FC,1-0,Cruzeiro EC
+Sun Nov 18 2018,Gremio Porto Alegre,2-0,Chapecoense
+Mon Nov 19 2018,Fluminense RJ,0-0,Ceara SC
+Wed Nov 21 2018,Internacional,1-2,Atletico Mineiro
+Thu Nov 22 2018,Santos FC,1-1,Botafogo RJ
+Thu Nov 22 2018,Cruzeiro EC,3-0,EC Vitoria Ba
+Thu Nov 22 2018,Atletico Paranaense,1-0,Corinthians SP
+Thu Nov 22 2018,Flamengo RJ,2-0,Gremio Porto Alegre
+Thu Nov 22 2018,Se Palmeiras,4-0,America MG
+Thu Nov 22 2018,Vasco Da Gama,2-0,Sao Paulo FC
+Fri Nov 23 2018,Chapecoense,2-1,Sport Club Recife
+Fri Nov 23 2018,EC Bahia,2-0,Fluminense RJ
+Fri Nov 23 2018,Ceara SC,1-0,Parana Clube
+Sat Nov 24 2018,Santos FC,3-2,Atletico Mineiro
+Sun Nov 25 2018,Cruzeiro EC,0-2,Flamengo RJ
+Sun Nov 25 2018,Atletico Paranaense,2-2,Ceara SC
+Sun Nov 25 2018,EC Vitoria Ba,0-0,Gremio Porto Alegre
+Sun Nov 25 2018,Vasco Da Gama,0-1,Se Palmeiras
+Sun Nov 25 2018,America MG,1-0,EC Bahia
+Sun Nov 25 2018,Corinthians SP,0-0,Chapecoense
+Sun Nov 25 2018,Internacional,2-0,Fluminense RJ
+Mon Nov 26 2018,Botafogo RJ,2-1,Parana Clube
+Mon Nov 26 2018,Sao Paulo FC,0-0,Sport Club Recife
+Sat Dec 1 2018,Atletico Mineiro,1-0,Botafogo RJ
+Sat Dec 1 2018,Flamengo RJ,1-2,Atletico Paranaense
+Sun Dec 2 2018,Parana Clube,1-1,Internacional
+Sun Dec 2 2018,Chapecoense,1-0,Sao Paulo FC
+Sun Dec 2 2018,EC Bahia,0-0,Cruzeiro EC
+Sun Dec 2 2018,Fluminense RJ,1-0,America MG
+Sun Dec 2 2018,Ceara SC,0-0,Vasco Da Gama
+Sun Dec 2 2018,Sport Club Recife,2-1,Santos FC
+Sun Dec 2 2018,Se Palmeiras,3-2,EC Vitoria Ba
+Sun Dec 2 2018,Gremio Porto Alegre,1-0,Corinthians SP

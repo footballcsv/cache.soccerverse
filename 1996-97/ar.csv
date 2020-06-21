@@ -1,0 +1,383 @@
+Date,Team 1,FT,Team 2
+Mon Jul 1 1996,Deportivo Espanol,1-0,Platense
+Sat Jul 6 1996,CA Lanus,2-2,River Plate
+Fri Jul 12 1996,San Lorenzo,1-0,Belgrano Cordoba
+Fri Jul 12 1996,CA Colon,2-0,CA Banfield
+Sat Jul 13 1996,Newells Old Boys,1-0,Racing Club
+Sun Jul 14 1996,Platense,1-0,Gye Jujuy
+Sun Jul 14 1996,CA Lanus,1-0,Estudiantes
+Sun Jul 14 1996,Independiente,1-4,Huracan
+Sun Jul 14 1996,Gye La Plata,4-0,Rosario Central
+Sun Jul 14 1996,Boca Juniors,4-1,River Plate
+Sun Jul 14 1996,Argentinos Juniors,0-0,Velez Sarsfield
+Mon Jul 15 1996,Ferro Carril Oeste,1-1,Deportivo Espanol
+Mon Aug 5 1996,River Plate,1-2,Gye La Plata
+Mon Aug 5 1996,Belgrano Cordoba,0-0,Independiente
+Mon Aug 5 1996,CA Banfield,0-1,Argentinos Juniors
+Tue Aug 6 1996,Velez Sarsfield,4-1,San Lorenzo
+Tue Aug 6 1996,Huracan,2-2,Platense
+Tue Aug 6 1996,Gye Jujuy,0-1,Ferro Carril Oeste
+Tue Aug 6 1996,Deportivo Espanol,1-0,CA Lanus
+Wed Aug 7 1996,Rosario Central,1-1,CA Colon
+Wed Aug 7 1996,Racing Club,1-0,Boca Juniors
+Wed Aug 7 1996,Estudiantes,2-2,Newells Old Boys
+Fri Aug 9 1996,Independiente,1-1,Platense
+Sat Aug 10 1996,Gye La Plata,6-0,Racing Club
+Sun Aug 11 1996,Newells Old Boys,0-0,Deportivo Espanol
+Sun Aug 11 1996,CA Lanus,1-1,Gye Jujuy
+Sun Aug 11 1996,Ferro Carril Oeste,2-1,Huracan
+Sun Aug 11 1996,CA Colon,1-0,River Plate
+Sun Aug 11 1996,Boca Juniors,1-2,Estudiantes
+Sun Aug 11 1996,Belgrano Cordoba,1-2,Velez Sarsfield
+Sun Aug 11 1996,Argentinos Juniors,1-6,Rosario Central
+Mon Aug 12 1996,San Lorenzo,0-1,CA Banfield
+Fri Aug 16 1996,River Plate,0-0,Argentinos Juniors
+Sat Aug 17 1996,Rosario Central,3-1,San Lorenzo
+Sun Aug 18 1996,Velez Sarsfield,0-0,Independiente
+Sun Aug 18 1996,Racing Club,1-2,CA Colon
+Sun Aug 18 1996,Huracan,2-1,CA Lanus
+Sun Aug 18 1996,Gye Jujuy,2-0,Newells Old Boys
+Sun Aug 18 1996,Estudiantes,1-1,Gye La Plata
+Sun Aug 18 1996,Deportivo Espanol,1-1,Boca Juniors
+Sun Aug 18 1996,CA Banfield,0-2,Belgrano Cordoba
+Mon Aug 19 1996,Platense,0-1,Ferro Carril Oeste
+Fri Aug 23 1996,CA Lanus,0-0,Huracan
+Sat Aug 24 1996,Newells Old Boys,0-2,Velez Sarsfield
+Sun Aug 25 1996,San Lorenzo,0-1,CA Banfield
+Sun Aug 25 1996,River Plate,0-0,Gye La Plata
+Sun Aug 25 1996,Racing Club,0-2,Rosario Central
+Sun Aug 25 1996,Huracan De Corrientes,3-6,Union De Santa Fe
+Sun Aug 25 1996,Gye Jujuy,1-0,Platense
+Sun Aug 25 1996,Ferro Carril Oeste,0-3,Independiente
+Sun Aug 25 1996,Estudiantes,2-3,Boca Juniors
+Mon Aug 26 1996,CA Colon,1-1,Deportivo Espanol
+Mon Sep 2 1996,CA Banfield,1-1,Huracan De Corrientes
+Tue Sep 3 1996,Huracan,1-1,San Lorenzo
+Tue Sep 3 1996,Gye La Plata,1-0,Ferro Carril Oeste
+Tue Sep 3 1996,Deportivo Espanol,0-1,CA Lanus
+Tue Sep 3 1996,Boca Juniors,2-3,CA Colon
+Wed Sep 4 1996,Velez Sarsfield,2-3,Racing Club
+Wed Sep 4 1996,Union De Santa Fe,1-3,River Plate
+Wed Sep 4 1996,Platense,2-4,Estudiantes
+Wed Sep 4 1996,Independiente,4-0,Newells Old Boys
+Wed Sep 4 1996,Gye Jujuy,0-0,Rosario Central
+Sat Sep 7 1996,CA Lanus,3-1,Boca Juniors
+Sat Sep 7 1996,Huracan De Corrientes,1-1,Huracan
+Sun Sep 8 1996,Velez Sarsfield,2-3,Independiente
+Sun Sep 8 1996,San Lorenzo,0-1,Deportivo Espanol
+Sun Sep 8 1996,River Plate,2-0,CA Banfield
+Sun Sep 8 1996,Racing Club,0-0,Gye Jujuy
+Sun Sep 8 1996,Newells Old Boys,1-0,Gye La Plata
+Sun Sep 8 1996,Estudiantes,0-2,Rosario Central
+Sun Sep 8 1996,CA Colon,1-1,Platense
+Mon Sep 9 1996,Ferro Carril Oeste,2-2,Union De Santa Fe
+Sat Sep 14 1996,Union De Santa Fe,1-2,Newells Old Boys
+Sun Sep 15 1996,Rosario Central,0-0,CA Colon
+Sun Sep 15 1996,Platense,0-0,CA Lanus
+Sun Sep 15 1996,Independiente,2-2,Racing Club
+Sun Sep 15 1996,Huracan,2-3,River Plate
+Sun Sep 15 1996,Gye La Plata,1-1,Velez Sarsfield
+Sun Sep 15 1996,Gye Jujuy,2-0,Estudiantes
+Sun Sep 15 1996,Deportivo Espanol,1-0,Huracan De Corrientes
+Sun Sep 15 1996,Boca Juniors,1-1,San Lorenzo
+Mon Sep 16 1996,CA Banfield,3-2,Ferro Carril Oeste
+Fri Sep 20 1996,Independiente,2-0,Gye La Plata
+Sat Sep 21 1996,Estudiantes,1-2,Racing Club
+Sat Sep 21 1996,Huracan De Corrientes,1-3,Boca Juniors
+Sun Sep 22 1996,Velez Sarsfield,2-0,Union De Santa Fe
+Sun Sep 22 1996,San Lorenzo,1-0,Platense
+Sun Sep 22 1996,River Plate,3-1,Deportivo Espanol
+Sun Sep 22 1996,Newells Old Boys,2-0,CA Banfield
+Sun Sep 22 1996,CA Lanus,2-1,Rosario Central
+Sun Sep 22 1996,Ferro Carril Oeste,4-2,Huracan
+Mon Sep 23 1996,CA Colon,0-0,Gye Jujuy
+Sat Sep 28 1996,Rosario Central,1-2,San Lorenzo
+Sat Sep 28 1996,CA Banfield,1-3,Velez Sarsfield
+Sun Sep 29 1996,Union De Santa Fe,0-1,Independiente
+Sun Sep 29 1996,Racing Club,0-1,Gye La Plata
+Sun Sep 29 1996,Huracan,1-1,Newells Old Boys
+Sun Sep 29 1996,Gye Jujuy,1-2,CA Lanus
+Sun Sep 29 1996,Deportivo Espanol,2-2,Ferro Carril Oeste
+Sun Sep 29 1996,Estudiantes,2-3,CA Colon
+Sun Sep 29 1996,Boca Juniors,3-2,River Plate
+Mon Sep 30 1996,Huracan De Corrientes,1-0,Platense
+Fri Oct 11 1996,San Lorenzo,1-0,Gye Jujuy
+Sat Oct 12 1996,CA Colon,0-2,Racing Club
+Sun Oct 13 1996,Velez Sarsfield,2-1,Huracan
+Sun Oct 13 1996,River Plate,4-1,Platense
+Sun Oct 13 1996,Newells Old Boys,2-0,Deportivo Espanol
+Sun Oct 13 1996,CA Lanus,0-0,Estudiantes
+Sun Oct 13 1996,Independiente,1-1,CA Banfield
+Sun Oct 13 1996,Huracan De Corrientes,1-1,Rosario Central
+Sun Oct 13 1996,Ferro Carril Oeste,3-1,Boca Juniors
+Mon Oct 14 1996,Gye La Plata,1-1,Union De Santa Fe
+Fri Oct 18 1996,Independiente,1-1,Huracan
+Sat Oct 19 1996,Estudiantes,1-0,San Lorenzo
+Sun Oct 20 1996,Rosario Central,2-5,River Plate
+Sun Oct 20 1996,Racing Club,2-1,Union De Santa Fe
+Sun Oct 20 1996,Gye Jujuy,0-0,Huracan De Corrientes
+Sun Oct 20 1996,Deportivo Espanol,1-2,Velez Sarsfield
+Sun Oct 20 1996,CA Colon,0-1,CA Lanus
+Sun Oct 20 1996,Boca Juniors,2-1,Newells Old Boys
+Sun Oct 20 1996,CA Banfield,0-2,Gye La Plata
+Sun Oct 20 1996,Velez Sarsfield,1-1,Boca Juniors
+Sun Oct 20 1996,Union De Santa Fe,3-1,CA Banfield
+Sun Oct 20 1996,San Lorenzo,4-1,CA Colon
+Sun Oct 20 1996,River Plate,3-0,Gye Jujuy
+Sun Oct 20 1996,Newells Old Boys,2-2,Platense
+Sun Oct 20 1996,CA Lanus,1-1,Racing Club
+Sun Oct 20 1996,Independiente,2-2,Deportivo Espanol
+Sun Oct 20 1996,Huracan De Corrientes,2-2,Estudiantes
+Sun Oct 20 1996,Gye La Plata,1-0,Huracan
+Sun Oct 20 1996,Ferro Carril Oeste,1-3,Rosario Central
+Mon Oct 21 1996,Platense,1-0,Ferro Carril Oeste
+Mon Nov 4 1996,Rosario Central,1-1,Newells Old Boys
+Mon Nov 4 1996,Racing Club,1-0,CA Banfield
+Mon Nov 4 1996,Platense,4-4,Velez Sarsfield
+Mon Nov 4 1996,CA Lanus,3-1,San Lorenzo
+Mon Nov 4 1996,Huracan,3-0,Union De Santa Fe
+Mon Nov 4 1996,Gye Jujuy,2-2,Ferro Carril Oeste
+Mon Nov 4 1996,Estudiantes,0-1,River Plate
+Mon Nov 4 1996,Deportivo Espanol,1-2,Gye La Plata
+Mon Nov 4 1996,CA Colon,1-1,Huracan De Corrientes
+Mon Nov 4 1996,Boca Juniors,0-1,Independiente
+Tue Nov 5 1996,Velez Sarsfield,4-4,Rosario Central
+Tue Nov 5 1996,Union De Santa Fe,1-1,Deportivo Espanol
+Tue Nov 5 1996,San Lorenzo,3-0,Racing Club
+Tue Nov 5 1996,River Plate,3-0,CA Colon
+Tue Nov 5 1996,Newells Old Boys,3-1,Gye Jujuy
+Tue Nov 5 1996,Independiente,1-4,Platense
+Tue Nov 5 1996,Huracan De Corrientes,1-1,CA Lanus
+Tue Nov 5 1996,Gye La Plata,1-1,Boca Juniors
+Tue Nov 5 1996,Ferro Carril Oeste,3-2,Estudiantes
+Tue Nov 5 1996,CA Banfield,1-2,Huracan
+Mon Nov 11 1996,San Lorenzo,4-2,Huracan De Corrientes
+Mon Nov 11 1996,Rosario Central,3-1,Independiente
+Mon Nov 11 1996,Racing Club,6-1,Huracan
+Mon Nov 11 1996,Platense,3-1,Gye La Plata
+Mon Nov 11 1996,CA Lanus,3-1,River Plate
+Mon Nov 11 1996,Gye Jujuy,1-1,Velez Sarsfield
+Mon Nov 11 1996,Estudiantes,0-5,Newells Old Boys
+Mon Nov 11 1996,Deportivo Espanol,0-0,CA Banfield
+Mon Nov 11 1996,CA Colon,1-1,Ferro Carril Oeste
+Mon Nov 11 1996,Boca Juniors,2-0,Union De Santa Fe
+Mon Nov 18 1996,Velez Sarsfield,0-2,Estudiantes
+Mon Nov 18 1996,Union De Santa Fe,0-1,Platense
+Mon Nov 18 1996,River Plate,4-0,San Lorenzo
+Mon Nov 18 1996,Newells Old Boys,1-1,CA Colon
+Mon Nov 18 1996,Independiente,1-0,Gye Jujuy
+Mon Nov 18 1996,Huracan De Corrientes,2-3,Racing Club
+Mon Nov 18 1996,Huracan,1-0,Deportivo Espanol
+Mon Nov 18 1996,Gye La Plata,1-2,Rosario Central
+Mon Nov 18 1996,Ferro Carril Oeste,1-2,CA Lanus
+Mon Nov 18 1996,CA Banfield,3-1,Boca Juniors
+Mon Nov 25 1996,San Lorenzo,2-2,Ferro Carril Oeste
+Mon Nov 25 1996,Rosario Central,1-3,Union De Santa Fe
+Mon Nov 25 1996,Racing Club,0-0,Deportivo Espanol
+Mon Nov 25 1996,Platense,2-0,CA Banfield
+Mon Nov 25 1996,CA Lanus,2-0,Newells Old Boys
+Mon Nov 25 1996,Huracan De Corrientes,1-2,River Plate
+Mon Nov 25 1996,Gye Jujuy,1-0,Gye La Plata
+Mon Nov 25 1996,Estudiantes,1-0,Independiente
+Mon Nov 25 1996,CA Colon,2-1,Velez Sarsfield
+Mon Nov 25 1996,Boca Juniors,6-0,Huracan
+Sun Dec 1 1996,San Lorenzo,1-0,Velez Sarsfield
+Sun Dec 1 1996,Rosario Central,1-1,Huracan
+Sun Dec 1 1996,River Plate,5-1,Ferro Carril Oeste
+Sun Dec 1 1996,Racing Club,4-2,Boca Juniors
+Sun Dec 1 1996,Platense,1-1,Deportivo Espanol
+Sun Dec 1 1996,CA Lanus,1-2,Independiente
+Sun Dec 1 1996,Huracan De Corrientes,4-1,Newells Old Boys
+Sun Dec 1 1996,Gye Jujuy,4-1,CA Banfield
+Sun Dec 1 1996,Estudiantes,1-0,Union De Santa Fe
+Sun Dec 1 1996,CA Colon,3-1,Gye La Plata
+Wed Dec 4 1996,Velez Sarsfield,2-0,CA Lanus
+Wed Dec 4 1996,Union De Santa Fe,2-0,Gye Jujuy
+Wed Dec 4 1996,Newells Old Boys,0-2,San Lorenzo
+Wed Dec 4 1996,Independiente,2-1,CA Colon
+Wed Dec 4 1996,Huracan,1-1,Platense
+Wed Dec 4 1996,Gye La Plata,0-0,Estudiantes
+Wed Dec 4 1996,Ferro Carril Oeste,5-1,Huracan De Corrientes
+Wed Dec 4 1996,Deportivo Espanol,1-1,Boca Juniors
+Wed Dec 4 1996,CA Banfield,1-1,Rosario Central
+Wed Dec 4 1996,River Plate,4-3,Racing Club
+Sun Dec 8 1996,Velez Sarsfield,0-3,Huracan De Corrientes
+Sun Dec 8 1996,Union De Santa Fe,1-1,CA Colon
+Sun Dec 8 1996,Newells Old Boys,1-3,River Plate
+Sun Dec 8 1996,Independiente,2-0,San Lorenzo
+Sun Dec 8 1996,Huracan,2-3,Gye Jujuy
+Sun Dec 8 1996,Gye La Plata,0-0,CA Lanus
+Sun Dec 8 1996,Ferro Carril Oeste,1-1,Racing Club
+Sun Dec 8 1996,Deportivo Espanol,2-3,Rosario Central
+Sun Dec 8 1996,Boca Juniors,4-1,Platense
+Sun Dec 8 1996,CA Banfield,0-4,Estudiantes
+Wed Dec 18 1996,San Lorenzo,1-2,Gye La Plata
+Wed Dec 18 1996,Rosario Central,4-2,Boca Juniors
+Wed Dec 18 1996,River Plate,3-0,Velez Sarsfield
+Wed Dec 18 1996,Racing Club,1-0,Platense
+Wed Dec 18 1996,CA Lanus,0-0,Union De Santa Fe
+Wed Dec 18 1996,Huracan De Corrientes,3-2,Independiente
+Wed Dec 18 1996,Gye Jujuy,1-1,Deportivo Espanol
+Wed Dec 18 1996,Ferro Carril Oeste,0-0,Newells Old Boys
+Wed Dec 18 1996,Estudiantes,3-1,Huracan
+Wed Dec 18 1996,CA Colon,6-0,CA Banfield
+Sun Dec 22 1996,Velez Sarsfield,0-2,Ferro Carril Oeste
+Sun Dec 22 1996,Union De Santa Fe,2-0,San Lorenzo
+Sun Dec 22 1996,Platense,1-3,Rosario Central
+Sun Dec 22 1996,Newells Old Boys,1-0,Racing Club
+Sun Dec 22 1996,Independiente,3-1,River Plate
+Sun Dec 22 1996,Huracan,0-1,CA Colon
+Sun Dec 22 1996,Gye La Plata,6-3,Huracan De Corrientes
+Sun Dec 22 1996,Deportivo Espanol,2-2,Estudiantes
+Sun Dec 22 1996,Boca Juniors,0-1,Gye Jujuy
+Sun Dec 22 1996,CA Banfield,0-1,CA Lanus
+Sat Feb 22 1997,Velez Sarsfield,1-1,Newells Old Boys
+Sat Feb 22 1997,Union De Santa Fe,0-0,Huracan De Corrientes
+Sat Feb 22 1997,Rosario Central,5-0,Racing Club
+Sat Feb 22 1997,Platense,1-1,Gye Jujuy
+Sat Feb 22 1997,Independiente,2-2,Ferro Carril Oeste
+Sat Feb 22 1997,Huracan,0-0,CA Lanus
+Sat Feb 22 1997,Gye La Plata,0-2,River Plate
+Sat Feb 22 1997,Deportivo Espanol,1-1,CA Colon
+Sat Feb 22 1997,Boca Juniors,2-1,Estudiantes
+Sat Feb 22 1997,CA Banfield,1-1,San Lorenzo
+Fri Feb 28 1997,San Lorenzo,5-1,Huracan
+Fri Feb 28 1997,River Plate,4-0,Union De Santa Fe
+Fri Feb 28 1997,Racing Club,2-0,Velez Sarsfield
+Fri Feb 28 1997,Newells Old Boys,2-1,Independiente
+Fri Feb 28 1997,CA Lanus,1-2,Deportivo Espanol
+Fri Feb 28 1997,Huracan De Corrientes,1-1,CA Banfield
+Fri Feb 28 1997,Gye Jujuy,1-1,Rosario Central
+Fri Feb 28 1997,Ferro Carril Oeste,0-0,Gye La Plata
+Fri Feb 28 1997,Estudiantes,1-2,Platense
+Fri Feb 28 1997,CA Colon,1-0,Boca Juniors
+Tue Mar 4 1997,Union De Santa Fe,2-1,Ferro Carril Oeste
+Tue Mar 4 1997,Rosario Central,1-0,Estudiantes
+Tue Mar 4 1997,Platense,2-2,CA Colon
+Tue Mar 4 1997,Independiente,0-3,Velez Sarsfield
+Tue Mar 4 1997,Huracan,1-1,Huracan De Corrientes
+Tue Mar 4 1997,Gye La Plata,1-0,Newells Old Boys
+Tue Mar 4 1997,Gye Jujuy,1-2,Racing Club
+Tue Mar 4 1997,Deportivo Espanol,2-3,San Lorenzo
+Tue Mar 4 1997,Boca Juniors,1-1,CA Lanus
+Tue Mar 4 1997,CA Banfield,0-2,River Plate
+Sat Mar 8 1997,Velez Sarsfield,1-0,Gye La Plata
+Sat Mar 8 1997,San Lorenzo,4-0,Boca Juniors
+Sat Mar 8 1997,River Plate,3-0,Huracan
+Sat Mar 8 1997,Racing Club,1-2,Independiente
+Sat Mar 8 1997,Newells Old Boys,2-1,Union De Santa Fe
+Sat Mar 8 1997,CA Lanus,2-0,Platense
+Sat Mar 8 1997,Huracan De Corrientes,2-2,Deportivo Espanol
+Sat Mar 8 1997,Ferro Carril Oeste,0-1,CA Banfield
+Sat Mar 8 1997,Estudiantes,3-2,Gye Jujuy
+Sat Mar 8 1997,CA Colon,2-0,Rosario Central
+Sat Mar 15 1997,Union De Santa Fe,1-0,Velez Sarsfield
+Sat Mar 15 1997,Rosario Central,0-0,CA Lanus
+Sat Mar 15 1997,Racing Club,1-0,Estudiantes
+Sat Mar 15 1997,Platense,3-1,San Lorenzo
+Sat Mar 15 1997,Huracan,3-4,Ferro Carril Oeste
+Sat Mar 15 1997,Gye La Plata,2-1,Independiente
+Sat Mar 15 1997,Gye Jujuy,1-4,CA Colon
+Sat Mar 15 1997,Deportivo Espanol,1-1,River Plate
+Sat Mar 15 1997,Boca Juniors,4-1,Huracan De Corrientes
+Sat Mar 15 1997,CA Banfield,2-3,Newells Old Boys
+Sat Mar 22 1997,Velez Sarsfield,2-1,CA Banfield
+Sat Mar 22 1997,San Lorenzo,3-1,Rosario Central
+Sat Mar 22 1997,River Plate,3-3,Boca Juniors
+Sat Mar 22 1997,Newells Old Boys,2-0,Huracan
+Sat Mar 22 1997,CA Lanus,1-1,Gye Jujuy
+Sat Mar 22 1997,Independiente,4-4,Union De Santa Fe
+Sat Mar 22 1997,Huracan De Corrientes,1-1,Platense
+Sat Mar 22 1997,Gye La Plata,1-0,Racing Club
+Sat Mar 22 1997,Ferro Carril Oeste,2-1,Deportivo Espanol
+Sat Mar 22 1997,CA Colon,3-1,Estudiantes
+Sat Apr 5 1997,Union De Santa Fe,2-1,Gye La Plata
+Sat Apr 5 1997,Rosario Central,0-0,Huracan De Corrientes
+Sat Apr 5 1997,Racing Club,1-1,CA Colon
+Sat Apr 5 1997,Platense,1-2,River Plate
+Sat Apr 5 1997,Huracan,3-1,Velez Sarsfield
+Sat Apr 5 1997,Gye Jujuy,2-1,San Lorenzo
+Sat Apr 5 1997,Estudiantes,0-0,CA Lanus
+Sat Apr 5 1997,Deportivo Espanol,0-1,Newells Old Boys
+Sat Apr 5 1997,Boca Juniors,1-1,Ferro Carril Oeste
+Sat Apr 5 1997,CA Banfield,0-2,Independiente
+Fri Apr 11 1997,Velez Sarsfield,2-1,Deportivo Espanol
+Fri Apr 11 1997,Union De Santa Fe,1-1,Racing Club
+Fri Apr 11 1997,San Lorenzo,0-1,Estudiantes
+Fri Apr 11 1997,Newells Old Boys,1-1,Boca Juniors
+Fri Apr 11 1997,CA Lanus,3-4,CA Colon
+Fri Apr 11 1997,Independiente,2-0,Huracan
+Fri Apr 11 1997,Huracan De Corrientes,1-1,Gye Jujuy
+Fri Apr 11 1997,Gye La Plata,3-1,CA Banfield
+Fri Apr 11 1997,Ferro Carril Oeste,0-1,Platense
+Sat Apr 19 1997,Rosario Central,1-3,Ferro Carril Oeste
+Sat Apr 19 1997,Racing Club,1-2,CA Lanus
+Sat Apr 19 1997,Platense,1-2,Newells Old Boys
+Sat Apr 19 1997,Huracan,1-1,Gye La Plata
+Sat Apr 19 1997,Gye Jujuy,1-1,River Plate
+Sat Apr 19 1997,Estudiantes,2-2,Huracan De Corrientes
+Sat Apr 19 1997,Deportivo Espanol,1-1,Independiente
+Sat Apr 19 1997,CA Colon,1-0,San Lorenzo
+Sat Apr 19 1997,Boca Juniors,1-2,Velez Sarsfield
+Sat Apr 19 1997,CA Banfield,1-2,Union De Santa Fe
+Sat May 3 1997,Velez Sarsfield,0-0,Platense
+Sat May 3 1997,Union De Santa Fe,5-0,Huracan
+Sat May 3 1997,San Lorenzo,1-0,CA Lanus
+Sat May 3 1997,River Plate,1-4,Estudiantes
+Sat May 3 1997,Newells Old Boys,0-0,Rosario Central
+Sat May 3 1997,Independiente,2-0,Boca Juniors
+Sat May 3 1997,Huracan De Corrientes,2-2,CA Colon
+Sat May 3 1997,Gye La Plata,0-0,Deportivo Espanol
+Sat May 3 1997,Ferro Carril Oeste,0-0,Gye Jujuy
+Sat May 3 1997,CA Banfield,1-3,Racing Club
+Sat May 10 1997,Rosario Central,0-1,Velez Sarsfield
+Sat May 10 1997,Racing Club,2-0,San Lorenzo
+Sat May 10 1997,Platense,0-3,Independiente
+Sat May 10 1997,CA Lanus,1-2,Huracan De Corrientes
+Sat May 10 1997,Huracan,1-0,CA Banfield
+Sat May 10 1997,Gye Jujuy,1-2,Newells Old Boys
+Sat May 10 1997,Estudiantes,0-1,Ferro Carril Oeste
+Sat May 10 1997,Deportivo Espanol,2-1,Union De Santa Fe
+Sat May 10 1997,CA Colon,5-1,River Plate
+Sat May 10 1997,Boca Juniors,6-1,Gye La Plata
+Wed May 14 1997,Velez Sarsfield,4-0,Gye Jujuy
+Wed May 14 1997,Union De Santa Fe,3-3,Boca Juniors
+Wed May 14 1997,River Plate,3-0,CA Lanus
+Wed May 14 1997,Newells Old Boys,1-0,Estudiantes
+Wed May 14 1997,Independiente,2-1,Rosario Central
+Wed May 14 1997,Huracan De Corrientes,0-2,San Lorenzo
+Wed May 14 1997,Huracan,2-2,Racing Club
+Wed May 14 1997,Gye La Plata,1-1,Platense
+Wed May 14 1997,Ferro Carril Oeste,2-2,CA Colon
+Wed May 14 1997,CA Banfield,1-0,Deportivo Espanol
+Sat May 17 1997,San Lorenzo,2-3,River Plate
+Sat May 17 1997,Rosario Central,3-3,Gye La Plata
+Sat May 17 1997,Racing Club,2-0,Huracan De Corrientes
+Sat May 17 1997,Platense,2-0,Union De Santa Fe
+Sat May 17 1997,CA Lanus,1-1,Ferro Carril Oeste
+Sat May 17 1997,Gye Jujuy,1-4,Independiente
+Sat May 17 1997,Estudiantes,0-3,Velez Sarsfield
+Sat May 17 1997,Deportivo Espanol,0-0,Huracan
+Sat May 17 1997,CA Colon,2-2,Newells Old Boys
+Sat May 17 1997,Boca Juniors,3-1,CA Banfield
+Thu May 22 1997,River Plate,1-1,Rosario Central
+Fri May 23 1997,Velez Sarsfield,1-1,CA Colon
+Fri May 23 1997,Union De Santa Fe,3-2,Rosario Central
+Fri May 23 1997,River Plate,3-1,Huracan De Corrientes
+Fri May 23 1997,Newells Old Boys,1-0,CA Lanus
+Fri May 23 1997,Independiente,2-0,Estudiantes
+Fri May 23 1997,Huracan,1-1,Boca Juniors
+Fri May 23 1997,Gye La Plata,3-2,Gye Jujuy
+Fri May 23 1997,Ferro Carril Oeste,0-0,San Lorenzo
+Fri May 23 1997,Deportivo Espanol,0-2,Racing Club
+Fri May 23 1997,CA Banfield,2-2,Platense
+Sat May 31 1997,San Lorenzo,3-0,Newells Old Boys
+Sat May 31 1997,Rosario Central,2-0,CA Banfield
+Sat May 31 1997,Racing Club,1-2,River Plate
+Sat May 31 1997,Platense,1-3,Huracan
+Sat May 31 1997,CA Lanus,3-1,Velez Sarsfield
+Sat May 31 1997,Huracan De Corrientes,2-1,Ferro Carril Oeste
+Sat May 31 1997,Gye Jujuy,2-0,Union De Santa Fe
+Sat May 31 1997,Estudiantes,1-0,Gye La Plata
+Sat May 31 1997,CA Colon,0-6,Independiente
+Sat May 31 1997,Boca Juniors,1-3,Deportivo Espanol

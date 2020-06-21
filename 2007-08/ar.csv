@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 4 2007,CA Colon,0-1,Velez Sarsfield
+Sat Aug 4 2007,CA Banfield,0-3,Estudiantes
+Sat Aug 4 2007,Gye La Plata,0-1,Tigre
+Sat Aug 4 2007,Argentinos Juniors,0-1,CA San Martin
+Sun Aug 5 2007,Independiente,5-3,CA Lanus
+Sun Aug 5 2007,Olimpo,0-2,Racing Club
+Sun Aug 5 2007,Newells Old Boys,1-0,San Lorenzo
+Sun Aug 5 2007,Boca Juniors,0-0,Rosario Central
+Sun Aug 5 2007,Huracan,1-1,Arsenal Sarandi
+Sat Aug 11 2007,CA San Martin,1-2,San Lorenzo
+Sat Aug 11 2007,Rosario Central,2-2,Gye La Plata
+Sat Aug 11 2007,Arsenal Sarandi,2-0,CA Colon
+Sat Aug 11 2007,Velez Sarsfield,3-0,Olimpo
+Sun Aug 12 2007,Racing Club,0-1,CA Banfield
+Sun Aug 12 2007,Estudiantes,1-0,Gye Jujuy
+Sun Aug 12 2007,CA Lanus,1-1,Huracan
+Sun Aug 12 2007,Tigre,0-3,Independiente
+Sun Aug 12 2007,Argentinos Juniors,3-2,Boca Juniors
+Sat Aug 18 2007,Independiente,1-0,Rosario Central
+Sat Aug 18 2007,Huracan,0-0,Tigre
+Sat Aug 18 2007,CA Colon,2-1,CA Lanus
+Sat Aug 18 2007,Gye La Plata,0-2,Argentinos Juniors
+Sat Aug 18 2007,Olimpo,1-0,Arsenal Sarandi
+Sun Aug 19 2007,CA Banfield,1-0,Velez Sarsfield
+Sun Aug 19 2007,Gye Jujuy,2-1,Racing Club
+Sun Aug 19 2007,San Lorenzo,1-1,River Plate
+Sun Aug 19 2007,Newells Old Boys,2-1,Estudiantes
+Sun Aug 19 2007,Boca Juniors,1-0,CA San Martin
+Thu Aug 23 2007,Gye Jujuy,2-2,River Plate
+Sat Aug 25 2007,Racing Club,2-0,Newells Old Boys
+Sat Aug 25 2007,Arsenal Sarandi,0-4,CA Banfield
+Sat Aug 25 2007,Rosario Central,0-1,Huracan
+Sat Aug 25 2007,Tigre,0-2,CA Colon
+Sat Aug 25 2007,CA Lanus,2-1,Olimpo
+Sat Aug 25 2007,Argentinos Juniors,0-1,Independiente
+Sun Aug 26 2007,Estudiantes,1-1,San Lorenzo
+Sun Aug 26 2007,CA San Martin,1-0,River Plate
+Sun Aug 26 2007,Boca Juniors,2-1,Gye La Plata
+Sun Aug 26 2007,Velez Sarsfield,4-2,Gye Jujuy
+Tue Aug 28 2007,CA Banfield,1-2,CA Lanus
+Tue Aug 28 2007,CA Colon,2-0,Rosario Central
+Wed Aug 29 2007,Olimpo,0-1,Tigre
+Wed Aug 29 2007,San Lorenzo,4-3,Racing Club
+Wed Aug 29 2007,Gye Jujuy,1-0,Arsenal Sarandi
+Wed Aug 29 2007,River Plate,4-2,Estudiantes
+Wed Aug 29 2007,Independiente,2-3,Boca Juniors
+Wed Aug 29 2007,Huracan,3-2,Argentinos Juniors
+Thu Aug 30 2007,Gye La Plata,2-0,CA San Martin
+Thu Aug 30 2007,Newells Old Boys,2-0,Velez Sarsfield
+Fri Aug 31 2007,Tigre,1-0,CA Banfield
+Sat Sep 1 2007,Rosario Central,1-1,Olimpo
+Sat Sep 1 2007,Arsenal Sarandi,1-0,Newells Old Boys
+Sat Sep 1 2007,CA Lanus,2-0,Gye Jujuy
+Sat Sep 1 2007,Argentinos Juniors,2-1,CA Colon
+Sun Sep 2 2007,Gye La Plata,1-0,Independiente
+Sun Sep 2 2007,Velez Sarsfield,2-0,San Lorenzo
+Sun Sep 2 2007,CA San Martin,1-0,Estudiantes
+Sun Sep 2 2007,Racing Club,1-1,River Plate
+Sun Sep 2 2007,Boca Juniors,1-0,Huracan
+Wed Sep 5 2007,River Plate,3-1,Newells Old Boys
+Fri Sep 7 2007,Gye Jujuy,0-2,Tigre
+Fri Sep 7 2007,Olimpo,1-1,Argentinos Juniors
+Sat Sep 8 2007,CA Banfield,3-2,Rosario Central
+Sat Sep 8 2007,Huracan,0-1,Gye La Plata
+Sat Sep 8 2007,Newells Old Boys,0-0,CA Lanus
+Sun Sep 9 2007,Independiente,2-2,CA San Martin
+Sun Sep 9 2007,Estudiantes,2-1,Racing Club
+Sun Sep 9 2007,San Lorenzo,2-4,Arsenal Sarandi
+Sun Sep 9 2007,River Plate,5-0,Velez Sarsfield
+Sun Sep 9 2007,CA Colon,1-0,Boca Juniors
+Tue Sep 11 2007,Tigre,2-2,Newells Old Boys
+Tue Sep 11 2007,Rosario Central,1-1,Gye Jujuy
+Wed Sep 12 2007,Argentinos Juniors,2-0,CA Banfield
+Wed Sep 12 2007,Independiente,3-0,Huracan
+Wed Sep 12 2007,Arsenal Sarandi,2-1,River Plate
+Wed Sep 12 2007,CA San Martin,0-2,Racing Club
+Wed Sep 12 2007,Velez Sarsfield,1-0,Estudiantes
+Wed Sep 12 2007,Boca Juniors,2-0,Olimpo
+Thu Sep 13 2007,CA Lanus,4-3,San Lorenzo
+Sat Sep 15 2007,Gye Jujuy,1-1,Argentinos Juniors
+Sat Sep 15 2007,CA Colon,1-3,Independiente
+Sat Sep 15 2007,Olimpo,0-0,Gye La Plata
+Sat Sep 15 2007,Estudiantes,1-1,Arsenal Sarandi
+Sat Sep 15 2007,Huracan,2-1,CA San Martin
+Sun Sep 16 2007,Racing Club,1-0,Velez Sarsfield
+Sun Sep 16 2007,Newells Old Boys,0-1,Rosario Central
+Sun Sep 16 2007,San Lorenzo,2-1,Tigre
+Sun Sep 16 2007,River Plate,3-1,CA Lanus
+Sun Sep 16 2007,CA Banfield,0-6,Boca Juniors
+Sat Sep 22 2007,Huracan,2-2,CA Colon
+Sat Sep 22 2007,Rosario Central,1-3,San Lorenzo
+Sat Sep 22 2007,Gye La Plata,0-1,CA Banfield
+Sat Sep 22 2007,CA San Martin,3-2,Velez Sarsfield
+Sat Sep 22 2007,Argentinos Juniors,4-0,Newells Old Boys
+Sun Sep 23 2007,Independiente,3-0,Olimpo
+Sun Sep 23 2007,Tigre,4-1,River Plate
+Sun Sep 23 2007,Boca Juniors,2-2,Gye Jujuy
+Sun Sep 23 2007,CA Lanus,1-0,Estudiantes
+Mon Sep 24 2007,Arsenal Sarandi,0-1,Racing Club
+Fri Sep 28 2007,Olimpo,3-1,Huracan
+Sat Sep 29 2007,Estudiantes,2-2,Tigre
+Sat Sep 29 2007,Gye Jujuy,4-0,Gye La Plata
+Sat Sep 29 2007,Velez Sarsfield,0-0,Arsenal Sarandi
+Sat Sep 29 2007,CA Colon,1-1,CA San Martin
+Sun Sep 30 2007,CA Banfield,2-0,Independiente
+Sun Sep 30 2007,River Plate,3-3,Rosario Central
+Sun Sep 30 2007,Racing Club,1-1,CA Lanus
+Sun Sep 30 2007,San Lorenzo,2-1,Argentinos Juniors
+Sun Sep 30 2007,Newells Old Boys,1-0,Boca Juniors
+Tue Oct 2 2007,CA Colon,3-0,Olimpo
+Wed Oct 3 2007,Independiente,3-0,Gye Jujuy
+Wed Oct 3 2007,Huracan,1-0,CA Banfield
+Wed Oct 3 2007,Argentinos Juniors,4-1,River Plate
+Wed Oct 3 2007,CA Lanus,2-1,Velez Sarsfield
+Wed Oct 3 2007,Boca Juniors,2-0,San Lorenzo
+Wed Oct 3 2007,Rosario Central,2-2,Estudiantes
+Wed Oct 3 2007,CA San Martin,1-1,Arsenal Sarandi
+Thu Oct 4 2007,Tigre,3-2,Racing Club
+Fri Oct 5 2007,Gye Jujuy,2-0,Huracan
+Sat Oct 6 2007,CA Banfield,3-1,CA Colon
+Sat Oct 6 2007,Olimpo,2-1,CA San Martin
+Sat Oct 6 2007,Racing Club,2-2,Rosario Central
+Sat Oct 6 2007,Velez Sarsfield,1-1,Tigre
+Sun Oct 7 2007,San Lorenzo,1-1,Gye La Plata
+Sun Oct 7 2007,River Plate,2-0,Boca Juniors
+Sun Oct 7 2007,Newells Old Boys,2-1,Independiente
+Mon Oct 8 2007,Estudiantes,3-0,Argentinos Juniors
+Mon Oct 8 2007,Arsenal Sarandi,0-1,CA Lanus
+Sat Oct 13 2007,Gye La Plata,2-0,CA Colon
+Sat Oct 20 2007,Tigre,2-0,Arsenal Sarandi
+Sat Oct 20 2007,CA Lanus,2-0,CA San Martin
+Sat Oct 20 2007,Olimpo,1-1,CA Banfield
+Sat Oct 20 2007,CA Colon,0-1,Gye Jujuy
+Sat Oct 20 2007,Rosario Central,0-2,Velez Sarsfield
+Sun Oct 21 2007,Argentinos Juniors,1-0,Racing Club
+Sun Oct 21 2007,Gye La Plata,0-2,River Plate
+Sun Oct 21 2007,Huracan,3-1,Newells Old Boys
+Sun Oct 21 2007,Boca Juniors,1-1,Estudiantes
+Sun Oct 21 2007,Independiente,1-2,San Lorenzo
+Sat Oct 27 2007,Gye La Plata,2-0,Newells Old Boys
+Fri Nov 2 2007,Arsenal Sarandi,1-0,Rosario Central
+Sat Nov 3 2007,CA San Martin,0-1,CA Banfield
+Sat Nov 3 2007,Gye Jujuy,0-3,Olimpo
+Sat Nov 3 2007,Racing Club,0-3,Boca Juniors
+Sun Nov 4 2007,Newells Old Boys,1-1,CA Colon
+Sun Nov 4 2007,Estudiantes,1-0,Gye La Plata
+Sun Nov 4 2007,San Lorenzo,1-1,Huracan
+Sun Nov 4 2007,River Plate,1-1,Independiente
+Sun Nov 4 2007,CA Lanus,2-1,Tigre
+Mon Nov 5 2007,Velez Sarsfield,3-0,Argentinos Juniors
+Fri Nov 9 2007,Gye La Plata,1-3,Racing Club
+Sat Nov 10 2007,Rosario Central,1-4,CA Lanus
+Sat Nov 10 2007,CA Banfield,1-1,Gye Jujuy
+Sat Nov 10 2007,CA Colon,0-0,San Lorenzo
+Sat Nov 10 2007,Olimpo,1-0,Newells Old Boys
+Sun Nov 11 2007,Huracan,2-1,River Plate
+Sun Nov 11 2007,Independiente,1-2,Estudiantes
+Sun Nov 11 2007,Tigre,3-0,CA San Martin
+Sun Nov 11 2007,Boca Juniors,4-0,Velez Sarsfield
+Sun Nov 11 2007,Argentinos Juniors,4-0,Arsenal Sarandi
+Fri Nov 23 2007,San Lorenzo,1-0,Olimpo
+Sat Nov 24 2007,Tigre,2-1,Rosario Central
+Sat Nov 24 2007,Racing Club,0-0,Independiente
+Sat Nov 24 2007,Newells Old Boys,1-0,CA Banfield
+Sat Nov 24 2007,River Plate,0-2,CA Colon
+Sun Nov 25 2007,Velez Sarsfield,3-1,Gye La Plata
+Sun Nov 25 2007,CA San Martin,3-2,Gye Jujuy
+Sun Nov 25 2007,Arsenal Sarandi,2-1,Boca Juniors
+Sun Nov 25 2007,Estudiantes,1-1,Huracan
+Sun Nov 25 2007,CA Lanus,0-0,Argentinos Juniors
+Wed Nov 28 2007,Tigre,2-1,Boca Juniors
+Thu Nov 29 2007,CA Lanus,4-0,Gye La Plata
+Fri Nov 30 2007,Rosario Central,3-2,CA San Martin
+Sat Dec 1 2007,CA Colon,0-2,Estudiantes
+Sat Dec 1 2007,Olimpo,4-0,River Plate
+Sat Dec 1 2007,Huracan,3-0,Racing Club
+Sat Dec 1 2007,Gye Jujuy,0-1,Newells Old Boys
+Sun Dec 2 2007,CA Banfield,1-0,San Lorenzo
+Sun Dec 2 2007,Argentinos Juniors,1-0,Tigre
+Sun Dec 2 2007,Boca Juniors,1-1,CA Lanus
+Sun Dec 2 2007,Independiente,1-1,Velez Sarsfield
+Fri Dec 7 2007,Rosario Central,1-1,Argentinos Juniors
+Sat Dec 8 2007,Estudiantes,2-0,Olimpo
+Sat Dec 8 2007,River Plate,0-2,CA Banfield
+Sun Dec 9 2007,Racing Club,1-0,CA Colon
+Sun Dec 9 2007,CA San Martin,0-1,Newells Old Boys
+Sun Dec 9 2007,Arsenal Sarandi,3-2,Independiente
+Sun Dec 9 2007,San Lorenzo,4-1,Gye Jujuy
+Sun Dec 9 2007,Velez Sarsfield,1-2,Huracan
+Fri Feb 8 2008,San Lorenzo,0-2,Newells Old Boys
+Sat Feb 9 2008,Estudiantes,2-1,CA Banfield
+Sat Feb 9 2008,CA San Martin,2-0,Argentinos Juniors
+Sat Feb 9 2008,Tigre,2-1,Gye La Plata
+Sat Feb 9 2008,Velez Sarsfield,4-3,CA Colon
+Sun Feb 10 2008,Racing Club,1-1,Olimpo
+Sun Feb 10 2008,CA Lanus,1-0,Independiente
+Sun Feb 10 2008,Rosario Central,1-1,Boca Juniors
+Sun Feb 10 2008,Arsenal Sarandi,2-0,Huracan
+Sun Feb 10 2008,River Plate,2-0,Gye Jujuy
+Fri Feb 15 2008,CA Banfield,3-1,Racing Club
+Sat Feb 16 2008,CA Colon,3-0,Arsenal Sarandi
+Sat Feb 16 2008,Gye La Plata,2-0,Rosario Central
+Sat Feb 16 2008,San Lorenzo,0-1,CA San Martin
+Sat Feb 16 2008,Gye Jujuy,0-2,Estudiantes
+Sun Feb 17 2008,Olimpo,0-2,Velez Sarsfield
+Sun Feb 17 2008,Independiente,4-1,Tigre
+Sun Feb 17 2008,Huracan,1-0,CA Lanus
+Sun Feb 17 2008,Newells Old Boys,0-0,River Plate
+Sun Feb 17 2008,Boca Juniors,4-0,Argentinos Juniors
+Fri Feb 22 2008,Estudiantes,5-2,Newells Old Boys
+Sat Feb 23 2008,CA Lanus,5-1,CA Colon
+Sat Feb 23 2008,Racing Club,0-0,Gye Jujuy
+Sat Feb 23 2008,Argentinos Juniors,2-0,Gye La Plata
+Sat Feb 23 2008,Velez Sarsfield,3-0,CA Banfield
+Sun Feb 24 2008,Tigre,1-2,Huracan
+Sun Feb 24 2008,Rosario Central,2-0,Independiente
+Sun Feb 24 2008,River Plate,2-0,San Lorenzo
+Sun Feb 24 2008,Arsenal Sarandi,1-0,Olimpo
+Sun Feb 24 2008,CA San Martin,0-2,Boca Juniors
+Fri Feb 29 2008,Huracan,1-1,Rosario Central
+Sat Mar 1 2008,CA Banfield,1-3,Arsenal Sarandi
+Sat Mar 1 2008,CA Colon,1-2,Tigre
+Sat Mar 1 2008,Independiente,2-0,Argentinos Juniors
+Sat Mar 1 2008,Gye Jujuy,0-0,Velez Sarsfield
+Sun Mar 2 2008,Olimpo,3-2,CA Lanus
+Sun Mar 2 2008,San Lorenzo,3-1,Estudiantes
+Sun Mar 2 2008,Newells Old Boys,1-0,Racing Club
+Sun Mar 2 2008,River Plate,3-2,CA San Martin
+Sun Mar 2 2008,Gye La Plata,0-1,Boca Juniors
+Fri Mar 7 2008,Racing Club,0-1,San Lorenzo
+Fri Mar 7 2008,Rosario Central,0-0,CA Colon
+Sat Mar 8 2008,CA Lanus,0-5,CA Banfield
+Sat Mar 8 2008,Argentinos Juniors,1-1,Huracan
+Sat Mar 8 2008,CA San Martin,1-1,Gye La Plata
+Sun Mar 9 2008,Tigre,2-0,Olimpo
+Sun Mar 9 2008,Velez Sarsfield,1-0,Newells Old Boys
+Sun Mar 9 2008,Boca Juniors,1-1,Independiente
+Sun Mar 9 2008,Arsenal Sarandi,3-3,Gye Jujuy
+Sun Mar 9 2008,Estudiantes,0-0,River Plate
+Fri Mar 14 2008,Olimpo,1-3,Rosario Central
+Sat Mar 15 2008,Estudiantes,3-2,CA San Martin
+Sat Mar 15 2008,CA Banfield,3-3,Tigre
+Sun Mar 16 2008,CA Colon,0-1,Argentinos Juniors
+Sun Mar 16 2008,Independiente,3-1,Gye La Plata
+Sun Mar 16 2008,River Plate,0-0,Racing Club
+Sun Mar 16 2008,Newells Old Boys,4-1,Arsenal Sarandi
+Sun Mar 16 2008,Huracan,0-0,Boca Juniors
+Fri Mar 21 2008,Arsenal Sarandi,0-1,San Lorenzo
+Sat Mar 22 2008,Tigre,2-0,Gye Jujuy
+Sat Mar 22 2008,Rosario Central,2-1,CA Banfield
+Sat Mar 22 2008,Argentinos Juniors,1-0,Olimpo
+Sun Mar 23 2008,Racing Club,0-2,Estudiantes
+Sun Mar 23 2008,Velez Sarsfield,0-2,River Plate
+Sun Mar 23 2008,Boca Juniors,2-1,CA Colon
+Sun Mar 23 2008,Gye La Plata,0-0,Huracan
+Sun Mar 23 2008,CA San Martin,2-0,Independiente
+Mon Mar 24 2008,CA Lanus,1-1,Newells Old Boys
+Fri Mar 28 2008,Racing Club,1-2,CA San Martin
+Sat Mar 29 2008,CA Colon,0-0,Gye La Plata
+Sat Mar 29 2008,Estudiantes,1-0,Velez Sarsfield
+Sat Mar 29 2008,Gye Jujuy,1-1,Rosario Central
+Sat Mar 29 2008,CA Banfield,3-2,Argentinos Juniors
+Sun Mar 30 2008,San Lorenzo,3-1,CA Lanus
+Sun Mar 30 2008,Newells Old Boys,1-1,Tigre
+Sun Mar 30 2008,Huracan,0-0,Independiente
+Sun Mar 30 2008,River Plate,1-0,Arsenal Sarandi
+Sun Mar 30 2008,Olimpo,1-1,Boca Juniors
+Sat Apr 5 2008,Velez Sarsfield,1-1,Racing Club
+Sat Apr 5 2008,CA San Martin,2-0,Huracan
+Sat Apr 5 2008,Arsenal Sarandi,0-0,Estudiantes
+Sat Apr 5 2008,Rosario Central,0-1,Newells Old Boys
+Sun Apr 6 2008,Boca Juniors,1-1,CA Banfield
+Sun Apr 6 2008,Independiente,1-3,CA Colon
+Sun Apr 6 2008,Gye La Plata,4-2,Olimpo
+Sun Apr 6 2008,Argentinos Juniors,1-1,Gye Jujuy
+Sun Apr 6 2008,CA Lanus,0-1,River Plate
+Sun Apr 6 2008,Tigre,1-5,San Lorenzo
+Sat Apr 12 2008,Estudiantes,1-0,CA Lanus
+Sat Apr 12 2008,Newells Old Boys,2-0,Argentinos Juniors
+Sat Apr 12 2008,CA Colon,1-0,Huracan
+Sat Apr 12 2008,CA Banfield,0-0,Gye La Plata
+Sun Apr 13 2008,Olimpo,1-3,Independiente
+Sun Apr 13 2008,San Lorenzo,3-1,Rosario Central
+Sun Apr 13 2008,River Plate,1-0,Tigre
+Sun Apr 13 2008,Gye Jujuy,1-2,Boca Juniors
+Sun Apr 13 2008,Racing Club,1-0,Arsenal Sarandi
+Sun Apr 13 2008,Velez Sarsfield,2-0,CA San Martin
+Sat Apr 19 2008,Independiente,3-0,CA Banfield
+Sat Apr 19 2008,Huracan,3-0,Olimpo
+Sat Apr 19 2008,Gye La Plata,2-1,Gye Jujuy
+Sat Apr 19 2008,Boca Juniors,2-1,Newells Old Boys
+Sun Apr 20 2008,CA Lanus,3-3,Racing Club
+Sun Apr 20 2008,Arsenal Sarandi,0-0,Velez Sarsfield
+Sun Apr 20 2008,Argentinos Juniors,2-1,San Lorenzo
+Sun Apr 20 2008,Rosario Central,2-1,River Plate
+Sun Apr 20 2008,Tigre,1-1,Estudiantes
+Sun Apr 20 2008,CA San Martin,1-2,CA Colon
+Wed Apr 23 2008,San Lorenzo,1-0,Velez Sarsfield
+Wed Apr 23 2008,Gye Jujuy,2-0,CA Lanus
+Thu Apr 24 2008,Gye La Plata,1-1,Arsenal Sarandi
+Sat Apr 26 2008,Estudiantes,3-1,Rosario Central
+Sat Apr 26 2008,CA Banfield,4-3,Huracan
+Sat Apr 26 2008,Racing Club,0-0,Tigre
+Sat Apr 26 2008,Olimpo,2-1,CA Colon
+Sat Apr 26 2008,Gye Jujuy,1-2,Independiente
+Sun Apr 27 2008,Velez Sarsfield,3-2,CA Lanus
+Sun Apr 27 2008,River Plate,4-2,Argentinos Juniors
+Sun Apr 27 2008,San Lorenzo,1-0,Boca Juniors
+Sun Apr 27 2008,Arsenal Sarandi,2-1,CA San Martin
+Sun Apr 27 2008,Newells Old Boys,1-0,Gye La Plata
+Sat May 3 2008,CA Lanus,2-6,Arsenal Sarandi
+Sat May 3 2008,Huracan,1-0,Gye Jujuy
+Sat May 3 2008,CA Colon,3-2,CA Banfield
+Sat May 3 2008,CA San Martin,0-1,Olimpo
+Sat May 3 2008,Independiente,3-0,Newells Old Boys
+Sun May 4 2008,Argentinos Juniors,2-1,Estudiantes
+Sun May 4 2008,Boca Juniors,1-0,River Plate
+Sun May 4 2008,Rosario Central,3-2,Racing Club
+Mon May 5 2008,Tigre,0-2,Velez Sarsfield
+Mon May 5 2008,Gye La Plata,1-2,San Lorenzo
+Sat May 10 2008,Arsenal Sarandi,1-0,Tigre
+Sat May 10 2008,Gye Jujuy,2-2,CA Colon
+Sat May 10 2008,CA Banfield,2-1,Olimpo
+Sat May 10 2008,CA San Martin,1-2,CA Lanus
+Sat May 10 2008,Velez Sarsfield,2-1,Rosario Central
+Sun May 11 2008,Racing Club,1-1,Argentinos Juniors
+Sun May 11 2008,Estudiantes,1-0,Boca Juniors
+Sun May 11 2008,River Plate,4-2,Gye La Plata
+Mon May 12 2008,San Lorenzo,0-1,Independiente
+Mon May 12 2008,Newells Old Boys,0-1,Huracan
+Sat May 17 2008,CA Colon,1-1,Newells Old Boys
+Sat May 17 2008,CA Banfield,5-1,CA San Martin
+Sat May 17 2008,Gye La Plata,1-2,Estudiantes
+Sat May 17 2008,Argentinos Juniors,2-0,Velez Sarsfield
+Sat May 17 2008,Boca Juniors,2-1,Racing Club
+Sun May 18 2008,Rosario Central,3-0,Arsenal Sarandi
+Sun May 18 2008,Huracan,0-0,San Lorenzo
+Sun May 18 2008,Independiente,0-0,River Plate
+Sun May 18 2008,Olimpo,2-0,Gye Jujuy
+Sun May 18 2008,Tigre,1-4,CA Lanus
+Sat May 24 2008,Arsenal Sarandi,0-1,Argentinos Juniors
+Sat May 24 2008,CA San Martin,1-2,Tigre
+Sat May 24 2008,River Plate,1-0,Huracan
+Sat May 24 2008,Gye Jujuy,1-1,CA Banfield
+Sun May 25 2008,Racing Club,1-1,Gye La Plata
+Sun May 25 2008,CA Lanus,0-0,Rosario Central
+Sun May 25 2008,Velez Sarsfield,1-1,Boca Juniors
+Sun May 25 2008,San Lorenzo,2-1,CA Colon
+Sun May 25 2008,Estudiantes,1-1,Independiente
+Mon May 26 2008,Newells Old Boys,0-1,Olimpo
+Sat May 31 2008,Rosario Central,4-2,Tigre
+Sat May 31 2008,Argentinos Juniors,3-0,CA Lanus
+Sat May 31 2008,Independiente,0-0,Racing Club
+Sat May 31 2008,Gye Jujuy,3-1,CA San Martin
+Sun Jun 1 2008,CA Banfield,0-1,Newells Old Boys
+Sun Jun 1 2008,CA Colon,1-2,River Plate
+Sun Jun 1 2008,Huracan,1-1,Estudiantes
+Sun Jun 1 2008,Olimpo,3-2,San Lorenzo
+Sun Jun 1 2008,Gye La Plata,2-1,Velez Sarsfield
+Mon Jun 2 2008,Boca Juniors,3-1,Arsenal Sarandi
+Sat Jun 7 2008,Arsenal Sarandi,1-0,Gye La Plata
+Sat Jun 7 2008,Newells Old Boys,2-2,Gye Jujuy
+Sat Jun 7 2008,Racing Club,1-0,Huracan
+Sat Jun 7 2008,CA San Martin,0-0,Rosario Central
+Sat Jun 7 2008,Tigre,1-0,Argentinos Juniors
+Sun Jun 8 2008,San Lorenzo,3-2,CA Banfield
+Sun Jun 8 2008,Velez Sarsfield,0-0,Independiente
+Sun Jun 8 2008,Estudiantes,0-0,CA Colon
+Sun Jun 8 2008,River Plate,2-1,Olimpo
+Sun Jun 8 2008,CA Lanus,1-3,Boca Juniors
+Sat Jun 21 2008,Argentinos Juniors,2-1,Rosario Central
+Sat Jun 21 2008,Gye La Plata,1-2,CA Lanus
+Sat Jun 21 2008,Newells Old Boys,1-0,CA San Martin
+Sat Jun 21 2008,Huracan,1-2,Velez Sarsfield
+Sun Jun 22 2008,Independiente,1-1,Arsenal Sarandi
+Sun Jun 22 2008,CA Banfield,2-3,River Plate
+Sun Jun 22 2008,Olimpo,1-2,Estudiantes
+Sun Jun 22 2008,Gye Jujuy,2-2,San Lorenzo
+Sun Jun 22 2008,CA Colon,1-0,Racing Club
+Sun Jun 22 2008,Boca Juniors,6-2,Tigre

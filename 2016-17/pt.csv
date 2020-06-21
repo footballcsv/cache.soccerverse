@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Fri Aug 12 2016,Rio Ave FC,1-3,FC Porto
+Sat Aug 13 2016,Moreirense FC,1-1,Pacos De Ferreira
+Sat Aug 13 2016,Sporting CP,2-0,CS Maritimo
+Sat Aug 13 2016,CD Tondela,0-2,Sl Benfica
+Sun Aug 14 2016,Boavista Porto,2-0,FC Arouca
+Sun Aug 14 2016,Vitoria Setubal,2-0,Os Belenenses
+Sun Aug 14 2016,Vitoria Guimaraes,0-1,Sporting Braga
+Mon Aug 15 2016,GD Estoril,0-2,Cd Feirense
+Fri Aug 19 2016,Os Belenenses,0-0,Boavista Porto
+Sat Aug 20 2016,CS Maritimo,0-2,Vitoria Guimaraes
+Sat Aug 20 2016,GD Chaves,1-1,CD Tondela
+Sat Aug 20 2016,Pacos De Ferreira,0-1,Sporting CP
+Sat Aug 20 2016,FC Porto,1-0,GD Estoril
+Sun Aug 21 2016,Cd Feirense,0-3,Moreirense FC
+Sun Aug 21 2016,FC Arouca,2-0,CD Nacional
+Sun Aug 21 2016,Sl Benfica,1-1,Vitoria Setubal
+Mon Aug 22 2016,Sporting Braga,1-1,Rio Ave FC
+Fri Aug 26 2016,Vitoria Guimaraes,5-3,Pacos De Ferreira
+Sat Aug 27 2016,CD Tondela,0-1,Os Belenenses
+Sat Aug 27 2016,GD Estoril,1-3,Sporting Braga
+Sat Aug 27 2016,CD Nacional,1-3,Sl Benfica
+Sun Aug 28 2016,Boavista Porto,2-2,GD Chaves
+Sun Aug 28 2016,Moreirense FC,0-1,CS Maritimo
+Sun Aug 28 2016,Sporting CP,2-1,FC Porto
+Sun Aug 28 2016,Rio Ave FC,1-0,Cd Feirense
+Sun Aug 28 2016,Vitoria Setubal,2-0,FC Arouca
+Sun Sep 4 2016,CD Nacional,0-1,GD Chaves
+Fri Sep 9 2016,FC Arouca,1-2,Sl Benfica
+Sat Sep 10 2016,Os Belenenses,2-1,CD Nacional
+Sat Sep 10 2016,Sporting CP,3-0,Moreirense FC
+Sat Sep 10 2016,FC Porto,3-0,Vitoria Guimaraes
+Sun Sep 11 2016,Pacos De Ferreira,0-0,GD Estoril
+Sun Sep 11 2016,CS Maritimo,0-1,Rio Ave FC
+Sun Sep 11 2016,Sporting Braga,3-0,Boavista Porto
+Sun Sep 11 2016,GD Chaves,0-0,Vitoria Setubal
+Mon Sep 12 2016,Cd Feirense,2-1,CD Tondela
+Fri Sep 16 2016,CD Nacional,2-0,CS Maritimo
+Sat Sep 17 2016,GD Estoril,2-0,Moreirense FC
+Sat Sep 17 2016,Vitoria Setubal,1-4,Pacos De Ferreira
+Sat Sep 17 2016,Vitoria Guimaraes,1-1,Os Belenenses
+Sun Sep 18 2016,FC Arouca,0-1,GD Chaves
+Sun Sep 18 2016,Boavista Porto,1-2,Cd Feirense
+Sun Sep 18 2016,CD Tondela,0-0,FC Porto
+Sun Sep 18 2016,Rio Ave FC,3-1,Sporting CP
+Mon Sep 19 2016,Sl Benfica,3-1,Sporting Braga
+Fri Sep 23 2016,FC Porto,3-1,Boavista Porto
+Fri Sep 23 2016,Sporting CP,4-2,GD Estoril
+Sat Sep 24 2016,Cd Feirense,0-3,CD Nacional
+Sat Sep 24 2016,GD Chaves,0-2,Sl Benfica
+Sat Sep 24 2016,Sporting Braga,2-1,Vitoria Setubal
+Sun Sep 25 2016,CS Maritimo,2-0,CD Tondela
+Sun Sep 25 2016,Pacos De Ferreira,2-1,Rio Ave FC
+Sun Sep 25 2016,Moreirense FC,0-1,Vitoria Guimaraes
+Mon Sep 26 2016,Os Belenenses,1-1,FC Arouca
+Fri Sep 30 2016,CD Tondela,2-1,Pacos De Ferreira
+Sat Oct 1 2016,Rio Ave FC,1-2,GD Estoril
+Sat Oct 1 2016,GD Chaves,3-1,Os Belenenses
+Sat Oct 1 2016,Vitoria Guimaraes,3-3,Sporting CP
+Sat Oct 1 2016,CD Nacional,0-4,FC Porto
+Sun Oct 2 2016,Sl Benfica,4-0,Cd Feirense
+Sun Oct 2 2016,Vitoria Setubal,0-1,CS Maritimo
+Sun Oct 2 2016,Boavista Porto,2-0,Moreirense FC
+Sun Oct 2 2016,FC Arouca,1-1,Sporting Braga
+Fri Oct 21 2016,Pacos De Ferreira,1-1,CD Nacional
+Fri Oct 21 2016,CS Maritimo,1-1,Boavista Porto
+Sat Oct 22 2016,Cd Feirense,1-1,Vitoria Setubal
+Sat Oct 22 2016,Sporting CP,1-1,CD Tondela
+Sat Oct 22 2016,FC Porto,3-0,FC Arouca
+Sun Oct 23 2016,Moreirense FC,1-1,Rio Ave FC
+Sun Oct 23 2016,GD Estoril,0-2,Vitoria Guimaraes
+Sun Oct 23 2016,Os Belenenses,0-2,Sl Benfica
+Mon Oct 24 2016,Sporting Braga,1-0,GD Chaves
+Fri Oct 28 2016,Sl Benfica,3-0,Pacos De Ferreira
+Fri Oct 28 2016,CD Nacional,0-0,Sporting CP
+Sat Oct 29 2016,CD Tondela,1-2,Moreirense FC
+Sat Oct 29 2016,Vitoria Setubal,0-0,FC Porto
+Sat Oct 29 2016,Boavista Porto,0-0,GD Estoril
+Sun Oct 30 2016,FC Arouca,1-0,CS Maritimo
+Sun Oct 30 2016,Rio Ave FC,0-3,Vitoria Guimaraes
+Sun Oct 30 2016,Sporting Braga,2-1,Os Belenenses
+Mon Oct 31 2016,GD Chaves,1-1,Cd Feirense
+Fri Nov 4 2016,Vitoria Guimaraes,2-1,CD Nacional
+Sat Nov 5 2016,GD Estoril,2-0,CD Tondela
+Sat Nov 5 2016,Pacos De Ferreira,1-1,GD Chaves
+Sat Nov 5 2016,Cd Feirense,0-1,Os Belenenses
+Sat Nov 5 2016,Rio Ave FC,1-2,Boavista Porto
+Sun Nov 6 2016,Moreirense FC,1-2,Vitoria Setubal
+Sun Nov 6 2016,FC Porto,1-1,Sl Benfica
+Sun Nov 6 2016,Sporting CP,3-0,FC Arouca
+Sun Nov 6 2016,CS Maritimo,1-0,Sporting Braga
+Fri Nov 25 2016,Vitoria Setubal,0-1,Rio Ave FC
+Sat Nov 26 2016,GD Chaves,0-0,CS Maritimo
+Sat Nov 26 2016,CD Nacional,0-1,GD Estoril
+Sat Nov 26 2016,Boavista Porto,0-1,Sporting CP
+Sat Nov 26 2016,Os Belenenses,0-0,FC Porto
+Sun Nov 27 2016,FC Arouca,1-0,Pacos De Ferreira
+Sun Nov 27 2016,Sl Benfica,3-0,Moreirense FC
+Sun Nov 27 2016,CD Tondela,2-1,Vitoria Guimaraes
+Mon Nov 28 2016,Sporting Braga,6-2,Cd Feirense
+Fri Dec 2 2016,CS Maritimo,2-1,Sl Benfica
+Sat Dec 3 2016,Rio Ave FC,3-1,CD Tondela
+Sat Dec 3 2016,Sporting CP,2-0,Vitoria Setubal
+Sat Dec 3 2016,FC Porto,1-0,Sporting Braga
+Sun Dec 4 2016,Moreirense FC,3-1,CD Nacional
+Sun Dec 4 2016,Cd Feirense,0-2,FC Arouca
+Sun Dec 4 2016,GD Estoril,1-1,Os Belenenses
+Sun Dec 4 2016,Vitoria Guimaraes,1-1,GD Chaves
+Mon Dec 5 2016,Pacos De Ferreira,2-1,Boavista Porto
+Fri Dec 9 2016,Vitoria Setubal,2-0,GD Estoril
+Sat Dec 10 2016,Os Belenenses,1-0,CS Maritimo
+Sat Dec 10 2016,GD Chaves,2-1,Moreirense FC
+Sat Dec 10 2016,Boavista Porto,1-2,Vitoria Guimaraes
+Sun Dec 11 2016,Cd Feirense,0-4,FC Porto
+Sun Dec 11 2016,CD Nacional,3-2,CD Tondela
+Sun Dec 11 2016,Sl Benfica,2-1,Sporting CP
+Sun Dec 11 2016,Sporting Braga,3-0,Pacos De Ferreira
+Mon Dec 12 2016,FC Arouca,0-2,Rio Ave FC
+Thu Dec 15 2016,FC Porto,2-1,CS Maritimo
+Fri Dec 16 2016,Pacos De Ferreira,1-0,Os Belenenses
+Sat Dec 17 2016,Moreirense FC,1-4,FC Arouca
+Sat Dec 17 2016,GD Estoril,0-1,Sl Benfica
+Sun Dec 18 2016,CD Tondela,1-1,Boavista Porto
+Sun Dec 18 2016,Rio Ave FC,2-1,CD Nacional
+Sun Dec 18 2016,Vitoria Guimaraes,3-1,Vitoria Setubal
+Sun Dec 18 2016,Sporting CP,0-1,Sporting Braga
+Mon Dec 19 2016,CS Maritimo,2-0,Cd Feirense
+Mon Dec 19 2016,FC Porto,2-1,GD Chaves
+Wed Dec 21 2016,Sl Benfica,2-0,Rio Ave FC
+Thu Dec 22 2016,CD Nacional,0-2,Boavista Porto
+Thu Dec 22 2016,Sporting Braga,2-1,Moreirense FC
+Thu Dec 22 2016,Cd Feirense,2-0,Pacos De Ferreira
+Thu Dec 22 2016,Os Belenenses,0-1,Sporting CP
+Thu Dec 22 2016,GD Chaves,1-0,GD Estoril
+Fri Dec 23 2016,Vitoria Setubal,3-0,CD Tondela
+Fri Dec 23 2016,FC Arouca,0-1,Vitoria Guimaraes
+Sat Jan 7 2017,CD Nacional,0-0,Sporting Braga
+Sat Jan 7 2017,GD Estoril,0-1,CS Maritimo
+Sat Jan 7 2017,Vitoria Guimaraes,0-2,Sl Benfica
+Sat Jan 7 2017,Pacos De Ferreira,0-0,FC Porto
+Sun Jan 8 2017,CD Tondela,1-2,FC Arouca
+Sun Jan 8 2017,Rio Ave FC,2-2,GD Chaves
+Sun Jan 8 2017,Boavista Porto,1-0,Vitoria Setubal
+Sun Jan 8 2017,Sporting CP,2-1,Cd Feirense
+Mon Jan 9 2017,Moreirense FC,1-0,Os Belenenses
+Fri Jan 13 2017,FC Arouca,2-1,GD Estoril
+Sat Jan 14 2017,Sl Benfica,3-3,Boavista Porto
+Sat Jan 14 2017,Vitoria Setubal,1-0,CD Nacional
+Sat Jan 14 2017,GD Chaves,2-2,Sporting CP
+Sat Jan 14 2017,Cd Feirense,0-0,Vitoria Guimaraes
+Sun Jan 15 2017,CS Maritimo,3-1,Pacos De Ferreira
+Sun Jan 15 2017,FC Porto,3-0,Moreirense FC
+Sun Jan 15 2017,Os Belenenses,1-0,Rio Ave FC
+Mon Jan 16 2017,Sporting Braga,2-0,CD Tondela
+Fri Jan 20 2017,Pacos De Ferreira,0-2,Moreirense FC
+Sat Jan 21 2017,FC Porto,4-2,Rio Ave FC
+Sat Jan 21 2017,CS Maritimo,2-2,Sporting CP
+Sat Jan 21 2017,FC Arouca,1-2,Boavista Porto
+Sun Jan 22 2017,Cd Feirense,1-0,GD Estoril
+Sun Jan 22 2017,Sl Benfica,4-0,CD Tondela
+Sun Jan 22 2017,Os Belenenses,1-2,Vitoria Setubal
+Sun Jan 22 2017,Sporting Braga,1-2,Vitoria Guimaraes
+Mon Jan 23 2017,GD Chaves,2-0,CD Nacional
+Fri Jan 27 2017,Boavista Porto,0-1,Os Belenenses
+Sat Jan 28 2017,CD Tondela,2-0,GD Chaves
+Sat Jan 28 2017,CD Nacional,1-1,FC Arouca
+Sat Jan 28 2017,Vitoria Guimaraes,0-0,CS Maritimo
+Sat Jan 28 2017,GD Estoril,1-2,FC Porto
+Sat Jan 28 2017,Sporting CP,4-2,Pacos De Ferreira
+Mon Jan 30 2017,Vitoria Setubal,1-0,Sl Benfica
+Thu Feb 2 2017,Moreirense FC,1-1,Cd Feirense
+Thu Feb 2 2017,Rio Ave FC,1-0,Sporting Braga
+Fri Feb 3 2017,Pacos De Ferreira,2-0,Vitoria Guimaraes
+Sat Feb 4 2017,GD Chaves,0-0,Boavista Porto
+Sat Feb 4 2017,FC Porto,2-1,Sporting CP
+Sun Feb 5 2017,FC Arouca,2-1,Vitoria Setubal
+Sun Feb 5 2017,Sl Benfica,3-0,CD Nacional
+Sun Feb 5 2017,Os Belenenses,0-0,CD Tondela
+Mon Feb 6 2017,CS Maritimo,1-0,Moreirense FC
+Mon Feb 6 2017,Sporting Braga,1-1,GD Estoril
+Mon Feb 6 2017,Cd Feirense,2-1,Rio Ave FC
+Fri Feb 10 2017,Sl Benfica,3-0,FC Arouca
+Sat Feb 11 2017,CD Tondela,0-1,Cd Feirense
+Sat Feb 11 2017,Vitoria Setubal,0-0,GD Chaves
+Sat Feb 11 2017,GD Estoril,2-1,Pacos De Ferreira
+Sat Feb 11 2017,Vitoria Guimaraes,0-2,FC Porto
+Sun Feb 12 2017,CD Nacional,1-1,Os Belenenses
+Sun Feb 12 2017,Moreirense FC,2-3,Sporting CP
+Sun Feb 12 2017,Boavista Porto,1-1,Sporting Braga
+Mon Feb 13 2017,Rio Ave FC,0-0,CS Maritimo
+Fri Feb 17 2017,FC Porto,4-0,CD Tondela
+Sat Feb 18 2017,GD Chaves,2-0,FC Arouca
+Sat Feb 18 2017,Moreirense FC,1-1,GD Estoril
+Sat Feb 18 2017,Cd Feirense,0-1,Boavista Porto
+Sat Feb 18 2017,Sporting CP,1-0,Rio Ave FC
+Sun Feb 19 2017,Pacos De Ferreira,2-1,Vitoria Setubal
+Sun Feb 19 2017,Os Belenenses,1-1,Vitoria Guimaraes
+Sun Feb 19 2017,Sporting Braga,0-1,Sl Benfica
+Mon Feb 20 2017,CS Maritimo,0-0,CD Nacional
+Fri Feb 24 2017,Vitoria Guimaraes,1-0,Moreirense FC
+Fri Feb 24 2017,Sl Benfica,3-1,GD Chaves
+Sat Feb 25 2017,CD Tondela,1-1,CS Maritimo
+Sat Feb 25 2017,GD Estoril,0-2,Sporting CP
+Sat Feb 25 2017,Rio Ave FC,0-0,Pacos De Ferreira
+Sun Feb 26 2017,CD Nacional,0-0,Cd Feirense
+Sun Feb 26 2017,Vitoria Setubal,1-1,Sporting Braga
+Sun Feb 26 2017,Boavista Porto,0-1,FC Porto
+Mon Feb 27 2017,FC Arouca,1-2,Os Belenenses
+Fri Mar 3 2017,Moreirense FC,0-0,Boavista Porto
+Sat Mar 4 2017,Sporting Braga,3-1,FC Arouca
+Sat Mar 4 2017,FC Porto,7-0,CD Nacional
+Sat Mar 4 2017,Cd Feirense,0-1,Sl Benfica
+Sun Mar 5 2017,Pacos De Ferreira,0-0,CD Tondela
+Sun Mar 5 2017,CS Maritimo,1-0,Vitoria Setubal
+Sun Mar 5 2017,Os Belenenses,2-1,GD Chaves
+Sun Mar 5 2017,Sporting CP,1-1,Vitoria Guimaraes
+Mon Mar 6 2017,GD Estoril,0-2,Rio Ave FC
+Fri Mar 10 2017,FC Arouca,0-4,FC Porto
+Sat Mar 11 2017,Vitoria Setubal,1-2,Cd Feirense
+Sat Mar 11 2017,GD Chaves,0-0,Sporting Braga
+Sat Mar 11 2017,CD Tondela,1-4,Sporting CP
+Sun Mar 12 2017,Boavista Porto,3-0,CS Maritimo
+Sun Mar 12 2017,Rio Ave FC,3-2,Moreirense FC
+Sun Mar 12 2017,Vitoria Guimaraes,3-3,GD Estoril
+Mon Mar 13 2017,CD Nacional,1-1,Pacos De Ferreira
+Mon Mar 13 2017,Sl Benfica,4-0,Os Belenenses
+Fri Mar 17 2017,GD Estoril,0-0,Boavista Porto
+Sat Mar 18 2017,Os Belenenses,1-2,Sporting Braga
+Sat Mar 18 2017,Moreirense FC,1-1,CD Tondela
+Sat Mar 18 2017,Sporting CP,2-0,CD Nacional
+Sat Mar 18 2017,Pacos De Ferreira,0-0,Sl Benfica
+Sun Mar 19 2017,CS Maritimo,3-1,FC Arouca
+Sun Mar 19 2017,Cd Feirense,3-2,GD Chaves
+Sun Mar 19 2017,FC Porto,1-1,Vitoria Setubal
+Sun Mar 19 2017,Vitoria Guimaraes,3-0,Rio Ave FC
+Fri Mar 31 2017,GD Chaves,1-0,Pacos De Ferreira
+Fri Mar 31 2017,CD Nacional,1-2,Vitoria Guimaraes
+Sat Apr 1 2017,CD Tondela,0-2,GD Estoril
+Sat Apr 1 2017,Boavista Porto,0-1,Rio Ave FC
+Sat Apr 1 2017,Sl Benfica,1-1,FC Porto
+Sun Apr 2 2017,Vitoria Setubal,2-0,Moreirense FC
+Sun Apr 2 2017,Os Belenenses,1-2,Cd Feirense
+Sun Apr 2 2017,FC Arouca,1-2,Sporting CP
+Sun Apr 2 2017,Sporting Braga,3-3,CS Maritimo
+Fri Apr 7 2017,Cd Feirense,0-1,Sporting Braga
+Sat Apr 8 2017,Pacos De Ferreira,1-1,FC Arouca
+Sat Apr 8 2017,FC Porto,3-0,Os Belenenses
+Sat Apr 8 2017,Sporting CP,4-0,Boavista Porto
+Sun Apr 9 2017,GD Estoril,0-1,CD Nacional
+Sun Apr 9 2017,Rio Ave FC,0-0,Vitoria Setubal
+Sun Apr 9 2017,Vitoria Guimaraes,2-1,CD Tondela
+Sun Apr 9 2017,Moreirense FC,0-1,Sl Benfica
+Mon Apr 10 2017,CS Maritimo,2-1,GD Chaves
+Fri Apr 14 2017,Os Belenenses,1-3,GD Estoril
+Fri Apr 14 2017,Boavista Porto,0-0,Pacos De Ferreira
+Fri Apr 14 2017,Sl Benfica,3-0,CS Maritimo
+Fri Apr 14 2017,Vitoria Setubal,0-3,Sporting CP
+Sat Apr 15 2017,FC Arouca,2-0,Cd Feirense
+Sat Apr 15 2017,GD Chaves,2-3,Vitoria Guimaraes
+Sat Apr 15 2017,CD Tondela,2-1,Rio Ave FC
+Sat Apr 15 2017,Sporting Braga,1-1,FC Porto
+Mon Apr 17 2017,CD Nacional,0-1,Moreirense FC
+Fri Apr 21 2017,Rio Ave FC,3-0,FC Arouca
+Sat Apr 22 2017,CS Maritimo,3-0,Os Belenenses
+Sat Apr 22 2017,CD Tondela,2-0,CD Nacional
+Sat Apr 22 2017,GD Estoril,3-0,Vitoria Setubal
+Sat Apr 22 2017,Sporting CP,1-1,Sl Benfica
+Sun Apr 23 2017,Pacos De Ferreira,3-1,Sporting Braga
+Sun Apr 23 2017,Vitoria Guimaraes,2-0,Boavista Porto
+Sun Apr 23 2017,FC Porto,0-0,Cd Feirense
+Mon Apr 24 2017,Moreirense FC,0-0,GD Chaves
+Fri Apr 28 2017,Vitoria Setubal,0-2,Vitoria Guimaraes
+Sat Apr 29 2017,Boavista Porto,1-0,CD Tondela
+Sat Apr 29 2017,CD Nacional,0-2,Rio Ave FC
+Sat Apr 29 2017,Sl Benfica,2-1,GD Estoril
+Sat Apr 29 2017,GD Chaves,0-2,FC Porto
+Sun Apr 30 2017,FC Arouca,2-2,Moreirense FC
+Sun Apr 30 2017,Cd Feirense,2-1,CS Maritimo
+Sun Apr 30 2017,Sporting Braga,2-3,Sporting CP
+Sun Apr 30 2017,Os Belenenses,1-2,Pacos De Ferreira
+Fri May 5 2017,Moreirense FC,2-1,Sporting Braga
+Sat May 6 2017,Boavista Porto,2-2,CD Nacional
+Sat May 6 2017,Pacos De Ferreira,0-1,Cd Feirense
+Sat May 6 2017,CS Maritimo,1-1,FC Porto
+Sun May 7 2017,Sporting CP,1-3,Os Belenenses
+Sun May 7 2017,CD Tondela,2-1,Vitoria Setubal
+Sun May 7 2017,Vitoria Guimaraes,1-0,FC Arouca
+Sun May 7 2017,Rio Ave FC,0-1,Sl Benfica
+Mon May 8 2017,GD Estoril,2-1,GD Chaves
+Fri May 12 2017,Os Belenenses,1-1,Moreirense FC
+Sat May 13 2017,FC Arouca,1-2,CD Tondela
+Sat May 13 2017,Sl Benfica,5-0,Vitoria Guimaraes
+Sat May 13 2017,Cd Feirense,2-1,Sporting CP
+Sun May 14 2017,CS Maritimo,1-1,GD Estoril
+Sun May 14 2017,GD Chaves,2-2,Rio Ave FC
+Sun May 14 2017,FC Porto,4-1,Pacos De Ferreira
+Sun May 14 2017,Sporting Braga,4-0,CD Nacional
+Mon May 15 2017,Vitoria Setubal,0-1,Boavista Porto
+Sat May 20 2017,Rio Ave FC,2-0,Os Belenenses
+Sat May 20 2017,Pacos De Ferreira,0-0,CS Maritimo
+Sat May 20 2017,CD Nacional,1-2,Vitoria Setubal
+Sat May 20 2017,Vitoria Guimaraes,0-1,Cd Feirense
+Sat May 20 2017,Boavista Porto,2-2,Sl Benfica
+Sun May 21 2017,GD Estoril,4-2,FC Arouca
+Sun May 21 2017,CD Tondela,2-0,Sporting Braga
+Sun May 21 2017,Moreirense FC,3-1,FC Porto
+Sun May 21 2017,Sporting CP,4-1,GD Chaves

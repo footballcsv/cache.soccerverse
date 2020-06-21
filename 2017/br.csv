@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat May 13 2017,Flamengo RJ,1-1,Atletico Mineiro
+Sun May 14 2017,Corinthians SP,1-1,Chapecoense
+Sun May 14 2017,Fluminense RJ,3-2,Santos FC
+Sun May 14 2017,Se Palmeiras,4-0,Vasco Da Gama
+Sun May 14 2017,Cruzeiro EC,1-0,Sao Paulo FC
+Sun May 14 2017,EC Bahia,6-2,Atletico Paranaense
+Sun May 14 2017,Ponte Preta,4-0,Sport Club Recife
+Sun May 14 2017,Avai FC,0-0,EC Vitoria Ba
+Mon May 15 2017,Gremio Porto Alegre,2-0,Botafogo RJ
+Tue May 16 2017,Coritiba FC,4-1,Atletico GO
+Sat May 20 2017,Santos FC,1-0,Coritiba FC
+Sun May 21 2017,Atletico GO,0-3,Flamengo RJ
+Sun May 21 2017,Chapecoense,1-0,Se Palmeiras
+Sun May 21 2017,Vasco Da Gama,2-1,EC Bahia
+Sun May 21 2017,Atletico Mineiro,1-2,Fluminense RJ
+Sun May 21 2017,Atletico Paranaense,0-2,Gremio Porto Alegre
+Sun May 21 2017,EC Vitoria Ba,0-1,Corinthians SP
+Sun May 21 2017,Botafogo RJ,2-0,Ponte Preta
+Mon May 22 2017,Sport Club Recife,1-1,Cruzeiro EC
+Tue May 23 2017,Sao Paulo FC,2-0,Avai FC
+Sat May 27 2017,Vasco Da Gama,3-2,Fluminense RJ
+Sun May 28 2017,Sao Paulo FC,2-0,Se Palmeiras
+Sun May 28 2017,EC Vitoria Ba,0-1,Coritiba FC
+Sun May 28 2017,Atletico Mineiro,2-2,Ponte Preta
+Sun May 28 2017,Santos FC,0-1,Cruzeiro EC
+Sun May 28 2017,Atletico Paranaense,1-1,Flamengo RJ
+Sun May 28 2017,Atletico GO,0-1,Corinthians SP
+Sun May 28 2017,Sport Club Recife,4-3,Gremio Porto Alegre
+Mon May 29 2017,Botafogo RJ,1-0,EC Bahia
+Tue May 30 2017,Chapecoense,2-0,Avai FC
+Sat Jun 3 2017,Coritiba FC,1-0,Atletico Paranaense
+Sat Jun 3 2017,Fluminense RJ,2-1,EC Vitoria Ba
+Sun Jun 4 2017,Corinthians SP,2-0,Santos FC
+Sun Jun 4 2017,Flamengo RJ,0-0,Botafogo RJ
+Sun Jun 4 2017,Avai FC,1-0,Sport Club Recife
+Sun Jun 4 2017,Se Palmeiras,0-0,Atletico Mineiro
+Sun Jun 4 2017,Gremio Porto Alegre,2-0,Vasco Da Gama
+Sun Jun 4 2017,Ponte Preta,1-0,Sao Paulo FC
+Mon Jun 5 2017,Cruzeiro EC,0-2,Chapecoense
+Tue Jun 6 2017,EC Bahia,3-0,Atletico GO
+Wed Jun 7 2017,Fluminense RJ,1-1,Atletico Paranaense
+Thu Jun 8 2017,Atletico Mineiro,1-0,Avai FC
+Thu Jun 8 2017,Coritiba FC,1-0,Se Palmeiras
+Thu Jun 8 2017,Santos FC,1-0,Botafogo RJ
+Thu Jun 8 2017,Vasco Da Gama,2-5,Corinthians SP
+Thu Jun 8 2017,Sport Club Recife,2-0,Flamengo RJ
+Fri Jun 9 2017,Sao Paulo FC,2-0,EC Vitoria Ba
+Fri Jun 9 2017,Atletico GO,3-0,Ponte Preta
+Fri Jun 9 2017,Chapecoense,3-6,Gremio Porto Alegre
+Fri Jun 9 2017,EC Bahia,1-0,Cruzeiro EC
+Sat Jun 10 2017,Se Palmeiras,3-1,Fluminense RJ
+Sun Jun 11 2017,Vasco Da Gama,2-1,Sport Club Recife
+Sun Jun 11 2017,Botafogo RJ,2-2,Coritiba FC
+Sun Jun 11 2017,Corinthians SP,3-2,Sao Paulo FC
+Sun Jun 11 2017,EC Vitoria Ba,2-0,Atletico Mineiro
+Sun Jun 11 2017,Ponte Preta,3-2,Chapecoense
+Sun Jun 11 2017,Avai FC,1-1,Flamengo RJ
+Sun Jun 11 2017,Cruzeiro EC,2-0,Atletico GO
+Mon Jun 12 2017,Atletico Paranaense,0-2,Santos FC
+Tue Jun 13 2017,Gremio Porto Alegre,1-0,EC Bahia
+Thu Jun 15 2017,Atletico Mineiro,0-1,Atletico Paranaense
+Thu Jun 15 2017,Sport Club Recife,0-0,Sao Paulo FC
+Thu Jun 15 2017,EC Vitoria Ba,2-2,Botafogo RJ
+Thu Jun 15 2017,Atletico GO,3-1,Avai FC
+Thu Jun 15 2017,Flamengo RJ,2-0,Ponte Preta
+Thu Jun 15 2017,Santos FC,1-0,Se Palmeiras
+Thu Jun 15 2017,Corinthians SP,1-0,Cruzeiro EC
+Thu Jun 15 2017,Chapecoense,2-1,Vasco Da Gama
+Thu Jun 15 2017,Coritiba FC,0-0,EC Bahia
+Fri Jun 16 2017,Fluminense RJ,0-2,Gremio Porto Alegre
+Sat Jun 17 2017,Atletico GO,0-1,Atletico Paranaense
+Sun Jun 18 2017,Vasco Da Gama,1-0,Avai FC
+Sun Jun 18 2017,Santos FC,0-0,Ponte Preta
+Sun Jun 18 2017,Coritiba FC,0-0,Corinthians SP
+Sun Jun 18 2017,Fluminense RJ,2-2,Flamengo RJ
+Sun Jun 18 2017,Sao Paulo FC,1-2,Atletico Mineiro
+Sun Jun 18 2017,EC Bahia,2-4,Se Palmeiras
+Sun Jun 18 2017,Chapecoense,0-2,Botafogo RJ
+Mon Jun 19 2017,Sport Club Recife,1-3,EC Vitoria Ba
+Tue Jun 20 2017,Cruzeiro EC,3-3,Gremio Porto Alegre
+Thu Jun 22 2017,EC Vitoria Ba,0-2,Santos FC
+Thu Jun 22 2017,Botafogo RJ,3-1,Vasco Da Gama
+Thu Jun 22 2017,Se Palmeiras,1-0,Atletico GO
+Thu Jun 22 2017,Atletico Mineiro,2-2,Sport Club Recife
+Thu Jun 22 2017,Atletico Paranaense,1-0,Sao Paulo FC
+Thu Jun 22 2017,Avai FC,0-3,Fluminense RJ
+Fri Jun 23 2017,Corinthians SP,3-0,EC Bahia
+Fri Jun 23 2017,Ponte Preta,1-0,Cruzeiro EC
+Fri Jun 23 2017,Flamengo RJ,5-1,Chapecoense
+Fri Jun 23 2017,Gremio Porto Alegre,2-0,Coritiba FC
+Sun Jun 25 2017,Santos FC,0-1,Sport Club Recife
+Sun Jun 25 2017,Vasco Da Gama,1-0,Atletico GO
+Sun Jun 25 2017,Sao Paulo FC,1-1,Fluminense RJ
+Sun Jun 25 2017,Cruzeiro EC,2-0,Coritiba FC
+Sun Jun 25 2017,Atletico Paranaense,4-1,EC Vitoria Ba
+Sun Jun 25 2017,Gremio Porto Alegre,0-1,Corinthians SP
+Sun Jun 25 2017,Ponte Preta,1-2,Se Palmeiras
+Sun Jun 25 2017,EC Bahia,0-1,Flamengo RJ
+Mon Jun 26 2017,Chapecoense,0-1,Atletico Mineiro
+Tue Jun 27 2017,Botafogo RJ,0-2,Avai FC
+Sat Jul 1 2017,Se Palmeiras,1-0,Gremio Porto Alegre
+Sun Jul 2 2017,Atletico GO,1-1,Santos FC
+Sun Jul 2 2017,Flamengo RJ,2-0,Sao Paulo FC
+Sun Jul 2 2017,Corinthians SP,1-0,Botafogo RJ
+Sun Jul 2 2017,Atletico Mineiro,3-1,Cruzeiro EC
+Sun Jul 2 2017,Sport Club Recife,1-0,Atletico Paranaense
+Sun Jul 2 2017,EC Vitoria Ba,0-0,EC Bahia
+Mon Jul 3 2017,Coritiba FC,2-2,Vasco Da Gama
+Mon Jul 3 2017,Avai FC,0-0,Ponte Preta
+Tue Jul 4 2017,Fluminense RJ,3-3,Chapecoense
+Sat Jul 8 2017,Atletico GO,1-2,EC Vitoria Ba
+Sat Jul 8 2017,Vasco Da Gama,0-1,Flamengo RJ
+Sun Jul 9 2017,Corinthians SP,2-0,Ponte Preta
+Sun Jul 9 2017,Chapecoense,1-1,Atletico Paranaense
+Sun Jul 9 2017,Cruzeiro EC,3-1,Se Palmeiras
+Sun Jul 9 2017,Gremio Porto Alegre,0-2,Avai FC
+Sun Jul 9 2017,EC Bahia,1-1,Fluminense RJ
+Mon Jul 10 2017,Botafogo RJ,1-1,Atletico Mineiro
+Mon Jul 10 2017,Santos FC,3-2,Sao Paulo FC
+Tue Jul 11 2017,Coritiba FC,0-3,Sport Club Recife
+Thu Jul 13 2017,Atletico Mineiro,0-1,Santos FC
+Thu Jul 13 2017,Ponte Preta,0-3,EC Bahia
+Thu Jul 13 2017,Fluminense RJ,0-1,Botafogo RJ
+Thu Jul 13 2017,Se Palmeiras,0-2,Corinthians SP
+Thu Jul 13 2017,Atletico Paranaense,0-2,Cruzeiro EC
+Thu Jul 13 2017,EC Vitoria Ba,1-4,Vasco Da Gama
+Fri Jul 14 2017,Flamengo RJ,0-1,Gremio Porto Alegre
+Fri Jul 14 2017,Sao Paulo FC,2-2,Atletico GO
+Fri Jul 14 2017,Sport Club Recife,3-0,Chapecoense
+Fri Jul 14 2017,Avai FC,1-4,Coritiba FC
+Sun Jul 16 2017,Corinthians SP,2-2,Atletico Paranaense
+Sun Jul 16 2017,Se Palmeiras,4-2,EC Vitoria Ba
+Sun Jul 16 2017,Vasco Da Gama,0-0,Santos FC
+Sun Jul 16 2017,Cruzeiro EC,1-1,Flamengo RJ
+Sun Jul 16 2017,Gremio Porto Alegre,3-1,Ponte Preta
+Sun Jul 16 2017,Atletico GO,1-2,Atletico Mineiro
+Sun Jul 16 2017,Chapecoense,2-0,Sao Paulo FC
+Mon Jul 17 2017,Coritiba FC,1-2,Fluminense RJ
+Mon Jul 17 2017,EC Bahia,1-1,Avai FC
+Tue Jul 18 2017,Botafogo RJ,2-1,Sport Club Recife
+Thu Jul 20 2017,Santos FC,1-0,Chapecoense
+Thu Jul 20 2017,EC Vitoria Ba,1-3,Gremio Porto Alegre
+Thu Jul 20 2017,Ponte Preta,4-0,Coritiba FC
+Thu Jul 20 2017,Avai FC,0-0,Corinthians SP
+Thu Jul 20 2017,Flamengo RJ,2-2,Se Palmeiras
+Thu Jul 20 2017,Sao Paulo FC,1-0,Vasco Da Gama
+Thu Jul 20 2017,Atletico Mineiro,0-2,EC Bahia
+Fri Jul 21 2017,Fluminense RJ,1-1,Cruzeiro EC
+Fri Jul 21 2017,Sport Club Recife,4-0,Atletico GO
+Fri Jul 21 2017,Atletico Paranaense,0-0,Botafogo RJ
+Sat Jul 22 2017,EC Vitoria Ba,1-2,Chapecoense
+Sun Jul 23 2017,Flamengo RJ,2-1,Coritiba FC
+Sun Jul 23 2017,Santos FC,3-0,EC Bahia
+Sun Jul 23 2017,Fluminense RJ,0-1,Corinthians SP
+Sun Jul 23 2017,Sport Club Recife,0-2,Se Palmeiras
+Sun Jul 23 2017,Avai FC,1-0,Cruzeiro EC
+Mon Jul 24 2017,Atletico Mineiro,1-2,Vasco Da Gama
+Mon Jul 24 2017,Atletico Paranaense,0-2,Ponte Preta
+Mon Jul 24 2017,Atletico GO,1-1,Botafogo RJ
+Tue Jul 25 2017,Sao Paulo FC,1-1,Gremio Porto Alegre
+Sat Jul 29 2017,Botafogo RJ,3-4,Sao Paulo FC
+Sun Jul 30 2017,Se Palmeiras,2-0,Avai FC
+Sun Jul 30 2017,Chapecoense,1-2,Atletico GO
+Sun Jul 30 2017,Corinthians SP,1-1,Flamengo RJ
+Sun Jul 30 2017,Coritiba FC,0-2,Atletico Mineiro
+Sun Jul 30 2017,EC Bahia,1-3,Sport Club Recife
+Mon Jul 31 2017,Cruzeiro EC,0-0,EC Vitoria Ba
+Mon Jul 31 2017,Gremio Porto Alegre,1-1,Santos FC
+Tue Aug 1 2017,Vasco Da Gama,0-1,Atletico Paranaense
+Thu Aug 3 2017,Sport Club Recife,2-2,Fluminense RJ
+Thu Aug 3 2017,Chapecoense,1-1,EC Bahia
+Thu Aug 3 2017,Atletico Mineiro,0-2,Corinthians SP
+Thu Aug 3 2017,EC Vitoria Ba,3-1,Ponte Preta
+Thu Aug 3 2017,Botafogo RJ,1-2,Se Palmeiras
+Thu Aug 3 2017,Santos FC,3-2,Flamengo RJ
+Thu Aug 3 2017,Atletico GO,0-1,Gremio Porto Alegre
+Fri Aug 4 2017,Sao Paulo FC,1-2,Coritiba FC
+Fri Aug 4 2017,Atletico Paranaense,5-0,Avai FC
+Fri Aug 4 2017,Vasco Da Gama,0-3,Cruzeiro EC
+Sun Aug 6 2017,Fluminense RJ,3-1,Atletico GO
+Sun Aug 6 2017,Corinthians SP,3-1,Sport Club Recife
+Sun Aug 6 2017,Flamengo RJ,0-2,EC Vitoria Ba
+Sun Aug 6 2017,Se Palmeiras,0-1,Atletico Paranaense
+Sun Aug 6 2017,Cruzeiro EC,0-0,Botafogo RJ
+Sun Aug 6 2017,Coritiba FC,2-0,Chapecoense
+Sun Aug 6 2017,Gremio Porto Alegre,2-0,Atletico Mineiro
+Sun Aug 6 2017,EC Bahia,2-1,Sao Paulo FC
+Mon Aug 7 2017,Ponte Preta,0-0,Vasco Da Gama
+Mon Aug 7 2017,Avai FC,0-0,Santos FC
+Thu Aug 10 2017,Ponte Preta,0-0,Fluminense RJ
+Sat Aug 12 2017,Atletico GO,1-0,Coritiba FC
+Sun Aug 13 2017,EC Vitoria Ba,0-1,Avai FC
+Sun Aug 13 2017,Sao Paulo FC,3-2,Cruzeiro EC
+Sun Aug 13 2017,Vasco Da Gama,1-1,Se Palmeiras
+Sun Aug 13 2017,Atletico Mineiro,2-0,Flamengo RJ
+Sun Aug 13 2017,Sport Club Recife,0-0,Ponte Preta
+Mon Aug 14 2017,Botafogo RJ,1-0,Gremio Porto Alegre
+Mon Aug 14 2017,Atletico Paranaense,4-1,EC Bahia
+Tue Aug 15 2017,Santos FC,0-0,Fluminense RJ
+Sat Aug 19 2017,Corinthians SP,0-1,EC Vitoria Ba
+Sun Aug 20 2017,Flamengo RJ,2-0,Atletico GO
+Sun Aug 20 2017,Gremio Porto Alegre,0-0,Atletico Paranaense
+Sun Aug 20 2017,Cruzeiro EC,2-0,Sport Club Recife
+Sun Aug 20 2017,EC Bahia,3-0,Vasco Da Gama
+Sun Aug 20 2017,Ponte Preta,2-1,Botafogo RJ
+Sun Aug 20 2017,Avai FC,1-1,Sao Paulo FC
+Mon Aug 21 2017,Se Palmeiras,0-2,Chapecoense
+Mon Aug 21 2017,Coritiba FC,0-0,Santos FC
+Tue Aug 22 2017,Fluminense RJ,2-1,Atletico Mineiro
+Thu Aug 24 2017,Chapecoense,0-1,Corinthians SP
+Sat Aug 26 2017,Fluminense RJ,0-1,Vasco Da Gama
+Sun Aug 27 2017,Corinthians SP,0-1,Atletico GO
+Sun Aug 27 2017,Flamengo RJ,2-0,Atletico Paranaense
+Sun Aug 27 2017,Se Palmeiras,4-2,Sao Paulo FC
+Sun Aug 27 2017,EC Bahia,1-2,Botafogo RJ
+Sun Aug 27 2017,Ponte Preta,1-2,Atletico Mineiro
+Mon Aug 28 2017,Cruzeiro EC,1-1,Santos FC
+Mon Aug 28 2017,Avai FC,1-0,Chapecoense
+Tue Aug 29 2017,Coritiba FC,0-1,EC Vitoria Ba
+Sat Sep 2 2017,Gremio Porto Alegre,5-0,Sport Club Recife
+Sat Sep 9 2017,Atletico Mineiro,1-1,Se Palmeiras
+Sat Sep 9 2017,Vasco Da Gama,1-0,Gremio Porto Alegre
+Sun Sep 10 2017,Sao Paulo FC,2-2,Ponte Preta
+Sun Sep 10 2017,Atletico Paranaense,1-1,Coritiba FC
+Sun Sep 10 2017,Santos FC,2-0,Corinthians SP
+Sun Sep 10 2017,Sport Club Recife,0-1,Avai FC
+Sun Sep 10 2017,EC Vitoria Ba,2-2,Fluminense RJ
+Mon Sep 11 2017,Botafogo RJ,2-0,Flamengo RJ
+Mon Sep 11 2017,Chapecoense,1-2,Cruzeiro EC
+Tue Sep 12 2017,Atletico GO,1-1,EC Bahia
+Sun Sep 17 2017,Botafogo RJ,2-0,Santos FC
+Sun Sep 17 2017,Ponte Preta,1-3,Atletico GO
+Sun Sep 17 2017,Avai FC,1-1,Atletico Mineiro
+Sun Sep 17 2017,Flamengo RJ,2-0,Sport Club Recife
+Sun Sep 17 2017,Corinthians SP,1-0,Vasco Da Gama
+Sun Sep 17 2017,Atletico Paranaense,3-1,Fluminense RJ
+Sun Sep 17 2017,Gremio Porto Alegre,0-1,Chapecoense
+Sun Sep 17 2017,EC Vitoria Ba,1-2,Sao Paulo FC
+Mon Sep 18 2017,Cruzeiro EC,1-0,EC Bahia
+Tue Sep 19 2017,Se Palmeiras,1-0,Coritiba FC
+Sun Sep 24 2017,Flamengo RJ,1-1,Avai FC
+Sun Sep 24 2017,Santos FC,1-0,Atletico Paranaense
+Sun Sep 24 2017,Sao Paulo FC,1-1,Corinthians SP
+Sun Sep 24 2017,Fluminense RJ,0-1,Se Palmeiras
+Sun Sep 24 2017,Coritiba FC,2-3,Botafogo RJ
+Sun Sep 24 2017,Atletico GO,1-2,Cruzeiro EC
+Sun Sep 24 2017,Chapecoense,1-0,Ponte Preta
+Mon Sep 25 2017,Atletico Mineiro,1-3,EC Vitoria Ba
+Mon Sep 25 2017,EC Bahia,1-0,Gremio Porto Alegre
+Tue Sep 26 2017,Sport Club Recife,1-1,Vasco Da Gama
+Sat Sep 30 2017,Vasco Da Gama,1-1,Chapecoense
+Sat Sep 30 2017,EC Bahia,1-1,Coritiba FC
+Sun Oct 1 2017,Se Palmeiras,0-1,Santos FC
+Sun Oct 1 2017,Botafogo RJ,2-3,EC Vitoria Ba
+Sun Oct 1 2017,Sao Paulo FC,1-0,Sport Club Recife
+Sun Oct 1 2017,Cruzeiro EC,1-1,Corinthians SP
+Sun Oct 1 2017,Gremio Porto Alegre,1-0,Fluminense RJ
+Sun Oct 1 2017,Avai FC,0-2,Atletico GO
+Mon Oct 2 2017,Atletico Paranaense,0-2,Atletico Mineiro
+Tue Oct 3 2017,Ponte Preta,1-0,Flamengo RJ
+Sat Oct 7 2017,Cruzeiro EC,2-1,Ponte Preta
+Thu Oct 12 2017,Botafogo RJ,2-1,Chapecoense
+Thu Oct 12 2017,Atletico Paranaense,2-2,Atletico GO
+Thu Oct 12 2017,Corinthians SP,3-1,Coritiba FC
+Thu Oct 12 2017,Atletico Mineiro,1-0,Sao Paulo FC
+Thu Oct 12 2017,Gremio Porto Alegre,0-1,Cruzeiro EC
+Thu Oct 12 2017,Avai FC,1-2,Vasco Da Gama
+Thu Oct 12 2017,Flamengo RJ,1-1,Fluminense RJ
+Thu Oct 12 2017,EC Vitoria Ba,1-2,Sport Club Recife
+Thu Oct 12 2017,Ponte Preta,1-1,Santos FC
+Fri Oct 13 2017,Se Palmeiras,2-2,EC Bahia
+Sun Oct 15 2017,Vasco Da Gama,1-0,Botafogo RJ
+Sun Oct 15 2017,Sao Paulo FC,2-1,Atletico Paranaense
+Sun Oct 15 2017,Fluminense RJ,1-0,Avai FC
+Sun Oct 15 2017,Sport Club Recife,1-1,Atletico Mineiro
+Sun Oct 15 2017,Atletico GO,1-3,Se Palmeiras
+Sun Oct 15 2017,Chapecoense,0-1,Flamengo RJ
+Sun Oct 15 2017,Coritiba FC,0-1,Gremio Porto Alegre
+Sun Oct 15 2017,EC Bahia,2-0,Corinthians SP
+Tue Oct 17 2017,Santos FC,2-2,EC Vitoria Ba
+Wed Oct 18 2017,Coritiba FC,1-0,Cruzeiro EC
+Wed Oct 18 2017,Atletico GO,0-1,Vasco Da Gama
+Thu Oct 19 2017,Atletico Mineiro,2-3,Chapecoense
+Thu Oct 19 2017,Fluminense RJ,3-1,Sao Paulo FC
+Thu Oct 19 2017,Corinthians SP,0-0,Gremio Porto Alegre
+Thu Oct 19 2017,Avai FC,1-1,Botafogo RJ
+Fri Oct 20 2017,Se Palmeiras,2-0,Ponte Preta
+Fri Oct 20 2017,EC Vitoria Ba,2-3,Atletico Paranaense
+Fri Oct 20 2017,Flamengo RJ,4-1,EC Bahia
+Fri Oct 20 2017,Sport Club Recife,1-1,Santos FC
+Sat Oct 21 2017,Vasco Da Gama,1-1,Coritiba FC
+Sun Oct 22 2017,Santos FC,1-0,Atletico GO
+Sun Oct 22 2017,Sao Paulo FC,2-0,Flamengo RJ
+Sun Oct 22 2017,Cruzeiro EC,1-3,Atletico Mineiro
+Sun Oct 22 2017,Atletico Paranaense,2-1,Sport Club Recife
+Sun Oct 22 2017,Gremio Porto Alegre,1-3,Se Palmeiras
+Sun Oct 22 2017,EC Bahia,2-1,EC Vitoria Ba
+Sun Oct 22 2017,Ponte Preta,1-2,Avai FC
+Sun Oct 22 2017,Chapecoense,2-0,Fluminense RJ
+Tue Oct 24 2017,Botafogo RJ,2-1,Corinthians SP
+Sat Oct 28 2017,Sao Paulo FC,2-1,Santos FC
+Sat Oct 28 2017,Flamengo RJ,0-0,Vasco Da Gama
+Sun Oct 29 2017,Atletico Paranaense,0-0,Chapecoense
+Sun Oct 29 2017,Fluminense RJ,1-1,EC Bahia
+Sun Oct 29 2017,Atletico Mineiro,0-0,Botafogo RJ
+Sun Oct 29 2017,Ponte Preta,1-0,Corinthians SP
+Sun Oct 29 2017,Sport Club Recife,3-4,Coritiba FC
+Sun Oct 29 2017,EC Vitoria Ba,1-1,Atletico GO
+Sun Oct 29 2017,Avai FC,2-2,Gremio Porto Alegre
+Mon Oct 30 2017,Se Palmeiras,2-2,Cruzeiro EC
+Sat Nov 4 2017,Santos FC,3-1,Atletico Mineiro
+Sat Nov 4 2017,Botafogo RJ,1-2,Fluminense RJ
+Sat Nov 4 2017,Atletico GO,0-1,Sao Paulo FC
+Sun Nov 5 2017,Coritiba FC,4-0,Avai FC
+Sun Nov 5 2017,Corinthians SP,3-2,Se Palmeiras
+Sun Nov 5 2017,Cruzeiro EC,1-0,Atletico Paranaense
+Sun Nov 5 2017,Gremio Porto Alegre,3-1,Flamengo RJ
+Sun Nov 5 2017,EC Bahia,2-0,Ponte Preta
+Sun Nov 5 2017,Vasco Da Gama,1-1,EC Vitoria Ba
+Sun Nov 5 2017,Chapecoense,1-1,Sport Club Recife
+Wed Nov 8 2017,Ponte Preta,0-1,Gremio Porto Alegre
+Wed Nov 8 2017,Avai FC,1-2,EC Bahia
+Thu Nov 9 2017,Atletico Paranaense,0-1,Corinthians SP
+Thu Nov 9 2017,Sport Club Recife,1-2,Botafogo RJ
+Thu Nov 9 2017,Flamengo RJ,2-0,Cruzeiro EC
+Thu Nov 9 2017,Santos FC,1-2,Vasco Da Gama
+Thu Nov 9 2017,EC Vitoria Ba,3-1,Se Palmeiras
+Thu Nov 9 2017,Sao Paulo FC,2-2,Chapecoense
+Thu Nov 9 2017,Atletico Mineiro,3-2,Atletico GO
+Fri Nov 10 2017,Fluminense RJ,2-2,Coritiba FC
+Sat Nov 11 2017,Botafogo RJ,0-1,Atletico Paranaense
+Sat Nov 11 2017,Corinthians SP,1-0,Avai FC
+Sun Nov 12 2017,Vasco Da Gama,1-1,Sao Paulo FC
+Sun Nov 12 2017,Se Palmeiras,2-0,Flamengo RJ
+Sun Nov 12 2017,Gremio Porto Alegre,1-1,EC Vitoria Ba
+Sun Nov 12 2017,Atletico GO,2-0,Sport Club Recife
+Sun Nov 12 2017,EC Bahia,2-2,Atletico Mineiro
+Sun Nov 12 2017,Cruzeiro EC,3-1,Fluminense RJ
+Sun Nov 12 2017,Coritiba FC,1-1,Ponte Preta
+Mon Nov 13 2017,Chapecoense,2-0,Santos FC
+Wed Nov 15 2017,Ponte Preta,2-1,Atletico Paranaense
+Wed Nov 15 2017,Cruzeiro EC,2-2,Avai FC
+Wed Nov 15 2017,Gremio Porto Alegre,1-0,Sao Paulo FC
+Thu Nov 16 2017,Vasco Da Gama,1-1,Atletico Mineiro
+Thu Nov 16 2017,Corinthians SP,3-1,Fluminense RJ
+Thu Nov 16 2017,Botafogo RJ,1-2,Atletico GO
+Thu Nov 16 2017,Se Palmeiras,5-1,Sport Club Recife
+Thu Nov 16 2017,Chapecoense,2-1,EC Vitoria Ba
+Fri Nov 17 2017,Coritiba FC,1-0,Flamengo RJ
+Fri Nov 17 2017,EC Bahia,3-1,Santos FC
+Sun Nov 19 2017,Flamengo RJ,3-0,Corinthians SP
+Sun Nov 19 2017,Sao Paulo FC,0-0,Botafogo RJ
+Sun Nov 19 2017,Sport Club Recife,1-0,EC Bahia
+Sun Nov 19 2017,EC Vitoria Ba,1-1,Cruzeiro EC
+Sun Nov 19 2017,Atletico GO,1-1,Chapecoense
+Sun Nov 19 2017,Santos FC,1-0,Gremio Porto Alegre
+Sun Nov 19 2017,Atletico Mineiro,3-0,Coritiba FC
+Sun Nov 19 2017,Atletico Paranaense,3-1,Vasco Da Gama
+Mon Nov 20 2017,Fluminense RJ,2-0,Ponte Preta
+Mon Nov 20 2017,Avai FC,2-1,Se Palmeiras
+Sat Nov 25 2017,Fluminense RJ,1-2,Sport Club Recife
+Sun Nov 26 2017,Corinthians SP,2-2,Atletico Mineiro
+Sun Nov 26 2017,Cruzeiro EC,0-1,Vasco Da Gama
+Sun Nov 26 2017,Coritiba FC,1-2,Sao Paulo FC
+Sun Nov 26 2017,Gremio Porto Alegre,1-1,Atletico GO
+Sun Nov 26 2017,Ponte Preta,2-3,EC Vitoria Ba
+Sun Nov 26 2017,Avai FC,1-0,Atletico Paranaense
+Sun Nov 26 2017,Flamengo RJ,1-2,Santos FC
+Sun Nov 26 2017,EC Bahia,0-1,Chapecoense
+Mon Nov 27 2017,Se Palmeiras,2-0,Botafogo RJ
+Sun Dec 3 2017,Botafogo RJ,2-2,Cruzeiro EC
+Sun Dec 3 2017,Vasco Da Gama,2-1,Ponte Preta
+Sun Dec 3 2017,Santos FC,1-1,Avai FC
+Sun Dec 3 2017,Sao Paulo FC,1-1,EC Bahia
+Sun Dec 3 2017,Atletico Mineiro,4-3,Gremio Porto Alegre
+Sun Dec 3 2017,Atletico Paranaense,3-0,Se Palmeiras
+Sun Dec 3 2017,Sport Club Recife,1-0,Corinthians SP
+Sun Dec 3 2017,EC Vitoria Ba,1-2,Flamengo RJ
+Sun Dec 3 2017,Atletico GO,1-1,Fluminense RJ
+Sun Dec 3 2017,Chapecoense,2-1,Coritiba FC

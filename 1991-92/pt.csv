@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Sat Aug 17 1991,Sl Benfica,0-1,Boavista Porto
+Sun Aug 18 1991,Uniao Madeira,1-0,FC Penafiel
+Sun Aug 18 1991,Pacos De Ferreira,1-1,Uniao Torreense
+Sun Aug 18 1991,Sporting Farense,3-1,CS Maritimo
+Sun Aug 18 1991,FC Famalicao,1-4,Vitoria Guimaraes
+Sun Aug 18 1991,GD Chaves,1-0,GD Estoril
+Sun Aug 18 1991,Sporting Braga,2-1,Gil Vicente
+Sun Aug 18 1991,SC Beira Mar,1-1,SC Salgueiros
+Sat Aug 24 1991,Vitoria Guimaraes,2-1,Sporting Braga
+Sat Aug 24 1991,Uniao Torreense,0-1,GD Chaves
+Sat Aug 24 1991,SC Salgueiros,1-0,Uniao Madeira
+Sat Aug 24 1991,FC Penafiel,1-0,Sporting Farense
+Sat Aug 24 1991,CS Maritimo,1-0,Pacos De Ferreira
+Sat Aug 24 1991,Gil Vicente,0-1,Sl Benfica
+Sat Aug 24 1991,GD Estoril,0-2,FC Porto
+Sat Aug 24 1991,Boavista Porto,3-2,SC Beira Mar
+Sun Aug 25 1991,Sporting CP,3-0,FC Famalicao
+Sat Aug 31 1991,Sporting Braga,1-1,Sporting CP
+Sun Sep 1 1991,Uniao Madeira,2-0,Boavista Porto
+Sun Sep 1 1991,FC Porto,5-0,Uniao Torreense
+Sun Sep 1 1991,FC Penafiel,2-0,SC Salgueiros
+Sun Sep 1 1991,Sporting Farense,1-0,Pacos De Ferreira
+Sun Sep 1 1991,FC Famalicao,2-1,GD Estoril
+Sun Sep 1 1991,GD Chaves,2-1,CS Maritimo
+Sun Sep 1 1991,Sl Benfica,2-0,Vitoria Guimaraes
+Sun Sep 1 1991,SC Beira Mar,0-0,Gil Vicente
+Sat Sep 14 1991,Sporting CP,0-0,Sl Benfica
+Sun Sep 15 1991,Vitoria Guimaraes,1-1,SC Beira Mar
+Sun Sep 15 1991,Uniao Torreense,6-1,FC Famalicao
+Sun Sep 15 1991,SC Salgueiros,2-1,Sporting Farense
+Sun Sep 15 1991,Pacos De Ferreira,3-0,GD Chaves
+Sun Sep 15 1991,CS Maritimo,1-0,FC Porto
+Sun Sep 15 1991,Gil Vicente,2-1,Uniao Madeira
+Sun Sep 15 1991,GD Estoril,1-0,Sporting Braga
+Sun Sep 15 1991,Boavista Porto,3-0,FC Penafiel
+Sun Sep 22 1991,Uniao Madeira,0-2,Vitoria Guimaraes
+Sun Sep 22 1991,SC Salgueiros,1-1,Boavista Porto
+Sun Sep 22 1991,FC Porto,2-0,Pacos De Ferreira
+Sun Sep 22 1991,FC Penafiel,0-0,Gil Vicente
+Sun Sep 22 1991,Sporting Farense,1-1,GD Chaves
+Sun Sep 22 1991,FC Famalicao,2-2,CS Maritimo
+Sun Sep 22 1991,Sporting Braga,2-1,Uniao Torreense
+Sun Sep 22 1991,Sl Benfica,2-2,GD Estoril
+Sun Sep 22 1991,SC Beira Mar,1-0,Sporting CP
+Wed Sep 25 1991,FC Porto,0-0,Sporting CP
+Sat Sep 28 1991,Sporting CP,3-0,Uniao Madeira
+Sun Sep 29 1991,Vitoria Guimaraes,2-2,FC Penafiel
+Sun Sep 29 1991,Uniao Torreense,1-3,Sl Benfica
+Sun Sep 29 1991,Pacos De Ferreira,0-1,FC Famalicao
+Sun Sep 29 1991,CS Maritimo,0-0,Sporting Braga
+Sun Sep 29 1991,Gil Vicente,1-0,SC Salgueiros
+Sun Sep 29 1991,GD Estoril,1-0,SC Beira Mar
+Sun Sep 29 1991,GD Chaves,0-1,FC Porto
+Sun Sep 29 1991,Boavista Porto,2-0,Sporting Farense
+Sat Oct 5 1991,Uniao Madeira,1-1,GD Estoril
+Sat Oct 5 1991,SC Salgueiros,0-1,Vitoria Guimaraes
+Sat Oct 5 1991,FC Penafiel,0-2,Sporting CP
+Sat Oct 5 1991,Sporting Farense,0-0,FC Porto
+Sat Oct 5 1991,FC Famalicao,1-0,GD Chaves
+Sat Oct 5 1991,Sporting Braga,3-1,Pacos De Ferreira
+Sat Oct 5 1991,Boavista Porto,1-0,Gil Vicente
+Sat Oct 5 1991,Sl Benfica,2-0,CS Maritimo
+Sat Oct 5 1991,SC Beira Mar,1-0,Uniao Torreense
+Sun Oct 20 1991,Vitoria Guimaraes,2-0,Boavista Porto
+Sun Oct 20 1991,Uniao Torreense,2-0,Uniao Madeira
+Sun Oct 20 1991,Sporting CP,3-0,SC Salgueiros
+Sun Oct 20 1991,FC Porto,1-0,FC Famalicao
+Sun Oct 20 1991,Pacos De Ferreira,1-1,Sl Benfica
+Sun Oct 20 1991,CS Maritimo,0-0,SC Beira Mar
+Sun Oct 20 1991,Gil Vicente,0-0,Sporting Farense
+Sun Oct 20 1991,GD Estoril,2-1,FC Penafiel
+Sun Oct 20 1991,GD Chaves,1-2,Sporting Braga
+Sun Oct 27 1991,Uniao Madeira,1-1,CS Maritimo
+Sun Oct 27 1991,SC Salgueiros,3-0,GD Estoril
+Sun Oct 27 1991,FC Penafiel,1-0,Uniao Torreense
+Sun Oct 27 1991,Gil Vicente,0-2,Vitoria Guimaraes
+Sun Oct 27 1991,Sporting Farense,1-0,FC Famalicao
+Sun Oct 27 1991,Sporting Braga,0-0,FC Porto
+Sun Oct 27 1991,Boavista Porto,2-1,Sporting CP
+Sun Oct 27 1991,Sl Benfica,4-1,GD Chaves
+Sun Oct 27 1991,SC Beira Mar,3-0,Pacos De Ferreira
+Sun Nov 3 1991,Vitoria Guimaraes,3-1,Sporting Farense
+Sun Nov 3 1991,Uniao Torreense,2-0,SC Salgueiros
+Sun Nov 3 1991,Sporting CP,2-0,Gil Vicente
+Sun Nov 3 1991,FC Porto,0-0,Sl Benfica
+Sun Nov 3 1991,Pacos De Ferreira,3-0,Uniao Madeira
+Sun Nov 3 1991,CS Maritimo,2-0,FC Penafiel
+Sun Nov 3 1991,FC Famalicao,3-1,Sporting Braga
+Sun Nov 3 1991,GD Estoril,0-0,Boavista Porto
+Sun Nov 3 1991,GD Chaves,3-0,SC Beira Mar
+Sun Nov 10 1991,Uniao Madeira,1-1,GD Chaves
+Sun Nov 10 1991,SC Salgueiros,1-0,CS Maritimo
+Sun Nov 10 1991,FC Penafiel,0-0,Pacos De Ferreira
+Sun Nov 10 1991,Gil Vicente,1-1,GD Estoril
+Sun Nov 10 1991,Sporting Farense,3-1,Sporting Braga
+Sun Nov 10 1991,Boavista Porto,1-1,Uniao Torreense
+Sun Nov 10 1991,Sl Benfica,2-1,FC Famalicao
+Sun Nov 10 1991,SC Beira Mar,0-1,FC Porto
+Sun Nov 10 1991,Vitoria Guimaraes,2-1,Sporting CP
+Sun Nov 24 1991,Uniao Torreense,0-2,Gil Vicente
+Sun Nov 24 1991,Sporting CP,2-1,Sporting Farense
+Sun Nov 24 1991,FC Porto,3-0,Uniao Madeira
+Sun Nov 24 1991,Pacos De Ferreira,2-1,SC Salgueiros
+Sun Nov 24 1991,CS Maritimo,0-0,Boavista Porto
+Sun Nov 24 1991,FC Famalicao,1-1,SC Beira Mar
+Sun Nov 24 1991,GD Estoril,2-0,Vitoria Guimaraes
+Sun Nov 24 1991,GD Chaves,1-0,FC Penafiel
+Sun Nov 24 1991,Sporting Braga,0-2,Sl Benfica
+Sun Dec 1 1991,Vitoria Guimaraes,1-1,Uniao Torreense
+Sun Dec 1 1991,Uniao Madeira,1-0,FC Famalicao
+Sun Dec 1 1991,Sporting CP,1-0,GD Estoril
+Sun Dec 1 1991,SC Salgueiros,1-1,GD Chaves
+Sun Dec 1 1991,FC Penafiel,0-2,FC Porto
+Sun Dec 1 1991,Gil Vicente,1-1,CS Maritimo
+Sun Dec 1 1991,Sporting Farense,2-2,Sl Benfica
+Sun Dec 1 1991,Boavista Porto,3-0,Pacos De Ferreira
+Sun Dec 1 1991,SC Beira Mar,1-0,Sporting Braga
+Sun Dec 8 1991,Uniao Torreense,1-2,Sporting CP
+Sun Dec 8 1991,FC Porto,2-0,SC Salgueiros
+Sun Dec 8 1991,Pacos De Ferreira,0-1,Gil Vicente
+Sun Dec 8 1991,CS Maritimo,3-1,Vitoria Guimaraes
+Sun Dec 8 1991,FC Famalicao,1-1,FC Penafiel
+Sun Dec 8 1991,GD Estoril,3-1,Sporting Farense
+Sun Dec 8 1991,GD Chaves,3-0,Boavista Porto
+Sun Dec 8 1991,Sporting Braga,1-2,Uniao Madeira
+Sun Dec 8 1991,Sl Benfica,3-0,SC Beira Mar
+Sun Dec 22 1991,Vitoria Guimaraes,1-1,Pacos De Ferreira
+Sun Dec 22 1991,Uniao Madeira,0-1,Sl Benfica
+Sun Dec 22 1991,Sporting CP,2-1,CS Maritimo
+Sun Dec 22 1991,SC Salgueiros,0-0,FC Famalicao
+Sun Dec 22 1991,FC Penafiel,2-1,Sporting Braga
+Sun Dec 22 1991,Gil Vicente,1-0,GD Chaves
+Sun Dec 22 1991,Sporting Farense,0-0,SC Beira Mar
+Sun Dec 22 1991,GD Estoril,0-0,Uniao Torreense
+Sun Dec 22 1991,Boavista Porto,0-0,FC Porto
+Sun Dec 29 1991,FC Porto,1-0,Gil Vicente
+Sun Dec 29 1991,Pacos De Ferreira,1-0,Sporting CP
+Sun Dec 29 1991,CS Maritimo,0-0,GD Estoril
+Sun Dec 29 1991,Sporting Farense,1-0,Uniao Torreense
+Sun Dec 29 1991,FC Famalicao,0-0,Boavista Porto
+Sun Dec 29 1991,GD Chaves,1-1,Vitoria Guimaraes
+Sun Dec 29 1991,Sporting Braga,0-0,SC Salgueiros
+Sun Dec 29 1991,Sl Benfica,1-1,FC Penafiel
+Sun Dec 29 1991,SC Beira Mar,2-0,Uniao Madeira
+Sun Jan 5 1992,Vitoria Guimaraes,1-1,FC Porto
+Sun Jan 5 1992,Uniao Madeira,0-2,Sporting Farense
+Sun Jan 5 1992,Uniao Torreense,2-2,CS Maritimo
+Sun Jan 5 1992,Sporting CP,3-0,GD Chaves
+Sun Jan 5 1992,SC Salgueiros,1-1,Sl Benfica
+Sun Jan 5 1992,FC Penafiel,2-2,SC Beira Mar
+Sun Jan 5 1992,Gil Vicente,2-0,FC Famalicao
+Sun Jan 5 1992,GD Estoril,3-1,Pacos De Ferreira
+Sun Jan 5 1992,Boavista Porto,2-1,Sporting Braga
+Sun Jan 19 1992,Vitoria Guimaraes,1-1,FC Famalicao
+Sun Jan 19 1992,Uniao Torreense,2-0,Pacos De Ferreira
+Sun Jan 19 1992,Sporting CP,0-2,FC Porto
+Sun Jan 19 1992,SC Salgueiros,1-1,SC Beira Mar
+Sun Jan 19 1992,FC Penafiel,1-1,Uniao Madeira
+Sun Jan 19 1992,CS Maritimo,1-1,Sporting Farense
+Sun Jan 19 1992,Gil Vicente,2-3,Sporting Braga
+Sun Jan 19 1992,GD Estoril,1-1,GD Chaves
+Sun Jan 19 1992,Boavista Porto,1-0,Sl Benfica
+Sun Jan 26 1992,Uniao Madeira,2-1,SC Salgueiros
+Sun Jan 26 1992,FC Porto,5-0,GD Estoril
+Sun Jan 26 1992,Pacos De Ferreira,2-1,CS Maritimo
+Sun Jan 26 1992,Sporting Farense,4-1,FC Penafiel
+Sun Jan 26 1992,FC Famalicao,0-0,Sporting CP
+Sun Jan 26 1992,GD Chaves,4-1,Uniao Torreense
+Sun Jan 26 1992,Sporting Braga,2-1,Vitoria Guimaraes
+Sun Jan 26 1992,Sl Benfica,5-0,Gil Vicente
+Sun Jan 26 1992,SC Beira Mar,2-1,Boavista Porto
+Sun Feb 2 1992,Vitoria Guimaraes,1-3,Sl Benfica
+Sun Feb 2 1992,Uniao Torreense,0-0,FC Porto
+Sun Feb 2 1992,Sporting CP,4-2,Sporting Braga
+Sun Feb 2 1992,SC Salgueiros,1-1,FC Penafiel
+Sun Feb 2 1992,Pacos De Ferreira,1-0,Sporting Farense
+Sun Feb 2 1992,CS Maritimo,1-0,GD Chaves
+Sun Feb 2 1992,Gil Vicente,2-0,SC Beira Mar
+Sun Feb 2 1992,GD Estoril,2-1,FC Famalicao
+Sun Feb 2 1992,Boavista Porto,3-0,Uniao Madeira
+Sun Feb 9 1992,Uniao Madeira,4-1,Gil Vicente
+Sun Feb 9 1992,FC Porto,3-1,CS Maritimo
+Sun Feb 9 1992,FC Penafiel,0-0,Boavista Porto
+Sun Feb 9 1992,Sporting Farense,1-1,SC Salgueiros
+Sun Feb 9 1992,FC Famalicao,2-0,Uniao Torreense
+Sun Feb 9 1992,GD Chaves,1-1,Pacos De Ferreira
+Sun Feb 9 1992,Sporting Braga,1-3,GD Estoril
+Sun Feb 9 1992,Sl Benfica,2-0,Sporting CP
+Sun Feb 9 1992,SC Beira Mar,1-2,Vitoria Guimaraes
+Sun Feb 16 1992,Vitoria Guimaraes,1-1,Uniao Madeira
+Sun Feb 16 1992,Uniao Torreense,0-0,Sporting Braga
+Sun Feb 16 1992,Sporting CP,3-1,SC Beira Mar
+Sun Feb 16 1992,Pacos De Ferreira,0-3,FC Porto
+Sun Feb 16 1992,CS Maritimo,3-1,FC Famalicao
+Sun Feb 16 1992,Gil Vicente,2-0,FC Penafiel
+Sun Feb 16 1992,GD Estoril,0-2,Sl Benfica
+Sun Feb 16 1992,GD Chaves,0-0,Sporting Farense
+Sun Feb 16 1992,Boavista Porto,2-0,SC Salgueiros
+Sun Feb 23 1992,Uniao Madeira,1-5,Sporting CP
+Sun Feb 23 1992,SC Salgueiros,1-0,Gil Vicente
+Sun Feb 23 1992,FC Porto,4-1,GD Chaves
+Sun Feb 23 1992,FC Penafiel,0-1,Vitoria Guimaraes
+Sun Feb 23 1992,Sporting Farense,0-0,Boavista Porto
+Sun Feb 23 1992,FC Famalicao,1-0,Pacos De Ferreira
+Sun Feb 23 1992,Sporting Braga,2-0,CS Maritimo
+Sun Feb 23 1992,Sl Benfica,0-0,Uniao Torreense
+Sun Feb 23 1992,SC Beira Mar,1-0,GD Estoril
+Sun Mar 1 1992,Vitoria Guimaraes,1-0,SC Salgueiros
+Sun Mar 1 1992,Uniao Torreense,1-0,SC Beira Mar
+Sun Mar 1 1992,Sporting CP,3-1,FC Penafiel
+Sun Mar 1 1992,FC Porto,2-0,Sporting Farense
+Sun Mar 1 1992,Pacos De Ferreira,2-1,Sporting Braga
+Sun Mar 1 1992,CS Maritimo,0-4,Sl Benfica
+Sun Mar 1 1992,Gil Vicente,1-3,Boavista Porto
+Sun Mar 1 1992,GD Estoril,2-1,Uniao Madeira
+Sun Mar 1 1992,GD Chaves,2-0,FC Famalicao
+Sun Mar 8 1992,Uniao Madeira,2-0,Uniao Torreense
+Sun Mar 8 1992,SC Salgueiros,1-1,Sporting CP
+Sun Mar 8 1992,FC Penafiel,4-3,GD Estoril
+Sun Mar 8 1992,Sporting Farense,1-0,Gil Vicente
+Sun Mar 8 1992,FC Famalicao,0-1,FC Porto
+Sun Mar 8 1992,Sporting Braga,3-1,GD Chaves
+Sun Mar 8 1992,Boavista Porto,1-1,Vitoria Guimaraes
+Sun Mar 8 1992,Sl Benfica,4-0,Pacos De Ferreira
+Sun Mar 8 1992,SC Beira Mar,1-4,CS Maritimo
+Sun Mar 15 1992,CS Maritimo,3-1,Uniao Madeira
+Sun Mar 15 1992,Vitoria Guimaraes,0-0,Gil Vicente
+Sun Mar 15 1992,Uniao Torreense,1-0,FC Penafiel
+Sun Mar 15 1992,Sporting CP,1-1,Boavista Porto
+Sun Mar 15 1992,FC Porto,2-0,Sporting Braga
+Sun Mar 15 1992,Pacos De Ferreira,1-1,SC Beira Mar
+Sun Mar 15 1992,FC Famalicao,0-1,Sporting Farense
+Sun Mar 15 1992,GD Estoril,0-2,SC Salgueiros
+Sun Mar 15 1992,GD Chaves,1-0,Sl Benfica
+Sun Mar 22 1992,Uniao Madeira,1-2,Pacos De Ferreira
+Sun Mar 22 1992,SC Salgueiros,1-1,Uniao Torreense
+Sun Mar 22 1992,FC Penafiel,0-1,CS Maritimo
+Sun Mar 22 1992,Gil Vicente,0-3,Sporting CP
+Sun Mar 22 1992,Sporting Farense,3-0,Vitoria Guimaraes
+Sun Mar 22 1992,Sporting Braga,1-0,FC Famalicao
+Sun Mar 22 1992,Boavista Porto,5-0,GD Estoril
+Sun Mar 22 1992,Sl Benfica,2-3,FC Porto
+Sun Mar 22 1992,SC Beira Mar,1-0,GD Chaves
+Sun Apr 5 1992,Uniao Torreense,1-0,Boavista Porto
+Sun Apr 5 1992,FC Porto,4-1,SC Beira Mar
+Sun Apr 5 1992,Pacos De Ferreira,2-1,FC Penafiel
+Sun Apr 5 1992,CS Maritimo,1-1,SC Salgueiros
+Sun Apr 5 1992,FC Famalicao,0-0,Sl Benfica
+Sun Apr 5 1992,GD Estoril,0-1,Gil Vicente
+Sun Apr 5 1992,GD Chaves,0-2,Uniao Madeira
+Sun Apr 5 1992,Sporting Braga,4-1,Sporting Farense
+Sun Apr 5 1992,Sporting CP,0-1,Vitoria Guimaraes
+Sat Apr 11 1992,Vitoria Guimaraes,1-1,GD Estoril
+Sat Apr 11 1992,Uniao Madeira,2-2,FC Porto
+Sat Apr 11 1992,SC Salgueiros,0-0,Pacos De Ferreira
+Sat Apr 11 1992,FC Penafiel,1-0,GD Chaves
+Sat Apr 11 1992,Gil Vicente,2-1,Uniao Torreense
+Sat Apr 11 1992,Sporting Farense,0-2,Sporting CP
+Sat Apr 11 1992,Boavista Porto,1-0,CS Maritimo
+Sat Apr 11 1992,Sl Benfica,2-0,Sporting Braga
+Sat Apr 11 1992,SC Beira Mar,0-0,FC Famalicao
+Sat Apr 18 1992,Uniao Torreense,1-1,Vitoria Guimaraes
+Sat Apr 18 1992,FC Porto,2-1,FC Penafiel
+Sat Apr 18 1992,Pacos De Ferreira,1-1,Boavista Porto
+Sat Apr 18 1992,CS Maritimo,4-0,Gil Vicente
+Sat Apr 18 1992,FC Famalicao,2-0,Uniao Madeira
+Sat Apr 18 1992,GD Estoril,1-1,Sporting CP
+Sat Apr 18 1992,GD Chaves,2-0,SC Salgueiros
+Sat Apr 18 1992,Sporting Braga,2-1,SC Beira Mar
+Sat Apr 18 1992,Sl Benfica,1-1,Sporting Farense
+Sat Apr 25 1992,Vitoria Guimaraes,3-1,CS Maritimo
+Sat Apr 25 1992,Uniao Madeira,0-2,Sporting Braga
+Sat Apr 25 1992,Sporting CP,4-0,Uniao Torreense
+Sat Apr 25 1992,SC Salgueiros,0-1,FC Porto
+Sat Apr 25 1992,FC Penafiel,1-1,FC Famalicao
+Sat Apr 25 1992,Gil Vicente,1-2,Pacos De Ferreira
+Sat Apr 25 1992,Sporting Farense,2-0,GD Estoril
+Sat Apr 25 1992,Boavista Porto,4-4,GD Chaves
+Sat Apr 25 1992,SC Beira Mar,2-1,Sl Benfica
+Sat May 2 1992,Uniao Torreense,8-1,GD Estoril
+Sat May 2 1992,FC Porto,2-0,Boavista Porto
+Sat May 2 1992,Pacos De Ferreira,1-1,Vitoria Guimaraes
+Sat May 2 1992,CS Maritimo,1-0,Sporting CP
+Sat May 2 1992,FC Famalicao,2-1,SC Salgueiros
+Sat May 2 1992,GD Chaves,1-1,Gil Vicente
+Sat May 2 1992,Sporting Braga,1-2,FC Penafiel
+Sat May 2 1992,Sl Benfica,6-0,Uniao Madeira
+Sat May 2 1992,SC Beira Mar,1-0,Sporting Farense
+Sat May 9 1992,Vitoria Guimaraes,4-0,GD Chaves
+Sat May 9 1992,Uniao Madeira,2-1,SC Beira Mar
+Sat May 9 1992,Uniao Torreense,1-1,Sporting Farense
+Sat May 9 1992,Sporting CP,2-1,Pacos De Ferreira
+Sat May 9 1992,SC Salgueiros,3-0,Sporting Braga
+Sat May 9 1992,FC Penafiel,2-2,Sl Benfica
+Sat May 9 1992,Gil Vicente,1-0,FC Porto
+Sat May 9 1992,GD Estoril,1-1,CS Maritimo
+Sat May 9 1992,Boavista Porto,1-0,FC Famalicao
+Sat May 16 1992,FC Porto,1-0,Vitoria Guimaraes
+Sat May 16 1992,Pacos De Ferreira,1-2,GD Estoril
+Sat May 16 1992,CS Maritimo,1-0,Uniao Torreense
+Sat May 16 1992,Sporting Farense,1-0,Uniao Madeira
+Sat May 16 1992,FC Famalicao,2-0,Gil Vicente
+Sat May 16 1992,GD Chaves,1-1,Sporting CP
+Sat May 16 1992,Sporting Braga,1-2,Boavista Porto
+Sat May 16 1992,Sl Benfica,1-1,SC Salgueiros
+Sat May 16 1992,SC Beira Mar,2-1,FC Penafiel

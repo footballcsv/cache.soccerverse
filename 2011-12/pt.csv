@@ -1,0 +1,241 @@
+Date,Team 1,FT,Team 2
+Fri Aug 12 2011,Gil Vicente,2-2,Sl Benfica
+Sat Aug 13 2011,Rio Ave FC,0-0,Sporting Braga
+Sat Aug 13 2011,Sporting CP,1-1,SC Olhanense
+Sun Aug 14 2011,CS Maritimo,0-0,SC Beira Mar
+Sun Aug 14 2011,Cd Feirense,0-0,CD Nacional
+Sun Aug 14 2011,Vitoria Setubal,2-1,Pacos De Ferreira
+Sun Aug 14 2011,Vitoria Guimaraes,0-1,FC Porto
+Mon Aug 15 2011,Uniao Leiria,1-2,Academica De Coimbra
+Fri Aug 19 2011,FC Porto,3-1,Gil Vicente
+Sat Aug 20 2011,Sl Benfica,3-1,Cd Feirense
+Sun Aug 21 2011,Academica De Coimbra,1-0,Rio Ave FC
+Sun Aug 21 2011,Pacos De Ferreira,2-1,Uniao Leiria
+Sun Aug 21 2011,SC Beira Mar,0-0,Sporting CP
+Sun Aug 21 2011,Sporting Braga,2-0,CS Maritimo
+Mon Aug 22 2011,SC Olhanense,2-2,Vitoria Setubal
+Sat Aug 27 2011,Gil Vicente,2-0,Academica De Coimbra
+Sun Aug 28 2011,Rio Ave FC,0-1,SC Olhanense
+Sun Aug 28 2011,Cd Feirense,0-0,Pacos De Ferreira
+Sun Aug 28 2011,Vitoria Guimaraes,0-3,SC Beira Mar
+Sun Aug 28 2011,Sporting CP,2-3,CS Maritimo
+Mon Aug 29 2011,Vitoria Setubal,0-1,Sporting Braga
+Mon Aug 29 2011,CD Nacional,0-2,Sl Benfica
+Sun Sep 4 2011,CD Nacional,1-4,Vitoria Guimaraes
+Tue Sep 6 2011,Uniao Leiria,2-5,FC Porto
+Fri Sep 9 2011,FC Porto,3-0,Vitoria Setubal
+Sat Sep 10 2011,Sl Benfica,2-1,Vitoria Guimaraes
+Sat Sep 10 2011,Pacos De Ferreira,2-3,Sporting CP
+Sun Sep 11 2011,SC Beira Mar,0-1,Uniao Leiria
+Sun Sep 11 2011,SC Olhanense,1-2,Cd Feirense
+Sun Sep 11 2011,Sporting Braga,3-1,Gil Vicente
+Sun Sep 11 2011,CS Maritimo,2-1,Rio Ave FC
+Mon Sep 12 2011,Academica De Coimbra,4-0,CD Nacional
+Fri Sep 16 2011,Gil Vicente,1-1,SC Olhanense
+Sat Sep 17 2011,CD Nacional,1-0,Pacos De Ferreira
+Sun Sep 18 2011,Uniao Leiria,1-3,CS Maritimo
+Sun Sep 18 2011,Vitoria Setubal,1-0,SC Beira Mar
+Sun Sep 18 2011,Cd Feirense,0-0,FC Porto
+Sun Sep 18 2011,Sl Benfica,4-1,Academica De Coimbra
+Mon Sep 19 2011,Vitoria Guimaraes,1-1,Sporting Braga
+Mon Sep 19 2011,Rio Ave FC,2-3,Sporting CP
+Fri Sep 23 2011,FC Porto,2-2,Sl Benfica
+Sat Sep 24 2011,Sporting Braga,2-0,CD Nacional
+Sat Sep 24 2011,Sporting CP,3-0,Vitoria Setubal
+Sun Sep 25 2011,SC Beira Mar,0-0,Rio Ave FC
+Sun Sep 25 2011,Pacos De Ferreira,1-2,Gil Vicente
+Sun Sep 25 2011,SC Olhanense,2-1,Uniao Leiria
+Sun Sep 25 2011,CS Maritimo,2-1,Vitoria Guimaraes
+Mon Sep 26 2011,Academica De Coimbra,4-0,Cd Feirense
+Fri Sep 30 2011,Vitoria Setubal,2-1,Rio Ave FC
+Sat Oct 1 2011,Sl Benfica,4-1,Pacos De Ferreira
+Sun Oct 2 2011,Cd Feirense,2-2,CS Maritimo
+Sun Oct 2 2011,CD Nacional,1-0,SC Olhanense
+Sun Oct 2 2011,Uniao Leiria,1-0,Sporting Braga
+Sun Oct 2 2011,Vitoria Guimaraes,0-1,Sporting CP
+Sun Oct 2 2011,Academica De Coimbra,0-3,FC Porto
+Mon Oct 3 2011,Gil Vicente,0-0,SC Beira Mar
+Fri Oct 21 2011,Pacos De Ferreira,2-0,Academica De Coimbra
+Sat Oct 22 2011,SC Olhanense,1-0,Vitoria Guimaraes
+Sat Oct 22 2011,SC Beira Mar,0-1,Sl Benfica
+Sun Oct 23 2011,CS Maritimo,1-0,Vitoria Setubal
+Sun Oct 23 2011,Rio Ave FC,2-0,Uniao Leiria
+Sun Oct 23 2011,FC Porto,5-0,CD Nacional
+Sun Oct 23 2011,Sporting Braga,3-0,Cd Feirense
+Mon Oct 24 2011,Sporting CP,6-1,Gil Vicente
+Fri Oct 28 2011,FC Porto,3-0,Pacos De Ferreira
+Sat Oct 29 2011,Academica De Coimbra,0-0,Sporting Braga
+Sat Oct 29 2011,Sl Benfica,2-1,SC Olhanense
+Sun Oct 30 2011,CD Nacional,2-1,SC Beira Mar
+Sun Oct 30 2011,Uniao Leiria,2-0,Vitoria Setubal
+Sun Oct 30 2011,Vitoria Guimaraes,2-1,Rio Ave FC
+Sun Oct 30 2011,Cd Feirense,0-2,Sporting CP
+Tue Nov 1 2011,Gil Vicente,0-0,CS Maritimo
+Fri Nov 4 2011,Pacos De Ferreira,1-5,Vitoria Guimaraes
+Sat Nov 5 2011,CS Maritimo,3-2,Academica De Coimbra
+Sat Nov 5 2011,SC Olhanense,0-0,FC Porto
+Sun Nov 6 2011,SC Beira Mar,2-1,Cd Feirense
+Sun Nov 6 2011,Rio Ave FC,2-1,CD Nacional
+Sun Nov 6 2011,Vitoria Setubal,0-0,Gil Vicente
+Sun Nov 6 2011,Sporting Braga,1-1,Sl Benfica
+Sun Nov 6 2011,Sporting CP,3-1,Uniao Leiria
+Fri Nov 25 2011,Academica De Coimbra,0-1,SC Beira Mar
+Sat Nov 26 2011,CD Nacional,2-2,CS Maritimo
+Sat Nov 26 2011,Sl Benfica,1-0,Sporting CP
+Sun Nov 27 2011,Cd Feirense,2-0,Rio Ave FC
+Sun Nov 27 2011,Gil Vicente,2-1,Uniao Leiria
+Sun Nov 27 2011,FC Porto,3-2,Sporting Braga
+Sun Nov 27 2011,Pacos De Ferreira,1-1,SC Olhanense
+Mon Nov 28 2011,Vitoria Guimaraes,3-0,Vitoria Setubal
+Fri Dec 9 2011,Sporting Braga,5-2,Pacos De Ferreira
+Sat Dec 10 2011,SC Beira Mar,1-2,FC Porto
+Sat Dec 10 2011,Sporting CP,1-0,CD Nacional
+Sun Dec 11 2011,Rio Ave FC,2-0,Gil Vicente
+Sun Dec 11 2011,Vitoria Setubal,1-1,Cd Feirense
+Sun Dec 11 2011,Uniao Leiria,1-0,Vitoria Guimaraes
+Sun Dec 11 2011,CS Maritimo,0-1,Sl Benfica
+Mon Dec 12 2011,SC Olhanense,0-2,Academica De Coimbra
+Fri Dec 16 2011,Sl Benfica,5-1,Rio Ave FC
+Sat Dec 17 2011,Vitoria Guimaraes,1-1,Gil Vicente
+Sat Dec 17 2011,FC Porto,2-0,CS Maritimo
+Sun Dec 18 2011,Cd Feirense,2-1,Uniao Leiria
+Sun Dec 18 2011,CD Nacional,1-1,Vitoria Setubal
+Sun Dec 18 2011,Pacos De Ferreira,0-3,SC Beira Mar
+Sun Dec 18 2011,Academica De Coimbra,1-1,Sporting CP
+Mon Dec 19 2011,SC Olhanense,3-4,Sporting Braga
+Fri Jan 6 2012,Vitoria Setubal,1-1,Academica De Coimbra
+Sat Jan 7 2012,Sporting CP,0-0,FC Porto
+Sun Jan 8 2012,CS Maritimo,2-1,SC Olhanense
+Sun Jan 8 2012,Rio Ave FC,1-0,Pacos De Ferreira
+Sun Jan 8 2012,Gil Vicente,0-3,CD Nacional
+Sun Jan 8 2012,Uniao Leiria,0-4,Sl Benfica
+Sun Jan 8 2012,Vitoria Guimaraes,1-0,Cd Feirense
+Mon Jan 9 2012,SC Beira Mar,1-2,Sporting Braga
+Fri Jan 13 2012,Pacos De Ferreira,1-1,CS Maritimo
+Sat Jan 14 2012,Cd Feirense,0-0,Gil Vicente
+Sat Jan 14 2012,Sl Benfica,4-1,Vitoria Setubal
+Sat Jan 14 2012,FC Porto,2-0,Rio Ave FC
+Sun Jan 15 2012,CD Nacional,2-2,Uniao Leiria
+Sun Jan 15 2012,SC Olhanense,2-1,SC Beira Mar
+Sun Jan 15 2012,Academica De Coimbra,0-2,Vitoria Guimaraes
+Sun Jan 15 2012,Sporting Braga,2-1,Sporting CP
+Fri Jan 20 2012,Academica De Coimbra,0-0,Uniao Leiria
+Sat Jan 21 2012,SC Beira Mar,1-2,CS Maritimo
+Sun Jan 22 2012,CD Nacional,2-0,Cd Feirense
+Sun Jan 22 2012,Pacos De Ferreira,2-1,Vitoria Setubal
+Sun Jan 22 2012,Sporting Braga,2-1,Rio Ave FC
+Sun Jan 22 2012,FC Porto,3-1,Vitoria Guimaraes
+Sun Jan 22 2012,Sl Benfica,3-1,Gil Vicente
+Mon Jan 23 2012,SC Olhanense,0-0,Sporting CP
+Fri Jan 27 2012,Vitoria Guimaraes,1-0,CD Nacional
+Sat Jan 28 2012,Rio Ave FC,0-0,Academica De Coimbra
+Sat Jan 28 2012,Cd Feirense,1-2,Sl Benfica
+Sun Jan 29 2012,Uniao Leiria,2-4,Pacos De Ferreira
+Sun Jan 29 2012,Vitoria Setubal,2-3,SC Olhanense
+Sun Jan 29 2012,Sporting CP,2-0,SC Beira Mar
+Sun Jan 29 2012,Gil Vicente,3-1,FC Porto
+Mon Jan 30 2012,CS Maritimo,1-2,Sporting Braga
+Fri Feb 10 2012,Sporting Braga,3-0,Vitoria Setubal
+Sat Feb 11 2012,CS Maritimo,2-0,Sporting CP
+Sat Feb 11 2012,Sl Benfica,4-1,CD Nacional
+Sun Feb 12 2012,Pacos De Ferreira,3-1,Cd Feirense
+Sun Feb 12 2012,SC Olhanense,0-2,Rio Ave FC
+Sun Feb 12 2012,SC Beira Mar,0-1,Vitoria Guimaraes
+Sun Feb 12 2012,FC Porto,4-0,Uniao Leiria
+Mon Feb 13 2012,Academica De Coimbra,0-2,Gil Vicente
+Fri Feb 17 2012,Rio Ave FC,1-3,CS Maritimo
+Sat Feb 18 2012,Gil Vicente,0-3,Sporting Braga
+Sun Feb 19 2012,Uniao Leiria,0-0,SC Beira Mar
+Sun Feb 19 2012,CD Nacional,4-1,Academica De Coimbra
+Sun Feb 19 2012,Cd Feirense,1-1,SC Olhanense
+Sun Feb 19 2012,Vitoria Setubal,1-3,FC Porto
+Sun Feb 19 2012,Sporting CP,1-0,Pacos De Ferreira
+Mon Feb 20 2012,Vitoria Guimaraes,1-0,Sl Benfica
+Fri Feb 24 2012,CS Maritimo,1-0,Uniao Leiria
+Sat Feb 25 2012,Academica De Coimbra,0-0,Sl Benfica
+Sun Feb 26 2012,Pacos De Ferreira,0-2,CD Nacional
+Sun Feb 26 2012,SC Beira Mar,2-3,Vitoria Setubal
+Sun Feb 26 2012,SC Olhanense,0-0,Gil Vicente
+Sun Feb 26 2012,Sporting CP,1-0,Rio Ave FC
+Sun Feb 26 2012,FC Porto,2-0,Cd Feirense
+Mon Feb 27 2012,Sporting Braga,4-0,Vitoria Guimaraes
+Fri Mar 2 2012,Sl Benfica,2-3,FC Porto
+Sat Mar 3 2012,CD Nacional,1-3,Sporting Braga
+Sat Mar 3 2012,Vitoria Setubal,1-0,Sporting CP
+Sun Mar 4 2012,Rio Ave FC,4-0,SC Beira Mar
+Sun Mar 4 2012,Cd Feirense,1-1,Academica De Coimbra
+Sun Mar 4 2012,Gil Vicente,1-2,Pacos De Ferreira
+Sun Mar 4 2012,Vitoria Guimaraes,1-0,CS Maritimo
+Mon Mar 5 2012,Uniao Leiria,1-3,SC Olhanense
+Fri Mar 9 2012,CS Maritimo,2-1,Cd Feirense
+Sat Mar 10 2012,Sporting Braga,2-1,Uniao Leiria
+Sat Mar 10 2012,FC Porto,1-1,Academica De Coimbra
+Sun Mar 11 2012,SC Olhanense,4-4,CD Nacional
+Sun Mar 11 2012,Rio Ave FC,3-0,Vitoria Setubal
+Sun Mar 11 2012,SC Beira Mar,1-0,Gil Vicente
+Sun Mar 11 2012,Pacos De Ferreira,1-2,Sl Benfica
+Sun Mar 11 2012,Sporting CP,5-0,Vitoria Guimaraes
+Fri Mar 16 2012,CD Nacional,0-2,FC Porto
+Fri Mar 16 2012,Sl Benfica,3-1,SC Beira Mar
+Sat Mar 17 2012,Uniao Leiria,1-0,Rio Ave FC
+Sat Mar 17 2012,Cd Feirense,1-4,Sporting Braga
+Sun Mar 18 2012,Academica De Coimbra,0-1,Pacos De Ferreira
+Sun Mar 18 2012,Vitoria Setubal,1-1,CS Maritimo
+Sun Mar 18 2012,Vitoria Guimaraes,2-2,SC Olhanense
+Mon Mar 19 2012,Gil Vicente,2-0,Sporting CP
+Fri Mar 23 2012,SC Olhanense,0-0,Sl Benfica
+Sat Mar 24 2012,Sporting CP,1-0,Cd Feirense
+Sun Mar 25 2012,SC Beira Mar,0-3,CD Nacional
+Sun Mar 25 2012,Vitoria Setubal,1-0,Uniao Leiria
+Sun Mar 25 2012,Rio Ave FC,0-1,Vitoria Guimaraes
+Sun Mar 25 2012,Pacos De Ferreira,1-1,FC Porto
+Mon Mar 26 2012,CS Maritimo,3-2,Gil Vicente
+Mon Mar 26 2012,Sporting Braga,2-1,Academica De Coimbra
+Fri Mar 30 2012,Academica De Coimbra,0-1,CS Maritimo
+Sat Mar 31 2012,FC Porto,2-0,SC Olhanense
+Sat Mar 31 2012,Sl Benfica,2-1,Sporting Braga
+Sun Apr 1 2012,Cd Feirense,1-3,SC Beira Mar
+Sun Apr 1 2012,CD Nacional,2-1,Rio Ave FC
+Sun Apr 1 2012,Gil Vicente,0-1,Vitoria Setubal
+Sun Apr 1 2012,Uniao Leiria,0-1,Sporting CP
+Sun Apr 1 2012,Vitoria Guimaraes,3-1,Pacos De Ferreira
+Fri Apr 6 2012,Uniao Leiria,0-0,Gil Vicente
+Fri Apr 6 2012,SC Beira Mar,2-1,Academica De Coimbra
+Fri Apr 6 2012,Vitoria Setubal,1-0,Vitoria Guimaraes
+Sat Apr 7 2012,Rio Ave FC,2-2,Cd Feirense
+Sat Apr 7 2012,SC Olhanense,1-2,Pacos De Ferreira
+Sat Apr 7 2012,CS Maritimo,2-4,CD Nacional
+Sat Apr 7 2012,Sporting Braga,0-1,FC Porto
+Mon Apr 9 2012,Sporting CP,1-0,Sl Benfica
+Fri Apr 20 2012,Pacos De Ferreira,1-1,Sporting Braga
+Sat Apr 21 2012,Sl Benfica,4-1,CS Maritimo
+Sat Apr 21 2012,Vitoria Guimaraes,3-2,Uniao Leiria
+Sat Apr 21 2012,FC Porto,3-0,SC Beira Mar
+Sun Apr 22 2012,Gil Vicente,0-0,Rio Ave FC
+Sun Apr 22 2012,Cd Feirense,1-0,Vitoria Setubal
+Sun Apr 22 2012,CD Nacional,2-3,Sporting CP
+Mon Apr 23 2012,Academica De Coimbra,0-1,SC Olhanense
+Fri Apr 27 2012,Sporting Braga,1-2,SC Olhanense
+Sat Apr 28 2012,Gil Vicente,3-1,Vitoria Guimaraes
+Sat Apr 28 2012,CS Maritimo,0-2,FC Porto
+Sun Apr 29 2012,Uniao Leiria,0-4,Cd Feirense
+Sun Apr 29 2012,Vitoria Setubal,0-3,CD Nacional
+Sun Apr 29 2012,SC Beira Mar,2-0,Pacos De Ferreira
+Sun Apr 29 2012,Rio Ave FC,2-2,Sl Benfica
+Mon Apr 30 2012,Sporting CP,2-1,Academica De Coimbra
+Sat May 5 2012,Sporting Braga,1-0,SC Beira Mar
+Sat May 5 2012,SC Olhanense,0-0,CS Maritimo
+Sat May 5 2012,FC Porto,2-0,Sporting CP
+Sat May 5 2012,Pacos De Ferreira,2-2,Rio Ave FC
+Sat May 5 2012,Academica De Coimbra,1-0,Vitoria Setubal
+Sat May 5 2012,Sl Benfica,1-0,Uniao Leiria
+Sat May 5 2012,CD Nacional,3-1,Gil Vicente
+Sat May 5 2012,Cd Feirense,1-3,Vitoria Guimaraes
+Sat May 12 2012,Gil Vicente,3-1,Cd Feirense
+Sat May 12 2012,Uniao Leiria,2-3,CD Nacional
+Sat May 12 2012,Vitoria Setubal,1-3,Sl Benfica
+Sat May 12 2012,Vitoria Guimaraes,1-2,Academica De Coimbra
+Sat May 12 2012,Rio Ave FC,2-5,FC Porto
+Sat May 12 2012,CS Maritimo,1-1,Pacos De Ferreira
+Sat May 12 2012,SC Beira Mar,1-2,SC Olhanense
+Sat May 12 2012,Sporting CP,3-2,Sporting Braga
