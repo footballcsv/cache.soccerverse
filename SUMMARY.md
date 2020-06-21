@@ -344,41 +344,45 @@ xxx Ac Cesena (182)              => AC Cesena (1940-2018)     | Cesena
 33 club names:
 
 ```
-    FC Utrecht (1056)                                         | Utrecht
-    Vitesse (1050)               => Vitesse Arnhem            | Arnhem
+    FC Utrecht (1056)                                         | Utrecht,  Utrecht
+    Vitesse (1050)               => Vitesse Arnhem            | Arnhem,  Gelderland
     AFC Ajax (1032)              => Ajax Amsterdam            | Amsterdam,  Noord-Holland
     Feyenoord (1028)             => Feyenoord Rotterdam       | Rotterdam,  Zuid-Holland
     PSV Eindhoven (1020)                                      | Eindhoven,  Noord-Brabant
     FC Twente (1004)                                          | Enschede,  Overijssel
-    FC Groningen (986)                                        | Groningen
+    FC Groningen (986)                                        | Groningen,  Groningen
     Roda JC Kerkrade (964)                                    | Kerkrade,  Limburg
     Willem II (952)              => Willem II Tilburg         | Tilburg,  Noord-Brabant
     SC Heerenveen (940)                                       | Heerenveen,  Friesland
-    NEC Nijmegen (832)                                        | Nijmegen
+    NEC Nijmegen (832)                                        | Nijmegen,  Gelderland
     NAC Breda (794)                                           | Breda,  Noord-Brabant
     AZ Alkmaar (762)                                          | Alkmaar,  Noord-Holland
     RKC Waalwijk (754)                                        | Waalwijk,  Noord-Brabant
     Sparta Rotterdam (682)                                    | Rotterdam,  Zuid-Holland
     ADO Den Haag (618)                                        | Den Haag,  Zuid-Holland
-    De Graafschap (544)          => BV De Graafschap          | Doetinchem
+    De Graafschap (544)          => BV De Graafschap          | Doetinchem,  Gelderland
     Heracles Almelo (488)                                     | Almelo,  Overijssel
     Fortuna Sittard (408)                                     | Sittard,  Limburg
-    FC Volendam (374)                                         | Volendam
+    FC Volendam (374)                                         | Volendam,  Noord-Holland
     Sbv Excelsior (340)          => SBV Excelsior Rotterdam   | Rotterdam,  Zuid-Holland
     PEC Zwolle (310)                                          | Zwolle,  Overijssel
-!!! MVV (306)
+    MVV (306)                    => MVV Maastricht            | Maastricht,  Limburg
     VVV Venlo (306)                                           | Venlo,  Limburg
     Go Ahead Eagles (238)                                     | Deventer,  Overijssel
     SC Cambuur (238)                                          | Leeuwarden,  Friesland
-    RBC Roosendaal (170)                                      | Roosendaal
+    RBC Roosendaal (170)                                      | Roosendaal,  Noord-Brabant
     FC Den Bosch (136)                                        | 's-Hertogenbosch,  Noord-Brabant
     FC Dordrecht (136)                                        | Dordrecht,  Zuid-Holland
-!!! Bvv Den Bosch (34)
-    FC Emmen (34)                                             | Emmen
+    Bvv Den Bosch (34)           => FC Den Bosch              | 's-Hertogenbosch,  Noord-Brabant
+    FC Emmen (34)                                             | Emmen,  Drenthe
 xxx Hfc Haarlem (34)             => HFC Haarlem (1889-2010)   | Haarlem,  Noord-Holland
-!!! Svv Schiedam (34)
+    Svv Schiedam (34)            => SV SVV                    | Schiedam,  Zuid-Holland
 ```
 
+
+
+1 duplicates:
+- **FC Den Bosch** _(2)_ FC Den Bosch · Bvv Den Bosch
 
 
 ## Portugal (pt)
@@ -405,7 +409,7 @@ xxx Hfc Haarlem (34)             => HFC Haarlem (1889-2010)   | Haarlem,  Noord-
     Estrela Amadora (482)        => CF Estrela da Amadora     | Amadora
     GD Chaves (412)                                           | Chaves
     SC Salgueiros (392)                                       | Paranhos
-!!! Sporting Farense (392)
+    Sporting Farense (392)       => SC Farense                | Faro
     GD Estoril (312)             => Estoril Praia             | Estoril
     Moreirense FC (302)                                       | Moreira de Cónegos
     FC Penafiel (208)                                         | Penafiel
@@ -427,7 +431,7 @@ xxx Hfc Haarlem (34)             => HFC Haarlem (1889-2010)   | Haarlem,  Noord-
     Leixoes SC (90)              => Leixões SC                | Matosinhos
     SC Espinho (68)              => Sporting de Espinho       | Espinho
     FC Felgueiras (34)                                        | Felgueiras
-!!! Uniao Torreense (34)
+    Uniao Torreense (34)         => SC União Torreense        | Torres Vedras
     CD Trofense (30)                                          | Tulipa
 ```
 
@@ -454,40 +458,40 @@ xxx Hfc Haarlem (34)             => HFC Haarlem (1889-2010)   | Haarlem,  Noord-
     Goias EC (684)               => Goiás EC                  | Goiânia,  Goiás
     EC Vitoria Ba (670)          => EC Vitória                | Salvador,  Bahia
     Coritiba FC (658)            => Coritiba PR               | Curitiba,  Paraná
-!!! Sport Club Recife (584)
+    Sport Club Recife (584)      => Sport Recife              | Recife,  Pernambuco
     EC Bahia (528)                                            | Salvador,  Bahia
     Ponte Preta (482)                                         | Campinas,  São Paulo
     Figueirense (463)                                         | Florianópolis,  Santa Catarina
     Parana Clube (456)           => Paraná Clube              | Curitiba,  Paraná
-!!! Juventude RS (407)
+    Juventude RS (407)           => Esporte Clube Juventude   | Caxias do Sul,  Rio Grande do Sul
     Portuguesa (407)                                          | São Paulo,  São Paulo
     Guarani FC (388)                                          | Campinas,  São Paulo
-!!! Clube Nautico (282)
+    Clube Nautico (282)          => Náutico PE                | Recife,  Pernambuco
     Criciuma EC (276)            => Criciúma EC               | Criciúma,  Santa Catarina
     Paysandu SC (238)                                         | Belém,  Pará
     Sao Caetano (224)            => AD São Caetano            | São Caetano,  São Paulo
     America MG (202)             => América MG                | Belo Horizonte,  Minas Gerais
-    CA Bragantino (201)                                       | Bragança Paulista,  São Paulo
+xxx CA Bragantino (201)          => CA Bragantino (1928-2019) | Bragança Paulista,  São Paulo
     Avai FC (196)                => Avaí FC                   | Florianópolis,  Santa Catarina
     Chapecoense (195)                                         | Chapecó,  Santa Catarina
     Atletico GO (152)            => Atlético GO               | Goiânia,  Goiás
     Fortaleza (147)                                           | Fortaleza,  Ceará
     Santa Cruz FC (141)          => Santa Cruz                | Recife,  Pernambuco
     Ceara SC (134)               => Ceára SC                  | Fortaleza,  Ceará
-!!! Se Gama (97)
-!!! Uniao Sao Joao Esporte Clube (85)
-!!! Gremio Barueri (76)
-!!! America RN (63)
+    Se Gama (97)                 => Sociedade Esportiva do Gama | Gama,  Distrito Federal
+    Uniao Sao Joao Esporte Clube (85) => União São João            | Araras,  São Paulo
+    Gremio Barueri (76)          => Grêmio Barueri            | Barueri,  São Paulo
+    America RN (63)              => América de Natal          | Natal,  Rio Grande do Norte
     Botafogo SP (48)                                          | Ribeirão Preto,  São Paulo
-!!! Clube do Remo (45)
-!!! Brasiliense (42)
-!!! Betim EC (38)
-!!! Joinville EC (38)
-!!! Santo Andre EC (38)
-!!! America RJ (23)
-!!! Sao Jose EC (19)
-!!! Desportiva Capixaba (14)
-!!! CS Alagoano (6)
+    Clube do Remo (45)                                        | Belém,  Pará
+    Brasiliense (42)             => Brasiliense FC            | Taguatinga,  Distrito Federal
+    Betim EC (38)                => Ipatinga Futebol Clube    | Ipatinga,  Minas Gerais
+    Joinville EC (38)                                         | Joinville,  Santa Catarina
+    Santo Andre EC (38)          => Santo André               | Santo André,  São Paulo
+    America RJ (23)                                           | Mesquita,  Rio de Janeiro
+    Sao Jose EC (19)             => São José                  | São José,  São Paulo
+    Desportiva Capixaba (14)     => Desportiva Ferroviária    | Cariacica,  Espírito Santo
+    CS Alagoano (6)                                           | Maceió,  Alagoas
 ```
 
 
@@ -550,30 +554,9 @@ xxx Hfc Haarlem (34)             => HFC Haarlem (1889-2010)   | Haarlem,  Noord-
 
 
 
-35 errors:
+14 errors:
 ```
-["MVV > Netherlands",
- "Bvv Den Bosch > Netherlands",
- "Svv Schiedam > Netherlands",
- "Sporting Farense > Portugal",
- "Uniao Torreense > Portugal",
- "Sport Club Recife > Brazil",
- "Juventude RS > Brazil",
- "Clube Nautico > Brazil",
- "Se Gama > Brazil",
- "Uniao Sao Joao Esporte Clube > Brazil",
- "Gremio Barueri > Brazil",
- "America RN > Brazil",
- "Clube do Remo > Brazil",
- "Brasiliense > Brazil",
- "Betim EC > Brazil",
- "Joinville EC > Brazil",
- "Santo Andre EC > Brazil",
- "America RJ > Brazil",
- "Sao Jose EC > Brazil",
- "Desportiva Capixaba > Brazil",
- "CS Alagoano > Brazil",
- "Gye La Plata > Argentina",
+["Gye La Plata > Argentina",
  "CD Godoy Cruz > Argentina",
  "Gye Jujuy > Argentina",
  "Deportivo Espanol > Argentina",
