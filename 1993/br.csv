@@ -9,7 +9,7 @@ Sat Sep 4 1993,Atletico Paranaense,0-3,Uniao Sao Joao Esporte Clube
 Sat Sep 4 1993,Desportiva Capixaba,0-1,Coritiba FC
 Sun Sep 5 1993,Vasco Da Gama,1-0,Atletico Mineiro
 Mon Sep 6 1993,Sao Paulo FC,3-2,Internacional
-Mon Sep 6 1993,Bragantino,0-0,Botafogo RJ
+Mon Sep 6 1993,CA Bragantino,0-0,Botafogo RJ
 Tue Sep 7 1993,Cruzeiro EC,0-2,Corinthians SP
 Tue Sep 7 1993,EC Bahia,1-1,Flamengo RJ
 Tue Sep 7 1993,Sport Club Recife,0-2,Santos FC
@@ -20,7 +20,7 @@ Sat Sep 11 1993,EC Vitoria Ba,0-0,Fortaleza
 Sat Sep 11 1993,Santa Cruz FC,0-1,Paysandu SC
 Sat Sep 11 1993,Uniao Sao Joao Esporte Clube,2-1,Portuguesa
 Sun Sep 12 1993,Sao Paulo FC,1-1,Corinthians SP
-Sun Sep 12 1993,Flamengo RJ,1-1,Bragantino
+Sun Sep 12 1993,Flamengo RJ,1-1,CA Bragantino
 Sun Sep 12 1993,EC Bahia,1-3,Cruzeiro EC
 Sun Sep 12 1993,Se Palmeiras,3-0,Sport Club Recife
 Sun Sep 12 1993,Ceara SC,3-1,Goias EC
@@ -51,7 +51,7 @@ Sat Sep 18 1993,America MG,0-0,Coritiba FC
 Sat Sep 18 1993,Parana Clube,1-0,Portuguesa
 Sat Sep 18 1993,Desportiva Capixaba,1-1,Atletico Paranaense
 Mon Sep 20 1993,Botafogo RJ,0-1,Corinthians SP
-Mon Sep 20 1993,Internacional,1-1,Bragantino
+Mon Sep 20 1993,Internacional,1-1,CA Bragantino
 Mon Sep 20 1993,Vasco Da Gama,0-0,Guarani FC
 Wed Sep 22 1993,Flamengo RJ,2-0,Sao Paulo FC
 Wed Sep 22 1993,Guarani FC,2-1,Santos FC
@@ -65,7 +65,7 @@ Wed Sep 22 1993,Desportiva Capixaba,1-0,Uniao Sao Joao Esporte Clube
 Wed Sep 22 1993,Portuguesa,2-0,Atletico Paranaense
 Wed Sep 22 1993,Criciuma EC,3-1,America MG
 Wed Sep 22 1993,Coritiba FC,0-0,Parana Clube
-Sat Sep 25 1993,Bragantino,0-0,Corinthians SP
+Sat Sep 25 1993,CA Bragantino,0-0,Corinthians SP
 Sat Sep 25 1993,Sport Club Recife,1-1,Fluminense RJ
 Sun Sep 26 1993,Botafogo RJ,0-1,Flamengo RJ
 Sun Sep 26 1993,Sao Paulo FC,0-0,Cruzeiro EC
@@ -98,10 +98,10 @@ Sat Oct 2 1993,Santos FC,1-1,Vasco Da Gama
 Sun Oct 3 1993,Corinthians SP,1-0,Flamengo RJ
 Sun Oct 3 1993,Botafogo RJ,0-4,Sao Paulo FC
 Sun Oct 3 1993,Internacional,3-0,Cruzeiro EC
-Sun Oct 3 1993,EC Bahia,1-0,Bragantino
+Sun Oct 3 1993,EC Bahia,1-0,CA Bragantino
 Sun Oct 3 1993,Fluminense RJ,2-4,Se Palmeiras
 Mon Oct 4 1993,Sport Club Recife,0-0,Guarani FC
-Wed Oct 6 1993,Bragantino,1-0,Cruzeiro EC
+Wed Oct 6 1993,CA Bragantino,1-0,Cruzeiro EC
 Wed Oct 6 1993,Fluminense RJ,1-3,Vasco Da Gama
 Wed Oct 6 1993,Santa Cruz FC,1-2,Clube Nautico
 Wed Oct 6 1993,Paysandu SC,1-1,Clube do Remo
@@ -113,13 +113,13 @@ Wed Oct 6 1993,America MG,2-2,Parana Clube
 Thu Oct 7 1993,EC Vitoria Ba,3-1,Goias EC
 Sat Oct 9 1993,Corinthians SP,2-0,Internacional
 Sat Oct 9 1993,Cruzeiro EC,3-0,Botafogo RJ
-Sat Oct 9 1993,Bragantino,3-3,Internacional
+Sat Oct 9 1993,CA Bragantino,3-3,Internacional
 Sat Oct 9 1993,Flamengo RJ,1-1,EC Bahia
 Sat Oct 9 1993,Se Palmeiras,2-0,Vasco Da Gama
 Sat Oct 9 1993,Santos FC,3-0,Sport Club Recife
 Sat Oct 9 1993,Fluminense RJ,0-1,Gremio Porto Alegre
 Sat Oct 9 1993,Portuguesa,2-1,Uniao Sao Joao Esporte Clube
-Sun Oct 10 1993,Sao Paulo FC,3-3,Bragantino
+Sun Oct 10 1993,Sao Paulo FC,3-3,CA Bragantino
 Sun Oct 10 1993,Se Palmeiras,3-1,Guarani FC
 Sun Oct 10 1993,Fortaleza,3-1,EC Vitoria Ba
 Sun Oct 10 1993,Clube Nautico,1-0,Clube do Remo
@@ -137,7 +137,7 @@ Wed Oct 13 1993,Uniao Sao Joao Esporte Clube,3-1,Coritiba FC
 Wed Oct 13 1993,Desportiva Capixaba,1-2,Criciuma EC
 Thu Oct 14 1993,Paysandu SC,1-0,Ceara SC
 Thu Oct 14 1993,Santa Cruz FC,0-0,EC Vitoria Ba
-Sat Oct 16 1993,Bragantino,5-1,Flamengo RJ
+Sat Oct 16 1993,CA Bragantino,5-1,Flamengo RJ
 Sat Oct 16 1993,Corinthians SP,1-0,Sao Paulo FC
 Sat Oct 16 1993,Sport Club Recife,1-2,Se Palmeiras
 Sat Oct 16 1993,Portuguesa,1-0,Parana Clube
@@ -162,7 +162,7 @@ Wed Oct 20 1993,Parana Clube,3-0,Coritiba FC
 Wed Oct 20 1993,Atletico Paranaense,0-0,Portuguesa
 Wed Oct 20 1993,America MG,0-0,Criciuma EC
 Thu Oct 21 1993,Clube do Remo,4-0,Goias EC
-Sat Oct 23 1993,Bragantino,0-0,Sao Paulo FC
+Sat Oct 23 1993,CA Bragantino,0-0,Sao Paulo FC
 Sat Oct 23 1993,Vasco Da Gama,0-1,Se Palmeiras
 Sun Oct 24 1993,Flamengo RJ,2-1,Cruzeiro EC
 Sun Oct 24 1993,Santos FC,3-3,Guarani FC
@@ -184,20 +184,20 @@ Wed Oct 27 1993,Portuguesa,3-0,Coritiba FC
 Wed Oct 27 1993,Parana Clube,1-0,Uniao Sao Joao Esporte Clube
 Wed Oct 27 1993,Atletico Paranaense,0-1,Criciuma EC
 Wed Oct 27 1993,America MG,0-0,Desportiva Capixaba
-Thu Oct 28 1993,Botafogo RJ,1-1,Bragantino
+Thu Oct 28 1993,Botafogo RJ,1-1,CA Bragantino
 Thu Oct 28 1993,Sport Club Recife,2-1,Atletico Mineiro
 Sat Oct 30 1993,EC Bahia,1-1,Sao Paulo FC
 Sat Oct 30 1993,Internacional,2-0,Flamengo RJ
 Sat Oct 30 1993,Se Palmeiras,3-1,Gremio Porto Alegre
 Sun Oct 31 1993,Corinthians SP,5-1,Botafogo RJ
-Sun Oct 31 1993,Cruzeiro EC,1-0,Bragantino
+Sun Oct 31 1993,Cruzeiro EC,1-0,CA Bragantino
 Sun Oct 31 1993,Fluminense RJ,3-4,Santos FC
 Tue Nov 2 1993,Sport Club Recife,2-5,Vasco Da Gama
 Tue Nov 2 1993,Guarani FC,2-0,Atletico Mineiro
 Wed Nov 3 1993,Botafogo RJ,2-0,Internacional
 Fri Nov 5 1993,Cruzeiro EC,1-1,Sao Paulo FC
 Fri Nov 5 1993,Botafogo RJ,3-0,EC Bahia
-Sun Nov 7 1993,Corinthians SP,2-1,Bragantino
+Sun Nov 7 1993,Corinthians SP,2-1,CA Bragantino
 Sun Nov 7 1993,Sao Paulo FC,2-0,Flamengo RJ
 Sun Nov 7 1993,Cruzeiro EC,6-0,EC Bahia
 Sun Nov 7 1993,Santos FC,2-0,Gremio Porto Alegre
@@ -214,7 +214,7 @@ Sat Nov 13 1993,Guarani FC,2-0,Sport Club Recife
 Sun Nov 14 1993,Flamengo RJ,1-1,Corinthians SP
 Sun Nov 14 1993,Sao Paulo FC,1-0,Botafogo RJ
 Sun Nov 14 1993,Cruzeiro EC,4-1,Internacional
-Sun Nov 14 1993,Bragantino,2-2,EC Bahia
+Sun Nov 14 1993,CA Bragantino,2-2,EC Bahia
 Sun Nov 14 1993,Se Palmeiras,2-1,Fluminense RJ
 Sun Nov 14 1993,Gremio Porto Alegre,2-0,Atletico Mineiro
 Sun Nov 14 1993,Vasco Da Gama,1-1,Santos FC

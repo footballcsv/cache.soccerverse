@@ -1,6 +1,6 @@
 # Summary
 
-524 datafiles
+644 datafiles
 
 
 
@@ -337,3 +337,255 @@ xxx Ac Cesena (182)              => AC Cesena (1940-2018)     | Cesena
     Salernitana Calcio 1919 (34) => Salernitana               | Salerno
 ```
 
+
+
+## Netherlands (nl)
+
+33 club names:
+
+```
+    FC Utrecht (1056)                                         | Utrecht
+    Vitesse (1050)               => Vitesse Arnhem            | Arnhem
+    AFC Ajax (1032)              => Ajax Amsterdam            | Amsterdam,  Noord-Holland
+    Feyenoord (1028)             => Feyenoord Rotterdam       | Rotterdam,  Zuid-Holland
+    PSV Eindhoven (1020)                                      | Eindhoven,  Noord-Brabant
+    FC Twente (1004)                                          | Enschede,  Overijssel
+    FC Groningen (986)                                        | Groningen
+    Roda JC Kerkrade (964)                                    | Kerkrade,  Limburg
+    Willem II (952)              => Willem II Tilburg         | Tilburg,  Noord-Brabant
+    SC Heerenveen (940)                                       | Heerenveen,  Friesland
+    NEC Nijmegen (832)                                        | Nijmegen
+    NAC Breda (794)                                           | Breda,  Noord-Brabant
+    AZ Alkmaar (762)                                          | Alkmaar,  Noord-Holland
+    RKC Waalwijk (754)                                        | Waalwijk,  Noord-Brabant
+    Sparta Rotterdam (682)                                    | Rotterdam,  Zuid-Holland
+    ADO Den Haag (618)                                        | Den Haag,  Zuid-Holland
+    De Graafschap (544)          => BV De Graafschap          | Doetinchem
+    Heracles Almelo (488)                                     | Almelo,  Overijssel
+    Fortuna Sittard (408)                                     | Sittard,  Limburg
+    FC Volendam (374)                                         | Volendam
+    Sbv Excelsior (340)          => SBV Excelsior Rotterdam   | Rotterdam,  Zuid-Holland
+    PEC Zwolle (310)                                          | Zwolle,  Overijssel
+!!! MVV (306)
+    VVV Venlo (306)                                           | Venlo,  Limburg
+    Go Ahead Eagles (238)                                     | Deventer,  Overijssel
+    SC Cambuur (238)                                          | Leeuwarden,  Friesland
+    RBC Roosendaal (170)                                      | Roosendaal
+    FC Den Bosch (136)                                        | 's-Hertogenbosch,  Noord-Brabant
+    FC Dordrecht (136)                                        | Dordrecht,  Zuid-Holland
+!!! Bvv Den Bosch (34)
+    FC Emmen (34)                                             | Emmen
+xxx Hfc Haarlem (34)             => HFC Haarlem (1889-2010)   | Haarlem,  Noord-Holland
+!!! Svv Schiedam (34)
+```
+
+
+
+## Portugal (pt)
+
+43 club names:
+
+```
+    CS Maritimo (972)            => CS Marítimo               | Funchal
+    FC Porto (972)                                            | Porto
+    Sl Benfica (972)             => SL Benfica                | Lisboa
+    Sporting Braga (972)         => SC Braga                  | Braga
+    Sporting CP (972)                                         | Lisboa
+    Vitoria Guimaraes (942)      => Vitória de Guimarães      | Guimarães
+    Os Belenenses (814)                                       | Lisboa
+    Vitoria Setubal (802)        => Vitória de Setúbal        | Setúbal
+    Boavista Porto (792)         => Boavista FC               | Porto
+    Pacos De Ferreira (628)      => FC Paços de Ferreira      | Paços de Ferreira
+    Rio Ave FC (588)                                          | Vila do Conde
+    CD Nacional (584)            => CD Nacional Madeira       | Funchal
+    Gil Vicente (584)            => Gil Vicente FC            | Barcelos
+    Uniao Leiria (524)           => União de Leiria           | Leiria
+    Academica De Coimbra (512)   => Académica de Coimbra      | Coimbra
+    SC Beira Mar (512)           => SC Beira-Mar              | Aveiro
+    Estrela Amadora (482)        => CF Estrela da Amadora     | Amadora
+    GD Chaves (412)                                           | Chaves
+    SC Salgueiros (392)                                       | Paranhos
+!!! Sporting Farense (392)
+    GD Estoril (312)             => Estoril Praia             | Estoril
+    Moreirense FC (302)                                       | Moreira de Cónegos
+    FC Penafiel (208)                                         | Penafiel
+    Uniao Madeira (188)          => União da Madeira          | Funchal
+    Naval 1 De Maio (184)        => Naval 1º de Maio          | Figueira da Foz
+    FC Tirsense (174)                                         | Santo Tirso
+    Campomaiorense (170)         => SC Campomaiorense         | Campo Maior
+    FC Alverca (170)                                          | Alverca do Ribatejo
+    Cd Feirense (166)            => CD Feirense               | Santa Maria da Feira
+    SC Olhanense (150)                                        | Olhão
+    CD Santa Clara (136)                                      | Ponta Delgada
+    CD Tondela (136)                                          | Tondela
+    CD Aves (132)                                             | Aves
+    FC Arouca (132)                                           | Arouca
+    Portimonense SC (132)                                     | Portimão
+    FC Famalicao (120)           => FC Famalicão              | Vila Nova de Famalicão
+    Leca FC (102)                => Leça FC                   | Leça da Palmeira
+    Varzim SC (102)                                           | Póvoa de Varzim
+    Leixoes SC (90)              => Leixões SC                | Matosinhos
+    SC Espinho (68)              => Sporting de Espinho       | Espinho
+    FC Felgueiras (34)                                        | Felgueiras
+!!! Uniao Torreense (34)
+    CD Trofense (30)                                          | Tulipa
+```
+
+
+
+## Brazil (br)
+
+50 club names:
+
+```
+    Santos FC (943)              => Santos SP                 | Santos,  São Paulo
+    Flamengo RJ (941)                                         | Rio de Janeiro,  Rio de Janeiro
+    Sao Paulo FC (941)           => São Paulo FC              | São Paulo,  São Paulo
+    Cruzeiro EC (925)            => Cruzeiro MG               | Belo Horizonte,  Minas Gerais
+    Internacional (906)          => Internacional Porto Alegre | Porto Alegre,  Rio Grande do Sul
+    Corinthians SP (902)                                      | São Paulo,  São Paulo
+    Fluminense RJ (877)                                       | Rio de Janeiro,  Rio de Janeiro
+    Gremio Porto Alegre (862)    => Grêmio RS                 | Porto Alegre,  Rio Grande do Sul
+    Se Palmeiras (857)           => Palmeiras SP              | São Paulo,  São Paulo
+    Botafogo RJ (846)                                         | Rio de Janeiro,  Rio de Janeiro
+    Atletico Mineiro (845)       => Atlético MG               | Belo Horizonte,  Minas Gerais
+    Vasco Da Gama (816)          => CR Vasco da Gama          | Rio de Janeiro,  Rio de Janeiro
+    Atletico Paranaense (814)    => Atlético PR               | Curitiba,  Paraná
+    Goias EC (684)               => Goiás EC                  | Goiânia,  Goiás
+    EC Vitoria Ba (670)          => EC Vitória                | Salvador,  Bahia
+    Coritiba FC (658)            => Coritiba PR               | Curitiba,  Paraná
+!!! Sport Club Recife (584)
+    EC Bahia (528)                                            | Salvador,  Bahia
+    Ponte Preta (482)                                         | Campinas,  São Paulo
+    Figueirense (463)                                         | Florianópolis,  Santa Catarina
+    Parana Clube (456)           => Paraná Clube              | Curitiba,  Paraná
+!!! Juventude RS (407)
+    Portuguesa (407)                                          | São Paulo,  São Paulo
+    Guarani FC (388)                                          | Campinas,  São Paulo
+!!! Clube Nautico (282)
+    Criciuma EC (276)            => Criciúma EC               | Criciúma,  Santa Catarina
+    Paysandu SC (238)                                         | Belém,  Pará
+    Sao Caetano (224)            => AD São Caetano            | São Caetano,  São Paulo
+    America MG (202)             => América MG                | Belo Horizonte,  Minas Gerais
+    CA Bragantino (201)                                       | Bragança Paulista,  São Paulo
+    Avai FC (196)                => Avaí FC                   | Florianópolis,  Santa Catarina
+    Chapecoense (195)                                         | Chapecó,  Santa Catarina
+    Atletico GO (152)            => Atlético GO               | Goiânia,  Goiás
+    Fortaleza (147)                                           | Fortaleza,  Ceará
+    Santa Cruz FC (141)          => Santa Cruz                | Recife,  Pernambuco
+    Ceara SC (134)               => Ceára SC                  | Fortaleza,  Ceará
+!!! Se Gama (97)
+!!! Uniao Sao Joao Esporte Clube (85)
+!!! Gremio Barueri (76)
+!!! America RN (63)
+    Botafogo SP (48)                                          | Ribeirão Preto,  São Paulo
+!!! Clube do Remo (45)
+!!! Brasiliense (42)
+!!! Betim EC (38)
+!!! Joinville EC (38)
+!!! Santo Andre EC (38)
+!!! America RJ (23)
+!!! Sao Jose EC (19)
+!!! Desportiva Capixaba (14)
+!!! CS Alagoano (6)
+```
+
+
+
+## Argentina (ar)
+
+49 club names:
+
+```
+    Boca Juniors (1064)                                       | Buenos Aires,  Buenos Aires
+    Newells Old Boys (1063)      => Newell's Old Boys         | Rosario,  Santa Fe
+    San Lorenzo (1063)                                        | Buenos Aires,  Buenos Aires
+    Racing Club (1062)                                        | Avellaneda,  Buenos Aires
+    Velez Sarsfield (1060)       => Vélez Sarsfield           | Buenos Aires,  Buenos Aires
+    Estudiantes (1026)           => Estudiantes LP            | La Plata,  Buenos Aires
+    CA Lanus (1025)              => CA Lanús                  | Lanús,  Buenos Aires
+    Independiente (1023)         => CA Independiente de Avellaneda | Avellaneda,  Buenos Aires
+    River Plate (1022)                                        | Buenos Aires,  Buenos Aires
+!!! Gye La Plata (987)
+    Rosario Central (944)                                     | Rosario,  Santa Fe
+    Argentinos Juniors (899)                                  | Buenos Aires,  Buenos Aires
+    CA Colon (854)               => Colón Santa Fe            | Santa Fe,  Santa Fe
+    Huracan (741)                => Huracán                   | Buenos Aires,  Buenos Aires
+    CA Banfield (719)            => Club Atlético Banfield    | Banfield,  Buenos Aires
+    Belgrano Cordoba (644)       => Club Atlético Belgrano    | Córdoba,  Córdoba
+    Arsenal Sarandi (578)        => Arsenal de Sarandí        | Sarandí,  Buenos Aires
+    Union De Santa Fe (547)      => Unión Santa Fe            | Santa Fe,  Santa Fe
+    Talleres Cordoba (462)       => Talleres de Córdoba       | Córdoba,  Córdoba
+    Olimpo (429)                 => Olimpo Bahía Blanca       | Bahía Blanca,  Buenos Aires
+    Tigre (418)                  => CA Tigre                  | Victoria,  Buenos Aires
+!!! CD Godoy Cruz (416)
+    Quilmes Ac (400)             => Quilmes AC                | Quilmes,  Buenos Aires
+    Ferro Carril Oeste (380)                                  | Buenos Aires (Caballito),  Buenos Aires
+!!! Gye Jujuy (380)
+    Platense (342)                                            | Florida Este,  Buenos Aires
+!!! Deportivo Espanol (304)
+    Chacarita Juniors (255)                                   | Villa Maipú,  Buenos Aires
+    Atletico Rafaela (250)       => Atlético Rafaela          | Rafaela,  Santa Fe
+!!! CA San Martin (243)
+!!! Deportivo Mandiyu (190)
+    Nueva Chicago (184)                                       | Buenos Aires,  Buenos Aires
+    All Boys (152)                                            | Buenos Aires,  Buenos Aires
+    Defensa Y Justicia (147)     => Defensa y Justicia        | Gobernador Julio A. Costa,  Buenos Aires
+    Atletico Tucuman (136)       => Atlético Tucumán          | San Miguel de Tucumán,  Tucumán
+    Instituto Cordoba (115)      => Instituto                 | Córdoba,  Córdoba
+    Aldosivi (104)               => Club Atlético Aldosivi    | Mar del Plata,  Buenos Aires
+!!! CA Temperley (103)
+    San Martin Tucuman (101)     => San Martín de Tucumán     | San Miguel de Tucumán,  Tucumán
+    Patronato (98)                                            | Paraná,  Entre Ríos
+    Club Almagro (76)            => Almagro                   | José Ingenieros,  Buenos Aires
+!!! Gimnasia Y Tiro (76)
+!!! Sarmiento De Junin (76)
+!!! CA Tiro Federal Argentino (38)
+!!! Chaco For Ever (38)
+!!! Huracan De Corrientes (38)
+!!! Huracan De Tres Arroyos (38)
+!!! Los Andes (38)
+    Crucero Del Norte (30)       => Crucero del Norte         | Garupá,  Misiones
+```
+
+
+
+35 errors:
+```
+["MVV > Netherlands",
+ "Bvv Den Bosch > Netherlands",
+ "Svv Schiedam > Netherlands",
+ "Sporting Farense > Portugal",
+ "Uniao Torreense > Portugal",
+ "Sport Club Recife > Brazil",
+ "Juventude RS > Brazil",
+ "Clube Nautico > Brazil",
+ "Se Gama > Brazil",
+ "Uniao Sao Joao Esporte Clube > Brazil",
+ "Gremio Barueri > Brazil",
+ "America RN > Brazil",
+ "Clube do Remo > Brazil",
+ "Brasiliense > Brazil",
+ "Betim EC > Brazil",
+ "Joinville EC > Brazil",
+ "Santo Andre EC > Brazil",
+ "America RJ > Brazil",
+ "Sao Jose EC > Brazil",
+ "Desportiva Capixaba > Brazil",
+ "CS Alagoano > Brazil",
+ "Gye La Plata > Argentina",
+ "CD Godoy Cruz > Argentina",
+ "Gye Jujuy > Argentina",
+ "Deportivo Espanol > Argentina",
+ "CA San Martin > Argentina",
+ "Deportivo Mandiyu > Argentina",
+ "CA Temperley > Argentina",
+ "Gimnasia Y Tiro > Argentina",
+ "Sarmiento De Junin > Argentina",
+ "CA Tiro Federal Argentino > Argentina",
+ "Chaco For Ever > Argentina",
+ "Huracan De Corrientes > Argentina",
+ "Huracan De Tres Arroyos > Argentina",
+ "Los Andes > Argentina"]
+
+```

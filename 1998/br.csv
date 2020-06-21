@@ -8,7 +8,7 @@ Sun Jul 26 1998,Atletico Paranaense,2-2,Coritiba FC
 Sun Jul 26 1998,Guarani FC,2-0,Ponte Preta
 Sun Jul 26 1998,Atletico Mineiro,1-1,Cruzeiro EC
 Sun Jul 26 1998,Flamengo RJ,1-1,Botafogo RJ
-Sun Jul 26 1998,Santos FC,2-0,Bragantino
+Sun Jul 26 1998,Santos FC,2-0,CA Bragantino
 Sun Jul 26 1998,Portuguesa,2-1,America MG
 Sun Jul 26 1998,America RJ,0-4,Sport Club Recife
 Wed Jul 29 1998,Atletico Mineiro,1-1,Guarani FC
@@ -24,7 +24,7 @@ Sun Aug 2 1998,Corinthians SP,4-0,Juventude RS
 Sun Aug 2 1998,Botafogo RJ,1-2,EC Vitoria Ba
 Sun Aug 2 1998,America MG,2-2,America RJ
 Sun Aug 2 1998,Sport Club Recife,2-0,Atletico Paranaense
-Sun Aug 2 1998,Bragantino,0-0,Vasco Da Gama
+Sun Aug 2 1998,CA Bragantino,0-0,Vasco Da Gama
 Wed Aug 5 1998,Cruzeiro EC,4-2,Ponte Preta
 Wed Aug 5 1998,Internacional,0-3,Sao Paulo FC
 Wed Aug 5 1998,Parana Clube,3-2,America RJ
@@ -43,7 +43,7 @@ Sun Aug 9 1998,Goias EC,2-0,Sport Club Recife
 Sun Aug 9 1998,Internacional,2-1,Parana Clube
 Sun Aug 9 1998,Atletico Paranaense,0-0,Gremio Porto Alegre
 Sun Aug 9 1998,Guarani FC,1-2,America MG
-Sun Aug 9 1998,Flamengo RJ,0-1,Bragantino
+Sun Aug 9 1998,Flamengo RJ,0-1,CA Bragantino
 Sun Aug 9 1998,America RJ,2-2,Portuguesa
 Wed Aug 12 1998,Ponte Preta,0-1,Flamengo RJ
 Wed Aug 12 1998,EC Vitoria Ba,3-3,Guarani FC
@@ -64,9 +64,9 @@ Sun Aug 16 1998,Vasco Da Gama,2-1,Guarani FC
 Sun Aug 16 1998,Portuguesa,0-1,EC Vitoria Ba
 Sun Aug 16 1998,America MG,0-1,Internacional
 Sun Aug 16 1998,Sport Club Recife,1-0,Sao Paulo FC
-Sun Aug 16 1998,Bragantino,1-2,Coritiba FC
+Sun Aug 16 1998,CA Bragantino,1-2,Coritiba FC
 Wed Aug 19 1998,Ponte Preta,2-0,Atletico Paranaense
-Wed Aug 19 1998,Parana Clube,2-2,Bragantino
+Wed Aug 19 1998,Parana Clube,2-2,CA Bragantino
 Wed Aug 19 1998,Guarani FC,2-1,America RJ
 Wed Aug 19 1998,Santos FC,4-4,Atletico Mineiro
 Sat Aug 22 1998,EC Vitoria Ba,2-1,America MG
@@ -74,7 +74,7 @@ Sat Aug 22 1998,Internacional,1-1,Corinthians SP
 Sat Aug 22 1998,Atletico Paranaense,2-2,Portuguesa
 Sun Aug 23 1998,Sao Paulo FC,1-3,Santos FC
 Sun Aug 23 1998,Goias EC,0-0,Gremio Porto Alegre
-Sun Aug 23 1998,Atletico Mineiro,0-2,Bragantino
+Sun Aug 23 1998,Atletico Mineiro,0-2,CA Bragantino
 Sun Aug 23 1998,Flamengo RJ,1-3,Juventude RS
 Sun Aug 23 1998,Botafogo RJ,1-1,Cruzeiro EC
 Sun Aug 23 1998,Coritiba FC,0-0,Sport Club Recife
@@ -87,7 +87,7 @@ Wed Aug 26 1998,Parana Clube,1-0,Ponte Preta
 Wed Aug 26 1998,Se Palmeiras,2-1,Atletico Mineiro
 Wed Aug 26 1998,Juventude RS,2-0,EC Vitoria Ba
 Wed Aug 26 1998,Flamengo RJ,0-0,Atletico Paranaense
-Wed Aug 26 1998,Bragantino,2-2,Botafogo RJ
+Wed Aug 26 1998,CA Bragantino,2-2,Botafogo RJ
 Sat Aug 29 1998,Gremio Porto Alegre,1-1,Se Palmeiras
 Sat Aug 29 1998,Corinthians SP,3-2,Guarani FC
 Sat Aug 29 1998,Coritiba FC,2-0,Goias EC
@@ -99,15 +99,15 @@ Sun Aug 30 1998,Santos FC,2-0,Internacional
 Sun Aug 30 1998,Vasco Da Gama,1-1,Flamengo RJ
 Sun Aug 30 1998,Portuguesa,1-0,Atletico Mineiro
 Sun Aug 30 1998,Sport Club Recife,4-1,Parana Clube
-Sun Aug 30 1998,Bragantino,1-1,America RJ
+Sun Aug 30 1998,CA Bragantino,1-1,America RJ
 Wed Sep 2 1998,EC Vitoria Ba,1-0,Parana Clube
-Wed Sep 2 1998,Internacional,2-1,Bragantino
+Wed Sep 2 1998,Internacional,2-1,CA Bragantino
 Wed Sep 2 1998,Guarani FC,1-1,Santos FC
 Wed Sep 2 1998,Vasco Da Gama,1-2,Portuguesa
 Wed Sep 2 1998,America MG,2-1,Ponte Preta
 Sat Sep 5 1998,Se Palmeiras,2-1,Flamengo RJ
 Sat Sep 5 1998,Gremio Porto Alegre,2-1,EC Vitoria Ba
-Sat Sep 5 1998,Bragantino,1-0,Corinthians SP
+Sat Sep 5 1998,CA Bragantino,1-0,Corinthians SP
 Sun Sep 6 1998,Ponte Preta,1-0,Juventude RS
 Sun Sep 6 1998,Internacional,1-3,Guarani FC
 Sun Sep 6 1998,Parana Clube,1-0,Atletico Paranaense
@@ -125,11 +125,11 @@ Wed Sep 9 1998,Guarani FC,3-2,Se Palmeiras
 Wed Sep 9 1998,Corinthians SP,3-0,Portuguesa
 Wed Sep 9 1998,Vasco Da Gama,0-0,Sport Club Recife
 Wed Sep 9 1998,America RJ,2-2,Juventude RS
-Wed Sep 9 1998,Bragantino,1-2,Sao Paulo FC
+Wed Sep 9 1998,CA Bragantino,1-2,Sao Paulo FC
 Sat Sep 12 1998,Sao Paulo FC,1-1,Vasco Da Gama
 Sat Sep 12 1998,Botafogo RJ,3-3,Parana Clube
 Sat Sep 12 1998,Sport Club Recife,0-2,Corinthians SP
-Sun Sep 13 1998,Goias EC,3-0,Bragantino
+Sun Sep 13 1998,Goias EC,3-0,CA Bragantino
 Sun Sep 13 1998,Se Palmeiras,3-0,Ponte Preta
 Sun Sep 13 1998,Gremio Porto Alegre,3-2,Santos FC
 Sun Sep 13 1998,Guarani FC,2-2,Cruzeiro EC
@@ -140,7 +140,7 @@ Tue Sep 15 1998,Atletico Mineiro,1-1,Vasco Da Gama
 Tue Sep 15 1998,Flamengo RJ,2-1,Goias EC
 Wed Sep 16 1998,EC Vitoria Ba,3-0,America RJ
 Wed Sep 16 1998,Juventude RS,1-2,Santos FC
-Wed Sep 16 1998,Sport Club Recife,1-0,Bragantino
+Wed Sep 16 1998,Sport Club Recife,1-0,CA Bragantino
 Sat Sep 19 1998,Ponte Preta,4-5,Corinthians SP
 Sat Sep 19 1998,Parana Clube,2-1,Vasco Da Gama
 Sat Sep 19 1998,Botafogo RJ,2-0,America RJ
@@ -153,7 +153,7 @@ Sun Sep 20 1998,Santos FC,4-1,Flamengo RJ
 Sun Sep 20 1998,America MG,0-2,Atletico Mineiro
 Sun Sep 20 1998,Sport Club Recife,5-0,Gremio Porto Alegre
 Thu Sep 24 1998,Goias EC,2-0,Botafogo RJ
-Thu Sep 24 1998,Se Palmeiras,4-0,Bragantino
+Thu Sep 24 1998,Se Palmeiras,4-0,CA Bragantino
 Thu Sep 24 1998,Gremio Porto Alegre,1-0,Ponte Preta
 Thu Sep 24 1998,Atletico Paranaense,4-0,Guarani FC
 Thu Sep 24 1998,Flamengo RJ,1-3,Internacional
@@ -165,7 +165,7 @@ Sat Sep 26 1998,Sao Paulo FC,0-0,Flamengo RJ
 Sat Sep 26 1998,Juventude RS,3-6,Se Palmeiras
 Sun Sep 27 1998,EC Vitoria Ba,2-0,Internacional
 Sun Sep 27 1998,Gremio Porto Alegre,2-1,America MG
-Sun Sep 27 1998,Atletico Paranaense,3-2,Bragantino
+Sun Sep 27 1998,Atletico Paranaense,3-2,CA Bragantino
 Sun Sep 27 1998,Guarani FC,0-1,Coritiba FC
 Sun Sep 27 1998,Atletico Mineiro,3-0,Parana Clube
 Sun Sep 27 1998,Corinthians SP,0-2,Santos FC
@@ -196,7 +196,7 @@ Wed Oct 7 1998,Flamengo RJ,3-2,Sport Club Recife
 Wed Oct 7 1998,Corinthians SP,2-2,Goias EC
 Wed Oct 7 1998,Botafogo RJ,2-3,Coritiba FC
 Wed Oct 7 1998,Portuguesa,2-3,Se Palmeiras
-Wed Oct 7 1998,Bragantino,1-0,Gremio Porto Alegre
+Wed Oct 7 1998,CA Bragantino,1-0,Gremio Porto Alegre
 Thu Oct 8 1998,Sao Paulo FC,3-0,Parana Clube
 Sat Oct 10 1998,Se Palmeiras,1-0,Internacional
 Sat Oct 10 1998,Atletico Mineiro,5-5,Botafogo RJ
@@ -210,7 +210,7 @@ Sun Oct 11 1998,Vasco Da Gama,3-1,Santos FC
 Sun Oct 11 1998,Portuguesa,2-1,Juventude RS
 Sun Oct 11 1998,Sport Club Recife,3-2,America MG
 Wed Oct 14 1998,Atletico Mineiro,2-0,Internacional
-Wed Oct 14 1998,Bragantino,1-2,Guarani FC
+Wed Oct 14 1998,CA Bragantino,1-2,Guarani FC
 Thu Oct 15 1998,Juventude RS,1-2,Coritiba FC
 Thu Oct 15 1998,Santos FC,3-3,America MG
 Sat Oct 17 1998,Botafogo RJ,3-1,Se Palmeiras
@@ -224,7 +224,7 @@ Sun Oct 18 1998,Santos FC,1-1,Portuguesa
 Sun Oct 18 1998,Corinthians SP,4-2,Atletico Paranaense
 Sun Oct 18 1998,Coritiba FC,2-1,Sao Paulo FC
 Sun Oct 18 1998,America RJ,1-3,Atletico Mineiro
-Sun Oct 18 1998,America MG,2-0,Bragantino
+Sun Oct 18 1998,America MG,2-0,CA Bragantino
 Wed Oct 21 1998,Sao Paulo FC,1-2,Gremio Porto Alegre
 Wed Oct 21 1998,Internacional,1-2,Sport Club Recife
 Wed Oct 21 1998,Parana Clube,0-0,Corinthians SP
@@ -234,8 +234,8 @@ Wed Oct 21 1998,Guarani FC,1-1,Portuguesa
 Wed Oct 21 1998,Atletico Mineiro,2-1,Goias EC
 Wed Oct 21 1998,Botafogo RJ,1-0,Ponte Preta
 Wed Oct 21 1998,America RJ,2-1,Flamengo RJ
-Wed Oct 21 1998,Bragantino,0-4,Cruzeiro EC
-Sat Oct 24 1998,Ponte Preta,2-2,Bragantino
+Wed Oct 21 1998,CA Bragantino,0-4,Cruzeiro EC
+Sat Oct 24 1998,Ponte Preta,2-2,CA Bragantino
 Sat Oct 24 1998,Sao Paulo FC,1-2,Corinthians SP
 Sat Oct 24 1998,Cruzeiro EC,3-1,Se Palmeiras
 Sat Oct 24 1998,Goias EC,2-2,Juventude RS
@@ -248,7 +248,7 @@ Sat Oct 24 1998,Portuguesa,1-1,Internacional
 Sat Oct 24 1998,America MG,2-1,Atletico Paranaense
 Sat Oct 24 1998,Sport Club Recife,2-1,Botafogo RJ
 Wed Oct 28 1998,America RJ,2-2,Santos FC
-Wed Oct 28 1998,Bragantino,1-0,Juventude RS
+Wed Oct 28 1998,CA Bragantino,1-0,Juventude RS
 Thu Oct 29 1998,Vasco Da Gama,3-1,Coritiba FC
 Sat Oct 31 1998,EC Vitoria Ba,2-3,Corinthians SP
 Sat Oct 31 1998,Internacional,0-0,Botafogo RJ
@@ -258,7 +258,7 @@ Sun Nov 1 1998,Guarani FC,1-3,Gremio Porto Alegre
 Sun Nov 1 1998,Atletico Mineiro,1-0,Sport Club Recife
 Sun Nov 1 1998,Flamengo RJ,2-0,America MG
 Sun Nov 1 1998,Santos FC,3-1,Goias EC
-Sun Nov 1 1998,Portuguesa,3-1,Bragantino
+Sun Nov 1 1998,Portuguesa,3-1,CA Bragantino
 Sun Nov 1 1998,America RJ,0-1,Ponte Preta
 Wed Nov 4 1998,Juventude RS,2-1,Sao Paulo FC
 Wed Nov 4 1998,Vasco Da Gama,2-1,Gremio Porto Alegre
@@ -274,4 +274,4 @@ Wed Nov 11 1998,Botafogo RJ,2-1,Santos FC
 Wed Nov 11 1998,Coritiba FC,1-0,Internacional
 Wed Nov 11 1998,America MG,1-1,Se Palmeiras
 Wed Nov 11 1998,Sport Club Recife,2-1,Guarani FC
-Wed Nov 11 1998,Bragantino,0-0,EC Vitoria Ba
+Wed Nov 11 1998,CA Bragantino,0-0,EC Vitoria Ba

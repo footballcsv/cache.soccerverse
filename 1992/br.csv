@@ -5,13 +5,13 @@ Sun Jan 26 1992,Cruzeiro EC,2-0,Guarani FC
 Sun Jan 26 1992,Clube Nautico,0-0,Sport Club Recife
 Sun Jan 26 1992,Paysandu SC,2-1,Goias EC
 Mon Jan 27 1992,Portuguesa,2-2,Fluminense RJ
-Mon Jan 27 1992,Internacional,0-1,Bragantino
+Mon Jan 27 1992,Internacional,0-1,CA Bragantino
 Wed Jan 29 1992,Se Palmeiras,1-1,Atletico Mineiro
 Wed Jan 29 1992,Santos FC,1-1,Sao Paulo FC
 Wed Jan 29 1992,EC Bahia,1-1,Flamengo RJ
 Sat Feb 1 1992,Internacional,4-1,Se Palmeiras
 Sun Feb 2 1992,Corinthians SP,1-1,Santos FC
-Sun Feb 2 1992,Bragantino,0-0,Sao Paulo FC
+Sun Feb 2 1992,CA Bragantino,0-0,Sao Paulo FC
 Sun Feb 2 1992,Fluminense RJ,1-0,Paysandu SC
 Sun Feb 2 1992,Sport Club Recife,0-0,Cruzeiro EC
 Sun Feb 2 1992,Atletico Paranaense,0-0,Clube Nautico
@@ -23,7 +23,7 @@ Sat Feb 8 1992,Goias EC,1-0,Santos FC
 Sun Feb 9 1992,Botafogo RJ,2-2,Flamengo RJ
 Sun Feb 9 1992,Sao Paulo FC,2-1,EC Bahia
 Sun Feb 9 1992,Portuguesa,1-1,Internacional
-Sun Feb 9 1992,Bragantino,0-0,Sport Club Recife
+Sun Feb 9 1992,CA Bragantino,0-0,Sport Club Recife
 Sun Feb 9 1992,Paysandu SC,1-0,Cruzeiro EC
 Sun Feb 9 1992,Clube Nautico,2-0,Guarani FC
 Mon Feb 10 1992,Atletico Paranaense,0-2,Vasco Da Gama
@@ -32,14 +32,14 @@ Sat Feb 15 1992,Sao Paulo FC,2-0,Atletico Mineiro
 Sat Feb 15 1992,Atletico Paranaense,0-2,Portuguesa
 Sun Feb 16 1992,Corinthians SP,2-0,Clube Nautico
 Sun Feb 16 1992,Vasco Da Gama,2-0,Paysandu SC
-Sun Feb 16 1992,Cruzeiro EC,3-0,Bragantino
+Sun Feb 16 1992,Cruzeiro EC,3-0,CA Bragantino
 Sun Feb 16 1992,Sport Club Recife,1-0,Botafogo RJ
 Sun Feb 16 1992,EC Bahia,1-1,Goias EC
 Mon Feb 17 1992,Santos FC,1-0,Guarani FC
 Mon Feb 17 1992,Internacional,1-0,Fluminense RJ
 Wed Feb 19 1992,Flamengo RJ,3-2,Sao Paulo FC
 Wed Feb 19 1992,Portuguesa,3-2,Corinthians SP
-Wed Feb 19 1992,Bragantino,1-0,Se Palmeiras
+Wed Feb 19 1992,CA Bragantino,1-0,Se Palmeiras
 Wed Feb 19 1992,Botafogo RJ,3-1,EC Bahia
 Wed Feb 19 1992,Goias EC,0-0,Atletico Mineiro
 Thu Feb 20 1992,Vasco Da Gama,1-1,Fluminense RJ
@@ -52,13 +52,13 @@ Sun Feb 23 1992,Fluminense RJ,4-0,Santos FC
 Sun Feb 23 1992,Sao Paulo FC,0-1,Guarani FC
 Sun Feb 23 1992,Paysandu SC,0-0,Se Palmeiras
 Sun Feb 23 1992,Goias EC,1-2,Internacional
-Sun Feb 23 1992,Bragantino,1-0,Clube Nautico
+Sun Feb 23 1992,CA Bragantino,1-0,Clube Nautico
 Sun Feb 23 1992,EC Bahia,2-3,Atletico Paranaense
 Mon Feb 24 1992,Flamengo RJ,1-2,Cruzeiro EC
 Mon Feb 24 1992,Sport Club Recife,0-0,Portuguesa
 Sat Mar 7 1992,Santos FC,2-0,Flamengo RJ
 Sat Mar 7 1992,Corinthians SP,0-0,Sport Club Recife
-Sat Mar 7 1992,Portuguesa,0-1,Bragantino
+Sat Mar 7 1992,Portuguesa,0-1,CA Bragantino
 Sun Mar 8 1992,Sao Paulo FC,0-4,Se Palmeiras
 Sun Mar 8 1992,Internacional,2-0,Atletico Mineiro
 Sun Mar 8 1992,Fluminense RJ,2-1,EC Bahia
@@ -71,11 +71,11 @@ Wed Mar 11 1992,Guarani FC,1-0,Se Palmeiras
 Wed Mar 11 1992,Sport Club Recife,2-2,Santos FC
 Wed Mar 11 1992,Goias EC,2-2,Fluminense RJ
 Wed Mar 11 1992,Paysandu SC,3-2,Portuguesa
-Wed Mar 11 1992,Bragantino,1-1,Atletico Paranaense
+Wed Mar 11 1992,CA Bragantino,1-1,Atletico Paranaense
 Thu Mar 12 1992,Corinthians SP,0-0,Cruzeiro EC
 Thu Mar 12 1992,Vasco Da Gama,3-1,EC Bahia
 Thu Mar 12 1992,Botafogo RJ,3-2,Clube Nautico
-Sat Mar 14 1992,Flamengo RJ,0-1,Bragantino
+Sat Mar 14 1992,Flamengo RJ,0-1,CA Bragantino
 Sun Mar 15 1992,Fluminense RJ,1-2,Botafogo RJ
 Sun Mar 15 1992,Se Palmeiras,1-2,Vasco Da Gama
 Sun Mar 15 1992,Goias EC,4-2,Clube Nautico
@@ -87,7 +87,7 @@ Sat Mar 21 1992,Paysandu SC,1-2,Corinthians SP
 Sat Mar 21 1992,Clube Nautico,0-0,Flamengo RJ
 Sun Mar 22 1992,Vasco Da Gama,1-0,Sport Club Recife
 Sun Mar 22 1992,Fluminense RJ,1-0,Atletico Mineiro
-Sun Mar 22 1992,Santos FC,0-1,Bragantino
+Sun Mar 22 1992,Santos FC,0-1,CA Bragantino
 Sun Mar 22 1992,Portuguesa,1-2,Guarani FC
 Sun Mar 22 1992,Cruzeiro EC,2-0,Goias EC
 Mon Mar 23 1992,Botafogo RJ,2-0,Se Palmeiras
@@ -100,13 +100,13 @@ Sun Mar 29 1992,Se Palmeiras,1-2,Corinthians SP
 Sun Mar 29 1992,Sport Club Recife,0-0,Sao Paulo FC
 Sun Mar 29 1992,Guarani FC,0-0,Goias EC
 Sun Mar 29 1992,EC Bahia,3-0,Clube Nautico
-Sun Mar 29 1992,Bragantino,3-1,Paysandu SC
+Sun Mar 29 1992,CA Bragantino,3-1,Paysandu SC
 Mon Mar 30 1992,Santos FC,4-0,Internacional
 Mon Mar 30 1992,Atletico Paranaense,1-0,Fluminense RJ
 Sat Apr 4 1992,Cruzeiro EC,0-2,Sao Paulo FC
 Sat Apr 4 1992,Paysandu SC,0-2,Botafogo RJ
 Sun Apr 5 1992,Flamengo RJ,2-0,Atletico Paranaense
-Sun Apr 5 1992,Fluminense RJ,3-0,Bragantino
+Sun Apr 5 1992,Fluminense RJ,3-0,CA Bragantino
 Sun Apr 5 1992,Guarani FC,1-0,Internacional
 Sun Apr 5 1992,Clube Nautico,0-4,Atletico Mineiro
 Sun Apr 5 1992,Goias EC,5-2,Sport Club Recife
@@ -122,7 +122,7 @@ Sun Apr 12 1992,Cruzeiro EC,0-0,Clube Nautico
 Sun Apr 12 1992,Sport Club Recife,0-1,EC Bahia
 Sun Apr 12 1992,Paysandu SC,3-0,Guarani FC
 Mon Apr 13 1992,Internacional,1-1,Atletico Paranaense
-Mon Apr 13 1992,Bragantino,2-0,Goias EC
+Mon Apr 13 1992,CA Bragantino,2-0,Goias EC
 Sat Apr 18 1992,Guarani FC,1-0,Corinthians SP
 Sat Apr 18 1992,Sao Paulo FC,0-1,Portuguesa
 Sat Apr 18 1992,EC Bahia,0-1,Se Palmeiras
@@ -131,7 +131,7 @@ Sun Apr 19 1992,Botafogo RJ,6-0,Goias EC
 Sun Apr 19 1992,Paysandu SC,0-1,Internacional
 Mon Apr 20 1992,Clube Nautico,0-2,Santos FC
 Mon Apr 20 1992,Atletico Paranaense,1-1,Sport Club Recife
-Sat Apr 25 1992,Bragantino,0-0,Vasco Da Gama
+Sat Apr 25 1992,CA Bragantino,0-0,Vasco Da Gama
 Sat Apr 25 1992,Goias EC,1-1,Sao Paulo FC
 Sun Apr 26 1992,Corinthians SP,1-1,Internacional
 Sun Apr 26 1992,Se Palmeiras,1-0,Cruzeiro EC
@@ -149,20 +149,20 @@ Sun May 3 1992,Flamengo RJ,4-1,Paysandu SC
 Sun May 3 1992,Cruzeiro EC,1-1,EC Bahia
 Sun May 3 1992,Sport Club Recife,0-0,Atletico Mineiro
 Sun May 3 1992,Portuguesa,3-1,Clube Nautico
-Mon May 4 1992,Bragantino,1-1,Corinthians SP
+Mon May 4 1992,CA Bragantino,1-1,Corinthians SP
 Wed May 6 1992,Vasco Da Gama,0-1,Cruzeiro EC
 Sat May 9 1992,Santos FC,1-2,Cruzeiro EC
 Sat May 9 1992,Goias EC,4-2,Corinthians SP
 Sat May 9 1992,Portuguesa,1-1,Flamengo RJ
 Sun May 10 1992,Sao Paulo FC,3-0,Botafogo RJ
 Sun May 10 1992,Vasco Da Gama,2-0,Internacional
-Sun May 10 1992,Guarani FC,2-0,Bragantino
+Sun May 10 1992,Guarani FC,2-0,CA Bragantino
 Sun May 10 1992,Fluminense RJ,1-1,Sport Club Recife
 Sun May 10 1992,Atletico Paranaense,3-2,Paysandu SC
 Mon May 11 1992,Clube Nautico,1-0,Se Palmeiras
 Sat May 23 1992,Corinthians SP,1-0,Fluminense RJ
 Sat May 23 1992,Paysandu SC,3-0,Sao Paulo FC
-Sun May 24 1992,Botafogo RJ,0-2,Bragantino
+Sun May 24 1992,Botafogo RJ,0-2,CA Bragantino
 Sun May 24 1992,Se Palmeiras,1-0,Atletico Paranaense
 Sun May 24 1992,Flamengo RJ,3-1,Goias EC
 Sun May 24 1992,Guarani FC,0-1,Atletico Mineiro
@@ -177,31 +177,31 @@ Sun May 31 1992,Sao Paulo FC,2-0,Clube Nautico
 Sun May 31 1992,Atletico Paranaense,0-1,Corinthians SP
 Sun May 31 1992,Guarani FC,2-1,Botafogo RJ
 Sun May 31 1992,Sport Club Recife,0-2,Se Palmeiras
-Sun May 31 1992,Bragantino,0-0,EC Bahia
+Sun May 31 1992,CA Bragantino,0-0,EC Bahia
 Sun May 31 1992,Goias EC,1-1,Portuguesa
 Sat Jun 6 1992,Botafogo RJ,2-1,Cruzeiro EC
 Sun Jun 7 1992,Vasco Da Gama,3-3,Santos FC
-Sun Jun 7 1992,Bragantino,2-1,Corinthians SP
+Sun Jun 7 1992,CA Bragantino,2-1,Corinthians SP
 Sat Jun 13 1992,Corinthians SP,0-1,Botafogo RJ
-Sat Jun 13 1992,Cruzeiro EC,1-0,Bragantino
+Sat Jun 13 1992,Cruzeiro EC,1-0,CA Bragantino
 Sun Jun 14 1992,Flamengo RJ,1-0,Sao Paulo FC
 Sat Jun 20 1992,Santos FC,1-0,Flamengo RJ
 Sat Jun 20 1992,Cruzeiro EC,1-3,Corinthians SP
 Sun Jun 21 1992,Sao Paulo FC,2-2,Vasco Da Gama
-Sun Jun 21 1992,Bragantino,1-1,Botafogo RJ
+Sun Jun 21 1992,CA Bragantino,1-1,Botafogo RJ
 Sat Jun 27 1992,Santos FC,1-1,Sao Paulo FC
-Sat Jun 27 1992,Botafogo RJ,0-1,Bragantino
+Sat Jun 27 1992,Botafogo RJ,0-1,CA Bragantino
 Sun Jun 28 1992,Flamengo RJ,1-1,Vasco Da Gama
 Wed Jul 1 1992,Sao Paulo FC,1-0,Santos FC
 Wed Jul 1 1992,Vasco Da Gama,0-2,Flamengo RJ
 Sat Jul 4 1992,Sao Paulo FC,2-0,Flamengo RJ
 Sat Jul 4 1992,Cruzeiro EC,1-2,Botafogo RJ
 Sun Jul 5 1992,Santos FC,1-1,Vasco Da Gama
-Sun Jul 5 1992,Corinthians SP,1-1,Bragantino
+Sun Jul 5 1992,Corinthians SP,1-1,CA Bragantino
 Wed Jul 8 1992,Vasco Da Gama,3-0,Sao Paulo FC
 Wed Jul 8 1992,Flamengo RJ,3-1,Santos FC
 Thu Jul 9 1992,Botafogo RJ,1-0,Corinthians SP
-Thu Jul 9 1992,Bragantino,1-0,Cruzeiro EC
+Thu Jul 9 1992,CA Bragantino,1-0,Cruzeiro EC
 Sun Jul 12 1992,Flamengo RJ,3-0,Botafogo RJ
 Sun Jul 19 1992,Botafogo RJ,2-2,Flamengo RJ
 Tue Jul 28 1992,Corinthians SP,3-1,Cruzeiro EC

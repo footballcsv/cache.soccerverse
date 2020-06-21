@@ -7,14 +7,14 @@ Sun Aug 20 1995,Parana Clube,2-0,Gremio Porto Alegre
 Sun Aug 20 1995,Fluminense RJ,1-0,Criciuma EC
 Sun Aug 20 1995,Sport Club Recife,0-0,Portuguesa
 Wed Aug 23 1995,Botafogo RJ,3-1,Paysandu SC
-Wed Aug 23 1995,Bragantino,0-2,Se Palmeiras
+Wed Aug 23 1995,CA Bragantino,0-2,Se Palmeiras
 Wed Aug 23 1995,Juventude RS,1-2,Parana Clube
 Thu Aug 24 1995,Guarani FC,2-1,Corinthians SP
 Thu Aug 24 1995,EC Bahia,0-1,Fluminense RJ
 Sat Aug 26 1995,Parana Clube,1-0,Se Palmeiras
 Sat Aug 26 1995,Santos FC,3-5,Vasco Da Gama
 Sun Aug 27 1995,Botafogo RJ,3-1,Guarani FC
-Sun Aug 27 1995,Flamengo RJ,2-1,Bragantino
+Sun Aug 27 1995,Flamengo RJ,2-1,CA Bragantino
 Sun Aug 27 1995,Cruzeiro EC,2-0,Corinthians SP
 Sun Aug 27 1995,Paysandu SC,1-1,EC Vitoria Ba
 Sun Aug 27 1995,Uniao Sao Joao Esporte Clube,1-3,Fluminense RJ
@@ -22,7 +22,7 @@ Sun Aug 27 1995,Sao Paulo FC,1-1,Atletico Mineiro
 Sun Aug 27 1995,Portuguesa,2-1,Goias EC
 Sun Aug 27 1995,Internacional,2-2,Criciuma EC
 Sun Aug 27 1995,EC Bahia,1-1,Sport Club Recife
-Wed Aug 30 1995,Bragantino,1-0,Botafogo RJ
+Wed Aug 30 1995,CA Bragantino,1-0,Botafogo RJ
 Wed Aug 30 1995,Corinthians SP,1-1,Parana Clube
 Wed Aug 30 1995,Paysandu SC,2-0,Juventude RS
 Wed Aug 30 1995,Criciuma EC,1-0,Sport Club Recife
@@ -38,14 +38,14 @@ Sat Sep 2 1995,Sao Paulo FC,1-1,Fluminense RJ
 Sun Sep 3 1995,Flamengo RJ,1-2,Se Palmeiras
 Sun Sep 3 1995,Guarani FC,1-0,Parana Clube
 Sun Sep 3 1995,Gremio Porto Alegre,1-1,Paysandu SC
-Sun Sep 3 1995,Bragantino,2-1,Cruzeiro EC
+Sun Sep 3 1995,CA Bragantino,2-1,Cruzeiro EC
 Sun Sep 3 1995,Portuguesa,3-3,Vasco Da Gama
 Sun Sep 3 1995,Santos FC,1-0,Criciuma EC
 Sun Sep 3 1995,Uniao Sao Joao Esporte Clube,0-1,Internacional
 Sun Sep 3 1995,EC Bahia,2-0,Atletico Mineiro
 Sun Sep 3 1995,Sport Club Recife,2-3,Goias EC
 Tue Sep 5 1995,Juventude RS,1-1,Gremio Porto Alegre
-Wed Sep 6 1995,Corinthians SP,1-2,Bragantino
+Wed Sep 6 1995,Corinthians SP,1-2,CA Bragantino
 Wed Sep 6 1995,Paysandu SC,2-0,Flamengo RJ
 Wed Sep 6 1995,Atletico Mineiro,0-0,Sport Club Recife
 Thu Sep 7 1995,EC Vitoria Ba,2-0,Gremio Porto Alegre
@@ -56,7 +56,7 @@ Thu Sep 7 1995,Internacional,4-2,Santos FC
 Thu Sep 7 1995,Goias EC,2-0,EC Bahia
 Sat Sep 9 1995,Corinthians SP,2-1,Flamengo RJ
 Sat Sep 9 1995,Atletico Mineiro,1-2,Santos FC
-Sun Sep 10 1995,Juventude RS,1-1,Bragantino
+Sun Sep 10 1995,Juventude RS,1-1,CA Bragantino
 Sun Sep 10 1995,Gremio Porto Alegre,2-1,Guarani FC
 Sun Sep 10 1995,Cruzeiro EC,3-0,EC Vitoria Ba
 Sun Sep 10 1995,Vasco Da Gama,1-0,Sao Paulo FC
@@ -65,7 +65,7 @@ Sun Sep 10 1995,Goias EC,3-0,Uniao Sao Joao Esporte Clube
 Sun Sep 10 1995,Sport Club Recife,2-0,Internacional
 Sun Sep 10 1995,EC Bahia,0-0,Criciuma EC
 Wed Sep 13 1995,Corinthians SP,0-2,Se Palmeiras
-Wed Sep 13 1995,Guarani FC,3-3,Bragantino
+Wed Sep 13 1995,Guarani FC,3-3,CA Bragantino
 Wed Sep 13 1995,Paysandu SC,1-3,Cruzeiro EC
 Wed Sep 13 1995,EC Vitoria Ba,3-3,Parana Clube
 Wed Sep 13 1995,Juventude RS,0-2,Flamengo RJ
@@ -81,7 +81,7 @@ Tue Sep 19 1995,Santos FC,0-1,Sao Paulo FC
 Wed Sep 20 1995,Botafogo RJ,0-0,Juventude RS
 Wed Sep 20 1995,Corinthians SP,3-0,EC Vitoria Ba
 Wed Sep 20 1995,Se Palmeiras,2-1,Paysandu SC
-Wed Sep 20 1995,Parana Clube,0-0,Bragantino
+Wed Sep 20 1995,Parana Clube,0-0,CA Bragantino
 Wed Sep 20 1995,Fluminense RJ,2-0,Sport Club Recife
 Wed Sep 20 1995,Uniao Sao Joao Esporte Clube,2-0,Portuguesa
 Wed Sep 20 1995,Criciuma EC,2-0,Atletico Mineiro
@@ -93,7 +93,7 @@ Sat Sep 23 1995,Internacional,1-0,Fluminense RJ
 Sat Sep 23 1995,Sao Paulo FC,1-0,Sport Club Recife
 Sun Sep 24 1995,Flamengo RJ,1-3,Botafogo RJ
 Sun Sep 24 1995,Paysandu SC,3-3,Corinthians SP
-Sun Sep 24 1995,Bragantino,2-0,Gremio Porto Alegre
+Sun Sep 24 1995,CA Bragantino,2-0,Gremio Porto Alegre
 Sun Sep 24 1995,Guarani FC,0-1,Juventude RS
 Sun Sep 24 1995,Parana Clube,1-2,Cruzeiro EC
 Sun Sep 24 1995,Criciuma EC,1-0,Vasco Da Gama
@@ -110,7 +110,7 @@ Sat Sep 30 1995,Corinthians SP,0-1,Juventude RS
 Sat Sep 30 1995,Criciuma EC,0-1,Sao Paulo FC
 Sun Oct 1 1995,Cruzeiro EC,5-3,Botafogo RJ
 Sun Oct 1 1995,Se Palmeiras,3-0,Gremio Porto Alegre
-Sun Oct 1 1995,EC Vitoria Ba,0-1,Bragantino
+Sun Oct 1 1995,EC Vitoria Ba,0-1,CA Bragantino
 Sun Oct 1 1995,Paysandu SC,2-2,Guarani FC
 Sun Oct 1 1995,Vasco Da Gama,2-3,Atletico Mineiro
 Sun Oct 1 1995,Fluminense RJ,1-0,Goias EC
@@ -125,7 +125,7 @@ Sat Oct 7 1995,Portuguesa,2-1,Criciuma EC
 Sun Oct 8 1995,Botafogo RJ,0-0,Parana Clube
 Sun Oct 8 1995,Flamengo RJ,0-2,Cruzeiro EC
 Sun Oct 8 1995,Juventude RS,1-1,Se Palmeiras
-Sun Oct 8 1995,Bragantino,2-0,Paysandu SC
+Sun Oct 8 1995,CA Bragantino,2-0,Paysandu SC
 Sun Oct 8 1995,Guarani FC,3-1,EC Vitoria Ba
 Sun Oct 8 1995,Atletico Mineiro,0-0,Fluminense RJ
 Sun Oct 8 1995,Sao Paulo FC,1-1,Internacional
@@ -136,7 +136,7 @@ Wed Oct 11 1995,Goias EC,2-1,Parana Clube
 Thu Oct 12 1995,Sao Paulo FC,0-2,Botafogo RJ
 Thu Oct 12 1995,Portuguesa,0-1,Corinthians SP
 Thu Oct 12 1995,Vasco Da Gama,0-1,Se Palmeiras
-Thu Oct 12 1995,Santos FC,4-4,Bragantino
+Thu Oct 12 1995,Santos FC,4-4,CA Bragantino
 Thu Oct 12 1995,Atletico Mineiro,2-0,Cruzeiro EC
 Thu Oct 12 1995,EC Bahia,1-0,Gremio Porto Alegre
 Thu Oct 12 1995,Sport Club Recife,3-1,Juventude RS
@@ -147,7 +147,7 @@ Sat Oct 14 1995,Parana Clube,1-1,Fluminense RJ
 Sun Oct 15 1995,Botafogo RJ,0-0,Internacional
 Sun Oct 15 1995,Flamengo RJ,1-0,Criciuma EC
 Sun Oct 15 1995,Corinthians SP,3-1,Atletico Mineiro
-Sun Oct 15 1995,Bragantino,3-0,Portuguesa
+Sun Oct 15 1995,CA Bragantino,3-0,Portuguesa
 Sun Oct 15 1995,Cruzeiro EC,2-3,Vasco Da Gama
 Sun Oct 15 1995,Gremio Porto Alegre,2-0,Uniao Sao Joao Esporte Clube
 Sun Oct 15 1995,Juventude RS,1-1,Santos FC
@@ -159,7 +159,7 @@ Sat Oct 21 1995,EC Bahia,2-2,Flamengo RJ
 Sat Oct 21 1995,Criciuma EC,1-1,Corinthians SP
 Sun Oct 22 1995,Sport Club Recife,1-2,Botafogo RJ
 Sun Oct 22 1995,Internacional,2-0,Se Palmeiras
-Sun Oct 22 1995,Atletico Mineiro,1-1,Bragantino
+Sun Oct 22 1995,Atletico Mineiro,1-1,CA Bragantino
 Sun Oct 22 1995,Goias EC,3-1,Guarani FC
 Sun Oct 22 1995,Santos FC,2-1,Cruzeiro EC
 Sun Oct 22 1995,Uniao Sao Joao Esporte Clube,2-1,Parana Clube
@@ -173,7 +173,7 @@ Sat Oct 28 1995,Botafogo RJ,2-0,Portuguesa
 Sat Oct 28 1995,Se Palmeiras,1-1,Fluminense RJ
 Sun Oct 29 1995,Flamengo RJ,1-1,Vasco Da Gama
 Sun Oct 29 1995,Corinthians SP,1-0,Sao Paulo FC
-Sun Oct 29 1995,Bragantino,0-0,Criciuma EC
+Sun Oct 29 1995,CA Bragantino,0-0,Criciuma EC
 Sun Oct 29 1995,Guarani FC,2-1,Internacional
 Sun Oct 29 1995,Cruzeiro EC,0-0,Goias EC
 Sun Oct 29 1995,Parana Clube,2-3,Atletico Mineiro
@@ -182,9 +182,9 @@ Sun Oct 29 1995,Juventude RS,3-0,EC Bahia
 Sun Oct 29 1995,EC Vitoria Ba,4-0,Santos FC
 Sun Oct 29 1995,Paysandu SC,2-2,Uniao Sao Joao Esporte Clube
 Tue Oct 31 1995,Internacional,0-1,Gremio Porto Alegre
-Wed Nov 1 1995,Vasco Da Gama,3-1,Bragantino
+Wed Nov 1 1995,Vasco Da Gama,3-1,CA Bragantino
 Thu Nov 2 1995,Corinthians SP,3-1,Vasco Da Gama
-Thu Nov 2 1995,Bragantino,3-1,Uniao Sao Joao Esporte Clube
+Thu Nov 2 1995,CA Bragantino,3-1,Uniao Sao Joao Esporte Clube
 Fri Nov 3 1995,Botafogo RJ,1-1,Fluminense RJ
 Fri Nov 3 1995,Flamengo RJ,2-2,Sao Paulo FC
 Fri Nov 3 1995,Se Palmeiras,1-2,Portuguesa
@@ -212,7 +212,7 @@ Wed Nov 8 1995,EC Vitoria Ba,0-0,Criciuma EC
 Thu Nov 9 1995,Se Palmeiras,3-0,EC Bahia
 Thu Nov 9 1995,Botafogo RJ,3-0,Uniao Sao Joao Esporte Clube
 Thu Nov 9 1995,Flamengo RJ,0-3,Santos FC
-Thu Nov 9 1995,Bragantino,1-0,Fluminense RJ
+Thu Nov 9 1995,CA Bragantino,1-0,Fluminense RJ
 Thu Nov 9 1995,Juventude RS,1-1,Atletico Mineiro
 Thu Nov 9 1995,Uniao Sao Joao Esporte Clube,2-2,Flamengo RJ
 Fri Nov 10 1995,Parana Clube,2-2,Portuguesa
@@ -222,7 +222,7 @@ Sat Nov 11 1995,Corinthians SP,2-1,Internacional
 Sun Nov 12 1995,Botafogo RJ,5-0,Atletico Mineiro
 Sun Nov 12 1995,Flamengo RJ,2-1,Goias EC
 Sun Nov 12 1995,Se Palmeiras,2-0,Criciuma EC
-Sun Nov 12 1995,Bragantino,3-0,EC Bahia
+Sun Nov 12 1995,CA Bragantino,3-0,EC Bahia
 Sun Nov 12 1995,Guarani FC,3-1,Sport Club Recife
 Sun Nov 12 1995,Cruzeiro EC,2-1,Uniao Sao Joao Esporte Clube
 Sun Nov 12 1995,Parana Clube,0-0,Santos FC
@@ -239,7 +239,7 @@ Sat Nov 18 1995,Gremio Porto Alegre,1-0,Criciuma EC
 Sun Nov 19 1995,Atletico Mineiro,2-1,Flamengo RJ
 Sun Nov 19 1995,Vasco Da Gama,1-3,Parana Clube
 Sun Nov 19 1995,EC Bahia,1-0,Guarani FC
-Sun Nov 19 1995,Sport Club Recife,2-0,Bragantino
+Sun Nov 19 1995,Sport Club Recife,2-0,CA Bragantino
 Sun Nov 19 1995,Fluminense RJ,0-2,Cruzeiro EC
 Sun Nov 19 1995,Portuguesa,2-1,Paysandu SC
 Sun Nov 19 1995,Santos FC,3-0,Corinthians SP
@@ -247,7 +247,7 @@ Tue Nov 21 1995,Flamengo RJ,2-1,Sport Club Recife
 Tue Nov 21 1995,Cruzeiro EC,4-1,Criciuma EC
 Wed Nov 22 1995,Se Palmeiras,0-1,Santos FC
 Wed Nov 22 1995,Botafogo RJ,2-0,EC Bahia
-Wed Nov 22 1995,Bragantino,2-1,Goias EC
+Wed Nov 22 1995,CA Bragantino,2-1,Goias EC
 Wed Nov 22 1995,Parana Clube,2-2,Internacional
 Wed Nov 22 1995,Juventude RS,3-1,Fluminense RJ
 Wed Nov 22 1995,EC Vitoria Ba,1-2,Portuguesa
@@ -259,7 +259,7 @@ Sat Nov 25 1995,Santos FC,2-1,Paysandu SC
 Sun Nov 26 1995,Vasco Da Gama,0-2,Botafogo RJ
 Sun Nov 26 1995,Fluminense RJ,1-1,Corinthians SP
 Sun Nov 26 1995,Sao Paulo FC,0-2,Se Palmeiras
-Sun Nov 26 1995,Internacional,2-2,Bragantino
+Sun Nov 26 1995,Internacional,2-2,CA Bragantino
 Sun Nov 26 1995,Criciuma EC,2-0,Guarani FC
 Sun Nov 26 1995,Sport Club Recife,1-0,Cruzeiro EC
 Sun Nov 26 1995,EC Bahia,0-2,Parana Clube
@@ -273,7 +273,7 @@ Wed Nov 29 1995,Portuguesa,0-0,Guarani FC
 Wed Nov 29 1995,Internacional,2-0,Cruzeiro EC
 Wed Nov 29 1995,Criciuma EC,0-0,Parana Clube
 Wed Nov 29 1995,Goias EC,2-0,EC Vitoria Ba
-Thu Nov 30 1995,Sao Paulo FC,2-0,Bragantino
+Thu Nov 30 1995,Sao Paulo FC,2-0,CA Bragantino
 Thu Nov 30 1995,Vasco Da Gama,1-2,Juventude RS
 Wed Dec 6 1995,Cruzeiro EC,1-1,Botafogo RJ
 Thu Dec 7 1995,Fluminense RJ,4-1,Santos FC

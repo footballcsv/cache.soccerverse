@@ -12,20 +12,20 @@ Sat Aug 25 1990,Portuguesa,0-0,EC Vitoria Ba
 Sun Aug 26 1990,Botafogo RJ,0-1,Sao Jose EC
 Sun Aug 26 1990,Goias EC,1-0,Clube Nautico
 Sun Aug 26 1990,Internacional,0-1,Gremio Porto Alegre
-Sun Aug 26 1990,Bragantino,1-1,Se Palmeiras
+Sun Aug 26 1990,CA Bragantino,1-1,Se Palmeiras
 Wed Aug 29 1990,EC Bahia,1-0,Flamengo RJ
 Wed Aug 29 1990,Santos FC,1-0,Sao Paulo FC
 Thu Aug 30 1990,Se Palmeiras,1-0,Internacional
 Sat Sep 1 1990,Cruzeiro EC,1-0,Portuguesa
 Sat Sep 1 1990,Flamengo RJ,2-2,Goias EC
 Sun Sep 2 1990,EC Vitoria Ba,0-0,Corinthians SP
-Sun Sep 2 1990,Sao Paulo FC,1-0,Bragantino
+Sun Sep 2 1990,Sao Paulo FC,1-0,CA Bragantino
 Sun Sep 2 1990,Fluminense RJ,1-1,Internacional
 Sun Sep 2 1990,Clube Nautico,0-0,EC Bahia
 Sun Sep 2 1990,Internacional,1-0,Botafogo RJ
 Sun Sep 2 1990,Se Palmeiras,0-0,Santos FC
 Sun Sep 2 1990,Gremio Porto Alegre,0-0,Atletico Mineiro
-Wed Sep 5 1990,Flamengo RJ,1-2,Bragantino
+Wed Sep 5 1990,Flamengo RJ,1-2,CA Bragantino
 Wed Sep 5 1990,Sao Jose EC,0-0,Vasco Da Gama
 Fri Sep 7 1990,Goias EC,2-2,Cruzeiro EC
 Sat Sep 8 1990,Botafogo RJ,1-1,Gremio Porto Alegre
@@ -34,20 +34,20 @@ Sun Sep 9 1990,Vasco Da Gama,0-0,Fluminense RJ
 Sun Sep 9 1990,Portuguesa,1-2,Sao Paulo FC
 Sun Sep 9 1990,Corinthians SP,2-1,Se Palmeiras
 Sun Sep 9 1990,Internacional,3-3,Flamengo RJ
-Sun Sep 9 1990,Bragantino,2-1,Internacional
+Sun Sep 9 1990,CA Bragantino,2-1,Internacional
 Sun Sep 9 1990,EC Bahia,0-1,EC Vitoria Ba
 Sat Sep 15 1990,Fluminense RJ,5-2,Santos FC
 Sun Sep 16 1990,Sao Jose EC,1-2,Corinthians SP
 Sun Sep 16 1990,Sao Paulo FC,0-1,Goias EC
 Sun Sep 16 1990,Flamengo RJ,1-0,Vasco Da Gama
-Sun Sep 16 1990,Gremio Porto Alegre,0-1,Bragantino
+Sun Sep 16 1990,Gremio Porto Alegre,0-1,CA Bragantino
 Sun Sep 16 1990,EC Vitoria Ba,1-1,Atletico Mineiro
 Sun Sep 16 1990,Clube Nautico,2-1,Botafogo RJ
 Sun Sep 16 1990,Cruzeiro EC,2-0,Internacional
 Sun Sep 16 1990,Internacional,1-1,Portuguesa
 Sun Sep 16 1990,Se Palmeiras,1-2,EC Bahia
 Wed Sep 19 1990,Portuguesa,2-2,Gremio Porto Alegre
-Wed Sep 19 1990,Bragantino,0-1,Clube Nautico
+Wed Sep 19 1990,CA Bragantino,0-1,Clube Nautico
 Wed Sep 19 1990,Corinthians SP,1-0,Fluminense RJ
 Wed Sep 19 1990,Botafogo RJ,0-0,EC Vitoria Ba
 Wed Sep 19 1990,Vasco Da Gama,1-1,Cruzeiro EC
@@ -64,19 +64,19 @@ Sun Sep 23 1990,Fluminense RJ,0-1,Botafogo RJ
 Sun Sep 23 1990,EC Vitoria Ba,1-1,Goias EC
 Sun Sep 23 1990,Gremio Porto Alegre,1-1,Vasco Da Gama
 Sun Sep 23 1990,Internacional,0-0,Santos FC
-Sun Sep 23 1990,Sao Jose EC,0-1,Bragantino
+Sun Sep 23 1990,Sao Jose EC,0-1,CA Bragantino
 Wed Sep 26 1990,EC Vitoria Ba,2-0,Vasco Da Gama
 Sat Sep 29 1990,EC Bahia,2-2,Sao Paulo FC
 Sun Sep 30 1990,Corinthians SP,1-0,Internacional
 Sun Sep 30 1990,Portuguesa,2-2,Sao Jose EC
 Sun Sep 30 1990,Botafogo RJ,1-0,Flamengo RJ
-Sun Sep 30 1990,Fluminense RJ,1-1,Bragantino
+Sun Sep 30 1990,Fluminense RJ,1-1,CA Bragantino
 Sun Sep 30 1990,Vasco Da Gama,1-1,Clube Nautico
 Sun Sep 30 1990,Goias EC,0-2,Se Palmeiras
 Sun Sep 30 1990,Internacional,0-0,EC Vitoria Ba
 Mon Oct 1 1990,Santos FC,0-0,Gremio Porto Alegre
 Thu Oct 4 1990,Flamengo RJ,1-2,Corinthians SP
-Thu Oct 4 1990,EC Vitoria Ba,1-0,Bragantino
+Thu Oct 4 1990,EC Vitoria Ba,1-0,CA Bragantino
 Thu Oct 4 1990,Gremio Porto Alegre,2-0,Goias EC
 Thu Oct 4 1990,Fluminense RJ,1-4,EC Bahia
 Thu Oct 4 1990,Clube Nautico,2-2,Portuguesa
@@ -90,9 +90,9 @@ Sun Oct 7 1990,Internacional,1-1,Sao Jose EC
 Sun Oct 7 1990,Vasco Da Gama,2-1,Se Palmeiras
 Sun Oct 7 1990,Botafogo RJ,1-0,Sao Paulo FC
 Sun Oct 7 1990,Santos FC,3-0,EC Vitoria Ba
-Sun Oct 7 1990,Bragantino,3-0,Cruzeiro EC
+Sun Oct 7 1990,CA Bragantino,3-0,Cruzeiro EC
 Sun Oct 7 1990,Goias EC,3-0,Fluminense RJ
-Wed Oct 10 1990,Bragantino,2-2,Corinthians SP
+Wed Oct 10 1990,CA Bragantino,2-2,Corinthians SP
 Wed Oct 10 1990,Goias EC,1-1,Vasco Da Gama
 Wed Oct 10 1990,Sao Paulo FC,1-0,Internacional
 Wed Oct 10 1990,Se Palmeiras,2-0,Sao Jose EC
@@ -105,7 +105,7 @@ Sat Oct 13 1990,EC Vitoria Ba,1-2,Se Palmeiras
 Sat Oct 13 1990,Clube Nautico,0-0,Flamengo RJ
 Sun Oct 14 1990,Corinthians SP,0-0,EC Bahia
 Sun Oct 14 1990,Santos FC,0-0,Atletico Mineiro
-Sun Oct 14 1990,Bragantino,1-1,Portuguesa
+Sun Oct 14 1990,CA Bragantino,1-1,Portuguesa
 Sun Oct 14 1990,Vasco Da Gama,3-0,Internacional
 Sun Oct 14 1990,Botafogo RJ,2-0,Goias EC
 Sun Oct 14 1990,Sao Jose EC,0-0,Sao Paulo FC
@@ -115,7 +115,7 @@ Wed Oct 17 1990,Internacional,1-2,Internacional
 Sat Oct 20 1990,Gremio Porto Alegre,5-0,Clube Nautico
 Sun Oct 21 1990,Santos FC,1-0,EC Bahia
 Sun Oct 21 1990,Corinthians SP,0-0,Portuguesa
-Sun Oct 21 1990,Bragantino,1-1,Atletico Mineiro
+Sun Oct 21 1990,CA Bragantino,1-1,Atletico Mineiro
 Sun Oct 21 1990,Internacional,2-0,Goias EC
 Sun Oct 21 1990,Sao Paulo FC,1-2,Se Palmeiras
 Sun Oct 21 1990,EC Vitoria Ba,3-0,Internacional
@@ -123,7 +123,7 @@ Sun Oct 21 1990,Cruzeiro EC,0-0,Sao Jose EC
 Sun Oct 21 1990,Flamengo RJ,2-1,Fluminense RJ
 Wed Oct 24 1990,Botafogo RJ,1-0,Corinthians SP
 Wed Oct 24 1990,Goias EC,1-0,Santos FC
-Wed Oct 24 1990,Internacional,0-0,Bragantino
+Wed Oct 24 1990,Internacional,0-0,CA Bragantino
 Wed Oct 24 1990,Se Palmeiras,1-1,Flamengo RJ
 Wed Oct 24 1990,Internacional,1-0,Clube Nautico
 Wed Oct 24 1990,Sao Paulo FC,4-0,EC Vitoria Ba
@@ -132,7 +132,7 @@ Thu Oct 25 1990,EC Bahia,0-0,Portuguesa
 Fri Oct 26 1990,Cruzeiro EC,1-1,Santos FC
 Sat Oct 27 1990,Internacional,1-1,Santos FC
 Sun Oct 28 1990,Corinthians SP,0-0,Vasco Da Gama
-Sun Oct 28 1990,EC Bahia,1-1,Bragantino
+Sun Oct 28 1990,EC Bahia,1-1,CA Bragantino
 Sun Oct 28 1990,Portuguesa,3-1,Botafogo RJ
 Sun Oct 28 1990,Fluminense RJ,0-1,Se Palmeiras
 Sun Oct 28 1990,Sao Jose EC,2-1,EC Vitoria Ba
@@ -145,13 +145,13 @@ Sat Nov 3 1990,Internacional,1-2,Botafogo RJ
 Sat Nov 3 1990,Se Palmeiras,1-0,Internacional
 Sat Nov 3 1990,EC Vitoria Ba,1-2,Fluminense RJ
 Sun Nov 4 1990,Corinthians SP,1-0,Santos FC
-Sun Nov 4 1990,Bragantino,0-0,Goias EC
+Sun Nov 4 1990,CA Bragantino,0-0,Goias EC
 Sun Nov 4 1990,Portuguesa,0-0,Atletico Mineiro
 Sun Nov 4 1990,Clube Nautico,0-0,Sao Jose EC
 Sun Nov 4 1990,Flamengo RJ,0-1,Gremio Porto Alegre
 Sun Nov 4 1990,Cruzeiro EC,1-2,Sao Paulo FC
 Tue Nov 6 1990,Botafogo RJ,2-2,Vasco Da Gama
-Sat Nov 10 1990,Santos FC,3-0,Bragantino
+Sat Nov 10 1990,Santos FC,3-0,CA Bragantino
 Sat Nov 10 1990,Sao Paulo FC,0-0,Fluminense RJ
 Sun Nov 11 1990,Goias EC,3-1,Corinthians SP
 Sun Nov 11 1990,Vasco Da Gama,2-1,Portuguesa
@@ -161,7 +161,7 @@ Sun Nov 11 1990,Se Palmeiras,1-1,Clube Nautico
 Sun Nov 11 1990,Sao Jose EC,1-0,Internacional
 Sun Nov 11 1990,Cruzeiro EC,1-2,Flamengo RJ
 Sun Nov 11 1990,Gremio Porto Alegre,1-0,EC Vitoria Ba
-Wed Nov 14 1990,Bragantino,1-0,Vasco Da Gama
+Wed Nov 14 1990,CA Bragantino,1-0,Vasco Da Gama
 Wed Nov 14 1990,Internacional,1-0,Portuguesa
 Wed Nov 14 1990,Goias EC,0-0,EC Bahia
 Wed Nov 14 1990,Se Palmeiras,3-2,Cruzeiro EC
@@ -172,7 +172,7 @@ Thu Nov 15 1990,Flamengo RJ,3-1,Internacional
 Thu Nov 15 1990,Sao Paulo FC,1-0,Gremio Porto Alegre
 Sun Nov 18 1990,Corinthians SP,0-3,Internacional
 Sun Nov 18 1990,Portuguesa,2-0,Goias EC
-Sun Nov 18 1990,Botafogo RJ,1-2,Bragantino
+Sun Nov 18 1990,Botafogo RJ,1-2,CA Bragantino
 Sun Nov 18 1990,Vasco Da Gama,2-2,Santos FC
 Sun Nov 18 1990,EC Bahia,2-0,Atletico Mineiro
 Sun Nov 18 1990,Gremio Porto Alegre,0-0,Se Palmeiras
@@ -183,10 +183,10 @@ Sun Nov 18 1990,Cruzeiro EC,2-1,EC Vitoria Ba
 Sat Nov 24 1990,Corinthians SP,2-1,Atletico Mineiro
 Sat Nov 24 1990,Santos FC,0-1,Sao Paulo FC
 Sat Nov 24 1990,Se Palmeiras,1-0,Gremio Porto Alegre
-Sat Nov 24 1990,Bragantino,1-1,EC Bahia
+Sat Nov 24 1990,CA Bragantino,1-1,EC Bahia
 Sat Dec 1 1990,Sao Paulo FC,1-1,Santos FC
 Sat Dec 1 1990,Gremio Porto Alegre,2-0,Se Palmeiras
-Sat Dec 1 1990,EC Bahia,3-2,Bragantino
+Sat Dec 1 1990,EC Bahia,3-2,CA Bragantino
 Wed Dec 5 1990,Sao Paulo FC,2-0,Gremio Porto Alegre
 Wed Dec 5 1990,Corinthians SP,2-1,EC Bahia
 Sat Dec 8 1990,Gremio Porto Alegre,1-0,Sao Paulo FC
