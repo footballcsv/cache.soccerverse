@@ -4,6 +4,25 @@
 
 
 
+**14 error(s):**
+- **Gye La Plata > Argentina**
+- **CD Godoy Cruz > Argentina**
+- **Gye Jujuy > Argentina**
+- **Deportivo Espanol > Argentina**
+- **CA San Martin > Argentina**
+- **Deportivo Mandiyu > Argentina**
+- **CA Temperley > Argentina**
+- **Gimnasia Y Tiro > Argentina**
+- **Sarmiento De Junin > Argentina**
+- **CA Tiro Federal Argentino > Argentina**
+- **Chaco For Ever > Argentina**
+- **Huracan De Corrientes > Argentina**
+- **Huracan De Tres Arroyos > Argentina**
+- **Los Andes > Argentina**
+
+
+
+
 ## Austria (at)
 
 31 club names:
@@ -552,23 +571,3 @@ xxx CA Bragantino (201)          => CA Bragantino (1928-2019) | Bragança Paulis
     Crucero Del Norte (30)       => Crucero del Norte         | Garupá,  Misiones
 ```
 
-
-
-14 errors:
-```
-["Gye La Plata > Argentina",
- "CD Godoy Cruz > Argentina",
- "Gye Jujuy > Argentina",
- "Deportivo Espanol > Argentina",
- "CA San Martin > Argentina",
- "Deportivo Mandiyu > Argentina",
- "CA Temperley > Argentina",
- "Gimnasia Y Tiro > Argentina",
- "Sarmiento De Junin > Argentina",
- "CA Tiro Federal Argentino > Argentina",
- "Chaco For Ever > Argentina",
- "Huracan De Corrientes > Argentina",
- "Huracan De Tres Arroyos > Argentina",
- "Los Andes > Argentina"]
-
-```
